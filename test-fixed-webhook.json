@@ -1,0 +1,7 @@
+{
+  "event_type": "product-added",
+  "client_payload": {
+    "site": "https://www.jgengineering.ie",
+    "urls": ["https://www.jgengineering.ie/products/"]
+  }
+}

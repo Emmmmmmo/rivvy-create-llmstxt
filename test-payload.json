@@ -1,0 +1,7 @@
+{
+  "event_type": "product-added",
+  "client_payload": {
+    "site": "https://www.test-example.com",
+    "urls": ["https://www.test-example.com/products/test-product.html"]
+  }
+}
