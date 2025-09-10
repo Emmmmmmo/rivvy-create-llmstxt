@@ -24,6 +24,27 @@ jobs:
         run: |
           pip install -r requirements.txt
           
+      - name: Validate webhook payload
+        if: github.event_name == 'repository_dispatch'
+        run: |
+          echo "Validating webhook payload..."
+          echo "Event type: ${{ github.event_name }}"
+          echo "Action: ${{ github.event.action }}"
+          echo "Client payload: ${{ toJson(github.event.client_payload) }}"
+          
+          # Check if required fields exist
+          if [ -z "${{ github.event.client_payload.site }}" ]; then
+            echo "Error: Missing 'site' field in webhook payload"
+            exit 1
+          fi
+          
+          if [ -z "${{ github.event.client_payload.urls }}" ]; then
+            echo "Error: Missing 'urls' field in webhook payload"
+            exit 1
+          fi
+          
+          echo "Webhook payload validation passed"
+
       - name: Update products
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
@@ -33,49 +54,139 @@ jobs:
           
           # Check if this is a repository_dispatch event
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
-            # Extract site info from webhook payload
+            # Extract and validate site info from webhook payload
             site_url="${{ github.event.client_payload.site }}"
-            domain=$(echo $site_url | sed 's|https\?://||' | sed 's|www\.||' | sed 's|/.*||')
-            output_dir="out/$domain"
+            urls_payload="${{ github.event.client_payload.urls }}"
             
+            # Validate required fields
+            if [ -z "$site_url" ]; then
+              echo "Error: Missing 'site' field in webhook payload"
+              exit 1
+            fi
+            
+            if [ -z "$urls_payload" ]; then
+              echo "Error: Missing 'urls' field in webhook payload"
+              exit 1
+            fi
+            
+            # Enhanced domain extraction with better error handling
             echo "Processing webhook for site: $site_url"
+            
+            # Extract domain with improved regex and validation
+            domain=$(echo "$site_url" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed -E 's|/.*$||' | sed -E 's|:.*$||')
+            
+            # Validate domain format with fallback
+            if [ -z "$domain" ] || [ "$domain" = "null" ]; then
+              echo "Warning: Could not extract valid domain from site URL: $site_url"
+              echo "Attempting fallback domain extraction..."
+              
+              # Fallback: try to extract any valid-looking domain
+              domain=$(echo "$site_url" | grep -oE '[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?(\.[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?)*' | head -1)
+              
+              if [ -z "$domain" ]; then
+                echo "Error: Could not extract any valid domain from site URL: $site_url"
+                echo "Please ensure the site URL is in a valid format (e.g., https://example.com)"
+                exit 1
+              else
+                echo "Fallback domain extraction successful: $domain"
+              fi
+            fi
+            
+            # Additional validation for common domain patterns
+            if ! echo "$domain" | grep -E '^[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?(\.[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?)*$' > /dev/null; then
+              echo "Warning: Domain format may be invalid: $domain"
+              echo "Proceeding with caution..."
+            fi
+            
+            output_dir="out/$domain"
             echo "Domain: $domain"
             echo "Output directory: $output_dir"
             
+            # Ensure output directory exists
+            mkdir -p "$output_dir"
+            
+            # Process the webhook based on action type
             case "${{ github.event.action }}" in
               "product-added")
-                python3 scripts/update_llms_sharded.py "$site_url" \
-                  --added '${{ github.event.client_payload.urls }}' \
-                  --output-dir "$output_dir"
+                echo "Processing product-added event for $domain"
+                if ! python3 scripts/update_llms_sharded.py "$site_url" \
+                  --added "$urls_payload" \
+                  --output-dir "$output_dir"; then
+                  echo "Error: Failed to process product-added event for $domain"
+                  exit 1
+                fi
                 ;;
               "product-updated")
-                python3 scripts/update_llms_sharded.py "$site_url" \
-                  --changed '${{ github.event.client_payload.urls }}' \
-                  --output-dir "$output_dir"
+                echo "Processing product-updated event for $domain"
+                if ! python3 scripts/update_llms_sharded.py "$site_url" \
+                  --changed "$urls_payload" \
+                  --output-dir "$output_dir"; then
+                  echo "Error: Failed to process product-updated event for $domain"
+                  exit 1
+                fi
                 ;;
               "product-removed")
-                python3 scripts/update_llms_sharded.py "$site_url" \
-                  --removed '${{ github.event.client_payload.urls }}' \
-                  --output-dir "$output_dir"
+                echo "Processing product-removed event for $domain"
+                if ! python3 scripts/update_llms_sharded.py "$site_url" \
+                  --removed "$urls_payload" \
+                  --output-dir "$output_dir"; then
+                  echo "Error: Failed to process product-removed event for $domain"
+                  exit 1
+                fi
+                ;;
+              *)
+                echo "Error: Unknown action type: ${{ github.event.action }}"
+                echo "Supported actions: product-added, product-updated, product-removed"
+                exit 1
                 ;;
             esac
+            
+            echo "Successfully processed webhook for $domain"
+            echo "Output directory: $output_dir"
+            echo "Files in output directory:"
+            ls -la "$output_dir" || echo "No files found in output directory"
           else
-            # For push events, process URLs from manifest files
+            # For push events, dynamically discover and process all existing sites
             echo "Processing URLs from manifest files..."
             
-            # Process jgengineering.ie URLs from manifest
-            if [ -f "out/jgengineering.ie/manifest.json" ]; then
-              echo "Processing jgengineering.ie URLs..."
-              urls=$(python3 -c "import json; data=json.load(open('out/jgengineering.ie/manifest.json')); print(json.dumps(data['collections']))")
-              python3 scripts/update_llms_sharded.py https://www.jgengineering.ie --added "$urls" --output-dir out/jgengineering.ie
-            fi
-            
-            # Process mydiy.ie URLs from manifest (if it exists)
-            if [ -f "out/mydiy.ie/manifest.json" ]; then
-              echo "Processing mydiy.ie URLs..."
-              urls=$(python3 -c "import json; data=json.load(open('out/mydiy.ie/manifest.json')); print(json.dumps(data['collections']))")
-              python3 scripts/update_llms_sharded.py https://www.mydiy.ie --added "$urls" --output-dir out/mydiy.ie
-            fi
+            # Find all directories in out/ that contain manifest.json files
+            for site_dir in out/*/; do
+              if [ -d "$site_dir" ] && [ -f "${site_dir}manifest.json" ]; then
+                # Extract domain from directory name
+                domain=$(basename "$site_dir")
+                manifest_file="${site_dir}manifest.json"
+                
+                echo "Processing $domain URLs from manifest..."
+                
+                # Extract URLs from manifest and process them
+                if python3 -c "import json; data=json.load(open('$manifest_file')); print(json.dumps(data.get('collections', [])))" > /tmp/urls_$domain.json 2>/dev/null; then
+                  urls=$(cat /tmp/urls_$domain.json)
+                  
+                  if [ "$urls" != "[]" ] && [ "$urls" != "null" ]; then
+                    # Determine the base URL for the site
+                    base_url="https://www.$domain"
+                    
+                    # Try to get the actual site URL from manifest if available
+                    if python3 -c "import json; data=json.load(open('$manifest_file')); print(data.get('base_url', ''))" > /tmp/base_url_$domain.txt 2>/dev/null; then
+                      manifest_base_url=$(cat /tmp/base_url_$domain.txt | tr -d '"')
+                      if [ -n "$manifest_base_url" ] && [ "$manifest_base_url" != "null" ]; then
+                        base_url="$manifest_base_url"
+                      fi
+                    fi
+                    
+                    echo "Using base URL: $base_url for domain: $domain"
+                    python3 scripts/update_llms_sharded.py "$base_url" --added "$urls" --output-dir "$site_dir"
+                    
+                    # Clean up temp files
+                    rm -f /tmp/urls_$domain.json /tmp/base_url_$domain.txt
+                  else
+                    echo "No URLs found in manifest for $domain"
+                  fi
+                else
+                  echo "Error: Failed to read manifest file for $domain"
+                fi
+              fi
+            done
           fi
           
       - name: Check for changes
