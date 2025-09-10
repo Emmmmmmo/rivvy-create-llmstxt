@@ -48,13 +48,21 @@ jobs:
                 ;;
             esac
           else
-            # For push events, run the sharded update script for all sites
-            echo "Running sharded update for all sites..."
-            # Process jgengineering.ie with full crawl
-            python3 scripts/update_llms_sharded.py https://www.jgengineering.ie --full
-            # Process mydiy.ie with full crawl (if it exists)
-            if [ -d "out/mydiy.ie" ]; then
-              python3 scripts/update_llms_sharded.py https://www.mydiy.ie --full
+            # For push events, process URLs from manifest files
+            echo "Processing URLs from manifest files..."
+            
+            # Process jgengineering.ie URLs from manifest
+            if [ -f "out/jgengineering.ie/manifest.json" ]; then
+              echo "Processing jgengineering.ie URLs..."
+              urls=$(python3 -c "import json; data=json.load(open('out/jgengineering.ie/manifest.json')); print(json.dumps(data['collections']))")
+              python3 scripts/update_llms_sharded.py https://www.jgengineering.ie --added "$urls"
+            fi
+            
+            # Process mydiy.ie URLs from manifest (if it exists)
+            if [ -f "out/mydiy.ie/manifest.json" ]; then
+              echo "Processing mydiy.ie URLs..."
+              urls=$(python3 -c "import json; data=json.load(open('out/mydiy.ie/manifest.json')); print(json.dumps(data['collections']))")
+              python3 scripts/update_llms_sharded.py https://www.mydiy.ie --added "$urls"
             fi
           fi
           
