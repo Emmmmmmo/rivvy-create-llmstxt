@@ -1,0 +1,546 @@
+#!/usr/bin/env python3
+"""
+Update LLMs.txt files with sharding support using Firecrawl v2 API.
+
+This script supports:
+- Full crawl (--full) to scrape everything
+- Incremental updates (--added, --changed, --removed) for specific URLs
+- Sharding by product category (first path segment)
+- Per-URL metadata storage in llms-index.json
+- Manifest tracking of shard -> URL mappings
+"""
+
+import os
+import sys
+import json
+import time
+import argparse
+import logging
+import re
+from typing import Dict, List, Optional, Set, Any
+from urllib.parse import urlparse, urljoin, urlunparse
+import requests
+from datetime import datetime
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+
+class ShardedLLMsUpdater:
+    """Update LLMs.txt files with sharding support using Firecrawl v2 API."""
+    
+    def __init__(self, firecrawl_api_key: str, base_url: str, base_root: Optional[str] = None, output_dir: str = "out"):
+        """Initialize the updater with API key and base URL."""
+        self.firecrawl_api_key = firecrawl_api_key
+        self.base_url = base_url.rstrip('/')
+        self.base_root = base_root
+        self.firecrawl_base_url = "https://api.firecrawl.dev/v2"
+        self.headers = {
+            "Authorization": f"Bearer {self.firecrawl_api_key}",
+            "Content-Type": "application/json"
+        }
+        
+        # Ensure output directory exists
+        self.output_dir = output_dir
+        os.makedirs(self.output_dir, exist_ok=True)
+        
+        # File paths
+        self.index_file = os.path.join(self.output_dir, "llms-index.json")
+        self.manifest_file = os.path.join(self.output_dir, "manifest.json")
+        
+        # Load existing data
+        self.url_index = self._load_url_index()
+        self.manifest = self._load_manifest()
+    
+    def _load_url_index(self) -> Dict[str, Dict[str, Any]]:
+        """Load existing URL index from file."""
+        if os.path.exists(self.index_file):
+            try:
+                with open(self.index_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except Exception as e:
+                logger.warning(f"Failed to load URL index: {e}")
+        return {}
+    
+    def _load_manifest(self) -> Dict[str, List[str]]:
+        """Load existing manifest from file."""
+        if os.path.exists(self.manifest_file):
+            try:
+                with open(self.manifest_file, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except Exception as e:
+                logger.warning(f"Failed to load manifest: {e}")
+        return {}
+    
+    def _save_url_index(self):
+        """Save URL index to file."""
+        with open(self.index_file, 'w', encoding='utf-8') as f:
+            json.dump(self.url_index, f, indent=2, ensure_ascii=False)
+    
+    def _save_manifest(self):
+        """Save manifest to file with stable ordering."""
+        # Sort URLs within each shard and sort shard keys
+        for k in list(self.manifest.keys()):
+            self.manifest[k] = sorted(set(self.manifest[k]))
+        self.manifest = dict(sorted(self.manifest.items()))
+        
+        with open(self.manifest_file, 'w', encoding='utf-8') as f:
+            json.dump(self.manifest, f, indent=2, ensure_ascii=False)
+    
+    def _sanitize_shard(self, s: str) -> str:
+        """Sanitize shard key for filesystem-safe filenames."""
+        s = s.lower().strip().replace(" ", "-")
+        s = re.sub(r"[^a-z0-9\-_\\.]", "-", s)
+        s = re.sub(r"-{2,}", "-", s).strip("-")
+        return s or "misc"
+    
+    def _normalize_url(self, url: str) -> str:
+        """Normalize URL by removing query parameters and fragments."""
+        p = urlparse(url)
+        return urlunparse((p.scheme, p.netloc, p.path, "", "", ""))
+    
+    def _extract_product_urls(self, markdown_content: str, base_url: str) -> List[str]:
+        """Extract product URLs from category page markdown content."""
+        import re
+        
+        # Look for product URLs in the markdown content
+        # Pattern matches URLs like /products/product-name.html
+        product_pattern = r'https://[^/]+/products/[^/\s\)]+\.html'
+        urls = re.findall(product_pattern, markdown_content)
+        
+        # Also look for relative URLs and convert them to absolute
+        relative_pattern = r'/products/[^/\s\)]+\.html'
+        relative_urls = re.findall(relative_pattern, markdown_content)
+        
+        # Convert relative URLs to absolute
+        for rel_url in relative_urls:
+            absolute_url = urljoin(base_url, rel_url)
+            urls.append(absolute_url)
+        
+        # Remove duplicates and normalize
+        unique_urls = list(set(urls))
+        normalized_urls = [self._normalize_url(url) for url in unique_urls]
+        
+        logger.info(f"Extracted {len(normalized_urls)} product URLs from category page")
+        return normalized_urls
+    
+    def _get_shard_key(self, url: str) -> str:
+        """Extract shard key from URL (first path segment after domain/base_root)."""
+        parsed = urlparse(url)
+        path = parsed.path.strip('/')
+        
+        if self.base_root:
+            # Remove base_root from path if it exists
+            if path.startswith(self.base_root.strip('/')):
+                path = path[len(self.base_root.strip('/')):].strip('/')
+        
+        # Get first path segment
+        if path:
+            segments = path.split('/')
+            key = segments[0] if segments[0] else 'root'
+        else:
+            key = 'root'
+        
+        return self._sanitize_shard(key)
+    
+    def _map_website(self, limit: int = 10000) -> List[str]:
+        """Map a website to get all URLs using Firecrawl v2 API."""
+        logger.info(f"Mapping website: {self.base_url} (limit: {limit})")
+        
+        try:
+            response = requests.post(
+                f"{self.firecrawl_base_url}/map",
+                headers=self.headers,
+                json={
+                    "url": self.base_url,
+                    "limit": limit
+                }
+            )
+            response.raise_for_status()
+            
+            data = response.json()
+            # Handle both array format and object format
+            if isinstance(data, list):
+                urls = [item.get("url", "") for item in data if item.get("url")]
+            else:
+                urls = data.get("links", []) or data.get("data", [])
+                if isinstance(urls, list) and urls and isinstance(urls[0], dict):
+                    urls = [item.get("url", "") for item in urls if item.get("url")]
+            
+            if urls:
+                logger.info(f"Found {len(urls)} URLs")
+                return urls
+            else:
+                logger.error(f"Failed to map website: {data}")
+                return []
+                
+        except Exception as e:
+            logger.error(f"Error mapping website: {e}")
+            return []
+    
+    def _scrape_url(self, url: str) -> Optional[Dict[str, Any]]:
+        """Scrape a single URL using Firecrawl v2 API with retry logic."""
+        logger.debug(f"Scraping URL: {url}")
+        
+        for i in range(3):
+            try:
+                response = requests.post(
+                    f"{self.firecrawl_base_url}/scrape",
+                    headers=self.headers,
+                    json={
+                        "url": url,
+                        "formats": ["markdown"],
+                        "onlyMainContent": os.getenv("ONLY_MAIN_CONTENT", "true").lower() == "true",
+                        "timeout": 30000
+                    }
+                )
+                response.raise_for_status()
+                
+                data = response.json()
+                # Handle both v2 response formats
+                md = data.get("markdown") or data.get("content") or data.get("data", {}).get("markdown", "")
+                meta = data.get("metadata") or data.get("data", {}).get("metadata", {}) or {}
+                title = meta.get("title") or ""
+                
+                if md:
+                    return {
+                        "url": url,
+                        "markdown": md,
+                        "metadata": meta,
+                        "title": title,
+                        "updated_at": datetime.now().isoformat()
+                    }
+                else:
+                    logger.error(f"Failed to scrape {url}: {data}")
+                    return None
+                    
+            except Exception as e:
+                if i < 2:  # Don't log warning on final attempt
+                    logger.warning(f"Retry {i+1}/3 for {url}: {e}")
+                    time.sleep(2*(i+1))
+                else:
+                    logger.error(f"Error scraping {url} after 3 attempts: {e}")
+                    return None
+    
+    def _update_url_data(self, url: str, scraped_data: Dict[str, Any]) -> str:
+        """Update URL data in index and return shard key."""
+        # Normalize URL to prevent duplicates
+        normalized_url = self._normalize_url(url)
+        shard_key = self._get_shard_key(normalized_url)
+        
+        # Update URL index
+        self.url_index[normalized_url] = {
+            "title": scraped_data.get("title", ""),
+            "markdown": scraped_data["markdown"],
+            "shard": shard_key,
+            "updated_at": scraped_data["updated_at"]
+        }
+        
+        # Update manifest
+        if shard_key not in self.manifest:
+            self.manifest[shard_key] = []
+        
+        if normalized_url not in self.manifest[shard_key]:
+            self.manifest[shard_key].append(normalized_url)
+        
+        return shard_key
+    
+    def _remove_url_data(self, url: str):
+        """Remove URL data from index and manifest."""
+        normalized_url = self._normalize_url(url)
+        if normalized_url in self.url_index:
+            shard_key = self.url_index[normalized_url]["shard"]
+            del self.url_index[normalized_url]
+            
+            # Remove from manifest
+            if shard_key in self.manifest and normalized_url in self.manifest[shard_key]:
+                self.manifest[shard_key].remove(normalized_url)
+                if not self.manifest[shard_key]:  # Remove empty shard
+                    del self.manifest[shard_key]
+    
+    def _write_shard_file(self, shard_key: str, urls: List[str]) -> str:
+        """Write LLMs file for a specific shard."""
+        filename = f"llms-full.{shard_key}.txt"
+        filepath = os.path.join(self.output_dir, filename)
+        
+        # Remove empty shard files
+        if not urls:
+            if os.path.exists(filepath):
+                os.remove(filepath)
+                logger.info(f"Removed empty shard file: {filepath}")
+            return filepath
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
+            for url in sorted(urls):  # Deterministic ordering
+                if url in self.url_index:
+                    data = self.url_index[url]
+                    f.write(f"<|{url}-lllmstxt|>\n")  # Include actual URL in block tag
+                    f.write(f"## {data['title']}\n")
+                    f.write(f"{data['markdown']}\n\n")
+        
+        logger.info(f"Written shard file: {filepath}")
+        return filepath
+    
+    def full_crawl(self, limit: int = 10000) -> Dict[str, Any]:
+        """Perform a full crawl of the website."""
+        logger.info("Starting full crawl")
+        
+        # Map all URLs
+        urls = self._map_website(limit)
+        if not urls:
+            raise ValueError("No URLs found for the website")
+        
+        # Filter to product paths (optional)
+        urls = [u for u in urls if urlparse(u).path.strip("/")]
+        
+        # Process each URL
+        touched_shards = set()
+        processed_count = 0
+        
+        for i, url in enumerate(urls):
+            logger.info(f"Processing {i+1}/{len(urls)}: {url}")
+            
+            scraped_data = self._scrape_url(url)
+            if scraped_data:
+                shard_key = self._update_url_data(url, scraped_data)
+                touched_shards.add(shard_key)
+                processed_count += 1
+            
+            # Small delay to avoid rate limiting
+            time.sleep(0.1)
+        
+        # Write shard files for all touched shards
+        written_files = []
+        for shard_key in touched_shards:
+            if shard_key in self.manifest:
+                filepath = self._write_shard_file(shard_key, self.manifest[shard_key])
+                written_files.append(filepath)
+        
+        # Save index and manifest
+        self._save_url_index()
+        self._save_manifest()
+        
+        return {
+            "operation": "full_crawl",
+            "processed_urls": processed_count,
+            "total_urls": len(urls),
+            "touched_shards": list(touched_shards),
+            "written_files": written_files
+        }
+    
+    def auto_discover_products(self, category_url: str, max_products: int = 50) -> Dict[str, Any]:
+        """Automatically discover and scrape all product pages from a category page."""
+        logger.info(f"Auto-discovering products from category: {category_url}")
+        
+        # First, scrape the category page to get product listings
+        category_data = self._scrape_url(category_url)
+        if not category_data:
+            raise ValueError(f"Failed to scrape category page: {category_url}")
+        
+        # Extract product URLs from the category page content
+        product_urls = self._extract_product_urls(category_data["markdown"], category_url)
+        
+        if not product_urls:
+            logger.warning(f"No product URLs found in category page: {category_url}")
+            return {
+                "operation": "auto_discover_products",
+                "category_url": category_url,
+                "discovered_products": 0,
+                "processed_products": 0,
+                "touched_shards": [],
+                "written_files": []
+            }
+        
+        # Limit the number of products to process
+        if len(product_urls) > max_products:
+            logger.info(f"Limiting to first {max_products} products out of {len(product_urls)} discovered")
+            product_urls = product_urls[:max_products]
+        
+        # Process each product URL
+        touched_shards = set()
+        processed_count = 0
+        written_files = []
+        
+        for i, product_url in enumerate(product_urls):
+            logger.info(f"Processing product {i+1}/{len(product_urls)}: {product_url}")
+            
+            product_data = self._scrape_url(product_url)
+            if product_data:
+                shard_key = self._update_url_data(product_url, product_data)
+                touched_shards.add(shard_key)
+                processed_count += 1
+            
+            # Small delay to avoid rate limiting
+            time.sleep(0.1)
+        
+        # Write shard files for all touched shards
+        for shard_key in touched_shards:
+            if shard_key in self.manifest:
+                filepath = self._write_shard_file(shard_key, self.manifest[shard_key])
+                written_files.append(filepath)
+        
+        # Save index and manifest
+        self._save_url_index()
+        self._save_manifest()
+        
+        return {
+            "operation": "auto_discover_products",
+            "category_url": category_url,
+            "discovered_products": len(product_urls),
+            "processed_products": processed_count,
+            "touched_shards": list(touched_shards),
+            "written_files": written_files
+        }
+    
+    def incremental_update(self, urls: List[str], operation: str) -> Dict[str, Any]:
+        """Perform incremental update for specific URLs."""
+        logger.info(f"Starting incremental update: {operation} for {len(urls)} URLs")
+        
+        touched_shards = set()
+        processed_count = 0
+        written_files = []
+        
+        if operation in ["added", "changed"]:
+            # Process URLs to add/update
+            for url in urls:
+                logger.info(f"Processing {operation}: {url}")
+                
+                scraped_data = self._scrape_url(url)
+                if scraped_data:
+                    shard_key = self._update_url_data(url, scraped_data)
+                    touched_shards.add(shard_key)
+                    processed_count += 1
+                
+                time.sleep(0.1)
+        
+        elif operation == "removed":
+            # Remove URLs
+            for url in urls:
+                logger.info(f"Removing: {url}")
+                normalized_url = self._normalize_url(url)
+                if normalized_url in self.url_index:
+                    shard_key = self.url_index[normalized_url]["shard"]
+                    touched_shards.add(shard_key)
+                self._remove_url_data(url)
+                processed_count += 1
+        
+        # Write shard files for all touched shards
+        for shard_key in touched_shards:
+            if shard_key in self.manifest:
+                filepath = self._write_shard_file(shard_key, self.manifest[shard_key])
+                written_files.append(filepath)
+        
+        # Save index and manifest
+        self._save_url_index()
+        self._save_manifest()
+        
+        return {
+            "operation": f"incremental_{operation}",
+            "processed_urls": processed_count,
+            "total_urls": len(urls),
+            "touched_shards": list(touched_shards),
+            "written_files": written_files
+        }
+
+
+def main():
+    """Main function to run the script."""
+    parser = argparse.ArgumentParser(
+        description="Update LLMs.txt files with sharding support using Firecrawl v2 API"
+    )
+    parser.add_argument("base_url", help="The base URL to process")
+    
+    # Operation modes (mutually exclusive)
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--full", action="store_true", help="Perform full crawl")
+    group.add_argument("--auto-discover", type=str, help="Auto-discover and scrape all products from a category page URL")
+    group.add_argument("--added", type=str, help="JSON array of URLs to add")
+    group.add_argument("--changed", type=str, help="JSON array of URLs to update")
+    group.add_argument("--removed", type=str, help="JSON array of URLs to remove")
+    
+    # Optional arguments
+    parser.add_argument(
+        "--base-root",
+        help="Base root path to use for shard key extraction (env: BASE_ROOT)"
+    )
+    parser.add_argument(
+        "--firecrawl-api-key",
+        default=os.getenv("FIRECRAWL_API_KEY"),
+        help="Firecrawl API key (default: from FIRECRAWL_API_KEY env var)"
+    )
+    parser.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Enable verbose logging"
+    )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=10000,
+        help="Maximum number of URLs to process (default: 10000)"
+    )
+    parser.add_argument(
+        "--max-products",
+        type=int,
+        default=50,
+        help="Maximum number of products to auto-discover and scrape (default: 50)"
+    )
+    parser.add_argument(
+        "--output-dir",
+        default="out",
+        help="Output directory for generated files (default: out)"
+    )
+    
+    args = parser.parse_args()
+    
+    # Set logging level
+    if args.verbose:
+        logger.setLevel(logging.DEBUG)
+    
+    # Validate API key
+    if not args.firecrawl_api_key:
+        logger.error("Firecrawl API key not provided. Set FIRECRAWL_API_KEY environment variable or use --firecrawl-api-key")
+        sys.exit(1)
+    
+    # Get base_root from environment if not provided
+    base_root = args.base_root or os.getenv("BASE_ROOT")
+    
+    # Create updater
+    updater = ShardedLLMsUpdater(
+        args.firecrawl_api_key,
+        args.base_url,
+        base_root,
+        args.output_dir
+    )
+    
+    try:
+        result = None
+        
+        if args.full:
+            result = updater.full_crawl(args.limit)
+        elif args.auto_discover:
+            result = updater.auto_discover_products(args.auto_discover, args.max_products)
+        elif args.added:
+            urls = json.loads(args.added)
+            result = updater.incremental_update(urls, "added")
+        elif args.changed:
+            urls = json.loads(args.changed)
+            result = updater.incremental_update(urls, "changed")
+        elif args.removed:
+            urls = json.loads(args.removed)
+            result = updater.incremental_update(urls, "removed")
+        
+        # Print JSON summary for CI
+        print(json.dumps(result, indent=2))
+        
+    except Exception as e:
+        logger.error(f"Failed to update LLMs files: {e}")
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

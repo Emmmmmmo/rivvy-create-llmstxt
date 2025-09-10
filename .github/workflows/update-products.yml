@@ -23,38 +23,53 @@ jobs:
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: |
+          # Extract site domain for folder structure
+          SITE_URL="${{ github.event.client_payload.site }}"
+          SITE_FOLDER=$(echo "$SITE_URL" | sed 's|https://||' | sed 's|www.||' | sed 's|/.*||')
+          OUTPUT_DIR="out/$SITE_FOLDER"
+          
+          echo "Site: $SITE_URL"
+          echo "Site folder: $SITE_FOLDER"
+          echo "Output directory: $OUTPUT_DIR"
+          
           case "${{ github.event.client_payload.action }}" in
             "product-added")
               echo "Adding new products..."
-              python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
-                --added '${{ github.event.client_payload.urls }}'
+              python3 scripts/update_llms_sharded.py "$SITE_URL" \
+                --added '${{ github.event.client_payload.urls }}' \
+                --output-dir "$OUTPUT_DIR"
               ;;
             "product-updated")
               echo "Updating existing products..."
-              python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
-                --changed '${{ github.event.client_payload.urls }}'
+              python3 scripts/update_llms_sharded.py "$SITE_URL" \
+                --changed '${{ github.event.client_payload.urls }}' \
+                --output-dir "$OUTPUT_DIR"
               ;;
             "product-removed")
               echo "Removing discontinued products..."
-              python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
-                --removed '${{ github.event.client_payload.urls }}'
+              python3 scripts/update_llms_sharded.py "$SITE_URL" \
+                --removed '${{ github.event.client_payload.urls }}' \
+                --output-dir "$OUTPUT_DIR"
               ;;
             "category-updated")
               echo "Updating entire category..."
-              python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
+              python3 scripts/update_llms_sharded.py "$SITE_URL" \
                 --auto-discover '${{ github.event.client_payload.category_url }}' \
-                --max-products 1000
+                --max-products 1000 \
+                --output-dir "$OUTPUT_DIR"
               ;;
           esac
           
       - name: Deploy to ElevenLabs
         run: |
-          rsync -av --update out/llms-full.*.txt ${{ secrets.ELEVENLABS_SERVER }}:/data/
+          SITE_FOLDER=$(echo "${{ github.event.client_payload.site }}" | sed 's|https://||' | sed 's|www.||' | sed 's|/.*||')
+          rsync -av --update "out/$SITE_FOLDER/llms-full.*.txt" ${{ secrets.ELEVENLABS_SERVER }}:/data/
           
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add out/
-          git commit -m "Update product data: ${{ github.event.client_payload.action }}" || exit 0
+          SITE_FOLDER=$(echo "${{ github.event.client_payload.site }}" | sed 's|https://||' | sed 's|www.||' | sed 's|/.*||')
+          git add "out/$SITE_FOLDER/"
+          git commit -m "Update $SITE_FOLDER data: ${{ github.event.client_payload.action }}" || exit 0
           git push
