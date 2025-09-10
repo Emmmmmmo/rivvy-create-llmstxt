@@ -1,0 +1,60 @@
+name: Smart Product Updates
+on:
+  repository_dispatch:
+    types: [product-updated, product-added, product-removed, category-updated]
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Smart Update
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: |
+          case "${{ github.event.client_payload.action }}" in
+            "product-added")
+              echo "Adding new products..."
+              python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
+                --added '${{ github.event.client_payload.urls }}'
+              ;;
+            "product-updated")
+              echo "Updating existing products..."
+              python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
+                --changed '${{ github.event.client_payload.urls }}'
+              ;;
+            "product-removed")
+              echo "Removing discontinued products..."
+              python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
+                --removed '${{ github.event.client_payload.urls }}'
+              ;;
+            "category-updated")
+              echo "Updating entire category..."
+              python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
+                --auto-discover '${{ github.event.client_payload.category_url }}' \
+                --max-products 1000
+              ;;
+          esac
+          
+      - name: Deploy to ElevenLabs
+        run: |
+          rsync -av --update out/llms-full.*.txt ${{ secrets.ELEVENLABS_SERVER }}:/data/
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add out/
+          git commit -m "Update product data: ${{ github.event.client_payload.action }}" || exit 0
+          git push
