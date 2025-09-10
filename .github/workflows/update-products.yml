@@ -48,9 +48,14 @@ jobs:
                 ;;
             esac
           else
-            # For push events, run the full update script
+            # For push events, run the full update script for all sites
             echo "Running full update for all sites..."
-            python3 generate-llmstxt.py
+            # Process jgengineering.ie
+            python3 generate-llmstxt.py https://www.jgengineering.ie --output-dir out/jgengineering.ie
+            # Process mydiy.ie (if it exists)
+            if [ -d "out/mydiy.ie" ]; then
+              python3 generate-llmstxt.py https://www.mydiy.ie --output-dir out/mydiy.ie
+            fi
           fi
           
       - name: Check for changes
