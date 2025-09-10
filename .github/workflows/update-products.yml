@@ -33,18 +33,30 @@ jobs:
           
           # Check if this is a repository_dispatch event
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            # Extract site info from webhook payload
+            site_url="${{ github.event.client_payload.site }}"
+            domain=$(echo $site_url | sed 's|https\?://||' | sed 's|www\.||' | sed 's|/.*||')
+            output_dir="out/$domain"
+            
+            echo "Processing webhook for site: $site_url"
+            echo "Domain: $domain"
+            echo "Output directory: $output_dir"
+            
             case "${{ github.event.action }}" in
               "product-added")
-                python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
-                  --added '${{ github.event.client_payload.urls }}'
+                python3 scripts/update_llms_sharded.py "$site_url" \
+                  --added '${{ github.event.client_payload.urls }}' \
+                  --output-dir "$output_dir"
                 ;;
               "product-updated")
-                python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
-                  --changed '${{ github.event.client_payload.urls }}'
+                python3 scripts/update_llms_sharded.py "$site_url" \
+                  --changed '${{ github.event.client_payload.urls }}' \
+                  --output-dir "$output_dir"
                 ;;
               "product-removed")
-                python3 scripts/update_llms_sharded.py https://www.mydiy.ie \
-                  --removed '${{ github.event.client_payload.urls }}'
+                python3 scripts/update_llms_sharded.py "$site_url" \
+                  --removed '${{ github.event.client_payload.urls }}' \
+                  --output-dir "$output_dir"
                 ;;
             esac
           else
