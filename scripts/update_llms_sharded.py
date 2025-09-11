@@ -129,7 +129,7 @@ class ShardedLLMsUpdater:
         return normalized_urls
     
     def _get_shard_key(self, url: str) -> str:
-        """Extract shard key from URL (first path segment after domain/base_root)."""
+        """Extract improved shard key from URL for better categorization."""
         parsed = urlparse(url)
         path = parsed.path.strip('/')
         
@@ -138,14 +138,79 @@ class ShardedLLMsUpdater:
             if path.startswith(self.base_root.strip('/')):
                 path = path[len(self.base_root.strip('/')):].strip('/')
         
-        # Get first path segment
-        if path:
-            segments = path.split('/')
-            key = segments[0] if segments[0] else 'root'
-        else:
-            key = 'root'
+        if not path:
+            return 'root'
         
-        return self._sanitize_shard(key)
+        segments = path.split('/')
+        
+        # For e-commerce sites, use the second segment for products/collections
+        if len(segments) >= 2 and segments[0] in ['products', 'collections', 'shop', 'catalog', 'items']:
+            # Use second segment for better categorization
+            category = segments[1]
+            
+            # For products within collections, use the collection name
+            if segments[0] == 'collections' and len(segments) >= 4 and segments[2] == 'products':
+                category = segments[1]  # Use collection name
+            elif segments[0] in ['products', 'shop', 'catalog', 'items']:
+                # For direct products, try to extract category from product name
+                product_name = segments[1]
+                # Use generic categorization based on common patterns
+                return self._categorize_product(product_name)
+            
+            return self._sanitize_shard(category)
+        
+        # For other paths, use first segment
+        return self._sanitize_shard(segments[0])
+    
+    def _categorize_product(self, product_name: str) -> str:
+        """Categorize product based on name patterns."""
+        name_lower = product_name.lower()
+        
+        # Common product categorization patterns
+        if any(word in name_lower for word in ['kit', 'set', 'combo']):
+            return 'kits_sets'
+        elif any(word in name_lower for word in ['insert', 'thread', 'repair']):
+            return 'thread_repair'
+        elif any(word in name_lower for word in ['tap', 'die', 'threading']):
+            return 'taps_dies'
+        elif any(word in name_lower for word in ['drill', 'bit', 'hole']):
+            return 'drill_bits'
+        elif any(word in name_lower for word in ['clip', 'ring', 'retainer']):
+            return 'clips_rings'
+        elif any(word in name_lower for word in ['tool', 'wrench', 'driver']):
+            return 'tools'
+        elif any(word in name_lower for word in ['screw', 'bolt', 'fastener']):
+            return 'fasteners'
+        elif any(word in name_lower for word in ['bearing', 'bushing', 'spacer']):
+            return 'bearings_bushings'
+        elif any(word in name_lower for word in ['seal', 'gasket', 'o-ring']):
+            return 'seals_gaskets'
+        else:
+            return 'other_products'
+    
+    def _filter_product_urls(self, urls: List[str]) -> List[str]:
+        """Filter URLs to keep only product-related ones."""
+        filtered = []
+        excluded_patterns = [
+            'sitemap', 'robots.txt', 'blog', 'news', 'about', 'contact', 
+            'privacy', 'terms', 'help', 'faq', 'search', 'cart', 'checkout',
+            'account', 'login', 'register', 'admin', 'api', 'feed', 'rss'
+        ]
+        
+        for url in urls:
+            url_lower = url.lower()
+            # Skip if URL contains excluded patterns
+            if any(pattern in url_lower for pattern in excluded_patterns):
+                continue
+            
+            # Keep product-related URLs
+            if any(pattern in url_lower for pattern in ['product', 'collection', 'shop', 'catalog', 'item']):
+                filtered.append(url)
+            # Keep main pages and category pages
+            elif url.count('/') <= 3:  # Keep shallow URLs (likely categories)
+                filtered.append(url)
+        
+        return filtered
     
     def _map_website(self, limit: int = 10000) -> List[str]:
         """Map a website to get all URLs using Firecrawl v2 API."""
@@ -172,8 +237,10 @@ class ShardedLLMsUpdater:
                     urls = [item.get("url", "") for item in urls if item.get("url")]
             
             if urls:
-                logger.info(f"Found {len(urls)} URLs")
-                return urls
+                # Filter out non-product URLs
+                filtered_urls = self._filter_product_urls(urls)
+                logger.info(f"Found {len(urls)} URLs, filtered to {len(filtered_urls)} product URLs")
+                return filtered_urls
             else:
                 logger.error(f"Failed to map website: {data}")
                 return []
