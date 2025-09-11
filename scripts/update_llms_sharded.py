@@ -44,13 +44,18 @@ class ShardedLLMsUpdater:
             "Content-Type": "application/json"
         }
         
+        # Extract site name from URL for file naming
+        from urllib.parse import urlparse
+        parsed = urlparse(self.base_url)
+        self.site_name = parsed.netloc.replace('www.', '').replace('.', '-')
+        
         # Ensure output directory exists
         self.output_dir = output_dir
         os.makedirs(self.output_dir, exist_ok=True)
         
         # File paths
-        self.index_file = os.path.join(self.output_dir, "llms-index.json")
-        self.manifest_file = os.path.join(self.output_dir, "manifest.json")
+        self.index_file = os.path.join(self.output_dir, f"llms-{self.site_name}-index.json")
+        self.manifest_file = os.path.join(self.output_dir, f"llms-{self.site_name}-manifest.json")
         
         # Load existing data
         self.url_index = self._load_url_index()
@@ -342,7 +347,7 @@ class ShardedLLMsUpdater:
     
     def _write_shard_file(self, shard_key: str, urls: List[str]) -> str:
         """Write LLMs file for a specific shard."""
-        filename = f"llms-full.{shard_key}.txt"
+        filename = f"llms-{self.site_name}-{shard_key}.txt"
         filepath = os.path.join(self.output_dir, filename)
         
         # Remove empty shard files

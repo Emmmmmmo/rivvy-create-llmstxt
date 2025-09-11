@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'out/**/manifest.json'
-      - 'out/**/llms-index.json'
+      - 'out/**/llms-*-manifest.json'
+      - 'out/**/llms-*-index.json'
 
 jobs:
   update:
@@ -287,4 +287,4 @@ jobs:
         if: steps.changes.outputs.changes == 'true'
         run: |
           echo "Files updated, would deploy to ElevenLabs here"
-          # rsync -av --update out/llms-full.*.txt ${{ secrets.ELEVENLABS_SERVER }}:/data/
+          # rsync -av --update out/llms-*.txt ${{ secrets.ELEVENLABS_SERVER }}:/data/
