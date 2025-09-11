@@ -2,7 +2,7 @@ name: Update Product Data
 
 on:
   repository_dispatch:
-    types: [product-updated, product-added, product-removed]
+    types: [product-updated, product-added, product-removed, website_changed]
   workflow_dispatch:
   push:
     paths:
@@ -32,15 +32,26 @@ jobs:
           echo "Action: ${{ github.event.action }}"
           echo "Client payload: ${{ toJson(github.event.client_payload) }}"
           
-          # Check if required fields exist
-          if [ -z "${{ github.event.client_payload.site }}" ]; then
-            echo "Error: Missing 'site' field in webhook payload"
-            exit 1
-          fi
-          
-          if [ -z "${{ github.event.client_payload.urls }}" ]; then
-            echo "Error: Missing 'urls' field in webhook payload"
-            exit 1
+          # Check payload format and validate accordingly
+          if [ "${{ github.event.action }}" = "website_changed" ]; then
+            # rivvy-observer format
+            if [ -z "${{ github.event.client_payload.website.url }}" ]; then
+              echo "Error: Missing 'website.url' field in rivvy-observer payload"
+              exit 1
+            fi
+            echo "rivvy-observer payload format detected"
+          else
+            # Legacy format
+            if [ -z "${{ github.event.client_payload.site }}" ]; then
+              echo "Error: Missing 'site' field in webhook payload"
+              exit 1
+            fi
+            
+            if [ -z "${{ github.event.client_payload.urls }}" ]; then
+              echo "Error: Missing 'urls' field in webhook payload"
+              exit 1
+            fi
+            echo "Legacy payload format detected"
           fi
           
           echo "Webhook payload validation passed"
@@ -50,96 +61,161 @@ jobs:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: |
           echo "Action: ${{ github.event.action }}"
-          echo "URLs: ${{ github.event.client_payload.urls }}"
           
           # Check if this is a repository_dispatch event
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
-            # Extract and validate site info from webhook payload
-            site_url="${{ github.event.client_payload.site }}"
-            urls_payload='${{ toJson(github.event.client_payload.urls) }}'
-            
-            # Validate required fields
-            if [ -z "$site_url" ]; then
-              echo "Error: Missing 'site' field in webhook payload"
-              exit 1
-            fi
-            
-            if [ -z "$urls_payload" ]; then
-              echo "Error: Missing 'urls' field in webhook payload"
-              exit 1
-            fi
-            
-            # Enhanced domain extraction with better error handling
-            echo "Processing webhook for site: $site_url"
-            
-            # Extract domain with improved regex and validation
-            domain=$(echo "$site_url" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed -E 's|/.*$||' | sed -E 's|:.*$||')
-            
-            # Validate domain format with fallback
-            if [ -z "$domain" ] || [ "$domain" = "null" ]; then
-              echo "Warning: Could not extract valid domain from site URL: $site_url"
-              echo "Attempting fallback domain extraction..."
+            # Handle rivvy-observer format
+            if [ "${{ github.event.action }}" = "website_changed" ]; then
+              echo "Processing rivvy-observer webhook..."
               
-              # Fallback: try to extract any valid-looking domain
-              domain=$(echo "$site_url" | grep -oE '[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?(\.[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?)*' | head -1)
+              # Extract site info from rivvy-observer payload
+              site_url="${{ github.event.client_payload.website.url }}"
+              change_type="${{ github.event.client_payload.change.changeType }}"
+              scraped_content="${{ github.event.client_payload.scrapeResult.markdown }}"
+              
+              echo "Site URL: $site_url"
+              echo "Change type: $change_type"
+              echo "Has scraped content: $([ -n "$scraped_content" ] && echo "Yes" || echo "No")"
+              
+              # Extract domain
+              domain=$(echo "$site_url" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed -E 's|/.*$||' | sed -E 's|:.*$||')
               
               if [ -z "$domain" ]; then
-                echo "Error: Could not extract any valid domain from site URL: $site_url"
-                echo "Please ensure the site URL is in a valid format (e.g., https://example.com)"
+                echo "Error: Could not extract domain from: $site_url"
                 exit 1
-              else
-                echo "Fallback domain extraction successful: $domain"
               fi
-            fi
-            
-            # Additional validation for common domain patterns
-            if ! echo "$domain" | grep -E '^[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?(\.[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?)*$' > /dev/null; then
-              echo "Warning: Domain format may be invalid: $domain"
-              echo "Proceeding with caution..."
-            fi
-            
-            output_dir="out/$domain"
-            echo "Domain: $domain"
-            echo "Output directory: $output_dir"
-            
-            # Ensure output directory exists
-            mkdir -p "$output_dir"
-            
-            # Process the webhook based on action type
-            case "${{ github.event.action }}" in
-              "product-added")
-                echo "Processing product-added event for $domain"
-                if ! python3 scripts/update_llms_sharded.py "$site_url" \
-                  --added "$urls_payload" \
-                  --output-dir "$output_dir"; then
-                  echo "Error: Failed to process product-added event for $domain"
-                  exit 1
-                fi
-                ;;
-              "product-updated")
-                echo "Processing product-updated event for $domain"
-                if ! python3 scripts/update_llms_sharded.py "$site_url" \
-                  --changed "$urls_payload" \
-                  --output-dir "$output_dir"; then
-                  echo "Error: Failed to process product-updated event for $domain"
-                  exit 1
-                fi
-                ;;
-              "product-removed")
-                echo "Processing product-removed event for $domain"
-                if ! python3 scripts/update_llms_sharded.py "$site_url" \
-                  --removed "$urls_payload" \
-                  --output-dir "$output_dir"; then
-                  echo "Error: Failed to process product-removed event for $domain"
-                  exit 1
-                fi
-                ;;
-              *)
-                echo "Error: Unknown action type: ${{ github.event.action }}"
-                echo "Supported actions: product-added, product-updated, product-removed"
+              
+              output_dir="out/$domain"
+              echo "Domain: $domain"
+              echo "Output directory: $output_dir"
+              
+              # Ensure output directory exists
+              mkdir -p "$output_dir"
+              
+              # Create a temporary file with the scraped content
+              temp_file="/tmp/scraped_content_$domain.md"
+              echo "$scraped_content" > "$temp_file"
+              
+              # Process based on change type
+              case "$change_type" in
+                "content_modified"|"page_added")
+                  echo "Processing content modification for $domain"
+                  # Use the pre-scraped content instead of re-scraping
+                  python3 scripts/update_llms_sharded.py "$site_url" \
+                    --added "[\"$site_url\"]" \
+                    --output-dir "$output_dir" \
+                    --pre-scraped-content "$temp_file"
+                  ;;
+                "page_removed")
+                  echo "Processing page removal for $domain"
+                  python3 scripts/update_llms_sharded.py "$site_url" \
+                    --removed "[\"$site_url\"]" \
+                    --output-dir "$output_dir"
+                  ;;
+                *)
+                  echo "Unknown change type: $change_type, treating as content modification"
+                  python3 scripts/update_llms_sharded.py "$site_url" \
+                    --added "[\"$site_url\"]" \
+                    --output-dir "$output_dir" \
+                    --pre-scraped-content "$temp_file"
+                  ;;
+              esac
+              
+              # Clean up temp file
+              rm -f "$temp_file"
+              
+            else
+              # Handle legacy format (existing logic)
+              echo "Processing legacy webhook format..."
+              echo "URLs: ${{ github.event.client_payload.urls }}"
+              
+              # Extract and validate site info from webhook payload
+              site_url="${{ github.event.client_payload.site }}"
+              urls_payload='${{ toJson(github.event.client_payload.urls) }}'
+              
+              # Validate required fields
+              if [ -z "$site_url" ]; then
+                echo "Error: Missing 'site' field in webhook payload"
                 exit 1
-                ;;
-            esac
+              fi
+              
+              if [ -z "$urls_payload" ]; then
+                echo "Error: Missing 'urls' field in webhook payload"
+                exit 1
+              fi
+              
+              # Enhanced domain extraction with better error handling
+              echo "Processing webhook for site: $site_url"
+              
+              # Extract domain with improved regex and validation
+              domain=$(echo "$site_url" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed -E 's|/.*$||' | sed -E 's|:.*$||')
+              
+              # Validate domain format with fallback
+              if [ -z "$domain" ] || [ "$domain" = "null" ]; then
+                echo "Warning: Could not extract valid domain from site URL: $site_url"
+                echo "Attempting fallback domain extraction..."
+                
+                # Fallback: try to extract any valid-looking domain
+                domain=$(echo "$site_url" | grep -oE '[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?(\.[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?)*' | head -1)
+                
+                if [ -z "$domain" ]; then
+                  echo "Error: Could not extract any valid domain from site URL: $site_url"
+                  echo "Please ensure the site URL is in a valid format (e.g., https://example.com)"
+                  exit 1
+                else
+                  echo "Fallback domain extraction successful: $domain"
+                fi
+              fi
+              
+              # Additional validation for common domain patterns
+              if ! echo "$domain" | grep -E '^[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?(\.[a-zA-Z0-9]([a-zA-Z0-9\-]{0,61}[a-zA-Z0-9])?)*$' > /dev/null; then
+                echo "Warning: Domain format may be invalid: $domain"
+                echo "Proceeding with caution..."
+              fi
+              
+              output_dir="out/$domain"
+              echo "Domain: $domain"
+              echo "Output directory: $output_dir"
+              
+              # Ensure output directory exists
+              mkdir -p "$output_dir"
+              
+              # Process the webhook based on action type
+              case "${{ github.event.action }}" in
+                "product-added")
+                  echo "Processing product-added event for $domain"
+                  if ! python3 scripts/update_llms_sharded.py "$site_url" \
+                    --added "$urls_payload" \
+                    --output-dir "$output_dir"; then
+                    echo "Error: Failed to process product-added event for $domain"
+                    exit 1
+                  fi
+                  ;;
+                "product-updated")
+                  echo "Processing product-updated event for $domain"
+                  if ! python3 scripts/update_llms_sharded.py "$site_url" \
+                    --changed "$urls_payload" \
+                    --output-dir "$output_dir"; then
+                    echo "Error: Failed to process product-updated event for $domain"
+                    exit 1
+                  fi
+                  ;;
+                "product-removed")
+                  echo "Processing product-removed event for $domain"
+                  if ! python3 scripts/update_llms_sharded.py "$site_url" \
+                    --removed "$urls_payload" \
+                    --output-dir "$output_dir"; then
+                    echo "Error: Failed to process product-removed event for $domain"
+                    exit 1
+                  fi
+                  ;;
+                *)
+                  echo "Error: Unknown action type: ${{ github.event.action }}"
+                  echo "Supported actions: product-added, product-updated, product-removed"
+                  exit 1
+                  ;;
+              esac
+            fi
             
             echo "Successfully processed webhook for $domain"
             echo "Output directory: $output_dir"

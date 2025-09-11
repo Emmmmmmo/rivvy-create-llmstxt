@@ -182,9 +182,20 @@ class ShardedLLMsUpdater:
             logger.error(f"Error mapping website: {e}")
             return []
     
-    def _scrape_url(self, url: str) -> Optional[Dict[str, Any]]:
-        """Scrape a single URL using Firecrawl v2 API with retry logic."""
+    def _scrape_url(self, url: str, pre_scraped_content: Optional[str] = None) -> Optional[Dict[str, Any]]:
+        """Scrape a single URL using Firecrawl v2 API with retry logic, or use pre-scraped content."""
         logger.debug(f"Scraping URL: {url}")
+        
+        # If pre-scraped content is provided, use it instead of scraping
+        if pre_scraped_content:
+            logger.info(f"Using pre-scraped content for {url}")
+            return {
+                "url": url,
+                "markdown": pre_scraped_content,
+                "metadata": {"title": url.split('/')[-1]},  # Basic title from URL
+                "title": url.split('/')[-1],
+                "updated_at": datetime.now().isoformat()
+            }
         
         for i in range(3):
             try:
@@ -396,7 +407,7 @@ class ShardedLLMsUpdater:
             "written_files": written_files
         }
     
-    def incremental_update(self, urls: List[str], operation: str) -> Dict[str, Any]:
+    def incremental_update(self, urls: List[str], operation: str, pre_scraped_content: Optional[str] = None) -> Dict[str, Any]:
         """Perform incremental update for specific URLs."""
         logger.info(f"Starting incremental update: {operation} for {len(urls)} URLs")
         
@@ -406,10 +417,12 @@ class ShardedLLMsUpdater:
         
         if operation in ["added", "changed"]:
             # Process URLs to add/update
-            for url in urls:
+            for i, url in enumerate(urls):
                 logger.info(f"Processing {operation}: {url}")
                 
-                scraped_data = self._scrape_url(url)
+                # Use pre-scraped content for the first URL if provided
+                content_to_use = pre_scraped_content if i == 0 and pre_scraped_content else None
+                scraped_data = self._scrape_url(url, content_to_use)
                 if scraped_data:
                     shard_key = self._update_url_data(url, scraped_data)
                     touched_shards.add(shard_key)
@@ -494,6 +507,10 @@ def main():
         default="out",
         help="Output directory for generated files (default: out)"
     )
+    parser.add_argument(
+        "--pre-scraped-content",
+        help="Path to file containing pre-scraped content (for rivvy-observer integration)"
+    )
     
     args = parser.parse_args()
     
@@ -526,10 +543,18 @@ def main():
             result = updater.auto_discover_products(args.auto_discover, args.max_products)
         elif args.added:
             urls = json.loads(args.added)
-            result = updater.incremental_update(urls, "added")
+            pre_scraped_content = None
+            if args.pre_scraped_content and os.path.exists(args.pre_scraped_content):
+                with open(args.pre_scraped_content, 'r', encoding='utf-8') as f:
+                    pre_scraped_content = f.read()
+            result = updater.incremental_update(urls, "added", pre_scraped_content)
         elif args.changed:
             urls = json.loads(args.changed)
-            result = updater.incremental_update(urls, "changed")
+            pre_scraped_content = None
+            if args.pre_scraped_content and os.path.exists(args.pre_scraped_content):
+                with open(args.pre_scraped_content, 'r', encoding='utf-8') as f:
+                    pre_scraped_content = f.read()
+            result = updater.incremental_update(urls, "changed", pre_scraped_content)
         elif args.removed:
             urls = json.loads(args.removed)
             result = updater.incremental_update(urls, "removed")

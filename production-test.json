@@ -1,0 +1,11 @@
+{
+  "event_type": "product-added",
+  "client_payload": {
+    "site": "https://www.jgengineering.ie",
+    "urls": [
+      "https://www.jgengineering.ie/products/m12-x-1-0-baercoil-kit-helicoil",
+      "https://www.jgengineering.ie/products/53mm-internal-circlip-ireland",
+      "https://www.jgengineering.ie/collections/baercoil-metric-helicoil-kits-ireland"
+    ]
+  }
+}
