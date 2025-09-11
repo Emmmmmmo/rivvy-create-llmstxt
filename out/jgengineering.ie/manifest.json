@@ -602,13 +602,6 @@
     "https://www.jgengineering.ie/collections/unc-helicoil-inserts-ireland/products/unc-1-3-8-x-6-baercoil-inserts",
     "https://www.jgengineering.ie/collections/unc-helicoil-inserts-ireland/products/unc-3-8-x-16-baercoil-inserts"
   ],
-  "pages": [
-    "https://www.jgengineering.ie/pages/metric-baercoil-kits-helicoil-ireland",
-    "https://www.jgengineering.ie/pages/about-us",
-    "https://www.jgengineering.ie/pages/contact-us",
-    "https://www.jgengineering.ie/pages/shipping",
-    "https://www.jgengineering.ie/pages/terms-and-conditions"
-  ],
   "unf-helicoil-inserts": [
     "https://www.jgengineering.ie/collections/unf-helicoil-inserts/products/unf-8-x-36-baercoil-inserts",
     "https://www.jgengineering.ie/collections/unf-helicoil-inserts/products/unf-9-16-x-18-baercoil-inserts",
@@ -652,9 +645,6 @@
     "https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-unc-7-16-x-14-like-timesert",
     "https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-unc-1-2-x-13-like-timesert",
     "https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert"
-  ],
-  "sitemap_xml": [
-    "https://www.jgengineering.ie/sitemap.xml"
   ],
   "unf-baerfix-thread-repair-kits-like-timeserts": [
     "https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/baerfix-thread-repair-kit-unf-5-16-x-24-like-timesert",
@@ -788,9 +778,6 @@
     "https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/harley-7-16-x-16-baercoil-kit-helicoil",
     "https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/carburetor-7-8-x-20-baercoil-kit-helicoil",
     "https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/carburetor-1-x-20-baercoil-kit-helicoil"
-  ],
-  "sitemap_products_1_xml": [
-    "https://www.jgengineering.ie/sitemap_products_1.xml"
   ],
   "taps": [
     "https://www.jgengineering.ie/products/1-x-11-bsp-tap-hex-baer-tap",
@@ -1035,9 +1022,6 @@
     "https://www.jgengineering.ie/products/34x14bsphexdie-262552214",
     "https://www.jgengineering.ie/products/baer-hexagon-die-nut-g-bsp-34-x-14-hss"
   ],
-  "robots_txt": [
-    "https://www.jgengineering.ie/robots.txt"
-  ],
   "baercoil_products": [
     "https://www.jgengineering.ie/products/26mmhssbaercoildin338drillbit",
     "https://www.jgengineering.ie/products/m2-10-baercoil-drill-bit",
@@ -1125,23 +1109,6 @@
     "https://www.jgengineering.ie/products/m51-00-baercoil-drill-bit",
     "https://www.jgengineering.ie/products/m30-x-2-round-die-baercoil-121401094"
   ],
-  "sitemap_pages_1_xml": [
-    "https://www.jgengineering.ie/sitemap_pages_1.xml"
-  ],
-  "sitemap_collections_1_xml": [
-    "https://www.jgengineering.ie/sitemap_collections_1.xml"
-  ],
-  "sitemap_blogs_1_xml": [
-    "https://www.jgengineering.ie/sitemap_blogs_1.xml"
-  ],
-  "blogs": [
-    "https://www.jgengineering.ie/blogs/news",
-    "https://www.jgengineering.ie/blogs/news/6899702-new-website",
-    "https://www.jgengineering.ie/blogs/news/7390602-we-are-open-on-saturdays",
-    "https://www.jgengineering.ie/blogs/news/9384291-customer-feedback",
-    "https://www.jgengineering.ie/blogs/news/jg-engineering-supplies-new-website",
-    "https://www.jgengineering.ie/blogs/news/baercoil-kits-thread-inserts"
-  ],
   "baercoil-thread-repair-helicoil-kit-inserts": [
     "https://www.jgengineering.ie/collections/baercoil-thread-repair-helicoil-kit-inserts"
   ],
@@ -1166,9 +1133,6 @@
   "baerfix-baerfix-for-wood": [
     "https://www.jgengineering.ie/collections/baerfix-baerfix-for-wood"
   ],
-  "front-page": [
-    "https://www.jgengineering.ie/collections/front-page"
-  ],
   "baercoil-bottoming-taps-metric-helicoil-1": [
     "https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil-1"
   ],
@@ -1183,9 +1147,6 @@
   ],
   "ass-products": [
     "https://www.jgengineering.ie/collections/ass-products"
-  ],
-  "catalogues": [
-    "https://www.jgengineering.ie/collections/catalogues"
   ],
   "uniburr-deburring-tool-ireland-uk-england": [
     "https://www.jgengineering.ie/collections/uniburr-deburring-tool-ireland-uk-england"
@@ -1310,11 +1271,5 @@
     "https://www.jgengineering.ie/products/sdsplusdrill8mmol210mmwl150mm",
     "https://www.jgengineering.ie/products/sdsplusdrill65mmol160mmwl100mm",
     "https://www.jgengineering.ie/products/standardmasonrydrillbit7x150mm"
-  ],
-  "collections": [
-    "https://www.jgengineering.ie/collections"
-  ],
-  "all": [
-    "https://www.jgengineering.ie/collections/all"
   ]
 }
