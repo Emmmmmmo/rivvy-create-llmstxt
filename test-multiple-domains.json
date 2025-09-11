@@ -1,7 +1,0 @@
-{
-  "event_type": "product-updated",
-  "client_payload": {
-    "site": "https://shop.example.org",
-    "urls": ["https://shop.example.org/products/updated-item.html", "https://shop.example.org/products/another-item.html"]
-  }
-}

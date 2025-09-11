@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-09-10T16:00:00Z",
+  "agents": {
+    "jgengineering.ie": {
+      "agent_id": "agent_jg_engineering_12345",
+      "agent_name": "JG Engineering Products Expert",
+      "description": "Specialist in industrial engineering products, tools, and equipment",
+      "enabled": true,
+      "file_prefix": "jg_eng",
+      "categories": ["products", "collections"],
+      "tags": ["industrial", "engineering", "tools", "machinery"],
+      "max_file_size_mb": 10,
+      "sync_enabled": true,
+      "last_sync": null
+    },
+    "mydiy.ie": {
+      "agent_id": "agent_mydiy_67890",
+      "agent_name": "MyDIY Home Improvement Assistant", 
+      "description": "Expert in DIY projects, home improvement, and consumer tools",
+      "enabled": true,
+      "file_prefix": "mydiy",
+      "categories": ["products", "collections", "guides"],
+      "tags": ["diy", "home", "improvement", "consumer"],
+      "max_file_size_mb": 15,
+      "sync_enabled": true,
+      "last_sync": null
+    },
+    "example.com": {
+      "agent_id": "agent_example_abcde",
+      "agent_name": "Example Shop Assistant",
+      "description": "General product assistant for example shop",
+      "enabled": false,
+      "file_prefix": "example",
+      "categories": ["products"],
+      "tags": ["general", "retail"],
+      "max_file_size_mb": 5,
+      "sync_enabled": false,
+      "last_sync": null,
+      "disable_reason": "Agent not yet configured"
+    }
+  },
+  "default_settings": {
+    "agent_id": "agent_default_fallback",
+    "enabled": true,
+    "max_file_size_mb": 8,
+    "timeout_seconds": 30,
+    "retry_attempts": 3
+  },
+  "global_settings": {
+    "enable_fallback": true,
+    "log_level": "INFO",
+    "validate_agent_ids": true,
+    "backup_before_sync": true,
+    "parallel_uploads": false
+  }
+}
