@@ -1,7 +1,20 @@
 <|https://www.jgengineering.ie-lllmstxt|>
 ## www.jgengineering.ie
-# JG Engineering - Updated
+# M12 x 1.0 BaerCoil Kit Helicoil
 
-Welcome to our updated homepage.
+## Product Description
+
+This is a new high-quality BaerCoil metric helicoil kit designed for M12 x 1.0 threads.
+
+## Specifications
+
+- Thread Size: M12 x 1.0
+- Material: High-grade steel
+- Application: Thread repair
+
+## Pricing
+
+- Price: €49.99
+- Availability: In stock
 
 
