@@ -4,5 +4,11 @@
     "markdown": "# M12 x 1.0 BaerCoil Kit Helicoil\n\n## Product Description\n\nThis is a new high-quality BaerCoil metric helicoil kit designed for M12 x 1.0 threads.\n\n## Specifications\n\n- Thread Size: M12 x 1.0\n- Material: High-grade steel\n- Application: Thread repair\n\n## Pricing\n\n- Price: €49.99\n- Availability: In stock\n",
     "shard": "root",
     "updated_at": "2025-09-12T11:11:13.268217"
+  },
+  "https://www.jgengineering.ie/products/test-new-product": {
+    "title": "test-new-product",
+    "markdown": "# Test New Product\n\n## Product Description\n\nThis is a new test product to test shard creation.\n\n## Specifications\n\n- Product Type: Test Product\n- Material: Test Material\n- Application: Testing\n\n## Pricing\n\n- Price: €99.99\n- Availability: In stock\n",
+    "shard": "other_products",
+    "updated_at": "2025-09-12T11:12:09.641793"
   }
 }

@@ -1,0 +1,20 @@
+<|https://www.jgengineering.ie/products/test-new-product-lllmstxt|>
+## test-new-product
+# Test New Product
+
+## Product Description
+
+This is a new test product to test shard creation.
+
+## Specifications
+
+- Product Type: Test Product
+- Material: Test Material
+- Application: Testing
+
+## Pricing
+
+- Price: €99.99
+- Availability: In stock
+
+
