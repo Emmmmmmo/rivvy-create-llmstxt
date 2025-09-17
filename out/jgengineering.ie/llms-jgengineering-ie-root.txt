@@ -1,7 +1,7 @@
 <|https://www.jgengineering.ie-lllmstxt|>
 ## www.jgengineering.ie
-# Test Observer Format
+# Final Test
 
-This tests the actual format that rivvy-observer sends, including the content_changed changeType.
+This should now be handled by the content_changed case, not the unknown case.
 
 
