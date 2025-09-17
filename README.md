@@ -108,33 +108,47 @@ Create `config/elevenlabs-agents.json`:
 ### Webhook Processing Flow
 
 1. **Change Detection**: rivvy-observer detects changes on monitored websites
-2. **Webhook Sent**: Observer sends webhook to GitHub repository
-3. **Dynamic Routing**: Workflow extracts domain and creates appropriate directory
-4. **Content Generation**: Firecrawl scrapes content and generates LLMs files
-5. **File Organization**: Files saved to `out/{domain}/` with proper structure
-6. **ElevenLabs Sync**: Generated files automatically uploaded to RAG system
-7. **Git Commit**: Changes committed and pushed to repository
+2. **Content Scraping**: Observer scrapes and analyzes the changed content
+3. **Webhook Sent**: Observer sends webhook with pre-scraped content to GitHub repository
+4. **Dynamic Routing**: Workflow extracts domain and creates appropriate directory
+5. **Content Processing**: Uses pre-scraped content (no re-scraping needed) to generate LLMs files
+6. **File Organization**: Files saved to `out/{domain}/` with proper structure
+7. **ElevenLabs Sync**: Generated files automatically uploaded to RAG system
+8. **Git Commit**: Changes committed and pushed to repository
 
 ### Webhook Format
 
 ```json
 {
-  "event_type": "product-added|product-updated|product-removed",
+  "event_type": "website_changed",
   "client_payload": {
-    "site": "https://www.yoursite.com",
-    "urls": [
-      "https://www.yoursite.com/products/item1",
-      "https://www.yoursite.com/products/item2"
-    ]
+    "website": {
+      "name": "Website Name",
+      "url": "https://www.yoursite.com"
+    },
+    "change": {
+      "changeType": "content_changed|content_modified|page_added|page_removed",
+      "summary": "Brief description of changes",
+      "diff": {
+        "added": ["New content added"],
+        "removed": ["Old content removed"]
+      }
+    },
+    "scrapeResult": {
+      "title": "Page title",
+      "description": "Page description",
+      "markdown": "Pre-scraped content (used instead of re-scraping)"
+    }
   }
 }
 ```
 
-### Supported Actions
+### Supported Change Types
 
-- `product-added`: Add new products to LLMs files
-- `product-updated`: Update existing product information
-- `product-removed`: Remove products from LLMs files
+- `content_changed`: Content has been modified
+- `content_modified`: Content has been updated  
+- `page_added`: New page detected
+- `page_removed`: Page has been removed
 
 ## 📊 Generated Files
 
@@ -215,10 +229,21 @@ Files are uploaded with domain prefixes for organization:
 # Create test payload
 cat > test-webhook.json << EOF
 {
-  "event_type": "product-added",
+  "event_type": "website_changed",
   "client_payload": {
-    "site": "https://www.example.com",
-    "urls": ["https://www.example.com/products/test-product"]
+    "website": {
+      "name": "Test Site",
+      "url": "https://www.example.com"
+    },
+    "change": {
+      "changeType": "content_changed",
+      "summary": "Manual test trigger"
+    },
+    "scrapeResult": {
+      "title": "Test Page",
+      "description": "Testing webhook trigger",
+      "markdown": "# Test Content\n\nThis is a test of the webhook trigger system."
+    }
   }
 }
 EOF
@@ -293,7 +318,9 @@ python3 scripts/update_llms_sharded.py [URL] \
 
 **Webhook not processing:**
 - Check GitHub repository dispatch permissions
-- Verify webhook payload format
+- Verify webhook payload format matches rivvy-observer format
+- Ensure `event_type` is `website_changed`
+- Check that required fields (`website.url`, `change.changeType`, `scrapeResult.markdown`) are present
 - Check GitHub Actions logs
 
 **Files not generated:**
@@ -316,7 +343,7 @@ gh run list --workflow="update-products.yml"
 gh run view [RUN_ID] --log
 
 # Test local processing
-python3 scripts/update_llms_sharded.py https://example.com --added '["https://example.com/test"]' --verbose
+python3 scripts/update_llms_sharded.py https://example.com --added '["https://example.com/test"]' --output-dir out/example.com --verbose
 ```
 
 ## 🤝 Contributing
