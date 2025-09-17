@@ -1,7 +1,7 @@
 <|https://www.jgengineering.ie-lllmstxt|>
 ## www.jgengineering.ie
-# Manual Test Content
+# Test Observer Format
 
-This is a test of the webhook trigger system.
+This tests the actual format that rivvy-observer sends, including the content_changed changeType.
 
 
