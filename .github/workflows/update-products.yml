@@ -90,7 +90,7 @@ jobs:
             
             # Process based on change type
             case "$change_type" in
-              "content_modified"|"page_added")
+              "content_modified"|"page_added"|"content_changed")
                 echo "Processing content modification for $domain"
                 # Use the pre-scraped content instead of re-scraping
                 python3 scripts/update_llms_sharded.py "$site_url" \
