@@ -1,0 +1,36 @@
+{
+  "event_type": "website_changed",
+  "client_payload": {
+    "website": {
+      "id": "m17bejdg41bhma9hamn9hesa757qv2jx",
+      "name": "Jgengineering",
+      "url": "https://www.jgengineering.ie"
+    },
+    "changedPages": [
+      {
+        "url": "https://www.jgengineering.ie/pages/about-us",
+        "changeType": "content_changed",
+        "changeStatus": "changed",
+        "summary": "Content changed but no diff available",
+        "scrapedContent": {
+          "id": "kh7eabnhcvhxezknt0hsxt1y3n7qtr89",
+          "title": "About Us – JG Engineering Supplies Ltd      01-4730900",
+          "description": "JG Engineering Supplies Ltd was founded in 1979 by John Grant...",
+          "markdown": "[Skip to content](https://www.jgengineering.ie/pages/about-us#main-content)\n\n**Welcome to our new website**\n\n**New collections added!** [Learn more](https://www.jgengineering.ie/pages/about-us# \"#\")\n\nCountry/Region\n\nUnited States (USD $)\n\n## Always better with a Discount\n\nCopy the code and save 10%\n\nFIXIT10Copy code\n\nCopied\n\n# About Us\n\nJG Engineering Supplies Ltd was founded in 1979 by John Grant. John who previously worked in Semperit Tyres Ireland Ltd as Senior Engineering Purchaser and before that as a Mechanical Engineering Teacher in Bolton St College.\n\nJG Engineering Supplies BaerCoil Kits & Inserts - YouTube\n\n[Photo image of Alan Grant](https://www.youtube.com/channel/UC_b4apI39Q3mbv0ctmg_RCQ?embeds_referring_euri=https%3A%2F%2Fwww.jgengineering.ie%2F)\n\nAlan Grant\n\n3 subscribers\n\n[JG Engineering Supplies BaerCoil Kits & Inserts](https://www.youtube.com/watch?v=u62wSOGZ2JY)\n\nAlan Grant\n\nSearch\n\nWatch later\n\nShare\n\nCopy link\n\nInfo\n\nShopping\n\nTap to unmute\n\nIf playback doesn't begin shortly, try restarting your device.\n\nYou're signed out\n\nVideos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.\n\nSwitch camera\n\nShare\n\nAn error occurred while retrieving sharing information. Please try again later.\n\nWatch on\n\nThe first products we sold were Circlips and Pins of all types and shapes. Helicoils and all other types of inserts were added soon after.\n\nWe are now one of the leading suppliers of engineering supplies in Ireland, stocking over 10,000 different products from leading manufacturers worldwide.\n\nOur product range includes:\n\n- Circlips and Pins\n- Helicoils and Inserts\n- BaerCoil Kits\n- Engineering Supplies\n- And much more!\n\nWe pride ourselves on providing excellent customer service and competitive prices. Our team has over 40 years of experience in the engineering supplies industry.\n\nContact us today for all your engineering supply needs!"
+        }
+      },
+      {
+        "url": "https://www.jgengineering.ie/collections/new-products",
+        "changeType": "page_added",
+        "changeStatus": "added",
+        "summary": "New product collection added",
+        "scrapedContent": {
+          "id": "new_collection_123",
+          "title": "New Products – JG Engineering Supplies Ltd",
+          "description": "Check out our latest engineering supplies and products...",
+          "markdown": "# New Products\n\nWelcome to our new products collection! We've added exciting new engineering supplies to our inventory.\n\n## Featured New Products\n\n- **Advanced Helicoil Kits** - Premium quality inserts\n- **Precision Circlips** - High-grade materials\n- **Engineering Tools** - Professional grade equipment\n\nBrowse our full range of new products and discover the latest innovations in engineering supplies."
+        }
+      }
+    ]
+  }
+}
