@@ -1,0 +1,26 @@
+{
+  "event_type": "website_changed",
+  "client_payload": {
+    "event": "website_changed",
+    "website": {
+      "name": "Jgengineering",
+      "url": "https://www.jgengineering.ie",
+      "checkInterval": 60
+    },
+    "change": {
+      "detectedAt": "2025-01-12T15:30:00.000Z",
+      "changeType": "page_added",
+      "summary": "New roll pin product added",
+      "diff": {
+        "added": ["New roll pin product page"],
+        "removed": []
+      }
+    },
+    "scrapeResult": {
+      "title": "M1.5 Roll Pin Spring Tension Pin DIN 1481",
+      "description": "Slotted Roll Pin (Sellock Pin) DIN 1481 manufactured from high-quality Carbon Spring Steel CS70",
+      "markdown": "# M1.5 Roll Pin Spring Tension Pin DIN 1481\n\n## Product Description\n\nOur **Slotted Roll Pin (Sellock Pin) DIN 1481** is manufactured from high-quality **Carbon Spring Steel CS70** and finished with a **durable Black Oxide coating** for enhanced corrosion resistance. Designed with a longitudinal slot, this pin compresses during installation to provide a secure, vibration-resistant fastening solution.\n\nWidely used across mechanical engineering, automotive, and machinery applications, roll pins are a reliable choice for fastening components where strength, flexibility, and reusability are required.\n\n## Examples of Uses\n\n* Securing gears, pulleys, or levers to shafts\n* Retaining components in engines or transmissions\n* Fastening hinge assemblies and linkages\n* Alignment of mechanical parts during assembly\n* Agricultural, automotive, and industrial machinery maintenance\n\n## Specifications\n\n* **Material**: Carbon Spring Steel CS70\n* **Coating**: Black Oxide\n* **Standard**: DIN 1481\n* **Type**: Slotted Roll Pin (Sellock Pin)\n* **Price**: From €1.96\n* **Availability**: Various pack sizes (2, 5, 10, 50, 100, 500, 1000)\n* **Length Options**: 1.5mm\n* **Diameter Options**: 6, 10, 12, 16, 20, 22mm"
+    }
+  }
+}
+
