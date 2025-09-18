@@ -1103,7 +1103,8 @@
     "https://www.jgengineering.ie/products/wd-405litremulti-usemaintenancecanplusspray5litre"
   ],
   "pages": [
-    "https://www.jgengineering.ie/pages/about-us"
+    "https://www.jgengineering.ie/pages/about-us",
+    "https://www.jgengineering.ie/pages/test-page"
   ],
   "root": [
     "https://www.jgengineering.ie"
@@ -1175,6 +1176,9 @@
   ],
   "test-page": [
     "https://www.jgengineering.ie/collections/test-page"
+  ],
+  "test-products": [
+    "https://www.jgengineering.ie/collections/test-products/products/test-widget"
   ],
   "unc-baerfix-thread-repair-kits-like-timesert": [
     "https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert",
