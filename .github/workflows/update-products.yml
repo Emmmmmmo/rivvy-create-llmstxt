@@ -30,7 +30,7 @@ jobs:
           echo "Validating rivvy-observer webhook payload..."
           echo "Event type: ${{ github.event_name }}"
           echo "Action: ${{ github.event.action }}"
-          echo "Client payload: ${{ toJson(github.event.client_payload) }}"
+          echo "Payload received successfully"
           
           # Validate rivvy-observer format - simplified validation
           echo "Validating required fields..."
