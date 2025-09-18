@@ -1,0 +1,26 @@
+{
+  "event_type": "website_changed",
+  "client_payload": {
+    "website": {
+      "id": "m17bejdg41bhma9hamn9hesa757qv2jx",
+      "name": "Jgengineering",
+      "url": "https://www.jgengineering.ie/pages/test-legacy"
+    },
+    "change": {
+      "detectedAt": "2025-09-18T16:45:00.000Z",
+      "changeType": "content_changed",
+      "changeStatus": "changed",
+      "summary": "Testing legacy format compatibility",
+      "diff": {
+        "added": [],
+        "removed": []
+      }
+    },
+    "scrapeResult": {
+      "id": "test-legacy-123",
+      "title": "Test Legacy Page - JG Engineering",
+      "description": "Testing legacy webhook format",
+      "markdown": "# Test Legacy Page\n\nThis is a test to validate that the updated workflow still supports the legacy single-page format.\n\n## Test Content\n- Legacy format support\n- Backward compatibility\n- Single page processing\n\nTest completed successfully."
+    }
+  }
+}
