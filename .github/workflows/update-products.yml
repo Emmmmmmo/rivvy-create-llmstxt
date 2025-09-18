@@ -133,7 +133,9 @@ jobs:
                     
                     # Save scraped content to temp file if available
                     if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
-                      temp_file="/tmp/scraped_content_${i}_$(basename "$page_url" | tr '/' '_').md"
+                      # Create a safe filename by hashing the URL to avoid length issues
+                      url_hash=$(echo "$page_url" | md5sum | cut -d' ' -f1)
+                      temp_file="/tmp/scraped_content_${i}_${url_hash}.md"
                       printf '%s\n' "$scraped_content" > "$temp_file"
                       echo "Saved scraped content for $page_url"
                     fi
