@@ -915,6 +915,9 @@
     "https://www.jgengineering.ie/collections/circlips-ireland/products/9mm-external-circlips-ireland",
     "https://www.jgengineering.ie/collections/circlips-ireland/products/9mm-internal-circlip-carbon-back"
   ],
+  "collections": [
+    "https://www.jgengineering.ie/collections"
+  ],
   "drill_bits": [
     "https://www.jgengineering.ie/products/sdsplusdrill65mmol160mmwl100mm",
     "https://www.jgengineering.ie/products/sdsplusdrill8mmol210mmwl150mm",
