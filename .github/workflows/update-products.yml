@@ -36,46 +36,48 @@ jobs:
           echo "Action: ${{ github.event.action }}"
           echo "Payload received successfully"
           
-          # Validate rivvy-observer format - check for new multi-page structure
+          # Write payload to temp file for safe processing
+          echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
+          
+          # Validate rivvy-observer format - check for new structure
           echo "Validating required fields..."
           
-          # Check essential fields for new payload structure
-          if [ "${{ github.event.client_payload.website.url }}" = "" ]; then
+          # Check for website.url
+          website_url=$(jq -r '.website.url // empty' /tmp/payload.json)
+          if [ -z "$website_url" ]; then
             echo "Error: Missing 'website.url' field in rivvy-observer payload"
             exit 1
           fi
           
-          # Check if we have the new changedPages array structure
-          cat > /tmp/payload.json << 'EOF'
-${{ toJson(github.event.client_payload) }}
-EOF
-          changed_pages_count=$(jq -r '.changedPages | length' /tmp/payload.json)
-          
-          if [ "$changed_pages_count" = "null" ] || [ "$changed_pages_count" = "0" ]; then
-            echo "Error: Missing or empty 'changedPages' array in rivvy-observer payload"
-            exit 1
+          # Check for changedPages array (new format)
+          changed_pages_count=$(jq -r '.changedPages | length // 0' /tmp/payload.json)
+          if [ "$changed_pages_count" -gt 0 ]; then
+            echo "New payload format detected with $changed_pages_count changed pages"
+            echo "Website URL: $website_url"
+            
+            # Validate each changed page has required fields
+            for i in $(seq 0 $((changed_pages_count - 1))); do
+              page_url=$(jq -r ".changedPages[$i].url // empty" /tmp/payload.json)
+              change_type=$(jq -r ".changedPages[$i].changeType // empty" /tmp/payload.json)
+              
+              if [ -z "$page_url" ] || [ -z "$change_type" ]; then
+                echo "Error: Missing required fields in changedPages[$i]"
+                exit 1
+              fi
+              
+              echo "Page $((i+1)): $page_url ($change_type)"
+            done
+          else
+            # Check for legacy single-page format
+            change_type=$(jq -r '.change.changeType // empty' /tmp/payload.json)
+            if [ -z "$change_type" ]; then
+              echo "Error: Missing 'change.changeType' or 'changedPages' in payload"
+              exit 1
+            fi
+            echo "Legacy payload format detected"
+            echo "Website URL: $website_url"
+            echo "Change Type: $change_type"
           fi
-          
-          echo "Website URL: ${{ github.event.client_payload.website.url }}"
-          echo "Changed pages count: $changed_pages_count"
-          
-          # Validate each changed page has required fields
-          for i in $(seq 0 $((changed_pages_count - 1))); do
-            page_url=$(jq -r ".changedPages[$i].url" /tmp/payload.json)
-            change_type=$(jq -r ".changedPages[$i].changeType" /tmp/payload.json)
-            
-            if [ "$page_url" = "null" ] || [ "$page_url" = "" ]; then
-              echo "Error: Missing 'url' field in changedPages[$i]"
-              exit 1
-            fi
-            
-            if [ "$change_type" = "null" ] || [ "$change_type" = "" ]; then
-              echo "Error: Missing 'changeType' field in changedPages[$i]"
-              exit 1
-            fi
-            
-            echo "Page $((i + 1)): $page_url - $change_type"
-          done
           
           echo "rivvy-observer payload validation passed"
 
@@ -89,17 +91,10 @@ EOF
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
             echo "Processing rivvy-observer webhook..."
             
-            # Extract site info from rivvy-observer payload (write to temp file to avoid shell expansion)
-            cat > /tmp/payload.json << 'EOF'
-${{ toJson(github.event.client_payload) }}
-EOF
+            # Extract site info from rivvy-observer payload (already written to temp file in validation step)
             site_url=$(jq -r '.website.url' /tmp/payload.json)
-            changed_pages_count=$(jq -r '.changedPages | length' /tmp/payload.json)
             
-            echo "Site URL: $site_url"
-            echo "Changed pages count: $changed_pages_count"
-            
-            # Extract domain from site URL
+            # Extract domain for output directory
             domain=$(echo "$site_url" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed -E 's|/.*$||' | sed -E 's|:.*$||')
             
             if [ -z "$domain" ]; then
@@ -114,50 +109,128 @@ EOF
             # Ensure output directory exists
             mkdir -p "$output_dir"
             
-            # Process each changed page
-            for i in $(seq 0 $((changed_pages_count - 1))); do
-              page_url=$(jq -r ".changedPages[$i].url" /tmp/payload.json)
-              change_type=$(jq -r ".changedPages[$i].changeType" /tmp/payload.json)
-              scraped_content=$(jq -r ".changedPages[$i].scrapedContent.markdown" /tmp/payload.json)
+            # Check for new multi-page format
+            changed_pages_count=$(jq -r '.changedPages | length // 0' /tmp/payload.json)
+            
+            if [ "$changed_pages_count" -gt 0 ]; then
+              echo "Processing $changed_pages_count changed pages..."
               
-              echo "Processing page $((i + 1))/$changed_pages_count: $page_url ($change_type)"
+              # Arrays to collect URLs for batch processing
+              added_urls=()
+              removed_urls=()
+              
+              # Process each changed page
+              for i in $(seq 0 $((changed_pages_count - 1))); do
+                page_url=$(jq -r ".changedPages[$i].url" /tmp/payload.json)
+                change_type=$(jq -r ".changedPages[$i].changeType" /tmp/payload.json)
+                scraped_content=$(jq -r ".changedPages[$i].scrapedContent.markdown // empty" /tmp/payload.json)
+                
+                echo "Processing page $((i+1))/$changed_pages_count: $page_url ($change_type)"
+                
+                case "$change_type" in
+                  "content_modified"|"page_added"|"content_changed")
+                    added_urls+=("$page_url")
+                    
+                    # Save scraped content to temp file if available
+                    if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
+                      temp_file="/tmp/scraped_content_${i}_$(basename "$page_url" | tr '/' '_').md"
+                      printf '%s\n' "$scraped_content" > "$temp_file"
+                      echo "Saved scraped content for $page_url"
+                    fi
+                    ;;
+                  "page_removed")
+                    removed_urls+=("$page_url")
+                    ;;
+                  *)
+                    echo "Unknown change type: $change_type, treating as content modification"
+                    added_urls+=("$page_url")
+                    ;;
+                esac
+              done
+              
+              # Process added/modified pages in batch
+              if [ ${#added_urls[@]} -gt 0 ]; then
+                echo "Processing ${#added_urls[@]} added/modified pages..."
+                added_urls_json=$(printf '%s\n' "${added_urls[@]}" | jq -R . | jq -s .)
+                echo "Added URLs: $added_urls_json"
+                
+                python3 scripts/update_llms_sharded.py "$site_url" \
+                  --added "$added_urls_json" \
+                  --output-dir "$output_dir"
+              fi
+              
+              # Process removed pages in batch
+              if [ ${#removed_urls[@]} -gt 0 ]; then
+                echo "Processing ${#removed_urls[@]} removed pages..."
+                removed_urls_json=$(printf '%s\n' "${removed_urls[@]}" | jq -R . | jq -s .)
+                echo "Removed URLs: $removed_urls_json"
+                
+                python3 scripts/update_llms_sharded.py "$site_url" \
+                  --removed "$removed_urls_json" \
+                  --output-dir "$output_dir"
+              fi
+              
+              # Clean up temp files
+              rm -f /tmp/scraped_content_*.md
+              
+            else
+              # Legacy single-page format
+              echo "Processing legacy single-page format..."
+              
+              change_type=$(jq -r '.change.changeType' /tmp/payload.json)
+              scraped_content=$(jq -r '.scrapeResult.markdown // empty' /tmp/payload.json)
+              
+              echo "Site URL: $site_url"
+              echo "Change type: $change_type"
+              echo "Has scraped content: $([ -n "$scraped_content" ] && [ "$scraped_content" != "null" ] && echo "Yes" || echo "No")"
               
               # Create a temporary file with the scraped content (handle special characters safely)
-              temp_file="/tmp/scraped_content_${domain}_${i}.md"
-              printf '%s\n' "$scraped_content" > "$temp_file"
+              temp_file="/tmp/scraped_content_$domain.md"
+              if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
+                printf '%s\n' "$scraped_content" > "$temp_file"
+              fi
               
               # Process based on change type
               case "$change_type" in
                 "content_modified"|"page_added"|"content_changed")
-                  echo "Processing content modification for $page_url"
-                  # Use the pre-scraped content instead of re-scraping
-                  python3 scripts/update_llms_sharded.py "$page_url" \
-                    --added "[\"$page_url\"]" \
-                    --output-dir "$output_dir" \
-                    --pre-scraped-content "$temp_file"
+                  echo "Processing content modification for $domain"
+                  if [ -f "$temp_file" ]; then
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --added "[\"$site_url\"]" \
+                      --output-dir "$output_dir" \
+                      --pre-scraped-content "$temp_file"
+                  else
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --added "[\"$site_url\"]" \
+                      --output-dir "$output_dir"
+                  fi
                   ;;
                 "page_removed")
-                  echo "Processing page removal for $page_url"
-                  python3 scripts/update_llms_sharded.py "$page_url" \
-                    --removed "[\"$page_url\"]" \
+                  echo "Processing page removal for $domain"
+                  python3 scripts/update_llms_sharded.py "$site_url" \
+                    --removed "[\"$site_url\"]" \
                     --output-dir "$output_dir"
                   ;;
                 *)
                   echo "Unknown change type: $change_type, treating as content modification"
-                  python3 scripts/update_llms_sharded.py "$page_url" \
-                    --added "[\"$page_url\"]" \
-                    --output-dir "$output_dir" \
-                    --pre-scraped-content "$temp_file"
+                  if [ -f "$temp_file" ]; then
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --added "[\"$site_url\"]" \
+                      --output-dir "$output_dir" \
+                      --pre-scraped-content "$temp_file"
+                  else
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --added "[\"$site_url\"]" \
+                      --output-dir "$output_dir"
+                  fi
                   ;;
               esac
               
-              # Clean up temp file for this page
+              # Clean up temp file
               rm -f "$temp_file"
-              
-              echo "Successfully processed page $((i + 1))/$changed_pages_count"
-            done
+            fi
             
-            echo "Successfully processed all $changed_pages_count pages for $domain"
+            echo "Successfully processed webhook for $domain"
             echo "Output directory: $output_dir"
             echo "Files in output directory:"
             ls -la "$output_dir" || echo "No files found in output directory"
