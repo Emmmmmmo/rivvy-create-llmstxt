@@ -32,31 +32,23 @@ jobs:
           echo "Action: ${{ github.event.action }}"
           echo "Client payload: ${{ toJson(github.event.client_payload) }}"
           
-          # Validate rivvy-observer format using environment variables
+          # Validate rivvy-observer format - simplified validation
           echo "Validating required fields..."
           
-          # Use GitHub context to check for field existence
+          # Check essential fields only
           if [ "${{ github.event.client_payload.website.url }}" = "" ]; then
             echo "Error: Missing 'website.url' field in rivvy-observer payload"
             exit 1
           fi
           
           if [ "${{ github.event.client_payload.change.changeType }}" = "" ]; then
-            echo "Error: Missing 'change.changeType' field in rivvy-observer payload"
-            exit 1
-          fi
-          
-          # For markdown, write to temp file and check
-          echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
-          
-          if ! jq -e '.scrapeResult.markdown' /tmp/payload.json > /dev/null; then
-            echo "Error: Missing 'scrapeResult.markdown' field in rivvy-observer payload"
+            echo "Error: Missing 'change.changeType' field in rivvy-observer payload"  
             exit 1
           fi
           
           echo "Website URL: ${{ github.event.client_payload.website.url }}"
           echo "Change Type: ${{ github.event.client_payload.change.changeType }}"
-          echo "Markdown content length: $(jq -r '.scrapeResult.markdown | length' /tmp/payload.json) characters"
+          echo "Scrape Result Title: ${{ github.event.client_payload.scrapeResult.title }}"
           
           echo "rivvy-observer payload validation passed"
 
