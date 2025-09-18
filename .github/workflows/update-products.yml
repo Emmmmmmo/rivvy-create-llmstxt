@@ -66,10 +66,11 @@ jobs:
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
             echo "Processing rivvy-observer webhook..."
             
-            # Extract site info from rivvy-observer payload
-            site_url="${{ github.event.client_payload.website.url }}"
-            change_type="${{ github.event.client_payload.change.changeType }}"
-            scraped_content="${{ github.event.client_payload.scrapeResult.markdown }}"
+          # Extract site info from rivvy-observer payload (write to temp file to avoid shell expansion)
+          echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
+          site_url=$(jq -r '.website.url' /tmp/payload.json)
+          change_type=$(jq -r '.change.changeType' /tmp/payload.json)
+          scraped_content=$(jq -r '.scrapeResult.markdown' /tmp/payload.json)
             
             echo "Site URL: $site_url"
             echo "Change type: $change_type"
