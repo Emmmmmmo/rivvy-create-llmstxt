@@ -72,7 +72,7 @@ jobs:
               exit 1
             fi
             
-            echo "Page $((i + 1)): $page_url ($change_type)"
+            echo "Page $((i + 1)): $page_url - $change_type"
           done
           
           echo "rivvy-observer payload validation passed"
