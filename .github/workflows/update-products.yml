@@ -46,7 +46,7 @@ jobs:
           fi
           
           # Check if we have the new changedPages array structure
-          echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
+          printf '%s\n' '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
           changed_pages_count=$(jq -r '.changedPages | length' /tmp/payload.json)
           
           if [ "$changed_pages_count" = "null" ] || [ "$changed_pages_count" = "0" ]; then
@@ -88,7 +88,7 @@ jobs:
             echo "Processing rivvy-observer webhook..."
             
             # Extract site info from rivvy-observer payload (write to temp file to avoid shell expansion)
-            echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
+            printf '%s\n' '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
             site_url=$(jq -r '.website.url' /tmp/payload.json)
             changed_pages_count=$(jq -r '.changedPages | length' /tmp/payload.json)
             
