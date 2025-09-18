@@ -43,7 +43,8 @@ jobs:
             exit 1
           fi
           
-          if [ -z "${{ github.event.client_payload.scrapeResult.markdown }}" ]; then
+          # Check if scrapeResult.markdown field exists using jq
+          if ! echo '${{ toJson(github.event.client_payload) }}' | jq -e '.scrapeResult.markdown' > /dev/null; then
             echo "Error: Missing 'scrapeResult.markdown' field in rivvy-observer payload"
             exit 1
           fi
