@@ -306,8 +306,27 @@ jobs:
           git pull --rebase origin main
           git push origin main
           
-      - name: Deploy to ElevenLabs
+      - name: Sync to ElevenLabs
         if: steps.changes.outputs.changes == 'true'
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
-          echo "Files updated, would deploy to ElevenLabs here"
-          # rsync -av --update out/llms-*.txt ${{ secrets.ELEVENLABS_SERVER }}:/data/
+          echo "Files updated, syncing to ElevenLabs..."
+          
+          # Check if ElevenLabs API key is available
+          if [ -z "$ELEVENLABS_API_KEY" ]; then
+            echo "Warning: ELEVENLABS_API_KEY not set, skipping ElevenLabs sync"
+            exit 0
+          fi
+          
+          # Check if agent config exists
+          if [ ! -f "config/elevenlabs-agents.json" ]; then
+            echo "Warning: config/elevenlabs-agents.json not found, skipping ElevenLabs sync"
+            exit 0
+          fi
+          
+          # Run the ElevenLabs sync script
+          echo "Running ElevenLabs RAG sync..."
+          python3 scripts/elevenlabs_rag_sync.py
+          
+          echo "ElevenLabs sync completed successfully"
