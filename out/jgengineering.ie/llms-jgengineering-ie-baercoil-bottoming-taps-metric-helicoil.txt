@@ -10,6 +10,8 @@ Country/Region
 
 United States (USD $)
 
+- United States (USD $)
+
 ## Always better with a Discount
 
 Copy the code and save 10%
@@ -29,11 +31,24 @@ Sort by
 
 Alphabetically, A-Z
 
+- Featured
+- Best selling
+- Alphabetically, A-Z
+- Alphabetically, Z-A
+- Price, low to high
+- Price, high to low
+- Date, old to new
+- Date, new to old
+
 Compare
 
 View asListGrid
 
 * * *
+
+Applied Filters
+
+[Clear all](https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil?sort_by=title-ascending)
 
 Sort by
 
@@ -51,11 +66,13 @@ Availability
 - [ ] In stock(19)
 - [ ] Out of stock(0)
 
+[Clear](https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil)
+
 - Compare
 
 
 
-[![](https://www.jgengineering.ie/cdn/shop/products/baercoil_bottoming_tap_6689886.jpg?v=1353774043&width=460)](https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m8-x-1-25-baercoil-bottoming-tap-helicoil)
+[![](https://www.jgengineering.ie/cdn/shop/products/baercoil_bottoming_tap_6689886.jpg?v=1353774043&width=375)](https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m8-x-1-25-baercoil-bottoming-tap-helicoil)
 
 
 
@@ -79,10 +96,22 @@ BAERCOIL
 
 
 
+Unit price /
+
+
+
+**Unavailable**
+
+
+
 
 
 Very low stock
 (3 units)
+
+
+
+
 
 
 
@@ -96,7 +125,7 @@ Add to cartAdd to cart[View details](https://www.jgengineering.ie/collections/ba
 
 
 
-[![](https://www.jgengineering.ie/cdn/shop/products/baercoil_bottoming_tap_3419139.jpg?v=1353774181&width=460)](https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m9-x-1-0-baercoil-bottoming-tap-helicoil)
+[![](https://www.jgengineering.ie/cdn/shop/products/baercoil_bottoming_tap_3419139.jpg?v=1353774181&width=375)](https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m9-x-1-0-baercoil-bottoming-tap-helicoil)
 
 
 
@@ -120,6 +149,18 @@ BAERCOIL
 
 
 
+Unit price /
+
+
+
+**Unavailable**
+
+
+
+
+
+
+
 
 
 
@@ -132,7 +173,7 @@ Add to cartAdd to cart[View details](https://www.jgengineering.ie/collections/ba
 
 
 
-[![](https://www.jgengineering.ie/cdn/shop/products/baercoil_bottoming_tap_1383110.jpg?v=1353774378&width=460)](https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m9-x-1-25-baercoil-bottoming-tap-helicoil)
+[![](https://www.jgengineering.ie/cdn/shop/products/baercoil_bottoming_tap_1383110.jpg?v=1353774378&width=375)](https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m9-x-1-25-baercoil-bottoming-tap-helicoil)
 
 
 
@@ -156,10 +197,22 @@ BAERCOIL
 
 
 
+Unit price /
+
+
+
+**Unavailable**
+
+
+
 
 
 Very low stock
 (1 unit)
+
+
+
+
 
 
 
@@ -217,41 +270,7 @@ Loading...
 
 Close
 
-shop.app
-
-# shop.app is blocked
-
-This page has been blocked by an extension
-
-- Try disabling your extensions.
-
-ERR\_BLOCKED\_BY\_CLIENT
-
-Reload
-
-
-This page has been blocked by an extension
-
-![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
-
-BaerCoil Bottoming Taps Metric – Page 2 – JG Engineering Supplies Ltd 01-4730900
-
-www.jgengineering.ie
-
-# www.jgengineering.ie is blocked
-
-This page has been blocked by an extension
-
-- Try disabling your extensions.
-
-ERR\_BLOCKED\_BY\_CLIENT
-
-Reload
-
-
-This page has been blocked by an extension
-
-![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+[iframe](https://www.jgengineering.ie/web-pixels@f76b4158w3f0cce88pd0473a40m5f85a2ef/custom/web-pixel-193265999@1/sandbox/modern/collections/baercoil-bottoming-taps-metric-helicoil?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfdGl0bGUiLCJzdiI6Ik04IHggMS4wIEJhZXJDb2lsIEJvdHRvbWluZyBUYXAgKEhlbGljb2lsIFR5cGUpIiwiZCI6ImYiLCJ1aWQiOjIzMjc4MzY2NiwibCI6MTYsIm8iOjAsInIiOiJDRFAiLCJ2IjoxLCJwIjoyfQ.fNQ9sOioyI11UgeR7a4bv9jAysM1MGP7upKuoppnJ9g)[iframe](https://www.jgengineering.ie/web-pixels@f76b4158w3f0cce88pd0473a40m5f85a2ef/custom/web-pixel-shopify-custom-pixel@0450/sandbox/modern/collections/baercoil-bottoming-taps-metric-helicoil?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfdGl0bGUiLCJzdiI6Ik04IHggMS4wIEJhZXJDb2lsIEJvdHRvbWluZyBUYXAgKEhlbGljb2lsIFR5cGUpIiwiZCI6ImYiLCJ1aWQiOjIzMjc4MzY2NiwibCI6MTYsIm8iOjAsInIiOiJDRFAiLCJ2IjoxLCJwIjoyfQ.fNQ9sOioyI11UgeR7a4bv9jAysM1MGP7upKuoppnJ9g)
 
 <|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m10-x-1-0-baercoil-bottoming-tap-helicoil-lllmstxt|>
 ## M10 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) – JG Engineering Supplies Ltd      01-4730900
