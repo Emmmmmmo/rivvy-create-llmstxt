@@ -84,11 +84,9 @@ Loading...
 
 Close
 
-BaerCoil Thread Repair ( Helicoil Type ) – JG Engineering Supplies Ltd 01-4730900
+shop.app
 
-www.jgengineering.ie
-
-# www.jgengineering.ie is blocked
+# shop.app is blocked
 
 This page has been blocked by an extension
 
@@ -103,9 +101,11 @@ This page has been blocked by an extension
 
 ![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
 
-shop.app
+BaerCoil Thread Repair ( Helicoil Type ) – JG Engineering Supplies Ltd 01-4730900
 
-# shop.app is blocked
+www.jgengineering.ie
+
+# www.jgengineering.ie is blocked
 
 This page has been blocked by an extension
 
