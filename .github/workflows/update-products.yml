@@ -307,7 +307,7 @@ jobs:
           git push origin main
           
       - name: Sync to ElevenLabs
-        if: steps.changes.outputs.changes == 'true'
+        if: always()
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
