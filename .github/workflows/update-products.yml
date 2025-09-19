@@ -325,7 +325,7 @@ jobs:
             exit 0
           fi
           
-          # Run the ElevenLabs sync script
+          # Run single-phase sync with extended retry logic
           echo "Running ElevenLabs RAG sync..."
           python3 scripts/elevenlabs_rag_sync.py
           

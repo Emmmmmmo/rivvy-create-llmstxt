@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """
-ElevenLabs RAG Sync Script - Incremental Version
+ElevenLabs RAG Sync Script - Single Phase Approach
 
-This script syncs generated LLMs.txt files to ElevenLabs conversational AI agents.
-It performs incremental updates, preserving existing files and only updating what changed.
+This script uploads files directly to the ElevenLabs agent, which triggers
+automatic indexing. Uses extended retry logic to handle RAG indexing delays.
+
+Usage:
+  python3 scripts/elevenlabs_rag_sync.py [domain] [--force]
 """
 
 import os
@@ -12,6 +15,7 @@ import logging
 import requests
 import time
 import hashlib
+import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Set, Tuple
 from datetime import datetime
@@ -186,8 +190,11 @@ class ElevenLabsRAGSync:
             logger.error(f"Request error uploading {filename}: {e}")
             return None
     
-    def _update_agent_knowledge_base(self, agent_id: str, knowledge_base: List[Dict], max_retries: int = 3) -> bool:
-        """Update the agent's knowledge base with the new list of documents, with retry logic for RAG index issues."""
+    def _update_agent_knowledge_base(self, agent_id: str, knowledge_base: List[Dict], max_retries: int = 6) -> bool:
+        """Update the agent's knowledge base with extended retry logic for RAG indexing delays."""
+        # Progressive retry intervals: 2min, 5min, 10min, 20min, 30min, 60min
+        retry_intervals = [120, 300, 600, 1200, 1800, 3600]  # seconds
+        
         for attempt in range(max_retries):
             try:
                 update_payload = {
@@ -210,7 +217,7 @@ class ElevenLabsRAGSync:
                     update_url,
                     headers=update_headers,
                     json=update_payload,
-                    timeout=30
+                    timeout=60  # Increased timeout for agent updates
                 )
                 
                 if update_response.status_code == 200:
@@ -222,12 +229,24 @@ class ElevenLabsRAGSync:
                     # Check for RAG index not ready error
                     if "rag_index_not_ready" in error_text:
                         if attempt < max_retries - 1:
-                            wait_time = (attempt + 1) * 30  # 30, 60, 90 seconds
-                            logger.warning(f"RAG index not ready, waiting {wait_time} seconds before retry {attempt + 2}/{max_retries}")
+                            wait_time = retry_intervals[attempt]
+                            logger.warning(f"RAG index not ready, waiting {wait_time//60} minutes before retry {attempt + 2}/{max_retries}")
                             time.sleep(wait_time)
                             continue
                         else:
                             logger.error(f"RAG index still not ready after {max_retries} attempts")
+                            return False
+                    
+                    # Check for document not found error
+                    elif "knowledge_base_documentation_not_found" in error_text:
+                        logger.warning(f"Some documents not found in knowledge base - they may still be indexing")
+                        if attempt < max_retries - 1:
+                            wait_time = retry_intervals[attempt]
+                            logger.warning(f"Waiting {wait_time//60} minutes for document indexing before retry {attempt + 2}/{max_retries}")
+                            time.sleep(wait_time)
+                            continue
+                        else:
+                            logger.error(f"Documents still not found after {max_retries} attempts")
                             return False
                     
                     # Check for size limit errors
@@ -243,7 +262,9 @@ class ElevenLabsRAGSync:
             except Exception as e:
                 logger.error(f"Error updating agent knowledge base (attempt {attempt + 1}): {e}")
                 if attempt < max_retries - 1:
-                    time.sleep(10)  # Wait 10 seconds before retry
+                    wait_time = retry_intervals[attempt]
+                    logger.warning(f"Waiting {wait_time//60} minutes before retry {attempt + 2}/{max_retries}")
+                    time.sleep(wait_time)
                     continue
                 else:
                     return False
@@ -255,8 +276,8 @@ class ElevenLabsRAGSync:
         return self._update_agent_knowledge_base(agent_id, [])
     
     def sync_domain(self, domain: str, force_sync: bool = False) -> bool:
-        """Sync all LLMs files for a specific domain with incremental updates."""
-        logger.info(f"Starting incremental sync for domain: {domain}")
+        """Sync all LLMs files for a domain to ElevenLabs agent (single-phase approach)."""
+        logger.info(f"Starting single-phase sync for domain: {domain}")
         
         # Get agent configuration
         agent_config = self._get_agent_for_domain(domain)
@@ -294,15 +315,13 @@ class ElevenLabsRAGSync:
         
         logger.info(f"Found {len(llms_files)} LLMs files for {domain}")
         
-        # Handle force sync - clear everything and start fresh
+        # Handle force sync - clear sync state and knowledge base
         if force_sync:
-            logger.info("Force sync requested - clearing knowledge base and starting fresh")
-            if not self._clear_knowledge_base(agent_id):
-                logger.error("Failed to clear knowledge base for force sync")
-                return False
-            # Clear sync state
+            logger.info("Force sync requested - clearing sync state and knowledge base")
             self.sync_state = {}
             self._save_sync_state()
+            if not self._clear_knowledge_base(agent_id):
+                logger.warning("Failed to clear knowledge base, continuing anyway")
         
         # Get current knowledge base from ElevenLabs
         current_kb, agent_data = self._get_agent_knowledge_base(agent_id)
@@ -313,9 +332,8 @@ class ElevenLabsRAGSync:
             if isinstance(doc, dict) and 'name' in doc:
                 current_docs_by_name[doc['name']] = doc
         
-        # Track what we need to do
+        # Track what we need to upload
         files_to_upload = []
-        files_to_update = []
         files_to_keep = []
         
         # Analyze each local file
@@ -327,55 +345,33 @@ class ElevenLabsRAGSync:
                 logger.warning(f"Could not calculate hash for {file_path.name}, skipping")
                 continue
             
-            # Check if file exists in ElevenLabs
-            if filename in current_docs_by_name:
-                # File exists - check if it needs updating
-                stored_hash = self.sync_state.get(f"{domain}:{file_path.name}", {}).get('hash', '')
-                
-                if stored_hash == current_hash:
-                    # File hasn't changed
-                    files_to_keep.append((file_path, filename, current_docs_by_name[filename]))
-                    logger.debug(f"Keeping unchanged file: {file_path.name}")
-                else:
-                    # File has changed - need to update
-                    files_to_update.append((file_path, filename, current_docs_by_name[filename]))
-                    logger.info(f"File changed, will update: {file_path.name}")
+            # Check if file needs uploading
+            stored_hash = self.sync_state.get(f"{domain}:{file_path.name}", {}).get('hash', '')
+            
+            if stored_hash == current_hash and filename in current_docs_by_name:
+                # File hasn't changed and is already assigned
+                files_to_keep.append((file_path, filename, current_docs_by_name[filename]))
+                logger.debug(f"Keeping unchanged file: {file_path.name}")
             else:
-                # File doesn't exist - need to upload
+                # File has changed or is new - need to upload
                 files_to_upload.append((file_path, filename))
-                logger.info(f"New file, will upload: {file_path.name}")
+                logger.info(f"File changed/new, will upload: {file_path.name}")
         
         # Report what we found
         logger.info(f"Sync plan for {domain}:")
         logger.info(f"  - Keep unchanged: {len(files_to_keep)} files")
-        logger.info(f"  - Update changed: {len(files_to_update)} files")
-        logger.info(f"  - Upload new: {len(files_to_upload)} files")
+        logger.info(f"  - Upload new/changed: {len(files_to_upload)} files")
         
-        if not files_to_upload and not files_to_update:
+        if not files_to_upload:
             logger.info(f"No changes needed for {domain}, sync complete")
             return True
         
-        # Start building new knowledge base
-        new_knowledge_base = []
-        
-        # Keep unchanged files
-        for file_path, filename, existing_doc in files_to_keep:
-            new_knowledge_base.append(existing_doc)
-        
-        # Upload new files
+        # Upload new/changed files
         uploaded_count = 0
         for file_path, filename in files_to_upload:
-            logger.info(f"Uploading new file: {file_path.name}")
+            logger.info(f"Uploading file: {file_path.name}")
             document_id = self._upload_file_to_knowledge_base(file_path, filename)
             if document_id:
-                new_doc = {
-                    "type": "file",
-                    "name": filename,
-                    "id": document_id,
-                    "usage_mode": "auto"
-                }
-                new_knowledge_base.append(new_doc)
-                
                 # Update sync state
                 file_key = f"{domain}:{file_path.name}"
                 self.sync_state[file_key] = {
@@ -389,54 +385,44 @@ class ElevenLabsRAGSync:
             
             time.sleep(1)  # Rate limiting
         
-        # Update changed files
-        updated_count = 0
-        for file_path, filename, old_doc in files_to_update:
-            logger.info(f"Updating changed file: {file_path.name}")
-            document_id = self._upload_file_to_knowledge_base(file_path, filename)
-            if document_id:
-                new_doc = {
-                    "type": "file",
-                    "name": filename,
-                    "id": document_id,
-                    "usage_mode": "auto"
-                }
-                new_knowledge_base.append(new_doc)
-                
-                # Update sync state
-                file_key = f"{domain}:{file_path.name}"
-                self.sync_state[file_key] = {
-                    'hash': self._get_file_hash(file_path),
-                    'document_id': document_id,
-                    'uploaded_at': datetime.now().isoformat()
-                }
-                updated_count += 1
-            else:
-                logger.error(f"Failed to update {file_path.name}")
-                # Keep the old document if update failed
-                new_knowledge_base.append(old_doc)
-            
-            time.sleep(1)  # Rate limiting
+        # Save sync state
+        self._save_sync_state()
         
-        # Update the agent's knowledge base with retry logic
+        # Build new knowledge base
+        new_knowledge_base = []
+        
+        # Add kept files
+        for file_path, filename, existing_doc in files_to_keep:
+            new_knowledge_base.append(existing_doc)
+        
+        # Add newly uploaded files
+        for file_path, filename in files_to_upload:
+            file_key = f"{domain}:{file_path.name}"
+            if file_key in self.sync_state:
+                document_id = self.sync_state[file_key].get('document_id')
+                if document_id:
+                    new_doc = {
+                        "type": "file",
+                        "name": filename,
+                        "id": document_id,
+                        "usage_mode": "auto"
+                    }
+                    new_knowledge_base.append(new_doc)
+        
+        # Update the agent's knowledge base with extended retry logic
         if not self._update_agent_knowledge_base(agent_id, new_knowledge_base):
             logger.error("Failed to update agent knowledge base after retries")
             return False
-        
-        # Save sync state
-        self._save_sync_state()
         
         # Update last sync timestamp
         agent_config['last_sync'] = datetime.now().isoformat()
         self._save_config()
         
         logger.info(f"Sync completed for {domain}:")
-        logger.info(f"  - Uploaded: {uploaded_count} new files")
-        logger.info(f"  - Updated: {updated_count} changed files")
-        logger.info(f"  - Kept: {len(files_to_keep)} unchanged files")
+        logger.info(f"  - Uploaded: {uploaded_count} files")
         logger.info(f"  - Total in knowledge base: {len(new_knowledge_base)} files")
         
-        return uploaded_count > 0 or updated_count > 0
+        return uploaded_count > 0
     
     def _save_config(self):
         """Save updated configuration."""
@@ -446,7 +432,7 @@ class ElevenLabsRAGSync:
         except Exception as e:
             logger.error(f"Error saving configuration: {e}")
     
-    def sync_all_domains(self) -> Dict[str, bool]:
+    def sync_all_domains(self, force_sync: bool = False) -> Dict[str, bool]:
         """Sync all configured domains."""
         results = {}
         out_dir = Path("out")
@@ -459,7 +445,7 @@ class ElevenLabsRAGSync:
         for domain_dir in out_dir.iterdir():
             if domain_dir.is_dir():
                 domain = domain_dir.name
-                results[domain] = self.sync_domain(domain)
+                results[domain] = self.sync_domain(domain, force_sync=force_sync)
         
         return results
 
@@ -468,12 +454,13 @@ def main():
     try:
         sync = ElevenLabsRAGSync()
         
-        # Check if specific domain provided as argument
-        import sys
-        if len(sys.argv) > 1:
+        # Check command line arguments
+        force_sync = '--force' in sys.argv
+        
+        if len(sys.argv) > 1 and sys.argv[1] != '--force':
             domain = sys.argv[1]
-            force_sync = '--force' in sys.argv
             success = sync.sync_domain(domain, force_sync=force_sync)
+            
             if success:
                 logger.info(f"Sync completed successfully for {domain}")
                 exit(0)
@@ -482,7 +469,7 @@ def main():
                 exit(1)
         else:
             # Sync all domains
-            results = sync.sync_all_domains()
+            results = sync.sync_all_domains(force_sync=force_sync)
             
             if not results:
                 logger.warning("No domains found to sync")
