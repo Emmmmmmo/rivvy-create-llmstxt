@@ -154,11 +154,15 @@ class ElevenLabsRAGSync:
             
             headers = {"xi-api-key": self.api_key}
             
+            # Use longer timeout for large files
+            file_size_mb = file_path.stat().st_size / (1024 * 1024)
+            timeout = 60 if file_size_mb > 1 else 30  # 60 seconds for files > 1MB
+            
             response = requests.post(
                 upload_url,
                 headers=headers,
                 files=files,
-                timeout=30
+                timeout=timeout
             )
             
             if response.status_code == 200:
