@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """
-ElevenLabs RAG Sync Script
+ElevenLabs RAG Sync Script - Incremental Version
 
 This script syncs generated LLMs.txt files to ElevenLabs conversational AI agents.
-It reads the configuration from config/elevenlabs-agents.json and uploads files
-to the appropriate agents based on domain mapping.
+It performs incremental updates, preserving existing files and only updating what changed.
 """
 
 import os
@@ -12,8 +11,9 @@ import json
 import logging
 import requests
 import time
+import hashlib
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Set, Tuple
 from datetime import datetime
 
 # Configure logging
@@ -29,6 +29,8 @@ class ElevenLabsRAGSync:
         self.api_key = os.getenv('ELEVENLABS_API_KEY')
         self.base_url = "https://api.elevenlabs.io/v1/convai"
         self.config = self._load_config()
+        self.sync_state_file = Path("config/elevenlabs_sync_state.json")
+        self.sync_state = self._load_sync_state()
         
         if not self.api_key:
             raise ValueError("ELEVENLABS_API_KEY environment variable is required")
@@ -47,12 +49,63 @@ class ElevenLabsRAGSync:
             logger.error(f"Invalid JSON in configuration file: {e}")
             raise
     
-    def _get_headers(self) -> Dict[str, str]:
-        """Get headers for ElevenLabs API requests."""
-        return {
-            "xi-api-key": self.api_key,
-            "Content-Type": "application/json"
-        }
+    def _load_sync_state(self) -> Dict:
+        """Load sync state to track uploaded files and their hashes."""
+        try:
+            if self.sync_state_file.exists():
+                with open(self.sync_state_file, 'r') as f:
+                    state = json.load(f)
+                logger.info(f"Loaded sync state from {self.sync_state_file}")
+                return state
+            else:
+                logger.info("No existing sync state found, starting fresh")
+                return {}
+        except Exception as e:
+            logger.warning(f"Error loading sync state: {e}, starting fresh")
+            return {}
+    
+    def _save_sync_state(self):
+        """Save sync state to track uploaded files."""
+        try:
+            self.sync_state_file.parent.mkdir(parents=True, exist_ok=True)
+            with open(self.sync_state_file, 'w') as f:
+                json.dump(self.sync_state, f, indent=2)
+            logger.debug(f"Saved sync state to {self.sync_state_file}")
+        except Exception as e:
+            logger.error(f"Error saving sync state: {e}")
+    
+    def _get_file_hash(self, file_path: Path) -> str:
+        """Calculate MD5 hash of file content."""
+        try:
+            with open(file_path, 'rb') as f:
+                content = f.read()
+            return hashlib.md5(content).hexdigest()
+        except Exception as e:
+            logger.error(f"Error calculating hash for {file_path}: {e}")
+            return ""
+    
+    def _get_agent_knowledge_base(self, agent_id: str) -> Tuple[List[Dict], Dict]:
+        """Get current knowledge base from ElevenLabs agent and return both docs and full config."""
+        try:
+            get_url = f"{self.base_url}/agents/{agent_id}"
+            headers = {"xi-api-key": self.api_key}
+            
+            response = requests.get(get_url, headers=headers, timeout=10)
+            
+            if response.status_code != 200:
+                logger.warning(f"Failed to get agent config: {response.status_code}")
+                return [], {}
+            
+            agent_data = response.json()
+            prompt_config = agent_data.get("conversation_config", {}).get("agent", {}).get("prompt", {})
+            knowledge_base = prompt_config.get("knowledge_base", [])
+            
+            logger.info(f"Found {len(knowledge_base)} existing documents in agent knowledge base")
+            return knowledge_base, agent_data
+            
+        except Exception as e:
+            logger.warning(f"Error getting agent knowledge base: {e}")
+            return [], {}
     
     def _get_agent_for_domain(self, domain: str) -> Optional[Dict]:
         """Get agent configuration for a specific domain."""
@@ -75,18 +128,12 @@ class ElevenLabsRAGSync:
             return False
         return True
     
-    def _upload_file_to_agent(self, agent_config: Dict, file_path: Path, domain: str) -> bool:
-        """Upload a single file to an ElevenLabs agent."""
-        agent_id = agent_config['agent_id']
-        file_prefix = agent_config.get('file_prefix', domain.replace('.', '_'))
-        
-        # Create filename with prefix
-        filename = f"{file_prefix}_{file_path.name}"
-        
+    def _upload_file_to_knowledge_base(self, file_path: Path, filename: str) -> Optional[str]:
+        """Upload a file to ElevenLabs knowledge base and return document ID."""
         # Check file size
-        max_size_mb = agent_config.get('max_file_size_mb', 8)
+        max_size_mb = 8  # Default limit
         if not self._check_file_size(file_path, max_size_mb):
-            return False
+            return None
         
         # Read file content
         try:
@@ -94,7 +141,7 @@ class ElevenLabsRAGSync:
                 content = f.read()
         except Exception as e:
             logger.error(f"Error reading file {file_path}: {e}")
-            return False
+            return None
         
         # Upload to ElevenLabs knowledge base
         upload_url = f"{self.base_url}/knowledge-base/file"
@@ -105,7 +152,6 @@ class ElevenLabsRAGSync:
                 'file': (filename, content, 'text/plain')
             }
             
-            # Remove Content-Type from headers for multipart upload
             headers = {"xi-api-key": self.api_key}
             
             response = requests.post(
@@ -116,69 +162,30 @@ class ElevenLabsRAGSync:
             )
             
             if response.status_code == 200:
-                # Parse the response to get the document ID
                 try:
                     response_data = response.json()
                     document_id = response_data.get('id')
                     if document_id:
                         logger.info(f"Successfully uploaded {filename} to knowledge base (ID: {document_id})")
-                        # Link the document to the agent
-                        if self._link_document_to_agent(agent_id, document_id):
-                            logger.info(f"Successfully linked document {document_id} to agent {agent_id}")
-                            return True
-                        else:
-                            logger.warning(f"Uploaded {filename} but failed to link to agent")
-                            return False
+                        return document_id
                     else:
                         logger.warning(f"Uploaded {filename} but no document ID in response")
-                        return False
+                        return None
                 except Exception as e:
                     logger.error(f"Error parsing upload response: {e}")
-                    return False
+                    return None
             else:
                 logger.error(f"Failed to upload {filename}: {response.status_code} - {response.text}")
-                return False
+                return None
                 
         except requests.exceptions.RequestException as e:
             logger.error(f"Request error uploading {filename}: {e}")
-            return False
+            return None
     
-    def _link_document_to_agent(self, agent_id: str, document_id: str) -> bool:
-        """Link a knowledge base document to an agent"""
-        try:
-            # Get current agent configuration
-            get_url = f"{self.base_url}/agents/{agent_id}"
-            headers = {"xi-api-key": self.api_key}
-            
-            response = requests.get(get_url, headers=headers, timeout=10)
-            
-            if response.status_code != 200:
-                logger.error(f"Failed to get agent config: {response.status_code}")
-                return False
-            
-            agent_data = response.json()
-            
-            # Add document to knowledge base list
-            # The knowledge_base field is under conversation_config.agent.prompt
-            prompt_config = agent_data.get("conversation_config", {}).get("agent", {}).get("prompt", {})
-            knowledge_base = prompt_config.get("knowledge_base", [])
-            
-            # Check if document is already linked
-            document_already_linked = any(
-                doc.get("id") == document_id for doc in knowledge_base
-            )
-            
-            if not document_already_linked:
-                # Add new document to knowledge base
-                new_document = {
-                    "type": "file",
-                    "name": f"Document {document_id}",
-                    "id": document_id,
-                    "usage_mode": "prompt"
-                }
-                knowledge_base.append(new_document)
-                
-                # Create a minimal update payload to avoid conflicts
+    def _update_agent_knowledge_base(self, agent_id: str, knowledge_base: List[Dict], max_retries: int = 3) -> bool:
+        """Update the agent's knowledge base with the new list of documents, with retry logic for RAG index issues."""
+        for attempt in range(max_retries):
+            try:
                 update_payload = {
                     "conversation_config": {
                         "agent": {
@@ -189,7 +196,6 @@ class ElevenLabsRAGSync:
                     }
                 }
                 
-                # Update agent configuration
                 update_url = f"{self.base_url}/agents/{agent_id}"
                 update_headers = {
                     "xi-api-key": self.api_key,
@@ -204,22 +210,49 @@ class ElevenLabsRAGSync:
                 )
                 
                 if update_response.status_code == 200:
-                    logger.info(f"Successfully linked document {document_id} to agent {agent_id}")
+                    logger.info(f"Successfully updated agent knowledge base with {len(knowledge_base)} documents")
                     return True
                 else:
-                    logger.error(f"Failed to update agent: {update_response.status_code} - {update_response.text}")
+                    error_text = update_response.text.lower()
+                    
+                    # Check for RAG index not ready error
+                    if "rag_index_not_ready" in error_text:
+                        if attempt < max_retries - 1:
+                            wait_time = (attempt + 1) * 30  # 30, 60, 90 seconds
+                            logger.warning(f"RAG index not ready, waiting {wait_time} seconds before retry {attempt + 2}/{max_retries}")
+                            time.sleep(wait_time)
+                            continue
+                        else:
+                            logger.error(f"RAG index still not ready after {max_retries} attempts")
+                            return False
+                    
+                    # Check for size limit errors
+                    elif "too large" in error_text or "size" in error_text:
+                        logger.warning(f"Knowledge base size limit reached. This shouldn't happen with incremental sync.")
+                        return False
+                    
+                    # Other errors
+                    else:
+                        logger.error(f"Failed to update agent knowledge base: {update_response.status_code} - {update_response.text}")
+                        return False
+                        
+            except Exception as e:
+                logger.error(f"Error updating agent knowledge base (attempt {attempt + 1}): {e}")
+                if attempt < max_retries - 1:
+                    time.sleep(10)  # Wait 10 seconds before retry
+                    continue
+                else:
                     return False
-            else:
-                logger.info(f"Document {document_id} already linked to agent {agent_id}")
-                return True
-                
-        except Exception as e:
-            logger.error(f"Error linking document to agent: {e}")
-            return False
+        
+        return False
     
-    def sync_domain(self, domain: str) -> bool:
-        """Sync all LLMs files for a specific domain."""
-        logger.info(f"Starting sync for domain: {domain}")
+    def _clear_knowledge_base(self, agent_id: str) -> bool:
+        """Clear all documents from the agent's knowledge base."""
+        return self._update_agent_knowledge_base(agent_id, [])
+    
+    def sync_domain(self, domain: str, force_sync: bool = False) -> bool:
+        """Sync all LLMs files for a specific domain with incremental updates."""
+        logger.info(f"Starting incremental sync for domain: {domain}")
         
         # Get agent configuration
         agent_config = self._get_agent_for_domain(domain)
@@ -240,6 +273,9 @@ class ElevenLabsRAGSync:
             logger.error(f"Agent ID not configured for domain {domain}. Please update config/elevenlabs-agents.json")
             return False
         
+        agent_id = agent_config['agent_id']
+        file_prefix = agent_config.get('file_prefix', domain.replace('.', '_'))
+        
         # Get domain directory
         domain_dir = Path("out") / domain
         if not domain_dir.exists():
@@ -254,20 +290,149 @@ class ElevenLabsRAGSync:
         
         logger.info(f"Found {len(llms_files)} LLMs files for {domain}")
         
-        # Upload files
-        success_count = 0
+        # Handle force sync - clear everything and start fresh
+        if force_sync:
+            logger.info("Force sync requested - clearing knowledge base and starting fresh")
+            if not self._clear_knowledge_base(agent_id):
+                logger.error("Failed to clear knowledge base for force sync")
+                return False
+            # Clear sync state
+            self.sync_state = {}
+            self._save_sync_state()
+        
+        # Get current knowledge base from ElevenLabs
+        current_kb, agent_data = self._get_agent_knowledge_base(agent_id)
+        
+        # Create a map of current documents by filename (with prefix)
+        current_docs_by_name = {}
+        for doc in current_kb:
+            if isinstance(doc, dict) and 'name' in doc:
+                current_docs_by_name[doc['name']] = doc
+        
+        # Track what we need to do
+        files_to_upload = []
+        files_to_update = []
+        files_to_keep = []
+        
+        # Analyze each local file
         for file_path in llms_files:
-            if self._upload_file_to_agent(agent_config, file_path, domain):
-                success_count += 1
+            filename = f"{file_prefix}_{file_path.name}"
+            current_hash = self._get_file_hash(file_path)
+            
+            if not current_hash:
+                logger.warning(f"Could not calculate hash for {file_path.name}, skipping")
+                continue
+            
+            # Check if file exists in ElevenLabs
+            if filename in current_docs_by_name:
+                # File exists - check if it needs updating
+                stored_hash = self.sync_state.get(f"{domain}:{file_path.name}", {}).get('hash', '')
+                
+                if stored_hash == current_hash:
+                    # File hasn't changed
+                    files_to_keep.append((file_path, filename, current_docs_by_name[filename]))
+                    logger.debug(f"Keeping unchanged file: {file_path.name}")
+                else:
+                    # File has changed - need to update
+                    files_to_update.append((file_path, filename, current_docs_by_name[filename]))
+                    logger.info(f"File changed, will update: {file_path.name}")
+            else:
+                # File doesn't exist - need to upload
+                files_to_upload.append((file_path, filename))
+                logger.info(f"New file, will upload: {file_path.name}")
+        
+        # Report what we found
+        logger.info(f"Sync plan for {domain}:")
+        logger.info(f"  - Keep unchanged: {len(files_to_keep)} files")
+        logger.info(f"  - Update changed: {len(files_to_update)} files")
+        logger.info(f"  - Upload new: {len(files_to_upload)} files")
+        
+        if not files_to_upload and not files_to_update:
+            logger.info(f"No changes needed for {domain}, sync complete")
+            return True
+        
+        # Start building new knowledge base
+        new_knowledge_base = []
+        
+        # Keep unchanged files
+        for file_path, filename, existing_doc in files_to_keep:
+            new_knowledge_base.append(existing_doc)
+        
+        # Upload new files
+        uploaded_count = 0
+        for file_path, filename in files_to_upload:
+            logger.info(f"Uploading new file: {file_path.name}")
+            document_id = self._upload_file_to_knowledge_base(file_path, filename)
+            if document_id:
+                new_doc = {
+                    "type": "file",
+                    "name": filename,
+                    "id": document_id,
+                    "usage_mode": "auto"
+                }
+                new_knowledge_base.append(new_doc)
+                
+                # Update sync state
+                file_key = f"{domain}:{file_path.name}"
+                self.sync_state[file_key] = {
+                    'hash': self._get_file_hash(file_path),
+                    'document_id': document_id,
+                    'uploaded_at': datetime.now().isoformat()
+                }
+                uploaded_count += 1
+            else:
+                logger.error(f"Failed to upload {file_path.name}")
+            
             time.sleep(1)  # Rate limiting
         
-        logger.info(f"Successfully uploaded {success_count}/{len(llms_files)} files for {domain}")
+        # Update changed files
+        updated_count = 0
+        for file_path, filename, old_doc in files_to_update:
+            logger.info(f"Updating changed file: {file_path.name}")
+            document_id = self._upload_file_to_knowledge_base(file_path, filename)
+            if document_id:
+                new_doc = {
+                    "type": "file",
+                    "name": filename,
+                    "id": document_id,
+                    "usage_mode": "auto"
+                }
+                new_knowledge_base.append(new_doc)
+                
+                # Update sync state
+                file_key = f"{domain}:{file_path.name}"
+                self.sync_state[file_key] = {
+                    'hash': self._get_file_hash(file_path),
+                    'document_id': document_id,
+                    'uploaded_at': datetime.now().isoformat()
+                }
+                updated_count += 1
+            else:
+                logger.error(f"Failed to update {file_path.name}")
+                # Keep the old document if update failed
+                new_knowledge_base.append(old_doc)
+            
+            time.sleep(1)  # Rate limiting
+        
+        # Update the agent's knowledge base with retry logic
+        if not self._update_agent_knowledge_base(agent_id, new_knowledge_base):
+            logger.error("Failed to update agent knowledge base after retries")
+            return False
+        
+        # Save sync state
+        self._save_sync_state()
         
         # Update last sync timestamp
         agent_config['last_sync'] = datetime.now().isoformat()
         self._save_config()
         
-        return success_count > 0
+        logger.info(f"Sync completed for {domain}:")
+        logger.info(f"  - Uploaded: {uploaded_count} new files")
+        logger.info(f"  - Updated: {updated_count} changed files")
+        logger.info(f"  - Kept: {len(files_to_keep)} unchanged files")
+        logger.info(f"  - Total in knowledge base: {len(new_knowledge_base)} files")
+        
+        return uploaded_count > 0 or updated_count > 0
     
     def _save_config(self):
         """Save updated configuration."""
@@ -303,7 +468,8 @@ def main():
         import sys
         if len(sys.argv) > 1:
             domain = sys.argv[1]
-            success = sync.sync_domain(domain)
+            force_sync = '--force' in sys.argv
+            success = sync.sync_domain(domain, force_sync=force_sync)
             if success:
                 logger.info(f"Sync completed successfully for {domain}")
                 exit(0)
