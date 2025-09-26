@@ -132,6 +132,80 @@ class ElevenLabsRAGSync:
             return False
         return True
     
+    def _trigger_rag_indexing(self, document_id: str) -> bool:
+        """Manually trigger RAG indexing for a document."""
+        try:
+            index_url = f"{self.base_url}/knowledge-base/documents/{document_id}/compute-rag-index"
+            headers = {
+                "xi-api-key": self.api_key,
+                "Content-Type": "application/json"
+            }
+            
+            payload = {
+                "model": "e5_mistral_7b_instruct"  # Default embedding model
+            }
+            
+            response = requests.post(index_url, headers=headers, json=payload, timeout=30)
+            
+            if response.status_code in [200, 201, 202]:
+                logger.info(f"Successfully triggered RAG indexing for document {document_id}")
+                return True
+            else:
+                logger.warning(f"Failed to trigger RAG indexing: {response.status_code} - {response.text}")
+                return False
+                
+        except Exception as e:
+            logger.warning(f"Error triggering RAG indexing: {e}")
+            return False
+
+    def _check_rag_indexing_status(self, document_id: str, max_wait_time: int = 600) -> bool:
+        """Check RAG indexing status for a document with proper polling."""
+        start_time = time.time()
+        
+        # First, try to trigger indexing
+        logger.info(f"Triggering RAG indexing for document {document_id}")
+        self._trigger_rag_indexing(document_id)
+        
+        # Then poll for completion
+        status_url = f"{self.base_url}/knowledge-base/documents/{document_id}/compute-rag-index"
+        headers = {"xi-api-key": self.api_key}
+        
+        while time.time() - start_time < max_wait_time:
+            try:
+                response = requests.get(status_url, headers=headers, timeout=10)
+                if response.status_code == 200:
+                    status_data = response.json()
+                    status = status_data.get('status', 'unknown')
+                    logger.info(f"RAG indexing status for {document_id}: {status}")
+                    
+                    if status == "SUCCEEDED":
+                        logger.info(f"✅ RAG indexing completed for document {document_id}")
+                        return True
+                    elif status == "FAILED":
+                        logger.error(f"❌ RAG indexing failed for document {document_id}")
+                        return False
+                    else:
+                        # Still processing, wait and check again
+                        logger.info(f"🔄 RAG indexing in progress for {document_id}, waiting 30s...")
+                        time.sleep(30)
+                else:
+                    # If status endpoint doesn't work, fall back to time-based waiting
+                    logger.info(f"Cannot check RAG status (HTTP {response.status_code}), using time-based waiting")
+                    break
+            except Exception as e:
+                logger.warning(f"Error checking RAG status: {e}, falling back to time-based waiting")
+                break
+        
+        # Fallback: wait a reasonable amount of time and assume it's ready
+        elapsed = time.time() - start_time
+        if elapsed < 180:  # If we haven't waited at least 3 minutes, wait more
+            wait_more = 180 - elapsed
+            logger.info(f"Waiting additional {wait_more:.0f} seconds for RAG indexing to complete")
+            time.sleep(wait_more)
+        
+        logger.info(f"Proceeding with assignment after {elapsed + (180 - elapsed if elapsed < 180 else 0):.0f} seconds")
+        return True
+
     def _upload_file_to_knowledge_base(self, file_path: Path, filename: str) -> Optional[str]:
         """Upload a file to ElevenLabs knowledge base and return document ID."""
         # Check file size
@@ -190,10 +264,10 @@ class ElevenLabsRAGSync:
             logger.error(f"Request error uploading {filename}: {e}")
             return None
     
-    def _update_agent_knowledge_base(self, agent_id: str, knowledge_base: List[Dict], max_retries: int = 6) -> bool:
+    def _update_agent_knowledge_base(self, agent_id: str, knowledge_base: List[Dict], max_retries: int = 8) -> bool:
         """Update the agent's knowledge base with extended retry logic for RAG indexing delays."""
-        # Progressive retry intervals: 2min, 5min, 10min, 20min, 30min, 60min
-        retry_intervals = [120, 300, 600, 1200, 1800, 3600]  # seconds
+        # Progressive retry intervals: 15sec, 45sec, 2min, 5min, 10min, 15min, 20min, 30min (more patient for RAG indexing)
+        retry_intervals = [15, 45, 120, 300, 600, 900, 1200, 1800]  # seconds
         
         for attempt in range(max_retries):
             try:
@@ -221,20 +295,25 @@ class ElevenLabsRAGSync:
                 )
                 
                 if update_response.status_code == 200:
-                    logger.info(f"Successfully updated agent knowledge base with {len(knowledge_base)} documents")
+                    logger.info(f"✅ Successfully updated agent knowledge base with {len(knowledge_base)} documents")
                     return True
                 else:
                     error_text = update_response.text.lower()
+                    logger.warning(f"Agent update failed (attempt {attempt + 1}/{max_retries}): {update_response.status_code}")
+                    logger.debug(f"Error response: {update_response.text[:500]}")
                     
                     # Check for RAG index not ready error
-                    if "rag_index_not_ready" in error_text:
+                    if "rag_index_not_ready" in error_text or "rag" in error_text:
                         if attempt < max_retries - 1:
                             wait_time = retry_intervals[attempt]
-                            logger.warning(f"RAG index not ready, waiting {wait_time//60} minutes before retry {attempt + 2}/{max_retries}")
+                            if wait_time >= 60:
+                                logger.warning(f"🔄 RAG index not ready, waiting {wait_time//60} minutes before retry {attempt + 2}/{max_retries}")
+                            else:
+                                logger.warning(f"🔄 RAG index not ready, waiting {wait_time} seconds before retry {attempt + 2}/{max_retries}")
                             time.sleep(wait_time)
                             continue
                         else:
-                            logger.error(f"RAG index still not ready after {max_retries} attempts")
+                            logger.error(f"❌ RAG index still not ready after {max_retries} attempts ({max_retries * retry_intervals[-1] // 60} total minutes waited)")
                             return False
                     
                     # Check for document not found error
@@ -242,7 +321,10 @@ class ElevenLabsRAGSync:
                         logger.warning(f"Some documents not found in knowledge base - they may still be indexing")
                         if attempt < max_retries - 1:
                             wait_time = retry_intervals[attempt]
-                            logger.warning(f"Waiting {wait_time//60} minutes for document indexing before retry {attempt + 2}/{max_retries}")
+                            if wait_time >= 60:
+                                logger.warning(f"Waiting {wait_time//60} minutes for document indexing before retry {attempt + 2}/{max_retries}")
+                            else:
+                                logger.warning(f"Waiting {wait_time} seconds for document indexing before retry {attempt + 2}/{max_retries}")
                             time.sleep(wait_time)
                             continue
                         else:
@@ -263,7 +345,10 @@ class ElevenLabsRAGSync:
                 logger.error(f"Error updating agent knowledge base (attempt {attempt + 1}): {e}")
                 if attempt < max_retries - 1:
                     wait_time = retry_intervals[attempt]
-                    logger.warning(f"Waiting {wait_time//60} minutes before retry {attempt + 2}/{max_retries}")
+                    if wait_time >= 60:
+                        logger.warning(f"Waiting {wait_time//60} minutes before retry {attempt + 2}/{max_retries}")
+                    else:
+                        logger.warning(f"Waiting {wait_time} seconds before retry {attempt + 2}/{max_retries}")
                     time.sleep(wait_time)
                     continue
                 else:
@@ -274,6 +359,38 @@ class ElevenLabsRAGSync:
     def _clear_knowledge_base(self, agent_id: str) -> bool:
         """Clear all documents from the agent's knowledge base."""
         return self._update_agent_knowledge_base(agent_id, [])
+    
+    def _remove_old_document_versions(self, agent_id: str, current_kb: List[Dict], files_to_upload: List[Tuple[Path, str]], file_prefix: str) -> List[Dict]:
+        """Remove old versions of files that are being updated to prevent accumulation."""
+        logger.info("🧹 Cleaning up old document versions...")
+        
+        # Create a set of filenames that are being updated
+        updated_filenames = set()
+        for _, filename in files_to_upload:
+            updated_filenames.add(filename)
+        
+        # Filter out old versions of files being updated
+        cleaned_kb = []
+        removed_count = 0
+        
+        for doc in current_kb:
+            if isinstance(doc, dict) and 'name' in doc:
+                doc_name = doc['name']
+                
+                # Check if this is an old version of a file being updated
+                if doc_name in updated_filenames:
+                    logger.info(f"🗑️  Removing old version: {doc_name} (ID: {doc.get('id', 'unknown')})")
+                    removed_count += 1
+                else:
+                    # Keep this document (not being updated)
+                    cleaned_kb.append(doc)
+        
+        if removed_count > 0:
+            logger.info(f"✅ Removed {removed_count} old document versions")
+        else:
+            logger.info("ℹ️  No old versions to remove")
+        
+        return cleaned_kb
     
     def sync_domain(self, domain: str, force_sync: bool = False) -> bool:
         """Sync all LLMs files for a domain to ElevenLabs agent (single-phase approach)."""
@@ -366,8 +483,13 @@ class ElevenLabsRAGSync:
             logger.info(f"No changes needed for {domain}, sync complete")
             return True
         
-        # Upload new/changed files
+        # Clean up old versions of files being updated
+        cleaned_kb = self._remove_old_document_versions(agent_id, current_kb, files_to_upload, file_prefix)
+        
+        # Upload and assign files one by one to trigger immediate indexing
         uploaded_count = 0
+        assigned_count = 0
+        
         for file_path, filename in files_to_upload:
             logger.info(f"Uploading file: {file_path.name}")
             document_id = self._upload_file_to_knowledge_base(file_path, filename)
@@ -380,39 +502,84 @@ class ElevenLabsRAGSync:
                     'uploaded_at': datetime.now().isoformat()
                 }
                 uploaded_count += 1
+                
+                # According to ElevenLabs docs: "indexing happens automatically when document is added to agent with RAG enabled"
+                # But we need to wait for the document to be processed before assignment
+                logger.info(f"Waiting for document to be processed before assignment: {file_path.name}")
+                
+                # Wait longer for new documents to be processed by ElevenLabs
+                logger.info(f"Waiting 3 minutes for ElevenLabs to process document for RAG indexing...")
+                time.sleep(180)  # Wait 3 minutes for document processing
+                
+                new_doc = {
+                    "type": "file",
+                    "name": filename,
+                    "id": document_id,
+                    "usage_mode": "auto"
+                }
+                
+                # Build knowledge base with cleaned files + this new file
+                temp_knowledge_base = []
+                for _, _, existing_doc in files_to_keep:
+                    temp_knowledge_base.append(existing_doc)
+                temp_knowledge_base.append(new_doc)
+                
+                # Try to assign this file to the RAG-enabled agent with extended retry logic
+                # The "rag_index_not_ready" error should be resolved after the wait period
+                if self._update_agent_knowledge_base(agent_id, temp_knowledge_base, max_retries=6):
+                    assigned_count += 1
+                    logger.info(f"✅ Successfully assigned {file_path.name} to RAG-enabled agent - indexing will happen automatically")
+                else:
+                    logger.warning(f"⚠️  Failed to assign {file_path.name} to agent, will retry in final batch")
+                
+                # Wait a bit between assignments to avoid overwhelming the API
+                time.sleep(2)
             else:
                 logger.error(f"Failed to upload {file_path.name}")
             
-            time.sleep(1)  # Rate limiting
+            time.sleep(1)  # Rate limiting between uploads
         
         # Save sync state
         self._save_sync_state()
         
-        # Build new knowledge base
-        new_knowledge_base = []
-        
-        # Add kept files
-        for file_path, filename, existing_doc in files_to_keep:
-            new_knowledge_base.append(existing_doc)
-        
-        # Add newly uploaded files
-        for file_path, filename in files_to_upload:
-            file_key = f"{domain}:{file_path.name}"
-            if file_key in self.sync_state:
-                document_id = self.sync_state[file_key].get('document_id')
-                if document_id:
-                    new_doc = {
-                        "type": "file",
-                        "name": filename,
-                        "id": document_id,
-                        "usage_mode": "auto"
-                    }
-                    new_knowledge_base.append(new_doc)
-        
-        # Update the agent's knowledge base with extended retry logic
-        if not self._update_agent_knowledge_base(agent_id, new_knowledge_base):
-            logger.error("Failed to update agent knowledge base after retries")
-            return False
+        # Final assignment attempt with all files (including those not ready initially)
+        if assigned_count < uploaded_count:
+            remaining_files = uploaded_count - assigned_count
+            logger.info(f"Performing final assignment attempt for {remaining_files} remaining files")
+            logger.info("Waiting additional time for ElevenLabs to process documents for RAG indexing...")
+            
+            # Give ElevenLabs more time to process the documents internally
+            time.sleep(120)  # Wait 2 minutes for background processing
+            
+            # Build complete knowledge base
+            final_knowledge_base = []
+            
+            # Add kept files
+            for file_path, filename, existing_doc in files_to_keep:
+                final_knowledge_base.append(existing_doc)
+            
+            # Add all uploaded documents to final knowledge base
+            for file_path, filename in files_to_upload:
+                file_key = f"{domain}:{file_path.name}"
+                if file_key in self.sync_state:
+                    document_id = self.sync_state[file_key].get('document_id')
+                    if document_id:
+                        new_doc = {
+                            "type": "file",
+                            "name": filename,
+                            "id": document_id,
+                            "usage_mode": "auto"
+                        }
+                        final_knowledge_base.append(new_doc)
+            
+            # Final assignment attempt with extended retry logic
+            logger.info(f"Attempting final assignment of {len(final_knowledge_base)} total documents")
+            if self._update_agent_knowledge_base(agent_id, final_knowledge_base):
+                assigned_count = uploaded_count
+                logger.info("Final assignment attempt successful - all documents now assigned to agent")
+            else:
+                logger.warning(f"Final assignment attempt failed, {remaining_files} files may not be assigned to agent")
+                logger.warning("Documents are uploaded to knowledge base but may need manual assignment in ElevenLabs dashboard")
         
         # Update last sync timestamp
         agent_config['last_sync'] = datetime.now().isoformat()
@@ -420,7 +587,8 @@ class ElevenLabsRAGSync:
         
         logger.info(f"Sync completed for {domain}:")
         logger.info(f"  - Uploaded: {uploaded_count} files")
-        logger.info(f"  - Total in knowledge base: {len(new_knowledge_base)} files")
+        logger.info(f"  - Assigned to agent: {assigned_count} files")
+        logger.info(f"  - Total in knowledge base: {len(files_to_keep) + uploaded_count} files")
         
         return uploaded_count > 0
     
