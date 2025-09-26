@@ -1,15 +1,18 @@
-# Dynamic Webhook Routing for LLMs.txt Generation
+# Rivvy Create LLMs.txt - Production Ready
 
-Automatically generate and maintain LLMs.txt files for multiple websites with dynamic webhook routing and ElevenLabs RAG integration.
+**Status:** ✅ **FULLY OPERATIONAL** | **Version:** 2.0 | **Last Updated:** January 2025
+
+Automatically generate and maintain LLMs.txt files for unlimited websites with integrated ElevenLabs RAG (Retrieval Augmented Generation) capabilities.
 
 ## 🚀 Overview
 
-This system provides fully automated LLMs.txt file generation and maintenance for unlimited websites using:
+This production-ready system provides fully automated LLMs.txt file generation and maintenance for unlimited websites using:
 
 - **Dynamic Webhook Routing**: Automatically routes webhooks to correct domain directories
 - **Multi-Website Support**: Handle unlimited domains without code changes
-- **ElevenLabs Integration**: Automatically sync generated files to conversational AI agents
+- **ElevenLabs RAG Integration**: ⭐ **Enhanced** with automatic old version cleanup
 - **Change Detection**: Powered by [rivvy-observer](https://github.com/Emmmmmmo/rivvy-observer) for real-time monitoring
+- **Production Ready**: Robust error handling, extended retry logic, and scalable architecture
 
 ## 🏗 Architecture
 
@@ -186,11 +189,20 @@ URL organization and tracking:
 }
 ```
 
-## 🤖 ElevenLabs Integration
+## 🤖 ElevenLabs RAG Integration ⭐ **ENHANCED**
+
+### ✅ Production-Ready Features
+
+The system includes **enhanced ElevenLabs RAG integration** with automatic old version cleanup:
+
+- **Automatic Document Upload**: Files uploaded to ElevenLabs knowledge base
+- **RAG Agent Assignment**: Documents assigned to RAG-enabled agents
+- **Automatic RAG Indexing**: Indexing happens automatically upon assignment
+- **⭐ Old Version Cleanup**: Prevents document accumulation with frequent updates
+- **Extended Retry Logic**: Handles RAG indexing delays (up to 30 minutes)
+- **Production Error Handling**: Robust error recovery and logging
 
 ### Agent Configuration
-
-The system supports automatic RAG synchronization with ElevenLabs conversational AI agents:
 
 ```json
 {
@@ -208,18 +220,23 @@ The system supports automatic RAG synchronization with ElevenLabs conversational
 }
 ```
 
-### Automatic Sync Process
+### Enhanced Sync Process
 
 1. **Domain Detection**: System identifies which agent to update
-2. **File Preparation**: LLMs files prepared with domain prefixes
-3. **RAG Upload**: Files uploaded to ElevenLabs knowledge base
-4. **Agent Update**: Conversational AI immediately has latest product info
+2. **Old Version Cleanup**: ⭐ **NEW** - Removes old versions before adding new ones
+3. **File Preparation**: LLMs files prepared with domain prefixes
+4. **RAG Upload**: Files uploaded to ElevenLabs knowledge base
+5. **Timing Management**: Waits for document processing before assignment
+6. **Agent Update**: Conversational AI immediately has latest product info
+7. **Automatic Indexing**: RAG indexing happens automatically
 
-### File Naming in ElevenLabs
+### Key Enhancements
 
-Files are uploaded with domain prefixes for organization:
-- `toolshop_llms-full.products.txt`
-- `toolshop_llms-full.collections.txt`
+- **🧹 Automatic Cleanup**: Prevents document accumulation
+- **⏱️ Extended Retry Logic**: Progressive retry intervals (15sec → 30min)
+- **📊 Better Error Handling**: Comprehensive logging and recovery
+- **🔄 Incremental Updates**: Only processes changed files
+- **📈 Scalable**: Handles unlimited files and frequent updates
 
 ## 🛠 Manual Operations
 
@@ -314,7 +331,7 @@ python3 scripts/update_llms_sharded.py [URL] \
 
 ## 🚨 Troubleshooting
 
-### Common Issues
+### Common Issues & Solutions
 
 **Webhook not processing:**
 - Check GitHub repository dispatch permissions
@@ -328,10 +345,13 @@ python3 scripts/update_llms_sharded.py [URL] \
 - Check if URLs are accessible
 - Review script error logs
 
-**ElevenLabs sync failing:**
+**ElevenLabs sync issues:**
+- ✅ **RAG Indexing Delays**: **SOLVED** - Extended retry logic handles timing issues
+- ✅ **Document Accumulation**: **SOLVED** - Automatic cleanup prevents accumulation
 - Verify API key and agent ID
 - Check file size limits
 - Review agent configuration
+- Check sync state file for tracking issues
 
 ### Debug Commands
 
@@ -370,6 +390,20 @@ For issues and questions:
 1. Check the troubleshooting section above
 2. Review GitHub Actions logs
 3. Create an issue in this repository
+
+## 📊 System Status
+
+**Current Status:** ✅ **FULLY OPERATIONAL**  
+**Version:** 2.0 (Enhanced with ElevenLabs RAG Integration)  
+**Last Updated:** January 2025
+
+### Key Achievements
+- ✅ **Automatic old version cleanup** prevents document accumulation
+- ✅ **Extended retry logic** handles RAG indexing delays
+- ✅ **Production-ready error handling** with comprehensive logging
+- ✅ **Scalable architecture** for unlimited domains and frequent updates
+
+For detailed system status and technical specifications, see [SYSTEM_STATUS.md](./SYSTEM_STATUS.md).
 
 ---
 

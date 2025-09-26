@@ -23,6 +23,29 @@
       "max_file_size_mb": 10,
       "sync_enabled": true,
       "last_sync": "2025-09-20T00:30:05.586790"
+    },
+    "jgengineering.ie.test": {
+      "agent_id": "agent_7001k39631sjfz4t73jq484kpzrn",
+      "agent_name": "JG Engineering Products Expert (Test)",
+      "description": "Test configuration for JG Engineering products with 5 files",
+      "enabled": true,
+      "file_prefix": "jg_eng_test",
+      "categories": [
+        "products",
+        "collections"
+      ],
+      "tags": [
+        "industrial",
+        "engineering",
+        "tools",
+        "helicoil",
+        "thread-repair",
+        "baercoil",
+        "test"
+      ],
+      "max_file_size_mb": 10,
+      "sync_enabled": true,
+      "last_sync": null
     }
   },
   "default_settings": {
