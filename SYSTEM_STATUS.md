@@ -51,10 +51,11 @@ Website Changes → rivvy-observer → Webhook → Dynamic Routing → LLMs Gene
    - Supports incremental updates
    - Multi-domain processing
 
-2. **`scripts/elevenlabs_rag_sync.py`** ⭐ **ENHANCED**
+2. **`scripts/elevenlabs_rag_sync_corrected.py`** ⭐ **CORRECTED**
    - ElevenLabs knowledge base integration
+   - **Proper ElevenLabs flow: Upload → Assign immediately → RAG indexing happens automatically**
    - **Automatic old version cleanup**
-   - Extended retry logic (up to 30 minutes)
+   - No retry logic needed (indexing happens after assignment)
    - RAG indexing with proper timing
    - Production-ready error handling
 

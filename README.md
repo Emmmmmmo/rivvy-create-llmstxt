@@ -37,7 +37,7 @@ rivvy-create-llmstxt/
 │   └── elevenlabs-agents.json      # ElevenLabs agent mapping (optional)
 ├── scripts/
 │   ├── update_llms_sharded.py      # Core LLMs generation script
-│   └── elevenlabs_rag_sync.py      # ElevenLabs integration (optional)
+│   └── elevenlabs_rag_sync_corrected.py  # ElevenLabs integration (CORRECTED)
 ├── out/
 │   ├── domain1.com/                # Auto-generated domain directories
 │   │   ├── llms-full.products.txt

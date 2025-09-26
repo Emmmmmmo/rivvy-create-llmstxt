@@ -325,8 +325,8 @@ jobs:
             exit 0
           fi
           
-          # Run single-phase sync with extended retry logic
-          echo "Running ElevenLabs RAG sync..."
-          python3 scripts/elevenlabs_rag_sync.py
+          # Run CORRECTED sync with proper ElevenLabs flow
+          echo "Running ElevenLabs RAG sync (CORRECTED version)..."
+          python3 scripts/elevenlabs_rag_sync_corrected.py
           
           echo "ElevenLabs sync completed successfully"

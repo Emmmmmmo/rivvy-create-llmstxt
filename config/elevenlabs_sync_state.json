@@ -1,7 +1,272 @@
 {
-  "jgengineering.ie.test:llms-jgengineering-ie-baercoil-taps-helicoil.txt": {
+  "jgengineering.ie:llms-jgengineering-ie-special-kit-sizes-helicoil.txt": {
+    "hash": "64bfff5bac4147a0e3f36d81f29e2113",
+    "document_id": "zyYNq3hx5OJqO1g6T2Y9",
+    "uploaded_at": "2025-09-26T17:58:32.368853"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baerfix-thread-inserts-cutting-slots-like-timesert.txt": {
+    "hash": "b8915697a2bb54332305490a1e189f91",
+    "document_id": "TN8Jab7EWGViNFTZD2PB",
+    "uploaded_at": "2025-09-26T17:58:34.078743"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-helicoil-inserts-ireland.txt": {
+    "hash": "307392fbb7e95c7c028d1a314cccaba9",
+    "document_id": "sRZKTv5k8xtYlTRRQ4VB",
+    "uploaded_at": "2025-09-26T17:58:35.709171"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baerfix-tread-inserts-timesert.txt": {
+    "hash": "669a4d54e2d9883dd86ae03cef41d275",
+    "document_id": "1C0qfcXdNU62aTSUi2dB",
+    "uploaded_at": "2025-09-26T17:58:37.848412"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil_inserts.txt": {
+    "hash": "918ac6ec1db3215785b18ea5d964a7e9",
+    "document_id": "HI68yOPz1z4s5yC1rCL0",
+    "uploaded_at": "2025-09-26T17:59:29.155685"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-external-circlips.txt": {
+    "hash": "580da73945a0511a8f0c8023b778658f",
+    "document_id": "m7HT3HIxQOCQGD07cFmx",
+    "uploaded_at": "2025-09-26T17:59:30.935317"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-taps.txt": {
+    "hash": "4665ce3d3629c7222e963e18411b048b",
+    "document_id": "6TgsTj59RCh5gbndVcSf",
+    "uploaded_at": "2025-09-26T17:59:52.913869"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baerfix-thread-repair-kits.txt": {
+    "hash": "d1a64568de082d06e9e0369bf6695c14",
+    "document_id": "fFZiSCZA7eKnT22YV1JY",
+    "uploaded_at": "2025-09-26T17:59:54.859719"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-ass-products.txt": {
+    "hash": "4bd822fce1cf8722b75297ac8af90939",
+    "document_id": "YDAqoIdkxrVq4QXMbovK",
+    "uploaded_at": "2025-09-26T17:59:56.593466"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil_taps.txt": {
+    "hash": "0d0eb76f1449ac7828ed8eebab62f75c",
+    "document_id": "ezdMwEesgBqGR9pPqHbD",
+    "uploaded_at": "2025-09-26T18:00:01.140439"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-workshop-kits-helicoil.txt": {
+    "hash": "41dbeb1aaecdd93dc395691a4592c309",
+    "document_id": "vaB0OBv4XGwpR68RJOLs",
+    "uploaded_at": "2025-09-26T18:00:03.417668"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-taps-helicoil.txt": {
     "hash": "9d352ebbbc851728ec738e30d8440e96",
-    "document_id": "VBzlsUABxF0fmE4lbUBl",
-    "uploaded_at": "2025-09-20T01:03:42.910000"
+    "document_id": "hz8dwLbM5jSnwlRXxadD",
+    "uploaded_at": "2025-09-26T18:00:05.521338"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-unf-baerfix-thread-repair-kits-like-timeserts.txt": {
+    "hash": "0085e0087e013037fd48ad341ce505f4",
+    "document_id": "xHLG1YWo3IgaokhgxwNZ",
+    "uploaded_at": "2025-09-26T18:00:07.819304"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-ba-helicoil-kits-ireland.txt": {
+    "hash": "cc687712ae3e980fe9c49c0d2b715a9f",
+    "document_id": "97aeNxKjzXqQfr0bRus6",
+    "uploaded_at": "2025-09-26T18:00:10.406392"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-metric-helicoil-inserts-ireland.txt": {
+    "hash": "d0e5f84a23862070edaa76fa4fd49b61",
+    "document_id": "ZDT4x16igp5IBMuTsw2r",
+    "uploaded_at": "2025-09-26T18:00:25.564141"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-thread-repair-kits-helicoil.txt": {
+    "hash": "b84fc40fa13e9b01d40de2f5975a6bc9",
+    "document_id": "oQlxc0YXQJPcvxg07hDD",
+    "uploaded_at": "2025-09-26T18:00:27.231887"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-thread-repair-workshop-kits-helicoil.txt": {
+    "hash": "284d386f8b932a1f537a664d91400c6c",
+    "document_id": "ZFJOvF2ZQHmNBw9k2MI9",
+    "uploaded_at": "2025-09-26T18:00:28.899833"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-metric-helicoil-kits-ireland.txt": {
+    "hash": "5937d0ef733d94e93358affe76b959ca",
+    "document_id": "8F6qNYb8BXvxZXgY54CU",
+    "uploaded_at": "2025-09-26T18:00:41.161409"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-assembling-tools-helicoil.txt": {
+    "hash": "48d7066e0134d39989b9528d940eb7bd",
+    "document_id": "83emQe8bpxOa65hyVx7P",
+    "uploaded_at": "2025-09-26T18:00:42.831778"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-pages.txt": {
+    "hash": "ff4f7f8b5d7bed41cda0bc3215ef8640",
+    "document_id": "BoWVJvYix4Adcnf8tRZB",
+    "uploaded_at": "2025-09-26T18:00:44.581519"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-bsb-helicoil-kits-ireland.txt": {
+    "hash": "814272a4ecc831df26ddf62ab6f543ce",
+    "document_id": "AES01YZ1FIJd73JrQBjJ",
+    "uploaded_at": "2025-09-26T18:00:47.580854"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-drill-bits.txt": {
+    "hash": "4dac31265fa10491995abc39ad11505d",
+    "document_id": "ww8gNUxQcSD6y50Duwru",
+    "uploaded_at": "2025-09-26T18:01:09.642036"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-unc-helicoil-inserts-ireland.txt": {
+    "hash": "aad655193a5f7240ffee03b81b090cad",
+    "document_id": "CaA2E8uKcK48nrHAZdZ7",
+    "uploaded_at": "2025-09-26T18:01:14.277535"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-cart.txt": {
+    "hash": "086ff9a607817b558af0c70058264f74",
+    "document_id": "DkNINR1fnImTQIdNdfFD",
+    "uploaded_at": "2025-09-26T18:01:16.224865"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-collections.txt": {
+    "hash": "2e417d86e90a2d5fd2afc14288cbe80c",
+    "document_id": "yb14b6x9YTMcBf0z0JmW",
+    "uploaded_at": "2025-09-26T18:01:18.432223"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-test-products.txt": {
+    "hash": "3e469cc8da0fce85630fe9faaa5f842f",
+    "document_id": "E9UyHD5fN0nREmeHU0n7",
+    "uploaded_at": "2025-09-26T18:01:22.171214"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-circlips-ireland.txt": {
+    "hash": "5d358001c58704e41c7adee1fcd06a9e",
+    "document_id": "BGqM9BFcjH6uspYVb4ib",
+    "uploaded_at": "2025-09-26T18:01:44.434161"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-metric-baerfix-thread-inserts-like-timeserts.txt": {
+    "hash": "6d2c14c4b6b479f4917676519f8becee",
+    "document_id": "Lw0yrxGVLlM6oR65kqsQ",
+    "uploaded_at": "2025-09-26T18:01:46.049438"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-unc-baerfix-thread-repair-kits-like-timesert.txt": {
+    "hash": "283a222e70ec427c5d485991ea9ce72a",
+    "document_id": "8JGquP0r4ePVLVMTV7x9",
+    "uploaded_at": "2025-09-26T18:01:48.174654"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baerfix_products.txt": {
+    "hash": "740f24afd8b3368a9da1247c67beb4d2",
+    "document_id": "yvlLubouXGdme2DqRS77",
+    "uploaded_at": "2025-09-26T18:02:21.626160"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil_products.txt": {
+    "hash": "b5cfda255c52ba183142274064b52fde",
+    "document_id": "koKFaxCnaVBjXaUrjoMw",
+    "uploaded_at": "2025-09-26T18:02:44.392262"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-metric-thread-inserts-cutting-slots-m-stainless-steel-1-4305-like-timeserts.txt": {
+    "hash": "e8f885f5070cdf65e1134c073ea28d2f",
+    "document_id": "LKAzSaACreWjDd82MrYy",
+    "uploaded_at": "2025-09-26T18:02:46.290399"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-unf-helicoil-kits-ireland.txt": {
+    "hash": "a2811f69cb8dd30b40bdd2748bbccaa6",
+    "document_id": "gF0b9iYEriiSJ1Tng7ar",
+    "uploaded_at": "2025-09-26T18:02:50.344730"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-bsw-helicoil-kits-ireland.txt": {
+    "hash": "019e16f25145bf1128845b0a2504f7ef",
+    "document_id": "D2ugbQH90raa1UFQYGA6",
+    "uploaded_at": "2025-09-26T18:02:53.997738"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baer-hand-taps.txt": {
+    "hash": "734a75a7287c2380b2ef176293f3bb96",
+    "document_id": "c19ep4N6mJKYegxvRqIU",
+    "uploaded_at": "2025-09-26T18:02:55.710807"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-test-page.txt": {
+    "hash": "6cc3c2002e4dc16245da8ac856d48331",
+    "document_id": "aDTTVZXD1mAVqBNHOSWA",
+    "uploaded_at": "2025-09-26T18:02:57.422120"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-bsp-helicoil-kits-ireland.txt": {
+    "hash": "75b5c2dd9d2740715133eb94a2aec987",
+    "document_id": "jNJbtnNjNQn3cK2zXSIS",
+    "uploaded_at": "2025-09-26T18:02:59.783091"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-internal-circlips-carbon-black.txt": {
+    "hash": "b0d1739759666d7eb9d9adefdd895b32",
+    "document_id": "kDRGcetCgKLVg13hOAlZ",
+    "uploaded_at": "2025-09-26T18:03:01.843484"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-unf-helicoil-inserts.txt": {
+    "hash": "735022e0d4d2f8bad7f6c805357c1052",
+    "document_id": "b1j9EpVUhMYmZyAOqy0n",
+    "uploaded_at": "2025-09-26T18:03:06.871039"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-uniburr-deburring-tool-ireland-uk-england.txt": {
+    "hash": "f5bafa654bf2338f3331dbab98f101e2",
+    "document_id": "oQ7cWzV8k8ZSjAwNED52",
+    "uploaded_at": "2025-09-26T18:04:09.993406"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-inserting-tools-ireland.txt": {
+    "hash": "6227173b96e8db1d38800fe37475e26b",
+    "document_id": "OZslCoidhWvdzc1zAWJD",
+    "uploaded_at": "2025-09-26T18:04:12.334377"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-metric-baerfix-thread-repair-kits-like-timesert.txt": {
+    "hash": "8951929967d853df0940cb40b4159589",
+    "document_id": "NwwFILtIPt1BOTsyzmD6",
+    "uploaded_at": "2025-09-26T18:04:15.791883"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-metric-baercoil-kits.txt": {
+    "hash": "4e566dbdd92faaecaa273ac199666e36",
+    "document_id": "97WtLs9nLkkFQvZq1WQ6",
+    "uploaded_at": "2025-09-26T18:04:17.706044"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-thread-repair-helicoil-kit-inserts.txt": {
+    "hash": "df3e7bfc2170da1783b87da12ea64310",
+    "document_id": "MesTX44c6vBV38allUnS",
+    "uploaded_at": "2025-09-26T18:04:19.449277"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-root.txt": {
+    "hash": "5885663b86397cf9cf9dc04ef9fa41a4",
+    "document_id": "8kzQ88SV1Q0x7KOzJKaH",
+    "uploaded_at": "2025-09-26T18:04:21.526291"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-bsf-helicoil-kits-ireland.txt": {
+    "hash": "aa24576348f985164dea5d6564bcc60d",
+    "document_id": "f6AeUx7srtJVAZEEX55G",
+    "uploaded_at": "2025-09-26T18:04:24.788230"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-bottoming-taps-metric-helicoil-1.txt": {
+    "hash": "70863d47093a7f8d94d18e15c038a887",
+    "document_id": "WYcWKAoLXuIPCVbEQ0eh",
+    "uploaded_at": "2025-09-26T18:04:26.409907"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baerfix-thread-inserts-cutting-slots-m-case-hardened-steel.txt": {
+    "hash": "6953a5065e096032949cc0a22cca4513",
+    "document_id": "ZHGZEEMgWq81Cy8Lx7Un",
+    "uploaded_at": "2025-09-26T18:04:31.359392"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-circlips.txt": {
+    "hash": "5ba00e1a892fed008fdf81a142d88f5c",
+    "document_id": "104xorBlEsNNyez583T6",
+    "uploaded_at": "2025-09-26T18:04:53.890268"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baercoil-bottoming-taps-metric-helicoil.txt": {
+    "hash": "83ac2b5f6e81324c213cc2cbaea47f32",
+    "document_id": "8XKBMKo2de0SQRDzVSed",
+    "uploaded_at": "2025-09-26T18:04:58.567205"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-drill_bits.txt": {
+    "hash": "ac39d54fc07780263c77d418ff3333e3",
+    "document_id": "ThuLd0bs4baZYWC7mOa1",
+    "uploaded_at": "2025-09-26T18:05:00.911592"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baerfix-thread-repair-workshop-kits.txt": {
+    "hash": "5a0dee945816317c086e965d9dbb1859",
+    "document_id": "xlZuseDRYHTGRpN53iZF",
+    "uploaded_at": "2025-09-26T18:05:02.794577"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-baerfix-baerfix-for-wood.txt": {
+    "hash": "27e4081256204848887ed2a94ee44624",
+    "document_id": "Ew3ZrUtCEyDxmVaKRkWx",
+    "uploaded_at": "2025-09-26T18:05:04.517958"
+  },
+  "jgengineering.ie:llms-jgengineering-ie-unc-helicoil-kits-ireland.txt": {
+    "hash": "aed6b6500503028b4b23d25546f5f295",
+    "document_id": "h6ua8nc9mNs57R61HtRG",
+    "uploaded_at": "2025-09-26T18:05:10.271327"
   }
 }

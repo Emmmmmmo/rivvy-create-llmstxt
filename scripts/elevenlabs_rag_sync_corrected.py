@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
 """
-ElevenLabs RAG Sync Script - Single Phase Approach
+ElevenLabs RAG Sync Script - CORRECTED VERSION
 
-This script uploads files directly to the ElevenLabs agent, which triggers
-automatic indexing. Uses extended retry logic to handle RAG indexing delays.
+This script follows the proper ElevenLabs flow:
+1. Upload files to knowledge base (not indexed yet)
+2. Assign files to agent immediately (triggers automatic RAG indexing)
+3. RAG indexing happens automatically in the background
+
+According to ElevenLabs docs: "Files in knowledge base are not indexed until 
+they are assigned to an agent. RAG indexing begins automatically after assignment."
 
 Usage:
-  python3 scripts/elevenlabs_rag_sync.py [domain] [--force]
+  python3 scripts/elevenlabs_rag_sync_corrected.py [domain] [--force]
 """
 
 import os
@@ -264,97 +269,43 @@ class ElevenLabsRAGSync:
             logger.error(f"Request error uploading {filename}: {e}")
             return None
     
-    def _update_agent_knowledge_base(self, agent_id: str, knowledge_base: List[Dict], max_retries: int = 8) -> bool:
-        """Update the agent's knowledge base with extended retry logic for RAG indexing delays."""
-        # Progressive retry intervals: 15sec, 45sec, 2min, 5min, 10min, 15min, 20min, 30min (more patient for RAG indexing)
-        retry_intervals = [15, 45, 120, 300, 600, 900, 1200, 1800]  # seconds
-        
-        for attempt in range(max_retries):
-            try:
-                update_payload = {
-                    "conversation_config": {
-                        "agent": {
-                            "prompt": {
-                                "knowledge_base": knowledge_base
-                            }
+    def _update_agent_knowledge_base(self, agent_id: str, knowledge_base: List[Dict]) -> bool:
+        """Update the agent's knowledge base - CORRECTED: No retry logic needed since indexing happens after assignment."""
+        try:
+            update_payload = {
+                "conversation_config": {
+                    "agent": {
+                        "prompt": {
+                            "knowledge_base": knowledge_base
                         }
                     }
                 }
+            }
+            
+            update_url = f"{self.base_url}/agents/{agent_id}"
+            update_headers = {
+                "xi-api-key": self.api_key,
+                "Content-Type": "application/json"
+            }
+            
+            update_response = requests.patch(
+                update_url,
+                headers=update_headers,
+                json=update_payload,
+                timeout=60
+            )
+            
+            if update_response.status_code == 200:
+                logger.info(f"✅ Successfully updated agent knowledge base with {len(knowledge_base)} documents")
+                logger.info(f"🤖 RAG indexing will now happen automatically for all assigned documents")
+                return True
+            else:
+                logger.error(f"Failed to update agent knowledge base: {update_response.status_code} - {update_response.text}")
+                return False
                 
-                update_url = f"{self.base_url}/agents/{agent_id}"
-                update_headers = {
-                    "xi-api-key": self.api_key,
-                    "Content-Type": "application/json"
-                }
-                
-                update_response = requests.patch(
-                    update_url,
-                    headers=update_headers,
-                    json=update_payload,
-                    timeout=60  # Increased timeout for agent updates
-                )
-                
-                if update_response.status_code == 200:
-                    logger.info(f"✅ Successfully updated agent knowledge base with {len(knowledge_base)} documents")
-                    return True
-                else:
-                    error_text = update_response.text.lower()
-                    logger.warning(f"Agent update failed (attempt {attempt + 1}/{max_retries}): {update_response.status_code}")
-                    logger.debug(f"Error response: {update_response.text[:500]}")
-                    
-                    # Check for RAG index not ready error
-                    if "rag_index_not_ready" in error_text or "rag" in error_text:
-                        if attempt < max_retries - 1:
-                            wait_time = retry_intervals[attempt]
-                            if wait_time >= 60:
-                                logger.warning(f"🔄 RAG index not ready, waiting {wait_time//60} minutes before retry {attempt + 2}/{max_retries}")
-                            else:
-                                logger.warning(f"🔄 RAG index not ready, waiting {wait_time} seconds before retry {attempt + 2}/{max_retries}")
-                            time.sleep(wait_time)
-                            continue
-                        else:
-                            logger.error(f"❌ RAG index still not ready after {max_retries} attempts ({max_retries * retry_intervals[-1] // 60} total minutes waited)")
-                            return False
-                    
-                    # Check for document not found error
-                    elif "knowledge_base_documentation_not_found" in error_text:
-                        logger.warning(f"Some documents not found in knowledge base - they may still be indexing")
-                        if attempt < max_retries - 1:
-                            wait_time = retry_intervals[attempt]
-                            if wait_time >= 60:
-                                logger.warning(f"Waiting {wait_time//60} minutes for document indexing before retry {attempt + 2}/{max_retries}")
-                            else:
-                                logger.warning(f"Waiting {wait_time} seconds for document indexing before retry {attempt + 2}/{max_retries}")
-                            time.sleep(wait_time)
-                            continue
-                        else:
-                            logger.error(f"Documents still not found after {max_retries} attempts")
-                            return False
-                    
-                    # Check for size limit errors
-                    elif "too large" in error_text or "size" in error_text:
-                        logger.warning(f"Knowledge base size limit reached. This shouldn't happen with incremental sync.")
-                        return False
-                    
-                    # Other errors
-                    else:
-                        logger.error(f"Failed to update agent knowledge base: {update_response.status_code} - {update_response.text}")
-                        return False
-                        
-            except Exception as e:
-                logger.error(f"Error updating agent knowledge base (attempt {attempt + 1}): {e}")
-                if attempt < max_retries - 1:
-                    wait_time = retry_intervals[attempt]
-                    if wait_time >= 60:
-                        logger.warning(f"Waiting {wait_time//60} minutes before retry {attempt + 2}/{max_retries}")
-                    else:
-                        logger.warning(f"Waiting {wait_time} seconds before retry {attempt + 2}/{max_retries}")
-                    time.sleep(wait_time)
-                    continue
-                else:
-                    return False
-        
-        return False
+        except Exception as e:
+            logger.error(f"Error updating agent knowledge base: {e}")
+            return False
     
     def _clear_knowledge_base(self, agent_id: str) -> bool:
         """Clear all documents from the agent's knowledge base."""
@@ -393,8 +344,9 @@ class ElevenLabsRAGSync:
         return cleaned_kb
     
     def sync_domain(self, domain: str, force_sync: bool = False) -> bool:
-        """Sync all LLMs files for a domain to ElevenLabs agent (single-phase approach)."""
-        logger.info(f"Starting single-phase sync for domain: {domain}")
+        """Sync all LLMs files for a domain to ElevenLabs agent (CORRECTED approach)."""
+        logger.info(f"Starting CORRECTED sync for domain: {domain}")
+        logger.info("🚀 CORRECTED APPROACH: Upload → Assign immediately → RAG indexing happens automatically")
         
         # Get agent configuration
         agent_config = self._get_agent_for_domain(domain)
@@ -486,12 +438,15 @@ class ElevenLabsRAGSync:
         # Clean up old versions of files being updated
         cleaned_kb = self._remove_old_document_versions(agent_id, current_kb, files_to_upload, file_prefix)
         
-        # Upload and assign files one by one to trigger immediate indexing
-        uploaded_count = 0
-        assigned_count = 0
+        # CORRECTED APPROACH: Upload all files first, then assign all at once
+        logger.info("🚀 CORRECTED APPROACH: Upload all files → Assign immediately → RAG indexing happens automatically")
         
+        uploaded_documents = []
+        uploaded_count = 0
+        
+        # Step 1: Upload all files to knowledge base (not indexed yet)
         for file_path, filename in files_to_upload:
-            logger.info(f"Uploading file: {file_path.name}")
+            logger.info(f"📤 Uploading file: {file_path.name}")
             document_id = self._upload_file_to_knowledge_base(file_path, filename)
             if document_id:
                 # Update sync state
@@ -503,92 +458,65 @@ class ElevenLabsRAGSync:
                 }
                 uploaded_count += 1
                 
-                # According to ElevenLabs docs: "indexing happens automatically when document is added to agent with RAG enabled"
-                # But we need to wait for the document to be processed before assignment
-                logger.info(f"Waiting for document to be processed before assignment: {file_path.name}")
-                
-                # Wait longer for new documents to be processed by ElevenLabs
-                logger.info(f"Waiting 3 minutes for ElevenLabs to process document for RAG indexing...")
-                time.sleep(180)  # Wait 3 minutes for document processing
-                
+                # Store document info for immediate assignment
                 new_doc = {
                     "type": "file",
                     "name": filename,
                     "id": document_id,
                     "usage_mode": "auto"
                 }
+                uploaded_documents.append(new_doc)
                 
-                # Build knowledge base with cleaned files + this new file
-                temp_knowledge_base = []
-                for _, _, existing_doc in files_to_keep:
-                    temp_knowledge_base.append(existing_doc)
-                temp_knowledge_base.append(new_doc)
-                
-                # Try to assign this file to the RAG-enabled agent with extended retry logic
-                # The "rag_index_not_ready" error should be resolved after the wait period
-                if self._update_agent_knowledge_base(agent_id, temp_knowledge_base, max_retries=6):
-                    assigned_count += 1
-                    logger.info(f"✅ Successfully assigned {file_path.name} to RAG-enabled agent - indexing will happen automatically")
-                else:
-                    logger.warning(f"⚠️  Failed to assign {file_path.name} to agent, will retry in final batch")
-                
-                # Wait a bit between assignments to avoid overwhelming the API
-                time.sleep(2)
+                logger.info(f"✅ Uploaded {file_path.name} (ID: {document_id})")
             else:
-                logger.error(f"Failed to upload {file_path.name}")
+                logger.error(f"❌ Failed to upload {file_path.name}")
             
-            time.sleep(1)  # Rate limiting between uploads
+            # Small delay between uploads
+            time.sleep(1)
         
         # Save sync state
         self._save_sync_state()
         
-        # Final assignment attempt with all files (including those not ready initially)
-        if assigned_count < uploaded_count:
-            remaining_files = uploaded_count - assigned_count
-            logger.info(f"Performing final assignment attempt for {remaining_files} remaining files")
-            logger.info("Waiting additional time for ElevenLabs to process documents for RAG indexing...")
-            
-            # Give ElevenLabs more time to process the documents internally
-            time.sleep(120)  # Wait 2 minutes for background processing
-            
-            # Build complete knowledge base
-            final_knowledge_base = []
-            
-            # Add kept files
-            for file_path, filename, existing_doc in files_to_keep:
-                final_knowledge_base.append(existing_doc)
-            
-            # Add all uploaded documents to final knowledge base
-            for file_path, filename in files_to_upload:
-                file_key = f"{domain}:{file_path.name}"
-                if file_key in self.sync_state:
-                    document_id = self.sync_state[file_key].get('document_id')
-                    if document_id:
-                        new_doc = {
-                            "type": "file",
-                            "name": filename,
-                            "id": document_id,
-                            "usage_mode": "auto"
-                        }
-                        final_knowledge_base.append(new_doc)
-            
-            # Final assignment attempt with extended retry logic
-            logger.info(f"Attempting final assignment of {len(final_knowledge_base)} total documents")
-            if self._update_agent_knowledge_base(agent_id, final_knowledge_base):
-                assigned_count = uploaded_count
-                logger.info("Final assignment attempt successful - all documents now assigned to agent")
-            else:
-                logger.warning(f"Final assignment attempt failed, {remaining_files} files may not be assigned to agent")
-                logger.warning("Documents are uploaded to knowledge base but may need manual assignment in ElevenLabs dashboard")
+        if uploaded_count == 0:
+            logger.warning("No files were uploaded successfully")
+            return False
+        
+        # Step 2: Build complete knowledge base with all documents
+        logger.info("🔗 Building complete knowledge base with all documents...")
+        
+        # Start with existing documents that we're keeping
+        final_knowledge_base = []
+        for file_path, filename, existing_doc in files_to_keep:
+            final_knowledge_base.append(existing_doc)
+            logger.info(f"📄 Keeping existing: {filename}")
+        
+        # Add all newly uploaded documents
+        for doc in uploaded_documents:
+            final_knowledge_base.append(doc)
+            logger.info(f"📄 Adding new: {doc['name']}")
+        
+        logger.info(f"📊 Final knowledge base will have {len(final_knowledge_base)} documents")
+        
+        # Step 3: Assign all documents to agent immediately - RAG indexing happens automatically
+        logger.info("🎯 Assigning all documents to agent immediately...")
+        logger.info("🤖 RAG indexing will happen automatically after assignment")
+        
+        if self._update_agent_knowledge_base(agent_id, final_knowledge_base):
+            logger.info(f"🎉 SUCCESS! All {len(final_knowledge_base)} documents assigned to agent")
+            logger.info(f"🤖 RAG indexing is now happening automatically in the background")
+        else:
+            logger.error("❌ Failed to assign documents to agent")
+            return False
         
         # Update last sync timestamp
         agent_config['last_sync'] = datetime.now().isoformat()
         self._save_config()
         
-        logger.info(f"Sync completed for {domain}:")
+        logger.info(f"🎉 CORRECTED sync completed for {domain}:")
         logger.info(f"  - Uploaded: {uploaded_count} files")
-        logger.info(f"  - Assigned to agent: {assigned_count} files")
-        logger.info(f"  - Total in knowledge base: {len(files_to_keep) + uploaded_count} files")
+        logger.info(f"  - Total in knowledge base: {len(final_knowledge_base)} files")
+        logger.info(f"  - All documents assigned to agent successfully")
+        logger.info(f"  - RAG indexing happening automatically in background")
         
         return uploaded_count > 0
     
@@ -618,7 +546,7 @@ class ElevenLabsRAGSync:
         return results
 
 def main():
-    """Main function to run the sync process."""
+    """Main function to run the CORRECTED sync process."""
     try:
         sync = ElevenLabsRAGSync()
         
@@ -630,10 +558,10 @@ def main():
             success = sync.sync_domain(domain, force_sync=force_sync)
             
             if success:
-                logger.info(f"Sync completed successfully for {domain}")
+                logger.info(f"🎉 CORRECTED sync completed successfully for {domain}")
                 exit(0)
             else:
-                logger.error(f"Sync failed for {domain}")
+                logger.error(f"❌ CORRECTED sync failed for {domain}")
                 exit(1)
         else:
             # Sync all domains
