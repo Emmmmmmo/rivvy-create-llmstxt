@@ -36,15 +36,14 @@ rivvy-create-llmstxt/
 ├── config/
 │   └── elevenlabs-agents.json      # ElevenLabs agent mapping (optional)
 ├── scripts/
-│   ├── update_llms_sharded.py      # Core LLMs generation script
+│   ├── llms_scraper_sharded.py     # Core LLMs generation script
 │   └── elevenlabs_rag_sync_corrected.py  # ElevenLabs integration (CORRECTED)
 ├── out/
 │   ├── domain1.com/                # Auto-generated domain directories
-│   │   ├── llms-full.products.txt
-│   │   ├── llms-full.collections.txt
-│   │   ├── llms-index.json
-│   │   └── manifest.json
-│   └── domain2.com/
+│   │   ├── llms-domain1-com-*.txt  # Sharded product files
+│   │   ├── llms-domain1-com-index.json
+│   │   └── llms-domain1-com-manifest.json
+│   └── domain2.com/                # Website-specific folder structure
 ├── requirements.txt
 └── README.md
 ```
