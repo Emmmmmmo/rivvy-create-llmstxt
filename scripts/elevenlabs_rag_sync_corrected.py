@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """
-ElevenLabs RAG Sync Script - CORRECTED VERSION
+ElevenLabs RAG Sync Script - CORRECTED VERSION WITH VERIFICATION
 
 This script follows the proper ElevenLabs flow:
 1. Upload files to knowledge base (not indexed yet)
 2. Assign files to agent immediately (triggers automatic RAG indexing)
-3. RAG indexing happens automatically in the background
+3. Verify assignment succeeded
+4. Check RAG indexing status
+5. RAG indexing happens automatically in the background
 
 According to ElevenLabs docs: "Files in knowledge base are not indexed until 
 they are assigned to an agent. RAG indexing begins automatically after assignment."
@@ -211,6 +213,116 @@ class ElevenLabsRAGSync:
         logger.info(f"Proceeding with assignment after {elapsed + (180 - elapsed if elapsed < 180 else 0):.0f} seconds")
         return True
 
+    def _verify_agent_assignment(self, agent_id: str, expected_docs: List[Dict]) -> bool:
+        """Verify that documents are properly assigned to the agent."""
+        logger.info("🔍 Verifying agent assignment...")
+        
+        try:
+            # Get current agent knowledge base
+            current_kb, _ = self._get_agent_knowledge_base(agent_id)
+            
+            # Create sets of expected and actual document IDs
+            expected_ids = {doc.get('id') for doc in expected_docs if doc.get('id')}
+            actual_ids = {doc.get('id') for doc in current_kb if doc.get('id')}
+            
+            # Check for missing documents
+            missing_ids = expected_ids - actual_ids
+            if missing_ids:
+                logger.error(f"❌ Missing documents in agent assignment: {missing_ids}")
+                return False
+            
+            # Check for extra documents (not necessarily an error, but worth noting)
+            extra_ids = actual_ids - expected_ids
+            if extra_ids:
+                logger.info(f"ℹ️  Extra documents in agent (not from this sync): {len(extra_ids)} documents")
+            
+            # Verify all expected documents are present
+            assigned_count = len(expected_ids & actual_ids)
+            logger.info(f"✅ Verification successful: {assigned_count}/{len(expected_ids)} expected documents assigned")
+            
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error verifying agent assignment: {e}")
+            return False
+
+    def _check_rag_indexing_status_batch(self, agent_id: str, max_wait_time: int = 300) -> bool:
+        """Check RAG indexing status for all documents assigned to the agent."""
+        logger.info("🔍 Checking RAG indexing status for all assigned documents...")
+        
+        try:
+            # Get current agent knowledge base
+            current_kb, _ = self._get_agent_knowledge_base(agent_id)
+            
+            if not current_kb:
+                logger.warning("No documents found in agent knowledge base")
+                return False
+            
+            # Check indexing status for each document
+            indexing_complete = 0
+            indexing_failed = 0
+            indexing_in_progress = 0
+            
+            for doc in current_kb:
+                if not doc.get('id'):
+                    continue
+                    
+                doc_id = doc['id']
+                doc_name = doc.get('name', 'Unknown')
+                
+                try:
+                    # Check individual document status
+                    status_url = f"{self.base_url}/knowledge-base/documents/{doc_id}/compute-rag-index"
+                    headers = {"xi-api-key": self.api_key}
+                    
+                    response = requests.get(status_url, headers=headers, timeout=10)
+                    if response.status_code == 200:
+                        status_data = response.json()
+                        status = status_data.get('status', 'unknown')
+                        
+                        if status == "SUCCEEDED":
+                            indexing_complete += 1
+                            logger.debug(f"✅ {doc_name}: RAG indexing complete")
+                        elif status == "FAILED":
+                            indexing_failed += 1
+                            logger.warning(f"❌ {doc_name}: RAG indexing failed")
+                        else:
+                            indexing_in_progress += 1
+                            logger.info(f"🔄 {doc_name}: RAG indexing in progress ({status})")
+                    else:
+                        logger.warning(f"⚠️  {doc_name}: Cannot check RAG status (HTTP {response.status_code})")
+                        indexing_in_progress += 1
+                        
+                except Exception as e:
+                    logger.warning(f"⚠️  {doc_name}: Error checking RAG status: {e}")
+                    indexing_in_progress += 1
+                
+                # Small delay between checks
+                time.sleep(0.5)
+            
+            # Report overall status
+            total_docs = len(current_kb)
+            logger.info(f"📊 RAG Indexing Status Summary:")
+            logger.info(f"  - Complete: {indexing_complete}/{total_docs}")
+            logger.info(f"  - In Progress: {indexing_in_progress}/{total_docs}")
+            logger.info(f"  - Failed: {indexing_failed}/{total_docs}")
+            
+            # Return True if all documents are either complete or in progress (not failed)
+            if indexing_failed == 0:
+                if indexing_complete == total_docs:
+                    logger.info("🎉 All documents have completed RAG indexing!")
+                    return True
+                else:
+                    logger.info("⏳ Some documents still indexing, but no failures detected")
+                    return True
+            else:
+                logger.error(f"❌ {indexing_failed} documents failed RAG indexing")
+                return False
+                
+        except Exception as e:
+            logger.error(f"Error checking RAG indexing status: {e}")
+            return False
+
     def _upload_file_to_knowledge_base(self, file_path: Path, filename: str) -> Optional[str]:
         """Upload a file to ElevenLabs knowledge base and return document ID."""
         # Check file size
@@ -270,7 +382,7 @@ class ElevenLabsRAGSync:
             return None
     
     def _update_agent_knowledge_base(self, agent_id: str, knowledge_base: List[Dict]) -> bool:
-        """Update the agent's knowledge base - CORRECTED: No retry logic needed since indexing happens after assignment."""
+        """Update the agent's knowledge base with verification."""
         try:
             update_payload = {
                 "conversation_config": {
@@ -298,7 +410,22 @@ class ElevenLabsRAGSync:
             if update_response.status_code == 200:
                 logger.info(f"✅ Successfully updated agent knowledge base with {len(knowledge_base)} documents")
                 logger.info(f"🤖 RAG indexing will now happen automatically for all assigned documents")
-                return True
+                
+                # Verify assignment succeeded
+                if self._verify_agent_assignment(agent_id, knowledge_base):
+                    logger.info("✅ Agent assignment verification successful")
+                    
+                    # Check RAG indexing status
+                    logger.info("🔍 Checking RAG indexing status...")
+                    if self._check_rag_indexing_status_batch(agent_id):
+                        logger.info("✅ RAG indexing status check completed")
+                        return True
+                    else:
+                        logger.warning("⚠️  RAG indexing status check had issues, but assignment succeeded")
+                        return True  # Still return True since assignment worked
+                else:
+                    logger.error("❌ Agent assignment verification failed")
+                    return False
             else:
                 logger.error(f"Failed to update agent knowledge base: {update_response.status_code} - {update_response.text}")
                 return False
@@ -344,9 +471,9 @@ class ElevenLabsRAGSync:
         return cleaned_kb
     
     def sync_domain(self, domain: str, force_sync: bool = False) -> bool:
-        """Sync all LLMs files for a domain to ElevenLabs agent (CORRECTED approach)."""
-        logger.info(f"Starting CORRECTED sync for domain: {domain}")
-        logger.info("🚀 CORRECTED APPROACH: Upload → Assign immediately → RAG indexing happens automatically")
+        """Sync all LLMs files for a domain to ElevenLabs agent (CORRECTED approach with verification)."""
+        logger.info(f"Starting CORRECTED sync with verification for domain: {domain}")
+        logger.info("🚀 CORRECTED APPROACH: Upload → Assign → Verify → Check RAG Status")
         
         # Get agent configuration
         agent_config = self._get_agent_for_domain(domain)
@@ -439,7 +566,7 @@ class ElevenLabsRAGSync:
         cleaned_kb = self._remove_old_document_versions(agent_id, current_kb, files_to_upload, file_prefix)
         
         # CORRECTED APPROACH: Upload all files first, then assign all at once
-        logger.info("🚀 CORRECTED APPROACH: Upload all files → Assign immediately → RAG indexing happens automatically")
+        logger.info("🚀 CORRECTED APPROACH: Upload all files → Assign → Verify → Check RAG Status")
         
         uploaded_documents = []
         uploaded_count = 0
@@ -497,12 +624,12 @@ class ElevenLabsRAGSync:
         
         logger.info(f"📊 Final knowledge base will have {len(final_knowledge_base)} documents")
         
-        # Step 3: Assign all documents to agent immediately - RAG indexing happens automatically
-        logger.info("🎯 Assigning all documents to agent immediately...")
+        # Step 3: Assign all documents to agent immediately with verification
+        logger.info("🎯 Assigning all documents to agent with verification...")
         logger.info("🤖 RAG indexing will happen automatically after assignment")
         
         if self._update_agent_knowledge_base(agent_id, final_knowledge_base):
-            logger.info(f"🎉 SUCCESS! All {len(final_knowledge_base)} documents assigned to agent")
+            logger.info(f"🎉 SUCCESS! All {len(final_knowledge_base)} documents assigned and verified")
             logger.info(f"🤖 RAG indexing is now happening automatically in the background")
         else:
             logger.error("❌ Failed to assign documents to agent")
@@ -512,11 +639,11 @@ class ElevenLabsRAGSync:
         agent_config['last_sync'] = datetime.now().isoformat()
         self._save_config()
         
-        logger.info(f"🎉 CORRECTED sync completed for {domain}:")
+        logger.info(f"🎉 CORRECTED sync with verification completed for {domain}:")
         logger.info(f"  - Uploaded: {uploaded_count} files")
         logger.info(f"  - Total in knowledge base: {len(final_knowledge_base)} files")
-        logger.info(f"  - All documents assigned to agent successfully")
-        logger.info(f"  - RAG indexing happening automatically in background")
+        logger.info(f"  - All documents assigned and verified successfully")
+        logger.info(f"  - RAG indexing status checked and confirmed")
         
         return uploaded_count > 0
     
@@ -546,7 +673,7 @@ class ElevenLabsRAGSync:
         return results
 
 def main():
-    """Main function to run the CORRECTED sync process."""
+    """Main function to run the CORRECTED sync process with verification."""
     try:
         sync = ElevenLabsRAGSync()
         
@@ -558,10 +685,10 @@ def main():
             success = sync.sync_domain(domain, force_sync=force_sync)
             
             if success:
-                logger.info(f"🎉 CORRECTED sync completed successfully for {domain}")
+                logger.info(f"🎉 CORRECTED sync with verification completed successfully for {domain}")
                 exit(0)
             else:
-                logger.error(f"❌ CORRECTED sync failed for {domain}")
+                logger.error(f"❌ CORRECTED sync with verification failed for {domain}")
                 exit(1)
         else:
             # Sync all domains

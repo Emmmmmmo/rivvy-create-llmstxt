@@ -37,7 +37,10 @@ rivvy-create-llmstxt/
 │   └── elevenlabs-agents.json      # ElevenLabs agent mapping (optional)
 ├── scripts/
 │   ├── llms_scraper_sharded.py     # Core LLMs generation script
-│   └── elevenlabs_rag_sync_corrected.py  # ElevenLabs integration (CORRECTED)
+│   ├── upload_to_knowledge_base.py # Upload files to ElevenLabs knowledge base
+│   ├── assign_to_agent.py          # Assign uploaded files to agents
+│   ├── sync_domain.py              # Orchestrates upload + assignment
+│   └── elevenlabs_rag_sync_corrected.py  # Legacy combined script
 ├── out/
 │   ├── domain1.com/                # Auto-generated domain directories
 │   │   ├── llms-domain1-com-*.txt  # Sharded product files
@@ -151,6 +154,79 @@ Create `config/elevenlabs-agents.json`:
 - `content_modified`: Content has been updated  
 - `page_added`: New page detected
 - `page_removed`: Page has been removed
+
+## 🔧 ElevenLabs Integration Workflow
+
+### New Separated Scripts (Recommended)
+
+The system now uses separate scripts for better error handling and workflow control:
+
+#### **1. Upload Script: `upload_to_knowledge_base.py`**
+- **Purpose**: Upload files to ElevenLabs knowledge base
+- **Features**: Resume from failures, track progress, handle large files
+- **Usage**: `python3 scripts/upload_to_knowledge_base.py [domain] [--force]`
+
+#### **2. Assignment Script: `assign_to_agent.py`**
+- **Purpose**: Assign uploaded files to agents
+- **Features**: Verify assignments, handle RAG indexing delays
+- **Usage**: `python3 scripts/assign_to_agent.py [domain] [--wait-for-indexing]`
+
+#### **3. Orchestrator Script: `sync_domain.py`**
+- **Purpose**: Runs upload then assignment in sequence
+- **Features**: Handles timing, error recovery
+- **Usage**: `python3 scripts/sync_domain.py [domain] [--force] [--wait-for-indexing]`
+
+### Workflow Examples
+
+#### **Complete Sync (Recommended)**
+```bash
+# Upload files, then assign to agent
+python3 scripts/sync_domain.py jgengineering.ie
+```
+
+#### **Upload Only**
+```bash
+# Just upload files to knowledge base
+python3 scripts/upload_to_knowledge_base.py jgengineering.ie
+```
+
+#### **Assignment Only**
+```bash
+# Assign already uploaded files to agent
+python3 scripts/assign_to_agent.py jgengineering.ie
+```
+
+#### **Force Re-upload**
+```bash
+# Clear sync state and re-upload everything
+python3 scripts/sync_domain.py jgengineering.ie --force
+```
+
+#### **Wait for RAG Indexing**
+```bash
+# Wait for RAG indexing to complete before assignment
+python3 scripts/assign_to_agent.py jgengineering.ie --wait-for-indexing
+```
+
+### Error Recovery
+
+#### **Upload Failed**
+```bash
+# Retry upload (will skip already uploaded files)
+python3 scripts/upload_to_knowledge_base.py jgengineering.ie
+```
+
+#### **Assignment Failed**
+```bash
+# Retry assignment (files already uploaded)
+python3 scripts/assign_to_agent.py jgengineering.ie
+```
+
+#### **Large Files Timing Out**
+```bash
+# Upload with longer timeouts (handled automatically)
+python3 scripts/upload_to_knowledge_base.py jgengineering.ie
+```
 
 ## 📊 Generated Files
 

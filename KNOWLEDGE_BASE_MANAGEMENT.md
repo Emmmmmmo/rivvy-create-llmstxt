@@ -120,6 +120,118 @@ for i, doc in enumerate(files_to_delete):
 - Check remaining file counts
 - Confirm only intended files were removed
 
+### 4. Test Document Cleanup
+
+**⚠️ Critical Lesson:** Test documents uploaded during verification testing must be handled specially.
+
+**❌ Common Issue:** Test documents remain in knowledge base after testing because they are assigned to agents.
+
+**✅ Correct Process for Test Documents:**
+1. **Remove test documents from agent's knowledge base first** (via ElevenLabs dashboard or API)
+2. **Then delete test documents from knowledge base** using the API
+3. **Clean up test agent configurations** from `elevenlabs-agents.json`
+
+**Example Test Document Cleanup:**
+```python
+# Test documents often have different naming patterns
+test_files = [doc for doc in all_documents 
+              if 'test_' in doc.get('name', '') 
+              or 'verification' in doc.get('name', '')]
+
+# Must unassign from agent before deletion
+for doc in test_files:
+    # Remove from agent first
+    remove_from_agent(doc['id'])
+    # Then delete from knowledge base
+    delete_document(doc['id'])
+```
+
+**Note:** Test documents created during script verification (like `test_llms-jgengineering-ie-*.txt`) will remain assigned to agents and cannot be deleted until manually unassigned.
+
+### 5. Agent Assignment Process
+
+**⚠️ Critical Discovery:** ElevenLabs has limits on the number of documents that can be assigned to an agent in a single operation.
+
+**❌ Common Issue:** Attempting to assign large numbers of documents (100+ documents) in a single API call results in silent failures or API errors.
+
+**✅ Correct Process for Large Assignments:**
+1. **Use incremental assignment** with small batch sizes (3-5 documents)
+2. **Preserve existing knowledge base** documents in each batch
+3. **Get current knowledge base** before each batch to avoid overwriting
+4. **Add delays between batches** to avoid rate limiting
+
+**Example Incremental Assignment:**
+```python
+def assign_documents_incremental(agent_id, new_documents, batch_size=5):
+    current_kb = get_agent_knowledge_base(agent_id)
+    
+    for i in range(0, len(new_documents), batch_size):
+        batch = new_documents[i:i + batch_size]
+        
+        # Get current KB (may have grown from previous batches)
+        current_kb = get_agent_knowledge_base(agent_id)
+        
+        # Combine existing + new batch
+        combined_kb = current_kb + batch
+        
+        # Update agent
+        update_agent_knowledge_base(agent_id, combined_kb)
+        
+        # Wait between batches
+        time.sleep(2)
+```
+
+### 6. File Size and Character Limits
+
+**⚠️ Critical Discovery:** ElevenLabs has a 300,000 character limit for knowledge base documents on non-enterprise accounts.
+
+**❌ Common Issue:** Large files (over 300K characters) cannot be assigned to agents, even if they are successfully uploaded to the knowledge base.
+
+**✅ Correct Process for Large Files:**
+1. **Split large files** into smaller chunks under 300K characters
+2. **Upload split files** to knowledge base
+3. **Assign split files** to agents
+4. **Clean up original large files** from knowledge base
+
+**Example File Splitting:**
+```python
+def split_large_file(file_path, max_chars=300000):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    if len(content) <= max_chars:
+        return [file_path]
+    
+    chunks = []
+    start = 0
+    while start < len(content):
+        end = start + max_chars
+        chunk_content = content[start:end]
+        
+        chunk_file = f"{file_path}_part{len(chunks)+1}.txt"
+        with open(chunk_file, 'w', encoding='utf-8') as f:
+            f.write(chunk_content)
+        
+        chunks.append(chunk_file)
+        start = end
+    
+    return chunks
+```
+
+### 7. RAG Indexing Process
+
+**⚠️ Important Clarification:** RAG indexing happens **AFTER** assignment, not before.
+
+**❌ Common Misconception:** Documents need to be RAG-indexed before they can be assigned to agents.
+
+**✅ Correct Understanding:**
+1. **Upload documents** to knowledge base
+2. **Assign documents** to agent
+3. **RAG indexing happens automatically** in the background after assignment
+4. **No manual triggering** of RAG indexing is needed
+
+**Note:** The `rag_index_not_ready` error typically indicates file size limits or other assignment issues, not indexing problems.
+
 ## Error Handling
 
 ### Common Error Codes
@@ -136,10 +248,17 @@ for i, doc in enumerate(files_to_delete):
 **404 - Not Found:**
 - Document ID doesn't exist
 - Wrong API endpoint
+- `knowledge_base_documentation_not_found`: Document doesn't exist in knowledge base
 
 **422 - Unprocessable Entity:**
+- `rag_index_not_ready`: Document cannot be assigned (usually due to file size limits)
 - Document still being indexed
 - Invalid document format
+- Too many documents in single assignment request
+
+**402 - Payment Required:**
+- API key has reached usage limits
+- Account requires payment for additional usage
 
 ### Retry Logic
 
@@ -160,14 +279,24 @@ for i, doc in enumerate(files_to_delete):
 8. **Handle errors gracefully with retry logic**
 9. **Document all procedures for future reference**
 10. **Test with small batches before full operations**
+11. **Use incremental assignment for large document sets (100+ documents)**
+12. **Split large files (>300K characters) before assignment**
+13. **Preserve existing knowledge base documents during assignment**
+14. **Add delays between assignment batches to avoid rate limiting**
+15. **Understand that RAG indexing happens after assignment, not before**
 
 ## Tools and Scripts
 
 ### Available Scripts
 
 1. **`scripts/cleanup_elevenlabs_kb.py`** - Batch deletion tool
-2. **`scripts/elevenlabs_rag_sync_corrected.py`** - Sync and assignment tool
+2. **`scripts/elevenlabs_rag_sync_corrected.py`** - Legacy sync and assignment tool
 3. **`scripts/llms_scraper_sharded.py`** - Main scraping tool
+4. **`scripts/upload_to_knowledge_base.py`** - Upload files to knowledge base only
+5. **`scripts/assign_to_agent.py`** - Assign uploaded files to agents
+6. **`scripts/assign_to_agent_incremental.py`** - Incremental assignment for large document sets
+7. **`scripts/sync_domain.py`** - Orchestrates upload + assignment workflow
+8. **`scripts/split_large_files.py`** - Split large files for character limit compliance
 
 ### Usage Examples
 
@@ -176,9 +305,24 @@ for i, doc in enumerate(files_to_delete):
 python3 scripts/cleanup_elevenlabs_kb.py
 ```
 
-**Sync new files to agent:**
+**Upload files to knowledge base:**
 ```bash
-python3 scripts/elevenlabs_rag_sync_corrected.py
+python3 scripts/upload_to_knowledge_base.py jgengineering.ie
+```
+
+**Assign files to agent (incremental for large sets):**
+```bash
+python3 scripts/assign_to_agent_incremental.py jgengineering.ie --batch-size=5
+```
+
+**Full sync workflow:**
+```bash
+python3 scripts/sync_domain.py jgengineering.ie
+```
+
+**Split large files:**
+```bash
+python3 scripts/split_large_files.py
 ```
 
 **Scrape and organize content:**
@@ -194,7 +338,28 @@ python3 scripts/llms_scraper_sharded.py
 4. **Automated testing of API endpoints**
 5. **Documentation generation from API responses**
 
+## Key Discoveries Summary
+
+### Major Breakthroughs (September 27, 2025)
+
+1. **Assignment Limits Discovered:** ElevenLabs has undocumented limits on the number of documents that can be assigned to an agent in a single operation (approximately 100+ documents cause failures).
+
+2. **Character Limit Identified:** Non-enterprise accounts have a 300,000 character limit per knowledge base document, not a file size limit.
+
+3. **RAG Indexing Clarified:** RAG indexing happens automatically **after** assignment, not before. The `rag_index_not_ready` error typically indicates assignment issues, not indexing problems.
+
+4. **Incremental Assignment Solution:** Created a working solution using incremental assignment with small batch sizes (3-5 documents) while preserving existing knowledge base documents.
+
+5. **File Splitting Success:** Successfully split 15 large files into 104 smaller chunks, all under the character limit, enabling successful assignment.
+
+### Current Status
+- ✅ 104 documents uploaded to knowledge base
+- ✅ 104 documents successfully split and ready for assignment
+- ✅ Incremental assignment script created and tested
+- ⏳ Ready for full assignment of all 104 documents to agent
+
 ---
 
 *Last Updated: September 27, 2025*
 *Based on lessons learned from JG Engineering knowledge base management*
+*Major update: Assignment limits, character limits, and incremental assignment solution discovered*
