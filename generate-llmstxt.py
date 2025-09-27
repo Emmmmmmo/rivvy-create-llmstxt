@@ -66,6 +66,11 @@ class FirecrawlLLMsTextGenerator:
             data = response.json()
             if data.get("success") and data.get("links"):
                 urls = data["links"]
+                # Add currency parameter for Euro pricing on JG Engineering URLs
+                urls = [
+                    f"{u}?currency=EUR" if "jgengineering.ie" in u and "currency=" not in u 
+                    else u for u in urls
+                ]
                 logger.info(f"Found {len(urls)} URLs")
                 return urls
             else:
@@ -79,6 +84,12 @@ class FirecrawlLLMsTextGenerator:
     def scrape_url(self, url: str) -> Optional[Dict]:
         """Scrape a single URL."""
         logger.debug(f"Scraping URL: {url}")
+        
+        # Add currency parameter for Euro pricing on JG Engineering
+        if "jgengineering.ie" in url and "currency=" not in url:
+            separator = "&" if "?" in url else "?"
+            url = f"{url}{separator}currency=EUR"
+            logger.debug(f"Updated URL with EUR currency: {url}")
         
         try:
             response = requests.post(
