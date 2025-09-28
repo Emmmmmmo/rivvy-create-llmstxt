@@ -137,6 +137,7 @@ class ShardedLLMsUpdater:
     def _extract_product_urls(self, markdown_content: str, base_url: str) -> List[str]:
         """Extract product URLs from category page markdown content."""
         import re
+        from urllib.parse import urlparse
         
         # Look for product URLs in the markdown content
         # Pattern matches URLs like /products/product-name (without .html extension)
@@ -149,7 +150,18 @@ class ShardedLLMsUpdater:
         
         # Convert relative URLs to absolute
         for rel_url in relative_urls:
-            absolute_url = urljoin(base_url, rel_url)
+            # If rel_url starts with /products/, we need to preserve the collection path
+            if rel_url.startswith('/products/'):
+                # Extract the collection path from base_url
+                parsed_base = urlparse(base_url)
+                if '/collections/' in parsed_base.path:
+                    # Keep the collection path and append the product path
+                    collection_path = parsed_base.path.rstrip('/')
+                    absolute_url = f"{parsed_base.scheme}://{parsed_base.netloc}{collection_path}{rel_url}"
+                else:
+                    absolute_url = urljoin(base_url, rel_url)
+            else:
+                absolute_url = urljoin(base_url, rel_url)
             urls.append(absolute_url)
         
         # Remove duplicates and normalize
