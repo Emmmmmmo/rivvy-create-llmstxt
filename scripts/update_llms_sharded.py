@@ -50,11 +50,14 @@ class ShardedLLMsUpdater:
         parsed = urlparse(self.base_url)
         self.site_name = parsed.netloc.replace('www.', '').replace('.', '-')
         
-        # Ensure output directory exists with site-specific subfolder
+        # Ensure output directory exists with site-specific subfolder when needed
         self.output_dir = output_dir
-        # Use the original domain name (with dots) for directory, but hyphens for file names
         domain_name = parsed.netloc.replace('www.', '')
-        self.site_output_dir = os.path.join(self.output_dir, domain_name)
+        normalized_output = os.path.normpath(self.output_dir)
+        if os.path.basename(normalized_output) == domain_name:
+            self.site_output_dir = normalized_output
+        else:
+            self.site_output_dir = os.path.join(self.output_dir, domain_name)
         os.makedirs(self.site_output_dir, exist_ok=True)
         
         # File paths
