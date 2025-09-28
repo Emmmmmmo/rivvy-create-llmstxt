@@ -20,6 +20,8 @@ Commands:
   sync            Sync operations (upload + assign)
   search          Search documents by criteria
   stats           Show knowledge base statistics
+  verify-rag      Verify RAG indexing status for documents
+  retry-rag       Retry failed RAG indexing
 
 Examples:
   python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
@@ -30,6 +32,8 @@ Examples:
   python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie
   python3 scripts/knowledge_base_manager.py search --name "helicoil"
   python3 scripts/knowledge_base_manager.py stats
+  python3 scripts/knowledge_base_manager.py verify-rag
+  python3 scripts/knowledge_base_manager.py retry-rag --document-ids doc1 doc2
 """
 
 import os
@@ -479,8 +483,8 @@ class ElevenLabsKnowledgeBaseManager:
             logger.error(f"Error updating agent: {e}")
             return False
     
-    def sync_domain(self, domain: str, force_upload: bool = False) -> bool:
-        """Complete sync operation: upload + assign."""
+    def sync_domain(self, domain: str, force_upload: bool = False, verify_rag: bool = True) -> bool:
+        """Complete sync operation: upload + assign + verify RAG."""
         logger.info(f"🔄 Starting sync for domain: {domain}")
         
         # Step 1: Upload files
@@ -494,6 +498,24 @@ class ElevenLabsKnowledgeBaseManager:
         if not assign_success:
             logger.error("Assignment failed")
             return False
+        
+        # Step 3: Verify RAG indexing (optional)
+        if verify_rag:
+            logger.info("🔍 Verifying RAG indexing...")
+            rag_results = self.verify_rag_indexing()
+            
+            if rag_results["failed"] > 0:
+                logger.warning(f"⚠️  {rag_results['failed']} documents failed RAG indexing")
+                logger.info("🔄 Retrying failed RAG indexing...")
+                retry_results = self.retry_failed_rag_indexing()
+                
+                if retry_results["still_failed"] > 0:
+                    logger.error(f"❌ {retry_results['still_failed']} documents still failed after retry")
+                    return False
+                else:
+                    logger.info("✅ All RAG indexing issues resolved")
+            else:
+                logger.info("✅ All documents successfully indexed for RAG")
         
         logger.info(f"✅ Sync completed successfully for domain: {domain}")
         return True
@@ -534,6 +556,145 @@ class ElevenLabsKnowledgeBaseManager:
             stats['total_size_bytes'] += size_bytes
         
         return stats
+    
+    def check_rag_index_status(self, document_id: str, model: str = "e5_mistral_7b_instruct") -> Dict[str, any]:
+        """Check RAG indexing status for a specific document."""
+        try:
+            response = requests.post(
+                f"{self.base_url}/knowledge-base/{document_id}/rag-index",
+                headers=self.headers,
+                json={"model": model}
+            )
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.RequestException as e:
+            logger.error(f"Failed to check RAG status for {document_id}: {e}")
+            return {"error": str(e)}
+    
+    def verify_rag_indexing(self, document_ids: List[str] = None, model: str = "e5_mistral_7b_instruct") -> Dict[str, any]:
+        """Verify RAG indexing status for documents."""
+        logger.info("🔍 Verifying RAG indexing status...")
+        
+        if document_ids is None:
+            # Get all documents from sync state
+            document_ids = [doc_data["document_id"] for doc_data in self.sync_state.values()]
+        
+        results = {
+            "total_checked": len(document_ids),
+            "succeeded": 0,
+            "failed": 0,
+            "processing": 0,
+            "not_found": 0,
+            "errors": 0,
+            "details": []
+        }
+        
+        for doc_id in document_ids:
+            try:
+                status_response = self.check_rag_index_status(doc_id, model)
+                
+                if "error" in status_response:
+                    results["errors"] += 1
+                    results["details"].append({
+                        "document_id": doc_id,
+                        "status": "error",
+                        "error": status_response["error"]
+                    })
+                else:
+                    status = status_response.get("status", "unknown")
+                    results["details"].append({
+                        "document_id": doc_id,
+                        "status": status,
+                        "progress": status_response.get("progress_percentage", 0),
+                        "usage_bytes": status_response.get("document_model_index_usage", {}).get("used_bytes", 0)
+                    })
+                    
+                    if status == "succeeded":
+                        results["succeeded"] += 1
+                    elif status == "failed":
+                        results["failed"] += 1
+                    elif status in ["processing", "created"]:
+                        results["processing"] += 1
+                    else:
+                        results["not_found"] += 1
+                
+                # Small delay to avoid rate limiting
+                time.sleep(0.1)
+                
+            except Exception as e:
+                logger.error(f"Error checking RAG status for {doc_id}: {e}")
+                results["errors"] += 1
+                results["details"].append({
+                    "document_id": doc_id,
+                    "status": "error",
+                    "error": str(e)
+                })
+        
+        return results
+    
+    def retry_failed_rag_indexing(self, document_ids: List[str] = None, model: str = "e5_mistral_7b_instruct") -> Dict[str, any]:
+        """Retry RAG indexing for failed documents."""
+        logger.info("🔄 Retrying failed RAG indexing...")
+        
+        if document_ids is None:
+            # First verify to find failed documents
+            verification_results = self.verify_rag_indexing()
+            failed_docs = [
+                detail["document_id"] 
+                for detail in verification_results["details"] 
+                if detail["status"] == "failed"
+            ]
+            document_ids = failed_docs
+        
+        if not document_ids:
+            logger.info("✅ No failed documents found to retry")
+            return {"retried": 0, "successful": 0, "still_failed": 0}
+        
+        results = {
+            "retried": len(document_ids),
+            "successful": 0,
+            "still_failed": 0,
+            "details": []
+        }
+        
+        for doc_id in document_ids:
+            try:
+                logger.info(f"🔄 Retrying RAG indexing for {doc_id}")
+                status_response = self.check_rag_index_status(doc_id, model)
+                
+                if "error" not in status_response:
+                    status = status_response.get("status", "unknown")
+                    results["details"].append({
+                        "document_id": doc_id,
+                        "status": status,
+                        "progress": status_response.get("progress_percentage", 0)
+                    })
+                    
+                    if status in ["succeeded", "created"]:
+                        results["successful"] += 1
+                    else:
+                        results["still_failed"] += 1
+                else:
+                    results["still_failed"] += 1
+                    results["details"].append({
+                        "document_id": doc_id,
+                        "status": "error",
+                        "error": status_response["error"]
+                    })
+                
+                # Small delay to avoid rate limiting
+                time.sleep(0.2)
+                
+            except Exception as e:
+                logger.error(f"Error retrying RAG indexing for {doc_id}: {e}")
+                results["still_failed"] += 1
+                results["details"].append({
+                    "document_id": doc_id,
+                    "status": "error",
+                    "error": str(e)
+                })
+        
+        return results
 
 def main():
     """Main CLI interface."""
@@ -564,9 +725,10 @@ def main():
     assign_parser.add_argument('--batch-size', type=int, default=5, help='Batch size for assignment')
     
     # Sync command
-    sync_parser = subparsers.add_parser('sync', help='Sync domain (upload + assign)')
+    sync_parser = subparsers.add_parser('sync', help='Complete sync operation (upload + assign + verify RAG)')
     sync_parser.add_argument('--domain', required=True, help='Domain to sync')
     sync_parser.add_argument('--force', action='store_true', help='Force upload even if unchanged')
+    sync_parser.add_argument('--no-verify-rag', action='store_true', help='Skip RAG verification step')
     
     # Search command
     search_parser = subparsers.add_parser('search', help='Search documents by criteria')
@@ -577,6 +739,16 @@ def main():
     
     # Stats command
     subparsers.add_parser('stats', help='Show knowledge base statistics')
+    
+    # Verify RAG command
+    verify_rag_parser = subparsers.add_parser('verify-rag', help='Verify RAG indexing status for documents')
+    verify_rag_parser.add_argument('--document-ids', nargs='+', help='Specific document IDs to check (default: all from sync state)')
+    verify_rag_parser.add_argument('--model', default='e5_mistral_7b_instruct', help='RAG model to check')
+    
+    # Retry RAG command
+    retry_rag_parser = subparsers.add_parser('retry-rag', help='Retry failed RAG indexing')
+    retry_rag_parser.add_argument('--document-ids', nargs='+', help='Specific document IDs to retry (default: all failed documents)')
+    retry_rag_parser.add_argument('--model', default='e5_mistral_7b_instruct', help='RAG model to use')
     
     args = parser.parse_args()
     
@@ -601,7 +773,7 @@ def main():
         elif args.command == 'assign':
             manager.assign_documents_to_agents(args.domain, args.batch_size)
         elif args.command == 'sync':
-            manager.sync_domain(args.domain, args.force)
+            manager.sync_domain(args.domain, args.force, verify_rag=not args.no_verify_rag)
         elif args.command == 'search':
             documents = manager.search_documents(args.name, args.date_from, args.date_to, args.type)
             for doc in documents:
@@ -617,6 +789,35 @@ def main():
             print("\nBy date (last 10):")
             for date, count in sorted(stats['by_date'].items(), reverse=True)[:10]:
                 print(f"  {date}: {count}")
+        
+        elif args.command == 'verify-rag':
+            results = manager.verify_rag_indexing(args.document_ids, args.model)
+            print(f"\n🔍 RAG Indexing Verification Results:")
+            print(f"Total checked: {results['total_checked']}")
+            print(f"✅ Succeeded: {results['succeeded']}")
+            print(f"❌ Failed: {results['failed']}")
+            print(f"⏳ Processing: {results['processing']}")
+            print(f"❓ Not found: {results['not_found']}")
+            print(f"⚠️  Errors: {results['errors']}")
+            
+            if results['failed'] > 0 or results['errors'] > 0:
+                print(f"\n❌ Failed/Error Details:")
+                for detail in results['details']:
+                    if detail['status'] in ['failed', 'error']:
+                        print(f"  {detail['document_id']}: {detail['status']} - {detail.get('error', 'N/A')}")
+        
+        elif args.command == 'retry-rag':
+            results = manager.retry_failed_rag_indexing(args.document_ids, args.model)
+            print(f"\n🔄 RAG Indexing Retry Results:")
+            print(f"Retried: {results['retried']}")
+            print(f"✅ Successful: {results['successful']}")
+            print(f"❌ Still failed: {results['still_failed']}")
+            
+            if results['still_failed'] > 0:
+                print(f"\n❌ Still Failed Details:")
+                for detail in results['details']:
+                    if detail['status'] not in ['succeeded', 'created']:
+                        print(f"  {detail['document_id']}: {detail['status']} - {detail.get('error', 'N/A')}")
         
     except Exception as e:
         logger.error(f"Command failed: {e}")

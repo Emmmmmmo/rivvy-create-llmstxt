@@ -36,10 +36,10 @@ rivvy-create-llmstxt/
 ├── config/
 │   └── elevenlabs-agents.json      # ElevenLabs agent mapping (optional)
 ├── scripts/
-│   ├── llms_scraper_sharded.py     # Core LLMs generation script
+│   ├── llms_scraper_sharded.py     # Core LLMs generation script with auto-splitting
+│   ├── knowledge_base_manager.py   # Unified KB management (upload, assign, verify RAG)
 │   ├── upload_to_knowledge_base.py # Upload files to ElevenLabs knowledge base
-│   ├── assign_to_agent.py          # Assign uploaded files to agents
-│   ├── sync_domain.py              # Orchestrates upload + assignment
+│   ├── assign_to_agent_incremental.py # Incremental assignment for large document sets
 │   └── elevenlabs_rag_sync_corrected.py  # Legacy combined script
 ├── out/
 │   ├── domain1.com/                # Auto-generated domain directories
@@ -157,55 +157,80 @@ Create `config/elevenlabs-agents.json`:
 
 ## 🔧 ElevenLabs Integration Workflow
 
-### New Separated Scripts (Recommended)
+### ⭐ **NEW: Unified Knowledge Base Manager (Recommended)**
 
-The system now uses separate scripts for better error handling and workflow control:
+The system now features a comprehensive `knowledge_base_manager.py` script that handles all KB operations:
+
+#### **Unified Script: `knowledge_base_manager.py`**
+- **Purpose**: Complete knowledge base management solution
+- **Features**: Upload, assign, verify RAG, retry failed indexing, search, stats
+- **Usage**: `python3 scripts/knowledge_base_manager.py [command] [options]`
+
+#### **Available Commands:**
+- `upload` - Upload files to knowledge base
+- `assign` - Assign documents to agents  
+- `sync` - Complete sync (upload + assign + verify RAG)
+- `verify-rag` - Check RAG indexing status
+- `retry-rag` - Retry failed RAG indexing
+- `list` - List documents in knowledge base
+- `search` - Search documents by criteria
+- `remove` - Remove documents by date/ID
+- `stats` - Show knowledge base statistics
+
+### Legacy Scripts (Still Available)
 
 #### **1. Upload Script: `upload_to_knowledge_base.py`**
 - **Purpose**: Upload files to ElevenLabs knowledge base
 - **Features**: Resume from failures, track progress, handle large files
 - **Usage**: `python3 scripts/upload_to_knowledge_base.py [domain] [--force]`
 
-#### **2. Assignment Script: `assign_to_agent.py`**
-- **Purpose**: Assign uploaded files to agents
-- **Features**: Verify assignments, handle RAG indexing delays
-- **Usage**: `python3 scripts/assign_to_agent.py [domain] [--wait-for-indexing]`
-
-#### **3. Orchestrator Script: `sync_domain.py`**
-- **Purpose**: Runs upload then assignment in sequence
-- **Features**: Handles timing, error recovery
-- **Usage**: `python3 scripts/sync_domain.py [domain] [--force] [--wait-for-indexing]`
+#### **2. Assignment Script: `assign_to_agent_incremental.py`**
+- **Purpose**: Assign uploaded files to agents (incremental for large sets)
+- **Features**: Batch processing, rate limiting, error recovery
+- **Usage**: `python3 scripts/assign_to_agent_incremental.py [domain] [--batch-size=5]`
 
 ### Workflow Examples
 
-#### **Complete Sync (Recommended)**
+#### **Complete Sync with RAG Verification (Recommended)**
 ```bash
-# Upload files, then assign to agent
-python3 scripts/sync_domain.py jgengineering.ie
+# Upload, assign, and verify RAG indexing
+python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie
 ```
 
 #### **Upload Only**
 ```bash
 # Just upload files to knowledge base
-python3 scripts/upload_to_knowledge_base.py jgengineering.ie
+python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
 ```
 
 #### **Assignment Only**
 ```bash
 # Assign already uploaded files to agent
-python3 scripts/assign_to_agent.py jgengineering.ie
+python3 scripts/knowledge_base_manager.py assign --domain jgengineering.ie
+```
+
+#### **Verify RAG Indexing**
+```bash
+# Check RAG indexing status for all documents
+python3 scripts/knowledge_base_manager.py verify-rag
+```
+
+#### **Retry Failed RAG Indexing**
+```bash
+# Retry failed RAG indexing automatically
+python3 scripts/knowledge_base_manager.py retry-rag
 ```
 
 #### **Force Re-upload**
 ```bash
 # Clear sync state and re-upload everything
-python3 scripts/sync_domain.py jgengineering.ie --force
+python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie --force
 ```
 
-#### **Wait for RAG Indexing**
+#### **Skip RAG Verification (Faster)**
 ```bash
-# Wait for RAG indexing to complete before assignment
-python3 scripts/assign_to_agent.py jgengineering.ie --wait-for-indexing
+# Sync without RAG verification for faster processing
+python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie --no-verify-rag
 ```
 
 ### Error Recovery
@@ -213,19 +238,26 @@ python3 scripts/assign_to_agent.py jgengineering.ie --wait-for-indexing
 #### **Upload Failed**
 ```bash
 # Retry upload (will skip already uploaded files)
-python3 scripts/upload_to_knowledge_base.py jgengineering.ie
+python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
 ```
 
 #### **Assignment Failed**
 ```bash
 # Retry assignment (files already uploaded)
-python3 scripts/assign_to_agent.py jgengineering.ie
+python3 scripts/knowledge_base_manager.py assign --domain jgengineering.ie
+```
+
+#### **RAG Indexing Failed**
+```bash
+# Check status and retry failed indexing
+python3 scripts/knowledge_base_manager.py verify-rag
+python3 scripts/knowledge_base_manager.py retry-rag
 ```
 
 #### **Large Files Timing Out**
 ```bash
 # Upload with longer timeouts (handled automatically)
-python3 scripts/upload_to_knowledge_base.py jgengineering.ie
+python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
 ```
 
 ## 📊 Generated Files
@@ -423,10 +455,13 @@ python3 scripts/update_llms_sharded.py [URL] \
 **ElevenLabs sync issues:**
 - ✅ **RAG Indexing Delays**: **SOLVED** - Extended retry logic handles timing issues
 - ✅ **Document Accumulation**: **SOLVED** - Automatic cleanup prevents accumulation
+- ✅ **RAG Storage Limits**: **SOLVED** - Automatic verification and retry system
+- ✅ **Failed Indexing**: **SOLVED** - Built-in retry mechanism for failed documents
 - Verify API key and agent ID
 - Check file size limits
 - Review agent configuration
 - Check sync state file for tracking issues
+- Use `verify-rag` command to check indexing status
 
 ### Debug Commands
 
@@ -477,6 +512,8 @@ For issues and questions:
 - ✅ **Extended retry logic** handles RAG indexing delays
 - ✅ **Production-ready error handling** with comprehensive logging
 - ✅ **Scalable architecture** for unlimited domains and frequent updates
+- ✅ **RAG indexing verification** with automatic retry system
+- ✅ **Unified knowledge base management** with comprehensive tooling
 
 For detailed system status and technical specifications, see [SYSTEM_STATUS.md](./SYSTEM_STATUS.md).
 

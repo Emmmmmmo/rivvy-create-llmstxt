@@ -232,6 +232,42 @@ def split_large_file(file_path, max_chars=300000):
 
 **Note:** The `rag_index_not_ready` error typically indicates file size limits or other assignment issues, not indexing problems.
 
+### 8. RAG Storage Limits and Verification ⭐ **NEW**
+
+**⚠️ Critical Discovery:** ElevenLabs has per-agent RAG storage limits that can cause indexing failures.
+
+**❌ Common Issue:** Documents show "RAG storage limit exceeded" errors even when overall knowledge base has available storage.
+
+**✅ Solution - RAG Verification System:**
+1. **Automatic verification** of RAG indexing status for all documents
+2. **Automatic retry** of failed RAG indexing
+3. **Storage limit management** through agent configuration
+4. **Comprehensive reporting** of indexing results
+
+**RAG Storage Limit Resolution:**
+- **Increase agent RAG limits** in ElevenLabs dashboard (max_documents_length, max_retrieved_rag_chunks_count)
+- **Verify indexing status** using `verify-rag` command
+- **Retry failed documents** using `retry-rag` command
+- **Monitor storage usage** per document
+
+**Example RAG Verification:**
+```bash
+# Check RAG indexing status for all documents
+python3 scripts/knowledge_base_manager.py verify-rag
+
+# Retry failed RAG indexing
+python3 scripts/knowledge_base_manager.py retry-rag
+
+# Complete sync with RAG verification
+python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie
+```
+
+**Key Insights:**
+- Each document has its own RAG index ID and status
+- RAG storage limits are per-agent, not global
+- Failed indexing can be retried automatically
+- Verification should be part of the standard workflow
+
 ## Error Handling
 
 ### Common Error Codes
@@ -255,6 +291,11 @@ def split_large_file(file_path, max_chars=300000):
 - Document still being indexed
 - Invalid document format
 - Too many documents in single assignment request
+
+**RAG Storage Limit Errors:**
+- `RAG storage limit exceeded`: Agent has reached RAG storage quota
+- Individual document indexing fails due to per-agent limits
+- Solution: Increase agent RAG limits or use verification/retry system
 
 **402 - Payment Required:**
 - API key has reached usage limits
@@ -284,45 +325,56 @@ def split_large_file(file_path, max_chars=300000):
 13. **Preserve existing knowledge base documents during assignment**
 14. **Add delays between assignment batches to avoid rate limiting**
 15. **Understand that RAG indexing happens after assignment, not before**
+16. **Verify RAG indexing status after assignment**
+17. **Retry failed RAG indexing automatically**
+18. **Monitor RAG storage limits per agent**
+19. **Use unified knowledge base management tools**
 
 ## Tools and Scripts
 
 ### Available Scripts
 
-1. **`scripts/cleanup_elevenlabs_kb.py`** - Batch deletion tool
-2. **`scripts/elevenlabs_rag_sync_corrected.py`** - Legacy sync and assignment tool
-3. **`scripts/llms_scraper_sharded.py`** - Main scraping tool
-4. **`scripts/upload_to_knowledge_base.py`** - Upload files to knowledge base only
-5. **`scripts/assign_to_agent.py`** - Assign uploaded files to agents
-6. **`scripts/assign_to_agent_incremental.py`** - Incremental assignment for large document sets
-7. **`scripts/sync_domain.py`** - Orchestrates upload + assignment workflow
-8. **`scripts/split_large_files.py`** - Split large files for character limit compliance
+1. **`scripts/knowledge_base_manager.py`** ⭐ **NEW - UNIFIED** - Complete KB management solution
+2. **`scripts/llms_scraper_sharded.py`** - Main scraping tool with auto-splitting
+3. **`scripts/upload_to_knowledge_base.py`** - Upload files to knowledge base only (legacy)
+4. **`scripts/assign_to_agent_incremental.py`** - Incremental assignment for large document sets (legacy)
+5. **`scripts/elevenlabs_rag_sync_corrected.py`** - Legacy sync and assignment tool
 
 ### Usage Examples
 
-**Clean up specific files:**
+**Complete sync with RAG verification (Recommended):**
 ```bash
-python3 scripts/cleanup_elevenlabs_kb.py
+python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie
+```
+
+**Verify RAG indexing status:**
+```bash
+python3 scripts/knowledge_base_manager.py verify-rag
+```
+
+**Retry failed RAG indexing:**
+```bash
+python3 scripts/knowledge_base_manager.py retry-rag
 ```
 
 **Upload files to knowledge base:**
 ```bash
-python3 scripts/upload_to_knowledge_base.py jgengineering.ie
+python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
 ```
 
-**Assign files to agent (incremental for large sets):**
+**Assign files to agent:**
 ```bash
-python3 scripts/assign_to_agent_incremental.py jgengineering.ie --batch-size=5
+python3 scripts/knowledge_base_manager.py assign --domain jgengineering.ie
 ```
 
-**Full sync workflow:**
+**Search documents:**
 ```bash
-python3 scripts/sync_domain.py jgengineering.ie
+python3 scripts/knowledge_base_manager.py search --name "helicoil"
 ```
 
-**Split large files:**
+**Get knowledge base statistics:**
 ```bash
-python3 scripts/split_large_files.py
+python3 scripts/knowledge_base_manager.py stats
 ```
 
 **Scrape and organize content:**
@@ -340,7 +392,7 @@ python3 scripts/llms_scraper_sharded.py
 
 ## Key Discoveries Summary
 
-### Major Breakthroughs (September 27, 2025)
+### Major Breakthroughs (September 27-28, 2025)
 
 1. **Assignment Limits Discovered:** ElevenLabs has undocumented limits on the number of documents that can be assigned to an agent in a single operation (approximately 100+ documents cause failures).
 
@@ -352,14 +404,22 @@ python3 scripts/llms_scraper_sharded.py
 
 5. **File Splitting Success:** Successfully split 15 large files into 104 smaller chunks, all under the character limit, enabling successful assignment.
 
+6. **RAG Storage Limits Discovered:** ElevenLabs has per-agent RAG storage limits that can cause indexing failures even when overall knowledge base has available storage.
+
+7. **RAG Verification System:** Created comprehensive RAG indexing verification and retry system with automatic failure detection and resolution.
+
+8. **Unified Knowledge Base Manager:** Developed single script for all KB operations (upload, assign, verify, retry, search, stats, remove).
+
 ### Current Status
 - ✅ 104 documents uploaded to knowledge base
-- ✅ 104 documents successfully split and ready for assignment
-- ✅ Incremental assignment script created and tested
-- ⏳ Ready for full assignment of all 104 documents to agent
+- ✅ 104 documents successfully assigned to agent
+- ✅ 104 documents successfully RAG indexed
+- ✅ RAG verification and retry system operational
+- ✅ Unified knowledge base management tool available
+- ✅ All RAG storage limit issues resolved
 
 ---
 
-*Last Updated: September 27, 2025*
+*Last Updated: September 28, 2025*
 *Based on lessons learned from JG Engineering knowledge base management*
-*Major update: Assignment limits, character limits, and incremental assignment solution discovered*
+*Major updates: Assignment limits, character limits, RAG storage limits, and unified management solution*
