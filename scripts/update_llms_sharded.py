@@ -580,6 +580,84 @@ class ShardedLLMsUpdater:
             "written_files": written_files
         }
     
+    def discover_new_products(self, category_url: str, pre_scraped_content: str, max_products: int = 20) -> Dict[str, Any]:
+        """Discover and scrape only newly added products by comparing current vs previous collection page."""
+        logger.info(f"Discovering new products from category: {category_url}")
+        
+        # Extract product URLs from the current (pre-scraped) content
+        current_product_urls = set(self._extract_product_urls(pre_scraped_content, category_url))
+        
+        # Get previously known products for this collection from our index
+        # We'll look for products that belong to the same collection
+        collection_name = self._get_shard_key(category_url)
+        previously_known_products = set()
+        
+        if collection_name in self.manifest:
+            for url in self.manifest[collection_name]:
+                if url in self.url_index and '/products/' in url:
+                    previously_known_products.add(url)
+        
+        # Find newly added products (in current but not in previously known)
+        new_product_urls = list(current_product_urls - previously_known_products)
+        
+        logger.info(f"Found {len(current_product_urls)} total products, {len(previously_known_products)} previously known, {len(new_product_urls)} new products")
+        
+        if not new_product_urls:
+            logger.info("No new products found in collection")
+            return {
+                "operation": "discover_new_products",
+                "category_url": category_url,
+                "total_products": len(current_product_urls),
+                "previously_known": len(previously_known_products),
+                "new_products": 0,
+                "processed_products": 0,
+                "touched_shards": [],
+                "written_files": []
+            }
+        
+        # Limit the number of new products to process
+        if len(new_product_urls) > max_products:
+            logger.info(f"Limiting to first {max_products} new products out of {len(new_product_urls)} discovered")
+            new_product_urls = new_product_urls[:max_products]
+        
+        # Process each new product URL
+        touched_shards = set()
+        processed_count = 0
+        written_files = []
+        
+        for i, product_url in enumerate(new_product_urls):
+            logger.info(f"Processing new product {i+1}/{len(new_product_urls)}: {product_url}")
+            
+            product_data = self._scrape_url(product_url)
+            if product_data:
+                shard_key = self._update_url_data(product_url, product_data)
+                touched_shards.add(shard_key)
+                processed_count += 1
+            
+            # Small delay to avoid rate limiting
+            time.sleep(0.1)
+        
+        # Write shard files for all touched shards
+        for shard_key in touched_shards:
+            if shard_key in self.manifest:
+                filepaths = self._write_shard_file(shard_key, self.manifest[shard_key])
+                written_files.extend(filepaths)
+        
+        # Save index and manifest
+        self._save_url_index()
+        self._save_manifest()
+        
+        return {
+            "operation": "discover_new_products",
+            "category_url": category_url,
+            "total_products": len(current_product_urls),
+            "previously_known": len(previously_known_products),
+            "new_products": len(new_product_urls),
+            "processed_products": processed_count,
+            "touched_shards": list(touched_shards),
+            "written_files": written_files
+        }
+    
     def incremental_update(self, urls: List[str], operation: str, pre_scraped_content: Optional[str] = None) -> Dict[str, Any]:
         """Perform incremental update for specific URLs."""
         logger.info(f"Starting incremental update: {operation} for {len(urls)} URLs")
@@ -644,6 +722,7 @@ def main():
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--full", action="store_true", help="Perform full crawl")
     group.add_argument("--auto-discover", type=str, help="Auto-discover and scrape all products from a category page URL")
+    group.add_argument("--discover-new", type=str, help="Discover and scrape only newly added products from a category page URL (requires --pre-scraped-content)")
     group.add_argument("--added", type=str, help="JSON array of URLs to add")
     group.add_argument("--changed", type=str, help="JSON array of URLs to update")
     group.add_argument("--removed", type=str, help="JSON array of URLs to remove")
@@ -721,6 +800,13 @@ def main():
             result = updater.full_crawl(args.limit)
         elif args.auto_discover:
             result = updater.auto_discover_products(args.auto_discover, args.max_products)
+        elif args.discover_new:
+            if not args.pre_scraped_content or not os.path.exists(args.pre_scraped_content):
+                logger.error("--discover-new requires --pre-scraped-content with valid file path")
+                sys.exit(1)
+            with open(args.pre_scraped_content, 'r', encoding='utf-8') as f:
+                pre_scraped_content = f.read()
+            result = updater.discover_new_products(args.discover_new, pre_scraped_content, args.max_products)
         elif args.added:
             urls = json.loads(args.added)
             pre_scraped_content = None

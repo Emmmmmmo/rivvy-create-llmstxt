@@ -174,15 +174,31 @@ jobs:
                   fi
                 done
                 
-                # Process collection pages with auto-discover to extract individual products
+                # Process collection pages with discover-new to extract only newly added products
                 if [ ${#collection_urls[@]} -gt 0 ]; then
-                  echo "🔍 Auto-discovering products from ${#collection_urls[@]} collection pages..."
-                  for collection_url in "${collection_urls[@]}"; do
-                    echo "Auto-discovering products from: $collection_url"
-                    python3 scripts/update_llms_sharded.py "$site_url" \
-                      --auto-discover "$collection_url" \
-                      --output-dir "$output_dir" \
-                      --max-products 20
+                  echo "🔍 Discovering new products from ${#collection_urls[@]} collection pages..."
+                  for i in "${!collection_urls[@]}"; do
+                    collection_url="${collection_urls[$i]}"
+                    echo "Discovering new products from: $collection_url"
+                    
+                    # Check if we have pre-scraped content for this collection
+                    temp_file="/tmp/scraped_content_${i}_*.md"
+                    if ls $temp_file 1> /dev/null 2>&1; then
+                      # Use the specific temp file for this collection
+                      temp_file_path=$(ls $temp_file | head -1)
+                      echo "Using pre-scraped content: $temp_file_path"
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --discover-new "$collection_url" \
+                        --output-dir "$output_dir" \
+                        --pre-scraped-content "$temp_file_path" \
+                        --max-products 20
+                    else
+                      echo "No pre-scraped content found, falling back to auto-discover"
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --auto-discover "$collection_url" \
+                        --output-dir "$output_dir" \
+                        --max-products 20
+                    fi
                   done
                 fi
                 
@@ -237,11 +253,21 @@ jobs:
                   # Check if this is a collection page
                   if [[ "$site_url" == *"/collections/"* ]]; then
                     echo "🛍️  Collection page detected: $site_url"
-                    echo "🔍 Auto-discovering products from collection page..."
-                    python3 scripts/update_llms_sharded.py "$site_url" \
-                      --auto-discover "$site_url" \
-                      --output-dir "$output_dir" \
-                      --max-products 20
+                    echo "🔍 Discovering new products from collection page..."
+                    if [ -f "$temp_file" ]; then
+                      echo "Using pre-scraped content for new product discovery"
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --discover-new "$site_url" \
+                        --output-dir "$output_dir" \
+                        --pre-scraped-content "$temp_file" \
+                        --max-products 20
+                    else
+                      echo "No pre-scraped content, falling back to auto-discover"
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --auto-discover "$site_url" \
+                        --output-dir "$output_dir" \
+                        --max-products 20
+                    fi
                   else
                     echo "📄 Regular page: $site_url"
                     if [ -f "$temp_file" ]; then
@@ -268,11 +294,21 @@ jobs:
                   # Check if this is a collection page
                   if [[ "$site_url" == *"/collections/"* ]]; then
                     echo "🛍️  Collection page detected: $site_url"
-                    echo "🔍 Auto-discovering products from collection page..."
-                    python3 scripts/update_llms_sharded.py "$site_url" \
-                      --auto-discover "$site_url" \
-                      --output-dir "$output_dir" \
-                      --max-products 20
+                    echo "🔍 Discovering new products from collection page..."
+                    if [ -f "$temp_file" ]; then
+                      echo "Using pre-scraped content for new product discovery"
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --discover-new "$site_url" \
+                        --output-dir "$output_dir" \
+                        --pre-scraped-content "$temp_file" \
+                        --max-products 20
+                    else
+                      echo "No pre-scraped content, falling back to auto-discover"
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --auto-discover "$site_url" \
+                        --output-dir "$output_dir" \
+                        --max-products 20
+                    fi
                   else
                     echo "📄 Regular page: $site_url"
                     if [ -f "$temp_file" ]; then
