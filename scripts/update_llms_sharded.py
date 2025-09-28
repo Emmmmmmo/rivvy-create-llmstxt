@@ -139,12 +139,12 @@ class ShardedLLMsUpdater:
         import re
         
         # Look for product URLs in the markdown content
-        # Pattern matches URLs like /products/product-name.html
-        product_pattern = r'https://[^/]+/products/[^/\s\)]+\.html'
+        # Pattern matches URLs like /products/product-name (without .html extension)
+        product_pattern = r'https://[^/]+/products/[^/\s\)]+(?:\.html)?'
         urls = re.findall(product_pattern, markdown_content)
         
         # Also look for relative URLs and convert them to absolute
-        relative_pattern = r'/products/[^/\s\)]+\.html'
+        relative_pattern = r'/products/[^/\s\)]+(?:\.html)?'
         relative_urls = re.findall(relative_pattern, markdown_content)
         
         # Convert relative URLs to absolute
