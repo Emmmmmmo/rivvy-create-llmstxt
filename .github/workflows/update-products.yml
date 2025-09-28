@@ -156,15 +156,46 @@ jobs:
                 esac
               done
               
-              # Process added/modified pages in batch
+              # Process added/modified pages - separate collection pages from regular pages
               if [ ${#added_urls[@]} -gt 0 ]; then
                 echo "Processing ${#added_urls[@]} added/modified pages..."
-                added_urls_json=$(printf '%s\n' "${added_urls[@]}" | jq -R . | jq -s .)
-                echo "Added URLs: $added_urls_json"
                 
-                python3 scripts/update_llms_sharded.py "$site_url" \
-                  --added "$added_urls_json" \
-                  --output-dir "$output_dir"
+                # Separate collection pages from regular pages
+                collection_urls=()
+                regular_urls=()
+                
+                for url in "${added_urls[@]}"; do
+                  if [[ "$url" == *"/collections/"* ]]; then
+                    echo "🛍️  Collection page detected: $url"
+                    collection_urls+=("$url")
+                  else
+                    echo "📄 Regular page: $url"
+                    regular_urls+=("$url")
+                  fi
+                done
+                
+                # Process collection pages with auto-discover to extract individual products
+                if [ ${#collection_urls[@]} -gt 0 ]; then
+                  echo "🔍 Auto-discovering products from ${#collection_urls[@]} collection pages..."
+                  for collection_url in "${collection_urls[@]}"; do
+                    echo "Auto-discovering products from: $collection_url"
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --auto-discover "$collection_url" \
+                      --output-dir "$output_dir" \
+                      --max-products 20
+                  done
+                fi
+                
+                # Process regular pages with standard method
+                if [ ${#regular_urls[@]} -gt 0 ]; then
+                  echo "📝 Processing ${#regular_urls[@]} regular pages..."
+                  regular_urls_json=$(printf '%s\n' "${regular_urls[@]}" | jq -R . | jq -s .)
+                  echo "Regular URLs: $regular_urls_json"
+                  
+                  python3 scripts/update_llms_sharded.py "$site_url" \
+                    --added "$regular_urls_json" \
+                    --output-dir "$output_dir"
+                fi
               fi
               
               # Process removed pages in batch
@@ -198,19 +229,31 @@ jobs:
                 printf '%s\n' "$scraped_content" > "$temp_file"
               fi
               
-              # Process based on change type
+              # Process based on change type - detect collection pages
               case "$change_type" in
                 "content_modified"|"page_added"|"content_changed")
                   echo "Processing content modification for $domain"
-                  if [ -f "$temp_file" ]; then
+                  
+                  # Check if this is a collection page
+                  if [[ "$site_url" == *"/collections/"* ]]; then
+                    echo "🛍️  Collection page detected: $site_url"
+                    echo "🔍 Auto-discovering products from collection page..."
                     python3 scripts/update_llms_sharded.py "$site_url" \
-                      --added "[\"$site_url\"]" \
+                      --auto-discover "$site_url" \
                       --output-dir "$output_dir" \
-                      --pre-scraped-content "$temp_file"
+                      --max-products 20
                   else
-                    python3 scripts/update_llms_sharded.py "$site_url" \
-                      --added "[\"$site_url\"]" \
-                      --output-dir "$output_dir"
+                    echo "📄 Regular page: $site_url"
+                    if [ -f "$temp_file" ]; then
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "[\"$site_url\"]" \
+                        --output-dir "$output_dir" \
+                        --pre-scraped-content "$temp_file"
+                    else
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "[\"$site_url\"]" \
+                        --output-dir "$output_dir"
+                    fi
                   fi
                   ;;
                 "page_removed")
@@ -221,15 +264,27 @@ jobs:
                   ;;
                 *)
                   echo "Unknown change type: $change_type, treating as content modification"
-                  if [ -f "$temp_file" ]; then
+                  
+                  # Check if this is a collection page
+                  if [[ "$site_url" == *"/collections/"* ]]; then
+                    echo "🛍️  Collection page detected: $site_url"
+                    echo "🔍 Auto-discovering products from collection page..."
                     python3 scripts/update_llms_sharded.py "$site_url" \
-                      --added "[\"$site_url\"]" \
+                      --auto-discover "$site_url" \
                       --output-dir "$output_dir" \
-                      --pre-scraped-content "$temp_file"
+                      --max-products 20
                   else
-                    python3 scripts/update_llms_sharded.py "$site_url" \
-                      --added "[\"$site_url\"]" \
-                      --output-dir "$output_dir"
+                    echo "📄 Regular page: $site_url"
+                    if [ -f "$temp_file" ]; then
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "[\"$site_url\"]" \
+                        --output-dir "$output_dir" \
+                        --pre-scraped-content "$temp_file"
+                    else
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "[\"$site_url\"]" \
+                        --output-dir "$output_dir"
+                    fi
                   fi
                   ;;
               esac
