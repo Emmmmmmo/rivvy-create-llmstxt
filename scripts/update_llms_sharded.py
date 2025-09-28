@@ -140,13 +140,18 @@ class ShardedLLMsUpdater:
         from urllib.parse import urlparse
         
         # Look for product URLs in the markdown content
-        # Pattern matches URLs like /products/product-name (without .html extension)
-        product_pattern = r'https://[^/]+/products/[^/\s\)]+(?:\.html)?'
+        # Pattern matches URLs like /products/product-name (including extensions)
+        product_pattern = r'https://[^/]+/products/[^/\s\)]+'
         urls = re.findall(product_pattern, markdown_content)
         
         # Also look for relative URLs and convert them to absolute
-        relative_pattern = r'/products/[^/\s\)]+(?:\.html)?'
+        relative_pattern = r'/products/[^/\s\)]+'
         relative_urls = re.findall(relative_pattern, markdown_content)
+        
+        # Filter out image URLs (common image extensions)
+        image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.bmp']
+        urls = [url for url in urls if not any(url.lower().endswith(ext) for ext in image_extensions)]
+        relative_urls = [url for url in relative_urls if not any(url.lower().endswith(ext) for ext in image_extensions)]
         
         # Convert relative URLs to absolute
         for rel_url in relative_urls:
