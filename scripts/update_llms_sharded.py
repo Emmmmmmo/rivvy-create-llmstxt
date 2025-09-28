@@ -284,8 +284,8 @@ class ShardedLLMsUpdater:
         """Scrape a single URL using Firecrawl v2 API with retry logic, or use pre-scraped content."""
         logger.debug(f"Scraping URL: {url}")
         
-        # Ensure EUR currency for proper pricing
-        eur_url = self._ensure_eur_currency(url)
+        # Use original URL to get the latest content (EUR currency forcing was causing stale content)
+        eur_url = url
         
         # If pre-scraped content is provided, use it instead of scraping
         if pre_scraped_content:
