@@ -1,18 +1,15 @@
 {
-  "event_type": "website_changed",
-  "client_payload": {
-    "website": {
-      "url": "https://www.jgengineering.ie",
-      "id": "test-website-id"
-    },
-    "changedPages": [
-      {
-        "url": "https://www.jgengineering.ie/products/test-product",
-        "changeType": "content_modified",
-        "scrapedContent": {
-          "markdown": "# Test Product\\n\\nThis is a test product for webhook testing.\\n\\n## Features\\n- Test feature 1\\n- Test feature 2\\n- Test feature 3\\n\\n## Description\\nThis is a comprehensive test of the webhook processing system."
-        }
+  "website": {
+    "url": "https://www.jgengineering.ie",
+    "id": "test-website-id"
+  },
+  "changedPages": [
+    {
+      "url": "https://www.jgengineering.ie/products/test-product",
+      "changeType": "content_modified",
+      "scrapedContent": {
+        "markdown": "# Test Product\n\nThis is a test product for webhook testing.\n\n## Features\n- Test feature 1\n- Test feature 2\n- Test feature 3\n\n## Description\nThis is a comprehensive test of the webhook processing system."
       }
-    ]
-  }
+    }
+  ]
 }
