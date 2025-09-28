@@ -542,7 +542,9 @@ class ElevenLabsRAGSync:
                 continue
             
             # Check if file needs uploading
-            stored_hash = self.sync_state.get(f"{domain}:{file_path.name}", {}).get('hash', '')
+            # Use the same key format as stored in sync state: domain:filename
+            sync_key = f"{domain}:{file_path.name}"
+            stored_hash = self.sync_state.get(sync_key, {}).get('hash', '')
             
             if stored_hash == current_hash and filename in current_docs_by_name:
                 # File hasn't changed and is already assigned
