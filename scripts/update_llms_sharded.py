@@ -611,7 +611,7 @@ class ShardedLLMsUpdater:
         
         if collection_name in self.manifest:
             for url in self.manifest[collection_name]:
-                if url in self.url_index and '/products/' in url:
+                if '/products/' in url:
                     previously_known_products.add(url)
         
         # Find newly added products (in current but not in previously known)
