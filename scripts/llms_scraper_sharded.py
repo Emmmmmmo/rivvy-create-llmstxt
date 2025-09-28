@@ -33,11 +33,12 @@ logger = logging.getLogger(__name__)
 class ShardedLLMsUpdater:
     """Update LLMs.txt files with sharding support using Firecrawl v2 API."""
     
-    def __init__(self, firecrawl_api_key: str, base_url: str, base_root: Optional[str] = None, output_dir: str = "out"):
+    def __init__(self, firecrawl_api_key: str, base_url: str, base_root: Optional[str] = None, output_dir: str = "out", max_characters: int = 300000):
         """Initialize the updater with API key and base URL."""
         self.firecrawl_api_key = firecrawl_api_key
         self.base_url = base_url.rstrip('/')
         self.base_root = base_root
+        self.max_characters = max_characters  # ElevenLabs 300K character limit
         self.firecrawl_base_url = "https://api.firecrawl.dev/v2"
         self.headers = {
             "Authorization": f"Bearer {self.firecrawl_api_key}",
@@ -373,30 +374,100 @@ class ShardedLLMsUpdater:
                 if not self.manifest[shard_key]:  # Remove empty shard
                     del self.manifest[shard_key]
     
-    def _write_shard_file(self, shard_key: str, urls: List[str]) -> str:
-        """Write LLMs file for a specific shard."""
-        filename = f"llms-{self.site_name}-{shard_key}.txt"
-        filepath = os.path.join(self.site_output_dir, filename)
+    def _split_large_content(self, content: str, base_filename: str) -> List[str]:
+        """Split large content into smaller chunks with intelligent breaks."""
+        char_count = len(content)
+        
+        if char_count <= self.max_characters:
+            return [content]
+        
+        logger.info(f"📦 Splitting large content ({char_count:,} characters) into smaller chunks...")
+        
+        chunks = []
+        chunk_size = self.max_characters
+        start = 0
+        
+        while start < len(content):
+            end = start + chunk_size
+            
+            # Try to find a good break point (end of a product section)
+            if end < len(content):
+                chunk_content = content[start:end]
+                
+                # Find the last complete product section
+                last_product_end = chunk_content.rfind('\n\n## ')
+                if last_product_end > chunk_size * 0.7:  # If we found a good break point
+                    end = start + last_product_end
+                else:
+                    # Look for other good break points
+                    last_section_end = chunk_content.rfind('\n\n---\n')
+                    if last_section_end > chunk_size * 0.7:
+                        end = start + last_section_end
+                    else:
+                        # Look for double newlines
+                        last_break = chunk_content.rfind('\n\n')
+                        if last_break > chunk_size * 0.8:
+                            end = start + last_break
+            
+            chunk_content = content[start:end]
+            chunks.append(chunk_content)
+            start = end
+        
+        logger.info(f"✅ Split content into {len(chunks)} chunks")
+        return chunks
+    
+    def _write_shard_file(self, shard_key: str, urls: List[str]) -> List[str]:
+        """Write LLMs file for a specific shard, automatically splitting if too large."""
+        base_filename = f"llms-{self.site_name}-{shard_key}.txt"
+        base_filepath = os.path.join(self.site_output_dir, base_filename)
         
         # Remove empty shard files
         if not urls:
-            if os.path.exists(filepath):
-                os.remove(filepath)
-                logger.info(f"Removed empty shard file: {filepath}")
-            return filepath
+            if os.path.exists(base_filepath):
+                os.remove(base_filepath)
+                logger.info(f"Removed empty shard file: {base_filepath}")
+            return []
         
-        with open(filepath, 'w', encoding='utf-8') as f:
-            for url in sorted(urls):  # Deterministic ordering
-                if url in self.url_index:
-                    data = self.url_index[url]
-                    # Include EUR currency URL in block tag for reference
-                    eur_url = self._ensure_eur_currency(url)
-                    f.write(f"<|{eur_url}-lllmstxt|>\n")  # Include EUR currency URL in block tag
-                    f.write(f"## {data['title']}\n")
-                    f.write(f"{data['markdown']}\n\n")
+        # Build content
+        content_parts = []
+        for url in sorted(urls):  # Deterministic ordering
+            if url in self.url_index:
+                data = self.url_index[url]
+                # Include EUR currency URL in block tag for reference
+                eur_url = self._ensure_eur_currency(url)
+                content_parts.append(f"<|{eur_url}-lllmstxt|>\n")
+                content_parts.append(f"## {data['title']}\n")
+                content_parts.append(f"{data['markdown']}\n\n")
         
-        logger.info(f"Written shard file: {filepath}")
-        return filepath
+        full_content = ''.join(content_parts)
+        
+        # Check if content needs splitting
+        if len(full_content) <= self.max_characters:
+            # Write single file
+            with open(base_filepath, 'w', encoding='utf-8') as f:
+                f.write(full_content)
+            logger.info(f"Written shard file: {base_filepath}")
+            return [base_filepath]
+        else:
+            # Split content and write multiple files
+            chunks = self._split_large_content(full_content, base_filename)
+            written_files = []
+            
+            for i, chunk in enumerate(chunks):
+                if len(chunks) == 1:
+                    # Single chunk, use original filename
+                    filepath = base_filepath
+                else:
+                    # Multiple chunks, add part number
+                    filename = f"llms-{self.site_name}-{shard_key}_part{i+1}.txt"
+                    filepath = os.path.join(self.site_output_dir, filename)
+                
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.write(chunk)
+                written_files.append(filepath)
+                logger.info(f"Written shard file: {filepath} ({len(chunk):,} characters)")
+            
+            return written_files
     
     def full_crawl(self, limit: int = 10000) -> Dict[str, Any]:
         """Perform a full crawl of the website."""
@@ -430,8 +501,8 @@ class ShardedLLMsUpdater:
         written_files = []
         for shard_key in touched_shards:
             if shard_key in self.manifest:
-                filepath = self._write_shard_file(shard_key, self.manifest[shard_key])
-                written_files.append(filepath)
+                filepaths = self._write_shard_file(shard_key, self.manifest[shard_key])
+                written_files.extend(filepaths)
         
         # Save index and manifest
         self._save_url_index()
@@ -493,8 +564,8 @@ class ShardedLLMsUpdater:
         # Write shard files for all touched shards
         for shard_key in touched_shards:
             if shard_key in self.manifest:
-                filepath = self._write_shard_file(shard_key, self.manifest[shard_key])
-                written_files.append(filepath)
+                filepaths = self._write_shard_file(shard_key, self.manifest[shard_key])
+                written_files.extend(filepaths)
         
         # Save index and manifest
         self._save_url_index()
@@ -546,8 +617,8 @@ class ShardedLLMsUpdater:
         # Write shard files for all touched shards
         for shard_key in touched_shards:
             if shard_key in self.manifest:
-                filepath = self._write_shard_file(shard_key, self.manifest[shard_key])
-                written_files.append(filepath)
+                filepaths = self._write_shard_file(shard_key, self.manifest[shard_key])
+                written_files.extend(filepaths)
         
         # Save index and manifest
         self._save_url_index()
@@ -613,6 +684,12 @@ def main():
         "--pre-scraped-content",
         help="Path to file containing pre-scraped content (for rivvy-observer integration)"
     )
+    parser.add_argument(
+        "--max-characters",
+        type=int,
+        default=300000,
+        help="Maximum characters per file before splitting (default: 300000)"
+    )
     
     args = parser.parse_args()
     
@@ -633,7 +710,8 @@ def main():
         args.firecrawl_api_key,
         args.base_url,
         base_root,
-        args.output_dir
+        args.output_dir,
+        args.max_characters
     )
     
     try:
