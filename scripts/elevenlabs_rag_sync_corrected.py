@@ -478,16 +478,16 @@ class ElevenLabsRAGSync:
         # Get agent configuration
         agent_config = self._get_agent_for_domain(domain)
         if not agent_config:
-            logger.warning(f"No agent configuration found for domain: {domain}")
-            return False
+            logger.info(f"No agent configuration found for domain: {domain} - skipping")
+            return True  # Return True to indicate this domain was handled (skipped), not failed
         
         if not agent_config.get('enabled', False):
-            logger.info(f"Agent for domain {domain} is disabled")
-            return False
+            logger.info(f"Agent for domain {domain} is disabled - skipping")
+            return True  # Return True to indicate this domain was handled (skipped), not failed
         
         if not agent_config.get('sync_enabled', False):
-            logger.info(f"Sync for domain {domain} is disabled")
-            return False
+            logger.info(f"Sync for domain {domain} is disabled - skipping")
+            return True  # Return True to indicate this domain was handled (skipped), not failed
         
         # Check if agent ID is configured
         if agent_config.get('agent_id') == 'YOUR_AGENT_ID_HERE':
