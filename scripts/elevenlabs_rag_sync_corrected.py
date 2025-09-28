@@ -531,6 +531,7 @@ class ElevenLabsRAGSync:
         # Track what we need to upload
         files_to_upload = []
         files_to_keep = []
+        uploaded_filenames = set()  # Track filenames to prevent duplicates
         
         # Analyze each local file
         for file_path in llms_files:
@@ -550,8 +551,12 @@ class ElevenLabsRAGSync:
                 logger.debug(f"Keeping unchanged file: {file_path.name}")
             else:
                 # File has changed or is new - need to upload
-                files_to_upload.append((file_path, filename))
-                logger.info(f"File changed/new, will upload: {file_path.name}")
+                if filename not in uploaded_filenames:
+                    files_to_upload.append((file_path, filename))
+                    uploaded_filenames.add(filename)
+                    logger.info(f"File changed/new, will upload: {file_path.name}")
+                else:
+                    logger.warning(f"Duplicate file detected, skipping: {file_path.name}")
         
         # Report what we found
         logger.info(f"Sync plan for {domain}:")
