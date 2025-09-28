@@ -531,7 +531,6 @@ class ElevenLabsRAGSync:
         # Track what we need to upload
         files_to_upload = []
         files_to_keep = []
-        uploaded_filenames = set()  # Track filenames to prevent duplicates
         
         # Analyze each local file
         for file_path in llms_files:
@@ -545,29 +544,14 @@ class ElevenLabsRAGSync:
             # Check if file needs uploading
             stored_hash = self.sync_state.get(f"{domain}:{file_path.name}", {}).get('hash', '')
             
-            # More robust comparison: check both hash and existence in knowledge base
-            file_exists_in_kb = filename in current_docs_by_name
-            hash_matches = stored_hash == current_hash
-            
-            if hash_matches and file_exists_in_kb and stored_hash != '':
+            if stored_hash == current_hash and filename in current_docs_by_name:
                 # File hasn't changed and is already assigned
                 files_to_keep.append((file_path, filename, current_docs_by_name[filename]))
-                logger.debug(f"Keeping unchanged file: {file_path.name} (hash: {current_hash[:8]}...)")
+                logger.debug(f"Keeping unchanged file: {file_path.name}")
             else:
                 # File has changed or is new - need to upload
-                if filename not in uploaded_filenames:
-                    files_to_upload.append((file_path, filename))
-                    uploaded_filenames.add(filename)
-                    
-                    # Log reason for upload
-                    if stored_hash == '':
-                        logger.info(f"File new, will upload: {file_path.name}")
-                    elif not hash_matches:
-                        logger.info(f"File content changed, will upload: {file_path.name} (old: {stored_hash[:8]}..., new: {current_hash[:8]}...)")
-                    elif not file_exists_in_kb:
-                        logger.info(f"File missing from knowledge base, will upload: {file_path.name}")
-                else:
-                    logger.warning(f"Duplicate file detected, skipping: {file_path.name}")
+                files_to_upload.append((file_path, filename))
+                logger.info(f"File changed/new, will upload: {file_path.name}")
         
         # Report what we found
         logger.info(f"Sync plan for {domain}:")
@@ -671,68 +655,6 @@ class ElevenLabsRAGSync:
         except Exception as e:
             logger.error(f"Error saving configuration: {e}")
     
-    def rebuild_sync_state(self, domain: str) -> bool:
-        """Rebuild sync state based on current files and ElevenLabs knowledge base."""
-        logger.info(f"🔄 Rebuilding sync state for domain: {domain}")
-        
-        # Get agent configuration
-        agent_config = self._get_agent_for_domain(domain)
-        if not agent_config:
-            logger.info(f"No agent configuration found for domain: {domain} - skipping")
-            return True
-            
-        if not agent_config.get('enabled', False):
-            logger.info(f"Agent for domain {domain} is disabled - skipping")
-            return True
-            
-        if not agent_config.get('sync_enabled', False):
-            logger.info(f"Sync for domain {domain} is disabled - skipping")
-            return True
-            
-        agent_id = agent_config['agent_id']
-        file_prefix = agent_config.get('file_prefix', 'jg_eng')
-        
-        # Get current files and knowledge base
-        domain_dir = Path(f"out/{domain}")
-        if not domain_dir.exists():
-            logger.warning(f"Domain directory not found: {domain_dir}")
-            return False
-            
-        llms_files = self._get_llms_files(domain_dir)
-        current_kb, _ = self._get_agent_knowledge_base(agent_id)
-        
-        # Create mapping of KB documents by filename
-        kb_docs_by_name = {}
-        for doc in current_kb:
-            if isinstance(doc, dict) and 'name' in doc:
-                kb_docs_by_name[doc['name']] = doc
-        
-        # Rebuild sync state for all files
-        rebuilt_count = 0
-        for file_path in llms_files:
-            filename = f"{file_prefix}_{file_path.name}"
-            current_hash = self._get_file_hash(file_path)
-            
-            if not current_hash:
-                continue
-                
-            # If file exists in knowledge base, update sync state
-            if filename in kb_docs_by_name:
-                file_key = f"{domain}:{file_path.name}"
-                self.sync_state[file_key] = {
-                    'hash': current_hash,
-                    'document_id': kb_docs_by_name[filename].get('id', ''),
-                    'uploaded_at': datetime.now().isoformat()
-                }
-                rebuilt_count += 1
-                logger.debug(f"Updated sync state for: {file_path.name}")
-        
-        # Save updated sync state
-        self._save_sync_state()
-        
-        logger.info(f"✅ Rebuilt sync state for {rebuilt_count} files in domain: {domain}")
-        return True
-
     def sync_all_domains(self, force_sync: bool = False) -> Dict[str, bool]:
         """Sync all configured domains."""
         results = {}
@@ -757,21 +679,10 @@ def main():
         
         # Check command line arguments
         force_sync = '--force' in sys.argv
-        rebuild_state = '--rebuild-state' in sys.argv
         
-        if len(sys.argv) > 1 and sys.argv[1] not in ['--force', '--rebuild-state']:
+        if len(sys.argv) > 1 and sys.argv[1] != '--force':
             domain = sys.argv[1]
-            
-            if rebuild_state:
-                success = sync.rebuild_sync_state(domain)
-                if success:
-                    logger.info(f"🎉 Sync state rebuilt successfully for {domain}")
-                    exit(0)
-                else:
-                    logger.error(f"❌ Failed to rebuild sync state for {domain}")
-                    exit(1)
-            else:
-                success = sync.sync_domain(domain, force_sync=force_sync)
+            success = sync.sync_domain(domain, force_sync=force_sync)
             
             if success:
                 logger.info(f"🎉 CORRECTED sync with verification completed successfully for {domain}")
