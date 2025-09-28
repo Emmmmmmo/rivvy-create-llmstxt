@@ -45,6 +45,12 @@ jobs:
           # Write payload to temp file for safe processing
           echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
           
+          
+          # Debug: Show the full payload structure
+          echo "=== FULL WEBHOOK PAYLOAD ==="
+          cat /tmp/payload.json | jq '.' || echo "Failed to parse payload as JSON"
+          echo "=== END PAYLOAD ==="
+          
           # Validate rivvy-observer format - check for new structure
           echo "Validating required fields..."
           
