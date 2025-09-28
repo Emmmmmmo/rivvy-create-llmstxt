@@ -45,12 +45,6 @@ jobs:
           # Write payload to temp file for safe processing
           echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
           
-          
-          # Debug: Show the full payload structure
-          echo "=== FULL WEBHOOK PAYLOAD ==="
-          cat /tmp/payload.json | jq '.' || echo "Failed to parse payload as JSON"
-          echo "=== END PAYLOAD ==="
-          
           # Validate rivvy-observer format - check for new structure
           echo "Validating required fields..."
           
@@ -139,26 +133,9 @@ jobs:
                 
                 echo "Processing page $((i+1))/$changed_pages_count: $page_url ($change_type)"
                 
-                # Check if this page has diff information with specific added URLs
-                diff_added=$(jq -r ".changedPages[$i].diff.added // empty" /tmp/payload.json)
-                
                 case "$change_type" in
                   "content_modified"|"page_added"|"content_changed")
-                    # If we have specific diff.added URLs, use those instead of the page URL
-                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
-                      echo "🎯 Found specific added URLs in diff: $diff_added"
-                      # Parse the diff.added array and add each URL
-                      echo "$diff_added" | jq -r '.[]' | while read -r added_url; do
-                        if [ -n "$added_url" ] && [ "$added_url" != "null" ]; then
-                          added_urls+=("$added_url")
-                          echo "Added specific URL: $added_url"
-                        fi
-                      done
-                    else
-                      # Fallback to the page URL if no specific diff.added URLs
-                      added_urls+=("$page_url")
-                      echo "No specific diff.added URLs, using page URL: $page_url"
-                    fi
+                    added_urls+=("$page_url")
                     
                     # Save scraped content to temp file if available
                     if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
@@ -179,74 +156,15 @@ jobs:
                 esac
               done
               
-              # Process added/modified pages - separate collection pages from regular pages
+              # Process added/modified pages in batch
               if [ ${#added_urls[@]} -gt 0 ]; then
                 echo "Processing ${#added_urls[@]} added/modified pages..."
+                added_urls_json=$(printf '%s\n' "${added_urls[@]}" | jq -R . | jq -s .)
+                echo "Added URLs: $added_urls_json"
                 
-                # Separate collection pages from regular pages
-                collection_urls=()
-                regular_urls=()
-                
-                for url in "${added_urls[@]}"; do
-                  if [[ "$url" == *"/collections/"* ]]; then
-                    echo "🛍️  Collection page detected: $url"
-                    collection_urls+=("$url")
-                  else
-                    echo "📄 Regular page: $url"
-                    regular_urls+=("$url")
-                  fi
-                done
-                
-                # Process collection pages - now we have specific URLs from diff.added
-                if [ ${#collection_urls[@]} -gt 0 ]; then
-                  echo "🛍️ Processing ${#collection_urls[@]} collection pages with specific URLs..."
-                  for i in "${!collection_urls[@]}"; do
-                    collection_url="${collection_urls[$i]}"
-                    echo "Processing collection page: $collection_url"
-                    
-                    # Check if this collection page has specific diff.added URLs
-                    diff_added=$(jq -r ".changedPages[] | select(.url == \"$collection_url\") | .diff.added // empty" /tmp/payload.json)
-                    
-                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
-                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
-                      # Process the specific product URLs directly
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --added "$diff_added" \
-                        --output-dir "$output_dir"
-                    else
-                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
-                      # Fallback to smart discovery if no specific URLs provided
-                      temp_file="/tmp/scraped_content_${i}_*.md"
-                      if ls $temp_file 1> /dev/null 2>&1; then
-                        # Use the specific temp file for this collection
-                        temp_file_path=$(ls $temp_file | head -1)
-                        echo "Using pre-scraped content for smart discovery: $temp_file_path"
-                        python3 scripts/update_llms_sharded.py "$site_url" \
-                          --discover-new "$collection_url" \
-                          --output-dir "$output_dir" \
-                          --pre-scraped-content "$temp_file_path" \
-                          --max-products 20
-                      else
-                        echo "No pre-scraped content found, falling back to auto-discover"
-                        python3 scripts/update_llms_sharded.py "$site_url" \
-                          --auto-discover "$collection_url" \
-                          --output-dir "$output_dir" \
-                          --max-products 20
-                      fi
-                    fi
-                  done
-                fi
-                
-                # Process regular pages with standard method
-                if [ ${#regular_urls[@]} -gt 0 ]; then
-                  echo "📝 Processing ${#regular_urls[@]} regular pages..."
-                  regular_urls_json=$(printf '%s\n' "${regular_urls[@]}" | jq -R . | jq -s .)
-                  echo "Regular URLs: $regular_urls_json"
-                  
-                  python3 scripts/update_llms_sharded.py "$site_url" \
-                    --added "$regular_urls_json" \
-                    --output-dir "$output_dir"
-                fi
+                python3 scripts/update_llms_sharded.py "$site_url" \
+                  --added "$added_urls_json" \
+                  --output-dir "$output_dir"
               fi
               
               # Process removed pages in batch
@@ -280,54 +198,19 @@ jobs:
                 printf '%s\n' "$scraped_content" > "$temp_file"
               fi
               
-              # Process based on change type - detect collection pages
+              # Process based on change type
               case "$change_type" in
                 "content_modified"|"page_added"|"content_changed")
                   echo "Processing content modification for $domain"
-                  
-                  # Check if we have specific diff.added URLs in legacy format
-                  diff_added=$(jq -r '.change.diff.added // empty' /tmp/payload.json)
-                  
-                  # Check if this is a collection page
-                  if [[ "$site_url" == *"/collections/"* ]]; then
-                    echo "🛍️  Collection page detected: $site_url"
-                    
-                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
-                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
-                      # Process the specific product URLs directly
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --added "$diff_added" \
-                        --output-dir "$output_dir"
-                    else
-                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
-                      echo "🔍 Discovering new products from collection page..."
-                      if [ -f "$temp_file" ]; then
-                        echo "Using pre-scraped content for new product discovery"
-                        python3 scripts/update_llms_sharded.py "$site_url" \
-                          --discover-new "$site_url" \
-                          --output-dir "$output_dir" \
-                          --pre-scraped-content "$temp_file" \
-                          --max-products 20
-                      else
-                        echo "No pre-scraped content, falling back to auto-discover"
-                        python3 scripts/update_llms_sharded.py "$site_url" \
-                          --auto-discover "$site_url" \
-                          --output-dir "$output_dir" \
-                          --max-products 20
-                      fi
-                    fi
+                  if [ -f "$temp_file" ]; then
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --added "[\"$site_url\"]" \
+                      --output-dir "$output_dir" \
+                      --pre-scraped-content "$temp_file"
                   else
-                    echo "📄 Regular page: $site_url"
-                    if [ -f "$temp_file" ]; then
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --added "[\"$site_url\"]" \
-                        --output-dir "$output_dir" \
-                        --pre-scraped-content "$temp_file"
-                    else
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --added "[\"$site_url\"]" \
-                        --output-dir "$output_dir"
-                    fi
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --added "[\"$site_url\"]" \
+                      --output-dir "$output_dir"
                   fi
                   ;;
                 "page_removed")
@@ -338,50 +221,15 @@ jobs:
                   ;;
                 *)
                   echo "Unknown change type: $change_type, treating as content modification"
-                  
-                  # Check if we have specific diff.added URLs in legacy format
-                  diff_added=$(jq -r '.change.diff.added // empty' /tmp/payload.json)
-                  
-                  # Check if this is a collection page
-                  if [[ "$site_url" == *"/collections/"* ]]; then
-                    echo "🛍️  Collection page detected: $site_url"
-                    
-                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
-                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
-                      # Process the specific product URLs directly
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --added "$diff_added" \
-                        --output-dir "$output_dir"
-                    else
-                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
-                      echo "🔍 Discovering new products from collection page..."
-                      if [ -f "$temp_file" ]; then
-                        echo "Using pre-scraped content for new product discovery"
-                        python3 scripts/update_llms_sharded.py "$site_url" \
-                          --discover-new "$site_url" \
-                          --output-dir "$output_dir" \
-                          --pre-scraped-content "$temp_file" \
-                          --max-products 20
-                      else
-                        echo "No pre-scraped content, falling back to auto-discover"
-                        python3 scripts/update_llms_sharded.py "$site_url" \
-                          --auto-discover "$site_url" \
-                          --output-dir "$output_dir" \
-                          --max-products 20
-                      fi
-                    fi
+                  if [ -f "$temp_file" ]; then
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --added "[\"$site_url\"]" \
+                      --output-dir "$output_dir" \
+                      --pre-scraped-content "$temp_file"
                   else
-                    echo "📄 Regular page: $site_url"
-                    if [ -f "$temp_file" ]; then
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --added "[\"$site_url\"]" \
-                        --output-dir "$output_dir" \
-                        --pre-scraped-content "$temp_file"
-                    else
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --added "[\"$site_url\"]" \
-                        --output-dir "$output_dir"
-                    fi
+                    python3 scripts/update_llms_sharded.py "$site_url" \
+                      --added "[\"$site_url\"]" \
+                      --output-dir "$output_dir"
                   fi
                   ;;
               esac

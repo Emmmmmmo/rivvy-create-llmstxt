@@ -50,14 +50,9 @@ class ShardedLLMsUpdater:
         parsed = urlparse(self.base_url)
         self.site_name = parsed.netloc.replace('www.', '').replace('.', '-')
         
-        # Ensure output directory exists with site-specific subfolder when needed
+        # Ensure output directory exists with site-specific subfolder
         self.output_dir = output_dir
-        domain_name = parsed.netloc.replace('www.', '')
-        normalized_output = os.path.normpath(self.output_dir)
-        if os.path.basename(normalized_output) == domain_name:
-            self.site_output_dir = normalized_output
-        else:
-            self.site_output_dir = os.path.join(self.output_dir, domain_name)
+        self.site_output_dir = os.path.join(self.output_dir, self.site_name)
         os.makedirs(self.site_output_dir, exist_ok=True)
         
         # File paths
@@ -142,51 +137,19 @@ class ShardedLLMsUpdater:
     def _extract_product_urls(self, markdown_content: str, base_url: str) -> List[str]:
         """Extract product URLs from category page markdown content."""
         import re
-        from urllib.parse import urlparse
         
         # Look for product URLs in the markdown content
-        # Pattern matches URLs like /products/product-name (including extensions)
-        product_pattern = r'https://[^/]+/products/[^/\s\)]+'
+        # Pattern matches URLs like /products/product-name.html
+        product_pattern = r'https://[^/]+/products/[^/\s\)]+\.html'
         urls = re.findall(product_pattern, markdown_content)
         
         # Also look for relative URLs and convert them to absolute
-        relative_pattern = r'/products/[^/\s\)]+'
+        relative_pattern = r'/products/[^/\s\)]+\.html'
         relative_urls = re.findall(relative_pattern, markdown_content)
-        
-        # Filter out image URLs (common image extensions)
-        image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.bmp']
-        
-        def is_image_url(url):
-            """Check if URL is an image by looking for image extensions (with or without query params)."""
-            url_lower = url.lower()
-            for ext in image_extensions:
-                if ext in url_lower:
-                    # Check if the extension appears before any query parameters or fragments
-                    ext_pos = url_lower.find(ext)
-                    if ext_pos != -1:
-                        # Look for query params or fragments after the extension
-                        after_ext = url_lower[ext_pos + len(ext):]
-                        if not after_ext or after_ext.startswith(('?', '#', '&')):
-                            return True
-            return False
-        
-        urls = [url for url in urls if not is_image_url(url)]
-        relative_urls = [url for url in relative_urls if not is_image_url(url)]
         
         # Convert relative URLs to absolute
         for rel_url in relative_urls:
-            # If rel_url starts with /products/, we need to preserve the collection path
-            if rel_url.startswith('/products/'):
-                # Extract the collection path from base_url
-                parsed_base = urlparse(base_url)
-                if '/collections/' in parsed_base.path:
-                    # Keep the collection path and append the product path
-                    collection_path = parsed_base.path.rstrip('/')
-                    absolute_url = f"{parsed_base.scheme}://{parsed_base.netloc}{collection_path}{rel_url}"
-                else:
-                    absolute_url = urljoin(base_url, rel_url)
-            else:
-                absolute_url = urljoin(base_url, rel_url)
+            absolute_url = urljoin(base_url, rel_url)
             urls.append(absolute_url)
         
         # Remove duplicates and normalize
@@ -321,8 +284,8 @@ class ShardedLLMsUpdater:
         """Scrape a single URL using Firecrawl v2 API with retry logic, or use pre-scraped content."""
         logger.debug(f"Scraping URL: {url}")
         
-        # Use original URL to get the latest content (EUR currency forcing was causing stale content)
-        eur_url = url
+        # Ensure EUR currency for proper pricing
+        eur_url = self._ensure_eur_currency(url)
         
         # If pre-scraped content is provided, use it instead of scraping
         if pre_scraped_content:
@@ -617,84 +580,6 @@ class ShardedLLMsUpdater:
             "written_files": written_files
         }
     
-    def discover_new_products(self, category_url: str, pre_scraped_content: str, max_products: int = 20) -> Dict[str, Any]:
-        """Discover and scrape only newly added products by comparing current vs previous collection page."""
-        logger.info(f"Discovering new products from category: {category_url}")
-        
-        # Extract product URLs from the current (pre-scraped) content
-        current_product_urls = set(self._extract_product_urls(pre_scraped_content, category_url))
-        
-        # Get previously known products for this collection from our index
-        # We'll look for products that belong to the same collection
-        collection_name = self._get_shard_key(category_url)
-        previously_known_products = set()
-        
-        if collection_name in self.manifest:
-            for url in self.manifest[collection_name]:
-                if '/products/' in url:
-                    previously_known_products.add(url)
-        
-        # Find newly added products (in current but not in previously known)
-        new_product_urls = list(current_product_urls - previously_known_products)
-        
-        logger.info(f"Found {len(current_product_urls)} total products, {len(previously_known_products)} previously known, {len(new_product_urls)} new products")
-        
-        if not new_product_urls:
-            logger.info("No new products found in collection")
-            return {
-                "operation": "discover_new_products",
-                "category_url": category_url,
-                "total_products": len(current_product_urls),
-                "previously_known": len(previously_known_products),
-                "new_products": 0,
-                "processed_products": 0,
-                "touched_shards": [],
-                "written_files": []
-            }
-        
-        # Limit the number of new products to process
-        if len(new_product_urls) > max_products:
-            logger.info(f"Limiting to first {max_products} new products out of {len(new_product_urls)} discovered")
-            new_product_urls = new_product_urls[:max_products]
-        
-        # Process each new product URL
-        touched_shards = set()
-        processed_count = 0
-        written_files = []
-        
-        for i, product_url in enumerate(new_product_urls):
-            logger.info(f"Processing new product {i+1}/{len(new_product_urls)}: {product_url}")
-            
-            product_data = self._scrape_url(product_url)
-            if product_data:
-                shard_key = self._update_url_data(product_url, product_data)
-                touched_shards.add(shard_key)
-                processed_count += 1
-            
-            # Small delay to avoid rate limiting
-            time.sleep(0.1)
-        
-        # Write shard files for all touched shards
-        for shard_key in touched_shards:
-            if shard_key in self.manifest:
-                filepaths = self._write_shard_file(shard_key, self.manifest[shard_key])
-                written_files.extend(filepaths)
-        
-        # Save index and manifest
-        self._save_url_index()
-        self._save_manifest()
-        
-        return {
-            "operation": "discover_new_products",
-            "category_url": category_url,
-            "total_products": len(current_product_urls),
-            "previously_known": len(previously_known_products),
-            "new_products": len(new_product_urls),
-            "processed_products": processed_count,
-            "touched_shards": list(touched_shards),
-            "written_files": written_files
-        }
-    
     def incremental_update(self, urls: List[str], operation: str, pre_scraped_content: Optional[str] = None) -> Dict[str, Any]:
         """Perform incremental update for specific URLs."""
         logger.info(f"Starting incremental update: {operation} for {len(urls)} URLs")
@@ -759,7 +644,6 @@ def main():
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--full", action="store_true", help="Perform full crawl")
     group.add_argument("--auto-discover", type=str, help="Auto-discover and scrape all products from a category page URL")
-    group.add_argument("--discover-new", type=str, help="Discover and scrape only newly added products from a category page URL (requires --pre-scraped-content)")
     group.add_argument("--added", type=str, help="JSON array of URLs to add")
     group.add_argument("--changed", type=str, help="JSON array of URLs to update")
     group.add_argument("--removed", type=str, help="JSON array of URLs to remove")
@@ -837,13 +721,6 @@ def main():
             result = updater.full_crawl(args.limit)
         elif args.auto_discover:
             result = updater.auto_discover_products(args.auto_discover, args.max_products)
-        elif args.discover_new:
-            if not args.pre_scraped_content or not os.path.exists(args.pre_scraped_content):
-                logger.error("--discover-new requires --pre-scraped-content with valid file path")
-                sys.exit(1)
-            with open(args.pre_scraped_content, 'r', encoding='utf-8') as f:
-                pre_scraped_content = f.read()
-            result = updater.discover_new_products(args.discover_new, pre_scraped_content, args.max_products)
         elif args.added:
             urls = json.loads(args.added)
             pre_scraped_content = None
