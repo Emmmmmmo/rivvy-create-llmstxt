@@ -87,7 +87,23 @@ jobs:
           
           echo "rivvy-observer payload validation passed"
 
+      - name: Check webhook fingerprint
+        if: github.event_name == 'repository_dispatch'
+        id: fingerprint
+        run: |
+          echo "Checking webhook fingerprint to prevent duplicate processing..."
+          
+          # Run fingerprinting check
+          if python3 scripts/webhook_fingerprinting.py /tmp/payload.json; then
+            echo "should_process=true" >> $GITHUB_OUTPUT
+            echo "✅ New webhook - proceeding with processing"
+          else
+            echo "should_process=false" >> $GITHUB_OUTPUT
+            echo "🚫 Duplicate webhook detected - skipping processing"
+          fi
+
       - name: Update products
+        if: github.event_name != 'repository_dispatch' || steps.fingerprint.outputs.should_process == 'true'
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: |
@@ -287,6 +303,7 @@ jobs:
           fi
           
       - name: Check for changes
+        if: github.event_name != 'repository_dispatch' || steps.fingerprint.outputs.should_process == 'true'
         id: changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
@@ -296,7 +313,7 @@ jobs:
           fi
           
       - name: Commit changes
-        if: steps.changes.outputs.changes == 'true'
+        if: steps.changes.outputs.changes == 'true' && (github.event_name != 'repository_dispatch' || steps.fingerprint.outputs.should_process == 'true')
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -307,7 +324,7 @@ jobs:
           git push origin main
           
       - name: Sync to ElevenLabs
-        if: steps.changes.outputs.changes == 'true'
+        if: steps.changes.outputs.changes == 'true' && (github.event_name != 'repository_dispatch' || steps.fingerprint.outputs.should_process == 'true')
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
