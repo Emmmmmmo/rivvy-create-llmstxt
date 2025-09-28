@@ -126,7 +126,7 @@ class ElevenLabsRAGSync:
     def _get_llms_files(self, domain_dir: Path) -> List[Path]:
         """Get all LLMs.txt files for a domain."""
         llms_files = []
-        for file_path in domain_dir.glob("llms-*.txt"):
+        for file_path in domain_dir.glob("**/llms-*.txt"):  # ** makes it recursive
             if file_path.is_file():
                 llms_files.append(file_path)
         return llms_files
