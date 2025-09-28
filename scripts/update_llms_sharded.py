@@ -150,8 +150,23 @@ class ShardedLLMsUpdater:
         
         # Filter out image URLs (common image extensions)
         image_extensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.bmp']
-        urls = [url for url in urls if not any(url.lower().endswith(ext) for ext in image_extensions)]
-        relative_urls = [url for url in relative_urls if not any(url.lower().endswith(ext) for ext in image_extensions)]
+        
+        def is_image_url(url):
+            """Check if URL is an image by looking for image extensions (with or without query params)."""
+            url_lower = url.lower()
+            for ext in image_extensions:
+                if ext in url_lower:
+                    # Check if the extension appears before any query parameters or fragments
+                    ext_pos = url_lower.find(ext)
+                    if ext_pos != -1:
+                        # Look for query params or fragments after the extension
+                        after_ext = url_lower[ext_pos + len(ext):]
+                        if not after_ext or after_ext.startswith(('?', '#', '&')):
+                            return True
+            return False
+        
+        urls = [url for url in urls if not is_image_url(url)]
+        relative_urls = [url for url in relative_urls if not is_image_url(url)]
         
         # Convert relative URLs to absolute
         for rel_url in relative_urls:
