@@ -1,0 +1,478 @@
+name: Update Product Data
+
+on:
+  repository_dispatch:
+    types: [website_changed]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}-${{ github.event.client_payload.website.id || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Debug trigger information
+        run: |
+          echo "Event name: ${{ github.event_name }}"
+          echo "Action: ${{ github.event.action }}"
+          echo "Actor: ${{ github.actor }}"
+          echo "Ref: ${{ github.ref }}"
+          echo "SHA: ${{ github.sha }}"
+          echo "Run ID: ${{ github.run_id }}"
+          echo "Run number: ${{ github.run_number }}"
+          
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Validate webhook payload
+        if: github.event_name == 'repository_dispatch'
+        run: |
+          echo "Validating rivvy-observer webhook payload..."
+          echo "Event type: ${{ github.event_name }}"
+          echo "Action: ${{ github.event.action }}"
+          echo "Payload received successfully"
+          
+          # Write payload to temp file for safe processing
+          echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
+          
+          # Validate rivvy-observer format - check for new structure
+          echo "Validating required fields..."
+          
+          # Check for website.url
+          website_url=$(jq -r '.website.url // empty' /tmp/payload.json)
+          if [ -z "$website_url" ]; then
+            echo "Error: Missing 'website.url' field in rivvy-observer payload"
+            exit 1
+          fi
+          
+          # Check for changedPages array (new format)
+          changed_pages_count=$(jq -r '.changedPages | length // 0' /tmp/payload.json)
+          if [ "$changed_pages_count" -gt 0 ]; then
+            echo "New payload format detected with $changed_pages_count changed pages"
+            echo "Website URL: $website_url"
+            
+            # Validate each changed page has required fields
+            for i in $(seq 0 $((changed_pages_count - 1))); do
+              page_url=$(jq -r ".changedPages[$i].url // empty" /tmp/payload.json)
+              change_type=$(jq -r ".changedPages[$i].changeType // empty" /tmp/payload.json)
+              
+              if [ -z "$page_url" ] || [ -z "$change_type" ]; then
+                echo "Error: Missing required fields in changedPages[$i]"
+                exit 1
+              fi
+              
+              echo "Page $((i+1)): $page_url ($change_type)"
+            done
+          else
+            # Check for legacy single-page format
+            change_type=$(jq -r '.change.changeType // empty' /tmp/payload.json)
+            if [ -z "$change_type" ]; then
+              echo "Error: Missing 'change.changeType' or 'changedPages' in payload"
+              exit 1
+            fi
+            echo "Legacy payload format detected"
+            echo "Website URL: $website_url"
+            echo "Change Type: $change_type"
+          fi
+          
+          echo "rivvy-observer payload validation passed"
+
+      - name: Update products
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: |
+          echo "Action: ${{ github.event.action }}"
+          
+          # Check if this is a repository_dispatch event
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            echo "Processing rivvy-observer webhook..."
+            
+            # Extract site info from rivvy-observer payload (already written to temp file in validation step)
+            site_url=$(jq -r '.website.url' /tmp/payload.json)
+            
+            # Extract domain for output directory
+            domain=$(echo "$site_url" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed -E 's|/.*$||' | sed -E 's|:.*$||')
+            
+            if [ -z "$domain" ]; then
+              echo "Error: Could not extract domain from: $site_url"
+              exit 1
+            fi
+            
+            output_dir="out/$domain"
+            echo "Domain: $domain"
+            echo "Output directory: $output_dir"
+            
+            # Ensure output directory exists
+            mkdir -p "$output_dir"
+            
+            # Check for new multi-page format
+            changed_pages_count=$(jq -r '.changedPages | length // 0' /tmp/payload.json)
+            
+            if [ "$changed_pages_count" -gt 0 ]; then
+              echo "Processing $changed_pages_count changed pages..."
+              
+              # Arrays to collect URLs for batch processing
+              added_urls=()
+              removed_urls=()
+              
+              # Process each changed page
+              for i in $(seq 0 $((changed_pages_count - 1))); do
+                page_url=$(jq -r ".changedPages[$i].url" /tmp/payload.json)
+                change_type=$(jq -r ".changedPages[$i].changeType" /tmp/payload.json)
+                scraped_content=$(jq -r ".changedPages[$i].scrapedContent.markdown // empty" /tmp/payload.json)
+                
+                echo "Processing page $((i+1))/$changed_pages_count: $page_url ($change_type)"
+                
+                # Check if this page has diff information with specific added URLs
+                diff_added=$(jq -r ".changedPages[$i].diff.added // empty" /tmp/payload.json)
+                
+                case "$change_type" in
+                  "content_modified"|"page_added"|"content_changed")
+                    # If we have specific diff.added URLs, use those instead of the page URL
+                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
+                      echo "🎯 Found specific added URLs in diff: $diff_added"
+                      # Parse the diff.added array and add each URL
+                      echo "$diff_added" | jq -r '.[]' | while read -r added_url; do
+                        if [ -n "$added_url" ] && [ "$added_url" != "null" ]; then
+                          added_urls+=("$added_url")
+                          echo "Added specific URL: $added_url"
+                        fi
+                      done
+                    else
+                      # Fallback to the page URL if no specific diff.added URLs
+                      added_urls+=("$page_url")
+                      echo "No specific diff.added URLs, using page URL: $page_url"
+                    fi
+                    
+                    # Save scraped content to temp file if available
+                    if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
+                      # Create a safe filename by hashing the URL to avoid length issues
+                      url_hash=$(echo "$page_url" | md5sum | cut -d' ' -f1)
+                      temp_file="/tmp/scraped_content_${i}_${url_hash}.md"
+                      printf '%s\n' "$scraped_content" > "$temp_file"
+                      echo "Saved scraped content for $page_url"
+                    fi
+                    ;;
+                  "page_removed")
+                    removed_urls+=("$page_url")
+                    ;;
+                  *)
+                    echo "Unknown change type: $change_type, treating as content modification"
+                    added_urls+=("$page_url")
+                    ;;
+                esac
+              done
+              
+              # Process added/modified pages - separate collection pages from regular pages
+              if [ ${#added_urls[@]} -gt 0 ]; then
+                echo "Processing ${#added_urls[@]} added/modified pages..."
+                
+                # Separate collection pages from regular pages
+                collection_urls=()
+                regular_urls=()
+                
+                for url in "${added_urls[@]}"; do
+                  if [[ "$url" == *"/collections/"* ]]; then
+                    echo "🛍️  Collection page detected: $url"
+                    collection_urls+=("$url")
+                  else
+                    echo "📄 Regular page: $url"
+                    regular_urls+=("$url")
+                  fi
+                done
+                
+                # Process collection pages - now we have specific URLs from diff.added
+                if [ ${#collection_urls[@]} -gt 0 ]; then
+                  echo "🛍️ Processing ${#collection_urls[@]} collection pages with specific URLs..."
+                  for i in "${!collection_urls[@]}"; do
+                    collection_url="${collection_urls[$i]}"
+                    echo "Processing collection page: $collection_url"
+                    
+                    # Check if this collection page has specific diff.added URLs
+                    diff_added=$(jq -r ".changedPages[] | select(.url == \"$collection_url\") | .diff.added // empty" /tmp/payload.json)
+                    
+                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
+                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
+                      # Process the specific product URLs directly
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "$diff_added" \
+                        --output-dir "$output_dir"
+                    else
+                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
+                      # Fallback to smart discovery if no specific URLs provided
+                      temp_file="/tmp/scraped_content_${i}_*.md"
+                      if ls $temp_file 1> /dev/null 2>&1; then
+                        # Use the specific temp file for this collection
+                        temp_file_path=$(ls $temp_file | head -1)
+                        echo "Using pre-scraped content for smart discovery: $temp_file_path"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --discover-new "$collection_url" \
+                          --output-dir "$output_dir" \
+                          --pre-scraped-content "$temp_file_path" \
+                          --max-products 20
+                      else
+                        echo "No pre-scraped content found, falling back to auto-discover"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --auto-discover "$collection_url" \
+                          --output-dir "$output_dir" \
+                          --max-products 20
+                      fi
+                    fi
+                  done
+                fi
+                
+                # Process regular pages with standard method
+                if [ ${#regular_urls[@]} -gt 0 ]; then
+                  echo "📝 Processing ${#regular_urls[@]} regular pages..."
+                  regular_urls_json=$(printf '%s\n' "${regular_urls[@]}" | jq -R . | jq -s .)
+                  echo "Regular URLs: $regular_urls_json"
+                  
+                  python3 scripts/update_llms_sharded.py "$site_url" \
+                    --added "$regular_urls_json" \
+                    --output-dir "$output_dir"
+                fi
+              fi
+              
+              # Process removed pages in batch
+              if [ ${#removed_urls[@]} -gt 0 ]; then
+                echo "Processing ${#removed_urls[@]} removed pages..."
+                removed_urls_json=$(printf '%s\n' "${removed_urls[@]}" | jq -R . | jq -s .)
+                echo "Removed URLs: $removed_urls_json"
+                
+                python3 scripts/update_llms_sharded.py "$site_url" \
+                  --removed "$removed_urls_json" \
+                  --output-dir "$output_dir"
+              fi
+              
+              # Clean up temp files
+              rm -f /tmp/scraped_content_*.md
+              
+            else
+              # Legacy single-page format
+              echo "Processing legacy single-page format..."
+              
+              change_type=$(jq -r '.change.changeType' /tmp/payload.json)
+              scraped_content=$(jq -r '.scrapeResult.markdown // empty' /tmp/payload.json)
+              
+              echo "Site URL: $site_url"
+              echo "Change type: $change_type"
+              echo "Has scraped content: $([ -n "$scraped_content" ] && [ "$scraped_content" != "null" ] && echo "Yes" || echo "No")"
+              
+              # Create a temporary file with the scraped content (handle special characters safely)
+              temp_file="/tmp/scraped_content_$domain.md"
+              if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
+                printf '%s\n' "$scraped_content" > "$temp_file"
+              fi
+              
+              # Process based on change type - detect collection pages
+              case "$change_type" in
+                "content_modified"|"page_added"|"content_changed")
+                  echo "Processing content modification for $domain"
+                  
+                  # Check if we have specific diff.added URLs in legacy format
+                  diff_added=$(jq -r '.change.diff.added // empty' /tmp/payload.json)
+                  
+                  # Check if this is a collection page
+                  if [[ "$site_url" == *"/collections/"* ]]; then
+                    echo "🛍️  Collection page detected: $site_url"
+                    
+                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
+                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
+                      # Process the specific product URLs directly
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "$diff_added" \
+                        --output-dir "$output_dir"
+                    else
+                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
+                      echo "🔍 Discovering new products from collection page..."
+                      if [ -f "$temp_file" ]; then
+                        echo "Using pre-scraped content for new product discovery"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --discover-new "$site_url" \
+                          --output-dir "$output_dir" \
+                          --pre-scraped-content "$temp_file" \
+                          --max-products 20
+                      else
+                        echo "No pre-scraped content, falling back to auto-discover"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --auto-discover "$site_url" \
+                          --output-dir "$output_dir" \
+                          --max-products 20
+                      fi
+                    fi
+                  else
+                    echo "📄 Regular page: $site_url"
+                    if [ -f "$temp_file" ]; then
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "[\"$site_url\"]" \
+                        --output-dir "$output_dir" \
+                        --pre-scraped-content "$temp_file"
+                    else
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "[\"$site_url\"]" \
+                        --output-dir "$output_dir"
+                    fi
+                  fi
+                  ;;
+                "page_removed")
+                  echo "Processing page removal for $domain"
+                  python3 scripts/update_llms_sharded.py "$site_url" \
+                    --removed "[\"$site_url\"]" \
+                    --output-dir "$output_dir"
+                  ;;
+                *)
+                  echo "Unknown change type: $change_type, treating as content modification"
+                  
+                  # Check if we have specific diff.added URLs in legacy format
+                  diff_added=$(jq -r '.change.diff.added // empty' /tmp/payload.json)
+                  
+                  # Check if this is a collection page
+                  if [[ "$site_url" == *"/collections/"* ]]; then
+                    echo "🛍️  Collection page detected: $site_url"
+                    
+                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
+                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
+                      # Process the specific product URLs directly
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "$diff_added" \
+                        --output-dir "$output_dir"
+                    else
+                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
+                      echo "🔍 Discovering new products from collection page..."
+                      if [ -f "$temp_file" ]; then
+                        echo "Using pre-scraped content for new product discovery"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --discover-new "$site_url" \
+                          --output-dir "$output_dir" \
+                          --pre-scraped-content "$temp_file" \
+                          --max-products 20
+                      else
+                        echo "No pre-scraped content, falling back to auto-discover"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --auto-discover "$site_url" \
+                          --output-dir "$output_dir" \
+                          --max-products 20
+                      fi
+                    fi
+                  else
+                    echo "📄 Regular page: $site_url"
+                    if [ -f "$temp_file" ]; then
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "[\"$site_url\"]" \
+                        --output-dir "$output_dir" \
+                        --pre-scraped-content "$temp_file"
+                    else
+                      python3 scripts/update_llms_sharded.py "$site_url" \
+                        --added "[\"$site_url\"]" \
+                        --output-dir "$output_dir"
+                    fi
+                  fi
+                  ;;
+              esac
+              
+              # Clean up temp file
+              rm -f "$temp_file"
+            fi
+            
+            echo "Successfully processed webhook for $domain"
+            echo "Output directory: $output_dir"
+            echo "Files in output directory:"
+            ls -la "$output_dir" || echo "No files found in output directory"
+          else
+            # For push events, dynamically discover and process all existing sites
+            echo "Processing URLs from manifest files..."
+            
+            # Find all directories in out/ that contain manifest.json files
+            for site_dir in out/*/; do
+              if [ -d "$site_dir" ] && [ -f "${site_dir}manifest.json" ]; then
+                # Extract domain from directory name
+                domain=$(basename "$site_dir")
+                manifest_file="${site_dir}manifest.json"
+                
+                echo "Processing $domain URLs from manifest..."
+                
+                # Extract URLs from manifest and process them
+                if python3 -c "import json; data=json.load(open('$manifest_file')); print(json.dumps(data.get('collections', [])))" > /tmp/urls_$domain.json 2>/dev/null; then
+                  urls=$(cat /tmp/urls_$domain.json)
+                  
+                  if [ "$urls" != "[]" ] && [ "$urls" != "null" ]; then
+                    # Determine the base URL for the site
+                    base_url="https://www.$domain"
+                    
+                    # Try to get the actual site URL from manifest if available
+                    if python3 -c "import json; data=json.load(open('$manifest_file')); print(data.get('base_url', ''))" > /tmp/base_url_$domain.txt 2>/dev/null; then
+                      manifest_base_url=$(cat /tmp/base_url_$domain.txt | tr -d '"')
+                      if [ -n "$manifest_base_url" ] && [ "$manifest_base_url" != "null" ]; then
+                        base_url="$manifest_base_url"
+                      fi
+                    fi
+                    
+                    echo "Using base URL: $base_url for domain: $domain"
+                    python3 scripts/update_llms_sharded.py "$base_url" --added "$urls" --output-dir "$site_dir"
+                    
+                    # Clean up temp files
+                    rm -f /tmp/urls_$domain.json /tmp/base_url_$domain.txt
+                  else
+                    echo "No URLs found in manifest for $domain"
+                  fi
+                else
+                  echo "Error: Failed to read manifest file for $domain"
+                fi
+              fi
+            done
+          fi
+          
+      - name: Check for changes
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Commit changes
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto-update: ${{ github.event_name }} - ${{ github.event.action || 'push' }}"
+          # Handle concurrent pushes by pulling first
+          git pull --rebase origin main
+          git push origin main
+          
+      - name: Sync to ElevenLabs
+        if: steps.changes.outputs.changes == 'true'
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          echo "Files updated, syncing to ElevenLabs..."
+          
+          # Check if ElevenLabs API key is available
+          if [ -z "$ELEVENLABS_API_KEY" ]; then
+            echo "Warning: ELEVENLABS_API_KEY not set, skipping ElevenLabs sync"
+            exit 0
+          fi
+          
+          # Check if agent config exists
+          if [ ! -f "config/elevenlabs-agents.json" ]; then
+            echo "Warning: config/elevenlabs-agents.json not found, skipping ElevenLabs sync"
+            exit 0
+          fi
+          
+          # Run CORRECTED sync with proper ElevenLabs flow
+          echo "Running ElevenLabs RAG sync (CORRECTED version)..."
+          python3 scripts/elevenlabs_rag_sync_corrected.py
+          
+          echo "ElevenLabs sync completed successfully"
