@@ -52,7 +52,15 @@ class ShardedLLMsUpdater:
         
         # Ensure output directory exists with site-specific subfolder
         self.output_dir = output_dir
-        self.site_output_dir = os.path.join(self.output_dir, self.site_name)
+        
+        # Check if output_dir already contains the site name to avoid double nesting
+        if self.site_name in os.path.basename(output_dir) or output_dir.endswith(parsed.netloc):
+            # Output dir already site-specific (e.g., "out/jgengineering.ie")
+            self.site_output_dir = output_dir
+        else:
+            # Create site-specific subdirectory (e.g., "out" -> "out/jgengineering-ie")
+            self.site_output_dir = os.path.join(self.output_dir, self.site_name)
+        
         os.makedirs(self.site_output_dir, exist_ok=True)
         
         # File paths
