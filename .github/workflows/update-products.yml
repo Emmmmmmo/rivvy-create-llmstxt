@@ -133,9 +133,26 @@ jobs:
                 
                 echo "Processing page $((i+1))/$changed_pages_count: $page_url ($change_type)"
                 
+                # Check if this page has diff information with specific added URLs
+                diff_added=$(jq -r ".changedPages[$i].diff.added // empty" /tmp/payload.json)
+                
                 case "$change_type" in
                   "content_modified"|"page_added"|"content_changed")
-                    added_urls+=("$page_url")
+                    # If we have specific diff.added URLs, use those instead of the page URL
+                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
+                      echo "🎯 Found specific added URLs in diff: $diff_added"
+                      # Parse the diff.added array and add each URL
+                      echo "$diff_added" | jq -r '.[]' | while read -r added_url; do
+                        if [ -n "$added_url" ] && [ "$added_url" != "null" ]; then
+                          added_urls+=("$added_url")
+                          echo "Added specific URL: $added_url"
+                        fi
+                      done
+                    else
+                      # Fallback to the page URL if no specific diff.added URLs
+                      added_urls+=("$page_url")
+                      echo "No specific diff.added URLs, using page URL: $page_url"
+                    fi
                     
                     # Save scraped content to temp file if available
                     if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
@@ -174,30 +191,42 @@ jobs:
                   fi
                 done
                 
-                # Process collection pages with discover-new to extract only newly added products
+                # Process collection pages - now we have specific URLs from diff.added
                 if [ ${#collection_urls[@]} -gt 0 ]; then
-                  echo "🔍 Discovering new products from ${#collection_urls[@]} collection pages..."
+                  echo "🛍️ Processing ${#collection_urls[@]} collection pages with specific URLs..."
                   for i in "${!collection_urls[@]}"; do
                     collection_url="${collection_urls[$i]}"
-                    echo "Discovering new products from: $collection_url"
+                    echo "Processing collection page: $collection_url"
                     
-                    # Check if we have pre-scraped content for this collection
-                    temp_file="/tmp/scraped_content_${i}_*.md"
-                    if ls $temp_file 1> /dev/null 2>&1; then
-                      # Use the specific temp file for this collection
-                      temp_file_path=$(ls $temp_file | head -1)
-                      echo "Using pre-scraped content: $temp_file_path"
+                    # Check if this collection page has specific diff.added URLs
+                    diff_added=$(jq -r ".changedPages[] | select(.url == \"$collection_url\") | .diff.added // empty" /tmp/payload.json)
+                    
+                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
+                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
+                      # Process the specific product URLs directly
                       python3 scripts/update_llms_sharded.py "$site_url" \
-                        --discover-new "$collection_url" \
-                        --output-dir "$output_dir" \
-                        --pre-scraped-content "$temp_file_path" \
-                        --max-products 20
+                        --added "$diff_added" \
+                        --output-dir "$output_dir"
                     else
-                      echo "No pre-scraped content found, falling back to auto-discover"
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --auto-discover "$collection_url" \
-                        --output-dir "$output_dir" \
-                        --max-products 20
+                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
+                      # Fallback to smart discovery if no specific URLs provided
+                      temp_file="/tmp/scraped_content_${i}_*.md"
+                      if ls $temp_file 1> /dev/null 2>&1; then
+                        # Use the specific temp file for this collection
+                        temp_file_path=$(ls $temp_file | head -1)
+                        echo "Using pre-scraped content for smart discovery: $temp_file_path"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --discover-new "$collection_url" \
+                          --output-dir "$output_dir" \
+                          --pre-scraped-content "$temp_file_path" \
+                          --max-products 20
+                      else
+                        echo "No pre-scraped content found, falling back to auto-discover"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --auto-discover "$collection_url" \
+                          --output-dir "$output_dir" \
+                          --max-products 20
+                      fi
                     fi
                   done
                 fi
@@ -250,23 +279,36 @@ jobs:
                 "content_modified"|"page_added"|"content_changed")
                   echo "Processing content modification for $domain"
                   
+                  # Check if we have specific diff.added URLs in legacy format
+                  diff_added=$(jq -r '.change.diff.added // empty' /tmp/payload.json)
+                  
                   # Check if this is a collection page
                   if [[ "$site_url" == *"/collections/"* ]]; then
                     echo "🛍️  Collection page detected: $site_url"
-                    echo "🔍 Discovering new products from collection page..."
-                    if [ -f "$temp_file" ]; then
-                      echo "Using pre-scraped content for new product discovery"
+                    
+                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
+                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
+                      # Process the specific product URLs directly
                       python3 scripts/update_llms_sharded.py "$site_url" \
-                        --discover-new "$site_url" \
-                        --output-dir "$output_dir" \
-                        --pre-scraped-content "$temp_file" \
-                        --max-products 20
+                        --added "$diff_added" \
+                        --output-dir "$output_dir"
                     else
-                      echo "No pre-scraped content, falling back to auto-discover"
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --auto-discover "$site_url" \
-                        --output-dir "$output_dir" \
-                        --max-products 20
+                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
+                      echo "🔍 Discovering new products from collection page..."
+                      if [ -f "$temp_file" ]; then
+                        echo "Using pre-scraped content for new product discovery"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --discover-new "$site_url" \
+                          --output-dir "$output_dir" \
+                          --pre-scraped-content "$temp_file" \
+                          --max-products 20
+                      else
+                        echo "No pre-scraped content, falling back to auto-discover"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --auto-discover "$site_url" \
+                          --output-dir "$output_dir" \
+                          --max-products 20
+                      fi
                     fi
                   else
                     echo "📄 Regular page: $site_url"
@@ -291,23 +333,36 @@ jobs:
                 *)
                   echo "Unknown change type: $change_type, treating as content modification"
                   
+                  # Check if we have specific diff.added URLs in legacy format
+                  diff_added=$(jq -r '.change.diff.added // empty' /tmp/payload.json)
+                  
                   # Check if this is a collection page
                   if [[ "$site_url" == *"/collections/"* ]]; then
                     echo "🛍️  Collection page detected: $site_url"
-                    echo "🔍 Discovering new products from collection page..."
-                    if [ -f "$temp_file" ]; then
-                      echo "Using pre-scraped content for new product discovery"
+                    
+                    if [ -n "$diff_added" ] && [ "$diff_added" != "null" ] && [ "$diff_added" != "[]" ]; then
+                      echo "🎯 Found specific product URLs in diff.added: $diff_added"
+                      # Process the specific product URLs directly
                       python3 scripts/update_llms_sharded.py "$site_url" \
-                        --discover-new "$site_url" \
-                        --output-dir "$output_dir" \
-                        --pre-scraped-content "$temp_file" \
-                        --max-products 20
+                        --added "$diff_added" \
+                        --output-dir "$output_dir"
                     else
-                      echo "No pre-scraped content, falling back to auto-discover"
-                      python3 scripts/update_llms_sharded.py "$site_url" \
-                        --auto-discover "$site_url" \
-                        --output-dir "$output_dir" \
-                        --max-products 20
+                      echo "⚠️ No specific diff.added URLs found, falling back to smart discovery"
+                      echo "🔍 Discovering new products from collection page..."
+                      if [ -f "$temp_file" ]; then
+                        echo "Using pre-scraped content for new product discovery"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --discover-new "$site_url" \
+                          --output-dir "$output_dir" \
+                          --pre-scraped-content "$temp_file" \
+                          --max-products 20
+                      else
+                        echo "No pre-scraped content, falling back to auto-discover"
+                        python3 scripts/update_llms_sharded.py "$site_url" \
+                          --auto-discover "$site_url" \
+                          --output-dir "$output_dir" \
+                          --max-products 20
+                      fi
                     fi
                   else
                     echo "📄 Regular page: $site_url"
