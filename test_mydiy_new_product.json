@@ -1,0 +1,22 @@
+{
+  "event_type": "website_changed",
+  "client_payload": {
+    "website": {
+      "name": "My DIY Ireland",
+      "url": "https://www.mydiy.ie"
+    },
+    "change": {
+      "changeType": "page_added",
+      "summary": "New product added: Makita 18V Cordless Hammer Drill DHP485Z",
+      "diff": {
+        "added": ["New Makita hammer drill product page", "Product specifications and pricing"],
+        "removed": []
+      }
+    },
+    "scrapeResult": {
+      "title": "Makita 18V Cordless Hammer Drill DHP485Z | My DIY",
+      "description": "Makita 18V LXT Lithium-Ion Cordless Hammer Driver-Drill DHP485Z - Brushless motor delivers 50Nm of torque",
+      "markdown": "# Makita 18V Cordless Hammer Drill DHP485Z\n\n## Product Overview\nThe Makita DHP485Z 18V LXT Lithium-Ion Cordless Hammer Driver-Drill features a Makita built 4-pole motor that delivers 1,900 RPM for faster drilling and driving. The BL Brushless motor eliminates carbon brushes, enabling the motor to run cooler and more efficiently for longer life.\n\n## Key Features\n- Makita-built 4-pole motor delivers 1,900 RPM and 490 in.lbs. of Max Torque\n- BL Brushless Motor eliminates carbon brushes for longer life\n- Compact and ergonomic design at only 7-1/2\" long\n- Weighs only 3.8 lbs. with battery (battery not included) for reduced operator fatigue\n- Variable 2-speed design (0-500 & 0-1,900 RPM) for a wide range of drilling and driving applications\n- Dual L.E.D. lights with afterglow illuminate the work area\n- Built-in L.E.D. light with afterglow illuminates the work area\n- Equipped with Star Protection Computer Controls to protect against overloading, over-discharging and over-heating\n\n## Specifications\n- **Voltage**: 18V\n- **Chuck Size**: 13mm (1/2\")\n- **No Load Speed**: 0-500 / 0-1,900 RPM\n- **Max Torque**: 50Nm (hard) / 27Nm (soft)\n- **Weight**: 1.7kg (without battery)\n- **Battery Type**: Lithium-ion (not included)\n- **Warranty**: 3 years\n\n## Applications\n- Drilling in wood, metal, and plastic\n- Hammer drilling in masonry\n- Driving screws and bolts\n- Professional construction work\n\n## What's Included\n- Makita DHP485Z Hammer Drill (body only)\n- Belt clip\n- Instruction manual\n\n**Note**: Battery and charger sold separately.\n\n## Price\n€139.99 (Ex. VAT)\n€172.19 (Inc. VAT)\n\n## Availability\nIn Stock - Ships within 1-2 business days\n\n## Product Code\nDHP485Z"
+    }
+  }
+}

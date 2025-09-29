@@ -162,9 +162,10 @@ jobs:
                 added_urls_json=$(printf '%s\n' "${added_urls[@]}" | jq -R . | jq -s .)
                 echo "Added URLs: $added_urls_json"
                 
-                python3 scripts/update_llms_sharded.py "$site_url" \
-                  --added "$added_urls_json" \
-                  --output-dir "$output_dir"
+                # Use agnostic scraping system
+                echo "Using agnostic scraping system for $domain"
+                python3 scripts/update_llms_agnostic.py "$domain" \
+                  --added "$added_urls_json"
               fi
               
               # Process removed pages in batch
@@ -173,9 +174,9 @@ jobs:
                 removed_urls_json=$(printf '%s\n' "${removed_urls[@]}" | jq -R . | jq -s .)
                 echo "Removed URLs: $removed_urls_json"
                 
-                python3 scripts/update_llms_sharded.py "$site_url" \
-                  --removed "$removed_urls_json" \
-                  --output-dir "$output_dir"
+                # Use agnostic scraping system
+                python3 scripts/update_llms_agnostic.py "$domain" \
+                  --removed "$removed_urls_json"
               fi
               
               # Clean up temp files
@@ -202,34 +203,31 @@ jobs:
               case "$change_type" in
                 "content_modified"|"page_added"|"content_changed")
                   echo "Processing content modification for $domain"
+                  echo "Using agnostic scraping system for $domain"
                   if [ -f "$temp_file" ]; then
-                    python3 scripts/update_llms_sharded.py "$site_url" \
+                    python3 scripts/update_llms_agnostic.py "$domain" \
                       --added "[\"$site_url\"]" \
-                      --output-dir "$output_dir" \
                       --pre-scraped-content "$temp_file"
                   else
-                    python3 scripts/update_llms_sharded.py "$site_url" \
-                      --added "[\"$site_url\"]" \
-                      --output-dir "$output_dir"
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --added "[\"$site_url\"]"
                   fi
                   ;;
                 "page_removed")
                   echo "Processing page removal for $domain"
-                  python3 scripts/update_llms_sharded.py "$site_url" \
-                    --removed "[\"$site_url\"]" \
-                    --output-dir "$output_dir"
+                  python3 scripts/update_llms_agnostic.py "$domain" \
+                    --removed "[\"$site_url\"]"
                   ;;
                 *)
                   echo "Unknown change type: $change_type, treating as content modification"
+                  echo "Using agnostic scraping system for $domain"
                   if [ -f "$temp_file" ]; then
-                    python3 scripts/update_llms_sharded.py "$site_url" \
+                    python3 scripts/update_llms_agnostic.py "$domain" \
                       --added "[\"$site_url\"]" \
-                      --output-dir "$output_dir" \
                       --pre-scraped-content "$temp_file"
                   else
-                    python3 scripts/update_llms_sharded.py "$site_url" \
-                      --added "[\"$site_url\"]" \
-                      --output-dir "$output_dir"
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --added "[\"$site_url\"]"
                   fi
                   ;;
               esac
@@ -325,8 +323,18 @@ jobs:
             exit 0
           fi
           
-          # Run CORRECTED sync with proper ElevenLabs flow
-          echo "Running ElevenLabs RAG sync (CORRECTED version)..."
-          python3 scripts/elevenlabs_rag_sync_corrected.py
+          # Extract domain from changed files to determine which domain to sync
+          changed_domains=$(git diff --name-only HEAD~1 | grep "^out/" | cut -d'/' -f2 | sort -u)
+          
+          if [ -z "$changed_domains" ]; then
+            echo "No domain changes detected, syncing all domains..."
+            python3 scripts/knowledge_base_manager.py sync
+          else
+            echo "Detected changes in domains: $changed_domains"
+            for domain in $changed_domains; do
+              echo "Syncing domain: $domain"
+              python3 scripts/knowledge_base_manager.py sync --domain "$domain"
+            done
+          fi
           
           echo "ElevenLabs sync completed successfully"
