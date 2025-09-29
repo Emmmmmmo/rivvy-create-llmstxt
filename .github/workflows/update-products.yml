@@ -42,8 +42,10 @@ jobs:
           echo "Action: ${{ github.event.action }}"
           echo "Payload received successfully"
           
-          # Write payload to temp file for safe processing
-          echo '${{ toJson(github.event.client_payload) }}' > /tmp/payload.json
+          # Write payload to temp file for safe processing (use cat to avoid bash parsing issues)
+          cat > /tmp/payload.json << 'WEBHOOK_PAYLOAD_EOF'
+          ${{ toJson(github.event.client_payload) }}
+          WEBHOOK_PAYLOAD_EOF
           
           # Validate rivvy-observer format - check for new structure
           echo "Validating required fields..."
