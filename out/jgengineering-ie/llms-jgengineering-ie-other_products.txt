@@ -2,19 +2,19 @@
 ## Test_Deburring_Item
 
 {
-  "product_name": "Test_Deburring_Item",
-  "description": "For test purposes",
   "price": "€10.00",
+  "description": "For test purposes",
   "availability": "Sold out",
+  "product_name": "Test_Deburring_Item",
   "specifications": [
-    "**Company:** JG Engineering Supplies Ltd",
-    "**Contact:** 01-4730900",
-    "**Collection:** BaerCoil Workshop Kits",
-    "**Category:** Helicoil",
-    "**Product URL:** https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_deburring_item",
-    "**Price:** €10.00 EUR",
-    "**Tax:** Included",
-    "**Availability:** Unavailable (backordered)"
+    "Company: JG Engineering Supplies Ltd",
+    "Contact: 01-4730900",
+    "Collection: BaerCoil Workshop Kits",
+    "Category: Helicoil",
+    "Product URL: https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_deburring_item",
+    "Price: €10.00 EUR",
+    "Tax: Included",
+    "Availability: Unavailable (backordered)"
   ]
 }
 
