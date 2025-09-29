@@ -272,23 +272,27 @@ class AgnosticLLMsUpdater:
             # If no structured specs found, look for key-value pairs
             if not specifications:
                 kv_patterns = re.findall(r'\*\*([^:]+):\*\*\s*([^\n]+)', markdown_content)
-                # Clean up bold markers from values
+                # Clean up bold markers from keys and values
                 for k, v in kv_patterns[:10]:
+                    cleaned_key = re.sub(r'\*\*', '', k.strip())
                     cleaned_value = re.sub(r'\*\*', '', v.strip())
-                    specifications.append(f"{k.strip()}: {cleaned_value}")
+                    specifications.append(f"{cleaned_key}: {cleaned_value}")
             
-            # Build structured JSON matching the product extraction format
+            # Also clean any remaining bold markers from all specifications
+            specifications = [re.sub(r'\*\*', '', spec) for spec in specifications]
+            
+            # Build structured JSON matching the direct scrape format
+            # Order matches what Firecrawl returns: price, description, availability, product_name, specifications
             product_data = {
-                "product_name": title,
-                "description": description,
                 "price": price or "Price not available",
+                "description": description,
                 "availability": availability or "Check website",
-                "specifications": specifications[:10]  # Limit to 10 specs
+                "product_name": title,
+                "specifications": specifications[:10] if specifications else []
             }
             
             # Create formatted content matching _extract_product_data output
-            # Don't duplicate the title - it's already in the LLMs.txt marker
-            formatted_content = f"{json.dumps(product_data, indent=2, ensure_ascii=False)}"
+            formatted_content = json.dumps(product_data, indent=2, ensure_ascii=False)
             
             return {
                 "url": url,
