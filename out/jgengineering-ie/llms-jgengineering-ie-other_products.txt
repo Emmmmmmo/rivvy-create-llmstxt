@@ -11,6 +11,7 @@
     "**Contact:** 01-4730900",
     "**Collection:** BaerCoil Workshop Kits",
     "**Category:** Helicoil",
+    "**Product URL:** https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_deburring_item",
     "**Price:** €10.00 EUR",
     "**Tax:** Included",
     "**Availability:** Unavailable (backordered)"
