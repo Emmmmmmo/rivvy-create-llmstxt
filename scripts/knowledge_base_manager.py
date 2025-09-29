@@ -397,11 +397,15 @@ class ElevenLabsKnowledgeBaseManager:
         
         logger.info(f"📋 Found {len(domain_docs)} documents to assign")
         
-        # Get agent configuration
-        agent_id = self.config.get('agent_id')
+        # Get agent configuration for this domain
+        agent_config = self.config.get('agents', {}).get(domain, {})
+        agent_id = agent_config.get('agent_id')
         if not agent_id:
-            logger.error("No agent_id found in configuration")
+            logger.error(f"No agent_id found in configuration for domain: {domain}")
+            logger.error(f"Available domains in config: {list(self.config.get('agents', {}).keys())}")
             return False
+        
+        logger.info(f"✅ Found agent_id for {domain}: {agent_id}")
         
         # Get current agent knowledge base
         current_kb = self._get_agent_knowledge_base(agent_id)
