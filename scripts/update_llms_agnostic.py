@@ -200,16 +200,118 @@ class AgnosticLLMsUpdater:
             logger.error(f"Failed to map website: {e}")
             return []
     
-    def _scrape_url(self, url: str, pre_scraped_content: Optional[str] = None) -> Optional[Dict[str, Any]]:
-        """Scrape URL content using Firecrawl extract endpoint for clean product data."""
-        if pre_scraped_content:
-            # Use pre-scraped content if provided
+    def _parse_prescraped_to_json(self, url: str, markdown_content: str) -> Dict[str, Any]:
+        """
+        Parse pre-scraped markdown content into structured JSON format.
+        This ensures webhook content matches the format of directly scraped content.
+        """
+        try:
+            # Extract title (usually first # heading)
+            title_match = re.search(r'^#\s+(.+)$', markdown_content, re.MULTILINE)
+            title = title_match.group(1) if title_match else "Product"
+            
+            # Extract price (look for currency symbols and amounts)
+            price_patterns = [
+                r'(?:Price|price):\s*([€$£]\s*[\d,]+\.?\d*)',  # Price: €10.00
+                r'([€$£]\s*[\d,]+\.?\d*)\s*(?:EUR|USD|GBP)',    # €10.00 EUR
+                r'\*\*([€$£][\d,]+\.?\d*)\*\*',                  # **€10.00**
+            ]
+            price = None
+            for pattern in price_patterns:
+                price_match = re.search(pattern, markdown_content)
+                if price_match:
+                    price = price_match.group(1).strip()
+                    break
+            
+            # Extract availability/status
+            availability_patterns = [
+                r'(?:Status|Availability):\s*\*?\*?([^\n*]+)',
+                r'\*\*(?:Status|Availability):\*\*\s*([^\n]+)',
+                r'(In Stock|Out of Stock|Sold out|Available|Unavailable)',
+            ]
+            availability = None
+            for pattern in availability_patterns:
+                avail_match = re.search(pattern, markdown_content, re.IGNORECASE)
+                if avail_match:
+                    availability = avail_match.group(1).strip()
+                    # Remove any remaining bold markers
+                    availability = re.sub(r'\*\*', '', availability)
+                    break
+            
+            # Extract description (text after "Description" heading or first paragraph)
+            desc_match = re.search(r'##\s+Description\s*\n+(.+?)(?=\n##|\Z)', markdown_content, re.DOTALL)
+            if desc_match:
+                description = desc_match.group(1).strip()
+                # Clean up markdown formatting
+                description = re.sub(r'\*\*(.+?)\*\*', r'\1', description)  # Remove bold
+                description = re.sub(r'\n+', ' ', description)  # Single line
+                description = description[:500]  # Limit length
+            else:
+                # Try to get first meaningful paragraph
+                paragraphs = [p.strip() for p in markdown_content.split('\n\n') if len(p.strip()) > 50]
+                description = paragraphs[0][:500] if paragraphs else "Product information"
+            
+            # Extract specifications (look for bullet points or structured data)
+            specifications = []
+            
+            # Find specification sections
+            spec_patterns = [
+                r'##\s+Specifications?\s*\n+((?:[-*]\s+.+?\n)+)',
+                r'##\s+(?:Features?|Details?|Product Details?)\s*\n+((?:[-*]\s+.+?\n)+)',
+            ]
+            
+            for pattern in spec_patterns:
+                spec_match = re.search(pattern, markdown_content, re.DOTALL)
+                if spec_match:
+                    spec_text = spec_match.group(1)
+                    # Extract bullet points
+                    specs = re.findall(r'[-*]\s+(.+)', spec_text)
+                    specifications.extend([s.strip() for s in specs if len(s.strip()) > 5])
+                    break
+            
+            # If no structured specs found, look for key-value pairs
+            if not specifications:
+                kv_patterns = re.findall(r'\*\*([^:]+):\*\*\s*([^\n]+)', markdown_content)
+                # Clean up bold markers from values
+                for k, v in kv_patterns[:10]:
+                    cleaned_value = re.sub(r'\*\*', '', v.strip())
+                    specifications.append(f"{k.strip()}: {cleaned_value}")
+            
+            # Build structured JSON matching the product extraction format
+            product_data = {
+                "product_name": title,
+                "description": description,
+                "price": price or "Price not available",
+                "availability": availability or "Check website",
+                "specifications": specifications[:10]  # Limit to 10 specs
+            }
+            
+            # Create formatted content matching _extract_product_data output
+            # Don't duplicate the title - it's already in the LLMs.txt marker
+            formatted_content = f"{json.dumps(product_data, indent=2, ensure_ascii=False)}"
+            
             return {
                 "url": url,
-                "content": pre_scraped_content,
+                "content": formatted_content,
+                "title": title,
+                "scraped_at": datetime.now().isoformat()
+            }
+            
+        except Exception as e:
+            logger.error(f"Failed to parse pre-scraped content: {e}")
+            # Fallback to original markdown if parsing fails
+            return {
+                "url": url,
+                "content": markdown_content,
                 "title": "Pre-scraped content",
                 "scraped_at": datetime.now().isoformat()
             }
+    
+    def _scrape_url(self, url: str, pre_scraped_content: Optional[str] = None) -> Optional[Dict[str, Any]]:
+        """Scrape URL content using Firecrawl extract endpoint for clean product data."""
+        if pre_scraped_content:
+            # Parse pre-scraped content to match structured JSON format
+            return self._parse_prescraped_to_json(url, pre_scraped_content)
         
         # Check if this is a product URL (contains /products/)
         if '/products/' in url.lower():

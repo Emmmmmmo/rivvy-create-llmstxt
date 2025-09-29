@@ -1,0 +1,22 @@
+{
+  "event_type": "website_changed",
+  "client_payload": {
+    "website": {
+      "name": "JG Engineering Supplies",
+      "url": "https://www.jgengineering.ie"
+    },
+    "change": {
+      "changeType": "page_added",
+      "summary": "New product added: Test_Deburring_Item",
+      "diff": {
+        "added": ["New test deburring item product page", "Product pricing and availability information"],
+        "removed": []
+      }
+    },
+    "scrapeResult": {
+      "title": "Test_Deburring_Item | JG Engineering Supplies",
+      "description": "For test purposes - Test_Deburring_Item available at JG Engineering Supplies",
+      "markdown": "# Test_Deburring_Item\n\n**Price:** €10.00\n**Status:** Sold out\n**SKU:** JG Engineering Supplies Ltd 01-4730900\n\n## Description\n\nFor test purposes\n\n## Availability\n\nTest_Deburring_Item is backordered and will ship as soon as it is back in stock.\n\n**Status:** Unavailable\n\n## Delivery and Shipping\n\n**Shipping Information**\n\nPlace your order before 2 PM for same-day shipping!\n\nWe partner with **DPD** for all deliveries, ensuring **full traceability** and a **one-hour delivery window**, so you don't have to wait around all day.\n\n**Shipping Cost:** €8.99\n**Free Shipping:** On orders over €50\n\nFast, reliable, and hassle-free delivery—straight to your door!\n\nAll our orders are picked, packed and shipped in Dublin! Order before 2pm for Next Day DPD Delivery anywhere in Ireland.\n\n## Payment & Security\n\nYour payment information is processed securely. We do not store credit card details nor have access to your credit card information.\n\n## Product Details\n\n- **Company:** JG Engineering Supplies Ltd\n- **Contact:** 01-4730900\n- **Collection:** BaerCoil Workshop Kits\n- **Category:** Helicoil\n- **Price:** €10.00 EUR\n- **Tax:** Included\n- **Availability:** Unavailable (backordered)"
+    }
+  }
+}

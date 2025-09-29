@@ -54,10 +54,15 @@ if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
     echo ""
 fi
 
-# Simulate adding a new product page
-# For a real product, we would extract the actual URL from the payload
-# For this test, we'll use a realistic mydiy.ie product URL
-product_url="https://www.mydiy.ie/products/makita-18v-cordless-hammer-drill-dhp485z.html"
+# Extract the actual product URL from the webhook payload
+# Try to get from changedPages array first (multi-page format)
+product_url=$(jq -r '.client_payload.changedPages[0].url // empty' "$PAYLOAD_FILE")
+
+# If not found, use the website URL as fallback (single-page format)
+if [ -z "$product_url" ] || [ "$product_url" == "null" ]; then
+    # For single-page format, use the website URL
+    product_url="$website_url"
+fi
 
 echo "================================================"
 echo "Processing Product Addition"
