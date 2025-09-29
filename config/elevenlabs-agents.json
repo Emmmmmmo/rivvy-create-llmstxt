@@ -2,7 +2,7 @@
   "version": "1.0",
   "last_updated": "2025-09-19T12:00:00Z",
   "agents": {
-    "jgengineering.ie": {
+    "jgengineering-ie": {
       "agent_id": "agent_1901k666bcn6evwrwe3hxn41txqe",
       "agent_name": "JG Engineering Products Expert",
       "description": "Specialist in industrial engineering products, thread repair kits, helicoils, and engineering supplies",
@@ -23,6 +23,26 @@
       "max_file_size_mb": 10,
       "sync_enabled": true,
       "last_sync": "2025-09-28T22:42:20.163943"
+    },
+    "mydiy-ie": {
+      "agent_id": "agent_mydiy_placeholder",
+      "agent_name": "My DIY Ireland Expert",
+      "description": "Specialist in DIY tools, power tools, and home improvement supplies",
+      "enabled": true,
+      "file_prefix": "mydiy",
+      "categories": [
+        "products",
+        "power-tools"
+      ],
+      "tags": [
+        "diy",
+        "tools",
+        "power-tools",
+        "home-improvement"
+      ],
+      "max_file_size_mb": 10,
+      "sync_enabled": true,
+      "last_sync": null
     }
   },
   "default_settings": {
