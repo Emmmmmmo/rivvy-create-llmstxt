@@ -1,15 +1,15 @@
 <|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil-lllmstxt|>
 ## BaerCoil Workshop Kits – JG Engineering Supplies Ltd      01-4730900
 
-[Skip to content](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil#main-content)
+[Skip to content](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil?currency=EUR#main-content)
 
 **Welcome to our new website**
 
-**New collections added!** [Learn more](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil# "#")
+**New collections added!** [Learn more](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil?currency=EUR# "#")
 
 Country/Region
 
-United States (USD $)
+Andorra (EUR €)
 
 ## Always better with a Discount
 
@@ -52,6 +52,16 @@ Availability
 - [ ] In stock(8)
 - [ ] Out of stock(2)
 
+Price
+
+From€
+
+-
+
+To€
+
+FromTo
+
 - Compare
 
 
@@ -76,7 +86,7 @@ BAERCOIL
 
 
 
-**$366.00** ~~~~
+**€305.90** ~~~~
 
 
 
@@ -117,7 +127,7 @@ BAERCOIL
 
 
 
-**$191.00** ~~~~
+**€159.78** ~~~~
 
 
 
@@ -153,7 +163,7 @@ BAERCOIL
 
 
 
-**$176.00** ~~~~
+**€147.48** ~~~~
 
 
 
@@ -189,7 +199,7 @@ BAERCOIL
 
 
 
-**$357.00** ~~~~
+**€298.61** ~~~~
 
 
 
@@ -230,7 +240,7 @@ BAERCOIL
 
 
 
-**$272.00** ~~~~
+**€227.54** ~~~~
 
 
 
@@ -282,7 +292,7 @@ BAERCOIL
 
 
 
-**$117.00** ~~~~
+**€97.79** ~~~~
 
 
 
@@ -318,7 +328,7 @@ BAERCOIL
 
 
 
-**$132.00** ~~~~
+**€110.09** ~~~~
 
 
 
@@ -359,7 +369,7 @@ BAERCOIL
 
 
 
-**$205.00** ~~~~
+**€171.59** ~~~~
 
 
 
@@ -395,7 +405,7 @@ BAERCOIL
 
 
 
-**$205.00** ~~~~
+**€171.59** ~~~~
 
 
 
@@ -442,7 +452,7 @@ JG Engineering Supplies Ltd 01-4730900
 
 
 
-**$12.00** ~~~~
+**€10.00** ~~~~
 
 
 
@@ -459,7 +469,7 @@ Your cart is empty
 
 [Start shopping](https://www.jgengineering.ie/collections/all)
 
-Subtotal:$0.00 USD
+Subtotal:€0.00 EUR
 
 Loading...
 
@@ -493,7 +503,7 @@ All you need to know
 Our promise to you
 
 
-[Back to top](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil#)
+[Back to top](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil?currency=EUR#)
 
  Compare (0)
 
@@ -502,9 +512,11 @@ Loading...
 
 Close
 
-shop.app
+BaerCoil Workshop Kits – JG Engineering Supplies Ltd 01-4730900
 
-# shop.app is blocked
+www.jgengineering.ie
+
+# www.jgengineering.ie is blocked
 
 This page has been blocked by an extension
 
@@ -519,11 +531,9 @@ This page has been blocked by an extension
 
 ![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
 
-BaerCoil Workshop Kits – JG Engineering Supplies Ltd 01-4730900
+shop.app
 
-www.jgengineering.ie
-
-# www.jgengineering.ie is blocked
+# shop.app is blocked
 
 This page has been blocked by an extension
 
