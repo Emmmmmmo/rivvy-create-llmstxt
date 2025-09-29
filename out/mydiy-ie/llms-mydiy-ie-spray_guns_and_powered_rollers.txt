@@ -1,0 +1,167 @@
+<|https://www.mydiy.ie/products/wagner-spraytech-w590-universal-sprayer-630-watt-240-volt.html-lllmstxt|>
+## Wagner Spraytech W590 Universal Sprayer 630 Watt 240 Volt
+
+{
+  "price": "€250.44 inc VAT (€203.61 exc.vat)",
+  "description": "The Wagner Spraytech W590 Universal Sprayer ideal for small to medium-sized projects. Suitable for water or solvent based wall, ceiling, wood and metal paint including emulsion, vinyl, matt, silk, wood preservative, gloss, smooth masonry, primer, satin, enamel, lacquer, undercoat, stain, varnish and specialist coatings. Features Flexio Technology, for complete paint coverage with a single coat for all standard paint without needing to dilute. Patented I-SPRAY nozzle for extra-fine atomisation even with high-viscosity thick paints. X-Boost high-powered turbine for rapid paint application with variable air flow to handle different types of thick and thin paints. A detachable gun to quickly and easily change attachment, the paint, refill or clean the gun. With an adjustable paint jet to perfectly match the object being painted and a fully adjustable paint flow for precision painting.",
+  "availability": "In Stock",
+  "product_name": "Wagner Spraytech W590 Universal Sprayer 630 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 630 Watt",
+    "Atomisation Power: 200 Watt",
+    "Paint Delivery Rate: 0 - 500ml/min",
+    "Tank Capacity: Wall & Celling Paint: 1300ml, Wood & Metal Paint: 800ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-control-pro-250-r-airless-sprayer-550w-240v.html-lllmstxt|>
+## Wagner Control Pro 250 R Airless Sprayer 550W 240V
+
+{
+  "price": "€728.11 inc VAT (€591.96 exc.vat)",
+  "description": "The Wagner Control Pro 250 R Airless Sprayer is a compact airless paint sprayer with a carry handle, designed for experienced DIY'ers, maintenance personnel and crafts people with infrequent spray painting projects. It is equipped with High Efficiency Airless, or HEA technology. The spray gun features an innovative nozzle design, the softer spray improves control for a more consistent finish. Whilst the high efficiency airless pump requires less pressure for maximum control, longer service life and up to 55% less over spray. The sprayer is fitted with an automatic valve depressor for safe operating and easy start up. There is a direct intake connection, meaning you can connect the paint container directly to the sprayer for fast clean painting. Compatible with all solvent and water-based paints, varnishes and wood preservatives as well as emulsion and latex paints. Other features include an integrated storage box to hold tools and accessories, and a 9m flexible air hose for a large working range.",
+  "availability": "In Stock",
+  "product_name": "Wagner Control Pro 250 R Airless Sprayer 550W 240V",
+  "specifications": [
+    "550W power",
+    "240V voltage",
+    "High Efficiency Airless technology",
+    "Automatic valve depressor",
+    "9m flexible air hose",
+    "Compatible with solvent and water-based paints"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-w-690-flexio-universal-sprayer-630w-240v.html-lllmstxt|>
+## Wagner W 690 FLEXiO Universal Sprayer 630W 240V
+
+{
+  "price": "€225.40 inc VAT (€183.25 exc.vat)",
+  "description": "The Wagner W 690 FLEXiO Universal Sprayer uses FLEXiO technology and an X-Boost, high-powered turbine to provide complete paint coverage with a single coat. Enables standard paints to be sprayed without diluting. Supplied with a detachable gun, making it quick and easy to change the attachment, paint, refill or clean the gun. Patented I-SPRAY nozzle for extra-fine atomisation even with high-viscosity thick paints. Variable air flow and fully adjustable paint flow for precision painting.",
+  "availability": "In Stock",
+  "product_name": "Wagner W 690 FLEXiO Universal Sprayer 630W 240V",
+  "specifications": [
+    "Input Power: 630W",
+    "Atomisation Power: 200W",
+    "Paint Delivery Rate: 0-400ml/min.",
+    "Performance: 15m² in 6 min.",
+    "Air Hose Length: 3.5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-control-pro-150-m-airless-sprayer-350w-240v.html-lllmstxt|>
+## Wagner Control Pro 150 M Airless Sprayer 350W 240V
+
+{
+  "price": "€628.87 inc VAT (€511.28 exc.vat)",
+  "description": "The Wagner Control Pro 150 M Airless Sprayer has a lightweight, compact design that utilises high efficiency (HEA) technology. Its airless pump with reduced, softer spraying power ensures maximum control, longer service life and up to 55% less overspray. Suitable for water-based paint and solvent-containing lacquer and glazes. Not suitable for textured masonry paint. Achieves a perfect result significantly faster when covering large areas like walls, ceilings and garden fences. Includes Control Pro 311 Tip and red filter for thin materials and Control Pro 515 Tip with white filter for thicker materials like emulsion.",
+  "availability": "In Stock",
+  "product_name": "Wagner Control Pro 150 M Airless Sprayer 350W 240V",
+  "specifications": [
+    "Input Power: 350W",
+    "Max. Spraying Pressure: 110 bar",
+    "Paint Delivery Rate: 0.9 L/min.",
+    "Tank Capacity: 5.5 litre",
+    "Air Hose Length: 7.5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-control-pro-350-m-airless-sprayer-600w-240v.html-lllmstxt|>
+## Wagner Control Pro 350 M Airless Sprayer 600W 240V
+
+{
+  "price": "€1,021.93 inc VAT (€830.84 exc.vat)",
+  "description": "Wagner Control Pro 350 M Airless Sprayer for all painting jobs, including medium to large objects. Equipped with high-efficiency airless technology, utilising reduced pressure and a new innovative nozzle, the Control Pro 350 M guarantees streak-free, perfect paint coverage. Suitable for all solvent and water-based paints, varnishes and wood preservatives, as well as emulsion and latex paints. Can be used, with up to 55% less over-spray compared with conventional Airless spraying. The high-quality airless gun is fitted with a two-finger trigger and 15m ultra-flexible hose for maximum operating comfort. Comes with a telescopic handle cart that saves space during transportation and storage, it's also easy to move around the workplace.",
+  "availability": "In Stock",
+  "product_name": "Wagner Control Pro 350 M Airless Sprayer 600W 240V",
+  "specifications": [
+    "Input Power: 600W",
+    "Max. Spraying Pressure: 110 bar",
+    "Surface Coverage: 15m² per 2 min.",
+    "Paint Delivery Rate: 1.5 L/min.",
+    "Tank Capacity: Direct Connection",
+    "Air Hose Length: 15m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxspray-paint-sprayer-500w-240v.html-lllmstxt|>
+## Batavia MAXXSPRAY Paint Sprayer 500W 240V
+
+{
+  "price": "€73.23 inc VAT (€59.54 exc.vat)",
+  "description": "The Batavia MAXXSPRAY Paint Sprayer is perfect for turning small/medium-sized painting projects into a quick and easy job. Paint your ceiling, fence, deck, furniture, interior walls, exterior walls, cabinets, doors, and much more in no time, with a superior finish. It can be filled with the most common paints, varnish, thinned calk, enamel, primers, and undercoat. An adjustable flow rate control helps achieve a full coverage, whilst preventing over spray. Lightweight, compact and well designed to prevent splashes or leakages, or blockage within the sprayer. This way, the sprayer is easy-to-use and can be operated with one hand. The materials used will dry at some point, this is why it is import you wash your paint sprayer immediately after using it, to effectively prevent clogging.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXSPRAY Paint Sprayer 500W 240V",
+  "specifications": [
+    "Input Power: 500W",
+    "Flow Rate: 900 ml/min",
+    "Capacity: 1.2 litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-paint-sprayer-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Paint Sprayer 18V Bare Unit
+
+{
+  "price": "€56.42 inc VAT (€45.87 exc.vat)",
+  "description": "The Batavia MAXXPACK Paint Sprayer is ideal for small and medium sized projects. Compatible with common paints, varnishes, stains and primers. It has a 900ml tank capacity, which is sufficient for most home improvement projects. It also features an adjustable flow rate, up to 700 ml/min, which helps you to create a professional result. The technology used within the sprayer also helps to prevent splashes and leakages on the carpet and floor or blockages within the sprayer. Last but not least, this handheld, lightweight and portable sprayer is easy to clean, saving you time on your painting projects. The ultimate tool for painting walls, fences, doors, furniture and more! Comes as a Bare Unit, NO battery or charger supplied. Supplied with: 3 x Nozzles: 1.5mm, 2.5mm & 3.0mm, 10 x Paper Filters, 1 x Viscosity Measuring Cup, 1 x Nozzle Cleaning Needle and 1 x Cleaning Brush.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Paint Sprayer 18V Bare Unit",
+  "specifications": [
+    "Paint Flow Rate: 750 ml/min",
+    "Tank Capacity: 900ml",
+    "Max. Viscosity: 60 DIN-s",
+    "Spray Patterns: Circular, Horizontal and Vertical",
+    "Weight: 1.22kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-hvlp-paint-sprayer-700w-240v.html-lllmstxt|>
+## Batavia HVLP Paint Sprayer 700W 240V
+
+{
+  "price": "€93.57 inc VAT (€76.07 exc.vat)",
+  "description": "The Batavia HVLP Paint Sprayer provides consistent and adjustable paint flow for excellent results. Easy to use without splashes, leakages or blockages. Works with common paints, varnishes, stains and primers.",
+  "availability": "In Stock",
+  "product_name": "Batavia HVLP Paint Sprayer 700W 240V",
+  "specifications": [
+    "Input Power: 700W",
+    "Max. Flow Rate: 1,100 ml/min",
+    "Max. Viscosity: 150 DIN-s",
+    "Fill Capacity: 1200ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-sy-1890-li-solo-power-x-change-paint-spray-system-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-SY 18/90 Li-Solo Power X-Change Paint Spray System 18V Bare Unit
+
+{
+  "price": "€125.16 inc VAT (€101.76 exc.vat)",
+  "description": "The Einhell TE-SY 18/90 Li-Solo Power X-Change Paint Spray System is ideal for painting and varnishing jobs. Suitable for medium to large areas thanks to the 1,200ml paint container and the high delivery rate of up to 1000 ml/min. Various liquids with a maximum viscosity of 90 DIN-sec can be used. For optimal application of varnishes and glazes, the amount of paint can be regulated directly on the handle using a rotary wheel. The adjustable amount of air determines the width of the paint jet. The adjustable air cap allows you to work with both vertical and horizontal or circular jets. The paint spray system is pleasant to use thanks to the separate blower station, the shoulder belt and the 1.8 m long air hose. Thanks to the hinged cover, the inserted battery is protected against contact with liquids, dirt or paint splashes. The spray head can be completely removed for easy cleaning. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger. Supplied with: 1 x Paint Container with Measuring Scale and Lid, 3 x Nozzles (Ø 3.0mm, 2.5mm, 1.5mm), 1 x Container for viscosity testing, 1 x Cleaning Brush and 1 x Cleaning Needle.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-SY 18/90 Li-Solo Power X-Change Paint Spray System 18V Bare Unit",
+  "specifications": [
+    "Delivery Capacity: 1,000 ml/min.",
+    "Max. Viscosity: 90 DIN-sec.",
+    "Paint Container Volume: 1200ml.",
+    "Air Hose Length: 1.8m.",
+    "Weight: 2.66kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/black-and-decker-dhvlp-hand-held-spray-gun-400w.html-lllmstxt|>
+## Black & Decker Dhvlp Hand Held Spray Gun 400W
+
+{
+  "price": "€74.11 inc VAT (€60.25 exc.vat)",
+  "description": "Dhvlp Hand Held Spray Gun 400W",
+  "availability": "In Stock",
+  "product_name": "Black & Decker Dhvlp Hand Held Spray Gun 400W",
+  "specifications": [
+    "Power: 400W",
+    "Model: B/DHVLP200",
+    "List Price: €108.29",
+    "You save: €34.18"
+  ]
+}
+

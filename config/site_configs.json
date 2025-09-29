@@ -1,0 +1,352 @@
+{
+  "sites": {
+    "jgengineering.ie": {
+      "name": "JG Engineering Supplies",
+      "base_url": "https://www.jgengineering.ie",
+      "url_patterns": {
+        "product": "/products/",
+        "collection": "/collections/",
+        "category": "/collections/"
+      },
+      "product_url_validation": {
+        "required_pattern": "/products/",
+        "min_length": 5,
+        "excluded_suffixes": []
+      },
+      "shard_extraction": {
+        "method": "path_segment",
+        "segment_index": 2,
+        "fallback_method": "product_categorization"
+      },
+      "url_filters": {
+        "include_patterns": [
+          "product",
+          "collection",
+          "shop",
+          "catalog",
+          "item"
+        ],
+        "exclude_patterns": [
+          "sitemap",
+          "robots.txt",
+          "blog",
+          "news",
+          "about",
+          "contact",
+          "privacy",
+          "terms",
+          "help",
+          "faq",
+          "search",
+          "cart",
+          "checkout",
+          "account",
+          "login",
+          "register",
+          "admin",
+          "api",
+          "feed",
+          "rss"
+        ],
+        "max_depth": 3
+      },
+      "product_categories": {
+        "kits_sets": [
+          "kit",
+          "set",
+          "combo"
+        ],
+        "thread_repair": [
+          "insert",
+          "thread",
+          "repair",
+          "helicoil",
+          "baercoil",
+          "baerfix"
+        ],
+        "taps_dies": [
+          "tap",
+          "die",
+          "threading"
+        ],
+        "drill_bits": [
+          "drill",
+          "bit",
+          "hole"
+        ],
+        "clips_rings": [
+          "clip",
+          "ring",
+          "retainer",
+          "circlip"
+        ],
+        "tools": [
+          "tool",
+          "wrench",
+          "driver"
+        ],
+        "fasteners": [
+          "screw",
+          "bolt",
+          "fastener"
+        ],
+        "bearings_bushings": [
+          "bearing",
+          "bushing",
+          "spacer"
+        ],
+        "seals_gaskets": [
+          "seal",
+          "gasket",
+          "o-ring"
+        ],
+        "other_products": []
+      },
+      "elevenlabs_agent": "jgengineering.ie"
+    },
+    "mydiy.ie": {
+      "name": "My DIY Ireland",
+      "base_url": "https://www.mydiy.ie",
+      "url_patterns": {
+        "product": "/products/",
+        "category": "/power-tools/",
+        "subcategory": "/power-tools/angle-grinders-wall-chasers-and-metalworking-tools/"
+      },
+      "product_url_validation": {
+        "required_pattern": "/products/",
+        "required_suffix": ".html",
+        "min_length": 10,
+        "excluded_suffixes": [".jpg", ".png", ".gif", ".webp", ".jpeg"]
+      },
+      "shard_extraction": {
+        "method": "path_segment",
+        "segment_index": 1,
+        "fallback_method": "product_categorization"
+      },
+      "url_filters": {
+        "include_patterns": [
+          "product",
+          "power-tools",
+          "hand-tools",
+          "garden-tools",
+          "adhesives-fixings-and-hardware"
+        ],
+        "exclude_patterns": [
+          "sitemap",
+          "robots.txt",
+          "blog",
+          "news",
+          "about",
+          "contact",
+          "privacy",
+          "terms",
+          "help",
+          "faq",
+          "search",
+          "cart",
+          "checkout",
+          "account",
+          "login",
+          "register",
+          "admin",
+          "api",
+          "feed",
+          "rss",
+          "myaccount",
+          "delivery-information",
+          "customer-service",
+          "order-tracking"
+        ],
+        "max_depth": 4
+      },
+      "product_categories": {
+        "power_tools": [
+          "drill",
+          "saw",
+          "grinder",
+          "sander",
+          "nailer",
+          "stapler",
+          "planer",
+          "router"
+        ],
+        "hand_tools": [
+          "hammer",
+          "screwdriver",
+          "wrench",
+          "pliers",
+          "knife",
+          "level",
+          "tape"
+        ],
+        "garden_tools": [
+          "shovel",
+          "rake",
+          "pruner",
+          "hedge",
+          "lawn",
+          "watering"
+        ],
+        "adhesives_fixings": [
+          "adhesive",
+          "tape",
+          "bolt",
+          "nut",
+          "screw",
+          "nail",
+          "fixing"
+        ],
+        "decorating_wood_care": [
+          "paint",
+          "stain",
+          "varnish",
+          "brush",
+          "roller",
+          "tile"
+        ],
+        "power_tool_accessories": [
+          "blade",
+          "disc",
+          "bit",
+          "pad",
+          "belt",
+          "sheet"
+        ],
+        "security": [
+          "lock",
+          "padlock",
+          "safe",
+          "chain",
+          "camera"
+        ],
+        "drill_bits_holesaws": [
+          "drill",
+          "bit",
+          "holesaw",
+          "countersink"
+        ],
+        "workwear_safety": [
+          "glove",
+          "helmet",
+          "boot",
+          "vest",
+          "toolbox",
+          "storage"
+        ],
+        "home_leisure": [
+          "battery",
+          "brush",
+          "broom",
+          "mop",
+          "cleaning",
+          "heating"
+        ],
+        "abrasives_fillers": [
+          "sandpaper",
+          "filler",
+          "lubricant",
+          "sealant"
+        ],
+        "ladders": [
+          "ladder",
+          "stepladder",
+          "scaffold",
+          "platform"
+        ],
+        "other_products": []
+      },
+      "elevenlabs_agent": "mydiy.ie"
+    },
+    "example.com": {
+      "name": "Example Com",
+      "base_url": "https://example.com",
+      "url_patterns": {
+        "product": "/products/",
+        "category": "/categories/"
+      },
+      "shard_extraction": {
+        "method": "path_segment",
+        "segment_index": 1,
+        "fallback_method": "product_categorization"
+      },
+      "url_filters": {
+        "include_patterns": [
+          "product",
+          "collection",
+          "shop",
+          "catalog",
+          "item"
+        ],
+        "exclude_patterns": [
+          "sitemap",
+          "robots.txt",
+          "blog",
+          "news",
+          "about",
+          "contact",
+          "privacy",
+          "terms",
+          "help",
+          "faq",
+          "search",
+          "cart",
+          "checkout",
+          "account",
+          "login",
+          "register",
+          "admin",
+          "api",
+          "feed",
+          "rss"
+        ],
+        "max_depth": 3
+      },
+      "product_categories": {
+        "other_products": []
+      },
+      "elevenlabs_agent": "example.com"
+    }
+  },
+  "defaults": {
+    "shard_extraction": {
+      "method": "path_segment",
+      "segment_index": 1,
+      "fallback_method": "product_categorization"
+    },
+    "url_filters": {
+      "include_patterns": [
+        "product",
+        "collection",
+        "shop",
+        "catalog",
+        "item"
+      ],
+      "exclude_patterns": [
+        "sitemap",
+        "robots.txt",
+        "blog",
+        "news",
+        "about",
+        "contact",
+        "privacy",
+        "terms",
+        "help",
+        "faq",
+        "search",
+        "cart",
+        "checkout",
+        "account",
+        "login",
+        "register",
+        "admin",
+        "api",
+        "feed",
+        "rss"
+      ],
+      "max_depth": 3
+    },
+    "product_categories": {
+      "other_products": []
+    }
+  }
+}

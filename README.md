@@ -1,23 +1,25 @@
-# Rivvy Create LLMs.txt - Production Ready
+# Rivvy Create LLMs.txt - Agnostic Scraping System
 
-**Status:** ✅ **FULLY OPERATIONAL** | **Version:** 2.0 | **Last Updated:** January 2025
+**Status:** ✅ **FULLY OPERATIONAL** | **Version:** 3.0 (Agnostic Scraping) | **Last Updated:** September 29, 2025
 
-Automatically generate and maintain LLMs.txt files for unlimited websites with integrated ElevenLabs RAG (Retrieval Augmented Generation) capabilities.
+Automatically generate and maintain LLMs.txt files for unlimited websites with **agnostic scraping capabilities** and integrated ElevenLabs RAG (Retrieval Augmented Generation). The system automatically adapts to different website structures, URL patterns, and categorization schemes without requiring code changes.
 
 ## 🚀 Overview
 
 This production-ready system provides fully automated LLMs.txt file generation and maintenance for unlimited websites using:
 
+- **⭐ Agnostic Scraping Engine**: Configuration-driven system that adapts to any website structure
+- **Multi-Level Hierarchy Support**: Handles complex category structures (Main → Sub → Product Category → Product)
+- **Intelligent Product Discovery**: Uses Firecrawl's AI-powered link extraction and structured data extraction
 - **Dynamic Webhook Routing**: Automatically routes webhooks to correct domain directories
-- **Multi-Website Support**: Handle unlimited domains without code changes
-- **ElevenLabs RAG Integration**: ⭐ **Enhanced** with automatic old version cleanup
+- **ElevenLabs RAG Integration**: ⭐ **Enhanced** with automatic old version cleanup and RAG verification
 - **Change Detection**: Powered by [rivvy-observer](https://github.com/Emmmmmmo/rivvy-observer) for real-time monitoring
 - **Production Ready**: Robust error handling, extended retry logic, and scalable architecture
 
 ## 🏗 Architecture
 
 ```
-Website Changes → rivvy-observer → Webhook → Dynamic Routing → LLMs Generation → ElevenLabs RAG
+Website Changes → rivvy-observer → Webhook → Dynamic Routing → Agnostic Scraping → LLMs Generation → ElevenLabs RAG
 ```
 
 ### Components
@@ -34,19 +36,25 @@ rivvy-create-llmstxt/
 ├── .github/workflows/
 │   └── update-products.yml         # Main workflow with dynamic routing
 ├── config/
-│   └── elevenlabs-agents.json      # ElevenLabs agent mapping (optional)
+│   ├── site_configs.json          # ⭐ NEW - Agnostic site configurations
+│   ├── elevenlabs-agents.json     # ElevenLabs agent mapping
+│   └── elevenlabs_sync_state.json # Sync state tracking
 ├── scripts/
-│   ├── llms_scraper_sharded.py     # Core LLMs generation script with auto-splitting
-│   ├── knowledge_base_manager.py   # Unified KB management (upload, assign, verify RAG)
-│   ├── upload_to_knowledge_base.py # Upload files to ElevenLabs knowledge base
-│   ├── assign_to_agent_incremental.py # Incremental assignment for large document sets
-│   └── elevenlabs_rag_sync_corrected.py  # Legacy combined script
+│   ├── update_llms_agnostic.py    # ⭐ NEW - Agnostic scraping engine
+│   ├── site_config_manager.py     # ⭐ NEW - Configuration management
+│   ├── add_site.py               # ⭐ NEW - Site configuration tool
+│   ├── knowledge_base_manager.py  # Unified KB management
+│   └── [legacy scripts...]        # Backward compatibility
 ├── out/
-│   ├── domain1.com/                # Auto-generated domain directories
-│   │   ├── llms-domain1-com-*.txt  # Sharded product files
-│   │   ├── llms-domain1-com-index.json
-│   │   └── llms-domain1-com-manifest.json
-│   └── domain2.com/                # Website-specific folder structure
+│   ├── jgengineering.ie/          # Industrial tools (104 products)
+│   │   ├── llms-jgengineering-ie-*.txt
+│   │   ├── llms-jgengineering-ie-index.json
+│   │   └── llms-jgengineering-ie-manifest.json
+│   ├── mydiy.ie/                  # DIY products (1,335 products)
+│   │   ├── llms-mydiy-ie-*.txt
+│   │   ├── llms-mydiy-ie-index.json
+│   │   └── llms-mydiy-ie-manifest.json
+│   └── [new-domain.com]/          # Auto-generated for new sites
 ├── requirements.txt
 └── README.md
 ```
@@ -71,7 +79,37 @@ Add these secrets to your GitHub repository:
 - `FIRECRAWL_API_KEY`: Your Firecrawl API key for web scraping
 - `ELEVENLABS_API_KEY`: Your ElevenLabs API key (optional)
 
-### 3. Add Website Monitoring
+### 3. Add a New Site (Agnostic System)
+
+```bash
+# Interactive configuration
+python3 scripts/add_site.py example.com
+
+# Or create a template
+python3 scripts/add_site.py example.com --template
+```
+
+### 4. Scrape the Site
+
+```bash
+# Full crawl
+python3 scripts/update_llms_agnostic.py example.com --full
+
+# Auto-discover products from a category page
+python3 scripts/update_llms_agnostic.py example.com --auto-discover https://example.com/category/
+
+# Hierarchical discovery (for complex sites)
+python3 scripts/update_llms_agnostic.py example.com --hierarchical https://example.com/main-category/
+```
+
+### 5. Upload to ElevenLabs
+
+```bash
+# Upload and assign to agent
+python3 scripts/knowledge_base_manager.py sync --domain example.com
+```
+
+### 6. Add Website Monitoring
 
 In your [rivvy-observer](https://github.com/Emmmmmmo/rivvy-observer) configuration:
 
@@ -87,27 +125,6 @@ In your [rivvy-observer](https://github.com/Emmmmmmo/rivvy-observer) configurati
 }
 ```
 
-### 4. Configure ElevenLabs Agent (Optional)
-
-Create `config/elevenlabs-agents.json`:
-
-```json
-{
-  "agents": {
-    "yoursite.com": {
-      "agent_id": "your_agent_id_here",
-      "agent_name": "Your Site Expert",
-      "enabled": true,
-      "sync_enabled": true
-    }
-  },
-  "default_settings": {
-    "agent_id": "default_agent_id",
-    "enabled": true
-  }
-}
-```
-
 ## 🔄 How It Works
 
 ### Webhook Processing Flow
@@ -116,10 +133,11 @@ Create `config/elevenlabs-agents.json`:
 2. **Content Scraping**: Observer scrapes and analyzes the changed content
 3. **Webhook Sent**: Observer sends webhook with pre-scraped content to GitHub repository
 4. **Dynamic Routing**: Workflow extracts domain and creates appropriate directory
-5. **Content Processing**: Uses pre-scraped content (no re-scraping needed) to generate LLMs files
-6. **File Organization**: Files saved to `out/{domain}/` with proper structure
-7. **ElevenLabs Sync**: Generated files automatically uploaded to RAG system
-8. **Git Commit**: Changes committed and pushed to repository
+5. **Agnostic Processing**: Uses site configuration to determine scraping strategy
+6. **Content Processing**: Generates LLMs files with proper categorization and structured data
+7. **File Organization**: Files saved to `out/{domain}/` with proper structure
+8. **ElevenLabs Sync**: Generated files automatically uploaded to RAG system
+9. **Git Commit**: Changes committed and pushed to repository
 
 ### Webhook Format
 
@@ -262,36 +280,59 @@ python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
 
 ## 📊 Generated Files
 
-For each domain, the system generates:
+### File Structure Per Domain
 
-### `llms-full.{category}.txt`
-LLMs.txt formatted files containing scraped content organized by category:
-- `llms-full.products.txt`: Individual product pages
-- `llms-full.collections.txt`: Category/collection pages
-- `llms-full.categories.txt`: Category hierarchy
+```
+out/domain.com/
+├── llms-domain-com-{category}.txt    # Sharded product files
+├── llms-domain-com-index.json        # URL metadata
+└── llms-domain-com-manifest.json     # Shard mappings
+```
 
-### `llms-index.json`
-Metadata and indexing information for all processed URLs:
+### Content Format
+
+#### **Product Files** (`llms-domain-com-{category}.txt`)
+Clean JSON format with structured product data:
+
 ```json
 {
-  "https://example.com/product1": {
-    "title": "Product Name",
-    "shard": "products",
-    "updated_at": "2025-09-10T16:00:00Z"
+  "url": "https://www.mydiy.ie/products/bosch-professional-drill.html",
+  "product_name": "Bosch Professional Drill GSB 18V-21",
+  "description": "Professional cordless drill with 18V battery...",
+  "price": "€154.99",
+  "availability": "In Stock",
+  "specifications": {
+    "voltage": "18V",
+    "battery_type": "Lithium-ion",
+    "weight": "1.2kg"
   }
 }
 ```
 
-### `manifest.json`
-URL organization and tracking:
+#### **Index File** (`llms-domain-com-index.json`)
+URL metadata and tracking:
+
 ```json
 {
-  "products": [
+  "https://example.com/product1": {
+    "title": "Product Name",
+    "shard": "power_tools",
+    "updated_at": "2025-09-29T22:00:00Z"
+  }
+}
+```
+
+#### **Manifest File** (`llms-domain-com-manifest.json`)
+Shard organization:
+
+```json
+{
+  "power_tools": [
     "https://example.com/product1",
     "https://example.com/product2"
   ],
-  "collections": [
-    "https://example.com/category1"
+  "hand_tools": [
+    "https://example.com/product3"
   ]
 }
 ```
@@ -395,20 +436,27 @@ ls -la out/*/
 2. **Add ElevenLabs agent** (optional): Update `config/elevenlabs-agents.json`
 3. **Automatic operation**: System handles new domain automatically
 
-## 📈 Scaling
+## 📈 Currently Supported Sites
 
-### Multi-Domain Support
+### Active Sites
 
-The system automatically handles unlimited domains:
+| Site | Domain | Products | Categories | Status |
+|------|--------|----------|------------|--------|
+| JG Engineering | jgengineering.ie | 104 | Thread repair, tools, fasteners | ✅ Active |
+| My DIY | mydiy.ie | 1,335 | Power tools, hand tools, garden | ✅ Active |
 
-```
-out/
-├── jgengineering.ie/     # Industrial tools
-├── mydiy.ie/             # DIY products  
-├── toolshop.ie/          # Power tools
-├── gardenshop.ie/        # Garden equipment
-└── newdomain.com/        # Automatically created
-```
+### Site-Specific Features
+
+#### **mydiy.ie** - Complex Multi-Level Hierarchy
+- **4-Level Structure**: Main Category → Subcategory → Product Category → Product
+- **Hierarchical Discovery**: Automatically navigates complex category structures
+- **Fallback Logic**: Direct product scraping when subcategories contain products
+- **Clean JSON Output**: Structured product data with Euro symbol support
+
+#### **jgengineering.ie** - Simple Structure
+- **Direct Product Access**: Products accessible from main collections
+- **Auto-Discovery**: Efficient product discovery from category pages
+- **Thread Repair Focus**: Specialized in industrial tools and fasteners
 
 ### Performance Considerations
 
@@ -416,6 +464,7 @@ out/
 - **Incremental Updates**: Only changed content is reprocessed
 - **Rate Limiting**: Built-in delays prevent API throttling
 - **Error Recovery**: Failed operations don't affect other domains
+- **URL Deduplication**: Prevents redundant scraping
 
 ## 🔧 Configuration Options
 
@@ -425,15 +474,22 @@ out/
 - `ELEVENLABS_API_KEY`: Required for RAG integration
 - `ONLY_MAIN_CONTENT`: Extract only main content (default: true)
 
-### Script Parameters
+### Agnostic Script Parameters
 
-The core script supports various options:
+The agnostic scraping script supports various options:
 
 ```bash
-python3 scripts/update_llms_sharded.py [URL] \
-  --added "[urls...]" \
-  --output-dir "out/domain" \
-  --verbose
+# Full crawl
+python3 scripts/update_llms_agnostic.py example.com --full
+
+# Auto-discover from category
+python3 scripts/update_llms_agnostic.py example.com --auto-discover https://example.com/category/ --max-products 10
+
+# Hierarchical discovery
+python3 scripts/update_llms_agnostic.py example.com --hierarchical https://example.com/main-category/ --max-categories 5
+
+# Incremental updates
+python3 scripts/update_llms_agnostic.py example.com --added '["https://example.com/product1"]'
 ```
 
 ## 🚨 Troubleshooting
@@ -451,6 +507,7 @@ python3 scripts/update_llms_sharded.py [URL] \
 - Verify Firecrawl API key is set
 - Check if URLs are accessible
 - Review script error logs
+- Check site configuration in `config/site_configs.json`
 
 **ElevenLabs sync issues:**
 - ✅ **RAG Indexing Delays**: **SOLVED** - Extended retry logic handles timing issues
@@ -473,7 +530,7 @@ gh run list --workflow="update-products.yml"
 gh run view [RUN_ID] --log
 
 # Test local processing
-python3 scripts/update_llms_sharded.py https://example.com --added '["https://example.com/test"]' --output-dir out/example.com --verbose
+python3 scripts/update_llms_agnostic.py example.com --auto-discover https://example.com/category/ --max-products 5 --verbose
 ```
 
 ## 🤝 Contributing
@@ -504,18 +561,19 @@ For issues and questions:
 ## 📊 System Status
 
 **Current Status:** ✅ **FULLY OPERATIONAL**  
-**Version:** 2.0 (Enhanced with ElevenLabs RAG Integration)  
-**Last Updated:** January 2025
+**Version:** 3.0 (Agnostic Scraping System)  
+**Last Updated:** September 29, 2025
 
 ### Key Achievements
+- ✅ **Agnostic scraping engine** adapts to any website structure
+- ✅ **Multi-level hierarchy support** for complex e-commerce sites
+- ✅ **Structured data extraction** with clean JSON output
 - ✅ **Automatic old version cleanup** prevents document accumulation
-- ✅ **Extended retry logic** handles RAG indexing delays
-- ✅ **Production-ready error handling** with comprehensive logging
-- ✅ **Scalable architecture** for unlimited domains and frequent updates
 - ✅ **RAG indexing verification** with automatic retry system
 - ✅ **Unified knowledge base management** with comprehensive tooling
+- ✅ **Production-ready scalability** for high-volume, frequent updates
 
-For detailed system status and technical specifications, see [SYSTEM_STATUS.md](./SYSTEM_STATUS.md).
+For detailed system status and technical specifications, see [COMPREHENSIVE_GUIDE.md](./COMPREHENSIVE_GUIDE.md).
 
 ---
 

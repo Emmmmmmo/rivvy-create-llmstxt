@@ -1,0 +1,1103 @@
+<|https://www.mydiy.ie/products/dewalt-d25133k-sds-plus-3-mode-26mm-hammer-drill-800-watt.html-lllmstxt|>
+## DEWALT D25133K SDS Plus 3 Mode 26mm Hammer Drill 800 Watt
+
+{
+  "price": "from €167.53 inc VAT",
+  "description": "The DEWALT D25133K SDS 3 Mode Hammer Drill is ideal for drilling anchor and fixing holes into concrete and masonry from 4 to 26mm in diameter. It has a rotation-stop mode for light chiselling applications in brick, soft masonry and occasionally concrete. It also features an impact-stop mode for drilling in wood, steel, ceramic and screwdriving applications. The drill has a mechanical clutch that eliminates sudden high-torque reaction, should the bit jam. It features electronic variable speed for total control in any application. The ergonomic rubber coated back handle and industrial design provides easy and comfortable handling in any application.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25133K SDS Plus 3 Mode 26mm Hammer Drill 800 Watt",
+  "specifications": [
+    "Mode: Rotary, SDS Hammer, Chisel Only",
+    "Input Power: 800 Watt",
+    "No Load Speed: 0-1,500/min",
+    "Impact Rate: 0-5,550/bpm, 2.6 Joules",
+    "Capacity: Wood: 30mm, Steel: 13mm, Concrete 26mm, Core: 50mm",
+    "Toolholder: SDS-Plus",
+    "Weight: 2.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25810k-sds-max-chipping-combination-hammer-1.html-lllmstxt|>
+## DEWALT D25810K SDS Max Chipping Combination Hammer
+
+{
+  "price": "€563.66 inc VAT",
+  "description": "The DEWALT D25810K SDS Max Chipping Combination Hammer has a powerful brushed motor for high performance even in demanding applications. Low vibration ensures maximum trigger time and also reduces user fatigue. Fitted with a soft, rubber anti-vibration handle. It has an ergonomic, compact and slim design which offers easy access to confined spaces. There's a chisel angle option which is easy to activate and use.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25810K SDS Max Chipping Combination Hammer",
+  "specifications": [
+    "Modes: Hammer/Chisel",
+    "Input Power: 1050 Watt",
+    "Impact Rate: 3,150/bpm",
+    "Impact Energy: 7.1 Joules",
+    "Weight: 5.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25417kt-sds-plus-combination-hammer-4kg.html-lllmstxt|>
+## DEWALT D25417KT SDS Plus Combination Hammer 4kg
+
+{
+  "price": "€1,019.26 inc VAT",
+  "description": "The DEWALT D25417KT SDS Plus Combination Hammer is fitted with a 3-mode selector dial: hammer and rotary, rotary only, hammer only, making it ideal for various jobsite applications. It has a rotation stop mode for light chiselling applications in brick, soft masonry and concrete. Perform & Protect delivers minimal vibration at 8.2m/s², reducing user fatigue during extended operating periods. An anti-rotation system detects a loss of tool control and reacts by instantly cutting the power for enhanced safety. The drill is ideal for drilling anchors and fixing holes into concrete, brick and masonry. Supplied with: 1 x Quick-Change 3 Jawed Chuck, 1 x Pair of Gloves, 1 x Pair of Safety Glasses, 15 x Drill Bits & Chisels and 1 x TSTAK Box.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25417KT SDS Plus Combination Hammer 4kg",
+  "specifications": [
+    "Mode: Hammer & Rotary, Rotary Only, Hammer Only",
+    "Input Power: 1,000W",
+    "No Load Speed: 0-820/min.",
+    "Impact Rate: 4,700/bpm with 4.2 joules",
+    "Capacity: Concrete: 6-32mm",
+    "Weight: 4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dhr243-sds-plus-3-mode-hammer-drill-1.html-lllmstxt|>
+## Makita DHR243 SDS Plus 3 Mode Hammer Drill
+
+{
+  "price": "€292.76 inc VAT",
+  "description": "The Makita DHR243RMJ SDS Plus 3 Mode Hammer Drill has an efficient brushless DC motor. Has a quick change drill chuck and an easy-to-grip handle ergonomically designed to give maximum power thrust and provide a sure and comfortable grip in any operation; overhead application, drilling with palm-up or palm-down grip. The tool body is separated into the upper and lower housings at the foot of handle portion where the houses are jointed with vibration absorbing cushion rubbers. Unique rubber joint construction suppresses the transmission of vibration to battery terminals, minimising battery failures such as terminal breakage or poor electrical contact. Has 3 modes of operation rotation and hammering, hammering only and rotation only. DHR243RMJ: 2 x 18 Volt 4.0Ah Li-ion Batteries. DHR243Z: Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DHR243 SDS Plus 3 Mode Hammer Drill",
+  "specifications": [
+    "No Load Speed: 0-950/min",
+    "Blows per Minute: 0-4,700/bpm",
+    "Impact Energy: 2.0 joules",
+    "Capacity: Concrete 24mm, Steel 13mm, Wood 27mm",
+    "Weight: 3.3kg",
+    "Vibration: Drilling: 3.5 m/sec²",
+    "Vibration K Factor: 1.5 m/sec²",
+    "Vibration: Hammer Drilling: 13.5 m/sec²",
+    "Vibration: Chiselling: 10.5 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hr2630-sds-plus-rotary-hammer.html-lllmstxt|>
+## Makita HR2630 SDS Plus Rotary Hammer
+
+{
+  "price": "€183.15 inc VAT",
+  "description": "The Makita HR2630 SDS Plus Rotary Hammer has a modified operation-mode change lever that enables a switch from Rotation to Hammering mode and vice versa without rotating the chuck. Offers 3-modes of operation: rotation only, rotation with hammering and hammering only. The one touch sliding chuck provides easy bit installation and removal. Superior control thanks to the variable speed control trigger, forward/reverse rotation and torque limiter. Ergonomically designed handle with rubberised soft grip fits your hand perfectly to provide maximum control and comfort. Other features include: double insulation, 40 different bit angle settings and a depth stop.",
+  "availability": "In Stock",
+  "product_name": "Makita HR2630 SDS Plus Rotary Hammer",
+  "specifications": [
+    "Input Power: 800W",
+    "No Load Speed: 0-1,200/min.",
+    "Impact Rate: 0-4,600/bpm, 2.4 joules",
+    "Capacity: Concrete: TCT Bit 26mm, TCT Core 68mm, Diamond Core 80mm; Wood 32mm; Steel 13mm",
+    "Weight: 2.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hr2631ft-sds-plus-avt-rotary-hammer.html-lllmstxt|>
+## Makita HR2631FT SDS Plus AVT Rotary Hammer
+
+{
+  "price": "€241.19 inc VAT",
+  "description": "The Makita HR2631FT SDS Plus AVT Rotary Hammer is fitted with (AVT) Anti-Vibration Technology and offers 3 modes of function: rotation only, rotation with hammering and hammering only (when chiselling). Its modified operation-mode change lever enables an easy switch from rotation mode to hammering mode and vice versa without rotating the chuck. Fitted with an ergonomically designed handle, the rubberised soft grip fits your hand perfectly to provide maximum control and comfort. The variable speed is controlled via a trigger and it offers both forward and reverse rotation. For safety the tool is fitted with a torque limiter and double insulation. There is also a one-touch sliding chuck for easy bit changes and 40 different angle settings for the bit. This model is also supplied with a quick change chuck which enables you to use standard (non SDS Plus) drill bits.",
+  "availability": "In Stock",
+  "product_name": "Makita HR2631FT SDS Plus AVT Rotary Hammer",
+  "specifications": [
+    "Mode: Rotation Only, Rotation with Hammering, Hammering Only",
+    "Input Power: 800W",
+    "No Load Speed: 0-1,200/min.",
+    "Impact Rate: 0-4,600/bpm with 2.4 Joules",
+    "Capacity: Concrete: TCT Bit 26mm, TCT Core 68mm, Diamond Core 80mm; Wood 32mm, Steel 13mm",
+    "Chuck: SDS Plus",
+    "Weight: 2.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hr3210c-sds-plus-avt-rotary-hammer-drill.html-lllmstxt|>
+## Makita HR3210C SDS Plus AVT Rotary Hammer Drill
+
+{
+  "price": "€653.25 inc VAT",
+  "description": "The Makita HR3210C SDS Plus AVT Rotary Hammer Drill 850 Watt with 3 drilling modes of operation: hammer drill, rotary drill and hammer only. Rotary drilling with hammer support can be selected as can pure hammer-only action for heavy-duty breaking and chiselling. It has a soft start operation to ensure a smooth and even start every time, and the torque limiter stops the drill when the bit hits against reinforcements. It also has a built in job light. It features the unique Makita AVT Anti-Vibration Technology design employing the pneumatic pressure created in the drill’s hammer piston chamber to move a counter balance in the opposite direction to reduce the impact vibrations at the steel point. This dramatically reduces vibration. It is supplied with; a side handle, depth stop, bit grease and a carry case.",
+  "availability": "In Stock",
+  "product_name": "Makita HR3210C SDS Plus AVT Rotary Hammer Drill",
+  "specifications": [
+    "Input Power: 850W",
+    "No Load Speed: 315-630/min.",
+    "Impact Rate: 1,650-3,300/bpm",
+    "Impact Energy: 5.0 joules",
+    "Capacity: Concrete 32mm, Core Diameter (TCT) 90mm",
+    "Weight: 4.9kg",
+    "Vibration Drilling: 2.5 m/sec²",
+    "Vibration Chiselling: 7 m/sec²",
+    "Vibration Hammer Drilling: 10 m/sec²",
+    "Noise Sound Pressure: 89 dB(A)",
+    "Noise Sound Power: 100 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25334k-brushless-sds-plus-rotary-hammer-drill.html-lllmstxt|>
+## DEWALT D25334K Brushless SDS Plus Rotary Hammer Drill
+
+{
+  "price": "€826.41 inc VAT",
+  "description": "D25334K Brushless SDS Plus Rotary Hammer Drill with rotation stop mode for light chiselling in soft masonry, plaster, tiles and light concrete, and impact-stop mode for rotary only drilling in wood and metal. Input Power: 950W No Load Speed: 0-2,800/min. Impact Rate: 0-1,150/bpm Impact Energy: 3.5 joules Capacity: Concrete 30mm, Core Bit 65mm Wood 30mm Weight: 3.7kg",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25334K Brushless SDS Plus Rotary Hammer Drill",
+  "specifications": [
+    "Input Power: 950W",
+    "No Load Speed: 0-2,800/min",
+    "Impact Rate: 0-1,150/bpm",
+    "Impact Energy: 3.5 joules",
+    "Capacity: Concrete 30mm, Core Bit 65mm, Wood 30mm",
+    "Weight: 3.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-sds-plus-rotary-hammer-800w-240v.html-lllmstxt|>
+## Olympia Power Tools SDS Plus Rotary Hammer 800W 240V
+
+{
+  "price": "€82.63 inc VAT (€67.18 exc.vat)",
+  "description": "The Olympia Power Tools SDS Plus Rotary Hammer is fitted with a powerful 800W motor and offers 3-functions: drilling, hammer drilling and chiselling. A function lock provides additional safety. It has a variable speed for additional control and job customisation, and also a forward-reverse function. Its easy-to-handle design incorporates a soft grip handle for reduced fatigue. Supplied with: 1 x Carrying Case, 1 x Side Handle and 1 x Depth Gauge.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools SDS Plus Rotary Hammer 800W 240V",
+  "specifications": [
+    "Input Power: 800W",
+    "No Load Speed: 0-1,000/min.",
+    "Impact Rate: 0-5,000/bpm, 2.5 joules",
+    "Max. Drilling Capacity: Concrete 24mm, Steel 13mm, Wood 40mm",
+    "Weight: 3.64kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hr3001cj-sds-plus-rotary-hammer.html-lllmstxt|>
+## Makita HR3001CJ SDS Plus Rotary Hammer
+
+{
+  "price": "€337.92 inc VAT",
+  "description": "The Makita HR3001CJ SDS Plus Rotary Hammer offers 3-modes of operation: Rotation only, Hammering with Rotation, and Hammering only. Variable speed with constant speed control and forward/reverse rotation for more comfortable handling, even in demanding applications. Drilling efficiency has been drastically increased by the redesigned hammering mechanism. A 'no hammering when idling' function helps increase tool life. Fitted with an anti-vibration main handle for increased comfort. A torque limiter and double insulation increase user safety. Supplied with: 1 x Depth Stop, 1 x Side Handle and 1 x Type 4 MAKPAC Connector Case.",
+  "availability": "In Stock",
+  "product_name": "Makita HR3001CJ SDS Plus Rotary Hammer",
+  "specifications": [
+    "Modes: Rotation only, Hammering with Rotation, and Hammering only",
+    "Input Power: 1,050W",
+    "No Load Speed: 0-840/min.",
+    "Impact Rate: 0-4,500/bpm",
+    "Impact Energy: 3.9 joules",
+    "Capacity: Concrete: TCT Bit 30mm, TCT/Diamond Core 80mm; Wood 32mm, Steel 13mm",
+    "Weight: 4.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-sds4-800-4-function-sds-drill-1.html-lllmstxt|>
+## Evolution SDS4-800 4 Function SDS Drill
+
+{
+  "price": "€88.95 inc VAT",
+  "description": "The Evolution SDS4-800 SDS Drill, with 4 functions (Drill, Chisel, Rotation & Hammer) and high impact energy of 1.6 joules, is versatile and very effective. The variable speed feature allows for optimum control and the hi-torque 650W motor packs the punch required to drill into tough applications, such as steel, concrete and other masonry. It is light and portable without losing the key attributes of strength and durability, ideal for daily and extensive use. Other features include an adjustable auxiliary handle making it easy to direct into position, as well as an ergonomic main handle with soft grips for comfort.",
+  "availability": "In Stock",
+  "product_name": "Evolution SDS4-800 4 Function SDS Drill",
+  "specifications": [
+    "Input Power: 650W",
+    "No Load Speed: 0-1,100/min.",
+    "Impact Energy: 1.6 Joules",
+    "Capacity: Steel 13mm, Concrete 20mm, Wood 30mm",
+    "Recommended Max. Duty Cycle: 30 min",
+    "Weight: 3.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-rh261f-sds-plus-rotary-hammer-800w-240v.html-lllmstxt|>
+## Einhell TE-RH26/1F SDS-Plus Rotary Hammer 800W 240V
+
+{
+  "price": "€131.75 inc VAT (€107.11 exc.vat)",
+  "description": "The Einhell TE-RH26/1F SDS-Plus Rotary Hammer combines four functions in one: drilling, impact drilling and chiseling with or without lock. Its pneumatic impact mechanism provides very good forward traction. There is a single position switch for selecting all functions. Its ergonomic soft grip provides exceptionally easy handling and a firm, secure grip. For comfortable and user-friendly operation there is a continuous operation lock. Changing tools is quick and easy thanks to the robust SDS-plus tool chuck with automatic slip-in-function. There is also an adjustable drilling depth stop. Supplied with a carry case.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-RH26/1F SDS-Plus Rotary Hammer 800W 240V",
+  "specifications": [
+    "Tool Holder: SDS-Plus",
+    "Input Power: 800W",
+    "No Load Speed: 0-930/min",
+    "Impact Rate: 0-4,500/bpm",
+    "Impact Power: 2.6 Joules",
+    "Drilling Capacity: Concrete: 26mm",
+    "Weight: 3.18kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hr3012fcj-sds-plus-rotary-hammer.html-lllmstxt|>
+## Makita HR3012FCJ SDS-Plus Rotary Hammer
+
+{
+  "price": "€384.36 inc VAT",
+  "description": "Makita HR3012FCJ SDS-Plus Rotary Hammer with quick change drill chuck for quick bit changeover. The machine can be drilled without impact or with impact and has a spike function. AVT (Anti-Vibration Technology) ensures extra-low vibration performance. The rubber coating on the handle ensures a firm working grip. It also features an LED light that illuminates the work area. Supplied with: 1 x Drill Chuck Set, 1 x Depth Gauge and 1 x Type 4 MAKPAC Case.",
+  "availability": "In Stock",
+  "product_name": "Makita HR3012FCJ SDS-Plus Rotary Hammer",
+  "specifications": [
+    "Modes: Impact Drilling, Non-impact Drilling, Spike Function",
+    "Input Power: 1,050W",
+    "No Load Speed: 0-840/min",
+    "Impact Rate: 0-4,500/bpm",
+    "Impact Energy: 3.9 joules",
+    "Capacity: Concrete 30mm, Wood 32mm, Steel 13mm",
+    "Power Cord: 2.5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-rh-620-4f-sds-rotary-hammer-620w-240v.html-lllmstxt|>
+## Einhell TC-RH 620 4F SDS Rotary Hammer 620W 240V
+
+{
+  "price": "€76.54 inc VAT (€62.23 exc.vat)",
+  "description": "The Einhell TC-RH 620 4F Rotary Hammer is the perfect entry-level model and has 4 functions: drilling, impact drilling, chiseling with/without chisel lock. It combines performance with a compact design. The pulse generator for all the functions is the position switch, while the pneumatic impact mechanism provides good forward traction. Electronic speed control ensures the tool can be adjusted to the particular material and application. A continuous operation lock ensures user-friendly operation, the robust SDS-plus tool chuck has a semi-automatic function. Its low weight and ergonomic handle with soft grip make it ideal to work with, including overhead. The solid metal drilling depth stop can be adjusted to any depth.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TC-RH 620 4F SDS Rotary Hammer 620W 240V",
+  "specifications": [
+    "Tool Holder: SDS-plus",
+    "Input Power: 620W",
+    "No Load Speed: 1,250/min",
+    "Impact Rate: 5,200/bpm",
+    "Impact Power: 2.2 joules",
+    "Capacity: Concrete 20mm",
+    "Weight: 2.12kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25033k-sds-3-mode-hammer-drill.html-lllmstxt|>
+## DEWALT D25033K SDS 3 Mode Hammer Drill
+
+{
+  "price": "from €143.49 inc VAT",
+  "description": "The DEWALT D25033K SDS 3 Mode Hammer Drill is ideal for drilling anchor and fixing holes into concrete and masonry from 4 to 22mm in diameter. It has a rotation-stop mode for light chiselling applications in brick, soft masonry and occasionally concrete. Its impact-stop mode is suitable for drilling in wood, steel, ceramic and screwdriving applications. The large hammer mechanism delivers high performance with low stress to the critical components, resulting in better durability. The drill has a mechanical clutch that eliminates sudden high-torque reaction, should the bit jam. It also features electronic variable speed for total control in any application. Its rounded ergonomic industrial design allows easy and comfortable handling in any application. Supplied with: 1 x Multi-Position Side Handle, 1 x Depth Stop and 1 x Heavy-Duty Carrying Case.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25033K SDS 3 Mode Hammer Drill",
+  "specifications": [
+    "Mode: Rotary, SDS Hammer, Chisel Only",
+    "Input Power: 710 Watt",
+    "No Load Speed: 0-1,550/min",
+    "Impact Rate: 0-5,680/bpm, 2.0 Joules",
+    "Capacity: Wood: 30mm, Steel: 13mm, Concrete 22mm, Core: 50mm",
+    "Toolholder: SDS",
+    "Weight: 2.5kg"
+  ]
+}
+
+<|https://mydiy.ie/products/xms-irwin-marples-8-piece-splitproof-chisel-set.html-lllmstxt|>
+## XMS Irwin Marples 8 Piece Splitproof Chisel Set
+
+{
+  "price": "€79.99 inc VAT (€65.03 exc.vat)",
+  "description": "EXCLUSIVE XMS M373 Splitproof Bevel Edge Wood Chisel Set, by IRWIN Marples, is an XMS Deal you cannot miss! The chisels are ideal for heavy-duty use and all 8 have splitproof handles. They are made from best in category steel for improved sharpness and edge retention. The blade, bolster and tang are forged from one piece of steel with edges bevelled to enable easier working in tight corners, and they are fitted with two-tone splitproof plastic handles to withstand heavy usage. The handle is also contoured to provide added control. Supplied in a wooden presentation box. Contains the following sizes: 6, 10, 12, 19, 25, 32, 38 and 50mm (1/4, 3/8, 1/2, 3/4, 1, 1.1/4, 1.1/2 and 2in).",
+  "availability": "In Stock",
+  "product_name": "XMS Irwin Marples 8 Piece Splitproof Chisel Set",
+  "specifications": [
+    "Contains 8 chisels with splitproof handles",
+    "Made from high-quality steel for sharpness and edge retention",
+    "Forged from one piece of steel for durability",
+    "Bevelled edges for easier working in tight corners",
+    "Supplied in a wooden presentation box",
+    "Sizes: 6, 10, 12, 19, 25, 32, 38, and 50mm"
+  ]
+}
+
+<|https://mydiy.ie/products/dewalt-lamar-lightweight-safety-trainers.html-lllmstxt|>
+## DEWALT Lamar Lightweight Safety Trainers
+
+{
+  "price": "from €89.99 inc VAT",
+  "description": "The DEWALT Lamar is a lightweight synthetic safety trainer. It features steel toe protection and composite underfoot midsole protection. The lightweight phylon/rubber outsole gives this trainer a true sporty look. Comfort insole and padded tongue. Ideal for tradesmen and the diy enthusiast. Safety Rating: SBPS SR FO HRO.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Lamar Lightweight Safety Trainers",
+  "specifications": [
+    "Lightweight synthetic material",
+    "Steel toe protection",
+    "Composite underfoot midsole protection",
+    "Lightweight phylon/rubber outsole",
+    "Comfort insole and padded tongue",
+    "Safety Rating: SBPS SR FO HRO"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gu10-halogen-spotlight-bulbs-40w-300lm-dimmable-2800k-6-pack.html-lllmstxt|>
+## GU10 Halogen Spotlight Bulbs 40w 300Lm Dimmable 2800k (6 Pack)
+
+{
+  "price": "€2.50 inc VAT (€2.03 exc.vat)",
+  "description": "Illuminate your home or workspace with this 6-pack of TCP GU10 Halogen Spotlight Bulbs, delivering bright, warm white light with excellent colour rendering. With a 2800K colour temperature and 300 lumens output, these bulbs create a cosy and inviting atmosphere, ideal for living rooms, kitchens, and commercial spaces. Designed with a standard GU10 2-pin fitting, these bulbs are easy to install and compatible with most spotlight fittings. Fully dimmable, they provide adjustable lighting to suit your mood or task. At 40W, they deliver reliable, instant brightness without the need to warm up. Perfect for track lighting, recessed ceiling fixtures, or accent lighting, these bulbs combine performance, reliability, and value in one convenient multipack.",
+  "availability": "In Stock",
+  "product_name": "GU10 Halogen Spotlight Bulbs 40w 300Lm Dimmable 2800k (6 Pack)",
+  "specifications": [
+    "Brand: TCP",
+    "Type: GU10 Halogen Spotlight Bulb",
+    "Quantity: 6 Bulbs",
+    "Wattage: 40W",
+    "Light Output: 300 Lumens",
+    "Colour Temperature: 2800K (Warm White)",
+    "Connector: GU10, 2-Pin",
+    "Dimmable: Yes",
+    "Technology: Halogen",
+    "Condition: New"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fmt-0-fuel-multi-tool-18v-bare-unit.html-lllmstxt|>
+## Milwaukee Power Tools M18 FMT-0 FUEL™ Multi-Tool 18V Bare Unit
+
+{
+  "price": "€179.99 inc VAT (€146.33 exc.vat)",
+  "description": "The Milwaukee M18 FMT FUEL™ Multi-Tool has a brushless POWERSTATE™ motor that delivers fast cutting speed through common materials. Suitable for a variety of demanding applications, such as rip cuts through hardwoods and nail embedded wood. It has a 10-setting dial with an auto-load feature that allows users to adjust the speed to the application. Utilises the FIXTEC™ tool-free blade change system. It also comes with a universal blade change adaptor enabling it to use most blades, even from different brands. The REDLINK PLUS™ intelligence system delivers an advanced digital overload protection for tool and battery and uniquely enhances the tool performance under load. An integrated 180° LED light provides maximum visibility in low-light situations. Bare Unit - No Battery or Charger supplied. Supplied with: 1 x Universal Fit OPEN-LOK Oscillating Wood Blade, 1 x Sanding Backing Pad, 5 x Sanding Sheets and 1 x Universal Blade Change Adaptor.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M18 FMT-0 FUEL™ Multi-Tool 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 10,000-20,000/min",
+    "Oscillation Angle, Left/Right: 2.1°"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcb094k-usb-power-delivery-charging-kit.html-lllmstxt|>
+## DEWALT DCB094K USB Power Delivery Charging Kit
+
+{
+  "price": "€104.24 inc VAT (€84.75 exc.vat)",
+  "description": "The DEWALT DCB094K USB Power Delivery Charging Kit charges all DEWALT 18V XR and FlexVolt batteries. It has a USB-C port and output power to charge your other personal devices up to 100W. There is also a USB-A port that acts as an adaptor, allowing you to charge devices up to 12W using traditional USB cords. Fitted with a belt hook for on-the-go stowing. Supplied with: 1 x 100W USB Cord and 1 x 65W Plug.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCB094K USB Power Delivery Charging Kit",
+  "specifications": [
+    "Charges all DEWALT 18V XR and FlexVolt batteries",
+    "USB-C port with 100W output",
+    "USB-A port for traditional USB cords",
+    "Includes 1 x 100W USB Cord and 1 x 65W Plug",
+    "Fitted with a belt hook for portability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-irwin-marples-8-piece-splitproof-chisel-set.html-lllmstxt|>
+## XMS Irwin Marples 8 Piece Splitproof Chisel Set
+
+{
+  "price": "€79.99 inc VAT (€65.03 exc.vat)",
+  "description": "EXCLUSIVE XMS M373 Splitproof Bevel Edge Wood Chisel Set, by IRWIN Marples, is an XMS Deal you cannot miss! The chisels are ideal for heavy-duty use and all 8 have splitproof handles. They are made from best in category steel for improved sharpness and edge retention. The blade, bolster and tang are forged from one piece of steel with edges bevelled to enable easier working in tight corners, and they are fitted with two-tone splitproof plastic handles to withstand heavy usage. The handle is also contoured to provide added control. Supplied in a wooden presentation box. Contains the following sizes: 6, 10, 12, 19, 25, 32, 38 and 50mm (1/4, 3/8, 1/2, 3/4, 1, 1.1/4, 1.1/2 and 2in).",
+  "availability": "In Stock",
+  "product_name": "XMS Irwin Marples 8 Piece Splitproof Chisel Set",
+  "specifications": [
+    "Contains 8 chisels with splitproof handles",
+    "Made from high-quality steel for sharpness and edge retention",
+    "Forged from one piece of steel for durability",
+    "Bevelled edges for easier working in tight corners",
+    "Supplied in a wooden presentation box",
+    "Sizes: 6, 10, 12, 19, 25, 32, 38, and 50mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-lamar-lightweight-safety-trainers.html-lllmstxt|>
+## DEWALT Lamar Lightweight Safety Trainers
+
+{
+  "price": "from €89.99 inc VAT",
+  "description": "The DEWALT Lamar is a lightweight synthetic safety trainer. It features steel toe protection and composite underfoot midsole protection. The lightweight phylon/rubber outsole gives this trainer a true sporty look. Comfort insole and padded tongue. Ideal for tradesmen and the diy enthusiast. Safety Rating: SBPS SR FO HRO.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Lamar Lightweight Safety Trainers",
+  "specifications": [
+    "Lightweight synthetic material",
+    "Steel toe protection",
+    "Composite underfoot midsole protection",
+    "Lightweight phylon/rubber outsole",
+    "Comfort insole and padded tongue",
+    "Safety Rating: SBPS SR FO HRO"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black-and-decker-ph5551-pole-hedge-trimmer-550-watt-240-volt.html-lllmstxt|>
+## Black & Decker PH5551 Pole Hedge Trimmer 550 Watt 240 Volt
+
+{
+  "price": "€125.16 inc VAT (€101.76 exc.vat)",
+  "description": "The Black & Decker PH5551 Pole Hedge Trimmer for fast, effective trimming of tall hedges. It has an ergonomic, balanced design and the soft feel grip provides added comfort. The diamond ground, dual action blades provide cleaner cutting and reduced vibration for greater comfort in use. The pole extends up to 2.3m in usable length, providing approximately 3.8m of reach, making it ideal for cutting extra high hedges. The 180° pivoting head locks into 5 different positions, for greater versatility and access when trimming.",
+  "availability": "In Stock",
+  "product_name": "Black & Decker PH5551 Pole Hedge Trimmer 550 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 550 Watt",
+    "No Load Speed: 1,600/min",
+    "Blade Length: 51cm, 22mm Gap",
+    "Blade Brake: <1.0 secs",
+    "Weight: 4.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck266p2-xr-brushless-twin-pack-18-volt-2-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK266P2 XR Brushless Twin Pack 18 Volt 2 x 5.0Ah Li-Ion
+
+{
+  "price": "€329.99 inc VAT (€268.28 exc.vat)",
+  "description": "The DEWALT 18 Volt DCK266P2 XR Brushless Twin Pack, contains the following: 1 x 18 Volt DCD796 XR Brushless Hammer Drill Driver has an ultra compact, lightweight design. The two speed all metal transmission provides increased runtime and longer tool life. It offers a 15 position adjustable torque control for consistent screw driving. Chuck: 13mm Keyless. No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/3,4000/bpm Torque: 27/70Nm, 15 Settings. Capacity: Steel: 13mm, Masonry: 13mm, Wood: 40mm 1 x 18 Volt DCF887 XR Brushless Impact Driver is Equipped with application control, this is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. No Load Speed: 0-850/0-2,100/0-3,000/min. Impact Rate: 0-1,800/0-2,900/0-3,700/bpm. Torque: 26/80/203Nm. 1 x Multi-Voltage DCB105 XR Universal Charger varies the charge rate according to battery type to increase battery pack life. It features diagnostics with bright LED indicator which communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold. Charges all XR Li-Ion DEWALT Slide Pack 10.8, 14.4, and 18 Volt batteries. Also supplied with 2 x 18 Volt 5.0Ah Li-Ion Batteries and 1 x TOUGHSYSTEM™ DS150 Toolbox.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK266P2 XR Brushless Twin Pack 18 Volt 2 x 5.0Ah Li-Ion",
+  "specifications": [
+    "1 x 18 Volt DCD796 XR Brushless Hammer Drill Driver",
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-550/0-2,000/min",
+    "Impact Rate: 0-9,350/3,4000/bpm",
+    "Torque: 27/70Nm, 15 Settings",
+    "Capacity: Steel: 13mm, Masonry: 13mm, Wood: 40mm",
+    "1 x 18 Volt DCF887 XR Brushless Impact Driver",
+    "No Load Speed: 0-850/0-2,100/0-3,000/min",
+    "Impact Rate: 0-1,800/0-2,900/0-3,700/bpm",
+    "Torque: 26/80/203Nm",
+    "1 x Multi-Voltage DCB105 XR Universal Charger",
+    "2 x 18 Volt 5.0Ah Li-Ion Batteries",
+    "1 x TOUGHSYSTEM™ DS150 Toolbox"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-aquaseal-liquid-roof-slate-grey-7kg.html-lllmstxt|>
+## Everbuild Aquaseal Liquid Roof Slate Grey 7kg
+
+{
+  "price": "€171.68 inc VAT (€139.58 exc.vat)",
+  "description": "Everbuild Aquaseal Liquid Roof is an easy to use, all weather roofing system which is ideal for waterproofing any flat or pitched roofs. Aquaseal Liquid Roof creates a solid, waterproof membrane that covers the entire surface area without any seams. It is a ready to use polyurethane based product that can be applied cold. Aquaseal Liquid Rood is ideal for use on roof areas for new projects, extensions or to refurbish an existing, leaky roof. It offers excellent adhesion to both porous and non-porous substrates. Colour: Slate Grey. Size: 7kg.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Aquaseal Liquid Roof Slate Grey 7kg",
+  "specifications": [
+    "Colour: Slate Grey",
+    "Size: 7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcs355-xr-brushless-oscillating-multi-tool.html-lllmstxt|>
+## DEWALT DCS355 XR Brushless Oscillating Multi-Tool
+
+{
+  "price": "from €125.99 inc VAT",
+  "description": "The DEWALT DCS355 XR Brushless Oscillating Multi-Tool delivers up to 57% more run time over brushed motors. It uses the Quick-Change Accessory System that allows blades and attachments to be changed without the use of tools. The Dual-Grip Variable Speed Trigger provides the ultimate speed and application control. It has a bright LED light that illuminates dark work surfaces for accurate cutting, whilst the depth control straight cut guide increases cutting accuracy for detailed work. Dust Extraction Adaptor supports use with DEWALT dust extraction vacuums. Universal Accessory Adaptor for use with most oscillating tool accessory brands.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCS355 XR Brushless Oscillating Multi-Tool",
+  "specifications": [
+    "No Load Speed: 0-20,000/min.",
+    "Length: 310mm.",
+    "Weight: 1.06kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwe6423-125mm-random-orbit-sander-280-watt.html-lllmstxt|>
+## DEWALT DWE6423 125mm Random Orbit Sander 280 Watt
+
+{
+  "price": "€117.99 inc VAT",
+  "description": "The DEWALT DWE6423 Random Orbit Sander has a variable speed motor that adjusts from 8,000-12,000 orbits per minute, providing the ideal sanding speed for all materials. Offering low vibration operation for extended usage without fatigue. With a controlled finishing system that controls pad speed and minimises gouging during start up. The sander has a textured anti-slip top and body grip that provides ultimate comfort and control during use. The dust-sealed switch prevents contamination and it's sealed 100% ball-bearing construction provides longer life. The sander also features a built in dust extraction port allowing direct connection to a dust extractor, or DEWALT AirLock system. Uses hook & loop paper for consistent adhesion and fast changing. Supplied with a fabric dust bag with built-in extractor ports.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DWE6423 125mm Random Orbit Sander 280 Watt",
+  "specifications": [
+    "Input Power: 280 Watt",
+    "No Load Speed: 8,000-12,000/min",
+    "Orbit Size: 2.6mm",
+    "Paper Size: 125mm",
+    "Weight: 1.28kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcs570-xr-brushless-184mm-circular-saw-18v.html-lllmstxt|>
+## DEWALT DCS570 XR Brushless 184mm Circular Saw 18V
+
+{
+  "price": "from €211.26 inc VAT",
+  "description": "The DEWALT DCS570 XR Brushless Circular Saw is ideal for general purpose ripping, cross-cutting and bevelling, for wood and other construction materials. It has a high torque brushless motor for improved durability and power on job site cutting tasks and joinery materials. With a precise cutting depth scale, up to 65mm and a variable bevel angle, up to 57°. Its stable block construction provides low vibration running and increased service life. With an additional handle for safe two-handed work.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCS570 XR Brushless 184mm Circular Saw 18V",
+  "specifications": [
+    "No Load Speed: 5,500/min",
+    "Max Cutting Depth @90º: 64mm",
+    "Blade: 184mm, 16mm Bore",
+    "Bevel Capacity: 57°"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-fjs-fuel-top-handle-jigsaw.html-lllmstxt|>
+## Milwaukee M18 FJS FUEL™ Top Handle Jigsaw
+
+{
+  "price": "from €199.99 inc VAT",
+  "description": "The Milwaukee M18 FJS FUEL™ Top Handle Jigsaw is fitted with a Milwaukee® designed and built brushless POWERSTATE™ motor for fast cutting and long tool life. The Milwaukee® patented FIXTEC blade clamp provides fast and easy blade change. Keyless bevel facility on the base plate allows for adjustment between 0-45°. With a 5-stage pendulum action for increased cutting performance. The detachable soft shoe avoids marks and scratches when cutting soft materials. A dust blower keeps the cut line free of wood dust and an integrated LED light provides workspace illumination. REDLINK PLUS™ intelligence system delivers an advanced digital overload protection for tool and battery and uniquely enhances the tool performance under load. REDLITHIUM-ION™ battery pack provides superior pack construction, electronics and fade-free performance to deliver more run time and more work over pack life. Flexible battery system that works with all Milwaukee® M18™ batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 FJS FUEL™ Top Handle Jigsaw",
+  "specifications": [
+    "Strokes No Load: 0-3,500/min.",
+    "Stroke Length: 25mm",
+    "Capacity: Wood 135mm, Metal 10mm",
+    "Bevel Capacity: 45°"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-hobby-53-13el-cordless-staplenail-gun-4v.html-lllmstxt|>
+## Tacwise Hobby 53-13EL Cordless Staple/Nail Gun 4V
+
+{
+  "price": "€37.99 inc VAT (€30.89 exc.vat)",
+  "description": "The Tacwise Hobby 53-13EL Cordless Staple/Nail Gun is powered by an integrated, rechargeable, 4V lithium-ion battery that delivers precise nailing and stapling without the wires. This versatile staple/nail gun is powerful and durable providing accurate results. Features an on/off LED light for precision and ease-of-use. Suitable for a wide range of DIY, hobby and more ambitious tasks at home or school, such as furniture upholstery, decorative work with different types of textiles as well as fastening canvas, leather, posters, netting, delicate mouldings, beading and frames etc. Supplied with: 1 x USB Charging Cable, 200 x 53/8mm Staples and 1 x Handy Neoprene Storage Bag. Backed by a 2-year guarantee when using Tacwise staples/nails.",
+  "availability": "In Stock",
+  "product_name": "Tacwise Hobby 53-13EL Cordless Staple/Nail Gun 4V",
+  "specifications": [
+    "Fires: 53 & 13 Staples: 6-12mm, 180/18g Brads: 10mm",
+    "Weight: 0.68kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcmst561-xr-brushless-string-trimmer.html-lllmstxt|>
+## DEWALT DCMST561 XR Brushless String Trimmer
+
+{
+  "price": "€215.43 inc VAT",
+  "description": "The DEWALT DCMST561 XR Brushless String Trimmer with automatic spool reloaded, its quick load spool allows for fast and easy line replacement. Quickly clears large areas, the variable speed trigger offers precise power control, as well as performance and run time management. With an innovative folding hinge mechanism that reduces the length by 40% for accessible storage and quick portability. Brushless motor gear drive design, providing more torque and maintaining cut speed under load.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCMST561 XR Brushless String Trimmer",
+  "specifications": [
+    "Line Cutting Speed: 0-4,600/0-6,000/min",
+    "Cutting Width: 36cm",
+    "Line Diameter: 2mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-4329-orbital-jigsaw.html-lllmstxt|>
+## Makita 4329 Orbital Jigsaw
+
+{
+  "price": "from €69.99 inc VAT",
+  "description": "The Makita 4329 Orbital Action Jigsaw has 3 orbit settings and a variable speed trigger. Its smooth, rigid aluminium base is rustproof and easily glides over the workpiece. Bevel cutting up to 45° left or right is also possible with the tiltable base. The ergonomic, lightweight design incorporates a counterweight balancing system which reduces vibration. A sliding dust cover improves dust collection and prevents the scattering of chips. Supplied with: 1 x Blade and 1 x Hex Wrench",
+  "availability": "In Stock",
+  "product_name": "Makita 4329 Orbital Jigsaw",
+  "specifications": [
+    "Input Power: 450W",
+    "No Load Speed: 500-1,300/min.",
+    "Stroke Length: 18mm",
+    "Capacity: Wood 65mm, Steel 6mm",
+    "Weight: 1.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-faithfull-7-piece-multi-tool-blade-set.html-lllmstxt|>
+## XMS Faithfull 7 Piece Multi-Tool Blade Set
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "This XMS 7 piece Multi-Function Tool Blade Set, from Faithfull, is one you must not miss, again the XMS price is right. This Faithfull Set contains a selection of the most popular blades for cutting wood, man-made boards and metal, and removing grout. Compatible with many multi-function oscillating power tools. The set comprises of: 3 x Multi-Function Tool CrV Flush Cut Wood Blades Side Set, 2 x 34mm and 68mm. This fast-cutting saw blade has a broad range of applications with ground, side set hardened teeth. Quick cutting performance in softwood, plastics, plasterboard, plastic pipes and similar materials. 2 x Multi-Function Tool Bi-Metal Flush Cut Wood/Metal Blade 22mm. The HSS wavy set teeth on this bi-metal blade make it ideal for sawing wood, copper and aluminium pipes, sheet metal, plastics and profiles. Ideal for many flush cutting applications and plunge cutting in plasterboard. 1 x Multi-Function Tool Bi-Metal Radial Blade Wood/Metal 87mm. The HSS wavy set teeth on this bi-metal blade make it ideal for sawing wood, copper and aluminium pipes, sheet metal, plastics and profiles. Ideal for cutting veneered and laminated boards as well as parquet in flooring and partition wall applications. 1 x Multi-Function Tool Radial Carbide Grit Blade 65mm. Ideal for a broad range of applications with carbide grit edge. Cuts tiles, plaster, porous concrete and similar construction materials. Suitable for cutting out a damaged tile joint and for cutting grooves in plaster, porous concrete and similar construction materials.",
+  "availability": "In Stock",
+  "product_name": "XMS Faithfull 7 Piece Multi-Tool Blade Set",
+  "specifications": [
+    "3 x Multi-Function Tool CrV Flush Cut Wood Blades Side Set, 2 x 34mm and 68mm",
+    "2 x Multi-Function Tool Bi-Metal Flush Cut Wood/Metal Blade 22mm",
+    "1 x Multi-Function Tool Bi-Metal Radial Blade Wood/Metal 87mm",
+    "1 x Multi-Function Tool Radial Carbide Grit Blade 65mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25614k-sds-max-combination-hammer.html-lllmstxt|>
+## DEWALT D25614K SDS Max Combination Hammer
+
+{
+  "price": "€654.40 inc VAT",
+  "description": "The DEWALT D25614K SDS Max Combination Hammer is ideal for drilling anchors and fixing holes into concrete, brick and masonry up to 45mm in diameter. With electronic speed and impact energy control. It has a rotation stop mode with a lock-on switch for chiselling. The ergonomic, compact and slimline design maximises control and offers easy access to confined spaces. An anti-rotation system detects a loss of tool control and reacts by instantly cutting the power.\n\nTool Connect ready (tag is NOT included) provides the option for jobsite connectivity for inventory management.\n\nCompatible with the Wireless Tool Control transmitter, which allows the tool to be wirelessly paired with another Wireless Tool Control device, such as a dust extractor, for automatic activation and shut down.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25614K SDS Max Combination Hammer",
+  "specifications": [
+    "Input Power: 1350W",
+    "No Load Speed: 190-380/min.",
+    "Impact Rate: 1,450-2,900/bpm",
+    "Impact Energy: 10.5 joules",
+    "Max. Drilling Diameter: 45mm",
+    "Max. Core Diameter: 125mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black-and-decker-beh850k-hammer-drill-850w-240v--kitbox.html-lllmstxt|>
+## Black & Decker BEH850K Hammer Drill 850W 240V + Kitbox
+
+{
+  "price": "€97.38 inc VAT (€79.17 exc.vat)",
+  "description": "The Black & Decker BEH850K Hammer Drill is suitable for home drilling. It has variable speed and a secondary handle to provide additional control. Supplied with: 3 x Masonry Dill Bits: 4, 6, 8mm, 3 x HSS Drill Bits: 4, 6, 8mm, 1 x Side Handle and 1 x Kitbox.",
+  "availability": "In Stock",
+  "product_name": "Black & Decker BEH850K Hammer Drill 850W 240V + Kitbox",
+  "specifications": [
+    "Input Power: 850W",
+    "No Load Speed: 0-3,100/min.",
+    "Impact Rate: 54,400/bpm",
+    "Capacity: Steel 13mm, Masonry 16mm, Wood 32mm",
+    "Cable Length: 3m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hp1640-percussion-drill-13mm-keyed-chuck.html-lllmstxt|>
+## Makita HP1640 Percussion Drill 13mm Keyed Chuck
+
+{
+  "price": "€104.24 inc VAT",
+  "description": "The Makita HP1640 Percussion Drill is fitted with a 13mm Keyed Chuck. It has a variable speed trigger and forward/reverse rotation for increased control. The tool is double insulated for increased user safety. It is supplied with a side handle and a depth stop.",
+  "availability": "In Stock",
+  "product_name": "Makita HP1640 Percussion Drill 13mm Keyed Chuck",
+  "specifications": [
+    "Input Power: 680W",
+    "No Load Speed: 0-2,800/min.",
+    "Impact Rate: 0-44,800/bpm",
+    "Capacity: Masonry 16mm, Steel 13mm, Wood 30mm",
+    "Weight: 2.0kg",
+    "Vibration Hammer Drilling: 19 m/sec²",
+    "Vibration K Factor: 2 m/sec²",
+    "Noise Sound Power: 103 dB(A)",
+    "Noise Sound Pressure: 92 dB(A)",
+    "Noise K Factor: 3 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hp1641-percussion-drill-keyless-chuck-680w.html-lllmstxt|>
+## Makita HP1641 Percussion Drill Keyless Chuck 680W
+
+{
+  "price": "from €99.99 inc VAT",
+  "description": "The Makita HP1641 Percussion Drill has a dual purpose for Rotation only and Rotation with hammering (with keyless drill chuck). The new reversing system allows extended service life of carbon brush; no power reduction even in reverse rotation. Variable speed control via a larger trigger gives the user more control. It is fitted with an in-line positive grip design maximises power thrust.",
+  "availability": "In Stock",
+  "product_name": "Makita HP1641 Percussion Drill Keyless Chuck 680W",
+  "specifications": [
+    "Input Power: 680W",
+    "No Load Speed: 0-2,800/min.",
+    "Impact Rate: 0-44,800/bpm",
+    "Capacity: Steel 13mm, Masonry 16mm, Wood 30mm",
+    "Weight: 2.0kg",
+    "Vibration Drilling: 2 m/sec²",
+    "Vibration Hammer Drilling: 19 m/sec²",
+    "Vibration K Factor: 2 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hp2050-percussion-drill.html-lllmstxt|>
+## Makita HP2050 Percussion Drill
+
+{
+  "price": "€208.48 inc VAT",
+  "description": "The Makita HP2050 Percussion Drill has an extra low vibration level for comfortable operation with decreased levels of fatigue. It is fitted with a torque limiter, the drill stops when the bit hits against reinforcements. It is equipped with a keyless drill chuck. The two mechanical gears and variable speed trigger makes it ideal for various materials. It is supplied with a side handle, depth stop and a carry case.",
+  "availability": "In Stock",
+  "product_name": "Makita HP2050 Percussion Drill",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "Input Power: 720W",
+    "No Load Speed: 0-1,200/0-2,900/min.",
+    "Impact Rate: 0-24,000/0-58,000/bpm",
+    "Capacity: Steel 13mm, Masonry 20mm, Wood 40mm",
+    "Weight: 2.5kg",
+    "Vibration Drilling: 2.5 m/sec²",
+    "Vibration Hammer Drilling: 13 m/sec²",
+    "Vibration K Factor: 3 m/sec²",
+    "Noise Sound Power: 108 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hp2070-2-speed-percussion-drill.html-lllmstxt|>
+## Makita HP2070 2-Speed Percussion Drill
+
+{
+  "price": "€273.42 inc VAT",
+  "description": "The Makita HP2070 2-Speed Percussion Drill with a reversing system that prevents the speed reduction of the motor in reverse rotation. There is a mechanical 2-speed, and electronic speed adjusting dial for presetting maximum speed. The torque limiter prevents damage. The drill stops when the bit hits against reinforcements. It is also fitted with a keyed chuck. It is supplied with a side handle, depth stop and a carry case.",
+  "availability": "In Stock",
+  "product_name": "Makita HP2070 2-Speed Percussion Drill",
+  "specifications": [
+    "Input Power: 1,010W",
+    "No Load Speed: 0-1,200/0-2,900/min.",
+    "Impact Rate: 0-24,000/0-58,000/bpm",
+    "Capacity: Steel 18mm, Masonry 20mm, Wood 40mm",
+    "Weight: 2.4kg",
+    "Vibration Hammer Drilling: 16 m/sec²",
+    "Vibration K Factor: 1.5 m/sec²",
+    "Noise Sound Pressure: 99 dB(A)",
+    "Noise Sound Power: 110 dB(A)",
+    "Noise K Factor: 3 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d024k-13mm-percussion-drill-650-watt-240-volt.html-lllmstxt|>
+## DEWALT D024K 13mm Percussion Drill 650 Watt 240 Volt
+
+{
+  "price": "€127.38 inc VAT",
+  "description": "The DEWALT D024K percussion drill has been designed with low weight in mind to ensure the drill is easy to use and to help reduce user fatigue on long drilling applications. The compact design of this DEWALT drill enables comfortable use and allows access to tight spaces. With the excellent power to size ratio, this results in a powerful, durable drill, but in a compact size. There is a sensitive soft trigger with variable speed switch which allows a user to drill slowly for precision accuracy when starting to drill a hole, while the rubber back handle increases comfort to the user in drilling and hammer drilling applications. The lock-on button gives the user the option to keep the machine continually running when doing repetitive operations. The DEWALT 024K is a good all-round drill for drilling in concrete, masonry, steel, wood and fixings. Supplied with: chuck key, multi-position side handle, depth stop, and a heavy-duty carrying case.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D024K 13mm Percussion Drill 650 Watt 240 Volt",
+  "specifications": [
+    "Chuck Capacity: 1.5-13mm",
+    "Power Input: 650 Watts",
+    "Power Output: 302 Watts",
+    "Max Torque: 8.6 Nm",
+    "No Load Speed: 0-2,800 rpm",
+    "Blows per Minute: 0-47,600 bpm",
+    "Max. Drilling Capacity: Wood 25 mm, Steel 13 mm, Concrete 16 mm",
+    "Spindle Thread: 1/2-inch x 20 U.N.F.",
+    "Weight: 1.82 kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-hammer-drill-600w-240v.html-lllmstxt|>
+## Olympia Power Tools Hammer Drill 600W 240V
+
+{
+  "price": "€38.56 inc VAT (€31.35 exc.vat)",
+  "description": "Olympia Tools® Hammer Drill with a powerful motor that offers hammer and rotary drilling. For ease of use, it has a variable speed pre-selection dial. It also offers forward and reverse rotation. Supplied with a side handle and depth gauge.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools Hammer Drill 600W 240V",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "Input Power: 600W",
+    "No Load Speed: 0-3,000/min.",
+    "Impact Rate: 0-50,400/bpm",
+    "Capacity: Masonry 13mm, Steel 10mm, Wood 20mm",
+    "Weight: 1.97kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-kango-500s-breaker-sds-max-reception-1300-watt-110-volt.html-lllmstxt|>
+## Milwaukee Kango 500S Breaker SDS Max Reception 1300 Watt 110 Volt
+
+{
+  "price": "€896.73 inc VAT (€729.05 exc.vat)",
+  "description": "The Milwaukee Kango 500S Breaker is a 5kg class breaking hammer with constant electronics to keep the speed uniform, even under load. It has AVS (Anti-Vibration-System), soft grip on front and back handle to maximise user comfort. A lock-on switch further ensures a comfortable extended use. The Kango 500S has a D-shaped front handle, which is fully adjustable and ideally designed for chipping work. A Variolock with 12 positions allows selection of the most appropriate chisel angle. The breaker's soft hammer mode reduces blow energy for chiselling in sensitive materials, and its soft start ensures a precise start of chiselling.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Kango 500S Breaker SDS Max Reception 1300 Watt 110 Volt",
+  "specifications": [
+    "Input Power: 1,300 Watt",
+    "Impact Rate: 2,840/bpm with 8.5 Joules",
+    "Tool Holder: SDS-Max",
+    "Weight: 6.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25899k-sds-max-demolition-hammer-1500-watt.html-lllmstxt|>
+## DEWALT D25899K SDS Max Demolition Hammer 1500 Watt
+
+{
+  "price": "€753.87 inc VAT",
+  "description": "The DEWALT D25899K SDS Max Demolition Hammer (10kg class) is a powerful yet lightweight Breaker with in-line design for better handling and quick-change chisel adjustment for fast orientation of the chisel through 12 preset positions. The large oversize hammer mechanism delivers extreme durability and excellent concrete breaking performance. Its ergonomic inline design ensures user comfort during any application. Whilst its compact, streamlined design allows access in confined areas. In line design for better handling and quick change chisel adjustment allows fast orientation of the chisel through 12 preset positions. Modular design allows for quick access to key components allowing for faster and cheaper servicing. 1500 Watt, 95 mm motor delivers outstanding motor efficiency and durability, magnesium housings ensure maximum durability and minimum weight. Multi adjustable side handle can be located anywhere on the hammer barrel, maintaining user comfort in any application. Supplied with: 1 x Multi Position Side Handle and 1 x Heavy-Duty Carrying Case.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25899K SDS Max Demolition Hammer 1500 Watt",
+  "specifications": [
+    "Input Power: 1,500 Watt",
+    "Impact Rate: 1,020-2,040/bpm with 25 Joules",
+    "Chuck: SDS Max",
+    "Length: 650mm",
+    "Height: 250mm",
+    "Weight: 9.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25902k-sds-max-demolition-hammer-1550-watt.html-lllmstxt|>
+## DEWALT D25902K SDS Max Demolition Hammer 1550 Watt
+
+{
+  "price": "€1,644.92 inc VAT",
+  "description": "DEWALT D25902K 10Kg SDS Max Demolition Hammer has a powerful and durable 1,550 Watt motor which delivers outstanding concrete breaking performance, with Active Vibration Control system. It incorporates a counterbalance mass and a floating handle delivers extremely low vibration. Its in-line design makes for better handling and its quick change chisel adjustment allows fast orientation of the chisel through 12 preset positions.\n\nIts magnesium housings ensure maximum durability and minimum weight. Its compact size allows for work to be completed in confined areas. The large oversize hammer mechanism delivers extreme durability and excellent concrete breaking performance.\n\nSupplied with: 1 x Multi Position Side Handle, 1 x Chisel Bit and 1 x Heavy-Duty Carrying Case.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25902K SDS Max Demolition Hammer 1550 Watt",
+  "specifications": [
+    "Mode: Chisel Only",
+    "Input Power: 1,550 Watt",
+    "Impact Rate: 1,020-2,040/bpm, 19 Joules",
+    "Tool Holder: SDS Max",
+    "Weight: 10.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-kango-900k-breaker-k-steel-reception-1600-watt.html-lllmstxt|>
+## Milwaukee Kango 900K Breaker K Steel Reception 1600 Watt
+
+{
+  "price": "€1,435.87 inc VAT",
+  "description": "The Milwaukee Kango 900K Breaker K Steel Reception, has a highly robust design with fewer vulnerable parts and high motor power input for enhanced reliability and durability. This breaker offers superior performance with high blow energy of 27 joules. The AVS (Anti Vibration System) is incorporated on all handles (rear, additional front spade and straight handle), and with soft-grip to decrease user fatigue. Other features include: full-wave digital electronics, variable speed electronic, softstart, no load speed limitation, lock on switch, service indicator light, automatic cut off carbon brushes, and speed preselection switch (A - G). Comes supplied with a heavy-duty carry case, 6 metre cable, front spade handle, straight handle, dust shield and grease.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Kango 900K Breaker K Steel Reception 1600 Watt",
+  "specifications": [
+    "Mode: Chisel Only",
+    "Input Power: 1,600 Watt",
+    "Impact Rate: 975-1,950/bpm, 7-27 Joules",
+    "Tool Holder: K Hex 21mm",
+    "Weight: 11kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25981-28mm-hex-pavement-breaker-30kg.html-lllmstxt|>
+## DEWALT D25981 28mm HEX Pavement Breaker 30kg
+
+{
+  "price": "€1,933.78 inc VAT",
+  "description": "The DEWALT D25981 28mm HEX Pavement Breaker delivers outstanding efficiency and durability. Its large, over sized mechanism delivers excellent breaking performance. With Active Vibration Control (AVC) for safer, more comfortable use and increased productivity. The Suspended Handle System absorbs the rebound and, working with the AVC, delivers the lowest vibration on the market. Fitted with a heavy-duty electronic module for constant power under load. It has an easy to service design, reducing repair costs. Ideal for breaking concrete floors, paths and pavements as well as road and asphalt working.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25981 28mm HEX Pavement Breaker 30kg",
+  "specifications": [
+    "Input Power: 1,800 Watt",
+    "Impact Rate: 960/bpm",
+    "Impact Energy: 62 Joules",
+    "Tool Holder: 28mm HEX",
+    "Weight: 31kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hm1214c-avt-demolition-hammer-1500w-110v.html-lllmstxt|>
+## Makita HM1214C AVT Demolition Hammer 1500W 110V
+
+{
+  "price": "€1,200.79 inc VAT (€976.25 exc.vat)",
+  "description": "The Makita HM1214C AVT Demolition Hammer is a 10kg class demolition hammer adapted for SDS Max bits. Uses AVT (Active dynamic Vibration absorber Technology) for reduced vibration during chipping and suppression of motor speed during no load for reduced vibration when idling. Its in-line tool design is perfect for downward vertical applications. Produces constant speed, even under load and the soft start restricts the initial inrush to provide a controllable ramp-up of speed. Fitted with a one touch sliding chuck for easy bit installation and removal. There is also an LED lamp that indicates when it's time to replace the carbon brushes. Supplied with: 1 x SDS Max Bull Point Chisel, 1 x Tube of Bit Grease, 1 x Side Handle and 1 x Carry Case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita HM1214C AVT Demolition Hammer 1500W 110V",
+  "specifications": [
+    "Mode: Chisel Only",
+    "Input Power: 1,500W",
+    "Impact Rate: 950-1,900/bpm",
+    "Impact Energy: 19.9 joules",
+    "Chuck: SDS Max",
+    "Bit Angle Setting: 12 Stage",
+    "Weight: 11.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hm1317c-30mm-hex-avt-demolition-hammer-1510w-110v.html-lllmstxt|>
+## Makita HM1317C 30mm Hex AVT Demolition Hammer 1510W 110V
+
+{
+  "price": "€1,292.61 inc VAT (€1,050.90 exc.vat)",
+  "description": "The Makita HM1317C Demolition Hammer offers high durability and excellent demolition performance. Suppression of motor speed during no load reduces vibration of the tool body. The unique Makita AVT Anti-Vibration Technology design employs the pneumatic pressure created in the drill's hammer piston chamber, to move a counter balance in the opposite direction, reducing the impact vibrations at the steel point. This dramatically reduces vibration. Supplied with: 1 x Bull Point, 1 x Side Handle and 1 x Carrying Case.",
+  "availability": "In Stock",
+  "product_name": "Makita HM1317C 30mm Hex AVT Demolition Hammer 1510W 110V",
+  "specifications": [
+    "Input Power: 1,510W",
+    "No Load Speed: 730-1,450/min.",
+    "Impact Energy: 21 joules",
+    "Shank Size: 30mm",
+    "Weight: 17kg",
+    "Vibration Chiselling: 8.5 m/sec²",
+    "Vibration K Factor: 1.5 m/sec²",
+    "Noise Sound Power: 101 dB(A)",
+    "Noise Sound Pressure: 81 dB(A)",
+    "Noise K Factor: 2.4 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hm0810t-17mm-af-hex-demolition-hammer.html-lllmstxt|>
+## Makita HM0810T 17mm A/F Hex Demolition Hammer
+
+{
+  "price": "€479.80 inc VAT",
+  "description": "The Makita HM0810T A/F Hex Demolition Hammer has a compact, lightweight design and is fitted with a 17mm A/F Hex shank. It utilises AVT Anti-Vibration Technology; the anti-vibration spring is positioned between tool body and rear handle for reduced operator fatigue. A one-touch tool retainer provides easy accessory installation and removal. Supplied with: 1 x Bull Point, 2 x Hex Wrenches (4/5mm), 1 x Side Handle and 1 x Carry Case",
+  "availability": "In Stock",
+  "product_name": "Makita HM0810T 17mm A/F Hex Demolition Hammer",
+  "specifications": [
+    "Input Power: 900W",
+    "Impact Rate: 2,900/bpm",
+    "Impact Energy: 8.5 joules",
+    "Shank: 17mm A/F Hex",
+    "Weight: 6.0kg",
+    "Vibration Chiselling: 14 m/sec²",
+    "Vibration K Factor: 1.5 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hm0870c-sds-max-demolition-hammer.html-lllmstxt|>
+## Makita HM0870C SDS Max Demolition Hammer
+
+{
+  "price": "€542.06 inc VAT (€440.70 exc.vat)",
+  "description": "The Makita HM0870C SDS Max Demolition Hammer is fitted with electronic speed control for maximum productivity and long-life carbon brushes for maximum output. It has a hammer only action and has been adapted for SDS Max Bits. The tool is fitted with a variable speed trigger for more control and has been double insulated for added safety. Supplied with: 1 x Bit Grease, 1 x Side Handle, 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Makita HM0870C SDS Max Demolition Hammer",
+  "specifications": [
+    "Input Power: 1,100W",
+    "Impact Rate: 1,100-2,650/bpm",
+    "Impact Energy: 7.6 joules",
+    "Weight: 5.1kg",
+    "Vibration Chiselling: 11m/sec²",
+    "Vibration K Factor: 1.5m/sec²",
+    "Noise Sound Power: 98 dBA",
+    "Noise Sound Pressure: 87 dBA",
+    "Noise K Factor: 3 dBA"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hm1203-sds-max-demolition-hammer.html-lllmstxt|>
+## Makita HM1203 SDS Max Demolition Hammer
+
+{
+  "price": "€965.98 inc VAT",
+  "description": "The Makita HM1203 SDS Max Demolition Hammer is highly durable machine with an excellent demolition performance. It has been adapted for SDS Max bits and the bit can be set at 12 positions for convenience. It has a large carbon brush and an LED lamp which indicates when a replacement is required. The one touch sliding chuck provides easy bit installation and removal. The tool is fitted with a variable speed control trigger and offers constant speed under load. The double insulation provides additional safety for the user. It is supplied with a bull point, bit grease, side handle and carrying case.",
+  "availability": "In Stock",
+  "product_name": "Makita HM1203 SDS Max Demolition Hammer",
+  "specifications": [
+    "Input Power: 1,500W",
+    "Impact Rate: 950-1,900/bpm",
+    "Impact Energy: 19.1 joules",
+    "Bit Angle Setting: 12 Stage",
+    "Weight: 9.7kg",
+    "Vibration Chiselling: 15.5 m/sec²",
+    "Vibration K Factor: 1.5 m/sec²",
+    "Noise Sound Pressure: 81 dB(A)",
+    "Noise Sound Power: 95 dB(A)",
+    "Noise K Factor: 2.19 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hm1812-avt-electric-breaker.html-lllmstxt|>
+## Makita HM1812 AVT Electric Breaker
+
+{
+  "price": "€1,671.07 inc VAT",
+  "description": "The Makita HM1812 AVT Electric Breaker is a 30kg class electric breaker that features best-in-class power. These robust machines are equipped with vibration absorbing housing, providing a practical combination of high power and low vibration. The counterweight mechanism reduces vibration when chipping. A soft no load function automatically reduces the motor speed during idling to suppress the vibration of the machine body. LEDs indicate when to replace carbon brush. The name plate and serial label have been positioned to prevent scratches and damage. The breaker can be attached to a dust extractor. Compatible with Hammer Trolley (NOT supplied).",
+  "availability": "In Stock",
+  "product_name": "Makita HM1812 AVT Electric Breaker",
+  "specifications": [
+    "Mode: Chisel Only",
+    "Input Power: 240V 2,000W, 110V 1,700W",
+    "Impact Rate: 870/bpm",
+    "Impact Energy: 78.2 joules",
+    "Tool Holder: Hex 1.1/4in",
+    "Weight: 31.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hr4013c-40mm-avt-sds-max-rotary-hammer.html-lllmstxt|>
+## Makita HR4013C 40mm AVT SDS Max Rotary Hammer
+
+{
+  "price": "€1,091.07 inc VAT",
+  "description": "The Makita HR4013C 40mm AVT SDS Max Rotary Hammer has been developed to provide higher operating efficiency and more comfort with an unrivalled low level of vibration. It has a one touch sliding chuck for easy bit installation and removal and an easy to operate operation-mode change lever. This is located on the top of the motor housing for reduced possibility of breakage. The soft no load function automatically reduces the motor speed during idling to suppress the vibration of the machine body. There is a handy LED service light that indicates when to replace carbon brush, preventing additional damage to the gearings. The vibration absorbing housing offers unrivalled low level of vibration. In hammering mode, the on/off switch is switchable between two switches to meet your application, for Continuous or Intermittent chiselling applications.",
+  "availability": "In Stock",
+  "product_name": "Makita HR4013C 40mm AVT SDS Max Rotary Hammer",
+  "specifications": [
+    "Input Power: 1,000W",
+    "No Load Speed: 250-500/min.",
+    "Impact Rate: 1,450-2,900/bpm",
+    "Impact Energy: 8.0 joules",
+    "Max in Concrete: 40mm",
+    "Weight: 6.8kg",
+    "Vibration K factor1.5 m/sec²",
+    "Vibration: Chiselling4.5 m/sec²",
+    "Vibration: Hammer Drilling: 5 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hr4511c-sds-max-avt-rotary-demolition-hammer.html-lllmstxt|>
+## Makita HR4511C SDS Max AVT Rotary Demolition Hammer
+
+{
+  "price": "€1,132.77 inc VAT",
+  "description": "The Makita HR4511C SDS Max AVT Rotary Demolition Hammer has 2 modes of operation: Rotary Hammer and Hammer only. It is fitted with an anti-vibration system for ultra-low vibration. It is fitted with a padded, spring loaded, hinged rubberised grip and comes with 2 side handles for increased control. It has a torque limiter so when drill hits reinforcement the torque limiter stops power and a recessed change lever that is mounted on top of machine to reduce breakage even if machine is dropped or laid down carelessly. The drill is double insulated for increased safety. Supplied with: 1 x Bit Grease, 1 x Depth Stop, 2 x Side Handles and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Makita HR4511C SDS Max AVT Rotary Demolition Hammer",
+  "specifications": [
+    "Input Power: 1,350W",
+    "No Load Speed: 130-280/min.",
+    "Impact Rate: 1,250-2,750/bpm",
+    "Impact Energy: 9.4 Joules",
+    "Capacity: Concrete 45mm, TCT Core 125mm",
+    "Weight: 9.0kg",
+    "Vibration Chiselling: 7.0 m/sec²",
+    "Vibration Hammer Drilling: 7.5 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hr4003c-rotary-demolition-hammer.html-lllmstxt|>
+## Makita HR4003C Rotary Demolition Hammer
+
+{
+  "price": "€792.24 inc VAT",
+  "description": "The Makita HR4003C Rotary Demolition Hammer has been developed to provide higher operating efficiency and more comfort with unrivalled low level of vibration. With both constant and variable speed control for increased control, even in demanding applications. The torque limiter increases user safety. It offers 2-modes of operation: rotation with hammering and hammer only. The easy-to-use operation-mode change lever is located on the top of the motor housing for reduced possibility of breakage. In hammering mode, the on/off switch is switchable between two switches to meet your application: for Continuous or Intermittent chiselling applications. Fitted with a one-touch sliding chuck for easy bit installation and removal. Adapted for SDS Max bits. There is also an LED service light that indicates when to replace the carbon brush. Supplied with: 1 x Side Handle, 1 x Depth Stop, 1 x Bit Grease and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Makita HR4003C Rotary Demolition Hammer",
+  "specifications": [
+    "Tool Holder: SDS Max",
+    "Input Power: 1,100W",
+    "No Load Speed: 250-500/min.",
+    "Impact Rate: 1,450-2,900/bpm",
+    "Impact Energy: 8.3 joules",
+    "Max. Drilling Capacity: Concrete 40mm",
+    "Optimum Drilling Range: 16-35mm",
+    "Max. Core Diameter (TCT): 105mm",
+    "Weight: 6.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25911k-sds-max-demolition-hammer-11kg-110v.html-lllmstxt|>
+## DEWALT D25911K SDS-Max Demolition Hammer 11kg 110V
+
+{
+  "price": "€1,006.90 inc VAT (€818.62 exc.vat)",
+  "description": "DEWALT D25911K SDS-Max Demolition Hammer with a brushless motor offers increased durability with reduced maintenance. A handy LED service indicator lets you know when its time for a service. Delivers 27 Joules of impact energy for the toughest demolition jobs on site. 12 chisel positions allow you to tailor the orientation of flat chisels. Fitted with an SDS-Max tool holder for a wide variety of readily available accessories. Despite its high performance this demolition hammer has low vibration of 7.0m/s2 thanks to a floating mechanism, for fully encased vibration reduction. Minimises user fatigue and increasing productivity. Compatible with DWH051 dust extraction adaptor for dust-free operation.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25911K SDS-Max Demolition Hammer 11kg 110V",
+  "specifications": [
+    "Tool Holder: SDS-Max",
+    "Current Input: 16 A",
+    "Impact Rate: 810–1,620/bpm, 27 joules",
+    "Chisel Positions: 12",
+    "Weight: 12.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25966l-hex-demolition-hammer-1800w-110v.html-lllmstxt|>
+## DEWALT D25966L HEX Demolition Hammer 1800W 110V
+
+{
+  "price": "€1,528.67 inc VAT (€1,242.82 exc.vat)",
+  "description": "The DEWALT D25966L HEX Demolition Hammer delivers 41 Joules of impact energy for the toughest demolition jobs on site. Despite its high performance this demolition hammer has low vibration of 6.8m/s2 thanks to a floating mechanism. Its smaller and less intrusive tool holder offers reduced weight and improved chisel visibility. The 28mm HEX toolholder offers a wide variety of readily available accessories. It also features removeable side handles, ideal for trench work and an LED service indicator. The unit is Tool Connect tag ready (tag not included) offering the capability of supporting inventory management via the Tool Connect app. It is also Wireless Tool Control compatible. This allows the tool to be wirelessly paired with another Wireless Tool Control device, such as a dust extractor, for automatic activation and shut down.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT D25966L HEX Demolition Hammer 1800W 110V",
+  "specifications": [
+    "Tool Holder: 28mm Hex.",
+    "Voltage: 110V.",
+    "Input Power: 1,800W.",
+    "Impact Rate: 1,080/bpm.",
+    "Impact Energy: 41 Joules.",
+    "Vibration Level: 6.8m/s².",
+    "Weight 18.8kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hm004gz04-xgt-80vmax-breaker-80v-bare-unit.html-lllmstxt|>
+## Makita HM004GZ04 XGT 80Vmax Breaker 80V Bare Unit
+
+{
+  "price": "€2,011.71 inc VAT (€1,635.54 exc.vat)",
+  "description": "The Makita HM004G XGT 80Vmax Breaker has a high power brushless motor that provides the same efficiency as corresponding AC model. Soft start suppresses start-up reaction for more control and better accuracy. Constant speed control automatically applies additional power to the motor to maintain speed under load to complete the most challenging jobs. The battery protection circuit protects against overloading, over-discharging and over-heating. Auto-Start Wireless System (AWS) compatible, connects to the power tool via Bluetooth®. It also features twin LED lights with pre-glow and afterglow functions for better illumination and more accurate work.",
+  "availability": "Out of Stock",
+  "product_name": "Makita HM004GZ04 XGT 80Vmax Breaker 80V Bare Unit",
+  "specifications": [
+    "Impact Rate: 870/min.",
+    "Impact Energy: 72.8 Joules.",
+    "Hex Shank: 28.6mm.",
+    "Weight: 28.2kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-dh-12-sds-max-demolition-hammer-1050w-240v.html-lllmstxt|>
+## Einhell TE-DH 12 SDS Max Demolition Hammer 1050W 240V
+
+{
+  "price": "€188.78 inc VAT (€153.48 exc.vat)",
+  "description": "The Einhell TE-DH 12 SDS Max Demolition Hammer is equipped with a rugged SDS-max tool chuck. The ideal helper for really tough jobs when performing home construction work such as demolishing parts of walls or tearing out floor and wall coverings. For low-vibration operation it has a vibration-absorbing handle and an adjustable additional handle. In spite of its impact force this tool is also easy to handle and, thanks to the extra-long and robust rubber cable, is also highly versatile. Equipped with a pointed chisel and a flat chisel, the TE-DH 12 demolition hammer from Einhell is ready for immediate action. Supplied in transport and storage case E-Box.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-DH 12 SDS Max Demolition Hammer 1050W 240V",
+  "specifications": [
+    "Input Power: 1,050W",
+    "Impact Rate: 4,100/bpm, 12 joules",
+    "Chuck: SDS Max",
+    "Power Cord: 400cm H07RN-F",
+    "Weight: 6.75kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-dh-5-sds-plus-demolition-hammer-750w-240v.html-lllmstxt|>
+## Einhell TE-DH 5 SDS Plus Demolition Hammer 750W 240V
+
+{
+  "price": "€121.11 inc VAT (€98.46 exc.vat)",
+  "description": "The Einhell TE-DH 5 SDS Plus Demolition Hammer is compact and powerful, ideal for lightweight demolition tasks during renovation and refurbishment work. The SDS Plus tool adaptor allows for quick tool change, which is compatible with SDS Plus accessories. Thanks to the vibration-damped handle, low-vibration work is possible with the demolition hammer. The adjustable additional handle also provides a firm, secure hold. A 4m long, robust rubber cable ensures maximum mobility. Equipped with a pointed chisel and a flat chisel, the TE-DH 5 demolition hammer from Einhell is ready for immediate action. Supplied in transport and storage case E-Box.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-DH 5 SDS Plus Demolition Hammer 750W 240V",
+  "specifications": [
+    "Input Power: 750W",
+    "Impact Rate: 4,300/bpm, 5 joules",
+    "Chuck: SDS Plus",
+    "Power Cord: 400cm H07RN-F",
+    "Weight: 3.95kg"
+  ]
+}
+

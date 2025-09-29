@@ -1,0 +1,958 @@
+<|https://www.mydiy.ie/products/dewalt-dcf899hn-xr-brushless-hog-ring-high-torque-impact-wrench-18-volt-bare-unit.html-lllmstxt|>
+## DEWALT DCF899HN XR Brushless Hog Ring High Torque Impact Wrench 18 Volt Bare Unit
+
+{
+  "price": "€416.40 inc VAT (€338.54 exc.vat)",
+  "description": "The DEWALT DCF899HN XR Brushless Hog Ring High Torque Impact Wrench with 3 speed and torque settings that gives you the control to best suit your application. The 1/2in (13mm) square drive with hog ring allows for more efficient torque delivery and excellent socket retention. It is fitted with a comfortable rubber XR grip and switch for greater application comfort and maximum control. It has a powerful fan cooled motor that delivers up to 950Nm of torque and 2400 impacts per minute for heavy duty fastening applications. It also provides up to 1625Nm of breakaway torque, that ensures removal of the tightest bolts. The bright white LED with a delay feature provides improved visibility and flashlight functionality.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCF899HN XR Brushless Hog Ring High Torque Impact Wrench 18 Volt Bare Unit",
+  "specifications": [
+    "Bit Holder: 1/2in Hog Ring",
+    "No Load Speed: 0-400/0-1,200/0-1,900/min",
+    "Impacts Rate: 0-2,400/bpm",
+    "Max. Torque: 950Nm",
+    "Breakaway Torque: 1,625Nm",
+    "Max. Bolt Diameter: M20",
+    "Length: 224mm",
+    "Height: 225mm",
+    "Weight: 2.62kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-ir-201b-14in-sub-compact-impact-ratchet-12-volt-1-x-20ah-li-ion.html-lllmstxt|>
+## Milwaukee M12 IR-201B 1/4in Sub Compact Impact Ratchet 12 Volt 1 x 2.0Ah Li-Ion
+
+{
+  "price": "€384.26 inc VAT (€312.41 exc.vat)",
+  "description": "The Milwaukee M12 IR-201B 1/4in Sub Compact Impact Ratchet has a compact design that is ideal for tight spaces and small engine bays. It's reinforced housing provides high durability similar to steel ratchets. It's variable speed metal paddle switch trigger provides greater user control during application. On board fuel gauge and LED light offer added user convenience and illumination in low lit working conditions. Has the best in class power and speed with 47Nm of torque and a no load speed of 250/rpm. REDLINK™ overload protection electronics in tool and battery pack deliver best in class system durability. Individual battery cell monitoring optimises tool run time and ensures long term pack durability. REDLITHIUM-ION™ battery pack delivers up to 2x more run time, up to 20% more power, up to 2x more battery life and operates better down to -20°C than other lithium-ion technologies. Flexible battery system, works with all Milwaukee® M12™ batteries. Supplied with 1 x 12 Volt 2.0Ah Li-Ion Battery, 1 x Charger and 1 x Tool Bag.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M12 IR-201B 1/4in Sub Compact Impact Ratchet 12 Volt 1 x 2.0Ah Li-Ion",
+  "specifications": [
+    "Bit Holder: 1/4in Square",
+    "No Load Speed: 0-250/min",
+    "Max Torque: 40Nm",
+    "Length: 274mm",
+    "Weight: 0.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-oneiwf38-0-fuel-one-key-38in-fr-impact-wrench-18-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M18 ONEIWF38-0 Fuel™ ONE-KEY™ 3/8in FR Impact Wrench 18 Volt Bare Unit
+
+{
+  "price": "€182.58 inc VAT (€148.44 exc.vat)",
+  "description": "The Milwaukee M18 ONEIWF38 ONE-KEY™ 3/8in Friction Ring Impact Wrench connects via Bluetooth™ with the Milwaukee® ONE-KEY™ app. Allows for complete tool customisation, allowing you to tune the tool to your needs. Configure to any application choosing optimum tool settings for repeatable precision. Save up to 4 custom settings to the tools memory for fast selection on the jobsite. Offers 4 modes of operation thanks to it's unique Milwaukee® DRIVE CONTROL™, which allows the user to shift into four different speed and torque settings to maximise application versatility.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M18 ONEIWF38-0 Fuel™ ONE-KEY™ 3/8in FR Impact Wrench 18 Volt Bare Unit",
+  "specifications": [
+    "Bit Holder: 3/8in Friction Ring",
+    "No Load Speed: 0-1,700/0-2,000/0-2,500/min",
+    "Impact Rate: 0-2,400/0-2,600/0-3,100/bpm",
+    "Torque: 40/120/300Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf880-xr-compact-impact-wrenches-18-volt.html-lllmstxt|>
+## DEWALT DCF880 XR Compact Impact Wrenches 18 Volt
+
+{
+  "price": "from €407.39 inc VAT",
+  "description": "The DEWALT DCF880M2 is an 18 volt XR Li-Ion Compact Impact Wrench, featuring XR 4.0Ah Li-Ion battery technology. Its ultra compact, lightweight design allows for use in confined spaces, whilst the intelligent trigger allows total control over all applications. All metal gearing ensures efficient power transmission, and an aluminium front housing provides greater heat dispersion, which increases motor life. The wrench's improved ergonomic design and rubber grip increase comfort and provide greater application control.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF880 XR Compact Impact Wrenches 18 Volt",
+  "specifications": [
+    "Bit Holder: 12.7mm (1/2in)",
+    "No Load Speed: 0-2,300/min",
+    "Impact Rate: 0-2,700/min",
+    "Max Torque: 203Nm",
+    "Bolt Capacity: M16",
+    "Weight: 1.01kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-biw14-compact-impact-wrench-14in-12-volt.html-lllmstxt|>
+## Milwaukee M12 BIW14 Compact Impact Wrench 1/4in 12 Volt
+
+{
+  "price": "€288.67 inc VAT",
+  "description": "Milwaukee M12 BIW14-202C Compact 1/4in Impact Wrench is a high performance sub compact impact wrench that measures 152mm in length making it ideal for working within confined spaces. Has a heavy-duty full metal gearbox and gears for superior durability and maximum torque, 1/4in square drive for use with universal sockets, and an optimised handle for better control and improved grip. The on board fuel gauge and LED light provide added user convenience and illumination in low lit working conditions. REDLITHIUM-ION™ battery pack delivers twice the run time, up to 20% more power, twice the battery life and operates better down to -20°C than other lithium-ion technologies. Individual battery cell monitoring optimises tool run time and ensures long term pack durability. Flexible battery system that works with all Milwaukee® M12™ batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 BIW14 Compact Impact Wrench 1/4in 12 Volt",
+  "specifications": [
+    "Bit Holder: 1/4in Square Drive",
+    "No Load Speed: 0-2,500/min",
+    "Impacts Per Min: 0-3,300/mi",
+    "Max Torque: 50Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-biw38-compact-impact-wrench-38in-12-volt.html-lllmstxt|>
+## Milwaukee M12 BIW38 Compact Impact Wrench 3/8in 12 Volt
+
+{
+  "price": "from €85.39 inc VAT",
+  "description": "Milwaukee M12 BIW38 is a high performance sub compact impact wrench that measures 165mm in length making it ideal for working within confined spaces. Has a heavy-duty full metal gearbox and gears for superior durability and maximum torque. 3/8in square drive for use with universal sockets. The optimised handle provides improved grip and better control. On board fuel gauge, and LED light give added user convenience and illumination in low lit working conditions. REDLITHIUM-ION™ battery pack delivers twice the run time, up to 20% more power, twice the battery life and operates better down to -20°C than other lithium-ion technologies. Individual battery cell monitoring optimises tool run time and ensures long term pack durability. Flexible battery system that works with all Milwaukee® M12™ batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 BIW38 Compact Impact Wrench 3/8in 12 Volt",
+  "specifications": [
+    "Bit Holder: 3/8in Hex.",
+    "No Load Speed: 0 - 2,500/min.",
+    "Impacts Per Min: 0 - 3,300/min.",
+    "Max Torque: 135Nm."
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-biw12-compact-impact-wrench-12in-18-volt.html-lllmstxt|>
+## Milwaukee M18 BIW12 Compact Impact Wrench 1/2in 18 Volt
+
+{
+  "price": "from €120.84 inc VAT",
+  "description": "Milwaukee M18 BIW12-202C is a compact ½in impact wrench that measures 155mm in length making it ideal for working within confined spaces. A high performance 4-pole motor delivers maximum power whilst maximising the power to weight ratio. Featuring REDLINK™ overload protection electronics in the tool and battery pack, it delivers best in class system durability. Has a heavy-duty full metal gearbox and gears for superior durability and maximum torque, and a ½in square drive for use with universal sockets. Has a on board fuel gauge and LED light. REDLITHIUM-ION™ batteries deliver two times more run time, up to 20% more power, and two times more battery life. The battery also operates better at -20°C, than any other lithium-ion batteries. Individual cell monitoring optimises tool run time ensuring long term durability. Flexible battery system that works with all Milwaukee M18™ batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 BIW12 Compact Impact Wrench 1/2in 18 Volt",
+  "specifications": [
+    "Bit Holder: 1/2in square.",
+    "No Load Speed: 0-2,450/min.",
+    "Impacts Per Min: 0-3,350/min.",
+    "Max Torque: 240Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-biw38-compact-impact-wrench-38in-18-volt.html-lllmstxt|>
+## Milwaukee M18 BIW38 Compact Impact Wrench 3/8in 18 Volt
+
+{
+  "price": "€292.35 inc VAT",
+  "description": "Milwaukee M18 BIW38 Compact 3/8in Impact Wrench measures 152mm in length making it perfect for working in confined spaces. With a heavy-duty full metal gear box and gears for superior durability and maximum torque. With REDLINK™ overload protection electronics in the tool and battery pack, it delivers best in class system durability. Also has an on board fuel gauge and LED light. REDLITHIUM-ION™ batteries deliver two times more run time, up to 20% more power, and two times more battery life. The battery also operates better at -20°C, than any other lithium-ion batteries. Individual cell monitoring optimises tool run time ensuring long term durability. Flexible battery system that works with all Milwaukee M18™ batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 BIW38 Compact Impact Wrench 3/8in 18 Volt",
+  "specifications": [
+    "Bit Holder: 3/8in Square",
+    "No Load Speed: 0-2,450/min",
+    "Impacts Per Min: 0-3,350/min",
+    "Max Torque: 210Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-oneiwf12-fuel-one-key-12in-fr-impact-wrench18-volt.html-lllmstxt|>
+## Milwaukee M18 ONEIWF12 Fuel™ ONE-KEY™ 1/2in FR Impact Wrench18 Volt
+
+{
+  "price": "€170.75 inc VAT",
+  "description": "The Milwaukee M18 ONEIWF12 ONE-KEY™ Impact Wrench connects via Bluetooth™ with the Milwaukee® ONE-KEY™ app. Allows for complete tool customisation, allowing you to tune the tool to your needs. Configure to any application choosing optimum tool settings for repeatable precision. Save up to 4 custom settings to the tools memory for fast selection on the jobsite. Offers 4 modes of operation thanks to it's unique Milwaukee® DRIVE CONTROL™, which allows the user to shift into four different speed and torque settings to maximise application versatility.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 ONEIWF12 Fuel™ ONE-KEY™ 1/2in FR Impact Wrench18 Volt",
+  "specifications": [
+    "Bit Holder: 1/2in Friction Ring",
+    "No Load Speed: 0-1,700/0-2,000/0-2,500/min",
+    "Impact Rate: 0-2,400/0-2,600/0-3,100/bpm",
+    "Torque: 40/120/300Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-oneiwp12-0-one-key-fuel-12in-pin-detent-impact-wrench-18-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M18 ONEIWP12-0 ONE-KEY™ Fuel™ 1/2in Pin Detent Impact Wrench 18 Volt Bare Unit
+
+{
+  "price": "€421.05 inc VAT (€342.32 exc.vat)",
+  "description": "The Milwaukee M18 ONEIWP12-0 ONE-KEY™ Fuel™ 1/2in Pin Detent Impact Wrench connects via Bluetooth™ with the Milwaukee® ONE-KEY™ app. Allows for complete tool customisation, allowing you to tune the tool to your needs. Configure to any application choosing optimum tool settings for repeatable precision. Save up to 4 custom settings to the tools memory for fast selection on the jobsite. Select from a range of application profiles or quickly create your own for perfect results on every trigger pull. ONE-KEY™ app also provides inventory function for total management of your complete tool/equipment fleet. Milwaukee® DRIVE CONTROL™ offers 4 modes of operation, which allows the user to shift into four different speed and torque settings to maximise application versatility. The 4 modes are: Mode 1: For precision work. Mode 2: Helps prevent damage to fasteners and material. Mode 3: Delivers maximum performance for the toughest applications. Mode 4: Intelligently detects when the tool has impacted on a fastener for one second automatically shutting the tool down, reducing over driving and damaging materials. Mode 4: No Load Speed: 0-2,000/Min, Impact Rate: 0-2,600, Torque: 0-120Nm. REDLINK PLUS™ intelligence system delivers the most advanced digital overload protection for tool and battery and uniquely enhances the tool performance under load. Individual battery cell monitoring optimises tool run time and ensures long term pack durability. It is fitted with a powerful Milwaukee® designed and built brushless POWERSTATE™ motor with an on board fuel gauge and an LED work light. Bare Unit, No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M18 ONEIWP12-0 ONE-KEY™ Fuel™ 1/2in Pin Detent Impact Wrench 18 Volt Bare Unit",
+  "specifications": [
+    "Bit Holder: 1/2in Pin Detent",
+    "No Load Speed: 0-1,700/0-2,000/0-2,500/Min",
+    "Impact Rate: 0-2,400/0-2,600/0-3,100/bpm",
+    "Torque: 40/120/300Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-fir12-0-fuel-sub-compact-12in-impact-ratchet-12v-bare-unit.html-lllmstxt|>
+## Milwaukee M12 FIR12-0 FUEL™ Sub Compact 1/2in Impact Ratchet 12V Bare Unit
+
+{
+  "price": "€193.20 inc VAT (€157.07 exc.vat)",
+  "description": "The Milwaukee M12 FIR12 FUEL™ Sub Compact 1/2in Impact Ratchet is the ideal fastening solution for automotive mechanics, maintenance and repair professionals. Its low profile head design allows users better access in tight spaces. It combines industry leading FUEL™ technology with a reinforced mechanism and an investment cast steel yoke housing provides greater durability for the professional user. REDLINK PLUS™ intelligence system delivers an advanced digital overload protection for tool and battery and uniquely enhances the tool performance under load. Fitted with a variable speed, metal trigger and premium rubber overmould that withstands corrosive materials and provides increased comfort when in use. The LED light illuminates the work area while the on-board fuel gauge displays remaining run time. Supplied with a 3/8in adaptor. Bare Unit, No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M12 FIR12-0 FUEL™ Sub Compact 1/2in Impact Ratchet 12V Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-175/min",
+    "Max. Torque: 81Nm",
+    "Length: 324mm",
+    "Weight: 1.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-fir38-fuel-sub-compact-38in-impact-ratchet.html-lllmstxt|>
+## Milwaukee M12 FIR38 Fuel™ Sub Compact 3/8in Impact Ratchet
+
+{
+  "price": "€261.30 inc VAT",
+  "description": "The Milwaukee M12 FIR38 FUEL™ Sub Compact 3/8in Impact Ratchet is the ideal fastening solution for automotive mechanics, maintenance and repair professionals. Its low profile head design allows users better access in tight spaces. It combines industry leading FUEL™ technology with a reinforced mechanism and an investment cast steel yoke housing provides greater durability for the professional user. REDLINK PLUS™ intelligence system delivers an advanced digital overload protection for tool and battery, and uniquely enhances the tool performance under load. Fitted with a variable speed, metal trigger and premium rubber overmould that withstands corrosive materials and provides increased comfort when in use. The LED light illuminates the work area while the on-board fuel gauge displays remaining run time. Supplied with a 1/4in adaptor. Flexible battery system: works with all Milwaukee® M12™ batteries. M12 FIR38-201B: 1 x 12V 2.0Ah Li-ion Battery. M12 FIR38-0: Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 FIR38 Fuel™ Sub Compact 3/8in Impact Ratchet",
+  "specifications": [
+    "No Load Speed: 0-200/min",
+    "Max. Torque: 75Nm",
+    "Length: 307mm",
+    "Weight: 1.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-onefhiwf12-502x-fuel-one-key-12in-impact-wrench-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Milwaukee M18 ONEFHIWF12-502X FUEL™ ONE-KEY™ 1/2in Impact Wrench 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€544.84 inc VAT (€442.96 exc.vat)",
+  "description": "The Milwaukee M18 ONEFHIWF12 FUEL™ ONE-KEY™ Impact Wrench connects via Bluetooth® with the Milwaukee® ONE-KEY™ app.  Allows for complete tool customisation, allowing you to tune the tool to your needs.  Configure to any application choosing optimum tool settings for repeatable precision.  Save up to 4 custom settings to the tool's memory for fast selection on the jobsite.\n\nMilwaukee® DRIVE CONTROL™ allows the user to shift into 4 different speed and torque settings to maximise application versatility. Mode 4 has been specially designed for bolt removal by providing the maximum nut busting torque of 1,898Nm.  It then shifts to 750 rpm for unmatched control when removing fasteners.  The integrated blow counting sensor enhances the consistent repeatability of the chosen torque setting.\n\nONE-KEY™ tool tracking and security offers a cloud based inventory management platform that supports both location tracking and theft prevention.\n\nSupplied with: 2 x 18V 5.0Ah Li-ion Batteries, 1 x Fast Charger and 1 x Heavy-Duty Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 ONEFHIWF12-502X FUEL™ ONE-KEY™ 1/2in Impact Wrench 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Bit Holder: 1/2in Friction Ring",
+    "No Load Speed: 0-550/0-1,400/0-1,750/min.",
+    "Impact Rate: 0-950/0-1,750/0-2,100/bpm",
+    "Max. Bolt Diameter: M33",
+    "Max. Torque: Fastening 1,356Nm, Nut Busting 1,898Nm",
+    "Weight: 3.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-onefhiwf34-502x-fuel-one-key-34in-impact-wrench-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Milwaukee M18 ONEFHIWF34-502X FUEL™ ONE-KEY™ 3/4in Impact Wrench 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€572.64 inc VAT (€465.56 exc.vat)",
+  "description": "The Milwaukee M18 ONEFHIWF34 FUEL™ ONE-KEY™ Impact Wrench connects via Bluetooth® with the Milwaukee® ONE-KEY™ app.  Allows for complete tool customisation, allowing you to tune the tool to your needs.  Configure to any application choosing optimum tool settings for repeatable precision.  Save up to 4 custom settings to the tool's memory for fast selection on the jobsite.\n\nMilwaukee® DRIVE CONTROL™ allows the user to shift into 4 different speed and torque settings to maximise application versatility.  Mode 4 has been specially designed for bolt removal by providing the maximum nut busting torque of 2,034Nm.  It then shifts to 750 rpm for unmatched control when removing fasteners.  The integrated blow counting sensor enhances the consistent repeatability of the chosen torque setting.\n\nONE-KEY™ tool tracking and security offers a cloud based inventory management platform that supports both location tracking and theft prevention.\n\nSupplied with: 2 x 18V 5.0Ah Li-ion Batteries, 1 x Fast Charger and 1 x Heavy-Duty Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 ONEFHIWF34-502X FUEL™ ONE-KEY™ 3/4in Impact Wrench 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Bit Holder: 3/4in Friction Ring",
+    "No Load Speed: 0-800/0-1,300/0-1,800/min.",
+    "Impact Rate: 0-850/0-1,850/0-2,400/bpm",
+    "Max. Bolt Diameter: M33",
+    "Max. Torque: Fastening 1,627Nm, Nut Busting 2,034Nm",
+    "Weight: 3.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-fiwf12-fuel-12in-impact-wrench.html-lllmstxt|>
+## Milwaukee M12 FIWF12 FUEL™ 1/2in Impact Wrench
+
+{
+  "price": "€156.31 inc VAT",
+  "description": "The Milwaukee M12 FIWF12 Impact Wrench has a 1/2in anvil with friction ring for quick and easy socket changes. With 4 Mode Drive Control, which offers the user precise control. Mode 4 Auto-Shut Off: prevents over tightening of fasteners. It has a compact design that provides better access in tight spaces, with an overall length of only 125mm. Fitted with a bright, LED work light. Milwaukee® designed and built brushless POWERSTATE™ motor delivers more power in a more compact size. REDLINK PLUS™ intelligence system delivers an advanced digital overload protection for tool and battery and uniquely enhances the tool performance under load. REDLITHIUM-ION™ battery pack provides superior pack construction, electronics and fade-free performance to deliver more run time and more work over pack life. Individual battery cell monitoring optimises tool run time and ensures long term pack durability.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 FIWF12 FUEL™ 1/2in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Anvil with Friction Ring",
+    "No Load Speed: 0-1,200/0-1,800/0-2,700/min.",
+    "Impact Rate: 0-1,100/0-2,100/0-3,200/bpm",
+    "Max. Torque: 339Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-fiw38-fuel-38in-impact-wrench.html-lllmstxt|>
+## Milwaukee M12 FIW38 FUEL™ 3/8in Impact Wrench
+
+{
+  "price": "from €143.17 inc VAT",
+  "description": "The Milwaukee M12 FIW38 FUEL™ Impact Wrench has a 3/8in anvil with friction ring for quick and easy socket changes. With 4-Mode DRIVE CONTROL™, which offers the user precise control. Mode 4 Auto-Shut Off prevents over tightening of fasteners. It has a compact design that provides better access in tight spaces, with an overall length of only 121.9mm. Fitted with a bright, LED work light. Milwaukee® designed and built brushless POWERSTATE™ motor delivers more power in a more compact size. REDLINK PLUS™ intelligence system delivers an advanced digital overload protection for tool and battery and uniquely enhances the tool performance under load.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 FIW38 FUEL™ 3/8in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 3/8in Anvil with Friction Ring",
+    "No Load Speed: 0-1,200/0-1,800/0-2,700/min.",
+    "Impact Rate: 0-1,100/0-2,100/0-3,200/bpm",
+    "Max. Nut Busting Torque: 339Nm",
+    "Overall Length: 121.9mm",
+    "Weight: 1.1kg (with battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf902d2-brushless-xr-sub-compact-38in-impact-wrench-12v-2-x-20ah-li-ion.html-lllmstxt|>
+## DEWALT DCF902D2 Brushless XR Sub-Compact 3/8in Impact Wrench 12V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€235.58 inc VAT (€191.53 exc.vat)",
+  "description": "The DEWALT DCF902 XR Sub-Compact Impact Wrench is 33mm shorter than the previous generation, allowing access into small spaces. It has an efficient brushless motor with 3 electronic speeds for greater control when working on precise applications. Precision Wrench mode allows for the best control in delicate applications. Lightweight design for ultimate portability and ease of use. With an ergonomically designed handle for optimum comfort and control. The state of charge battery pack allows users to keep track of battery charge easily to prevent running out of battery during a job. Compatible with your existing 10.8V batteries and tools. Supplied with: 2 x 12V 2.0Ah Li-ion Batteries, 1 x 12/18V DCB112 XR Charger, 1 x Belt Hook and 1 x TSTAK compatible Carry Case.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF902D2 Brushless XR Sub-Compact 3/8in Impact Wrench 12V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "Bit Holder: 3/8in Square",
+    "No Load Speed: 0-2,850/min.",
+    "Impact Rate: 0-3,600/bpm",
+    "Max. Torque: 168Nm",
+    "Bare Unit Weight: 0.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-onefhiwf1-802x-fuel-one-key-1in-impact-wrench-18v-2-x-80ah-li-ion.html-lllmstxt|>
+## Milwaukee Power Tools M18 ONEFHIWF1-802X FUEL™ ONE-KEY™ 1in Impact Wrench 18V 2 x 8.0Ah Li-ion
+
+{
+  "price": "€865.58 inc VAT (€703.72 exc.vat)",
+  "description": "The Milwaukee M18 ONEFHIWF1 FUEL™ ONE-KEY™ Impact Wrench delivers 2,033Nm of fastening torque at half the size and weight of AC, petrol or pneumatic solutions. Milwaukee® DRIVE CONTROL™ allows the user to shift into 4 different speed and torque settings to maximise application versatility. An integrated blow counting sensor enhances the consistent repeatability of the chosen torque setting. Connects via Bluetooth® with the Milwaukee® ONE-KEY™ app. This enables wireless tool customisation for increased productivity and consistent results. ONE-KEY™ tool tracking and security offers a cloud-based inventory management platform that supports both location tracking and theft prevention. Supplied with: 2 x 18V 8.0Ah Li-ion Batteries, 1 x Charger and 1 x Kitbox",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools M18 ONEFHIWF1-802X FUEL™ ONE-KEY™ 1in Impact Wrench 18V 2 x 8.0Ah Li-ion",
+  "specifications": [
+    "Bit Holder: 1in Friction Ring",
+    "No Load Speed: 0-1,000/0-1,100/0-1,400/0-1,650/min.",
+    "Impact Rate: 1,330/1,620/2,100/2,450/bpm",
+    "Max. Bolt Diameter: M42",
+    "Max. Torque: Fastening 2,033Nm, Nut Busting 2,400Nm",
+    "Charge Time: 95min.",
+    "Weight: 5.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtw1002z-brushless-12in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Makita DTW1002Z Brushless 1/2in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€361.37 inc VAT (€293.80 exc.vat)",
+  "description": "The Makita DTW1002 Brushless 1/2in Impact Wrench offers an extra high tightening torque of 1000Nm thanks to its high powered, brushless motor and newly designed impact mechanism. It is equipped with twin LED joblights with pre-glow and afterglow function for working in dark areas and 3 stage impact power selection. This reduces fault tightening, you can suit the material of workpiece or screw at a push of a button. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DTW1002Z Brushless 1/2in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Bit Holder: 1/2in Square",
+    "No Load Speed: 900/1,000/0-1,800/min.",
+    "Impact Rate: 0-1,800/0-2,000/0-2,200/bpm",
+    "Max. Fastening Torque: 1,000Nm",
+    "Nut Busting Torque: 1,600Nm",
+    "Capacity: Standard Bolt: M12-M30, High Tensile Bolt: M10-M24",
+    "Weight: 3.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtw450z-12in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Makita DTW450Z 1/2in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€277.30 inc VAT (€225.45 exc.vat)",
+  "description": "The Makita DTW450 1/2in Impact Wrench has a compact, lightweight design and a powerful 4 pole motor. Fitted with a forward and reverse rocker switch trigger. The body features rubber joint construction for minimum battery failure. Fitted with an ergonomic soft grip, ideal for prolonged use and less user fatigue. There is also an LED job light with afterglow for working in dark spaces. Bare Unit, No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DTW450Z 1/2in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Bit Holder: 1/2in Square",
+    "No Load Speed: 1,600/min.",
+    "Impact Rate: 2,200/bpm",
+    "Max. Torque: 440Nm",
+    "Weight: 3.4kg",
+    "Noise Sound Pressure: 94 dB(A)",
+    "Noise Sound Power: 105 dB(A)",
+    "Vibration: Fastening Bolt: 19 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtw1001-brushless-34in-impact-wrench.html-lllmstxt|>
+## Makita DTW1001 Brushless 3/4in Impact Wrench
+
+{
+  "price": "from €374.03 inc VAT",
+  "description": "The Makita DTW1001 Brushless 3/4in Impact Wrench offers an extra high tightening torque of 1000Nm thanks to its high powered, brushless motor and newly designed impact mechanism. It is equipped with twin LED job lights with pre-glow and afterglow function for working in dark areas and 3-stage impact power selection. This reduces fault tightening, you can suit the material of workpiece or screw at a push of a button.",
+  "availability": "In Stock",
+  "product_name": "Makita DTW1001 Brushless 3/4in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 3/4in Square",
+    "No Load Speed: 900/1,000/0-1,800/min.",
+    "Impact Rate: 0-1,800/0-2,000/0-2,200/bpm",
+    "Max. Fastening Torque: 1,050Nm",
+    "Nut Busting Torque: 1,700Nm",
+    "Capacity: Standard Bolt M12-M30, High Tensile Bolt M10-M24"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtw190-lxt-12in-impact-wrench.html-lllmstxt|>
+## Makita DTW190 LXT 1/2in Impact Wrench
+
+{
+  "price": "€119.53 inc VAT",
+  "description": "The Makita DTW190 LXT Impact Wrench features an 1/2 inch square drive shank that takes standard impact sockets. Offers forward/reverse rotation with a variable speed control trigger for increased control. The ergonomically designed handle with rubberised soft grip fits your hand perfectly to provide maximum control and comfort. Equipped with Battery protection circuit which is designed to protect the battery from damages due to overdischarge, high temperature or overload current.",
+  "availability": "In Stock",
+  "product_name": "Makita DTW190 LXT 1/2in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Square",
+    "No Load Speed: 0-2,3000/min.",
+    "Impacts Per Min: 0-3,000/bpm",
+    "Max. Torque: 190Nm",
+    "Capacity: Bolt: Standard M8-M16, High Tensile M8-M12",
+    "Weight: 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtw251-lxt-12in-impact-wrench.html-lllmstxt|>
+## Makita DTW251 LXT 1/2in Impact Wrench
+
+{
+  "price": "€210.23 inc VAT",
+  "description": "The Makita DTW251 LXT 1/2in Impact Wrench has a compact, lightweight design and a powerful 4 pole motor. With a conveniently located push button for forward and reverse options. The body is fitted with an ergonomic soft grip, ideal for prolonged use and less user fatigue. There is also an LED job light with afterglow for working in dark spaces.",
+  "availability": "In Stock",
+  "product_name": "Makita DTW251 LXT 1/2in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Square",
+    "No Load Speed: 0-2,100/min.",
+    "Impact Rate: 0-3,200/bpm",
+    "Max. Torque: 230Nm",
+    "Noise Sound Pressure: 90 dB(A)",
+    "Noise Sound Power: 101 dB(A)",
+    "Vibration: Fastening Bolt: 9 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fiw2f12-0x-fuel-12in-friction-ring-impact-wrench.html-lllmstxt|>
+## Milwaukee Power Tools M18 FIW2F12-0X FUEL™ 1/2in Friction Ring Impact Wrench
+
+{
+  "price": "€458.41 inc VAT",
+  "description": "The Milwaukee M18 FIW2F12 FUEL™ 1/2in Friction Ring Impact Wrench with 4-Mode DRIVE CONTROL, allows the user to shift into four different speed and torque settings to maximise application versatility. Bolt removal control delivers full torque output, then decreases RPMs once the bolt is loosened to prevent fastener drops. Incredibly compact design, ideal for jobs in tight spaces. Tri-LEDs deliver high-definition lighting to increase workspace visibility. It also comes with a reversible belt hook. Utilises three exclusive MILWAUKEE® technologies; the POWERSTATE™ brushless motor, REDLITHIUM™ battery pack, and REDLINK PLUS™ intelligence hardware and software, which deliver outstanding power, run time and durability on the jobsite.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M18 FIW2F12-0X FUEL™ 1/2in Friction Ring Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Friction Ring",
+    "No Load Speed: 0-900/0-1,650/0-2,400/0-1,200/min.",
+    "Impact Rate: 0-1,000/0-2,400/0-3,400/bpm",
+    "Torque: 102/203/339/34Nm",
+    "Nut Busting Torque: 339Nm",
+    "Weight: 1.8kg (inc. Battery Pack)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtw300z-brushless-lxt-12in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Makita DTW300Z Brushless LXT 1/2in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€232.11 inc VAT (€188.71 exc.vat)",
+  "description": "The Makita DTW300 Brushless LXT 1/2in Impact Wrench is ideal for automotive, installation and fabrication trades. Combing extended run time and speed control for unmatched fastening performance. It is powered by a Makita-built brushless motor for longer run time. Precise fastening control is achieved through the 4-speed power selection switch, which accounts for a wide range of applications. Three forward and three reverse rotation auto-stop modes offer increased efficiency when the fastener is adequately loosened. The full-speed mode function reduces the trigger pull to reach full speed. The DTW300 features Makita's Extreme Protection Technology (XPT™), a protective seal inside the tool. It is designed to improve a tool’s operation in harsh conditions by channelling water and dust from key internal components. Bare Unit - No Battery or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DTW300Z Brushless LXT 1/2in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Bit Holder: 12.7mm (1/2in)",
+    "No Load Speed: 0-1,000/0-1,800/0-3,200/min.",
+    "Impact Rate: 0-1,800/0-2,600/0-3,400/bpm",
+    "Max. Torque: Fastening 330Nm, Nut Busting 580Nm",
+    "Capacity: Bolt; High Tensile M10-M16, Standard M10-M20",
+    "Weight: 1.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fmtiw2f12-502x-fuel-12in-mid-torque-impact-wrench-18v-2-x-50ah.html-lllmstxt|>
+## Milwaukee Power Tools M18 FMTIW2F12-502X FUEL™ 1/2in Mid-Torque Impact Wrench 18V 2 x 5.0Ah
+
+{
+  "price": "€485.08 inc VAT (€394.37 exc.vat)",
+  "description": "The Milwaukee M18 FMTIW2F12 FUEL™ 1/2in Mid-Torque Impact Wrench with 4-Mode DRIVE CONTROL, allows the user to shift into 4 different speed and torque settings to maximise application versatility. Bolt removal control delivers full torque output, then decreases rpm once the bolt is loosened to prevent fastener drops. Incredibly compact design, ideal for jobs in tight spaces. Tri-LEDs deliver high-definition lighting to increase workspace visibility. It also comes with a reversible belt hook. Utilises 3 exclusive MILWAUKEE® technologies: the POWERSTATE™ brushless motor, REDLITHIUM™ battery pack, and REDLINK PLUS™ intelligence hardware and software, which deliver outstanding power, run time and durability on the jobsite. Supplied with: 2 x 18V 5.0Ah Li-ion Batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M18 FMTIW2F12-502X FUEL™ 1/2in Mid-Torque Impact Wrench 18V 2 x 5.0Ah",
+  "specifications": [
+    "Bit Holder: 1/2in Friction Ring",
+    "No Load Speed: 0-1,200/0-1,950/0-2,575/0-1,325/min.",
+    "Impact Rate: 0-900/0-2,100/0-3,100/bpm",
+    "Torque: 475/610/745/47Nm",
+    "Nut Busting Torque: 881Nm",
+    "Weight: 2.3kg (inc. Battery Pack)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtw700z-brushless-lxt-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Makita DTW700Z Brushless LXT Impact Wrench 18V Bare Unit
+
+{
+  "price": "€350.81 inc VAT (€285.21 exc.vat)",
+  "description": "The Makita DTW700 Brushless LXT Impact Wrench combines high operational efficiency with high torque. Ideal for steel fabrication, steel erection or for automotive work. It has a trigger switch, and can switch between variable and full speed mode. The variable speed mode can be changed to full speed mode simply by pushing a button. Because in full speed mode the trigger travel is shorter, the full speed is reached faster. For added user safety there is an electric brake. Its compact, lightweight design incorporates an ergonomic soft grip, providing all day comfort. Bare Unit, No Battery or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DTW700Z Brushless LXT Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Driving Shank: 1/2in Square Drive, C-ring",
+    "No Load Speed: 500/1,200/1,900/2,200/min.",
+    "Impact Rate: 0-1,000/0-1,700/0-2,400/0-2,700/bpm",
+    "Nut Busting Torque: 1,000Nm",
+    "Bolt Capacity: Standard: M10 – M24, High Strength (grade F10T): M12 - M16, High Strength (grade 10.9): M10 – M16",
+    "Weight: 2.3kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf901p1-xr-brushless-12in-impact-wrench-12v-1-x-50ah-li-ion.html-lllmstxt|>
+## DeWALT DCF901P1 XR Brushless 1/2in Impact Wrench 12V 1 x 5.0Ah Li-ion
+
+{
+  "price": "€274.99 inc VAT (€223.57 exc.vat)",
+  "description": "The DEWALT DCF901 XR Brushless 1/2in Impact Wrench has a 3/8in hog ring anvil to suit socket preference. Fitted with an efficient brushless motor that delivers high performance, extends tool life and allows for a much shorter design. It provides up to 340Nm of fastening torque (500Nm breakaway) ensuring the removal of the tightest bolts. Supplied with: 1 x 12V 5.0Ah Li-ion Battery, 1 x Charger and 1 x TSTAK™ Carry Case.",
+  "availability": "In Stock",
+  "product_name": "DeWALT DCF901P1 XR Brushless 1/2in Impact Wrench 12V 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "Bit Holder: 3/8in Hog Ring Anvil",
+    "No Load Speed: 2,850/min.",
+    "Impact Rate: 3,250/bpm",
+    "Max. Fastening Torque: 340Nm",
+    "Max. Breakaway Torque: 500Nm",
+    "Weight: 1kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf903p1-xr-brushless-38in-impact-wrench-12v-1-x-50ah-li-ion.html-lllmstxt|>
+## DeWALT DCF903P1 XR Brushless 3/8in Impact Wrench 12V 1 x 5.0Ah Li-ion
+
+{
+  "price": "€305.38 inc VAT (€248.28 exc.vat)",
+  "description": "The DEWALT DCF903 XR Brushless Impact Wrench has a 3/8in square drive with a hog ring that allows quick socket changes. Fitted with an efficient brushless motor that delivers high performance, extends tool life and allows for a much shorter design. It provides up to 340Nm of fastening torque (500Nm breakaway) ensuring the removal of the tightest bolts. Supplied with: 1 x 12V 5.0Ah Li-ion Battery, 1 x Charger and 1 x TSTAK™ Carry Case.",
+  "availability": "In Stock",
+  "product_name": "DeWALT DCF903P1 XR Brushless 3/8in Impact Wrench 12V 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "Bit Holder: 3/8in Hog Ring Anvil",
+    "No Load Speed: 2,850/min.",
+    "Impact Rate: 3,250/bpm",
+    "Max. Fastening Torque: 340Nm",
+    "Max. Breakaway Torque: 500Nm",
+    "Weight: 1kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf923n-xr-bl-38in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCF923N XR BL 3/8in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€216.39 inc VAT (€175.93 exc.vat)",
+  "description": "The DEWALT DCF923 XR Impact Wrench has an efficient brushless motor and 3/8in square drive with hog ring for quick socket changes. Its variable speed trigger provides complete control over all applications and tactile 4-mode select feature, a selection of different modes and speed settings for ultimate performance.\\n\\* Mode 1 Low Speed: tool operates at a reduced speed and outputs approximately 160Nm, reverse tool operates at normal speed.\\n\\* Mode 2 Mid Speed: tool operates at a reduced speed and outputs approximately 400Nm, reverse tool operates at normal speed.\\n\\* Mode 3 High Speed: tool operates at normal speed, reverse tool operates at normal speed.\\n\\* Mode 4 Precision Wrench: tool pauses before impacting to help prevent over-tightening, reverse tool lowers speed when fastening is loose to help prevent run-off.\\nIts ultra-compact design enables easy access in confined areas. Fitted with a comfortable rubber XR grip and switch for greater application comfort and maximum control. An ultra-bright white LED work light with a delay feature improves visibility. Brightness control allows dimming or turn off to suit the working conditions.\\nSupplied as a Bare Unit - No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF923N XR BL 3/8in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Bit Holder: 3/8in Hog Ring",
+    "No Load Speed: 2,500/min.",
+    "Impact Rate: 3,600/bpm",
+    "Max. Fastening Torque: 406Nm",
+    "Nut Busting Torque: 610Nm",
+    "Weight: 1.1kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf921-xr-bl-12in-impact-wrench.html-lllmstxt|>
+## DEWALT DCF921 XR BL 1/2in Impact Wrench
+
+{
+  "price": "€220.99 inc VAT",
+  "description": "The DEWALT DCF921 XR Impact Wrench has an efficient brushless motor and 1/2in square drive with hog ring for quick socket changes. A hole in the anvil enables the securing of sockets with a retaining pin/rubber O-ring, making it the ideal impact wrench for scaffolders. Its variable speed trigger provides complete control over all applications and tactile 4-mode select feature, a selection of different modes and speed settings for ultimate performance. * Mode 1 Low Speed: tool operates at a reduced speed and outputs approximately 160Nm, reverse tool operates at normal speed. * Mode 2 Mid Speed: tool operates at a reduced speed and outputs approximately 400Nm, reverse tool operates at normal speed. * Mode 3 High Speed: tool operates at normal speed, reverse tool operates at normal speed. * Mode 4 Precision Wrench: tool pauses before impacting to help prevent over-tightening, reverse tool lowers speed when fastening is loose to help prevent run-off. Its ultra-compact design enables easy access in confined areas. Fitted with a comfortable rubber XR grip and switch for greater application comfort and maximum control. An ultra-bright white LED work light with a delay feature improves visibility. Brightness control allows dimming or turn off to suit the working conditions.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF921 XR BL 1/2in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Hog Ring",
+    "No Load Speed: 2,500/min.",
+    "Impact Rate: 3,600/bpm",
+    "Max. Fastening Torque: 406Nm",
+    "Nut Busting Torque: 610Nm",
+    "Weight: 1.1kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf922-xr-bl-12in-impact-wrench.html-lllmstxt|>
+## DEWALT DCF922 XR BL 1/2in Impact Wrench
+
+{
+  "price": "€216.39 inc VAT",
+  "description": "The DEWALT DCF922 XR Impact Wrench has an efficient brushless motor and 1/2in square drive with detent pin for quick socket changes. Its variable speed trigger provides complete control over all applications and tactile 4-mode select feature, a selection of different modes and speed settings for ultimate performance. Mode 1 Low Speed: tool operates at a reduced speed and outputs approximately 160Nm, reverse tool operates at normal speed. Mode 2 Mid Speed: tool operates at a reduced speed and outputs approximately 400Nm, reverse tool operates at normal speed. Mode 3 High Speed: tool operates at normal speed, reverse tool operates at normal speed. Mode 4 Precision Wrench: tool pauses before impacting to help prevent over-tightening, reverse tool lowers speed when fastening is loose to help prevent run-off. Its ultra-compact design enables easy access in confined areas. Fitted with a comfortable rubber XR grip and switch for greater application comfort and maximum control. An ultra-bright white LED work light with a delay feature improves visibility. Brightness control allows dimming or turn off to suit the working conditions.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF922 XR BL 1/2in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Detent Pin",
+    "No Load Speed: 2,500/min.",
+    "Impact Rate: 3,600/bpm",
+    "Max. Fastening Torque: 406Nm",
+    "Nut Busting Torque: 610Nm",
+    "Weight: 1.1kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf892-xr-bl-high-torque-12in-impact-wrench.html-lllmstxt|>
+## DEWALT DCF892 XR BL High Torque 1/2in Impact Wrench
+
+{
+  "price": "from €277.46 inc VAT",
+  "description": "The DEWALT DCF892 XR Impact Wrench has an efficient brushless motor and 1/2in square drive plus detent pin allowing for quick socket changes. Its variable speed trigger provides complete control over all applications and tactile 4-mode select feature, a selection of different modes and speed settings for ultimate performance.\\n\\* Mode 1 Low Speed: tool operates at a reduced speed and outputs approximately 160Nm, reverse tool operates at normal speed.\\n\\* Mode 2 Mid Speed: tool operates at a reduced speed and outputs approximately 400Nm, reverse tool operates at normal speed.\\n\\* Mode 3 High Speed: tool operates at normal speed, reverse tool operates at normal speed.\\n\\* Mode 4 Precision Wrench: tool pauses before impacting to help prevent over-tightening, reverse tool lowers speed when fastening is loose to help prevent run-off.\\n\\nIts ultra-compact design enables easy access in confined areas. Fitted with a comfortable rubber XR grip and switch for greater application comfort and maximum control. An ultra-bright white LED work light with a delay feature improves visibility. Brightness control allows dimming or turn off to suit the working conditions.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF892 XR BL High Torque 1/2in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Detent Pin",
+    "Max. Torque: 812Nm",
+    "Breakaway Torque: 1152Nm",
+    "Weight: 1.6kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dwr180z-lxt-ratchet-wrench-18v-bare-unit.html-lllmstxt|>
+## Makita DWR180Z LXT Ratchet Wrench 18V Bare Unit
+
+{
+  "price": "€176.52 inc VAT (€143.51 exc.vat)",
+  "description": "The Makita DWR180 LXT Ratchet Wrench has an easy-to-grip ergonomic design. Utilises a variable speed control trigger with both forward and reverse rotation for increased control. An electric brake increases user safety and there is also an LED job light, ideal when working in darker areas. By removing the socket adaptor, you can convert this model to a pass-through ratchet wrench, which is ideal for tightening 13mm nuts onto long threaded bolts, such as a threaded rod. Supplied with two socket adaptors: 6.35mm (1/4in) Square Drive and 9.5mm (3/8in) Square Drive. Supplied as a Bare Unit - No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Makita DWR180Z LXT Ratchet Wrench 18V Bare Unit",
+  "specifications": [
+    "Driving Shank: 3/8in or 1/4in Square",
+    "No Load Speed: 0-800/min.",
+    "Max. Fastening Torque 47.5Nm",
+    "Flats Width: 13mm",
+    "Bolt Capacity: Standard M5-M12, High Tensile M5-M10",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf891-xr-bl-12in-hog-ring-anvil-impact-wrench.html-lllmstxt|>
+## DEWALT DCF891 XR BL 1/2in Hog Ring Anvil Impact Wrench
+
+{
+  "price": "from €277.46 inc VAT",
+  "description": "The DEWALT DCF891 XR 1/2in Hog Ring Anvil Impact Wrench has a brushless motor for efficient performance and run time. With a 4-mode switch for accurate application control. The ergonomic design features a compact head length, making it ideal for use in confined areas.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF891 XR BL 1/2in Hog Ring Anvil Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Hog Ring Anvil",
+    "No Load Speed: 0-2,000/min.",
+    "Impact Rate: 0-3,250/bpm",
+    "Max. Torque: 812Nm",
+    "Max. Bolt Diameter: M4"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf900-xr-brushless-12in-high-torque-impact-wrench.html-lllmstxt|>
+## DEWALT DCF900 XR Brushless 1/2in High Torque Impact Wrench
+
+{
+  "price": "from €267.00 inc VAT",
+  "description": "The DEWALT DCF900 XR High Torque Impact Wrench has an efficient brushless motor delivers high performance, extends tool life and allows for much shorter design. Its variable trigger provides complete control over all applications. The compact design enables easy access in confined areas. Fitted with a comfortable rubber XR grip and switch for greater application comfort and maximum control. An ultra-bright white LED work light with a delay feature improves visibility. Brightness control allows dimming or turn off to suit the working conditions.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF900 XR Brushless 1/2in High Torque Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Square Drive",
+    "No Load Speed: 0-2,300/min",
+    "Impact Rate: 18,000/bpm",
+    "Max. Torque: 1,396Nm, Breakaway Torque: 1,898Nm",
+    "Weight: 2.8kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw007gd201-xgt-40vmax-bl-impact-wrench-40v-2-x-25ah-li-ion.html-lllmstxt|>
+## Makita TW007GD201 XGT 40Vmax BL Impact Wrench 40V 2 x 2.5Ah Li-ion
+
+{
+  "price": "€1,144.20 inc VAT (€930.24 exc.vat)",
+  "description": "The Makita TW007G XGT 40Vmax BL Impact Wrench with electronic 4 stage impact power selection for added versatility. The electric brake and variable speed trigger provide a high level of control, as well as an auto-stop system available in both forward/reverse rotation modes. Its ergonomically designed handle with rubberised soft grip improves user comfort and reduces fatigue. XPT (Extreme Protection Technology) provides improved dust and water resistance, ideal for operation in harsh job site conditions. Fitted with a twin LED job light for greater visibility, even in low light conditions. The battery protection system automatically shuts off power when the battery level is low.",
+  "availability": "Out of Stock",
+  "product_name": "Makita TW007GD201 XGT 40Vmax BL Impact Wrench 40V 2 x 2.5Ah Li-ion",
+  "specifications": [
+    "Bit Holder: 1/2in Square C Ring",
+    "No Load Speed: 0-600/1,200/1900/2,300/min",
+    "Impact Rate: 0-1,200/1,900/2,700/2,900/bpm",
+    "Max. Fastening Torque Impact Drill: 760Nm",
+    "Nut-busting Torque: 1,100Nm",
+    "Tightening Capacity Standard Bolt: M10 - M24"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw001g-xgt-40vmax-bl-impact-wrench.html-lllmstxt|>
+## Makita TW001G XGT 40Vmax BL Impact Wrench
+
+{
+  "price": "€1,208.76 inc VAT",
+  "description": "The Makita TW001G XGT 40Vmax BL Impact Wrench has an efficient brushless impact wrench with electronic 4 stage impact power selection for added versatility. 3 modes of reaction time allow for automatic stop available both in forward and reverse rotation modes. Reverse rotation auto stop mode stops after the bolt/nut loosened enough.\n\nIts ergonomically designed handle features a rubberised soft grip for increased user comfort and reduced fatique. XPT (Extreme Protection Technology) provides improved dust and water resistance for operation in harsh job site conditions. The battery protection system automatically shuts off power when the battery level is low. Its also features twin LED lights with pre-glow and afterglow functions.",
+  "availability": "In Stock",
+  "product_name": "Makita TW001G XGT 40Vmax BL Impact Wrench",
+  "specifications": [
+    "Bit Holder: 3/4in Square C Ring.",
+    "No Load Speed: 0-950/1,150/1,400/1,800/min.",
+    "Impact Rate: 0-1,900/2,200/2,400/2,500/bpm.",
+    "Max. Torque: 1,800Nm.",
+    "Nut Busting Torque: 2,050Nm.",
+    "Bolt Capacity: Standard: M12-M36."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw004g-xgt-40vmax-bl-impact-wrench.html-lllmstxt|>
+## Makita TW004G XGT 40Vmax BL Impact Wrench
+
+{
+  "price": "€1,012.68 inc VAT",
+  "description": "The Makita TW004G XGT 40Vmax BL Impact Wrench has an efficient brushless impact wrench with electronic 4 stage impact power selection for added versatility. 3 modes of reaction time allow for automatic stop available both in forward and reverse rotation modes. Reverse rotation auto stop mode stops after the bolt/nut loosened enough.\n\nIts ergonomically designed handle features a rubberised soft grip for increased user comfort and reduced fatigue. XPT (Extreme Protection Technology) provides improved dust and water resistance for operation in harsh job site conditions. The battery protection system automatically shuts off power when the battery level is low. It also features twin LED lights with pre-glow and afterglow functions.",
+  "availability": "In Stock",
+  "product_name": "Makita TW004G XGT 40Vmax BL Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Square C Ring.",
+    "No Load Speed: 0-1,000/1,800/2,600/3,200/min.",
+    "Impact Rate: 0-1,800/2,600/3,400/4,000/bpm.",
+    "Max. Torque: 350Nm.",
+    "Nut Busting Torque: 630Nm.",
+    "Bolt Capacity: Standard: M10-M20."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf961-high-torque-12in-impact-wrench.html-lllmstxt|>
+## DEWALT DCF961 High Torque 1/2in Impact Wrench
+
+{
+  "price": "€357.73 inc VAT",
+  "description": "The DEWALT DCF961 High Torque Impact Wrench is ideal for heavy-duty fastening applications. Its efficient brushless motor delivers high performance, extends tool life and allows for much shorter design. After 4 seconds of impacting, the tool automatically provides an increase in power to aid in loosening stubborn fasteners. The 4 mode membrane switch allows for better application control. Precision wrench mode helps to prevent overtightening and fastener run-off. A variable trigger allows complete control over all applications. Its comfortable rubber XR grip and switch increase user comfort whilst providing maximum control. There is also a bright white LED with delay feature for improved visibility and functionality. You can also control the brightness, so you can dim or turn off the light as you see fit.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF961 High Torque 1/2in Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Square Socket with Hog Ring",
+    "No Load Speed: 0-400/0-800/0-12,000/min",
+    "Impact Rate: 1,890/bpm",
+    "Max. Torque: 1,626Nm, Breakaway Torque: 2,372Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw008g-xgt-40vmax-bl-impact-wrench.html-lllmstxt|>
+## Makita TW008G XGT 40Vmax BL Impact Wrench
+
+{
+  "price": "€1,161.17 inc VAT",
+  "description": "The Makita TW008G XGT 40Vmax BL Impact Wrench has an efficient brushless impact wrench with electronic 4 stage impact power selection for added versatility. 3 modes of reaction time allow for automatic stop available both in forward and reverse rotation modes. Reverse rotation auto stop mode stops after the bolt/nut loosened enough.\n\nIts ergonomically designed handle features a rubberised soft grip for increased user comfort and reduced fatique. XPT (Extreme Protection Technology) provides improved dust and water resistance for operation in harsh job site conditions. The battery protection system automatically shuts off power when the battery level is low. It also features twin LED lights with pre-glow and afterglow functions.",
+  "availability": "In Stock",
+  "product_name": "Makita TW008G XGT 40Vmax BL Impact Wrench",
+  "specifications": [
+    "Bit Holder: 1/2in Square Pin Detent.",
+    "No Load Speed: 0-600/1,200/1,900/2,300/min.",
+    "Impact Rate: 0-1,200/1,900/2,700/2,900/bpm.",
+    "Max. Torque: 760Nm.",
+    "Nut Busting Torque: 1,100Nm.",
+    "Bolt Capacity: Standard: M10-M24, High Tensile: M10-M16."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf964n-34in-high-torque-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCF964N 3/4in High Torque Impact Wrench 18V Bare Unit
+
+{
+  "price": "€401.46 inc VAT (€326.39 exc.vat)",
+  "description": "The DEWALT DCF964N 3/4in High Torque Impact Wrench is ideal for heavy-duty fastening applications. Its efficient brushless motor delivers high performance, extends tool life and allows for much shorter design. After 4 seconds of impacting, the tool automatically provides an increase in power to aid in loosening stubborn fasteners. The 4 mode membrane switch allows for better application control. Precision wrench mode helps to prevent overtightening and fastener run-off. A variable trigger allows complete control over all applications. Its comfortable rubber XR grip and switch increase user comfort whilst providing maximum control. There is also a bright white LED with delay feature for improved visibility and functionality. You can also control the brightness, so you can dim or turn off the light as you see fit. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF964N 3/4in High Torque Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Bit Holder: 3/4in Square Anvil",
+    "Max. Torque: 1,898Nm",
+    "Breakaway Torque: 2,584Nm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtw701-bl-lxt-impact-wrench.html-lllmstxt|>
+## Makita DTW701 BL LXT Impact Wrench
+
+{
+  "price": "€350.81 inc VAT",
+  "description": "The Makita DTW701 Brushless LXT Impact Wrench is compact and lightweight and features an electronic 4-stage impact power selection, and an auto-stop system, available both in forward/reverse rotation modes. Trigger switch with full-speed mode: variable speed mode can be changed to full-speed mode simply by pushing a button. In full-speed mode the trigger travel is shorter, the full-speed is reached faster. Fitted with an ergonomic soft grip and an electric brake for added safety. There is also a handy LED job light, ideal when working in dark areas.",
+  "availability": "In Stock",
+  "product_name": "Makita DTW701 BL LXT Impact Wrench",
+  "specifications": [
+    "Driving Shank: 1/2in Square Drive, Pin Detent",
+    "No Load Speed: 500/1,200/1,900/0-2,200/min",
+    "Impact Rate: 0-1,000/0-1,700/0-2,400/0-2,700/bpm",
+    "Torque: Max. Fastening 700Nm, Nut Busting: 1,000Nm",
+    "Bolt Capacity: Standard: M10 - M24, High Strength: Grade F10T M12 - M16, Grade 10.9 M10 - M16",
+    "Weight: 2.3kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw001gd201-xgt-40vmax-impact-wrench-40v-2-x-25ah-li-ion.html-lllmstxt|>
+## Makita TW001GD201 XGT 40Vmax Impact Wrench 40V 2 x 2.5Ah Li-ion
+
+{
+  "price": "€777.72 inc VAT (€632.29 exc.vat)",
+  "description": "Makita TW001G XGT 40Vmax Impact Wrench with a brushless motor and electronic 4 stage impact power selection for added versatility. 3 modes of reaction time allow for automatic stop available both in forward and reverse rotation modes. Reverse rotation Auto Stop mode stops after the bolt/nut loosened enough. The ergonomically designed handle with rubberised soft grip reduces user fatique. XPT (Extreme Protection Technology) has been engineered for improved dust and water resistance for operation in harsh job site conditions. A battery protection system automatically shuts off power when the battery level is low. It also features twin LED job lights with pre-glow and afterglow functions.",
+  "availability": "Out of Stock",
+  "product_name": "Makita TW001GD201 XGT 40Vmax Impact Wrench 40V 2 x 2.5Ah Li-ion",
+  "specifications": [
+    "Bit Holder: 3/4in Square",
+    "No Load Speed: 0-950/1,150/1,400/min",
+    "Impact Rate: 0-1,900/0-2,200/0-2,400/bpm",
+    "Max. Fastening Torque: 1,800Nm",
+    "Nut Busting Torque: 2,050Nm",
+    "Bolt Capacity: Standard M12 - M36",
+    "Weight: 3.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gds-18v-210-c-professional-12in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Bosch GDS 18V-210 C Professional 1/2in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€229.52 inc VAT (€186.60 exc.vat)",
+  "description": "Bosch GDS 18V-210 C Professional Impact Wrench with a 1/2in square bit holder. Delivers powerful performance whilst preventing damage to materials. Two default modes on the user interface, selftapping screw (A) and wood screw (B), mean more control and less broken or stripped off screwheads, worn-out threads, and damaged workpieces by slowing down or shutting off the impact driver. Each mode is customisable via the Bosch Toolbox App. Three speed/torque settings ensure impressive control and greater flexibility on the job. Comes with a status indicator, LED light, and belt clip for greater convenience. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GDS 18V-210 C Professional 1/2in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Tool Holder: 1/2in square.",
+    "No Load Speed: 0-1,100/0-2,300/0-3,400/min.",
+    "Impact Rate: 0-2,200/0-3,300/0-4,100/bpm.",
+    "Max. Torque: 90/160/210Nm.",
+    "Max. Breakaway Torque: 370Nm.",
+    "Bolt Size: M6 - M16.",
+    "Weight: 1.1kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gds-18v-1050-hc-pro-biturbo-34in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Bosch GDS 18V-1050 HC Pro BITURBO 3/4in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€348.77 inc VAT (€283.55 exc.vat)",
+  "description": "Bosch GDS 18V-1050 HC Pro Impact Wrench with BITURBO brushless technology, exploits the full potential of the ProCORE18V batteries. So you can conquer even the most challenging tasks. The perfect choice for enormously fast work progress. Two default modes on the user interface, metal mode (A) and wood mode (B), to avoid broken screwheads and the loss of metal bolts or nuts, by slowing down or shutting off the impact wrench. Each mode is customisable via the Bosch Toolbox App. For added flexibility and control, this cordless impact wrench is equipped with three different speed/torque settings. Electronic Motor Protection prevents overload and ensures a longer tool lifetime. Overload, overheating, and deep discharge are prevented by the drill drivers Electronic Cell Protection. Ideal for tightening and removing metal bolts and nuts up to M24 on a variety of jobs like structural steel construction, pipe fitting, vehicle maintenance, or when using screws/lag bolts in wood construction. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). For maximum power use ProCORE18V ≥ 5.5 Ah (NOT SUPPLIED). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GDS 18V-1050 HC Pro BITURBO 3/4in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Tool Holder: 3/4in square.",
+    "No Load Speed: 0-800/0-1,300/0-1,700/min.",
+    "Impact Rate: 0-1,600/0-2,300/0-2,600/bpm.",
+    "Max. Torque: 350/650/1,050Nm.",
+    "Max. Breakaway Torque: 1,700Nm.",
+    "Bolt Size: M14 - M24.",
+    "Weight: 2.9kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gds-18v-1050-h-pro-biturbo-34in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Bosch GDS 18V-1050 H Pro BITURBO 3/4in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€338.82 inc VAT (€275.46 exc.vat)",
+  "description": "Bosch GDS 18V-1050 H Pro Impact Wrench with BITURBO brushless technology, exploits the full potential of the ProCORE18V batteries. So you can conquer even the most challenging tasks. Whenever heavy-duty performance is needed, the new impact mechanism provides a tightening Torque of 1,050Nm and breakaway torque of 1,700Nm for particularly challenging working environments. For added flexibility and control, this cordless impact wrench is equipped with three different speed/torque settings. Electronic Motor Protection prevents overload and ensures a longer tool lifetime. Overload, overheating, and deep discharge are prevented by the drill drivers Electronic Cell Protection. Ideal for metal applications (M10-M24) like structural steel construction, metal assembly, pipe fitting, truck maintenance, and wood construction. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). For maximum power use ProCORE18V ≥ 5.5 Ah (NOT SUPPLIED). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GDS 18V-1050 H Pro BITURBO 3/4in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Tool Holder: 3/4in square.",
+    "No Load Speed: 0-800/0-1,200/0-1,750/min.",
+    "Impact Rate: 0-1,600/0-2,400/0-2,600/bpm.",
+    "Max. Torque: 350/750/1,050Nm.",
+    "Max. Breakaway Torque: 1,700Nm.",
+    "Bolt Size: M14 - M24.",
+    "Weight: 2.9kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gds-18v-450-hc-professional-12in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Bosch GDS 18V-450 HC Professional 1/2in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€270.69 inc VAT (€220.07 exc.vat)",
+  "description": "Bosch GDS 18V-450 HC Professional Impact Wrench with a 1/2in square bit holder. Delivers powerful performance whilst preventing damage to materials. Two default modes on the user interface, selftapping screw (A) and wood screw (B), mean more control and less broken or stripped off screwheads, worn-out threads, and damaged workpieces by slowing down or shutting off the impact driver. Each mode is customisable via the Bosch Toolbox App. Three speed/torque settings ensure impressive control and greater flexibility on the job. Comes with a status indicator, LED light, and belt clip for greater convenience. Ideal for metal workshops/locksmiths, industrial assembly, framing and vehicle maintenance using metal bolts/nuts from M10-M20. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GDS 18V-450 HC Professional 1/2in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Tool Holder: 1/2in square.",
+    "No Load Speed: 0-1,000/0-1,500/0-2,300/min.",
+    "Impact Rate: 0-1,900/0-2,500/0-3,300/bpm.",
+    "Max. Torque: 250/330/450Nm.",
+    "Max. Breakaway Torque: 800Nm.",
+    "Bolt Size: M10 - M20.",
+    "Weight: 1.6kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gds-18v-330-hc-professional-12in-impact-wrench-18v-bare-unit.html-lllmstxt|>
+## Bosch GDS 18V-330 HC Professional 1/2in Impact Wrench 18V Bare Unit
+
+{
+  "price": "€261.02 inc VAT (€212.21 exc.vat)",
+  "description": "Bosch GDS 18V-330 HC Professional Impact Wrench with a 1/2in square bit holder. Delivers powerful performance whilst preventing damage to materials. Two default modes on the user interface, selftapping screw (A) and wood screw (B), mean more control and less broken or stripped off screwheads, worn-out threads, and damaged workpieces by slowing down or shutting off the impact driver. Each mode is customisable via the Bosch Toolbox App. Three speed/torque settings ensure impressive control and greater flexibility on the job. Comes with a status indicator, LED light, and belt clip for greater convenience. Ideal for metal workshops/locksmiths, industrial assembly, framing, and vehicle maintenance using metal bolts/nuts from M8-M18. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GDS 18V-330 HC Professional 1/2in Impact Wrench 18V Bare Unit",
+  "specifications": [
+    "Tool Holder: 1/2in square",
+    "No Load Speed: 0-1,200/0-1,900/0-2,800/min",
+    "Impact Rate: 0-2,400/0-3,100/0-3,800/bpm",
+    "Max. Torque: 200/260/330Nm",
+    "Max. Breakaway Torque: 560Nm",
+    "Bolt Size: M8 - M18",
+    "Weight: 1.2kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw002gz01-xgt-40vmax-bl-impact-wrench-40v-bare-unit.html-lllmstxt|>
+## Makita TW002GZ01 XGT® 40Vmax BL Impact Wrench 40V Bare Unit
+
+{
+  "price": "€402.20 inc VAT (€326.99 exc.vat)",
+  "description": "The Makita TW002G XGT® 40Vmax BL Impact Wrench has an efficient brushless impact wrench with electronic 4 stage impact power selection for added versatility. 3 modes of reaction time allow for automatic stop, available both in forward and reverse rotation modes. Reverse rotation auto stop mode stops after the bolt/nut loosened enough. Its ergonomically designed handle features a rubberised soft grip for increased user comfort and reduced fatigue. XPT (Extreme Protection Technology) provides improved dust and water resistance for operation in harsh job site conditions. The battery protection system automatically shuts off power when the battery level is low. Its also features twin LED lights with pre-glow and afterglow functions. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita TW002GZ01 XGT® 40Vmax BL Impact Wrench 40V Bare Unit",
+  "specifications": [
+    "Bit Holder: 1/2in Square C Ring",
+    "No Load Speed: 0-850/900/1,000/1,800/min.",
+    "Impact Rate: 0-1,700/1,800/2,000/2,400/bpm",
+    "Max. Torque: 280/630/1,100/1,700Nm",
+    "Nut Busting Torque: 2,200Nm",
+    "Bolt Capacity: Standard M12-M36, High Tensile Bolt M10-M27"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw0350-12in-impact-wrench-400w-110v.html-lllmstxt|>
+## Makita TW0350 1/2in Impact Wrench 400W 110V
+
+{
+  "price": "€504.30 inc VAT (€410.00 exc.vat)",
+  "description": "The Makita TW0350 Impact Wrench is capable of producing an incredibly high torque of 350Nm (260ft.lbs) and has forward/reverse rotation. It is equipped with a palm-fitting soft grip for comfortable work and is double insulated for increased user safety. It is supplied with a 24mm Socket and a Carry Case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita TW0350 1/2in Impact Wrench 400W 110V",
+  "specifications": [
+    "Bit Holder: 1/2in",
+    "Input Power: 400W",
+    "No Load Speed: 2,000/min.",
+    "Impact Rate: 2,000/bpm",
+    "Max. Torque: 350Nm",
+    "Max. Socket Size: 32mm A/F, Bolt Range: M12-M22",
+    "Weight: 3.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw1000-1in-impact-wrench-1200w-110v.html-lllmstxt|>
+## Makita TW1000 1in Impact Wrench 1200W 110V
+
+{
+  "price": "€1,136.30 inc VAT (€923.82 exc.vat)",
+  "description": "The Makita TW1000 1in Impact Wrench has been developed as a 1000Nm class impact wrench conforming to the European and North American standards and has a forward/reverse mode of operation. Its has a lightweight with plastic motor housing and handlewith bumpers that protect the tool at the front and the rear of the tool and the bottom of handle. It is fitted with a rubberized soft grip for comfortable operation. It is supplied with a 41mm socket, side handle and a carry case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita TW1000 1in Impact Wrench 1200W 110V",
+  "specifications": [
+    "Bit Holder: 1in Square",
+    "Input Power: 1,200 Watt",
+    "No Load Speed: 1,400/min.",
+    "Impact Rate: 1,500/bpm",
+    "Max. Torque: 1,000Nm",
+    "Max. Socket Size: 41mm A/F, Bolt Range: M24-M30, Hi Tensile Bolts: M22-M24",
+    "Weight: 8.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tw0250-12in-impact-wrench-500w-110v.html-lllmstxt|>
+## Makita TW0250 1/2in Impact Wrench 500W 110V
+
+{
+  "price": "€410.16 inc VAT (€333.46 exc.vat)",
+  "description": "The Makita TW0250 1/2in Impact Wrench has an aluminium hammer case that offers high-durability and a compact body size, only 251mm (9-7/8in). It is fitted with an ergonomic, palm-fitting soft grip. The tool offers variable speed, and has a reversible function.",
+  "availability": "In Stock",
+  "product_name": "Makita TW0250 1/2in Impact Wrench 500W 110V",
+  "specifications": [
+    "Input Power: 500W",
+    "No Load Speed: 0-2,300/min.",
+    "Impact Rate: 0-2,300/bpm",
+    "Max. Torque: 250Nm",
+    "Bolt Range: M10-M20, High Tensile Bolt: M10-M14",
+    "Weight: 2.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-6906-34in-impact-wrench-800w-110v.html-lllmstxt|>
+## Makita 6906 3/4in Impact Wrench 800W 110V
+
+{
+  "price": "€706.81 inc VAT (€574.64 exc.vat)",
+  "description": "The Makita 6906 3/4in Square Drive Impact Wrench has a heavy-duty construction and a high torque capacity. The tool is ideal for industrial applications and has a reversible function. The tool is double insulated for increased user safety. Supplied with: 1 x Socket 32mm, 1 x Hex Wrench 4mm, 1 x Side Handle and 1 x Carry Case",
+  "availability": "In Stock",
+  "product_name": "Makita 6906 3/4in Impact Wrench 800W 110V",
+  "specifications": [
+    "Bit Holder: 3/4in Square",
+    "Input Power: 800W",
+    "No Load Speed: 1,500/min.",
+    "Impact Rate: 1,600/bpm",
+    "Max. Torque: 588Nm",
+    "Max. Socket Size: 36mm A/F, Bolt Range: M16-M22",
+    "Weight: 5.6kg"
+  ]
+}
+

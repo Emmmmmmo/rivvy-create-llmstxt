@@ -1,0 +1,953 @@
+<|https://www.mydiy.ie/products/medium-cotton-string-twine-meat-packing-garden-veg-flowers-40-metres.html-lllmstxt|>
+## Medium Cotton String Twine Meat Packing Garden Veg Flowers 40 Metres
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "Fine Cotton String Ball\n40m approx\nThe all-purpose cotton string ball is ideal for a wide range of applications.\nPerfect for use in the office, at school/college or in the home.",
+  "availability": "In Stock",
+  "product_name": "Medium Cotton String Twine Meat Packing Garden Veg Flowers 40 Metres",
+  "specifications": [
+    "40m length",
+    "All-purpose cotton string ball",
+    "Ideal for various applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-poly-green-twine-280m-240g.html-lllmstxt|>
+## Kent & Stowe Poly Green Twine 280m (240g)
+
+{
+  "price": "€5.93 inc VAT (€4.82 exc.vat)",
+  "description": "The Kent & Stowe Poly Green Twine is a strong and durable multi-purpose twine that is suitable for a variety of gardening tasks at home in the garden, at the allotment and for floristry work. Size: 280m (240g), 3 Ply.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Poly Green Twine 280m (240g)",
+  "specifications": [
+    "K/S70100810 : €5.93",
+    "Size: 280m (240g), 3 Ply"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-jute-twine.html-lllmstxt|>
+## Kent & Stowe Jute Twine
+
+{
+  "price": "€2.94 inc VAT",
+  "description": "The Kent & Stowe Jute Twine is 100% biodegradable and is suitable for a variety of gardening tasks at home in the garden, at the allotment and for floristry work. Available in a variety of colours and lengths.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Jute Twine",
+  "specifications": [
+    "100% biodegradable",
+    "Suitable for various gardening tasks",
+    "Available in multiple colors and lengths"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-339-6t-hand--pole-pruning-saw-360mm-14in.html-lllmstxt|>
+## Bahco 339-6T Hand / Pole Pruning Saw 360mm (14in)
+
+{
+  "price": "€36.15 inc VAT (€29.39 exc.vat)",
+  "description": "Bahco 339-6T Hand / Pole Pruning Saw for either hand-held use or on extension poles (25mm diameter). Special hardpoint fleam toothing is very efficient on pull stroke sawing. Ideal for orchard, forestry and landscape pruning work. Fits AP-3M pole. Length: 360mm (14in).",
+  "availability": "In Stock",
+  "product_name": "Bahco 339-6T Hand / Pole Pruning Saw 360mm (14in)",
+  "specifications": [
+    "Length: 360mm (14in)",
+    "Fits AP-3M pole",
+    "Special hardpoint fleam toothing for efficient sawing",
+    "Ideal for orchard, forestry and landscape pruning"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-349-pruning-saw-300mm-12in.html-lllmstxt|>
+## Bahco 349 Pruning Saw 300mm (12in)
+
+{
+  "price": "€34.27 inc VAT (€27.86 exc.vat)",
+  "description": "The Bahco 349 Pruning Saw for pruning ornamental shrubs and fruit trees in the garden. The blade has an anti-friction coating for rust protection and easy cut and the toothing is designed to provide an aggressive cut on the pullstroke. Size: 300mm (12in).",
+  "availability": "In Stock",
+  "product_name": "Bahco 349 Pruning Saw 300mm (12in)",
+  "specifications": [
+    "Size: 300mm (12in)",
+    "Anti-friction coating for rust protection",
+    "Aggressive cut on the pullstroke"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-385-6t-pruning-saw-360mm-14in.html-lllmstxt|>
+## Bahco 385-6T Pruning Saw 360mm (14in)
+
+{
+  "price": "€53.20 inc VAT (€43.25 exc.vat)",
+  "description": "Bahco 385-6T Pruning Saw with a curved blade pruning saw with precision sharpened and set reversed toothing which cuts on both the push and pull stroke. The tubular steel handle is riveted to the blade and is designed to be used with a 25mm (1in) extension pole. The blade tip is extended into a hook which prevents the blade from slipping out of the kerf during work. A striking knife is attached to the blade and handle which is used for cutting through the bark and the surface wood on the underside of the branch prior to cutting. This prevents splintering and bark stripping when the branch breaks and falls. Length: 360mm (14in).",
+  "availability": "In Stock",
+  "product_name": "Bahco 385-6T Pruning Saw 360mm (14in)",
+  "specifications": [
+    "Length: 360mm (14in)",
+    "Curved blade for efficient cutting",
+    "Precision sharpened and set reversed toothing",
+    "Tubular steel handle riveted to the blade",
+    "Designed for use with a 25mm (1in) extension pole",
+    "Blade tip extended into a hook to prevent slipping",
+    "Striking knife attached for cutting bark"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-396-hp-folding-pruning-saw-190mm-75in.html-lllmstxt|>
+## Bahco 396-HP Folding Pruning Saw 190mm (7.5in)
+
+{
+  "price": "€47.83 inc VAT (€38.89 exc.vat)",
+  "description": "Bahco 396-HP Folding Pruning Saw is ideal for tackling a host of general cutting chores. Designed for cutting both green and dry wood and ideal for professional fruit growers. With XT toothing configuration, the 396 is capable of cutting much faster than the conventional pruning saws. Safety lock for the folding blade. Length: 190mm. Replacement blade available.",
+  "availability": "In Stock",
+  "product_name": "Bahco 396-HP Folding Pruning Saw 190mm (7.5in)",
+  "specifications": [
+    "Length: 190mm",
+    "Designed for cutting both green and dry wood",
+    "XT toothing configuration for faster cutting",
+    "Safety lock for the folding blade",
+    "Replacement blade available"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-396-jt-blade-replacement-blade.html-lllmstxt|>
+## Bahco 396-JT-BLADE Replacement Blade
+
+{
+  "price": "€36.47 inc VAT (€29.65 exc.vat)",
+  "description": "Replacement blade for folding pruning saw 396HP. Made from heavy gauge steel with hardened teeth for extra durability. Blade length 198mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco 396-JT-BLADE Replacement Blade",
+  "specifications": [
+    "Replacement blade for folding pruning saw 396HP",
+    "Made from heavy gauge steel",
+    "Hardened teeth for extra durability",
+    "Blade length 198mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-4212-pruning-saw-360mm-14in.html-lllmstxt|>
+## Bahco 4212 Pruning Saw 360mm (14in)
+
+{
+  "price": "€42.26 inc VAT (€34.36 exc.vat)",
+  "description": "Bahco 4212 Pruning Saw is a curved blade pruning saw with precision sharpened and set toothing, which cuts on the pull stroke. All teeth are set aggressive on pull stroke and the strong beech-wood handle has a hook for hanging the saw. The comfortable pistol-grip handle is made of Beech, and the blade is fileable. Length: 360mm. Weight: 0.28kg.",
+  "availability": "In Stock",
+  "product_name": "Bahco 4212 Pruning Saw 360mm (14in)",
+  "specifications": [
+    "Length: 360mm",
+    "Weight: 0.28kg",
+    "Curved blade",
+    "Precision sharpened and set toothing",
+    "Cuts on the pull stroke",
+    "Beech-wood handle with hook for hanging"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-pg-72-folding-pruning-saw-190mm-75in.html-lllmstxt|>
+## Bahco PG-72 Folding Pruning Saw 190mm (7.5in)
+
+{
+  "price": "€35.52 inc VAT (€28.88 exc.vat)",
+  "description": "Bahco PG-72 Folding Pruning Saw with anti-friction coating and special XT7-Toothing for fast cut in hard and dry wood. Comfortable two-component handle with safety lock in open or closed position. Length: 190mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco PG-72 Folding Pruning Saw 190mm (7.5in)",
+  "specifications": [
+    "Length: 190mm",
+    "Anti-friction coating",
+    "Special XT7-Toothing for fast cut in hard and dry wood",
+    "Comfortable two-component handle",
+    "Safety lock in open or closed position"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-sw31-bowsaw-600mm-24in.html-lllmstxt|>
+## Fiskars SW31 Bowsaw 600mm (24in)
+
+{
+  "price": "€18.70 inc VAT (€15.20 exc.vat)",
+  "description": "The Fiskars SW31 Bowsaw is the best choice for sawing heavier stems, thicker branches and boughs on trees. It features a curved nose that enables cutting in hard to reach or difficult positions such as in dense foliage trees and in hedges. This saw cuts on both the push and pull stroke with a unique plane toothing. To protect the person sawing, this comes with a plastic protector for safe transportation around the garden.",
+  "availability": "In Stock",
+  "product_name": "Fiskars SW31 Bowsaw 600mm (24in)",
+  "specifications": [
+    "Capacity: 200mm Stems and Thicker Branches",
+    "Length: 625mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-pruning-saw-18in-blade.html-lllmstxt|>
+## Kent & Stowe Pruning Saw 18in Blade
+
+{
+  "price": "€17.17 inc VAT (€13.96 exc.vat)",
+  "description": "The Kent and Stowe Pruning Saw has a precision filed blade and hardpoint teeth that are ideal for fast and effortless cutting. It has small teeth for the start of cutting and large teeth for wet and fast cutting. Cutting Capacity: 245mm (10in). Blade Length: 45cm (18in). Guarantee: 5 years.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Pruning Saw 18in Blade",
+  "specifications": [
+    "Cutting Capacity: 245mm (10in)",
+    "Blade Length: 45cm (18in)",
+    "Guarantee: 5 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-turbo-folding-saw.html-lllmstxt|>
+## Kent & Stowe Turbo Folding Saw
+
+{
+  "price": "€15.49 inc VAT (€12.59 exc.vat)",
+  "description": "The Kent and Stowe Turbo Folding Saw is suitable for pruning all mature and dead wood. It folds for safe and easy storage and is ideal for fitting in a pocket or a garden trug. The blade is made from carbon steel, which is strong and durable. Cutting Diameter: 355mm (14in). Guarantee: 5 years.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Turbo Folding Saw",
+  "specifications": [
+    "K/S70100446 : €15.49",
+    "Cutting Diameter: 355mm (14in)",
+    "Guarantee: 5 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-p140-bypass-lopping-shears-60cm-35mm-capacity.html-lllmstxt|>
+## Bahco P140 Bypass Lopping Shears 60cm 35mm Capacity
+
+{
+  "price": "€60.17 inc VAT (€48.92 exc.vat)",
+  "description": "High quality bypass loppers for pruning trees and shrubs in the home and garden. The cutting blade of this loppers slides past a counterblade in a scissor action hence the name bypass. The pivot bolt of the Bahco lopper is offset from the natural centre line of the tool. This unique design feature creates a slicing motion during cutting, which greatly assists the pruning of live wood and spreads the cut over a larger area of the blade for increased life. The hook shape of the Bahco lopper counterblade enables a large cutting diameter and holds the branch steady during cutting. The sap groove is a recess which reduces the area of contact between blade and counterblade and results in less friction and sticking. The blades are made of blue steel. Type: Bypass. Length: 600mm. Capacity: 35mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco P140 Bypass Lopping Shears 60cm 35mm Capacity",
+  "specifications": [
+    "Type: Bypass",
+    "Length: 600mm",
+    "Capacity: 35mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-p16-60-f-traditional-loppers-60cm-30mm-capacity.html-lllmstxt|>
+## Bahco P16-60-F Traditional Loppers 60cm 30mm Capacity
+
+{
+  "price": "€112.09 inc VAT (€91.13 exc.vat)",
+  "description": "These bypass loppers are designed for pruning and training all kinds of vines. The blade has two different edge radii for quick and powerful cuts and to finish the cut smoothly and easily. The loppers are very comfortable to use and the soft rubber buffers between the handles prevent fatigue. The forged counterblade is very robust. Type: Bypass. Length: 600mm. Capacity. 30mm.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco P16-60-F Traditional Loppers 60cm 30mm Capacity",
+  "specifications": [
+    "Type: Bypass",
+    "Length: 600mm",
+    "Capacity: 30mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-pg-19-expert-bypass-lopper-telescopic-40mm-capacity.html-lllmstxt|>
+## Bahco PG-19 Expert Bypass Lopper Telescopic 40mm Capacity
+
+{
+  "price": "€96.59 inc VAT (€78.53 exc.vat)",
+  "description": "Bahco PG-19 Expert Bypass Lopper with telescopic handles made of silver aluminium tubes, extendable from 65 - 90cm. The special locking system locks/ unlocks with just a quarter-turn. The lopper has an exchangeable rubber buffer and comfortable bi-material grips made of orange polypropylene and soft black thermoplastic elastomer. The blade with slicing cut is made of high grade steel, fully hardened and exchangeable. Length: 650mm. Extended length: 900mm. Cutting capacity: 40mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco PG-19 Expert Bypass Lopper Telescopic 40mm Capacity",
+  "specifications": [
+    "Telescopic handles made of silver aluminium tubes",
+    "Extendable from 65 - 90cm",
+    "Special locking system",
+    "Exchangeable rubber buffer",
+    "Comfortable bi-material grips",
+    "Blade made of high grade steel",
+    "Cutting capacity: 40mm",
+    "Length: 650mm",
+    "Extended length: 900mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-singlestep-lopper-bypass-hook-head-l28.html-lllmstxt|>
+## Fiskars SingleStep™ Lopper Bypass Hook Head L28
+
+{
+  "price": "€34.56 inc VAT (€28.10 exc.vat)",
+  "description": "The Fiskars FSK112160 SingleStep™ Lopper L28 has handles made from lightweight, durable polypropylene and hardened steel blades with a friction reducing coating to ensure that the cut is clean and straightforward with reduced effort in the cut. The lopper features a hook head which helps to grip the branch and keep it in place when cutting tree branches. These small but handy loppers ensure that all your cutting tasks for small to medium branches are covered. Length: 495mm. Capacity: 35mm.",
+  "availability": "In Stock",
+  "product_name": "Fiskars SingleStep™ Lopper Bypass Hook Head L28",
+  "specifications": [
+    "Length: 495mm",
+    "Capacity: 35mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-singlestep-lopper-bypass-hook-head-l38-816mm.html-lllmstxt|>
+## Fiskars SingleStep™ Lopper Bypass Hook Head L38 816mm
+
+{
+  "price": "€39.26 inc VAT (€31.92 exc.vat)",
+  "description": "The Fiskars FSK112460 SingleStep Lopper Bypass Hook Head L38 features durable polypropylene handles and a handy hook head which is highly effective at gripping branches in the cut. This is a highly effective lopper thanks to the additional cutting power of its larger size and the bypass head, making it suitable for cutting fresh wood. The large size of this lopper allows for a cutting capacity of 40mm, all with the same benefits of hardened steel blades with their friction reducing coating ensuring that the cut is clean and straightforward, with reduced effort in the cut. For anybody in need of a good sized, no nonsense lopper for heavier branches, this is an excellent choice.",
+  "availability": "In Stock",
+  "product_name": "Fiskars SingleStep™ Lopper Bypass Hook Head L38 816mm",
+  "specifications": [
+    "Length: 816mm",
+    "Cutting capacity: 40mm",
+    "Weight: 1.42kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-smartfit-telescopic-lopper-l86-665-915mm.html-lllmstxt|>
+## Fiskars SmartFit Telescopic Lopper L86 665-915mm
+
+{
+  "price": "€65.44 inc VAT (€53.20 exc.vat)",
+  "description": "The Fiskars FSK112500 SmartFit L86 Telescopic Lopper is ideal for cutting both higher and lower branches due to its telescopic properties. It has comfortable SoftGrip handles, and a non-stick coated upper blade for easier cutting. Length: 665-915mm. Weight: 1,280g.",
+  "availability": "In Stock",
+  "product_name": "Fiskars SmartFit Telescopic Lopper L86 665-915mm",
+  "specifications": [
+    "Length: 665-915mm",
+    "Weight: 1,280g",
+    "SoftGrip handles",
+    "Non-stick coated upper blade"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-telescopic-handle-bypass-loppers.html-lllmstxt|>
+## Kent & Stowe Telescopic Handle Bypass Loppers
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "The Kent and Stowe Telescopic Handle Bypass Loppers ideal for general pruning of green live wood. Handles extend up to 95cm to provide extra reach, meaning they are ideal for hard to reach areas. Non-stick blades are made from strong carbon steel. Cutting Capacity: 45mm. Guarantee: 5 years.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Telescopic Handle Bypass Loppers",
+  "specifications": [
+    "Telescopic handle extends up to 95cm",
+    "Cutting capacity of 45mm",
+    "Non-stick blades made from strong carbon steel",
+    "5-year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-general-purpose-loppers.html-lllmstxt|>
+## Kent & Stowe General Purpose Loppers
+
+{
+  "price": "€21.08 inc VAT (€17.14 exc.vat)",
+  "description": "The Kent & Stowe General Purpose Loppers have been hand crafted and are ideal for precision cutting, all pruning tasks and for general pruning of live wood. They have a scissor action bypass blade that produces a clean cut with minimal damage. Strong and durable carbon steel non-stick blades ensure a smooth cutting action. Cutting Capacity: 30mm.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe General Purpose Loppers",
+  "specifications": [
+    "Cutting Capacity: 30mm",
+    "Hand crafted",
+    "Scissor action bypass blade",
+    "Carbon steel non-stick blades"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-powergear-bypass-loppers.html-lllmstxt|>
+## Fiskars Powergear Bypass Loppers
+
+{
+  "price": "from €55.28 inc VAT",
+  "description": "These Fiskars loppers are suitable for heavy cutting of fresh wood, with a cutting capacity up to 35mm diameter. The unique Power-Gear™ mechanism increases cutting power and distributes it evenly throughout the cutting action. The PowerStep™ technology allows gardeners to cut branches in 1 or multiple steps. This makes the workload easier, eliminating strain and pain, and increases the overall pleasure of gardening. Fiskars loppers are made of fibreglass reinforced polyamide, which makes them lightweight and strong. The cutting blades are PTFE coated for less friction.",
+  "availability": "In Stock",
+  "product_name": "Fiskars Powergear Bypass Loppers",
+  "specifications": [
+    "Cutting capacity up to 35mm diameter",
+    "Power-Gear™ mechanism for increased cutting power",
+    "PowerStep™ technology for cutting in multiple steps",
+    "Made of fibreglass reinforced polyamide",
+    "PTFE coated cutting blades for less friction"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-powergear-x-bypass-lopper.html-lllmstxt|>
+## Fiskars PowerGear™ X Bypass Lopper
+
+{
+  "price": "€84.99 inc VAT",
+  "description": "The Fiskars PowerGear™ X Bypass Loppers are ideal for frequent cutting of fresh wood. The unique PowerGear™ mechanism gives 3x the cutting power, making light work of the toughest challenges. The blades are made from stainless steel with a friction-reducing PTFE blade coating and an optimal catch due to curved lower blade. The handles have been specially designed for increased comfort, with SoftGrip™ material and 3D contour moulding.",
+  "availability": "In Stock",
+  "product_name": "Fiskars PowerGear™ X Bypass Lopper",
+  "specifications": [
+    "Unique PowerGear™ mechanism for 3x cutting power",
+    "Stainless steel blades with PTFE coating",
+    "Curved lower blade for optimal catch",
+    "Comfortable handles with SoftGrip™ material"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bulldog-bd1101rw-evergreen-compound-anvil-lopper.html-lllmstxt|>
+## Bulldog BD1101RW Evergreen Compound Anvil Lopper
+
+{
+  "price": "€44.12 inc VAT (€35.87 exc.vat)",
+  "description": "These Bulldog Evergreen Lopping Shears use a compound action to allow a much greater pressure to be applied when cutting. The loppers have anvil blades, and the aluminium handles have soft-touch grips for comfort. Lightweight design for less fatigue. Cutting capacity: 45mm.",
+  "availability": "Out of Stock",
+  "product_name": "Bulldog BD1101RW Evergreen Compound Anvil Lopper",
+  "specifications": [
+    "Cutting capacity: 45mm",
+    "Aluminium handles with soft-touch grips",
+    "Lightweight design for less fatigue"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-powergear-anvil-lopper-l31-387mm.html-lllmstxt|>
+## Fiskars PowerGear™ Anvil Lopper L31 387mm
+
+{
+  "price": "€35.01 inc VAT (€28.46 exc.vat)",
+  "description": "The Fiskars FSK112170 PowerGear™ Anvil Loppers have a patented gear mechanism that makes cutting easier compared to standard mechanisms. The upper blade is made from extra hard, corrosion resistant steel (CrMoV), ensuring that it stays sharper for longer. The non-stick PTFE coating reduces friction and makes cutting and cleaning easier. The anvil blade is made from FiberComp™ to allow steady cutting of hard, dry wood. The handles are also made of FiberComp™ to make them extremely lightweight and strong. Suitable for cutting dry wood. Cutting capacity: 35mm. Length: 387mm. Weight: 375g.",
+  "availability": "In Stock",
+  "product_name": "Fiskars PowerGear™ Anvil Lopper L31 387mm",
+  "specifications": [
+    "Cutting capacity: 35mm",
+    "Length: 387mm",
+    "Weight: 375g",
+    "Upper blade made from extra hard, corrosion resistant steel (CrMoV)",
+    "Non-stick PTFE coating",
+    "Anvil blade made from FiberComp™",
+    "Handles made of FiberComp™"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-powergear-anvil-lopper-large-l77-686mm.html-lllmstxt|>
+## Fiskars PowerGear Anvil Lopper Large L77 686mm
+
+{
+  "price": "€67.24 inc VAT (€54.67 exc.vat)",
+  "description": "These Fiskars FSK112580 anvil loppers are suitable for cutting dry and hard wood, with a cutting capacity up to 50mm diameter. The unique Power-Gear mechanism increases cutting power and distributes it evenly throughout the cutting action. The PowerStep technology allows gardeners to cut branches in 1 or multiple steps. This makes the workload easier, eliminating strain and pain, and increases the overall pleasure of gardening. Fiskars loppers are made of fibreglass reinforced polyamide, which makes them lightweight and strong. The cutting blades are PTFE coated for less friction. Cutting capacity : 50mm. Overall length: 686mm.",
+  "availability": "In Stock",
+  "product_name": "Fiskars PowerGear Anvil Lopper Large L77 686mm",
+  "specifications": [
+    "Cutting capacity: 50mm",
+    "Overall length: 686mm",
+    "Made of fibreglass reinforced polyamide",
+    "PTFE coated cutting blades for less friction"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-powergear-x-anvil-lopper-large.html-lllmstxt|>
+## Fiskars PowerGear™ X Anvil Lopper Large
+
+{
+  "price": "€88.44 inc VAT (€71.90 exc.vat)",
+  "description": "The Fiskars PowerGear™X Anvil Lopper is ideal for heavy cutting of hard and dry wood up to 55mm in diameter. The unique PowerGear™ mechanism gives 3x the cutting power, making light work of the toughest challenges. The blades are made from stainless steel with a friction-reducing PTFE blade coating and an optimal catch due to curved lower blade. The handles have been specially designed for increased comfort, with SoftGrip™ material and 3D contour moulding.",
+  "availability": "In Stock",
+  "product_name": "Fiskars PowerGear™ X Anvil Lopper Large",
+  "specifications": [
+    "Capacity: 50mm",
+    "Length: 800mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-xt-pro-anvil-loppers-745mm.html-lllmstxt|>
+## Roughneck XT Pro Anvil Loppers 745mm
+
+{
+  "price": "€58.33 inc VAT (€47.42 exc.vat)",
+  "description": "The Roughneck® XT Pro Anvil Loppers deliver a powerful cutting performance, and are drop forged for extra toughness. The high leverage compound cutting action offers an impressive 45mm cutting capacity, powering through dry or hard wood. A max. grip serrated anvil steadies material to prevent slippage, while the upper chrome vanadium steel blade ensures outstanding toughness and longer lasting sharpness. Heavy-duty steel handles offer maximum strength and feature ergonomically designed air cushion grips for maximum comfort. Comes with a 25 Year Guarantee.",
+  "availability": "In Stock",
+  "product_name": "Roughneck XT Pro Anvil Loppers 745mm",
+  "specifications": [
+    "Overall Size: 745mm (29.1/4in)",
+    "Cutting Capacity: 45mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-xt-pro-telescopic-anvil-loppers-695---945mm.html-lllmstxt|>
+## Roughneck XT Pro Telescopic Anvil Loppers 695 - 945mm
+
+{
+  "price": "€66.28 inc VAT (€53.89 exc.vat)",
+  "description": "These Roughneck® XT Pro Telescopic Anvil Loppers deliver a powerful cutting performance, and are drop forged for extra toughness. The high leverage compound cutting action offers an impressive 45mm cutting capacity, powering through dry or hard wood. A max. grip serrated anvil steadies material to prevent slippage, while the upper chrome vanadium steel blade ensures outstanding toughness and longer lasting sharpness. Telescopic, heavy-duty steel handles allow for extended reach and feature ergonomically designed air cushion grips for maximum comfort. They come with a 25 Year Guarantee.",
+  "availability": "In Stock",
+  "product_name": "Roughneck XT Pro Telescopic Anvil Loppers 695 - 945mm",
+  "specifications": [
+    "Overall Size: 695 - 945mm (27.1/2 - 37.1/4in)",
+    "Cutting Capacity: 45mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/faithfull-countryman-ratchet-anvil-lopper-760mm-30in.html-lllmstxt|>
+## Faithfull Countryman Ratchet Anvil Lopper 760mm (30in)
+
+{
+  "price": "€36.95 inc VAT (€30.04 exc.vat)",
+  "description": "Faithfull Countryman Anvil Loppers utilise a powerful ratchet action that can effortlessly cut branches up to 25mm thick. The top quality SK5 Japanese steel blade provides a clean cut for a prolonged life. A protective coating prevents corrosion and a non-stick coating helps to reduce friction. The bypass cutting action is perfect for cutting live wood. The strong aluminium handles have reinforcing ribs to reduce flex and are fitted with soft-grips to provide the user with extra comfort during prolonged periods of use.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Countryman Ratchet Anvil Lopper 760mm (30in)",
+  "specifications": [
+    "Cutting Capacity: 38mm (1.5in)",
+    "Overall Length: 760mm (30in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/faithfull-countryman-ratchet-anvil-telescopic-lopper.html-lllmstxt|>
+## Faithfull Countryman Ratchet Anvil Telescopic Lopper
+
+{
+  "price": "€42.84 inc VAT (€34.83 exc.vat)",
+  "description": "Faithfull Countryman Anvil Loppers utilise a powerful ratchet action that can effortlessly cut branches up to 25mm thick. The top quality SK5 Japanese steel blade provides a clean cut for a prolonged life. A protective coating prevents corrosion and a non-stick coating helps to reduce friction. The anvil cutting action is perfect for cutting dead wood. The Loppers' 4-position telescopic aluminium handles allow the length of the loppers to be adjusted to between 700mm and 880mm. Reinforcing ribs reduce flex and soft-grips provide extra comfort during prolonged periods of use.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Countryman Ratchet Anvil Telescopic Lopper",
+  "specifications": [
+    "Overall Length: 700-880mm (27.1/2in-34.1/2in)",
+    "Cutting Capacity: 38mm (1.5in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/faithfull-countryman-anvil-lopper-blade-only.html-lllmstxt|>
+## Faithfull Countryman Anvil Lopper Blade Only
+
+{
+  "price": "€6.92 inc VAT (€5.63 exc.vat)",
+  "description": "Replacement blade suitable for use with:\n\nFAICIULOP30A - Countryman Anvil Lopper - 760mm (30in)\n\nFAICOULOPANT - Countryman Anvil Lopper - Telescopic",
+  "availability": "In Stock",
+  "product_name": "Faithfull Countryman Anvil Lopper Blade Only",
+  "specifications": [
+    "Replacement blade for Countryman Anvil Lopper",
+    "Compatible with FAICIULOP30A and FAICOULOPANT models",
+    "Price includes VAT",
+    "Shipping available via DPD",
+    "Free delivery for orders over €150"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-surecut-all-purpose-bypass-loppers.html-lllmstxt|>
+## Kent & Stowe SureCut All Purpose Bypass Loppers
+
+{
+  "price": "€39.13 inc VAT (€31.81 exc.vat)",
+  "description": "Kent & Stowe SureCut All Purpose Bypass Loppers with SK5 Chrome plated steel blades which offer exceptional rust resistance and a superior cutting experience. Its robust yet lightweight aluminum frame incorporates the Reflex Energy System (patent pending). These reflex rubber bumpers absorb impact and deliver a gentle rebound, ensuring maximum comfort and minimal effort during cutting tasks. Suitable for trimming live, green wood and effortlessly tackling thicker branches. This high quality cutting tool is built to last, so you can enjoy using it again and again, plus with a 5 year guarantee, you can be assured it won’t let you down.",
+  "availability": "Out of Stock",
+  "product_name": "Kent & Stowe SureCut All Purpose Bypass Loppers",
+  "specifications": [
+    "Cutting Diameter: 30mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-sharp-x-e-tungsten-carbide-sharpener.html-lllmstxt|>
+## Bahco SHARP-X-E Tungsten Carbide Sharpener
+
+{
+  "price": "€26.00 inc VAT (€21.14 exc.vat)",
+  "description": "Bahco SHARP-X-E Tungsten Carbide Sharpener has tungsten carbide edges for re-sharpening of all cutting blades. Comfortable two-component handle.",
+  "availability": "In Stock",
+  "product_name": "Bahco SHARP-X-E Tungsten Carbide Sharpener",
+  "specifications": [
+    "Tungsten carbide edges for re-sharpening",
+    "Comfortable two-component handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-diamond-blade-sharpener.html-lllmstxt|>
+## Kent & Stowe Diamond Blade Sharpener
+
+{
+  "price": "€9.46 inc VAT (€7.69 exc.vat)",
+  "description": "The Kent & Stowe Diamond Blade Sharpener is ideal for prolonging the life of your blades and keeping them in good condition.  Used to sharpen Topiary shears, secateurs, knives and other small blades. Made from diamond coated steel.  Diamond sharpeners remove less steel from the blade leaving a smooth, sharp edge.  With a 2-sided blade designed to reach all areas while sharpening; one side is flat and the other slightly rounded.  Fitted with a soft comfort grip handle.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Diamond Blade Sharpener",
+  "specifications": [
+    "K/S70100613 : €9.46",
+    "Ideal for sharpening Topiary shears, secateurs, knives, and other small blades",
+    "Made from diamond coated steel",
+    "2-sided blade: one flat, one slightly rounded",
+    "Soft comfort grip handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-traditional-anvil-secateurs.html-lllmstxt|>
+## Kent & Stowe Traditional Anvil Secateurs
+
+{
+  "price": "€11.07 inc VAT (€9.00 exc.vat)",
+  "description": "These Kent and Stowe Traditional Anvil Secateurs are ideal for pruning all mature and dead wood. They are drop forged and have precision ground, quality blades. The blades are made from strong carbon steel and are non-stick. Cutting Capacity: 18mm. Length: 200mm (8in). Guarantee: 5 years.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Traditional Anvil Secateurs",
+  "specifications": [
+    "Cutting Capacity: 18mm",
+    "Length: 200mm (8in)",
+    "Guarantee: 5 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-p361-solid-anvil-pruner.html-lllmstxt|>
+## Fiskars P361 Solid™ Anvil Pruner
+
+{
+  "price": "€18.70 inc VAT (€15.20 exc.vat)",
+  "description": "The Fiskars P361 Solid™ Anvil Pruner is lightweight and comfortable to use. This pruner features an anvil-style steel blade for easy cuts through dead stems and branches. Its fully hardened, precision-ground blade stays sharp longer, while a low-friction blade coating resists rust and allows for smoother, easier cuts. A light, yet sturdy, FiberComp™ handle with full SoftGrip™ detail offers a secure grip and added comfort. There is an easy-open, sliding lock that protects the blade during transport and storage.",
+  "availability": "In Stock",
+  "product_name": "Fiskars P361 Solid™ Anvil Pruner",
+  "specifications": [
+    "Cutting Capacity: 20mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-p941-x-series-anvil-pruner.html-lllmstxt|>
+## Fiskars P941 X-series™ Anvil Pruner
+
+{
+  "price": "€38.70 inc VAT (€31.46 exc.vat)",
+  "description": "Fiskars P941 X-series™ Anvil Pruner features PowerGear™ technology that maximises leverage where you need it most, giving you 3x more cutting power through tough, thick stems and branches. An anvil-style, steel blade makes it ideal for clean cuts through dead growth. Its fully hardened, precision-ground blade stays sharp longer, while a low-friction blade coating resists rust and allows for smoother, easier cuts. A thoughtfully designed, lightweight, durable, FiberComp™ handle fits the natural shape of your hand, reducing fatigue, while SoftGrip™ details on the top handle offer a secure, comfortable grip. A sliding lock protects the blade during transport and storage, and is conveniently placed for quick and easy activation. Specification: Cutting Capacity: 24mm",
+  "availability": "In Stock",
+  "product_name": "Fiskars P941 X-series™ Anvil Pruner",
+  "specifications": [
+    "Cutting Capacity: 24mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/faithfull-countryman-anvil-secateurs.html-lllmstxt|>
+## Faithfull Countryman Anvil Secateurs
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Faithfull Countryman Anvil Secateurs are best suited for cutting dead wood. They feature a high carbon steel SK5 precision ground and polished cutting blade, with a non-stick coating for superior cutting and performance. The Polypropylene and fibreglass handles feature a soft-grip that provides additional strength and comfort, with the added benefit of a two-position hand switch that adjusts the handles opening width to accommodate small or large hands, as well as thicker stems or branches. Cutting capacity: 16mm. Length: 200mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Countryman Anvil Secateurs",
+  "specifications": [
+    "Cutting capacity: 16mm",
+    "Length: 200mm",
+    "High carbon steel SK5 precision ground and polished cutting blade",
+    "Non-stick coating for superior cutting and performance",
+    "Polypropylene and fibreglass handles with soft-grip",
+    "Two-position hand switch for adjustable handle opening width"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-surecut-hardwood-anvil-ratchet-secateurs.html-lllmstxt|>
+## Kent & Stowe SureCut Hardwood Anvil Ratchet Secateurs
+
+{
+  "price": "€23.89 inc VAT (€19.42 exc.vat)",
+  "description": "The Kent & Stowe SureCut Hardwood Anvil Ratchet Secateurs come with two cutting modes. Ratchet mode (up to 22mm) allows you to make four short cuts through one branch. Single mode (up to 18mm) allows you to make the cut in one action, ideal for smaller branches. This tool is ideal for tackling even the toughest pruning tasks, including mature and hard dead wood. The carbon steel blades are designed to deliver a precise and clean cut with every use. The aluminum lightweight body, complemented by a BI-material micro hex grip, ensures the tool is not only durable but also comfortable to handle. This high quality cutting tool is built to last, so you can enjoy using it again and again, plus with a 5 year guarantee, you can be assured it won’t let you down.",
+  "availability": "Out of Stock",
+  "product_name": "Kent & Stowe SureCut Hardwood Anvil Ratchet Secateurs",
+  "specifications": [
+    "Cutting Diameter: 22mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-garden-life-all-purpose-mini-secateurs.html-lllmstxt|>
+## Kent & Stowe Garden Life All Purpose Mini Secateurs
+
+{
+  "price": "€16.00 inc VAT (€13.01 exc.vat)",
+  "description": "These Kent & Stowe Garden Life All Purpose Mini Secateurs are the lighter and more compact version of our SureCut All Purpose Secateurs. Designed to be practical, easy to handle, and providing enhanced maneuverability, these lightweight secateurs are a perfect fit for gardeners who may find heavier tools too much whilst gardening. Its razor sharp SK5 Chrome plated steel blades make light work of cutting through live, green wood with ease. This high quality cutting tool is built to last, so you can enjoy using it again and again, plus with a 5 year guarantee, you can be assured it won’t let you down.",
+  "availability": "Out of Stock",
+  "product_name": "Kent & Stowe Garden Life All Purpose Mini Secateurs",
+  "specifications": [
+    "Cutting Diameter: 15mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-garden-life-flower-snips.html-lllmstxt|>
+## Kent & Stowe Garden Life Flower Snips
+
+{
+  "price": "€16.00 inc VAT (€13.01 exc.vat)",
+  "description": "Kent & Stowe Garden Life Flower Snips are designed for those who prefer a lighter touch. These snips are 40% lighter than our SureCut Perennial Snips, making them perfect for users seeking a more manageable and easy-to-use option in the garden. Its high quality SK5 steel blades offer effortless and precise snipping for your flowers and shoots. They also feature a convenient hanging loop, allowing you to keep them easily accessible in your shed. This high quality cutting tool is built to last, so you can enjoy using it again and again, plus with a 5 year guarantee, you can be assured it won’t let you down. Specification: Cutting Diameter: 6mm.",
+  "availability": "Out of Stock",
+  "product_name": "Kent & Stowe Garden Life Flower Snips",
+  "specifications": [
+    "Cutting Diameter: 6mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-surecut-all-purpose-lite-secateurs.html-lllmstxt|>
+## Kent & Stowe SureCut All Purpose Lite Secateurs
+
+{
+  "price": "€23.89 inc VAT (€19.42 exc.vat)",
+  "description": "Kent & Stowe SureCut All Purpose Lite Bypass Secateurs with SK5 carbon steel blades offer a precise, clean cut every time. These secateurs will effortlessly slice through green, live wood as well as flowers and shrubs. The die cast aluminium handles feature a bi-material micro hex grip making them supremely comfortable and easy to use. These SureCut All Purpose Secateurs are suitable for everyone, with a central lock for left or right-handed use, as well as an adjustable hand sizer. This high quality cutting tool is built to last, so you can enjoy using it again and again, plus with a 5 year guarantee, you can be assured it won’t let you down. Specification: Cutting Diameter: 24mm.",
+  "availability": "Out of Stock",
+  "product_name": "Kent & Stowe SureCut All Purpose Lite Secateurs",
+  "specifications": [
+    "Cutting Diameter: 24mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-surecut-hard-wood-lite-anvil-secateurs.html-lllmstxt|>
+## Kent & Stowe SureCut Hard Wood Lite Anvil Secateurs
+
+{
+  "price": "€23.89 inc VAT (€19.42 exc.vat)",
+  "description": "Kent & Stowe SureCut Hard Wood Lite Anvil Secateurs with SK5 carbon steel blades offer a precise, clean cut every time. These secateurs cleanly chop through mature, hard and dead wood. The die-cast aluminum handles come with a comfortable BI-material micro hex grip, ensuring exceptional ease of use. These versatile SureCut Hard Wood Secateurs cater to all users, featuring a central lock for both left and right-handed individuals, along with an adjustable hand sizer for a customised fit. This high quality cutting tool is built to last, so you can enjoy using it again and again, plus with a 5 year guarantee, you can be assured it won’t let you down. Specification: Cutting Diameter: 27mm.",
+  "availability": "Out of Stock",
+  "product_name": "Kent & Stowe SureCut Hard Wood Lite Anvil Secateurs",
+  "specifications": [
+    "Cutting Diameter: 27mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-p128-19-grape-vine-secateur-snip-6mm-capacity.html-lllmstxt|>
+## Bahco P128-19 Grape Vine Secateur Snip 6mm Capacity
+
+{
+  "price": "€26.22 inc VAT (€21.32 exc.vat)",
+  "description": "The Bahco P128 lightweight snips for harvesting and cleaning out the fruit to ensure better growth, also recommended for thinning out apple fruit to encourage a better growth. The long and fine cutting head has a 35 mm opening and has fibreglass reinforced plastic handles. Supplied with lightweight plastic holder. Length: 190 mm. Max Diameter: 6mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco P128-19 Grape Vine Secateur Snip 6mm Capacity",
+  "specifications": [
+    "Length: 190 mm",
+    "Max Diameter: 6mm",
+    "Fibreglass reinforced plastic handles",
+    "Lightweight plastic holder"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-pg-03-l-secateurs---left-handed.html-lllmstxt|>
+## Bahco PG-03-L Secateurs - Left Handed
+
+{
+  "price": "€38.57 inc VAT (€31.36 exc.vat)",
+  "description": "The Bahco PG-03-L Secateurs are designed specifically for left-hand use. They are ideal for all pruning work in the home garden. The secateurs have a Xylan® coated blade for rust protection and reduced friction and fibreglass reinforced plastic handles. For safety, the secateurs have a one-hand locking mechanism.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco PG-03-L Secateurs - Left Handed",
+  "specifications": [
+    "Length: 200mm",
+    "Cutting capacity: 20mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-pg-12-f-bypass-secateurs-medium-20mm-capacity.html-lllmstxt|>
+## Bahco PG-12-F Bypass Secateurs Medium 20mm Capacity
+
+{
+  "price": "€23.41 inc VAT (€19.03 exc.vat)",
+  "description": "The Bahco PG-12-F Bypass Secateurs have a narrow cutting head, making them ideal for cutting flowers, herbs and shrubs. With carbon steel blades and lightweight composite handles, they are tough and durable, as well as comfortable to use. Length: 210mm. Cutting capacity: 20mm. Weight: 165g.",
+  "availability": "In Stock",
+  "product_name": "Bahco PG-12-F Bypass Secateurs Medium 20mm Capacity",
+  "specifications": [
+    "Length: 210mm",
+    "Cutting capacity: 20mm",
+    "Weight: 165g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-pg-s1-f-ergo-secateurs-small-15mm-capacity.html-lllmstxt|>
+## Bahco PG-S1-F ERGO™ Secateurs Small 15mm Capacity
+
+{
+  "price": "€47.58 inc VAT (€38.68 exc.vat)",
+  "description": "These Bahco secateurs have been developed according to the scientific ERGO™ process, and are designed for all pruning work in the home garden. The horizontal and vertical inclination of the cutting head allows the natural alignment of hand and forearm to preserve tendons and nerves from strain to prevent fatigue. The Xylan® coated blade ensures easy cutting and a soft grip on the upper handle provides comfort. The narrow cutting head of the secateurs allows easy reach, making them ideal for cutting flowers, herbs and shrubs. Length: 175mm. Cutting capacity: 15mm. Weight: 160g.",
+  "availability": "In Stock",
+  "product_name": "Bahco PG-S1-F ERGO™ Secateurs Small 15mm Capacity",
+  "specifications": [
+    "Length: 175mm",
+    "Cutting capacity: 15mm",
+    "Weight: 160g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-singlestep-bypass-pruner-p26.html-lllmstxt|>
+## Fiskars SingleStep™ Bypass Pruner P26
+
+{
+  "price": "€15.89 inc VAT (€12.92 exc.vat)",
+  "description": "The Fiskars FSK111260 SingleStep™ P26 Bypass Pruner is ideal for basic pruning tasks in the garden and is suitable for cutting fresh wood with its bypass cutting action. The pruner has sturdy handles for a comfortable grip and a well-balanced design for a steady cutting action. The non-stick PTFE coating on the upper blade reduces friction and makes cutting and cleaning easier. The blades are made from strong carbon steel. Cutting capacity: 22mm. Length: 208mm. Weight: 200g.",
+  "availability": "In Stock",
+  "product_name": "Fiskars SingleStep™ Bypass Pruner P26",
+  "specifications": [
+    "Cutting capacity: 22mm",
+    "Length: 208mm",
+    "Weight: 200g",
+    "Non-stick PTFE coating on the upper blade",
+    "Blades made from strong carbon steel"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-left-handed-bypass-secateurs.html-lllmstxt|>
+## Kent & Stowe Left Handed Bypass Secateurs
+
+{
+  "price": "€21.18 inc VAT (€17.22 exc.vat)",
+  "description": "The Kent and Stowe Left Handed Bypass Secateurs are made from strong aluminium. They are ideal for general pruning of green, live wood and are specially designed for those who struggle with standard secateurs. The secateurs' blades are made from SK5 Carbon steel, which has been heat treated for additional strength. They are precision ground for easy and smooth cutting. Cutting Capacity: 20mm. Length: 20cm (8in). Guarantee: 5 years.",
+  "availability": "Out of Stock",
+  "product_name": "Kent & Stowe Left Handed Bypass Secateurs",
+  "specifications": [
+    "Cutting Capacity: 20mm",
+    "Length: 20cm (8in)",
+    "Guarantee: 5 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-p121-bypass-secateurs.html-lllmstxt|>
+## Bahco P121 Bypass Secateurs
+
+{
+  "price": "from €39.99 inc VAT",
+  "description": "Bahco P121 Bypass Secateurs are light, sturdy and practical secateurs and are suitable for all types of pruning work in the garden. Bypass secateurs are particularly suited for green wood. The razor sharp narrow pointed blades are non-stick coated and the locking mechanism has a wire clasp at the end of the handle. P121-20: Cutting Capacity: 20mm. P121-23: Cutting Capacity: 25mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco P121 Bypass Secateurs",
+  "specifications": [
+    "Cutting Capacity: 20mm (P121-20)",
+    "Cutting Capacity: 25mm (P121-23)",
+    "Light and sturdy design",
+    "Non-stick coated blades",
+    "Wire clasp locking mechanism"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-p126-bypass-secateurs.html-lllmstxt|>
+## Bahco P126 Bypass Secateurs
+
+{
+  "price": "€34.13 inc VAT",
+  "description": "Bahco P126 Bypass Secateurs are a robust general gardening secateurs and have bypass blades of professional quality to ensure a clean cut in live wood. Locking mechanism with wire clasp at the end of the handle. P126-19-E: Cutting Capacity: 15mm. P126-22-F: Cutting Capacity: 20mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco P126 Bypass Secateurs",
+  "specifications": [
+    "Cutting Capacity: 15mm (P126-19-E)",
+    "Cutting Capacity: 20mm (P126-22-F)",
+    "Robust general gardening secateurs",
+    "Bypass blades of professional quality",
+    "Locking mechanism with wire clasp"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-solid-sp13-pruning-snip---microtip.html-lllmstxt|>
+## Fiskars Solid™ SP13 Pruning Snip - Microtip
+
+{
+  "price": "€9.35 inc VAT (€7.60 exc.vat)",
+  "description": "The Fiskars Solid™ SP13 Pruning Snips have precise stainless steel blades with a microtip that cuts all the way to the tip. Ideal for shaping, repetitive trimming and intricate snips in tight places. Perfect for encouraging healthy growth on plants and flowers. Fitted with SoftGrip™ handles that suit both left and right-handed users.",
+  "availability": "In Stock",
+  "product_name": "Fiskars Solid™ SP13 Pruning Snip - Microtip",
+  "specifications": [
+    "Length: 140mm",
+    "Weight: 0.04kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-fingerloop-pruner-bypass-p44.html-lllmstxt|>
+## Fiskars Fingerloop Pruner Bypass P44
+
+{
+  "price": "€23.97 inc VAT (€19.49 exc.vat)",
+  "description": "The Fiskars Fingerloop Bypass Pruner P44 is an excellent addition to anyone's pruner collection. The comfortable Fingerloop configuration for the hand is complemented by a soft and sure SoftGrip™ inlay which makes cutting and pruning bushes extremely comfortable. The Fingerloop itself not only allows the user to engage all the power of the fingers in the cut but the loop also offers a first line of defence against sharp thorns when, for example, you are deadheading rose bushes.",
+  "availability": "In Stock",
+  "product_name": "Fiskars Fingerloop Pruner Bypass P44",
+  "specifications": [
+    "Model: FSK1001534",
+    "List Price: €31.12",
+    "You save: €7.15",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-ap3m-extending-pole-20---38m.html-lllmstxt|>
+## Bahco AP3M Extending Pole 2.0 - 3.8m
+
+{
+  "price": "€95.48 inc VAT (€77.63 exc.vat)",
+  "description": "Bahco AP3M Extending Pole is a telescopic aluminium extension that can be fitted to all Bahco Top Pruners and Pole Pruning Saws. The pole is used for working in difficult to reach areas. The pole is delivered with a bolt and wing nut for fixing the top pruner or pole pruning saw. Length: 2.0 Metres. Extended length: 3.8 Metres.",
+  "availability": "In Stock",
+  "product_name": "Bahco AP3M Extending Pole 2.0 - 3.8m",
+  "specifications": [
+    "Length: 2.0 Metres",
+    "Extended length: 3.8 Metres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-p34-27a-f-top-pruner-30mm-capacity-head-only.html-lllmstxt|>
+## Bahco P34-27A-F Top Pruner 30mm Capacity Head Only
+
+{
+  "price": "€64.88 inc VAT (€52.75 exc.vat)",
+  "description": "Bahco P34-27A-F Top Pruner is a professional top pruner with a double lever action. Pruning head only, with a pull cord. Capacity: 30mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco P34-27A-F Top Pruner 30mm Capacity Head Only",
+  "specifications": [
+    "Capacity: 30mm",
+    "Professional top pruner with double lever action",
+    "Pruning head only, with pull cord"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-powergear-telescopic-tree-pruner-upx86.html-lllmstxt|>
+## Fiskars PowerGear™ Telescopic Tree Pruner UPX86
+
+{
+  "price": "€134.53 inc VAT (€109.37 exc.vat)",
+  "description": "The Fiskars PowerGear™ X Telescopic Tree Pruner (UPX86) is the ultimate tool for effortless tree trimming. Designed for precision, reach, and comfort, this pruner allows you to cut fresh wood up to 32mm in diameter with ease. The adjustable shaft (2.4m-4m) and a maximum reach of 6m eliminate the need for ladders, making it perfect for trimming high tree crowns and dense bushes. Equipped with a 230° adjustable cutting head, you can customize your cutting angle for precise pruning in hard-to-reach areas. The SoftGrip™ handles provide superior comfort, while the non-slip base ensures stability and control. An orange cutting support enhances visibility, allowing for accurate and safe pruning. Whether you're tackling overhead branches or trimming at ground level without bending, the Fiskars PowerGear™ X Tree Pruner delivers efficiency, durability, and comfort for both home gardeners and professionals.",
+  "availability": "Out of Stock",
+  "product_name": "Fiskars PowerGear™ Telescopic Tree Pruner UPX86",
+  "specifications": [
+    "Extended reach up to 6m – no ladder needed",
+    "Cuts fresh wood up to 32mm in diameter with ease",
+    "Adjustable shaft (2.4m-4m) for versatile pruning",
+    "230° rotating cutting head for precise trimming",
+    "SoftGrip™ handles for comfort and control",
+    "Non-slip base for enhanced stability",
+    "Bright orange cutting support for improved visibility"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-powergear-tree-pruner-upx82.html-lllmstxt|>
+## Fiskars PowerGear™ Tree Pruner UPX82
+
+{
+  "price": "€90.28 inc VAT (€73.40 exc.vat)",
+  "description": "The Fiskars PowerGear™ Tree Pruner provides an extended reach for cutting fresh wood up to 32mm in diameter. With a cutting range of approximately 4.5m and a 230° adjustable cutting head. Fitted with durable soft grip handles and a non-slip base with orange cutting support for added visibility. Allows access to tree crowns and dense bushes, enabling the gardener to trim overhead without needing a ladder, or at ground level without bending or kneeling.",
+  "availability": "In Stock",
+  "product_name": "Fiskars PowerGear™ Tree Pruner UPX82",
+  "specifications": [
+    "Cutting Capacity: 32mm",
+    "Vertical Cutting Reach: 4.5m",
+    "Weight: 1100g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-top-pruner-cw-pole.html-lllmstxt|>
+## Bahco Top Pruner C/W Pole
+
+{
+  "price": "€142.89 inc VAT (€116.17 exc.vat)",
+  "description": "Top Pruner C/W Pole",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Top Pruner C/W Pole",
+  "specifications": [
+    "Model: BAHAP234F",
+    "List Price: €185.57",
+    "You save: €42.68"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-ap-5m-5-metre-telescopic-pole.html-lllmstxt|>
+## Bahco Ap-5M 5 Metre Telescopic Pole
+
+{
+  "price": "€140.38 inc VAT (€114.13 exc.vat)",
+  "description": "Ap-5M 5 Metre Telescopic Pole",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Ap-5M 5 Metre Telescopic Pole",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/fiskars-branch-saw-attachment.html-lllmstxt|>
+## Fiskars Branch Saw Attachment
+
+{
+  "price": "€38.70 inc VAT (€31.46 exc.vat)",
+  "description": "This Fiskars Branch Saw Attachment has a high quality hollow grinded blade for quick and clean cuts. Suitable for use with the Fiskars UPX86 PowerGear™ X Telescopic Tree Pruner (FSK1023624).",
+  "availability": "Out of Stock",
+  "product_name": "Fiskars Branch Saw Attachment",
+  "specifications": [
+    "Model: FSK1023633",
+    "List Price: €50.25",
+    "You save: €11.55"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-p34-37-bypass-top-pruner.html-lllmstxt|>
+## Bahco P34-37 Bypass Top Pruner
+
+{
+  "price": "€107.10 inc VAT (€87.07 exc.vat)",
+  "description": "P34-37 Bypass Top Pruner",
+  "availability": "In Stock",
+  "product_name": "Bahco P34-37 Bypass Top Pruner",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+

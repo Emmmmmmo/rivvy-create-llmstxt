@@ -1,0 +1,43 @@
+<|https://www.mydiy.ie/products/evolution-hulk-compaction-plate-petrol-engine-4-stroke-ohv-single-cylinder-24hp-1.html-lllmstxt|>
+## Evolution Hulk Compaction Plate Petrol Engine 4 Stroke OHV Single Cylinder 2.4hp
+
+{
+  "price": "€495.57 inc VAT (€402.90 exc.vat)",
+  "description": "The Evolution Hulk Compaction Plate is a professional quality compaction plate which offers superb value and is a very realistic alternative to hiring for many users. It is powered by a 2.4hp, 4 Stroke OHV Single Cylinder petrol engine and has a compact design so it is very portable, but rest assured although small in size, performance is not compromised. Ideal for the building and landscaping industries and for the following applications: Crusher Run, Sand, Soil, Small Aggregates, Patio & Block Paving Preparation, Driveways & Tarmac Repair.",
+  "availability": "Out of Stock",
+  "product_name": "Evolution Hulk Compaction Plate Petrol Engine 4 Stroke OHV Single Cylinder 2.4hp",
+  "specifications": [
+    "Engine: Petrol 4 Stroke OHV Single Cylinder 2.4hp",
+    "No Load Speed: 3,600/min.",
+    "Oil Type: SAE 10W-30 (API SJ or SL)",
+    "Oil Capacity: 0.25 litres",
+    "Fuel Type: Unleaded (Octane 86 or higher)",
+    "Fuel Capacity: 1.2 litres",
+    "Valve Clearance: IN: 0.15mm 0.02mm (cold) EX: 0.20mm 0.02mm (cold)",
+    "Spark Plug: NGK BPR6ES",
+    "Spark Plug Gap: 0.028 - 0.031in",
+    "Compaction Force: 10kN",
+    "Plate Working Area: 400 x 320mm",
+    "Usage Time: 20mins.",
+    "Weight: 38kg",
+    "Vibration: 46m/s²",
+    "Sound Power Level (LWA): 101dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-hulk-electro-paving-pad-1.html-lllmstxt|>
+## Evolution Hulk Electro Paving Pad
+
+{
+  "price": "€67.39 inc VAT (€54.79 exc.vat)",
+  "description": "The Evolution Hulk Electro Paving Pad is an essential accessory for finishing a block paving or patio job. The pad is fitted to the underside of the machine (Evolution Hulk Compaction Plate). It can then be used directly on to the flag stones or paving blocks for a perfectly even finish.",
+  "availability": "Out of Stock",
+  "product_name": "Evolution Hulk Electro Paving Pad",
+  "specifications": [
+    "Product Code: EVLHULKPAD",
+    "List Price: €99.40",
+    "You save: €32.01",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+

@@ -1,0 +1,441 @@
+<|https://www.mydiy.ie/products/black-and-decker-kx1650-heat-gun-1750-watt-240-volt.html-lllmstxt|>
+## Black & Decker KX1650 Heat Gun 1750 Watt 240 Volt
+
+{
+  "price": "€30.87 inc VAT (€25.10 exc.vat)",
+  "description": "The Black and Decker KX1650 Heat Gun is ideal for stripping paint, varnishes and adhesives. It has a built-in stand for hands free applications and cooling, and has 2 heat and airflow settings for more control in different applications.",
+  "availability": "In Stock",
+  "product_name": "Black & Decker KX1650 Heat Gun 1750 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 1,750 Watt",
+    "Air Flow: 570-740 l/min",
+    "Temperature Range: 460-600°C",
+    "Cable Length: 2 Metres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d26414-lcd-premium-heatguns.html-lllmstxt|>
+## DEWALT D26414 LCD Premium Heatguns
+
+{
+  "price": "from €104.70 inc VAT",
+  "description": "The DEWALT D26414 digital LCD durable heat gun are suitable for professional applications with excellent temperature control and memory setting for consistent temperature requirements. It has optimised cooling and is compact and lightweight for easy handling and use. It is suitable for the following applications: - Stripping old paint. - Drying new coats of paint filler. - Varnish applications. - Re-melting adhesives/removing stickers. - Soft soldering pipes. - Moulding and welding plastics. - Applying tin-plate coatings and similar jobs. - Shrinking cable ends, foil and sleeves. - Welding applications, lighting barbecues. - Thawing frozen water pipes, ski waxing etc. Supplied with: Cone Nozzle and Fish Tail Surface Nozzle.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D26414 LCD Premium Heatguns",
+  "specifications": [
+    "Input Power: 1,600 Watt",
+    "Air Flow: 650 l/min",
+    "Air Temperature: 50-600°C",
+    "Weight: 0.85kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hg2320e-lcd-heat-gun.html-lllmstxt|>
+## Steinel HG2320E LCD Heat Gun
+
+{
+  "price": "€261.01 inc VAT",
+  "description": "The Steinel HG2320E LCD Heat Gun offers digital precision tool for temperature-critical materials. The ceramic heaters temperature can be infinitely varied over a range of 80-650°C at the thumbwheel. Integrated thermal cut-out eliminates the risk of overheating. Airflow can be controlled in 2 stages from 150–500 l/min. Its LCD display shows temperature in 10°C steps, includes heat build-up warning function and residual-heat indicator. Fitted with a brushless motor, rated for over 1,000 hours of operation and an optimised weight balance with ergonomically shaped, soft inlay handle that permits fatigue-free work. The 3m cable provides greater freedom of movement, for high demanding workloads. To ensure a reliable work process, the LOC function can be used to lock all settings on the tool. Service-friendly, the power cord can be changed without opening the enclosure.",
+  "availability": "In Stock",
+  "product_name": "Steinel HG2320E LCD Heat Gun",
+  "specifications": [
+    "Input Power: 2,300 Watt",
+    "Airflow: 150–500 l/min",
+    "Air Temperature: 80-650°C",
+    "Weight: 1.03kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hg2420e-industrial-barrel-grip-heat-gun-2200-watt.html-lllmstxt|>
+## Steinel HG2420E Industrial Barrel-Grip Heat Gun 2200 Watt
+
+{
+  "price": "€365.89 inc VAT",
+  "description": "The Steinel HG2420E Industrial Barrel-Grip Heat Gun has a powerful brush motor with 1,000 hours of motor life. The temperature can be adjusted electronically via a thumb wheel, in nine stages from 80-650°C. At the same time, the airflow rate varies from 150-400l/Min. The tool also features a fine dust filter to protect the internal components. The tool is also particularly easy to service, the heavy-duty power cord can easily be changed on site cutting downtime.",
+  "availability": "In Stock",
+  "product_name": "Steinel HG2420E Industrial Barrel-Grip Heat Gun 2200 Watt",
+  "specifications": [
+    "Input Power: 2,200 Watt",
+    "Air Flow: 150-400 l/Min",
+    "Air Temperature: 80-650°C",
+    "Weight: 0.61kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hl1820s-pistol-grip-heat-gun-1800-watt.html-lllmstxt|>
+## Steinel HL1820S Pistol-Grip Heat Gun 1800 Watt
+
+{
+  "price": "€125.62 inc VAT",
+  "description": "The Steinel HL1820S Pistol-Grip Heat Gun has a powerful motor with approximately 600 hours of motor life. Both temperature and air flow rate is controlled in three stages. It has a balanced, lightweight design and an ergonomically shaped handle with a soft inlay that ensures optimum handling. There is also an integrated thermal cut-out that prevents over heating. The tool can be used with all industry standard nozzles, making all sorts of different applications even easier. For example de-icing, drying, shaping, heat shrinking and much more.",
+  "availability": "In Stock",
+  "product_name": "Steinel HL1820S Pistol-Grip Heat Gun 1800 Watt",
+  "specifications": [
+    "Input Power: 1,800 Watt",
+    "Air Flow: 200/300/500 l/Min",
+    "Air Temperature: 50/400/600°C",
+    "Weight: 0.80kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-bhg-0-cordless-heat-gun-18v-bare-unit.html-lllmstxt|>
+## Milwaukee M18 BHG-0 Cordless Heat Gun 18V Bare Unit
+
+{
+  "price": "€186.25 inc VAT (€151.42 exc.vat)",
+  "description": "The Milwaukee M18 BHG Cordless Heat Gun reaches operational temperature in 6 seconds allowing the user to quickly complete the application. Fitted with a high-performance heat coil that allows the tool to reach 470°C. REDLINK™ overload protection electronics in tool and battery pack deliver best in class system durability. Other features include a durable ladder hook for work space management and safety, and an integrated LED light to illuminate the work area. Flexible battery system: works with all Milwaukee® M18™ batteries. Supplied as a Bare Unit, No Battery or Charger. Supplied with: 1 x Reduction Nozzle for heat intensity on a specific area, 1 x Reflector Nozzle to apply heat around an object, such as pipes.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 BHG-0 Cordless Heat Gun 18V Bare Unit",
+  "specifications": [
+    "Temperature: 0-470°C",
+    "Recommended Ambient Operating Temperature: -18° to +52°"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-bhg-cordless-heat-gun.html-lllmstxt|>
+## Milwaukee Power Tools M18 BHG Cordless Heat Gun
+
+{
+  "price": "€672.50",
+  "description": "The Milwaukee M18 BHG Cordless Heat Gun reaches operational temperature in 6 seconds allowing the user to quickly complete the application. Fitted with a high-performance heat coil that allows the tool to reach 470°C. REDLINK™ overload protection electronics in tool and battery pack deliver best in class system durability. Other features include a durable ladder hook for work space management and safety, and an integrated LED light to illuminate the work area.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M18 BHG Cordless Heat Gun",
+  "specifications": [
+    "Airflow: 170 L/min.",
+    "Temperature: 0-470°C",
+    "Recommended Ambient Operating Temperature: -18° to +52°"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dce530n-xr-cordless-heat-gun-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCE530N XR Cordless Heat Gun 18V Bare Unit
+
+{
+  "price": "€111.68 inc VAT (€90.80 exc.vat)",
+  "description": "The DEWALT DCE530 XR Cordless Heat Gun can be used for a multitude of applications on site, such as: shrinking electrical tubing, bending PVC pipes, drying materials, loosening nuts and bolts etc. It has a compact design that is easy to use. The lock-on button allows the heat gun to be kept on, improving user comfort and enabling hands-free use. It also has a lock-off safety switch which prevents the trigger from being activated accidentally during transport or storage. Supplied as a Bare Unit, no battery or charger supplied. Includes 1 x Reflector Nozzle and 1 x Surface Nozzle.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCE530N XR Cordless Heat Gun 18V Bare Unit",
+  "specifications": [
+    "Airflow: 109-190L/min",
+    "Air Temperature: 290-530°C",
+    "Weight: 0.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-heat-gun-with-accessories-2000w-240v.html-lllmstxt|>
+## Olympia Power Tools Heat Gun with Accessories 2000W 240V
+
+{
+  "price": "€25.83 inc VAT (€21.00 exc.vat)",
+  "description": "The Olympia Tools® Heat Gun has a powerful motor and 3 heat/airflow settings, controlled by an easy-to-use switch. For added safety, there is a built-in overheat feature that prevents the tool from overheating. Fitted with a comfortable soft grip. The end of the heat gun doubles as a sturdy stand, ideal when the nozzle is hot after use. Supplied with: 4 x Nozzles and 1 x Scraper.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools Heat Gun with Accessories 2000W 240V",
+  "specifications": [
+    "Input Power: 2,000W",
+    "Heat Settings: 50/400/600°C",
+    "Air Flow: 500/250/500 L/min.",
+    "Weight: 0.80kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hg5030k-heat-gun.html-lllmstxt|>
+## Makita HG5030K Heat Gun
+
+{
+  "price": "€84.97 inc VAT",
+  "description": "Makita HG5030K Heat Gun with an easy to operate heat setting slide switch. Its ergonomic soft grip provides increased comfort during prolonged use. For added user safety there is over-heat protection and double insulation. Supplied with: 1 x Glass Protection Nozzle, 1 x Reflector Nozzle, 1 x Reduction Nozzle, 1 x Wide Slot Nozzle, 1 x Scraper and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Makita HG5030K Heat Gun",
+  "specifications": [
+    "Input Power: 240V 1,600W, 110V 1,300W",
+    "Air Flow 240V: 300-500 L/min., 110V: 200-400 L/min.",
+    "Heat Settings: 2",
+    "Temperature: 240V: 350-500ºC, 110V: 400-550ºC",
+    "Power Cable: 2m",
+    "Weight: 0.56kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hl1821s-hot-air-gun-2200w-240v.html-lllmstxt|>
+## Steinel HL1821S Hot Air Gun 2200W 240V
+
+{
+  "price": "€26.33 inc VAT (€21.41 exc.vat)",
+  "description": "The Steinel HL1821S Hot Air Gun has a lightweight design for easy control. Electronically controlled, with an infinitely variable temperature setting from 80-630°C in 9 steps, via an easy-to-use thumbwheel. An integrated fine dust filter protects the internal components from damage.",
+  "availability": "In Stock",
+  "product_name": "Steinel HL1821S Hot Air Gun 2200W 240V",
+  "specifications": [
+    "Input Power: 2,200W",
+    "Heat Settings: 80-630°C in 9 steps",
+    "Airflow: 150-500 L/min.",
+    "Weight: 0.80kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-hdg2002-digital-heat-gun-2000w-240v-1.html-lllmstxt|>
+## Evolution HDG2002 Digital Heat Gun 2000W 240V
+
+{
+  "price": "€56.99 inc VAT (€46.33 exc.vat)",
+  "description": "The Evolution HDG2002 Digital Heat Gun has a powerful motor and variable airflow speed making it ideal for stripping paint/varnish, curing glues & epoxies, removing adhesive labels/graphics and many more. It also gives instantaneous heat, ideal for heat shrink tubing which is used to insulate wires offering abrasion resistance and environmental protection for stranded and solid wire conductors, connections, joints and terminals in electrical engineering. Other key features include a clear, easy-to-understand digital display and an integral base stand for 'hands free' use. Supplied with a carry case, four nozzles and a scraper.",
+  "availability": "In Stock",
+  "product_name": "Evolution HDG2002 Digital Heat Gun 2000W 240V",
+  "specifications": [
+    "Input Power: 2,000W",
+    "Air Flow: 120-550 l/min.",
+    "Air Temperature: 50-630°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-r1800-hot-air-gun-240v-1800w.html-lllmstxt|>
+## Rapid R1800 Hot Air Gun 240V 1800W
+
+{
+  "price": "€102.13 inc VAT (€83.03 exc.vat)",
+  "description": "The Rapid R1800 Hot Air Gun can handle jobs such as defrosting, waxing skis and snowboards, weeding a paved driveway and countless other everyday tasks at home, in the yard or garage. With a two-stage temperature regulation (300°C and 550°C) and adjustable airflow, the R1800 gets the job done quickly and with precision. It also features handle protection, increasing user safety and peace of mind. Supplied with: 2 x Paint Scrapers, 4 x Nozzles and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Rapid R1800 Hot Air Gun 240V 1800W",
+  "specifications": [
+    "Input Power: 1,800W",
+    "Temperature Settings: 300-550°C",
+    "Airflow: 250-450 L/min."
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-heat-gun-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Heat Gun 18V Bare Unit
+
+{
+  "price": "€49.69 inc VAT (€40.40 exc.vat)",
+  "description": "The Batavia MAXXPACK Heat Gun has a lightweight, easy-to-use design that is ideal for manipulating materials, such as bending PVC or heating shrink wrap, as well as removing paint and varnish when decorating. Fitted with a soft grip handle for added comfort. Supplied with: 1 x Flat Nozzle, 1 x Reflection Nozzle and 1 x Concentration Nozzle. Comes as a Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Heat Gun 18V Bare Unit",
+  "specifications": [
+    "Max. Temperature: 550°C",
+    "Airflow: 240 L/min.",
+    "Max. Airflow Speed: 15m/s",
+    "Current Strength: 15,5 A",
+    "Weight: 0.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-ghg-18v-50-heat-gun-18v-bare-unit.html-lllmstxt|>
+## Bosch GHG 18V-50 Heat Gun 18V Bare Unit
+
+{
+  "price": "€208.10 inc VAT (€169.19 exc.vat)",
+  "description": "The Bosch GHG 18V-50 Heat Gun provides portability, and flexibility in every working environment. Equipped with fast heat up, so it saves time, heating up to 300 °C within 6 seconds. Its compact design incorporates an ergonomic, soft grip handle, and an LED light for easy operation. Comes as a Bare Unit, NO battery or charger in a cardboard box. Supplied with: 1 x 9mm Reduction Nozzle, and 1 x 32 x 33mm Reduction Nozzle. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GHG 18V-50 Heat Gun 18V Bare Unit",
+  "specifications": [
+    "Airflow: 175 l/min.",
+    "Working Temperature: 300-500°C.",
+    "Heat-up Time: 6 seconds to 300°C.",
+    "Temperature Levels: 2.",
+    "Sound Pressure Level: 56 dB(A).",
+    "Weight: 0.59kg (without battery)."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-ghg-23-66-professional-heat-gun.html-lllmstxt|>
+## Bosch GHG 23-66 Professional Heat Gun
+
+{
+  "price": "€194.99 inc VAT",
+  "description": "Bosch GHG 23-66 Professional Heat Gun with 10 airflow rates, digitally adjustable temperature settings, and four customisable programs. This heat gun provides total tool control at every working step. High powered with a remarkably strong 2,300W motor. The GHG 23-66 Professional reaches up to 650° C easily. For increased user protection and a long tool lifetime, it features a thermal protection function switching off the heating unit, although the air blower is still running. The GHG 23-66 Professional´s 1.4in display ensures increased ease of use. Fitted with a protective handle and can be conveniently put aside after operation for cooling down, enhancing user protection. Perfect for use in a multitude of jobs such as plastic and pipe welding, soldering, and cable shrinking. Supplied with: 1 x Glass Protection Nozzle 75mm, 1 x Surface Nozzle 50mm and 1 x Carrying Case.",
+  "availability": "In Stock",
+  "product_name": "Bosch GHG 23-66 Professional Heat Gun",
+  "specifications": [
+    "Input Power: 2,300W",
+    "Working Temperature: 50-650°C",
+    "Airflow: 150-500 L/min",
+    "Weight: 0.67kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d26411-heat-gun-1800-watt-240-volt.html-lllmstxt|>
+## DEWALT D26411 Heat Gun 1800 Watt 240 Volt
+
+{
+  "price": "€67.05 inc VAT (€54.51 exc.vat)",
+  "description": "The DEWALT D26411 Heatgun has a durable design with added protection for the heating element. Lightweight ergonomics and a compact design increase comfort during application. The Heatgun has 2 air flows to maximise control in most applications. It comes with a large stable support stand to ensure safety in stationary applications and is supplied with 2 cone attachments to increase versatility for specific applications. Applications include stripping paint, shrinking packaging and wrapping, softening adhesives and removing stickers, automotive applications, moulding and welding plastics, softening metal pipes for bending, shrinking cable ends, loosening nuts and bolts, and thawing frozen water pipes.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D26411 Heat Gun 1800 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 1,800 Watt",
+    "Air Flow: 250/450 l/min",
+    "Air Temperature: 50-400/50-600°C",
+    "Length: 253mm",
+    "Height: 210mm",
+    "Weight: 0.80kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hg2320e-lcd-heat-gun-2300-watt-240-volt.html-lllmstxt|>
+## Steinel HG2320E LCD Heat Gun 2300 Watt 240 Volt
+
+{
+  "price": "€261.01 inc VAT (€212.20 exc.vat)",
+  "description": "The Steinel HG2320E hot air tool has an LCD display which shows temperature in 10°C steps and includes heat build-up warning function and residual-heat indicator. The heat gun is fitted with a 3m cable, making it perfectly equipped for jobs that demand greater freedom of movement. The ceramic heater's temperature can be infinitely varied over a range of 80°C - 650°C at the thumbwheel. Airflow can be controlled in 2 stages from 150–500 l/min. The heat gun features integrated thermal cut-out which eliminates the risk of overheating. Its brushless motor is rated for 1,000 hours operation. The optimised weight balance and ergonomically shaped handle with soft inlay permit fatigue-free work.",
+  "availability": "In Stock",
+  "product_name": "Steinel HG2320E LCD Heat Gun 2300 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 2,300 Watt",
+    "Airflow: 150-500 l/min",
+    "Air Temperature: 80-650°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hg2620e-heat-gun-barrel-tool-2300-watt-240-volt--case.html-lllmstxt|>
+## Steinel HG2620E Heat Gun Barrel Tool 2300 Watt 240 Volt + Case
+
+{
+  "price": "€808.61 inc VAT (€657.41 exc.vat)",
+  "description": "The Steinel HG2620E Heat Gun Barrel Tool is an electronically controlled hot air gun with infinite digital temperature adjustment via its joystick to provide excellent performance and precision. Airflow rate is also continuously adjustable. The HG2620E features an LCD display showing the temperature in 10°C steps. Its residual heat indicator ensures maximum working safety and the integrated thermal cut-out prevents overheating. In addition, an integrated fine dust filter, ergonomically shaped handle and magnesium guard sleeve ensure work safety. Its brushless motor is rated for 10,000 hours operation.",
+  "availability": "Out of Stock",
+  "product_name": "Steinel HG2620E Heat Gun Barrel Tool 2300 Watt 240 Volt + Case",
+  "specifications": [
+    "Input Power: 2,300 Watt",
+    "Air Flow: 150-500 l/min",
+    "Air Temperature: 50-700°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hg2120e-car-wrapper-hot-air-gun-2200-watt-240-volt--hl-scan--case.html-lllmstxt|>
+## Steinel HG2120E Car Wrapper Hot Air Gun 2200 Watt 240 Volt + HL Scan + Case
+
+{
+  "price": "€322.90 inc VAT (€262.52 exc.vat)",
+  "description": "This Steinel 'Carwrapper' Set comprises: 1 x HG2120E Hot Air Gun 1 x HL Scan Temperature Scanner 1 x Case. The HG2120E Hot Air Gun is fitted with a 7.5m cable which provides a particularly wide action radius. This makes it ideal for wrapping work on large areas. The ceramic heater's temperature can be infinitely varied from 80-630°C at the turn of a thumbwheel. Airflow is controlled in 3 stages. The heat gun has a brushless motor and features an integrated thermal cut-out to prevent overheating. Its ergonomic handle with soft inlay allows comfortable and safe working with one hand.",
+  "availability": "In Stock",
+  "product_name": "Steinel HG2120E Car Wrapper Hot Air Gun 2200 Watt 240 Volt + HL Scan + Case",
+  "specifications": [
+    "Input Power: 2,200 Watt",
+    "Air Flow: 150/150-300/300-500 l/min",
+    "Air Temperature: 80-630°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hl1620s-2-stage-airflow-heat-gun-1600-watt-240-volt.html-lllmstxt|>
+## Steinel HL1620S 2-Stage Airflow Heat Gun 1600 Watt 240 Volt
+
+{
+  "price": "€80.50 inc VAT (€65.45 exc.vat)",
+  "description": "The Steinel two-speed HL1620S hot air tool is an indispensable all-rounder. It has a 2-stage temperature setting and is ideal for drying plasterwork, shrinking on cable sleeves, thawing frozen water pipes, stripping paint, waxing skis and snowboards and much more. This hot air tool has an optimised centre of gravity for fatigue-free working with one hand. It has an integrated thermal cut-out to prevent overheating.",
+  "availability": "Out of Stock",
+  "product_name": "Steinel HL1620S 2-Stage Airflow Heat Gun 1600 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 1,600 Watt",
+    "Air Flow: 240 l/min",
+    "Air Temperature: 300/500°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hl1920e-3-stage-airflow-heat-gun-2000-watt-240-volt.html-lllmstxt|>
+## Steinel HL1920E 3-Stage Airflow Heat Gun 2000 Watt 240 Volt
+
+{
+  "price": "€134.17 inc VAT (€109.08 exc.vat)",
+  "description": "The Steinel HL1920E hot air tool is a versatile tool with infinitely adjustable temperature in 3 airflow stages. It is ideal for removing and welding sheetings, welding plastics, shrinking on cable sleeves, shaping, soldering, drying, thawing, stripping paint and much more. This hot air tool has an optimised centre of gravity, making it particularly easy to use with just one hand. Input Power: 2,000 Watt. Air Flow: 150/150-300/300-500 l/min. Air Temperature: 80-600°C.",
+  "availability": "In Stock",
+  "product_name": "Steinel HL1920E 3-Stage Airflow Heat Gun 2000 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 2,000 Watt",
+    "Air Flow: 150/150-300/300-500 l/min",
+    "Air Temperature: 80-600°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hl2020e-lcd-heat-gun-2200-watt-240-volt--case.html-lllmstxt|>
+## Steinel HL2020E LCD Heat Gun 2200 Watt 240 Volt + Case
+
+{
+  "price": "€189.04 inc VAT (€153.69 exc.vat)",
+  "description": "The Steinel HL2020E is an electronically controlled hot air tool with an easy to read LCD. It features professional technology for shaping tiles, desoldering circuit boards, welding plastics, drying repair filler, shrinking cable sleeves, soldering pipes and much more. This hot air tool features a residual heat indicator for optimum protection to prevent burns. Its ergonomic joystick permits intuitive operation and use, with adjustable temperature from 80-630°C in 10°C steps. In addition, it has 3 airflow rates. Supplied with 9mm reduction nozzle and case.",
+  "availability": "In Stock",
+  "product_name": "Steinel HL2020E LCD Heat Gun 2200 Watt 240 Volt + Case",
+  "specifications": [
+    "Input Power: 2,200 Watt",
+    "Air Flow: 150/150-300/300-500 l/min",
+    "Air Temperature: 80-630°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/steinel-hl-scan-temperature-detection-device.html-lllmstxt|>
+## Steinel HL Scan Temperature Detection Device
+
+{
+  "price": "€115.57 inc VAT (€93.96 exc.vat)",
+  "description": "The Steinel HL Scan measures the temperature of the workpiece surface whilst working on it with a hot air tool. An acoustic signal sounds as soon as heat either exceeds or falls below the ideal temperature. Its display also shows whether workpiece surface is too hot or too cold. Red means too hot, green means ideal temperature and blue means too cold. The HL Scan can be fitted to hot air tools HL1920E, 2020E, HG2120E and HG2320E. The warning tolerance range can be selected to suit individual needs. If chosen, the visual and acoustic warning can be deactivated. Temperature Measurement Range: 0-300°C. Optimum Distance From Workpiece: 15cm. Battery: 9 Volt (included).",
+  "availability": "Out of Stock",
+  "product_name": "Steinel HL Scan Temperature Detection Device",
+  "specifications": [
+    "Temperature Measurement Range: 0-300°C",
+    "Optimum Distance From Workpiece: 15cm",
+    "Battery: 9 Volt (included)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv100-xr-compact-jobsite-blower-bare-unit-18-volt.html-lllmstxt|>
+## DEWALT DCV100 XR Compact Jobsite Blower Bare Unit 18 Volt
+
+{
+  "price": "€99.96 inc VAT (€81.27 exc.vat)",
+  "description": "The DEWALT DCV100 XR Compact Jobsite Blower has a compact and lightweight design that is ideal for jobsite clean-up. Variable speed slider switch with variable speed trigger and a lock-on/off switch for improved control. Supplied with inflator/deflator attachments for versatile applications. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCV100 XR Compact Jobsite Blower Bare Unit 18 Volt",
+  "specifications": [
+    "Max Air Flow: 80m/s",
+    "Air Speed: 18,000/min",
+    "Weight: 1.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcm572-flexvolt-xr-blower.html-lllmstxt|>
+## DEWALT DCM572 FlexVolt XR Blower
+
+{
+  "price": "€498.20 inc VAT",
+  "description": "The DEWALT DCM572 FlexVolt XR Blower has a highly efficient brushless motor that delivers up to 15 minutes run time (with a 3.0Ah battery). Allowing you to clear more debris, quickly. Its variable speed trigger with lock allows full power control without having to hold down the trigger. The curved tube design creates rotational control and reduces fatigue. Supplied with a concentrator attachment that increases force for stubborn debris.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCM572 FlexVolt XR Blower",
+  "specifications": [
+    "Max Air Flow: 195km/h (121mph)",
+    "Speed: Variable Speed Trigger",
+    "Weight: 4.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-fbl-0-fuel-leaf-blower-18v-bare-unit.html-lllmstxt|>
+## Milwaukee M18 FBL-0 Fuel™ Leaf Blower 18V Bare Unit
+
+{
+  "price": "€252.81 inc VAT (€205.54 exc.vat)",
+  "description": "The Milwaukee M18 FBL Fuel™ Leaf Blower has a POWERSTATE™ brushless motor that provides increased efficiency, lasts longer and delivers maximum power. Fitted with a variable trigger and speed lock for full power control. Up to 12.74 m³/min of air volume at 193km/h to clear debris. It has an ergonomic in line design that clears debris and dirt, even in tight spaces. REDLINK PLUS™ intelligence system delivers an advanced digital overload protection for tool and battery and uniquely enhances the tool performance under load. Bare Unit, No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M18 FBL-0 Fuel™ Leaf Blower 18V Bare Unit",
+  "specifications": [
+    "Max. Air Flow: 193km/h (160mph)",
+    "Max. Air Volume: 0-12.7 m³/min",
+    "Speed: 2 Speed Control: High/Low",
+    "Length: 858mm",
+    "Weight: 3.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dub362z-brushless-blower-36-volt-bare-unit.html-lllmstxt|>
+## Makita DUB362Z Brushless Blower 36 Volt Bare Unit
+
+{
+  "price": "€279.87 inc VAT (€227.54 exc.vat)",
+  "description": "The Makita DUB362 Brushless Blower has been developed as the most powerful cordless blower with a brushless motor for increased runtime, high air volume and speed. Powered by two 18 Volt Li-Ion batteries (NOT SUPPLIED) in series to supply energy to the powerful 36 Volt DC motor drive system. Has a lightweight, compact design for single handed operation with a lock on function, the button is operable from either side of handle. 6-stage air volume/velocity settings via a dial with variable speed control by trigger. Supplied with a 3-stage telescopic long nozzle that has an adjustment range of 100mm.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DUB362Z Brushless Blower 36 Volt Bare Unit",
+  "specifications": [
+    "Max Air Flow: 27/54m/s",
+    "Air Speed: 11,400/21,500/min",
+    "Max Air Volume: 6.9/13.4m³/min",
+    "Weight: 1.4kg"
+  ]
+}
+

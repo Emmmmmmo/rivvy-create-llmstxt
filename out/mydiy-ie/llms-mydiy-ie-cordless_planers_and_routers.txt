@@ -1,0 +1,36 @@
+<|https://www.mydiy.ie/products/trend-t18sbjk1-biscuit-jointer-18v-1-x-40ah-li-ion.html-lllmstxt|>
+## Trend T18S/BJK1 Biscuit Jointer 18V 1 x 4.0Ah Li-ion
+
+{
+  "price": "€300.89 inc VAT (€244.63 exc.vat)",
+  "description": "The Trend T18S/BJK1 Biscuit Jointer has a high-performance motor, built for power and endurance. With a top-mounted sliding switch, easily accessible for left or right-handed operation. Uses a cam-lock rack and pinion height fence for precise height adjustment with cam-lock retention. Milled reference faces provide accurate positioning on all jointing styles. Anti-slip rubber cutter aperture prevents slippage as the cutter engages the workpiece. Supplied with: 1 x CR/BJB100T Biscuit Jointer Blade, 1 x Attachment Plate, 1 x Dust Bag & Adaptor, 1 x Vacuum Adaptor (fits T35 and T32 Dust Extractors), 1 x 18V 4.0Ah Li-ion Battery and 1 x Fast Charger.",
+  "availability": "In Stock",
+  "product_name": "Trend T18S/BJK1 Biscuit Jointer 18V 1 x 4.0Ah Li-ion",
+  "specifications": [
+    "6 Cutting Depths: No.0, No.10, No.20 Biscuits plus ’Maximum’ Duplex and Simplex settings",
+    "Angle Range: 0-90°",
+    "Maximum Fence Height: 35mm",
+    "Blade: 100 x 22mm bore x 6T",
+    "Cutter Slot Thickness: 4mm",
+    "Dust Spout Size: 34mm",
+    "Weight: 2.5kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcw682nt-xr-brushless-biscuit-jointer-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCW682NT XR Brushless Biscuit Jointer 18V Bare Unit
+
+{
+  "price": "€362.76 inc VAT (€294.93 exc.vat)",
+  "description": "The DEWALT DCW682 XR Brushless Biscuit Jointer has a brushless motor that provides powerful and consistent cutting performance. Its paddle switch design accommodates left and right handed users. The Biscuit Jointer achieves accurate results, thanks to the dual rack and pinion fence design, as well as tool-free depth, height, and bevel adjustments. Its integral fence allows users to quickly and easily adjust the bevel capacity from 0 -90°. For added safety there is an electric brake that quickly stops the blade after the trigger is released. Retractable anti-slip pins hold the material in place, further increasing safety. Compatible with DEWALT's AirLock™ system or a standard 35mm dust extractor to minimise dust during cutting (system and extractor sold separately). Bare Unit, NO battery or charger supplied. Supplied with: 1 x Dust Bag, 1 x Spanner, 1 x 35mm Dust Extraction Spout and 1 x TSTAK Case.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCW682NT XR Brushless Biscuit Jointer 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 10,000/min",
+    "Max. Cutter Depth: 0-20mm",
+    "Fence Adjustment: 0-90°",
+    "Max. Cutting Capacity: 100mm",
+    "Weight: 2.5kg"
+  ]
+}
+

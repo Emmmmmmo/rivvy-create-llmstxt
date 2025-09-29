@@ -1,0 +1,1086 @@
+<|https://www.mydiy.ie/products/dewalt-toughsystem-dab-radio-1418-volt-li-ion-bare-unit.html-lllmstxt|>
+## DEWALT TOUGHSYSTEM™ DAB Radio 14/18 Volt Li-Ion Bare Unit
+
+{
+  "price": "€560.84 inc VAT (€455.97 exc.vat)",
+  "description": "The DEWALT TOUGHSYSTEM™ DAB Radio is fully compatible with the TOUGHSYSTEM™ toolbox range. It also doubles up as a DEWALT battery charger and has a USB port for charging phones and small electronic devices. Bluetooth® Technology allows you to remotely control your music and use the radio as a speaker. The radio has IP 54 rated protection, this means it is protected against dust and water jets. The 40W RMS, two sub-woofers provide premium sound quality and there is a Class D amplifier and digital sound processor for sound optimisation. Other features include a Dot Matrix pixel screen and a 3.5mm Aux. Input.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT TOUGHSYSTEM™ DAB Radio 14/18 Volt Li-Ion Bare Unit",
+  "specifications": [
+    "Input Power: AC & 18/14.4V DEWALT Batteries",
+    "Wide Bandwidth: 30Hz to 18KHz",
+    "Other Functions: Speaker/Charger/USB Charger",
+    "Radio: FM: 12 Presets, AM: 6 Presets",
+    "Width: 545mm",
+    "Depth: 360mm",
+    "Height: 155mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18rc-0-radio-charger-240-volt-and-18-volt-li-ion-bare-unit.html-lllmstxt|>
+## Milwaukee M18RC-0 Radio Charger 240 Volt & 18 Volt Li-Ion Bare Unit
+
+{
+  "price": "€340.19 inc VAT (€276.58 exc.vat)",
+  "description": "The Milwaukee M18RC-0 Radio Charger with a built in charger function allows for quick, convenient charging of any M18™ battery or electronic devices via USB port. It has an AM/FM tuner with digital processor that delivers highest reception accuracy and signal clarity and a premium speaker with a 40 Watt amplifier that produces a rich, full sound. The reinforced roll cage and metal handles protects against abusive jobsite conditions and the weather sealed auxiliary compartment protects MP3 players and other audio devices. The radio can be powered by Milwaukee® M18™ batteries or an AC outlet. Other features include a customisable equaliser, 10 station preset, protected 2.1 Amp USB power outlet that charges devices in both AC and DC mode and a digital bluetooth receiver that allows you to play music up to 30 metres away from your smart phone, computer, or tablet. It is supplied with an auxiliary input cord, 2 x AAA batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18RC-0 Radio Charger 240 Volt & 18 Volt Li-Ion Bare Unit",
+  "specifications": [
+    "Radio Range: FM: 87.5-108 Mhz, AM: 552-1629 kHz",
+    "Input Power: Battery: 18v Li-Ion, DC: 230/240v",
+    "Dimensions: 300 x 307 x 370mm",
+    "Weight: 7.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcr020-digital-radio.html-lllmstxt|>
+## DEWALT DCR020 Digital Radio
+
+{
+  "price": "€176.26 inc VAT",
+  "description": "The DEWALT DCR020 Digital Radio is a compact and robust DAB(+)/FM jobsite radio and can be powered by mains or by DEWALT 10.8-18 Volt XR Li-Ion batteries. The Tech Box, on-board storage protects portable audio devices and is fitted with a 3.5mm auxiliary port and a USB port that allows devices to be charged (USB charging AC only). The radio has an integral roll cage that provides impact resistance for maximum durability and a 1.8m powercord with wrap-around storage.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCR020 Digital Radio",
+  "specifications": [
+    "Radio Range: DAB(+)/FM",
+    "Input Power: Battery: 10.8-18v Li-Ion, DC: 230/240v",
+    "Length: 240mm",
+    "Height: 245mm",
+    "Weight: 2.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-18-jssp-0-jobsite-speaker-1218-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M12-18 JSSP-0 Jobsite Speaker 12/18 Volt Bare Unit
+
+{
+  "price": "€203.59 inc VAT (€165.52 exc.vat)",
+  "description": "The Milwaukee M12-18 JSSP-0 Jobsite Speaker is fitted with advanced Bluetooth® technology that allows you to connect any portable electronic device wirelessly from up to 30m away. It is a premium jobsite speaker with bass port, allowing it to offer loud, clear sound at all volumes. IP45 rated, resistant to water and debris, allowing it to withstand the tough conditions on and off the jobsite. It also has a 2.1 Amp USB port that charges phones, tablets and media players. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12-18 JSSP-0 Jobsite Speaker 12/18 Volt Bare Unit",
+  "specifications": [
+    "Speaker Output: 40 Watt",
+    "Dimensions: 360 x 165 x 165mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-jsrdab-0-dab-digital-jobsite-radio-18-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M18 JSRDAB-0 DAB Digital Jobsite Radio 18 Volt Bare Unit
+
+{
+  "price": "€300.11 inc VAT (€243.99 exc.vat)",
+  "description": "The Milwaukee M18 JSRDAB-0 DAB Digital Job site Radio is a high performance audio system, DAB+/FM tuner with digital processor that delivers reception accuracy and signal clarity. DAB+ gives best sound quality and additional information (song title, singer/band, show, accurate time). It is fitted with shock absorbing end caps and metal speaker grills that protect the radio from drops, water and debris on the Job site. Integrated handles allow for easy transport and storage. Dual speaker design with passive radiators, that deliver loud, clear sound with deep, accurate bass. Customisable equaliser for enhanced sound quality and 10-station preset. The protected 2.1 Amp USB power outlet charges electronic devices in both AC and DC mode. There is also a weather sealed device compartment that protects mobile devices. Powered by Milwaukee® M18™ batteries or AC outlet. Up to 12 hours of runtime with an M18™ REDLITHIUM-ION™ 5.0Ah battery pack. Supplied with auxiliary input cord, 2 x AAA batteries. Bare Unit, No Battery Supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M18 JSRDAB-0 DAB Digital Jobsite Radio 18 Volt Bare Unit",
+  "specifications": [
+    "Tuning Range: FM (MHz) 87.50-108.00, DAB+ (MHz): 174.928-239.20",
+    "Dimensions: 402 x 197 x 197mm",
+    "Weight: 4.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwst1-81079-tstak-radio.html-lllmstxt|>
+## DEWALT DWST1-81079 TSTAK™ Radio
+
+{
+  "price": "€284.93 inc VAT (€231.65 exc.vat)",
+  "description": "The DEWALT DWST1-81079 TSTAK™ Radio also doubles up as an XR/FlexVolt battery charger. It offers FM, AM and DAB+, with a 45 Watt output. Fully compatible with the TSTAK™ system, incorporating the usual stacking latches. It also incorporates shock absorbing rubber bumpers on all 4 corners for tough on site protection. This heavy-duty site radio has 2 mid range speakers on the front, 2 more mid range speakers on the back as well as 2 powerful sub-woofers on the bottom, this combination provides excellent sound quality. The radio can be controlled remotely via your Android or Apple device using the DEWALT Mobile App, allowing for complete control of the device on site, and with BLE (Bluetooth Low Energy), you stay connected without sacrificing your battery. Supplied as a Bare Unit, no batteries are included. Input Power: AC or 18V XR & FlexVolt DEWALT Batteries. Radio: FM, AM and DAB+.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWST1-81079 TSTAK™ Radio",
+  "specifications": [
+    "Input Power: AC or 18V XR & FlexVolt DEWALT Batteries",
+    "Radio: FM, AM and DAB+",
+    "45 Watt output",
+    "Shock absorbing rubber bumpers",
+    "Compatible with TSTAK™ system"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dcm501z-cordless-coffee-maker-108-18v-bare-unit.html-lllmstxt|>
+## Makita DCM501Z Cordless Coffee Maker 10.8-18V Bare Unit
+
+{
+  "price": "€139.31 inc VAT (€113.26 exc.vat)",
+  "description": "The Makita DCM501 Cordless Coffee Maker is compatible with 60mm coffee pods as well as ground coffee. Its boil dry protection function prevents the machine from burning out: if water empties and temperature inside increases, the sensor will turn off power supply automatically. The body features battery ports for LXT and CXT batteries and comes with a protection cover for empty battery terminal. There is also a carry handle for easy transport. Supplied with a dedicated 240ml cup that has been designed to fit in the machine without leaving a gap, which protects against splash and dirt entry. Commercial cups up to 90mm height will also fit the machine. Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Makita DCM501Z Cordless Coffee Maker 10.8-18V Bare Unit",
+  "specifications": [
+    "Voltage: 10.8-18V",
+    "Brew Capacity: Single CXT Battery: 260ml, Single 14.4V Battery (3.0Ah): 260ml, 18V Battery: 3.0Ah: 320ml, 6.0Ah: 640ml",
+    "Brew Time (160ml): CXT: 7 min., 14.4/18V: 5 min.",
+    "Compatible Coffee Pod: 60mm type",
+    "Weight: 2.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dmr109-job-site-dab-radio.html-lllmstxt|>
+## Makita DMR109 Job Site DAB Radio
+
+{
+  "price": "€224.61 inc VAT",
+  "description": "The Makita DMR109 Job Site Radio runs on both an AC adaptor and Makita Li-ion batteries. It is equipped to receive Digital Audio Broadcasting (DAB) with an LCD display. The two large 89mm speakers provide high quality sound. There is a USB port allows for charging mobile devices and a AUX-IN jack for connecting to external audio source (Connecting cable is not included). The elastomer bumpers protect against rough handling and have a falling impact strength of 1.0m. Other features include a digital tuner, AC adaptor jack, retractable antenna and is shower proof (withstands up to 5 minutes exposure to rain), IP64 rated. Supplied as a Bare Unit, No Battery or Charger. Newly compatible with 10.8V CXT slide batteries. NOT compatible with G-Series Battery or Ni-CAD or Ni-MH Batteries.",
+  "availability": "In Stock",
+  "product_name": "Makita DMR109 Job Site DAB Radio",
+  "specifications": [
+    "Runs on AC adaptor and Makita Li-ion batteries",
+    "Receives Digital Audio Broadcasting (DAB)",
+    "LCD display",
+    "Two large 89mm speakers",
+    "USB port for charging mobile devices",
+    "AUX-IN jack for external audio source",
+    "Elastomer bumpers for protection",
+    "Falling impact strength of 1.0m",
+    "Digital tuner",
+    "AC adaptor jack",
+    "Retractable antenna",
+    "Shower proof (IP64 rated)",
+    "Supplied as a Bare Unit (No Battery or Charger)",
+    "Compatible with 10.8V CXT slide batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcr029-compact-bluetooth-radio-240v-and-li-ion-bare-unit.html-lllmstxt|>
+## DEWALT DCR029 Compact Bluetooth® Radio 240V & Li-ion Bare Unit
+
+{
+  "price": "€223.37 inc VAT (€181.60 exc.vat)",
+  "description": "The DEWALT DCR029 Compact Bluetooth® Radio is a compact and robust DAB(+) AM/FM jobsite radio and can be powered by mains or by DEWALT 12-18V XR Li-ion batteries, including XR FlexVolt batteries. It also streams audio from any Bluetooth® enabled device. The 30W speakers and customisable equalizer provide excellent sound quality. Jobsite ready, with an integrated roll cage for increased protection and handle for easy transportation. There's also a USB charging port and auxiliary input to allow wired connection of other devices. Bare Unit - No Battery or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCR029 Compact Bluetooth® Radio 240V & Li-ion Bare Unit",
+  "specifications": [
+    "Radio Range: DAB(+) AM/FM",
+    "Input Power: Battery 12-54V Li-ion, DC 230/240V",
+    "Dimensions: 300 x 220 x 170mm",
+    "Weight: 3.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dmr203-bluetooth-jobsite-speaker.html-lllmstxt|>
+## Makita DMR203 Bluetooth® Jobsite Speaker
+
+{
+  "price": "€183.47 inc VAT (€149.16 exc.vat)",
+  "description": "The Makita DMR203 Bluetooth® Jobsite Speaker runs on both an AC adaptor and Makita Li-ion batteries. True Wireless Stereo (TWS) technology allows the user to wirelessly pair two DMR203 speakers via Bluetooth® to enjoy a deep, rich and powerful stereo sound. There are six selectable sound modes to suit the music genre and the My Equaliser (MY EQ) mode enables the user to independently adjust treble, midrange and bass for a desired sound quality. TWS technology also allows up to ten DMR203 speakers to be paired and connected to one mobile device to play the same sound simultaneously. Equipped with Bluetooth® Version 5.0 Class 2, to wirelessly connect to your mobile device for playing music with a range up to 10m. A colour LCD panel shows song title, artist name etc. It has an IP65 rated dust and showerproof construction. The storage compartment allows you to charge your mobile device while being stored. The speaker has a flat anti-slip top surface and its elastomer bumpers protect against rough handling on a jobsite. Supplied with a carry handle for easy transport. Not compatible with G-Series Battery, NiCAD or NiMH Batteries. Supplied as a Bare Unit - No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Makita DMR203 Bluetooth® Jobsite Speaker",
+  "specifications": [
+    "Range: FM 87.5-108MHz, AM 522-1629kHz",
+    "Battery Type: Lithium-ion",
+    "Battery Range: 10.8-18V",
+    "Weight: 3.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-mr001gz01-job-site-radio-li-ion-battery-only.html-lllmstxt|>
+## Makita MR001GZ01 Job Site Radio Li-ion Battery only
+
+{
+  "price": "€167.19 inc VAT (€135.93 exc.vat)",
+  "description": "The Makita MR001GZ01 Job Site Radio is compatible with XGT, LXT and CXT batteries only. Its 2 large speakers provide high-quality sound. There is an AUX-IN jack for connecting to an external audio source (connecting cable is not included). The elastomer bumpers protect against rough handling and have a falling impact strength of 1.0m. Other features include a digital tuner, AC adaptor jack, retractable antenna and it is showerproof (withstands up to 5 minutes exposure to rain), IP64 rated. Supplied as a Bare Unit - No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita MR001GZ01 Job Site Radio Li-ion Battery only",
+  "specifications": [
+    "Range: FM 87.5-108MHz, AM 522-1629kHz",
+    "Battery Type: Lithium-ion",
+    "Battery Range: 12-40V",
+    "Weight: 4.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-mr002gz01-bluetooth-job-site-radio-white-240v-and-li-ion-bare-unit.html-lllmstxt|>
+## Makita MR002GZ01 Bluetooth® Job Site Radio White 240V & Li-ion Bare Unit
+
+{
+  "price": "€170.24 inc VAT (€138.41 exc.vat)",
+  "description": "The Makita MR002GZ01 Job Site Radio runs on both an AC adaptor and Makita Li-ion batteries. Compatible with XGT, LXT and CXT batteries. It is equipped with Bluetooth Class 2 to wirelessly connect mobile devices for playing music, with a range up to 10m. It also has a digital AM / FM Tuner.\n\nIP65 rated dust and shower-proof construction, elastomer bumpers and metal pipes protect against rough handling. The carry handle features a built-in FM antenna. Its LCD backlit display, illuminated control buttons and dial improve visibility. A USB output port allows for charging mobile devices. (Output only: No capacity to input or play music files stored on USB stick). There is also a handy AC adaptor jack.\n\nComes as a Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Makita MR002GZ01 Bluetooth® Job Site Radio White 240V & Li-ion Bare Unit",
+  "specifications": [
+    "Frequency Range FM 87.5-108 MHz, AM 522 - 1710 kHz",
+    "Battery: Type Lithium-ion, Range 12-40V",
+    "Speakers: 2 x Ø89mm",
+    "Weight: 4.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dmr055-lxt-radio-lantern-14418v-bare-unit.html-lllmstxt|>
+## Makita DMR055 LXT Radio Lantern 14.4/18V Bare Unit
+
+{
+  "price": "€86.41 inc VAT (€70.25 exc.vat)",
+  "description": "The Makita DMR055 LXT Radio Lantern is easy to use, thanks to it LCD digital display. Its on/off mode select button is equipped with a memory function, so it can remember the brightness and light tone settings. The lantern design provides 360° of illumination. Its also lightweight and compact, meaning you can carry it anywhere. Overload protection ensures long life. There is also a battery capacity warning function. Comes as a Bare Unit, NO batteries or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DMR055 LXT Radio Lantern 14.4/18V Bare Unit",
+  "specifications": [
+    "FM Coverage: 87.50 - 108 Mhz",
+    "AM Coverage: 522 - 1,710 kHz",
+    "Light Tone/Colour: Warm White",
+    "Lantern Luminous Flux High/Low (Lumens): 4 sides 260 / 3 sides 190",
+    "Lantern Illuminance High/Low (Lux): 4 sides 130 / 3 sides 115",
+    "Weight: 0.95kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dmr301-job-site-speakerstereo-240v-and-li-ion-bare-unit.html-lllmstxt|>
+## Makita DMR301 Job Site Speaker/Stereo 240V & Li-ion Bare Unit
+
+{
+  "price": "€308.56 inc VAT (€250.86 exc.vat)",
+  "description": "The Makita DMR301 Job Site Speaker/Stereo runs on both an AC adaptor and Makita LXT or CXT Li-ion batteries. When connected to the mains, you can charger LXT/CXT Li-ion batteries. A LCD screen indicates battery charging status; Charging, Charging completed, Standing-by for charging, Charging error; indicates battery reach at 80% charge.\n\nEquipped with Bluetooth® (Class 2), allowing for a wireless connection to your mobile device for playing music with a range of up to 10m. Its digital tuner is capable of receiving DAB/DAB+ radio stations. There is also an AUX-IN jack for connecting to external audio source (the connecting cable is not included.)\n\nIP64 rated dust and shower-proof construction. Elastomer bumpers and metal pipes protect against rough handling.\n\nOther features include: two USB output ports for charging mobile devices, illuminated control buttons and dial for improved visibility and a built-in bottle opener: Conveniently located for opening glass bottles.\n\nCompatible with LXT and CXT batteries (12Vmax-18V) only.\n\nComes as a Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Makita DMR301 Job Site Speaker/Stereo 240V & Li-ion Bare Unit",
+  "specifications": [
+    "Frequency Range FM 87.5-108 MHz, DABB and III 5A-13F",
+    "Battery: Type Lithium-ion, Range 12Vmax-18V",
+    "Speakers: 2 x Ø89mm",
+    "Weight: 5.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcr009-compact-bluetooth-speaker.html-lllmstxt|>
+## DEWALT DCR009 Compact Bluetooth Speaker
+
+{
+  "price": "€94.23 inc VAT (€76.61 exc.vat)",
+  "description": "The DEWALT DCR009 Compact Bluetooth Speaker is compact, powerful and extremely durable. Thanks to its IP67 rating its able to withstand dust and liquids, ideal for tough worksite conditions. Bluetooth 5.0 pairing allows you to connect with a device up to 30 metres away and at full volume it can emit an impressive 86dB. When at half volume, and fully charged, it can last for 16 hours. Front control buttons allows user to control audio directly from unit. This is a rechargeable Bluetooth speaker comes with a USB-A to USB-C charging cable.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCR009 Compact Bluetooth Speaker",
+  "specifications": [
+    "Max. Volume: 86dB",
+    "Runtime: 16 Hours @ 50% Volume",
+    "Charge Time: 2 hours",
+    "IP Rating: IP67"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dkt360z-lxt-kettle-36v-18v-x-2-bare-unit.html-lllmstxt|>
+## Makita DKT360Z LXT Kettle 36V (18V x 2) Bare Unit
+
+{
+  "price": "€202.49 inc VAT (€164.63 exc.vat)",
+  "description": "The Makita DKT360 LXT Kettle is powered by 2 x 18V Li-ion batteries in series (NOT supplied). Ideal for boiling water in location without AC power. Equipped with an anti-spill lock button to minimise accidental spilling of hot water. It also features auto shut-off after boiling with a warning buzzer. Comes as a Bare Unit, NO Battery or Charger supplied. Capacity: 800ml.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DKT360Z LXT Kettle 36V (18V x 2) Bare Unit",
+  "specifications": [
+    "Capacity: 800ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-mr007gz-dabdab-bluetooth-job-site-radio-240v-and-li-ion-bare-unit.html-lllmstxt|>
+## Makita MR007GZ DAB/DAB+ Bluetooth Job Site Radio 240V & Li-ion Bare Unit
+
+{
+  "price": "€239.90 inc VAT (€195.04 exc.vat)",
+  "description": "The Makita MR007G DAB/DAB+ Job Site Radio runs on both an AC adaptor and Makita Li-ion batteries. It has an easy-to-read digital tuner with LCD display and is capable of receiving DAB/DAB+ radio stations. Equipped with Bluetooth to wirelessly connect your mobile device to play music. A subwoofer on the bottom and midrange/treble speakers on both sides provide deeper and richer sound quality, to suit various music genres. MY EQ (my equalizer) mode enables to independently adjust treble, midrange and bass for a desired sound quality. Equipped with equaliser for 7 selectable sound modes. Sound mode can be selected to suit the music genre and an LED colour indicates the selected sound mode. IP65 rated for maximum weather and water resistance. A battery protection circuit protects against overloading, over-discharging and over-heating. Compatible with all Makita 12V- 40Vmax Li-ion batteries. Comes as a Bare Unit, No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita MR007GZ DAB/DAB+ Bluetooth Job Site Radio 240V & Li-ion Bare Unit",
+  "specifications": [
+    "Frequency Range FM 87.5-108 MHz, DAB+174,928 - 239,200 MHz",
+    "Battery: Type Lithium-ion, Range 12-18V",
+    "Dimensions (L x W x H): 285 x 172 x 305mm",
+    "Weight: 5.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-ra-18-li-bt---solo-cordless-radio-18v-bare-unit.html-lllmstxt|>
+## Einhell TC-RA 18 Li BT - Solo Cordless Radio 18V Bare Unit
+
+{
+  "price": "€61.29 inc VAT (€49.83 exc.vat)",
+  "description": "The Einhell TC-RA 18 Li BT - Solo Cordless Radio is handy and robust, it receives both on AM and FM frequency, 10 memory slots are available for each. Using Bluetooth, the cordless radio can easily be paired with the smart phone, which can also be safely stored on the back of the device. The intuitive operating options are located around the high-quality LCD display with time display. Its foldable antenna ensures space-saving storage and easy transport by means of a carrying handle. In addition, the radio has the option of wall mounting. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This radio comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell TC-RA 18 Li BT - Solo Cordless Radio 18V Bare Unit",
+  "specifications": [
+    "Frequency Range: AM 522 - 1620 kHz, FM 87.5 - 108 mHz",
+    "Number of Station Presets: 10",
+    "Weight: 0.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcl040-xr-torch-18-volt-bare-unit.html-lllmstxt|>
+## DEWALT DCL040 XR Torch 18 Volt Bare Unit
+
+{
+  "price": "€47.97 inc VAT (€39.00 exc.vat)",
+  "description": "The DEWALT DCL040 is the latest generation 18 Volt Work Light, using LED Technology and featuring new XR Li-Ion technology. It has a compact, lightweight design with impact resistant housing and improved ergonomic design and rubber grip increase comfort. The LED Bulb producing 110 Lumen output (10,000Hr Life) with a 2 zone light pattern with the flashlight head pivots more than 90 degrees vertically with ratchet lock. The Flashlight includes an integrated hook for hanging and can be used free standing, with belt clip. PLEASE NOTE: 18 Volt Battery and charger sold separately",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCL040 XR Torch 18 Volt Bare Unit",
+  "specifications": [
+    "Bulb Type: LED",
+    "Height: 240mm",
+    "Length: 115mm",
+    "Weight: 260g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcl043-xr-led-spotlight-18-volt-bare-unit.html-lllmstxt|>
+## DEWALT DCL043 XR LED Spotlight 18 Volt Bare Unit
+
+{
+  "price": "€91.09 inc VAT (€74.06 exc.vat)",
+  "description": "The DEWALT DCL043 XR LED Spotlight provides a focused high intensity beam and delivers a maximum output of 1000 lumen. The beam has a distance rating of 400m and it has a rugged and durable design that is IP 54 rated. The head pivots for directional lighting. Offers over 10 hours of runtime with a 5.0Ah Li-Ion Battery (NOT SUPPLIED).",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCL043 XR LED Spotlight 18 Volt Bare Unit",
+  "specifications": [
+    "Bulb Type: LED",
+    "Light Output: 120-1,000 Lumens",
+    "Protection Class: IP54"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-xr-li-ion-handheld-led-work-light-18-volt-bare-unit.html-lllmstxt|>
+## DEWALT XR Li-Ion Handheld LED Work Light 18 Volt Bare Unit
+
+{
+  "price": "€54.10 inc VAT (€43.98 exc.vat)",
+  "description": "The DEWALT XR Li-Ion Handheld LED Work Light is perfect for inspecting areas without electricity or natural light. Fitted with variable light settings for maximum brightness or extended run time and a 250-500 lumen output with A broad and even beam pattern. The articulating head has nine positions for directional control of the light output and an extendable hanging hook allows the work light to be suspended during use. Battery and Charger are NOT included.",
+  "availability": "In Stock",
+  "product_name": "DEWALT XR Li-Ion Handheld LED Work Light 18 Volt Bare Unit",
+  "specifications": [
+    "Bulb Type: LED",
+    "Light Output: 250-500 lumens",
+    "Protection Class: IP54",
+    "Height: 345mm",
+    "Length: 95mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hitachi-ub18dal-torch-18-volt-bare-unit.html-lllmstxt|>
+## Hitachi UB18DAL Torch 18 Volt Bare Unit
+
+{
+  "price": "€7.38 inc VAT (€6.00 exc.vat)",
+  "description": "The Hitachi UB18DAL is an 18 Volt compact professional Flashlight with a 5-position, 110° pivoting head, so that light can be aimed as needed. It is free-standing, which means that it can be used hands-free to illuminate the workplace/ workpiece. In addition, it has a shoulder carry strap so that it can be easily carried around the worksite. Accepts Lithium Ion batteries. Supplied as a bare unit. Batteries NOT included.",
+  "availability": "Out of Stock",
+  "product_name": "Hitachi UB18DAL Torch 18 Volt Bare Unit",
+  "specifications": [
+    "18 Volt compact professional Flashlight",
+    "5-position, 110° pivoting head",
+    "Free-standing design for hands-free use",
+    "Shoulder carry strap for easy transport",
+    "Accepts Lithium Ion batteries",
+    "Supplied as a bare unit (batteries not included)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-al-0-led-area-light-18-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M18 AL-0 LED Area Light 18 Volt Bare Unit
+
+{
+  "price": "€118.14 inc VAT (€96.05 exc.vat)",
+  "description": "Milwaukee M18 AL-0 18 Volt Area Light has a compact roll cage design that provides superior durability. Has a built-in handle that allows the user to hang the light vertically or horizontally. Has 8 high performance LED lights that provide 1100 Lumens of light. Wall mountable on 13mm EMT conduit. Bare Unit, No Battery or Charger Supplied. Flexible battery system works with all Milwaukee® M18™ batteries. Voltage: 18 Volt. Run Time: up to 4 hours per charge.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 AL-0 LED Area Light 18 Volt Bare Unit",
+  "specifications": [
+    "Voltage: 18 Volt",
+    "Run Time: up to 4 hours per charge",
+    "1100 Lumens of light",
+    "Wall mountable on 13mm EMT conduit",
+    "Bare Unit, No Battery or Charger Supplied"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18il-0-led-trueview-stick-light-18-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M18IL-0 LED TRUEVIEW™ Stick Light 18 Volt Bare Unit
+
+{
+  "price": "€137.60 inc VAT (€111.87 exc.vat)",
+  "description": "The Milwaukee M18IL-0 LED Stick Light has three powerful LEDs and features two light settings. The High setting provides 300 Lumens and 140 Lux for maximum coverage and light output. The Low setting provides 150 Lumens and 70 Lux for interior work where a brighter light may not be necessary. It has a tough jobsite design, the stick light features a replaceable, impact resistant lens that is engineered to stand up to the toughest work conditions and a chemical resistant body. There are also two multi-position stainless steel hooks for hands free use and a 45º pivoting head allows for 180º coverage. TRUEVIEW™ High Definition Lighting utilises the most advanced lighting technology to deliver true representation of colours, optimised colour temperature, and even beam patterns all designed to improve productivity and safety. Bare Unit, No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M18IL-0 LED TRUEVIEW™ Stick Light 18 Volt Bare Unit",
+  "specifications": [
+    "High setting: 300 Lumens, 140 Lux",
+    "Low setting: 150 Lumens, 70 Lux",
+    "Replaceable, impact resistant lens",
+    "Chemical resistant body",
+    "Two multi-position stainless steel hooks",
+    "45º pivoting head for 180º coverage",
+    "TRUEVIEW™ High Definition Lighting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18t-led-0-led-torch-18-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M18T LED-0 LED Torch 18 Volt Bare Unit
+
+{
+  "price": "€38.09 inc VAT (€30.97 exc.vat)",
+  "description": "Milwaukee M18T LED-0 LED Torch 18 Volt LED work light, offering both long bulb life and run time. With sealed aluminium head for weather resistance and 135° rotating head to direct its bright, white beam. Naked, batteries and charger NOT included. Voltage: 18 Volt. Run time: up to 12 hours per charge.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18T LED-0 LED Torch 18 Volt Bare Unit",
+  "specifications": [
+    "Voltage: 18 Volt",
+    "Run time: up to 12 hours per charge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcl079-xr-led-tripod-light-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCL079 XR LED Tripod Light 18V Bare Unit
+
+{
+  "price": "€282.70 inc VAT (€229.84 exc.vat)",
+  "description": "The DEWALT DCL079 XR LED Tripod Light is perfect for all trades so work can continue no matter the light conditions. Its compact size and durable construction mean it is easy to transport and store. The tripod base provides stability and means it is less likely to be knocked over. It produces a high power, broad and even beam. Providing light output across 3 brightness settings; 1000lm, 1800lm and 3000lm for different applications. The highest setting is 30% brighter than a 500W halogen light. 3500K warmer light colour to reduce glare. The light has an adjustable angle lamp, 240° rotatable lamp head with a 200° pivot angle for optimum light positioning. It has a durable construction, the lamp head is protected by an outer shell. IP55 rated against dust and water ingress protection enabling interior and exterior use. The telescopic pole can be adjusted up to 2.2m. Collapses down to 1m high for easy transportation and storage. Fitted with a carry handle. Supplied as a bare unit, no battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCL079 XR LED Tripod Light 18V Bare Unit",
+  "specifications": [
+    "Voltage: 18V",
+    "Max. Light Output: 1,000/1,800/3,000 Lumens",
+    "Max. Height: 2m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-wl-led-180-led-work-light-18v-bare-unit.html-lllmstxt|>
+## Flex Power Tools WL LED 18.0 LED Work Light 18V Bare Unit
+
+{
+  "price": "€66.95 inc VAT (€54.43 exc.vat)",
+  "description": "The Flex Power Tools WL LED 18.0 LED Work Light features 24 cold white LEDs and integrated discharge protection. The head can be swivelled through 320° and folded through 180°. Fitted with a swivelling hook for attaching the lamp to a rafter or belt clip. Bare Unit, No Battery or Charger Supplied. Lighting Duration: 2.5Ah approx. 20 hours; 5.0Ah approx. 40 hours",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools WL LED 18.0 LED Work Light 18V Bare Unit",
+  "specifications": [
+    "24 cold white LEDs",
+    "Integrated discharge protection",
+    "Head swivels 320° and folds 180°",
+    "Swivelling hook for attachment",
+    "Lighting duration: 20 hours (2.5Ah), 40 hours (5.0Ah)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcl074-xr-tool-connect-area-light-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCL074 XR Tool Connect Area Light 18V Bare Unit
+
+{
+  "price": "€256.36 inc VAT (€208.42 exc.vat)",
+  "description": "The DEWALT DCL074 XR Tool Connect™ Area Light with 3 brightness settings, up to a maximum of 5000 lumens. It has a 360° beam pattern; the precision engineered lens with 150 flutes delivers a bright even beam pattern to illuminate entire working space. Fitted with a robust roll cage for increased durability, designed to withstand tough job site environments. With the Tool Connect™ app, users can wirelessly power on and off the unit as well as customise settings such as the light intensity, alerts for low charge and set individual schedules for the day, time and intensity. There is also a tripod mount and hang hook, which allow for versatile positioning. IP54 rated for water and dust protection. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCL074 XR Tool Connect Area Light 18V Bare Unit",
+  "specifications": [
+    "Light Output: 1,500/3,200/5,000 lumens"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m12-sal-0-stand-site-light-12v-bare-unit.html-lllmstxt|>
+## Milwaukee Power Tools M12 SAL-0 Stand Site Light 12V Bare Unit
+
+{
+  "price": "€201.54 inc VAT (€163.85 exc.vat)",
+  "description": "The Milwaukee M12 SAL Stand Site Light with TRUEVIEW™ high definition lighting. The 12 high-performance LEDs provide 1400 lumens on high light output. Its head can be rotated 210° vertically and pivoted 270° horizontally, providing the best possible workplace illumination. The head is made from impact resistant materials with a highly durable polycarbonate lens to withstand drops up to 3m. Its compact footprint with low centre of gravity and impact resistant, reinforced nylon legs protect against abusive jobsite conditions. The extendable mast reaches from 0.91-1.72m. A protective guard secures the head and lens when the light is collapsed for storage or transport. Carry handles in 2 positions allows for easy one-handed transportation, the weight is evenly balanced when compressed. Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M12 SAL-0 Stand Site Light 12V Bare Unit",
+  "specifications": [
+    "Max. Light Output (High/Low): 1,400/700 lumens",
+    "Max. Run Time (High/Low): 4/10 hours",
+    "Height: 0.91-1.72m",
+    "Weight: 3.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcl077-compact-task-light-1218v-bare-unit.html-lllmstxt|>
+## DEWALT DCL077 Compact Task Light 12/18V Bare Unit
+
+{
+  "price": "€123.90 inc VAT (€100.73 exc.vat)",
+  "description": "DEWALT DCL077 Compact Task Light with a 360° handle enabling use in multiple orientations. There is also an integral tripod mount. It has 3 light settings, the most powerful produces 2,000 lumens with a natural daylight hue. Compatible with DEWALT 10.8V, 12V, 18V XR Li-ion batteries. Bare Unit - No Battery or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCL077 Compact Task Light 12/18V Bare Unit",
+  "specifications": [
+    "Light Output: 500/1,000/2,000 lumens"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m12-pal-0-trueview-pivot-area-light-12v-bare-unit.html-lllmstxt|>
+## Milwaukee Power Tools M12 PAL-0 TRUEVIEW™ Pivot Area Light 12V Bare Unit
+
+{
+  "price": "€85.39 inc VAT (€69.42 exc.vat)",
+  "description": "The Milwaukee M12 PAL TRUEVIEW™ Pivot Area Light has a compact design, ideal for on-the-go needs of service and maintenance trades. It has a durable, impact-resistant casing that can withstand drops of up to 3m. IP54 rated, so the light is protected from dust and splashing water. It is fitted with powerful magnets and has a rotating light head design with 40° rotation in each direction, providing multiple beam options. It also has a 2.1A USB output for device charging and a low battery indicator light flashes when the battery pack is low on charge. Supplied as a Bare Unit - No Battery or Charger. Works with all Milwaukee® M12™ batteries and offers up to 24 hours of run time with an M12™ 4.0Ah battery pack (sold separately).",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools M12 PAL-0 TRUEVIEW™ Pivot Area Light 12V Bare Unit",
+  "specifications": [
+    "Voltage: 12V",
+    "Max. Light Output (High/Medium): 700/250 lumens",
+    "Weight with Battery: 0.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dml806-lxt-led-li-ion-torch-144-18v-bare-unit.html-lllmstxt|>
+## Makita DML806 LXT LED Li-ion Torch 14.4-18V Bare Unit
+
+{
+  "price": "€70.06 inc VAT (€56.96 exc.vat)",
+  "description": "The Makita DML806 LXT LED Li-ion Torch has three light modes: 360° lantern, 180° lantern, or flashlight. The 180°-360° lantern lighting allows the user to select between the entire work area or specific task illumination. It has a compact, ergonomic design with a metal hang hook, it swivels 360° and folds away for easy storage. The rubberised soft grip provides increased comfort on the job.",
+  "availability": "In Stock",
+  "product_name": "Makita DML806 LXT LED Li-ion Torch 14.4-18V Bare Unit",
+  "specifications": [
+    "Max. Light Output: Flashlight 90 lumens, 180° Lantern 310 lumens, 360° Lantern 620 lumens",
+    "Run Time with 18V 5.0Ah Li-ion Battery: Flashlight 59 hours, 180° 21 hours, 360° 11 hours",
+    "Weight: 1.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dml186-lxt-led-fluorescent-lamp-18v-bare-unit.html-lllmstxt|>
+## Makita DML186 LXT LED Fluorescent Lamp 18V Bare Unit
+
+{
+  "price": "€14.51 inc VAT (€11.80 exc.vat)",
+  "description": "The Makita DML186 LXT LED Fluorescent Lamp has 6 high-efficiency LEDs for long, continuous, bright illumination. Easy to operate, thanks to its push button on/off switch, the lamp also has an adjustable hand strap with hook and loop fastener. This Makita lamp comes as a Bare Unit, with NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DML186 LXT LED Fluorescent Lamp 18V Bare Unit",
+  "specifications": [
+    "Light Output: 500 lumens",
+    "Dimensions [LxWxH]: 151 x 81 x 61mm",
+    "Weight: 0.30kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dml809-lxt-led-worklight.html-lllmstxt|>
+## Makita DML809 LXT LED Worklight
+
+{
+  "price": "€323.50 inc VAT",
+  "description": "The Makita DML809 LXT LED Worklight can be powered by 18V/14.4V LXT batteries for cordless operation or plugged into the mains, available in both 110V and 240V versions. The worklight is equipped with 96 super luminous daylight white LEDs, and offers three brightness settings; low, medium and high. This Makita product can be mounted on to a tripod light stand (NOT included).",
+  "availability": "In Stock",
+  "product_name": "Makita DML809 LXT LED Worklight",
+  "specifications": [
+    "Light Output: 2,000/4,000/10,000 lumens",
+    "Settings: Low/Medium/High",
+    "Power Cord Length: 2.5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dml811-lxt-led-worklight.html-lllmstxt|>
+## Makita DML811 LXT LED Worklight
+
+{
+  "price": "€338.58 inc VAT",
+  "description": "The Makita DML811 LXT LED Worklight can be powered by 18V/14.4V LXT batteries for cordless operation or plugged into the mains, available in both 110V and 240V versions. The worklight is equipped with 30 LEDs, and three brightness settings; low, medium and high. The DML811 can be mounted on to a tripod light stand (NOT included).",
+  "availability": "In Stock",
+  "product_name": "Makita DML811 LXT LED Worklight",
+  "specifications": [
+    "Light Output: 3,000 Lumens",
+    "Settings: Low/Medium/High",
+    "Power Cord Length: 2.5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dmr056-lxt-radio-lantern-14418v-bare-unit.html-lllmstxt|>
+## Makita DMR056 LXT Radio Lantern 14.4/18V Bare Unit
+
+{
+  "price": "€175.41 inc VAT (€142.61 exc.vat)",
+  "description": "The Makita DMR056 LXT Radio Lantern functions as both a lantern, with 360˚ light coverage, and a flashlight. It can also operate as a strobe light. A slow light up sequence helps to protect your eyes, while the On/Off mode select button is equipped with memory function so it remembers the last brightness and light tone setting. Its easy to read LCD digital display allows you to select between; AM/FM, Bluetooth, and DAB/DAB+ Radio stations, with the option to save your favourite stations. There is also a USB output port for charging small devices. Supplied with 1 x Strap Hook. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DMR056 LXT Radio Lantern 14.4/18V Bare Unit",
+  "specifications": [
+    "Frequency Range: DAB: Band III 5A - 13F, FM: 87.50 - 108 Mhz.",
+    "Light Tone/Colour: Daylight White, Neutral White, Warm White.",
+    "Lantern Luminous Flux High/Low: 310/155, 300/150, 260/130.",
+    "Flashlight Luminous Flux High/Low: 200/100."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-2-connect-led-work-light-12v18v-bare-unit.html-lllmstxt|>
+## SCANGRIP® NOVA 2 CONNECT LED Work Light 12V/18V Bare Unit
+
+{
+  "price": "€109.10 inc VAT (€88.70 exc.vat)",
+  "description": "The SCANGRIP® NOVA 2 CONNECT is a powerful compact all-round work light designed for the professional user. It features the latest high-performance COB LED technology and provides up to 2000 lumen of illumination. A light dimmer function makes it possible to adjust the light into five different steps according to the work task. Due to the flexible stand and built-in hook, the lamp can be placed in different positions to obtain the desired lighting angle. Its housing is made of sturdy die-casted aluminium and resistant to strokes, shocks and vibrations. The durable construction makes NOVA 2 CONNECT perfect for the demanding, rough working environment. As an extra feature, it has a built-in power bank with USB outlet to charge mobile devices.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® NOVA 2 CONNECT LED Work Light 12V/18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 2,000/200 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 16,000/1600 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 110°",
+    "Dimensions: 161 x 164mm",
+    "Weight: 0.72kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-area-10-connect-360-work-light-18v-bare-unit.html-lllmstxt|>
+## SCANGRIP® AREA 10 CONNECT 360° Work Light 18V Bare Unit
+
+{
+  "price": "€326.33 inc VAT (€265.31 exc.vat)",
+  "description": "The SCANGRIP® AREA 10 CONNECT provides a diffused and uniform light up to 10,000 lumen which is ideal for the professional user who requires powerful and efficient illumination of the entire work area carrying out any kind of repair, paint or construction work. Changes between 360° and 180° illumination according to the work task, with a built-in dimmer function enabling you to adjust the light output into five different levels. Integrated Bluetooth® light control makes it possible to turn on/off the work light and adjust the light output through a mobile device, saving you time from manual operation and increases work efficiency. It has a compact design with a carrying handle, makes it extremely handy and easy to move around. It is also supplied with a hook for flexible positioning and can be mounted directly on the SCANGRIP TRIPOD (SOLD SEPARATELY). Dust and waterproof, IP65, and supplied with a built-in power bank with USB outlet to charge mobile devices. Comes as a Bare Unit. Can be powered by: -METABO/CAS Batteries 12V 4.0Ah - 18V 5.2Ah -CONNECT POWER SUPPLY -A 18V battery from a leading power tool brand, such as Milwaukee, DeWalt, Makita, etc., by using the SCANGRIP® CONNECT CONNECTOR.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® AREA 10 CONNECT 360° Work Light 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 10,000/1000 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 3,000/300 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 360°",
+    "Dimensions: 395 x 200 x 212mm",
+    "Weight: 3.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-vega-4-connect-work-light-18v-bare-unit.html-lllmstxt|>
+## SCANGRIP® VEGA 4 CONNECT Work Light 18V Bare Unit
+
+{
+  "price": "€146.79 inc VAT (€119.34 exc.vat)",
+  "description": "The SCANGRIP® VEGA 4 CONNECT Work Light is a powerful LED floodlight designed for the professional user. The powerful LEDs provide a diffused and pleasant, non-blinding, uniform work light, with a large dispersion, perfect for painting and installation work. It features 2 level light output (50-100%) which makes it possible to adjust the light according to the work task. It comes with an integrated carrying handle and a stand for tripod mounting which make it very convenient and easy to position the light where it is needed. The robust housing of the VEGA 4 CONNECT is made of a highly shock-resistant plastic material, perfect for a working environment. It is also waterproof (IP54). Since the LEDs do not produce heat, there is no fire hazard when using the floodlight. Comes as a Bare Unit.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® VEGA 4 CONNECT Work Light 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 4,000/2,000 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 6,000/3,000 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 100°",
+    "Dimensions: 280 x 289 x 103mm",
+    "Weight: 2.02kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-tower-5-connect-floodlight-with-integrated-tripod-18v-bare-unit.html-lllmstxt|>
+## SCANGRIP® TOWER 5 CONNECT Floodlight with Integrated Tripod 18V Bare Unit
+
+{
+  "price": "€283.65 inc VAT (€230.61 exc.vat)",
+  "description": "The SCANGRIP® TOWER 5 CONNECT has two 360° flexible and turnable floodlights, the lights can be positioned in many different positions to obtain the desired lighting angle, providing perfect lighting condition for painting and installation work. It is extendable up to 2 meters and features two level light output (50-100%) which makes it possible to adjust the light according to the work task. Slim and lightweight design with a QUICK-FOLD system, makes it fast to set up in only a few seconds and fold again when the job is done. In folded position, it is compact and designed for one-hand transport with the integrated carrying handle. Comes as a Bare Unit. Can be powered by: METABO/CAS Batteries 12V 4.0Ah - 18V 5.2Ah, CONNECT POWER SUPPLY, A 18V battery from a leading power tool brand, such as Milwaukee, DeWalt, Makita, etc., by using the SCANGRIP® CONNECT CONNECTOR.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® TOWER 5 CONNECT Floodlight with Integrated Tripod 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 5,000/2,500 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 8,000/4,000 Lux",
+    "Illuminance Distance: 0.20m",
+    "Beam Angle: 110°",
+    "Dimensions: 121 x 153 x 892mm",
+    "Weight: 5.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-connect-led-work-light.html-lllmstxt|>
+## SCANGRIP® NOVA CONNECT LED Work Light
+
+{
+  "price": "€207.06 inc VAT",
+  "description": "The SCANGRIP® NOVA CONNECT features the latest COB LED technology and a built-in dimmer function enables you to adjust the light output into five different levels. This feature saves time from manual operation and increases work efficiency on a daily basis. With the user-friendly Bluetooth® light control app, you can control up to four work lights through a mobile device. Extremely sturdy and waterproof (IP65). The design is elegant, with a carrying handle and a stand for flexible positioning and direct mounting on the SCANGRIP TRIPOD (SOLD SEPARATELY). As an extra feature, it has a built-in power bank with USB outlet to charge mobile devices.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® NOVA CONNECT LED Work Light",
+  "specifications": [
+    "10,000 Lumens",
+    "4,000 Lumens",
+    "Bluetooth® light control app",
+    "IP65 waterproof",
+    "Built-in power bank with USB outlet"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dml814-lxt-worklight-14418v-bare-unit.html-lllmstxt|>
+## Makita DML814 LXT Worklight 14.4/18V Bare Unit
+
+{
+  "price": "€531.78 inc VAT (€432.34 exc.vat)",
+  "description": "The Makita DML814 LXT Worklight has 12 LED's and 3 brightness settings (high / medium / low), ideal for spot lightning. Produces a daylight white colour similar to natural light and ideal for working spaces. The lighting area can be adjusted by turning the individual lamp units. Its easily operable tripod stand is adjustable between 125 – 224cm high. Folds down to a compact size, making it easy to store. The battery capacity warning function automatically notifies the user about reduction in battery capacity with the decrease of illuminance. It also features a padlocked battery cover for increased security. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DML814 LXT Worklight 14.4/18V Bare Unit",
+  "specifications": [
+    "Bulb Type: LED",
+    "Luminous Flux: 3000 / 1700 / 900 Lumen",
+    "Illuminance: 1250 / 750 / 400 lx",
+    "Dimensions (L x W x H): 573 x 658 x 1,250 – 2,240mm",
+    "Folded Dimensions (L x W x H) 260 x 216 x 1,000mm",
+    "International Protection Class (IP): IP55"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dml808-lxt-led-torch-14418v-bare-unit.html-lllmstxt|>
+## Makita DML808 LXT LED Torch 14.4/18V Bare Unit
+
+{
+  "price": "€77.80 inc VAT (€63.25 exc.vat)",
+  "description": "Makita DML808 LXT LED Torch with a single LED provides 190 lumens. 40% higher illuminance than the DML802. Fitted with an ergonomically designed handle, the soft grip provides increased comfort on the job and ensures a firm working grip. A battery protection system automatically shuts off power when the battery level is low.",
+  "availability": "In Stock",
+  "product_name": "Makita DML808 LXT LED Torch 14.4/18V Bare Unit",
+  "specifications": [
+    "Max. Light Output: 190 lumens",
+    "LED Wattage: 4.9W",
+    "Dimensions: 280 x 79 x 119mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dml801-lxt-led-flashlight-14418v-bare-unit.html-lllmstxt|>
+## Makita DML801 LXT LED Flashlight 14.4/18V Bare Unit
+
+{
+  "price": "€52.25 inc VAT (€42.48 exc.vat)",
+  "description": "The Makita DML801 LXT LED Flashlight has 12 extra bright LED'S providing up to 240 lumens. Its head folds up and down with 7 positive stops and rotates left to right for multiple lighting angles. The rubber coating on the handle ensures a firm working grip. A battery protection system automatically shuts off power when the battery level is low. Can be powered by Makita 14.4V or 18V Li-ion Batteries. Comes as a Bare Unit, NO Battery or Charger Supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DML801 LXT LED Flashlight 14.4/18V Bare Unit",
+  "specifications": [
+    "Max. Light Output: 120/240 lumens."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-tower-compact-connect-light-2500-lumens-18v-bare-unit.html-lllmstxt|>
+## SCANGRIP® TOWER COMPACT CONNECT Light 2500 Lumens 18V Bare Unit
+
+{
+  "price": "€187.08 inc VAT (€152.10 exc.vat)",
+  "description": "The SCANGRIP® TOWER COMPACT CONNECT Light provides extremely high lumen output, up to as much as 2500 lumen, and can be positioned directly on the tripod without any bracket or extra devices. This means that it can be dismounted as easily and positioned directly on the surface using the battery base as stand or positioned by the built-in hook. Featuring 360° flexible and turnable lamp heads TOWER COMPACT CONNECT provides powerful illumination from any lighting angle you need for the job. Both lamp heads have dual axis rotation which means that the lamp heads can be rotated in all directions independent of each other providing completely flexible positioning of the light source. This provides perfect lighting condition for painting and installation work, for instance. Its tripod is extendable from 0.9m to 2m and offers complete flexibility to position the work light into the required height. The QUICK RELEASE function makes it fast to set up and fold again when the job is done. In folded position, it is very compact and designed for one-hand transport. The ideal work lamp for the craftsman who often changes workplace and needs to set up quickly and easily move on to the next job. The sturdy, slim design, and low weight of only 2.7 kg makes it tailored to bring around in the back of the car and convenient to carry around from one job to the other. Comes as a Bare Unit. Can be powered by: -METABO/CAS Batteries 12V 4.0Ah - 18V 5.2Ah. -CONNECT POWER SUPPLY. -A 18V battery from a leading power tool brand, such as Milwaukee, DeWalt, Makita, etc., by using the SCANGRIP® CONNECT CONNECTOR.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® TOWER COMPACT CONNECT Light 2500 Lumens 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 2,500/1250 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 1,800/900 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 180°",
+    "Max. Height: 2m (fully extended)",
+    "Weight: 2.74kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-cl-182000-liac---solo-power-x-change-hybrid-light-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-CL 18/2000 LiAC - Solo Power X-Change Hybrid Light 18V Bare Unit
+
+{
+  "price": "€64.99 inc VAT (€52.84 exc.vat)",
+  "description": "The Einhell TE-CL 18/2000 LiAC - Solo Power X-Change Work Light has 20 modern, high-performance LED lights and swiveling lamp head for optimum illumination of every angle and corner. Lights up the dark at the building site and when working in the workshed, garage or garden. Portable and easy to handle. The hybrid function ensures permanent operational readiness, the lamp can be operated with a lithium-ion rechargeable battery (NOT supplied) or via electricity supplied from a 220V connection. Thanks to numerous fastening options, there are practically no end of potential uses. Member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-CL 18/2000 LiAC - Solo Power X-Change Hybrid Light 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux Levels: 500/1,200/2,000 lm",
+    "Luminous Range: 6m",
+    "Luminous Colour: 5,300 K",
+    "Reflection Angle: 109.9°",
+    "Weight: 1.23kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-cl-182500-liac-solo-power-x-change-light-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-CL 18/2500 LiAC-solo Power X-Change Light 18V Bare Unit
+
+{
+  "price": "€81.77 inc VAT (€66.48 exc.vat)",
+  "description": "The Einhell TE-CL 18/2500 LiAC-solo Power X-Change Light has seven long-lasting, bright LEDs with a total of 2,500 lumen light flux and 6,500 K(elvin) color temperature. Its also more robust and resistant to impacts than a comparable halogen lamp. Two brightness levels provide ideal illumination. There is a 1/4in tripod thread to enable it to be fastened to a tripod. For easy handling and flexibility in use the lamp has a slim-line, low-weight design and features an ergonomic handle with a soft grip. The practical cordless lamp comes in useful not just in poorly lit areas such as basements, building sites, lofts or dark corners in the workshed. For a full overview of everything, the cordless lamp is handy for power failures or on camping vacations, night hikes, walks after sunset and for other outdoor activities, whenever you really cannot make do without an off-grid source of light. Member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-CL 18/2500 LiAC-solo Power X-Change Light 18V Bare Unit",
+  "specifications": [
+    "Max. Luminous Flux: 2,500 lm",
+    "Luminous Range: 6m",
+    "Luminous Colour: 6,500 K",
+    "Weight: 0.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-cl-181800-li-solo-power-x-change-light-18v-bare-unit.html-lllmstxt|>
+## Einhell TC-CL 18/1800 Li-Solo Power X-Change Light 18V Bare Unit
+
+{
+  "price": "€58.41 inc VAT (€47.49 exc.vat)",
+  "description": "The Einhell TC-CL 18/1800 Li-Solo Power X-Change Light has a high-performance LED to provide optimum illumination. For infinitely variable adjustment of the brightness there is a rotary dimmer, and the 360° degree swiveling lamphead provides a high level of flexibility. The practical carry-handle makes it easy to transport, and for storage in minimum space the foot can be folded in. For universal use a robust fastening hook is provided. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TC-CL 18/1800 Li-Solo Power X-Change Light 18V Bare Unit",
+  "specifications": [
+    "Light Current: 1,800 lumens",
+    "Light Source Type: LED",
+    "Luminous Range: 6m",
+    "Paint Temperature: 5,000K",
+    "Reflection Angle: 121.3°",
+    "Weight: 1.15kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-tower-5-connect-floodlight-with-dewalt-connect-18v-bare-unit.html-lllmstxt|>
+## SCANGRIP® TOWER 5 CONNECT Floodlight with DEWALT CONNECT 18V Bare Unit
+
+{
+  "price": "€326.44 inc VAT (€265.40 exc.vat)",
+  "description": "The SCANGRIP® TOWER 5 CONNECT has two 360° flexible and rotatable floodlights, the lights can be positioned in many different positions to obtain the desired lighting angle, providing perfect lighting condition for painting and installation work. It is extendable up to 2 meters and features a two level light output (50-100%) which makes it possible to adjust the light according to the work task. Slim and lightweight design with a QUICK-FOLD system, makes it fast to set up in only a few seconds and fold again when the job is done. In the folded position, it is compact and designed for one-handed transport with the integrated carrying handle. Comes as a Bare Unit. Comes as a Bare Unit, No battery or charger. Supplied with 1 x SCANGRIP® CONNECT DEWALT Connector. So you can use your existing 18V DEWALT Li-ion batteries to power this light.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® TOWER 5 CONNECT Floodlight with DEWALT CONNECT 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 5,000/2,500 Lumens.",
+    "Illuminance, Max.Min. (@0,5m): 8,000/4,000 Lux.",
+    "Illuminance Distance: 0.20m.",
+    "Beam Angle: 110°.",
+    "Dimensions: 121 x 153 x 892mm.",
+    "Weight: 5.2kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-tower-5-connect-floodlight-with-milwaukee-connect-18v-bare-unit.html-lllmstxt|>
+## SCANGRIP® TOWER 5 CONNECT Floodlight with Milwaukee CONNECT 18V Bare Unit
+
+{
+  "price": "€326.44 inc VAT (€265.40 exc.vat)",
+  "description": "The SCANGRIP® TOWER 5 CONNECT has two 360° flexible and rotatable floodlights, the lights can be positioned in many different positions to obtain the desired lighting angle, providing perfect lighting condition for painting and installation work. It is extendable up to 2 meters and features a two level light output (50-100%) which makes it possible to adjust the light according to the work task. Slim and lightweight design with a QUICK-FOLD system, makes it fast to set up in only a few seconds and fold again when the job is done. In the folded position, it is compact and is designed for one-handed transport with the integrated carrying handle. Comes as a Bare Unit. Comes as a Bare Unit, No battery or charger. Supplied with 1 x SCANGRIP® CONNECT Milwaukee Connector. So you can use your existing 18V Milwaukee Li-ion batteries to power this light.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® TOWER 5 CONNECT Floodlight with Milwaukee CONNECT 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 5,000/2,500 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 8,000/4,000 Lux",
+    "Illuminance Distance: 0.20m",
+    "Beam Angle: 110°",
+    "Dimensions: 121 x 153 x 892mm",
+    "Weight: 5.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-cl-18350-li-solo-power-x-change-worklight-18v-bare-unit.html-lllmstxt|>
+## Einhell TC-CL 18/350 Li-Solo Power X-Change Worklight 18V Bare Unit
+
+{
+  "price": "€37.45 inc VAT (€30.45 exc.vat)",
+  "description": "The Einhell TC-CL 18/350 Li-Solo Handheld Worklight is a reliable aid when working in poorly lit or dark areas. The high-quality, powerful LED with up to 350 lumens of luminous flux ensures optimal illumination up to 30 metres away. For maximum flexibility in use, the LED lamp is equipped with a swivelling light head. The lightweight cordless lamp is ideal for mobile use. Fitted with a softgrip handle for increased comfort. With the help of the integrated fastening eyelet, the lamp can also be suspended or stored in a space-saving manner during use. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Supplied as a Bare Unit - No Battery or Charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TC-CL 18/350 Li-Solo Power X-Change Worklight 18V Bare Unit",
+  "specifications": [
+    "Max. Luminous Flux: 350 lm",
+    "Luminous Range: 30m",
+    "Luminous Colour: 7,000 K",
+    "Weight: 0.495kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tp-cl-183000-li-solo-power-x-change-site-light-18v-bare-unit.html-lllmstxt|>
+## Einhell TP-CL 18/3000 Li-Solo Power X-Change Site Light 18V Bare Unit
+
+{
+  "price": "€125.03 inc VAT (€101.65 exc.vat)",
+  "description": "The Einhell TP-CL 18/3000 Li-Solo Power X-Change Site Light brings light into the dark, whether on the construction site or in the workshop, garage or garden. It has 60 powerful, dimmable LEDs which produce up to 3000 lumens to ensure optimal illumination at all angles and in every corner. Highly versatile thanks to its swivelling light head. In addition, the two light panels on the left and right can be adjusted to provide illumination of large areas spanning up to 270°. The neutral-white light temperature of 5700K ensures bright lighting conditions. This cordless lamp is portable and handy thanks to an integrated carrying handle with a Softgrip insert. Numerous mounting options including integrated eyelets and a fastening hook mean there are no limits to using it anywhere. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Comes as a Bare Unit - No Battery or Charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TP-CL 18/3000 Li-Solo Power X-Change Site Light 18V Bare Unit",
+  "specifications": [
+    "Quantity of LED: 60 Pieces.",
+    "Luminous Flux Min./Max.: 200/3,000 Lumens.",
+    "Luminous Colour: 5700K.",
+    "Weight: 1.74kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-magnetic-portable-rechargeable-worklight-800-lumens.html-lllmstxt|>
+## STANLEY® Lighting Magnetic Portable Rechargeable Worklight 800 Lumens
+
+{
+  "price": "€38.78 inc VAT (€31.53 exc.vat)",
+  "description": "The STANLEY® Magnetic Portable Rechargeable Worklight offers three different power modes (100%, 50%, off), allowing the user to adjust the brightness according to their needs. It can operate continuously for up to 4 hours on a single charge, providing ample lighting for various tasks. It has a lightweight, durable polycarbonate body and ultra strong magnetic base. IP54 rated, protected against dust and water splashes, making it suitable for use in various environments. The worklight can be conveniently charged using a USB C port and cable, allowing for easy charging with compatible devices. It can be fully charged in approximately 3 hours, ensuring minimal downtime between uses.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Magnetic Portable Rechargeable Worklight 800 Lumens",
+  "specifications": [
+    "Power Source: Built-in Battery",
+    "Luminous Flux: 800 Lumens",
+    "Colour Temp: 5,700K",
+    "Dimensions: 93 x 38 x 105mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-rechargeable-led-folding-worklight.html-lllmstxt|>
+## STANLEY® Lighting Rechargeable LED Folding Worklight
+
+{
+  "price": "€48.70 inc VAT",
+  "description": "The STANLEY® Rechargeable LED Folding Worklight has a lightweight yet durable polycarbonate body. It offers 2 modes of operation, on/off. A diffuser ensures comfortable working illumination. It has an IP54 rating, indicating it is protected against dust and water splashes, making it suitable for use in various environments. The worklight can be conveniently charged using a USB C port and cable, allowing for easy charging with compatible devices. It can be fully charged in approximately 3.5 hours, ensuring minimal downtime between uses. There is also a USB output, ideal for charging small devices, such as phones. Compatible with the SXLS37627E Universal Tripod (Sold Separately).",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Rechargeable LED Folding Worklight",
+  "specifications": [
+    "Power Source: Rechargeable Battery",
+    "Colour Temp: 5,700K",
+    "Working Time: 8 Hours",
+    "Charging Time: 3.5 Hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-l4-hsl-301-usb-rechargeable-hot-stick-light.html-lllmstxt|>
+## Milwaukee Power Tools L4 HSL-301 USB Rechargeable Hot Stick Light
+
+{
+  "price": "€187.14 inc VAT (€152.15 exc.vat)",
+  "description": "The Milwaukee L4 HSL-301 USB Rechargeable Hot Stick Light has two separate LED lights providing 350 lumens of halo lighting on high. Adjustable output levels give the ability to light the fuse for up to 10 hours on one full battery charge. Built to survive in the toughest conditions and features a high impact aluminium body and IP54 rating for water and dust resistance. Powered by the USB Rechargeable 3.0 Ah battery, providing all day run time. It can be recharged in the flashlight via USB-C or swapped out with additional USB Rechargeable batteries for virtually no downtime.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools L4 HSL-301 USB Rechargeable Hot Stick Light",
+  "specifications": [
+    "CRI [Colour Rating Index]: 80",
+    "Max. Light Output High/Low: 350/ 100 Lumens",
+    "IP Protection Class: IP54",
+    "Battery Compatibility: Redlithium™ USB",
+    "Max. Runtime High/Low: 2.5/ 10 hours",
+    "Weight: 240g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-sal2-led-trueview-stand-light.html-lllmstxt|>
+## Milwaukee Power Tools M18 SAL2 LED TRUEVIEW™ Stand Light
+
+{
+  "price": "from €493.78 inc VAT",
+  "description": "The Milwaukee M18 SAL2 LED TRUEVIEW™ Stand Light has twelve high performance LEDs to provide up to 2800 lumens on high light output. Its impact resistant, adjustable head features a highly durable polycarbonate lens which can be rotated 230° vertically and pivoted 240° horizontally. A protective guard secures the head and lens when the light is collapsed for storage or transport. The extendable mast reaches from 1.10m to over 2.20m this enables you to light up workspaces from top without casting shadows. IP54 rated, protected from dust and splashing water and fitted with impact resistant reinforced nylon legs to protect against abusive jobsite conditions. Carry handles on two positions enable easy one-handed transport: weight is evenly balanced when compressed. Flexible battery system: works with all MILWAUKEE® M18™ batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M18 SAL2 LED TRUEVIEW™ Stand Light",
+  "specifications": [
+    "Max. Light Output (High/Medium/Low): 2,800/1,300/860 Lumens",
+    "Max. Height: 2.2m",
+    "CCT (Correlated Colour Temperature): 4000 K",
+    "CRI [Colour Rating Index]: 80",
+    "IP protection class: IP54",
+    "Weight: 7.6kg (with 5Ah battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-18v-800-cordless-light-18v-bare-unit.html-lllmstxt|>
+## Bosch GLI 18V-800 Cordless Light 18V Bare Unit
+
+{
+  "price": "€122.64 inc VAT (€99.71 exc.vat)",
+  "description": "The Bosch GLI 18V-800 Cordless Light has 20 LEDs for bright workspace illumination, up to 800 lumens. The compact design with strong magnet and swivel metal hook allow for versatile positioning. It offers 360° swivelling and 180° tilting. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLI 18V-800 Cordless Light 18V Bare Unit",
+  "specifications": [
+    "Luminous flux: 800 lm",
+    "Number of Brightness Levels: 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-18v-1900-c-cordless-jobsite-light-18v-bare-unit.html-lllmstxt|>
+## Bosch GLI 18V-1900 C Cordless Jobsite Light 18V Bare Unit
+
+{
+  "price": "€158.09 inc VAT (€128.53 exc.vat)",
+  "description": "Bosch GLI 18V-1900 C Cordless Jobsite with a powerful LED, capable of producing up to 2,200 lumens for superior lighting conditions. It has two brightness settings, five flexible adjustment angles and a 5/8in tripod thread, allowing for quick adaptation to any work situation. The floodlight is splash-proof and dust-tight due to an IP 64-rated, robust battery cover. A Bluetooth connectivity module offering convenient remote control and lighting adjustments via the MyTools tile in the Toolbox app. This floodlight is excellent for lighting up entire working areas for a full working day. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GLI 18V-1900 C Cordless Jobsite Light 18V Bare Unit",
+  "specifications": [
+    "Luminous flux: 1,900 lm",
+    "Number of Brightness Levels: 2",
+    "Weight: 1.6kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-18v-2200-c-cordless-jobsite-light-18v-bare-unit.html-lllmstxt|>
+## Bosch GLI 18V-2200 C Cordless Jobsite Light 18V Bare Unit
+
+{
+  "price": "€203.63 inc VAT (€165.55 exc.vat)",
+  "description": "Bosch GLI 18V-2200 C Cordless Jobsite with a powerful LED, capable of producing up to 2,200 lumens for superior lighting conditions. It has two brightness settings, five flexible adjustment angles and a 5/8in tripod thread, allowing for quick adaptation to any work situation. The floodlight is splash-proof and dust-tight due to an IP 64-rated, robust battery cover. A Bluetooth connectivity module which offers convenient remote control and lighting adjustments via the MyTools tile in the Toolbox app. This floodlight is excellent for lighting up entire working areas for a full working day. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLI 18V-2200 C Cordless Jobsite Light 18V Bare Unit",
+  "specifications": [
+    "Luminous flux: 2,200 lm",
+    "Number of Brightness Levels: 2",
+    "Weight: 1.9kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-18v-1200-c-cordless-mini-jobsite-light-18v-bare-unit.html-lllmstxt|>
+## Bosch GLI 18V-1200 C Cordless Mini Jobsite Light 18V Bare Unit
+
+{
+  "price": "€136.63 inc VAT (€111.08 exc.vat)",
+  "description": "Bosch GLI 18V-1200 C Cordless Mini Jobsite Light with 12 powerful LEDs capable of delivering up to 1,200 lumens for excellent lighting conditions. It has two brightness settings, five flexible standing positions, and a 1/4in tripod thread, allowing for quick adaptation to any work situation. The floodlight is splash-proof and dust-tight due to an IP 64-rated, robust battery cover. A Bluetooth connectivity module offers convenient remote control and lighting adjustments via the MyTools tile in the Toolbox app. This floodlight is excellent for lighting up entire working areas for a full working day. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GLI 18V-1200 C Cordless Mini Jobsite Light 18V Bare Unit",
+  "specifications": [
+    "Luminous flux: 1,200 lm",
+    "Number of Brightness Levels: 2",
+    "Weight: 1.4kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-18v-4000-c-cordless-jobsite-light-18v-bare-unit.html-lllmstxt|>
+## Bosch GLI 18V-4000 C Cordless Jobsite Light 18V Bare Unit
+
+{
+  "price": "€302.83 inc VAT (€246.20 exc.vat)",
+  "description": "Bosch GLI 18V-4000 C Cordless Jobsite Light produces up to 4,000 lumens of brightness for excellent illumination. It has three brightness settings, flexible adjustment angles, and a 5/8in tripod thread, allowing for quick adaptation to any work situation. This floodlight is excellent for lighting up entire working areas. The floodlight is extremely robust due to its solid metal body shielded with a shock-absorbing rubber frame and heavy-duty safety bars. It features a User Interface with brightness indication and charge level indicator as well as a Bluetooth connectivity module offering convenient remote control and lighting adjustments via the MyTools tile in the Toolbox app. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLI 18V-4000 C Cordless Jobsite Light 18V Bare Unit",
+  "specifications": [
+    "Luminous flux: 4,000 lm",
+    "Number of Brightness Levels: 3",
+    "Weight: 2kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-18v-10000-c-cordless-jobsite-light-18v-bare-unit.html-lllmstxt|>
+## Bosch GLI 18V-10000 C Cordless Jobsite Light 18V Bare Unit
+
+{
+  "price": "€455.51 inc VAT (€370.33 exc.vat)",
+  "description": "Bosch GLI 18V-10000 C Cordless Jobsite Light produces up to 10,000 lumens of superior brightness, even brighter than 500W halogen floodlights. It has three brightness settings, flexible adjustment angles, and a 5/8in tripod thread, allowing for quick adaptation to any work situation. This floodlight is excellent for lighting up entire working areas. The floodlight is extremely robust due to its solid metal body shielded with a shock-absorbing rubber frame and heavy-duty safety bars. It features a User Interface with brightness indication and charge level indicator as well as a Bluetooth connectivity module offering convenient remote control and lighting adjustments via the MyTools tile in the Toolbox app. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLI 18V-10000 C Cordless Jobsite Light 18V Bare Unit",
+  "specifications": [
+    "Luminous flux: 10,000 lm",
+    "Number of Brightness Levels: 3",
+    "Weight: 3.9kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-12v-330-professional-cordless-light-12v-bare-unit.html-lllmstxt|>
+## Bosch GLI 12V-330 Professional Cordless Light 12V Bare Unit
+
+{
+  "price": "€77.83 inc VAT (€63.28 exc.vat)",
+  "description": "Bosch GLI 12V-330 Professional Cordless Light comes with 10 extremely bright LEDs and two brightness settings for perfect illumination. It also has a powerful magnet, carabiner, and hook, and an adjustable angle of up to 200° for flexible and fast setup in any environment. This worklight is perfect for lighting up small areas and has a 1/4in tripod thread. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 12V batteries and chargers (Professional 12V System).",
+  "availability": "In Stock",
+  "product_name": "Bosch GLI 12V-330 Professional Cordless Light 12V Bare Unit",
+  "specifications": [
+    "Luminous flux: 330 lm",
+    "Weight: 0.3kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-12v-300-professional-cordless-light-12v-bare-unit.html-lllmstxt|>
+## Bosch GLI 12V-300 Professional Cordless Light 12V Bare Unit
+
+{
+  "price": "€67.06 inc VAT (€54.52 exc.vat)",
+  "description": "Bosch GLI 12V-300 Professional Cordless Light comes with a hanging hook and four possible standing positions for flexibility in illumination. Its shape and the six powerful LEDs make it ideal for lighting up narrow spaces. This handheld stick light features energy-saving technology providing light for a full working day. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 12V batteries and chargers (Professional 12V System).",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLI 12V-300 Professional Cordless Light 12V Bare Unit",
+  "specifications": [
+    "Luminous Flux: 300 lm",
+    "Weight: 0.15kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gli-18v-300-torch-18v-bare-unit.html-lllmstxt|>
+## Bosch GLI 18V-300 Torch 18V Bare Unit
+
+{
+  "price": "€59.06 inc VAT (€48.02 exc.vat)",
+  "description": "The Bosch GLI 18V-300 Cordless Torch illuminates every corner, no matter how dark, with its 6 powerful LEDs and a 4 position head. Provides plenty of lighting power whilst only consuming a small amount of energy. Fitted with a handy suspension hook. Supplied as a Bare Unit, No Battery or Charger. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLI 18V-300 Torch 18V Bare Unit",
+  "specifications": [
+    "Brightness: 300 lumens",
+    "Dimensions (L x W x H): 116 x 78 x 163mm",
+    "Max. operating time 14.4 V: 250 mins/Ah",
+    "Max. operating time 18 V: 300 mins/Ah",
+    "Weight: 0.3kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-site-light-10000-lumens.html-lllmstxt|>
+## Lighthouse Rechargeable Site Light 10000 Lumens
+
+{
+  "price": "€204.73 inc VAT (€166.45 exc.vat)",
+  "description": "The Lighthouse Rechargeable Site Light is your ultimate lighting solution for any workspace! This powerful work light boasts an impressive 10000-lumen brightness (Mains Powered) and 5000-lumen (Battery) ensuring you have ample illumination for any task. With three adjustable lighting modes, you can easily customise the brightness to suit your needs. Equipped with a 5200mAh internal battery, the Lighthouse Work Light offers up to 2 hours of continuous run time when working away from mains power or when power is unavailable. Its 6500K colour temperature provides a bright, daylight-like quality, perfect for detailed work. The light is also lightweight and foldable, and it features rotational wing light heads making it incredibly versatile and fit for any application. Designed to withstand tough conditions, this work light has metal retractable legs, ensuring protection against tough working conditions. Running on mains power or charging is a breeze with the included 2-metre mains cable, and the light features both USB-A and USB-C outputs for added convenience. With a charge time of just 3 hours, you will be back to work in no time. Whether you are working in a garage, on a construction site, or tackling a DIY project at home, the Lighthouse Rechargeable Work Light 10,000 lumen is the perfect companion to light up your workspace.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Rechargeable Site Light 10000 Lumens",
+  "specifications": [
+    "Lumen Output: 10,000 (Mains), 5.000 (Battery)",
+    "Colour Temp: 6,500K",
+    "Height: 950-2300mm",
+    "Cable Length: 2m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-work-light-2000-lumens.html-lllmstxt|>
+## Lighthouse Rechargeable Work Light 2000 Lumens
+
+{
+  "price": "€30.69 inc VAT (€24.95 exc.vat)",
+  "description": "The Lighthouse Rechargeable Work Light is a powerful and versatile work light offering 360-degree illumination for both casual and professional users. This powerful work light delivers an impressive rotating LED head which outputs 2000 lumens of brightness, ensuring excellent illumination for any job. It features adjustable light modes at 100%, 50%, and 25% to suit your needs. Equipped with a 6000mAh internal battery, the Lighthouse Work Light offers up to 8 hours of continuous run time. Its 6500K colour temperature provides a bright, daylight-like quality, perfect for detailed work. The light is also lightweight, foldable, and magnetic and includes a handy hanging hook making it incredibly versatile and fit for any application. Designed to withstand tough conditions, this work light has an IP44 rating, ensuring protection against dust and water splashes. Charging is a breeze with the included USB-C cable, and the light features both USB-A and USB-C outputs for added convenience. With a charge time of just 4 hours, you will be back to work in no time. Whether you're working in a garage, on a construction site, or tackling a DIY project at home, the Lighthouse Rechargeable Work Light 2000LM is the perfect companion to light up your workspace.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Rechargeable Work Light 2000 Lumens",
+  "specifications": [
+    "Lumen output: 2,000",
+    "Colour Temp: 6,500K",
+    "IP Rating: IP44",
+    "Max. Run Time: 8 hours"
+  ]
+}
+

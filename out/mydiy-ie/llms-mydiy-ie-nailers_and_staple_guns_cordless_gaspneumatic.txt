@@ -1,0 +1,1358 @@
+<|https://www.mydiy.ie/products/bostitch-21684b-e-pneumatic-wide-crown-stapler-84-series.html-lllmstxt|>
+## Bostitch 21684B-E Pneumatic Wide Crown Stapler 84 Series
+
+{
+  "price": "€263.34 inc VAT (€214.10 exc.vat)",
+  "description": "The Bostitch 21684B-E wide crown stapler is a professional grade headless pinner with a small compact design for better access to the workspace, variable power control and a secondary safety trigger. Suitable for furniture manufacture, ideal for moulding and trim work.",
+  "availability": "In Stock",
+  "product_name": "Bostitch 21684B-E Pneumatic Wide Crown Stapler 84 Series",
+  "specifications": [
+    "Weight 0.83 kg",
+    "Dimensions: Length 221 mm × Width 150 mm × Height 40 mm",
+    "Staple Length 4 mm (min) - 16 mm (max)",
+    "Diameter 0.5 mm (min) - 1 mm (max)",
+    "Magazine Capacity 125 (max)",
+    "Operating Pressure PSI 80 - 120 BAR 4.9 - 8.4",
+    "Air Consumption Ltr.per shot @ 5.6 bar 0.17",
+    "Noise LPA 1sd 64.4",
+    "LWA 1sd 74.0",
+    "LPA 1s, 1m 61.0"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-stanox-staples.html-lllmstxt|>
+## Bostitch Stanox Staples
+
+{
+  "price": "€9.67 inc VAT",
+  "description": "Bostitch Stanox staples are also known as 84 series. For use with TU-216-84-E or other tools using 84 gauge.",
+  "availability": "In Stock",
+  "product_name": "Bostitch Stanox Staples",
+  "specifications": [
+    "Available sizes: 10mm, 12mm, 14mm, 6mm, 8mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-btx530-cordless-battery-tacker-1-x-72-volt-li-ion.html-lllmstxt|>
+## Rapid BTX530 Cordless Battery Tacker 1 x 7.2 Volt Li-Ion
+
+{
+  "price": "€106.80 inc VAT (€86.83 exc.vat)",
+  "description": "The Rapid BTX530 Cordless Tacker is powered by a re-chargeable 7.2 Volt Lithium Ion battery which allows you to work at high speed and with full mobility on different materials. The battery is long lasting and fires more than 1,300 staples per full charge. Lithium Ion batteries also ensure no self discharge so the tacker is always ready to use. It has an ergonomic design with a soft grip handle and perfect balance to ensure comfort and accuracy. The power is adjustable to suit different materials and the safety nose prevents accidental firing. There is a handy, see-through staple indicator so you know when to refill and it comes with a storage case and starter strips of staples and brads. It is covered by a 2 year guarantee. Supplied with: 1 x 7.2 Volt Battery, 1 x 2.5 Hour Charger, 1 x Starter Strip of 200 Staples, 1 x Starter Strip of 200 Brads and 1 x Storage Case. Fires: Rapid No 53 Fine Staples: 6mm to 14mm, No. 8 Brads: 15mm.",
+  "availability": "In Stock",
+  "product_name": "Rapid BTX530 Cordless Battery Tacker 1 x 7.2 Volt Li-Ion",
+  "specifications": [
+    "Rechargeable 7.2 Volt Lithium Ion battery",
+    "Fires more than 1,300 staples per full charge",
+    "Ergonomic design with soft grip handle",
+    "Adjustable power for different materials",
+    "Safety nose to prevent accidental firing",
+    "See-through staple indicator",
+    "Supplied with storage case and starter strips of staples and brads",
+    "2 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-0-tre550-electric-staplenail-gun.html-lllmstxt|>
+## Stanley Tools 0-TRE550 Electric Staple/Nail Gun
+
+{
+  "price": "€36.67 inc VAT (€29.81 exc.vat)",
+  "description": "The Stanley 0-TRE550 Heavy-Duty Electric Staple/Nail Gun with anti-jam feature and ergonomic soft grip handle. Easy access staple insertion for quick loading. Hi/Lo adjustments for a wide range of applications. Extra long cord for ease of use. Can be used on plywood and MDF. Fires: STANLEY® SharpShooter® TRA700 Series or Arrow® T-50® heavy-duty staples and 1/2in, 9/16in and 5/8in Brads.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools 0-TRE550 Electric Staple/Nail Gun",
+  "specifications": [
+    "Anti-jam feature",
+    "Ergonomic soft grip handle",
+    "Easy access staple insertion",
+    "Hi/Lo adjustments for various applications",
+    "Extra long cord",
+    "Compatible with STANLEY® SharpShooter® TRA700 Series and Arrow® T-50® staples"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-140el-professional-electric-stapler-and-nailer-230-volt.html-lllmstxt|>
+## Tacwise 140EL Professional Electric Stapler & Nailer 230 Volt
+
+{
+  "price": "€47.64 inc VAT (€38.73 exc.vat)",
+  "description": "The Pro 140EL is a lightweight, high impact tacker for those heavy-duty applications. It uses standard 140 heavy gauge flat wire staples and nails too. Suitable for attaching wire mesh netting to wood, Coffin linings, Insulation and lining, Office screens, External pelmets, blinds and awnings, Roofing felt, Theatre and film scenery, Upholstery and Re-upholstery , Exhibition/Show Construction, Fixing carpet and underlay, Display and shop fitting. Features include: Staple/nail refill window, Ultra quick release reloading system, Single shot trigger, Safety on/off switch.",
+  "availability": "Out of Stock",
+  "product_name": "Tacwise 140EL Professional Electric Stapler & Nailer 230 Volt",
+  "specifications": [
+    "Specifications: 230 Volt",
+    "Length 230mm",
+    "Width 65mm",
+    "Depth 210mm",
+    "Weight 1.1kg",
+    "Load capacity staples 100, nails 100"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-191el-master-pro-nailer-and-stapler-230-volt.html-lllmstxt|>
+## Tacwise 191EL Master Pro Nailer & Stapler 230 Volt
+
+{
+  "price": "€139.00 inc VAT (€113.01 exc.vat)",
+  "description": "Tacwise 191EL Master Pro versatile Nailer and Stapler for use on soft and medium wood, plasterboard, MDF, flooring, panelling, garden furniture and trellis work. It has a safety on/off switch, single shot trigger and an ultra quick release reloading system with a staple/nail refill window. Supplied with a carry case. Fires: 180 / 18 gauge 15-35mm Brad Nails and 91 narrow crown 15-35mm Staples.",
+  "availability": "Out of Stock",
+  "product_name": "Tacwise 191EL Master Pro Nailer & Stapler 230 Volt",
+  "specifications": [
+    "Length: 255mm",
+    "Width: 68mm",
+    "Depth: 230mm",
+    "Weight: 1.8kg",
+    "Load capacity staples: 100",
+    "Load capacity nails: 100"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-0849-spare-nose-pieces-5-for-191el.html-lllmstxt|>
+## Tacwise 0849 Spare Nose Pieces (5) For 191EL
+
+{
+  "price": "€10.76 inc VAT (€8.75 exc.vat)",
+  "description": "Replacement nose piece for Master Nailer 191EL (Part No 0327) Pkt 5",
+  "availability": "Out of Stock",
+  "product_name": "Tacwise 0849 Spare Nose Pieces (5) For 191EL",
+  "specifications": [
+    "Part No: TAC0849",
+    "Includes 5 spare nose pieces",
+    "Designed for Master Nailer 191EL"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-duo-35-nailerstapler-230-volt.html-lllmstxt|>
+## Tacwise Duo 35 Nailer/Stapler 230 Volt
+
+{
+  "price": "€165.62 inc VAT (€134.65 exc.vat)",
+  "description": "The Tacwise Duo Nailer/Stapler is a corded electric tool which nails up to 35mm and staples up to 30mm. It is a highly versatile tool for every tradesman and suitable for a wide variety of 2nd fix tasks. It has a quick-release nose for jam clearance and an on/off safety light. In addition, it also features a new Pro Air tool magazine. Fires 180 / 18 gauge 15-35mm brad nails and 91 staples 15-30mm. Supplied in a strong carry case.",
+  "availability": "In Stock",
+  "product_name": "Tacwise Duo 35 Nailer/Stapler 230 Volt",
+  "specifications": [
+    "Nails up to 35mm",
+    "Staples up to 30mm",
+    "Corded electric tool",
+    "Quick-release nose for jam clearance",
+    "On/off safety light",
+    "Pro Air tool magazine",
+    "Fires 180 / 18 gauge 15-35mm brad nails",
+    "Fires 91 staples 15-30mm",
+    "Supplied in a strong carry case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-1172-spare-nose-pieces-5.html-lllmstxt|>
+## Tacwise 1172 Spare Nose Pieces (5)
+
+{
+  "price": "€10.90 inc VAT (€8.86 exc.vat)",
+  "description": "These Tacwise Spare Nose Pieces are designed to withstand heavy amounts of use and designed to fit Tacwise electric nail and staples guns. These replacement nose pieces are designed to be replaced within seconds, without having to use any other tool, keeping down time to a minimum. They are rubberised and black in colour. Sold in packs of 5. Suitable for the following models: 181ELS (TAC1176), 400ELS (TAC0733), Duo 35 (TAC1165), Duo 50 (TAC1166), Brad Nailer 50 (TAC1183), Finish Nailer 45 (1187).",
+  "availability": "Out of Stock",
+  "product_name": "Tacwise 1172 Spare Nose Pieces (5)",
+  "specifications": [
+    "Designed for Tacwise electric nail and staple guns",
+    "Pack of 5 replacement nose pieces",
+    "Rubberised and black in color",
+    "Quick replacement without tools",
+    "Compatible with multiple Tacwise models"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-181els-master-nailer-pro-nailer-230-volt.html-lllmstxt|>
+## Tacwise 181ELS Master Nailer Pro Nailer 230 Volt
+
+{
+  "price": "€121.77 inc VAT (€99.00 exc.vat)",
+  "description": "This Tacwise 181 ELS Master 35mm Nailer is a new and improved upgrade to the best selling model. This tough and reliable nailer fires Tacwise 180 nails (15-35mm) in either galvanised or stainless steel finish with a total load capacity of 100 nails. This versatile nailer is fast, lightweight and compact for convenience, with an ultra quick release nose plate to release jams and rubber nose protector for use on soft timber surfaces. Ideal for: flooring, general woodwork, 2nd fix tasks, panelling and insulation. The Tacwise Master nailer is supplied with a handy blow mould case.",
+  "availability": "Out of Stock",
+  "product_name": "Tacwise 181ELS Master Nailer Pro Nailer 230 Volt",
+  "specifications": [
+    "Fires Tacwise 180 nails (15-35mm)",
+    "Total load capacity of 100 nails",
+    "Fast, lightweight and compact design",
+    "Ultra quick release nose plate to release jams",
+    "Rubber nose protector for soft timber surfaces",
+    "Ideal for flooring, general woodwork, 2nd fix tasks, panelling and insulation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-rapid-pro-r553-electric-staplenail-gun.html-lllmstxt|>
+## Rapid PRO R553 Electric Staple/Nail Gun
+
+{
+  "price": "€212.83 inc VAT (€173.03 exc.vat)",
+  "description": "The Rapid PRO R553 Electric Staple/Nail Gun is ideal for professional users who need precision stapling and nailing. Featuring robust parts and quality construction, the R353 offers longer working life even when used intensively. It is particularly effective when used for furniture upholstery work or other types of fabric, carpets, leather or more sensitive textiles. The removable front plate allows jams to be quickly taken care of while a 3.5 metre cord increases accessibility and efficiency. It is covered by a 2 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Rapid PRO R553 Electric Staple/Nail Gun",
+  "specifications": [
+    "Fires: Finewire No. 53 Staple: 8-20mm & Brad No. 8 Nails: 15-20mm",
+    "2 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-pro-r606-electric-staplenail-gun.html-lllmstxt|>
+## Rapid PRO R606 Electric Staple/Nail Gun
+
+{
+  "price": "€212.83 inc VAT (€173.03 exc.vat)",
+  "description": "The Rapid PRO R606 Electric Staple/Nail Gun is ideal for professional users who need precision stapling and nailing. Created to offer high performance over a long, demanding working life, the R606 is suitable for tough jobs involving both hard and soft wood. Perfect for smaller wood constructions such as picture frames, drawers or fastening panelling. Featuring robust parts and quality construction, it also has a removable front plate that allows jams to be quickly taken care of and a 3.5m cord that increases accessibility and efficiency. It is covered by a 2 year guarantee. Fires: Narrow Crown No. 606 Staples: 12-25mm & Brad No. 8 Nails: 15-25mm.",
+  "availability": "Out of Stock",
+  "product_name": "Rapid PRO R606 Electric Staple/Nail Gun",
+  "specifications": [
+    "Fires: Narrow Crown No. 606 Staples: 12-25mm",
+    "Brad No. 8 Nails: 15-25mm",
+    "2 year guarantee",
+    "3.5m cord for accessibility",
+    "Removable front plate for easy jam clearance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-ranger-el-pro-cordless-staplenail-gun-18v.html-lllmstxt|>
+## Tacwise Ranger EL-Pro Cordless Staple/Nail Gun 18V
+
+{
+  "price": "€312.15 inc VAT (€253.78 exc.vat)",
+  "description": "The Tacwise Ranger EL-Pro Cordless Staple/Nail Gun is powered by an interchangeable 18V lithium-ion battery. Delivers precise nailing and stapling without the wires. Made from high-impact, ABS moulded housing, this cordless model is perfect for a range of applications including furniture upholstery, roofing, fencing, insulation and much more. Switch seamlessly between staples and nails thanks to the bottom loading design and know when you’re running low with the useful refill window. The EL-Pro features single shot or contact firing modes, designed for maximum power for various staple lengths without adjustment. This powerful staple/nail gun also boasts a depth control adjustment wheel and an LED light for accurate stapling/nailing. To prevent damage to work surfaces, the Ranger EL-Pro comes fitted with a nonmarking nose protector. Backed by a 2-year guarantee when using Tacwise staples/nails. Supplied with: 1 x 18V Li-ion Battery, 1 x Charger with UK/EUR Adaptor Plug, 1,000 x 30mm Nails, 1,000 x 30mm Staples.",
+  "availability": "In Stock",
+  "product_name": "Tacwise Ranger EL-Pro Cordless Staple/Nail Gun 18V",
+  "specifications": [
+    "Magazine Capacity: 100 Nails/Staples",
+    "Fastenings: 18GA Narrow Crown Brad Nails: 20-50mm, Staples: 19-40mm",
+    "Weight: 3.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-hobby-53-13el-cordless-staplenail-gun-4v.html-lllmstxt|>
+## Tacwise Hobby 53-13EL Cordless Staple/Nail Gun 4V
+
+{
+  "price": "€37.99 inc VAT (€30.89 exc.vat)",
+  "description": "The Tacwise Hobby 53-13EL Cordless Staple/Nail Gun is powered by an integrated, rechargeable, 4V lithium-ion battery that delivers precise nailing and stapling without the wires. This versatile staple/nail gun is powerful and durable providing accurate results. Features an on/off LED light for precision and ease-of-use. Suitable for a wide range of DIY, hobby and more ambitious tasks at home or school, such as furniture upholstery, decorative work with different types of textiles as well as fastening canvas, leather, posters, netting, delicate mouldings, beading and frames etc. Supplied with: 1 x USB Charging Cable, 200 x 53/8mm Staples and 1 x Handy Neoprene Storage Bag. Backed by a 2-year guarantee when using Tacwise staples/nails.",
+  "availability": "In Stock",
+  "product_name": "Tacwise Hobby 53-13EL Cordless Staple/Nail Gun 4V",
+  "specifications": [
+    "Fires: 53 & 13 Staples: 6-12mm, 180/18g Brads: 10mm",
+    "Weight: 0.68kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-53-13el-cordless-staplenail-gun-12v.html-lllmstxt|>
+## Tacwise 53-13EL Cordless Staple/Nail Gun 12V
+
+{
+  "price": "€82.84 inc VAT (€67.35 exc.vat)",
+  "description": "The Tacwise 53-13EL Cordless Staple/Nail Gun is powered by an interchangeable 12V lithium-ion battery, the perfect choice for the busy tradesman or enthusiastic DIYer. This cordless model is perfect for furniture upholstery and decorative work such as fastening canvas, leather, plastic sheeting, netting, frames and more. The handy belt hook provides easy storage on the move, whilst the LED light offers precise stapling/nailing. Switch seamlessly between staples and nails thanks to the bottom loading design and know when you’re running low with the useful refill window. The 53-13EL also features single shot or contact trip/bump firing modes, designed for maximum power for various staple lengths without adjustment. Supplied with: 1 x 12V Battery, 1 x Charger, 200 x 53/8mm Staples, 200 x 13/6mm Staples and 1 x Handy Neoprene Storage Bag. Backed by a 2-year guarantee when using Tacwise staples and nails.",
+  "availability": "Out of Stock",
+  "product_name": "Tacwise 53-13EL Cordless Staple/Nail Gun 12V",
+  "specifications": [
+    "Fires: 53 & 13 Staples: 6-12mm, 180/18g Brads: 10mm",
+    "Weight: 0.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-li-ion-battery-13mah-12v.html-lllmstxt|>
+## Tacwise Li-ion Battery 1.3mAh 12V
+
+{
+  "price": "€16.43 inc VAT (€13.36 exc.vat)",
+  "description": "Replacement Li-ion Battery, compatible with the following models: Tacwise 140-180EL Cordless Staple/Nail Gun 12V and Tacwise 53-13EL Cordless Staple/Nail Gun 12V.",
+  "availability": "In Stock",
+  "product_name": "Tacwise Li-ion Battery 1.3mAh 12V",
+  "specifications": [
+    "Li-ion Battery",
+    "1.3mAh",
+    "12V",
+    "Compatible with Tacwise 140-180EL and Tacwise 53-13EL models"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-140-180el-cordless-staplenail-gun-12v.html-lllmstxt|>
+## Tacwise 140-180EL Cordless Staple/Nail Gun 12V
+
+{
+  "price": "€82.84 inc VAT (€67.35 exc.vat)",
+  "description": "The Tacwise 140-180EL Cordless Staple/Nail Gun is powered by an interchangeable 12V lithium-ion battery, the perfect choice for the busy tradesman or enthusiastic DIYer. A powerful staple/nail gun firing the professional's heavier gauge 140 staple which provides excellent holding power on materials such as plastic sheeting and netting. This compact tool delivers consistent results time after time. The handy belt hook provides easy storage on the move, whilst the LED light offers precise stapling/nailing. Switch seamlessly between staples and nails thanks to the bottom loading design and know when you’re running low with the useful refill window. Supplied with: 1 x 12V Battery, 1 x Charger, 200 x 140/8mm Staples, 200 x 180/10mm Nails and 1 x Handy Neoprene Storage Bag. Backed by a 2-year guarantee when using Tacwise staples and nails.",
+  "availability": "Out of Stock",
+  "product_name": "Tacwise 140-180EL Cordless Staple/Nail Gun 12V",
+  "specifications": [
+    "Fires: 140 Staples: 6-12mm, 180/18g Brads: 10mm",
+    "Weight: 0.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-stapler-nailer-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Stapler-Nailer 18V Bare Unit
+
+{
+  "price": "€164.32 inc VAT (€133.59 exc.vat)",
+  "description": "The Batavia MAXXPACK Stapler-Nailer has a compact, lightweight design with an easy release magazine, that makes the tool easy and comfortable to use. There is also a nail viewer window. The depth of drive can be easily adjusted using the handy wheel depth adjuster. Fitted with a safety mechanism that prevents accidental firing. Comes as a Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Stapler-Nailer 18V Bare Unit",
+  "specifications": [
+    "Magazine Capacity: 100 Nails/Staples",
+    "Max. Length of Nails: 20 - 50mm, 18 gauge Brad Nail",
+    "Max. Length of Staples: 19 - 40mm, 18 gauge Light-Duty Staples",
+    "Firing Speed: 60 Nails/Staples per min",
+    "Weighted sound pressure level LpA: 79.9 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-master-nailer-191-20v.html-lllmstxt|>
+## Tacwise Master Nailer 191 20V
+
+{
+  "price": "€164.78 inc VAT (€133.97 exc.vat)",
+  "description": "The Tacwise Master Nailer 191 offers a sequential (single shot) firing mode with a metal bottom-loading magazine which enables firing of 100 x type 91 / 15 – 25 mm staples or 100 x 18G / 15 – 32 mm brad nails without reloading. It has an impact-resistant body and a wide ergonomic handle comfortable for prolonged use, depth adjuster which can be set to reflect the material’s hardness or softness, non-marking nose for clean results, staple/nail refill indicator, LED work light and a belt hook. Designed with safety in mind, this tool is equipped with three safety features: a power switch on the tool body, a power switch on the 20V battery, and contact nose activation to prevent accidental firing. Powered by an interchangeable, rechargeable, quick-release 20V lithium-ion battery offering a 30 staple or nail per minute firing speed, around 1000 shots per charge, and a 1-hour charging time for maximised performance while stapling or nailing. The high-capacity battery provides power for a more extended period. Suitable for a range of semi-professional tasks, including building cabinets, staircases, banisters, fences, door frames, tongue and groove flooring, subflooring, paneling, sheds and garden furniture and many other wooden projects, as well as precision tasks such as moulding and beading. We strongly recommend using Tacwise staples and nails for a smooth, uninterrupted performance. Supplied with: 1 x 20V Battery, 1000 x Type 91 / 25mm Staples, 2000 x Type 18G / 32mm Nails, 1 x Carry Case",
+  "availability": "Out of Stock",
+  "product_name": "Tacwise Master Nailer 191 20V",
+  "specifications": [
+    "Magazine Capacity Nails 100, Staples 100",
+    "Fasteners Length (mm): Nails 15-32mm, Staples 15-25mm",
+    "Min. Firing Distance from Wall: 23mm",
+    "Weight: 2.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-sb-hc50fn-pneumatic-concrete-block-nailer-20-50mm-nails.html-lllmstxt|>
+## Bostitch SB-HC50FN Pneumatic Concrete Block Nailer 20-50mm Nails
+
+{
+  "price": "€293.90 inc VAT (€238.94 exc.vat)",
+  "description": "The SB-HC50FN Concrete Block Nailer is a 15 gauge Finish Nailer which is capable of driving high carbon zinc dichromate hardened nails into concrete blocks to 7 newtons. Designed to drive tungsten hardened nails into almost all forms of concrete block, the SB-HC50FN can fix door liners into block and gripper rods into floor screeds. It is not recommended that this tool is used to drive nails into any form of strengthened concrete or engineered and glazed bricks.",
+  "availability": "Out of Stock",
+  "product_name": "Bostitch SB-HC50FN Pneumatic Concrete Block Nailer 20-50mm Nails",
+  "specifications": [
+    "Magazine Capacity: 100 nails",
+    "Fires: HCFN Series: 20-50mm",
+    "Operating Pressure: 70-100 PSI, 5-7bar",
+    "Weight: 1.98kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-hcfn-high-carbon-galvanised-hardened-15-gauge-nails.html-lllmstxt|>
+## Bostitch HCFN High Carbon Galvanised Hardened 15 Gauge Nails
+
+{
+  "price": "€25.28 inc VAT",
+  "description": "High carbon Zinc Dichromate HCFN finish nail 15 gauge. For use with Bostitch concrete block nailer.",
+  "availability": "In Stock",
+  "product_name": "Bostitch HCFN High Carbon Galvanised Hardened 15 Gauge Nails",
+  "specifications": [
+    "30mm Pack of 1500"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-n66c-2-e-pneumatic-coil-nailer-variable-depth-control.html-lllmstxt|>
+## Bostitch N66C-2-E Pneumatic Coil Nailer Variable Depth Control
+
+{
+  "price": "€374.18 inc VAT (€304.21 exc.vat)",
+  "description": "The high capacity N66C-2-E coil nailer is designed with a tough, resilient housing but uses light weight materials, making this tool ideal for all day use. The fastener depth adjustment gives ultimate control, and the tool is also compatible with both plastic and wire collated nails for maximum flexibility.",
+  "availability": "In Stock",
+  "product_name": "Bostitch N66C-2-E Pneumatic Coil Nailer Variable Depth Control",
+  "specifications": [
+    "Magazine Capacity: 225 (max)",
+    "Nail Length: N Series: 32-64mm",
+    "Nail Diameter: N Series: 2.03-2.5mm",
+    "Nail Head: 4.5mm",
+    "Operating Pressure: 70-120 PSI, 4.8-8.3 Bar",
+    "Dimensions (LxWxH): 267 x 270 x 118mm",
+    "Weight: 1.99kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/senco-sc65-pneumatic-sc65-semi-pro-coil-nailer.html-lllmstxt|>
+## Senco SC65 Pneumatic SC65 Semi Pro Coil Nailer
+
+{
+  "price": "€240.15 inc VAT (€195.24 exc.vat)",
+  "description": "Senco SC65 Pneumatic Semi Pro Coil Nailer offers rapid nailing in a whole range of applications. It has an ergonomic magnesium housing designed with comfortable rubber grip for great working experience, and the multi-directional exhaust deflector deflects air away from operator for comfort. A no-mark pad protects the work surface and the restrictive trigger ensures precise operating, as does the depth of drive adjustment. The high capacity, easy to load magazine and quick clear jam release ensure downtime is kept to a minimum. The tool drives 15° collated wire and plastic collated coil nails from 32mm to 65mm in length, and 2.3 to 2.9mm diameter. Ideal for wall sheathing/siding, timber frame construction, fencing , sub-flooring, boarding and other wooden assembly work. Comes with a 1 Year Warranty. Requires: 1/4in tailpiece. Operating Pressure: 4.9-8.3 bar. Air Consumption: 220 l/min. Magazine capacity: 250-275. Collation angle: 15°. Fastener length: 32-65mm. Length: 304mm. Width: 128mm. Height: 300mm. Weight: 2.49kg.",
+  "availability": "In Stock",
+  "product_name": "Senco SC65 Pneumatic SC65 Semi Pro Coil Nailer",
+  "specifications": [
+    "Operating Pressure: 4.9-8.3 bar",
+    "Air Consumption: 220 l/min",
+    "Magazine capacity: 250-275",
+    "Collation angle: 15°",
+    "Fastener length: 32-65mm",
+    "Length: 304mm",
+    "Width: 128mm",
+    "Height: 300mm",
+    "Weight: 2.49kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-coil-ring-nails-fac-series-for-n71-n75-n80-n89.html-lllmstxt|>
+## Bostitch "Coil Ring Nails FAC Series for N71, N75, N80, N89"
+
+{
+  "price": "€122.80 inc VAT",
+  "description": "Bostitch FAC Series Flat Angle Coil Pattern Ring Coil Nails are designed for high volume operation. The coils contain large quantities of nails meaning that reloading down time can be kept to a minimum. You will find them used in the pallet and crate, fencing, garden furniture and the construction industries.",
+  "availability": "In Stock",
+  "product_name": "Bostitch \"Coil Ring Nails FAC Series for N71, N75, N80, N89\"",
+  "specifications": [
+    "To Suit: N71C-1-E, N75C-2-E, N80CB-1ML, N89C-1P-E, N89C-2K-E",
+    "All Coil Nails are Round Head nails.",
+    "15° Collation Angle",
+    "Bright finish is without any form of protection and is the most economical choice.",
+    "Galvanising, or coating with Zinc, is the best way to prevent nails from corroding."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-coil-ring-nails-n-series---n55-n57-n58-n64-n66.html-lllmstxt|>
+## Bostitch "Coil Ring Nails N Series - N55, N57, N58, N64, N66"
+
+{
+  "price": "€142.78 inc VAT",
+  "description": "Designed for high volume operation, coils contain large quantities of nails meaning that reloading down time can be kept to a minimum. You will find them in the pallet and crate, fencing, garden furniture and the construction industries. All Coil Nails are Round Head nails. Typically: Coils of nails with diameters from 2.0 mm to 2.2 mm contain 350 nails. Coils of nails with diameters from 2.5 mm to 3.1 mm. Contain 225 nails. Roofing nail coils contain 120 nails, due to the extra large diameter of the head. 15° Collation angle Ring shank nails have a series of rings punched into the surface of the shank. A difference in the diameter of the shank is produced making it even more difficult to withdraw the nail. Bright finish is without any form of protection and is the most economical choice, but the nails will start to rust before nails that have a protective treatment. Used in applications where no protection is required, for example a one way disposal pallet. As all standard nails come with this finish. Galvanising, or coating with Zinc, is the best way to prevent nails from corroding. The zinc does not protect the steel of the nail, but is corroded first. The thicker the zinc coating, the longer it will be before the nail is attacked. The thickest coating is called hot dipped and is applied by dipping the nails into a bath of molten zinc. Galvanised protection is measured in Microns (each Micron is 0.000001 of an metre thick). The thicker the micron coating the better the protection level of the nails. For use with: N57C-1CE heavy-duty Coil Nailer N58C-1-E Coil Nailer N58C-1-E Coil Nailer N66C-2-E Coil Nailer.",
+  "availability": "In Stock",
+  "product_name": "Bostitch \"Coil Ring Nails N Series - N55, N57, N58, N64, N66\"",
+  "specifications": [
+    "Coil nails designed for high volume operation",
+    "Round head nails",
+    "15° collation angle",
+    "Available in various sizes and finishes (Bright and Galvanised)",
+    "Compatible with specific Bostitch coil nailers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-mcn150-e-pneumatic-strap-shot-metal-connecting-nailer-38mm.html-lllmstxt|>
+## Bostitch MCN150-E Pneumatic Strap Shot Metal Connecting Nailer 38mm
+
+{
+  "price": "€292.94 inc VAT (€238.16 exc.vat)",
+  "description": "The Bostitch MCN150-E Strap Shot Metal Connecting Nailer is incredibly lightweight and simple to use and maintain. Compact metal connecting nailer with Sequential Trip Trigger, adjustable exhaust. It is designed to allow access to even the tightest corners, and the innovative exposed-tip design positions the fastener directly into the connector plate's holes for faster and more accurate positioning than ever before. Ideal for Joist Hangers, roof trusses, metal connectors and other manufacturing uses.",
+  "availability": "In Stock",
+  "product_name": "Bostitch MCN150-E Pneumatic Strap Shot Metal Connecting Nailer 38mm",
+  "specifications": [
+    "Magazine Capacity: 29 (max)",
+    "Nail Head: 7.2mm",
+    "Nail Length: 38mm",
+    "Nail Diameter: 3.3-3.8mm",
+    "Operating Pressure: 70-120 PSI, 4.1-8.4 Bar",
+    "Air Consumption Per Shot: 5.6 bar 1.9 Litre",
+    "Weight: 1.95kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-mcn-anchor-galvanised-nails-4000-38mm-for-mcn150-pt-mc375sp38g.html-lllmstxt|>
+## Bostitch MCN Anchor Galvanised Nails (4000) 38mm For MCN150 PT-MC375SP38G
+
+{
+  "price": "€233.21 inc VAT (€189.60 exc.vat)",
+  "description": "Bostitch PT-MC Series Fasteners (PT-MC375SP38G) MCN Galvanised nails. This type of collation is ideal in construction environments where work can be kept free of collation debris. Diameter: 3.75mm, Head: 7.2mm, Length: 38mm, Profile: Twist, Ring shank nails have a series of rings punched into the surface of the shank. Again a difference in the diameter of the shank is produced making it even more difficult to withdraw the nail. Finish : Galvanised, Galvanising, or coating with Zinc, is the best way to prevent nails from corroding. The zinc does not protect the steel of the nail, but is corroded first. The thicker the zinc coating, the longer it will be before the nail is attacked. The thickest coating is called hot dipped and is applied by dipping the nails into a bath of molten zinc. Collation angle: 33° Collation type: Papertape. Box of 4,000. Note: MCN nails are only for use with MCN Tip.",
+  "availability": "In Stock",
+  "product_name": "Bostitch MCN Anchor Galvanised Nails (4000) 38mm For MCN150 PT-MC375SP38G",
+  "specifications": [
+    "Diameter: 3.75mm",
+    "Head: 7.2mm",
+    "Length: 38mm",
+    "Profile: Twist",
+    "Collation angle: 33°",
+    "Collation type: Papertape",
+    "Box of 4,000"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-mcn-anchor-stick-400-x-38mm-ring-galvanised-pack-of-2000.html-lllmstxt|>
+## Bostitch MCN Anchor Stick 4.00 x 38mm Ring Galvanised Pack of 2000
+
+{
+  "price": "€80.75 inc VAT (€65.65 exc.vat)",
+  "description": "Galvanised ring nail anchor stick for use with N88RH-2MCN-E only when MCN is fitted. Galvanised to 15 microns. Ring shank with conical head which centres the nail in the pre-drilled hole. Gauge/Diameter (mm) 4, Length 38, 21° Collation Angle, Profile RING, Finish G8, Description ANCHOR STICK 4 .00-38 RING GAL 2M, Qty per box 2000, Fits F21PL-E, For use with N88RH-2MCN-E only when MCN is fitted.",
+  "availability": "Out of Stock",
+  "product_name": "Bostitch MCN Anchor Stick 4.00 x 38mm Ring Galvanised Pack of 2000",
+  "specifications": [
+    "Gauge/Diameter (mm): 4",
+    "Length: 38",
+    "21° Collation Angle",
+    "Profile: RING",
+    "Finish: G8",
+    "Qty per box: 2000",
+    "Fits: F21PL-E",
+    "For use with: N88RH-2MCN-E only when MCN is fitted"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-stick-nails-galvanised-pl-series-f21-n79.html-lllmstxt|>
+## Bostitch "Stick Nails Galvanised PL Series F21, N79"
+
+{
+  "price": "€76.53 inc VAT",
+  "description": "Packs of 2000 Round head nails. These plastic collated stick nails traditionally have a full round head, while only giving marginally better holding power to clipped head nails, they are preferred by the construction industry. Collation is angled at 21° to accommodate the overlapping heads. Smooth shank nails have exactly that: a smooth appearance. Due to their regular form they can be produced at very high speed and are therefore the most economical type of nail. However, their holding power is the lower than ring shank nails. They require less energy to drive them and the air consumption per nail can be lower. Sometimes it is possible to use a smaller tool to drive them. Ring shank nails have a series of rings punched into the surface of the shank. Again a difference in the diameter of the shank is produced making it even more difficult to withdraw the nail. Ring shank nails have to be produced at lower speeds and their cost is generally higher than for a smooth shank nail. The air consumption per nail is also higher, and the energy required to drive these nails into hard wood is very much greater. Bright finish is without any form of protection and is the most economical choice, but the nails will start to rust before nails that have a protective treatment. Used in applications where no protection is required, for example a one way disposal pallet. As all standard nails come with this finish. Galvanising , or coating with Zinc, is the best way to prevent nails from corroding. The zinc does not protect the steel of the nail, but is corroded first. The thicker the zinc coating, the longer it will be before the nail is attacked. The thickest coating is called hot dipped and is applied by dipping the nails into a bath of molten zinc. Galvanised protection is measured in Microns (each Micron is 0.000001 of an metre thick). The thicker the micron coating the better the protection level of the nails.",
+  "availability": "In Stock",
+  "product_name": "Bostitch \"Stick Nails Galvanised PL Series F21, N79\"",
+  "specifications": [
+    "2.8 x 50mm 21° Ring Shank Nail 21° Galvanised (2000)",
+    "2.8 x 65mm 21° Ring Shank Nail 21° Galvanised (2000)",
+    "3.1 x 90mm 21° Ring Shank Nail 21° Galvanised (2000)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-pn50-e-pneumatic-compact-palm-nailer.html-lllmstxt|>
+## Bostitch PN50-E Pneumatic Compact Palm Nailer
+
+{
+  "price": "€55.89 inc VAT (€45.44 exc.vat)",
+  "description": "The Bostitch PN50-E Pneumatic Palm Nailer is a small impact palm nailer which is half the size of the old PN100. It can drive the most common bulk finish, framing and timber nails into confined areas and has an adjustable swivel connection.",
+  "availability": "In Stock",
+  "product_name": "Bostitch PN50-E Pneumatic Compact Palm Nailer",
+  "specifications": [
+    "Magazine Capacity: 1 (max)",
+    "Fires: Bulk Series: Diameter: 8mm (max)",
+    "Operating Pressure: 79-124 PSI, 5.5-8.6 Bar",
+    "Weight: 0.55kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-tu-216-2330k-e-pneumatic-headless-pinner-23-gauge.html-lllmstxt|>
+## Bostitch TU-216-2330K-E Pneumatic Headless Pinner 23 Gauge
+
+{
+  "price": "€239.70 inc VAT (€194.88 exc.vat)",
+  "description": "The Bostitch TU-216-2330K-E Pneumatic Headless Pinner is a compact 23 gauge headless pinner which is specially designed for fine detail work in the construction industry and industrial use. Benefits include a secondary safety trigger to reduce the risk of accidental start, auto adjusting magazine for varying pin lengths together with a rear exhaust to direct air away from the nose piece.",
+  "availability": "Out of Stock",
+  "product_name": "Bostitch TU-216-2330K-E Pneumatic Headless Pinner 23 Gauge",
+  "specifications": [
+    "Magazine Capacity: 200 (max)",
+    "Nail Range: 15-30mm",
+    "Nail Diameter: 0.6mm",
+    "Operating Pressure: 70-100 PSI, 4.8-7 Bar",
+    "Dimensions (LxWxH): 230 x 198 x 40mm",
+    "Weight: 0.984kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dpn1850pp-pneumatic-oil-free-18-gauge-brad-nailer.html-lllmstxt|>
+## DEWALT DPN1850PP Pneumatic Oil-Free 18 Gauge Brad Nailer
+
+{
+  "price": "€264.08 inc VAT (€214.70 exc.vat)",
+  "description": "The DEWALT DPN1850PP Pneumatic Oil-Free 18 Gauge Brad Nailer is fitted with a Precision Point™ nose. That has a unique contact detect system for reduced marking of the work surface. 80% nose tip reduction for improved accuracy and visibility. The selectable trigger system provides sequential or contact operation with an easy depth adjust control for precise countersinking of nails. Also fitted with a tool-free jam release mechanism for easy nail removal. Suitable for the following applications: beading & trim, tongue & groove, panelling and cabinet work.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DPN1850PP Pneumatic Oil-Free 18 Gauge Brad Nailer",
+  "specifications": [
+    "Magazine Capacity: 100 Nails",
+    "Operating Pressure: 4.8-8.3 Bar",
+    "Nail Length: 15-50mm",
+    "Nail Head Diameter: Crown2",
+    "Trigger Type: Sequential & Bump",
+    "Air Consumption Per Actuation: 0.8 Litre",
+    "Length: 235mm",
+    "Height: 240mm",
+    "Width: 70mm",
+    "Weight: 1.24kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-airtac-pro-pb131-pneumatic-nailer.html-lllmstxt|>
+## Rapid Airtac Pro PB131 Pneumatic Nailer
+
+{
+  "price": "€117.40 inc VAT (€95.45 exc.vat)",
+  "description": "The Rapid Airtac PB131 Pneumatic Nailer is one of the Pro range of pneumatic brad nailers, ideal for professional users. Easy to use, applications include wood panels, door frames, wooden terrace and furniture construction. It has an 18mm nose with a no-mar pad to protect surfaces and a flat front for easy access in difficult areas. The depth of drive is also adjustable to suit the application. The 360° adjustable air-system ensures you never get exhaust-air in your face. The quick load magazine system ensures you can reload consumables with speed when needed and the Easy-to-Clear mechanism removes jams with no fuss. It is a lightweight, long lasting die cast aluminium nailer with a grip-friendly handle for best comfort. It comes in a hard plastic case including oil pot, hex wrenches, safety glasses and a set of 300 No. 8 brads 30mm in length. Compatible with Rapid No. 8 Brads 15-50mm. There is no limitation in fire rate and all are covered by a 2 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Rapid Airtac Pro PB131 Pneumatic Nailer",
+  "specifications": [
+    "Trigger Type: Sequential Actuation Trigger",
+    "Operating Pressure: 5-7 Bar",
+    "Air Consumption: 0.81 – 1.11 Litre",
+    "Fires: Rapid No. 8 brads 15-50mm",
+    "Fastener Capacity: 110 brads",
+    "Nose Length: 18mm",
+    "Nailing Distance: To Wall: 22mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-airtac-pro-pb161-pneumatic-nailer.html-lllmstxt|>
+## Rapid Airtac Pro PB161 Pneumatic Nailer
+
+{
+  "price": "€267.27 inc VAT (€217.29 exc.vat)",
+  "description": "The Rapid Airtac Pro PB161 Pneumatic Nailer is one of the Pro range of pneumatic brad nailers, ideal for professional users. Easy to use, applications include roofing, parquet flooring, balcony and terrace fixing. It has a 30mm nose with a no-mar pad to protect surfaces and its 34° angled magazine allows a better access to the corners. The depth of drive is also adjustable to suit the application. The 360° adjustable air-system ensures you never get exhaust-air in your face. The quick load magazine system ensures you can reload consumables with speed when needed and the Easy-to-Clear mechanism removes jams with no fuss. It is a lightweight, long lasting die cast aluminium nailer with a grip-friendly handle for best comfort. It comes in a hard plastic case including oil pot, hex wrenches, safety glasses and 300 x No. 32 brads (50mm length). Compatible with Rapid No. 32 Brads 32-64mm. There is no limitation in fire rate and all are covered by a 2 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Rapid Airtac Pro PB161 Pneumatic Nailer",
+  "specifications": [
+    "Trigger Type: Sequential Actuation Trigger",
+    "Operating Pressure: 5-7 Bar",
+    "Air Consumption: 1.70 – 2.24 Litre",
+    "Fires: Rapid No. 32 Brads 32-64mm",
+    "Fastener Capacity: 110 Brads",
+    "Nose Length: 30mm",
+    "Nailing Distance: To Wall: 26mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-dgn50v-pneumatic-brad-nailer-50mm.html-lllmstxt|>
+## Tacwise DGN50V Pneumatic Brad Nailer 50mm
+
+{
+  "price": "€112.91 inc VAT (€91.80 exc.vat)",
+  "description": "The Tacwise DGN50V Pneumatic Brad Nailer fires 18 gauge brad nails 20-50mm in length. Accurate and reliable, it features an adjustable depth control and quick release nose gate. Ideal for furniture, exhibitions, window beading and moulding, picture and mirror frames, door frames and many more applications.",
+  "availability": "In Stock",
+  "product_name": "Tacwise DGN50V Pneumatic Brad Nailer 50mm",
+  "specifications": [
+    "Magazine Capacity: 100 Brads",
+    "Staple Type: 18G & 180 20-50mm",
+    "Operating Pressure: 60-100 PSI, 86 dBA",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-mini-tip-stannox-copperwash-pins.html-lllmstxt|>
+## Bostitch Mini Tip Stannox (Copperwash) Pins
+
+{
+  "price": "€14.93 inc VAT",
+  "description": "These 23 gauge mini pins are headless fine wire pins that are indispensable for fine molding and trim work. As the pins are completely headless, the wood closes over them after driving eliminating the need for time-consuming filling. They are also excellent for temporary tacking whilst glue dries, as they can be removed with little damage to the work. For use with the Bostitch headless pinner.",
+  "availability": "In Stock",
+  "product_name": "Bostitch Mini Tip Stannox (Copperwash) Pins",
+  "specifications": [
+    "23 gauge mini pins",
+    "Headless fine wire pins",
+    "Indispensable for fine molding and trim work",
+    "Excellent for temporary tacking",
+    "For use with Bostitch headless pinner"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-bt13-brown-brad-nails.html-lllmstxt|>
+## Bostitch BT13 Brown Brad Nails
+
+{
+  "price": "€2.10 inc VAT",
+  "description": "BT13 Series 18 gauge brown Brad nails for use with the Bostitch brad nailer. Finish nails (Brads) are normally of a rectangular cross section instead of being round. Their diameters are less than the coil and stick nails, and are primarily used for finish and trim work in the construction and joinery industries.",
+  "availability": "In Stock",
+  "product_name": "Bostitch BT13 Brown Brad Nails",
+  "specifications": [
+    "15mm",
+    "19mm",
+    "25mm",
+    "30mm",
+    "32mm",
+    "35mm",
+    "40mm",
+    "45mm",
+    "50mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-bt13-galvanised-brad-nails.html-lllmstxt|>
+## Bostitch BT13 Galvanised Brad Nails
+
+{
+  "price": "€5.33 inc VAT",
+  "description": "BT Series galvanised 18 gauge Brad fasteners for use with the Bostitch Finish Bradders. Joined with an adhesive coating that holds the brads together. Finish nails (Brads) are normally of a rectangular cross section instead of being round. Their diameters are less than the coil and stick nails, and are primarily used for finish and trim work in the construction and joinery industries.",
+  "availability": "In Stock",
+  "product_name": "Bostitch BT13 Galvanised Brad Nails",
+  "specifications": [
+    "Available sizes: 15mm, 20mm, 25mm, 30mm, 38mm, 40mm, 45mm, 50mm",
+    "18 gauge",
+    "Galvanised finish",
+    "Adhesive coating for brad adhesion"
+  ]
+}
+
+<|https://www.mydiy.ie/products/senco-chisel-smooth-brad-nails-galvanised-15g.html-lllmstxt|>
+## Senco Chisel Smooth Brad Nails Galvanised 15G
+
+{
+  "price": "€36.28 inc VAT",
+  "description": "Senco 15-gauge, 34° angled collated brad nails with a sharp chisel point, smooth shank, D-head and galvanized finish.",
+  "availability": "In Stock",
+  "product_name": "Senco Chisel Smooth Brad Nails Galvanised 15G",
+  "specifications": [
+    "15G x 32mm",
+    "15G x 38mm",
+    "15G x 44mm",
+    "15G x 50mm",
+    "15G x 55mm",
+    "15G x 63mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/senco-senco-finishpro18-nailer-and-compressor-1hp.html-lllmstxt|>
+## Senco Senco FinishPro18 Nailer & Compressor 1Hp
+
+{
+  "price": "€484.03 inc VAT",
+  "description": "Senco Finish Pro18 Nailer & Compressor Kit allows the user to just plug in and work, containing all you need to get nailing in minutes. Ideal for applications such as trim, beading, upholstery and mouldings. Comes with: 1 x SENCO Finish Pro 18Mg 18-Gauge Brad Nailer. It has a lightweight magnesium body that is ultra light, and can drive brads from 15-50mm. Has an oil free design, selective trigger, rear exhaust, and rotating belt hook. Reg. Operating Pressure: 4.8-8.3 bar. Air Consumption: 2.4 scfm. Air Inlet: 1/4in NPT. Weight: 1.12kg. 1 x SENCO PC1010 3-litre Compressor 1HP. PC1010 is a compact, ultra-quiet, portable compressor, with a 1HP motor and a 3 litre aluminium tank. Offering portable pneumatic power for a wide-range of applications, including 2nd-fix joinery, upholstery, sheathing, pipe-testing, beading and trim. Air Displacement: 34 Litres/min. Max Air Pressure: 8 bar. Weight: 9.1kg. Together with these you also get a 1/4in recoil hose, all necessary air fittings, safety glasses, manuals, and a variety pack of 18 gauge brad nails. All kit contents come with a 1 Year Warranty.",
+  "availability": "In Stock",
+  "product_name": "Senco Senco FinishPro18 Nailer & Compressor 1Hp",
+  "specifications": [
+    "1 x SENCO Finish Pro 18Mg 18-Gauge Brad Nailer",
+    "Lightweight magnesium body",
+    "Drives brads from 15-50mm",
+    "Oil free design",
+    "Selective trigger",
+    "Rear exhaust",
+    "Rotating belt hook",
+    "Reg. Operating Pressure: 4.8-8.3 bar",
+    "Air Consumption: 2.4 scfm",
+    "Air Inlet: 1/4in NPT",
+    "Weight: 1.12kg",
+    "1 x SENCO PC1010 3-litre Compressor 1HP",
+    "Compact, ultra-quiet, portable compressor",
+    "1HP motor and a 3 litre aluminium tank",
+    "Air Displacement: 34 Litres/min",
+    "Max Air Pressure: 8 bar",
+    "Weight: 9.1kg",
+    "Includes 1/4in recoil hose, air fittings, safety glasses, manuals, and brad nails"
+  ]
+}
+
+<|https://www.mydiy.ie/products/senco-straight-brad-nails-galvanised-16g.html-lllmstxt|>
+## Senco Straight Brad Nails Galvanised 16G
+
+{
+  "price": "€7.24 inc VAT",
+  "description": "Senco 16-gauge, straight-collated brad nails with a sharp chisel point and galvanized finish.",
+  "availability": "In Stock",
+  "product_name": "Senco Straight Brad Nails Galvanised 16G",
+  "specifications": [
+    "Available Sizes: 16G x 25mm, 16G x 32mm, 16G x 38mm, 16G x 45mm, 16G x 50mm, 16G x 55mm, 16G x 63mm",
+    "Galvanized finish",
+    "Sharp chisel point"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dewalt-dcn680-brushless-xr-18-gauge-brad-nailer.html-lllmstxt|>
+## DEWALT DEWALT DCN680 Brushless XR 18 Gauge Brad Nailer
+
+{
+  "price": "€420.56 inc VAT",
+  "description": "The DEWALT DCN680 Brushless XR 18 Gauge Brad Nailer has a compact, lightweight and ergonomic design that makes the tool easy and comfortable to use but durable enough for the work site environment. Mechanical rather than gas operation offers low running costs and consistent performance, even at low temperatures. Fitted with a brushless motor that offers increased runtime and durability. Trigger and contact trip lock-off prevent accidental discharge of fastener. With tool free stall/jam clearance to minimise down time. The depth of drive can be easily adjusted using the thumb wheel depth adjuster. Two modes of operation: Sequential mode allows for precision placement, Bump operating mode provides the user with production speed of up to 4 nails per second.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DEWALT DCN680 Brushless XR 18 Gauge Brad Nailer",
+  "specifications": [
+    "Magazine Capacity: 110",
+    "Fires: Nails: Length: 15-54mm",
+    "Diameter: 1.25mm",
+    "Nailer Operating Mode: Bump & Sequential",
+    "Magazine Angle: 20°",
+    "Weight: 2.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-pro-bn50-cordless-brad-nailer-18-gauge-18v-2-x-20ah-li-ion.html-lllmstxt|>
+## Rapid PRO BN50 Cordless Brad Nailer 18 Gauge 18V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€781.27 inc VAT (€635.18 exc.vat)",
+  "description": "The Rapid PRO BN50 Brad Nailer is a powerful, cordless brad nailer for professionals. The ideal solution for 2nd fix carpentry such as fitting skirting board and trim as well as panelling. Powered by an 18V Li-ion battery, so the user avoids complicated gas-driven solutions, noisy, costly, uncomfortable operation and time consuming maintenance and cleaning. The instant trigger response brings efficiency and reduces the work time. Other features include a push-button, fast opening magazine, fly-wheel drive for high power and reliability and two-step sequential firing for safety. Ideal for tough jobs and demanding environments where performance and reliability are vital. Comes with a 2 year guarantee.",
+  "availability": "Out of Stock",
+  "product_name": "Rapid PRO BN50 Cordless Brad Nailer 18 Gauge 18V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "Magazine Capacity: 110 (max.)",
+    "Fires: 18 Gauge Brad Nails, 25-55mm",
+    "Max. Fire Rate: 60 Shots/Min.",
+    "Weight: 4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dbn500zj-lxt-brad-nailer-18v-bare-unit.html-lllmstxt|>
+## Makita DBN500ZJ LXT Brad Nailer 18V Bare Unit
+
+{
+  "price": "€634.57 inc VAT (€515.91 exc.vat)",
+  "description": "The Makita DBN500 LXT Brad Nailer is powered by an 18V Li-ion battery (NOT supplied). The compressed air (generated by piston action linked with DC motor) moves the driving guide. The mechanism provides less reaction force and 'air nailer like' shot feeling to the operator. Its slim nose allows for better visibility for easy access to the point you aim at. Enables user to shoot nails into tight spaces. The rocker switch allows you to select between sequential and bump fire mode. It also features an LED job light for visibility in dark work areas. Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Makita DBN500ZJ LXT Brad Nailer 18V Bare Unit",
+  "specifications": [
+    "Magazine Capacity: 110 Brads",
+    "Fires: 18 Ga Nails: Length: 15-50mm",
+    "Shots Per Battery Charge: 1,000",
+    "Weight: 3.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-pin-nailer-23ga.html-lllmstxt|>
+## Makita Pin Nailer 23Ga
+
+{
+  "price": "€245.30 inc VAT (€199.43 exc.vat)",
+  "description": "Pin Nailer 23Ga",
+  "availability": "Out of Stock",
+  "product_name": "Makita Pin Nailer 23Ga",
+  "specifications": [
+    "Model: MAKAF353",
+    "List Price: €255.40",
+    "You save: €10.10",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-fn1664-e-pneumatic-magnesium-finish-nailer-16-gauge-25-64mm.html-lllmstxt|>
+## Bostitch FN1664-E Pneumatic Magnesium Finish Nailer 16 Gauge 25-64mm
+
+{
+  "price": "€247.53 inc VAT (€201.24 exc.vat)",
+  "description": "The Bostitch 16 gauge FN1664-E finish nailer represents great value for money with the design incorporating class leading features. The FN1664-E has a light weight magnesium construction body, no-nail lockout, rear exhaust and selectable trigger without compromising the high durability and build quality that has made Stanley Bostitch the market leader in performance pneumatic tools for construction. Comes complete with 1000 fasteners and heavy-duty carry case.",
+  "availability": "Out of Stock",
+  "product_name": "Bostitch FN1664-E Pneumatic Magnesium Finish Nailer 16 Gauge 25-64mm",
+  "specifications": [
+    "Magazine Capacity: 110 (max)",
+    "Fires: SB16 Series: 25-64mm",
+    "Operating Pressure: 70-120 PSI, 4.8-8.3 Bar",
+    "Weight: 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dpn1664pp-pneumatic-16-gauge-finish-nailer.html-lllmstxt|>
+## DEWALT DPN1664PP Pneumatic 16 Gauge Finish Nailer
+
+{
+  "price": "€364.58 inc VAT (€296.41 exc.vat)",
+  "description": "The DEWALT DPN1664PP Pneumatic 16 Gauge Finish Nailer is fitted with a Precision Point™ nose that has a unique contact detect system for reduced marking of work surface. 80% nose tip reduction for improved accuracy and visibility. The selectable trigger system provides sequential or contact operation with an easy depth adjust control for precise countersinking of nails. Also fitted with a tool-free jam release mechanism for easy nail removal. Suitable for the following applications: tongue & groove, panelling, cabinet work, door & window sets, skirting and dado rails, staircases and rails.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DPN1664PP Pneumatic 16 Gauge Finish Nailer",
+  "specifications": [
+    "Magazine Capacity: 110 Nails",
+    "Operating Pressure: 4.8-8.3 Bar",
+    "Nail Length: 25-64mm",
+    "Nail Head Diameter: 1.6 x 2.8mm",
+    "Trigger Type: Sequential & Bump",
+    "Air Consumption Per Actuation: 1.27 Litre",
+    "Length: 302mm",
+    "Height: 289mm",
+    "Width: 86mm",
+    "Weight: 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-dfn50v-pneumatic-finish-nailer-50mm.html-lllmstxt|>
+## Tacwise DFN50V Pneumatic Finish Nailer 50mm
+
+{
+  "price": "€131.57 inc VAT (€106.97 exc.vat)",
+  "description": "The Tacwise DFN50V Pneumatic Air Powered Finish Nailer fires 16 gauge finish nails 20-50mm in length. It has a 360° exhaust, no mar tip, rubber comfort grip and high durability driver blade system. Ideal for joinery, exhibitions, furniture & construction. Magazine Capacity: 100 Brads. Nail Range 20-50mm. Operating Pressure: 70-120 PSI / 86 dBA. Trigger: Contact Trip (Bump). Weight: 1.2kg.",
+  "availability": "In Stock",
+  "product_name": "Tacwise DFN50V Pneumatic Finish Nailer 50mm",
+  "specifications": [
+    "Fires 16 gauge finish nails 20-50mm in length",
+    "360° exhaust",
+    "No mar tip",
+    "Rubber comfort grip",
+    "High durability driver blade system",
+    "Magazine Capacity: 100 Brads",
+    "Operating Pressure: 70-120 PSI / 86 dBA",
+    "Trigger: Contact Trip (Bump)",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-sb16-straight-finish-nails-galvanised.html-lllmstxt|>
+## Bostitch SB16 Straight Finish Nails Galvanised
+
+{
+  "price": "€6.56 inc VAT",
+  "description": "Finish Nails have heads that are rectangular. They are the same width as the shank, but the breadth of them is greater than the shank. This ensures that their holding power is enhanced, but of course the pull through force is lower than for nails with larger, Round or Clipped Heads. Primarily used for finish and trim work in the construction and joinery industries.",
+  "availability": "In Stock",
+  "product_name": "Bostitch SB16 Straight Finish Nails Galvanised",
+  "specifications": [
+    "32mm Galvanised Bulk Pack",
+    "38mm Galvanised Bulk Pack",
+    "44mm Galvanised Bulk Pack",
+    "50mm Galvanised Bulk Pack",
+    "63mm Galvanised Bulk Pack",
+    "SB16-2.0E Straight Finish Nail 50mm Galvanised Pack of 1000",
+    "SB16-2.25 Straight Finish Nail 56mm Galvanised Bulk Pack 2500"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcn660-xr-brushless-second-fix-nailer-18-volt.html-lllmstxt|>
+## DEWALT DCN660 XR Brushless Second Fix Nailer 18 Volt
+
+{
+  "price": "€420.56 inc VAT",
+  "description": "The DEWALT DCN660 XR Brushless Second Fix Nailer with brushless motor technology, offering runtime that cannot be beaten in a compact package. It has a compact, lightweight and ergonomic design that makes the tool easy and comfortable to use, but durable enough for the worksite environment. The depth of drive can be easily adjusted using the handy thumb wheel depth adjuster. The mechanical rather than gas operation offers low running costs and consistent performance, even at low temperatures. Sequential mode allows for precision placement and the bump operating mode provides the user with production speed of up to 4 nails per second. For safety the nailer has a trigger and contact trip lock-off and prevents accidental dis-charge of fastener. The tool free stall/jam clearance minimises down time.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCN660 XR Brushless Second Fix Nailer 18 Volt",
+  "specifications": [
+    "Nail Diameter: 1.6mm",
+    "Nail Length: 32 - 63mm",
+    "Magazine Angle: 20°",
+    "Magazine Capacity: 110 Nails",
+    "Magazine Loading: Rear Load",
+    "Trigger Type: Bump & Sequential",
+    "Size (LxWxH): 310 x 95 x 305mm",
+    "Temperature Range: -20 to 50°C",
+    "Weight: 2.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcn692-cordless-xr-2-speed-framing-nailer-90mm-18-volt.html-lllmstxt|>
+## DEWALT DCN692 Cordless XR 2 Speed Framing Nailer 90mm 18 Volt
+
+{
+  "price": "€420.56 inc VAT",
+  "description": "The DEWALT DCN692 Cordless XR 2 Speed Framing Nailer, a powerful and versatile tool designed to meet the demands of framing projects with precision and efficiency. Equipped with two speeds, this nailer optimizes performance for firing nails of varying lengths. Its advanced BRUSHLESS motor technology delivers the necessary power to drive 90mm ring shank nails effortlessly into soft wood and 63mm nails into hard woods. Featuring two operating modes, the DCN692 offers flexibility to suit your needs. The sequential operating mode ensures precise nail placement, while the bump operating mode enhances productivity for faster-paced tasks. Its mechanical operation guarantees consistent performance and reduces the need for frequent cleaning or servicing. Plus, the tool-free stall/jam clearance minimizes downtime, keeping you focused on the job at hand. With a versatile 30-34° magazine angle, this nailer accommodates most clipped head and off-center round head paper tape or wire weld collated framing nails. Adjusting depths is a breeze thanks to the thumb wheel depth adjuster, ensuring optimal results with every use. Designed with user comfort and safety in mind, the DCN692 boasts excellent vibration and sound control, providing a comfortable working experience. Its ergonomic design allows the nailer to effortlessly fit between 400mm center studs, while the reversible belt/rafter hook enhances portability and convenience on the job site. Additionally, the tool features increased visibility and durability, along with protection for the work surface provided by the non-mar contact trip with lock-off to prevent accidental discharge of the fastener.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCN692 Cordless XR 2 Speed Framing Nailer 90mm 18 Volt",
+  "specifications": [
+    "Input Power: 18 Volt",
+    "Nail Diameter: 2.8-3.3mm",
+    "Nail Length: 50-90mm",
+    "Magazine Capacity: up to 55 nails",
+    "Firing Mode: Bump and Sequential",
+    "Weight: 4.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-16-gauge-galvanised-20-finish-nails.html-lllmstxt|>
+## DEWALT 16 Gauge Galvanised 20° Finish Nails
+
+{
+  "price": "€20.77 inc VAT",
+  "description": "The DEWALT 16 Gauge Galvanised 20° Finish Nails have been designed for use with the DEWALT 16 gauge nailer, ensuring fewer jamming or fitment issues. DEWALT nails are made from inspected high quality steel to ensure reliability in performance. Galvanised nails reduce the likelihood of rust or staining.",
+  "availability": "In Stock",
+  "product_name": "DEWALT 16 Gauge Galvanised 20° Finish Nails",
+  "specifications": [
+    "Available sizes: 32mm, 38mm, 44mm, 50mm, 63mm (2500 each)",
+    "Designed for use with DEWALT 16 gauge nailer",
+    "Made from high quality inspected steel",
+    "Galvanised to reduce rust and staining"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fn18gs-fuel-finish-nailer.html-lllmstxt|>
+## Milwaukee Power Tools M18 FN18GS FUEL™ Finish Nailer
+
+{
+  "price": "€426.88 inc VAT",
+  "description": "The Milwaukee M18 FN18GS FUEL™ Finish Nailer offers the best-in-class power to consistently seat nails sub-flush to the surface in hardwoods. Ready to Fire Nail Technology eliminates ramp-up time between each nail discharge. Different designed noses stored on board, allow the user to get the best finish no matter what the application. The cordless design means that there are no gas cartridges and no cleaning required. Delivers durability and reliability to the most demanding users with very little maintenance. The small work contact bracket allows the user to fire and sink nails at a more acute angle. Leaves a smaller nail hole, the exact size of the nail head leaving a neater finish. The nailer features tool-free, quick and easy depth adjustment to assure nails are driven sub-flush, whilst the dry-fire lockout feature stops the tool being fired when there are no nails left in the magazine. There is also an LED work light that illuminates the work surface for better placement of nails.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M18 FN18GS FUEL™ Finish Nailer",
+  "specifications": [
+    "Magazine Capacity: 110 Nails",
+    "Nail Diameter: 1.2mm",
+    "Nail Length: 16/54mm",
+    "Weight: 3.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-gn900se-first-fix-gas-nailer-72-volt-2-x-10ah-li-ion.html-lllmstxt|>
+## Makita GN900SE First Fix Gas Nailer 7.2 Volt 2 x 1.0Ah Li-Ion
+
+{
+  "price": "€616.54 inc VAT (€501.25 exc.vat)",
+  "description": "The Makita GN900SE First Fix Gas Nailer is a cordless clipped head nailer developed for a wide range of framing applications. It uses fuel gas as the power source to provide freedom from hoses and compressors and is fitted with a LED indication lamp, with battery power warning and trouble detection functions, for convenience of operation and repair. The nailer is depth adjustable for a wide range of applications.",
+  "availability": "Out of Stock",
+  "product_name": "Makita GN900SE First Fix Gas Nailer 7.2 Volt 2 x 1.0Ah Li-Ion",
+  "specifications": [
+    "Battery Type: 7.2 Volt Li-ion",
+    "Gas: 80ml Cartridge/Butane Propane",
+    "Magazine Angle: 34°",
+    "Nail Length: 50-90mm",
+    "Nail Type: Clipped Head",
+    "Magazine Capacity: 44",
+    "Shots Per Battery Charge: 4000",
+    "Shots Per Gas Cell: 1200",
+    "Charging Time: 30 min",
+    "Weight: 3.5kg",
+    "Noise Sound Pressure: 89 dB(A)",
+    "Noise Sound Power: 102 dB(A)",
+    "Vibration No Load: 2.5 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-f33-ptsm-pneumatic-33-paper-tape-framing-nailer.html-lllmstxt|>
+## Bostitch F33 PTSM Pneumatic 33° Paper Tape Framing Nailer
+
+{
+  "price": "€488.74 inc VAT (€397.35 exc.vat)",
+  "description": "The Bostitch F33PTSM-E framing nailer features a short magazine for ease of use in tight spaces and has a Dial a Depth function. The paper tape nails are compatible with pazlode (IM350) framer. The powerful engine is capable of driving stick nails upto 90mm in length, whilst the lightweight magnesium body makes it comfortable to use all day long. It has CE compliant sequential trip fitted, for safer working on-site, a No-mar tip to prevent wood bruising and an adjustable exhaust to direct air away from workpiece and operator. Ideal for: Cases, Roof Trusses, Stud Walls and Timber Framing. Uses PT Fastner range.",
+  "availability": "In Stock",
+  "product_name": "Bostitch F33 PTSM Pneumatic 33° Paper Tape Framing Nailer",
+  "specifications": [
+    "Magazine Capacity: 50 (max)",
+    "Nail Length: PT Series/WW 33º Series: 50-90mm",
+    "Nail Diameter: PT Series/WW 33º Series: 2.5-3.3mm",
+    "Operating Pressure: 70-120 PSI, 4.8-8.3 Bar",
+    "Collation Angle: 33°",
+    "Weight: 3.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-clipped-head-28-stick-nails-ww-series.html-lllmstxt|>
+## Bostitch Clipped Head 28° Stick Nails WW Series
+
+{
+  "price": "€32.89 inc VAT",
+  "description": "Stick Nails for use with the Stanley Bostitch Wire Weld Framing Nailers, the traditional wire weld collation gives the stick nails more rigidity and resistance to damp environments. 28° Collation Angle Designed for the construction market, where it is important to find the right combination of tool weight and working autonomy. Since sticks contain fewer nails than coiled nails (approx 25) and less of them are loaded into the nailer, the tool is lighter. A simpler feed mechanism for stick nails also helps to keep the weight of the tools lower than for coil nailers for similar size nails. This is important when you are working up a ladder with your arm stretched out. (Remember only tools fitted with sequential trip should be used when working up a ladder). Smooth shank nails have exactly that: a smooth appearance. Due to their regular form they can be produced at very high speed and are therefore the most economical type of nail. However, their holding power is the lower than ring shank nails. They require less energy to drive them and the air consumption per nail can be lower. Sometimes it is possible to use a smaller tool to drive them. Ring shank nails have a series of rings punched into the surface of the shank. Again a difference in the diameter of the shank is produced making it even more difficult to withdraw the nail. Ring shank nails have to be produced at lower speeds and their cost is generally higher than for a smooth shank nail. The air consumption per nail is also higher, and the energy required to drive these nails into hard wood is very much greater. Bright finish is without any form of protection and is the most economical choice, but the nails will start to rust before nails that have a protective treatment. Used in applications where no protection is required, for example a one way disposal pallet. As all standard nails come with this finish. Galvanising , or coating with Zinc, is the best way to prevent nails from corroding. The zinc does not protect the steel of the nail, but is corroded first. The thicker the zinc coating, the longer it will be before the nail is attacked. The thickest coating is called hot dipped and is applied by dipping the nails into a bath of molten zinc. Galvanised protection is measured in Microns (each Micron is 0.000001 of an metre thick). The thicker the micron coating the better the protection level of the nails.",
+  "availability": "In Stock",
+  "product_name": "Bostitch Clipped Head 28° Stick Nails WW Series",
+  "specifications": [
+    "28° Collation Angle",
+    "Smooth shank nails for high-speed production",
+    "Ring shank nails for better holding power",
+    "Bright finish for economical choice",
+    "Galvanised protection available"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-sx1838-e-pneumatic-stapler-38mm-18-gauge.html-lllmstxt|>
+## Bostitch SX1838-E Pneumatic Stapler 38mm 18 Gauge
+
+{
+  "price": "€189.97 inc VAT (€154.45 exc.vat)",
+  "description": "The Bostitch SX1838-E stapler has user-friendly features such as dial-a-depth for quick countersinking adjustments and a selectable trigger system. It will make light work of construction stapling applications. This rugged tool drives staples from 15 to 38 mm length and offers extreme reliability and durability, yet with low maintenance due to the oil free design. Comes complete with 1000 fasteners and carry case.",
+  "availability": "Out of Stock",
+  "product_name": "Bostitch SX1838-E Pneumatic Stapler 38mm 18 Gauge",
+  "specifications": [
+    "Magazine Capacity: 100 (max)",
+    "Staple Length: 15-38mm",
+    "Staple Diameter: 0.9-1.3mm",
+    "Operating Pressure: 70-120 PSI, 4.8-8.3 Bar",
+    "Dimensions (LxWxH): 235 × 240 × 70mm",
+    "Weight: 1.34kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-pbs121-pneumatic-combi-nailerstapler.html-lllmstxt|>
+## Rapid PBS121 Pneumatic Combi Nailer/Stapler
+
+{
+  "price": "€129.09 inc VAT (€104.95 exc.vat)",
+  "description": "The Rapid Airtac PBS121 Pneumatic Stapler/Nailer is one of the handy range of pneumatics, small and lightweight and ideal for DIY. The dual magazine fires both staples and brads, applications include panelling, furniture repair, refurbishing work, finish and trim. It has a 20mm nose with a no-mar pad to protect surfaces and a flat front for easy access in difficult areas. The depth of drive is also adjustable to suit the application. The 360° adjustable air-system ensures you never get exhaust-air in your face. The quick load magazine system ensures you can reload consumables with speed when needed and the Easy-to-Clear mechanism removes jams with no fuss. It is a lightweight, long lasting die cast aluminium stapler/nailer with a grip-friendly handle for best comfort. It comes in a hard plastic case including oil pot; hex wrenches, safety glasses and a set of 200 No. 606 staples with a 25mm leg length and 200 No. 8 brads 25mm in length. Compatible with Rapid No. 606 staples 12-30mm and Rapid No. 8 Brads 15-30mm. There is no limitation in fire rate and all are covered by a 2 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Rapid PBS121 Pneumatic Combi Nailer/Stapler",
+  "specifications": [
+    "Magazine Capacity: 130 Staples/110 Brads",
+    "Fires: No.606 Staples 12-30mm/No.8 Brads 15-30mm",
+    "Operating Pressure: 5-7 Bar",
+    "Nailing Distance: To Wall: 18mm",
+    "Trigger Type: Sequential Actuation Trigger"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-pbs151-pneumatic-combi-nailerstapler.html-lllmstxt|>
+## Rapid PBS151 Pneumatic Combi Nailer/Stapler
+
+{
+  "price": "€156.00 inc VAT (€126.83 exc.vat)",
+  "description": "The Rapid Airtac PBS151 Pneumatic Stapler/Nailer is one of the Pro range of pneumatic brad nailers, ideal for professional users. The dual magazine fires both staples and brads, applications include furniture, panelling, cabinet making, finish and trim. Compatible with staples up to 40mm and brads up to 50mm in length, this tool is designed for durable and thicker fastenings. It has a 20mm nose and a flat front for easy access in difficult areas and the depth of drive is also adjustable to suit the application. The 360° adjustable air-system ensures you never get exhaust-air in your face. The quick load magazine system ensures you can reload consumables with speed when needed and the Easy-to-Clear mechanism removes jams with no fuss. It is a lightweight, long lasting die cast aluminium stapler/nailer with a grip-friendly handle for best comfort. It comes in a hard plastic case including oil pot, hex wrenches, safety glasses and 200 x No. 90 staples (25mm leg length) and 200 x No. 8 brads (30mm length). Compatible with Rapid No. 90 narrow crown staples from 20-40 mm and No. 8 brads from 15-50 mm. There is no limitation in fire rate and all are covered by a 2 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Rapid PBS151 Pneumatic Combi Nailer/Stapler",
+  "specifications": [
+    "Trigger Type: Contact Actuation Trigger",
+    "Operating Pressure: 5-7 Bar",
+    "Air Consumption: 0.88 – 1.12 Litre",
+    "Fires: No 90 Narrow Crown Staples 20-40mm/No 8 Brads 15-50mm",
+    "Fastener Capacity: 110 staples/110 brads",
+    "Nose Length: 20mm",
+    "Nailing Distance: To Wall: 18mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-airtac-ps101-pneumatic-stapler.html-lllmstxt|>
+## Rapid Airtac PS101 Pneumatic Stapler
+
+{
+  "price": "€93.43 inc VAT (€75.96 exc.vat)",
+  "description": "The Rapid Airtac PS101 Pneumatic Stapler is one of the handy range of pneumatic staplers, small and lightweight and ideal for DIY. Easy to use, applications include textiles, leather, light joinery, tapestry, labelling and upholstery. It fires Rapid No. 53 fine wire staples which are barely visible and have minimal effect on fibres. It has a long nose for precise work with a no-mar pad to protect surfaces and a flat front for easy access in difficult areas. The 360° adjustable air-system ensures you never get exhaust-air in your face. The quick load magazine system ensures you can reload consumables quickly and easily when needed. It is a lightweight, long lasting die cast aluminium stapler with a grip-friendly handle for best comfort. It comes in a hard plastic case including oil pot, hex wrenches, safety glasses and a box of 300 No. 53 staples with a 10mm leg length. Compatible with Rapid No. 53 Staples 6-16mm. There is no limitation in fire rate and all are covered by a 2 year guarantee. Trigger Type: Contact Actuation Trigger. Operating Pressure: 5-7 Bar. Air Consumption: 0.26 – 0.29 Litre. Fires: Rapid No. 53 Staples 6-16mm. Fastener Capacity: 190 staples. Nose Length: 22mm. Nailing Distance: To Wall: 14mm.",
+  "availability": "In Stock",
+  "product_name": "Rapid Airtac PS101 Pneumatic Stapler",
+  "specifications": [
+    "Trigger Type: Contact Actuation Trigger",
+    "Operating Pressure: 5-7 Bar",
+    "Air Consumption: 0.26 – 0.29 Litre",
+    "Fires: Rapid No. 53 Staples 6-16mm",
+    "Fastener Capacity: 190 staples",
+    "Nose Length: 22mm",
+    "Nailing Distance: To Wall: 14mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-airtac-ps111-pneumatic-stapler.html-lllmstxt|>
+## Rapid Airtac PS111 Pneumatic Stapler
+
+{
+  "price": "€102.30 inc VAT (€83.17 exc.vat)",
+  "description": "The Rapid Airtac PS111 Pneumatic Stapler is one of the handy range of pneumatic staplers, small and lightweight and ideal for DIY. Easy to use, applications include insulation, plastic sheeting, cardboard packaging, carpets and roofing sheets. It fires Rapid No. 140 flat wire staples which are ideal for materials that require a larger holding area, such as plastic and other non-fibrous materials. It has a long nose for precise work with a no-mar pad to protect surfaces and a flat front for easy access in difficult areas. The 360° adjustable air-system ensures you never get exhaust-air in your face. The quick load magazine system ensures you can reload consumables quickly and easily when needed. It is a lightweight, long lasting die cast aluminium stapler with a grip-friendly handle for best comfort. It comes in a hard plastic case including oil pot, hex wrenches, safety glasses and a box of 300 No. 140 staples with a 10mm leg length. There is no limitation in fire rate and all are covered by a 2 year guarantee. Compatible with Rapid No. 140 staples 6-16mm.",
+  "availability": "In Stock",
+  "product_name": "Rapid Airtac PS111 Pneumatic Stapler",
+  "specifications": [
+    "Trigger Type: Contact Actuation Trigger",
+    "Operating Pressure: 5-7 Bar",
+    "Air Consumption: 0.26 – 0.29 Litre",
+    "Fires: Rapid No. 140 staples 6-16mm",
+    "Fastener Capacity: 114 staples",
+    "Nose Length: 22mm",
+    "Nailing Distance: To Wall: 14mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rapid-airtac-pro-ps141-pneumatic-stapler.html-lllmstxt|>
+## Rapid Airtac Pro PS141 Pneumatic Stapler
+
+{
+  "price": "€109.95 inc VAT (€89.39 exc.vat)",
+  "description": "The Rapid Airtac PS141 is one of the Pro range of pneumatic staplers, compact and lightweight ideal for DIY and the professional user. Easy to use, applications include upholstery, padding and all kinds of fabric fixing. It has a long nose for precise work with a no-mar pad to protect surfaces and a flat front for easy access in difficult areas. The 360° adjustable air-system ensures you never get exhaust-air in your face. The quick load magazine system ensures you can reload consumables quickly and easily when needed. It is a lightweight, long lasting die cast aluminium stapler with a grip-friendly handle for best comfort. It comes in a hard plastic case including oil pot, hex wrenches, safety glasses and 300 No 12. staples with a 10mm leg length. There is no limitation in fire rate and all are covered by a 2 year guarantee. Compatible with Rapid No. 12 staples 6-16mm.",
+  "availability": "In Stock",
+  "product_name": "Rapid Airtac Pro PS141 Pneumatic Stapler",
+  "specifications": [
+    "Trigger Type: Contact Actuation Trigger",
+    "Operating Pressure: 5-7 Bar",
+    "Air Consumption: 0.26 – 0.29 Litre",
+    "Fires: Rapid No. 12 Staples 6-16mm",
+    "Fastener Capacity: 150 staples",
+    "Nose Length: 22mm",
+    "Nailing Distance: To Wall: 14mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/senco-sfw05-c-pneumatic-semi-pro-fine-wire-stapler.html-lllmstxt|>
+## Senco SFW05-C Pneumatic Semi Pro Fine Wire Stapler
+
+{
+  "price": "€97.63 inc VAT (€79.37 exc.vat)",
+  "description": "The Senco SFW05-C Pneumatic Semi Pro Fine Wire Stapler delivers excellent performance for a variety of fine wire stapling applications. With a robust all-metal cylinder and ergonomic design, this tool works all day, every day and won't snag or scuff fabric, giving you increased productivity with less downtime. It drives staples with a crown width of 9.2mm and in lengths from 6mm-16mm. Ideal for upholstery, furniture assembly, cabinets, vinyl, interior trim and beading. Comes with a 1 Year Warranty.",
+  "availability": "In Stock",
+  "product_name": "Senco SFW05-C Pneumatic Semi Pro Fine Wire Stapler",
+  "specifications": [
+    "Requires a 1/4in tailpiece",
+    "Actuation: Trigger fire",
+    "Operating Pressure: 5.2-6.9 bar",
+    "Air Consumption: 27 l/min",
+    "Magazine capacity: 100",
+    "Length: 229mm",
+    "Width: 45mm",
+    "Height: 163mm",
+    "Weight: 0.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tacwise-d9040v-pneumatic-narrow-crown-stapler-15-40mm-type-90.html-lllmstxt|>
+## Tacwise D9040V Pneumatic Narrow Crown Stapler 15-40mm Type 90
+
+{
+  "price": "€144.02 inc VAT (€117.09 exc.vat)",
+  "description": "Tacwise D9040V narrow crown air stapler is light, fast and has an extended nose piece. Features include a quick release nose for fast un-jamming and variable top exhaust. Ideal for furniture manufacture, flooring, plasterboard, trellis, panelling and much more.",
+  "availability": "In Stock",
+  "product_name": "Tacwise D9040V Pneumatic Narrow Crown Stapler 15-40mm Type 90",
+  "specifications": [
+    "Load Capacity: 100 Narrow Crown Staples",
+    "Staple Type: 90 / 15-40mm",
+    "Trigger: Contact Trip (bump) and Sequential",
+    "PSI/dBA: 60-100 / 88",
+    "Weight: 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-sx-series-503-finish-staples.html-lllmstxt|>
+## Bostitch SX Series 503 Finish Staples
+
+{
+  "price": "€5.20 inc VAT",
+  "description": "Galvanised finishing staples for use with Stanley Bostitch Pneumatic Finish Staplers.",
+  "availability": "In Stock",
+  "product_name": "Bostitch SX Series 503 Finish Staples",
+  "specifications": [
+    "Available in various lengths: 15mm, 19mm, 22mm, 25mm, 30mm, 35mm",
+    "Pack sizes: 500, 800, 3000"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcn681-xr-brushless-18g-narrow-crown-stapler-18v.html-lllmstxt|>
+## DEWALT DCN681 XR Brushless 18G Narrow Crown Stapler 18V
+
+{
+  "price": "€420.56 inc VAT",
+  "description": "The DEWALT DCN681 Cordless XR Brushless Stapler has a compact, lightweight design that is easy and comfortable to use but durable enough for a worksite environment. It is fitted with a brushless motor for optimum runtime and performance. Uses mechanical rather than gas operation for low running costs and consistent performance, even at low temperatures. Sequential mode allows for precision placement and the bump operating mode provides the user with production speed of up to 4 nails per second. The depth of drive can be easily adjusted using the thumb wheel depth adjuster.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCN681 XR Brushless 18G Narrow Crown Stapler 18V",
+  "specifications": [
+    "Nail Length: 12-38mm",
+    "Nail Diameter: 1.25mm (18Ga)",
+    "Magazine Capacity: 110 Nails",
+    "Magazine Angle: 0°",
+    "Magazine Loading: Rear",
+    "Weight: 3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-18g-galvanised-staples.html-lllmstxt|>
+## DEWALT 18G Galvanised Staples
+
+{
+  "price": "€11.54 inc VAT",
+  "description": "These DEWALT narrow crown galvanised staples are compatible with the DEWALT DCN681 and DCN682 plus other brand SX staplers. Suitable for woodworkers, carpenters, cabinet shops, shop fitting and flooring contractors, upholsters, landscapers and builders. A staple crown has more surface area, sinks solidly and resists shoot-through. Two legs give superior holding power over pins.",
+  "availability": "In Stock",
+  "product_name": "DEWALT 18G Galvanised Staples",
+  "specifications": [
+    "Compatible with DEWALT DCN681 and DCN682",
+    "Suitable for woodworkers, carpenters, and builders",
+    "Superior holding power over pins"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcn701-xr-electricians-stapler.html-lllmstxt|>
+## DEWALT DCN701 XR Electrician's Stapler
+
+{
+  "price": "€293.17 inc VAT",
+  "description": "The DEWALT DCN701 XR Electrician's Stapler allows you to work without the need for hoses or cables. It has been specially designed for electricians. Mechanical rather than gas operation offers consistent performance at temperatures between -15°C and 50°C for minimal cleaning/service requirements. Dry fire lockout ensures that the tool is protected from firing without staples in the magazine. With class leading vibration and sound figures, for superb user protection.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCN701 XR Electrician's Stapler",
+  "specifications": [
+    "Magazine Capacity: 35 Staples",
+    "Staple Diameter: 1mm",
+    "Staple Length: 25.4mm",
+    "Magazine Angle: 0°",
+    "Weight: 2.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcfs950-brushless-xr-fencing-stapler.html-lllmstxt|>
+## DEWALT DCFS950 Brushless XR Fencing Stapler
+
+{
+  "price": "€739.89 inc VAT",
+  "description": "The DEWALT DCFS950 Brushless XR Fencing Stapler is the first dedicated fencing stapler that features a powerful single flywheel system taken from our most powerful cordless nailer. Sequential mode enables careful exact placement and higher accuracy whilst stapling. RAPIDCYCLE™ mode is intended for quick repetitive operation. Dry fire lockout ensures that the tool is protected from firing without nails in the magazine. Designed for agricultural, industrial or civil engineering support, it will drastically reduce the time it takes to install wire fencing perimeters.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCFS950 Brushless XR Fencing Stapler",
+  "specifications": [
+    "Nail Length: 40-50mm",
+    "Nail Diameter: 4mm",
+    "Magazine Capacity: 35 Nails",
+    "Weight: 4.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bahco-bp218-air-blow-gun.html-lllmstxt|>
+## Bahco BP218 Air Blow Gun
+
+{
+  "price": "€24.37 inc VAT (€19.81 exc.vat)",
+  "description": "Bahco BP218 Air Blow Gun has a brass inlet and meets the OSHA requirements. It has a 1/4in connector.",
+  "availability": "In Stock",
+  "product_name": "Bahco BP218 Air Blow Gun",
+  "specifications": [
+    "Air Inlet BSP: 1/4in.",
+    "Output pressure: 2.07bar.",
+    "Working pressure: 6.3bar.",
+    "Fluid delivery: 190-250 ml/min",
+    "Airflow: 158 l/min.",
+    "Maximum Air pressure input: 11 bar",
+    "Length: 210mm.",
+    "Weight: 0.15kg.",
+    "Sound pressure level: 80 dBA."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-103205202-cejn-320-female-nipple.html-lllmstxt|>
+## Bostitch 10.320.5202 CEJN 320 Female Nipple
+
+{
+  "price": "€10.46 inc VAT (€8.50 exc.vat)",
+  "description": "CEJN Euro nipple. 1/4 inch female.",
+  "availability": "In Stock",
+  "product_name": "Bostitch 10.320.5202 CEJN 320 Female Nipple",
+  "specifications": [
+    "BOS103205202 : €10.46",
+    "List: €12.34",
+    "You save €1.88"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-cpack15-15m-hose-with-connectors-and-oil.html-lllmstxt|>
+## Bostitch CPACK15 15m Hose with Connectors & Oil
+
+{
+  "price": "€40.31 inc VAT (€32.77 exc.vat)",
+  "description": "The Bostitch CPACK15 Combo Pack comes with everything you need to hook a Bostitch Pneumatic tool to a compressor. Contains: 1 x 15.5mm x 15m Air Hose. 1 x Pipe Thread Seal Tape. 1 x Bottle of Pneumatic Tool Oil. 1 x 6.3mm Female Pipe Thread Plug (FPT) 1 x 6.3mm Male Pipe Thread Plug (MPT) 1 x 6.3mm Female Pipe Thread Socket (FPT) 1 x 6.3mm Male Pipe Thread Socket (MPT) 1 x Blow Gun. Max Operating Pressure: 150 PSI, 10.5 Bar.",
+  "availability": "Out of Stock",
+  "product_name": "Bostitch CPACK15 15m Hose with Connectors & Oil",
+  "specifications": [
+    "Max Operating Pressure: 150 PSI, 10.5 Bar",
+    "Includes 15.5mm x 15m Air Hose",
+    "Includes Pipe Thread Seal Tape",
+    "Includes Pneumatic Tool Oil",
+    "Includes various Pipe Thread Plugs and Sockets",
+    "Includes Blow Gun"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-cpack30-30m-air-line-hose-on-reel.html-lllmstxt|>
+## Bostitch CPACK30 30m Air Line Hose On Reel
+
+{
+  "price": "€161.23 inc VAT (€131.08 exc.vat)",
+  "description": "Bostitch CPACK30 is a fully assembled air line hose on a swivelling hose reel, supplied with 6.3mm FPT (female pipe thread) plug and a 6.3mm FPT (female pipe thread) socket. Length: 12.5mm hose x 30 metres. PS Max: 15 Bar, 214psi.",
+  "availability": "In Stock",
+  "product_name": "Bostitch CPACK30 30m Air Line Hose On Reel",
+  "specifications": [
+    "Length: 12.5mm hose x 30 metres",
+    "PS Max: 15 Bar, 214psi"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-isovg100-sae-30-1-litre-compressor-oil.html-lllmstxt|>
+## Bostitch ISOVG100 SAE 30 1 Litre Compressor Oil
+
+{
+  "price": "€19.43 inc VAT (€15.80 exc.vat)",
+  "description": "ISOVG100 SAE 30 1 Litre Compressor Oil",
+  "availability": "In Stock",
+  "product_name": "Bostitch ISOVG100 SAE 30 1 Litre Compressor Oil",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/porta-nails-402a-angled-nailer.html-lllmstxt|>
+## Porta-Nails 402A Angled Nailer
+
+{
+  "price": "€70.98 inc VAT",
+  "description": "The Porta-Nails Angled Nailer has a lightweight, durable design. To guarantee that the nails are set properly each time, the ratcheting ram allows for single or multi-hits. The multi-hit function helps to minimise fatigue whilst providing greater impact. Interchangeable shoe attachments (not included) provide multiple flooring options. The nailer is supplied with: Extension handle, Mallet, Angled shoe for 5/8in - 33/32in tongue and groove flooring, Wrenches, Rugged carry case.",
+  "availability": "In Stock",
+  "product_name": "Porta-Nails 402A Angled Nailer",
+  "specifications": [
+    "Fastener capacity: 100 x 16 Gauge 'T' Cleats",
+    "Operating pressure: Manual",
+    "Dimensions: 387 x 457 x 76mm",
+    "Weight: 3.63kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/porta-nails-t-nails.html-lllmstxt|>
+## Porta-Nails T Nails
+
+{
+  "price": "€19.99 inc VAT",
+  "description": "Porta-Nails 16 Gauge T Nails are suitable for use with the 402A Angled Nailer. The nails have serrated edges that keep floors solidly in place. Supplied in boxes of 1,000.",
+  "availability": "In Stock",
+  "product_name": "Porta-Nails T Nails",
+  "specifications": [
+    "16 Gauge",
+    "Suitable for 402A Angled Nailer",
+    "Serrated edges for solid floor placement",
+    "Supplied in boxes of 1,000"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bostitch-mfn201-manual-flooring-cleat-nailer.html-lllmstxt|>
+## Bostitch Mfn201 Manual Flooring Cleat Nailer
+
+{
+  "price": "€307.60 inc VAT (€250.08 exc.vat)",
+  "description": "Bostitch Mfn201 Manual Flooring Cleat Nailer",
+  "availability": "Out of Stock",
+  "product_name": "Bostitch Mfn201 Manual Flooring Cleat Nailer",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+

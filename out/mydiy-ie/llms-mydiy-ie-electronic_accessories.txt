@@ -1,0 +1,83 @@
+<|https://www.mydiy.ie/products/dewalt-telecoms-reinforced-braided-3-in-1-combo-cable-18m-6ft.html-lllmstxt|>
+## DEWALT Telecoms Reinforced Braided 3-in-1 Combo Cable 1.8m (6ft)
+
+{
+  "price": "€63.32 inc VAT (€51.48 exc.vat)",
+  "description": "The DEWALT Reinforced Braided 3-in-1 Combo Cable offers USB A to USB C, Lightning® or USB-Micro. Providing the ultimate charging solution to any device. The cable is reinforced with Kevlar® to withstand repeated bending and flexing. These cables last longer than other charging cables thanks to the single-piece strain relief, which reduces pressure on the connector and increases the lifespan of the cable.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Reinforced Braided 3-in-1 Combo Cable 1.8m (6ft)",
+  "specifications": [
+    "Reinforced with Kevlar®",
+    "3-in-1 charging solution (USB A, USB C, Lightning®)",
+    "Length: 1.8m (6ft)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-fast-wireless-charging-pad.html-lllmstxt|>
+## DEWALT Telecoms Fast Wireless Charging Pad
+
+{
+  "price": "€66.56 inc VAT (€54.11 exc.vat)",
+  "description": "The DEWALT Fast Wireless Charging Pad can charge any Qi-compatible device. Its durable design incorporates a non-slip base and a Type C input. Perfect for jobsite professionals to use on and off the jobsite. Supplied with a Kevlar® reinforced cable, designed to withstand repeated bending and flexing. A single-piece strain relief, which reduces pressure on the connector and increases the lifespan of the cable. It also comes with a Quick Charge Power Adaptor, this enables this pad to rapidly recharge compatible devices. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Fast Wireless Charging Pad",
+  "specifications": [
+    "Fast Wireless Charging Pad",
+    "Qi-compatible",
+    "Durable design with non-slip base",
+    "Type C input",
+    "Kevlar® reinforced cable",
+    "Quick Charge Power Adaptor"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-2-port-pps-pd-car-charger-120w.html-lllmstxt|>
+## DEWALT Telecoms 2-Port PPS PD Car Charger 120W
+
+{
+  "price": "€84.85 inc VAT (€68.98 exc.vat)",
+  "description": "The DEWALT 2-Port PPS PD Car Charger has two Type C ports delivering up to 120W of power to fast charge two devices simultaneously. Power Delivery technology ensures maximum charging efficiency for the on-the-go charging of devices. Advanced safety features provide protection against overvoltage and short-circuits. This heavy-duty charger’s durable design makes it perfect for jobsite professionals to use on and off the site.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 2-Port PPS PD Car Charger 120W",
+  "specifications": [
+    "2-Port PPS PD Car Charger",
+    "120W power delivery",
+    "Fast charges two devices simultaneously",
+    "Advanced safety features",
+    "Durable design for jobsite professionals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-2-port-mobile-usb-charger-24w.html-lllmstxt|>
+## DEWALT Telecoms 2-Port Mobile USB Charger 24W
+
+{
+  "price": "€31.55 inc VAT (€25.65 exc.vat)",
+  "description": "DEWALT Mobile USB Charger with two, fast charging USB A ports. Delivers up to 2.4 amps to each connected device. Intelligent charging automatically delivers an optimised charge to each device. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 2-Port Mobile USB Charger 24W",
+  "specifications": [
+    "2-Port Mobile USB Charger 24W",
+    "Model: DWT1419008",
+    "Delivers up to 2.4 amps to each connected device",
+    "Intelligent charging for optimized charge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-4-port-mobile-usb-pd-charger-60w.html-lllmstxt|>
+## DEWALT Telecoms 4-Port Mobile USB PD Charger 60W
+
+{
+  "price": "€54.50 inc VAT (€44.31 exc.vat)",
+  "description": "The DEWALT 4-Port Mobile USB PD Charger with two, 2.4 fast charging USB A ports and 1 Qualcomm® Quick Charge™ 3.0 A USB port. Qualcomm® Quick Charge™ 3.0 technology helps to deliver optimised charging speeds for any connected USB device. The USB-C port will provide up to 18W for charging. DEWALT Mobile USB chargers are capable of charging phones and tablets up to 4 times faster than standard chargers. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 4-Port Mobile USB PD Charger 60W",
+  "specifications": [
+    "4-Port Mobile USB PD Charger",
+    "Two 2.4 fast charging USB A ports",
+    "One Qualcomm® Quick Charge™ 3.0 A USB port",
+    "USB-C port provides up to 18W for charging",
+    "Charges phones and tablets up to 4 times faster than standard chargers"
+  ]
+}
+

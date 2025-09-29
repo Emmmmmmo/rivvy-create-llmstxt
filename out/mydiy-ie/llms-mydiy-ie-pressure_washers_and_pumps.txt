@@ -1,0 +1,713 @@
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-c1107-5-x-tra-pressure-washer-110-bar-240-volt.html-lllmstxt|>
+## Kew Nilfisk Alto C110.7-5 X-TRA Pressure Washer 110 Bar 240 Volt
+
+{
+  "price": "€151.83 inc VAT (€123.44 exc.vat)",
+  "description": "The Kew Nilfisk Alto C110.7-5 X-TRA Pressure Washer is a compact and handy sized high pressure washer for basic outdoor cleaning tasks. It has a lightweight design with integrated wheels making it easy to transport. This machine has a number of functions that cover basic cleaning needs and is used for many jobs around the house and garden. It has a reliable and long lasting universal motor, aluminium pump head and auto start stop. The standard Nilfisk bayonet coupling on the new G1 gun ensures compatibility to all the Nilfisk consumer accessories range. It has on board storage for the gun, lance, nozzles and cable. The Click & Clean nozzle system makes it quick and easy to change the nozzles. Quick connection of hose with integrated swivel function. It can also be operated from a standing water source such as a water butt tap.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto C110.7-5 X-TRA Pressure Washer 110 Bar 240 Volt",
+  "specifications": [
+    "Max Pressure: 110 Bar",
+    "Flow Rate: 440l/h",
+    "Motor: 1,400 Watt",
+    "Max Water Feed Temperature: 40°C",
+    "Hose Length: 5m",
+    "Dimensions: 260 x 295 x 660mm",
+    "Weight: 6.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-premium-180-10-pressure-washer-180-bar-240v.html-lllmstxt|>
+## Kew Nilfisk Alto Premium 180-10 Pressure Washer 180 bar 240V
+
+{
+  "price": "€888.37 inc VAT (€722.25 exc.vat)",
+  "description": "The Kew Nilfisk Alto Premium 180-10 Pressure Washer has a sturdy and robust design that easily handles any application in a reliable, effective and powerful way. Perfect for cleaning horse trailers, boats, swimming pools and can of course also be used for patio and garden furniture cleaning. It has a reliable and long-lasting air-cooled induction motor, aluminium pump head and auto start/stop. The flow regulator allows for easy matching of pressure to the cleaning task. A built-in detergent system for ease of use, ideal for users with high detergent usage. Quick connection of hose with integrated swivel function and hose storage reel. ‘Gardena’ coupling for water supply connection.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Premium 180-10 Pressure Washer 180 bar 240V",
+  "specifications": [
+    "Max. Pressure: 180 bar",
+    "Flow Rate: 610 L/hr.",
+    "Motor: 2,900W",
+    "Max. Water Feed Temperature: 60°C",
+    "Hose Length: 10m",
+    "Weight: 26.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hw101-compact-power-washer-100-bar-240v.html-lllmstxt|>
+## Makita HW101 Compact Power Washer 100 bar 240V
+
+{
+  "price": "€127.85 inc VAT (€103.94 exc.vat)",
+  "description": "The Makita HW101 Compact Power Washer is ideal for domestic use on driveways or patios. The lance features an adjustable nozzle for accurate cleaning and there is an adjustable detergent bottle that allows you to apply solutions depending on the job. It has a universal electric motor with wobble plate pump and an aluminium pump head. Features a Total Stop System (TSS) which switches the motor on and off when the lance trigger is operated, prolonging the motor life. The stainless steel pistons provide increased working life and more reliability. Supplied with: 1 x 3m High-Pressure Soft Hose, 1 x Gun and Lance (Fan Head) and 1 x Detergent Bottle.",
+  "availability": "In Stock",
+  "product_name": "Makita HW101 Compact Power Washer 100 bar 240V",
+  "specifications": [
+    "Max. Pressure: 100 bar",
+    "Flow Rate: 360L/h",
+    "Motor: 1,400W",
+    "Hose Length: 3m",
+    "Weight: 6.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-alto-kew-core-125-pressure-washer-125-bar-240v.html-lllmstxt|>
+## Nilfisk Alto (Kew) CORE 125 Pressure Washer 125 bar 240V
+
+{
+  "price": "€242.84 inc VAT (€197.43 exc.vat)",
+  "description": "The Kew Nilfisk Alto CORE 125 Pressure Washer is the entry-level machine from the Nilfisk CORE Series of pressure washers. A compact but powerful machine that’s ideal for cleaning and maintenance tasks outside the home and in the garden. Standard features include a handy storage bucket for the Ultraflex high-pressure hose, and onboard storage for the assembled gun and lance, the Gentle and Rough cleaning nozzles, and the foam sprayer with detergent bottle. To help with the choice of cleaning nozzles there is a selection guide just where you need it, printed on the machine where the nozzles are stored. Its power cable can be securely stowed away using a neat retaining storage strap on the rear of the machine. The Click&Clean system on the lance makes it quick and easy to change the nozzles. A bayonet coupling on the gun ensures positive assembly to the lance and compatibility to all other Nilfisk consumer accessories. It has a reliable and long-lasting air-cooled universal motor, aluminium pump head, and auto start/stop. Quick connection of hose to the integrated swivel function on the handle and the new quick connect system of the hose to the machine, completes the easy assembly prior to use. It can also be operated from a standing water source such as a water butt tap. Under the Nilfisk Cleaning Speed Index, it has a rating of 35m²/hr.",
+  "availability": "In Stock",
+  "product_name": "Nilfisk Alto (Kew) CORE 125 Pressure Washer 125 bar 240V",
+  "specifications": [
+    "Max. Pressure: 125 bar",
+    "Flow Rate: 440 L/hr.",
+    "Motor: 1,400W",
+    "Max. Water Feed Temperature: 40°C",
+    "Hose Length: 5m",
+    "Dimensions: 290 x 300 x 717mm",
+    "Weight: 6.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-alto-kew-core-125-home-and-garden-pressure-washer-125-bar-240v.html-lllmstxt|>
+## Nilfisk Alto (Kew) CORE 125 Home & Garden Pressure Washer 125 bar 240V
+
+{
+  "price": "€296.06 inc VAT (€240.70 exc.vat)",
+  "description": "The Kew Nilfisk Alto CORE 125 Home & Garden Pressure Washer is the entry-level machine from the Nilfisk CORE Series of pressure washers. A compact but powerful machine that’s ideal for cleaning and maintenance tasks outside the home and in the garden. Standard features include a handy storage bucket for the Ultraflex high-pressure hose, and onboard storage for the assembled gun and lance, the Gentle and Rough cleaning nozzles, and the foam sprayer with detergent bottle. To help with the choice of cleaning nozzles there is a selection guide just where you need it, printed on the machine where the nozzles are stored. Its power cable can be securely stowed away using a neat retaining storage strap on the rear of the machine. This version includes two additional cleaning accessories; the compact patio cleaner for larger areas, and the small fixed brush that’s ideal for cars, windows and cycles etc. The Click&Clean system on the lance makes it quick and easy to change the nozzles. A bayonet coupling on the gun ensures positive assembly to the lance and compatibility to all other Nilfisk consumer accessories. It has a reliable and long-lasting air-cooled universal motor, aluminium pump head, and auto start/stop. Quick connection of hose to the integrated swivel function on the handle and the new quick connect system of the hose to the machine, completes the easy assembly prior to use. It can also be operated from a standing water source such as a water butt tap. Under the Nilfisk Cleaning Speed Index, it has a rating of 35m²/hr.",
+  "availability": "Out of Stock",
+  "product_name": "Nilfisk Alto (Kew) CORE 125 Home & Garden Pressure Washer 125 bar 240V",
+  "specifications": [
+    "Max. Pressure: 125 bar",
+    "Flow Rate: 440 L/hr.",
+    "Motor: 1,400W",
+    "Max. Water Feed Temperature: 40°C",
+    "Hose Length: 5m",
+    "Dimensions: 290 x 300 x 717mm",
+    "Weight: 6.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-alto-kew-core-130-powercontrol-pressure-washer-130-bar-240v.html-lllmstxt|>
+## Nilfisk Alto (Kew) CORE 130 Powercontrol Pressure Washer 130 bar 240V
+
+{
+  "price": "€300.87 inc VAT (€244.61 exc.vat)",
+  "description": "The Kew Nilfisk Alto CORE 130 Powercontrol Pressure Washer is a compact but powerful machine that can tackle any small to medium-sized area around the garden. It’s a handy size, lightweight, and has wheels making it easy to transport. A major feature of the CORE 130 Powercontrol is the 3-stage power control knob on the front of the machine that gives you the option to reduce the power of your machine in three stages; down from 100% to 80% and finally to 60%. The three most useful operating selections when using pressure washers. Standard features include a handy storage bucket for the Ultraflex high-pressure hose, and onboard storage for the assembled gun and lance, the Gentle and Rough cleaning nozzles and the foam sprayer with detergent bottle. To help with the choice of cleaning nozzles there is a selection guide just where you need it, printed on the machine where the nozzles are stored. Its power cable can be securely stowed away using a neat retaining storage strap on the rear of the machine. The Click&Clean system on the lance makes it quick and easy to change the nozzles. A bayonet coupling on the gun ensures positive assembly to the lance and compatibility to all other Nilfisk consumer accessories. It has a reliable and long-lasting air-cooled universal motor, aluminium pump head, and auto start/stop. Quick connection of hose to the integrated swivel function on the handle and the new quick connect system of the hose to the front of the machine, completes the easy assembly prior to use. It can also be operated from a standing water source such as a water butt tap. Under the Nilfisk Cleaning Speed Index, it has a rating of 35m²/hr.",
+  "availability": "In Stock",
+  "product_name": "Nilfisk Alto (Kew) CORE 130 Powercontrol Pressure Washer 130 bar 240V",
+  "specifications": [
+    "Max. Pressure: 130 bar",
+    "Flow Rate: 462 L/hr.",
+    "Motor: 1,500W",
+    "Max. Water Feed Temperature: 40°C",
+    "Hose Length: 6m",
+    "Dimensions: 290 x 300 x 717mm",
+    "Weight: 6.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-alto-kew-core-130-home-and-garden-powercontrol-pressure-washer-130-bar-240v.html-lllmstxt|>
+## Nilfisk Alto (Kew) CORE 130 Home & Garden Powercontrol Pressure Washer 130 bar 240V
+
+{
+  "price": "€354.29 inc VAT (€288.04 exc.vat)",
+  "description": "The Kew Nilfisk Alto CORE 130 Powercontrol Pressure Washer is a compact but powerful machine that can tackle any small to medium-sized area around the garden. It’s a handy size, lightweight, and has wheels making it easy to transport. A major feature of the CORE 130 Powercontrol is the 3-stage power control knob on the front of the machine that gives you the option to reduce the power of your machine in three stages; down from 100% to 80% and finally to 60%. The three most useful operating selections when using pressure washers. Standard features include a handy storage bucket for the Ultraflex high-pressure hose, and onboard storage for the assembled gun and lance, the Gentle and Rough cleaning nozzles, and the foam sprayer with detergent bottle. To help with the choice of cleaning nozzles there is a selection guide just where you need it, printed on the machine where the nozzles are stored. Its power cable can be securely stowed away using a neat retaining storage strap on the rear of the machine. This version includes two additional cleaning accessories; the compact patio cleaner for larger areas, and the small fixed brush that’s ideal for cars, windows and cycles etc. The Click&Clean system on the lance makes it quick and easy to change the nozzles. A bayonet coupling on the gun ensures positive assembly to the lance and compatibility to all other Nilfisk consumer accessories. It has a reliable and long-lasting air-cooled universal motor, aluminium pump head, and auto start/stop. Quick connection of hose to the integrated swivel function on the handle and the new quick connect system of the hose to the front of the machine, completes the easy assembly prior to use. It can also be operated from a standing water source such as a water butt tap. Under the Nilfisk Cleaning Speed Index, it has a rating of 35m²/hr.",
+  "availability": "Out of Stock",
+  "product_name": "Nilfisk Alto (Kew) CORE 130 Home & Garden Powercontrol Pressure Washer 130 bar 240V",
+  "specifications": [
+    "Max. Pressure: 130 bar",
+    "Flow Rate: 462 L/hr.",
+    "Motor: 1,500W",
+    "Max. Water Feed Temperature: 40°C",
+    "Hose Length: 6m",
+    "Dimensions: 290 x 300 x 717mm",
+    "Weight: 6.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-alto-kew-core-140-powercontrol-pressure-washer-140-bar-240v.html-lllmstxt|>
+## Nilfisk Alto (Kew) CORE 140 Powercontrol Pressure Washer 140 bar 240V
+
+{
+  "price": "€378.83 inc VAT (€307.99 exc.vat)",
+  "description": "The Kew Nilfisk Alto CORE 140 Powercontrol Pressure Washer is a compact but powerful machine that can tackle any small to medium-sized area around the garden. It’s a handy size, lightweight, and has wheels making it easy to transport. A major feature of the CORE 140 Powercontrol is the 3-stage power control knob on the front of the machine that gives you the option to reduce the power of your machine in three stages; down from 100% to 80% and finally to 60%. The three most useful operating selections when using pressure washers.\n\nIt features an internal hose reel, connecting the Ultraflex high-pressure hose directly to the pump. The hose guide is built into the machine casing, so the Ultraflex high-pressure hose is always tidily stored away before and after use. With onboard storage for the assembled gun and lance, the Gentle and Rough cleaning nozzles, and the foam sprayer with detergent bottle. To help with the choice of cleaning nozzles there is a selection guide just where you need it, printed on the machine where the nozzles are stored. Its power cable can be securely stowed away using a neat retaining storage strap on the rear of the machine.\n\nThe Click&Clean system on the lance makes it quick and easy to change the nozzles. A bayonet coupling on the gun ensures positive assembly to the lance and compatibility to all other Nilfisk consumer accessories.\n\nIt has a reliable and long-lasting air-cooled universal motor, aluminium pump head, and auto start/stop. Quick connection of hose to the integrated swivel function on the handle and the new quick connect system of the hose to the machine, completes the easy assembly prior to use. It can also be operated from a standing water source such as a water butt tap.\n\nUnder the Nilfisk Cleaning Speed Index, it has a rating of 40m²/hr.",
+  "availability": "In Stock",
+  "product_name": "Nilfisk Alto (Kew) CORE 140 Powercontrol Pressure Washer 140 bar 240V",
+  "specifications": [
+    "Max. Pressure: 140 bar",
+    "Flow Rate: 474 L/hr.",
+    "Motor: 1,800W",
+    "Max. Water Feed Temperature: 40°C",
+    "Hose Length: 6m",
+    "Dimensions: 300 x 371 x 882mm",
+    "Weight: 8.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-alto-kew-core-150-10-high-pressure-washer-150-bar-240v.html-lllmstxt|>
+## Nilfisk Alto (Kew) Core 150-10 High-Pressure Washer 150 bar 240V
+
+{
+  "price": "€468.72 inc VAT (€381.07 exc.vat)",
+  "description": "The Kew Nilfisk Alto Core 150-10 High-Pressure Washer with adjustable PowerControl. This model is user-friendly due to the upright and ergonomic design, ultra-flex hose and onboard hose reel. The built-in foldable handle makes it easy to store. Includes detergent bottle and two separate nozzles to adapt to gentle and rough cleaning tasks. The machine comes readily built with Click&Clean accessories, so you can start cleaning in no time.",
+  "availability": "Out of Stock",
+  "product_name": "Nilfisk Alto (Kew) Core 150-10 High-Pressure Washer 150 bar 240V",
+  "specifications": [
+    "Max. Pressure: 150 bar",
+    "Flow Rate: 468 L/hr.",
+    "Motor: 2,000W",
+    "Max. Water Feed Temperature: 40°C",
+    "Hose Length: 10m",
+    "Weight: 11.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black--decker-bepw1300l-pressure-washer-110-bar-240v.html-lllmstxt|>
+## BLACK + DECKER BEPW1300L Pressure Washer 110 bar 240V
+
+{
+  "price": "€152.84 inc VAT (€124.26 exc.vat)",
+  "description": "The BLACK + DECKER BEPW1300L Pressure Washer comes with a self priming function, no inlet pressure required. Meaning you can use any source of water, ideal in areas with low pressure in the water supply. Its aluminium pump is more durable, non corrosive and maintenance-free. The total stop system (TSS), motor stops when trigger is loosened providing additional safety and increases the life of the machine. A pivoted hose connection allows for 360° turning of the hose. It has a compact design, for ease of storage. Fitted with wheels and a long carry-on style handle, making the machine easier and more comfortable to move. On board accessory storage, including hose and power cord, keeps everything close to hand and in one place.",
+  "availability": "Out of Stock",
+  "product_name": "BLACK + DECKER BEPW1300L Pressure Washer 110 bar 240V",
+  "specifications": [
+    "Max. Pressure: 110 bar",
+    "Max. Flow Rate: 6.6 L/Min",
+    "Hose Length: 3m",
+    "Dimensions (H x W x D): 65 x 29 x 22cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black--decker-bepw1700-pressure-washer-125-bar-240v.html-lllmstxt|>
+## BLACK + DECKER BEPW1700 Pressure Washer 125 bar 240V
+
+{
+  "price": "€208.40 inc VAT (€169.43 exc.vat)",
+  "description": "The BLACK + DECKER BEPW1700 Pressure Washer comes with a self priming function, no inlet pressure required. Meaning you can use any source of water, ideal in areas with low pressure in the water supply. Its aluminium pump is more durable, non corrosive and maintenance-free. The total stop system (TSS), motor stops when trigger is loosened providing additional safety and increases the life of the machine. A pivoted hose connection allows for 360° turning of the hose. It has a compact design, for ease of storage. Fitted with wheels and a long carry-on style handle, making the machine easier and more comfortable to move. On board accessory storage, including hose and power cord, keeps everything close to hand and in one place.",
+  "availability": "In Stock",
+  "product_name": "BLACK + DECKER BEPW1700 Pressure Washer 125 bar 240V",
+  "specifications": [
+    "Max. Pressure: 125 bar",
+    "Max. Flow Rate: 6.8 L/Min",
+    "Hose Length: 5m",
+    "Dimensions (H x W x D): 58 x 29 x 27cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dhw080zk-lxt-high-pressure-washer-36v-2-x-18v-bare-unit.html-lllmstxt|>
+## Makita DHW080ZK LXT High Pressure Washer 36V (2 x 18V) Bare Unit
+
+{
+  "price": "€691.94 inc VAT (€562.55 exc.vat)",
+  "description": "The Makita DHW080 LXT High Pressure Washer with 2 stage pressure selection. Jet pressure can be set to high or low, ideal when cleaning a variety of surfaces or objects. The Total Stop System (TSS) switches the motor on and off when the lance trigger is operated, prolonging the motor life. It also features a self-priming function (with a max suction height of 1m). Supplied with a storage case which can also be used as a water tank (50 litre capacity approx.). Water can also be supplied from a faucet. Due to its easy portability and water tank, the washer is useful in places where access to water or electricity is limited. Integrated wheels provide an easy mobility. WetGuard provides excellent water-resistant performance. Allows operation of the machine even when it is wet with water as long as the battery cover is closed. A battery protection circuit protects against overloading, over-discharging and over-heating.",
+  "availability": "In Stock",
+  "product_name": "Makita DHW080ZK LXT High Pressure Washer 36V (2 x 18V) Bare Unit",
+  "specifications": [
+    "Max. Pressure: 80 bar",
+    "Operating Pressure: 30-55 bar",
+    "Flow Rate: 380 L/hr",
+    "Max. Water Feed Temperature: 40°C",
+    "Hose Length: 5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcmpw1600n-xr-pressure-washer-36v-2-x-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCMPW1600N XR Pressure Washer 36V (2 x 18V) Bare Unit
+
+{
+  "price": "€579.42 inc VAT (€471.07 exc.vat)",
+  "description": "The DEWALT DCMPW1600 XR Pressure Washer is powered by 2 x 18V XR Li-ion batteries (NOT SUPPLIED). Its powerful 36V brushless motor allows the washer to deliver three operating modes, Low (70 Bar), High (80 Bar) and a Boost Mode (110 Bar). These modes increase the intensity of the flow of water from the source. In Boost mode, the pressure washer will allow a maximum of 8mins at 110Bar before reverting to the previously selected mode. Its durable body is fitted with large 20cm rubber wheels, ideal for tough work sites. A built-in roll cage helps to protect it from work site knocks and bumps, as well as allowing for easier transport. All the accessories are either attached to the pressure washer or stored in a large compartment, which reduces the risk of losing any of the accessories.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCMPW1600N XR Pressure Washer 36V (2 x 18V) Bare Unit",
+  "specifications": [
+    "Max. Pressure: 110 bar",
+    "Flow Rate: 4.5 L/min",
+    "Max. Water Feed Temperature: 50°C",
+    "Hose Length: 6m",
+    "Weight: 10.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dhw180z-lxt-pressure-washer-18v-bare-unit.html-lllmstxt|>
+## Makita DHW180Z LXT Pressure Washer 18V Bare Unit
+
+{
+  "price": "€206.31 inc VAT (€167.73 exc.vat)",
+  "description": "The Makita DHW180 LXT Pressure Washer is lightweight and easy to handle, providing sufficient cleaning power for light duty washing tasks and is convenient to use on work sites and home use. eXtreme Protection Technology (XPT) provides improved dust and water resistance, making it ideal for operation in harsh conditions. Supplied as a bare unit, NO battery or charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DHW180Z LXT Pressure Washer 18V Bare Unit",
+  "specifications": [
+    "Max. Pressure: 24 bar",
+    "Max. Flow: 150 l/hr",
+    "Operating Pressure: 8 - 24 bar",
+    "Max. Suction Height: 2m",
+    "Weight: 2.2kg without battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-small-universal-rotary-brush.html-lllmstxt|>
+## Kew Nilfisk Alto Small Universal Rotary Brush
+
+{
+  "price": "€30.38 inc VAT (€24.70 exc.vat)",
+  "description": "The Kew Nilfisk Alto Small Universal Rotary Brush is the ultimate cleaning brush, compatible with all Kew Domestic Power Washers. The head of the brush rotates with the power of the water so it cleans whilst it rinses with the minimum of effort.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Small Universal Rotary Brush",
+  "specifications": [
+    "Model: KEW126411395",
+    "List Price: €38.41",
+    "You save: €8.03",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-universal-standard-hose-6m.html-lllmstxt|>
+## Kew Nilfisk Alto Universal Standard Hose 6m
+
+{
+  "price": "€41.12 inc VAT (€33.43 exc.vat)",
+  "description": "The Kew Nilfisk Alto Universal Standard Hose is a replacement 6 metre standard hose suitable for all Nilfisk C100, C105, C110, and C120 pressure washers.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Universal Standard Hose 6m",
+  "specifications": [
+    "Length: 6m",
+    "Compatible with Nilfisk C100, C105, C110, and C120 pressure washers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-g4-click-and-clean-spray-lance-long--e130--e140.html-lllmstxt|>
+## Kew Nilfisk Alto G4 Click & Clean Spray Lance Long ( E130 / E140)
+
+{
+  "price": "€30.12 inc VAT (€24.49 exc.vat)",
+  "description": "A replacement Click & Clean Extension Lance for use with the Kew/Alto/Nilfisk E130 and E140 series of pressure washers",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto G4 Click & Clean Spray Lance Long ( E130 / E140)",
+  "specifications": [
+    "Model: KEW128500074",
+    "List Price: €38.07",
+    "You save: €7.95",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-universal-rotary-brush.html-lllmstxt|>
+## Kew Nilfisk Alto Universal Rotary Brush
+
+{
+  "price": "€23.89 inc VAT (€19.42 exc.vat)",
+  "description": "The Kew Nilfisk Alto Universal Rotary Brush is the ultimate cleaning brush, compatible with all Kew Domestic Power Washers. The head of the brush rotates with the power of the water so it cleans whilst it rinses with the minimum of effort. Its adjustable angled head allows the user to change the brush position to suit the application. Ideal on cars, caravans, boats, windows, conservatories etc.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Universal Rotary Brush",
+  "specifications": [
+    "Compatible with all Kew Domestic Power Washers",
+    "Rotating head for efficient cleaning",
+    "Adjustable angled head for versatile use",
+    "Ideal for cleaning cars, caravans, boats, windows, and conservatories"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-drain-and-tube-cleaner-15-metre.html-lllmstxt|>
+## Kew Nilfisk Alto Drain & Tube Cleaner 15 Metre
+
+{
+  "price": "€59.73 inc VAT (€48.56 exc.vat)",
+  "description": "The Kew Nilfisk Alto Drain & Tube Cleaner is compatible with all Kew Domestic Power Washers. This high-pressure Hose comes with a drain nozzle and tube cleaning adaptor. Drain nozzle drives itself down the drain to the obstruction which is then attacked by the high pressure jet. Ideal for reaching blockages up to 15m underground. Tube attachment has flexible nozzle end to help move around U-Bends etc, in sinks and toilets. Length: 15m.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Drain & Tube Cleaner 15 Metre",
+  "specifications": [
+    "Compatible with all Kew Domestic Power Washers",
+    "High-pressure hose with drain nozzle and tube cleaning adaptor",
+    "Reaches blockages up to 15m underground",
+    "Flexible nozzle end for U-Bends",
+    "Length: 15m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-click-and-clean-auto-brush.html-lllmstxt|>
+## Kew Nilfisk Alto Click & Clean Auto Brush
+
+{
+  "price": "€46.27 inc VAT (€37.62 exc.vat)",
+  "description": "The Kew Nilfisk Alto Click & Clean Auto Brush is compatible with all Kew Domestic Power Washers with the Click & Clean extension lance. This wide brush allows large areas to be covered in a short time. Large soft squeegee blade is ideal for wiping excess water off windows.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Click & Clean Auto Brush",
+  "specifications": [
+    "Compatible with all Kew Domestic Power Washers",
+    "Wide brush for large areas",
+    "Large soft squeegee blade for wiping excess water"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-clickandclean-super-foam-sprayer.html-lllmstxt|>
+## Kew Nilfisk Alto Click&Clean Super Foam Sprayer
+
+{
+  "price": "€36.99 inc VAT (€30.07 exc.vat)",
+  "description": "The Kew Nilfisk Alto Click&Clean Super Foam Sprayer is ideal for applying cleaning detergent to larger surfaces. Produces a rich foam that stays on the surface longer, making it easier to clean and reduces the need to re-foam when cleaning, saving up to 30% detergent compared to the standard Nilfisk Click&Clean Foam Sprayer. You can also adjust the detergent dosage according to your needs. Fitted with a cleanable filter ensuring you get the optimum foaming performance for as long as possible. Holds up to 500ml of Nilfisk detergent.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Click&Clean Super Foam Sprayer",
+  "specifications": [
+    "Holds up to 500ml of Nilfisk detergent",
+    "Produces rich foam for effective cleaning",
+    "Adjustable detergent dosage",
+    "Cleanable filter for optimum performance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-alto-kew-powerspeed-nozzle.html-lllmstxt|>
+## Nilfisk Alto (Kew) Powerspeed Nozzle
+
+{
+  "price": "€22.04 inc VAT (€17.92 exc.vat)",
+  "description": "Replacement Nilfisk Alto (Kew) Powerspeed Nozzle. Compatible with the following models: C 135.1, C 135.1i, D 140.4 X-TRA, D-PG 140.4 X-TRA, E 145.4, E 150.2, E 160.1, Core 125, Core 130 Powercontrol, Core 140 Powercontrol, Core 140 In-Hand Powercontrol.",
+  "availability": "Out of Stock",
+  "product_name": "Nilfisk Alto (Kew) Powerspeed Nozzle",
+  "specifications": [
+    "Model: KEW128501153",
+    "List Price: €22.48",
+    "You save: €0.44"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-clickandclean-mid-patio-cleaner.html-lllmstxt|>
+## Nilfisk Click&Clean Mid Patio Cleaner
+
+{
+  "price": "€72.46 inc VAT (€58.91 exc.vat)",
+  "description": "The Kew Nilfisk Alto Click&Clean Mid Patio Cleaner cleans medium to large domestic environment areas such as drives, patios and decks quickly and efficiently. Comes complete with two jet nozzles fitted to a spinning bar on the underside of the patio head. The pressure adjustment dial on the top of the cleaning head allows you to increase or decrease the cleaning forces depending on the surface you're cleaning. It also has useful hand grips so you can clean vertical surfaces. It has an effective cleaning width of 220mm. Compatible the Nilfisk Compact, Dynamic, Excellent, Core, PowerGrip and Premium high pressure washers. Particularly suited to machines with a max rating of 130 bar and upwards.",
+  "availability": "In Stock",
+  "product_name": "Nilfisk Click&Clean Mid Patio Cleaner",
+  "specifications": [
+    "Effective cleaning width of 220mm",
+    "Compatible with Nilfisk Compact, Dynamic, Excellent, Core, PowerGrip and Premium high pressure washers",
+    "Pressure adjustment dial for cleaning force control",
+    "Includes two jet nozzles fitted to a spinning bar"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-power-patio-cleaner.html-lllmstxt|>
+## Nilfisk Power Patio Cleaner
+
+{
+  "price": "€144.96 inc VAT (€117.85 exc.vat)",
+  "description": "The Kew Nilfisk Alto Power Patio Cleaner is ideal for large sized domestic environments with an effective cleaning width of 300mm. It features an on-board pressure regulation dial, ensuring users can select an optimal cleaning pressure depending on the sensitivity of the cleaning surface. The Power Patio comes with 2 sets of cleaning nozzles. The pre-mounted standard nozzles are designed for everyday cleaning tasks and will remove the majority of natural dirt from patios, driveways, paving, decking, fences and walls. The additional dirt hammer nozzles are specifically designed for ingrained, stubborn dirt and offer a more powerful clean. When one set is not in use they can be safely stored in the storage compartment on the rear of the cleaning head. The Power Patio also comes with an extension lance to help prevent stooping when cleaning horizontal surfaces and features an ergonomic handle for cleaning walls, fences and other vertical areas. Compatible with all the domestic Nilfisk pressure washers.",
+  "availability": "In Stock",
+  "product_name": "Nilfisk Power Patio Cleaner",
+  "specifications": [
+    "Effective cleaning width of 300mm",
+    "On-board pressure regulation dial",
+    "Includes 2 sets of cleaning nozzles",
+    "Extension lance for easy cleaning of horizontal surfaces",
+    "Ergonomic handle for vertical cleaning",
+    "Compatible with all domestic Nilfisk pressure washers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hozelock-pico-power-replacement-detergent-tank.html-lllmstxt|>
+## Hozelock Pico Power Replacement Detergent Tank
+
+{
+  "price": "€18.20 inc VAT (€14.80 exc.vat)",
+  "description": "Hozelock Replacement Detergent Tank suitable for use with the Hozelock Pico Power Pressure Washer.",
+  "availability": "In Stock",
+  "product_name": "Hozelock Pico Power Replacement Detergent Tank",
+  "specifications": [
+    "Model: HOZ7928",
+    "List Price: €26.85",
+    "You save: €8.65",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/faithfull-water-pump-attachment-1800-lh.html-lllmstxt|>
+## Faithfull Water Pump Attachment 1800 L/H
+
+{
+  "price": "€15.99 inc VAT (€13.00 exc.vat)",
+  "description": "The Faithfull FAIWPUMP water pump attachment is designed for use with electric power drills and hose pipe. The maximum capacity is 1,800 litres (396 gallons) per hour. It is ideal for watering the garden from a water butt and for emptying sinks, paddling pools, flood water etc.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Water Pump Attachment 1800 L/H",
+  "specifications": [
+    "Maximum priming height: 10m",
+    "Maximum drill speed: 3,400rpm",
+    "Dry running limit: 12 seconds",
+    "Maximum capacity: 1800 litres (396 gallons)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hozelock-7602-flowmax-flood-pump--350w--240v.html-lllmstxt|>
+## Hozelock 7602 Flowmax Flood Pump 350W 240V
+
+{
+  "price": "€129.62 inc VAT (€105.38 exc.vat)",
+  "description": "The Hozelock 7602 Flowmax Flood Pump is a modern and compact unit which comes with an integrated non-return valve for easy priming and low suction (3mm). Fitted with an automatic float switch that automatically turns the pump on when the area is flooded. Supplied with a multistage connector for Ø15mm or Ø19mm hose.",
+  "availability": "Out of Stock",
+  "product_name": "Hozelock 7602 Flowmax Flood Pump 350W 240V",
+  "specifications": [
+    "Input Power: 350W",
+    "Delivery Capacity Max.: 7,500 L/h",
+    "Hose Capacity: Ø15/19mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hozelock-7612-water-butt-pump--300w--240v.html-lllmstxt|>
+## Hozelock 7612 Water Butt Pump 300W 240V
+
+{
+  "price": "€114.55 inc VAT (€93.13 exc.vat)",
+  "description": "The Hozelock 7612 Water Butt Pump uses stored water to water your garden and plants. The high pressure pump (1.1 bar) has a maximum flow of 2,200 litres per hour. Suitable for use with spray guns, sprinklers, micro-irrigation and hosepipes up to 50m in length. Supplied with a 2175 Tap Connector that attaches to a 3/4 bsp (G3/4) outlet.",
+  "availability": "Out of Stock",
+  "product_name": "Hozelock 7612 Water Butt Pump 300W 240V",
+  "specifications": [
+    "Input Power: 300W",
+    "Max. Delivery Capacity: 2,200L/h"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-pf0300-submersible-pump-300w-240v.html-lllmstxt|>
+## Makita PF0300 Submersible Pump 300W 240V
+
+{
+  "price": "€78.67 inc VAT (€63.96 exc.vat)",
+  "description": "The Makita PF0300 Submersible Drainage Pump is a powerful and versatile water pump that can be used for draining rain water barrels and casks, garden irrigation, trenches, flood water, cesspits, reservoirs, ponds swimming pools and cellars. This robust pump is only suitable for clean water drainage and permits up to 5mm particle sizes. For your convenience the Pump also has an integrated handle for easy transportation and storage as well as a hose connector.",
+  "availability": "In Stock",
+  "product_name": "Makita PF0300 Submersible Pump 300W 240V",
+  "specifications": [
+    "Input Power: 300W",
+    "Max. Submersion Depth: 5m",
+    "Max. Pumping Capacity: 140L/min.",
+    "Max. Solids Diameter: 5mm",
+    "Max. Head: 7m",
+    "Min. Suction Level: 20mm",
+    "Weight: 4.23kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-pf1110-submersible-drainage-pump-1100w-240v.html-lllmstxt|>
+## Makita PF1110 Submersible Drainage Pump 1100W 240V
+
+{
+  "price": "€172.68 inc VAT (€140.39 exc.vat)",
+  "description": "The Makita PF1110 Submersible Drainage Pump is a powerful and versatile water pump that can be used for the drainage of basins with muddy water, wells, tanks and lifting water for irrigation or transfer. This robust dirty water pump permits particles up to 35mm. For your convenience the Pump also has an integrated handle for easy transportation and storage as well as a hose connector. The pump has a durable stainless steel body that provides maintenance free operation.",
+  "availability": "In Stock",
+  "product_name": "Makita PF1110 Submersible Drainage Pump 1100W 240V",
+  "specifications": [
+    "Input Power: 1,100W",
+    "Max. Submersion Depth: 5m",
+    "Max. Pumping Capacity: 250L/min.",
+    "Max. Solids Diameter: 35mm",
+    "Min. Suction Level: 50mm",
+    "Weight: 7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-pf-1100-submersible-pump-1100-watt-240-volt.html-lllmstxt|>
+## Makita PF 1100 Submersible Pump 1100 Watt 240 Volt
+
+{
+  "price": "€161.72 inc VAT (€131.48 exc.vat)",
+  "description": "The Makita PF1100 Submersible Drainage Pump is a powerful and versatile water pump that can be used for draining flooded rooms, tanks and irrigation of orchards and gardens. This robust pump is is only suitable for clean water and permits particles up to 5mm. For your convenience the Pump also has an integrated handle for easy transportation and storage as well as a hose connector. The pump has a durable stainless steel body that provides maintenance free operation.",
+  "availability": "Out of Stock",
+  "product_name": "Makita PF 1100 Submersible Pump 1100 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 1,100 Watt",
+    "Max Submersion Depth: 5m",
+    "Max Pumping Capacity: 250 l/min",
+    "Max Solids Diameter: 5mm",
+    "Max Head: 9m",
+    "Min Suction Level: 25mm",
+    "Weight: 6.74kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-btp-0-compact-transfer-pump-18v-bare-unit.html-lllmstxt|>
+## Milwaukee Power Tools M18 BTP-0 Compact Transfer Pump 18V Bare Unit
+
+{
+  "price": "€287.65 inc VAT (€233.86 exc.vat)",
+  "description": "The Milwaukee M18 BTP-0 Compact Transfer Pump has a flexible impeller and powerful motor generate a lift height up to 5.5m and a head height up to 23m. REDLINK™ intelligence can recognise when the tool stops moving water and automatically shuts itself off to avoid dry pumping. It has a 3/4in BSPT male thread reception compatible with any standard water hose. For the inlet, a hose with 19mm inner diameter is recommended, for optimised performance. Suitable ONLY for water that is clear of debris. Comes as a Bare Unit, NO Battery or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M18 BTP-0 Compact Transfer Pump 18V Bare Unit",
+  "specifications": [
+    "Flow Rate: 1,817 litres per hour, 30.3 litres per minute",
+    "Max. Head Height: 23m",
+    "Max. Suction Height: 5.5m",
+    "Thread Size: 3/4in (19mm) Male Thread",
+    "Max. Water Temperature: 60°C",
+    "IP Protection Class: IP54",
+    "Weight: 3.4kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-dp-1825-ll-li---solo-power-x-change-dirty-water-pump-18v-bare-unit.html-lllmstxt|>
+## Einhell GE-DP 18/25 LL Li - Solo Power X-Change Dirty Water Pump 18V Bare Unit
+
+{
+  "price": "€125.16 inc VAT (€101.76 exc.vat)",
+  "description": "The Einhell GE-DP 18/25 LL Li - Solo Power X-Change Dirty Water Pump is an all-rounder for pumping out clean or waste water. It can be used anywhere thanks to its cordless design. The battery is protected by the splash-proof, robust battery box and can be hung on walls, rain barrels, fences, etc. thanks to the wall bracket and fastening hooks. A cable holder for the 5m long connecting cable, which allows the pump to immerse up to 4m deep is integrated into the battery box. The submersible pump has two power levels: ECO mode ensures longer running times with less battery consumption, whereas BOOST mode provides the maximum output. Thanks to the rotatable housing bottom, the cordless pump is suitable for both waste water with maximum 25mm dirt particles and clear water (1mm grain size). Clean water can be pumped out with the flat suction pump up to 1mm residual water level. When starting the pump, the water level must be at least 10mm. A double-sided carrying handle makes it easy to transport the 3.3 kg lightweight device. The pump is equipped with a 42mm (1 1/4in AG) pressure connection and is supplied with a universal adaptor for 25/32mm hoses with 1in AG (33.3mm). Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-DP 18/25 LL Li - Solo Power X-Change Dirty Water Pump 18V Bare Unit",
+  "specifications": [
+    "Input Power: 160W",
+    "Max. Delivery Rate: 7,000 l/h",
+    "Max. Delivery Pressure: 0.5 bar",
+    "Max. Delivery Height: 5m",
+    "Immersion Depth: 4m",
+    "Max. Particle Size: 25mm",
+    "Min. Water Level Pump Start: 10mm",
+    "Shallow Suction: up to 1mm",
+    "Pressure Connection Type: 42mm (G11/4 AG)",
+    "Connection Cable Length: 5m",
+    "Weight: 3.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-gc-sp-3580-ll-clean-water-pump-350w-240v.html-lllmstxt|>
+## Einhell GC-SP 3580 LL Clean Water Pump 350W 240V
+
+{
+  "price": "€59.74 inc VAT (€48.57 exc.vat)",
+  "description": "The Einhell GC-SP 3580 LL Clean Water Pump is a powerful and robust solution for emptying swimming pools, rain barrels and flooded cellars in next to no time. It only needs 8mm of water to get the pump impeller to start working. From this minimum depth, the powerful pump will help you to dry out your cellar or empty your swimming pool. A residual water layer of as little as one millimetre is all which is left on a flat bottom and can then be wiped dry. Fitted with a high-quality mechanical seal to improve service life, even on tough and prolonged assignments. Uses an infinitely variable float switch; the pump can be switched on and off automatically as the water level changes. An integrated non-return valve prevents return flow when the pump is switched off. A practical cable winder and a sturdy integrated handle make it easy to move and store this submersible pump.",
+  "availability": "In Stock",
+  "product_name": "Einhell GC-SP 3580 LL Clean Water Pump 350W 240V",
+  "specifications": [
+    "Input Power: 350W",
+    "Max. Delivery Capacity: 8,000 L/hr",
+    "Max. Delivery Height: 7.5m",
+    "Max. Immersion Depth: 7m",
+    "Max. Water Temperature: 35°C",
+    "Hose Connection: 47.8mm (1.1/2in)",
+    "Weight: 3.13kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-pp-18-rb-li-solo-power-x-change-water-pump-18v-bare-unit.html-lllmstxt|>
+## Einhell GE-PP 18 RB Li-Solo Power X-Change Water Pump 18V Bare Unit
+
+{
+  "price": "€93.85 inc VAT (€76.30 exc.vat)",
+  "description": "The Einhell GE-PP 18 RB Li - Solo Power X-Change Water Pump is designed for a range of applications. Use as a submersible pump with a long cable connection, e.g. in a tank or well, or with the adjustable connecting pipe, e.g. for a rainwater butt: Water your garden without needing a mains socket, flexible in application and powerful in operation. Its powerful motor generates a high delivery pressure of more than 2 bar, which means running a lawn sprinkler or a garden sprayer is no problem at all. The extension tube with its convenient mounting bracket and movable water connection with stop valve for custom positioning of the garden hose, is steplessly telescopic. The separate, splash-proof battery box with hanger and wall mount is equipped with a convenient option to store the cable on the housing. The high-quality pump body and the battery box are made of impact-resistant plastic. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-PP 18 RB Li-Solo Power X-Change Water Pump 18V Bare Unit",
+  "specifications": [
+    "Input Power: 165W",
+    "Max. Delivery Capacity: 3,000 l/h",
+    "Max. Delivery Pressure: 2.0 bar",
+    "Max. Delivery Height: 20m",
+    "Immersion Depth: 4m",
+    "Max. Particle Size: 0mm",
+    "Connection Cable Length: 5m",
+    "Pressure Connection Type: 33.3mm (G1 AG)",
+    "Max. Water Temperature: 35°C",
+    "Weight: 2.52kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-water-pump-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Water Pump 18V Bare Unit
+
+{
+  "price": "€114.82 inc VAT (€93.35 exc.vat)",
+  "description": "Batavia MAXXPACK Water Pump provides a great way to move water without effort. It's the perfect machine for draining your pool, rain barrel, flooded basement and boat. The pump is easy to connect to a garden hose. This means that it is no longer necessary to move the water in buckets. The pump can also be placed in a rain barrel so you can draw rain water for your garden. Comes with: 1 x Control Unit and 1 x Garden Hose Set. NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Water Pump 18V Bare Unit",
+  "specifications": [
+    "Rated Power: 80 Watt",
+    "Max. Water Flow Rate: 1800 L/h",
+    "Connector Size: G 3/4in",
+    "Pipe Diameter: 16mm",
+    "Max. Pump Height: 17.5m",
+    "Max. Immersion Depth: 2m",
+    "Max. Particle Size: 0.5mm",
+    "Max. Water Temperature: 35°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-dp-1825-li-solo-power-x-change-dirty-water-pump-18v-bare-unit.html-lllmstxt|>
+## Einhell GE-DP 18/25 Li-Solo Power X-Change Dirty Water Pump 18V Bare Unit
+
+{
+  "price": "€142.54 inc VAT (€115.89 exc.vat)",
+  "description": "The Einhell GE-DP 18/25 Li-Solo Power X-Change Dirty Water Pump for pumping out clean or waste water. It can be used anywhere thanks to its cordless design. The battery is protected by the splash-proof, robust battery box and can be hung on walls, rain barrels, fences, etc. thanks to the wall bracket and fastening hooks. A cable holder for the 5m long connecting cable, which allows the pump to immerse up to 4m deep is integrated into the battery box. The pump has two power levels: ECO mode ensures longer running times with less battery consumption, whereas BOOST mode provides the maximum output. To start the pump, the water level must be at least 40mm; the powerful pump can pump down to a residual water level of 35mm. A double-sided carrying handle makes it easy to transport. The pump is equipped with a 42mm (1 1/4in AG) pressure connection and is supplied with a universal adaptor for 25/32mm hoses with 1in AG (33.3mm). Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell GE-DP 18/25 Li-Solo Power X-Change Dirty Water Pump 18V Bare Unit",
+  "specifications": [
+    "Input Power: 153W",
+    "Max. Delivery Rate: 7,500 l/h",
+    "Max. Delivery Pressure: 0.5 bar",
+    "Max. Delivery Height: 5m",
+    "Immersion Depth: 4m",
+    "Max. Particle Size: 25mm",
+    "Min. Water Level Pump Start: 40mm",
+    "Shallow Suction: up to 35mm",
+    "Pressure Connection Type: 42mm (G11/4 AG)",
+    "Connection Cable Length: 5m",
+    "Weight: 3.28kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-sp-18-power-x-change-li-solo-clear-water-pump-18v-bare-unit.html-lllmstxt|>
+## Einhell GE-SP 18 Power X-Change Li-Solo Clear Water Pump 18V Bare Unit
+
+{
+  "price": "€97.50 inc VAT (€79.27 exc.vat)",
+  "description": "The Einhell GE-SP 18 Power X-Change Li-Solo Clear Water Pump is ideally suited to take anywhere where water needs to be pumped without mains power available. The long cable connection to the battery box allows a greater depth of immersion. The battery is protected by the splash-proof, robust battery box and can be hung on walls, rain barrels, fences, etc. thanks to the wall bracket and fastening hooks. There is also a cable holder integrated into the battery box. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell GE-SP 18 Power X-Change Li-Solo Clear Water Pump 18V Bare Unit",
+  "specifications": [
+    "Input Power: 90W",
+    "Max. Delivery Rate: 5,000 l/h",
+    "Max. Delivery Pressure: 0.8 bar",
+    "Max. Delivery Height: 8m",
+    "Immersion Depth: 4m",
+    "Max. Particle Size: 0mm",
+    "Pressure Connection Type: 33.3mm (G1 AG)",
+    "Connection Cable Length: 5m",
+    "Weight: 2.37kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-gc-dp-3325-dirty-water-pump-330w-240v.html-lllmstxt|>
+## Einhell GC-DP 3325 Dirty Water Pump 330W 240V
+
+{
+  "price": "€58.41 inc VAT (€47.49 exc.vat)",
+  "description": "The Einhell GC-DP 3325 Dirty Water Pump is optimally suited for pumping out water with large amounts of foreign matter up to 25mm in diameter. The 330 watt pump does an excellent job of evacuating wastewater from basements or excavation pits, when cleaning the pool or garden pond, or pumping water from cisterns and wells, as well as large rain barrels and water tanks. For better portability, a foldable carrying handle is attached to the impact-resistant plastic pump housing. The pump has a continuously adjustable float switch and a high-quality mechanical seal to ensure a long service life. The pump offers several connection options with a universal connection for 25/32 mm hoses and a G1 external thread (33.3 mm) as well as a 90° elbow.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell GC-DP 3325 Dirty Water Pump 330W 240V",
+  "specifications": [
+    "Input Power: 330W",
+    "Max. Delivery Capacity: 9,500 L/hr",
+    "Max. Delivery Height: 6m",
+    "Immersion Depth: 7m",
+    "Max. Particle Size: 25mm",
+    "Hose Connection: 47.8mm (G11/2 IG)",
+    "Max. Water Temp: 35°C",
+    "Power Cord: 10m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-gc-dp-7035-ll-2-in-1-combi-pump-700w-240v.html-lllmstxt|>
+## Einhell GC-DP 7035 LL 2-in-1 Combi Pump 700W 240V
+
+{
+  "price": "€103.91 inc VAT (€84.48 exc.vat)",
+  "description": "Einhell GC-DP 7035 LL 2-in-1 Combi Pump, clear water and waste water with one device. When pumping clear water it offers flat suction up to 1mm residual water level. The suction level can be adjusted by a simple rotary movement. The float switch is infinitely height adjustable. A high-quality ceramic/rubber mechanical seal ensures a long service life, and the housing is also made of impact-resistant plastic. The ergonomic carrying handle allows easy transport. A cable winding option is integrated on the housing.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell GC-DP 7035 LL 2-in-1 Combi Pump 700W 240V",
+  "specifications": [
+    "Input Power: 700W",
+    "Max. Delivery Capacity: 16,000 L/hr",
+    "Max. Delivery Height: 8m",
+    "Immersion Depth: 7m",
+    "Max. Particle Size: 35mm",
+    "Hose Connection: 47.8mm (G11/2 IG)",
+    "Max. Water Temp: 35°C",
+    "Power Cord: 10m"
+  ]
+}
+

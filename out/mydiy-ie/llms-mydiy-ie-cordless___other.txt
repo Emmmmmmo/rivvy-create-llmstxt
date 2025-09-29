@@ -1,0 +1,412 @@
+<|https://www.mydiy.ie/products/makita-dmp180z-lxt-cordless-inflator-18v-bare-unit.html-lllmstxt|>
+## Makita DMP180Z LXT Cordless Inflator 18V Bare Unit
+
+{
+  "price": "€87.56 inc VAT (€71.19 exc.vat)",
+  "description": "The Makita DMP180 LXT Cordless Inflator has a built-in motor that delivers up to 120 psi, easily inflating car tyres, sporting equipment and many more applications. Its backlit, digital screen allows the user to select the desired air pressure. Other features include an LED light for convenient use at night and an auto-stop function that automatically shuts down the tool when the desired pressure is reached. Supplied as a Bare Unit - No Battery or Charger. Supplied with: 1 x British Adaptor, 1 x Swim Ring Adaptor, 1 x French Adaptor and 1 x Ball Adaptor.",
+  "availability": "In Stock",
+  "product_name": "Makita DMP180Z LXT Cordless Inflator 18V Bare Unit",
+  "specifications": [
+    "Max. Air Pressure: 0.83 MPa (120 psi)",
+    "Discharge Amount: 0.7 MPa 6.2 L/min., 0.2 MPa 10 L/min",
+    "Duty Cycle: 5 minutes ON / 5 minutes OFF",
+    "Weight (inc. Battery): 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dmp181z-lxt-inflator-18v-bare-unit.html-lllmstxt|>
+## Makita DMP181Z LXT Inflator 18V Bare Unit
+
+{
+  "price": "€126.41 inc VAT (€102.77 exc.vat)",
+  "description": "The Makita DMP181 LXT Inflator for inflating tyres of cars and bicycles, sport balls, and more. With 3 inflation modes (High speed, Low speed or Ball modes). It has a digital pressure gauge with added convenient functions. The machine stops automatically when target pressure is reached. It also remembers the pressure setting last time you power off. Excess air can be released by pressing and holding the air release button. A battery protection circuit protects against overloading, over-discharging and over-heating. Supplied with: 1 x Swim Ring Adaptor, 1 x French Adaptor, 1 x Dunlop Adaptor and 1 x British Adaptor. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DMP181Z LXT Inflator 18V Bare Unit",
+  "specifications": [
+    "Max. Flow Rate: 22 L/min.",
+    "Max. Pressure: 11.1 bar.",
+    "Hose Length: 0.65m."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ce-ap-18-li-solo-power-x-change-air-pump-18v-bare-unit.html-lllmstxt|>
+## Einhell CE-AP 18 Li-Solo Power X-Change Air Pump 18V Bare Unit
+
+{
+  "price": "€42.96 inc VAT (€34.93 exc.vat)",
+  "description": "The Einhell CE-AP 18 Li-Solo Power X-Change Air Pump can be used for inflating rubber dinghies, air mattresses and leisure items or as a workshop blower and for cleaning working surfaces. With the help of two valve adapters, flexible application is ensured. The locking switch allows effortless work, and the LED light ensures optimal lighting even in low lighting conditions. The ergonomic handle increases ease of use. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell CE-AP 18 Li-Solo Power X-Change Air Pump 18V Bare Unit",
+  "specifications": [
+    "Max. Operating Pressure: 0.053 bar",
+    "Max. Air Flow: 670 l/min",
+    "Max. Idle Speed: 18,700/min",
+    "Weight: 0.37kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ce-cc-18-li-solo-power-x-change-car-air-compressor-18v-bare-unit.html-lllmstxt|>
+## Einhell CE-CC 18 Li-Solo Power X-Change Car Air Compressor 18V Bare Unit
+
+{
+  "price": "€54.46 inc VAT (€44.28 exc.vat)",
+  "description": "The Einhell CE-CC 18 Li-Solo Power X-Change Car Air Compressor is ideal for smaller jobs such as inflating car tyres, wheel tyres or balls. Its digital pressure display allows for quick and easy reading of the current settings. The desired pressure can be effortlessly set, up to a maximum of 11 bar. When the set pressure is reached, the car air compressor switches off automatically. You can select between bar, psi and kpa via a push button. Manual inflation is possible at any time without presetting. Comes as a Bare Unit, NO battery or charger. Supplied with a 60cm compressed air hose (with a tyre valve) and 3-piece inflation adaptor set that can be stored directly on the air compressor.",
+  "availability": "In Stock",
+  "product_name": "Einhell CE-CC 18 Li-Solo Power X-Change Car Air Compressor 18V Bare Unit",
+  "specifications": [
+    "Motor Speed: 18,000/min.",
+    "Max. Operating Pressure : 11 bar.",
+    "Max. Motor Output: 110W.",
+    "Compressed Air Hose Length: 60cm.",
+    "Weight: 0.75kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtr180zk-lxt-rebar-tying-tool-18v-bare-unit.html-lllmstxt|>
+## Makita DTR180ZK LXT Rebar Tying Tool 18V Bare Unit
+
+{
+  "price": "€1,489.71 inc VAT (€1,211.15 exc.vat)",
+  "description": "Makita DTR180 LXT Rebar Tying Tool produced for rebars and underfloor heating cables. Easy-to-use, single-handed operation allows positioning of rebars. The strength of tying can be adjusted between 1 and 6, depending on the material. Fitted with a brushless motor which is maintenance-free and provides long-life. A battery protection system automatically shuts off power when the battery level is low. With XPT (Extreme Protection Technology), engineered for improved dust and water resistance for operation in harsh job site conditions. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DTR180ZK LXT Rebar Tying Tool 18V Bare Unit",
+  "specifications": [
+    "18V Bare Unit",
+    "Brushless motor",
+    "Adjustable tying strength (1-6)",
+    "XPT for dust and water resistance",
+    "Single-handed operation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtr181zj-lxt-rebar-tying-tool-18v-bare-unit.html-lllmstxt|>
+## Makita DTR181ZJ LXT Rebar Tying Tool 18V Bare Unit
+
+{
+  "price": "€1,489.71 inc VAT (€1,211.15 exc.vat)",
+  "description": "Makita DTR181 LXT Rebar Tying Tool for tying underfloor heating cables and rebars. Its also compatible with thick rebars (D22 x D25). Easy-to-use, single-handed operation allows positioning of rebars. Tie wire reel can be replaced simply by opening the reel cover. Fitted with a brushless motor which is maintenance-free and provides long-life. A battery protection system automatically shuts off power when the battery level is low. With XPT (Extreme Protection Technology), engineered for improved dust and water resistance for operation in harsh job site conditions. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DTR181ZJ LXT Rebar Tying Tool 18V Bare Unit",
+  "specifications": [
+    "Compatible with thick rebars (D22 x D25)",
+    "Single-handed operation",
+    "Brushless motor for maintenance-free use",
+    "Battery protection system",
+    "XPT for dust and water resistance",
+    "Bare unit (no battery or charger)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf513n-xr-38in-open-head-ratchet-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCF513N XR 3/8in Open Head Ratchet 18V Bare Unit
+
+{
+  "price": "€240.81 inc VAT (€195.78 exc.vat)",
+  "description": "The DEWALT DCF513 XR 3/8in Open Head Ratchet has a brushless motor that delivers up to 81Nm Torque, ideal for use with a wide variety of fastener sizes and applications. It also has a variable speed trigger that helps you alter output based on the application. The narrow motor design ensures easier access into tight spaces. Ergonomic soft grips increase comfort and reduce fatigue. There is also an LED work light, ideal when working in dark spaces. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF513N XR 3/8in Open Head Ratchet 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 250/min.",
+    "Max. Fastening Torque: 81Nm",
+    "Length: 360mm",
+    "Weight: 1.08kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf512-xr-12in-open-head-ratchet.html-lllmstxt|>
+## DEWALT DCF512 XR 1/2in Open Head Ratchet
+
+{
+  "price": "€247.81 inc VAT",
+  "description": "The DEWALT DCF512 XR 1/2in Open Head Ratchet has a brushless motor that delivers up to 95Nm Torque, ideal for use with a wide variety of fastener sizes and applications. It has a variable speed trigger that helps you alter output based on the application. The narrow motor design ensures easier access into tight spaces, whilst ergonomic soft grips increase comfort and reduce fatigue. There is also an LED work light, ideal when working in dark spaces.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF512 XR 1/2in Open Head Ratchet",
+  "specifications": [
+    "No Load Speed: 250/min",
+    "Max. Fastening Torque: 95Nm",
+    "Length: 388mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf503-xr-38in-open-head-ratchet.html-lllmstxt|>
+## DEWALT DCF503 XR 3/8in Open Head Ratchet
+
+{
+  "price": "€242.57 inc VAT",
+  "description": "The DEWALT DCF503 XR 3/8in Open Head Ratchet has a brushless motor that delivers up to 81Nm Torque, ideal for use with a wide variety of fastener sizes and applications. It has a variable speed trigger that helps you alter output based on the application. The narrow motor design ensures easier access into tight spaces. Ergonomic soft grips increase comfort and reduce fatigue. Its glass-filled nylon housing provides added strength and protects from oils and solvents. There is also a bright LED work light, ideal when working in dark spaces.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF503 XR 3/8in Open Head Ratchet",
+  "specifications": [
+    "No Load Speed: 250/min",
+    "Max. Fastening Torque: 81Nm",
+    "Length: 345mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf504-xr-14in-open-head-ratchet.html-lllmstxt|>
+## DEWALT DCF504 XR 1/4in Open Head Ratchet
+
+{
+  "price": "€242.57 inc VAT",
+  "description": "The DEWALT DCF504 XR 1/4in Open Head Ratchet has a brushless motor that delivers up to 95Nm Torque, ideal for use with a wide variety of fastener sizes and applications. It has a variable speed trigger that helps you alter output based on the application. The narrow motor design ensures easier access into tight spaces. Ergonomic soft grips increase comfort and reduce fatigue. Its glass-filled nylon housing provides added strength and protects from oils and solvents. There is also a bright LED work light, ideal when working in dark spaces.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF504 XR 1/4in Open Head Ratchet",
+  "specifications": [
+    "No Load Speed: 250/min",
+    "Max. Fastening Torque: 95Nm",
+    "Length: 345mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf503en-xr-38in-open-head-extended-ratchet-12v-bare-unit.html-lllmstxt|>
+## DEWALT DCF503EN XR 3/8in Open Head Extended Ratchet 12V Bare Unit
+
+{
+  "price": "€242.57 inc VAT (€197.21 exc.vat)",
+  "description": "The DEWALT DCF503EN XR 3/8in Open Head Extended Ratchet has a brushless motor delivering up to 80Nm torque, ideal for use with a wide variety of fastener sizes and applications. This 3/8in ratchet has a variable speed trigger helping alter output based on the application. The narrow motor design ensures easier access into tight spaces, while the ergonomic soft grips increase comfort and reduce fatigue. The glass-filled nylon housing provides added strength, and protects from oils and solvents. The bright LED work light is ideal when working in dark spaces. This is a 12V Bare Unit.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF503EN XR 3/8in Open Head Extended Ratchet 12V Bare Unit",
+  "specifications": [
+    "No Load Speed: 250/min",
+    "Max. Fastening Torque: 81Nm",
+    "Length: 429mm",
+    "Weight: 1.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf500n-xr-14in-and-38in-sealed-head-ratchet-12v-bare-unit.html-lllmstxt|>
+## DEWALT DCF500N XR 1/4in & 3/8in Sealed Head Ratchet 12V Bare Unit
+
+{
+  "price": "€247.81 inc VAT (€201.47 exc.vat)",
+  "description": "The DEWALT DCF500 XR Sealed Head Ratchet comes with a range of interchangeable anvils to suit a wide variety of jobs. Its durable sealed head increases the overall strength of the tool as well as letting you gain access to hard to reach locations. The brushless motor delivers up to 75Nm Torque, ideal for use with a wide variety of fastener sizes and applications. Its narrow motor design ensures easier access into tight spaces. A variable speed trigger helps you to alter output based on the application. The ergonomic soft grip increases user comfort and helps to reduce fatigue. Its glass-filled nylon housing provides added strength and protects from oils and solvents. There is also a bright LED work light, ideal when working in dark spaces. Comes as a Bare Unit, NO battery or charger. Supplied with: 1 x 1/4in Square Drive Anvil, 1 x 3/8in Square Drive Anvil and 1 x 1/4in Quick Change Hex Anvil.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF500N XR 1/4in & 3/8in Sealed Head Ratchet 12V Bare Unit",
+  "specifications": [
+    "No Load Speed: 450/min.",
+    "Max. Fastening Torque: 75Nm.",
+    "Length: 305mm."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf510n-xr-38in-and-12in-sealed-head-ratchet-12v-bare-unit.html-lllmstxt|>
+## DEWALT DCF510N XR 3/8in & 1/2in Sealed Head Ratchet 12V Bare Unit
+
+{
+  "price": "€265.25 inc VAT (€215.65 exc.vat)",
+  "description": "The DEWALT DCF510 XR Sealed Head Ratchet comes with two interchangeable anvils to suit a wide variety of jobs. Its durable sealed head increases the overall strength of the tool as well as letting you gain access to hard to reach locations. The brushless motor delivers up to 102Nm Torque, ideal for use with a wide variety of fastener sizes and applications. Its narrow motor design ensures easier access into tight spaces. A variable speed trigger helps you to alter output based on the application. The ergonomic soft grip increases user comfort and helps to reduce fatigue. Its glass-filled nylon housing provides added strength and protects from oils and solvents. There is also a bright LED work light, ideal when working in dark spaces. Comes as a Bare Unit, NO battery or charger. Supplied with: 1 x 3/8in Square Drive Anvil and 1 x 1/2in Square Drive Anvil.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF510N XR 3/8in & 1/2in Sealed Head Ratchet 12V Bare Unit",
+  "specifications": [
+    "No Load Speed: 300/min",
+    "Max. Fastening Torque: 102Nm",
+    "Length: 420mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dhg181zj-lxt-heat-gun-18v-bare-unit.html-lllmstxt|>
+## Makita DHG181ZJ LXT Heat Gun 18V Bare Unit
+
+{
+  "price": "€187.64 inc VAT (€152.55 exc.vat)",
+  "description": "The Makita DHG181 LXT Heat Gun has 2 speed settings for airflow and is ideal for a wide range of tasks, such as putting up wall paper, drying or removal of paint and more. Its trigger switch has a lock off feature, reducing fatique on longer tasks. An anti-restart function and overload protection increase user safety. Its tool-less nozzle change system is combined with a quick release mechanism for easy nozzle replacement. There is also an LED job light with afterglow. Supplied with: 1 x Glass Protection Nozzle, 1 x Wide Slot Nozzle, 1 x Reflector Nozzle, 1 x Reduction Nozzle and 1 x Type 2 MAKPAC Connector Case.",
+  "availability": "In Stock",
+  "product_name": "Makita DHG181ZJ LXT Heat Gun 18V Bare Unit",
+  "specifications": [
+    "Airflow: 120/200 L/min",
+    "Max. Air Temperature: 550°C",
+    "Weight: 1.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-ha-18-li---solo-hot-air-gun-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-HA 18 Li - Solo Hot Air Gun 18V Bare Unit
+
+{
+  "price": "€67.60 inc VAT (€54.96 exc.vat)",
+  "description": "The Einhell TE-HA 18 Li - Solo Hot Air Gun with 2 temperature levels and an LED display. Overheating protection ensures safe operation. The mechanical nozzle ejection makes it easy to remove and change nozzles. Its ergonomic handle with softgrip ensures a firm, secure grip. The gun can be layed on its back, this support surface is stable and safe, ideal for stationary use. There is also a retractable metal hook for flexible working and storage. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This circular saw comes as a Bare Unit, NO battery or charger. 2.5Ah batteries or higher are recommended for best results. Supplied with: 1 x Reducer Nozzle, 1 x Wide Jet Nozzle and 1 x Reflector Nozzle.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-HA 18 Li - Solo Hot Air Gun 18V Bare Unit",
+  "specifications": [
+    "Airflow Rate: 200 L/min",
+    "Air Temperature: 350/550°C",
+    "Weight: 0.62kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcmb562-xr-brushless-axial-blower.html-lllmstxt|>
+## DEWALT DCMB562 XR Brushless Axial Blower
+
+{
+  "price": "€165.40 inc VAT",
+  "description": "The DEWALT DCMB562 XR Brushless Axial Blower delivers fast, efficient clean-ups, both indoors and outside. Its brushless motor has been designed to run cooler and more efficiently, enabling more power to be delivered during applications, resulting in less wear and increased longevity of the tool. The Aerospike Concentrator focuses airflow and increases speed for maximum productivity. It also doubles as a robust scraper, effectively removing impacted leaves, moss, mud, grime and other embedded matter. This versatile and powerful cordless blower will be welcomed by an array of professional users including construction teams, carpenters, metal and woodworkers, gardeners, landscapers, park clean-up workers and clearance specialists.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCMB562 XR Brushless Axial Blower",
+  "specifications": [
+    "Max. Air Speed: 200km/h",
+    "Weight: 3.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dub186rt-lxt-blower-18v-1-x-50ah-li-ion.html-lllmstxt|>
+## Makita DUB186RT LXT Blower 18V 1 x 5.0Ah Li-ion
+
+{
+  "price": "€196.74 inc VAT (€159.95 exc.vat)",
+  "description": "The Makita DUB186 LXT Blower provides approximately 20% more power than the previous model. The long blower nozzle makes it ideal for clearing gardens and pathways. It has 3 air volume settings and a variable speed that can be changed at the push of a button. Plus, it's lightweight, weighing only 2.1kg with a battery, so it's easy to manoeuvre and comfortable to carry. When powered with a BL1850B 5.0Ah battery, the blower will last for a run time of 2 hours.",
+  "availability": "In Stock",
+  "product_name": "Makita DUB186RT LXT Blower 18V 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 0-18,000/min.",
+    "Max. Air Velocity: 244.8km/hr.",
+    "Max. Air Volume: 3.2m³/min.",
+    "Blowing Force: 2.5N",
+    "Weight (with battery): 2.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dub184rt-bl-lxt-blower-18v-1-x-50ah-li-ion.html-lllmstxt|>
+## Makita DUB184RT BL LXT Blower 18V 1 x 5.0Ah Li-ion
+
+{
+  "price": "€266.86 inc VAT (€216.96 exc.vat)",
+  "description": "The Makita DUB184 Brushless LXT Blower clears leaves and garden debris easily. It has a cruise control function that allows you to lock the variable speed control trigger at the desired power level. The best grip-to-frame angle provides the optimum nozzle-to-ground angle for efficient sweeping operation. Other benefits include variable speed, lock-on function and constant speed control. Supplied with: 1 x 18V 5.0Ah Li-ion Battery and 1 x 14.4-18V DC18RC Compact Charger.",
+  "availability": "In Stock",
+  "product_name": "Makita DUB184RT BL LXT Blower 18V 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "Max. Air Velocity: 52.1 m/s",
+    "Max. Air Volume: 13.0 m³/min.",
+    "Weight: 3.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dub186z-lxt-blower-18v-bare-unit.html-lllmstxt|>
+## Makita DUB186Z LXT Blower 18V Bare Unit
+
+{
+  "price": "€98.02 inc VAT (€79.69 exc.vat)",
+  "description": "The Makita DUB186Z LXT Blower has a variable speed control trigger with 3 air volume settings: low, medium and high. Its compact, lightweight design incorporates an ergonomic soft grip for added comfort and control. Equipped with a battery protection circuit which is designed to protect the battery from damages due to over-discharge, high temperature, or overload current. Supplied with a long nozzle. Supplied as a Bare Unit - No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DUB186Z LXT Blower 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-18,000 rpm",
+    "Max. Air Speed: 68 m/sec.",
+    "Max. Air Flow Rate: 3.2 m³/min.",
+    "Weight: 2.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dub187z-lxt-bl-blower-vacuum-18v-bare-unit.html-lllmstxt|>
+## Makita DUB187Z LXT BL Blower Vacuum 18V Bare Unit
+
+{
+  "price": "€239.90 inc VAT (€195.04 exc.vat)",
+  "description": "Makita DUB187 LXT BL Blower Vacuum with variable speed control by trigger plus Cruise control. Easy to operate with a single action lever for blower/vacuum mode selection. There is also a lock-on button for continuous operation. Its lightweight design incorporates two casters for easy manoeuvring. The soft grip provides increased comfort on the job. A battery protection system automatically shuts off power when the battery level is low. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DUB187Z LXT BL Blower Vacuum 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000-13,500/min.",
+    "Max. Air Velocity: 64 m/s.",
+    "Air Volume: 4.2 m³/min.",
+    "Max. Sealed Suction: 33 mbar.",
+    "Weight: 3.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dcf102z-lxt-portable-fan-14418v-bare-unit.html-lllmstxt|>
+## Makita DCF102Z LXT Portable Fan 14.4/18V Bare Unit
+
+{
+  "price": "€68.36 inc VAT (€55.58 exc.vat)",
+  "description": "Makita DCF102 LXT Portable Fan with three air flow settings and a compact design to fit in a small space. Brings added comfort in hot weather and speeds up drying of paint or filler. It has a 45 degree pendulum action, left and right. A battery protection system automatically shuts off power when the battery level is low. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DCF102Z LXT Portable Fan 14.4/18V Bare Unit",
+  "specifications": [
+    "Max. Air Velocity: 3.0, 2.5, 2.0 m/s",
+    "Air Volume: 4.6 / 3.8 / 3.0 m³/min",
+    "Diameter: 180mm",
+    "Max. Bevel Range: (Left) 45 º",
+    "Nominal Battery Voltage: 14,4 /18V"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dcf301z-lxt-portable-fan-14418v-bare-unit.html-lllmstxt|>
+## Makita DCF301Z LXT Portable Fan 14.4/18V Bare Unit
+
+{
+  "price": "€158.66 inc VAT (€128.99 exc.vat)",
+  "description": "Makita DCF301 LXT Portable Fan comes with three speed settings and oscillation selector for optimal air velocity and control. Designed for reduced wind noise level for quiet operation. Tilts up and down and rotates left to right for convenient redirection of air flow. Strong enough to create a comfortable work environment under hot weather conditions. Designed to withstand harsh job site environments and can be loaded on to a tripod if desired. An easily removable fan cover allows for convenient clean-up. The battery protection system automatically shuts off power when the battery level is low. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DCF301Z LXT Portable Fan 14.4/18V Bare Unit",
+  "specifications": [
+    "Max. Air Velocity: 4.0 / 2.8 / 2.0 m/s",
+    "Air Volume: 21 / 15 / 10 m³/min",
+    "Diameter: 330mm",
+    "Max. Bevel Range: (Left) 45 º",
+    "Nominal Battery Voltage: 14,4 /18V"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-das180z-lxt-dust-blower-18v-bare-unit.html-lllmstxt|>
+## Makita DAS180Z LXT Dust Blower 18V Bare Unit
+
+{
+  "price": "€171.56 inc VAT (€139.48 exc.vat)",
+  "description": "Makita DAS180 LXT Dust Blower with a variety of tip nozzles, ideal for a wide range of applications from professional use to home use. Fitted with a brushless, maintenance-free and long-life motor. 4 stage air volume and variable speed control allow you to select the correct speed, whatever your need. An ergonomic handle provides increased comfort. A battery capacity warning function automatically notifies the user about reduction in battery capacity with the decrease of illuminance. The battery protection system automatically shuts off power when the battery level is low. Supplied with: 1 x Narrow Nozzle, 1 x Nozzle for cleaning filter, 1 x Blower Nozzle, 1 x Nozzle for inflating and 1 x Wide Nozzle.",
+  "availability": "In Stock",
+  "product_name": "Makita DAS180Z LXT Dust Blower 18V Bare Unit",
+  "specifications": [
+    "Max. Air Velocity: 0 - 200 m/s",
+    "Blowing Force: 0 - 1.1 / 1.7 / 2.3 / 2.8N",
+    "Air Volume: 0 - 1.1 m³/min",
+    "Max. Sealed Suction: 103 mbar",
+    "Max. Pressure: 0.297 bar"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dub184z-bl-lxt-blower-18v-bare-unit.html-lllmstxt|>
+## Makita DUB184Z BL LXT Blower 18V Bare Unit
+
+{
+  "price": "€176.70 inc VAT (€143.66 exc.vat)",
+  "description": "The Makita DUB184Z Brushless LXT Blower has a powerful brushless motor for increased durability. A cruise control lever allows you to lock the variable speed control trigger at the desired power level, decreasing fatigue over longer operating periods. The design provides optimum nozzle to ground angle for efficient sweeping. Comes as a Bare Unit, No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DUB184Z BL LXT Blower 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-18,000/min.",
+    "Max. Air Speed: 52.1 m/sec.",
+    "Max. Air Flow Rate: 13.0 m³/min.",
+    "Weight: 3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcmbl777-flexvolt-xr-axial-blower.html-lllmstxt|>
+## DEWALT DCMBL777 FlexVolt XR Axial Blower
+
+{
+  "price": "€314.40 inc VAT",
+  "description": "The DEWALT DCMBL777 FlexVolt XR Axial Blower delivers powerful performance for quick and effortless cleanups. Its variable speed feature allows users to adjust the airflow according to the task at hand, with blowing speeds of up to 200 km/h. The efficient brushless motor not only enhances power but also extends the working time per battery charge, providing up to 15 minutes of continuous operation. The blower's ergonomic design ensures ease of use, making it comfortable for extended periods of use.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCMBL777 FlexVolt XR Axial Blower",
+  "specifications": [
+    "Air Volume: 600 NL cfm",
+    "Blowing Speeds: 200 km/h",
+    "Weight: 3.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-cb-18180-li-solo-blower-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-CB 18/180 Li-Solo Blower 18V Bare Unit
+
+{
+  "price": "€38.31 inc VAT (€31.15 exc.vat)",
+  "description": "The Einhell TE-CB 18/180 Li-Solo Blower has a multitude of use on the construction site and in the workshop. Tripping hazards caused by electric cables are a thing of the past thanks to its cordless design. A powerful airflow of up to 180 km/h blows away disruptive dust and chips. Its soft grip handle reduces user fatigue and is pleasant to hold. The 2 speed levels ensure application-oriented work. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This blower comes as a Bare Unit, NO battery or charger. Supplied with three different inflation adapters that allow for a wide range of applications.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-CB 18/180 Li-Solo Blower 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 11,500/15,500/min.",
+    "Blow Velocity: 130/180 km/h.",
+    "Weight: 0.9kg."
+  ]
+}
+

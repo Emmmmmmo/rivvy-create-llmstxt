@@ -1,0 +1,33 @@
+<|https://www.mydiy.ie/products/makita-dpo600z-cordless-random-orbit-polisher-bare-unit-18v.html-lllmstxt|>
+## Makita DPO600Z Cordless Random Orbit Polisher Bare Unit 18V
+
+{
+  "price": "€380.83 inc VAT (€309.62 exc.vat)",
+  "description": "The Makita DPO600 Brushless Random Orbit Polisher has 2-modes of operation: Normal Mode: orbital action with forced rotation of the pad for rough polishing such as surface treatment; Finishing Mode: orbital action with free rotation of the pad for fine polishing. Whilst the soft start feature provides increased safety and control. There is also a lock-on function and ergonomic soft grip for reduced fatigue during long periods of operation. The tool can be rested upside down without damaging the workpiece, thanks to elastomer bumpers. Comes as a Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Makita DPO600Z Cordless Random Orbit Polisher Bare Unit 18V",
+  "specifications": [
+    "Oscillating Speed (Normal/Finishing Mode): 0-6,800/0-5,200/min.",
+    "Strokes Per Minute (Normal/Finishing Mode): 0-13,600/0-10,400/spm",
+    "Orbit Diameter: 5.5mm",
+    "Max. Polishing Pad Diameter: 150mm",
+    "Weight: 3.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ce-cp-18180-li-e-solo-power-x-change-polisher-180mm-18v-bare-unit.html-lllmstxt|>
+## Einhell CE-CP 18/180 Li E-Solo Power X-Change Polisher 180mm 18V Bare Unit
+
+{
+  "price": "€124.13 inc VAT (€100.92 exc.vat)",
+  "description": "The Einhell CE-CP 18/180 Li E-Solo Power X-Change Polisher is powered by the Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. After registering online, the brushless motor comes with a 10-year warranty. A large polishing disk with a diameter of 180 millimetres enables speedy work. Thanks to the electronic speed control via LCD display, DIY enthusiasts can adjust the speed to each specific application easily and with just a glance. For comfortable operation there is an ergonomic handle. The hook-and-loop fastener enables attachments to be changed quickly. For unproblematic fastening of the polishing disk there is a spindle locking system. Offers the freedom of cordless operation for the user on jobs in the home, work shed and garage. Comes as a Bare Unit, NO battery or charger. For optimum results the use of the 2. Ah battery or higher from Einhell is recommended.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell CE-CP 18/180 Li E-Solo Power X-Change Polisher 180mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 500-3,000/min.",
+    "Polishing Pad Diameter: 180mm.",
+    "Tool Holder Diameter: 14mm.",
+    "Weight: 1.28kg."
+  ]
+}
+

@@ -1,0 +1,2077 @@
+<|https://www.mydiy.ie/products/makita-ga4030r-100mm-anti-restart-angle-grinder.html-lllmstxt|>
+## Makita GA4030R 100mm Anti-Restart Angle Grinder
+
+{
+  "price": "€74.82 inc VAT",
+  "description": "The Makita GA4030R 100mm Angle Grinder has machined bevel gears with an anti-restart function and soft start feature. Its small gear housing makes it easy to handle and move. Fitted with a powerful motor that offers excellent heat-resistance. The side handle has been fitted at a 20° angle to improve user grip. Fitted with the best ergonomically possible barrel grip. Regardless of whether the user grips motor housing or rear cover, the extra-ergonomic barrel grip fits any user’s palm and fingers perfectly, and provides easy and comfortable handling while minimising hand fatigue and pain. There is also a lock-on switch to reduce user fatigue. Supplied with: 1 x Grinding Wheel, 1 x Wrench & 1 x Side Handle",
+  "availability": "In Stock",
+  "product_name": "Makita GA4030R 100mm Anti-Restart Angle Grinder",
+  "specifications": [
+    "Input Power: 720W",
+    "No Load Speed: 11,000/min.",
+    "Wheel Size: 125 x 22.23mm Bore",
+    "Weight: 1.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-angle-grinder-115mm-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Angle Grinder 115mm 18V Bare Unit
+
+{
+  "price": "€62.67 inc VAT (€50.95 exc.vat)",
+  "description": "The Batavia MAXXPACK Angle Grinder is suitable for grinding and deburring. Lightweight and easy to handle thanks to its slim handle design. Its additional side handle can be mounted in 3 positions. A spindle lock makes it easy to change the disc. Comes with: 1 x Additional Handle and 1 x Spanner Wrench. No Battery or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Angle Grinder 115mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 8,000/min.",
+    "Disc Diameter: 115mm.",
+    "Axle Thread: M14.",
+    "Weight: 1.65kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-brushless-angle-grinder-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Brushless Angle Grinder 18V Bare Unit
+
+{
+  "price": "€86.74 inc VAT (€70.52 exc.vat)",
+  "description": "The Batavia MAXXPACK Angle Grinder is fitted with a brushless motor for increased run time and longer life. Suitable for grinding and cutting tasks. For added safety there is a tool-less safety guard and a spindle lock for easy disc change. The slim, ergonomic hand grip provides a secure hold. The side handle can be mounted in 3 different positions depending on the required task. Supplied with: 1 x Side Handle and 1 x Spanner. Comes as a Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Brushless Angle Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 8,500/min.",
+    "Disc Diameter: 115mm.",
+    "Drive Shaft Thread: M14.",
+    "Sound Pressure Level LpA: 86.80 dB(A).",
+    "Weight: 1.78kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-fixxpack-angle-grinder-76mm-12v-bare-unit.html-lllmstxt|>
+## Batavia FIXXPACK Angle Grinder 76mm 12V Bare Unit
+
+{
+  "price": "€45.51 inc VAT (€37.00 exc.vat)",
+  "description": "The Batavia FIXXPACK Angle Grinder can grind and deburr a great variety of materials, like (copper, aluminum, metal, and steel) pipes, cable channels, tiles, and stucco. Its lightweight, compact design incorporates a soft grip handle to provide a secure hold. A protective cover helps protect you from flying debris. The spindle lock function provides a safe and easy change of the grinding disc. Part of the FIXXPACK collection. Within the FIXXPACK collection you can use different power tools, with only one battery and charger. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Batavia FIXXPACK Angle Grinder 76mm 12V Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-12,000/0-19,500/min.",
+    "Disc Diameter: 76mm",
+    "Weight: 0.71kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-fixxpack-ratchet-wrench-12v-bare-unit.html-lllmstxt|>
+## Batavia FIXXPACK Ratchet Wrench 12V Bare Unit
+
+{
+  "price": "€51.19 inc VAT (€41.62 exc.vat)",
+  "description": "The Batavia FIXXPACK Ratchet Wrench tightens and loosens nuts and bolts more efficiently than hand ratchet wrenches. It can also be used as a ratchet without charge if needed. A variable speed trigger, which provides extra control over the tool. Thanks to the compact design and the low-profile head, you can tighten and loosen nuts and bolts in hard to reach places. There is also a handy LED light, so you can always see where you are working, even under the hood of the car or in dimly lit environments. Part of the FIXXPACK collection. Within the FIXXPACK collection you can use different power tools, with only one battery and charger. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Batavia FIXXPACK Ratchet Wrench 12V Bare Unit",
+  "specifications": [
+    "Bit Holder: 3/8in.",
+    "No Load Speed: 0-300/min.",
+    "Max. Torque: 45Nm.",
+    "Weight: 0.68kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-agv-22-230-dms-angle-grinder-2200w-240v.html-lllmstxt|>
+## Milwaukee Power Tools AGV 22-230 DMS Angle Grinder 2200W 240V
+
+{
+  "price": "€223.20 inc VAT (€181.46 exc.vat)",
+  "description": "The Milwaukee AGV 22-230 DMS Angle Grinder has a powerful motor with powder field coating for long life time and outstanding performance in all applications. Soft start provides a smooth start up. External brush doors for easy access to the brushes for fast servicing. It has an extremely compact design for comfortable handling. Supplied with a 2-position, anti-vibration side handle for less vibrations to the user and more comfortable work. Fitted with a 4m rubber cable for increased freedom when working.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools AGV 22-230 DMS Angle Grinder 2200W 240V",
+  "specifications": [
+    "Input Power: 2,200W",
+    "No Load Speed: 6,600/min",
+    "Disc Diameter: 230mm",
+    "Spindle: M14",
+    "Overall Length: 485mm",
+    "Weight: 5.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-blsag115xpd-402x-paddle-switch-angle-grinder-18v-2-x-40ah-li-ion.html-lllmstxt|>
+## Milwaukee Power Tools M18 BLSAG115XPD-402X Paddle Switch Angle Grinder 18V 2 x 4.0Ah Li-ion
+
+{
+  "price": "€379.59 inc VAT (€308.61 exc.vat)",
+  "description": "The Milwaukee M18 BLSAG115XPD-402X Angle Grinder has a non-lockable safety paddle switch with a line-lock-out function to prevent automatic start up. The brushless motor and REDLINK™ electronic deliver power, run time and durability. An integrated dust screen prevents debris entrance, prolonging motor life. It has a lightweight, compact design with a slim handle for comfortable handling. A safety clutch protects user the from kickback injuries. Utilises the FIXTEC™ system for tool-free wheel change. Flexible battery system: works with all MILWAUKEE® M18™ batteries. Supplied with: 2 x 18V 4.0Ah Li-ion Batteries, 1 x M12™ - M18™ Charger and 1 x HD Box.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools M18 BLSAG115XPD-402X Paddle Switch Angle Grinder 18V 2 x 4.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 11,000/min.",
+    "Cutting Depth: 28mm.",
+    "Disc Diameter: 115mm."
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fhsag125xpdb-552x-fuel-paddle-switch-angle-grinder-18v-2-x-55ah-li-ion.html-lllmstxt|>
+## Milwaukee Power Tools M18 FHSAG125XPDB-552X Fuel™ Paddle Switch Angle Grinder 18V 2 x 5.5Ah Li-ion
+
+{
+  "price": "€353.33 inc VAT (€287.26 exc.vat)",
+  "description": "The Milwaukee M18 FHSAG125XPDB Fuel™ Paddle Switch Angle Grinder features a non-lockable safety paddle switch with line-lock-out function to prevent automatic start up. A removable dust screen prevents debris entrance, prolonging motor life. Fitted with an anti-vibration side handle for lower vibration and a FIXTEC™ nut for tool-free disc change. Extremely safe, RAPIDSTOP™ enables fast disc braking, less than 2.5 seconds and best user protection. The 125mm keyless guard provides a great cutting capacity and fast guard adjustment without using a key. The HIGH OUTPUT™ system of tools elevates the M18 FUEL™ technologies to a new level and delivers extended performance and extended run time. These tools are designed to maximise the partnership with HIGH OUTPUT™ batteries. Flexible battery system: works with all MILWAUKEE® M18™ batteries. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools M18 FHSAG125XPDB-552X Fuel™ Paddle Switch Angle Grinder 18V 2 x 5.5Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm.",
+    "Spindle: M14.",
+    "Weight: 3.4kg (with battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-ag-800-115e-angle-grinder.html-lllmstxt|>
+## Milwaukee Power Tools AG 800-115E Angle Grinder
+
+{
+  "price": "€110.70 inc VAT",
+  "description": "The Milwaukee AG 800-115E Angle Grinder has a powerful motor for various applications. Soft start provides a smooth start up and the durable steel gears increase working life. The flat metal gear head provides excellent visibility of workpiece, optimised cutting depth and work in restricted areas. A line lock out function prevents automatic start up after power breakdown. It has a very compact and slim body grip design for comfortable use during longer working periods.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools AG 800-115E Angle Grinder",
+  "specifications": [
+    "Input Power: 800W",
+    "No Load Speed: 11,500/min",
+    "Disc Diameter: 115mm",
+    "Spindle: M14",
+    "Weight: 2.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tp-ag-18125-ce-q-li-solo-pro-angle-grinder-18v-bare-unit.html-lllmstxt|>
+## Einhell TP-AG 18/125 CE Q Li-Solo Pro Angle Grinder 18V Bare Unit
+
+{
+  "price": "€132.07 inc VAT (€107.37 exc.vat)",
+  "description": "The Einhell TP-AG 18/125 CE Q Li-Solo Pro Angle Grinder is a practical tool for grinding, cutting, roughing and polishing. Powered by a powerful brushless motor. Brushless motors are more efficient, more powerful and more durable than brush motors. What's more, no maintenance whatsoever is required with brushless motors. Thanks to its powerful motor, the cordless angle grinder delivers the same power as a corresponding corded device with 900W. It can be flexibly adapted to the respective material and the various applications via speed control. Continuous speed electronics ensure consistent performance without loss of speed, even under high loads. The quick-release nut makes it possible to quickly change the cutting disc without tools. Its additional handle can be mounted in two positions and features softgrip surfaces for comfortable handling. Maximum flexibility is offered by the disc guard with quick adjustment, which can be adapted to the respective working position. An integrated dust screen protects the interior of the device from dirt and, in combination with the intelligent air ducting, increases the service life. For cleaning, the grille can be easily removed. An overload protection prevents overheating damage and soft start and restart protection ensure high safety during work. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Comes as a Bare Unit - No Battery or Charger supplied. Supplied without cutting and grinding wheels (sold separately).",
+  "availability": "In Stock",
+  "product_name": "Einhell TP-AG 18/125 CE Q Li-Solo Pro Angle Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 3,000-10,500min.",
+    "Disc Diameter: 125mm.",
+    "Weight: 1.7kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-180-pc-biturbo-angle-grinder-180mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-180 PC BITURBO Angle Grinder 180mm 18V Bare Unit
+
+{
+  "price": "€351.89 inc VAT (€286.09 exc.vat)",
+  "description": "Bosch GWS 18V-180 PC BITURBO Angle Grinder reaches the same cutting depth as a 230mm large angle grinder but with up to 35% less weight. BITURBO Brushless technology provides enough power for fast cutting in multiple materials. Built-in high user protection, the PROtection switch immediately shuts off the angle grinder as soon as the switch is released and KickBack Control prevents unexpected kickback, while the Intelligent Brake System shortens the braking time considerably. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance. Supplied with: 1 x Standard for Universal Diamond Disc 180 x 22.23mm, 2 x Expert for Inox Rapido Cutting Discs 180 x 22.23mm, 1 x Pin-type Face-wrench, 1 x Metal Protective Clip-on Cutting Guard, 1 x Vibration Control Auxiliary Handle with Extension, 1 x Locking Nut, 1 x Backing Flange and 1 x Protective Guard.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-180 PC BITURBO Angle Grinder 180mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 6,100/min.",
+    "Disc Diameter: 180mm.",
+    "Bore Size: 22.23mm.",
+    "Grinding Spindle Thread: M14.",
+    "Weight: 2.8kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-7-professional-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-7 Professional Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€155.00 inc VAT (€126.02 exc.vat)",
+  "description": "Bosch GWS 18V-7 Professional Angle Grinder with a powerful brushless motor provides the same power as a corded 700W grinder. Its light weight, the slim grip size, and the keyless guard ensure convenient and comfortable working. Optimised for versatile cutting, this angle grinder’s perfect ergonomics are safeguarded by its balanced design and the slim handle. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 18V-7 Professional Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 11,000/min.",
+    "Disc Diameter: 125mm.",
+    "Spindle: 22.23mm.",
+    "Weight: 1.6kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-7-professional-angle-grinder-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-7 Professional Angle Grinder 18V Bare Unit
+
+{
+  "price": "€174.96 inc VAT (€142.24 exc.vat)",
+  "description": "The Bosch GWS 18V-7 Angle Grinder is fitted with a durable brushless motor delivering the same power as a 700W corded angle grinder. Optimised design for versatile cutting in all work environments. A lightweight, slim grip design and keyless guard ensure comfortable and safe working. Ideal for all cutting tasks in metal, tiles or bricks. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-7 Professional Angle Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 11,000/min.",
+    "Disc Diameter: 115mm.",
+    "Arbor: 22.2mm.",
+    "Grinding Spindle Thread: M14.",
+    "Weight: 1.6kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-7-professional-angle-grinder-115mm-18v-2-x-40ah-li-ion.html-lllmstxt|>
+## Bosch GWS 18V-7 Professional Angle Grinder 115mm 18V 2 x 4.0Ah Li-ion
+
+{
+  "price": "€425.85 inc VAT (€346.22 exc.vat)",
+  "description": "Bosch GWS 18V-7 Professional Angle Grinder with a powerful brushless motor provides the same power as a corded 700W grinder. Its light weight, the slim grip size, and the keyless guard ensure convenient and comfortable working. Optimised for versatile cutting, this angle grinder’s perfect ergonomics are safeguarded by its balanced design and the slim handle. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance. Supplied with: 1 x Backing Flange, 1 x Locking Nut, 1 x Auxiliary Handle, 1 x Two Hole Spanner, 1 x Protective Guard, 2 x 18V 4.0Ah Li-ion Batteries, 1 x GAL 18V-40 Fast Charger and 1 x L-Boxx 136 with Inlay.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 18V-7 Professional Angle Grinder 115mm 18V 2 x 4.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 11,000/min.",
+    "Disc Diameter: 115mm.",
+    "Spindle: 22.23mm.",
+    "Weight: 1.6kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gwx-18v-7-professional-x-lock-angle-grinder-115mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWX 18V-7 Professional X-LOCK Angle Grinder 115mm 18V Bare Unit
+
+{
+  "price": "€174.87 inc VAT (€142.17 exc.vat)",
+  "description": "Bosch GWX 18V-7 Professional X-LOCK Angle Grinder with a brushless motor, provides the equal of 700W output from a corded angle grinder for reliable working. Thanks to the keyless X-LOCK system, accessory changes are completed in a flash, so users can focus on what really matters: the task at hand. Its lightweight design and the slim grip size enable convenient and versatile cutting. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWX 18V-7 Professional X-LOCK Angle Grinder 115mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 11,000/min.",
+    "Disc Diameter: 115mm.",
+    "Spindle: 22.23mm.",
+    "Weight: 1.6kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-10-professional-angle-grinder-115mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-10 Professional Angle Grinder 115mm 18V Bare Unit
+
+{
+  "price": "€202.10 inc VAT (€164.31 exc.vat)",
+  "description": "Bosch GWS 18V-10 Professional Angle Grinder offers an improved level of power and tool control in the 18V category. It delivers cordless power equal to a 1,000W corded grinder thanks to its powerful brushless motor and ProCORE18V technology. Equipped with Drop Control, KickBack Control, and intelligent brake system, this small angle grinder offers an increased level of user protection and convenience. Its Drop Control function shuts the grinder off immediately when accidentally dropping it on the floor. It also features a keyless nut. Suitable for cutting and grinding metal, stone, and concrete. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-10 Professional Angle Grinder 115mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 115mm.",
+    "Spindle: M14.",
+    "Weight: 2.1kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-10-professional-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-10 Professional Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€185.82 inc VAT (€151.07 exc.vat)",
+  "description": "Bosch GWS 18V-10 Professional Angle Grinder offers an improved level of power and tool control in the 18V category. It delivers cordless power equal to a 1,000W corded grinder thanks to its powerful brushless motor and ProCORE18V technology. Equipped with Drop Control, KickBack Control, and intelligent brake system, this small angle grinder offers an increased level of user protection and convenience. Its Drop Control function shuts the grinder off immediately when accidentally dropping it on the floor. It also features a keyless nut. Suitable for cutting and grinding metal, stone, and concrete. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 18V-10 Professional Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm.",
+    "Spindle: M14.",
+    "Weight: 2.1kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-10p-professional-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-10P Professional Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€201.94 inc VAT (€164.18 exc.vat)",
+  "description": "Bosch GWS 18V-10P Professional Angle Grinder offers an improved level of power and tool control in the 18V category. Equipped with KickBack Control and intelligent brake system, this small angle grinder offers an increased level of user protection and convenience. It also features a PROtection switch to instantly turn the grinder off when it is released, further maximising user protection. This tool is intended for cutting and grinding metal, stone, and concrete. Compatible with dust attachments GDE 125 EA-T Professional and GDE 115 / 125 FC-T Professional. Supplied with a Vibration Control Auxiliary Handle and Protective Guard. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 18V-10P Professional Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm.",
+    "Grinding Spindle Thread: M14.",
+    "Weight: 1.9kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gwx-18v-10p-professional-x-lock-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWX 18V-10P Professional X-LOCK Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€225.58 inc VAT (€183.40 exc.vat)",
+  "description": "This Bosch GWX 18V-10P Professional Angle Grinder comes with the keyless X-LOCK click system enabling fast and convenient accessory changes. Furthermore, it features PROtection switch, KickBack Control, and X-Brake, providing maximum user protection and convenience. This tool is intended for cutting and grinding metal, stone, and concrete. Compatible with dust attachments GDE 125 EA-T Professional and GDE 115 / 125 FC-T Professional. Supplied with a Vibration Control Auxiliary Handle and Protective Guard. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWX 18V-10P Professional X-LOCK Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm.",
+    "Weight: 1.9kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gwx-18v-10-professional-x-lock-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWX 18V-10 Professional X-LOCK Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€210.64 inc VAT (€171.25 exc.vat)",
+  "description": "This Bosch GWX 18V-10 Professional Angle Grinder comes with a keyless X-LOCK click system enabling fast and convenient accessory changes. Furthermore, it features Drop Control, KickBack Control, and X-Brake, providing maximum user protection and convenience. The tool is intended for cutting and grinding metal, stone, and concrete. Compatible with dust attachments GDE 125 EA-T Professional and GDE 115 / 125 FC-T Professional. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWX 18V-10 Professional X-LOCK Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm.",
+    "Weight: 2.0kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-14-125-s-professional-angle-grinder-1400w-240v.html-lllmstxt|>
+## Bosch GWS 14-125 S Professional Angle Grinder 1400W 240V
+
+{
+  "price": "€199.15 inc VAT (€161.91 exc.vat)",
+  "description": "The Bosch GWS 14-125 S Angle Grinder has a powerful motor with speed selection. The KickBack Stop detects when the disc is jammed, and shuts down the tool immediately. Restart protection on the Bosch angle grinder prevents the tool from automatically restarting after a power cut, this for added user safety. Its significantly small grip size improves user handling, while air inlets at the back of the tool allow maximum productivity, and improve dust protection. Supplied with: 1 x Protective Clip-on Cutting Guard Plastic, 1 x Vibration Control Auxiliary Handle, 1 x Backing Flange, 1 x Protective Guard, 1 x Locking Nut and 1 x Two-hole Spanner.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 14-125 S Professional Angle Grinder 1400W 240V",
+  "specifications": [
+    "Input Power: 1,400W",
+    "No Load Speed: 2,800-11,500/min",
+    "Grinding Spindle Thread: M14",
+    "Disc Diameter: 125mm",
+    "Bore Size: 22.2mm",
+    "Dimensions (WxLxH): 265 x 327 x 108mm",
+    "Weight: 2.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-12v-76v-professional-76mm-angle-grinder-12v-bare-unit.html-lllmstxt|>
+## Bosch GWS 12V-76V Professional 76mm Angle Grinder 12V Bare Unit
+
+{
+  "price": "€158.31 inc VAT (€128.71 exc.vat)",
+  "description": "Bosch GWS 12V-76V Professional Angle Grinder for quick cutting at the work site, making it convenient for cutting applications in every situation. This small angle grinder's high-performance brushless motor facilitates fast work rates, enabling high productivity. It is also highly versatile for a variety of different materials such as cutting metal, tiles, and bricks. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 12V batteries and chargers (Professional 12V System).",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 12V-76V Professional 76mm Angle Grinder 12V Bare Unit",
+  "specifications": [
+    "No Load Speed: 19,500/min.",
+    "Disc Diameter: 76mm.",
+    "Spindle: M5.",
+    "Bore Size: 10mm.",
+    "Weight: 0.9kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-10-sc-professional-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-10 SC Professional Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€334.09 inc VAT (€271.62 exc.vat)",
+  "description": "Bosch GWS 18V-10 SC Professional Angle Grinder with brushless motor. It delivers cordless power equal to a 1,000W corded grinder. Equipped with Drop Control, KickBack Control, and intelligent brake system, providing maximum user protection and convenience. Its Bluetooth Connectivity module allows for setting adjustments directly via the Toolbox App, while a user interface with speed selection provides active tool feedback for highest convenience. Suitable for cutting and grinding metal, stone, and concrete. Comes as a Bare Unit, NO battery or charger in a L-BOXX. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-10 SC Professional Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 4,500-9,000/min.",
+    "Disc Diameter: 125mm.",
+    "Spindle: M14.",
+    "Bore Size: 22.23mm.",
+    "Weight: 2.0kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-7-115-mini-grinder.html-lllmstxt|>
+## Bosch GWS 7-115 Mini Grinder
+
+{
+  "price": "from €89.94 inc VAT",
+  "description": "The Bosch GWS 7-115 Mini Grinder combines high power with comfortable handling. It has a reliable 720 Watt motor for a longer service life and easy carbon brush change system for easier serviceability, along with the auto cut-off carbon brush for maximum protection of motor. The 56mm diameter slim round housing provides super grip comfort. Armoured coils to protect the motor against sharp grinding dust for longer service life. Double sealed ball bearings for longer service life. The small gear head for easier reach of narrow areas, complete with especially designed helical gear for smooth running. Bullet-proof guard to provide maximum safety to users even if disc breaks. Two-motion side switch for increased safety and air inlets for optimal air flow and cooling.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 7-115 Mini Grinder",
+  "specifications": [
+    "Input Power: 720W",
+    "No Load Speed: 11,000/min",
+    "Disc Size: 115mm",
+    "Wire Cup Brushes: 60mm",
+    "Spindle Thread: M14",
+    "Weight: 1.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-10-pc-professional-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-10 PC Professional Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€256.44 inc VAT (€208.49 exc.vat)",
+  "description": "Bosch GWS 18V-10 PC Professional Angle Grinder with KickBack Control and intelligent brake system, this small angle grinder offers an increased level of user protection and convenience. It also features a PROtection switch to instantly turn the grinder off when it is released, further maximising user protection. It also features a keyless nut, protection guard, and Vibration Control handle. This tool is intended for cutting and grinding metal, stone, and concrete. Compatible with dust attachments GDE 125 EA-T Professional and GDE 115 / 125 FC-T Professional, and Bluetooth module GCY 30-4. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-10 PC Professional Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm.",
+    "Grinding Spindle Thread: M14.",
+    "Weight: 2kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-9-115-s-angle-grinder.html-lllmstxt|>
+## Bosch GWS 9-115 S Angle Grinder
+
+{
+  "price": "€117.76 inc VAT",
+  "description": "The Bosch GWS 9-115 S Angle Grinder is fitted with a powerful motor and variable speed selection for increased control when working on different materials. With overload capacity for increased safety. The small grip diameter and ergonomic design make it comfortable and easy to handle.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 9-115 S Angle Grinder",
+  "specifications": [
+    "Input Power: 900W",
+    "No Load Speed: 2,800-11,000/min",
+    "Disc Diameter: 115mm",
+    "Spindle Thread: M14",
+    "Weight: 1.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-10-psc-professional-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-10 PSC Professional Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€296.09 inc VAT (€240.72 exc.vat)",
+  "description": "Bosch GWS 18V-10 PSC Professional Angle Grinder equipped with a PROtection switch, KickBack Control, and an intelligent brake system, providing maximum user protection and convenience. Its Bluetooth Connectivity module allows setting adjustments directly via the Toolbox App, while a user interface with speed selection provides active tool feedback for highest convenience. This tool is intended for cutting and grinding metal, stone, and concrete. It also features protection guard, keyless nut, and Vibration Control handle. Compatible with dust attachments GDE 125 EA-T Professional and GDE 115 / 125 FC-T Professional. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance. Supplied with: 1 x Quick-locking Nut, 1 x Plastic Protective Clip-on Cutting Guard, 1 x Protective Guard, 1 x Backing Flange, 1 x Vibration Control Auxiliary Handle, 1 x 1/1 L-BOXX Inlay for tool and charger and 1 x L-BOXX 136.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-10 PSC Professional Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 4,500-9,000/min.",
+    "Disc Diameter: 125mm.",
+    "Grinding Spindle Thread: M14.",
+    "Bore Size, Diameter: 22.23mm.",
+    "Weight: 2kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gw-s9-115-p-professional-grinder.html-lllmstxt|>
+## Bosch GW S9-115 P Professional Grinder
+
+{
+  "price": "€127.72 inc VAT",
+  "description": "This Bosch GW S9-115 P Professional Grinder comes with a paddle switch for increased user safety. Power to the machine instantly cuts off when the switch is released. Fitted with a highly efficient 900W motor, this provides a superior cutting and grinding experience. Its robust design and components provide a long lifetime, even under tough working conditions, and heavy workloads. The ergonomic paddle-shape design and slim grip size provide best in-hand control.",
+  "availability": "In Stock",
+  "product_name": "Bosch GW S9-115 P Professional Grinder",
+  "specifications": [
+    "Input Power: 900W",
+    "No Load Speed: 11,000/min",
+    "Disc Diameter: 115mm",
+    "Grinding Spindle Thread: M14",
+    "Weight: 1.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-2200-p-professional-grinder.html-lllmstxt|>
+## Bosch GWS 2200 P Professional Grinder
+
+{
+  "price": "€206.33 inc VAT",
+  "description": "The Bosch GWS 2200 P Professional Grinder combines a robust design with a solid performance. For increased user protection, it comes with a PROtection switch, which ensures the angle grinder turns off immediately when the switch is released. Its 2,200W motor provides a good material removal rate. The GWS 2200 P Professional is ideal for versatile cutting tasks on metal and stone. Compatible with the Bosch Professional GDE 230 FC-S dust attachment. Supplied with: 1 x Auxiliary Handle, 1 x Backing Flange, 1 x Locking Nut, 1 x Protective Guard and 1 x Two-hole Spanner.",
+  "availability": "In Stock",
+  "product_name": "Bosch GWS 2200 P Professional Grinder",
+  "specifications": [
+    "Input Power: 2,200W",
+    "No Load Speed: 6,500/min",
+    "Disc Diameter: 230mm",
+    "Grinding Spindle Thread: M14",
+    "Bore Size: 22.2mm",
+    "Rubber Backing Pad Diameter: 180mm",
+    "Wire Cup Brush Diameter: 100mm",
+    "Weight: 5.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-15c-professional-biturbo-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-15C Professional BITURBO Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€338.82 inc VAT (€275.46 exc.vat)",
+  "description": "Bosch GWS 18V-15C Professional BITURBO Angle Grinder for grinding and cutting metal. BITURBO Brushless technology provides 50% faster cutting and more metal removal than our previous cordless grinders. Equipped with KickBack Control, Drop Control, an intelligent brake system, and a tool-free quick clamping nut, this grinder offers full tool control. The tool can be refitted with an optional Bluetooth Connectivity module (NOT supplied). Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance. Supplied with: 1 x Vibration Control Auxiliary Handle, 1 x Quick-locking Nut, 1 x Protective Guard, 1 x Backing Flange and 1 x L-BOXX 136.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-15C Professional BITURBO Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,800/min.",
+    "Disc Diameter: 125mm.",
+    "Grinding Spindle Thread: M14.",
+    "Bore Size, Diameter: 22.23mm.",
+    "Weight: 2.2kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-15-sc-professional-biturbo-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-15 SC Professional BITURBO Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€370.64 inc VAT (€301.33 exc.vat)",
+  "description": "Bosch GWS 18V-15 SC Professional BITURBO Angle Grinder produces power and performance equal to a corded grinder. Its BITURBO Brushless technology gives enough power for fast cuttings in multiple materials. KickBack Control prevents unexpected kickback. The Intelligent Brake System shortens the braking time considerably. Comes as a Bare Unit, NO battery or charger. Supplied with: 1 x Vibration Control Auxiliary Handle, 1 x Quick-locking Nut, 1 x Protective Guard, 1 x Backing Flange and 1 X L-BOXX 136. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-15 SC Professional BITURBO Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 3,400-9,800/min.",
+    "Disc Diameter: 125mm.",
+    "Grinding Spindle Thread: M14.",
+    "Bore Size, Diameter: 22.23mm.",
+    "Weight: 2.3kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gws-18v-15-p-professional-biturbo-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWS 18V-15 P Professional BITURBO Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€315.18 inc VAT (€256.24 exc.vat)",
+  "description": "Bosch GWS 18V-15 P Professional BITURBO Angle Grinder produces power and performance equal to a corded grinder. For safety the unique PROtection switch immediately shuts down the machine in the event of jamming. KickBack Control prevents unexpected kickback. The Intelligent Brake System shortens the braking time considerably. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWS 18V-15 P Professional BITURBO Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,800/min.",
+    "Disc Diameter: 125mm.",
+    "Grinding Spindle Thread: M14.",
+    "Bore Size, Diameter: 22.23mm.",
+    "Weight: 2.2kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-power-tools-dewdcg407n-18v-bl-125mm-angle-grinder-slide-switch.html-lllmstxt|>
+## DEWDCG407N 18V Bl 125mm Angle Grinder Slide Switch
+
+{
+  "price": "€180.81 inc VAT (€147.00 exc.vat)",
+  "description": "The DeWalt DEWDCG407N has slide switch operation and a brushless motor to ensure longer runtimes, with better battery control and less maintenance required. The electronic clutch reduces the kickback reaction in the event of a pinch or stall, while the mesh debris cover restricts dust being sucked into the motor. Additionally, it features a removable cutting guard and grinding guard.",
+  "availability": "In Stock",
+  "product_name": "DEWDCG407N 18V Bl 125mm Angle Grinder Slide Switch",
+  "specifications": [
+    "Power Input 840 Watts",
+    "No Load Speed 9000 rpm",
+    "Max. Disc Diameter 125 mm",
+    "Spindle Thread M14",
+    "Weight 2.172 kg",
+    "Length 329 mm",
+    "3 YEARS when registered"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gwx-18v-15-p-professional-biturbo-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWX 18V-15 P Professional BITURBO Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€339.33 inc VAT (€275.88 exc.vat)",
+  "description": "The Bosch GWX 18V-15 P Professional BITURBO Angle Grinder offers faster cutting and more metal removal than previous cordless grinders due to BITURBO Brushless technology. The PROtection switch, super-fast X-Brake, and KickBack Control provide increased user protection. Uses keyless X-LOCK system for quick, easy, and convenient accessory changes. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWX 18V-15 P Professional BITURBO Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,800/min.",
+    "Disc Diameter: 125mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gwx-18v-15-psc-professional-biturbo-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## Bosch GWX 18V-15 PSC Professional BITURBO Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€382.54 inc VAT (€311.01 exc.vat)",
+  "description": "The Bosch GWX 18V-15 PSC Professional BITURBO Angle Grinder offers faster cutting and more metal removal than previous cordless grinders due to BITURBO Brushless technology. The PROtection switch, super-fast X-Brake, and KickBack Control provide increased and high user protection thanks to the sensor-based, mechanical, and electronic features. For more comfort, its keyless X-LOCK system makes accessory change faster, easier, and convenient. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWX 18V-15 PSC Professional BITURBO Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,800/min.",
+    "Disc Diameter: 125mm."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-ag-18115-li-power-x-change-angle-grinder-18v-1-x-40ah-li-ion.html-lllmstxt|>
+## Einhell TC-AG 18/115 Li Power X-Change Angle Grinder 18V 1 x 4.0Ah Li-ion
+
+{
+  "price": "€101.20 inc VAT (€82.28 exc.vat)",
+  "description": "The Einhell TC-AG 18/115 Li Power X-Change Angle Grinder is a useful helper in the home workshop and hobby cellar. Soft start and restart protection always ensure increased application safety, while overload protection in turn ensures the durability. The gearbox housing is made of robust and, at the same time, lightweight aluminium, the design is constructed as slim. Equipped with an ergonomic soft grip, the additional handle is flexible and can be assembled and fixed in 3 positions. Member of the Power X-Change family. Supplied with: 1 x 18V 4.0Ah Li-ion Battery and 1 x Charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell TC-AG 18/115 Li Power X-Change Angle Grinder 18V 1 x 4.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 8,500/min.",
+    "Disc Size: 115mm",
+    "Max. Cutting Depth: 28mm",
+    "Weight: 2.25kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-power-tools-dcg408n-xr-brushless-paddle-switch-angle-grinder-18v-bare-unit.html-lllmstxt|>
+## DeWALT Power Tools DCG408N XR Brushless Paddle Switch Angle Grinder 18V Bare Unit
+
+{
+  "price": "€180.81 inc VAT (€147.00 exc.vat)",
+  "description": "The DeWALT DCG408 XR Brushless Paddle Switch Angle Grinder has a powerful brushless motor for enhanced efficiency and durability. For added safety there is an electronic clutch reduces the kickback reaction in the event of a pinch or stall. A mesh debris cover restricts dust being sucked through the motor. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Power Tools DCG408N XR Brushless Paddle Switch Angle Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-bprt-pop-rivet-tool-12v.html-lllmstxt|>
+## Milwaukee M12 BPRT Pop Rivet Tool 12V
+
+{
+  "price": "€295.53 inc VAT (€240.27 exc.vat)",
+  "description": "The Milwaukee M12 BPRT Pop Rivet Tool is suitable for all aluminium, steel, stainless steel and copper rivets up to 4.8mm. Rivets in one stroke, with a 20.32mm stroke length. Retention nose pieces hold rivets in any orientation. With tool-free access to easily clean the jaws and an on-board nose piece storage and removal tool for user convenience. The rivet tool has an ergonomic design with an on-board fuel gauge and LED light for added user convenience and illumination in low lit working conditions. It also features an integrated belt hook and lanyard tie off point. Supplied with: 4 x Retaining Tips: 2.4, 3.2, 4.0, 4.8mm",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M12 BPRT Pop Rivet Tool 12V",
+  "specifications": [
+    "Rivet Diameter Range: 2.4-4.8mm",
+    "Stroke Length: 20.32mm",
+    "Max. Pulling Force: 9,000Nm",
+    "Dimensions: 273 x 66 x 8 x 230mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcf403e1t-xr-316in-brushless-riveter-1-x-17ah-powerstack-li-ion.html-lllmstxt|>
+## DEWALT DCF403E1T XR 3/16in Brushless Riveter 1 x 1.7Ah POWERSTACK™ Li-ion
+
+{
+  "price": "€593.32 inc VAT (€482.37 exc.vat)",
+  "description": "DEWALT DCF403 XR 3/16in Riveter with a tool-free nose piece and powerful brushless motor delivering longer run times, less maintenance and better power control. Its 25mm stroke length allows for fastening rivets in one stroke. Suitable for installing aluminium, steel and stainless steel blind rivets up to 4.8mm. The on-board mandrel collector store spent mandrels. Fitted with an ergonomic comfort grip handle for increased balance and tool control. There is also a bright integrated LED work light that enhances the work area in low light areas.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCF403E1T XR 3/16in Brushless Riveter 1 x 1.7Ah POWERSTACK™ Li-ion",
+  "specifications": [
+    "Rivet Diameter: 4.8mm",
+    "Stroke Length: 25mm",
+    "Max. Force: 10kN"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-grg-18v-16c-professional-rivet-gun-18v-bare-unit.html-lllmstxt|>
+## Bosch GRG 18V-16C Professional Rivet Gun 18V Bare Unit
+
+{
+  "price": "€882.34 inc VAT (€717.35 exc.vat)",
+  "description": "The Bosch GRG 18V-16C Professional Rivet Gun built for connecting pre-drilled metal workpieces in HVAC and electrical installations, metal construction, roofing and facade installations, and auto service repair, among others. It has a brushless motor and tool status indicator on the HMI display. This rivet gun has two modes: AUTO for automatic running of the riveting operation and MANUAL for individual control of the working operation. Built-in Bluetooth connectivity allows users to customise and track their tool maintenance schedule via the Bosch Toolbox App. It comes with 4 nose pieces (3.0/3.2 mm, 4.0 mm, 4.8/5.0 mm, 6.4 mm), a wrench to easily change the nose pieces, a hanging ring, mandrel container, and a belt clip. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries. Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GRG 18V-16C Professional Rivet Gun 18V Bare Unit",
+  "specifications": [
+    "Rivet Diameter: 3-6.4mm",
+    "Stroke Length: 0-25mm",
+    "Max. Pull Force: 16,000N",
+    "Weight: 1.6kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-grg-18v-16-c-rivet-gun-18v-2-x-20ah-li-ion.html-lllmstxt|>
+## Bosch GRG 18V-16 C Rivet Gun 18V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€1,019.45 inc VAT (€828.82 exc.vat)",
+  "description": "The Bosch GRG 18V-16 C Rivet Gun has two settings; a manual one for when you want to take personal control, and an automatic mode to run the rivet operation for you. Built-in bluetooth connectivity allows for easy customisation, and tracking of maintenance schedule via the Bosch Toolbox App. The rivet gun is ideal for tradespeople engaged in metal working, plumbing or working on heating technology. Supplied with: 4 x Nose Pieces: 3.0/3.2, 4.0, 4.8/5.0, 6.4mm, 1 x Wrench, 1 x Hanging Ring, 1 x Mandrel Container, 1 x Belt Clip, 2 x 18V 2.0Ah Li-ion Batteries, 1 x GAL 18V-40 Quick Charger and 1 x L-BOXX.",
+  "availability": "In Stock",
+  "product_name": "Bosch GRG 18V-16 C Rivet Gun 18V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "Max. Pull Force: 16kN",
+    "Stroke Length: 0-25mm",
+    "Rivet Diameter: 3-6.4mm",
+    "Weight: 1.6kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-ms-1706-wall-chasers.html-lllmstxt|>
+## Flex Power Tools MS-1706 Wall Chasers
+
+{
+  "price": "€851.14 inc VAT",
+  "description": "The Flex MS-1706 wall chaser has FR electronic control with constant speed control by means of a tachogenerator. It features soft start, overload protection and temperature monitoring. The wall chaser has a patented swivel-mounted motor (EP1693169) which allows for push and pull cutting. It has optimal dust extraction and maximum safety due to the enclosed guard. It allows blades to be changed tool-free and has slit width adjustment. The MS1706 also has a rotating adaptor for dust extractor, tool-free cutting depth adjustment and plunge cut stop. It chases two parallel slots up to 35 mm deep and 30 mm wide and the slot breaker allows for easy removal of the remaining material without a hammer.",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools MS-1706 Wall Chasers",
+  "specifications": [
+    "Input Power: 1,400 Watt",
+    "No Load Speed: 7,500/min",
+    "Cutting depth: 0-35mm",
+    "Groove width: 10-30mm",
+    "Disc: 140mm M14 Spindle",
+    "Weight: 4.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg200-xr-flexvolt-wall-chaser.html-lllmstxt|>
+## DEWALT DCG200 XR FlexVolt Wall Chaser
+
+{
+  "price": "€568.89 inc VAT",
+  "description": "The DEWALT DCG200T2 XR FlexVolt Wall Chaser offers unrivalled run time and performance. Heavy-duty construction applications can be completed without the need for mains power. The high torque, brushless motor is perfect for wall chasing applications. The 2 diamond discs have been engineered to cut simultaneously into material. There is also an easy-to-use tool free blade height adjustment setting with park position. Once the in-between material is removed, the channel can be used to sink wires or pipes below surface. The Wireless Tool Control (WTC) transmitter allows the tool to be wirelessly paired with another WTC device such as a dust extractor, enabling for automatic activation and shutdown.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG200 XR FlexVolt Wall Chaser",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Cutting Depth: 0-32mm",
+    "Max. Groove Width: 35mm",
+    "Disc Size: 125mm",
+    "Weight: 3.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-sg1251j-125mm-wall-chaser.html-lllmstxt|>
+## Makita SG1251J 125mm Wall Chaser
+
+{
+  "price": "€644.90 inc VAT",
+  "description": "The Makita SG1251J Wall Chaser features an improved trigger switch, operable with the fingers of the hand holding the top handle. With an ergonomically designed front handle that can be adjusted to multiple positions. The main top handle also has a rubberised soft grip for comfort. Adjustable cutting width in 9 stages by inserting spacers SJS (Super Joint System) to prevent motor burn out. With a soft start, constant speed control and electronic current limiter for overload protection. Can be connected to a vacuum cleaner for a clean working environment.",
+  "availability": "In Stock",
+  "product_name": "Makita SG1251J 125mm Wall Chaser",
+  "specifications": [
+    "Input Power: 1,400W",
+    "No Load Speed: 10,000/min.",
+    "Blade: 125 x 22.23mm Bore",
+    "Max. Cutting Depth: 30mm",
+    "Cutting Diameter: 3mm Steps 6-30mm",
+    "Weight: 4.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-pc5001c-concrete-planer-110v-1400w.html-lllmstxt|>
+## Makita PC5001C Concrete Planer 110V 1400W
+
+{
+  "price": "€1,015.06 inc VAT (€825.25 exc.vat)",
+  "description": "Makita PC5001C Concrete Planer\n\nSupplied with:\n1 x Dust Bag Assembly.\n1 x Wrench Holder.\n1 x Lock Nut Wrench.\n1 x Hex Wrench.\n1 x 724119-8 Offset Diamond Wheel 125mm.",
+  "availability": "Out of Stock",
+  "product_name": "Makita PC5001C Concrete Planer 110V 1400W",
+  "specifications": [
+    "Voltage: 110V",
+    "Input Power: 1,400W",
+    "No Load Speed: 10,000/min",
+    "Spindle Thread: M14",
+    "Disc Size: 125mm x 22.23mm bore",
+    "Power Cord Length: 5m",
+    "Weight: 4.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tp-ma-3630-li-bl---solo-wall-chaser-36v-2-x-18v-bare-unit.html-lllmstxt|>
+## Einhell TP-MA 36/30 Li BL - Solo Wall Chaser 36V (2 x 18V) Bare Unit
+
+{
+  "price": "€272.56 inc VAT (€221.59 exc.vat)",
+  "description": "The Einhell TP-MA 36/30 Li BL Wall Chaser cuts horizontal and vertical grooves and channels for pipes, conduits, etc. into masonry – free from the hassle of cables. Powered by an Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. Once you register online, the brushless motor has a 10-year warranty. The soft start and pull cut ensure safe operation. Whilst overload protection helps ensure the durability of the tool, while the cutting disc guard protects the user. For ease of use it features stepless adjustable groove depth adjustment and the individually adjustable cutting width up to a maximum of 30mm offering impressive flexibility to create narrow or wide grooves. The guide roller and the auxiliary handle improve handling comfort by providing a firm, secure grip. A mark showing the position of the cutting discs allows the tool to be precisely positioned to ensure dimensionally accurate cuts. The wall chaser also features a spindle lock, which makes it easy to change the disc using a hexagon socket wrench. The extraction adaptor is compatible with Einhell wet/dry vacuum cleaners. It comes with a storage pouch for clean and safe transport, as well as four diamond cutting discs so that you can start your project right away. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Requires 2 x 18V Power X-Change system batteries. Comes as a Bare Unit - No Battery or Charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TP-MA 36/30 Li BL - Solo Wall Chaser 36V (2 x 18V) Bare Unit",
+  "specifications": [
+    "Cutting Disc Diameter: 125mm",
+    "Cutting Disc Holder Diameter: 22.2mm",
+    "Groove Depth Max.: 30mm",
+    "Groove Width Max.: 30mm",
+    "Suction Connection Diameter: 35mm",
+    "Weight: 4.19kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg426-xr-brushless-die-grinder.html-lllmstxt|>
+## DEWALT DCG426 XR Brushless Die Grinder
+
+{
+  "price": "€230.34 inc VAT",
+  "description": "The DEWALT DCG426 XR Brushless Die Grinder provides increased performance, even in demanding applications thanks to the 18V motor. It is fitted with a 3-step speed dial for improved application control and a dual position variable speed switch. A mesh guard helps to reduce motor contamination and the air stream is directed away from user. The die grinder has an improved gripping area and a durable, textured rubber nose for increased comfort and control. It is also fitted with an LED nose ring for improved work piece visibility.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG426 XR Brushless Die Grinder",
+  "specifications": [
+    "No Load Speed: 0-5,000/17,500/25,000/min.",
+    "Max. Wheel Diameter: 38mm",
+    "Spindle Thread: M15",
+    "Collet Size: 6mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-gd0800c-die-grinder.html-lllmstxt|>
+## Makita GD0800C Die Grinder
+
+{
+  "price": "€323.85 inc VAT",
+  "description": "The Makita GD0800C Die Grinder has an internal labyrinth construction seals motor and bearings from contamination. Offers a high, constant speed even under load and has a soft start feature.",
+  "availability": "In Stock",
+  "product_name": "Makita GD0800C Die Grinder",
+  "specifications": [
+    "Input Power: 750W",
+    "No Load Speed: 7,000 - 28,000/min.",
+    "Collet Capacity: 8mm",
+    "Weight: 1.88kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-gd0810c-die-grinder-750-watt-110-volt.html-lllmstxt|>
+## Makita GD0810C Die Grinder 750 Watt 110 Volt
+
+{
+  "price": "€331.46 inc VAT (€269.48 exc.vat)",
+  "description": "The Makita GDO810C Die Grinder offers a high, constant speed even under load and has a soft start feature. It has a maximum 8mm collet capacity and an internal labyrinth construction that seals that motor and bearings from contamination. The tool is double insulated for increased user protection. Supplied with a 6mm Collet Cone.",
+  "availability": "Out of Stock",
+  "product_name": "Makita GD0810C Die Grinder 750 Watt 110 Volt",
+  "specifications": [
+    "Input Power: 750 Watt",
+    "No Load Speed: 7,000 - 28,000/min",
+    "Collet Capacity: 8mm",
+    "Weight: 1.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-gd0600-6mm-die-grinder.html-lllmstxt|>
+## Makita GD0600 6mm Die Grinder
+
+{
+  "price": "€157.60 inc VAT",
+  "description": "The Makita GDO600 Die Grinder has a paddle type On/Off switch and easy-to-grip small circumference housing. The ergonomic grip increases user comfort whilst the double insulation increases user protection. Supplied with: 2 x 13mm Hex Wrenches",
+  "availability": "In Stock",
+  "product_name": "Makita GD0600 6mm Die Grinder",
+  "specifications": [
+    "Input Power: 400W",
+    "No Load Speed: 25,000/min.",
+    "Collet Capacity: 6mm",
+    "Dimensions (LxWxH): 285 x 740 x 740mm",
+    "Weight: 1.7kg",
+    "Vibration K factor: 1.5 m/sec²",
+    "Vibration artificial wheel: 2.5 m/sec²",
+    "Noise sound pressure: 74 dB(A)",
+    "Noise K factor: 3 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-ggs-18v-23-lc-professional-straight-grinder-18v-bare-unit.html-lllmstxt|>
+## Bosch GGS 18V-23 LC Professional Straight Grinder 18V Bare Unit
+
+{
+  "price": "€283.18 inc VAT (€230.23 exc.vat)",
+  "description": "Bosch GGS 18V-23 LC Professional Straight Grinder for fine grinding metal as well as for polishing metal surfaces. Offers maximum mobility, high, delivers a power output equal to a 1,000W corded grinder. Increased user protection thanks to Drop & KickBack Control and brake. Prepared for Bluetooth connectivity. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GGS 18V-23 LC Professional Straight Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 23,500.min.",
+    "Weight: 1.4kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-ggs-18v-23-plc-professional-straight-grinder-18v-bare-unit.html-lllmstxt|>
+## Bosch GGS 18V-23 PLC Professional Straight Grinder 18V Bare Unit
+
+{
+  "price": "€293.12 inc VAT (€238.31 exc.vat)",
+  "description": "Bosch GGS 18V-23 PLC Professional Straight Grinder for fine grinding metal as well as for polishing metal surfaces. Offers maximum mobility, high, delivers a power output equal to a 1,000W corded grinder. Increased user protection and optimal tool control are supported by PROtection features such as KickBack and Drop Control as well as Brake System and Restart Protection. Prepared for Bluetooth connectivity. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GGS 18V-23 PLC Professional Straight Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 23,500.min.",
+    "Weight: 1.4kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-ggs-18v-10-slc-professional-straight-grinder-18v-bare-unit.html-lllmstxt|>
+## Bosch GGS 18V-10 SLC Professional Straight Grinder 18V Bare Unit
+
+{
+  "price": "€378.57 inc VAT (€307.78 exc.vat)",
+  "description": "Bosch GGS 18V-10 SLC Professional Straight Grinder made for fine grinding metal as well as for polishing metal surfaces. Offers maximum mobility, high torque at lower speeds, and excellent performance. Its high-powered brushless motor, optimised for ProCORE18V battery technology, delivers a power output equal to a 1,000W corded grinder and a torque rate ideal for working on surfaces with heavy brushes. The intuitive User Interface allows you to easily select different speed settings. Increased user protection and optimal tool control are supported by PROtection features such as KickBack and Drop Control as well as Brake System and Restart Protection. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GGS 18V-10 SLC Professional Straight Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 10,500/min.",
+    "Weight: 1.6kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gwg-12v-50-s-professional-rotary-grinder-12v-bare-unit.html-lllmstxt|>
+## Bosch GWG 12V-50 S Professional Rotary Grinder 12V Bare Unit
+
+{
+  "price": "€224.51 inc VAT (€182.53 exc.vat)",
+  "description": "Bosch GWG 12V-50 S Professional Rotary Grinder produced for grinding, deburring, sanding, cleaning, and preparing of surfaces as well as removal of welding seams and welding points, especially on metal. Compatible with various 50mm grinding discs available on the market and 6mm as well as 8mm collets. Thanks to its powerful, high-performance brushless motor and high torque, the GWG 12V-50 S Professional gets all grinding jobs done quickly and easily. The variable speed trigger switch and 5 speed modes enable perfect speed control for various applications and optimal results. Great ergonomics, while a small grip size ensure fatigue-free work, even in tight spaces. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 12V batteries and chargers (Professional 12V System).",
+  "availability": "In Stock",
+  "product_name": "Bosch GWG 12V-50 S Professional Rotary Grinder 12V Bare Unit",
+  "specifications": [
+    "No Load Speed: 5,000-15,000/min.",
+    "Sanding Pad Diameter: 50mm.",
+    "Weight: 0.53kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-ggs-28-c-professional-straight-grinder.html-lllmstxt|>
+## Bosch GGS 28 C Professional Straight Grinder
+
+{
+  "price": "€229.12 inc VAT",
+  "description": "Bosch GGS 28 C Professional Straight Grinder for universal grinding. Its compact and ergonomic shape makes it suitable for versatile work. The machine´s 650W motor with soft start enables fast work progress. Additionally, user protection is increased due to its KickBack Control feature. This tool is intended for grinding metal. It also includes features such as constant speed, direct motor cooling, and overload protection.",
+  "availability": "In Stock",
+  "product_name": "Bosch GGS 28 C Professional Straight Grinder",
+  "specifications": [
+    "Input Power: 650W",
+    "No Load Speed: 30,000/min",
+    "Spindle Collar Diameter: 43mm",
+    "Max. Collet Diameter: 8mm",
+    "Max. Grinding Tool Diameter: 50mm",
+    "Spanner Size of Locking Nut: 19mm",
+    "Spanner Size of Grinding Spindle: 19mm",
+    "Weight: 1.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-ggs-8-ce-professional-straight-grinder.html-lllmstxt|>
+## Bosch GGS 8 CE Professional Straight Grinder
+
+{
+  "price": "€376.58 inc VAT",
+  "description": "Bosch GGS 8 CE Professional Straight Grinder for powerful surface grinding. Its 750W motor with soft start facilitates fast work progress. High torque and a handy design make the grinder ideal for use on surfaces with flap wheels, brushes, and other accessories. User protection is increased due to its KickBack Control feature. It also includes features such as constant speed, direct motor cooling, overload protection, and speed selection.",
+  "availability": "In Stock",
+  "product_name": "Bosch GGS 8 CE Professional Straight Grinder",
+  "specifications": [
+    "Input Power: 750W",
+    "No Load Speed: 2,500-8,000/min",
+    "Spindle Collar Diameter: 43mm",
+    "Max. Collet Diameter: 8mm",
+    "Max. Grinding Tool Diameter: 50mm",
+    "Max. Polishing Tool Diameter: 80mm",
+    "Spanner Size of Locking Nut: 19mm",
+    "Spanner Size of Grinding Spindle: 13mm",
+    "Weight: 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-ggs-18v-20-professional-straight-grinder-18v-bare-unit.html-lllmstxt|>
+## Bosch GGS 18V-20 Professional Straight Grinder 18V Bare Unit
+
+{
+  "price": "€217.60 inc VAT (€176.91 exc.vat)",
+  "description": "The Bosch GGS 18V-20 Professional Straight Grinder has a brushless motor for increased efficiency and durability. Electronic Motor Protection (EMP) protects the motor against overload, and ensures a long life. Its compact and lightweight ergonomic design makes it easy to use, even in overhead applications. The restart protection safety feature prevents the grinder starting unexpectedly after a power interruption. Comes as a Bare Unit, NO battery or charger in a L-BOXX Case. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GGS 18V-20 Professional Straight Grinder 18V Bare Unit",
+  "specifications": [
+    "Tool Holder: Collet.",
+    "No Load Speed: 24,000/min.",
+    "Weight: 1.2kg excl. battery."
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-r230dct-230mm-disc-cutter--blade-1.html-lllmstxt|>
+## Evolution R230DCT 230mm Disc Cutter + Blade
+
+{
+  "price": "€163.89 inc VAT",
+  "description": "The Evolution R230DCT 230mm Disc Cutter has up to 50% more cutting depth than a 230mm (9in) grinder. When equipped with a 230mm diamond blade, you get an impressive 90mm cutting depth making it the ideal cut off saw for concrete, reinforced concrete, natural stone, brick, roof tile and more. A powerful motor enables effortless cutting. It utilises Evolution Power Protect technology which protects internal components from dust and water ingress. It’s easy to use thanks to its ergonomic design, with a wrap-around front handle and even weight distribution for total control and good posture while cutting. The wheeled skid-plate takes the strain out of long, low level cutting and also allows you to put the machine down while the blade is still spinning. A blade brake and large blade guard provide improved safety. There is also an integrated dust port for easy vacuum attachment and a multi-tool, with onboard storage, for easy blade changes.",
+  "availability": "In Stock",
+  "product_name": "Evolution R230DCT 230mm Disc Cutter + Blade",
+  "specifications": [
+    "Input Power: 240V: 2,000W, 110V: 1,600W",
+    "No Load Speed: 6,000/min.",
+    "Blade (Ø x Bore): 230 x 22.2mm",
+    "Compatible Blades: Diamond only",
+    "Cable Length: 3m",
+    "Weight: 6.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-r230dct-230mm-disc-cutter-1.html-lllmstxt|>
+## Evolution R230DCT 230mm Disc Cutter
+
+{
+  "price": "€136.57 inc VAT",
+  "description": "The Evolution R230DCT 230mm Disc Cutter has up to 50% more cutting depth than a 230mm (9in) grinder. When equipped with a 230mm diamond blade (NOT supplied), you get an impressive 90mm cutting depth making it the ideal cut off saw for concrete, reinforced concrete, natural stone, brick, roof tile and more. A powerful motor enables effortless cutting. It utilises Evolution Power Protect technology which protects internal components from dust and water ingress. It’s easy to use thanks to its ergonomic design, with a wrap-around front handle and even weight distribution for total control and good posture while cutting. The wheeled skid-plate takes the strain out of long, low level cutting and also allows you to put the machine down while the blade is still spinning. A blade brake and large blade guard provide improved safety. There is also an integrated dust port for easy vacuum attachment and a multi-tool, with onboard storage, for easy blade changes.",
+  "availability": "In Stock",
+  "product_name": "Evolution R230DCT 230mm Disc Cutter",
+  "specifications": [
+    "Input Power: 240V 2,000W, 110V 1,600W",
+    "No Load Speed: 6,000/min.",
+    "Blade (Ø x Bore) 230 x 22.2mm",
+    "Compatible Blades: Diamond only",
+    "Cable Length: 3m",
+    "Weight: 6.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-r300dct-300mm-disc-cutter-1.html-lllmstxt|>
+## Evolution R300DCT 300mm Disc Cutter
+
+{
+  "price": "€359.98 inc VAT",
+  "description": "The Evolution R300DCT 300mm Disc Cutter has a high torque electric motor that delivers consistent peak power and stops the machine from slowing down, even under heavy load. It utilises Evolution Power Protect technology which protects internal parts from dust and water ingress, making it fit for use in the most demanding environments. Ideal for cutting concrete, reinforced concrete, stone, brick, paving and more. The motor starts first time, every time, and does not emit any harmful fumes, making this suitable for use indoors or in enclosed spaces. Plus, you don't need to worry about expensive fuel or servicing. It features a wheeled skid plate that makes light work of long, ground-level cuts and it also lifts the blade off the ground so it can be put down even while the blade is spinning. Comes backed by a 3-year guarantee. Supplied with: 1 x Diamond Blade 300mm (12in), 1 x Multi-Tool and 1 x Instruction Manual.",
+  "availability": "In Stock",
+  "product_name": "Evolution R300DCT 300mm Disc Cutter",
+  "specifications": [
+    "Input Power: 240V 2,400W, 110V 1,600W",
+    "No Load Speed: 240V 5,090/min., 110V 4,400/min.",
+    "Blade Ø: 300mm",
+    "Flange: 20 and 22.2mm",
+    "Max. Cutting Depth: 115mm",
+    "Cable Length: 3m",
+    "Weight: 9.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-r300dct-300mm-disc-cutter-kit-1.html-lllmstxt|>
+## Evolution R300DCT+ 300mm Disc Cutter Kit
+
+{
+  "price": "from €485.08 inc VAT",
+  "description": "The Evolution R300DCT+ 300mm Disc Cutter has a high torque electric motor that delivers consistent peak power and stops the machine from slowing down, even under heavy load. It starts first time, every time, and does not emit any harmful fumes, making this suitable for use in enclosed spaces. Plus, you don't need to worry about expensive fuel or servicing allowing you to focus on the job. Evolution Power Protect technology protects internal parts from dust and water ingress, making it fit for use in the most demanding environments. Ideal for cutting concrete, reinforced concrete, stone, brick, paving and more. The built-in dust suppression features dual-sided water delivery, armoured hose routing and robust brass hose connection, making it compliant with dust management regulations. Its wheeled skid plate takes the strain out of long, ground-level cutting and also allows you to put the saw down while the blade is still spinning. Born to conquer the professional jobsite, the all-new R300DCT+ Electric Disc Cutter is the perfect masonry saw for the pro tradesperson when effective dust control is a must. Comes backed by a 3-year guarantee. Supplied with: 1 x Premium Diamond Blade 300mm (12in) packed with 35% more diamond than standard Evolution diamond blades. It features a multi-compound cutting edge, designed to cut faster, cleaner and for longer.",
+  "availability": "In Stock",
+  "product_name": "Evolution R300DCT+ 300mm Disc Cutter Kit",
+  "specifications": [
+    "Input Power: 240V 2,400W, 110V 1,600W",
+    "No Load Speed: 240V 5,090/min., 110V 4,400/min.",
+    "Blade Ø: 300mm",
+    "Flange: 20 and 22.2mm",
+    "Max. Cutting Depth: 115mm",
+    "Cable Length: 3m",
+    "Weight: 9.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-fmdp-502c-fuel-magnetic-drilling-press-18-volt-2-x-50ah-li-ion.html-lllmstxt|>
+## Milwaukee M18 FMDP-502C Fuel Magnetic Drilling Press 18 Volt 2 x 5.0Ah Li-Ion
+
+{
+  "price": "€1,482.90 inc VAT (€1,205.61 exc.vat)",
+  "description": "The Milwaukee M18 FMDP Fuel Magnetic Drilling Press has a brushless POWERSTATE™ motor which provides corded drilling performance with strong magnetic holding force on 1/4in steel and up to 40 x 18mm holes per battery charge. The REDLINK PLUS™ intelligence system delivers the most advanced digital overload and blade lock-up protection and uniquely enhances the tool performance under load. AUTOSTOP™ lift-off detection detects excess rotation and automatically cuts power to the drill for user protection. The Drilling Press features a self-powered, permanent magnet with a holding force of 8,890N to prevent accidental magnet deactivation for improved user protection and easy alignment. A 2-speed gear box optimises drilling speed for when using annual cutters or twist drill bits. The M18 FMDP is supplied with 2 x 5.0Ah REDLITHIUM-ION™ battery packs that deliver up to 2.5x more run time, up to 20% more power and up to 2x more battery life.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 FMDP-502C Fuel Magnetic Drilling Press 18 Volt 2 x 5.0Ah Li-Ion",
+  "specifications": [
+    "Input Power: 18 Volt",
+    "No Load Speed: 400/690/min",
+    "Magnetic holding power: 8,890N",
+    "Max. drilling solid bit: 13mm",
+    "Max. diameter broaching capacity: 38mm",
+    "Max. depth broaching capacity: 5mm",
+    "Weight (with battery): 13kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-powerbor-pb32-110v-mag-drill-stand.html-lllmstxt|>
+## Halls Powerbor Pb32 110V Mag Drill Stand
+
+{
+  "price": "€1,022.43 inc VAT (€831.24 exc.vat)",
+  "description": "Powerbor Pb32 110V Mag Drill Stand",
+  "availability": "Out of Stock",
+  "product_name": "Halls Powerbor Pb32 110V Mag Drill Stand",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-rotabroach-commando-40-magnetic-drill.html-lllmstxt|>
+## Halls Rotabroach™ Commando 40 Magnetic Drill
+
+{
+  "price": "€703.90 inc VAT",
+  "description": "The Rotabroach™ Commando 40 has a powerful motor with the flexibility of 6-speeds. It is ideal for countersinking and using twist drills. Supplied with a chuck as standard.",
+  "availability": "In Stock",
+  "product_name": "Halls Rotabroach™ Commando 40 Magnetic Drill",
+  "specifications": [
+    "Input Power: 1,100W",
+    "No Load Speed: 270-610/min.",
+    "Magnetic Adhesion: 8,000N",
+    "Chuck Capacity: 13mm",
+    "Hole Cutting Capacity: Ø40mm x 50mm deep",
+    "Weight: 14.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-rotabroach-c35-magnetic-drill.html-lllmstxt|>
+## Halls Rotabroach™ C35 Magnetic Drill
+
+{
+  "price": "€622.53 inc VAT",
+  "description": "The Rotabroach™ Commando 35 delivers excellent value, with its powerful 1,050W motor. Fitted with thermal overload protection, it's a perfect machine for both on-site and workshop drilling.",
+  "availability": "In Stock",
+  "product_name": "Halls Rotabroach™ C35 Magnetic Drill",
+  "specifications": [
+    "Input Power: 1,050W",
+    "Hole Cutting Capacity: Ø35 x 50mm deep"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-evomag42-magnetic-drill-1.html-lllmstxt|>
+## Evolution EVOMAG42 Magnetic Drill
+
+{
+  "price": "€465.62 inc VAT",
+  "description": "The Evolution EVOMAG42 Magnetic Drill is versatile, accurate and fast, with strong magnetic adhesion (1500kg), the EVOMAG42 is an essential tool when performing heavy-duty industrial and steel fabrication work. The cuts are precise and clean due to an optimised rotation speed (450rpm) and all popular broaching capacities are covered (12-42mm). and the innovative adjustable head system means twist drills can be used to full capacity.",
+  "availability": "In Stock",
+  "product_name": "Evolution EVOMAG42 Magnetic Drill",
+  "specifications": [
+    "Input Power: 1,200W",
+    "No Load Speed: 450/min.",
+    "Magnet Adhesion: 1500kg",
+    "Maximum Cutter Diameter: 42mm, Depth: 50mm",
+    "Dimensions Rack Fully Raised (HxWxL): 580 x 320x 180mm, Lowered: 340 x 320 x 180mm",
+    "Magnet Dimensions (HxWxL): 40 x 90 x 180mm",
+    "Cutter Retainer Internal Diameter: 19mm Weldon Shank",
+    "Recommended Maximum Duty Cycle: 30 minutes",
+    "Weight: 10.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-evomag28-magnetic-drill-1.html-lllmstxt|>
+## Evolution EVOMAG28 Magnetic Drill
+
+{
+  "price": "from €417.58 inc VAT",
+  "description": "The Evolution EVOMAG28 Magnetic Drill is ideal for bridges, I-beams and framework. Deceptive in its capabilities, although small in size it is highly productive in heavy-duty industrial and fabrication work. Easy to carry and position in both awkward and confined spaces, due to its compact dimensions. Versatile, accurate and fast, the EVOMAG28 combines strong electro-magnetic adhesion at 1300kg. The spoke handles can also be mounted on the right or left side of the machine for better ease of use. The cuts are precise and clean due to an optimised rotation speed of 570rpm. It offers incredible value and an impressive 13mm twist drill capacity with the added capability to use up to a 28mm cutter. Supplied with: 1 x Coolant System, 1 x Safety Guard & Hardware, 1 x Safety Strap, 3 x Feed Handles, 4 x Hex Keys (2.5, 4, 5, 6mm), 1 x Chuck with Chuck Key, 1 x Instruction Manual and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Evolution EVOMAG28 Magnetic Drill",
+  "specifications": [
+    "Input Power: 1,200W",
+    "No Load Speed: 570/min.",
+    "Magnet Adhesion: 1300kg",
+    "Max. Annular Cutting Capacity: 28mm",
+    "Max. Cutting Depth: 50mm",
+    "Cutter Shank: 19mm",
+    "Standard Twist Drill Capacity: 13mm",
+    "Magnet Dimensions (HxWxL): 50 x 80 x 164mm",
+    "Max. Machine Height: 585mm, Min. Machine Height: 450mm",
+    "Power Cord Length: 2.6m",
+    "Weight: 14kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-bms20-0-20mm-plate-shears-18-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M18 BMS20-0 2.0mm Plate Shears 18 Volt Bare Unit
+
+{
+  "price": "€422.89 inc VAT (€343.81 exc.vat)",
+  "description": "The Milwaukee M18 BMS20-0 2.0mm Plate Shears provide accurate cuts with a maximum cutting depth of 2.0mm in steel. It has a unique 360° tool-free rotating head with 12 locking positions to access tight spaces and increasing user comfort. The in-line wrist design provides increased control during cutting and there is a variable speed trigger for extra control. REDLINK™ overload protection electronics in the tool and battery pack deliver best in class system durability. Individual battery cell monitoring optimises tool run time and ensures long term pack durability. There is also a belt clip for secure mobility. Bare Unit, No Battery or Charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M18 BMS20-0 2.0mm Plate Shears 18 Volt Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-2,500/min.",
+    "Capacity: Aluminium: 3.2mm, Steel: 2.0mm.",
+    "Minimum Cutting Radius: 180mm."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcs491n-xr-cordless-metal-shears-18-volt-bare-unit.html-lllmstxt|>
+## DEWALT DCS491N XR Cordless Metal Shears 18 Volt Bare Unit
+
+{
+  "price": "€404.85 inc VAT (€329.15 exc.vat)",
+  "description": "The DEWALT DCS491 XR Cordless Metal Shears have a compact, lightweight design with a D shaped, rubber overmoulded handle for comfortable use in all orientations. The variable speed trigger provides increased control, even in difficult applications. There is also an LED light for improved cut visibility. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCS491N XR Cordless Metal Shears 18 Volt Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-2,450/min.",
+    "Capacity: Mild Steel: 1.3mm, Stainless Steel: 1.0mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-fcot-fuel-cut-off-tool.html-lllmstxt|>
+## Milwaukee M12 FCOT FUEL™ Cut Off Tool
+
+{
+  "price": "€144.48 inc VAT",
+  "description": "The Milwaukee M12 FCOT FUEL™ Cut Off Tool for fast cutting in various materials. With forward and reverse rotation to direct debris away from the user. Optimised for one-hand use, replaces tools that require 2 hands whilst cutting. Ergonomic, in-line design for control and improved line of sight. There is also an LED work light that illuminates the work surface. Replaces angle grinder for cutting tiles, threaded rod, uni-strut and cable trays.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 FCOT FUEL™ Cut Off Tool",
+  "specifications": [
+    "No Load Speed: 20,000/min.",
+    "Cutting Depth: 17mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-djn161z-cordless-nibbler-18v-bare-unit.html-lllmstxt|>
+## Makita DJN161Z Cordless Nibbler 18V Bare Unit
+
+{
+  "price": "€486.46 inc VAT (€395.50 exc.vat)",
+  "description": "The Makita DJN161 Cordless Nibbler is fitted with an easy-to-operate slide type on/off switch with lock-on function. There is an anti-restart function for added safety, with warning lamp. Fitted with an ergonomic rubberised, soft grip for a comfortable and sure grip. Supplied with: 1 x Punch & Die Set, 1 x Hex Wrench and 1 x Wrench Holder. Bare Unit, NO Battery or Charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DJN161Z Cordless Nibbler 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 1,900/min.",
+    "Max. Cut: Mild Steel 1.6mm, Stainless Steel 1.2mm, Aluminium 2.5mm",
+    "Min. Outside Edge Cutting: 50mm",
+    "Radius Inside Edge: 45mm",
+    "Weight: 1.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-jn1601-16mm-nibbler.html-lllmstxt|>
+## Makita JN1601 1.6mm Nibbler
+
+{
+  "price": "€476.92 inc VAT",
+  "description": "The Makita JN1601 Nibbler performs clean, precise cutting in keystone plate, deck plate and other corrugated/trapezoidal sheet materials. Die holder swivels full 360° for easy cutting at an angle to grooves in corrugated/trapezoidal sheet materials. It is fitted with an ergonomically designed handle and has a compact and lightweight design.",
+  "availability": "In Stock",
+  "product_name": "Makita JN1601 1.6mm Nibbler",
+  "specifications": [
+    "Input Power: 550W",
+    "No Load Speed: 2,200/min.",
+    "Cutting Radius: Inside Edge 45mm, Outside Edge 50mm",
+    "Capacity: Mild Steel 1.6mm, Stainless Steel 1.2mm",
+    "Weight: 1.6kg",
+    "Vibration Cutting Sheet Metal: 7.5 m/sec²",
+    "Vibration K Factor: 1.5 m/sec²",
+    "Noise Sound Power: 94 dB(A)",
+    "Noise Sound Pressure: 83 dB(A)",
+    "Noise K Factor: 3 dB(A)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-js1602-16mm-16-gauge-metal-shear.html-lllmstxt|>
+## Makita JS1602 1.6mm 16 Gauge Metal Shear
+
+{
+  "price": "€421.75 inc VAT",
+  "description": "The Makita JS1602 16 Gauge Metal Shear is the successor to the JS1600, featuring an improved body design by using a slimmer motor housing and a rear cover that is ergonomic and uniquely ribbed for sure and comfortable finger hold. This provides more comfort, control and increased manoeuvrability. Fitted with a slide switch that is conveniently located for one-hand operation.",
+  "availability": "In Stock",
+  "product_name": "Makita JS1602 1.6mm 16 Gauge Metal Shear",
+  "specifications": [
+    "Input Power: 380W",
+    "No Load Speed: 4,000/min.",
+    "Max. Cutting Capacity: Steel up to 400N/mm² 1.6mm, up to 600N/mm² 1.2mm, up to 800N/mm² 0.8mm; Aluminium up to 200N/mm² 2.5mm",
+    "Weight: 1.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-js3201j-metal-shear.html-lllmstxt|>
+## Makita JS3201J Metal Shear
+
+{
+  "price": "€557.18 inc VAT",
+  "description": "The Makita JS3201J Metal Shear has an ergonomically designed handle with rubberised soft grip that fits your hand perfectly. This helps to provide maximum control and comfort. Low noise level for comfortable working. Fitted with a protector that enables smooth cutting whilst protecting the motor housing from scrap metal. There is also on-tool storage for a hex wrench. Supplied with: 1 x Hex Wrench, 1 x Thickness Gauge, 1 x Shear Blade Set and 1 x MAKPAC Case",
+  "availability": "In Stock",
+  "product_name": "Makita JS3201J Metal Shear",
+  "specifications": [
+    "Input Power: 710W",
+    "No Load Speed: 1,600/min.",
+    "Min. Cutting Radius: 50mm",
+    "Capacity: Mild Steel 3.2mm, Stainless Steel 2.5mm, Aluminium 4mm",
+    "Weight: 3.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gna-18v-16-e-professional-nibbler-18v-bare-unit.html-lllmstxt|>
+## Bosch GNA 18V-16 E Professional Nibbler 18V Bare Unit
+
+{
+  "price": "€547.19 inc VAT (€444.87 exc.vat)",
+  "description": "This Bosch GNA 18V-16 E Professional Nibbler delivers the same powerful performance as a 700W corded tool thanks to its efficient brushless motor technology. It is perfectly balanced and easy to handle due to its light weight and a grip size slimmed down to 156mm. With its high-quality robust design, maintenance-free components, and brushless motor power, this nibbler combines top performance and superior tool lifetime. Suitable for cutting a wide variety of steel and aluminium sheeting, ventilation pipes, and channels. Comes as a Bare Unit, NO battery or charger in a cardboard box. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "In Stock",
+  "product_name": "Bosch GNA 18V-16 E Professional Nibbler 18V Bare Unit",
+  "specifications": [
+    "No-load Stroke Rate: 1,400/spm",
+    "Minimum Curve Radius: 40mm",
+    "Cutting Capacity: Steel; (800 N/mm²) 0.7mm, (600 N/mm²) 1mm, (400 N/mm²) 1.6mm, Aluminium (200 N/mm²) 2mm",
+    "Cutting Track Width: 5mm",
+    "Pre-drilling for Interior Cut-outs: 22mm",
+    "Weight: 1.7kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-pp001gzk-xgt-40vmax-hole-puncher-40v-bare-unit.html-lllmstxt|>
+## Makita PP001GZK XGT® 40Vmax Hole Puncher 40V Bare Unit
+
+{
+  "price": "€3,059.49 inc VAT (€2,487.39 exc.vat)",
+  "description": "The Makita PP001G XGT® 40Vmax Hole Puncher has a durable, brushless motor for increased efficiency and runtime. It can punch both round and oval holes in steel and stainless steel. No sparks or chips. When finished the punch automatically returns to starting position.",
+  "availability": "Out of Stock",
+  "product_name": "Makita PP001GZK XGT® 40Vmax Hole Puncher 40V Bare Unit",
+  "specifications": [
+    "Max. Throat Depth: 40mm",
+    "Hole Shape: Round / Oblong",
+    "Max. Hole Size: Stainless Steel Ø20 / t6 mm, Mild Steel Ø20 / t9 mm",
+    "Weight: 10.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gsc-12v-13-professional-metal-shear-12v-bare-unit.html-lllmstxt|>
+## Bosch GSC 12V-13 Professional Metal Shear 12V Bare Unit
+
+{
+  "price": "€342.14 inc VAT (€278.16 exc.vat)",
+  "description": "Bosch GSC 12V-13 Professional Metal Shear for cutting a wide variety of metal materials of up to 1.3mm. It features an extremely compact and ergonomic design, making it perfect for fast cuts. The shear head is designed for excellent manoeuvrability in curves. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 12V batteries and chargers (Professional 12V System).",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GSC 12V-13 Professional Metal Shear 12V Bare Unit",
+  "specifications": [
+    "Minimum Curve Radius: 15mm",
+    "Cutting Capacity: Steel: (800 N/mm²) 0.6mm, (600 N/mm²) 0.8mm, (400 N/mm²) 1.3mm, Aluminium (200 N/mm²) 2.0mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gsc-18v-16-e-professional-metal-shear-18v-bare-unit.html-lllmstxt|>
+## Bosch GSC 18V-16 E Professional Metal Shear 18V Bare Unit
+
+{
+  "price": "€498.85 inc VAT (€405.57 exc.vat)",
+  "description": "Bosch GSC 18V-16 E Professional Metal Shear for cutting in a wide range of materials, such as steel and aluminium sheeting, ventilation pipes, and channels. With its high-quality design, brushless motor power, and maintenance-free components, this robust shear is the ideal choice for a powerful, long-life metal cutting performance. The shear’s perfect balance, light weight, and slimmed down grip to 156mm ensure effortless handling on the job. It offers restart protection for increased user protection. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System).",
+  "availability": "In Stock",
+  "product_name": "Bosch GSC 18V-16 E Professional Metal Shear 18V Bare Unit",
+  "specifications": [
+    "Minimum Curve Radius: 20mm",
+    "Cutting Capacity: Steel: (800 N/mm²) 0.7mm, (600 N/mm²) 1.2mm, (400 N/mm²) 1.6mm, Aluminium (200 N/mm²) 2.2mm",
+    "Weight: 1.6kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gus-12v-300-professional-shear-12v-bare-unit.html-lllmstxt|>
+## Bosch GUS 12V-300 Professional Shear 12V Bare Unit
+
+{
+  "price": "€141.14 inc VAT (€114.75 exc.vat)",
+  "description": "The Bosch GUS 12V-300 Professional Shears provide a fast solution for professional applications. Its self-sharpening, multi-material blade makes the tool versatile. Additionally, fast progress is possible due to the shears' no-load speed and a good rotation ratio for soft and flexible materials. This tool is intended for cutting PVC, carpet, cardboard, leather, and fabrics. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 12V batteries and chargers (Professional 12V System).",
+  "availability": "In Stock",
+  "product_name": "Bosch GUS 12V-300 Professional Shear 12V Bare Unit",
+  "specifications": [
+    "Self-sharpening multi-material blade",
+    "No-load speed for fast progress",
+    "Compatible with Bosch Professional 12V batteries and chargers",
+    "Intended for cutting PVC, carpet, cardboard, leather, and fabrics"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg412-125mm-xr-premium-angle-grinder-18-volt.html-lllmstxt|>
+## DEWALT DCG412 125mm XR Premium Angle Grinder 18 Volt
+
+{
+  "price": "€137.60 inc VAT",
+  "description": "The DEWALT DCG412M2 125mm XR Premium Angle Grinder has a powerful fan cooled motor and intelligent variable speed trigger and lock-off switch for enhanced work safety and control. It features the XR Lithium Ion Technology and is part of the intelligent XR Lithium Ion Series designed for efficiency and making applications faster. The powerful and highly efficient PM58 DEWALT fan cooled motor has replaceable brushes, and delivers up to 7,000 rotations per minute for fast cutting and grinding applications. It has steel cut spiral bevel gears which provide the highest level of durability and low vibration, increasing user productivity and the low profile jam pot gear case improves gear durability and ergonomics.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG412 125mm XR Premium Angle Grinder 18 Volt",
+  "specifications": [
+    "No Load Speed: 7,000/min",
+    "Disc Diameter: 125mm, M14 Spindle",
+    "Weight: 3.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg414-xr-flexvolt-grinder-54-volt.html-lllmstxt|>
+## DEWALT DCG414 XR FlexVolt Grinder 54 Volt
+
+{
+  "price": "€655.73 inc VAT",
+  "description": "The DEWALT DCG414 XR FlexVolt Grinder has a brushless motor for improved performance, even in demanding applications. With a recessed spindle lock design that allows max depth of cut and greater protection to button, especially when its used in confined spaces. The electronic brake stops the wheel quickly when the trigger is disengaged and the electronic clutch reduces the kickback reaction in the event of a pinch or stall. The grinder is fitted with a rubber overmold that provides enhanced grip and comfort. Comes with a two position side handle that offers greater comfort and control. DEWALT XR FlexVolt batteries stand at the forefront of cordless technology. They are the world’s first convertible 18/54 Volt batteries, offering unprecedented levels of power. Provides the unique ability to power heavy-duty construction power tools whilst still being compatible with existing DEWALT XR 18 Volt products and offering increased runtime. DCG414T2: 2 x 18/54 Volt 6.0Ah Li-Ion Batteries. DCG414N: Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG414 XR FlexVolt Grinder 54 Volt",
+  "specifications": [
+    "No Load Speed: 7,000/min",
+    "Disc Diameter: 125mm, M14 Spindle",
+    "Weight: 2.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-hd18-ag-angle-grinder-18-volt.html-lllmstxt|>
+## Milwaukee HD18 AG Angle Grinder 18 Volt
+
+{
+  "price": "€348.08 inc VAT",
+  "description": "The Milwaukee HD18 AG 115mm Angle Grinder has Milwaukee's high performance 4-pole motor to deliver maximum power whilst optimising the power to weight ratio. The angle grinder has a full metal gear case for heavy-duty durability. REDLINK™ overload protection electronics in both the tool and battery pack deliver excellent system durability. The reduced height of the gear box and slim girth design provide optimum ergonomics for comfortable use. An exclusive paddle switch design and multi-position side handle help improve ease of use.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee HD18 AG Angle Grinder 18 Volt",
+  "specifications": [
+    "Voltage: 18 Volt",
+    "No Load Speed: 9,000 /min",
+    "Max. Disc Diameter: 115 mm",
+    "Spindle Thread: M14",
+    "Weight: 2.4 kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg405-xr-brushless-125mm-grinder-18v.html-lllmstxt|>
+## DEWALT DCG405 XR Brushless 125mm Grinder 18V
+
+{
+  "price": "€166.79 inc VAT",
+  "description": "The DEWALT DCG405 XR Brushless Grinder has a powerful fan cooled motor with a mesh cover that provides additional motor protection by preventing dust being sucked through the motor. Its electronic clutch reduces the kick back reaction in the event of a pinch or stall. The two position side handle provides greater control, whilst the rubber overmould provides enhanced grip and comfort. For added safety, the electronic brake stops the wheel quickly when the trigger is released.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG405 XR Brushless 125mm Grinder 18V",
+  "specifications": [
+    "No Load Speed: 9,000/min",
+    "Disc Diameter: 125mm, M14 Spindle",
+    "Weight: 2.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg405fn-xr-brushless-125mm-flat-head-grinder-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCG405FN XR Brushless 125mm Flat Head Grinder 18V Bare Unit
+
+{
+  "price": "€200.69 inc VAT (€163.16 exc.vat)",
+  "description": "The DEWALT DCG405FN XR Brushless Grinder has a flat head design for access to acute angles with a compact gear case for increased access to tight spaces. The powerful fan cooled motor is fitted with a mesh cover that provides additional motor protection by preventing dust being sucked through the motor. Its electronic clutch reduces the kickback reaction in the event of a pinch or stall. The 2 position side handle provides greater comfort and control whilst the rubber overmould provides enhanced grip and comfort. For added safety the electronic brake stops the wheel quickly when the trigger is released. Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG405FN XR Brushless 125mm Flat Head Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm, M14 Spindle",
+    "Weight: 1.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dga467z-brushless-lxt-paddle-switch-angle-grinder-115mm-18v-bare-unit.html-lllmstxt|>
+## Makita DGA467Z Brushless LXT Paddle Switch Angle Grinder 115mm 18V Bare Unit
+
+{
+  "price": "€247.40 inc VAT (€201.14 exc.vat)",
+  "description": "The Makita DGA467Z Brushless LXT Angle Grinder has an electronic current limiter for overload protection, soft start and anti-restart function for ease of use. For added safety there is also an electric brake. The ergonomically designed handle features a soft grip and safety paddle control switch. The speed is easily controlled via the variable speed control dial. Active Feedback Sensing Technology (AFT): shuts down the tool to protect the user if the rotation speed suddenly slows down. Automatic Torque Drive Technology (ATDT): automatically changes the cutting speed according to load condition for optimum operation. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DGA467Z Brushless LXT Paddle Switch Angle Grinder 115mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 3,000-8,500/min.",
+    "Wheel Size: 115 x 22.23mm Bore",
+    "Max Wheel Thickness: 7.2mm",
+    "Weight: 3.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dga513z-brushless-125mm-grinder-18v-bare-unit.html-lllmstxt|>
+## Makita DGA513Z Brushless 125mm Grinder 18V Bare Unit
+
+{
+  "price": "€233.44 inc VAT (€189.79 exc.vat)",
+  "description": "The Makita DGA513 125mm Grinder is fitted with a brushless motor and has a feature that lets the user adjust the torque and speed according to the load condition. Automatic Torque Drive Technology automatically changes the cutting speed according to load condition for an optimum operation. There is also a variable speed control dial, lock-on function and an electronic current limiter for overload protection. The body of the grinder is covered with an ergonomic soft grip for increased comfort and control. There are a number of safety features on this model, including: an anti-restart function, electric brake and Active Feedback Sensing Technology (AFT) that shuts down the tool to protect the user if the rotation speed suddenly slows down. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DGA513Z Brushless 125mm Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 3,000-8,500/min.",
+    "Disc Diameter: 125mm",
+    "Max. Wheel Thickness: 7.2mm",
+    "Bore Diameter: 22.23mm",
+    "Weight: 2.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dga900z-brushless-230mm-angle-grinder-36v-2-x18v-bare-unit.html-lllmstxt|>
+## Makita DGA900Z Brushless 230mm Angle Grinder 36V (2 x18V) Bare Unit
+
+{
+  "price": "€330.80 inc VAT (€268.94 exc.vat)",
+  "description": "The Makita DGA900 Brushless Angle Grinder is powered by 2 x 18V Li-ion batteries (NOT supplied), in series to supply energy to the powerful 36V DC motor drive system. It has an electronic current limiter for overload protection, soft start and anti-restart function for ease of use. Active Feedback Sensing Technology (AFT): shuts down the tool to protect the user if the rotation speed suddenly slows down. Automatic Torque Drive Technology (ATDT): automatically changes the cutting speed according to load condition for optimum operation. For added safety there is also an electric brake. The ergonomically designed handle features a soft grip and there is also a large switch lever with lock off function. Battery indicators help prevent over-discharge and overheating. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DGA900Z Brushless 230mm Angle Grinder 36V (2 x18V) Bare Unit",
+  "specifications": [
+    "No Load Speed: 6,000/min.",
+    "Wheel Size: 230 x 22.23mm Bore",
+    "Max Wheel Thickness: 6.5mm",
+    "Weight: 8.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dga452-lxt-115mm-angle-grinder.html-lllmstxt|>
+## Makita DGA452 LXT 115mm Angle Grinder
+
+{
+  "price": "from €131.55 inc VAT",
+  "description": "The Makita DGA452 LXT Angle Grinder has been developed as the first Angle grinder of the MAKSTAR series models. It has an easy grip body that has high comfort grips. Fitted with an anti-restart function with a warning lamp and it is capable of using wheels or discs that are designed for use with mains grinders. The electronic current limiter is also fitted with a warning lamp and a 4-pole motor.",
+  "availability": "In Stock",
+  "product_name": "Makita DGA452 LXT 115mm Angle Grinder",
+  "specifications": [
+    "No Load Speed: 10,000/min.",
+    "Wheel Diameter: 115mm",
+    "Weight: 2.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dga463-brushless-lxt-angle-grinder.html-lllmstxt|>
+## Makita DGA463 Brushless LXT Angle Grinder
+
+{
+  "price": "€232.11 inc VAT",
+  "description": "The Makita DGA463 Brushless LXT Grinder is fitted with an on/off slide switch and lock-on function for ease of use. The brushless motor provides increased efficiency. It has a variable speed control dial with built-in Automatic Torque Drive Technology: automatically changes the cutting speed according to load condition for optimum operation. This grinder features a number of safety features: anti-restart function, electric brake, soft start, electronic current limiter for overload protection and Active Feedback Sensing Technology (AFT): shuts down the tool to protect the user if the rotation speed suddenly slows down. The body features an ergonomic soft grip for reduced fatigue during prolonged use. There is also a handy battery fuel gauge and removable dust covers.",
+  "availability": "In Stock",
+  "product_name": "Makita DGA463 Brushless LXT Angle Grinder",
+  "specifications": [
+    "No Load Speed: 3,000-8,500/min.",
+    "Max. Wheel Diameter: 115mm",
+    "Bore Diameter: 22.23mm",
+    "Max. Wheel Thickness: 7.2mm",
+    "Weight: 2.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg418-xr-flexvolt-grinder-125mm.html-lllmstxt|>
+## DEWALT DCG418 XR FlexVolt Grinder 125mm
+
+{
+  "price": "from €305.38 inc VAT",
+  "description": "The DEWALT DCG418 XR FlexVolt Grinder has a high power density motor with more copper and higher grade magnets for increased power, as well as an upgraded electronic module programme and components. A mesh guard improves durability and reduces motor dust ingress/contamination. When powered by a FlexVolt DCB546 or DCB547 battery, it provides up to 30% more power than the DCG414. Its compact gear case allows ease of use and access into tight spaces. Fitted with a rubber overmould that provides enhanced grip and comfort. An E-brake and E-clutch increase user safety, helping to protect the user in the event of disc bind up. There is also a one-touch guard system for easy keyless guard adjustments. Comes with a two-position side handle that offers greater comfort and control.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG418 XR FlexVolt Grinder 125mm",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Max. Disc Diameter: 125mm",
+    "Weight: 2.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg409nt-xr-flexvolt-advantage-grinder.html-lllmstxt|>
+## DeWALT DCG409NT XR FlexVolt Advantage Grinder
+
+{
+  "price": "€451.96 inc VAT",
+  "description": "The DEWALT DCG409 XR FlexVolt Advantage Grinder uses intelligent electronics to sense what battery is in the tool and increase power and torque when using FlexVolt batteries. Providing up to 42% more power when used with XR FlexVolt batteries compared to standard 18V packs. The brushless motor provides increased run time and durability. An electronic soft start allows for a more controlled start-up. Protective mesh dust guards offer additional protection by protecting against motor contamination, increasing tool durability. Its electronic brake and clutch work quickly to keep you safe. The rubber overmoulded rear and side handles increase user comfort and control.",
+  "availability": "In Stock",
+  "product_name": "DeWALT DCG409NT XR FlexVolt Advantage Grinder",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Max. Disc Diameter: 125mm",
+    "Spindle Thread: M14",
+    "Weight: 1.8kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-x20s-angle-grinder-20v-1-x-20ah-li-ion.html-lllmstxt|>
+## Olympia Power Tools X20S™ Angle Grinder 20V 1 x 2.0Ah Li-ion
+
+{
+  "price": "€93.64 inc VAT (€76.13 exc.vat)",
+  "description": "The Olympia Tools® X20S™ Angle Grinder has a powerful motor and an all-metal gearbox for increased durability. Its 3-position handle provides greater comfort and control whilst the soft grip provides enhanced comfort. The spindle lock and tool-less disc guard enable you to change accessories easily. Supplied with: 1 x Quick-Release Guard, 1 x Side Handle, 1 x Wrench, 1 x 20V 2.0Ah Li-ion Battery and 1 x X20S™ Fast Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Olympia Power Tools X20S™ Angle Grinder 20V 1 x 2.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 8,500/min.",
+    "Disc Diameter: 115mm",
+    "Spindle: M14",
+    "Weight: 1.95kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black-and-decker-bcg720d13-angle-grinder-18v-1-x-20ah-li-ion.html-lllmstxt|>
+## Black & Decker BCG720D13 Angle Grinder 18V 1 x 2.0Ah Li-ion
+
+{
+  "price": "€99.38 inc VAT (€80.80 exc.vat)",
+  "description": "The Black & Decker BCG720D13 Angle Grinder is perfect for those more challenging projects. Provides the power, RPM and battery run time you need to take on any cutting tasks in tile, metal and plastic or grinding tasks, such as removal of rust. Its 3-handle position provides added comfort and there is an easy to operate switch, ideal for those more taxing jobs. Part of the 18V POWERCONNECT™ battery system, the interchangeable cordless battery system that works with all BLACK+DECKER® 18V cordless products. Supplied with: 3 x Discs, 1 x 18V 2.0Ah Li-ion Battery and 1 x Charger in a carton.",
+  "availability": "Out of Stock",
+  "product_name": "Black & Decker BCG720D13 Angle Grinder 18V 1 x 2.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 8,500/min.",
+    "Disc Size: 125mm",
+    "Spindle Size: M14"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-xgt-40vmax-bl-paddle-switch-grinder-115mm.html-lllmstxt|>
+## Makita XGT 40Vmax BL Paddle Switch Grinder, 115mm
+
+{
+  "price": "€1,024.10 inc VAT",
+  "description": "The Makita XGT 40Vmax Brushless Paddle Switch Grinder is operated via a safety paddle switch. The brushless motor features a soft start function and provides increased durability. It has a number of safety features: electric brake, anti-restart function, and Active Feedback Sensing Technology (AFT): shuts down the tool if the rotation speed suddenly slows down. The tool-less wheel cover is adjustable to any desired position. The XGT 40Vmax range is equipped with special electronics providing digital communication between tool, battery and charger. This allows the charger to provide the optimal charge to the battery depending on the status of the battery, whilst the tool can respond to the status of the battery by optimising performance to the battery level.",
+  "availability": "In Stock",
+  "product_name": "Makita XGT 40Vmax BL Paddle Switch Grinder, 115mm",
+  "specifications": [
+    "No Load Speed: 8,500/min.",
+    "Disc Diameter: 115mm",
+    "Bore: 22.23mm",
+    "Weight: 3.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fsagv115xpdb-0-fuel-angle-grinder-with-paddle-switch-18v-bare-unit.html-lllmstxt|>
+## Milwaukee Power Tools M18 FSAGV115XPDB-0 FUEL™ Angle Grinder with Paddle Switch 18V Bare Unit
+
+{
+  "price": "€183.47 inc VAT (€149.16 exc.vat)",
+  "description": "The Milwaukee M18 FSAGV115XPDB-0 FUEL™ Angle Grinder has a non-lockable safety paddle switch with a line-lock-out function to prevent automatic start up. It offers maximum control in every application with a 5-step speed dial, making it ideal for working with stainless steel and aluminium and for rust and paint removal. Integrates three MILWAUKEE®-exclusive technologies - the POWERSTATE™ brushless motor, REDLITHIUM™ battery pack and REDLINK PLUS™ intelligence hardware and software - which deliver outstanding power, run time and durability on the jobsite. Fitted with a slim, anti-vibration side handle, and RAPIDSTOP™ for fastest disc brake in less than 2 seconds and best user protection. There is also a removable dust screen to prevent debris entrance, prolonging motor life, and a keyless guard for great cutting capacity and fast guard adjustment without using a key. It utilises the FIXTEC™ system for tool-free wheel change. Flexible battery system: works with all MILWAUKEE® M18™ batteries. Supplied as a Bare Unit - No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools M18 FSAGV115XPDB-0 FUEL™ Angle Grinder with Paddle Switch 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 3,500-8,500/min.",
+    "Cutting Depth: 28mm",
+    "Disc Diameter: 115mm",
+    "Weight: 2.7kg (with battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg440n-xr-flexvolt-angle-grinder-54v-bare-unit.html-lllmstxt|>
+## DEWALT DCG440N XR FlexVolt Angle Grinder 54V Bare Unit
+
+{
+  "price": "€383.92 inc VAT (€312.13 exc.vat)",
+  "description": "The DEWALT DCG440N XR FlexVolt Angle Grinder has a high-power brushless motor for extended durability, efficiency and power. An advanced electronic control module enables soft start and effective braking. The handle incorporates overmoulded grips and a side handle for ultimate usability and comfort. An E-Clutch and Kickback-Brake ensure maximum user protection. Fitted with a keyless guard allows for quick and easy guard adjustments, without tools. Dust guards and power off electronic overload protection, guard against harsh working conditions. Supplied as a Bare Unit - No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCG440N XR FlexVolt Angle Grinder 54V Bare Unit",
+  "specifications": [
+    "No Load Speed: 6,500/min.",
+    "Disc Diameter: 180mm",
+    "Max. Depth of Cut: 55mm",
+    "Spindle: M14",
+    "Weight: 2.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg406n-xr-brushless-angle-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCG406N XR Brushless Angle Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€177.99 inc VAT (€144.71 exc.vat)",
+  "description": "DEWALT DCG406N XR Brushless Angle Grinder with paddle switch operation. An electronic brake stops the wheel quickly when the trigger is released, whilst an electronic clutch reduces the kickback reaction in the event of a pinch or stall. A mesh cover restricts dust being sucked through the motor, prolonging motor life. The ergonomic design includes a rubber overmould for increased grip and comfort. Its two-position side handle allows for greater comfort and control. Bare Unit - No Battery or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG406N XR Brushless Angle Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 9,000/min.",
+    "Max. Disc Diameter: 125mm.",
+    "Spindle Thread: M14.",
+    "Weight: 1.75kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dga900pt2-brushless-lxt-angle-grinder-36v-2x18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DGA900PT2 Brushless LXT Angle Grinder 36V (2x18V) 2 x 5.0Ah Li-ion
+
+{
+  "price": "€1,606.16 inc VAT (€1,305.82 exc.vat)",
+  "description": "The Makita DGA900 Brushless LXT Angle Grinder is powered by 2 x 18V Li-ion batteries in series, providing the equivalent energy as a 36V DC motor drive system. Automatic Torque Drive Technology automatically changes the cutting speed according to load condition for optimum operation. Easy to operate, its large switch lever also features a lock off function. Fitted with an ergonomically designed soft grip handle. This angle grinder has a number of safety features; electric brake, anti-restart function, electronic current limiter and Active Feedback Sensing Technology that detects a sudden slowdown and shuts the machine off to protect the user. As well as the ability to reverse direction to get the head untangled. There are also battery indicators for over-discharge and overheating protection.",
+  "availability": "In Stock",
+  "product_name": "Makita DGA900PT2 Brushless LXT Angle Grinder 36V (2x18V) 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 6,000/min",
+    "Max. Wheel Diameter: 230mm",
+    "Bore Diameter: 22.23mm",
+    "Max. Wheel Thickness: 6.5mm",
+    "Weight: 8.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg409vsnt-xr-flexvolt-advantage-grinder-125mm-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCG409VSNT XR FlexVolt Advantage Grinder 125mm 18V Bare Unit
+
+{
+  "price": "€296.66 inc VAT (€241.19 exc.vat)",
+  "description": "The DEWALT DCG409VS XR FlexVolt Advantage Grinder uses intelligent electronics to sense what battery is in the tool. Both power and torque are increased when using XR FlexVolt batteries. This grinder providing up to 42% more power when used with XR batteries compared to standard 18V packs. An adjustable variable speed dial allows the user to pre-set speeds for more control and correct application. The brushless motor provides increased run time and durability while an electronic soft start allows for a more controlled start-up. This DEWALT product has protective mesh dust guards offering additional protection against motor contamination and increasing tool durability. Its electronic brake and clutch work quickly to keep you safe and the rubber overmoulded rear and side handles increase user comfort and control. Comes as a Bare Unit, NO battery or charger provided.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG409VSNT XR FlexVolt Advantage Grinder 125mm 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 3,000-9,000/min.",
+    "Max. Disc Diameter: 125mm.",
+    "Spindle Thread: M14.",
+    "Weight: 1.8kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga013g-xgt-40vmax-bl-paddle-switch-grinder.html-lllmstxt|>
+## Makita GA013G XGT 40Vmax BL Paddle Switch Grinder
+
+{
+  "price": "€322.44 inc VAT",
+  "description": "The Makita GA013G XGT 40Vmax Grinder is operated via a safety paddle switch. The brushless motor features a soft start function and provides increased durability. It has a number of safety features: electric brake, anti-restart function, and Active Feedback Sensing Technology (AFT): shuts down the tool if the rotation speed suddenly slows down. The tool-less wheel cover is adjustable to any desired position. The XGT 40Vmax range is equipped with special electronics providing digital communication between tool, battery and charger. This allows the charger to provide the optimal charge to the battery depending on the status of the battery, whilst the tool can respond to the status of the battery by optimising performance to the battery level.",
+  "availability": "In Stock",
+  "product_name": "Makita GA013G XGT 40Vmax BL Paddle Switch Grinder",
+  "specifications": [
+    "No Load Speed: 8,500/min.",
+    "Disc Diameter: 125mm.",
+    "Bore: 22.23mm.",
+    "Weight: 3.0kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcg460-xr-flexvolt-angle-grinder.html-lllmstxt|>
+## DEWALT DCG460 XR FlexVolt Angle Grinder
+
+{
+  "price": "€438.02 inc VAT",
+  "description": "The DEWALT DCG460 XR FlexVolt Angle Grinder has a brushless motor for improved performance, even in demanding applications. Its soft start feature helps to prevent the tool from jolting upon start up. Whilst the electronic Clutch (E-Clutch) eliminates kick back and protects both user and tool from high-load situations. Its compact gear casing allows better access in to limited spaces. The handle incorporates overmoulded grips and a side handle for ultimate usability and comfort. For the long-life of the grinder, a mesh guard reduces dust intake to the motor.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCG460 XR FlexVolt Angle Grinder",
+  "specifications": [
+    "No Load Speed: 6,000/min.",
+    "Blade Diameter: 230mm.",
+    "Bore: M14.",
+    "Weight: 5.94kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga004g-xgt-40vmax-bl-angle-grinder-115mm.html-lllmstxt|>
+## Makita GA004G XGT 40Vmax BL Angle Grinder, 115mm
+
+{
+  "price": "€1,065.98 inc VAT",
+  "description": "The Makita GA004GZ XGT 40Vmax Angle Grinder is operated via an on/off slide switch. The brushless motor features a soft start function and provides increased durability. It has a number of safety features: electric brake, anti-restart function, and Active Feedback Sensing Technology (AFT): shuts down the tool if the rotation speed suddenly slows down. The tool-less wheel cover is adjustable to any desired position. The XGT 40Vmax range is equipped with special electronics providing digital communication between tool, battery and charger. This allows the charger to provide the optimal charge to the battery depending on the status of the battery, whilst the tool can respond to the status of the battery by optimising performance to the battery level.",
+  "availability": "In Stock",
+  "product_name": "Makita GA004G XGT 40Vmax BL Angle Grinder, 115mm",
+  "specifications": [
+    "No Load Speed: 8,500/min.",
+    "Disc Diameter: 115mm.",
+    "Bore: 22.23mm.",
+    "Weight: 2.9kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga038g-xgt-40vmax-bl-angle-grinder-230mm.html-lllmstxt|>
+## Makita GA038G XGT 40Vmax BL Angle Grinder, 230mm
+
+{
+  "price": "€415.30 inc VAT",
+  "description": "The Makita GA038G XGT 40Vmax BL Angle Grinder is excellent in continuous heavy-duty work, providing a great solution to high demand, industrial applications. It has a brushless, maintenance-free and long-life motor with a soft start feature providing safety when working. The anti-restart function has been engineered to prevent motor start up when a battery is inserted with switch locked on. Active Feedback sensing Technology (AFT) stops the engine if the rotation suddenly stops. XPT (Extreme Protection Technology) provides improved dust and water resistance for operation in harsh job site conditions. The battery protection circuit protects against overloading, over-discharging and over-heating. Compatible with the Auto-Start Wireless System (AWS), connects to compatible dust extractors with Bluetooth®. The dust extractor automatically runs while the switch is on.",
+  "availability": "In Stock",
+  "product_name": "Makita GA038G XGT 40Vmax BL Angle Grinder, 230mm",
+  "specifications": [
+    "No Load Speed: 6,600/min.",
+    "Disc Diameter: 230mm.",
+    "Bore: 22.23mm.",
+    "Weight: 2.9kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-ag-18115-li-bl-solo-power-x-change-grinder-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-AG 18/115 Li BL-Solo Power X-Change Grinder 18V Bare Unit
+
+{
+  "price": "€92.84 inc VAT (€75.48 exc.vat)",
+  "description": "The Einhell TE-AG 18/115 Li BL-Solo Power X-Change Grinder has a brushless motor and robust aluminium gearing housing that offers greater power and a longer lifetime. Equipped with overload protection, a soft start function and restart protection for increased user safety. The separation of motor and gearing provides for smooth operation, while the quick-adjust cutter guard enables flexible working. Comfortable working is ensured via the slim design with its ergonomic soft grip and additional handle. For flexibility, the additional handle can be fitted in two positions. Supplied as a Bare Unit - No Battery or Charger. Cutting disc not included.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-AG 18/115 Li BL-Solo Power X-Change Grinder 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 8,500/min.",
+    "Disc Size: 115mm",
+    "Weight: 1.92kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-ag-18115-li-power-x-change-angle-grinder-18v-1-x-40ah-li-ion.html-lllmstxt|>
+## Einhell TE-AG 18/115 Li Power X-Change Angle Grinder 18V 1 x 4.0Ah Li-ion
+
+{
+  "price": "€131.09 inc VAT (€106.58 exc.vat)",
+  "description": "The Einhell TE-AG 18/115 Li Power X-Change Angle Grinder is the lightest angle grinder in its class and features a robust aluminium gearing housing. Thanks to the soft start function and restart safeguard, the angle grinder starts up smoothly and is safer to use. Its slimline design with ergonomic soft grip provides increased comfort. There is also an additional handle that can be fitted in three positions. Modified air guidance ensures optimum cooling of the tool and low strain on the gearing during operation. The disc guard comes with a quick-adjust facility which can be adapted with just a twist of the hand to any task. An overload cut-out contributes to greater safety and longer service life.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-AG 18/115 Li Power X-Change Angle Grinder 18V 1 x 4.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 8,500/min",
+    "Max. Cutting Depth: 28mm",
+    "Disc Size: 115mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-axxio-36230-q-power-x-change-grinder-230mm-36v-bare-unit.html-lllmstxt|>
+## Einhell AXXIO 36/230 Q Power X-Change Grinder 230mm 36V Bare Unit
+
+{
+  "price": "€187.75 inc VAT (€152.64 exc.vat)",
+  "description": "Einhell AXXIO 36/230 Q Power X-Change Grinder with TWIN-PACK technology and brushless motor for more power and a longer running time. Thanks to its powerful motor, this angle grinder delivers the same power as a corresponding corded device with 2200W. A quick-release nut ensures quick, tool-free disc change. The slim design with ergonomic softgrip enables comfortable use. Its additional handle can be mounted in 3 positions. The rotating main handle offers maximum flexibility, while the disc guard with quick adjustment allows flexible working. An anti-vibration function ensures low-vibration work. Softstart and restart protection ensure increased user safety, while battery protection protects against flying sparks and dust. The robust aluminium gearbox housing and the overload protection guarantee durability. Comes as a Bare Unit, NO battery or charger. This grinder needs 2 x 18V batteries to run, a 3.0Ah battery or above is strongly recommended for best results. Cutting discs also not included.",
+  "availability": "In Stock",
+  "product_name": "Einhell AXXIO 36/230 Q Power X-Change Grinder 230mm 36V Bare Unit",
+  "specifications": [
+    "No Load Speed: 6,600/min.",
+    "Max. Disc Diameter: 230mm.",
+    "Max. Cutting Depth: 70mm.",
+    "Weight: 4.21kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/hitachi-g23st-angle-grinder-230mm.html-lllmstxt|>
+## Hitachi G23ST Angle Grinder 230mm
+
+{
+  "price": "€79.99",
+  "description": "The Hitachi G23ST 230mm Grinder is the best in its class, lightweight and with improved overload durability. The motor has halved stator coils for excellent cooling efficiency, which also increases motor durability. It has a three position side handle and a spindle lock for increased safety. Labyrinth construction, further prolongs the tools life, as the motor is protected from dust and debris. The stator core has been downsized by 6mm in diameter to reduce the overall weight. This results in an increase in max power output per unit mass. Supplied With: 1 x Side Handle and 1 x Spanner. Disc NOT supplied.",
+  "availability": "In Stock",
+  "product_name": "Hitachi G23ST Angle Grinder 230mm",
+  "specifications": [
+    "Input Power: 2,000 Watt",
+    "No Load Speed: 6,600/min",
+    "Disc Diameter: 230mm, M14 x 2 Spindle",
+    "Overall Length: 469mm",
+    "Weight: 5.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga9020-230mm-angle-grinder.html-lllmstxt|>
+## Makita GA9020 230mm Angle Grinder
+
+{
+  "price": "€148.33 inc VAT",
+  "description": "The Makita GA9020 230mm Angle Grinder has machined bevel gears and a gear housing that can be positioned at every 90°. The large trigger switch, vibration absorbing side grip and tool-less wheel cover provide more comfort and control. There is also an optional dust cover attachment. It is supplied with a lock nut wrench, side handle and a wheel guard.",
+  "availability": "In Stock",
+  "product_name": "Makita GA9020 230mm Angle Grinder",
+  "specifications": [
+    "Input Power: 2,000W",
+    "No Load Speed: 6,600/min.",
+    "Disc Size: 230mm",
+    "Spindle: M14 x 2mm",
+    "Weight: 4.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga9020s-230mm-angle-grinder-2000-watt.html-lllmstxt|>
+## Makita GA9020S 230mm Angle Grinder 2000 Watt
+
+{
+  "price": "€150.75 inc VAT",
+  "description": "The Makita GA9020S 230mm Angle Grinder has a superior anti-dust structure for exceptional durability and long service life. The machined bevel gears and a gear housing that can be positioned at every 90°. The large trigger switch, vibration absorbing side grip, and toolless wheel cover provide more comfort and control. There is also an optional dust cover attachment.",
+  "availability": "In Stock",
+  "product_name": "Makita GA9020S 230mm Angle Grinder 2000 Watt",
+  "specifications": [
+    "Input Power: 2,000 Watt",
+    "No Load Speed: 6,600/min",
+    "Disc Size: 230 x 22mm Bore",
+    "Spindle Size: M14 x 2mm",
+    "Weight: 5.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga9040s-angle-grinder.html-lllmstxt|>
+## Makita GA9040S Angle Grinder
+
+{
+  "price": "€207.65 inc VAT",
+  "description": "The Makita GA9040S Angle Grinder has a rotatable rear handle for easy handling and manoeuvrability. The ergonomic, low vibration design provides increased user comfort. Double insulation for added user safety. Supplied with: 1 x Lock Nut Wrench, 1 x Side Handle and 1 x Wheel Guard",
+  "availability": "In Stock",
+  "product_name": "Makita GA9040S Angle Grinder",
+  "specifications": [
+    "Input Power: 2,400W",
+    "No Load Speed: 6,600/min.",
+    "Max. Wheel Diameter: 230mm",
+    "Bore: 22mm",
+    "Spindle Size : M14 x 2mm",
+    "Weight: 5.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga9050-230mm-angle-grinder.html-lllmstxt|>
+## Makita GA9050 230mm Angle Grinder
+
+{
+  "price": "€148.72 inc VAT",
+  "description": "The Makita GA9050 230mm Angle Grinder has a compact and lightweight design which has been achieved due to its compact and lightweight motor, down-sized gear housing and main handle. It has a large trigger switch for ease of use. It is supplied with a lock nut wrench and a wheel guard.",
+  "availability": "In Stock",
+  "product_name": "Makita GA9050 230mm Angle Grinder",
+  "specifications": [
+    "Input Power: 2,000W",
+    "No Load Speed: 6,600/min.",
+    "Disc Size: 230 x 22mm bore",
+    "Spindle Size: M14 x 2mm",
+    "Weight: 4.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-ag-230-angle-grinder-2350w-240v.html-lllmstxt|>
+## Einhell TE-AG 230 Angle Grinder 2350W 240V
+
+{
+  "price": "€109.05 inc VAT (€88.66 exc.vat)",
+  "description": "The Einhell TE-AG 230 Angle Grinder is a robust and powerful tool for real experts with exacting demands, which offers outstanding performance on challenging cutting, grinding and roughing jobs everywhere in the home, workshop and garage. The TE-AG 230 features a flat sturdy metal gear head for excellent power transfer and low vibration operation, both of which help working in areas with difficult access. A soft start function ensure the tool starts up smoothly and safely. Its wheel guard with quick-adjust facility can be adapted with just a twist of the hand to any task, while the spindle stop permits easy and speedy tool change. The swiveling main handle ensures maximum flexibility for work. In addition the anti-vibration main handle damps vibrations, enabling you to work longer with less fatigue. The additional handle can be secured in three different positions for exact adaptation to the particular workpiece, thus ensuring a perfect hold for safe and speedy operation. A cable clip for securing the wound-up cable with just a twist of the hand keeps the TE-AG 230 neat and safe when stored away. Supplied with a face spanner but comes without a cutting wheel.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-AG 230 Angle Grinder 2350W 240V",
+  "specifications": [
+    "Input Power: 2,350W",
+    "No Load Speed: 6,500/min",
+    "Max. Cutting Depth: 62mm",
+    "Max. Disc Diameter: 230mm",
+    "Weight: 5.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwe492k-angle-grinder-in-kitbox-230mm.html-lllmstxt|>
+## DEWALT DWE492K Angle Grinder In Kitbox 230mm
+
+{
+  "price": "€181.50 inc VAT",
+  "description": "The DEWALT DWE492K Angle Grinder has an abrasion protected motor for increased durability. The two position side handle allows the user to optimise the handle position to give maximum comfort. The grinder has a brush window for quick brush replacement and a spindle lock for quick wheel changes. Supplied with: 1 x Protective Guard, 1 x Side Handle, 1 x Inner & Outer Disc Flanges, 1 x Spanner and 1 x Kitbox.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DWE492K Angle Grinder In Kitbox 230mm",
+  "specifications": [
+    "Input Power: 2,200 Watt",
+    "No Load Speed: 6,600/min",
+    "Max. Disc Diameter: 230mm",
+    "Spindle Thread: M14",
+    "Length: 490mm",
+    "Height: 151mm",
+    "Weight: 5.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga5040c-125mm-240v-angle-grinder.html-lllmstxt|>
+## Makita Ga5040C 125Mm 240V Angle Grinder
+
+{
+  "price": "€195.98 inc VAT (€159.33 exc.vat)",
+  "description": "MAKGA5040C2 : €195.98",
+  "availability": "In Stock",
+  "product_name": "Makita Ga5040C 125Mm 240V Angle Grinder",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga5040c-125mm-angle-grinder-1400w-110v.html-lllmstxt|>
+## Makita GA5040C 125mm Angle Grinder 1400W 110V
+
+{
+  "price": "€195.98 inc VAT (€159.33 exc.vat)",
+  "description": "GA5040C Angle Grinder features the Super Joint System II, for increased machine durability by absorbing the vibration produced by the wheel grinding or cutting material. It also has an anti-restart mechanism. Input Power: 1,400W No Load Speed: 2,800-11,000/min. Wheel Size: 125 x 22.23mm Bore Weight: 2.5kg",
+  "availability": "In Stock",
+  "product_name": "Makita GA5040C 125mm Angle Grinder 1400W 110V",
+  "specifications": [
+    "Input Power: 1,400W",
+    "No Load Speed: 2,800-11,000/min",
+    "Wheel Size: 125 x 22.23mm Bore",
+    "Weight: 2.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-9565pz-angle-grinder.html-lllmstxt|>
+## Makita 9565PZ Angle Grinder
+
+{
+  "price": "€143.92 inc VAT",
+  "description": "Makita 9565PZ Angle Grinder with a dustproof construction and easy-to-operate paddle on/off switch. Equipped with the Super Joint System to prevent motor burn out. It has a lightweight design, fitted with an ergonomic handle to increase user comfort ensuring longer periods of operation. Supplied with: 1 x Grinding Wheel, 1 x Wrench and 1 x Side Handle.",
+  "availability": "In Stock",
+  "product_name": "Makita 9565PZ Angle Grinder",
+  "specifications": [
+    "Input Power: 1,100W",
+    "No Load Speed: 12,000/min.",
+    "Wheel: 125 x 22mm Bore",
+    "Spindle Size: M14 x 2mm",
+    "Weight: 1.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwe4117-slide-switch-angle-grinder-950w-240v.html-lllmstxt|>
+## DeWALT DWE4117 Slide Switch Angle Grinder 950W 240V
+
+{
+  "price": "€73.28 inc VAT (€59.58 exc.vat)",
+  "description": "The DEWALT DWE4117 Slide Switch Angle Grinder is suitable for both trade use and DIYers. It has anti-restart protection for increased user safety. The side handle can be attached to either side for convenience and it allows you to control the machine against any torque produced.",
+  "availability": "In Stock",
+  "product_name": "DeWALT DWE4117 Slide Switch Angle Grinder 950W 240V",
+  "specifications": [
+    "Input Power: 950W",
+    "No Load Speed: 12,000/min.",
+    "Disc Diameter: 125mm",
+    "Spindle: M14",
+    "Weight: 1.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga5091-slide-switch-angle-grinder.html-lllmstxt|>
+## Makita GA5091 Slide Switch Angle Grinder
+
+{
+  "price": "€251.50 inc VAT",
+  "description": "Makita GA5091 Slide Switch Angle Grinder with AFT (Active Feedback sensing Technology) turns the motor off if rotation speed suddenly slows or wheel is forced to stop. Variable speed control by dial, so you can easily match the speed to the task at hand. An anti-restart function minimises accidental start-up. The Super Joint System II helps to dampen vibrations, for less fatique during long work periods. For added safety there is a mechanical brake. Supplied with: 1 x A-80656 Grinding Wheel 125 x 6mm, 1 x Side Handle and 1 x Lock Nut Wrench.",
+  "availability": "In Stock",
+  "product_name": "Makita GA5091 Slide Switch Angle Grinder",
+  "specifications": [
+    "Input Power: 1900W",
+    "No Load Speed: 2,800-11,500/min",
+    "Disc Size: 125mm x 22.23mm Bore",
+    "Spindle Thread: M14",
+    "Power Supply Cord: 2.5m",
+    "Weight: 2.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga5095-paddle-switch-angle-grinder.html-lllmstxt|>
+## Makita GA5095 Paddle Switch Angle Grinder
+
+{
+  "price": "€232.15 inc VAT",
+  "description": "Makita GA5095 Paddle Switch Angle Grinder with AFT (Active Feedback sensing Technology) turns the motor off if rotation speed suddenly slows or the wheel is forced to stop. Variable speed control by dial, so you can easily match the speed to the task at hand. An anti-restart function minimises accidental start-up. The Super Joint System II helps to dampen vibrations, for less fatique during long work periods. For added safety there is a mechanical brake. Supplied with: 1 x A-80656 Grinding Wheel 125 x 6mm, 1 x Side Handle and 1 x Lock Nut Wrench.",
+  "availability": "In Stock",
+  "product_name": "Makita GA5095 Paddle Switch Angle Grinder",
+  "specifications": [
+    "Input Power: 1900W",
+    "No Load Speed: 11,500/min",
+    "Disc Size: 125mm x 22.23mm Bore",
+    "Spindle Thread: M14",
+    "Power Supply Cord: 4m",
+    "Weight: 2.24kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwe4206-mini-grinder-115mm.html-lllmstxt|>
+## DEWALT DWE4206 Mini Grinder 115mm
+
+{
+  "price": "€93.52 inc VAT",
+  "description": "The DEWALT DWE4206 115mm Mini Grinder is fitted with a no-volt release switch that prevents the unit from starting unintentionally when locked on. The switch must be consciously reset before power is delivered. Soft start reduces movement of the tool on start up increasing user control and there is a high efficiency motor that improves performance, even in demanding applications. The dust ejection system removes the majority of debris from the air which passes over the motor, preventing abrasion and tracking. It has a new guard design that allows guard fitment, adjustment or removal without the use of tools, for increased flexibility. A side positioned spindle lock gives greater protection to button when using in confined spaces. The grinder as pop off brushes that protect the armature from damage at the end of brush life resulting in greater motor durability. It has a small girth that allows comfortable gripping and it has a low profile gear case, that allows access in confined areas. There is also an anti vibration side handle to improve user comfort, anti lock flange that prevents flanges from permanently locking up and locking the disc on and fully leaded stator windings for increased motor durability.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DWE4206 Mini Grinder 115mm",
+  "specifications": [
+    "Input Power: 1,010 Watt",
+    "No Load Speed: 11,000/min",
+    "Max. Disc Diameter: 115mm",
+    "Spindle Thread: M14",
+    "Length: 285mm",
+    "Weight: 2.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwe4206k-mini-grinder-with-kitbox-115mm.html-lllmstxt|>
+## DEWALT DWE4206K Mini Grinder With Kitbox 115mm
+
+{
+  "price": "€106.46 inc VAT",
+  "description": "The DEWALT DWE4206 115mm Mini Grinder is fitted with a no-volt release switch that prevents the unit from starting unintentionally when locked on. The switch must be consciously reset before power is delivered. Soft start reduces movement of the tool on start up increasing user control and there is a high efficiency motor that improves performance, even in demanding applications. The dust ejection system removes the majority of debris from the air which passes over the motor, preventing abrasion and tracking. It has a new guard design that allows guard fitment, adjustment or removal without the use of tools, for increased flexibility. A side positioned spindle lock gives greater protection to the button when using in confined spaces. The grinder as pop off brushes that protect the armature from damage at the end of brush life resulting in greater motor durability. It has a small girth that allows comfortable gripping and it has a low profile gear case, that allows access in confined areas. There is also an anti-vibration side handle to improve user comfort, anti lock flange that prevents flanges from permanently locking up and locking the disc on and fully leaded stator windings for increased motor durability.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DWE4206K Mini Grinder With Kitbox 115mm",
+  "specifications": [
+    "Input Power: 1,010 Watt",
+    "No Load Speed: 11,000/min",
+    "Max. Disc Diameter: 115mm",
+    "Spindle Thread: M14",
+    "Length: 285mm",
+    "Weight: 2.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga4530r-115mm-slim-body-angle-grinder.html-lllmstxt|>
+## Makita GA4530R 115mm Slim Body Angle Grinder
+
+{
+  "price": "from €79.22 inc VAT",
+  "description": "The Makita GA4530 115mm Slim Body Angle Grinder fits any user's palm and fingers perfectly. It provides easy and comfortable handling while minimising hand fatigue and pain. The side grip is angled at 20° for manoeuvrability and the best performance. The GA4530 is fitted with a high-quality motor with excellent heat resistance. It has built-in dust protection with dustproof ball bearings, the motor field is coated with protective powder varnish. Two labyrinth rings seal the bearings and machine bevelled gears from dust and dirt.",
+  "availability": "In Stock",
+  "product_name": "Makita GA4530R 115mm Slim Body Angle Grinder",
+  "specifications": [
+    "Input Power: 720W",
+    "No Load Speed: 11,000/min.",
+    "Wheel: 115 x 22.23mm Bore",
+    "Weight: 1.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ga4534-paddle-switch-angle-grinder.html-lllmstxt|>
+## Makita GA4534 Paddle Switch Angle Grinder
+
+{
+  "price": "from €101.46 inc VAT",
+  "description": "This Makita GA4534 Angle Grinder features an easy-to-use paddle type on/off switch, there is no lock-on feature. The labyrinth construction protects all ball bearings from dust and debris, prolonging working life. Ergonomically designed, high comfort grip, with a small gear housing for easy handling and manoeuvrability. The side handle is positioned at an increased 20° angle for added comfort and control. Supplied with: 1 x Grinding Wheel, 1 x Side Handle, 1 x Wheel Guard and 1 x Wrench",
+  "availability": "In Stock",
+  "product_name": "Makita GA4534 Paddle Switch Angle Grinder",
+  "specifications": [
+    "Input Power: 720W",
+    "No Load Speed: 11,000/min.",
+    "Disc Ø x Bore: 115 x 22mm",
+    "Spindle Thread: M14 x 2mm",
+    "Max. Wheel Thickness: 6.4mm",
+    "Weight: 1.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-angle-grinder-115mm-650w-240v.html-lllmstxt|>
+## Olympia Power Tools Angle Grinder 115mm 650W 240V
+
+{
+  "price": "€36.14 inc VAT (€29.38 exc.vat)",
+  "description": "This Olympia Tools® Angle Grinder has a powerful motor and all-metal gearbox for increased durability. A spindle lock system enables you to change the disc quickly. The body features a soft grip section and there is also a 3-position, soft grip, side handle for increased control. Fitted with a tool-less disc guard for increased safety during operation.",
+  "availability": "Out of Stock",
+  "product_name": "Olympia Power Tools Angle Grinder 115mm 650W 240V",
+  "specifications": [
+    "Input Power: 650W",
+    "No Load Speed: 12,000/min.",
+    "Disc Diameter: 115mm",
+    "Spindle Thread: M14",
+    "Weight: 1.87kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-ag-115750-angle-grinder-750w-240v.html-lllmstxt|>
+## Einhell TC-AG 115/750 Angle Grinder 750W 240V
+
+{
+  "price": "€34.56 inc VAT (€28.10 exc.vat)",
+  "description": "The Einhell TC-AG 115/750 Angle Grinder is a popular all-rounder on the home construction site, for ambitious DIYers as well as hobby craftspeople. Its powerful motor brings the cutting disc to speed, up to 12,000 rotations per minute. A specially designed pane protector and restart protection increase user safety. The additional handle can be mounted in two different positions and thus expands the range of applications and makes the work use ergonomic. A spindle lock allows for simple and comfortable tool change. Cutting disc is available separately.",
+  "availability": "In Stock",
+  "product_name": "Einhell TC-AG 115/750 Angle Grinder 750W 240V",
+  "specifications": [
+    "Input Power: 750W",
+    "No Load Speed: 12,000/min",
+    "Max. Cutting Depth: 28mm",
+    "Max. Disc Diameter: 115mm",
+    "Weight: 1.66kg"
+  ]
+}
+

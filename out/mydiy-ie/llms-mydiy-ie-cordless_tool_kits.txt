@@ -1,0 +1,1237 @@
+<|https://www.mydiy.ie/products/dewalt-dck699m3t-xr-6-piece-kit-18-volt-3-x-40ah-li-ion.html-lllmstxt|>
+## DEWALT DCK699M3T XR 6 Piece Kit 18 Volt 3 x 4.0Ah Li-Ion
+
+{
+  "price": "€2,194.48 inc VAT (€1,784.13 exc.vat)",
+  "description": "The DEWALT DCK699M3T XR 6 Piece Kit, contains the following: 1 x 18 Volt DCD795 Brushless Compact Hammer Drill has a lightweight, compact design for use in confined spaces. With 2-speed, all-metal transmission and LED work light. Chuck: 13mm. No Load Speed: 0-600/0-2,000/min. Impact Rate: 0-10,200/0-34,000/min. Max Torque: 60Nm. Capacity: Wood: 38mm, Steel: 13mm, Masonry: 13mm 1 x 18 Volt DCF886 Brushless Impact Driver with brushless motor technology, aluminium front housing and an ergonomic handle. 3 LEDs provide work piece illumination. With 'drop in' keyless hex driver for a quick, one-handed fitment. Bit holder: 6.35mm (1/4in) hex. No Load Speed: 0-2,800/min. Impacts Per Minute: 0-3,200/bpm. Max Torque: 165Nm. Capacity: Bolt M12. 1 x 18 Volt DCH253 SDS Hammer Drill is ideal for drilling anchors and fixing holes into concrete, brick and masonry from 4mm to 24mm. Has a rotation stop mode for light chiselling in plaster, tiles and render and an impact stop mode for rotary only drilling in wood and metal. No Load Speed: 0-1,200/min. Impact Rate: 0-4,500/min with 2.1 Joules. Capacity: Concrete: 24mm, Steel: 13mm, Wood: 26mm. Weight 3.1kg. 1 x 18 Volt DCS331 Jigsaw has a keyless blade change and intelligent variable speed trigger. Accepts T-shank blades. Strokes at No Load: 0-3,000/min. Levels of Pendulum Stroke: 4. Stroke Length: 26mm. Capacity: Wood: 135mm, Metal: 10mm. 1 x 18 Volt DCS391 Circular Saw with an intelligent trigger allowing total control over all applications. It has a powerful and highly efficient PM58 fan cooled motor with replaceable brushes, which delivers up to 3,700 rotations per minute for a fast cutting action. No Load Speed: 3,700/min. Max Cutting Depth: @90°: 55mm, @45°: 55mm. Blade: 165 x 20mm bore. Weight: 3.8kg. 1 x 18 Volt DCL040 LED Pivot Light has a compact, lightweight design with impact resistant housing and improved ergonomic design and rubber grip for increased comfort. The LED Bulb produces 110 Lumen output (10,000Hr Life) with a 2 zone light pattern. The flashlight head pivots more than 90º vertically with ratchet lock. 1 x Multi-Voltage DCB105 XR Universal Charger varies the charge rate according to battery type to increase battery pack life. It features diagnostics with bright LED indicator which communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold. Charges all XR Li-Ion DEWALT Slide Pack 10.8, 14.4, and 18 Volt batteries. Supplied with 3 x 18 Volt 4.0Ah XR Li-Ion Slide Pack Batteries and 2 x DWST1-71195 TSTAK™ Deep Toolboxes.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK699M3T XR 6 Piece Kit 18 Volt 3 x 4.0Ah Li-Ion",
+  "specifications": [
+    "1 x 18 Volt DCD795 Brushless Compact Hammer Drill",
+    "1 x 18 Volt DCF886 Brushless Impact Driver",
+    "1 x 18 Volt DCH253 SDS Hammer Drill",
+    "1 x 18 Volt DCS331 Jigsaw",
+    "1 x 18 Volt DCS391 Circular Saw",
+    "1 x 18 Volt DCL040 LED Pivot Light",
+    "1 x Multi-Voltage DCB105 XR Universal Charger",
+    "Supplied with 3 x 18 Volt 4.0Ah XR Li-Ion Slide Pack Batteries",
+    "Supplied with 2 x DWST1-71195 TSTAK™ Deep Toolboxes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck276p2-brushless-twin-pack-18-volt-2-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK276P2 Brushless Twin Pack 18 Volt 2 x 5.0Ah Li-Ion
+
+{
+  "price": "€421.29 inc VAT (€342.51 exc.vat)",
+  "description": "The DEWALT DCK276P2 Brushless Twin Pack, contains the following: 1 x 18 Volt DCD996 XR Brushless Combi Drill with a tough 3 speed all metal transmission for increased run time and a longer tool life. Electronic Clutch with 11 position adjustable torque control for optimised precision when screwdriving. Also has an improved 3 position LED torch with high/medium/low settings. Chuck: 13mm Keyless. No Load Speed: 0-450/0-1,300/0-2,000/min. Impact Rate: 0-8,600/0-25,500/0-38,250/bpm. Max Torque: 95Nm, 11 Settings. Capacity: Wood: 55mm, Steel: 15mm, Masonry: 16mm. Weight: 2.1kg. 1 x 18 Volt DCF887 XR Brushless Impact Driver is equipped with application control. This is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-850/0-2,100/0-3,000/min. Impact Rate: 0-1,800/0-2,900/0-3,700/bpm. Max Torque: 26/80/203Nm. Weight: 1.56kg. 1 x Multi-Voltage DCB105 XR Universal Charger varies the charge rate according to battery type to increase battery pack life. It features diagnostics with bright LED indicator which communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold. Charges all XR Li-Ion DEWALT Slide Pack 10.8, 14.4, and 18 Volt batteries. Also supplied with 2 x 18 Volt 5.0Ah Li-Ion Batteries and 1 x TOUGHSYSTEM™ DS150 Toolbox.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK276P2 Brushless Twin Pack 18 Volt 2 x 5.0Ah Li-Ion",
+  "specifications": [
+    "1 x 18 Volt DCD996 XR Brushless Combi Drill",
+    "3 speed all metal transmission",
+    "Electronic Clutch with 11 position adjustable torque control",
+    "Improved 3 position LED torch",
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-450/0-1,300/0-2,000/min",
+    "Impact Rate: 0-8,600/0-25,500/0-38,250/bpm",
+    "Max Torque: 95Nm, 11 Settings",
+    "Capacity: Wood: 55mm, Steel: 15mm, Masonry: 16mm",
+    "Weight: 2.1kg",
+    "1 x 18 Volt DCF887 XR Brushless Impact Driver",
+    "3 motor speeds and torque settings",
+    "Precision Drive mode",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-850/0-2,100/0-3,000/min",
+    "Impact Rate: 0-1,800/0-2,900/0-3,700/bpm",
+    "Max Torque: 26/80/203Nm",
+    "Weight: 1.56kg",
+    "1 x Multi-Voltage DCB105 XR Universal Charger",
+    "Charges all XR Li-Ion DEWALT Slide Pack 10.8, 14.4, and 18 Volt batteries",
+    "Supplied with 2 x 18 Volt 5.0Ah Li-Ion Batteries",
+    "1 x TOUGHSYSTEM™ DS150 Toolbox"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck278p2-xr-twin-pack-18-volt-2-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK278P2 XR Twin Pack 18 Volt 2 x 5.0Ah Li-Ion
+
+{
+  "price": "€1,270.80 inc VAT (€1,033.17 exc.vat)",
+  "description": "The DEWALT DCK278P2 XR Twin Pack, contains the following: 1 x 18 Volt DCF899 XR Brushless High Torque Impact Wrench with 3 speed and torque settings that gives you the control to best suit your application. The 1/2in (13mm) square drive with detent pin allows for more efficient torque delivery and excellent socket retention. Bit Holder: 1/2in Detent Pin. No Load Speed: 0-400/0-1,200/0-1,900/min. Impact Rate: 0-2,400/min. Max Torque: 950Nm, Breakaway Torque: 1,625Nm. Max Bolt Diameter: M20. Weight: 2.62kg. 1 x 18 Volt DCG412 XR Premium Angle Grinder has a powerful fan cooled motor and intelligent variable speed trigger and lock-off switch for enhanced work safety and control. It features the XR Lithium Ion Technology and is part of the intelligent XR Lithium Ion Series designed for efficiency and making applications faster. No Load Speed: 7,000/min. Disc Diameter: 125mm, M14 Spindle. Weight: 3.0kg. 1 x Multi-Voltage DCB105 XR Universal Charger varies the charge rate according to battery type to increase battery pack life. It features diagnostics with bright LED indicator which communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold. Charges all XR Li-Ion DEWALT Slide Pack 10.8, 14.4, and 18 Volt batteries. Also supplied with: 2 x 18 Volt 5.0Ah Li-Ion Batteries and 1 x DS300 Tough System Kit Box.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK278P2 XR Twin Pack 18 Volt 2 x 5.0Ah Li-Ion",
+  "specifications": [
+    "1 x 18 Volt DCF899 XR Brushless High Torque Impact Wrench",
+    "Max Torque: 950Nm, Breakaway Torque: 1,625Nm",
+    "1 x 18 Volt DCG412 XR Premium Angle Grinder",
+    "No Load Speed: 7,000/min",
+    "1 x Multi-Voltage DCB105 XR Universal Charger",
+    "Includes 2 x 18 Volt 5.0Ah Li-Ion Batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck269p2-xr-twin-pack-18-volt-2-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK269P2 XR Twin Pack 18 Volt 2 x 5.0Ah Li-Ion
+
+{
+  "price": "€547.74 inc VAT (€445.32 exc.vat)",
+  "description": "The DEWALT DCK269P2 XR Twin Pack, contains the following: 1 x 18 Volt DCF899 XR Brushless High Torque Impact Wrench with 3 speed and torque settings that gives you the control to best suit your application. The 1/2in (13mm) square drive with detent pin allows for more efficient torque delivery and excellent socket retention. Bit Holder: 1/2in Detent Pin. No Load Speed: 0-400/0-1,200/0-1,900/min. Impact Rate: 0-2,400/min. Max Torque: 950Nm, Breakaway Torque: 1,625Nm. Max Bolt Diameter: M20. Weight: 2.62kg. 1 x 18 Volt DCG412 XR Premium Angle Grinder has a powerful fan cooled motor and intelligent variable speed trigger and lock-off switch for enhanced work safety and control. It features the XR Lithium Ion Technology and is part of the intelligent XR Lithium Ion Series designed for efficiency and making applications faster. No Load Speed: 7,000/min. Disc Diameter: 125mm, M14 Spindle. Weight: 3.0kg. 1 x Multi-Voltage DCB105 XR Universal Charger varies the charge rate according to battery type to increase battery pack life. It features diagnostics with bright LED indicator which communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold. Charges all XR Li-Ion DEWALT Slide Pack 10.8, 14.4, and 18 Volt batteries. Also supplied with: 2 x 18 Volt 5.0Ah Li-Ion Batteries and 1 x DS300 Tough System Kit Box.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK269P2 XR Twin Pack 18 Volt 2 x 5.0Ah Li-Ion",
+  "specifications": [
+    "1 x 18 Volt DCF899 XR Brushless High Torque Impact Wrench",
+    "Max Torque: 950Nm, Breakaway Torque: 1,625Nm",
+    "1 x 18 Volt DCG412 XR Premium Angle Grinder",
+    "No Load Speed: 7,000/min",
+    "1 x Multi-Voltage DCB105 XR Universal Charger",
+    "Includes 2 x 18 Volt 5.0Ah Li-Ion Batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck229p2t-xr-twin-pack-18-volt-2-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK229P2T XR Twin Pack 18 Volt 2 x 5.0Ah Li-Ion
+
+{
+  "price": "€1,422.79 inc VAT (€1,156.74 exc.vat)",
+  "description": "The DEWALT DCK229P2T XR Twin Pack, contains the following: 1 x 18 Volt DCH273 Brushless XR 3 Mode Hammer is fitted with an electronic clutch for consistently high torque and improved durability. Ideal for drilling anchors and fixing holes into concrete. Modes: Rotary, SDS Hammer, Chisel Only. No Load Speed: 0-1,100/min. Impact Rate: 0-4,600/bpm. Impact Energy: 2.1 Joules. Capacity: Wood: 26mm, Metal: 13mm, Masonry: 24mm Weight: 3.1kg. 1 x 18 Volt DCD996 XR Brushless Combi Drill with a tough 3 speed all metal transmission for increased run time and a longer tool life. Electronic Clutch with 11 position adjustable torque control for optimised precision when screwdriving. Also has an improved 3 position LED torch with high/medium/low settings. Chuck: 13mm Keyless. No Load Speed: 0-450/0-1,300/0-2,000/min. Impact Rate: 0-8,600/0-25,500/0-38,250/bpm. Max Torque: 95Nm, 11 Settings. Capacity: Wood: 55mm, Steel: 15mm, Masonry: 16mm Weight: 2.1kg. 1 x 10.8-18 Volt DCB105 Multi-Voltage XR Charger varies the charge rate according to battery type to increase battery pack life. It features diagnostics with bright LED indicator which communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold. Charges all XR Li-Ion DEWALT Slide Pack 10.8, 14.4, and 18 Volt batteries. Also supplied with: 2 x 18 Volt 5.0Ah Li-Ion Batteries and 1 x TSTAK Kit Box.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK229P2T XR Twin Pack 18 Volt 2 x 5.0Ah Li-Ion",
+  "specifications": [
+    "Modes: Rotary, SDS Hammer, Chisel Only",
+    "No Load Speed: 0-1,100/min",
+    "Impact Rate: 0-4,600/bpm",
+    "Impact Energy: 2.1 Joules",
+    "Capacity: Wood: 26mm, Metal: 13mm, Masonry: 24mm",
+    "Weight: 3.1kg",
+    "Chuck: 13mm Keyless",
+    "Max Torque: 95Nm, 11 Settings",
+    "Capacity: Wood: 55mm, Steel: 15mm, Masonry: 16mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck623p3-18v-xr-brushless-6-piece-kit.html-lllmstxt|>
+## DEWALT DCK623P3 18V XR Brushless, 6 Piece Kit
+
+{
+  "price": "€1,078.70 inc VAT (€876.99 exc.vat)",
+  "description": "The DEWALT DCK623P3 XR Brushless 6 Piece Kit, contains the following: 1 x 18V DCD796 XR Brushless Compact Hammer Drill Driver has an ultra compact, lightweight design. The 2 speed, all metal transmission, provides increased runtime and longer tool life. It offers a 15 position adjustable torque control for consistent screwdriving. Chuck: 13mm Keyless No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/34,000/bpm Max. Torque: 27/70Nm, 15 Settings Capacity: Steel 13mm, Masonry 13mm, Wood 40mm Weight: 1.3kg 1 x 18V DCF887 XR Brushless Impact Driver is equipped with application control. This is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/0-2,800/0-3,250/min. Impact Rate: 0-1,800/0-2,900/0-3,800/bpm Max. Torque: 26/80/205Nm Weight: 1.56kg 1 x 18V DCG405 XR Brushless Grinder has a powerful fan cooled motor with a mesh cover that provides additional motor protection by preventing dust being sucked through the motor. Its electronic clutch reduces the kickback reaction in the event of a pinch or stall. The 2 position side handle provides greater control, whilst the rubber overmould provides enhanced grip and comfort. For added safety, the electronic brake stops the wheel quickly when the trigger is released. No Load Speed: 9,000/min. Disc Diameter: 125mm, M14 Spindle Weight: 1.75kg 1 x 18V DCS367 Brushless XR Reciprocating Saw has a compact design that allows for better access to hard to reach cuts. Offers improved balance and ease of handling due to central motor position. The 4 position blade clamp allows for flush cutting and improved versatility. There is a lever action keyless blade clamp for tool-free blade change and an LED work light for improved visibility of cut. No Load Speed: 0-2,900/min. Stroke Length: 28.6mm Capacity: Wood 300mm, Steel Sections & Pipes 100mm, PVC 160mm Weight: 2.3kg 1 x 18V DCS570 XR Brushless Circular Saw, ideal for general purpose ripping, cross-cutting and bevelling, for wood and other construction materials. It has a high torque brushless motor for improved durability and power. With a precise cutting depth scale, up to 65mm and a variable bevel angle, up to 57°. Its stable block construction provides low vibration running and increased service life. With an additional handle for safe 2 handed work. No Load Speed: 5,500/min. Max. Cutting Depth @90º: 64mm Blade: 184 x 16mm Bore Bevel Capacity: 57° 1 x 18V XR Handheld LED Work Light is perfect for inspecting areas without electricity or natural light. Fitted with variable light settings for maximum brightness or extended runtime and a 250-500 lumen output with broad and even beam pattern. The articulating head has 9 positions for directional control of light output and an extendable hanging hook allows the work light to be suspended during use. Bulb Type: LED Light Output: 250-500 lumens Protection Class: IP54 Also supplied with: 3 x 18V 5.0Ah Li-ion Batteries, 1 x 10.8-18V DCB115 XR Multi-Voltage Charger and 3 x TOUGHSYSTEM™ DS300 Toolboxes.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK623P3 18V XR Brushless, 6 Piece Kit",
+  "specifications": [
+    "1 x 18V DCD796 XR Brushless Compact Hammer Drill Driver",
+    "1 x 18V DCF887 XR Brushless Impact Driver",
+    "1 x 18V DCG405 XR Brushless Grinder",
+    "1 x 18V DCS367 Brushless XR Reciprocating Saw",
+    "1 x 18V DCS570 XR Brushless Circular Saw",
+    "1 x 18V XR Handheld LED Work Light",
+    "3 x 18V 5.0Ah Li-ion Batteries",
+    "1 x 10.8-18V DCB115 XR Multi-Voltage Charger",
+    "3 x TOUGHSYSTEM™ DS300 Toolboxes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck218d2t-xr-twin-pack-108v-2-x-20ah-li-ion.html-lllmstxt|>
+## DEWALT DCK218D2T XR Twin Pack 10.8V 2 x 2.0Ah Li-Ion
+
+{
+  "price": "€553.02 inc VAT (€449.61 exc.vat)",
+  "description": "The DEWALT DCK218D2T XR Twin Pack, contains the following: 1 x 10.8 Volt DCD716 Combi Drill is an excellent solution for subcompact performance and power. Has a high torque output of 30Nm and can drill into masonry. 2-speed transmission ensures easy work of light application. Single clutch collar with 16 adjustable torque control settings. No Load Speed: 0-1,500/0-4,000/min. Impact Rate: 22,500/bpm. Max. Torque: 30Nm. Torque Settings: 16. Capacity: Metal: 10mm, Masonry: 8mm, Wood: 20mm. 1 x 10.8 Volt DCF815 Impact Drill with all metal gearing for efficient power transmission and long life. Aluminium front housing provides greater heat dispersion increasing motor life. Parabolic switch profile allows for greater control over speed. 6.35mm 'drop in' key-less hex driver which allows for quick fitment. Bit Holder: 6.35mm (1/4in). No Load Speed: 2,450/min. Impact Rate: 3,400/min. Max. Torque: 107Nm. Capacity: Bolt M12. Supplied with: 2 x 10.8 Volt 2.0Ah Li-Ion Batteries, 1 x DCB113 XR Charger and 1 x TSTAK™ Toolbox.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK218D2T XR Twin Pack 10.8V 2 x 2.0Ah Li-Ion",
+  "specifications": [
+    "1 x 10.8 Volt DCD716 Combi Drill",
+    "High torque output of 30Nm",
+    "2-speed transmission",
+    "Single clutch collar with 16 adjustable torque control settings",
+    "No Load Speed: 0-1,500/0-4,000/min",
+    "Impact Rate: 22,500/bpm",
+    "Max. Torque: 30Nm",
+    "Torque Settings: 16",
+    "Capacity: Metal: 10mm, Masonry: 8mm, Wood: 20mm",
+    "1 x 10.8 Volt DCF815 Impact Drill",
+    "All metal gearing for efficient power transmission",
+    "Aluminium front housing for heat dispersion",
+    "Parabolic switch profile for speed control",
+    "6.35mm 'drop in' key-less hex driver",
+    "No Load Speed: 2,450/min",
+    "Impact Rate: 3,400/min",
+    "Max. Torque: 107Nm",
+    "Capacity: Bolt M12",
+    "Supplied with: 2 x 10.8 Volt 2.0Ah Li-Ion Batteries, 1 x DCB113 XR Charger, 1 x TSTAK™ Toolbox"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck2033x2-brushless-flexvolt-xr-twin-pack-1854v-2-x-9030ah-li-ion.html-lllmstxt|>
+## DEWALT DCK2033X2 Brushless FlexVolt XR Twin Pack 18/54V 2 x 9.0/3.0Ah Li-ion
+
+{
+  "price": "€944.82 inc VAT (€768.15 exc.vat)",
+  "description": "The DEWALT DCK2033X2 Brushless FlexVolt XR Twin Pack, contains the following: 1 x 18/54V DCH333 XR FlexVolt Brushless SDS Plus Hammer has a brushless motor for extreme run time and reduced maintenance. Compact, lightweight and ergonomic design for improved comfort and support during extended operating periods. With rotation stop mode for light chiselling in plaster, tiles and render, and impact stop mode for rotary only drilling in wood and metal. Modes: Rotary, SDS Hammer, Chisel Only No Load Speed: 0-1,000/min. Impact Rate: 0-4,480/min. with 3.5 joules Capacity: Concrete 30mm, Steel 13mm, Wood 26mm Weight 3.7kg 1 x 18V DCD996 XR Brushless Combi Drill with a tough 3-speed all-metal transmission for increased run time and a longer tool life. Electronic Clutch with 11-position adjustable torque control for optimised precision when screwdriving. It also has an improved 3-position LED torch with high/medium/low settings. Chuck: 13mm Keyless No Load Speed: 0-450/0-1,300/0-2,000/min. Impact Rate: 0-8,600/0-25,500/0-38,250/bpm Max. Torque: 95Nm, 11 Settings Capacity: Wood 55mm, Steel 15mm, Masonry 16mm Weight: 2.1kg 1 x 18/54V DCB118 FlexVolt XR Fast Charger will charge 54V FlexVolt and 18V XR batteries. A bright LED indicator communicates battery charge status: charged, charging, power problem and battery too hot or too cold conditions. It has a compact design that is wall mountable and is fan cooled so it can charge efficiently between 4°C and 40°C. Also supplied with: 2 x 18/54V 9.0/3.0Ah FlexVolt Li-ion Batteries and 1 x TSTAK VI.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK2033X2 Brushless FlexVolt XR Twin Pack 18/54V 2 x 9.0/3.0Ah Li-ion",
+  "specifications": [
+    "Modes: Rotary, SDS Hammer, Chisel Only",
+    "No Load Speed: 0-1,000/min.",
+    "Impact Rate: 0-4,480/min. with 3.5 joules",
+    "Capacity: Concrete 30mm, Steel 13mm, Wood 26mm",
+    "Weight 3.7kg",
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-450/0-1,300/0-2,000/min.",
+    "Impact Rate: 0-8,600/0-25,500/0-38,250/bpm",
+    "Max. Torque: 95Nm, 11 Settings",
+    "Capacity: Wood 55mm, Steel 15mm, Masonry 16mm",
+    "Weight: 2.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck755p3t-xr-brushless-7-piece-kit-18v-3-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK755P3T XR Brushless 7 Piece Kit 18V 3 x 5.0Ah Li-ion
+
+{
+  "price": "€1,442.21 inc VAT (€1,172.53 exc.vat)",
+  "description": "The DEWALT DCK755P3T XR 7 Piece Kit, contains the following: 1 x 18V DCD796 XR Brushless Combi Drill has an ultra-compact, lightweight design. The 2-speed all-metal transmission provides increased run time and longer tool life. It offers a 15-position adjustable torque control for consistent screwdriving. Chuck: 13mm Keyless No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/34,000/bpm Torque: 27/70Nm, 15 Settings Capacity: Steel 13mm, Masonry 13mm, Wood 40mm 1 x 18V DCF887 XR Brushless Impact Driver is equipped with application control. This is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/0-2,800/0-3,250/min. Impact Rate: 0-1,800/0-2,900/0-3,800/bpm Max. Torque: 26/80/205Nm Weight: 1.56kg 1 x 18V DCS355 XR Oscillating Multi-Tool delivers up to 57% more run time over brushed motors. It uses the quick-change accessory system that allows blades and attachments to be changed quickly without the use of tools. No Load Speed: 0-20,000/min. Length: 310mm Weight: 1.06kg 1 x 18V DCH273 XR Brushless SDS Plus 3-Mode Hammer is fitted with an electronic clutch for consistently high torque and improved durability. Ideal for drilling anchors and fixing holes into concrete. Modes: Rotary, SDS Hammer, Chisel Only No Load Speed: 0-1,100/min. Impact Rate: 0-4,600/bpm with 2.1 joules Capacity: Wood 26mm, Metal 13mm, Masonry 24mm Weight: 3.1kg 1 x 18V DCG405 XR Brushless Grinder with an electronic clutch that reduces the kickback reaction in the event of a pinch or stall. The 2-position side handle provides greater control, whilst the rubber overmould provides enhanced grip and comfort. For added safety, the electronic brake stops the wheel quickly when the trigger is released. No Load Speed: 9,000/min. Disc Diameter: 125mm, M14 Spindle Weight: 1.75kg 1 x 18V DCS570 XR Brushless Circular Saw, ideal for general-purpose ripping, cross-cutting and bevelling, for wood and other construction materials. It has a high torque brushless motor for improved durability and power. With a precise cutting depth scale, up to 65mm and a variable bevel angle, up to 57°. Its stable block construction provides low vibration running and increased service life. With an additional handle for safe two-handed work. No Load Speed: 5,500/min. Max. Cutting Depth: @90º 64mm Blade: 184 x 16mm Bore Bevel Capacity: 57° 1 x 18V DCS334 XR Brushless Top Handle Jigsaw has an intelligent variable speed trigger, lock-off switch and 4-position pendulum action. Quick and easy keyless blade change system, accepts T-shank blades. The tool-free adjustable shoe is fitted with an anti-scratch cover, bevels to 45° in both directions. The dust port is AirLock compatible. Strokes No Load: 0-3,200/min. Stroke Length: 26mm Bevel Capacity: 0-45° Capacity: Wood 135mm, Metal 10mm Weight: 2.1kg Also supplied with: 3 x 18V 5.0Ah Li-ion Batteries, 1 x 10.8-18V DCB115 XR Li-ion Charger, 1 x TSTAK™ VI Deep Toolbox (171195), 1 x TSTAK™ II Toolbox (Suitcase Flat Top) (170703) and 1 x TSTAK™ Mobile Storage with Extendable Handle (175799).",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK755P3T XR Brushless 7 Piece Kit 18V 3 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-550/0-2,000/min.",
+    "Impact Rate: 0-9,350/34,000/bpm",
+    "Torque: 27/70Nm, 15 Settings",
+    "Capacity: Steel 13mm, Masonry 13mm, Wood 40mm",
+    "Bit Holder: 6.35mm (1/4in)",
+    "Max. Torque: 26/80/205Nm",
+    "Weight: 1.56kg",
+    "No Load Speed: 0-20,000/min.",
+    "Length: 310mm",
+    "Weight: 1.06kg",
+    "Modes: Rotary, SDS Hammer, Chisel Only",
+    "Impact Rate: 0-4,600/bpm with 2.1 joules",
+    "Capacity: Wood 26mm, Metal 13mm, Masonry 24mm",
+    "Weight: 3.1kg",
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm, M14 Spindle",
+    "Weight: 1.75kg",
+    "No Load Speed: 5,500/min.",
+    "Max. Cutting Depth: @90º 64mm",
+    "Blade: 184 x 16mm Bore",
+    "Bevel Capacity: 57°",
+    "Strokes No Load: 0-3,200/min.",
+    "Stroke Length: 26mm",
+    "Bevel Capacity: 0-45°",
+    "Capacity: Wood 135mm, Metal 10mm",
+    "Weight: 2.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2145tj-lxt-twin-pack-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2145TJ LXT Twin Pack 18V 2 x 5.0Ah Li-Ion
+
+{
+  "price": "€542.39 inc VAT (€440.97 exc.vat)",
+  "description": "The Makita DLX2145TJ LXT Twin Pack, contains the following: 1 x 18 Volt DHP458 LXT Combi Drill is an extremely compact tool with an overall length of only 225mm, the shortest in its class. It has enhanced dust and drip-proof performance for use in outdoor applications or harsh environments. The machine has a battery fuel gauge and a metal gear box for long life. It has two variable speeds, an electronic brake and an adjustable side handle for extra control during use. No Load Speed: 0-400/0-2,000/min. Blows per Minute: 0-6,000/0-30,000/bpm. Max Torque: 44/88Nm. Torque Settings: 21 + drill. Capacity: Wood: 65mm, Masonry: 16mm, Steel: 13mm Weight: 2.2kg. 1 x 18 Volt DTD152Z LXT Impact Driver has a compact design with an overall length of only 137mm. Although small it is packed with all metal gears and mechanical 2-speed control. The variable speed control trigger with forward/reverse rotation provides control, even in tough applications. It also has a soft grip handle that has been designed to maximise thrust right to the bit. With an electric brake for increased user safety and bright twin LED job lights for working in dark conditions. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-2,900/min. Impact Rate: 0-3,500/bpm. Max Torque: 165Nm. Capacity: Machine Screw: M4-M8, Standard Bolt: M5-M16, High Tensile Bolt: M5-M12 Coarse Thread Length Capacity: 22-125mm. 1 x 14.4-18 Volt DC18RC Compact Li-Ion Charger has a built-in cooling fan system that blows cool air into the battery, which keeps the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. Has 3 active charging colours to help identify when the battery is charged, and to what level. Also supplied with 2 x 18 Volt BL1850 5.0Ah Li-Ion Batteries and 1 x Type 3 MAKPAC Connector Case.",
+  "availability": "In Stock",
+  "product_name": "Makita DLX2145TJ LXT Twin Pack 18V 2 x 5.0Ah Li-Ion",
+  "specifications": [
+    "1 x 18 Volt DHP458 LXT Combi Drill",
+    "No Load Speed: 0-400/0-2,000/min",
+    "Blows per Minute: 0-6,000/0-30,000/bpm",
+    "Max Torque: 44/88Nm",
+    "Torque Settings: 21 + drill",
+    "Capacity: Wood: 65mm, Masonry: 16mm, Steel: 13mm",
+    "Weight: 2.2kg",
+    "1 x 18 Volt DTD152Z LXT Impact Driver",
+    "No Load Speed: 0-2,900/min",
+    "Impact Rate: 0-3,500/bpm",
+    "Max Torque: 165Nm",
+    "Capacity: Machine Screw: M4-M8, Standard Bolt: M5-M16, High Tensile Bolt: M5-M12",
+    "Coarse Thread Length Capacity: 22-125mm",
+    "1 x 14.4-18 Volt DC18RC Compact Li-Ion Charger",
+    "2 x 18 Volt BL1850 5.0Ah Li-Ion Batteries",
+    "1 x Type 3 MAKPAC Connector Case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2180tj-brushless-twin-pack-18v--2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2180TJ Brushless Twin Pack 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€423.76 inc VAT (€344.52 exc.vat)",
+  "description": "The Makita DLX2180TJ Brushless Twin Pack, contains the following: 1 x 18 Volt DHP484 Brushless Combi Drill is fitted with a powerful brushless motor, for increased runtime and power. It has an all metal gear construction with aluminium gear housing and 2 mechanical gears. Speed is controlled via the variable speed trigger and features forward/reverse rotation. The top back of the handle is ergonomically contoured and widened to perfectly fit the users hand. No Load Speed: 0-500/0-2,000/min. Blows Per Minute: 0-7,500/0-30,000/bpm. Torque Settings: 21 + drill. Max Torque Soft/Hard: 30/54Nm. Capacity: Wood: 38mm, Masonry: 13mm, Steel: 13mm. Weight: 1.8kg. 1 x 18 Volt DTD153 Brushless Impact Driver is fitted with an energy efficient brushless motor that uses less energy and provides a longer run time. Speed is controlled via the variable speed trigger and features forward/reverse rotation. Fitted with a one touch sliding chuck for easy bit installation and removal. Its ergonomically designed soft grip handle increases comfort and reduces fatigue. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-3,400/min. Impact Rate: 0-3,600/bpm. Max Torque: 170Nm. Capacity: Machine Screw: M4-M8, Standard Bolt: M5-M16, High Tensile Bolt: M5-M12 Coarse Thread Length Capacity: 22-125mm. 1 x 14.4-18 Volt DC18RC Compact Li-ion Charger has a built-in cooling fan system that blows cool air into the battery, which keeps the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. Has 3 active charging colours to help identify when the battery is charged, and to what level. Also supplied with 2 x 18 Volt 5.0Ah Li-ion Batteries and 1 x Type 3 MAKPAC Connector Case.",
+  "availability": "In Stock",
+  "product_name": "Makita DLX2180TJ Brushless Twin Pack 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 18 Volt DHP484 Brushless Combi Drill",
+    "1 x 18 Volt DTD153 Brushless Impact Driver",
+    "1 x 14.4-18 Volt DC18RC Compact Li-ion Charger",
+    "2 x 18 Volt 5.0Ah Li-ion Batteries",
+    "1 x Type 3 MAKPAC Connector Case",
+    "No Load Speed: 0-500/0-2,000/min",
+    "Blows Per Minute: 0-7,500/0-30,000/bpm",
+    "Max Torque Soft/Hard: 30/54Nm",
+    "Capacity: Wood: 38mm, Masonry: 13mm, Steel: 13mm",
+    "Weight: 1.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2283tj-lxt-combo-twin-pack-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2283TJ LXT Combo Twin Pack 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€1,093.93 inc VAT (€889.37 exc.vat)",
+  "description": "The Makita DLX2283TJ LXT Combo Twin Pack contains the following: 1 x 18V DHP485 Brushless Combi Drill with a single sleeve keyless chuck for easy bit installation/removal, even with one hand. Speed is controlled via the variable speed trigger and features forward/reverse rotation. No Load Speed: 0-500/0-1,900/min. Impact Rate: 0-7,500/0-28,500/bpm Max. Torque: 27/50Nm, Settings: 21 + drill Capacity: Wood 38mm, Masonry 13mm, Steel 13mm Weight: 1.8kg 1 x 18V DTD153 Brushless Impact Driver is fitted with an energy efficient brushless motor that uses less energy and provides a longer run time. Speed is controlled via the variable speed trigger and features forward/reverse rotation. Fitted with a one touch sliding chuck for easy bit installation and removal. Its ergonomically designed soft grip handle increases comfort and reduces fatigue. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-3,400/min. Impact Rate: 0-3,600/bpm Max. Torque: 170Nm Capacity: Machine Screw M4-M8, Standard Bolt M5-M16, High Tensile Bolt M5-M14 Coarse Thread Length Capacity: 22-125mm Weight: 1.3kg 1 x 14.4-18V DC18RC Compact Li-ion Charger has a built-in cooling fan system that blows cool air into the battery, which keeps the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. Has 3 active charging colours to help identify when the battery is charged, and to what level. Also supplied with 2 x 18V 5.0Ah Li-ion Batteries and 1 x Type 3 MAKPAC Connector Case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DLX2283TJ LXT Combo Twin Pack 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V DHP485 Brushless Combi Drill",
+    "1 x 18V DTD153 Brushless Impact Driver",
+    "1 x 14.4-18V DC18RC Compact Li-ion Charger",
+    "2 x 18V 5.0Ah Li-ion Batteries",
+    "1 x Type 3 MAKPAC Connector Case",
+    "No Load Speed: 0-500/0-1,900/min",
+    "Impact Rate: 0-7,500/0-28,500/bpm",
+    "Max. Torque: 27/50Nm",
+    "Weight: 1.8kg for Combi Drill, 1.3kg for Impact Driver"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-clx224aj-12vmax-cxt-twin-pack-12v-2-x-20ah.html-lllmstxt|>
+## Makita CLX224AJ 12Vmax CXT Twin Pack 12V 2 x 2.0Ah
+
+{
+  "price": "€170.75 inc VAT (€138.82 exc.vat)",
+  "description": "The Makita CLX224AJ 12Vmax CXT Twin Pack contains the following: 1 x 12V DF333D 12Vmax CXT Drill Driver with 2 mechanical gears and a variable speed control trigger. Fitted with an ergonomic soft grip and keyless chuck. For added user safety there is an electric brake. Chuck: 0.8-10mm Keyless No Load Speed: 0-450/0-1,700/min. Max. Torque: 30Nm, Settings: 20 + Drill Drilling Capacity: Wood 21mm, Steel 10mm Weight: 1.2kg 1 x 12V TD110D 12Vmax CXT Impact Driver features increased motor power for higher application speed and max. tightening torque. Variable speed trigger with forward/reverse operation for increased control. Fitted with an ergonomic soft grip and an LED job light. Equipped with a battery protection circuit: designed to protect the battery from damages due to overdischarge, high temperature or overload current. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-2,600/min. Impact Rate: 0-3,500/bpm Max Torque: 110Nm Capacity: Bolt: Standard M5-M12, High Tensile M5-M10 Coarse Thread Length Capacity: 22-90mm Weight: 1.2kg 1 x 12V DC10WD 12Vmax Standard Charger with charging status indicator and multi-contact slide type terminal. It has a compact, lightweight design that can also be wall mounted if desired. Also Supplied with: 2 x 12V 2.0Ah Li-ion Batteries and 1 x Type 1 MAKPAC Connector Case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita CLX224AJ 12Vmax CXT Twin Pack 12V 2 x 2.0Ah",
+  "specifications": [
+    "Chuck: 0.8-10mm Keyless",
+    "No Load Speed: 0-450/0-1,700/min.",
+    "Max. Torque: 30Nm, Settings: 20 + Drill",
+    "Drilling Capacity: Wood 21mm, Steel 10mm",
+    "Weight: 1.2kg",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-2,600/min.",
+    "Impact Rate: 0-3,500/bpm",
+    "Max Torque: 110Nm",
+    "Capacity: Bolt: Standard M5-M12, High Tensile M5-M10",
+    "Coarse Thread Length Capacity: 22-90mm",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2131tj-twin-pack-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2131TJ Twin Pack 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€372.07 inc VAT (€302.50 exc.vat)",
+  "description": "The Makita DLX2131TJ Twin Pack contains the following: 1 x 18V DHP482 LXT Combi Drill is a compact and precise power tool for the professional or DIY enthusiast. It features an all-metal gear construction for extra high transmission durability. It also features an electric brake and variable speed control trigger. Extremely comfortable to use with its ergonomic, soft grip handle and lightweight design. Chuck: 13mm Keyless No Load Speed: 0-600/0-1,900/min. Impact Rate: 0-9,000/0-28,500/bpm Max. Torque: 62Nm, Settings: 21 + Drill Capacity: Concrete 13mm, Metal 13mm, Wood 38mm Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm 1 x 18V DTD152 LXT Impact Driver with a compact design, all-metal gears and mechanical 2-speed control. The variable speed control trigger with forward/reverse rotation provides control, even in tough applications. It also has a soft grip handle that has been designed to maximise thrust right to the bit. With an electric brake for increased user safety and bright twin LED job lights for working in dark conditions. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-2,900/min. Impact Rate: 0-3,500/bpm Max. Torque: 165Nm Capacity: Machine Screw M4-M8, Standard Bolt M5-M16, High Tensile Bolt M5-M12 Coarse Thread Length Capacity: 22-125mm Also supplied with: 2 x 18V 5.0Ah Li-ion Batteries, 1 x 18V DC18RC Compact Charger and 1 x Type 3 MAKPAC Connector Case.",
+  "availability": "In Stock",
+  "product_name": "Makita DLX2131TJ Twin Pack 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-600/0-1,900/min.",
+    "Impact Rate: 0-9,000/0-28,500/bpm",
+    "Max. Torque: 62Nm, Settings: 21 + Drill",
+    "Capacity: Concrete 13mm, Metal 13mm, Wood 38mm",
+    "Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-2,900/min.",
+    "Impact Rate: 0-3,500/bpm",
+    "Max. Torque: 165Nm",
+    "Capacity: Machine Screw M4-M8, Standard Bolt M5-M16, High Tensile Bolt M5-M12",
+    "Coarse Thread Length Capacity: 22-125mm",
+    "Includes: 2 x 18V 5.0Ah Li-ion Batteries, 1 x 18V DC18RC Compact Charger, 1 x Type 3 MAKPAC Connector Case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2137ptj-lxt-twin-pack-18v-4-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2137PTJ LXT Twin Pack 18V 4 x 5.0Ah Li-ion
+
+{
+  "price": "€821.33 inc VAT (€667.75 exc.vat)",
+  "description": "The Makita DLX2137PTJ LXT Twin Pack contains the following: 1 x 18V DHP482 LXT Combi Drill is a compact and precise power tool for the professional or DIY enthusiast. It features an all-metal gear construction for extra high transmission durability. It also features an electric brake and variable speed control trigger. Extremely comfortable to use with its ergonomic soft grip handle and lightweight design. Chuck: 13mm Keyless No Load Speed: 0-600/0-1,900/min. Impact Rate: 0-9,000/0-28,500/bpm Max. Torque: 62Nm, Settings: 21 + Drill Capacity: Concrete 13mm, Metal 13mm, Wood 38mm Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm 1 x 36V (2x18V) DHR263 Rotary SDS Hammer Drill offers 3-modes of operation: rotary only, hammer only and rotary hammer. It has a compact design that maintains easy handling and high manoeuvrability. No Load Speed: 0-1,200/min. Impact Rate: 0-4,800/bpm Capacity: Concrete 26mm, Steel 13mm, Wood 32mm Weight: 4.7kg 1 x 14.4-18V DC18RD Twin Port Charger is able to charge two Makita slide style Li-ion and NiMH batteries (with adaptor) at the same time, as fast as DC18RC charges one battery. It has a full charge sound alert and LED charging display. An electronic current limiter provides overload protection. Also supplied with: 4 x 18V 5.0Ah Li-ion Batteries, 1 x Type 3 MAKPAC Carry Case and 1 x Type 4 MAKPAC Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Makita DLX2137PTJ LXT Twin Pack 18V 4 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-600/0-1,900/min.",
+    "Impact Rate: 0-9,000/0-28,500/bpm",
+    "Max. Torque: 62Nm, Settings: 21 + Drill",
+    "Capacity: Concrete 13mm, Metal 13mm, Wood 38mm",
+    "Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm",
+    "No Load Speed: 0-1,200/min.",
+    "Impact Rate: 0-4,800/bpm",
+    "Capacity: Concrete 26mm, Steel 13mm, Wood 32mm",
+    "Weight: 4.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-x20s-twin-pack-20v-2-x-20ah-li-ion.html-lllmstxt|>
+## Olympia Power Tools X20S™ Twin Pack 20V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€123.33 inc VAT (€100.27 exc.vat)",
+  "description": "The Olympia Tools® X20S™ Twin Pack contains the following: 1 x 20V X20S™ Combi Drill has an all-metal gearbox for powerful drilling in wood, masonry and steel. A quick-stop function improves user safety. The body features an integrated bit holder, meaning you always have a screwdriver bit close by. Fitted with a soft grip handle for reduced fatigue and increased control. There is also a handy LED work light, ideal when working in dark spaces. Drill Chuck: 13mm (1/2in) Keyless No Load Speed: 0-350/0-1,400/min. Impact Rate: 5,250/21,000/bpm Max. Torque: 33Nm Torque Settings: 21+3 Charge Time: 1 hour Max. Drilling Diameter: Steel 6mm, Wood 20mm, Masonry 13mm Weight: 1.54kg 1 x 20V X20S™ Impact Driver has an all-metal gearbox and variable speed control. A quick-stop function improves user safety. The body features an integrated bit holder, meaning you always have a screwdriver bit close by. Fitted with a soft grip handle for reduced fatigue and increased control. There is also a handy LED work light, ideal when working in dark spaces. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-2,300/min. Impact Rate: 0-32,000/bpm Max. Torque: 140Nm Charge Time: 1 hour Weight: 1.52kg Also supplied with: 2 x 20V 2.0Ah X20S™ Li-ion Batteries, 1 x X20S™ Charger, 2 x Belt Clips, 2 x Screwdriver Bits and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools X20S™ Twin Pack 20V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "Drill Chuck: 13mm (1/2in) Keyless",
+    "No Load Speed: 0-350/0-1,400/min.",
+    "Impact Rate: 5,250/21,000/bpm",
+    "Max. Torque: 33Nm",
+    "Torque Settings: 21+3",
+    "Charge Time: 1 hour",
+    "Max. Drilling Diameter: Steel 6mm, Wood 20mm, Masonry 13mm",
+    "Weight: 1.54kg",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-2,300/min.",
+    "Impact Rate: 0-32,000/bpm",
+    "Max. Torque: 140Nm",
+    "Charge Time: 1 hour",
+    "Weight: 1.52kg",
+    "Includes: 2 x 20V 2.0Ah X20S™ Li-ion Batteries, 1 x X20S™ Charger, 2 x Belt Clips, 2 x Screwdriver Bits, 1 x Carry Case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck2050e2t-xr-bl-powerstack-twin-kit-18v.html-lllmstxt|>
+## DEWALT DCK2050E2T XR BL POWERSTACK™ Twin Kit 18V
+
+{
+  "price": "€480.73 inc VAT (€390.84 exc.vat)",
+  "description": "The DEWALT DCK2050E2T XR Brushless POWERSTACK™ Twin Kit contains the following: 1 x 18V DCD805E2T XR Brushless G3 Combi with an ultra-compact, lightweight design for use in confined spaces. An enhanced pivoting LED positioned on the foot offers greater visibility in dark and confined spaces. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint and work with all DEWALT 18V XR tools. Chuck: 13mm No Load Speed: 0-650/2,000/min. Impact Rate: 34,000/bpm Max. Torque: 90Nm Capacity: Steel 13mm, Masonry 13mm, Wood 55mm Weight: 1.3kg 1 x DCF850 XR Brushless Impact Driver with a 3 mode switch for enhanced control. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint and work with all DEWALT 18V XR tools. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/2,800/3,250/min. Impact Rate: 3,800/bpm Max. Torque: 205Nm Weight: 0.9kg 2 x 18V 2.0Ah Li-ion XR POWERSTACK™ Slide Batteries. 25% smaller and 15% lighter than the DEWALT DCB183 18V XR 2.0Ah battery, making it easier to use in tight workspaces. Stacked pouch cell battery technology provides a low impedance construction, meaning that the rate of flow of electrons is much higher thanks to the innovative internal pouch battery connectors and electrodes, providing a greater surface area vs a traditional cylindrical battery cell type. It also benefits from superior thermal performance vs cylindrical batteries. This increases battery durability, improves the cycle life and results. Also comes with 1 x TSTAK™ Kitbox.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK2050E2T XR BL POWERSTACK™ Twin Kit 18V",
+  "specifications": [
+    "Chuck: 13mm",
+    "No Load Speed: 0-650/2,000/min.",
+    "Impact Rate: 34,000/bpm",
+    "Max. Torque: 90Nm",
+    "Capacity: Steel 13mm, Masonry 13mm, Wood 55mm",
+    "Weight: 1.3kg",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-1,000/2,800/3,250/min.",
+    "Impact Rate: 3,800/bpm",
+    "Max. Torque: 205Nm",
+    "Weight: 0.9kg",
+    "2 x 18V 2.0Ah Li-ion XR POWERSTACK™ Slide Batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck207p2t-xr-brushless-twin-pack-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK207P2T XR Brushless Twin Pack 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€745.32 inc VAT (€605.95 exc.vat)",
+  "description": "The DEWALT DCK2532P2 XR Brushless Twin Pack contains the following: 1 x 18V DCH273 XR Brushless SDS Plus 3-Mode Hammer is fitted with an electronic clutch for consistently high torque and improved durability. Ideal for drilling anchors and fixing holes into concrete. Modes: Rotary, SDS Hammer, Chisel Only No Load Speed: 0-1,100/min. Impact Rate: 0-4,600/bpm Impact Energy: 2.1 joules Capacity: Masonry: 24mm, Metal: 13mm, Wood: 26mm Weight: 3.1kg 1 x 18V DCD796 XR Brushless Combi Drill has an ultra-compact, lightweight design. The 2-speed all-metal transmission provides increased run time and longer tool life. It offers a 15 position adjustable torque control for consistent screwdriving. Chuck: 13mm Keyless No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/34,000/bpm Torque: 27/70Nm, 15 Settings Capacity: Masonry/Steel 13mm, Wood 40mm 1 x 10.8-18V DCB115 XR Multi-Voltage Charger has a compact size, making it easy to store and it is also wall mountable. A bright LED indicator communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold conditions. It is capable of charging a 2.0Ah battery pack in 30 minutes. Voltage: 10.8/14.4/18V Battery Chemistry: Li-ion Charging Current: 4.0 A Also supplied with 2 x 18V 5.0Ah Li-ion Batteries and 1 x TSTAK™ Deep Toolbox.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK207P2T XR Brushless Twin Pack 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Modes: Rotary, SDS Hammer, Chisel Only",
+    "No Load Speed: 0-1,100/min.",
+    "Impact Rate: 0-4,600/bpm",
+    "Impact Energy: 2.1 joules",
+    "Capacity: Masonry: 24mm, Metal: 13mm, Wood: 26mm",
+    "Weight: 3.1kg",
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-550/0-2,000/min.",
+    "Impact Rate: 0-9,350/34,000/bpm",
+    "Torque: 27/70Nm, 15 Settings",
+    "Capacity: Masonry/Steel 13mm, Wood 40mm",
+    "Voltage: 10.8/14.4/18V",
+    "Battery Chemistry: Li-ion",
+    "Charging Current: 4.0 A"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck2050h2-powerstack-twin-pack-18v-2-x-20ah-li-ion.html-lllmstxt|>
+## DEWALT DCK2050H2 POWERSTACK™ Twin Pack 18V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€593.97 inc VAT (€482.90 exc.vat)",
+  "description": "The DEWALT DCK2050H2 POWERSTACK™ Twin Pack contains the following: 1 x 18V DCD805 XR Brushless G3 Combi with an ultra-compact, lightweight design for use in confined spaces, with enhanced pivoting LED, positioned on the foot, offers greater visibility in dark, and confined spaces. Chuck: 13mm. No Load Speed: 0-650/2,000/min. Impact Rate: 34,000/bpm. Max. Torque: 90Nm. Capacity: Steel 13mm, Masonry 13mm, Wood 55mm. 1 x 18V DCF850 XR Brushless Impact Driver with a 3 mode switch for enhanced control, including Precision Drive which prevents damage to the material, and fastener in smaller jobs. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-1,000/2,800/3,250/min. Impact Rate: 3,800/bpm. Max. Torque: 205Nm. Weight: 0.9kg. 2 x 18V 2.0Ah POWERSTACK™ Li-ion Batteries. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint, and work with all DEWALT 18V XR tools. Also supplied with: 1 x Multi-Voltage Charger 10.8-18V Li-ion and 1 x TSTAK­™ II Toolbox.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK2050H2 POWERSTACK™ Twin Pack 18V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V DCD805 XR Brushless G3 Combi",
+    "Chuck: 13mm",
+    "No Load Speed: 0-650/2,000/min",
+    "Impact Rate: 34,000/bpm",
+    "Max. Torque: 90Nm",
+    "Capacity: Steel 13mm, Masonry 13mm, Wood 55mm",
+    "1 x 18V DCF850 XR Brushless Impact Driver",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-1,000/2,800/3,250/min",
+    "Impact Rate: 3,800/bpm",
+    "Max. Torque: 205Nm",
+    "Weight: 0.9kg",
+    "2 x 18V 2.0Ah POWERSTACK™ Li-ion Batteries",
+    "1 x Multi-Voltage Charger 10.8-18V Li-ion",
+    "1 x TSTAK­™ II Toolbox"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck663p3-xr-brushless-6-piece-kit-18v-3-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK663P3 XR Brushless 6 Piece Kit 18V 3 x 5.0Ah Li-ion
+
+{
+  "price": "€1,061.71 inc VAT (€863.18 exc.vat)",
+  "description": "The DEWALT DCK663P3 XR Brushless 6 Piece Kit contains the following: 1 x 18V DCD796 XR Brushless Combi Drill has an ultra-compact, lightweight design. The 2-speed all-metal transmission provides increased run time and longer tool life. It offers a 15 position adjustable torque control for consistent screwdriving. Chuck: 13mm Keyless No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/34,000/bpm Torque: 27/70Nm, 15 Settings Capacity: Masonry/Steel 13mm, Wood 40mm 1 x 18V DCF887 XR Brushless Impact Driver is equipped with application control. This is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/0-2,800/0-3,250/min. Impact Rate: 0-1,800/0-2,900/0-3,800/bpm Max. Torque: 26/80/205Nm Weight: 1.56kg 1 x 18V DCS570 XR Brushless Circular Saw, ideal for general purpose ripping, cross-cutting and bevelling on wood and other construction materials. It has a high torque brushless motor for improved durability and power. With a precise cutting depth scale, up to 65mm and a variable bevel angle, up to 57°. Its stable block construction provides low vibration running and increased service life. With an additional handle for safe two-handed work. No Load Speed: 5,500/min. Max Cutting Depth @90º: 64mm Blade: 184 x 16mm Bore Bevel Capacity: 57° 1 x 18V DCS367 Brushless XR Reciprocating Saw has a compact design that allows for better access to hard to reach cuts. Offers improved balance and ease of handling due to central motor position. The four position blade clamp allows for flush cutting and improved versatility. There is a lever action keyless blade clamp for tool-free blade change and an LED work light for improved visibility of cut. Strokes at No Load: 0-2,900/min. Stroke Length: 28.6mm Capacity: Wood 300mm, Steel Sections & Pipes 100mm, PVC 160mm Weight: 2.3kg 1 x 18V DCG405 125mm XR Brushless Grinder has a powerful fan cooled motor with a mesh cover that provides additional motor protection by preventing dust being sucked through the motor. Its electronic clutch reduces the kick back reaction in the event of a pinch or stall. The two position side handle provides greater control, whilst the rubber overmould provides enhanced grip and comfort. For added safety, the electronic brake stops the wheel quickly when the trigger is released. No Load Speed: 9,000/min. Disc Diameter: 125mm Spindle Thread: M14 Weight: 1.75kg 1 x 18V DCL050 XR LED Work Light with variable light settings for maximum brightness or extended run time and a broad and even beam pattern. Perfect for inspecting areas without electricity or natural light. The articulating head has nine positions for directional control of light output and an extendable hanging hook allows the work light to be suspended during use. Light Output: 250-500 lumens Protection Class: IP54 Also supplied with: 3 x 18V 5.0Ah Li-ion Batteries, 1 x 10.8-18V DCB115 XR Multi-Voltage Li-ion Charger and 1 x DS300 TOUGHSYSTEM™ Toolbox",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK663P3 XR Brushless 6 Piece Kit 18V 3 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-550/0-2,000/min.",
+    "Impact Rate: 0-9,350/34,000/bpm",
+    "Torque: 27/70Nm, 15 Settings",
+    "Capacity: Masonry/Steel 13mm, Wood 40mm",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-1,000/0-2,800/0-3,250/min.",
+    "Impact Rate: 0-1,800/0-2,900/0-3,800/bpm",
+    "Max. Torque: 26/80/205Nm",
+    "Weight: 1.56kg",
+    "No Load Speed: 5,500/min.",
+    "Max Cutting Depth @90º: 64mm",
+    "Blade: 184 x 16mm Bore",
+    "Bevel Capacity: 57°",
+    "Strokes at No Load: 0-2,900/min.",
+    "Stroke Length: 28.6mm",
+    "Capacity: Wood 300mm, Steel Sections & Pipes 100mm, PVC 160mm",
+    "Weight: 2.3kg",
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm",
+    "Spindle Thread: M14",
+    "Weight: 1.75kg",
+    "Light Output: 250-500 lumens",
+    "Protection Class: IP54"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck664p3-xr-brushless-6-piece-kit-18v-3-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK664P3 XR Brushless 6 Piece Kit 18V 3 x 5.0Ah Li-ion
+
+{
+  "price": "€1,049.82 inc VAT (€853.51 exc.vat)",
+  "description": "The DEWALT DCK664P3 XR Brushless 6 Piece Kit contains the following: 1 x 18V DCD996 XR Brushless Combi Drill with a tough 3-speed all-metal transmission for increased run time and longer tool life. Electronic clutch with an 11 position adjustable torque control for optimised precision when screwdriving. It also has an improved 3 position LED torch with high/medium/low settings. Chuck: 13mm Keyless No Load Speed: 0-450/0-1,300/0-2,000/min. Impact Rate: 0-8,600/0-25,500/0-38,250/bpm Max. Torque: 95Nm, 11 Settings Capacity: Masonry 16mm, Steel 15mm, Wood 55mm Weight: 2.1kg 1 x 18V DCF887 XR Brushless Impact Driver is equipped with application control. This is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/0-2,800/0-3,250/min. Impact Rate: 0-1,800/0-2,900/0-3,800/bpm Max. Torque: 26/80/205Nm Weight: 1.56kg 1 x 18V DCS565 XR Brushless Circular Saw has an extremely durable design, including a cast aluminium base for repetitive, accurate cuts. With optimum balance for safe, fatigue-free operation. A lock-off switch and electronic motor brake provide additional control and work safety. The dust blower and LED work light provide improved cut line visibility. No Load Speed: 4,950/min. Max. Cutting Depth: @45° 42mm, @90° 55mm Bevel Capacity: 50° Blade Diameter x Bore: 165 x 20mm Weight: 2.8kg (without battery) 1 x 18V DCS334 XR Brushless Top Handle Jigsaw has an intelligent variable speed trigger, lock-off switch and 4-position pendulum action. The quick and easy keyless blade change system accepts T-shank blades. The tool-free adjustable shoe is fitted with an anti-scratch cover that bevels to 45° in both directions. The dust port is AirLock compatible. Strokes at No Load: 0-3,200/min. Stroke Length: 26mm Bevel Capacity: 0-45° Capacity: Metal 10mm, Wood 135mm Weight: 2.1kg 1 x 18V DCG405 125mm XR Brushless Grinder has a powerful fan cooled motor with a mesh cover that provides additional motor protection by preventing dust being sucked through the motor. Its electronic clutch reduces the kick back reaction in the event of a pinch or stall. The two position side handle provides greater control, whilst the rubber overmould provides enhanced grip and comfort. For added safety, the electronic brake stops the wheel quickly when the trigger is released. No Load Speed: 9,000/min. Disc Diameter: 125mm Spindle Thread: M14 Weight: 1.75kg 1x DCL040 LED Torch Also supplied with: 3 x 18V 5.0Ah Li-ion Batteries, 1 x 10.8-18V DCB115 XR Multi-Voltage Li-ion Charger and 2 x DS300 TOUGHSYSTEM™ Toolboxes",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK664P3 XR Brushless 6 Piece Kit 18V 3 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-450/0-1,300/0-2,000/min.",
+    "Impact Rate: 0-8,600/0-25,500/0-38,250/bpm",
+    "Max. Torque: 95Nm, 11 Settings",
+    "Capacity: Masonry 16mm, Steel 15mm, Wood 55mm",
+    "Weight: 2.1kg",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-1,000/0-2,800/0-3,250/min.",
+    "Impact Rate: 0-1,800/0-2,900/0-3,800/bpm",
+    "Max. Torque: 26/80/205Nm",
+    "Weight: 1.56kg",
+    "No Load Speed: 4,950/min.",
+    "Max. Cutting Depth: @45° 42mm, @90° 55mm",
+    "Bevel Capacity: 50°",
+    "Blade Diameter x Bore: 165 x 20mm",
+    "Weight: 2.8kg (without battery)",
+    "Strokes at No Load: 0-3,200/min.",
+    "Stroke Length: 26mm",
+    "Bevel Capacity: 0-45°",
+    "Capacity: Metal 10mm, Wood 135mm",
+    "Weight: 2.1kg",
+    "No Load Speed: 9,000/min.",
+    "Disc Diameter: 125mm",
+    "Spindle Thread: M14",
+    "Weight: 1.75kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck264p2t-xr-nailer-twin-pack-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK264P2T XR Nailer Twin Pack 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€1,524.52 inc VAT (€1,239.45 exc.vat)",
+  "description": "The DEWALT DCK264P2T XR Nailer Twin Pack, contains the following: 1 x 18V DCN660 Cordless XR Brushless Second Fix Nailer has a compact, lightweight and ergonomic design makes the tool easy and comfortable to use, but durable enough for the worksite environment. The depth of drive can be easily adjusted using the handy thumb wheel depth adjuster. Specifications: Nail Diameter: 1.6mm. Nail Length: 32 - 63mm. Magazine Angle: 20°. Magazine Capacity: 110 Nails. Weight: 2.7kg. 1 x 18V DCN692 Cordless XR Framing Nailer with two speeds to optimise the nailer for firing all lengths of nails. With brushless motor technology for excellent power and tool-free jam clearance to minimise down time. Suitable for many applications, including stud wall insulation, roofing, floor board and cladding installation etc. Specifications: Nail Diameter: 2.8-3.3mm. Nail Length: 50-90mm. Magazine Capacity: up to 55 nails. Firing Mode: Bump and Sequential. Weight: 4.1kg. 1 x 10.8-18V DCB115 Multi-Voltage XR Charger. Also supplied with 2 x 18V 5.0Ah Li-ion Batteries and 1 x TSTAK™ Mobile Storage Box.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK264P2T XR Nailer Twin Pack 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Nail Diameter: 1.6mm",
+    "Nail Length: 32 - 63mm",
+    "Magazine Angle: 20°",
+    "Magazine Capacity: 110 Nails",
+    "Weight: 2.7kg",
+    "Nail Diameter: 2.8-3.3mm",
+    "Nail Length: 50-90mm",
+    "Magazine Capacity: up to 55 nails",
+    "Firing Mode: Bump and Sequential",
+    "Weight: 4.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck690p3t-xr-brushless-6-piece-kit-18v-3-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK690P3T XR Brushless 6 Piece Kit 18V 3 x 5.0Ah Li-ion
+
+{
+  "price": "€1,144.95 inc VAT (€930.85 exc.vat)",
+  "description": "The DEWALT DCK690P3T XR Brushless 6 Piece Kit contains the following: 1 x 18V DCD796 XR Brushless Combi Drill has an ultra-compact, lightweight design. The 2-speed all-metal transmission provides increased run time and longer tool life. It offers a 15 position adjustable torque control for consistent screwdriving. Chuck: 13mm Keyless No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/34,000/bpm Torque: 27/70Nm, 15 Settings Capacity: Masonry/Steel 13mm, Wood 40mm 1 x 18V DCH273 XR Brushless SDS Plus 3-Mode Hammer is fitted with an electronic clutch for consistently high torque and improved durability. Ideal for drilling anchors and fixing holes into concrete. Modes: Rotary, SDS Hammer, Chisel Only No Load Speed: 0-1,100/min. Impact Rate: 0-4,600/bpm Impact Energy: 2.1 joules Capacity: Masonry: 24mm, Metal: 13mm, Wood: 26mm Weight: 3.1kg 1 x 18V DCF887 XR Brushless Impact Driver is equipped with application control. This is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/0-2,800/0-3,250/min. Impact Rate: 0-1,800/0-2,900/0-3,800/bpm Max. Torque: 26/80/205Nm Weight: 1.56kg 1 x 18V DCS565 XR Brushless Circular Saw has an extremely durable design, including a cast aluminium base for repetitive, accurate cuts. With optimum balance for safe, fatigue-free operation. A lock-off switch and electronic motor brake provide additional control and work safety. The dust blower and LED work light provide improved cut line visibility. No Load Speed: 4,950/min. Max. Cutting Depth: @45° 42mm, @90° 55mm Bevel Capacity: 50° Blade Diameter x Bore: 165 x 20mm Weight: 2.8kg (without battery) 1 x 18V DCS334 XR Brushless Top Handle Jigsaw has an intelligent variable speed trigger, lock-off switch and 4-position pendulum action. The quick and easy keyless blade change system accepts T-shank blades. The tool-free adjustable shoe is fitted with an anti-scratch cover that bevels to 45° in both directions. The dust port is AirLock compatible. Strokes at No Load: 0-3,200/min. Stroke Length: 26mm Bevel Capacity: 0-45° Capacity: Metal 10mm, Wood 135mm Weight: 2.1kg 1 x 18V DCL040 XR LED Torch with a compact, lightweight design and an ergonomic, rubber grip for increased comfort. Impact resistant housing provides increased durability. The LED bulb produces a two zone light pattern. Its head pivots more than 90º vertically with a ratchet lock. Light Output: 110 lumens 1 x 10.8-18V DCB115 XR Multi-Voltage Charger has a compact size, making it easy to store and it is also wall mountable. A bright LED indicator communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold conditions. It is capable of charging a 2.0Ah battery pack in 30 minutes. Also supplied with 3 x 18V 5.0Ah Li-ion Batteries and 2 x TSTAK™ Deep Toolboxes.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK690P3T XR Brushless 6 Piece Kit 18V 3 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V DCD796 XR Brushless Combi Drill",
+    "1 x 18V DCH273 XR Brushless SDS Plus 3-Mode Hammer",
+    "1 x 18V DCF887 XR Brushless Impact Driver",
+    "1 x 18V DCS565 XR Brushless Circular Saw",
+    "1 x 18V DCS334 XR Brushless Top Handle Jigsaw",
+    "1 x 18V DCL040 XR LED Torch",
+    "1 x 10.8-18V DCB115 XR Multi-Voltage Charger",
+    "3 x 18V 5.0Ah Li-ion Batteries",
+    "2 x TSTAK™ Deep Toolboxes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck266m2-xr-brushless-twin-pack-18v-2-x-40ah-li-ion.html-lllmstxt|>
+## DEWALT DCK266M2 XR Brushless Twin Pack 18V 2 x 4.0Ah Li-ion
+
+{
+  "price": "€1,348.18 inc VAT (€1,096.08 exc.vat)",
+  "description": "The DEWALT DCK266M2 XR Brushless Twin Pack contains the following: 1 x 18V DCD796 XR Brushless Combi Drill has an ultra-compact, lightweight design. The 2-speed all-metal transmission provides increased run time and longer tool life. It offers a 15 position adjustable torque control for consistent screwdriving. Chuck: 13mm Keyless No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/34,000/bpm Torque: 27/70Nm, 15 Settings Capacity: Masonry/Steel 13mm, Wood 40mm 1 x 18V DCF887 XR Brushless Impact Driver is equipped with application control. This is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/0-2,800/0-3,250/min. Impact Rate: 0-1,800/0-2,900/0-3,800/bpm Max. Torque: 26/80/205Nm Weight: 1.56kg Also supplied with: 2 x 18V 4.0Ah Li-ion Batteries, 1 x 10.8-18V DCB115 XR Multi-Voltage Li-ion Charger and 1 x TSTAK II Kit Box.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK266M2 XR Brushless Twin Pack 18V 2 x 4.0Ah Li-ion",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-550/0-2,000/min.",
+    "Impact Rate: 0-9,350/34,000/bpm",
+    "Torque: 27/70Nm, 15 Settings",
+    "Capacity: Masonry/Steel 13mm, Wood 40mm",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-1,000/0-2,800/0-3,250/min.",
+    "Impact Rate: 0-1,800/0-2,900/0-3,800/bpm",
+    "Max. Torque: 26/80/205Nm",
+    "Weight: 1.56kg",
+    "Includes: 2 x 18V 4.0Ah Li-ion Batteries, 1 x 10.8-18V DCB115 XR Multi-Voltage Li-ion Charger, 1 x TSTAK II Kit Box"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck2102l2t-xr-brushless-twin-pack-12v-2-x-30ah-li-ion.html-lllmstxt|>
+## DEWALT DCK2102L2T XR Brushless Twin Pack 12V 2 x 3.0Ah Li-ion
+
+{
+  "price": "€390.71 inc VAT (€317.65 exc.vat)",
+  "description": "The DEWALT DCK2102L2T XR Brushless Twin Pack, contains the following: 1 x 12V DCD706 XR Brushless Sub-Compact Combi Drill has an extremely compact design, with a length of 168mm, allowing you to get into even smaller tight spaces. The Drill has a 15 position adjustable torque control for consistent screwdriving, into a wide variety of materials. Chuck: 10mm Keyless. No Load Speed: 0-425/0-1,500/min. Impact Rate: 25,500/bpm. Max. Torque: 57.5Nm, 15 Settings. Capacity: Masonry/Steel 10mm, Wood 20mm. Weight: 1.2kg. (2.65lbs). 1 x 12V DCH072 XR SDS Plus Hammer Drill has a brushless motor for improved run time and durability. Ideal for drilling anchors, and fixing holes into concrete, brick and masonry. The Hammer Drill has an ultra-compact design with overmoulded handle and grip areas to enhance grip and comfort. There is also a bright, white LED with a delay feature for improved visibility. No Load Speed: 910/min. Impact Rate: 4,280/bpm. Impact Energy: 1.1 joules. Capacity: Concrete 14mm, Wood 13mm, Metal 10mm. Weight: 1.7kg (without battery) (3.75lbs). Also supplied with: 2 x 12V 3.0Ah Li-ion Batteries, 1 x Multi-Voltage XR Charger & 1 x TSTAK Kit Box.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK2102L2T XR Brushless Twin Pack 12V 2 x 3.0Ah Li-ion",
+  "specifications": [
+    "1 x 12V DCD706 XR Brushless Sub-Compact Combi Drill",
+    "15 position adjustable torque control",
+    "Chuck: 10mm Keyless",
+    "No Load Speed: 0-425/0-1,500/min",
+    "Impact Rate: 25,500/bpm",
+    "Max. Torque: 57.5Nm, 15 Settings",
+    "Capacity: Masonry/Steel 10mm, Wood 20mm",
+    "Weight: 1.2kg (2.65lbs)",
+    "1 x 12V DCH072 XR SDS Plus Hammer Drill",
+    "No Load Speed: 910/min",
+    "Impact Rate: 4,280/bpm",
+    "Impact Energy: 1.1 joules",
+    "Capacity: Concrete 14mm, Wood 13mm, Metal 10mm",
+    "Weight: 1.7kg (without battery) (3.75lbs)",
+    "Supplied with: 2 x 12V 3.0Ah Li-ion Batteries, 1 x Multi-Voltage XR Charger & 1 x TSTAK Kit Box"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck318pd-xr-brushless-kit-12v-1-x-20ah-and-1-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK318PD XR Brushless Kit 12V 1 x 2.0Ah & 1 x 5.0Ah Li-ion
+
+{
+  "price": "€521.52 inc VAT (€424.00 exc.vat)",
+  "description": "The DEWALT DCK318PD XR Brushless Kit, contains the following: 1 x 12V DCD706 XR Brushless Sub-Compact Combi Drill has an extremely compact design, only 168mm long, allowing you to get into small, tight spaces. The Combi Drill has a 15 position adjustable torque control for consistent screwdriving, into a wide variety of materials. Chuck: 10mm Keyless. No Load Speed: 0-425/0-1,500/min. Impact Rate: 25,500/bpm. Max. Torque: 57.5Nm, 15 Settings. Capacity: Masonry/Steel 10mm, Wood 20mm. Weight: 1.2kg. The 12V DCS512 Brushless XR Circular Saw has a cast aluminium base for a repetitive, and accurate cut. The bevel angle is adjustable by up to 50°, and a lock-off switch, and electronic motor brake provide additional control, and work safety. The Saw is also fitted with an additional handle for safe two-handed work. No Load Speed: 3,600/min. Max. Cutting Depth: @90° 47mm, @45° 33mm. Bevel Capacity: 50°. Blade: 140 x 20mm Bore. Weight: 2.2kg. The 12V DCS353 XR Brushless Multi-Tool, with a dual-grip variable speed trigger, and lock-on feature allowing greater control when cutting, scraping, and sanding. A quick-change accessory system allows blades, and attachments to be changed quickly. The compact, lightweight design also allows improved access into confined spaces. No Load Speed: 0-18,000/min. Oscillation Angle: 1.6°. Weight: 0.86kg (without battery). Also supplied with: 1 x 12V 2.0Ah Li-ion Battery, 1 x 12V 5.0Ah Li-ion Battery, 1 x Multi-Voltage XR Charger & 1 x Toolbag.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK318PD XR Brushless Kit 12V 1 x 2.0Ah & 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 12V DCD706 XR Brushless Sub-Compact Combi Drill",
+    "Chuck: 10mm Keyless",
+    "No Load Speed: 0-425/0-1,500/min",
+    "Impact Rate: 25,500/bpm",
+    "Max. Torque: 57.5Nm, 15 Settings",
+    "Capacity: Masonry/Steel 10mm, Wood 20mm",
+    "Weight: 1.2kg",
+    "12V DCS512 Brushless XR Circular Saw",
+    "No Load Speed: 3,600/min",
+    "Max. Cutting Depth: @90° 47mm, @45° 33mm",
+    "Bevel Capacity: 50°",
+    "Weight: 2.2kg",
+    "12V DCS353 XR Brushless Multi-Tool",
+    "No Load Speed: 0-18,000/min",
+    "Oscillation Angle: 1.6°",
+    "Weight: 0.86kg (without battery)",
+    "Includes: 1 x 12V 2.0Ah Li-ion Battery, 1 x 12V 5.0Ah Li-ion Battery, 1 x Multi-Voltage XR Charger & 1 x Toolbag"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck2104l2t-xr-brushless-twin-pack-12v-2-x-30ah-li-ion.html-lllmstxt|>
+## DEWALT DCK2104L2T XR Brushless Twin Pack 12V 2 x 3.0Ah Li-ion
+
+{
+  "price": "€390.71 inc VAT (€317.65 exc.vat)",
+  "description": "The DEWALT DCK2104L2T XR Brushless Twin Pack, contains the following: 1 x 12V DCF801 XR Brushless Sub-Compact Impact Driver with 3 electronic speeds for greater control when working on precise applications. Precision Drive mode is ideal for fine screw work, preventing the screw head or material from being damaged. Compatible with existing 10.8V and 12V slide on batteries. No Load Speed: 0-950/0-1,950/0-2,850/min. Impact Rate: 0-3,600/bpm. Max. Torque: 163Nm. Weight: 0.8kg. (1.76lbs). 1 x 12V DCH072 XR SDS Plus Hammer Drill, a brushless motor for improved run time, and durability. Ideal for drilling anchors, and fixing holes into concrete, brick and masonry. The drill has an ultra-compact design with overmoulded handle and grip areas to enhance grip, and comfort. There is also a bright, white LED with a delay feature for improved visibility. No Load Speed: 910/min. Impact Rate: 4,280/bpm. Impact Energy: 1.1 joules. Capacity: Concrete 14mm, Wood 13mm, Metal 10mm. Weight: 1.7kg (without battery). (3.75lbs). Also supplied with: 2 x 12V 3.0Ah Li-ion Batteries, 1 x Multi-Voltage XR Charger & 1 x TSTAK Kit Box.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK2104L2T XR Brushless Twin Pack 12V 2 x 3.0Ah Li-ion",
+  "specifications": [
+    "1 x 12V DCF801 XR Brushless Sub-Compact Impact Driver",
+    "3 electronic speeds",
+    "Precision Drive mode",
+    "Compatible with existing 10.8V and 12V slide on batteries",
+    "Max. Torque: 163Nm",
+    "Weight: 0.8kg (1.76lbs)",
+    "1 x 12V DCH072 XR SDS Plus Hammer Drill",
+    "Impact Rate: 4,280/bpm",
+    "Impact Energy: 1.1 joules",
+    "Capacity: Concrete 14mm, Wood 13mm, Metal 10mm",
+    "Weight: 1.7kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck266m2t-tstak-twin-kit-2-x-40ah-li-ion.html-lllmstxt|>
+## DEWALT DCK266M2T TSTAK™ Twin Kit 2 x 4.0Ah Li-ion
+
+{
+  "price": "€306.05 inc VAT (€248.82 exc.vat)",
+  "description": "The DEWALT DCK266M2T TSTAK™ Twin Kit, contains the following: 1 x 18V DCD796 XR Brushless Combi Drill which has an ultra-compact, lightweight design. The 2-speed all-metal transmission provides increased run time and longer tool life. It offers a 15 position adjustable torque control for consistent screwdriving. Chuck: 13mm Keyless. No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/34,000/bpm. Torque: 27/70Nm, 15 Settings. Capacity: Masonry/Steel 13mm, Wood 40mm. 1 x 18V DCF887 XR Brushless Impact Driver is equipped with application control. This is achieved through 3 motor speeds and torque settings. Precision Drive mode offers additional control in screwdriving applications to avoid material and fastener damage. It has a super lightweight and compact design. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-1,000/0-2,800/0-3,250/min. Impact Rate: 0-1,800/0-2,900/0-3,800/bpm. Max. Torque: 26/80/205Nm. Weight: 1.56kg. Also supplied with: 1 x 10.8-18V DCB115 Multi-Voltage XR Charger, 2 x 18V 4.0Ah Li-ion Batteries and 1 x TSTAK™ Case.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK266M2T TSTAK™ Twin Kit 2 x 4.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V DCD796 XR Brushless Combi Drill",
+    "2-speed all-metal transmission",
+    "15 position adjustable torque control",
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-550/0-2,000/min",
+    "Impact Rate: 0-9,350/34,000/bpm",
+    "Torque: 27/70Nm, 15 Settings",
+    "Capacity: Masonry/Steel 13mm, Wood 40mm",
+    "1 x 18V DCF887 XR Brushless Impact Driver",
+    "3 motor speeds and torque settings",
+    "Precision Drive mode",
+    "Bit Holder: 6.35mm (1/4in)",
+    "Weight: 1.56kg",
+    "Includes 1 x 10.8-18V DCB115 Multi-Voltage XR Charger",
+    "Includes 2 x 18V 4.0Ah Li-ion Batteries",
+    "Includes 1 x TSTAK™ Case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck2052h1-twin-kit-18v-1-x-17ah-and-1-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK2052H1 Twin Kit 18V 1 x 1.7Ah & 1 x 5.0Ah Li-ion
+
+{
+  "price": "€650.62 inc VAT (€528.96 exc.vat)",
+  "description": "The DEWALT DCK2052H1 Twin Kit contains the following: 1 x 18V DCD999 XR XRP Combi Drill comes with FlexVolt ADVANTAGE technology. This unique electronic module features pack identification technology. This enables the tool to recognise when an XR FLEXVOLT battery is attached and to then unlock even more power. A foot LED with delay feature, provides improved visibility and flashlight functionality. Chuck Capacity: 1.5-13mm. No Load Speed: 0-500/1,500/2,250/min. Impact Rate: 38,250/bpm. Max. Torque: 67Nm. Max. Drilling Capacity: Metal 15mm, Wood 55mm, Masonry 13mm. Weight: 1.6kg (without battery). 1 x 18V DCF850E2T XR Brushless Impact Driver comes with a 3 mode switch for enhanced control including Precision Drive which prevents damage to the material and fastener in smaller jobs. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint and they work with all DEWALT 18V XR tools. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-1,000/2,800/3,250/min. Impact Rate: 3,800/bpm. Max. Torque: 205Nm. Weight: 0.9kg. It is supplied with: 1 x 18V POWERSTACK™ Li-ion Batteries 1.7Ah. 1 x 18V POWERSTACK™ Li-ion Batteries 5.0Ah. 1 x DCB1104 Charger. 1 x TSTAK™ Heavy-duty Kitbox.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK2052H1 Twin Kit 18V 1 x 1.7Ah & 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck Capacity: 1.5-13mm",
+    "No Load Speed: 0-500/1,500/2,250/min",
+    "Impact Rate: 38,250/bpm",
+    "Max. Torque: 67Nm",
+    "Max. Drilling Capacity: Metal 15mm, Wood 55mm, Masonry 13mm",
+    "Weight: 1.6kg (without battery)",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-1,000/2,800/3,250/min",
+    "Impact Rate: 3,800/bpm",
+    "Max. Torque: 205Nm",
+    "Weight: 0.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck2052h2-powerstack-twin-kit-2-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK2052H2 POWERSTACK™ Twin Kit 2 x 5.0Ah Li-ion
+
+{
+  "price": "€715.17 inc VAT (€581.44 exc.vat)",
+  "description": "The DEWALT DCK2052H2 POWERSTACK™ Twin Kit, contains the following: 1 x 18V DCD999 XR XRP Combi Drill with FlexVolt ADVANTAGE technology. This unique electronic module features pack identification technology. This enables the tool to recognise when an XR FLEXVOLT battery is attached and can unlock even more power. A foot LED with delay feature, provides improved visibility and flashlight functionality. Chuck Capacity: 1.5-13mm. No Load Speed: 0-500/1,500/2,250/min. Impact Rate: 38,250/bpm. Max. Torque: 67Nm. Max. Drilling Capacity: Metal 15mm, Wood 55mm, Masonry 13mm. Weight: 1.6kg (without battery). 1 x 18V DCF850 XR Brushless Impact Driver comes with a 3 mode switch for enhanced control including Precision Drive which prevents damage to the material and fastener in smaller jobs. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint and work with all DEWALT 18V XR tools. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-1,000/2,800/3,250/min. Impact Rate: 3,800/bpm. Max. Torque: 205Nm. Weight: 0.9kg. Also supplied with: 1 x DCB1104 Charger, 2 x 18V POWERSTACK™ Li-ion Batteries 5.0Ah & 1 x TSTAK™ Heavy-duty Kitbox.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCK2052H2 POWERSTACK™ Twin Kit 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck Capacity: 1.5-13mm",
+    "No Load Speed: 0-500/1,500/2,250/min",
+    "Impact Rate: 38,250/bpm",
+    "Max. Torque: 67Nm",
+    "Max. Drilling Capacity: Metal 15mm, Wood 55mm, Masonry 13mm",
+    "Weight: 1.6kg (without battery)",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-1,000/2,800/3,250/min",
+    "Impact Rate: 3,800/bpm",
+    "Max. Torque: 205Nm",
+    "Weight: 0.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hikoki-kc18ddxjbz-twin-pack-18v-3-x-50ah-li-ion.html-lllmstxt|>
+## HiKOKI KC18DDXJBZ Twin Pack 18V 3 x 5.0Ah Li-ion
+
+{
+  "price": "€297.66 inc VAT (€242.00 exc.vat)",
+  "description": "The HiKOKI KC18DDXJBZ Twin Pack contains the following: 1 x 18V DV18DDX Compact Combi Drill with a high power brushless motor, two speed gearbox and 20 stage adjustable torque plus rotary and impact drilling modes. The electric brake provides increased safety. Fitted with a soft grip handle for increased comfort. Chuck Capacity: 2.0 - 13mm. No Load Speed: 0-440/0-1,700/min. Impact Rate: 0-6,600/0-25,500/bpm. Max. Torque: 55Nm. Capacity: Brick 13mm, Wood 36mm, Steel 13mm. 1 x 18V WH18DDX Compact Impact Driver with a high power brushless motor for increased tool durability and provides reliable usage. The electric brake provides increased safety. Fitted with a soft grip handle for increased comfort. Bit Holder: 6.35mm. No Load Speed: 0-3,200/min. Impact Rate: 0-4,000/bpm. Max. Torque: 140Nm. Capacity: Bolt M5-M14, HT bolt M5-M12, Screw 4-8mm. Also supplied with: 3 x 18V 5.0Ah Li-ion Batteries, 1 x Charger and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "HiKOKI KC18DDXJBZ Twin Pack 18V 3 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck Capacity: 2.0 - 13mm",
+    "No Load Speed: 0-440/0-1,700/min",
+    "Impact Rate: 0-6,600/0-25,500/bpm",
+    "Max. Torque: 55Nm",
+    "Capacity: Brick 13mm, Wood 36mm, Steel 13mm",
+    "Bit Holder: 6.35mm",
+    "No Load Speed: 0-3,200/min",
+    "Impact Rate: 0-4,000/bpm",
+    "Max. Torque: 140Nm",
+    "Capacity: Bolt M5-M14, HT bolt M5-M12, Screw 4-8mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-18v-lxt-twin-pack.html-lllmstxt|>
+## Makita 18V LXT Twin Pack
+
+{
+  "price": "€542.39 inc VAT (€440.97 exc.vat)",
+  "description": "The Makita DLX2134TJ twin pack contains: - 1 x DHP482 LXT Combi Drill features an all-metal gear construction for high transmission durability. Its variable 2-speed, reversible motor features extreme protection technology (XPT), so it is protected from dust, debris and liquids, providing optimal performance in extreme conditions. It also features twin LED job lights with pre-glow and after-glow functions. Ideal for the professional or DIY enthusiast. Specifications: Chuck: 13mm Keyless. No Load Speed: 0-600/0-1,900/min. Impact Rate: 0-9,000/0-28,500/bpm. Max. Torque: 62Nm, Settings: 21 + Drill. Capacity: Concrete 13mm, Metal 13mm, Wood 38mm. Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm. 1 x DVJ180 LXT Jigsaw is an efficient saw with a 3 stage pendulum action and tool-less blade change. Engine speed can be adjusted between 0 and 2,600 min to suit the material. It has a stroke length of 26mm and cutting capacity of 135mm in wood and 10mm in steel. Also included: - 2 x BL1850B 18v 5Ah Batteries. 1 x DC18RC Charger. 1 x Makpac Carry Case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita 18V LXT Twin Pack",
+  "specifications": [
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-600/0-1,900/min",
+    "Impact Rate: 0-9,000/0-28,500/bpm",
+    "Max. Torque: 62Nm, Settings: 21 + Drill",
+    "Capacity: Concrete 13mm, Metal 13mm, Wood 38mm",
+    "Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm",
+    "1 x DVJ180 LXT Jigsaw with 3 stage pendulum action",
+    "Engine speed adjustable between 0 and 2,600 min",
+    "Stroke length of 26mm",
+    "Cutting capacity of 135mm in wood and 10mm in steel",
+    "Includes 2 x BL1850B 18v 5Ah Batteries, 1 x DC18RC Charger, 1 x Makpac Carry Case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2372tj-twin-pack-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2372TJ Twin Pack 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€677.99 inc VAT (€551.21 exc.vat)",
+  "description": "The Makita DLX2372TJ Twin Pack contains the following: 1 x 18V DHR242 SDS Plus Hammer Drill has an efficient brushless DC motor which provides higher productivity and a slide chuck for quick and easy SDS Plus bit changes. It offers 3 modes of operation: rotation and hammering, hammering only and rotation only. The unique joint construction suppresses the transmission of vibration to the battery terminals, minimising battery failures. No Load Speed: 0-950/min. Impact Rate: 0-4,700/bpm. Impact Energy: 2 joules. Capacity: Concrete 24mm, Steel 13mm, Wood 27mm. 1 x 18V DTW300 Brushless LXT Impact Wrench for use in automotive, installation and fabrication trades. Precise fastening control is achieved through the 4-speed power selection switch. Three forward and three reverse rotation auto-stop modes offer increased efficiency when the fastener is adequately loosened. The full-speed mode function reduces the trigger pull to reach full speed. Bit Holder: 12.7mm (1/2in). No Load Speed: 0-1,000/0-1,800/0-3,200/min. Impact Rate: 0-1,800/0-2,600/0-3,400/bpm. Max. Torque: Fastening 330Nm, Nut Busting 580Nm. Capacity: High Tensile Bolt M10-M16, Standard Bolt M10-M20. Weight: 1.5kg. 1 x 14.4-18V DC18RC Compact Li-ion Charger has a built-in cooling fan system blowing cool air into the battery, keeping the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. With 3 active charging colours to help identify when the battery is charged, and to what level. Also supplied with: 2 x 18V BL1850 5.0Ah Li-ion Batteries and 1 x Type 4 MAKPAC Connector Case.",
+  "availability": "In Stock",
+  "product_name": "Makita DLX2372TJ Twin Pack 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V DHR242 SDS Plus Hammer Drill",
+    "1 x 18V DTW300 Brushless LXT Impact Wrench",
+    "1 x 14.4-18V DC18RC Compact Li-ion Charger",
+    "2 x 18V BL1850 5.0Ah Li-ion Batteries",
+    "1 x Type 4 MAKPAC Connector Case",
+    "No Load Speed: 0-950/min",
+    "Impact Rate: 0-4,700/bpm",
+    "Impact Energy: 2 joules",
+    "Capacity: Concrete 24mm, Steel 13mm, Wood 27mm",
+    "Max. Torque: Fastening 330Nm, Nut Busting 580Nm",
+    "Weight: 1.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dk0176g205-40vmax-twin-pack-40v-2-x-25ah-li-ion.html-lllmstxt|>
+## Makita DK0176G205 40Vmax Twin Pack 40V 2 x 2.5Ah Li-ion
+
+{
+  "price": "€619.00 inc VAT (€503.25 exc.vat)",
+  "description": "The Makita DK0176G205 40Vmax Twin Pack contains the following: 1 x 40V HP001G XGT 40Vmax Brushless Combi Drill with 2 mechanical gears, trigger controlled variable speed, and both forward and reverse rotation. A digital display provides visual confirmation of the selected torque. Provides excellent performance in continuous heavy-duty applications. Active Feedback Sensing Technology (AFT): Shuts down the tool if the rotation speed suddenly slows down. Chuck: 13mm Keyless. No Load Speed: 0-650/0-2,600/min. Impact Rate: 0-9,750/0-39,000/bpm. Torque: 68Nm/140Nm, Settings: 21/41. Capacity: Concrete/Metal 20mm, Wood 76mm. Weight: 3.0kg. 1 x 40V TD003G XGT 40Vmax Brushless Impact Driver with 4 modes of impact power selection: Max./ Hard/ Med./ Soft for bolt) and 1 T-mode for thin metal only. The rubber grip on the handle ensures a good working grip. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-3,700/3,200/2,100/1,100/min. Impact Rate: 0-4,100/3,600/2,600/1,400/bpm. Max. Torque: 210/170/50/20Nm. Tightening Capacity: Standard Bolt M5 - M16. Also supplied with 2 x 40V 2.5Ah Li-ion XGT 40Vmax Batteries, 1 x DC40RA XGT® Fast Li-ion Charger 240V and 1 x Type 3 MAKPAC Connector Case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DK0176G205 40Vmax Twin Pack 40V 2 x 2.5Ah Li-ion",
+  "specifications": [
+    "1 x 40V HP001G XGT 40Vmax Brushless Combi Drill",
+    "2 mechanical gears",
+    "Trigger controlled variable speed",
+    "Forward and reverse rotation",
+    "Digital display for torque confirmation",
+    "Chuck: 13mm Keyless",
+    "No Load Speed: 0-650/0-2,600/min",
+    "Impact Rate: 0-9,750/0-39,000/bpm",
+    "Torque: 68Nm/140Nm, Settings: 21/41",
+    "Capacity: Concrete/Metal 20mm, Wood 76mm",
+    "Weight: 3.0kg",
+    "1 x 40V TD003G XGT 40Vmax Brushless Impact Driver",
+    "4 modes of impact power selection",
+    "Bit Holder: 6.35mm (1/4in)",
+    "Max. Torque: 210/170/50/20Nm",
+    "Tightening Capacity: Standard Bolt M5 - M16",
+    "Supplied with 2 x 40V 2.5Ah Li-ion Batteries",
+    "1 x DC40RA XGT® Fast Li-ion Charger 240V",
+    "1 x Type 3 MAKPAC Connector Case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2025t-lxt-combo-kit-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2025T LXT Combo Kit 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€536.29 inc VAT (€436.01 exc.vat)",
+  "description": "The Makita DLX2025T LXT Combo Kit, contains the following: 1 x 18V DHP453 LXT Combi Drill has a single sleeve keyless drill chuck for easy bit installation/removal. The 2-speed gear box features metal gears for increased durability. No Load Speed: 0-400/0-1,300/min. Impact Rate: 0-6,000/0-19,500/bpm. Max. Torque: 42Nm, Settings: 16 + Drill. Capacity: Masonry 13mm, Steel 13mm, Wood 36mm. Weight: 1.7kg. 1 x 18V DHR202 SDS Plus LXT Rotary Hammer Drill is capable of drilling through steel, wood and masonry with ease. The chisel can rotate a full 360° with 40 different locking positions. With 3-modes of operation: Rotary drilling, Hammer drilling or Chiseling. No Load Speed: 0-1,100/min. Impact Rate: 0-4,000/bpm. Impact Energy: 2.0 joules. Capacity: Concrete 20mm, Steel 13mm, Wood 26mm. Weight: 3.2kg. 1 x 14.4-18V DC18RC Compact Li-Ion Charger has a built-in cooling fan system blows cool air into the battery, which keeps the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. Has 3 active charging colours to help identify when the battery is charged, and to what level. Also supplied with 2 x 18V BL1850 5.0Ah Li-Ion Batteries and 1 x Tool Bag.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DLX2025T LXT Combo Kit 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V DHP453 LXT Combi Drill",
+    "No Load Speed: 0-400/0-1,300/min",
+    "Impact Rate: 0-6,000/0-19,500/bpm",
+    "Max. Torque: 42Nm",
+    "Capacity: Masonry 13mm, Steel 13mm, Wood 36mm",
+    "Weight: 1.7kg",
+    "1 x 18V DHR202 SDS Plus LXT Rotary Hammer Drill",
+    "No Load Speed: 0-1,100/min",
+    "Impact Rate: 0-4,000/bpm",
+    "Impact Energy: 2.0 joules",
+    "Capacity: Concrete 20mm, Steel 13mm, Wood 26mm",
+    "Weight: 3.2kg",
+    "1 x 14.4-18V DC18RC Compact Li-Ion Charger",
+    "2 x 18V BL1850 5.0Ah Li-Ion Batteries",
+    "1 x Tool Bag"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black--decker-bck25s2s-twin-kit-18v-2-x-15ah-li-ion.html-lllmstxt|>
+## BLACK + DECKER BCK25S2S Twin Kit 18V 2 x 1.5Ah Li-ion
+
+{
+  "price": "€172.96 inc VAT (€140.62 exc.vat)",
+  "description": "The BLACK + DECKER Twin Kit contains: 1 x 18V Combi Drill with 2 gears and 11 torque settings, for precise screwdriving into various materials and variable speed function for control in a range of applications. The drill is fitted with a keyless chuck for fast and easy bit changes. No Load Speed: 0-360/0-1,400/min. Chuck: 10mm. Impact Rate: 21,000/bpm. Max. Torque: 40Nm, 11 Settings. Capacity: Masonry/Steel 10mm, Wood 25mm. Sound pressure (LpA): 88.7 dB(A). Weight: 2.21kg. 1 x 18V Impact Driver with a durable metal gear casing. Delivers up to 155Nm of Torque for effortless driving and removal of screws and bolts. The driver has a compact, lightweight design. Ideal for driving large bolts/screws without needing a pilot hole, removing rusty/old or damaged screws and driving self tapping screws straight into metal work. Chuck: 6mm. No Load Speed: 0-3,000/min. Max. Torque: 155Nm. Also supplied with: 2 x 1.5Ah Li-ion Batteries, 1 x Bag and 1 x Charger.",
+  "availability": "In Stock",
+  "product_name": "BLACK + DECKER BCK25S2S Twin Kit 18V 2 x 1.5Ah Li-ion",
+  "specifications": [
+    "1 x 18V Combi Drill with 2 gears and 11 torque settings",
+    "No Load Speed: 0-360/0-1,400/min",
+    "Chuck: 10mm",
+    "Impact Rate: 21,000/bpm",
+    "Max. Torque: 40Nm, 11 Settings",
+    "Capacity: Masonry/Steel 10mm, Wood 25mm",
+    "Sound pressure (LpA): 88.7 dB(A)",
+    "Weight: 2.21kg",
+    "1 x 18V Impact Driver with a durable metal gear casing",
+    "Delivers up to 155Nm of Torque",
+    "Chuck: 6mm",
+    "No Load Speed: 0-3,000/min",
+    "Max. Torque: 155Nm",
+    "Supplied with: 2 x 1.5Ah Li-ion Batteries, 1 x Bag and 1 x Charger"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tp-18v-power-x-change-twin-pack-bl-18v-2-x-20ah-li-ion.html-lllmstxt|>
+## Einhell TP-18V Power X-Change Twin Pack BL 18V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€200.53 inc VAT (€163.03 exc.vat)",
+  "description": "The Einhell TP-18V Power X-Change Twin Pack contains: 1 x 18V TP-CI 18 Li BL Power X-Change Impact Driver. Powered by a PurePOWER Brushless motor, comes with 10 years motor warranty after registration. Ideal for effortless tightening of large/long screws. A special impact mechanism protects the wrist from torsional forces. The finely adjustable electronic speed control can be precisely adjusted to your requirements for the material you wish to work on, so neither the material nor the impact driver are overstrained. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-2,900/min. Max. Torque: 180Nm. Weight: 1.07kg. 1 x 18V TP-CD 18/50 Li-i BL Power X-Change Impact Drill. Powered by a PurePOWER Brushless motor, comes with 10 years motor warranty after registration. Delivers power with pinpoint accuracy exactly where it is needed: for drilling in harder materials like stone and brick in restoration and renovation jobs. Bit Holder: 13mm Single Sleeve. Impact Rate: 0-8,000/0-28,800/bpm. Max. Torque: 50Nm. Torque Settings: 20 +1 +1. Weight: 1.19kg. Also supplied with: 2 x 18V 2.0Ah Power X-Change Li-ion Batteries, 1 x Power X-Change Fast Charger and 1 x Tool Bag.",
+  "availability": "In Stock",
+  "product_name": "Einhell TP-18V Power X-Change Twin Pack BL 18V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V TP-CI 18 Li BL Power X-Change Impact Driver",
+    "1 x 18V TP-CD 18/50 Li-i BL Power X-Change Impact Drill",
+    "2 x 18V 2.0Ah Power X-Change Li-ion Batteries",
+    "1 x Power X-Change Fast Charger",
+    "1 x Tool Bag",
+    "Max Torque: 180Nm (Impact Driver)",
+    "Max Torque: 50Nm (Impact Drill)",
+    "Weight: 1.07kg (Impact Driver)",
+    "Weight: 1.19kg (Impact Drill)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dck667p3t-brushless-6-piece-kit-18v-3-x-50ah-li-ion.html-lllmstxt|>
+## DEWALT DCK667P3T Brushless 6 Piece Kit 18V 3 x 5.0Ah Li-ion
+
+{
+  "price": "€1,136.52 inc VAT (€924.00 exc.vat)",
+  "description": "The DEWALT DCK667P3T Brushless 6 Piece Kit, contains the following: 1 x 18V DCD796 XR Brushless Compact Combi Drill which has an ultra compact, lightweight design. The two speed all metal transmission provides increased runtime and longer tool life. It offers a 15 position adjustable torque control for consistent screwdriving. Chuck: 13mm. No Load Speed: 0-550/0-2,000/min. Impact Rate: 0-9,350/0-34,000/min. Max Torque: 70Nm. Capacity: Wood 40mm, Steel 13mm, Masonry 13mm. 1 x 18V DCP580 XR Brushless Planer has a powerful brushless motor which provides a smooth planing performance combined with extended run time. With on-board blade storage and Torx key to enable fast blade change, minimising downtime. It comes with a large front and rear shoe for improved stability. It is compatible with the AirLock dust extraction system. Comes with a dust bag. No Load Speed: 15,000/min. Cutting Depth: 2mm, Rebate Depth: 9mm Planer Width: 82mm Weight: 2.5kg 1 x 18V DCS565 XR Brushless Circular Saw has an extremely durable design, including a cast aluminium base for repetitive, accurate cuts. With optimum balance for safe, fatigue-free operation. A lock-off switch and electronic motor brake provide additional control and work safety. The dust blower and LED work light provide improved cut line visibility. No Load Speed: 4,950/min. Max. Cutting Depth: @45° 42mm, @90° 55mm Bevel Capacity: 50° Blade Diameter x Bore: 165 x 20mm Weight: 2.8kg (without battery) 1 x 18V DCS355 XR Brushless Oscillating Multi-Tool delivers up to 57% more runtime over brushed motors. It uses the quick-change accessory system to allow blades and attachments to be changed quickly without the use of tools. No Load Speed: 0-20,000/min. Length: 310mm Weight: 1.06kg 1 x 18V DCS334 XR Brushless Top Handle Jigsaw has an intelligent variable speed trigger, lock-off switch and 4-position pendulum action. The quick and easy keyless blade change system accepts T-shank blades. The tool-free adjustable shoe is fitted with an anti-scratch cover which bevels to 45° in both directions. The dust port is AirLock compatible. Strokes at No Load: 0-3,200/min. Stroke Length: 26mm Bevel Capacity: 0-45° Capacity: Metal 10mm, Wood 135mm Weight: 2.1kg 1 x 18V DCL050 XR LED Work Light with variable light settings for maximum brightness or extended run time and a broad and even beam pattern. Perfect for inspecting areas without electricity or natural light. The articulating head has nine positions for directional control of light output and an extendable hanging hook allows the work light to be suspended during use. Light Output: 250-500 lumens Protection Class: IP54 1 x 10.8-18V DCB115 XR Multi-Voltage Charger has a compact size, making it easy to store and it is also wall mountable. A bright LED indicator communicates the battery charge status: charged, charging, power problem, and battery too hot or too cold conditions. It is capable of charging a 2.0Ah battery pack in 30 minutes. Voltage: 10.8/14.4/18V. Battery Chemistry: Li-ion. Charging Current: 4.0 A. Also supplied with: 3 x 18V 5.0Ah Batteries and 2 x Deep TSTAK Carry Cases.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK667P3T Brushless 6 Piece Kit 18V 3 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V DCD796 XR Brushless Compact Combi Drill",
+    "1 x 18V DCP580 XR Brushless Planer",
+    "1 x 18V DCS565 XR Brushless Circular Saw",
+    "1 x 18V DCS355 XR Brushless Oscillating Multi-Tool",
+    "1 x 18V DCS334 XR Brushless Top Handle Jigsaw",
+    "1 x 18V DCL050 XR LED Work Light",
+    "1 x 10.8-18V DCB115 XR Multi-Voltage Charger",
+    "3 x 18V 5.0Ah Batteries",
+    "2 x Deep TSTAK Carry Cases"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-twin-drill-drill-and-screwdriver-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Twin Drill® Drill & Screwdriver 18V Bare Unit
+
+{
+  "price": "€90.96 inc VAT (€73.95 exc.vat)",
+  "description": "The Batavia MAXXPACK Twin Drill® Drill & Screwdriver saves time by not having to constantly switch manually between drilling and screwing. Perfect for jobs where pre-drilling is needed. Electronic torque setting and automatic speed adjustment make it easy to change modes. The ergonomic soft grip provides comfortable working, and the in-built work light improves visibility of the work piece. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Twin Drill® Drill & Screwdriver 18V Bare Unit",
+  "specifications": [
+    "Chuck: 10mm Keyless",
+    "No Load Speed: 0-450/0-1,500/min",
+    "Max. Torque: 26Nm",
+    "Torque Settings: 12",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2412tj-lxt-combo-kit-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2412TJ LXT Combo Kit 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€1,754.29 inc VAT (€1,426.25 exc.vat)",
+  "description": "The Makita DLX2412TJ LXT Triple Kit contains the following: 1 x 18V DHP486 Brushless LXT Heavy-Duty Combi Drill with an all-metal gear construction and metal gear housing for increased durability. It has a single sleeve, keyless chuck for easy bit installation/removal by one hand. Fitted with an ergonomic soft grip for increased comfort and control. Other features include an electric brake, LED job light and a belt clip. Chuck: 13mm. No Load Speed: 0-550/0-2,100/min. Impact Rate: 0-8,250/0-31,500/bpm. Max. Torque (Min./Max.): 65Nm/130Nm, Settings: 21 + Drill. Capacity: Concrete 16mm, Metal 13mm, Wood 76mm. Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm. Weight: 1.5kg. 1 x 18V DTD154 Brushless Impact Driver with an ergonomically designed handle and one-touch bit installation. T-Mode for tightening self-drilling screws. Also equipped with an electric brake, variable speed control and a reverse switch for ultimate control. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-1,100/0-2,100/0-3,600/min. Impact Rate: 0-1,100/0-2,600/0-3,800/bpm. Max. Torque: 175Nm, 3 Stage + T-Mode. Capacity: Machine Screw M4-M8, Standard Bolt M5-M16, High Tensile Bolt M5-M14. Coarse Thread Length: 22-125mm. Weight: 1.2kg. 1 x 7.2-18V DC18RC Li-ion Charger with a built-in cooling fan system blowing cool air into the battery, keeping the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. 3 active charging colours to help identify when the battery is charged, and to what level. It is also supplied with: 2 x 18V 5.0Ah Li-ion Batteries and 1 x MAKPAC Type 3 Case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DLX2412TJ LXT Combo Kit 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V DHP486 Brushless LXT Heavy-Duty Combi Drill",
+    "1 x 18V DTD154 Brushless Impact Driver",
+    "1 x 7.2-18V DC18RC Li-ion Charger",
+    "2 x 18V 5.0Ah Li-ion Batteries",
+    "1 x MAKPAC Type 3 Case",
+    "Chuck: 13mm",
+    "No Load Speed: 0-550/0-2,100/min",
+    "Impact Rate: 0-8,250/0-31,500/bpm",
+    "Max. Torque (Min./Max.): 65Nm/130Nm",
+    "Capacity: Concrete 16mm, Metal 13mm, Wood 76mm",
+    "Weight: 1.5kg for Combi Drill, 1.2kg for Impact Driver"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2455tj-lxt-combo-kit-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2455TJ LXT Combo Kit 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€642.67 inc VAT (€522.50 exc.vat)",
+  "description": "The Makita DLX2455TJ LXT Combo Kit contains the following: 1 x 18V DHP486 LXT Heavy-Duty Combi Drill has a single sleeve, keyless chuck for easy bit installation/removal by one hand. Fitted with an ergonomic soft grip for increased comfort and control. Other features include an electric brake, LED job light and a belt clip. Chuck: 13mm No Load Speed: 0-550/0-2,100/min. Impact Rate: 0-8,250/0-31,500/bpm. Max. Torque (Min./Max.): 65Nm/130Nm. Torque Settings: 21 + Drill. Drill Capacity: Concrete 16mm, Metal 13mm, Wood 76mm. Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm. Weight: 1.5kg. 1 x 18V DTD172 LXT Impact Driver with a 1/4in hex drive shank. This small and light tool is easy to use but offers a max. fastening torque of 180 Nm, suitable for quick driving. There is also a handy LED light for added lighting. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-1,100/2,100/3,200/3,600/min. Impact Rate: 0-1,100/2,600/3,600/3,800/bpm. Max Torque: 180Nm. Capacity: Standard Bolt: M5-M16. 1 x 14.4-18V DC18RC Compact Li-ion Charger has a built-in cooling fan system that blows cool air into the battery, which keeps the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. Has 3 active charging colours to help identify when the battery is charged, and to what level. Also supplied with 2 x 18V BL1850 5.0Ah Li-Ion Batteries and 1 x Type 3 MAKPAC Connector Case.",
+  "availability": "In Stock",
+  "product_name": "Makita DLX2455TJ LXT Combo Kit 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck: 13mm",
+    "No Load Speed: 0-550/0-2,100/min.",
+    "Impact Rate: 0-8,250/0-31,500/bpm.",
+    "Max. Torque (Min./Max.): 65Nm/130Nm.",
+    "Torque Settings: 21 + Drill.",
+    "Drill Capacity: Concrete 16mm, Metal 13mm, Wood 76mm.",
+    "Screw Capacity: Machine Screw 6mm, Wood Screw 10 x 90mm.",
+    "Weight: 1.5kg.",
+    "Bit Holder: 6.35mm (1/4in).",
+    "No Load Speed: 0-1,100/2,100/3,200/3,600/min.",
+    "Impact Rate: 0-1,100/2,600/3,600/3,800/bpm.",
+    "Max Torque: 180Nm.",
+    "Capacity: Standard Bolt: M5-M16."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dlx2460tj-lxt-combo-kit-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita DLX2460TJ LXT Combo Kit 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€1,270.02 inc VAT (€1,032.54 exc.vat)",
+  "description": "The Makita DLX2460TJ LXT Combo Kit contains the following: 1 x 18V DHP487 LXT Combi Drill with a powerful brushless motor and 2 mechanical gears. Variable speed is controlled via a trigger. It has a single sleeve keyless chuck for easy bit installation/removal, with only one hand. There is also an electric brake and an LED job light. Chuck Capacity: 1.5-13mm No Load Speed: 0-500/0-1,700/min. Impact Rate: 0-7,500/0-25,500/bpm Max. Torque: 40Nm, Settings: 20 + Drill Capacity: Metal 13mm, Wood 36mm, Masonry 13mm Weight: 1.4kg 1 x 18V DTD153 Brushless Impact Driver is fitted with an energy efficient brushless motor that uses less energy and provides a longer run time. Speed is controlled via the variable speed trigger and features forward/reverse rotation. Fitted with a one touch sliding chuck for easy bit installation and removal. Its ergonomically designed soft grip handle increases comfort and reduces fatigue. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-3,400/min. Impact Rate: 0-3,600/bpm Max. Torque: 170Nm Capacity: Machine Screw M4-M8, Standard Bolt M5-M16, High Tensile Bolt M5-M14 Coarse Thread Length Capacity: 22-125mm Weight: 1.3kg 1 x 14.4-18V DC18RC Compact Li-Ion Charger has a built-in cooling fan system blows cool air into the battery, which keeps the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. Has 3 active charging colours to help identify when the battery is charged, and to what level. Also supplied with 2 x 18V BL1850 5.0Ah Li-Ion Batteries and 1 x MAKPAC Type 3 Case.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DLX2460TJ LXT Combo Kit 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Chuck Capacity: 1.5-13mm",
+    "No Load Speed: 0-500/0-1,700/min.",
+    "Impact Rate: 0-7,500/0-25,500/bpm",
+    "Max. Torque: 40Nm, Settings: 20 + Drill",
+    "Capacity: Metal 13mm, Wood 36mm, Masonry 13mm",
+    "Weight: 1.4kg",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-3,400/min.",
+    "Impact Rate: 0-3,600/bpm",
+    "Max. Torque: 170Nm",
+    "Capacity: Machine Screw M4-M8, Standard Bolt M5-M16, High Tensile Bolt M5-M14",
+    "Coarse Thread Length Capacity: 22-125mm",
+    "Weight: 1.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-twin-drill-and-screwdriver-18v-1-x-20ah-li-ion.html-lllmstxt|>
+## Batavia MAXXPACK Twin Drill & Screwdriver 18V 1 x 2.0Ah Li-ion
+
+{
+  "price": "€143.84 inc VAT (€116.94 exc.vat)",
+  "description": "The Batavia MAXXPACK Twin Drill & Screwdriver is the perfect solution for quick and clean drilling and driving tasks. Provides drilling to driving in one simple and smooth move. Perfect for jobs which require pre-drilling. With automatic speed adjustment when switching modes. The perfect tool for building your wooden fence or hanging a painting.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Twin Drill & Screwdriver 18V 1 x 2.0Ah Li-ion",
+  "specifications": [
+    "Chuck: 10mm Keyless",
+    "No Load Speed: 0-450/0-1,500/min",
+    "Torque Settings: 12",
+    "Max. Torque: 26Nm",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-06019a6979-twin-pack-12v-2-x-20ah-li-ion.html-lllmstxt|>
+## Bosch 06019A6979 Twin Pack 12V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€224.13 inc VAT (€182.22 exc.vat)",
+  "description": "This Bosch Twin Pack contains the following: 1 x 12V GSB 12V-15 Professional Combi Drill has the shortest design in its class for optimum handling. With a 2-speed planetary gearbox for powerful screwdriving and drilling applications in wood and metal, and impact drilling in masonry. No Load Speed: 0-380/0-1,300/min. Impact Rate: 19,500/bpm. Max. Torque: 30Nm, Settings: 20 + 1. 1 x 12V GDR 12V-105 Professional Impact Driver has an extremely compact design and is equipped with Bosch Electronic Cell Protection (ECP). This protects the battery against overload, overheating and total discharge. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-2,600/min. Impact Rate: 0-3,100/bpm. Max. Torque: 105Nm. Capacity: Screw Diameter: M4-M12. Also supplied with: 2 x 12V 2.0Ah Li-ion Batteries, 1 x 12V GAL 12V-20 Compact Charger and 1 x Tool Bag.",
+  "availability": "In Stock",
+  "product_name": "Bosch 06019A6979 Twin Pack 12V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 0-380/0-1,300/min",
+    "Impact Rate: 19,500/bpm",
+    "Max. Torque: 30Nm, Settings: 20 + 1",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-2,600/min",
+    "Impact Rate: 0-3,100/bpm",
+    "Max. Torque: 105Nm",
+    "Capacity: Screw Diameter: M4-M12",
+    "Includes: 2 x 12V 2.0Ah Li-ion Batteries, 1 x 12V GAL 12V-20 Compact Charger, 1 x Tool Bag"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-professional-twin-pack-18v-2-x-20ah-li-ion.html-lllmstxt|>
+## Bosch Professional Twin Pack 18V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€302.38 inc VAT (€245.84 exc.vat)",
+  "description": "This Bosch Professional Twin Pack contains the following: 1 x 18V GSB 18V-21 Professional Combi Drill with impact drilling function. It delivers the performance necessary for the basic drilling and drill driving applications. Its full-metal gear box and Electronic Cell Protection provide professional quality for daily use, making the drill driver reliable and durable. Additionally, a professional design with a keyless 13-mm chuck supports quality work. Chuck Capacity: 13mm. No Load Speed: 0-480/0-1,800/min. Torque (Soft/Hard): 21/55Nm. Torque Settings: 20+2. Max. Screw Diameter: 10mm. Max. Drilling Diameter: Wood 35mm, Steel 10mm, Masonry 10mm. Weight: 1.3kg excl. battery. 1 x 18V GDR 18V-160 Professional Impact Driver with an ergonomic design for convenient tool handling and precise working results. High torque makes the tool powerful and easy to use even in heavy applications. The combination of high torque and high speed supports fast working progress and efficiency. Tool Holder: 1/4in Hex Uni. No Load Speed: 0-2,800/min. Impact Rate: 0-3,600/bpm. Max. Torque: 160Nm. Bolt Size: M6 - M16. Weight: 1.02kg excl. battery. Also supplied with: 2 x 18V 2.0Ah Li-ion Batteries, 1 x Charger and 1 x Case.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch Professional Twin Pack 18V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "Chuck Capacity: 13mm",
+    "No Load Speed: 0-480/0-1,800/min",
+    "Torque (Soft/Hard): 21/55Nm",
+    "Torque Settings: 20+2",
+    "Max. Screw Diameter: 10mm",
+    "Max. Drilling Diameter: Wood 35mm, Steel 10mm, Masonry 10mm",
+    "Weight: 1.3kg excl. battery",
+    "Tool Holder: 1/4in Hex Uni",
+    "No Load Speed: 0-2,800/min",
+    "Impact Rate: 0-3,600/bpm",
+    "Max. Torque: 160Nm",
+    "Bolt Size: M6 - M16",
+    "Weight: 1.02kg excl. battery",
+    "Includes: 2 x 18V 2.0Ah Li-ion Batteries, 1 x Charger, 1 x Case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fpp2a3-fuel-gen-4-twin-pack-18v-2-x-50ah-li-ion.html-lllmstxt|>
+## Milwaukee Power Tools M18 FPP2A3 FUEL™ Gen 4 Twin Pack 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€535.74 inc VAT (€435.56 exc.vat)",
+  "description": "The Milwaukee M18 FPP2A3 FUEL™ Gen 4 Twin Pack, contains the following: 1 x 18V M18 FPD3 FUEL™ Combi Drill with a brushless POWERSTATE™ motor. Its extremely compact design, only 175mm in length, allows for access into tight spaces. Fitted with an advanced, heavy-duty chuck providing increased bit grip. AUTOSTOP™ control mode offers enhanced safety for the operator by preventing over-rotation in a bind-up. Impact Rate: 0-33,000/bpm. Max. Torque: 158Nm. Capacity: Wood 89mm, Masonry 13mm, Steel 16mm. 1 x 18V M18 FID3 FUEL™ Impact Driver with a brushless POWERSTATE™ motor. DRIVE CONTROL allows the user to shift into four different speed and torque settings to maximise application versatility. Extremely compact design, total length of just 113mm for access into tight spaces. Bit Holder: 6.35mm (1/4in). No Load Speed: 1,750/3,000/3,900/0-3,900/min. Impact Rate: 1,400/3,600/4,400/0-4,400/bpm. Max. Torque: 226Nm. Max. Bolt Diameter: M16. Also supplied with: 2 x 18V 5.0Ah Li-ion Batteries, 1 x Charger and 1 x Heavy-Duty Kitbox.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M18 FPP2A3 FUEL™ Gen 4 Twin Pack 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V M18 FPD3 FUEL™ Combi Drill",
+    "Brushless POWERSTATE™ motor",
+    "Compact design (175mm length)",
+    "Impact Rate: 0-33,000/bpm",
+    "Max. Torque: 158Nm",
+    "Capacity: Wood 89mm, Masonry 13mm, Steel 16mm",
+    "1 x 18V M18 FID3 FUEL™ Impact Driver",
+    "DRIVE CONTROL with four speed/torque settings",
+    "Compact design (113mm length)",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 1,750/3,000/3,900/0-3,900/min",
+    "Impact Rate: 1,400/3,600/4,400/0-4,400/bpm",
+    "Max. Torque: 226Nm",
+    "Max. Bolt Diameter: M16",
+    "Includes 2 x 18V 5.0Ah Li-ion Batteries, 1 x Charger, 1 x Heavy-Duty Kitbox"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fpp2be-522b-fuel-power-pack-18v-1-x-20ah-and-1-x-50ah-li-ion.html-lllmstxt|>
+## Milwaukee Power Tools M18 FPP2BE-522B FUEL™ Power Pack 18V 1 x 2.0Ah & 1 x 5.0Ah Li-ion
+
+{
+  "price": "€953.46 inc VAT (€775.17 exc.vat)",
+  "description": "The Milwaukee M18 FPP2BE-522B FUEL™ Power Pack contains the following: 1 x 18V M18 FFN FUEL™ Framing Nailer with Ready to Fire Nail Technology which eliminates ramp-up time between each nail discharge. It has a 2-mode selection; sequential fire for precision or bump fire for speed. Dry-Fire lockout stops the tool from being fired when there are no nails left in the magazine. With tool-free, quick and easy depth adjustment to ensure nails are driven sub-flush. Nail Diameter: 2.9-3.32mm. Nail Length: 50-90mm. Magazine Capacity: 51 Nails. Collation Angle: 30-34°. 1 x 18V M18 FN16GA FUEL™ Finish Nailer with different designed noses stored on board, for the best finish no matter what the application. Ready to Fire Nail Technology eliminates ramp-up time between each nail discharge. Delivers durability and reliability to the most demanding users with very little maintenance. Nail Diameter: 1.6mm. Nail Length: 32-64mm. Magazine Capacity: 101 Nails. Magazine Angle: 20°. Also supplied with: 1 x 18V 2.0Ah Li-ion Battery, 1 x 18V 5.0Ah Li-ion Battery, 1 x M12™ - M18™ Fast Charger and 1 x Tool Bag.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools M18 FPP2BE-522B FUEL™ Power Pack 18V 1 x 2.0Ah & 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "Nail Diameter: 2.9-3.32mm",
+    "Nail Length: 50-90mm",
+    "Magazine Capacity: 51 Nails",
+    "Collation Angle: 30-34°",
+    "Nail Diameter: 1.6mm",
+    "Nail Length: 32-64mm",
+    "Magazine Capacity: 101 Nails",
+    "Magazine Angle: 20°",
+    "Includes 1 x 18V 2.0Ah Li-ion Battery",
+    "Includes 1 x 18V 5.0Ah Li-ion Battery",
+    "Includes 1 x M12™ - M18™ Fast Charger",
+    "Includes 1 x Tool Bag"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-professional-twin-pack-18v-2-x-40ah-procore18v-li-ion.html-lllmstxt|>
+## Bosch Professional Twin Pack 18V 2 x 4.0Ah ProCORE18V Li-ion
+
+{
+  "price": "€537.13 inc VAT (€436.69 exc.vat)",
+  "description": "This Bosch Professional Twin Pack contains the following: 1 x 18V GSR 18V-60 C Professional Drill Driver with brushless motor. KickBack Control increases user protection for safer work and perfect control, while its precision clutch assists the user during operation for convenient work. Equipped with a Bluetooth Connectivity option to connect directly to a smart phone for additional tool control. Chuck Capacity: 13mm. No Load Speed: 0-600/0-1,900/min. Max. Torque (Soft/Hard): 31/60Nm. Torque Settings: 20+1. Max. Screw Diameter: 10mm. Max. Drilling Diameter: Wood 38mm, Steel 13mm. Weight: 1.1kg excl. battery. 1 x 18V GDR 18V-210 C Professional Impact Driver with 3 speed/torque settings for greater flexibility on the job. It has 2 default modes on the user interface; selftapping screw (A) and wood screw (B), mean more control and less broken or stripped off screwheads, worn-out threads, and damaged workpieces by slowing down or shutting off the impact driver. Each mode is customisable via the Bosch Toolbox App. Tool Holder: 1/4in Hex Uni. No Load Speed: 0-1,100/0-2,300/0-3,400/min. Impact Rate: 0-2,200/0-3,300/0-4,100/bpm. Max. Torque: 80/60/210Nm. Bolt Size: M6 - M16. Weight: 1.1kg excl. battery. Also supplied with: 2 x 18V 4.0Ah ProCORE18V Li-ion Batteries*, 1 x GAL 18V-40 Professional Quick Charger and 1 x L-BOXX with inlay. *ProCORE18V Li-ion Batteries deliver the same performance as standard batteries with an optimised size and weight.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch Professional Twin Pack 18V 2 x 4.0Ah ProCORE18V Li-ion",
+  "specifications": [
+    "Chuck Capacity: 13mm",
+    "No Load Speed: 0-600/0-1,900/min",
+    "Max. Torque (Soft/Hard): 31/60Nm",
+    "Torque Settings: 20+1",
+    "Max. Screw Diameter: 10mm",
+    "Max. Drilling Diameter: Wood 38mm, Steel 13mm",
+    "Weight: 1.1kg excl. battery",
+    "Tool Holder: 1/4in Hex Uni",
+    "Impact Rate: 0-2,200/0-3,300/0-4,100/bpm",
+    "Max. Torque: 80/60/210Nm",
+    "Bolt Size: M6 - M16"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-professional-twin-pack-18v-2-x-40ah-li-ion-1.html-lllmstxt|>
+## Bosch Professional Twin Pack 18V 2 x 4.0Ah Li-ion
+
+{
+  "price": "€376.28 inc VAT (€305.92 exc.vat)",
+  "description": "This Bosch Professional Twin Pack contains the following: 1 x 18V GSB 18V-55 Professional Combi Drill with brushless motor. Its robust 13mm Roehm metal chuck delivers an ideal power transfer for the widest range of drilling, impact drilling, and screwdriving applications. Electronic Motor Protection prevents overload and ensures a longer tool lifetime. Chuck Capacity: 13mm. No Load Speed: 0-460/0-1,800/min. Torque (Soft/Hard): 28/55Nm. Torque Settings: 20+2. Max. Screw Diameter: 10mm. Max. Drilling Diameter: Wood 35mm, Steel 13mm, Masonry 13mm. Weight: 1.0kg excl. battery. 1 x 18V GDR 18V-200 Professional Impact Driver with a compact design, ideal for use in tight spaces. For a better control over speed and torque, this cordless impact driver features a variable speed trigger. It offers also Electronic Cell Protection (ECP), a LED light and a belt clip. Tool Holder: 1/4in Hex Uni. No Load Speed: 0-3,400/min. Impact Rate: 0-4,000/bpm. Max. Torque: 200Nm. Bolt Size: M6 - M16. Weight: 1.1kg excl. battery. Also supplied with: 2 x 18V 4.0Ah Li-ion Batteries, 1 x Charger and 1 x Case.",
+  "availability": "In Stock",
+  "product_name": "Bosch Professional Twin Pack 18V 2 x 4.0Ah Li-ion",
+  "specifications": [
+    "Chuck Capacity: 13mm",
+    "No Load Speed: 0-460/0-1,800/min",
+    "Torque (Soft/Hard): 28/55Nm",
+    "Torque Settings: 20+2",
+    "Max. Screw Diameter: 10mm",
+    "Max. Drilling Diameter: Wood 35mm, Steel 13mm, Masonry 13mm",
+    "Weight: 1.0kg excl. battery",
+    "Tool Holder: 1/4in Hex Uni",
+    "No Load Speed: 0-3,400/min",
+    "Impact Rate: 0-4,000/bpm",
+    "Max. Torque: 200Nm",
+    "Bolt Size: M6 - M16",
+    "Weight: 1.1kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-professional-twin-pack-18v-2-x-40ah-li-ion.html-lllmstxt|>
+## Bosch Professional Twin Pack 18V 2 x 4.0Ah Li-ion
+
+{
+  "price": "€389.44 inc VAT (€316.62 exc.vat)",
+  "description": "This Bosch Professional Twin Pack contains the following: 1 x 18V GSB 18V-55 Professional Combi Drill with brushless motor. Its robust 13mm Roehm metal chuck delivers an ideal power transfer for the widest range of drilling, impact drilling, and screwdriving applications. Electronic Motor Protection prevents overload and ensures a longer tool lifetime. Chuck Capacity: 13mm. No Load Speed: 0-460/0-1,800/min. Torque (Soft/Hard): 28/55Nm. Torque Settings: 20+2. Max. Screw Diameter: 10mm. Max. Drilling Diameter: Wood 35mm, Steel 13mm, Masonry 13mm. Weight: 1.0kg excl. battery. 1 x 18V GDX 18V-200 Professional Impact Driver/Wrench with a brushless motor for excellent battery runtime and a long tool lifespan. Fitted with a 2-in-1 tool holder for highest flexibility. To have a better control over speed and torque the GDX 18V-200 is equipped with a variable speed trigger. Tool Holder: 1/4in Hex Uni & 1/2in Square. No Load Speed: 0-3,400/min. Impact Rate: 0-4,200/bpm. Max. Torque: 200Nm. Max. Breakaway Torque: 350Nm. Bolt Size: M6 - M16. Weight: 1.2kg excl. battery. Also supplied with: 2 x 18V 4.0Ah Li-ion Batteries, 1 x Charger and 1 x Case.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch Professional Twin Pack 18V 2 x 4.0Ah Li-ion",
+  "specifications": [
+    "Chuck Capacity: 13mm",
+    "No Load Speed: 0-460/0-1,800/min",
+    "Torque (Soft/Hard): 28/55Nm",
+    "Torque Settings: 20+2",
+    "Max. Screw Diameter: 10mm",
+    "Max. Drilling Diameter: Wood 35mm, Steel 13mm, Masonry 13mm",
+    "Weight: 1.0kg excl. battery",
+    "Tool Holder: 1/4in Hex Uni & 1/2in Square",
+    "No Load Speed: 0-3,400/min",
+    "Impact Rate: 0-4,200/bpm",
+    "Max. Torque: 200Nm",
+    "Max. Breakaway Torque: 350Nm",
+    "Bolt Size: M6 - M16",
+    "Weight: 1.2kg excl. battery"
+  ]
+}
+

@@ -1,0 +1,2255 @@
+<|https://www.mydiy.ie/products/dewalt-dcv517n-cordless-xr-wet-and-dry-vacuum-18-volt-bare-unit.html-lllmstxt|>
+## DEWALT DCV517N Cordless XR Wet & Dry Vacuum 18 Volt Bare Unit
+
+{
+  "price": "€153.17 inc VAT (€124.53 exc.vat)",
+  "description": "The DEWALT DCV517N Cordless XR Wet & Dry Vacuum has a large 1.9 litre tank capacity, for cleaning up large amounts of debris. The heavy-duty, washable filter is highly efficient, traps 99.7% of dust as small as drywall and cement dust. Single latch tank removal allows for quick and easy emptying of the tank. The rubber hose is extendable to 1 metre for added flexibility for a wide range of applications. Runs off a single 18 Volt Li-Ion/NiMH/NiCd battery (NOT Supplied). Allowing quick and easy change between different tools with a single battery. Bare Unit, No Battery or Charger Supplied. Supplied with 1m Heavy-Duty Rubber Hose, Crevice Tool & Wide Nozzle.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCV517N Cordless XR Wet & Dry Vacuum 18 Volt Bare Unit",
+  "specifications": [
+    "Max Airflow: 15.9l/sec.",
+    "Tank Capacity: 1.9 Litre.",
+    "Hose Nozzle Outside Diameter: 32mm.",
+    "Dimensions (LxWxH): 460 x 160 x 200mm.",
+    "Weight: 1.2kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv5801h-wet-dry-vacuum-replacement-filter-for-dcv582.html-lllmstxt|>
+## DEWALT DCV5801H Wet Dry Vacuum Replacement Filter For DCV582
+
+{
+  "price": "€41.70 inc VAT (€33.90 exc.vat)",
+  "description": "The DEWALT DCV5801H Wet Dry Vacuum Replacement Filter features a H.E.P.A. filter that traps 99.97% of dust, as small as 0.3 microns. It wet and dry capabilities means change over time has been eliminated. The filter is washable and reusable, just rinse clean with water. Fits the DCV582 XR Li-Ion Vacuum.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCV5801H Wet Dry Vacuum Replacement Filter For DCV582",
+  "specifications": [
+    "H.E.P.A. filter traps 99.97% of dust",
+    "Washable and reusable",
+    "Fits DCV582 XR Li-Ion Vacuum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv584l-flexvolt-vaccum-54-volt-bare-unit.html-lllmstxt|>
+## DEWALT DCV584L FlexVolt Vaccum 54 Volt Bare Unit
+
+{
+  "price": "€223.37 inc VAT (€181.60 exc.vat)",
+  "description": "The DEWALT DCV584L FlexVolt Vacuum is compatible with 14.4 Volt and 18 Volt XR Li-Ion, as well as 54V FlexVolt battery packs for maximum versatility (runs at 18 Volt Max to increase run time). In addition to this the DCV584L can be operated via mains giving a choice of either corded or cordless use. The DEWALT Airlock adaptor allows the direct attachment of power tools to the dust extractor. An on board tool storage system grants easy access to additional nozzles and accessories whilst a durable tank design with a large storage capacity means less downtime and more work. Fitted with an L-Class approved filter that enables both wet and dry vacuuming without the need to change or remove the filter. Additional features include a blower function and a built in ergonomic top located carrying handle for easy transportation. Bare Unit, No Battery or Charger Supplied. Supplied with 1 x 2 Metre Hose, 1 x Crevice Tool and 1 x Wide Nozzle.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCV584L FlexVolt Vaccum 54 Volt Bare Unit",
+  "specifications": [
+    "Input Power: 300 Watt",
+    "Max Airflow: 954 l/Min",
+    "Tank Volume: 7.5 Litre",
+    "Power Source: AC or Li-Ion Battery",
+    "Hose Nozzle Outside Diameter: 32mm",
+    "Size (LxWxH): 430 x 305 x 330mm",
+    "Weight: 4.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-buddy-ii-wet-and-dry-vacuum-12-litre-1200-watt-240-volt.html-lllmstxt|>
+## Kew Nilfisk Alto Buddy II Wet & Dry Vacuum 12 Litre 1200 Watt 240 Volt
+
+{
+  "price": "€109.70 inc VAT (€89.19 exc.vat)",
+  "description": "The Kew Nilfisk Alto Buddy II 12 Litre Wet & Dry Vacuum is the most compact, lightweight yet powerful vacuum in the Buddy ll range of wet and dry vacuum cleaners. The powerful motor makes it the perfect choice for picking up wet or dry debris in the home, car, workshop or garage. Its washable PET wet filter protects the turbine for a long life. The Buddy II has a useful blow function that provides another option for cleaning. Its two big wheels at the back and two rotation wheels in front make the machine very stable and easy to move around. A built in accessory holder provides storage for accessories so they are always at hand.",
+  "availability": "Out of Stock",
+  "product_name": "Kew Nilfisk Alto Buddy II Wet & Dry Vacuum 12 Litre 1200 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 1,200 Watt",
+    "Air Flow: 3,600 l/min",
+    "Vacuum: 200 mbar",
+    "Container Volume: 12 Litres",
+    "Weight: 4.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-vce-26-l-mc-safety-vacuum-cleaner-1250-watt.html-lllmstxt|>
+## Flex Power Tools VCE 26 L MC Safety Vacuum Cleaner 1250 Watt
+
+{
+  "price": "from €312.73 inc VAT",
+  "description": "The Flex Power Tools VCE 26 L MC Safety Vacuum Cleaner is fitted with a manual filter cleaning system that has a handy and compact design making it easy to use and transport. The high performance turbine ensures both a high suction capacity and a high vacuum, giving an excellent extraction result. By using manual filter cleaning, the dust deposited in the filter element is quickly removed with a targeted blast of air. Levels are monitored to prevent malfunctions when drawing in liquids, thanks to the installed float valve. The soft start feature stops any voltage peaks at the start and the run-on feature (5 Sec. Overrun) empties any remaining dust in the hose. It can also be used as a dust extraction unit thanks to its appliance socket and electronic automatic on/off system. Other features include: large wheels with two swivel guide rollers, a blowing function, suction control that varies depending on the attached power tool, accessory storage on the back of the vacuum and a filter bag made from tear-proof fleece for optimum filling. Supplied with: 1 x Suction Hose 32mm x 3.5m with Elbow, 1 x Filter Element Class L/M, 2 x 0.5m Aluminium Suction Tubes, 1 x Combination Floor Nozzle, 1 x Round Brush, 1 x Crevice Nozzle, 1 x Upholstery Nozzle, 1 x Filter Bag, 1 x PR Waste Disposal Bag, 1 x Suction Pipe Holder, 1 x Cable Hook, 1 x Flexible Hose Strap for Hose Holder, 1 x Rubber Tool Brush and 1 x Box for Accessories Holder. Safety vacuum cleaner, approved for dust class L, suitable for all dust with OEL value >1 mg/m³.",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools VCE 26 L MC Safety Vacuum Cleaner 1250 Watt",
+  "specifications": [
+    "Input Power: 1,250 Watt",
+    "Max. Volume Flow: 3,600 l/min",
+    "Max. Vacuum: 21,000 Pa",
+    "Filter Surface: 3,000cm²",
+    "Container Volume: 25 Litres",
+    "Capacity Liquid: 16 Litres",
+    "Power Take Off: 100-2,600 Watt",
+    "Size (W x L x H): 397 x 377 x 533mm",
+    "Weight: 12.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-replacement-filtres-and-bags-for-vce35l.html-lllmstxt|>
+## Flex Power Tools Replacement Filtres & Bags For VCE35L
+
+{
+  "price": "from €29.31 inc VAT",
+  "description": "Range of Flex Power Tools replacement filtres and bags. Suitable for the VCE35L Vacuum.",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools Replacement Filtres & Bags For VCE35L",
+  "specifications": [
+    "Disposal Sacks (Pack of 10)",
+    "Fleece Filter Bags (Pack of 5) FLX385093",
+    "Fleece Filter Bags (Pack of 5) FLXVCE35FBAG",
+    "Paper Filter Bags (Pack of 5)",
+    "PES Fold Flat Filter (Single)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-aero-26-21pc-wet-and-dry-vacuum.html-lllmstxt|>
+## Kew Nilfisk Alto Aero 26-21PC Wet & Dry Vacuum
+
+{
+  "price": "from €45.49 inc VAT",
+  "description": "The Nilfisk Alto Aero 26-21PC Wet & Dry Vacuum is a 1,250 watt professional wet & dry vacuum with auto power tool take off (Max 1800 watt), exhaust air blow function, 25l polypropylene canister with lifting handle , and Push & Clean semi automatic filter cleaning system for longer operating times. Includes a washable PET cartridge filter, fleece filter dust bag, 5m (240 Volt) or 7.5m (110 Volt) cable and 3.5m x 36mm diameter suction hose. Plus 2 piece stainless steel suction tube, wet & dry floor nozzle, universal nozzle, brush nozzle, crevice tool, power tool adaptor with suction regulator. The vacuum has an on board storage for tube, hose, cable and accessories.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Aero 26-21PC Wet & Dry Vacuum",
+  "specifications": [
+    "Input Power: 1,250 Watt",
+    "Air Flow Rate: 3,600L/M",
+    "Vacuum: 210/21 mbar/KPA",
+    "Working Sound Level: 64 DB-A",
+    "Container Capacity: 25 Litres",
+    "Dimensions: 375 x 390 x 530mm",
+    "Weight: 9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-buddy-ii-replacement-fleece-bags-pack-of-4.html-lllmstxt|>
+## Kew Nilfisk Alto Buddy II Replacement Fleece Bags Pack of 4
+
+{
+  "price": "€18.54 inc VAT (€15.07 exc.vat)",
+  "description": "The Kew Nilfisk Alto Replacement Fleece Bags are designed to collect damp and dry debris. They are compatible with the Nilfisk Buddy II. Supplied as a pack of 4.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Buddy II Replacement Fleece Bags Pack of 4",
+  "specifications": [
+    "Pack of 4 fleece bags",
+    "Compatible with Nilfisk Buddy II",
+    "Designed for damp and dry debris collection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-replacement-filtres-and-bags-for-t31a.html-lllmstxt|>
+## Trend Replacement Filtres & Bags For T31A
+
+{
+  "price": "€50.57 inc VAT",
+  "description": "Replacement Filtres & Bags for the T31A Wet & Dry Vacuum.",
+  "availability": "In Stock",
+  "product_name": "Trend Replacement Filtres & Bags For T31A",
+  "specifications": [
+    "Select One - Cartridge Filter HEPA For T31A Vacuum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-multi-ll-30t-wet-and-dry-vacuum-with-power-tool-take-off-1400-watt-240-volt.html-lllmstxt|>
+## Kew Nilfisk Alto Multi ll 30T Wet & Dry Vacuum With Power Tool Take Off 1400 Watt 240 Volt
+
+{
+  "price": "€255.03 inc VAT (€207.34 exc.vat)",
+  "description": "The Kew Nilfisk Alto Multi ll 30T has been designed for use indoors or outdoors, wet or dry, dust or rubble. It can even be used to empty blocked sinks, clean out gutters and empty rain gullies. It has a 30 litre plastic canister which has a dry capacity of 22 litre and a wet capacity of 18 litre, and is supplied with a washable cartridge filter and fleece filter dust bag. The washable cartridge filter means that you can move from dry to wet use without removing the filter. Can be used with or without the fleece filter bag. The Multi ll 30T has an electronic warning that shows when suction is dropping and the filter needs to be cleaned. The Push & Clean filter system enables to filter to be cleaned whilst in use, pushing air through the filter to clean any clogging, and ensuring you can work longer without having the empty the tub or clean the blocked filter. It also has a power take off socket that means that power tools such as sanders, planes and jigsaws can be used and the dust is extracted into the vacuum, not into the work place. Simply plug in the vacuum, then plug your power tool into the power socket on the vacuum and connect the hose to powertool, adaptor supplied onto your power tool. The vacuum will automatically start when the tool does, making it a great DIY use dust extractor. The blow function means that even hard to reach areas can be cleaned, simply connecting it to the exhaust air outlet. The carrying handle is used for coiling up the power cord, hose hooks secure the hose and makes storage easy, the body of the machine is equipped with a quick park for the floor nozzle and tubes, and further options for the other nozzles. Other tools can be placed on the flat top of the machine when not in use.",
+  "availability": "Out of Stock",
+  "product_name": "Kew Nilfisk Alto Multi ll 30T Wet & Dry Vacuum With Power Tool Take Off 1400 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 1,400 Watt",
+    "Power Take Off: 1,100 Watt",
+    "Capacity: Without Bag: Wet/Dry: 18/22 Litres",
+    "Capacity: With Bag: Wet/Dry: 14/13 Litres",
+    "Air Flow Rate: 2,400 l/min",
+    "Vacuum: 200/20 mbar/KPA",
+    "Working Sound Level: <74 dB(A)",
+    "Dimensions: 426 x 374 x 684mm",
+    "Cable: Length: 5m",
+    "Weight: 9.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-multi-ii-series-replacement-fleece-bags-pack-of-4.html-lllmstxt|>
+## Kew Nilfisk Alto Multi II Series Replacement Fleece Bags Pack of 4
+
+{
+  "price": "€28.36 inc VAT (€23.06 exc.vat)",
+  "description": "The Kew Nilfisk Alto replacement fleece filter bags are designed to collect damp and dry debris. They are compatible with the Nilfisk Multi Vacuum Multi II Series of Wet & Dry Vacuums. Supplied as a pack of 4.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Multi II Series Replacement Fleece Bags Pack of 4",
+  "specifications": [
+    "Pack of 4 fleece filter bags",
+    "Compatible with Nilfisk Multi Vacuum Multi II Series",
+    "Designed to collect damp and dry debris"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-multi-ii-series-replacement-washable-pet-filter-single.html-lllmstxt|>
+## Kew Nilfisk Alto Multi II Series Replacement Washable PET Filter (Single)
+
+{
+  "price": "€22.47 inc VAT (€18.27 exc.vat)",
+  "description": "The Kew Nilfisk Alto Multi II Series Replacement Washable PET Filter for the Multi II Series of Wet & Dry Vacuums.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Multi II Series Replacement Washable PET Filter (Single)",
+  "specifications": [
+    "Model: KEWMULTIFILT",
+    "List Price: €28.41",
+    "You save: €5.94",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Delivery Charges: FREE for orders over €150 within Ireland, €8.99 for orders under €150"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwv9350-flooring-cleaning-kit.html-lllmstxt|>
+## DEWALT DWV9350 Flooring Cleaning Kit
+
+{
+  "price": "€68.11 inc VAT (€55.37 exc.vat)",
+  "description": "The DEWALT DWV9350 Flooring Cleaning Kit fits the DWV902/DWV901/DWV900 dust extractors and is AirLock compatible.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWV9350 Flooring Cleaning Kit",
+  "specifications": [
+    "DWV9350 Flooring Cleaning Kit",
+    "Fits DWV902/DWV901/DWV900 dust extractors",
+    "AirLock compatible"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-cv-0-compact-hand-vac-18-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M18 CV-0 Compact Hand Vac 18 Volt Bare Unit
+
+{
+  "price": "€143.17 inc VAT (€116.40 exc.vat)",
+  "description": "The Milwaukee M18 CV Compact Hand Vac provides excellent suction power for wood, metal and common debris. Fitted with a HEPA filter that collects 99.97% of airborne particles, down to 0.3 microns. The canister features secure lock guards that help to prevent unwanted spillage. The clear viewing window gives the user the ability to monitor debris build up. It also has a lock on switch reducing fatigue during sustained use. Bare Unit, No Battery or Charger. Supplied with: 1 x HEPA Filter, 1 x Hose, 1 x Crevice Tool, 1 x Floor Tool & 2 x Extensions.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 CV-0 Compact Hand Vac 18 Volt Bare Unit",
+  "specifications": [
+    "Max Airflow: 1,246 l/Min.",
+    "Max Vacuum: 84.8 mBar.",
+    "Suction Hose: 32mm x 1.8m.",
+    "Weight: 1.9kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-buddy-ii-replacement-washable-filter-single.html-lllmstxt|>
+## Kew Nilfisk Alto Buddy II Replacement Washable Filter (Single)
+
+{
+  "price": "€16.04 inc VAT (€13.04 exc.vat)",
+  "description": "The Kew Nilfisk Alto single replacement washable filter For Buddy II.",
+  "availability": "In Stock",
+  "product_name": "Kew Nilfisk Alto Buddy II Replacement Washable Filter (Single)",
+  "specifications": [
+    "Product Code: KEW81943048",
+    "List Price: €20.27",
+    "You save: €4.23",
+    "Pack of 4 Dust Bags"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kew-nilfisk-alto-multi-ll-22t-wet-and-dry-vacuum-with-power-tool-take-off-1200w-240v.html-lllmstxt|>
+## Kew Nilfisk Alto Multi ll 22T Wet & Dry Vacuum with Power Tool Take Off 1200W 240V
+
+{
+  "price": "€225.03 inc VAT (€182.95 exc.vat)",
+  "description": "The Kew Nilfisk Alto Multi ll 22T is a multifunctional vacuum that is designed for indoors or outdoors, wet or dry, dust or rubble. It can even be used to empty blocked sinks, clean-out gutters and empty rain gullies. It comes with 3 great additional features as standard: Power Tool Take Off, Push&Clean filter cleaning system and blow function. It has a 30L plastic canister which has a dry capacity of 16L and a wet capacity of 14L, and is supplied with a washable cartridge filter and fleece filter dust bag. The washable cartridge filter means that you can move from dry to wet use without removing the filter. Can be used with or without the fleece filter bag. An electronic warning system alerts the user that the suction is dropping and the filter needs to be cleaned. The Push&Clean filter system enables the filter to be cleaned whilst in use, pushing air through the filter to clean any clogging and ensuring you can work longer without having to empty the tub or clean the blocked filter. It also has a Power Take Off socket that means that power tools such as sanders, planes and jigsaws can be used and the dust is extracted into the vacuum, not into the work place. Simply plug in the vacuum, then plug your power tool into the power socket on the vacuum and connect the hose to powertool, adaptor supplied. The vacuum will automatically start when the tool does, making it a great dust extractor for DIY use. The blow function means that even hard to reach areas can be cleaned, simply connecting it to the exhaust air outlet. The carrying handle is used for coiling up the power cord, hose hooks secure the hose and makes storage easy. The body of the machine is equipped with a quick park for the floor nozzle and tubes, and further options for the other nozzles. Other tools can be placed on the flat top of the machine when not in use.",
+  "availability": "Out of Stock",
+  "product_name": "Kew Nilfisk Alto Multi ll 22T Wet & Dry Vacuum with Power Tool Take Off 1200W 240V",
+  "specifications": [
+    "Input Power: 1,200W",
+    "Power Take Off: 1,150W",
+    "Capacity: Without Bag, Wet/Dry 14/16L",
+    "Capacity: With Bag, Wet/Dry 0/9L",
+    "Air Flow Rate: 2,400 L/min.",
+    "Vacuum: 200/20 mbar/kPa",
+    "Working Sound Level: <85 dB(A)",
+    "Dimensions: 426 x 374 x 59.9mm",
+    "Cable: Length: 5m",
+    "Weight: 9.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-vce-33-m-ac-vacuum-cleaner-m-class-1400w.html-lllmstxt|>
+## Flex Power Tools VCE 33 M AC Vacuum Cleaner M Class 1400W
+
+{
+  "price": "from €832.55 inc VAT",
+  "description": "The Flex Power Tools VCE 33 M AC Vacuum Cleaner is fitted with a high-performance turbine that ensures both a high suction capacity and a high vacuum rate. Continuous automatic flat filter cleaning ensures no loss of suction. The flat-fold filter has a Teflon coating/nanocoating that allows optimum use of the tank volume. Flow sensor technology monitors the flow rate and emits a visual and audible signal to indicate any drop below the statutory minimum value of ≤ 20m/s. It is also suitable for wet vacuuming and fitted with electronic liquid level control to prevent over filling.\n\nThere is a separate motor air cooling duct fitted with coarse dirt filter that protects the turbine against the ingress of ambient air and thereby extends the service life. Soft start stops any voltage peaks at the start and the run-on feature (15 sec. overrun) empties any remaining dust in the vacuum hose. The suction diameter selector switch adjusts the flow rate to the corresponding task. It is simple and easy to change the filter, as there is no need to remove the suction head.\n\nThe vacuum is fitted with a permanent power take off socket and an electronic automatic on/off switch. It has a double-walled, sturdy container with integrated grip recess for easy emptying. It has a dust-protected, antistatic finish that prevents electric charging of the suction hose. Equipped with large wheels and 2 swivel guide rollers made of metal.\n\nClass M safety vacuum cleaner, suitable for all dusts with OEL values ≥ 0.1mg/m³. Specifically for mineral and timber dusts (also beech and oak).",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools VCE 33 M AC Vacuum Cleaner M Class 1400W",
+  "specifications": [
+    "Input Power: 1400W",
+    "Max. Volume Flow: 4500L/min.",
+    "Max. Vacuum: 25000Pa",
+    "Filter Surface: 5000cm²",
+    "Container Volume: Dry 30 Litre, Wet 17 Litre",
+    "Power Take Off: 100-2400W",
+    "Size (WxLxH): 565 x 385 x 565mm",
+    "Cable Length: 7.5m",
+    "Weight: 15.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv586m-xr-flexvolt-dust-extractor.html-lllmstxt|>
+## DEWALT DCV586M XR FlexVolt Dust Extractor
+
+{
+  "price": "from €582.37 inc VAT",
+  "description": "The DEWALT DCV586M XR FlexVolt Dust Extractor is M-Class compliant, <0.1% dust escape through filter, making it suitable for use on construction sites. Fitted with a brushless motor that provides powerful and constant suction power, even with the finest concrete and wood dust. Innovative dual filter cleaning system maintains performance during tough construction applications. The filter is automatically cleaned every 30 seconds, reducing filter clogging and delivering constant air flow. An audible alarm alerts user if a drop in performance occurs. The extractor features a key fob remote which enables wireless activation of the unit away from the switch for ease of use, saving time and effort. The TSTAK™ compatibility enables ease of use, enhanced mobility and flexible storage. Wet and dry capacity for maximum clean up flexibility.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCV586M XR FlexVolt Dust Extractor",
+  "specifications": [
+    "Voltage: 18/54V",
+    "Capacity Wet/Dry: 7.5/11 Litre",
+    "Max. Air Flow: 24.7L/sec.",
+    "Hose Nozzle Outside Diameter: 32mm",
+    "Weight: 7.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fbpv-0-fuel-backpack-vacuum-18v-bare-unit.html-lllmstxt|>
+## Milwaukee Power Tools M18 FBPV-0 FUEL™ Backpack Vacuum 18V Bare Unit
+
+{
+  "price": "€591.65 inc VAT (€481.02 exc.vat)",
+  "description": "The Milwaukee M18 FBPV FUEL™ Backpack Vacuum is fitted with a Milwaukee® designed and built brushless POWERSTATE™ motor for advanced suction power and longer motor life. The HEPA filter will collect 99.97% of airborne particles down to 0.3 microns. Class L vacuum cleaner, Standard MAK-factor > 1 mg/m³. Cyclonic technology for longer filter life, extended peak performance and bag-less debris collection. Comes with a removable harness, when removed it transforms the vacuum into a canister style vacuum. There is also an integrated hanging hook for ladders and scaffolding. DEK 26 compatible (sold separately), allows the vacuum to be easily connected to a powertool. It has a low operating noise of only 76 db (operating sound level). REDLINK PLUS™ intelligence system delivers an advanced digital overload protection for tool and battery and uniquely enhances the tool performance under load. REDLITHIUM-ION™ battery pack provides superior pack construction, electronics and fade-free performance to deliver more run time and more work over pack life. Supplied with: 1 x Floor Tool, 1 x Crevice Tool, 1 x Telescopic Extension Wand, 1 x Flexible Hose and 1 x Dust Extraction Adaptor. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools M18 FBPV-0 FUEL™ Backpack Vacuum 18V Bare Unit",
+  "specifications": [
+    "Air Volume: 1557.43 L/min.",
+    "Max. Vacuum: 189 mbar",
+    "Sealed Suction: 1905mm v H2O",
+    "Capacity: 3.8 litre",
+    "Hose Diameter: 36mm",
+    "Weight with Battery Pack: 8.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-vc3011l-wet-and-dry-l-class-dust-extractor.html-lllmstxt|>
+## Makita VC3011L Wet & Dry L-Class Dust Extractor
+
+{
+  "price": "€337.92 inc VAT",
+  "description": "The Makita VC3011L Wet & Dry L-Class Dust Extractor removes 99.0% of dust with a limit value for occupational exposure >1.0mg/m3. Suitable for processes involving mica, china clay, gypsum. It uses a simple push and clean system, which takes just seconds to clean the filter. The washable PET cartridge filter protects the turbine by holding back fine dust and debris. Fleece filter bags allow you to pick up most debris without damaging the filter. The motor head design integrates an area for tool storage during use and transportation. With an integrated carry handle that makes lifting and tilting of the container easy and convenient. This machine also features an innovative hose storage solution, via a flexible rubber strap. The 240V version features power tool take off. This is NOT available on 110V version. Comes with a 3 Year Warranty. Supplied with: 1 x Hose 4.0m x 32mm, 2 x Adaptor, 1 x Fleece Filter Bag, 1 x Disposal Bag, 1 x Power Tool Box and 1 x Crevice Nozzle.",
+  "availability": "In Stock",
+  "product_name": "Makita VC3011L Wet & Dry L-Class Dust Extractor",
+  "specifications": [
+    "Input Power: 110V: 1,000W, 240V: 3,000W",
+    "Power Take Off: 2,000W (240V ONLY)",
+    "Capacity: Wet 23 litres, Dry 28 litres",
+    "Max. Air Flow: 3.6 m³/min.",
+    "Protection Level: IP24",
+    "Hose: Length 3.5m, Diameter 32mm",
+    "Weight: 11.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-vc3012m-wet-and-dry-m-class-dust-extractor.html-lllmstxt|>
+## Makita VC3012M Wet & Dry M-Class Dust Extractor
+
+{
+  "price": "€643.30 inc VAT",
+  "description": "The Makita VC3012M Wet & Dry M-Class Dust Extractor will remove 99.9% of dust with a Limit Value for occupational exposure > 0.1 mg/m³. It is suitable for processes involving mica, china clay, gypsum, wood dust (softwood and hardwood) and silica dust. It uses a simple push and clean system and it takes just seconds to clean the filter. The washable PET cartridge filter protects the turbine by holding back fine dust and debris. The robust plastic body has 2 wheels and 2 castors for excellent stability and mobility. Internally there is an air flow sensor that beeps when air flow is reduced by a clogged filter, full tank etc. The motor head design integrates an area for tool storage during use and transportation. There is an innovative hose storage solution and two clamps on the backside of the tool box. Floor nozzles and extension tubes can be fixed onto the body for convenient storage. The 240 Volt version features an automatic on/off function; the machine activates when a connected power tool is used. This is NOT available on 110 Volt version. Approved for Dust Classes M in accordance with the EU standard Compact size. Supplied with: 1 x Hose 4.0m x 32mm, 2 x Adaptors, 1 x Fleece Filter Bag, 1 x Disposal Bag, 1 x Power-Tool Box and 1 x Crevice Nozzle.",
+  "availability": "In Stock",
+  "product_name": "Makita VC3012M Wet & Dry M-Class Dust Extractor",
+  "specifications": [
+    "Input Power: 110V: 1,000W, 240V: 1,200W",
+    "Power Take Off: 1,800W",
+    "Capacity: Wet: 19 litres, Dry: 23.5 litres",
+    "Max. Air Flow: 3.2-3.7m³/min.",
+    "Weight: 10.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-r15vac-l-class-wet-and-dry-vacuum-1000w-240v-1.html-lllmstxt|>
+## Evolution R15VAC L Class Wet & Dry Vacuum 1000W 240V
+
+{
+  "price": "€113.97 inc VAT (€92.66 exc.vat)",
+  "description": "This Evolution R15VAC Wet & Dry Vacuum is fitted with an L-Class filter that enables both wet and dry vacuuming without the need to change or remove the filter. Its powerful motor and strong airflow enable easy pickup of bulky building dust, dry debris, liquids, mud and more. There is also a powerful blower feature, ideal for dislodging debris from hard-to-reach areas. The power take-off socket provides effective dust collection, it automatically starts when attached to a power tool. It has a compact design and carry handle, making it easy to transport between jobs. With onboard accessory storage for quick access to nozzles and a handy cable tidy. The perfect wet & dry vacuum cleaner for your workshop and general cleaning tasks.",
+  "availability": "In Stock",
+  "product_name": "Evolution R15VAC L Class Wet & Dry Vacuum 1000W 240V",
+  "specifications": [
+    "Input Power: 1,000W",
+    "Airflow: 42.5 L/sec.",
+    "Sound Pressure: 80 dB",
+    "Capacity: Wet 9 litre, Dry 8 litre",
+    "Overall Bin Capacity: 15 litre",
+    "Cable Length: 3m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-r11vac-li-ext-wet-and-dry-vacuum-cleaner.html-lllmstxt|>
+## Evolution R11VAC-Li EXT Wet & Dry Vacuum Cleaner
+
+{
+  "price": "€118.93 inc VAT",
+  "description": "The Evolution R11VAC-Li EXT Wet & Dry Vacuum Cleaner is ideal for power tool dust extraction and general cleaning tasks. Its bagless design keeps the vacuum compact and lightweight, whilst also being low maintenance. There is also a handy blower function. Powered by Evolution EXT 18v battery system featuring keep cool technology which keeps the cells cool to maximise run time. Supplied with an L class filter for dry applications, and foam filter for wet applications. It also comes with: 1 x Crevice Nozzle, 1 x Wide Nozzle, 1 x Round Brush Nozzle, 1 x Flexible Hose and 1 x Instruction Manual.",
+  "availability": "In Stock",
+  "product_name": "Evolution R11VAC-Li EXT Wet & Dry Vacuum Cleaner",
+  "specifications": [
+    "Capacity Dry/Wet: 11/5.5 litre",
+    "Airflow: 21.2 litres/sec.",
+    "Noise: 78dBA",
+    "Weight: 3.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwv905h-h-class-dust-extractor.html-lllmstxt|>
+## DEWALT DWV905H H-Class Dust Extractor
+
+{
+  "price": "€1,050.53 inc VAT",
+  "description": "The DEWALT DWV905H Dust Extractor is H-Class compliant, meets regional regulations for use on EMEA ANZ jobsites. Improved motor and sealing of the dust extractor provides more air flow and pressure which guarantees market leading performance. Its head and tank are made from heavy-duty 3mm polypropylene, impact and drop resistant, ideal for use in tough applications. Fitted with a telescoping handle and large rear wheels for easy transportation. Dual cannister filters with an auto filter clean mechanism, maintains unit performance during tough construction applications. A variable suction dial allows the user to tailor suction to specific application or tool requirements. Whilst Auto Start & Stop Control, offers end users an auto-start feature with AC competition products. An audible alarm will alert if a drop in performance occurs. Supplied with: 2 x H-Class Compliant Filters, 1 x Antistatic Hose 4.6m x 32mm Ø, 1 x Connector Kit and 1 x Fleece Dust Bag.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DWV905H H-Class Dust Extractor",
+  "specifications": [
+    "Input Power: 1,400W",
+    "Capacity Wet/Dry: 18.4/38 litres",
+    "Hose Length x Diameter: 4.6m x 32mm Ø",
+    "Protection Class: IPX4",
+    "Weight: 15kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwv905m-m-class-construction-dust-extractor.html-lllmstxt|>
+## DEWALT DWV905M M-Class Construction Dust Extractor
+
+{
+  "price": "€781.96 inc VAT",
+  "description": "The DEWALT DWV905M Construction Dust Extractor is M-Class compliant, meets regional regulations for use on EMEA ANZ jobsites. Improved motor and sealing of the dust extractor provides more air flow and pressure which guarantees market leading performance. Its head and tank are made from heavy-duty 3mm polypropylene, impact and drop resistant, ideal for use in tough applications. Fitted with a telescoping handle and large rear wheels for easy transportation. Dual cannister filters with an auto filter clean mechanism, maintains unit performance during tough construction applications. A variable suction dial allows the user to tailor suction to specific application or tool requirements. Auto Start & Stop Control, offers end users an auto-start feature with AC competition products. An audible alarm will alert if a drop in performance occurs. Supplied with: 2 x M-Class Compliant Filters, 1 x Antistatic Hose 4.6m x 32mm Ø, 1 x Connector Kit and 1 x Fleece Dust Bag.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DWV905M M-Class Construction Dust Extractor",
+  "specifications": [
+    "Input Power: 1,400W",
+    "Capacity Wet/Dry: 18.4/38 litres",
+    "Hose Length x Diameter: 4.6m x 32mm Ø",
+    "Protection Class: IPX4",
+    "Weight: 15kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-vc3211mx1-dust-extractor-mclass-32l-240v.html-lllmstxt|>
+## Makita Vc3211Mx1 Dust Extractor Mclass 32L 240V
+
+{
+  "price": "€922.97 inc VAT (€750.38 exc.vat)",
+  "description": "Vc3211Mx1 Dust Extractor Mclass 32L 240V",
+  "availability": "In Stock",
+  "product_name": "Makita Vc3211Mx1 Dust Extractor Mclass 32L 240V",
+  "specifications": [
+    "Model: MAKVC3211MX",
+    "Capacity: 32L",
+    "Voltage: 240V",
+    "Price: €922.97"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-vc3211mx1-dust-extractor-mclass-32l-110v.html-lllmstxt|>
+## Makita Vc3211Mx1 Dust Extractor Mclass 32L 110V
+
+{
+  "price": "€1,999.23 inc VAT (€1,625.39 exc.vat)",
+  "description": "Vc3211Mx1 Dust Extractor Mclass 32L 110V",
+  "availability": "Out of Stock",
+  "product_name": "Makita Vc3211Mx1 Dust Extractor Mclass 32L 110V",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-vc4210mx1-m-class-dust-extractor-with-power-take-off-1000w-110v.html-lllmstxt|>
+## Makita VC4210MX/1 M-Class Dust Extractor with Power Take Off 1000W 110V
+
+{
+  "price": "€943.74 inc VAT (€767.27 exc.vat)",
+  "description": "The Makita VC4210MX/1 Dust Extractor with power take off. The automatic on/off function activates when a connected power tool is used. M-Class Rated, removes 99.9% of dust with Limit Value for occupational exposure > 0.1 mg/m³. It has a durable PTFE filter with high filtration efficiency and a washable non-stick membrane. The automatic filter cleaning system helps to keep you working for longer. An air flow sensor beeps when air flow is reduced by clogged filter, full tank etc.\n\nIt has a double-wall container with big wheels and steel castors. The hatchback design features a large opening for easy access to the filter. It has a flat top, this allows for depositing hand tools and accessories. MAKPAC cases can be attached to the unit (adaptor plate required). Other features include: individual settings for different hose diameters (21, 27, 32, 36 and 38mm), speed regulation and integrated hose, cable and accessory storage.\n\nSuitable for processes involving mica, china clay, gypsum, wood dust, such as softwood and hardwood and silica dust, such as masonry, concrete.\n\nSupplied with: 1 x Hose 4.0m x 32mm, 1 x Quick Coupling Adaptor, 1 x Universal Adaptor, 1 x Fleece Filter Bag and 1 x Disposal Bag.",
+  "availability": "In Stock",
+  "product_name": "Makita VC4210MX/1 M-Class Dust Extractor with Power Take Off 1000W 110V",
+  "specifications": [
+    "Input Power: 1,000W",
+    "Max. Airflow: 4.5 m³/min.",
+    "Max. Sealed Suction: 25 kPa",
+    "Tank Capacity: Dry: 42 litres, Wet: 29 litres",
+    "Dust Bag Capacity: 30 litres",
+    "Weight: 16kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dcl182z-vacuum-cleaner-dual-settings.html-lllmstxt|>
+## Makita Dcl182Z Vacuum Cleaner (Dual Settings)
+
+{
+  "price": "€81.27 inc VAT (€66.07 exc.vat)",
+  "description": "Dcl182Z Vacuum Cleaner (Dual Settings)",
+  "availability": "Out of Stock",
+  "product_name": "Makita Dcl182Z Vacuum Cleaner (Dual Settings)",
+  "specifications": [
+    "Model: MAKDCL182Z",
+    "Price: €81.27",
+    "List Price: €89.89",
+    "You save: €8.62",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Delivery Charges: FREE for orders over €150 within Ireland, €8.99 for orders under €150"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-18v-lxt-bl-vacuum-75l-wet-and-dry-hepa.html-lllmstxt|>
+## Makita 18V Lxt Bl Vacuum 7.5L Wet & Dry Hepa
+
+{
+  "price": "€210.23 inc VAT (€170.92 exc.vat)",
+  "description": "Makita 18V Lxt Bl Vacuum 7.5L Wet & Dry Hepa",
+  "availability": "In Stock",
+  "product_name": "Makita 18V Lxt Bl Vacuum 7.5L Wet & Dry Hepa",
+  "specifications": [
+    "Model: MAKDVC750LZ",
+    "Capacity: 7.5L",
+    "Type: Wet & Dry",
+    "Includes: HEPA filter"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-vc-2230-sacl-wet-and-dry-vacuum-cleaner-with-pto-50-litre-1600w-240v.html-lllmstxt|>
+## Einhell TE-VC 2230 SACL Wet and Dry Vacuum Cleaner with PTO 50 litre 1600W 240V
+
+{
+  "price": "€274.81 inc VAT (€223.42 exc.vat)",
+  "description": "The Einhell TE-VC 2230 SACL Wet and Dry Vacuum Cleaner comes with power take off socket. Complies with dust class L in accordance with EU standards. It filters out dust with OEL values >1 mg/m³ and is suitable for allergy sufferers. A filter cleaning system helps to restore suction power if lost/reduced. There is also a blow connection, ideal for blow-cleaning hard-to-reach areas. Its sturdy, rust-proof 50 litre stainless steel tank has a water drain screw for draining the absorbed water. The tank also features practical accessory holders for clean stowage and operations. Fitted with large wheels and castors for improved mobility.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-VC 2230 SACL Wet and Dry Vacuum Cleaner with PTO 50 litre 1600W 240V",
+  "specifications": [
+    "Input Power: 1,600W",
+    "Capacity: Wet/Dry: 50 Litre",
+    "Suction Hose Diameter x Length: 36mm x 600cm",
+    "Max. Suction Power: 230 mbar",
+    "Weight: 13.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-vc-1820s-wet-and-dry-vacuum-20-litre-1250w-240v.html-lllmstxt|>
+## Einhell TC-VC 1820S Wet & Dry Vacuum 20 litre 1250W 240V
+
+{
+  "price": "€66.04 inc VAT (€53.69 exc.vat)",
+  "description": "The Einhell TC-VC 1820S Wet & Dry Vacuum is a versatile, powerful, all-round vacuum for simple wet and dry cleaning. It features an easy-to-clean stainless steel tank which has a capacity of 20 litres for devouring coarse or fine, wet or dry dirt and even liquids. It has a powerful motor to provide a poweful suction power and enough pressure to a blow connector for the user-friendly blow-cleaning of inaccessible areas. It is fitted with a foam filter protecting the motor against soiling during wet vacuuming. Also has a float switch which interrupts the suction power automatically when the maximum level is reached, holders for the cable and accessories which enable all parts to be stored away quickly and neatly. With a carry-handle and four smooth-running castors for easy transportation.",
+  "availability": "In Stock",
+  "product_name": "Einhell TC-VC 1820S Wet & Dry Vacuum 20 litre 1250W 240V",
+  "specifications": [
+    "Input Power: 1,250 Watt",
+    "Capacity: Wet/Dry: 20 Litre",
+    "Suction Hose Length: 1,500mm",
+    "Suction Hose Diameter: 36mm",
+    "Max Suction Power: 18 kPa",
+    "Weight: 4.22kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-av-1720-dw-ash-vac-20-litre-1250w-240v.html-lllmstxt|>
+## Einhell TC-AV 1720 DW Ash Vac 20 litre 1250W 240V
+
+{
+  "price": "€69.18 inc VAT (€56.24 exc.vat)",
+  "description": "The Einhell TC-AV 1720 DW Ash Vac gets rid of piles of cold ash from fireplaces, pellet ovens and barbecues. Ash and fine dust have no chance of escaping thanks to the pleated filter. An additional pre-filter enhances the filtration and also prevents a fast blockage of the pleated filter. Emptying the ash container is easy thanks to the quick-release fasteners. With its 20-liter collection container, carrying handle for easy transport and four castors this ash vacuum cleaner is well equipped for time-consuming assignments. When not in use, the power cable is stored with a cable tie. It also features a blowing function. Supplied with: 1 x Pre-filter and Pleated Filter, 1 x Metal-reinforced Suction Hose and 1 x Aluminum Tube.",
+  "availability": "In Stock",
+  "product_name": "Einhell TC-AV 1720 DW Ash Vac 20 litre 1250W 240V",
+  "specifications": [
+    "Voltage: 240V",
+    "Input Power: 1,250W",
+    "Max. Suction Power: 175 mbar",
+    "Tank Capacity: 20 litre",
+    "Suction Hose (Length x Ø) 1.2m x 36mm",
+    "Weight: 3.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-vc-1815-s-wet-and-dry-vacuum-cleaner-15-litre-1250w-240v.html-lllmstxt|>
+## Einhell TC-VC 1815 S Wet & Dry Vacuum Cleaner 15 litre 1250W 240V
+
+{
+  "price": "€60.80 inc VAT (€49.43 exc.vat)",
+  "description": "The Einhell TC-VC 1815 S Electric Wet/Dry Vacuum Cleaner is a flexible and high suction all-purpose vacuum cleaner used for simple wet or dry cleaning. The 15 litre stainless steel container is easy to clean and collects rough, fine, wet or dry dirt, as well as fluids, without residues. Its strong 1,250W motor provides good suction performance, as well as sufficient pressure for its practical blowing function.",
+  "availability": "In Stock",
+  "product_name": "Einhell TC-VC 1815 S Wet & Dry Vacuum Cleaner 15 litre 1250W 240V",
+  "specifications": [
+    "Input Power: 1,250W",
+    "Capacity: Wet/Dry: 15 Litre",
+    "Suction Hose Diameter x Length: 36mm x 150cm",
+    "Max. Suction Power: 180 mbar",
+    "Weight: 2.99kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-vc-2340-sacl-wetdry-vacuum-cleaner-1500w-240v.html-lllmstxt|>
+## Einhell TE-VC 2340 SACL Wet/Dry Vacuum Cleaner 1500W 240V
+
+{
+  "price": "€220.24 inc VAT (€179.06 exc.vat)",
+  "description": "This Einhell TE-VC 2340 SACL Wet/Dry Vacuum Cleaner conforms to dust class L standard in accordance with European standards. Ideal for the careful cleaning of surfaces not sensitive to water. Unlike normal vacuum cleaning and wiping over, the wet & dry vac provides deep-down and thorough cleaning and is an ideal addition to standard household cleaning appliances when it comes to stubborn and ingrained dirt. Since it filters fine dust, the wet & dry vac is particularly suitable for allergy sufferers. A filter cleaning system restores the suction power. The suction power is infinitely adjustable using the speed controller, and the blow connection is suitable for blow-cleaning hard-to-reach areas. Fitted with an automatic coupler socket (230 V, max. 2,180W) for connecting power tools for DIY work. Making it ideal for cleaning tasks on the site, in the workshed or in the hobby room. Its sturdy rust-proof stainless steel tank has a capacity of 40 litres. To enable the water which has been suctioned up to be drained easily there is a water drain screw. For easy transport there are large wheels, castors and a trolley handle, and a cable winding and a suction tube holder are built into the housing. A practical holder for accessories means the nozzles are always ready to hand and provides for neat storage of the extensive accessories. Supplied with a stainless steel telescopic tube (Ø 36mm) with air regulator, a 3 meter heavy-duty plastic suction hose (Ø 36mm), a large combination, crevice and upholstery nozzle, plus a pleated filter, a foam filter and a synthetic dust bag.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-VC 2340 SACL Wet/Dry Vacuum Cleaner 1500W 240V",
+  "specifications": [
+    "Input Power: 1,500W",
+    "Power Take Off: 1,900W",
+    "Suction Power: 225 mbar",
+    "Collection Container Volume: 40 litre",
+    "Dust Protection Class: L",
+    "Suction Hose Length x Ø: 3m x 36mm",
+    "Power Cable Length: 6m",
+    "Weight: 10.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-vc-1810-li-solo-power-x-change-wet-and-dry-vac-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-VC 18/10 Li-Solo Power X-Change Wet & Dry Vac 18V Bare Unit
+
+{
+  "price": "€73.66 inc VAT (€59.89 exc.vat)",
+  "description": "The Einhell TE-VC 18/10 Li-Solo Power X-Change Wet & Dry Vac is highly versatile, it can be used in a wide variety of environments, home, workshed, basement or garage. Thanks to its wet or dry vacuuming capabilities. There is also a blow connection which is for blow-cleaning hard-to-reach areas. The intelligent position of the On/Off switch enables convenient one-hand operation. For comfortable working with low noise the motor is quiet in operation. Ergonomically designed with a carry-handle for easy transportation. The included accessories can be conveniently stowed away directly on the equipment. The container has quick-release fasteners for emptying in a flash. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger. Supplied with: 1 x Extendible Hose 2m, 1 x 2-in-1 Crevice/Brush Nozzle, 1 x 2-in-1 Upholstery/Universal Nozzle, 1 x Dirt Collection Bag and 1 x Foam Filter.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-VC 18/10 Li-Solo Power X-Change Wet & Dry Vac 18V Bare Unit",
+  "specifications": [
+    "Capacity: 10 litre",
+    "Suction Power: 90 mbar",
+    "Sound Pressure Level (Volume): 72 dB (A)",
+    "Suction Hose Diameter: 36mm",
+    "Suction Hose Length: 2m",
+    "Weight: 3.05kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dcl501z-lxt-vacuum-cleaner-18v-bare-unit.html-lllmstxt|>
+## Makita DCL501Z LXT Vacuum Cleaner 18V Bare Unit
+
+{
+  "price": "€363.11 inc VAT (€295.21 exc.vat)",
+  "description": "The Makita DCL501 LXT Vacuum Cleaner is a compact cordless cyclone vacuum cleaner with a HEPA filter and strong suction power. This vacuum with a brushless motor offers a run time of up to 77 minutes with a single battery charge (NOT supplied). Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita DCL501Z LXT Vacuum Cleaner 18V Bare Unit",
+  "specifications": [
+    "Air Volume: 1.2 m³/min.",
+    "Max. Sealed Suction: 100 mbar.",
+    "Tank Capacity (Dry): 0.25 litre.",
+    "Vacuum Hose Length: 1.1m."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-vc-3625-li-s-solo-wetdry-vacuum-cleaner-36v-2-x-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-VC 36/25 Li S-Solo Wet/Dry Vacuum Cleaner 36V (2 x 18V) Bare Unit
+
+{
+  "price": "€142.22 inc VAT (€115.63 exc.vat)",
+  "description": "The Einhell TE-VC 36/25 Li S-Solo Wet/Dry Vacuum Cleaner is an indispensable helper in everyday life, because it cleans all surfaces down to the pores and removes dust and dirt just as effectively as liquids. It has two power modes which can be selected simply by pressing a button. ECO mode extends battery life and is suitable for longer vacuuming sessions. The BOOST mode sucks up even stubborn dirt effortlessly with maximum suction power. The air pressure regulator on the handle allows the suction power of up to 150 mbar to be adjusted to sensitive work areas. The rustproof and sturdy stainless steel container can hold up to 25 litres of dirt and liquids, and the integrated water drainage screw makes emptying the vacuumed liquids child's play. Thanks to wheels, castors and carrying handle, the wet-dry vacuum cleaner can be transported to the place of use without effort. The 2.5 metres long, robust plastic suction hose with a 36 millimetres diameter and the telescopic stainless steel tube, together with the battery power, ensure maximum flexibility. Thanks to the telescopic tube, the vacuum cleaner can be individually adjusted to your own body size and is also suitable for overhead use. Thanks to the accessory holder and the suction tube holder, the vacuum and accessories are not only quickly and neatly stowed away, but are just as quickly ready for use again. Equipped with a combi-nozzle for carpets and smooth floors, an upholstery nozzle for car seats and other upholstered furniture, as well as a crevice nozzle for hard-to-reach corners, the vacuum takes on any hurdle and is used for vacuuming, drying and cleaning work in the house, workshop or garage. Tight niches can be blown out quickly with the blow function to then suck up the dirt. The scope of delivery also includes a foam filter for wet vacuuming, as well as a pleated filter and paper dirt bag for dry vacuuming. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Requires 2 x 18V Power X-Change system batteries. Comes as a Bare Unit - No Battery or Charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-VC 36/25 Li S-Solo Wet/Dry Vacuum Cleaner 36V (2 x 18V) Bare Unit",
+  "specifications": [
+    "Max. Suction Power: 150 mbar",
+    "Vessel Capacity: 25 litre",
+    "Suction Hose Length: 250cm",
+    "Suction Hose Diameter: 36mm",
+    "Sound Pressure Level: 76 dB (A)",
+    "Weight: 6.75kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dcl184-lxt-vacuum-cleaner.html-lllmstxt|>
+## Makita DCL184 LXT Vacuum Cleaner
+
+{
+  "price": "€121.47 inc VAT",
+  "description": "Makita DCL184 LXT Vacuum Cleaner with adjustable suction power and low noise level for pleasant work. Ideal for cleaning car interiors and other compact areas. It also features a convenient blowing function that can be used to removed stubborn debris or dry the car prior to waxing.",
+  "availability": "In Stock",
+  "product_name": "Makita DCL184 LXT Vacuum Cleaner",
+  "specifications": [
+    "Air Volume: 1.4m³/min.",
+    "Max. Sealed Suction: 54 mbar.",
+    "Tank Capacity for Dust: 0.5 litre.",
+    "Dust Bag Capacity: 0.33 litre."
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-as-2-250em-m-class-vacuum-1200w-240v.html-lllmstxt|>
+## Milwaukee Power Tools AS 2-250EM M Class Vacuum 1200W 240V
+
+{
+  "price": "€894.28 inc VAT (€727.06 exc.vat)",
+  "description": "The Milwaukee AS 2-250EM M Class Vacuum has a durable PET HEPA filter for high filtration efficiency. A push clean filter cleaning system allows the user to clean the filter while in use and without opening the drum. The fully anti-static system with grounded inlet and anti-static hose prevents static shock to the user after dust build up. Its 25 litre container features a double dust seal for protection against leakage. A safety inlet cap ensures no dust leakages during handling and transport. Semi-axle back wheels offer durable and better rolling characteristics with non-marking rubber surface. For easy transportation all the cleaning attachments can be stored onboard. Supplied with a Bluetooth® remote control for use with cordless tools and a power outlet, with auto start and stop for use with corded tools.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools AS 2-250EM M Class Vacuum 1200W 240V",
+  "specifications": [
+    "Input Power: 1,200W",
+    "Sealed Suction: 23.5 kPa",
+    "Max. Vacuum: 245 mbar",
+    "Airflow: 62 l/min.",
+    "Capacity: 25 litre",
+    "Suction Hose Diameter x Length: 32mm x 4m",
+    "Max. Suction Power: 80 mbar",
+    "Weight: 8.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gas-35-l-sfc-professional-l-class-wet-and-dry-vacuum-1200w-240v.html-lllmstxt|>
+## Bosch GAS 35 L SFC+ Professional L-Class Wet & Dry Vacuum 1200W 240V
+
+{
+  "price": "€610.99 inc VAT (€496.74 exc.vat)",
+  "description": "Bosch GAS 35 L SFC+ Professional L-Class Wet & Dry Vacuum with a convenient semi-automatic filter cleaning (SFC+) system. This system enables quick and easy onehanded filter cleaning for faster, uninterrupted work progress. It has an L-class dust extractor certification in accordance to EU standards, ensuring good user protection. It also features an extremely powerful 1,380 W suction turbine, providing 254 mbars of very high vacuum pressure for the best extraction results. Compatible with the Bosch Click & Clean System.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GAS 35 L SFC+ Professional L-Class Wet & Dry Vacuum 1200W 240V",
+  "specifications": [
+    "Input Power: 1,200W",
+    "Tank Capacity: Wet 19.2 litre, Dry 35 litre",
+    "Max. Airflow Rate (Turbine): 74 l/s",
+    "Max. Vacuum Pressure (Turbine): 254 mbar",
+    "Filter Surface Area: 6,150cm²",
+    "Suction Hose Nominal Width: 35mm",
+    "Weight: 11.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gas-55-m-afc-professional-m-class-wet-and-dry-vacuum-1200w-240v.html-lllmstxt|>
+## Bosch GAS 55 M AFC Professional M-Class Wet & Dry Vacuum 1200W 240V
+
+{
+  "price": "€1,018.02 inc VAT (€827.66 exc.vat)",
+  "description": "Bosch GAS 55 M AFC Professional M-Class Wet & Dry Vacuum. Automatic filter cleaning technology ensures consistent and powerful suction for a very fast work progress. Certified as an M-class dust extractor in accordance to EU standards. Compatible with the Bosch Click & Clean System.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GAS 55 M AFC Professional M-Class Wet & Dry Vacuum 1200W 240V",
+  "specifications": [
+    "Input Power: 1,200W",
+    "Tank Capacity: Wet 40 litre, Dry 55 litre",
+    "Max. Airflow Rate (Turbine): 74 l/s",
+    "Max. Vacuum Pressure (Turbine): 254 mbar",
+    "Filter Surface Area: 6,150cm²",
+    "Suction Hose Nominal Width: 35mm",
+    "Weight: 16.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gas-18v-10-l-professional-l-class-vacuum-18v-bare-unit.html-lllmstxt|>
+## Bosch GAS 18V-10 L Professional L-Class Vacuum 18V Bare Unit
+
+{
+  "price": "€184.52 inc VAT (€150.02 exc.vat)",
+  "description": "The Bosch GAS 18V-10 L Professional L-Class Vacuum with full suction power. It features a rotational airflow technology to prevent the filters from clogging and provides persistent and uninterrupted suction power. Class L rated, removes 99.0% of dust with limit value for occupational exposure >1.0mg/m3. For both wet and dry vacuum cleaning. The vacuum's lightweight and compact design enables easy transportation and storage. Its bag-less design and numerous accessories (included) make it ideal for a variety of dry as well as wet applications. Compatible with the Bosch Click & Clean System.",
+  "availability": "In Stock",
+  "product_name": "Bosch GAS 18V-10 L Professional L-Class Vacuum 18V Bare Unit",
+  "specifications": [
+    "Tank Capacity: Wet 6 litre, Dry 10 litre",
+    "Max. Airflow Rate (Turbine): 34 l/s",
+    "Max. Vacuum Pressure (Turbine): 115 mbar",
+    "Filter Surface Area: 2,375cm²",
+    "Suction Hose Nominal Width: 35mm",
+    "Weight: 4.7kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-vacuum-dxv15ta-wet-and-dry-toolbox-vacuum-1100w-240v.html-lllmstxt|>
+## DEWALT Vacuum DXV15TA Wet & Dry Toolbox Vacuum 1100W 240V
+
+{
+  "price": "€118.82 inc VAT (€96.60 exc.vat)",
+  "description": "The DEWALT DXV15TA Wet & Dry Toolbox Vacuum has a powerful 1100W suction motor with added blower feature for easy removal of dust and debris. The large on/off switch has a water-resistant design for ease of use. It also features automatic ball-cock air shutoff. The small and compact, toolbox-style design incorporates rugged, high-quality plastic casing and flip-up handle for easy carrying and storage too. Supplied with: 1 x Flexible Hose, 1 x Extension Wand, 1 x Cartridge Filter, 1 x Disposable Dust Bag, 1 x Foam Filter, 1 x Utility Nozzle and 1 x Crevice Nozzle.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Vacuum DXV15TA Wet & Dry Toolbox Vacuum 1100W 240V",
+  "specifications": [
+    "Input Power: 1,100W",
+    "Capacity: 15 litres",
+    "Airflow: 42.5 (EU L/S)",
+    "Sealed Pressure: 12 (kPa)",
+    "Hose Length x Diameter: 4.8m x 48mm Ø",
+    "Cord Length: 4.9m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gas-20-l-sfc-professional-dust-extraction.html-lllmstxt|>
+## Bosch GAS 20 L SFC Professional Dust Extraction
+
+{
+  "price": "€296.09 inc VAT",
+  "description": "Bosch GAS 20 L SFC Professional Dust Extraction features a semi-automatic filter cleaning (SFC) system for easy maintenance. The extractor has an L-class dust extractor certification in accordance with EU standards, ensuring reliable user protection. It also features a particularly compact design for easy transportation and loading. This mobile dust extractor is intended for wet and dry vacuuming.",
+  "availability": "In Stock",
+  "product_name": "Bosch GAS 20 L SFC Professional Dust Extraction",
+  "specifications": [
+    "Input Power: 1,200W",
+    "Tank Capacity: Wet 16 litre, Dry 20 litre",
+    "Max. Airflow Rate (Turbine): 61 l/s",
+    "Max. Vacuum Pressure (Turbine): 248 mbar",
+    "Filter Surface Area: 4,300cm²",
+    "Suction Hose Nominal Width: 35mm",
+    "Weight: 12.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gas-35-m-afc-professional-m-class-wet-and-dry-vacuum.html-lllmstxt|>
+## Bosch GAS 35 M AFC Professional M-Class Wet & Dry Vacuum
+
+{
+  "price": "€836.25 inc VAT",
+  "description": "Bosch GAS 35 M AFC Professional M-Class Wet & Dry Vacuum. Automatic filter cleaning technology guarantees sustained, powerful suction and enables a very fast work progress. The dust extractor has an M-class dust extractor certification in accordance to EU standards, ensuring enhanced user protection. It also features an extremely powerful 1,380W suction turbine, providing 254 mbars of very high vacuum pressure for the best extraction results. This dust extractor is intended for wet and dry vacuuming. Compatible with the Bosch Click & Clean System.",
+  "availability": "In Stock",
+  "product_name": "Bosch GAS 35 M AFC Professional M-Class Wet & Dry Vacuum",
+  "specifications": [
+    "Input Power: 1,200W",
+    "Tank Capacity: Wet 19.2 litre, Dry 35 litre",
+    "Max. Airflow Rate (Turbine): 74 l/s",
+    "Max. Vacuum Pressure (Turbine): 254 mbar",
+    "Filter Surface Area: 6,150cm²",
+    "Suction Hose Nominal Width: 35mm",
+    "Weight: 12.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gas-35-h-afc-professional-h-class-wet-and-dry-vacuum.html-lllmstxt|>
+## Bosch GAS 35 H AFC Professional H-Class Wet & Dry Vacuum
+
+{
+  "price": "€1,028.40 inc VAT",
+  "description": "Bosch GAS 35 H AFC Professional H-Class Wet & Dry Vacuum. Its safety filter traps 99.995% of health-endangering dusts. The certification for H-class dust further increases the level of health protection against carcinogenic and pathogenic dust as well as organic material (e.g., mould) and container construction material (e.g.,glass fibre). The automatic filter cleaning mechanism prevents interruptions for constant working. A volume flow control monitors the constant air flow through the suction cup and gives an acoustic warning signal if the air flow is too low.",
+  "availability": "In Stock",
+  "product_name": "Bosch GAS 35 H AFC Professional H-Class Wet & Dry Vacuum",
+  "specifications": [
+    "Input Power: 1,200W",
+    "Tank Capacity: Wet 19.2 litre, Dry 35 litre",
+    "Max. Airflow Rate (Turbine): 74 l/s",
+    "Max. Vacuum Pressure (Turbine): 254 mbar",
+    "Filter Surface Area: 5,000cm²",
+    "Suction Hose Nominal Width: 35mm",
+    "Weight: 12.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-hv-0-hand-vac-12-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M12 HV-0 Hand Vac 12 Volt Bare Unit
+
+{
+  "price": "€89.31 inc VAT (€72.61 exc.vat)",
+  "description": "The Milwaukee M12 HV-0 Hand Vac offers excellent suction power for wood, metal and common debris. The clear viewing window gives the user the ability to see debris build up and a lock on switch reduces fatigue during sustained use. It has a compact design that makes it easy to clean in tight spaces and the secure canister lock guards against unwanted spillage. Versatile accessories for small or large clean up areas. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee M12 HV-0 Hand Vac 12 Volt Bare Unit",
+  "specifications": [
+    "Voltage: 12 Volt",
+    "Max Airflow: 934l/min",
+    "Max Vacuum: 31.1 mBar",
+    "Airflow Speed: 56mph",
+    "Hose Diameter: 22.5mm",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black-and-decker-svj520bfsp-cordless-pet-dustbuster-vacuum.html-lllmstxt|>
+## Black & Decker SVJ520BFSP Cordless Pet Dustbuster® Vacuum
+
+{
+  "price": "€212.27 inc VAT (€172.58 exc.vat)",
+  "description": "The Black & Decker SVJ520BFSP Cordless Pet Dustbuster® Vacuum with smart tech sensor technology, makes light work of floor and surface cleaning around the home. The beater bar has been designed with strong suction to pick up pet hair, debris and pet food from many surfaces. Easily removable beater bar makes cleaning and removing hair super simple. The Pet Dustbuster® also comes with the detachable motorised Pet Brush, which is designed to quickly pick up embedded pet hair trapped in carpets, hard floors and upholstery. The smart tech filter sensor detects when the filter becomes clogged and needs to be cleaned, helping you to maintain cleaning performance. The intelligent floor sensor increases suction on deep pile carpets and switches to eco mode for lighter tasks, extending battery run time. The smart tech battery sensor displays the remaining battery charge, so you’re not caught short of power whilst cleaning. Supplied with: 1 x On-Board Crevice Tool, 1 x Push-In Brush, 1 x Pet Specific Beater Bar",
+  "availability": "In Stock",
+  "product_name": "Black & Decker SVJ520BFSP Cordless Pet Dustbuster® Vacuum",
+  "specifications": [
+    "Input Power: 18V 2.0Ah Li-ion Built-In Battery",
+    "Suction Pressure: 30 Air Watts",
+    "Air Flow: Main Unit: 826L/min., Handheld: 984L/min.",
+    "Dustbowl Capacity: 500ml",
+    "Run Time: 25 Minutes",
+    "Charge Time: 5 Hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcc018n-xr-triple-source-inflator-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCC018N XR Triple Source Inflator 18V Bare Unit
+
+{
+  "price": "€167.53 inc VAT (€136.20 exc.vat)",
+  "description": "The DEWALT DCC018N XR Triple Source Inflator is a compact and lightweight, high-performance inflator with a durable easy-to-use design. The digital gauge allows you to preset desired 'psi' and pressure display for easy display and ease, whilst the automatic shut-off feature prevents over inflation. Ideal for tackling big tasks thanks to its high/low pressure output. The inflator is capable of inflating at a rate of up to 0.35L/min. @ 6.2 bar or 0.6L/min. @ 2 bar. Includes: 1 x 12V Car Power Adaptor and 3 x Accessory Bits. Bare Unit, No Battery or Charger Supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCC018N XR Triple Source Inflator 18V Bare Unit",
+  "specifications": [
+    "Units of measure: bar, kPa, psi",
+    "Output: up to 0.35L/min. @ 6.2 bar, 0.6L/min. @ 2 bar",
+    "Weight: 2.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-bi-sub-compact-inflator-12v-bare-unit.html-lllmstxt|>
+## Milwaukee M12 BI Sub Compact Inflator 12V Bare Unit
+
+{
+  "price": "€111.65 inc VAT (€90.77 exc.vat)",
+  "description": "The Milwaukee M12 BI Inflator has a compact, lightweight design for fast inflation of car, light truck and compact equipment tyres. Fitted with a high-efficiency motor and pump. Auto shut-off technology, inflates to a pre-selected pressure for highly accurate inflation. The anti-vibration stand is fitted with all-rubber feet to prevent movement whilst inflating. Easy to read, illuminated LCD display with a digital pressure and fuel gauge that displays remaining charge. To the rear of the inflator there is storage for the hose and nozzles. Flexible battery system: works with all Milwaukee® M12™ batteries. Supplied as a Bare Unit, No Battery or Charger supplied. Supplied with: 1 x Ball Inflation Needle, 1 x Presta Chuck, 1 x Inflator Nozzle and 1 x Schrader Chuck.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 BI Sub Compact Inflator 12V Bare Unit",
+  "specifications": [
+    "Max. Pressure: 8.27 bar /120 psi",
+    "Output: 24.9 L/min at 0 bar, 17.8 L/min at 2.41 bar",
+    "Gauge Accuracy: ± 3%",
+    "Duty Cycle: 50% (10 minutes on/10 minutes off)",
+    "Hose Length: 660mm",
+    "Dimensions: 190.5 x 165.1mm",
+    "Weight: 1.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dcl180z-handheld-vacuum-18v-bare-unit.html-lllmstxt|>
+## Makita DCL180Z Handheld Vacuum 18V Bare Unit
+
+{
+  "price": "€77.39 inc VAT (€62.92 exc.vat)",
+  "description": "The Makita DCL180 Handheld Vacuum offers a strong suction power and a large dust capacity, ideal for heavy-duty applications. It produces low noise levels making it ideal for quieter cleaning operations, especially suited to domestic and residential areas. It is fitted with an ergonomic rubber handle that helps to reduce fatigue during prolonged use. Bare Unit, No Battery or Charger",
+  "availability": "Out of Stock",
+  "product_name": "Makita DCL180Z Handheld Vacuum 18V Bare Unit",
+  "specifications": [
+    "Capacity: 0.65 litres",
+    "Max. Airflow: 1.3 m³/min.",
+    "Max. Sealed Suction: 3.6 kPa",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dvc350z-lxt-vacuum-cleaner-18v-bare-unit.html-lllmstxt|>
+## Makita DVC350Z LXT Vacuum Cleaner 18V Bare Unit
+
+{
+  "price": "€279.87 inc VAT (€227.54 exc.vat)",
+  "description": "The Makita DVC350Z LXT Vacuum Cleaner has a lightweight, portable design with a shoulder belt that can be easily slung over your shoulder for added mobility. Electronic 2-speed selection, allows for either high or low power settings. Large 3 litre capacity. Ideal for use in areas where a full sized dust extractor can't be used or when mains power cannot be found. Supplied as a Bare Unit, No Battery or Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DVC350Z LXT Vacuum Cleaner 18V Bare Unit",
+  "specifications": [
+    "Capacity: 3 litres",
+    "Max. Sealed Suction: 5.5 kPa",
+    "Max. Airflow: 3.4m³/min.",
+    "Weight: 2.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dvc261zx11-lxt-bl-backpack-vacuum-cleaner-36v-2-x-18v-bare-unit.html-lllmstxt|>
+## Makita DVC261ZX11 LXT BL Backpack Vacuum Cleaner 36V (2 x 18V) Bare Unit
+
+{
+  "price": "€482.07 inc VAT (€391.93 exc.vat)",
+  "description": "The Makita DVC261ZX11 LXT BL Backpack Vacuum Cleaner is powered by 2 x 18V Li-ion batteries in series (not supplied) to supply energy to the powerful 36V DC motor drive system. Equipped with HEPA filter, collects 99.97% of airborne particles, down to 0.03 microns for fine dust collection. Its easy-to-operate hand controller features an on/off switch and max./high/low power selection. There is also a belt clip, so it can be clipped onto a waist belt or harness. A mode memory function allows start-up in the same suction power as when you turned it off previously. Fitted with a comfortable, fully adjustable harness and waist belt that provides reduced strain, especially over long work periods.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DVC261ZX11 LXT BL Backpack Vacuum Cleaner 36V (2 x 18V) Bare Unit",
+  "specifications": [
+    "Suction Power (Max./High/Low): 105/55/30W",
+    "Dust Bag Capacity: Cloth 1.5 litre, Paper 2.0 litre",
+    "Max. Air Volume: 2.3m³/min.",
+    "Max. Sealed Suction: 11 kPa",
+    "Weight: 3.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv501ln-l-class-stick-vac-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCV501LN L-Class Stick Vac 18V Bare Unit
+
+{
+  "price": "€153.17 inc VAT (€124.53 exc.vat)",
+  "description": "The DEWALT DCV501L L-Class Stick Vac has a HEPA filter that captures 99.97% of particles larger than 0.3 microns. The filter can be washed/replaced, ensuring the it is kept clean and working at full efficiency over longer periods of time. A top positioned lock-on switch ensures maximum comfort in use over extended periods of time. It has a large 0.75 litre tank capacity for maximum pick up and less emptying. Cyclonic action ensures debris is directed away from the filter, ensuring maximum suction performance is maintained over longer periods of use. An onboard LED light illuminates the work area in poor light conditions for increased user productivity. Dust L-CLASS compliant, certified for use on EU job sites, ensuring maximum user protection when in use. Bare Unit, No Battery or Charger Supplied. Supplied with: 1 x Crevice Tool, 1 x Extension Wand, 1 x Floor Head, 1 x Flexi Hose, 1 x Gulper Tool & Brush, 1 x HEPA Filter and 1 x Soft Tool Bag.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCV501LN L-Class Stick Vac 18V Bare Unit",
+  "specifications": [
+    "Max Airflow: 1260 L/min",
+    "Capacity: 0.75 litres",
+    "Extraction Class: L-Class",
+    "Weight: 1.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black--decker-bhfea18d1-powerseries-stick-vacuum-18v-1-x-20ah-li-ion.html-lllmstxt|>
+## BLACK + DECKER BHFEA18D1 POWERSERIES+™ Stick Vacuum 18V 1 x 2.0Ah Li-ion
+
+{
+  "price": "€138.47 inc VAT (€112.58 exc.vat)",
+  "description": "The BLACK + DECKER BHFEA18D1 POWERSERIES+™ Stick Vacuum provides high-performance cordless cleaning. Designed to deliver 25% more pick up*, this multi-functional stick vac gives you up to 40 minutes of runtime with no loss of suction. Perfect for all floor types, its special FloorSense technology automatically adjusts the speed and power, increasing suction on thick carpets and rugs, and switching to ECO mode for lighter tasks and hard surfaces. This efficient system also helps save battery power for even longer cleaning time without interruption. Once the floor extension is detached, your POWERSERIES+™ is transformed into a powerful 2-in-1 hand vac, for effective cleaning of awkward and high-up places. Fitted with a simple-to-remove beater bar, makes this attachment easy to clean. It also comes with a handy crevice tool for tackling the tightest corners and narrowest places. A generous removable, easy-to-empty 500ml dust bowl means you’ll spend less time emptying, while the innovative cyclonic filter system separates large particles from fine debris, reducing clogging and maximising performance. The easy-to-clean filter also ensures constantly powerful cleaning. A built-in charge indicator will let you know when the vacuum cleaner needs recharging. Reaching every corner of the home, the BHFEA18D1 comes with a long, detachable floor extension. It also features a built-in LED light for maximum visibility in those harder-to-clean places, such as under the sofa or bed.",
+  "availability": "Out of Stock",
+  "product_name": "BLACK + DECKER BHFEA18D1 POWERSERIES+™ Stick Vacuum 18V 1 x 2.0Ah Li-ion",
+  "specifications": [
+    "Dust Bowl Capacity: 0.5 litres",
+    "Cleaning Width: 25cm",
+    "Max. Run Time: 40 Minutes",
+    "Charge Time: 5 Hours",
+    "Weight: 2.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black--decker-hlvc320b11-slim-dustbuster-12v.html-lllmstxt|>
+## BLACK + DECKER HLVC320B11 Slim Dustbuster® 12V
+
+{
+  "price": "€66.33 inc VAT (€53.93 exc.vat)",
+  "description": "The BLACK + DECKER HLVC320B11 Slim Dustbuster® has a compact and streamlined form factor which makes it especially easy to handle and helps to improve accessibility in tight spaces. Its integrated 2.0ah lithium ion battery will provide up to 15 minutes of continuous run time on a full charge. The retractable nozzle can be used in wide or narrow mode. Its dust bowl is easy to empty and clean, making it ideal for daily household cleaning. Supplied with a convenient charging base which also provides a handy place to store it, in between uses.",
+  "availability": "Out of Stock",
+  "product_name": "BLACK + DECKER HLVC320B11 Slim Dustbuster® 12V",
+  "specifications": [
+    "Input Power: Integrated 12V 2.0Ah Li-ion Battery.",
+    "Max. Runtime: 15 Minutes.",
+    "Dust Bowl Capacity: 0.13 litres."
+  ]
+}
+
+<|https://www.mydiy.ie/products/black--decker-pd1200av-dustbuster-flexi-car-vacuum-12v.html-lllmstxt|>
+## BLACK + DECKER PD1200AV Dustbuster® Flexi® Car Vacuum 12V
+
+{
+  "price": "€59.69 inc VAT (€48.53 exc.vat)",
+  "description": "The BLACK + DECKER PD1200AV Dustbuster® Flexi® Car Vacuum 12v features cyclonic action, this spins dirt away from the filter maintaining optimum suction power. The triple action filtration helps the vacuum perform better and last longer. Patented 'motor in the filter' technology allows the hand vac to be ultra compact. Its side empty door means all the dirt goes straight in the bin and your hands don't touch the dirt. The transparent bowl allows you to know when to empty the hand vac. There is also a filter cleaning wheel for easy and hands free cleaning of the filter. Comes with a combined crevice and soft brush (in one tool for ease of use) and a long crevice tool for tight areas such as underneath and in between car seats. The unique integrated hose allows you to reach all areas of your car where other hand vacs cannot. Fitted with a 5 metre cable, allows you to reach all areas of your car including the boot. There is also on board cable storage, so the cable can be easily wrapped around the car vac before storing it away. Supplied with a storage bag to keep your product and accessories all in one place.",
+  "availability": "In Stock",
+  "product_name": "BLACK + DECKER PD1200AV Dustbuster® Flexi® Car Vacuum 12V",
+  "specifications": [
+    "Input Power: 12V Adaptor with 5m Cable",
+    "Dust Bowl Capacity: 0.5 litre",
+    "Cable Length: 5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/black--decker-wdc215wa-wet-and-dry-dustbuster-hand-vacuum-72v.html-lllmstxt|>
+## BLACK + DECKER WDC215WA Wet & Dry Dustbuster® Hand Vacuum 7.2V
+
+{
+  "price": "€49.74 inc VAT (€40.44 exc.vat)",
+  "description": "The BLACK + DECKER WDC215WA Wet & Dry DUSTBUSTER® Hand Vacuum 7.2V is just what you need for those quick pick-ups, whether it’s debris or spilt liquid/juice. The lightweight compact design helps you clean even the most awkward places in no time. Its wide mouth can effortlessly scoop up large debris, such as pet food and cereals. Fitted with a translucent, bagless dirt bowl, so it's easy to see the dirt and know when to empty. The removable, washable dirt bowl and filters allow for a thorough, hygienic clean. Its charging base can be placed on a counter top or attached to the wall. Supplied with: 1 x Brush Tool, 1 x Crevice Tool and 1 x Squeegee Accessory.",
+  "availability": "In Stock",
+  "product_name": "BLACK + DECKER WDC215WA Wet & Dry Dustbuster® Hand Vacuum 7.2V",
+  "specifications": [
+    "Input Power: Built-in 7.2V Battery",
+    "Max. Runtime: 10 Minutes",
+    "Dust Bowl Capacity: 0.38 litres",
+    "Weight: 610g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-sv-18-li-solo-handstick-vacuum-cleaner-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-SV 18 Li-Solo Handstick Vacuum Cleaner 18V Bare Unit
+
+{
+  "price": "€125.16 inc VAT (€101.76 exc.vat)",
+  "description": "The Einhell TE-SV 18 Li-Solo Handstick Vacuum Cleaner provides uninterrupted movement without cables thanks to its interchangeable battery system and fast charging technology. With ECO and BOOST mode, the suction power can be adapted to any situation. It provides thorough cleaning in dark areas thanks to 4x spotlight LEDs. Easy to maneuver thanks to its head joint, which can be moved around two axes and rubberised wheels. Can be used both as a hand-held vacuum cleaner and for floor cleaning as an upright vacuum cleaner. The triple filter system with washable pleated filter and cyclone separator ensure clean exhaust air and efficient suction. Its dust collection container can be emptied easily without a bag at the push of a button. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This vacuum cleaner comes as a Bare Unit, NO battery or charger. Supplied with: 1 x Crevice Nozzle with Brush, 1 x Flex Crevice Nozzle and 1 x Wall Bracket for storing the device + accessories.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-SV 18 Li-Solo Handstick Vacuum Cleaner 18V Bare Unit",
+  "specifications": [
+    "Dust Bowl Capacity: 0.6 litres",
+    "Weight: 1.05kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-hv-1806-li-solo-power-x-change-handheld-vacuum-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-HV 18/06 Li-Solo Power X-Change Handheld Vacuum 18V Bare Unit
+
+{
+  "price": "€66.58 inc VAT (€54.13 exc.vat)",
+  "description": "The Einhell TE-HV 18/06 Li-Solo Power X-Change Handheld Vacuum is a compact, lightweight helper always at hand to remove dirt and annoying crumbs. Cleans every surface in a flash thanks to its three nozzles, which are included in the delivery. The floor nozzle is especially suitable for hard floors and smooth surfaces. The upholstery nozzle is suitable for upholstery, car seats and fabrics. With the long crevice nozzle (26cm), even hard-to-reach areas can be cleaned without much effort. With the help of the two included suction pipes (total length 70cm), the handy cordless hand-held vacuum cleaner can also be used as a floor vacuum cleaner comfortably in an upright position. The dust collector has a capacity of 600 millilitres and can be easily emptied at the touch of a button. The integrated wall bracket ensures space-saving storage. Thanks to its ergonomic design and softgrip surfaces, the 1kg lightweight hand-held vacuum cleaner lies comfortably and easily in the hand. The integrated dirt filter can be cleaned and reused under running water after it has dried completely.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-HV 18/06 Li-Solo Power X-Change Handheld Vacuum 18V Bare Unit",
+  "specifications": [
+    "Suction Power: 72 mbar",
+    "Collection Container Volume: 0.6 litre",
+    "Suction Pipe Length: 0.7m",
+    "Weight: 0.95kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-vacuum-cleaner-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Vacuum Cleaner 18V Bare Unit
+
+{
+  "price": "€66.26 inc VAT (€53.87 exc.vat)",
+  "description": "The Batavia MAXXPACK Vacuum Cleaner is lightweight and easy to carry. Ideal for multi-functional and fast cleaning. It has a powerful motor and superior suction. Fitted with an efficient, removable and easy to clean filter. Supplied with a range of nozzles. Supplied as a Bare Unit - No Battery or Charger. Suction Power: 4.1 kPa. Dust Bowl Capacity: 0.5 litre. Weight: 0.91kg.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Vacuum Cleaner 18V Bare Unit",
+  "specifications": [
+    "Suction Power: 4.1 kPa",
+    "Dust Bowl Capacity: 0.5 litre",
+    "Weight: 0.91kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-ash-vacuum-cleaner-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Ash Vacuum Cleaner 18V Bare Unit
+
+{
+  "price": "€72.40 inc VAT (€58.86 exc.vat)",
+  "description": "The Batavia MAXXPACK Ash Vacuum Cleaner allows for easy cleaning and emptying of fireplaces, log burners and BBQ's. It has a compact 12 litre stainless steel tank and an easy to change filter system. This cordless vacuum cleaner offers optimal freedom of movement. Bare Unit, No Battery or Charger Supplied. Supplied with: 1 x Fire Resistant Hose 1m, 1 x Aluminium Tube 23cm, 1 x Filter with Metal Mesh, 1 x Flat Aluminium Nozzle.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Ash Vacuum Cleaner 18V Bare Unit",
+  "specifications": [
+    "Max. Airflow: 11 litres/sec.",
+    "Max. Sealed Suction 9 kPa.",
+    "Air Power: 30 W.",
+    "Tank Capacity: Dry: 12 litres.",
+    "Sound Level: 75 dB(A).",
+    "Motor Watts: 140 W.",
+    "Suction Hose: 100cm.",
+    "Weight: 24kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gas-18v-1-professional-handheld-vacuum-cleaner-18v-bare-unit.html-lllmstxt|>
+## Bosch GAS 18V-1 Professional Handheld Vacuum Cleaner 18V Bare Unit
+
+{
+  "price": "€105.56 inc VAT (€85.82 exc.vat)",
+  "description": "The Bosch GAS 18V-1 Professional Handheld Vacuum Cleaner has 2 rotational airflows preventing the filters from clogging, providing persistent and uninterrupted suction power. Its optimised motor enables a longer run time, delivering 42 minutes of run time with an 18V 6.0Ah battery (NOT supplied). The combination of the ergonomic design and balanced shape provides extremely comfortable handling. Comes as a Bare Unit, NO battery or charger in a cardboard box. Supplied with: 1 x Crevice Nozzle, 2 x Suction Tubes, 1 x Flexible Extension Tube and 1 x Floor Nozzle. Compatible with all Bosch Professional 18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GAS 18V-1 Professional Handheld Vacuum Cleaner 18V Bare Unit",
+  "specifications": [
+    "Container Volume: 0.7 litre",
+    "Max. Airflow Rate (turbine): 10.0 L/sec",
+    "Max. Vacuum Pressure (turbine): 60 mbar",
+    "Filter Surface Area: 55cm²",
+    "Weight: 1.3kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gas-12v-professional-handheld-vacuum-12v-bare-unit.html-lllmstxt|>
+## Bosch GAS 12V Professional Handheld Vacuum 12V Bare Unit
+
+{
+  "price": "€94.75 inc VAT (€77.03 exc.vat)",
+  "description": "The Bosch GAS 12V Professional Handheld Vacuum for dry vacuuming. Its extremely compact design enables easy mobility and manoeuvrability, and fits even the smallest L-BOXX 102 (NOT SUPPLIED) for convenient transportation. Supplied with 1 x Flat-pleated Filter and 1 x Crevice Nozzle. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 12V batteries and chargers (Professional 12V System).",
+  "availability": "In Stock",
+  "product_name": "Bosch GAS 12V Professional Handheld Vacuum 12V Bare Unit",
+  "specifications": [
+    "Max. Airflow Rate (turbine): 15 l/s",
+    "Max. Vacuum Pressure (turbine): 45 mbar",
+    "Filter Surface Area: 408cm²",
+    "Container Volume: 0.35 litre",
+    "Weight: 0.7kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25303dh-cordless-dust-extraction-system-18-volt-bare-unit.html-lllmstxt|>
+## DEWALT D25303DH Cordless Dust Extraction System 18 Volt Bare Unit
+
+{
+  "price": "€204.18 inc VAT (€166.00 exc.vat)",
+  "description": "The DEWALT D25303DH Cordless Dust Extraction System is ideal for dust free drilling up to 16mm in diameter and is powered by an independent motor maintaining maximum hammer performance with no decrease in durability. The extractor continues to operate for two seconds after the hammer trigger is released to ensure any debris in the telescope or hose is completely removed. The high quality washable HEPA filter is capable of achieving 99.5% efficiency with dust particles as small as 0.3 microns. Maximum extraction is maintained at all times regardless of the hammer speed. It has a compact and low weight design that offers excellent comfort and near perfect balance. It also has a quick release for easy tool free assembly.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT D25303DH Cordless Dust Extraction System 18 Volt Bare Unit",
+  "specifications": [
+    "Fits: DCH273, DCH274, DCH253 and DCH254 (Type 2 Only)",
+    "Max. Drill Bit Diameter: 16mm",
+    "Max. Drill Bit Length: 160mm",
+    "Max. Drilling Depth: 125mm",
+    "Weight: 1.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/record-power-ac400-two-stage-air-filter-with-remote.html-lllmstxt|>
+## Record Power AC400 Two Stage Air Filter With Remote
+
+{
+  "price": "€287.33 inc VAT (€233.60 exc.vat)",
+  "description": "The Record Power AC400 Air Filter has a two stage filtration system with pocket filters to provide filtration down to 1 micron. It has 3 speeds and a timer function so you can leave the unit to run for a period after you have finished in the workshop. Both of which can be applied via the remote control. Useful for reducing nuisance dust, particularly in small workshops. Provides effective filtration for workshops up to 113m³. Input Power: 93 Watt (1/8 hp). Filtration Rate: 409 CFM/Min. Filtration: 1 Micron.",
+  "availability": "In Stock",
+  "product_name": "Record Power AC400 Two Stage Air Filter With Remote",
+  "specifications": [
+    "Input Power: 93 Watt (1/8 hp)",
+    "Filtration Rate: 409 CFM/Min",
+    "Filtration: 1 Micron"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kwb-dust-catcher-4-10mm.html-lllmstxt|>
+## KWB Dust Catcher 4-10mm
+
+{
+  "price": "€5.66 inc VAT (€4.60 exc.vat)",
+  "description": "The kwb Dust Catcher for dust-free collection of drilling waste while drilling masonry and concrete in walls or ceilings. Suitable for masonry drill bits Ø 4-10mm.",
+  "availability": "Out of Stock",
+  "product_name": "KWB Dust Catcher 4-10mm",
+  "specifications": [
+    "KWB045400",
+    "List: €9.02",
+    "You save €3.36",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwh051-chiselling-dust-extraction-system.html-lllmstxt|>
+## DEWALT DWH051 Chiselling Dust Extraction System
+
+{
+  "price": "€229.24 inc VAT (€186.37 exc.vat)",
+  "description": "The DEWALT DWH051 Chiselling Dust Extraction System is compatible with all DEWALT SDS Max / 19mm HEX combination hammers and breakers. Accepts any DEWALT pointed, flat chisels and bushing tools. Compatible with all professional dust extractors. It has an impact resistant and flexible body for maximum durability and long-life. Quick and easy to fit thanks to the quick-release system and tool-free connection. Supplied with 3 different length flexible nozzles for optimum dust extraction.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWH051 Chiselling Dust Extraction System",
+  "specifications": [
+    "Compatible with all DEWALT SDS Max / 19mm HEX combination hammers and breakers",
+    "Accepts any DEWALT pointed, flat chisels and bushing tools",
+    "Compatible with all professional dust extractors",
+    "Impact resistant and flexible body for maximum durability",
+    "Quick-release system and tool-free connection",
+    "Supplied with 3 different length flexible nozzles for optimum dust extraction"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwh052-demolition-hammer-dust-extraction-system.html-lllmstxt|>
+## DEWALT DWH052 Demolition Hammer Dust Extraction System
+
+{
+  "price": "€188.67 inc VAT (€153.39 exc.vat)",
+  "description": "The DEWALT DWH052 Demolition Hammer Dust Extraction System is compatible with DEWALT Demo Hammers D25980 and D25960. It will accept DEWALT pointed and flat chisels up to 1.25mm wide. It also fits the DW universal hose connector. Supplied with: 1 x Dust Extractor Base, 1 x Mounting Bracket, 1 x Mounting Bracket Strap.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWH052 Demolition Hammer Dust Extraction System",
+  "specifications": [
+    "Compatible with DEWALT Demo Hammers D25980 and D25960",
+    "Accepts DEWALT pointed and flat chisels up to 1.25mm wide",
+    "Fits the DW universal hose connector",
+    "Supplied with Dust Extractor Base, Mounting Bracket, and Mounting Bracket Strap"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwh161n-xr-universal-dust-extractor-18v-bare-unit.html-lllmstxt|>
+## DEWALT DWH161N XR Universal Dust Extractor 18V Bare Unit
+
+{
+  "price": "€235.58 inc VAT (€191.53 exc.vat)",
+  "description": "The DEWALT DWH161 XR Universal Dust Extractor has a high-quality, washable HEPA filter capable of achieving 99.5% efficiency to ensure a safe and clean working environment. Suitable for use with all SDS-Plus rotary hammers and many other tools. It has a lightweight, compact design and is fitted with a adjustable, padded shoulder strap for easy transportation around the work site. The extractor continues to operate for two seconds after the tool trigger is released to ensure any debris is completely removed from the hose (when paired with Wireless Tool Control). Wireless Tool Control compatible. This allows the extractor to be wirelessly paired with another Wireless Tool Control enabled device for automatic activation and shut down via the app. Bare Unit, No Battery or Charger Supplied with: 1 x 1m Flexible Anti-Static Hose, 1 x Stepped Hose Adaptor, 1 x Adjustable Shoulder Strap, 1 x Crevice Tool and 1 x Belt Hook.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWH161N XR Universal Dust Extractor 18V Bare Unit",
+  "specifications": [
+    "Max. Airflow: 9.1 l/sec",
+    "Tank Capacity: 0.21 litre",
+    "Hose Length: 1m",
+    "Hose Diameter: 31mm",
+    "Weight: 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-d25304dh-integrated-hammer-drill-dust-extractor.html-lllmstxt|>
+## DEWALT D25304DH Integrated Hammer Drill Dust Extractor
+
+{
+  "price": "€209.41 inc VAT (€170.25 exc.vat)",
+  "description": "Fits the DCH3333, DCH334 (54V XR FlexVolt) and D25333K, D25334K Corded Hammer Drills. For bits up to 26mm in diameter. No motor, powered by hammer, reduces weight. HEPA filter with easy to use manual filter cleaning mechanism.",
+  "availability": "In Stock",
+  "product_name": "DEWALT D25304DH Integrated Hammer Drill Dust Extractor",
+  "specifications": [
+    "Fits DCH3333, DCH334 (54V XR FlexVolt) and D25333K, D25334K Corded Hammer Drills",
+    "For bits up to 26mm in diameter",
+    "No motor, powered by hammer, reduces weight",
+    "HEPA filter with easy to use manual filter cleaning mechanism"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-vc1310l1-110v-dust-extractor.html-lllmstxt|>
+## Makita Vc1310L/1 110V Dust Extractor
+
+{
+  "price": "€443.38 inc VAT (€360.47 exc.vat)",
+  "description": "Makita Vc1310L/1 110V Dust Extractor",
+  "availability": "Out of Stock",
+  "product_name": "Makita Vc1310L/1 110V Dust Extractor",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-vc4210mx-240v-42l-m-class-dust-extractor.html-lllmstxt|>
+## Makita Vc4210Mx 240V 42L M Class Dust Extractor
+
+{
+  "price": "€943.74 inc VAT (€767.27 exc.vat)",
+  "description": "Vc4210Mx 240V 42L M Class Dust Extractor",
+  "availability": "Out of Stock",
+  "product_name": "Makita Vc4210Mx 240V 42L M Class Dust Extractor",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-vc006gmt21-xgt-80vmax-m-class-dust-extractor-80v-2-x-50ah-li-ion.html-lllmstxt|>
+## Makita VC006GMT21 XGT 80Vmax M-Class Dust Extractor 80V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€1,914.59 inc VAT (€1,556.58 exc.vat)",
+  "description": "The Makita VC006GM XGT 80Vmax M-Class Dust Extractor is powered by two 40Vmax XGT Li-Ion batteries in series (80Vmax). Removes 99.9% of dust with a Limit Value for occupational exposure > 0.1 mg/m³. It is suitable for processes involving mica, china clay, gypsum, wood dust (softwood and hardwood) and silica dust. A variable speed and hose selection dial provide added control. The GYUPPA automatic self-cleaning twin filter removes dust from pre-filters during operation. Its durable plastic tank is fitted with a water drain for wet/dry use. A MAKPAC case can be attached to the top of the tank for easy movement. The battery protection circuit protects against overloading, over-discharging and over-heating. There is also a low air flow warning buzzer and a water level sensor. Compatible with the Auto-Start Wireless System (AWS), connects to compatible dust extractors with Bluetooth®. The dust extractor automatically runs while the switch is on.",
+  "availability": "In Stock",
+  "product_name": "Makita VC006GMT21 XGT 80Vmax M-Class Dust Extractor 80V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Tank Capacity: Dust 40 litre, Liquid 30 litre",
+    "Air Volume: 2.0 - 3.7 m³/min",
+    "Max. Sealed Suction: 180 mbar",
+    "Weight: 17.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gde-18v-26-d-professional-dust-extractor.html-lllmstxt|>
+## Bosch GDE 18V-26 D Professional Dust Extractor
+
+{
+  "price": "€113.30 inc VAT (€92.11 exc.vat)",
+  "description": "The Bosch GDE 18V-26 D Professional Dust Extractor enables dustless mobile work for convenient and clean results in a variety of drilling applications. It can be retrofitted for use with many popular corded and cordless heavy-duty Bosch Professional rotary hammers. Supplied with four interchangeable dust eyes for fixed or quick-change chucks and drill bits up to 26mm in diameter, as well as an extension for bits up to 265mm in length.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GDE 18V-26 D Professional Dust Extractor",
+  "specifications": [
+    "Max. Drilling Diameter: 26mm",
+    "Max. Drilling Depth: 100mm",
+    "Max. Drill Bit Length: 265mm",
+    "Weight: 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gde-162-professional-sds-dust-guard.html-lllmstxt|>
+## Bosch GDE 162 Professional SDS Dust Guard
+
+{
+  "price": "€67.13 inc VAT (€54.58 exc.vat)",
+  "description": "The Bosch GDE 162 Professional SDS Dust Guard enables clean and tidy work, reduces cleaning times, and improves user´s safety protection. For added convenience and flexibility, it can be quickly and easily attached directly onto walls, can be adapted for various working positions, and is also suitable for wet use. It is designed for use with the Bosch Click & Clean System.",
+  "availability": "In Stock",
+  "product_name": "Bosch GDE 162 Professional SDS Dust Guard",
+  "specifications": [
+    "Max. Drilling Diameter: 162mm",
+    "Weight: 0.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gde-125-ea-t-professional-grinder-dust-extraction.html-lllmstxt|>
+## Bosch GDE 125 EA-T Professional Grinder Dust Extraction
+
+{
+  "price": "€80.48 inc VAT (€65.43 exc.vat)",
+  "description": "Bosch GDE 125 EA-T Professional Grinder Dust Extraction for Bosch Professional angle grinders with 125mm disc diameter and protective guard with screw cap. It can be mounted in two easy steps without disassembling the disc, or the protective guard, for maximum convenience. The dust guard's shape is optimised for clean and tidy operation. It also has an adjustable cutting depth for work requiring precision. Compatible with: GWX ...-125, GWX 18V -... (Ø 125mm), GWS 9-125, GWS 11-125 – GWS 19-125, GWS 1000 – GWS 1400, GWS 18V-10 (Ø 125mm), GWS 18V-15 (Ø 125mm) and GWS 18V-125. It's also compatible with the Bosch Click & Clean dust extraction system.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GDE 125 EA-T Professional Grinder Dust Extraction",
+  "specifications": [
+    "Max. Cutting Depth: 25mm",
+    "Weight: 0.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gde-115125-fc-t-professional-grinder-dust-extraction.html-lllmstxt|>
+## Bosch GDE 115/125 FC-T Professional Grinder Dust Extraction
+
+{
+  "price": "€95.37 inc VAT (€77.54 exc.vat)",
+  "description": "Bosch GDE 115/125 FC-T Professional Grinder Dust Extraction for Bosch Professional angle grinders with a disc diameter of 115/125mm and tool-free adjustable protective guard. Its full-cover shape provides enhanced dust extraction for virtually dust-free work. The guard is attached directly to the angle grinder for easy handling. It also has an adjustable cutting depth and integrated wheels for work requiring precision.",
+  "availability": "In Stock",
+  "product_name": "Bosch GDE 115/125 FC-T Professional Grinder Dust Extraction",
+  "specifications": [
+    "Max. Cutting Depth: 20mm (115mm Ø) / 25mm (125mm Ø)",
+    "Weight: 0.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gde-18v-16-professional-dust-extractor.html-lllmstxt|>
+## Bosch GDE 18V-16 Professional Dust Extractor
+
+{
+  "price": "€156.44 inc VAT (€127.19 exc.vat)",
+  "description": "Bosch GDE 18V-16 Professional Dust Extractor with a HEPA filter for optimised dust collection, removes 99.97% of dust particles larger than 0.3 micrometres. Its Auto Power function turns on when drilling and shuts off two seconds after releasing the drill trigger. Bit Target simplifies alignment of the drill bit and a transparent dust box shows when you need to empty it. Compatible with: GBH 18V-24 C, GBH 18V-26, GBH 18V-26 F, GBH 18V-28 C, GBH 18V-28 CF.",
+  "availability": "In Stock",
+  "product_name": "Bosch GDE 18V-16 Professional Dust Extractor",
+  "specifications": [
+    "Max. Drilling Diameter: 16mm",
+    "Max. Drilling Depth: 100mm",
+    "Weight: 1.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-professional-dust-attachment.html-lllmstxt|>
+## Bosch Professional Dust Attachment
+
+{
+  "price": "€14.90 inc VAT (€12.11 exc.vat)",
+  "description": "Bosch Professional Dust Attachment for dust-free drilling. Easy to install, simply clip into place. Highly efficient when drilling vertically or horizontally. Compatible with 2-4kg and 18V or 36V Bosch SDS-Plus rotary hammers.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch Professional Dust Attachment",
+  "specifications": [
+    "Max. Drilling Diameter: 16mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dust-extraction-connection-kit.html-lllmstxt|>
+## DEWALT Dust Extraction Connection Kit
+
+{
+  "price": "€37.53 inc VAT (€30.51 exc.vat)",
+  "description": "Dust Extraction Connection Kit",
+  "availability": "In Stock",
+  "product_name": "DEWALT Dust Extraction Connection Kit",
+  "specifications": [
+    "Model: DEWDWV9210",
+    "List Price: €75.60",
+    "You save: €38.07",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Free delivery for orders over €150 within Ireland",
+    "Delivery charges for orders under €150: €8.99",
+    "International delivery charges based on weight"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-vce-35l-110v-dust-extractor-nla.html-lllmstxt|>
+## Flex Power Tools Vce 35L 110V Dust Extractor Nla
+
+{
+  "price": "€451.57 inc VAT (€367.13 exc.vat)",
+  "description": "Flex Power Tools Vce 35L 110V Dust Extractor Nla",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools Vce 35L 110V Dust Extractor Nla",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-122269-dust-bag.html-lllmstxt|>
+## Makita 122269 Dust Bag
+
+{
+  "price": "€49.00 inc VAT (€39.84 exc.vat)",
+  "description": "For the Makita 1901 Planer. Collects shaving and dust particles. Maintains the health of the operator and a clean environment. Complete with fastener.",
+  "availability": "Out of Stock",
+  "product_name": "Makita 122269 Dust Bag",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-122321-dust-bag.html-lllmstxt|>
+## Makita 122321 Dust Bag
+
+{
+  "price": "€19.48 inc VAT (€15.84 exc.vat)",
+  "description": "Compatible with the Makita 2400B Mitre Saw and 4014B Blower. Collects shaving and dust particles. Maintains the health of the operator and a clean environment. Complete with fastener.",
+  "availability": "Out of Stock",
+  "product_name": "Makita 122321 Dust Bag",
+  "specifications": [
+    "Compatible with Makita 2400B Mitre Saw",
+    "Compatible with Makita 4014B Blower",
+    "Collects shaving and dust particles",
+    "Maintains health of the operator",
+    "Complete with fastener"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-123203-dust-bag.html-lllmstxt|>
+## Makita 123203 Dust Bag
+
+{
+  "price": "€28.51 inc VAT (€23.18 exc.vat)",
+  "description": "Compatible with the Makita 9035KB Orbital Sander and PC1100 Concrete Planer. Collects shaving and dust particles. Maintains the health of the operator and a clean environment. Complete with fastener.",
+  "availability": "In Stock",
+  "product_name": "Makita 123203 Dust Bag",
+  "specifications": [
+    "Compatible with Makita 9035KB Orbital Sander",
+    "Compatible with PC1100 Concrete Planer",
+    "Collects shaving and dust particles",
+    "Maintains health of operator and clean environment",
+    "Complete with fastener"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-151517-dust-bag.html-lllmstxt|>
+## Makita 151517 Dust Bag
+
+{
+  "price": "€13.28 inc VAT (€10.80 exc.vat)",
+  "description": "For the Makita BO5021 and 6030 Random Orbital Sanders. Collects shaving and dust particles. Maintains the health of the operator and a clean environment. Complete with fastener.",
+  "availability": "In Stock",
+  "product_name": "Makita 151517 Dust Bag",
+  "specifications": [
+    "MAK151517 : €13.28",
+    "Collects shaving and dust particles",
+    "Maintains the health of the operator and a clean environment",
+    "Complete with fastener"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-152122-3-dust-bag-assembly-joint.html-lllmstxt|>
+## Makita 152122-3 Dust Bag Assembly Joint
+
+{
+  "price": "€8.41 inc VAT (€6.84 exc.vat)",
+  "description": "MAK152122 : €8.41",
+  "availability": "Out of Stock",
+  "product_name": "Makita 152122-3 Dust Bag Assembly Joint",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-152456-4-dust-bag.html-lllmstxt|>
+## Makita 152456-4 Dust Bag
+
+{
+  "price": "€39.21 inc VAT (€31.88 exc.vat)",
+  "description": "MAK152456 : €39.21",
+  "availability": "Out of Stock",
+  "product_name": "Makita 152456-4 Dust Bag",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee",
+    "No quibble returns"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hosejoint---hose-192278-0.html-lllmstxt|>
+## Makita Hose/Joint - Hose 192278-0
+
+{
+  "price": "€56.42 inc VAT (€45.87 exc.vat)",
+  "description": "Hose/Joint - Hose 192278-0",
+  "availability": "In Stock",
+  "product_name": "Makita Hose/Joint - Hose 192278-0",
+  "specifications": [
+    "MAK1922780 : €56.42",
+    "List: €62.41",
+    "You save €5.99"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-filter-bag-set.html-lllmstxt|>
+## Makita Filter Bag Set
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "Filter Bag Set",
+  "availability": "Out of Stock",
+  "product_name": "Makita Filter Bag Set",
+  "specifications": [
+    "MAK195558 : €39.99",
+    "List: €44.23",
+    "You save €4.24"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-80488-universal-drill-dust-extraction-hose-adaptor.html-lllmstxt|>
+## Makita P-80488 Universal Drill Dust Extraction Hose Adaptor
+
+{
+  "price": "€4.16 inc VAT (€3.38 exc.vat)",
+  "description": "Suitable for use with drill bits up to 25mm in diameter. Can be fixed to horizontal or vertical surfaces via suction once the machine is switched on. Any dust created during drilling is sucked straight through the hose into the vacuum.",
+  "availability": "Out of Stock",
+  "product_name": "Makita P-80488 Universal Drill Dust Extraction Hose Adaptor",
+  "specifications": [
+    "Suitable for drill bits up to 25mm in diameter",
+    "Can be fixed to horizontal or vertical surfaces via suction",
+    "Sucks dust created during drilling into the vacuum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-196569-1-dust-extractor-attachment-set.html-lllmstxt|>
+## Makita 196569-1 Dust Extractor Attachment Set
+
+{
+  "price": "€84.00 inc VAT (€68.29 exc.vat)",
+  "description": "Fits: HM0870C, HM0871C, HM1101C, HM1111C, HM1203C, HM1213C, HM1214C, HR3541FC, HR3540C, HR4001C, HR4011C, HR4511C, HR5211C. Contents: Dust Cover, Bar/D Handle Holder, Hose Cord Clip for Ø28mm hose. NO hose supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita 196569-1 Dust Extractor Attachment Set",
+  "specifications": [
+    "Fits various Makita models",
+    "Includes Dust Cover, Bar/D Handle Holder, Hose Cord Clip",
+    "No hose supplied"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-196845-3-dust-collecting-guard-125mm.html-lllmstxt|>
+## Makita 196845-3 Dust Collecting Guard 125mm
+
+{
+  "price": "€77.91 inc VAT (€63.34 exc.vat)",
+  "description": "Designed to work with Makita 125mm SJSII Angle Grinder. Easily adjustable depth setting for quick changes. Dust port can be adjusted 360° for added versatility. Clear viewing window for improved visibility. Plunge feature allows for maximum material removal.",
+  "availability": "Out of Stock",
+  "product_name": "Makita 196845-3 Dust Collecting Guard 125mm",
+  "specifications": [
+    "Designed for Makita 125mm SJSII Angle Grinder",
+    "Adjustable depth setting",
+    "360° adjustable dust port",
+    "Clear viewing window",
+    "Plunge feature for maximum material removal"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-196861-5-dust-extractor-attachment-set.html-lllmstxt|>
+## Makita 196861-5 Dust Extractor Attachment Set
+
+{
+  "price": "€13.90 inc VAT (€11.30 exc.vat)",
+  "description": "For the Makita HR5212C Rotary Demolition Hammer. Reduces dust/particles produced during chiselling or drilling. Includes: 1 x dust cover, 2 x dust cover extensions, 2 x plastic couplings, 2 x bellow connectors, 1 x hose connector, 1 x hose holder, 1 x depth stop, 1 x depth gauge extension.",
+  "availability": "In Stock",
+  "product_name": "Makita 196861-5 Dust Extractor Attachment Set",
+  "specifications": [
+    "For the Makita HR5212C Rotary Demolition Hammer",
+    "Reduces dust/particles produced during chiselling or drilling",
+    "Includes: 1 x dust cover, 2 x dust cover extensions, 2 x plastic couplings, 2 x bellow connectors, 1 x hose connector, 1 x hose holder, 1 x depth stop, 1 x depth gauge extension"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-197148-8-dust-extractor-attachment-set.html-lllmstxt|>
+## Makita 197148-8 Dust Extractor Attachment Set
+
+{
+  "price": "€85.83 inc VAT (€69.78 exc.vat)",
+  "description": "MAK1971488 : €85.83",
+  "availability": "In Stock",
+  "product_name": "Makita 197148-8 Dust Extractor Attachment Set",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-197168-2-dust-extractor-attachment-set-no-hose.html-lllmstxt|>
+## Makita 197168-2 Dust Extractor Attachment Set (No Hose)
+
+{
+  "price": "€76.90 inc VAT (€62.52 exc.vat)",
+  "description": "For the Makita HM1801/802/810/812 Electric Breakers. Removes 95% of dust particles produced during operation. Compatible with Ø28mm hoses of Makita vacuum cleaners. Dust cover position can be easily changed. NO hose supplied.",
+  "availability": "In Stock",
+  "product_name": "Makita 197168-2 Dust Extractor Attachment Set (No Hose)",
+  "specifications": [
+    "Removes 95% of dust particles during operation",
+    "Compatible with Ø28mm hoses of Makita vacuum cleaners",
+    "Dust cover position can be easily changed",
+    "No hose supplied"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-199142-6-dust-extractor-attachment-set.html-lllmstxt|>
+## Makita 199142-6 Dust Extractor Attachment Set
+
+{
+  "price": "€68.66 inc VAT (€55.82 exc.vat)",
+  "description": "MAK1991426 : €68.66",
+  "availability": "In Stock",
+  "product_name": "Makita 199142-6 Dust Extractor Attachment Set",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-199144-2-dust-extractor-attachment-set.html-lllmstxt|>
+## Makita 199144-2 Dust Extractor Attachment Set
+
+{
+  "price": "€79.97 inc VAT (€65.02 exc.vat)",
+  "description": "MAK1991442 : €79.97",
+  "availability": "In Stock",
+  "product_name": "Makita 199144-2 Dust Extractor Attachment Set",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gde-max-professional-dust-extraction.html-lllmstxt|>
+## Bosch GDE Max Professional Dust Extraction
+
+{
+  "price": "€226.66 inc VAT (€184.28 exc.vat)",
+  "description": "The Bosch GDE Max Professional Dust Extraction is perfect when chiseling with SDS max hammers. It comes with a handy attachment for SDS max bushing tools. Working with the GDE max Professional is highly convenient as it gives you the freedom to work in various working positions and allows chisel exchanges without dismounting the dust extraction. Compatible with nearly all SDS max demolition and rotary hammers.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GDE Max Professional Dust Extraction",
+  "specifications": [
+    "Compatible with nearly all SDS max demolition and rotary hammers",
+    "Convenient for chiseling with SDS max hammers",
+    "Allows chisel exchanges without dismounting the dust extraction"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-powertool-accessories-pro-dust-extraction-hood-115125mm.html-lllmstxt|>
+## Bosch Powertool Accessories PRO Dust Extraction Hood 115/125mm
+
+{
+  "price": "€45.82 inc VAT (€37.25 exc.vat)",
+  "description": "The Bosch PRO Dust Extraction Hood for small angle grinders helps you get rid of the dust whenever you need to remove paint, lacquer, or glue from wood, fiberglass, and mortar.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch Powertool Accessories PRO Dust Extraction Hood 115/125mm",
+  "specifications": [
+    "Tool Compatibility: GWS 10-125, GWS 10-125 Z, GWS 11-125, GWS 11-125 P, GWS 12-125 CI, GWS 12-125 CIE, GWS 12-125 CIEP, GWS 12-125 CIEPX, GWS 12-125 CIEX, GWS 12-125 CIP, GWS 12-125 CIPX, GWS 12-125 CIX, GWS 13-125 CI, GWS 13-125 CIE, GWS 13-125 CIEX, GWS 13-125 CIX, GWS 14-125 CIT, GWS 14-125 S, GWS 14-150 CI, GWS 15-125 CI, GWS 15-125 CIEH, GWS 15-125 CIEP, GWS 15-125 CIEPX, GWS 15-125 CIEX, GWS 15-125 CIH, GWS 15-125 CIP, GWS 15-125 CIPX, GWS 15-125 CISTH, GWS 15-125 CIT, GWS 15-125 CITH, GWS 15-125 CIX, GWS 15-125 INOX, GWS 15-150 CI, GWS 15-150 CIH, GWS 15-150 CIP, GWS 17-125 CI, GWS 17-125 CIE, GWS 17-125 CIEX, GWS 17-125 CIT, GWS 17-125 CIX, GWS 17-125 INOX, GWS 17-150 CI, GWS 18-125 L, GWS 18-125 L INOX, GWS 18-125 PL, GWS 18-125 SL, GWS 18-125 SPL, GWS 18-150 L, GWS 18-150 PL, GWS 18V-10 (100 mm), GWS 18V-10 (115 mm), GWS 18V-10 (125 mm), GWS 18V-10 C (115 mm), GWS 18V-10 C (125 mm), GWS 18V-10 PC (125 mm), GWS 18V-10 PSC (125 mm), GWS 18V-10 SC (100 mm), GWS 18V-10 SC (115 mm), GWS 18V-10 SC (125 mm), GWS 18V-10 SC (150 mm), GWS 18V-15 C (125 mm), GWS 18V-15 SC (125 mm), GWS 18V-15 SC (150mm), GWS 18V-115 C, GWS 18V-115 SC, GWS 18V-125 C, GWS 18V-125 PC, GWS 18V-125 PSC, GWS 18V-125 SC, GWS 18V-150 SC, GWS 19-125 CI, GWS 19-125 CIE, GWS 19-125 CIST, GWS 19-150 CI, GWS 1000 (115 mm), GWS 1000 (125 mm), GWS 1400 (125 mm), GWS 1400 C (125 mm), GWX 9-115 S, GWX 9-125 S, GWX 10-125, GWX 13-125, GWX 13-125 S, GWX 14-125, GWX 15-125 PS, GWX 17-125, GWX 17-125 S, GWX 17-125 T, GWX 17-150, GWX 18V-7 (115 mm), GWX 18V-7 (125 mm), GWX 18V-8 (125 mm), GWX 18V-10 (125 mm), GWX 18V-10 C (125 mm), GWX 18V-10 PC (125 mm), GWX 18V-10 PSC (125 mm), GWX 18V-10 SC (125 mm), GWX 18V-15 C (125 mm), GWX 18V-15 SC (125 mm), GWX 19-125 S, GWX 750-115, GWX 750-125, GWX 750-125 S Professional 115; 125."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hose-connection-sleeve-36mm.html-lllmstxt|>
+## Makita Hose Connection Sleeve 36Mm
+
+{
+  "price": "€44.58 inc VAT (€36.24 exc.vat)",
+  "description": "Hose Connection Sleeve 36Mm",
+  "availability": "Out of Stock",
+  "product_name": "Makita Hose Connection Sleeve 36Mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwv9316-anti-static-dust-extractor-hose-4m.html-lllmstxt|>
+## DEWALT DWV9316 Anti-static Dust Extractor Hose 4m
+
+{
+  "price": "€109.88 inc VAT (€89.33 exc.vat)",
+  "description": "The DEWALT DWV9316 Anti-static Dust Extractor Hose has been designed for use with the DCV586M, DWV901L and DWV902M Dust Extractors. The hose is supplied with an AirLock compatible adaptor.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWV9316 Anti-static Dust Extractor Hose 4m",
+  "specifications": [
+    "Length: 4m",
+    "Diameter: 35mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv5861-m-class-filters-for-dcv586m-dust-extractor-pack-2.html-lllmstxt|>
+## DEWALT DCV5861 M-Class Filters for DCV586M Dust Extractor (Pack 2)
+
+{
+  "price": "€38.39 inc VAT (€31.21 exc.vat)",
+  "description": "The DEWALT Replacement DCV5861 M-Class Filters for use with the DEWALT DCV586M XR FlexVolt Dust Extractor. The filters can be used both within wet and dry applications. The pack contains 2 replacement filters. M-Class certified to meet EU legislation, HEPA certified.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCV5861 M-Class Filters for DCV586M Dust Extractor (Pack 2)",
+  "specifications": [
+    "M-Class certified to meet EU legislation",
+    "HEPA certified",
+    "Pack contains 2 replacement filters"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv9401-replacement-paper-bags-for-dcv586m-dust-extractor-pack-5.html-lllmstxt|>
+## DEWALT DCV9401 Replacement Paper Bags for DCV586M Dust Extractor (Pack 5)
+
+{
+  "price": "€41.55 inc VAT (€33.78 exc.vat)",
+  "description": "DEWALT DCV9401 Replacement Paper Bags have been designed for use with the DEWALT DCV586M XR FlexVolt Dust Extractor. Supplied as a pack of 5.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCV9401 Replacement Paper Bags for DCV586M Dust Extractor (Pack 5)",
+  "specifications": [
+    "Pack of 5",
+    "Designed for DEWALT DCV586M XR FlexVolt Dust Extractor"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv9402-replacement-fleece-bags-for-dcv586m-dust-extractor-pack-5.html-lllmstxt|>
+## DEWALT DCV9402 Replacement Fleece Bags for DCV586M Dust Extractor (Pack 5)
+
+{
+  "price": "€49.78 inc VAT (€40.47 exc.vat)",
+  "description": "The DEWALT DCV9402 Replacement Fleece Bags have been designed for use with the DEWALT DCV586M XR FlexVolt Dust Extractor. Supplied as a pack of 5.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DCV9402 Replacement Fleece Bags for DCV586M Dust Extractor (Pack 5)",
+  "specifications": [
+    "Pack of 5 fleece bags",
+    "Designed for DEWALT DCV586M XR FlexVolt Dust Extractor",
+    "WEEE Recycling information available"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwv9400-disposable-plastic-tank-liner-pack-5.html-lllmstxt|>
+## DEWALT DWV9400 Disposable Plastic Tank Liner (Pack 5)
+
+{
+  "price": "€33.16 inc VAT (€26.96 exc.vat)",
+  "description": "DEWALT DWV9400 Disposable Plastic Tank Liners allow users to quickly and efficiently empty the tank without releasing harmful dust to the environment. Suitable for D27901/ D27902. Supplied as a pack of 5.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWV9400 Disposable Plastic Tank Liner (Pack 5)",
+  "specifications": [
+    "Pack of 5",
+    "Suitable for D27901/ D27902",
+    "Allows for efficient tank emptying without dust release"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwv9401-paper-dust-bag-pack-5.html-lllmstxt|>
+## DEWALT DWV9401 Paper Dust Bag (Pack 5)
+
+{
+  "price": "€33.16 inc VAT (€26.96 exc.vat)",
+  "description": "DEWALT DWV9401 Paper Dust Bags allow users to quickly and efficiently empty the tank without releasing harmful dust to the environment. Suitable for D27901/ D27902. Supplied as a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DWV9401 Paper Dust Bag (Pack 5)",
+  "specifications": [
+    "Pack of 5",
+    "Suitable for D27901/ D27902",
+    "Allows efficient emptying of the tank without releasing harmful dust"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwv9402-fleece-dust-bag-pack-5.html-lllmstxt|>
+## DEWALT DWV9402 Fleece Dust Bag (Pack 5)
+
+{
+  "price": "€43.87 inc VAT (€35.67 exc.vat)",
+  "description": "DEWALT DWV9402 Fleece Dust Bags allow users to quickly and efficiently empty the tank without releasing harmful dust to the environment. Suitable for D27901/ D27902. Supplied as a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DWV9402 Fleece Dust Bag (Pack 5)",
+  "specifications": [
+    "Pack of 5",
+    "Suitable for D27901/ D27902",
+    "Allows efficient emptying of the tank without releasing harmful dust"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-sad-c-d3627-asnl-clip-adapter.html-lllmstxt|>
+## Flex Power Tools SAD-C D36/27 AS/NL Clip Adapter
+
+{
+  "price": "€15.68 inc VAT (€12.75 exc.vat)",
+  "description": "For connecting a FLEX power tool to extraction units from other manufacturers. Suitable for hoses inside Ø 27mm, outside Ø 36mm. With auxiliary air adjustment.",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools SAD-C D36/27 AS/NL Clip Adapter",
+  "specifications": [
+    "FLX408360 : €15.68",
+    "List: €23.12",
+    "You save €7.44",
+    "Suitable for hoses inside Ø 27mm, outside Ø 36mm",
+    "With auxiliary air adjustment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p70203-paper-bags-pack-of-5.html-lllmstxt|>
+## Makita P70203 Paper Bags Pack of 5
+
+{
+  "price": "€51.83 inc VAT (€42.14 exc.vat)",
+  "description": "For the Makita 447L & 447M Wet & Dry Vacuum Extractors",
+  "availability": "In Stock",
+  "product_name": "Makita P70203 Paper Bags Pack of 5",
+  "specifications": [
+    "Pack of 5 paper bags",
+    "Compatible with Makita 447L & 447M Wet & Dry Vacuum Extractors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-70219-filter-cartridge.html-lllmstxt|>
+## Makita P-70219 Filter Cartridge
+
+{
+  "price": "€48.62 inc VAT (€39.53 exc.vat)",
+  "description": "For use with the Makita 446L, VC2010L, VC2511 & VC3511L Dust Extractors",
+  "availability": "In Stock",
+  "product_name": "Makita P-70219 Filter Cartridge",
+  "specifications": [
+    "MAKP70219 : €48.62",
+    "List: €53.79",
+    "You save €5.17",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-70297-dust-bags-pack-of-5.html-lllmstxt|>
+## Makita P-70297 Dust Bags Pack of 5
+
+{
+  "price": "€63.11 inc VAT (€51.31 exc.vat)",
+  "description": "For the Makita 446L, VC2010L, VC2511, VC3511L & VC2012L Dust Extractors",
+  "availability": "In Stock",
+  "product_name": "Makita P-70297 Dust Bags Pack of 5",
+  "specifications": [
+    "Pack of 5 dust bags",
+    "Compatible with Makita 446L, VC2010L, VC2511, VC3511L & VC2012L Dust Extractors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-72899-dust-bag-pack-of-5.html-lllmstxt|>
+## Makita P-72899 Dust Bag Pack of 5
+
+{
+  "price": "€54.18 inc VAT (€44.05 exc.vat)",
+  "description": "For the Makita VC2010L, VC2511, VC2512L, VC2012L, VC3011L & 466L Dust Extractors",
+  "availability": "In Stock",
+  "product_name": "Makita P-72899 Dust Bag Pack of 5",
+  "specifications": [
+    "Pack of 5 dust bags",
+    "Compatible with Makita VC2010L, VC2511, VC2512L, VC2012L, VC3011L & 466L Dust Extractors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-suction-hose-32-x-35.html-lllmstxt|>
+## Makita Suction Hose 32 X 3.5
+
+{
+  "price": "€103.66 inc VAT (€84.28 exc.vat)",
+  "description": "Suction Hose 32 X 3.5",
+  "availability": "In Stock",
+  "product_name": "Makita Suction Hose 32 X 3.5",
+  "specifications": [
+    "MAKP72914 : €103.66",
+    "List: €114.66",
+    "You save €11.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-72936-wkz-type-vacuum-adaptor.html-lllmstxt|>
+## Makita P-72936 WKZ Type Vacuum Adaptor
+
+{
+  "price": "€15.99 inc VAT (€13.00 exc.vat)",
+  "description": "For the Makita VC2010L Dust Extractor\nDiameter: 32/25-38mm",
+  "availability": "In Stock",
+  "product_name": "Makita P-72936 WKZ Type Vacuum Adaptor",
+  "specifications": [
+    "Diameter: 32/25-38mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-72942-vacuum-extension-tubes.html-lllmstxt|>
+## Makita P-72942 Vacuum Extension Tubes
+
+{
+  "price": "€45.56 inc VAT (€37.04 exc.vat)",
+  "description": "P-72942 Vacuum Extension Tubes",
+  "availability": "In Stock",
+  "product_name": "Makita P-72942 Vacuum Extension Tubes",
+  "specifications": [
+    "MAKP72942 : €45.56",
+    "List: €50.39",
+    "You save €4.83"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-78293-fleece-nano-filter-bag-pack-of-5.html-lllmstxt|>
+## Makita P-78293 Fleece Nano Filter Bag Pack of 5
+
+{
+  "price": "€64.65 inc VAT (€52.56 exc.vat)",
+  "description": "For the Makita VC3511L Dust Extractor\nFleece design for added durability\nFor collection of dry debris only",
+  "availability": "In Stock",
+  "product_name": "Makita P-78293 Fleece Nano Filter Bag Pack of 5",
+  "specifications": [
+    "Fleece design for added durability",
+    "For collection of dry debris only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dust-bag-447m-pk2.html-lllmstxt|>
+## Makita Dust Bag 447M Pk2
+
+{
+  "price": "€33.86 inc VAT (€27.53 exc.vat)",
+  "description": "Dust Bag 447M Pk2",
+  "availability": "Out of Stock",
+  "product_name": "Makita Dust Bag 447M Pk2",
+  "specifications": [
+    "MAKP80575 : €33.86",
+    "List: €37.45",
+    "You save €3.59"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-power-tool-adapter-32x25-38.html-lllmstxt|>
+## Makita Power Tool Adapter 32X25-38
+
+{
+  "price": "€34.32 inc VAT (€27.90 exc.vat)",
+  "description": "Power Tool Adapter 32X25-38",
+  "availability": "Out of Stock",
+  "product_name": "Makita Power Tool Adapter 32X25-38",
+  "specifications": [
+    "MAKP81745 : €34.32",
+    "List: €37.96",
+    "You save €3.64"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-t32-micro-filter-bags-pack-5.html-lllmstxt|>
+## Trend T32 Micro Filter Bags (Pack 5)
+
+{
+  "price": "€30.50 inc VAT (€24.80 exc.vat)",
+  "description": "Trend T32 Micro Filter Bag has multiple inner layers that collect coarse dust and dirt particles whilst protecting the outer layer from clogging. The bag material has a greater air-permeable structure when compared to paper filter bags, providing increased suction. For dry use only. Supplied as a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "Trend T32 Micro Filter Bags (Pack 5)",
+  "specifications": [
+    "TRE32LFILTP5 : €30.50",
+    "QtyAdd to Basket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nilfisk-alto-kew-aero-26-21-pc-replacement-fleece-bags-pack-5.html-lllmstxt|>
+## Nilfisk Alto (Kew) Aero 26-21 PC Replacement Fleece Bags (Pack 5)
+
+{
+  "price": "€21.77 inc VAT (€17.70 exc.vat)",
+  "description": "These Replacement Fleece Bags have been developed to perfectly fit Nilfisk Aero 20-01, Aero 20-01 Inox, Aero 20-21 Inox, Aero 20-11, Aero 20-21, Aero 25-11, Aero 25-21 range of vacuum cleaners. The bags are fitted with a polypropylene closure for an improved fit to the dust inlet pipe. They are unaffected by humidity, moisture or liquids. Keep floors clean at all times with these bags. The durable fleece material captures the dust and dirt, firmly holding it there. Supplied as a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "Nilfisk Alto (Kew) Aero 26-21 PC Replacement Fleece Bags (Pack 5)",
+  "specifications": [
+    "Pack of 5 fleece bags",
+    "Compatible with Nilfisk Aero vacuum cleaners",
+    "Polypropylene closure for improved fit",
+    "Durable fleece material for dust capture"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-r15vac-foam-filter-1.html-lllmstxt|>
+## Evolution R15VAC Foam Filter
+
+{
+  "price": "€3.52 inc VAT (€2.86 exc.vat)",
+  "description": "Evolution R15VAC Foam Filter for wet vac use. Remove the standard cartridge filter, sleeve the one-way flow mechanism with this reticulated foam filter.",
+  "availability": "In Stock",
+  "product_name": "Evolution R15VAC Foam Filter",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-r15vac-standard-cartridge-filter.html-lllmstxt|>
+## R15VAC Standard Cartridge Filter
+
+{
+  "price": "€11.70 inc VAT (€9.51 exc.vat)",
+  "description": "The Evolution R15VAC Standard Cartridge Filter for dry vacuum use. Its large surface area gives maximum filtration and airflow allowing you to clean up quickly.",
+  "availability": "In Stock",
+  "product_name": "R15VAC Standard Cartridge Filter",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcv5011h-replacement-filter.html-lllmstxt|>
+## DEWALT DCV5011H Replacement Filter
+
+{
+  "price": "€27.92 inc VAT (€22.70 exc.vat)",
+  "description": "DEWALT DCV5011H Replacement Filter for dry use with the DCV501L XR Vacuum. This HEPA filter eliminates 99.97% of all particles less than 0.3 microns in size.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCV5011H Replacement Filter",
+  "specifications": [
+    "HEPA filter",
+    "Eliminates 99.97% of particles less than 0.3 microns",
+    "Compatible with DCV501L XR Vacuum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-81789-floor-nozzle.html-lllmstxt|>
+## Makita P-81789 Floor Nozzle
+
+{
+  "price": "€37.06 inc VAT (€30.13 exc.vat)",
+  "description": "The Makita P-81789 Floor Nozzle is manufactured from high quality material for a longer working life. Designed for wet and dry cleaning applications. Suitable for use with Makita Wet and Dry Dust Extractors; VC4210 and VC3012M.",
+  "availability": "Out of Stock",
+  "product_name": "Makita P-81789 Floor Nozzle",
+  "specifications": [
+    "Manufactured from high quality material",
+    "Designed for wet and dry cleaning applications",
+    "Suitable for use with Makita Wet and Dry Dust Extractors; VC4210 and VC3012M"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-replacement-filters-for-dwv905h-2-pack.html-lllmstxt|>
+## DEWALT Replacement Filters for DWV905H (2 Pack)
+
+{
+  "price": "€95.76 inc VAT (€77.85 exc.vat)",
+  "description": "Pack of 2 DEWALT Replacement Filters for DWV905H. Made from high-quality materials, ensuring its durability and long-lasting performance.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Replacement Filters for DWV905H (2 Pack)",
+  "specifications": [
+    "DEWDWV9345 : €95.76",
+    "List: €141.22",
+    "You save €45.46",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-30-litre-dust-bags-pack-of-5.html-lllmstxt|>
+## Einhell 30 litre Dust Bags Pack of 5
+
+{
+  "price": "€16.01 inc VAT (€13.02 exc.vat)",
+  "description": "Einhell 30 litre Dust Bags for wet & dry vacuum cleaners. Used to collect fine and dry dirt, which keeps the vacuum cleaner's pleated filter clear for longer, so suction power is maintained for longer. NOT suitable for vacuuming liquids. Can be used with all Einhell Wet & Dry Vacuum Cleaners with a 30-litre container. The vacuum bag is simply placed in the collecting container and the vacuum nozzle is connected to the bag's opening (Ø 65mm).",
+  "availability": "In Stock",
+  "product_name": "Einhell 30 litre Dust Bags Pack of 5",
+  "specifications": [
+    "Pack of 5 dust bags",
+    "30 litre capacity",
+    "Compatible with Einhell Wet & Dry Vacuum Cleaners",
+    "Not suitable for vacuuming liquids"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-car-cleaning-set-6-piece.html-lllmstxt|>
+## Einhell Car Cleaning Set, 6 Piece
+
+{
+  "price": "€34.74 inc VAT (€28.24 exc.vat)",
+  "description": "The Einhell Car Cleaning Set is compatible with wet/dry vacuum cleaners with a connection of Ø 36mm. Suitable for dry and wet vacuuming. Includes: 1 x Suction Hose 3m, 1 x Hard Upholstery Brush, 1 x Soft Upholstery Brush, 1 x Crevice Nozzle 34cm, 1 x Car Seat Nozzle, 2 x Connection Adaptors.",
+  "availability": "In Stock",
+  "product_name": "Einhell Car Cleaning Set, 6 Piece",
+  "specifications": [
+    "Compatible with wet/dry vacuum cleaners with a connection of Ø 36mm",
+    "Includes 1 x Suction Hose 3m",
+    "Includes 1 x Hard Upholstery Brush",
+    "Includes 1 x Soft Upholstery Brush",
+    "Includes 1 x Crevice Nozzle 34cm",
+    "Includes 1 x Car Seat Nozzle",
+    "Includes 2 x Connection Adaptors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-fs-f-vce33-44-lm-ve5-filter-bags-pack-5.html-lllmstxt|>
+## Flex Power Tools FS-F VCE33-44 L/M VE5 Filter Bags (Pack 5)
+
+{
+  "price": "€47.00 inc VAT (€38.21 exc.vat)",
+  "description": "The Flex Power Tools FS-F VCE33-44 L/M VE5 Filter Bags offer improved filling compared with paper filter sacks, they are durable and moisture-resistant. Due to the larger dimensions, the filter sack can be used for both containers 33 and 44. Class M Rated. Suitable for: VCE 33 L MC, VCE 33 L AC, VCE 44 L AC, VCE 33 M AC, VCE 44 M AC and VCE 44 H AC.",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools FS-F VCE33-44 L/M VE5 Filter Bags (Pack 5)",
+  "specifications": [
+    "Improved filling compared with paper filter sacks",
+    "Durable and moisture-resistant",
+    "Class M Rated",
+    "Suitable for containers 33 and 44"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-fs-f-vce-21-26-lv5-filter-bags-pack-5.html-lllmstxt|>
+## Flex Power Tools FS-F VC/E 21-26 LV5 Filter Bags (Pack 5)
+
+{
+  "price": "€37.27 inc VAT (€30.30 exc.vat)",
+  "description": "The Flex Power Tools FS-F VC/E 21-26 LV5 Filter Bags are made from highly tear-proof fleece for optimum filling of the filter bags and trouble-free disposal of the extracted dust. Dust class L. Suitable for VC 21 L MC, VC 25 L MC and VCE 26 L MC.",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools FS-F VC/E 21-26 LV5 Filter Bags (Pack 5)",
+  "specifications": [
+    "FLX502235 : €37.27",
+    "Dust class L",
+    "Suitable for VC 21 L MC, VC 25 L MC and VCE 26 L MC"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-vacuum-dxva19-1202-extension-wands.html-lllmstxt|>
+## DEWALT Vacuum DXVA19-1202 Extension Wands
+
+{
+  "price": "€14.65 inc VAT (€11.91 exc.vat)",
+  "description": "DEWALT DXVA19-1202 Extension Wands are made from durable materials for increased life. Perfect for reaching into high or low spaces without needing a step or to get down on your knees. Fits the following DEWALT Vacuums:  DXV04T, DXV05P, DXV05S, DXV06G, DXV08S, DXV06P, DXV09P, DXV09PA, DXV10P, DXV10PL, DXV10S, DXV10SA and DXV10SB. Specification: Diameter: 48mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Vacuum DXVA19-1202 Extension Wands",
+  "specifications": [
+    "Diameter: 48mm",
+    "Fits various DEWALT Vacuums"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-vacuum-dxva19-1300-utility-nozzle.html-lllmstxt|>
+## DEWALT Vacuum DXVA19-1300 Utility Nozzle
+
+{
+  "price": "€13.05 inc VAT (€10.61 exc.vat)",
+  "description": "The DEWALT DXVA19-1300 Utility Nozzle is ideal for cleaning in tight spots thanks to its narrow head (17.5cm width). Compatible with 48mm (1.7/8in) vacuum hoses.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Vacuum DXVA19-1300 Utility Nozzle",
+  "specifications": [
+    "Narrow head (17.5cm width) for cleaning in tight spots",
+    "Compatible with 48mm (1.7/8in) vacuum hoses"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-vacuum-dxva19-1300-crevice-tool.html-lllmstxt|>
+## DEWALT Vacuum DXVA19-1300 Crevice Tool
+
+{
+  "price": "€18.51 inc VAT (€15.05 exc.vat)",
+  "description": "The DEWALT DXVA19-1300 Crevice Tool is perfect for getting into narrow spaces, hard-to-reach corners and awkward crevices. Compatible with 48mm (1.7/8in) vacuum hoses.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Vacuum DXVA19-1300 Crevice Tool",
+  "specifications": [
+    "Compatible with 48mm (1.7/8in) vacuum hoses"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-vacuum-dxva19-1900d-floor-nozzle.html-lllmstxt|>
+## DEWALT Vacuum DXVA19-1900D Floor Nozzle
+
+{
+  "price": "€18.51 inc VAT (€15.05 exc.vat)",
+  "description": "The DEWALT DXVA19-1900D Floor Nozzle cleans dust from hard flooring (wood, tile, cement, plus carpet). Compatible with 48mm (1.7/8in) vacuum hoses.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Vacuum DXVA19-1900D Floor Nozzle",
+  "specifications": [
+    "Model: DXVA19-1900D",
+    "Compatible with 48mm vacuum hoses",
+    "Cleans dust from hard flooring"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-vacuum-dxva19-2558-wet-and-dry-vacuum-hose-48mm-x-21m.html-lllmstxt|>
+## DEWALT Vacuum DXVA19-2558 Wet & Dry Vacuum Hose 48mm x 2.1m
+
+{
+  "price": "€45.65 inc VAT (€37.11 exc.vat)",
+  "description": "The DEWALT DXVA19-2558 Wet & Dry Vacuum Hose is crush-resistant and flexible. Extends versatility by easily getting into nooks, crannies, and crevices at home, at work, or on site. Compatible with 20-38 litre DEWALT vacuum cleaners.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Vacuum DXVA19-2558 Wet & Dry Vacuum Hose 48mm x 2.1m",
+  "specifications": [
+    "Diameter: 48mm",
+    "Length: 2.1m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-vacuum-dxva19-4204-dust-bag-3-pack.html-lllmstxt|>
+## DEWALT Vacuum DXVA19-4204 Dust Bag (3 Pack)
+
+{
+  "price": "€21.68 inc VAT (€17.63 exc.vat)",
+  "description": "DEWALT DXVA19-4204 Dust Bags with easy to attach for minimal cleaning interruption. Suitable for dry pick up only. Fits the following DEWALT Vacuums: DXV20P, DXV20S, DXV25S, DXV30SA and the corresponding PRO/PTA series.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Vacuum DXVA19-4204 Dust Bag (3 Pack)",
+  "specifications": [
+    "Fits DEWALT Vacuums: DXV20P, DXV20S, DXV25S, DXV30SA",
+    "Easy to attach for minimal cleaning interruption",
+    "Suitable for dry pick up only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-vacuum-dxva19-5158-mesh-accessory-bag.html-lllmstxt|>
+## DEWALT Vacuum DXVA19-5158 Mesh Accessory Bag
+
+{
+  "price": "€6.79 inc VAT (€5.52 exc.vat)",
+  "description": "The DEWALT DXVA19-5158 Mesh Accessory Bag keeps all your DEWALT accessories safe and tidy.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Vacuum DXVA19-5158 Mesh Accessory Bag",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+

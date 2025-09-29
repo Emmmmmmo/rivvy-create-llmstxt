@@ -1,0 +1,185 @@
+<|https://www.mydiy.ie/products/milwaukee-c18-pcg310c-caulking-gun-310ml-cartridge-18-volt-1-x-20ah-li-ion.html-lllmstxt|>
+## Milwaukee C18 PCG/310C Caulking Gun 310ml Cartridge 18 Volt 1 x 2.0Ah Li-Ion
+
+{
+  "price": "€327.06 inc VAT (€265.90 exc.vat)",
+  "description": "The Milwaukee M18 C18 PCG/310C Caulking Gun has a large robust plunger design to ensure constant flow, reduced blow back and expulsion of all sealant from the cartridge. The caulking gun delivers optimised performance with all construction adhesives and cool temperatures, with up to up to 4,500 N of force. It has dial control with 6 speed settings to allow for maximum bead control and REDLINK™ overload protection electronics in the tool and battery pack provide excellent system durability. Supplied with a 310ml Canister Cartridge Holder, a 2.0Ah Li-Ion Battery, a Charger and a Tool Bag.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee C18 PCG/310C Caulking Gun 310ml Cartridge 18 Volt 1 x 2.0Ah Li-Ion",
+  "specifications": [
+    "Max. Pushing Force: 4,500 N",
+    "Capacity: 310ml",
+    "Weight: 2.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-dce581n-xr-caulk-gun-300-600ml-18v-bare-unit.html-lllmstxt|>
+## DEWALT DCE581N XR Caulk Gun 300-600ml 18V Bare Unit
+
+{
+  "price": "€369.21 inc VAT (€300.17 exc.vat)",
+  "description": "The DEWALT DCE581N XR Caulk Gun has a variable speed dial and variable speed trigger for precise control of material flow. Its durable plunger rod has an auto-retract, anti-drip feature. The contoured grip has a rubber overmould that enables comfortable use and handling. There is also an LED light for improved visibility of application. Supplied as a Bare Unit - No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCE581N XR Caulk Gun 300-600ml 18V Bare Unit",
+  "specifications": [
+    "Carrier Size: 300-600ml",
+    "Push Speed: 584 mm/min.",
+    "Push Force: 2,500N (254kg)",
+    "Weight: 2.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-sg-1810-li-solo-power-x-change-caulking-gun-18v-bare-unit.html-lllmstxt|>
+## Einhell TE-SG 18/10 Li-Solo Power X-Change Caulking Gun 18V Bare Unit
+
+{
+  "price": "€93.32 inc VAT (€75.87 exc.vat)",
+  "description": "The Einhell TE-SG 18/10 Li-Solo Power X-Change Caulking Gun is the ideal addition to the basic range in the workshop, but also for the craft room and especially when regular repairs or major renovation and refurbishment work is required. Suitable for all commercially available 310ml cartridges. The robust materials ensure longevity even in adverse conditions and for regular use, and the softgrip provides a firm, secure grip during operation. The cartridge gun has a maximum squeezing force of up to 2,000N, a uniform pattern is obtained by the adjustable squeezing speed with an adjusting wheel and a pressure switch. The rotational speed can be adapted to the different materials and quantities with which work is carried thanks to the individual adjustment. A return mechanism eliminates dripping and sticking on surfaces the gun is placed on. The bright LED light offers an optimal view of the application area, even in dark areas.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-SG 18/10 Li-Solo Power X-Change Caulking Gun 18V Bare Unit",
+  "specifications": [
+    "Feed Speed: 10 mm/s",
+    "Dispensing Force: 2,000N",
+    "Cartridge Size: 310ml",
+    "Weight: 1.94kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-caulking-gun-18v-bare-unit.html-lllmstxt|>
+## Batavia MAXXPACK Caulking Gun 18V Bare Unit
+
+{
+  "price": "€84.14 inc VAT (€68.41 exc.vat)",
+  "description": "The Batavia MAXXPACK Caulking Gun has a variable speed control trigger and continuous high-pressure with an anti-drip function. Suitable for use with all common adhesives and sealants. Fitted with an ergonomic soft grip for comfortable working. The LED job light enables you to work in darker areas. Comes as a Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Caulking Gun 18V Bare Unit",
+  "specifications": [
+    "Carrier Size: 300ml",
+    "Push Speed: 0.8-9.3mm/sec.",
+    "Push Force: 2,000Nm",
+    "Sound pressure level LpA: 69 dB(A)",
+    "Cartridge size: max. 300ml",
+    "Weight: 1.95kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpush-caulking-gun-with-led-light-6v-aa-batteries.html-lllmstxt|>
+## Batavia MAXXPUSH Caulking Gun with LED Light 6V (AA Batteries)
+
+{
+  "price": "€45.13 inc VAT (€36.69 exc.vat)",
+  "description": "The Batavia MAXXPUSH Caulking Gun is the perfect caulking gun for every do-it-yourselfer, who occasionally uses a caulking gun. This battery powered caulking gun only weighs 0.9 kilograms and works on 4 AA batteries (NOT supplied). Continuous high discharge pressure and automatic pressure release (anti-leak function) ensure smooth application. The built-in LED light provides a clear line of sight, even in the darkest corners and the most dimly lit environments. Suitable for all common adhesives and sealants. Compatible with all standard tubes 290-310ml.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPUSH Caulking Gun with LED Light 6V (AA Batteries)",
+  "specifications": [
+    "Extrusion Speed: Max. 70mm/min.",
+    "Extrusion Pressure: 150kgs.",
+    "Cartridge Size: Max. 300ml.",
+    "Weight: 0.9kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gcg-18v-600-professional-caulking-gun-18v-bare-unit.html-lllmstxt|>
+## Bosch GCG 18V-600 Professional Caulking Gun 18V Bare Unit
+
+{
+  "price": "€371.24 inc VAT (€301.82 exc.vat)",
+  "description": "Bosch GCG 18V-600 Professional Caulking Gun comes with nine speed settings and a variable speed trigger, making it easy to control the material flow rate. It enables fast working progress even with high viscosity adhesives with a push force of 3.5 kN and a maximum feed of 7mm per second. The tool's auto-reverse function relieves pressure on the plunger rod when the trigger is released, eliminating dripping and material overflow. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GCG 18V-600 Professional Caulking Gun 18V Bare Unit",
+  "specifications": [
+    "Push Force: 3.5 kN",
+    "Feed Rate: 7mm/sec",
+    "Cartridge Capacity: 300/400ml",
+    "Sachet Capacity: 300/400/600ml",
+    "Weight: 2.0kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bosch-gcg-18v-310-professional-caulking-gun-18v-bare-unit.html-lllmstxt|>
+## Bosch GCG 18V-310 Professional Caulking Gun 18V Bare Unit
+
+{
+  "price": "€358.69 inc VAT (€291.62 exc.vat)",
+  "description": "Bosch GCG 18V-310 Professional Caulking Gun for cartridges of up to 310ml. It can be used with all kinds of caulk and adhesive cartridges. Controlling material flow is easy thanks to the gun's speed selection with nine speed settings and a variable speed trigger. It enables fast working progress even with high viscosity adhesives with a push force of 3.5 kN and a maximum feed of 7mm per second. The tool's auto-reverse function relieves pressure on the plunger rod when the trigger is released, eliminating dripping and material overflow. Comes as a Bare Unit, NO battery or charger. Compatible with all Bosch Professional 18V batteries, including ProCORE18V batteries and chargers (Professional 18V System). Also compatible with AMPShare, the multi-brand battery alliance.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GCG 18V-310 Professional Caulking Gun 18V Bare Unit",
+  "specifications": [
+    "Push Force: 3.5 kN",
+    "Feed Rate: 7mm/sec",
+    "Cartridge Capacity: 310ml",
+    "Weight: 2.0kg excl. battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-cordless-xr-grease-gun-18-volt-1-x-40ah-li-ion.html-lllmstxt|>
+## DEWALT Cordless XR Grease Gun 18 Volt 1 x 4.0Ah Li-Ion
+
+{
+  "price": "€386.95 inc VAT (€314.59 exc.vat)",
+  "description": "The DEWALT Cordless XR Grease Gun performs routine lubrication up to twice as fast as a manual grease gun, with 690 bar (10,000 PSI) of output pressure and a flow rate of 147g per minute. It delivers high pressure to clear clogged fittings and has a purge valve that allows the user to bleed excess air that can become trapped in pump valves. It has a 1 meter hose, for hard-to-reach fittings and an LED light, to illuminate fittings that are difficult to locate. The innovative pump filter screen on the unit helps to keep dirt from passing through the pump mechanism. It can be bulk-filled (suction or pump) or used with standard 400g grease cartridges. Includes a shoulder strap for carrying the unit during applications, 1 x 18 Volt 4.0Ah XR Li-Ion battery pack with state of charge indicator, an XR Multi-Voltage charger and a heavy-duty kitbox.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Cordless XR Grease Gun 18 Volt 1 x 4.0Ah Li-Ion",
+  "specifications": [
+    "Output Pressure: 690bar/ 10,000 PSI",
+    "Feed Rate: 147g/min",
+    "Grease Type: Up to NLGI #2",
+    "Grease Capacity: Bulk: 453g, Cartridge: 400g",
+    "Hose Length: 1000mm",
+    "Height: 230mm",
+    "Length: 390mm",
+    "Built in LED light"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-gg-0-cordless-grease-gun-12-volt-bare-unit.html-lllmstxt|>
+## Milwaukee M12 GG-0 Cordless Grease Gun 12 Volt Bare Unit
+
+{
+  "price": "€156.31 inc VAT (€127.08 exc.vat)",
+  "description": "The Milwaukee M12 GG Cordless Grease Gun has a powerful 12 volt motor to deliver over 562 bar maximum operating pressure. It has an excellent charge time, dispensing up to 7 cartridges per charge. The grease gun has excellent handle balance and ergonomics for comfortable handling, and has integrated hose storage, shoulder strap loop and LED fuel gauge for added convenience and less down time. REDLINK™ overload protection electronics in the tool and battery pack deliver excellent durability. The grease gun is 3 way loading, with bulk, cartridge and suction capability. It has an air bleeder valve - a priming mechanism for quick flow. Supplied with 914mm x 14.4mm high pressure flex hose with spring guard and grease coupler. Batteries NOT supplied.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 GG-0 Cordless Grease Gun 12 Volt Bare Unit",
+  "specifications": [
+    "Voltage: 12 Volt",
+    "Grease capacity: 400ml cartridge, 473ml bulk",
+    "Pressure: 562 Bar",
+    "Hose size: 914 x 14.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-cordless-grease-gun-kit-12-volt-1-x-15ah-li-ion.html-lllmstxt|>
+## Lumatic Cordless Grease Gun Kit 12 Volt 1 x 1.5Ah Li-Ion
+
+{
+  "price": "€204.22 inc VAT (€166.03 exc.vat)",
+  "description": "The Lumatic Cordless Grease Gun is fitted with a powerful DC motor drive and a planetary gearbox. Suitable for 400g cartridges or 500g bulk fill. Develops up to 400 bar pressure. Supplied with: 1 x 12 Volt 1.5Ah Li-Ion Battery, 1 x 750mm Delivery Hose, 1 x Coupler, 1 x Charger and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Cordless Grease Gun Kit 12 Volt 1 x 1.5Ah Li-Ion",
+  "specifications": [
+    "Powerful DC motor drive",
+    "Planetary gearbox",
+    "Suitable for 400g cartridges or 500g bulk fill",
+    "Develops up to 400 bar pressure",
+    "Supplied with 1 x 12 Volt 1.5Ah Li-Ion Battery",
+    "Includes 1 x 750mm Delivery Hose, 1 x Coupler, 1 x Charger, and 1 x Carry Case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dgp180z-lxt-grease-gun-18v-bare-unit.html-lllmstxt|>
+## Makita DGP180Z LXT Grease Gun 18V Bare Unit
+
+{
+  "price": "€286.32 inc VAT (€232.78 exc.vat)",
+  "description": "The Makita DGP180 LXT Grease Gun features two speed modes: slow and auto speed change. Auto speed change mode applies grease while varying the flow rate, automatically matching the resistance of the part being greased. Bulk grease can be directly loadable into the barrel. Fitted with an ergonomically designed handle and soft grip for increased comfort. There is also a lock-on function, ideal for long work periods with reduced fatigue, and a handy LED job light. Supplied as a Bare Unit - No Battery or Charger. Supplied with: 1 x Flexible Hose and 1 x Shoulder Strap.",
+  "availability": "In Stock",
+  "product_name": "Makita DGP180Z LXT Grease Gun 18V Bare Unit",
+  "specifications": [
+    "Max. Operating Pressure: 10,000 psi",
+    "Flow Rate (Slow/Auto Speed): 145/290ml/min.",
+    "Grease Capacity: Cartridge 410g, Bulk 455g",
+    "Flexible Hose Length: 1,200mm",
+    "Weight: 4.8kg (without battery)"
+  ]
+}
+

@@ -1,0 +1,35 @@
+<|https://www.mydiy.ie/products/faithfull-fold-away-step-up-aluminium-l100-x-h52-x-w30cm.html-lllmstxt|>
+## Faithfull Fold Away Step Up Aluminium L100 x H52 x W30cm
+
+{
+  "price": "€76.38 inc VAT (€62.10 exc.vat)",
+  "description": "The Faithfull 'Step Up' is a useful work platform which is ideal for painting and decorating. It is also suitable for reaching most domestic ceilings and upper walls. Manufactured from aluminium, the 'Step Up' is lightweight and easy to move, sturdy and safe to use, with a working load of 150kg. It is fitted with two leg locks and has non-slip top and anti-skid feet for added safety. The folding legs provide for space saving storage and allow the 'Step Up' to fit easily into a van or car boot for transportation. Conforms to EN131 standard. Dimensions: Height: 52cm (20.5in). Length: 100cm (39.5in). Width: 30cm (12in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Fold Away Step Up Aluminium L100 x H52 x W30cm",
+  "specifications": [
+    "Height: 52cm (20.5in)",
+    "Length: 100cm (39.5in)",
+    "Width: 30cm (12in)",
+    "Working load: 150kg",
+    "Manufactured from aluminium",
+    "Folding legs for space saving storage",
+    "Conforms to EN131 standard"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zarges-aluminium-hop-up-600mm-x-600mm.html-lllmstxt|>
+## Zarges Aluminium Hop Up 600mm x 600mm
+
+{
+  "price": "€141.75 inc VAT (€115.24 exc.vat)",
+  "description": "The Zarges 100304 Hop Up platform is made from aluminium. It is a low level professional work platform which is lightweight and durable and ideal for a multitude of low level tasks. A safety locking catch prevents the legs collapsing underneath. The platform is easy to store and transport due to compact closed dimensions and has a 150 kg load capacity. Height: 470mm. Platform Size: 600 x 600mm. Weight: 7.4kg.",
+  "availability": "Out of Stock",
+  "product_name": "Zarges Aluminium Hop Up 600mm x 600mm",
+  "specifications": [
+    "Height: 470mm",
+    "Platform Size: 600 x 600mm",
+    "Weight: 7.4kg",
+    "150 kg load capacity"
+  ]
+}
+
