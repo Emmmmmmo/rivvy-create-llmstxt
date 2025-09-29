@@ -154,10 +154,12 @@ class ElevenLabsKnowledgeBaseManager:
             # Upload file
             document_id = self._upload_file_to_knowledge_base(file_path, file_path.name)
             if document_id:
-                # Update sync state
+                # Update sync state with full document info
                 self.sync_state[file_key] = {
                     'hash': current_hash,
                     'document_id': document_id,
+                    'document_name': file_path.name,
+                    'document_type': 'file',  # ElevenLabs expects 'file' or 'url'
                     'uploaded_at': datetime.now().isoformat()
                 }
                 uploaded_count += 1
@@ -427,7 +429,12 @@ class ElevenLabsKnowledgeBaseManager:
         success_count = 0
         for i in range(0, len(new_docs), batch_size):
             batch = new_docs[i:i + batch_size]
-            batch_kb = [{'id': doc['document_id']} for doc in batch]
+            # Format documents with required fields for ElevenLabs API
+            batch_kb = [{
+                'id': doc['document_id'],
+                'type': doc.get('document_type', 'file'),
+                'name': doc.get('document_name', 'unknown')
+            } for doc in batch]
             
             # Combine with existing knowledge base
             combined_kb = current_kb + batch_kb
