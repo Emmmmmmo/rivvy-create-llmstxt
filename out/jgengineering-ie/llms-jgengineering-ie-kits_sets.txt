@@ -21,7 +21,7 @@ Copied
 
 # BaerCoil Workshop Kits
 
-(9 products)
+(10 products)
 
 
 FilterFilter & Sort
@@ -50,7 +50,7 @@ Sort by
 Availability
 
 - [ ] In stock(8)
-- [ ] Out of stock(1)
+- [ ] Out of stock(2)
 
 Price
 
@@ -417,6 +417,53 @@ BAERCOIL
 
 Add to cartAdd to cart[View details](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m6-m14-x-1-5-baercoil-workshop-kit-helicoil)
 
+- Compare
+
+
+
+[Test_Deburring_Item](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_deburring_item)
+
+
+
+
+
+Sold out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JG Engineering Supplies Ltd 01-4730900
+
+
+
+[Test\_Deburring\_Item](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_deburring_item)
+
+
+
+
+
+**€10.00** ~~~~
+
+
+
+
+
+
+
+
+
+Add to cartAdd to cart[View details](https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_deburring_item)
+
 
 Your cart is empty
 
@@ -465,11 +512,9 @@ Loading...
 
 Close
 
-BaerCoil Workshop Kits – JG Engineering Supplies Ltd 01-4730900
+shop.app
 
-www.jgengineering.ie
-
-# www.jgengineering.ie is blocked
+# shop.app is blocked
 
 This page has been blocked by an extension
 
@@ -484,9 +529,11 @@ This page has been blocked by an extension
 
 ![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
 
-shop.app
+BaerCoil Workshop Kits – JG Engineering Supplies Ltd 01-4730900
 
-# shop.app is blocked
+www.jgengineering.ie
+
+# www.jgengineering.ie is blocked
 
 This page has been blocked by an extension
 
