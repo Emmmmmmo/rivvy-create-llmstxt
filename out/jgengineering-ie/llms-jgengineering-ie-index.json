@@ -82,5 +82,11 @@
     "markdown": "{\n  \"price\": \"\",\n  \"description\": \"\",\n  \"availability\": \"\",\n  \"product_name\": \"\",\n  \"specifications\": []\n}",
     "shard": "products",
     "updated_at": "2025-09-30T10:16:04.627181"
+  },
+  "https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-1-x-11-baercoil-kit-helicoil": {
+    "title": "G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)",
+    "markdown": "{\n  \"price\": \"$323.00\",\n  \"description\": \"Complete BaerCoil Thread-Repair-Kit\\n\\nContent:\\n1 x HSSG BaerCoil Standard Drill\\n1 x HSSG BaerCoil Tap\\n+ 5 BaerCoil Wire-Thread-Inserts \\\"free running\\\", stainless steel (ASIS 304), length: 2,0 x D\\nwithout Drill - suitable Drill in Shop\\nwithout Tang Break Tool - break tang with a needle-nosed pliers\",\n  \"availability\": \"In Stock\",\n  \"product_name\": \"G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)\",\n  \"specifications\": [\n    \"1 x HSSG BaerCoil Standard Drill\",\n    \"1 x HSSG BaerCoil Tap\",\n    \"5 BaerCoil Wire-Thread-Inserts \\\"free running\\\", stainless steel (ASIS 304), length: 2,0 x D\",\n    \"Suitable for thread repair of damaged or worn-out threads\",\n    \"Use in machine-building, electrical, automotive, medical and aerospace industries\"\n  ]\n}",
+    "shard": "products",
+    "updated_at": "2025-09-30T10:38:06.900980"
   }
 }
