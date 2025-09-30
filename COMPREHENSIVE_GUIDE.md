@@ -17,6 +17,7 @@ Website Changes → rivvy-observer → Webhook → Dynamic Routing → Agnostic 
 - **Configuration-Driven**: Adapts to any website structure via JSON configuration
 - **Multi-Level Hierarchy Support**: Handles complex category structures (Main → Sub → Product Category → Product)
 - **Intelligent Product Discovery**: Uses Firecrawl's AI-powered link extraction
+- **Multiple Product Support**: ⭐ **NEW** - Extracts and processes multiple products from single webhook diff
 - **Structured Data Extraction**: Clean JSON output with product name, description, price, availability
 - **URL Validation**: Site-specific product URL validation rules
 - **Shard Organization**: Category-based file organization matching site structure
@@ -312,11 +313,32 @@ python3 scripts/knowledge_base_manager.py retry-rag
 2. **Content Scraping**: Observer scrapes and analyzes the changed content
 3. **Webhook Sent**: Observer sends webhook with pre-scraped content to GitHub repository
 4. **Dynamic Routing**: Workflow extracts domain and creates appropriate directory
-5. **Agnostic Processing**: Uses site configuration to determine scraping strategy
-6. **Content Processing**: Generates LLMs files with proper categorization
-7. **File Organization**: Files saved to `out/{domain}/` with proper structure
-8. **ElevenLabs Sync**: Generated files automatically uploaded to RAG system
-9. **Git Commit**: Changes committed and pushed to repository
+5. **Diff Extraction**: ⭐ **NEW** - For `page_added` events, extracts all new product URLs from category page diff
+6. **Multiple Product Processing**: ⭐ **NEW** - Each extracted product URL processed individually
+7. **Agnostic Processing**: Uses site configuration to determine scraping strategy
+8. **Content Processing**: Generates LLMs files with proper categorization
+9. **Shard Assignment**: All products from same category assigned to same shard
+10. **File Organization**: Files saved to `out/{domain}/` with proper structure
+11. **ElevenLabs Sync**: Generated files automatically uploaded to RAG system
+12. **Git Commit**: Changes committed and pushed to repository
+
+### Multiple Product Support ⭐ **NEW**
+
+When a category page is updated with multiple new products, the system:
+
+1. **Detects Category Page Update**: Identifies webhook with `changeType: "page_added"` or `"content_modified"`
+2. **Extracts All Product URLs**: Parses diff to find all newly added product links
+3. **Processes Each Product**: Scrapes each product page individually
+4. **Assigns to Shard**: All products from same category go to same shard
+5. **Updates Files**: Shard file rewritten with existing + new products
+6. **Syncs to ElevenLabs**: Updated shard sent as single document
+
+**Key Benefits:**
+- ✅ Handles 1, 2, 3, or more products in single webhook
+- ✅ Efficient processing - each product scraped individually
+- ✅ Proper categorization - maintains shard structure
+- ✅ No duplicates - intelligent deduplication
+- ✅ Backward compatible - works for single product additions
 
 ### Webhook Format
 
@@ -506,6 +528,7 @@ python3 scripts/update_llms_agnostic.py example.com --auto-discover https://exam
 ### Key Achievements
 - ✅ **Agnostic scraping engine** adapts to any website structure
 - ✅ **Multi-level hierarchy support** for complex e-commerce sites
+- ✅ **Multiple product extraction** from single webhook diff (NEW)
 - ✅ **Structured data extraction** with clean JSON output
 - ✅ **Automatic old version cleanup** prevents document accumulation
 - ✅ **RAG indexing verification** with automatic retry system

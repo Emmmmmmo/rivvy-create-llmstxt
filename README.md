@@ -10,6 +10,7 @@ This production-ready system provides fully automated LLMs.txt file generation a
 
 - **⭐ Agnostic Scraping Engine**: Configuration-driven system that adapts to any website structure
 - **Multi-Level Hierarchy Support**: Handles complex category structures (Main → Sub → Product Category → Product)
+- **Multiple Product Extraction**: ⭐ **NEW** - Processes multiple products from single webhook diff
 - **Intelligent Product Discovery**: Uses Firecrawl's AI-powered link extraction and structured data extraction
 - **Dynamic Webhook Routing**: Automatically routes webhooks to correct domain directories
 - **ElevenLabs RAG Integration**: ⭐ **Enhanced** with automatic old version cleanup and RAG verification
@@ -567,6 +568,7 @@ For issues and questions:
 ### Key Achievements
 - ✅ **Agnostic scraping engine** adapts to any website structure
 - ✅ **Multi-level hierarchy support** for complex e-commerce sites
+- ✅ **Multiple product extraction** from single webhook diff (NEW)
 - ✅ **Structured data extraction** with clean JSON output
 - ✅ **Automatic old version cleanup** prevents document accumulation
 - ✅ **RAG indexing verification** with automatic retry system
