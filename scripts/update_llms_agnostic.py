@@ -201,6 +201,43 @@ class AgnosticLLMsUpdater:
             logger.error(f"Failed to map website: {e}")
             return []
     
+    def _extract_product_url_from_diff(self, diff_text: str) -> Optional[str]:
+        """
+        Extract product URL from a category page diff.
+        When a new product is added to a category page, extract the product URL.
+        """
+        try:
+            logger.info("Extracting product URL from category page diff")
+            
+            # Look for product URLs in the diff (lines with /products/)
+            product_url_pattern = r'https?://[^\s\)]+/products/[^\s\)\]"\'>]+'
+            matches = re.findall(product_url_pattern, diff_text)
+            
+            if matches:
+                # Return the first product URL found
+                product_url = matches[0]
+                logger.info(f"Found product URL in diff: {product_url}")
+                return product_url
+            
+            # Also try to find relative product URLs
+            relative_pattern = r'/products/[^\s\)\]"\'>]+'
+            relative_matches = re.findall(relative_pattern, diff_text)
+            
+            if relative_matches:
+                # Construct full URL using the base URL
+                relative_url = relative_matches[0]
+                base_url = self.site_config["base_url"]
+                product_url = urljoin(base_url, relative_url)
+                logger.info(f"Found relative product URL in diff, constructed: {product_url}")
+                return product_url
+            
+            logger.warning("No product URL found in diff")
+            return None
+            
+        except Exception as e:
+            logger.error(f"Failed to extract product URL from diff: {e}")
+            return None
+    
     def _extract_product_from_diff(self, diff_text: str) -> Optional[str]:
         """
         Extract only the new product information from a diff text.
@@ -1089,9 +1126,29 @@ class AgnosticLLMsUpdater:
             for i, url in enumerate(urls):
                 logger.info(f"Processing {operation}: {url}")
                 
-                # Use pre-scraped content for the first URL if provided
+                # Check if this is a category page and we have diff extraction enabled
+                is_category_page = '/products/' not in url.lower()
                 content_to_use = pre_scraped_content if i == 0 and pre_scraped_content else None
-                scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
+                
+                if is_category_page and self.use_diff_extraction and content_to_use:
+                    # This is a category page diff - extract the product URL from it
+                    logger.info(f"Detected category page URL with diff: {url}")
+                    product_url = self._extract_product_url_from_diff(content_to_use)
+                    
+                    if product_url:
+                        # Process the extracted product URL instead
+                        logger.info(f"Processing extracted product URL: {product_url}")
+                        url = product_url
+                        # Don't use diff extraction for the actual product scraping
+                        scraped_data = self._scrape_url(url, None, is_diff=False)
+                    else:
+                        # Couldn't extract product URL, fall back to original behavior
+                        logger.warning("Could not extract product URL from diff, processing category page")
+                        scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
+                else:
+                    # Normal product page or no diff extraction
+                    scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
+                
                 if scraped_data:
                     shard_key = self._update_url_data(url, scraped_data)
                     touched_shards.add(shard_key)
