@@ -199,11 +199,22 @@ jobs:
                 if [ -f "/tmp/diff_urls.txt" ]; then
                   echo "Detected diff-based content for incremental processing"
                   
-                  # Use agnostic scraping system with diff mode
-                  echo "Using agnostic scraping system with diff extraction for $domain"
-                  python3 scripts/update_llms_agnostic.py "$domain" \
-                    --added "$added_urls_json" \
-                    --use-diff-extraction
+                  # Find the first diff file to pass as pre-scraped content
+                  first_diff_file=$(ls -1 /tmp/diff_content_*.md 2>/dev/null | head -1)
+                  
+                  if [ -n "$first_diff_file" ] && [ -f "$first_diff_file" ]; then
+                    echo "Using diff file: $first_diff_file"
+                    # Use agnostic scraping system with diff mode and diff content
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --added "$added_urls_json" \
+                      --use-diff-extraction \
+                      --pre-scraped-content "$first_diff_file"
+                  else
+                    echo "No diff file found, using flag only"
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --added "$added_urls_json" \
+                      --use-diff-extraction
+                  fi
                 else
                   # Use agnostic scraping system normally
                   echo "Using agnostic scraping system for $domain"
