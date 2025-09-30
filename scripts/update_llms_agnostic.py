@@ -209,27 +209,65 @@ class AgnosticLLMsUpdater:
         try:
             logger.info("Extracting product URL from category page diff")
             
+            # Image extensions to exclude
+            image_extensions = ('.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.ico')
+            
             # Look for product URLs in the diff (lines with /products/)
+            # Pattern matches URLs like: https://domain.com/collections/.../products/product-name
             product_url_pattern = r'https?://[^\s\)]+/products/[^\s\)\]"\'>]+'
             matches = re.findall(product_url_pattern, diff_text)
             
             if matches:
-                # Return the first product URL found
-                product_url = matches[0]
-                logger.info(f"Found product URL in diff: {product_url}")
-                return product_url
+                # Filter out image URLs and prefer actual product pages
+                valid_urls = []
+                for url in matches:
+                    # Remove query parameters for checking
+                    url_path = url.split('?')[0] if '?' in url else url
+                    
+                    # Skip if it's an image URL
+                    if any(url_path.lower().endswith(ext) for ext in image_extensions):
+                        logger.debug(f"Skipping image URL: {url}")
+                        continue
+                    
+                    # Skip CDN URLs (they're usually images)
+                    if '/cdn/' in url.lower() or '/cdn.' in url.lower():
+                        logger.debug(f"Skipping CDN URL: {url}")
+                        continue
+                    
+                    valid_urls.append(url)
+                
+                if valid_urls:
+                    # Return the first valid product URL
+                    product_url = valid_urls[0]
+                    logger.info(f"Found product URL in diff: {product_url}")
+                    return product_url
             
             # Also try to find relative product URLs
-            relative_pattern = r'/products/[^\s\)\]"\'>]+'
+            # Pattern: /collections/.../products/product-name or /products/product-name
+            relative_pattern = r'/(?:collections/[^/\s]+/)?products/[a-zA-Z0-9_-]+'
             relative_matches = re.findall(relative_pattern, diff_text)
             
             if relative_matches:
-                # Construct full URL using the base URL
-                relative_url = relative_matches[0]
-                base_url = self.site_config["base_url"]
-                product_url = urljoin(base_url, relative_url)
-                logger.info(f"Found relative product URL in diff, constructed: {product_url}")
-                return product_url
+                # Filter out any that might be part of image paths
+                valid_relative = []
+                for rel_url in relative_matches:
+                    # Check the context around it to see if it's a link, not an image path
+                    if rel_url in diff_text:
+                        # Get a snippet of context
+                        idx = diff_text.find(rel_url)
+                        context = diff_text[max(0, idx-50):min(len(diff_text), idx+len(rel_url)+50)]
+                        
+                        # If it's in a markdown link or href, it's likely a product page
+                        if '(' + rel_url + ')' in context or 'href="' + rel_url in context or "href='" + rel_url in context:
+                            valid_relative.append(rel_url)
+                
+                if valid_relative:
+                    # Construct full URL using the base URL
+                    relative_url = valid_relative[0]
+                    base_url = self.site_config["base_url"]
+                    product_url = urljoin(base_url, relative_url)
+                    logger.info(f"Found relative product URL in diff, constructed: {product_url}")
+                    return product_url
             
             logger.warning("No product URL found in diff")
             return None
