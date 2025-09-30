@@ -1,0 +1,17 @@
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-1-x-11-baercoil-kit-helicoil-lllmstxt|>
+## G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "$323.00",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "In Stock",
+  "product_name": "G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D",
+    "Suitable for thread repair of damaged or worn-out threads",
+    "Use in machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
