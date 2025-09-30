@@ -12,6 +12,8 @@ This document walks through the COMPLETE process of setting up a new domain from
 **Starting Point:** Empty (no `out/jgengineering-ie/` folder exists)  
 **End Point:** Fully indexed, uploaded to ElevenLabs, ready for monitoring
 
+**⚠️ Note:** The numbers used in this guide (450 URLs discovered, 104 products) are **illustrative examples** to show a typical e-commerce site scenario. Actual numbers will vary by website size. The process remains the same regardless of scale.
+
 ---
 
 ## 📂 Starting State (Before Everything)
@@ -92,6 +94,28 @@ cat config/site_configs.json | grep -A 30 "jgengineering.ie"
 
 ## 🕷️ Phase 2: Initial Website Scrape
 
+### **🔑 What You Need to Provide:**
+
+**ONLY the domain name** - That's it!
+
+```bash
+python3 scripts/update_llms_agnostic.py jgengineering.ie --full
+```
+
+**You do NOT need to:**
+- ❌ Provide category URLs manually
+- ❌ List product pages
+- ❌ Specify collection URLs
+- ❌ Know the site structure
+
+**The system automatically:**
+- ✅ Reads `base_url` from `site_configs.json` (`https://www.jgengineering.ie`)
+- ✅ Uses Firecrawl to **map the entire site** (discovers all pages)
+- ✅ Filters URLs based on configured patterns (`/products/`, `/collections/`, etc.)
+- ✅ Determines what's a product vs category automatically
+
+---
+
 ### **Step 2.1: Run Full Crawl**
 
 **Command:**
@@ -115,26 +139,48 @@ out/
 └── jgengineering-ie/          ← FOLDER CREATED
 ```
 
-#### **2.1.2: Website Mapping**
+#### **2.1.2: Website Mapping (Automatic Discovery)**
 ```
 2025-09-30 10:00:01 - INFO - Mapping website structure for jgengineering.ie
 2025-09-30 10:00:01 - INFO - Using Firecrawl to map: https://www.jgengineering.ie
 ```
 
-**What's Happening:**
-- Firecrawl crawls the entire website
-- Discovers all pages and URLs
-- Returns a list of URLs found on the site
+**What's Happening Behind the Scenes:**
 
-**Example URLs Discovered:**
+1. **Firecrawl receives ONE URL:** `https://www.jgengineering.ie` (the root)
+2. **Firecrawl automatically:**
+   - Crawls the homepage
+   - Follows all links on the page
+   - Recursively discovers ALL pages on the site
+   - Maps the complete site structure
+3. **Returns complete list** of every URL found
+
+**Example Discovery Process:**
 ```
-https://www.jgengineering.ie
-https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil
-https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland
-https://www.jgengineering.ie/products/m6-x-1-0-x-9d-baercoil-kit-helicoil
-https://www.jgengineering.ie/products/m8-x-1-25-x-12d-baercoil-kit-helicoil
-... (hundreds more)
+Start: https://www.jgengineering.ie
+  ↓ Finds link to → /collections/baercoil-workshop-kits-helicoil
+    ↓ Follows it, finds → /products/m6-x-1-0-x-9d-baercoil-kit-helicoil
+    ↓ Follows it, finds → /products/m8-x-1-25-x-12d-baercoil-kit-helicoil
+  ↓ Finds link to → /collections/baercoil-inserting-tools-ireland
+    ↓ Follows it, finds → /products/insertion-tool-m6
+  ↓ Finds link to → /pages/about
+  ↓ Finds link to → /pages/contact
+... and so on
 ```
+
+**Complete URLs Discovered:**
+```
+https://www.jgengineering.ie                                          (homepage)
+https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil   (category)
+https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland  (category)
+https://www.jgengineering.ie/products/m6-x-1-0-x-9d-baercoil-kit-helicoil  (product)
+https://www.jgengineering.ie/products/m8-x-1-25-x-12d-baercoil-kit-helicoil (product)
+https://www.jgengineering.ie/pages/about                              (info page)
+https://www.jgengineering.ie/pages/contact                            (info page)
+... (450 total URLs in this example)
+```
+
+**🔑 Key Point:** You provide the root domain, Firecrawl discovers EVERYTHING automatically.
 
 #### **2.1.3: URL Filtering**
 ```
