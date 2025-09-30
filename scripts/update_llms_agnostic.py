@@ -205,6 +205,7 @@ class AgnosticLLMsUpdater:
         """
         Extract product URL from a category page diff.
         When a new product is added to a category page, extract the product URL.
+        ONLY extracts URLs from ADDED lines (starting with +) to avoid existing products.
         """
         try:
             logger.info("Extracting product URL from category page diff")
@@ -212,10 +213,20 @@ class AgnosticLLMsUpdater:
             # Image extensions to exclude
             image_extensions = ('.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.ico')
             
-            # Look for product URLs in the diff (lines with /products/)
+            # Split diff into lines and only process ADDED lines (start with +)
+            added_lines = []
+            for line in diff_text.split('\n'):
+                if line.startswith('+') and not line.startswith('++'):  # + but not +++ (file marker)
+                    added_lines.append(line[1:])  # Remove the + prefix
+            
+            # Rejoin added lines for processing
+            added_content = '\n'.join(added_lines)
+            logger.debug(f"Extracted {len(added_lines)} added lines from diff")
+            
+            # Look for product URLs in the ADDED content only
             # Pattern matches URLs like: https://domain.com/collections/.../products/product-name
             product_url_pattern = r'https?://[^\s\)]+/products/[^\s\)\]"\'>]+'
-            matches = re.findall(product_url_pattern, diff_text)
+            matches = re.findall(product_url_pattern, added_content)
             
             if matches:
                 # Filter out image URLs and prefer actual product pages
@@ -237,25 +248,25 @@ class AgnosticLLMsUpdater:
                     valid_urls.append(url)
                 
                 if valid_urls:
-                    # Return the first valid product URL
+                    # Return the first valid product URL from added lines
                     product_url = valid_urls[0]
-                    logger.info(f"Found product URL in diff: {product_url}")
+                    logger.info(f"Found product URL in diff (from added lines): {product_url}")
                     return product_url
             
-            # Also try to find relative product URLs
+            # Also try to find relative product URLs in ADDED lines only
             # Pattern: /collections/.../products/product-name or /products/product-name
             relative_pattern = r'/(?:collections/[^/\s]+/)?products/[a-zA-Z0-9_-]+'
-            relative_matches = re.findall(relative_pattern, diff_text)
+            relative_matches = re.findall(relative_pattern, added_content)
             
             if relative_matches:
                 # Filter out any that might be part of image paths
                 valid_relative = []
                 for rel_url in relative_matches:
                     # Check the context around it to see if it's a link, not an image path
-                    if rel_url in diff_text:
+                    if rel_url in added_content:
                         # Get a snippet of context
-                        idx = diff_text.find(rel_url)
-                        context = diff_text[max(0, idx-50):min(len(diff_text), idx+len(rel_url)+50)]
+                        idx = added_content.find(rel_url)
+                        context = added_content[max(0, idx-50):min(len(added_content), idx+len(rel_url)+50)]
                         
                         # If it's in a markdown link or href, it's likely a product page
                         if '(' + rel_url + ')' in context or 'href="' + rel_url in context or "href='" + rel_url in context:
@@ -266,7 +277,7 @@ class AgnosticLLMsUpdater:
                     relative_url = valid_relative[0]
                     base_url = self.site_config["base_url"]
                     product_url = urljoin(base_url, relative_url)
-                    logger.info(f"Found relative product URL in diff, constructed: {product_url}")
+                    logger.info(f"Found relative product URL in diff (from added lines), constructed: {product_url}")
                     return product_url
             
             logger.warning("No product URL found in diff")
