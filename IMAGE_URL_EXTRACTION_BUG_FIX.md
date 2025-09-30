@@ -23,9 +23,9 @@ Processing extracted product URL: https://www.jgengineering.ie/cdn/shop/products
 
 The regex pattern `https?://[^\s\)]+/products/[^\s\)\]"\'>]+` was matching **ANY** URL containing `/products/`, including:
 
-❌ **Image URLs:** `https://www.jgengineering.ie/cdn/shop/products/image.jpg?v=...`  
+❌ **Image URLs:** `https://www.jgengineering.ie/cdn/shop/products/ArtF005_...jpg?v=...`  
 ❌ **CDN URLs:** `https://cdn.domain.com/shop/products/...`  
-✅ **Product Pages:** `https://www.jgengineering.ie/collections/.../products/product-name`
+✅ **Product Pages:** `https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/test_deburring_item`
 
 Since image URLs appear earlier in the diff (for product thumbnails), they were matched first!
 
@@ -95,14 +95,15 @@ After this fix, when a `page_added` webhook is received:
 
 **Input Diff:**
 ```
-+[![](https://www.jgengineering.ie/cdn/shop/products/image.jpg)]
-+[Test_Deburring_Item](https://www.jgengineering.ie/collections/.../products/test_deburring_item)
++[![](https://www.jgengineering.ie/cdn/shop/products/ArtF005_...jpg?v=1509797029&width=460)]
++(https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/test_deburring_item)
++
++[Test_Deburring_Item](https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/test_deburring_item)
 ```
 
-**Extracted URL:**
-```
-https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/test_deburring_item
-```
+**Old behavior:** Extracted `https://www.jgengineering.ie/cdn/shop/products/ArtF005_...jpg` ❌
+
+**New behavior:** Extracts `https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/test_deburring_item` ✅
 
 **Result:**
 - Only 1 document uploaded
@@ -119,8 +120,8 @@ gh run list --limit 1
 gh run view <run_id> --log | grep "Found product URL"
 
 # Should see:
-# "Found product URL in diff: https://.../products/test_deburring_item"
-# NOT: "Found product URL in diff: https://.../cdn/shop/products/image.jpg"
+# "Found product URL in diff: https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/test_deburring_item"
+# NOT: "Found product URL in diff: https://www.jgengineering.ie/cdn/shop/products/ArtF005_...jpg"
 ```
 
 ## 🔄 Related Issues
