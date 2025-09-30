@@ -15,7 +15,7 @@
       },
       "shard_extraction": {
         "method": "path_segment",
-        "segment_index": 2,
+        "segment_index": 1,
         "fallback_method": "product_categorization"
       },
       "url_filters": {
@@ -46,9 +46,13 @@
           "admin",
           "api",
           "feed",
-          "rss"
+          "rss",
+          "/collections/all",
+          "/collections/vendors",
+          "/collections/baercoil-taps-helicoil",
+          "/collections/metric-baerfix-thread-inserts-like-timeserts"
         ],
-        "max_depth": 3
+        "max_depth": 6
       },
       "product_categories": {
         "kits_sets": [

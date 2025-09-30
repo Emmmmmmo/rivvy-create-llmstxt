@@ -88,16 +88,23 @@ class SiteConfigManager:
         method = shard_config.get("method", "path_segment")
         segment_index = shard_config.get("segment_index", 1)
         
+        # Handle different URL patterns
+        if len(path_segments) >= 2:
+            if path_segments[0] == "collections" and len(path_segments) > segment_index:
+                # Collection URL: /collections/collection-name/products/product-name
+                # Use the collection name (segment_index 1)
+                return self._sanitize_shard(path_segments[segment_index])
+            elif path_segments[0] == "products":
+                # Direct product URL: /products/product-name
+                # Categorize by product name
+                product_name = path_segments[-1] if path_segments else ""
+                return self._categorize_product(product_name, site_config)
+        
+        # Fallback to original logic
         if method == "path_segment" and len(path_segments) > segment_index:
             return self._sanitize_shard(path_segments[segment_index])
         
-        # Fallback to product categorization
-        fallback_method = shard_config.get("fallback_method", "product_categorization")
-        if fallback_method == "product_categorization":
-            # Extract product name from URL for categorization
-            product_name = path_segments[-1] if path_segments else ""
-            return self._categorize_product(product_name, site_config)
-        
+        # Final fallback
         return "other_products"
     
     def _sanitize_shard(self, shard_name: str) -> str:

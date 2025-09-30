@@ -23,7 +23,7 @@ import argparse
 import logging
 import re
 from typing import Dict, List, Optional, Set, Any
-from urllib.parse import urlparse, urljoin, urlunparse
+from urllib.parse import urlparse, urljoin, urlunparse, parse_qs, urlencode
 import requests
 from datetime import datetime
 
@@ -157,13 +157,21 @@ class AgnosticLLMsUpdater:
     def _normalize_url(self, url: str) -> str:
         """Normalize URL for consistent indexing."""
         parsed = urlparse(url)
-        # Remove fragment and query parameters for consistency
+        
+        # Preserve currency parameter if present
+        query_params = parse_qs(parsed.query)
+        if 'currency' in query_params:
+            # Keep only currency parameter
+            currency_query = urlencode({'currency': query_params['currency'][0]})
+        else:
+            currency_query = ''
+        
         normalized = urlunparse((
             parsed.scheme,
             parsed.netloc,
             parsed.path,
             parsed.params,
-            '',  # Remove query
+            currency_query,  # Preserve currency parameter
             ''   # Remove fragment
         ))
         return normalized.rstrip('/')
@@ -513,11 +521,14 @@ class AgnosticLLMsUpdater:
     def _scrape_category_page(self, url: str) -> Optional[Dict[str, Any]]:
         """Scrape category page using regular scrape endpoint."""
         try:
+            # Ensure EUR currency for proper pricing
+            eur_url = self._ensure_eur_currency(url)
+            
             response = requests.post(
                 f"{self.firecrawl_base_url}/scrape",
                 headers=self.headers,
                 json={
-                    "url": url,
+                    "url": eur_url,
                     "formats": ["markdown"],
                     "onlyMainContent": True
                 }
@@ -530,7 +541,7 @@ class AgnosticLLMsUpdater:
                 title = data["data"].get("metadata", {}).get("title", "")
                 
                 return {
-                    "url": url,
+                    "url": eur_url,  # Use EUR URL for indexing
                     "content": content,
                     "title": title,
                     "scraped_at": datetime.now().isoformat()
@@ -541,14 +552,41 @@ class AgnosticLLMsUpdater:
         
         return None
     
+    def _ensure_eur_currency(self, url: str) -> str:
+        """Ensure URL has EUR currency parameter for proper pricing."""
+        from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+        
+        parsed = urlparse(url)
+        query_params = parse_qs(parsed.query)
+        
+        # Add or update currency parameter to EUR
+        query_params['currency'] = ['EUR']
+        
+        # Reconstruct URL with EUR currency
+        new_query = urlencode(query_params, doseq=True)
+        eur_url = urlunparse((
+            parsed.scheme,
+            parsed.netloc,
+            parsed.path,
+            parsed.params,
+            new_query,
+            parsed.fragment
+        ))
+        
+        logger.debug(f"EUR currency URL: {url} -> {eur_url}")
+        return eur_url
+    
     def _extract_product_data(self, url: str) -> Optional[Dict[str, Any]]:
         """Extract structured product data using Firecrawl scrape endpoint with JSON format."""
         try:
+            # Ensure EUR currency for proper pricing
+            eur_url = self._ensure_eur_currency(url)
+            
             response = requests.post(
                 f"{self.firecrawl_base_url}/scrape",
                 headers=self.headers,
                 json={
-                    "url": url,
+                    "url": eur_url,
                     "formats": [{
                         "type": "json",
                         "schema": {
@@ -593,7 +631,7 @@ class AgnosticLLMsUpdater:
                     content = json.dumps(extracted_data, indent=2, ensure_ascii=False)
                     
                     return {
-                        "url": url,
+                        "url": eur_url,  # Use EUR URL for indexing
                         "content": content,
                         "title": extracted_data.get("product_name", ""),
                         "scraped_at": datetime.now().isoformat()
@@ -657,7 +695,7 @@ class AgnosticLLMsUpdater:
                 title = self.url_index[url]["title"]
                 
                 # Add content with header
-                header = f"<|{url}-lllmstxt|>\n## {title}\n\n"
+                header = f"<|{url}|>\n## {title}\n\n"
                 content_with_header = header + content + "\n\n"
                 
                 # Check character limit
