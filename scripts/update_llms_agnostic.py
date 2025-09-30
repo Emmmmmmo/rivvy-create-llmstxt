@@ -42,11 +42,12 @@ logger = logging.getLogger(__name__)
 class AgnosticLLMsUpdater:
     """Agnostic LLMs.txt updater that works with any configured website."""
     
-    def __init__(self, firecrawl_api_key: str, domain: str, output_dir: str = "out", max_characters: int = 300000):
+    def __init__(self, firecrawl_api_key: str, domain: str, output_dir: str = "out", max_characters: int = 300000, use_diff_extraction: bool = False):
         """Initialize the updater with domain and configuration."""
         self.firecrawl_api_key = firecrawl_api_key
         self.domain = domain
         self.max_characters = max_characters
+        self.use_diff_extraction = use_diff_extraction
         self.firecrawl_base_url = "https://api.firecrawl.dev/v2"
         self.headers = {
             "Authorization": f"Bearer {self.firecrawl_api_key}",
@@ -200,12 +201,107 @@ class AgnosticLLMsUpdater:
             logger.error(f"Failed to map website: {e}")
             return []
     
-    def _parse_prescraped_to_json(self, url: str, markdown_content: str) -> Dict[str, Any]:
+    def _extract_product_from_diff(self, diff_text: str) -> Optional[str]:
+        """
+        Extract only the new product information from a diff text.
+        This handles git-style diffs and extracts only the added lines.
+        """
+        try:
+            logger.info("Extracting new product from diff text")
+            
+            # Check if this is a git-style diff (starts with +++ or ---)
+            if diff_text.startswith('+++') or diff_text.startswith('---') or diff_text.startswith('@@'):
+                # Parse git diff format - extract only lines that start with '+' (additions)
+                added_lines = []
+                in_diff_section = False
+                
+                for line in diff_text.split('\n'):
+                    # Skip diff headers
+                    if line.startswith('+++') or line.startswith('---'):
+                        continue
+                    
+                    # Start of a diff section
+                    if line.startswith('@@'):
+                        in_diff_section = True
+                        continue
+                    
+                    # If in diff section and line starts with '+', it's an addition
+                    if in_diff_section and line.startswith('+'):
+                        # Remove the '+' prefix
+                        added_lines.append(line[1:])
+                    # Lines starting with '-' are deletions, skip them
+                    elif line.startswith('-'):
+                        continue
+                    # Lines without prefix are context, skip them in strict diff mode
+                    elif in_diff_section and not line.startswith(' '):
+                        # This is a new section or end of diff
+                        continue
+                
+                if added_lines:
+                    # Join the added lines to form the new product content
+                    new_product_content = '\n'.join(added_lines)
+                    logger.info(f"Extracted {len(added_lines)} new lines from diff")
+                    return new_product_content
+            
+            # If not a git diff or no additions found, look for product blocks in the diff
+            # Try to identify product information blocks (usually start with #)
+            product_blocks = []
+            current_block = []
+            
+            for line in diff_text.split('\n'):
+                # Check if this is a product heading (starts with # or ##)
+                if re.match(r'^#+\s+\w', line):
+                    # If we have a current block, save it
+                    if current_block:
+                        product_blocks.append('\n'.join(current_block))
+                        current_block = []
+                    # Start a new block
+                    current_block.append(line)
+                elif current_block:
+                    # Add to current block
+                    current_block.append(line)
+                elif line.strip() and not line.startswith(('+++', '---', '@@', 'diff')):
+                    # Potential product content line
+                    current_block.append(line)
+            
+            # Add the last block if any
+            if current_block:
+                product_blocks.append('\n'.join(current_block))
+            
+            # Return the first substantial product block
+            for block in product_blocks:
+                if len(block.strip()) > 50:  # Minimum content length
+                    logger.info(f"Extracted product block from diff ({len(block)} characters)")
+                    return block
+            
+            # If no structured product found, return the entire diff as-is
+            # (it might already be clean product content)
+            logger.info("No structured diff found, using content as-is")
+            return diff_text
+            
+        except Exception as e:
+            logger.error(f"Failed to extract product from diff: {e}")
+            return None
+    
+    def _parse_prescraped_to_json(self, url: str, markdown_content: str, is_diff: bool = False) -> Dict[str, Any]:
         """
         Parse pre-scraped markdown content into structured JSON format.
         This ensures webhook content matches the format of directly scraped content.
+        
+        Args:
+            url: The URL of the product
+            markdown_content: The markdown content to parse
+            is_diff: If True, the content is from a diff and contains only new product info
         """
         try:
+            # If this is diff content, extract only the new product
+            if is_diff:
+                extracted_content = self._extract_product_from_diff(markdown_content)
+                if extracted_content:
+                    markdown_content = extracted_content
+                else:
+                    logger.warning("Failed to extract product from diff, using original content")
+            
             # Extract title (usually first # heading)
             title_match = re.search(r'^#\s+(.+)$', markdown_content, re.MULTILINE)
             title = title_match.group(1) if title_match else "Product"
@@ -311,11 +407,11 @@ class AgnosticLLMsUpdater:
                 "scraped_at": datetime.now().isoformat()
             }
     
-    def _scrape_url(self, url: str, pre_scraped_content: Optional[str] = None) -> Optional[Dict[str, Any]]:
+    def _scrape_url(self, url: str, pre_scraped_content: Optional[str] = None, is_diff: bool = False) -> Optional[Dict[str, Any]]:
         """Scrape URL content using Firecrawl extract endpoint for clean product data."""
         if pre_scraped_content:
             # Parse pre-scraped content to match structured JSON format
-            return self._parse_prescraped_to_json(url, pre_scraped_content)
+            return self._parse_prescraped_to_json(url, pre_scraped_content, is_diff)
         
         # Check if this is a product URL (contains /products/)
         if '/products/' in url.lower():
@@ -982,6 +1078,7 @@ class AgnosticLLMsUpdater:
     def incremental_update(self, urls: List[str], operation: str, pre_scraped_content: Optional[str] = None) -> Dict[str, Any]:
         """Perform incremental update (add/change/remove URLs)."""
         logger.info(f"Performing incremental {operation} for {len(urls)} URLs")
+        logger.info(f"Diff extraction mode: {self.use_diff_extraction}")
         
         processed_count = 0
         touched_shards = set()
@@ -994,7 +1091,7 @@ class AgnosticLLMsUpdater:
                 
                 # Use pre-scraped content for the first URL if provided
                 content_to_use = pre_scraped_content if i == 0 and pre_scraped_content else None
-                scraped_data = self._scrape_url(url, content_to_use)
+                scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
                 if scraped_data:
                     shard_key = self._update_url_data(url, scraped_data)
                     touched_shards.add(shard_key)
@@ -1087,6 +1184,11 @@ def main():
         help="Path to file containing pre-scraped content (for rivvy-observer integration)"
     )
     parser.add_argument(
+        "--use-diff-extraction",
+        action="store_true",
+        help="Extract only new product from diff content (for page_added events)"
+    )
+    parser.add_argument(
         "--max-characters",
         type=int,
         default=300000,
@@ -1107,7 +1209,8 @@ def main():
         firecrawl_api_key=args.firecrawl_api_key,
         domain=args.domain,
         output_dir=args.output_dir,
-        max_characters=args.max_characters
+        max_characters=args.max_characters,
+        use_diff_extraction=args.use_diff_extraction
     )
     
     # Load pre-scraped content if provided

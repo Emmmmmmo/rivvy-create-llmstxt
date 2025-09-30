@@ -132,16 +132,47 @@ jobs:
                 page_url=$(jq -r ".changedPages[$i].url" /tmp/payload.json)
                 change_type=$(jq -r ".changedPages[$i].changeType" /tmp/payload.json)
                 scraped_content=$(jq -r ".changedPages[$i].scrapedContent.markdown // empty" /tmp/payload.json)
+                diff_text=$(jq -r ".changedPages[$i].diff.text // empty" /tmp/payload.json)
                 
                 echo "Processing page $((i+1))/$changed_pages_count: $page_url ($change_type)"
                 
                 case "$change_type" in
-                  "content_modified"|"page_added"|"content_changed")
+                  "page_added")
                     added_urls+=("$page_url")
                     
-                    # Save scraped content to temp file if available
-                    if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
-                      # Create a safe filename by hashing the URL to avoid length issues
+                    # For page_added, check if there's diff.text to extract only the new content
+                    if [ -n "$diff_text" ] && [ "$diff_text" != "null" ] && [ "$diff_text" != "empty" ]; then
+                      # Create a safe filename by hashing the URL
+                      url_hash=$(echo "$page_url" | md5sum | cut -d' ' -f1)
+                      diff_file="/tmp/diff_content_${i}_${url_hash}.md"
+                      printf '%s\n' "$diff_text" > "$diff_file"
+                      echo "Saved diff content for $page_url (page_added with diff)"
+                      
+                      # Mark this as a diff file for processing
+                      echo "$page_url" >> /tmp/diff_urls.txt
+                    elif [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
+                      # Fallback: use full scraped content if no diff.text available
+                      url_hash=$(echo "$page_url" | md5sum | cut -d' ' -f1)
+                      temp_file="/tmp/scraped_content_${i}_${url_hash}.md"
+                      printf '%s\n' "$scraped_content" > "$temp_file"
+                      echo "Saved scraped content for $page_url (page_added without diff)"
+                    fi
+                    ;;
+                  "content_modified"|"content_changed")
+                    added_urls+=("$page_url")
+                    
+                    # For content modifications, check if there's diff.text first
+                    if [ -n "$diff_text" ] && [ "$diff_text" != "null" ] && [ "$diff_text" != "empty" ]; then
+                      # Create a safe filename by hashing the URL
+                      url_hash=$(echo "$page_url" | md5sum | cut -d' ' -f1)
+                      diff_file="/tmp/diff_content_${i}_${url_hash}.md"
+                      printf '%s\n' "$diff_text" > "$diff_file"
+                      echo "Saved diff content for $page_url"
+                      
+                      # Mark this as a diff file for processing
+                      echo "$page_url" >> /tmp/diff_urls.txt
+                    elif [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
+                      # Fallback: use full scraped content if no diff available
                       url_hash=$(echo "$page_url" | md5sum | cut -d' ' -f1)
                       temp_file="/tmp/scraped_content_${i}_${url_hash}.md"
                       printf '%s\n' "$scraped_content" > "$temp_file"
@@ -164,10 +195,21 @@ jobs:
                 added_urls_json=$(printf '%s\n' "${added_urls[@]}" | jq -R . | jq -s .)
                 echo "Added URLs: $added_urls_json"
                 
-                # Use agnostic scraping system
-                echo "Using agnostic scraping system for $domain"
-                python3 scripts/update_llms_agnostic.py "$domain" \
-                  --added "$added_urls_json"
+                # Check if there are any diff-based URLs to process
+                if [ -f "/tmp/diff_urls.txt" ]; then
+                  echo "Detected diff-based content for incremental processing"
+                  
+                  # Use agnostic scraping system with diff mode
+                  echo "Using agnostic scraping system with diff extraction for $domain"
+                  python3 scripts/update_llms_agnostic.py "$domain" \
+                    --added "$added_urls_json" \
+                    --use-diff-extraction
+                else
+                  # Use agnostic scraping system normally
+                  echo "Using agnostic scraping system for $domain"
+                  python3 scripts/update_llms_agnostic.py "$domain" \
+                    --added "$added_urls_json"
+                fi
               fi
               
               # Process removed pages in batch
@@ -182,7 +224,7 @@ jobs:
               fi
               
               # Clean up temp files
-              rm -f /tmp/scraped_content_*.md
+              rm -f /tmp/scraped_content_*.md /tmp/diff_content_*.md /tmp/diff_urls.txt
               
             else
               # Legacy single-page format
@@ -190,23 +232,64 @@ jobs:
               
               change_type=$(jq -r '.change.changeType' /tmp/payload.json)
               scraped_content=$(jq -r '.scrapeResult.markdown // empty' /tmp/payload.json)
+              diff_text=$(jq -r '.change.diff.text // empty' /tmp/payload.json)
               
               echo "Site URL: $site_url"
               echo "Change type: $change_type"
               echo "Has scraped content: $([ -n "$scraped_content" ] && [ "$scraped_content" != "null" ] && echo "Yes" || echo "No")"
-              
-              # Create a temporary file with the scraped content (handle special characters safely)
-              temp_file="/tmp/scraped_content_$domain.md"
-              if [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
-                printf '%s\n' "$scraped_content" > "$temp_file"
-              fi
+              echo "Has diff text: $([ -n "$diff_text" ] && [ "$diff_text" != "null" ] && [ "$diff_text" != "empty" ] && echo "Yes" || echo "No")"
               
               # Process based on change type
               case "$change_type" in
-                "content_modified"|"page_added"|"content_changed")
+                "page_added")
+                  echo "Processing page_added for $domain"
+                  echo "Using agnostic scraping system for $domain"
+                  
+                  # Check if there's diff.text to extract only the new content
+                  if [ -n "$diff_text" ] && [ "$diff_text" != "null" ] && [ "$diff_text" != "empty" ]; then
+                    # Create temp file with diff content
+                    diff_file="/tmp/diff_content_$domain.md"
+                    printf '%s\n' "$diff_text" > "$diff_file"
+                    echo "Using diff extraction for new product only"
+                    
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --added "[\"$site_url\"]" \
+                      --pre-scraped-content "$diff_file" \
+                      --use-diff-extraction
+                  elif [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
+                    # Fallback: use full scraped content
+                    temp_file="/tmp/scraped_content_$domain.md"
+                    printf '%s\n' "$scraped_content" > "$temp_file"
+                    echo "No diff available, using full scraped content"
+                    
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --added "[\"$site_url\"]" \
+                      --pre-scraped-content "$temp_file"
+                  else
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --added "[\"$site_url\"]"
+                  fi
+                  ;;
+                "content_modified"|"content_changed")
                   echo "Processing content modification for $domain"
                   echo "Using agnostic scraping system for $domain"
-                  if [ -f "$temp_file" ]; then
+                  
+                  # Check if there's diff.text for incremental updates
+                  if [ -n "$diff_text" ] && [ "$diff_text" != "null" ] && [ "$diff_text" != "empty" ]; then
+                    # Create temp file with diff content
+                    diff_file="/tmp/diff_content_$domain.md"
+                    printf '%s\n' "$diff_text" > "$diff_file"
+                    echo "Using diff extraction for changes"
+                    
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --added "[\"$site_url\"]" \
+                      --pre-scraped-content "$diff_file" \
+                      --use-diff-extraction
+                  elif [ -n "$scraped_content" ] && [ "$scraped_content" != "null" ]; then
+                    # Fallback: use full scraped content
+                    temp_file="/tmp/scraped_content_$domain.md"
+                    printf '%s\n' "$scraped_content" > "$temp_file"
+                    
                     python3 scripts/update_llms_agnostic.py "$domain" \
                       --added "[\"$site_url\"]" \
                       --pre-scraped-content "$temp_file"
@@ -234,8 +317,8 @@ jobs:
                   ;;
               esac
               
-              # Clean up temp file
-              rm -f "$temp_file"
+              # Clean up temp files
+              rm -f /tmp/scraped_content_$domain.md /tmp/diff_content_$domain.md
             fi
             
             echo "Successfully processed webhook for $domain"
