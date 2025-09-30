@@ -201,14 +201,15 @@ class AgnosticLLMsUpdater:
             logger.error(f"Failed to map website: {e}")
             return []
     
-    def _extract_product_url_from_diff(self, diff_text: str) -> Optional[str]:
+    def _extract_product_url_from_diff(self, diff_text: str) -> List[str]:
         """
-        Extract product URL from a category page diff.
-        When a new product is added to a category page, extract the product URL.
+        Extract product URLs from a category page diff.
+        When new products are added to a category page, extract all product URLs.
         ONLY extracts URLs from ADDED lines (starting with +) to avoid existing products.
+        Returns a list of all valid product URLs found in the diff.
         """
         try:
-            logger.info("Extracting product URL from category page diff")
+            logger.info("Extracting product URLs from category page diff")
             
             # Image extensions to exclude
             image_extensions = ('.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.ico')
@@ -227,6 +228,8 @@ class AgnosticLLMsUpdater:
             # Pattern matches URLs like: https://domain.com/collections/.../products/product-name
             product_url_pattern = r'https?://[^\s\)]+/products/[^\s\)\]"\'>]+'
             matches = re.findall(product_url_pattern, added_content)
+            
+            all_valid_urls = []
             
             if matches:
                 # Filter out image URLs and prefer actual product pages
@@ -247,11 +250,7 @@ class AgnosticLLMsUpdater:
                     
                     valid_urls.append(url)
                 
-                if valid_urls:
-                    # Return the first valid product URL from added lines
-                    product_url = valid_urls[0]
-                    logger.info(f"Found product URL in diff (from added lines): {product_url}")
-                    return product_url
+                all_valid_urls.extend(valid_urls)
             
             # Also try to find relative product URLs in ADDED lines only
             # Pattern: /collections/.../products/product-name or /products/product-name
@@ -273,19 +272,25 @@ class AgnosticLLMsUpdater:
                             valid_relative.append(rel_url)
                 
                 if valid_relative:
-                    # Construct full URL using the base URL
-                    relative_url = valid_relative[0]
+                    # Construct full URLs using the base URL for all relative URLs
                     base_url = self.site_config["base_url"]
-                    product_url = urljoin(base_url, relative_url)
-                    logger.info(f"Found relative product URL in diff (from added lines), constructed: {product_url}")
-                    return product_url
+                    for relative_url in valid_relative:
+                        product_url = urljoin(base_url, relative_url)
+                        all_valid_urls.append(product_url)
             
-            logger.warning("No product URL found in diff")
-            return None
+            # Remove duplicates while preserving order
+            unique_urls = list(dict.fromkeys(all_valid_urls))
+            
+            if unique_urls:
+                logger.info(f"Found {len(unique_urls)} product URLs in diff (from added lines): {unique_urls}")
+                return unique_urls
+            else:
+                logger.warning("No product URLs found in diff")
+                return []
             
         except Exception as e:
-            logger.error(f"Failed to extract product URL from diff: {e}")
-            return None
+            logger.error(f"Failed to extract product URLs from diff: {e}")
+            return []
     
     def _extract_product_from_diff(self, diff_text: str) -> Optional[str]:
         """
@@ -1180,19 +1185,29 @@ class AgnosticLLMsUpdater:
                 content_to_use = pre_scraped_content if i == 0 and pre_scraped_content else None
                 
                 if is_category_page and self.use_diff_extraction and content_to_use:
-                    # This is a category page diff - extract the product URL from it
+                    # This is a category page diff - extract the product URLs from it
                     logger.info(f"Detected category page URL with diff: {url}")
-                    product_url = self._extract_product_url_from_diff(content_to_use)
+                    product_urls = self._extract_product_url_from_diff(content_to_use)
                     
-                    if product_url:
-                        # Process the extracted product URL instead
-                        logger.info(f"Processing extracted product URL: {product_url}")
-                        url = product_url
-                        # Don't use diff extraction for the actual product scraping
-                        scraped_data = self._scrape_url(url, None, is_diff=False)
+                    if product_urls:
+                        # Process each extracted product URL
+                        logger.info(f"Processing {len(product_urls)} extracted product URLs: {product_urls}")
+                        for product_url in product_urls:
+                            logger.info(f"Processing extracted product URL: {product_url}")
+                            # Don't use diff extraction for the actual product scraping
+                            scraped_data = self._scrape_url(product_url, None, is_diff=False)
+                            if scraped_data:
+                                # Use category-based shard key for all products from this category
+                                shard_key = self._get_shard_key_from_category_url(url)
+                                shard_key = self._update_url_data_with_category(product_url, scraped_data, shard_key)
+                                touched_shards.add(shard_key)
+                                processed_count += 1
+                            time.sleep(0.1)
+                        # Skip the original category page processing since we processed individual products
+                        continue
                     else:
-                        # Couldn't extract product URL, fall back to original behavior
-                        logger.warning("Could not extract product URL from diff, processing category page")
+                        # Couldn't extract product URLs, fall back to original behavior
+                        logger.warning("Could not extract product URLs from diff, processing category page")
                         scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
                 else:
                     # Normal product page or no diff extraction
