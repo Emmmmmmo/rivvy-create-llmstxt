@@ -15,3 +15,19 @@
   ]
 }
 
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/test_deburring_item-lllmstxt|>
+## Test_Deburring_Item
+
+{
+  "price": "$12.00",
+  "description": "For test purposes",
+  "availability": "Sold out",
+  "product_name": "Test_Deburring_Item",
+  "specifications": [
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
