@@ -88,5 +88,11 @@
     "markdown": "{\n  \"price\": \"$323.00\",\n  \"description\": \"Complete BaerCoil Thread-Repair-Kit\\n\\nContent:\\n1 x HSSG BaerCoil Standard Drill\\n1 x HSSG BaerCoil Tap\\n+ 5 BaerCoil Wire-Thread-Inserts \\\"free running\\\", stainless steel (ASIS 304), length: 2,0 x D\\nwithout Drill - suitable Drill in Shop\\nwithout Tang Break Tool - break tang with a needle-nosed pliers\",\n  \"availability\": \"In Stock\",\n  \"product_name\": \"G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)\",\n  \"specifications\": [\n    \"1 x HSSG BaerCoil Standard Drill\",\n    \"1 x HSSG BaerCoil Tap\",\n    \"5 BaerCoil Wire-Thread-Inserts \\\"free running\\\", stainless steel (ASIS 304), length: 2,0 x D\",\n    \"Suitable for thread repair of damaged or worn-out threads\",\n    \"Use in machine-building, electrical, automotive, medical and aerospace industries\"\n  ]\n}",
     "shard": "products",
     "updated_at": "2025-09-30T10:38:06.900980"
+  },
+  "https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/test_deburring_item": {
+    "title": "Test_Deburring_Item",
+    "markdown": "{\n  \"price\": \"$12.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
+    "shard": "products",
+    "updated_at": "2025-09-30T10:48:50.943527"
   }
 }
