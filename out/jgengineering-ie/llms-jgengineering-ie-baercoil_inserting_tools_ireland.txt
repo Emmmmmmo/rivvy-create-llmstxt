@@ -181,7 +181,7 @@
     "Backordered and will ship as soon as it is back in stock.",
     "Shipping Cost: €8.99",
     "Free Shipping on orders over €50",
-    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+    "Order before 2 PM for same-day shipping"
   ]
 }
 

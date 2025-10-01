@@ -6943,9 +6943,9 @@
   },
   "https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/test_deburring_item": {
     "title": "Test_Deburring_Item",
-    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Backordered and will ship as soon as it is back in stock.\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
+    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Backordered and will ship as soon as it is back in stock.\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\"\n  ]\n}",
     "shard": "baercoil_inserting_tools_ireland",
-    "updated_at": "2025-10-01T15:08:01.691097"
+    "updated_at": "2025-10-01T17:40:49.740471"
   },
   "https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m27-50-baercoil-drill-bit": {
     "title": "M27.50 BaerCoil Drill Bit",
