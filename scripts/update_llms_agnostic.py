@@ -570,9 +570,10 @@ class AgnosticLLMsUpdater:
         if pre_scraped_content:
             # Parse pre-scraped content to match structured JSON format
             return self._parse_prescraped_to_json(url, pre_scraped_content, is_diff)
-        
-        # Only process individual product URLs - skip collection/category pages
-        if '/products/' in url.lower():
+
+        # Only process individual product URLs - skip collection/category pages (agnostic)
+        product_pattern = self.site_config.get('url_patterns', {}).get('product', '/products/')
+        if product_pattern in url.lower():
             return self._extract_product_data(url)
         else:
             # Skip collection/category pages - they contain HTML that pollutes shards
@@ -1339,7 +1340,8 @@ class AgnosticLLMsUpdater:
                 is_category_page = product_pattern not in url.lower()
                 content_to_use = pre_scraped_content if i == 0 and pre_scraped_content else None
                 
-                if is_category_page and self.use_diff_extraction and content_to_use:
+                # For removals: if diff content is provided for a category page, treat as diff mode even if flag wasn't set
+                if is_category_page and content_to_use:
                     # This is a category page diff - extract the REMOVED product URLs from it
                     logger.info(f"Detected category page removal with diff: {url}")
                     removed_product_urls = self._extract_product_url_from_diff(content_to_use, removed_only=True)
@@ -1355,8 +1357,32 @@ class AgnosticLLMsUpdater:
                             logger.info(f"Removing product URL: {product_url}")
                             self._remove_url_data(product_url)
                             processed_count += 1
+                        # After removal, ensure shard file for this category is rewritten to trigger hash change
+                        if shard_key in self.manifest:
+                            filepaths = self._write_shard_file(shard_key, self.manifest[shard_key])
+                            written_files.extend(filepaths)
                     else:
-                        logger.warning("Could not extract removed product URLs from diff")
+                        logger.warning("Could not extract removed product URLs from diff; attempting fallback scrape to diff against manifest")
+                        # Fallback: scrape current category page, extract product URLs, and remove those missing
+                        cat_data = self._scrape_category_page(url)
+                        if cat_data and cat_data.get("content"):
+                            current_urls = self._extract_product_url_from_diff(cat_data["content"], removed_only=False)
+                            current_set = set(current_urls)
+                            shard_key = self._get_shard_key_from_category_url(url)
+                            touched_shards.add(shard_key)
+                            # Get existing URLs for this shard from manifest
+                            existing_urls = list(self.manifest.get(shard_key, []))
+                            to_remove = [u for u in existing_urls if u not in current_set]
+                            if to_remove:
+                                logger.info(f"Fallback removal identified {len(to_remove)} URLs to remove from shard {shard_key}")
+                                for product_url in to_remove:
+                                    self._remove_url_data(product_url)
+                                    processed_count += 1
+                                if shard_key in self.manifest:
+                                    filepaths = self._write_shard_file(shard_key, self.manifest[shard_key])
+                                    written_files.extend(filepaths)
+                            else:
+                                logger.info("Fallback removal found no URLs to remove")
                 else:
                     # Direct product URL removal or no diff extraction
                     normalized_url = self._normalize_url(url)
@@ -1439,6 +1465,11 @@ def main():
         "--pre-scraped-content",
         help="Path to file containing pre-scraped content (for rivvy-observer integration)"
     )
+    # Alias to align with workflow passing --diff-file for page_removed
+    parser.add_argument(
+        "--diff-file",
+        help="Alias for --pre-scraped-content when passing diff content file"
+    )
     parser.add_argument(
         "--use-diff-extraction",
         action="store_true",
@@ -1469,10 +1500,11 @@ def main():
         use_diff_extraction=args.use_diff_extraction
     )
     
-    # Load pre-scraped content if provided
+    # Load pre-scraped content if provided (support --pre-scraped-content or --diff-file)
     pre_scraped_content = None
-    if args.pre_scraped_content and os.path.exists(args.pre_scraped_content):
-        with open(args.pre_scraped_content, 'r', encoding='utf-8') as f:
+    content_path = args.pre_scraped_content or args.diff_file
+    if content_path and os.path.exists(content_path):
+        with open(content_path, 'r', encoding='utf-8') as f:
             pre_scraped_content = f.read()
     
     # Execute operation
@@ -1491,7 +1523,7 @@ def main():
             result = updater.incremental_update(urls, "changed", pre_scraped_content)
         elif args.removed:
             urls = json.loads(args.removed)
-            result = updater.incremental_update(urls, "removed")
+            result = updater.incremental_update(urls, "removed", pre_scraped_content)
         
         # Print results
         print(json.dumps(result, indent=2))
