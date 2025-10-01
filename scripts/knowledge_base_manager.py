@@ -150,8 +150,26 @@ class ElevenLabsKnowledgeBaseManager:
                     logger.info(f"⏭️  Skipping unchanged file: {file_path.name}")
                     skipped_count += 1
                     continue
+                
+                # File has changed - delete old document first
+                old_document_id = self.sync_state[file_key].get('document_id')
+                if old_document_id:
+                    logger.info(f"🗑️  Removing old version of {file_path.name} (ID: {old_document_id})")
+                    
+                    # First, unassign from agent if it's assigned
+                    agent_id = self._get_agent_id_for_domain(domain)
+                    if agent_id:
+                        logger.info(f"🔗 Unassigning old document from agent before deletion")
+                        self._unassign_document_from_agent(agent_id, [old_document_id])
+                    
+                    # Then delete the document
+                    if self.remove_document_by_id(old_document_id):
+                        logger.info(f"✅ Deleted old document: {old_document_id}")
+                    else:
+                        logger.warning(f"⚠️  Failed to delete old document: {old_document_id}")
+                    time.sleep(0.5)  # Rate limiting
             
-            # Upload file
+            # Upload file (new or updated)
             document_id = self._upload_file_to_knowledge_base(file_path, file_path.name)
             if document_id:
                 # Update sync state with full document info
@@ -492,6 +510,32 @@ class ElevenLabsKnowledgeBaseManager:
                 return False
         except Exception as e:
             logger.error(f"Error updating agent: {e}")
+            return False
+    
+    def _get_agent_id_for_domain(self, domain: str) -> Optional[str]:
+        """Get agent ID for a domain."""
+        agent_config = self.config.get('agents', {}).get(domain, {})
+        return agent_config.get('agent_id')
+    
+    def _unassign_document_from_agent(self, agent_id: str, document_ids: List[str]) -> bool:
+        """Unassign documents from an agent."""
+        try:
+            # Get current knowledge base
+            current_kb = self._get_agent_knowledge_base(agent_id)
+            if not current_kb:
+                logger.warning(f"No knowledge base found for agent {agent_id}")
+                return False
+            
+            # Filter out the documents to unassign
+            new_knowledge_base = [
+                doc for doc in current_kb 
+                if doc.get('id') not in document_ids
+            ]
+            
+            # Update agent with new knowledge base
+            return self._update_agent_knowledge_base(agent_id, new_knowledge_base)
+        except Exception as e:
+            logger.error(f"Error unassigning documents from agent: {e}")
             return False
     
     def sync_domain(self, domain: str, force_upload: bool = False, verify_rag: bool = True) -> bool:
