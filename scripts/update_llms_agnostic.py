@@ -278,10 +278,18 @@ class AgnosticLLMsUpdater:
             content = '\n'.join(target_lines)
             logger.debug(f"Extracted {len(target_lines)} {'removed' if removed_only else 'added'} lines from diff")
             
+            # Get product URL pattern from site config (agnostic approach)
+            product_pattern = self.site_config.get('url_patterns', {}).get('product', '/products/')
+            # Escape special regex characters in the pattern
+            escaped_pattern = re.escape(product_pattern)
+            
             # Look for product URLs in the target content (added or removed)
-            # Pattern matches URLs like: https://domain.com/collections/.../products/product-name
-            product_url_pattern = r'https?://[^\s\)]+/products/[^\s\)\]"\'>]+'
+            # Pattern matches URLs like: https://domain.com/[product_pattern]/product-name
+            # This is agnostic and works with any site's URL structure
+            product_url_pattern = rf'https?://[^\s\)]+{escaped_pattern}[^\s\)\]"\'>]+'
             matches = re.findall(product_url_pattern, content)
+            
+            logger.debug(f"Using product pattern '{product_pattern}' from site config")
             
             all_valid_urls = []
             
@@ -306,20 +314,25 @@ class AgnosticLLMsUpdater:
                 
                 all_valid_urls.extend(valid_urls)
             
-            # Also try to find relative product URLs in ADDED lines only
-            # Pattern: /collections/.../products/product-name or /products/product-name
-            relative_pattern = r'/(?:collections/[^/\s]+/)?products/[a-zA-Z0-9_-]+'
-            relative_matches = re.findall(relative_pattern, added_content)
+            # Also try to find relative product URLs (agnostic approach)
+            # Get collection and product patterns from site config
+            collection_pattern = self.site_config.get('url_patterns', {}).get('collection', '/collections/')
+            # Build relative pattern using site config (more flexible)
+            # Pattern: /[collection_pattern]/.../[product_pattern]/product-name or /[product_pattern]/product-name
+            escaped_collection = re.escape(collection_pattern.strip('/'))
+            escaped_product = re.escape(product_pattern.strip('/'))
+            relative_pattern = rf'/(?:{escaped_collection}/[^/\s]+/)?{escaped_product}/[a-zA-Z0-9_-]+'
+            relative_matches = re.findall(relative_pattern, content)
             
             if relative_matches:
                 # Filter out any that might be part of image paths
                 valid_relative = []
                 for rel_url in relative_matches:
                     # Check the context around it to see if it's a link, not an image path
-                    if rel_url in added_content:
+                    if rel_url in content:
                         # Get a snippet of context
-                        idx = added_content.find(rel_url)
-                        context = added_content[max(0, idx-50):min(len(added_content), idx+len(rel_url)+50)]
+                        idx = content.find(rel_url)
+                        context = content[max(0, idx-50):min(len(content), idx+len(rel_url)+50)]
                         
                         # If it's in a markdown link or href, it's likely a product page
                         if '(' + rel_url + ')' in context or 'href="' + rel_url in context or "href='" + rel_url in context:
@@ -1274,7 +1287,9 @@ class AgnosticLLMsUpdater:
                 logger.info(f"Processing {operation}: {url}")
                 
                 # Check if this is a category page and we have diff extraction enabled
-                is_category_page = '/products/' not in url.lower()
+                # Use site config to determine if it's a product page (agnostic approach)
+                product_pattern = self.site_config.get('url_patterns', {}).get('product', '/products/')
+                is_category_page = product_pattern not in url.lower()
                 content_to_use = pre_scraped_content if i == 0 and pre_scraped_content else None
                 
                 if is_category_page and self.use_diff_extraction and content_to_use:
@@ -1319,7 +1334,9 @@ class AgnosticLLMsUpdater:
                 logger.info(f"Removing: {url}")
                 
                 # Check if this is a category page and we have diff extraction enabled
-                is_category_page = '/products/' not in url.lower()
+                # Use site config to determine if it's a product page (agnostic approach)
+                product_pattern = self.site_config.get('url_patterns', {}).get('product', '/products/')
+                is_category_page = product_pattern not in url.lower()
                 content_to_use = pre_scraped_content if i == 0 and pre_scraped_content else None
                 
                 if is_category_page and self.use_diff_extraction and content_to_use:
