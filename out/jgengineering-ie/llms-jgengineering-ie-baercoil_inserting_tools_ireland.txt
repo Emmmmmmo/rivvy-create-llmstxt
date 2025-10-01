@@ -178,7 +178,7 @@
   "availability": "Sold out",
   "product_name": "Test_Deburring_Item",
   "specifications": [
-    "Backordered and will ship as soon as it is back in stock.",
+    "Backordered and will ship as soon as it is back in stock",
     "Shipping Cost: €8.99",
     "Free Shipping on orders over €50",
     "Order before 2 PM for same-day shipping"
