@@ -240,10 +240,26 @@ jobs:
                 echo "Processing ${#removed_urls[@]} removed pages..."
                 removed_urls_json=$(printf '%s\n' "${removed_urls[@]}" | jq -R . | jq -s .)
                 echo "Removed URLs: $removed_urls_json"
-                
-                # Use agnostic scraping system
-                python3 scripts/update_llms_agnostic.py "$domain" \
-                  --removed "$removed_urls_json"
+
+                # If any diff files were captured, pass the first one as --diff-file
+                if [ -f "/tmp/diff_urls.txt" ]; then
+                  echo "Detected diff-based content for removals"
+                  first_diff_file=$(ls -1 /tmp/diff_content_*.md 2>/dev/null | head -1)
+                  if [ -n "$first_diff_file" ] && [ -f "$first_diff_file" ]; then
+                    echo "Using diff file: $first_diff_file for removals"
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --removed "$removed_urls_json" \
+                      --diff-file "$first_diff_file"
+                  else
+                    echo "No diff file found for removals; proceeding without diff"
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --removed "$removed_urls_json"
+                  fi
+                else
+                  # No diff info collected; proceed without diff
+                  python3 scripts/update_llms_agnostic.py "$domain" \
+                    --removed "$removed_urls_json"
+                fi
               fi
               
               # Clean up temp files
