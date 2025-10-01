@@ -1,0 +1,848 @@
+<|https://www.jgengineering.ie/products/ba-4-baercoil-kit-helicoil|>
+## BA 4 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€170.97",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BA 4 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/ba-0-baercoil-kit-helicoil|>
+## BA 0 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€157.81",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BA 0 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/g-bsp-1-x-11-baercoil-kit-helicoil|>
+## G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€270.60",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unf-4-x-48-baercoil-kit-helicoil|>
+## UNF 4 x 48 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€27.00",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x M3.0 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D",
+  "availability": "Unavailable",
+  "product_name": "UNF 4 x 48 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M3.0 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unc-1-x-8-baercoil-kit|>
+## UNC 1" X 8 BaerCoil Kit
+
+{
+  "price": "€345.65",
+  "description": "BaerCoil Thread Repair Kit UNC 1'' x 8. With this BaerCoil® thread repair set it is possible to repair through hole and blind-hole threads in UNC 1\" x 8. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the hand tap with oversize for insert threads, insertion tool and wire thread inserts made of stainless steel. This set does not include twist drill bit and tang breaker. To drill the core hole, a 26.25 mm twist drill bit is still needed here. The tenon can be broken with the installation tool. To do this, pull the installation tool back after installation and turn it 90° so that it rests on the tenon. Then strike the tool briefly at the back. BaerCoil® thread inserts can be shortened, if necessary, to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 1\" X 8 BaerCoil Kit",
+  "specifications": [
+    "Diameter: 1\"",
+    "Pitch: 8",
+    "Dimension: UNC 1\" x 8",
+    "Length: 1.5 D",
+    "T (Length when installed): 38.1 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m6x10handtapset-262733801p19|>
+## M6 X 1.0 HAND TAP SET - 262733801 (P19)
+
+{
+  "price": "€6.65",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M6 X 1.0 HAND TAP SET - 262733801 (P19)",
+  "specifications": [
+    "Diameter: 6 mm",
+    "Nominal diameter in inches: 0.236",
+    "Nominal diameter in mm: 6",
+    "Pitch: 1.0 mm",
+    "Square: 4.9 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 352"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unc-no-3-x-48-baer-hssg-hand-tap-set-3pcs|>
+## UNC No. 3 x 48 BAER HSSG Hand Tap Set (3pcs.)
+
+{
+  "price": "€33.53",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "UNC No. 3 x 48 BAER HSSG Hand Tap Set (3pcs.)",
+  "specifications": [
+    "Diameter: No. 3",
+    "Nominal diameter in inches: 0.099",
+    "Nominal diameter in mm: 2.515",
+    "Pitch: 48",
+    "Pitch in mm: 0.529",
+    "Dimension: UNC No. 3 x 48",
+    "Square: 2.1 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2B",
+    "Direction: Right",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unf-10-x-32-baercoil-kit-helicoil|>
+## UNF 10 x 32 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€55.07",
+  "description": "BaerCoil Thread Repair Kit UNF 10 x 32. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in UNF No. 10 x 32. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNF 10 x 32 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: No. 10",
+    "Pitch: 32",
+    "Dimension: UNF No. 10 x 32",
+    "Length: 1.5 D",
+    "T (Length when installed): 7.24 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m3x05baerfixkit|>
+## M3 X 0.5 BaerFix Kit
+
+{
+  "price": "€39.15",
+  "description": "M3 X 0.5 BaerFix Kit is backordered and will ship as soon as it is back in stock. With the BaerFix® thread repair set, damaged M 3 threads can be repaired quickly and easily. This set contains all the tools you need to achieve a permanent and strong anchorage in various materials. The BaerFix® thread repair set is ideal for materials such as aluminium, light metals, non-ferrous metals, brass, bronze, cast iron, plastics, laminates and hardwood. Please note that the set is only suitable for materials with a tensile strength up to approx. 450 N/mm². BaerFix® thread inserts are self-tapping, guarantee a permanently tight threaded connection in your workpiece and are extremely easy to use. Simply screw into the hole - the inserts cut the holding thread themselves. Once your thread is worn or torn out, a stable connection between the materials is no longer possible. This is where BaerFix® thread insert comes to the rescue. With our self-tapping thread inserts you can repair or strengthen damaged internal thread. Damaged threads in your components do not have to be rejects. Simply insert a threaded insert with the same internal thread into the component and your thread will not only be repaired, it will also be more pull-out resistant and wear resistant. The pull-out strength is higher than a class 8.8 screw. To assist with the repair, the set includes a core drill bit and an assembly tool in addition to the thread inserts. Use the core drill bit to prepare the core hole and the installation tool to insert the self-tapping thread insert.",
+  "availability": "Unavailable",
+  "product_name": "M3 X 0.5 BaerFix Kit",
+  "specifications": [
+    "Diameter: 3",
+    "Pitch: 0.5",
+    "Product group: Self-cutting thread inserts - Thread repair kits",
+    "Speed guide value for light metals: 650-900 R/min",
+    "Product type: BaerFix thread repair kits",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: with cutting slots",
+    "Material: Case-hardened steel, galvanized"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m11-x-1-0-baercoil-kit-helicoil|>
+## M11 X 1.0 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€149.56",
+  "description": "M11 X 1.0 BaerCoil Kit (Helicoil Type) is backordered and will ship as soon as it is back in stock. This BaerCoil® thread repair-set allows for the repair of through hole threads and blind hole threads in MF 11 x 1.0. The kit includes various auxiliary tools such as a core drill bit, hand tap, insertion tool, tang breaker, and wire thread inserts made of stainless steel.",
+  "availability": "Unavailable",
+  "product_name": "M11 X 1.0 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 11 mm",
+    "Pitch: 1.0 mm",
+    "Length when installed: 16.5 mm",
+    "Material: Stainless Steel V2A (AISI 304)",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baerfix-thread-repair-kit-unc-1-2-x-13-like-timesert|>
+## BaerFix Thread Repair Kit UNC 1/2 x 13 like timesert
+
+{
+  "price": "€122.88",
+  "description": "BaerFix Thread Repair Kit UNC 1/2 x 13 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNC 1/2 x 13 like timesert",
+  "specifications": [
+    "Inside thread: UNC 1/2 x 13",
+    "Length: 22 mm",
+    "External Thread: M 18 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/bsw-7-16-x-14-baercoil-kit-helicoil|>
+## BSW 7/16 x 14 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€77.98",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap > ISO1-4H\n1 x BaerCoil Inserting Tool\n(with this Inserting tool you don't need a tang break tool)\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\n\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "BSW 7/16 x 14 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap > ISO1-4H",
+    "1 x BaerCoil Inserting Tool",
+    "10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baerfix-thread-repair-kit-m-14-x-1-5-like-timesert|>
+## BaerFix Thread Repair Kit M 14 x 1,5 like timesert
+
+{
+  "price": "€67.53",
+  "description": "BaerFix Thread Repair Kit M 14 - type: ECO. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 14 x 1,5 like timesert",
+  "specifications": [
+    "Inside thread: M 14 x 1,5",
+    "Length: 24 mm",
+    "Outside thread: M 18 x 1,5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baerfix-thread-repair-kit-m-20-x-2-5-like-timesert|>
+## BaerFix Thread Repair Kit M 20 x 2,5 like timesert
+
+{
+  "price": "€104.55",
+  "description": "BaerFix Thread Repair Kit M 20 - type: ECO. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 20 x 2,5 like timesert",
+  "specifications": [
+    "Inside thread: M 20 x 2,5",
+    "Length: 27 mm",
+    "External Thread: M 26 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m20x25baerfixkitseco|>
+## M20 X 2.5 BAERFIX KITS ECO
+
+{
+  "price": "€185.84",
+  "description": "BaerFix Thread Repair Kit M 20 x 2.5 - ECO. With the BaerFix® thread repair set, damaged M 20 threads can be repaired quickly and easily. This set contains all the tools you need to achieve a permanent and strong anchorage in various materials. The BaerFix® thread repair set is ideal for materials such as aluminium, light metals, non-ferrous metals, brass, bronze, cast iron, plastics, laminates and hardwood. Please note that the set is only suitable for materials with a tensile strength up to approx. 450 N/mm². BaerFix® thread inserts are self-tapping, guarantee a permanently tight threaded connection in your workpiece and are extremely easy to use. Simply screw into the hole - the inserts cut the holding thread themselves. Once your thread is worn or torn out, a stable connection between the materials is no longer possible. This is where BaerFix® thread insert comes to the rescue. With our self-tapping thread inserts you can repair or strengthen damaged internal thread. Damaged threads in your components do not have to be rejects. Simply insert a threaded insert with the same internal thread into the component and your thread will not only be repaired, it will also be more pull-out resistant and wear resistant. The pull-out strength is higher than a class 8.8 screw. To assist with the repair, the set includes a core drill bit and an assembly tool in addition to the thread inserts. Use the core drill bit to prepare the core hole and the installation tool to insert the self-tapping thread insert.",
+  "availability": "Unavailable",
+  "product_name": "M20 X 2.5 BAERFIX KITS ECO",
+  "specifications": [
+    "Diameter: 20",
+    "Pitch: 2.5",
+    "Dimension: M 20 x 2.5",
+    "Product group: Self-cutting thread inserts - Thread repair kits",
+    "Product type: BaerFix thread repair kits",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: with cutting slots",
+    "Material: Case-hardened steel, galvanized",
+    "Maximum insertion torque: 310 Nm",
+    "Speed guide value for light metals: 120-200 R/min",
+    "Drilling depth: Min. drilling depth for through hole: 27.00 mm, Min. drilling depth for blind hole: 32.00 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m5-m8-baercoil-workshop-kit-helicoil|>
+## M5 - M8 BaerCoil Workshop Kit (Helicoil Type)
+
+{
+  "price": "€97.79",
+  "description": "M5 - M8 BaerCoil Workshop Kit (Helicoil Type) is backordered and will ship as soon as it is back in stock.",
+  "availability": "Sold out",
+  "product_name": "M5 - M8 BaerCoil Workshop Kit (Helicoil Type)",
+  "specifications": [
+    "Box Content: BaerCoil Drill HSS, STI Bottoming Tap HSSG, BaerCoil Inserting Tool, BaerCoil Tang Break Tool, Wire Thread Inserts - type: 'free running' - lengths: 1.5 D - 2.5 D",
+    "Lengths of the Wire Thread Inserts: 1.5 D and 2.5 D (D= Diameter) - stainless Steel",
+    "Use in machine-building, electrical, automotive, medical and aerospace industries."
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unf-6-x-40-baercoil-kit-helicoil|>
+## UNF 6 x 40 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€27.00",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x M3.7 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D",
+  "availability": "Unavailable",
+  "product_name": "UNF 6 x 40 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M3.7 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m8-x-1-0-baercoil-kit-helicoil|>
+## M8 X 1.0 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€53.48",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x M8.3 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap > ISO1-4H\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M8 X 1.0 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M8.3 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap > ISO1-4H",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m2-2-x-0-45-baercoil-kit-helicoil|>
+## M2.2 X 0.45 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€90.38",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x M2.3 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap > ISO1-4H\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M2.2 X 0.45 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M2.3 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap > ISO1-4H",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m10x15baerfixkits|>
+## M10 X 1.5 BAERFIX KITS
+
+{
+  "price": "€54.48",
+  "description": "BaerFix Thread Repair Kit M 10 x 1.5 - ECO. With the BaerFix® thread repair set, damaged M 10 threads can be repaired quickly and easily. This set contains all the tools you need to achieve a permanent and strong anchorage in various materials. The BaerFix® thread repair set is ideal for materials such as aluminium, light metals, non-ferrous metals, brass, bronze, cast iron, plastics, laminates and hardwood. Please note that the set is only suitable for materials with a tensile strength up to approx. 450 N/mm². BaerFix® thread inserts are self-tapping, guarantee a permanently tight threaded connection in your workpiece and are extremely easy to use. Simply screw into the hole - the inserts cut the holding thread themselves. Once your thread is worn or torn out, a stable connection between the materials is no longer possible. This is where BaerFix® thread insert comes to the rescue. With our self-tapping thread inserts you can repair or strengthen damaged internal thread. Damaged threads in your components do not have to be rejects. Simply insert a threaded insert with the same internal thread into the component and your thread will not only be repaired, it will also be more pull-out resistant and wear resistant. The pull-out strength is higher than a class 8.8 screw. To assist with the repair, the set includes a core drill bit and an assembly tool in addition to the thread inserts. Use the core drill bit to prepare the core hole and the installation tool to insert the self-tapping thread insert.",
+  "availability": "Unavailable",
+  "product_name": "M10 X 1.5 BAERFIX KITS",
+  "specifications": [
+    "Diameter: 10",
+    "Pitch: 1.5",
+    "Dimension: M 10 x 1.5",
+    "Product group: Self-cutting thread inserts - Thread repair kits",
+    "Product type: BaerFix thread repair kits",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: with cutting slots",
+    "Material: Case-hardened steel, galvanized",
+    "Maximum insertion torque: 40 Nm",
+    "Speed guide value for light metals: 200-300 R/min",
+    "Drilling depth: Min. drilling depth for through hole: 18.00 mm, Min. drilling depth for blind hole: 22.00 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baerfix-thread-repair-kit-m-12-x-1-5-like-timesert|>
+## BaerFix Thread Repair Kit M 12 x 1,5 like timesert
+
+{
+  "price": "€63.22",
+  "description": "BaerFix Thread Repair Kit M 12 - type: ECO\nApplicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc.\nFor very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert.\n(You can find screw lockings at accessories)\ninside thread: M 12 x 1,5\nlength: 22 mm\noutside thread: M 16 x 1,5\nkit content:\n1 x HSS spiral drill\n1 x BaerFix inserting tool\n5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated\n+ instruction for use\nApplication:\n- Thread Armour Plating. For material with low shear strength eg. aluminum-alloys and magnesium alloys.\n- Recovery of rejected items.\n- Thread Repair of damaged or worn-out threads.\nUse in machine building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 12 x 1,5 like timesert",
+  "specifications": [
+    "inside thread: M 12 x 1,5",
+    "length: 22 mm",
+    "outside thread: M 16 x 1,5",
+    "kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/bsw-7-8-x-9-baercoil-kit-helicoil|>
+## BSW 7/8 x 9 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€220.29",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "BSW 7/8 x 9 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/g-bsp-1-2-x-14-baercoil-kit-helicoil|>
+## G (BSP) 1/2 x 14 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€109.47",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 1/2 x 14 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unc-no-10-x-24-baer-hssg-hand-tap-set-3pcs|>
+## UNC No. 10 x 24 BAER HSSG Hand Tap Set (3pcs.)
+
+{
+  "price": "€22.26",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "UNC No. 10 x 24 BAER HSSG Hand Tap Set (3pcs.)",
+  "specifications": [
+    "Diameter: No. 10",
+    "Nominal diameter in inches: 0.19",
+    "Nominal diameter in mm: 4.826",
+    "Pitch: 24",
+    "Pitch in mm: 1.058",
+    "Dimension: UNC No. 10 x 24",
+    "Square: 4.9 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2B",
+    "Direction: Right",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/carburetor-7-8-x-20-baercoil-kit-helicoil|>
+## Carburetor 7/8 x 20 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€787.85",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "Carburetor 7/8 x 20 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baerfix-thread-repair-kit-unf-7-16-x-20-like-timesert|>
+## BaerFix Thread Repair Kit UNF 7/16 x 20 like timesert
+
+{
+  "price": "€81.06",
+  "description": "BaerFix Thread Repair Kit UNF 7/16 x 20 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNF 7/16 x 20 like timesert",
+  "specifications": [
+    "Inside thread: UNF 7/16 x 20",
+    "Length: 22 mm",
+    "External Thread: M 16 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baerfix-thread-repair-kit-m-12-x-1-75-like-timesert|>
+## BaerFix Thread Repair Kit M 12 x 1,75 like timesert
+
+{
+  "price": "€35.55",
+  "description": "BaerFix Thread Repair Kit M 12 - type: ECO. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 12 x 1,75 like timesert",
+  "specifications": [
+    "Inside thread: M 12 x 1,75",
+    "Length: 22 mm",
+    "Outside thread: M 16 x 1,5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m14-x-1-25-baercoil-kit-helicoil|>
+## M14 X 1.25 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€75.90",
+  "description": "BaerCoil Thread Repair Kit M 14 x 1.25. With this BaerCoil® thread repair-set it is possible to repair through hole threads and blind hole threads in MF 14 x 1.25. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool and wire thread inserts made of stainless steel. No tang breaker is included in this set. The tang can be broken with the installation tool. To do this, pull back the installation tool after installation and turn it 90° so that it rests on the tang. Then strike the tool briefly at the back. BaerCoil® thread inserts can be shortened, if necessary, to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M14 X 1.25 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 14",
+    "Pitch: 1.25",
+    "Dimension: MF 14 x 1.25",
+    "Length: 1.5 D",
+    "T (Length when installed): 21 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m22-x-2-0-baercoil-kit|>
+## M22 X 2.0 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€182.50",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Tap > ISO1-4H\n1 x BaerCoil Inserting Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M22 X 2.0 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Tap > ISO1-4H",
+    "1 x BaerCoil Inserting Tool",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m12x10baertapset|>
+## M12 X 1.0 BAER TAP SET
+
+{
+  "price": "€25.80",
+  "description": "BAER HSSG Hand Tap Set (2pcs.) MF 12 x 1.0. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M12 X 1.0 BAER TAP SET",
+  "specifications": [
+    "Diameter: 12",
+    "Nominal diameter in inches: 0.472",
+    "Nominal diameter in mm: 12",
+    "Pitch: 1.0",
+    "Pitch in mm: 1",
+    "Dimension: MF 12 x 1.0",
+    "Square: 7 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unc-11-16-x-11-baercoil-kit|>
+## UNC 11/16 x 11 BaerCoil Kit
+
+{
+  "price": "€596.40",
+  "description": "Complete BaerCoil Thread-Repair-Kit. Contents: 1 x HSSG BaerCoil Tap, 1 x BaerCoil Inserting Tool, + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D. BaerCoil: Thread Repair of damaged or worn-out threads, Recovery of rejected items, Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "UNC 11/16 x 11 BaerCoil Kit",
+  "specifications": [
+    "SKU: B41116",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Contents: 1 x HSSG BaerCoil Tap, 1 x BaerCoil Inserting Tool, + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/916-x-12-unc-baer-tap-set|>
+## 9/16 x 12 UNC Baer Tap Set
+
+{
+  "price": "€58.57",
+  "description": "BAER HSSG Hand Tap Set (3pcs.) UNC 9/16 x 12. The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "9/16 x 12 UNC Baer Tap Set",
+  "specifications": [
+    "Diameter: 9/16",
+    "Nominal diameter in inches: 0.563",
+    "Nominal diameter in mm: 14.288",
+    "Pitch: 12",
+    "Pitch in mm: 2.117",
+    "Dimension: UNC 9/16 x 12",
+    "Square: 9 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2B",
+    "Direction: Right",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m18-x-2-5-baercoil-kit-helicoil|>
+## M18 X 2.5 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€117.94",
+  "description": "BaerCoil Thread Repair Kit M 18 x 2.5. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in M 18 x 2.5. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the hand tap with oversize for insert threads, insertion tool and wire thread inserts made of stainless steel. This set does not include twist drill bit and tang breaker. To drill the core hole, an 18.5 mm twist drill bit is still needed here. The tenon can be broken with the installation tool. To do this, pull the installation tool back after installation and turn it 90° so that it rests on the tenon. Then strike the tool briefly at the back. BaerCoil® thread inserts can be shortened, if necessary, to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M18 X 2.5 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 18",
+    "Pitch: 2.5",
+    "Dimension: M 18 x 2.5",
+    "Length: 1.5 D",
+    "T (Length when installed): 27 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/ba-6-baercoi-kit-helicoil|>
+## BA 6 BaerCoi Kit (Helicoil Type)
+
+{
+  "price": "€184.01",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BA 6 BaerCoi Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m20x15tapset|>
+## M20 X 1.5 TAP SET
+
+{
+  "price": "€44.99",
+  "description": "BAER HSSG Hand Tap Set (2pcs.) MF 20 x 1.5. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M20 X 1.5 TAP SET",
+  "specifications": [
+    "Diameter: 20",
+    "Nominal diameter in inches: 0.787",
+    "Nominal diameter in mm: 20",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: MF 20 x 1.5",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m14-x-1-0-baercoil-kit-helicoil|>
+## M14 X 1.0 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€69.90",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x M14.4 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap > ISO1-4H\n1 x BaerCoil Inserting Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M14 X 1.0 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M14.4 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap > ISO1-4H",
+    "1 x BaerCoil Inserting Tool",
+    "10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m16x20baerfixkiteco|>
+## M16 X 2.0 BAERFIX KIT ECO
+
+{
+  "price": "€139.86",
+  "description": "BaerFix Thread Repair Kit M 16 x 2.0 - ECO. With the BaerFix® thread repair set, damaged M 16 threads can be repaired quickly and easily. This set contains all the tools you need to achieve a permanent and strong anchorage in various materials. The BaerFix® thread repair set is ideal for materials such as aluminium, light metals, non-ferrous metals, brass, bronze, cast iron, plastics, laminates and hardwood. Please note that the set is only suitable for materials with a tensile strength up to approx. 450 N/mm². BaerFix® thread inserts are self-tapping, guarantee a permanently tight threaded connection in your workpiece and are extremely easy to use. Simply screw into the hole - the inserts cut the holding thread themselves. Once your thread is worn or torn out, a stable connection between the materials is no longer possible. This is where BaerFix® thread insert comes to the rescue. With our self-tapping thread inserts you can repair or strengthen damaged internal thread. Damaged threads in your components do not have to be rejects. Simply insert a threaded insert with the same internal thread into the component and your thread will not only be repaired, it will also be more pull-out resistant and wear resistant. The pull-out strength is higher than a class 8.8 screw. To assist with the repair, the set includes a core drill bit and an assembly tool in addition to the thread inserts. Use the core drill bit to prepare the core hole and the installation tool to insert the self-tapping thread insert.",
+  "availability": "Unavailable",
+  "product_name": "M16 X 2.0 BAERFIX KIT ECO",
+  "specifications": [
+    "Diameter: 16",
+    "Pitch: 2.0",
+    "Dimension: M 16 x 2.0",
+    "Product group: Self-cutting thread inserts - Thread repair kits",
+    "Product type: BaerFix thread repair kits",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: with cutting slots",
+    "Material: Case-hardened steel, galvanized",
+    "Maximum insertion torque: 160 Nm",
+    "Speed guide value for light metals: 150-200 R/min",
+    "Drilling depth: Min. drilling depth for through hole: 22.00 mm, Min. drilling depth for blind hole: 27.00 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/bsw-3-16-x-24-baercoil-kit-helicoil|>
+## BSW 3/16 x 24 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€68.78",
+  "description": "Complete BaerCoil Thread-Repair-Kit including 1 x HSSG BaerCoil Standard Drill, 1 x HSSG BaerCoil Tap, 1 x BaerCoil Inserting Tool, 1 x BaerCoil Tang Break Tool, and 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D.",
+  "availability": "Unavailable",
+  "product_name": "BSW 3/16 x 24 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/bsf-7-8-x-11-baercoil-kit|>
+## BSF 7/8 x 11 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€220.29",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "BSF 7/8 x 11 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Suitable for thread repair of damaged or worn-out threads",
+    "Use in machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m12-x-1-25-baercoil-kit-helicoil|>
+## M12 X 1.25 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€67.77",
+  "description": "BaerCoil Thread Repair Kit M 12 x 1.25. With this BaerCoil® thread repair-set it is possible to repair through hole threads and blind hole threads in MF 12 x 1.25. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M12 X 1.25 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 12",
+    "Pitch: 1.25",
+    "Dimension: MF 12 x 1.25",
+    "Length: 1.5 D",
+    "T (Length when installed): 18 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m8-x-0-75-baercoil-kit-helicoil|>
+## M8 x 0.75 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€136.16",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x M8.3 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap > ISO1-4H\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M8 x 0.75 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M8.3 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap > ISO1-4H",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/bsf-1-x-10-baercoil-kit-helicoil|>
+## BSF 1'' x 10 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€220.39",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 4 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "BSF 1'' x 10 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/g-bsp-3-4-x-14-baercoil-kit-helicoil|>
+## G (BSP) 3/4 x 14 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€183.27",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D\n\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 3/4 x 14 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/14x26bsfhandtapset-262271411p118|>
+## 1/4" X 26 BSF HAND TAP SET - 220301002 (P118)
+
+{
+  "price": "€14.19",
+  "description": "BAER HSSG Hand Tap Set (2pcs.) BSF 1/4 x 26. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "1/4\" X 26 BSF HAND TAP SET - 220301002 (P118)",
+  "specifications": [
+    "Diameter: 1/4",
+    "Nominal diameter in inches: 0.25",
+    "Nominal diameter in mm: 6.35",
+    "Pitch: 26",
+    "Pitch in mm: 0.977",
+    "Dimension: BSF 1/4 x 26",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: BSF: British Whitworth fine thread according to BS 84",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}

@@ -1,0 +1,16 @@
+<|https://www.jgengineering.ie/products/screwpitchgauge55metricamer-nat|>
+## Screw Pitch Gauge 55, Metric, Amer-nat
+
+{
+  "price": "€13.99",
+  "description": "The Faithfull FAIPITCHMA Screw Pitch Gauge with a combination of 55 Metric standard 60 degree and American National 60 degree leaves per gauge (0.25 to 6.0mm). The leaves are clearly etched with the size and are used to determine the pitch of various Metric and American National threads. This Screw Pitch Gauge is manufactured from high quality polished tool steel and featuring a locking device at both ends to securely lock the leaves.",
+  "availability": "Unavailable",
+  "product_name": "Screw Pitch Gauge 55, Metric, Amer-nat",
+  "specifications": [
+    "Combination of 55 Metric standard 60 degree and American National 60 degree leaves",
+    "Leaves etched with size for pitch determination",
+    "Manufactured from high quality polished tool steel",
+    "Locking device at both ends to securely lock the leaves"
+  ]
+}
+

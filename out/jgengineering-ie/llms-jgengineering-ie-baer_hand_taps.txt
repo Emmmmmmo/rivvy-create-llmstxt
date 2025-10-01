@@ -1,0 +1,1116 @@
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/12uncbaertapset-262332203|>
+## 1/2" UNC BAER TAP SET - 262332203
+
+{
+  "price": "€44.90",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "1/2\" UNC BAER TAP SET - 262332203",
+  "specifications": [
+    "Diameter: 1/2",
+    "Nominal diameter in inches: 0.5",
+    "Nominal diameter in mm: 12.7",
+    "Pitch: 13",
+    "Pitch in mm: 1.954",
+    "Dimension: UNC 1/2 x 13",
+    "Square: 7 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2B",
+    "Direction: Right",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/baer-hssg-short-machine-tap-form-d-pg-7-x-20|>
+## BAER HSSG Short Machine Tap Form D - PG 7 x 20
+
+{
+  "price": "€18.45",
+  "description": "BAER HSSG Short Machine Tap Form D - PG 7 x 20 is backordered and will ship as soon as it is back in stock. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "BAER HSSG Short Machine Tap Form D - PG 7 x 20",
+  "specifications": [
+    "Diameter: 7",
+    "Nominal diameter in inches: 0.492",
+    "Nominal diameter in mm: 12.5",
+    "Pitch: 20",
+    "Pitch in mm: 1.27",
+    "Dimension: PG 7 x 20",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: PG: Armored conduit thread according to DIN 40430",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 40432",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m14x15baertapsetfp|>
+## M14 x 1.5 Baer Tap set (Page 45)
+
+{
+  "price": "€26.37",
+  "description": "BAER HSSG Hand Tap Set (2pcs.) MF 14 x 1.5. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M14 x 1.5 Baer Tap set (Page 45)",
+  "specifications": [
+    "Diameter: 14",
+    "Nominal diameter in inches: 0.551",
+    "Nominal diameter in mm: 14",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: MF 14 x 1.5",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m10-x-15-baer-hssg-hand-tap-intermediate-no-2-left|>
+## M10 x 1.5 BAER HSSG Hand Tap Intermediate (No. 2) - LEFT
+
+{
+  "price": "€19.90",
+  "description": "The left-hand tap intermediate tap (No. 2) allows you to shape a left-hand thread before finishing it with the finishing tap (No. 3). The advantage of pre-cutting a thread with the intermediate tap (No. 2) is that the cutting forces on the subsequent finishing tap (No. 3) are reduced. The intermediate tap (No. 2) is marked with two rings and removes approx. 85 percent of the thread profile. Because no complete thread profile is cut, the thread is not yet usable. Only when the finishing tap (No. 3) completes the thread in the last process is it fully usable. By dividing the work between two or three taps, it is easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. A left-hand thread is tapped counterclockwise. The left-hand tap or left-hand screw tap is also operated counterclockwise.",
+  "availability": "Unavailable",
+  "product_name": "M10 x 1.5 BAER HSSG Hand Tap Intermediate (No. 2) - LEFT",
+  "specifications": [
+    "Diameter: 10",
+    "Nominal diameter in inches: 0.394",
+    "Nominal diameter in mm: 10",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: M 10 x 1.5",
+    "Square: 5.5 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Left",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m20x25handtapset-262736601p20|>
+## M20 X 2.5 HAND TAP SET - 262736601 (P20)
+
+{
+  "price": "€45.19",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M20 X 2.5 HAND TAP SET - 262736601 (P20)",
+  "specifications": [
+    "Diameter: 20",
+    "Nominal diameter in inches: 0.787",
+    "Nominal diameter in mm: 20",
+    "Pitch: 2.5",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Core hole diameter: 17.5 mm",
+    "Hole type: Through hole and blind hole up to 2 x D",
+    "Form / Geometry: Form C straight fluted",
+    "Chamfer: 2-3 threads",
+    "Cooling: External cooling and lubrication"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m18x20baerhandtapset-262637402p|>
+## M18 X 2.0 Baer® HAND TAP SET
+
+{
+  "price": "€51.73",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Sold out",
+  "product_name": "M18 X 2.0 Baer® HAND TAP SET",
+  "specifications": [
+    "Diameter: 18",
+    "Nominal diameter in inches: 0.709",
+    "Nominal diameter in mm: 18",
+    "Pitch: 2.0",
+    "Pitch in mm: 2",
+    "Dimension: MF 18 x 2.0",
+    "Square: 11 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/un-114-x-8-baer-hssg-hand-tap-taper-no-1|>
+## UN 1.1/4 x 8 Baer HSSG Hand Tap Taper (No. 1)
+
+{
+  "price": "€140.05",
+  "description": "The hand tap taper tap (No. 1) enables you to pre-cut a thread. The advantage of pre-cutting a thread is that the cutting forces on the subsequent finishing tap (No. 3) are reduced. The taper tap (No. 1) is marked with a ring and removes approx. 65 percent of the thread profile. Because no complete thread profile is cut, the thread is not yet usable. Only when the finishing tap (No. 3) completes the thread in the last process is it fully usable. By dividing the work between two or three taps, it is easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole.",
+  "availability": "Unavailable",
+  "product_name": "UN 1.1/4 x 8 Baer HSSG Hand Tap Taper (No. 1)",
+  "specifications": [
+    "Diameter: 1.1/4\"",
+    "Nominal diameter in inches: 1.25",
+    "Nominal diameter in mm: 31.75",
+    "Pitch: 8",
+    "Pitch in mm: 3.175",
+    "Dimension: UN 1.1/4\" x 8",
+    "Square: 18 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: UN: American Unified National thread according to ANSI B1.1 - 8 TPI with 8 threads per inch",
+    "Tolerance: 2B",
+    "Direction: Right",
+    "Standard: DIN 2184-2",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m22-x-10-baer-tap-120301070|>
+## M22 X 1.0 BAER TAP 120301070
+
+{
+  "price": "€63.43",
+  "description": "M22 X 1.0 BAER TAP 120301070 is backordered and will ship as soon as it is back in stock. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M22 X 1.0 BAER TAP 120301070",
+  "specifications": [
+    "Diameter: 22 mm",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 1.0 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m22x2baertap120301073|>
+## M22 X 2 BAER TAP (120301073)
+
+{
+  "price": "€66.64",
+  "description": "M22 X 2 BAER TAP (120301073) is backordered and will ship as soon as it is back in stock. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M22 X 2 BAER TAP (120301073)",
+  "specifications": [
+    "Diameter: 22",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 2.0",
+    "Pitch in mm: 2",
+    "Dimension: MF 22 x 2.0",
+    "Square: 14.5 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m8x125baertapset-262734201p19|>
+## M8 X 1.25 BAER TAP SET -
+
+{
+  "price": "€11.29",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, three-piece hand taps- sets are used for regular threads with coarse pitch, as the thread profile area is larger than for fine threads and the force effects on the taps are greater.",
+  "availability": "Unavailable",
+  "product_name": "M8 X 1.25 BAER TAP SET -",
+  "specifications": [
+    "Diameter: 8",
+    "Nominal diameter in inches: 0.315",
+    "Nominal diameter in mm: 8",
+    "Pitch: 1.25",
+    "Pitch in mm: 1.25",
+    "Dimension: M 8 x 1.25",
+    "Square: 4.9 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/14x26bsfhandtapset-262271411p118|>
+## 1/4" X 26 BSF HAND TAP SET - 220301002 (P118)
+
+{
+  "price": "€14.19",
+  "description": "1/4\" X 26 BSF HAND TAP SET - 220301002 (P118) is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "1/4\" X 26 BSF HAND TAP SET - 220301002 (P118)",
+  "specifications": [
+    "Diameter: 1/4",
+    "Nominal diameter in inches: 0.25",
+    "Nominal diameter in mm: 6.35",
+    "Pitch: 26",
+    "Pitch in mm: 0.977",
+    "Dimension: BSF 1/4 x 26",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: BSF: British Whitworth fine thread according to BS 84",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m30x15baertapmfpage45262653002|>
+## M30 X 1.5 BAER ® TAP MF
+
+{
+  "price": "€173.35",
+  "description": "M30 X 1.5 BAER ® TAP MF is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M30 X 1.5 BAER ® TAP MF",
+  "specifications": [
+    "Diameter: 30 mm",
+    "Nominal diameter in inches: 1.181",
+    "Nominal diameter in mm: 30",
+    "Pitch: 1.5 mm",
+    "Square: 18 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m3-m12baertapkitset|>
+## M 3 - 12 BAER SET HSS: Hand Taps | Cutting Dies | Tools
+
+{
+  "price": "€82.88",
+  "description": "The BAER HSSG thread cutting set contains everything you need to produce internal and external threads according to ISO standards. With the hand tap you can produce an exact internal thread in three steps. With the dies, you cut the perfect external thread and all that with only one associated holding tool each. Cutting straight into the core hole is the most important thing when drilling threads. The thread template and the screwdriver complete the set and you always have everything at hand from a high-quality metal case. And all this at an unbeatable price-performance ratio in well-known BAER quality. At BAER you buy this set ex works in tested BAER industrial quality. Especially when it comes to tools, it is always worth spending a few euros more. The set is suitable for the following materials: for easily machinable materials up to 900 N/mm², such as unalloyed structural steels, alloyed structural steels, free-cutting steels and cast steel.",
+  "availability": "Sold out",
+  "product_name": "M 3 - 12 BAER SET HSS: Hand Taps | Cutting Dies | Tools",
+  "specifications": [
+    "Diameter: 3 - 12",
+    "Product group: threading tool sets",
+    "Product type: Threading tool sets",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m12x10baertapset|>
+## M12 X 1.0 BAER TAP SET
+
+{
+  "price": "€25.80",
+  "description": "BAER HSSG Hand Tap Set (2pcs.) MF 12 x 1.0. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M12 X 1.0 BAER TAP SET",
+  "specifications": [
+    "Diameter: 12 mm",
+    "Nominal diameter in inches: 0.472",
+    "Nominal diameter in mm: 12",
+    "Pitch: 1.0 mm",
+    "Square: 7 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m14x125baertapsetp44262635402|>
+## M14 x 1.25 Baer Tap Set (P44) (262635402)
+
+{
+  "price": "€30.60",
+  "description": "BAER HSSG Hand Tap Set (2pcs.) MF 14 x 1.25. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M14 x 1.25 Baer Tap Set (P44) (262635402)",
+  "specifications": [
+    "Diameter: 14",
+    "Nominal diameter in inches: 0.551",
+    "Nominal diameter in mm: 14",
+    "Pitch: 1.25",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Core hole diameter: 12.8 mm",
+    "Hole type: Through hole and blind hole up to 2 x D",
+    "Form / Geometry: Form C straight fluted",
+    "Cooling: External cooling and lubrication"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m6x10handtapset-262733801p19|>
+## M6 X 1.0 HAND TAP SET - 262733801 (P19)
+
+{
+  "price": "€6.65",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M6 X 1.0 HAND TAP SET - 262733801 (P19)",
+  "specifications": [
+    "Diameter: 6 mm",
+    "Nominal diameter in inches: 0.236",
+    "Nominal diameter in mm: 6",
+    "Pitch: 1.0 mm",
+    "Square: 4.9 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 352"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m24x30baertapset262737401p20|>
+## M24 X 3.0 BAER TAP SET 262737401 (P20)
+
+{
+  "price": "€75.71",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, three-piece hand taps- sets are used for regular threads with coarse pitch, as the thread profile area is larger than for fine threads and the force effects on the taps are greater.",
+  "availability": "Unavailable",
+  "product_name": "M24 X 3.0 BAER TAP SET 262737401 (P20)",
+  "specifications": [
+    "Diameter: 24",
+    "Nominal diameter in inches: 0.945",
+    "Nominal diameter in mm: 24",
+    "Pitch: 3.0",
+    "Pitch in mm: 3",
+    "Dimension: M 24 x 3.0",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/34x14npttap|>
+## 3/4" x 14 NPT BAER Tap
+
+{
+  "price": "€49.56",
+  "description": "3/4\" x 14 NPT BAER Tap is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "3/4\" x 14 NPT BAER Tap",
+  "specifications": [
+    "Diameter: 3/4",
+    "Nominal diameter in mm: 26,57",
+    "Pitch: 14",
+    "Pitch in mm: 1,81",
+    "Dimension: NPT 3/4 x 14",
+    "Square: 16 mm",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: NPT: National Pipe Thread or American pipe thread according to ANSI B 1.20.1",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: Factory standard",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m22x15lefthandtap|>
+## M22 X 1.5 LEFT HAND TAP SET
+
+{
+  "price": "€102.90",
+  "description": "The left-hand tapping hand tap set consists of two taps and enables you to cut a finished left-hand thread with significantly reduced risk of breakage. One left-hand thread is tapped counterclockwise. The left-hand tap or left-hand screw tap is also operated counterclockwise. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than at coarse thread, as the thread profile area is smaller than for coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M22 X 1.5 LEFT HAND TAP SET",
+  "specifications": [
+    "Diameter: 22",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 1.5",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Direction: Left",
+    "Standard: DIN 2181",
+    "Core hole diameter: 20.5 mm",
+    "Hole type: Through hole and blind hole up to 2 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/baer-hssg-hand-tap-set-3pcs-m-30-x-35|>
+## M30 x 3.5 BAER TAP SET
+
+{
+  "price": "€141.62",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, three-piece hand taps- sets are used for regular threads with coarse pitch, as the thread profile area is larger than for fine threads and the force effects on the taps are greater.",
+  "availability": "Unavailable",
+  "product_name": "M30 x 3.5 BAER TAP SET",
+  "specifications": [
+    "Diameter: 30 mm",
+    "Nominal diameter in inches: 1.181",
+    "Nominal diameter in mm: 30",
+    "Pitch: 3.5 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 352"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/baerhandtapsetmfm12x125|>
+## Baer Hand Tap Set MF M12 x 1.25 (120301031)
+
+{
+  "price": "€25.80",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "Baer Hand Tap Set MF M12 x 1.25 (120301031)",
+  "specifications": [
+    "Diameter: 12 mm",
+    "Nominal diameter in inches: 0.472",
+    "Nominal diameter in mm: 12",
+    "Pitch: 1.25 mm",
+    "Square: 7 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m36-x-3-baer-tap|>
+## M36 X 3 BAER TAP SET
+
+{
+  "price": "€232.37",
+  "description": "BAER HSSG Hand Tap Set (2pcs.) MF 36 x 3.0. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M36 X 3 BAER TAP SET",
+  "specifications": [
+    "Diameter: 36",
+    "Nominal diameter in inches: 1.417",
+    "Nominal diameter in mm: 36",
+    "Pitch: 3.0",
+    "Pitch in mm: 3",
+    "Dimension: MF 36 x 3.0",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/112bspbaertap|>
+## BAER HSSG Hand Tap Set (2pcs.) G (BSP) 1.1/2 x 11
+
+{
+  "price": "€248.97",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "BAER HSSG Hand Tap Set (2pcs.) G (BSP) 1.1/2 x 11",
+  "specifications": [
+    "Diameter: 1.1/2\"",
+    "Nominal diameter in inches: 1.882",
+    "Nominal diameter in mm: 47.8",
+    "Pitch: 11",
+    "Pitch in mm: 2.309",
+    "Dimension: G (BSP) 1.1/2\" x 11",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 5157",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m20x15tapset|>
+## M20 X 1.5 TAP SET
+
+{
+  "price": "€44.99",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M20 X 1.5 TAP SET",
+  "specifications": [
+    "Diameter: 20 mm",
+    "Nominal diameter in inches: 0.787",
+    "Nominal diameter in mm: 20",
+    "Pitch: 1.5 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m18-x-10-baer-tap|>
+## M18 X 1.0 MF BAER TAP
+
+{
+  "price": "€21.45",
+  "description": "M18 X 1.0 MF BAER TAP is backordered and will ship as soon as it is back in stock. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive.",
+  "availability": "Unavailable",
+  "product_name": "M18 X 1.0 MF BAER TAP",
+  "specifications": [
+    "Diameter: 18 mm",
+    "Nominal diameter in inches: 0.709",
+    "Pitch: 1.0 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Direction: Right",
+    "Standard: DIN 2181"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m30x2mfbaertappage42266653201|>
+## M30 X 2 MF BAER TAP® PAGE 42 (266653201)
+
+{
+  "price": "€71.53",
+  "description": "BAER HSSG Short Machine Tap Form D - MF 30 x 2.0. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "M30 X 2 MF BAER TAP® PAGE 42 (266653201)",
+  "specifications": [
+    "Diameter: 30 mm",
+    "Nominal diameter in inches: 1.181",
+    "Nominal diameter in mm: 30",
+    "Pitch: 2.0 mm",
+    "Dimension: MF 30 x 2.0",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m17-x-1-baer-hssg-hand-tap-finishing-no-2-mf|>
+## M17 x 1 BAER HSSG Hand Tap Finishing (No. 2) MF
+
+{
+  "price": "€28.99",
+  "description": "M17 x 1 BAER HSSG Hand Tap Finishing (No. 2) MF is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M17 x 1 BAER HSSG Hand Tap Finishing (No. 2) MF",
+  "specifications": [
+    "Diameter: 17 mm",
+    "Nominal diameter in inches: 0.669",
+    "Nominal diameter in mm: 17",
+    "Pitch: 1.0 mm",
+    "Dimension: MF 17 x 1.0",
+    "Square: 9 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m18x15baertapset262637202|>
+## M18 X 1.5 Baer® Tap Set (262637202)
+
+{
+  "price": "€38.72",
+  "description": "M18 X 1.5 Baer® Tap Set (262637202) is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M18 X 1.5 Baer® Tap Set (262637202)",
+  "specifications": [
+    "Diameter: 18 mm",
+    "Nominal diameter in inches: 0.709",
+    "Nominal diameter in mm: 18",
+    "Pitch: 1.5 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m26-x-15-baer-hssg-hand-tap-set-2pcs-mf|>
+## M26 x 1.5 BAER HSSG Hand Tap Set (2pcs.) MF
+
+{
+  "price": "€131.67",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M26 x 1.5 BAER HSSG Hand Tap Set (2pcs.) MF",
+  "specifications": [
+    "Diameter: 26 mm",
+    "Nominal diameter in inches: 1.024",
+    "Nominal diameter in mm: 26",
+    "Pitch: 1.5 mm",
+    "Square: 14.5 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/npt-12-baertap-240101005|>
+## NPT 1/2" BAERTAP 240101005
+
+{
+  "price": "€38.50",
+  "description": "NPT 1/2\" BAERTAP 240101005 is backordered and will ship as soon as it is back in stock. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "NPT 1/2\" BAERTAP 240101005",
+  "specifications": [
+    "Diameter: 1/2",
+    "Nominal diameter in mm: 21,22",
+    "Pitch: 14",
+    "Pitch in mm: 1,81",
+    "Dimension: NPT 1/2 x 14",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: NPT: National Pipe Thread or American pipe thread according to ANSI B 1.20.1",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: Factory standard",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/unc-no-3-x-48-baer-hssg-hand-tap-set-3pcs|>
+## UNC No. 3 x 48 BAER HSSG Hand Tap Set (3pcs.)
+
+{
+  "price": "€33.53",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, three-piece hand taps- sets are used for regular threads with coarse pitch, as the thread profile area is larger than for fine threads and the force effects on the taps are greater.",
+  "availability": "Unavailable",
+  "product_name": "UNC No. 3 x 48 BAER HSSG Hand Tap Set (3pcs.)",
+  "specifications": [
+    "Diameter: No. 3",
+    "Nominal diameter in inches: 0.099",
+    "Nominal diameter in mm: 2.515",
+    "Pitch: 48",
+    "Pitch in mm: 0.529",
+    "Dimension: UNC No. 3 x 48",
+    "Square: 2.1 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2B",
+    "Direction: Right",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/mf-24-x-15-hssg-hand-tap-finishing-no-2-left|>
+## MF 24 x 1.5 HSSG Hand Tap Finishing (No. 2) - LEFT
+
+{
+  "price": "€56.78",
+  "description": "The left-hand tap finishing tap (No. 3) enables you to cut a finished left-hand thread. It is advantageous to shape the thread beforehand with a taper tap (No. 1) in order to better distribute the cutting power. However, the finishing tap (No. 3) can also be used without a pre- or intermediate tap (No. 2) as it already cuts a fully usable thread. However, the short chamfer makes it more difficult to get straight into the hole and the tool life time is reduced compared to using multi-part hand tap sets. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut into a pre-drilled core hole. Due to the short chamfer of the finish tap, it can be used universally for through holes and blind holes. A left-hand thread is tapped counterclockwise. The left-hand tap or left-hand screw tap is also operated counterclockwise.",
+  "availability": "Unavailable",
+  "product_name": "MF 24 x 1.5 HSSG Hand Tap Finishing (No. 2) - LEFT",
+  "specifications": [
+    "Diameter: 24",
+    "Nominal diameter in inches: 0.945",
+    "Nominal diameter in mm: 24",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: MF 24 x 1.5",
+    "Square: 14.5 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Left",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/34x14bspbaertapset-262532214p77|>
+## 3/4" X 14 BSP BAER TAP SET - 262532214 (P77)
+
+{
+  "price": "€67.69",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "3/4\" X 14 BSP BAER TAP SET - 262532214 (P77)",
+  "specifications": [
+    "Diameter: 3/4",
+    "Nominal diameter in inches: 1.041",
+    "Nominal diameter in mm: 26.44",
+    "Pitch: 14",
+    "Pitch in mm: 1.814",
+    "Dimension: G (BSP) 3/4 x 14",
+    "Square: 16 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 5157",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/baer-hssg-short-machine-tap-form-d-pg-9-x-18|>
+## BAER HSSG Short Machine Tap Form D - PG 9 x 18
+
+{
+  "price": "€19.45",
+  "description": "BAER HSSG Short Machine Tap Form D - PG 9 x 18 is backordered and will ship as soon as it is back in stock. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "BAER HSSG Short Machine Tap Form D - PG 9 x 18",
+  "specifications": [
+    "Diameter: 9",
+    "Nominal diameter in inches: 0.598",
+    "Nominal diameter in mm: 15.2",
+    "Pitch: 18",
+    "Pitch in mm: 1.41",
+    "Dimension: PG 9 x 18",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: PG: Armored conduit thread according to DIN 40430",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 40432",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m16-x-2-lh-baercoil-tap-110302009|>
+## M16 X 2 L/H BAERCOIL TAP 110302009
+
+{
+  "price": "€65.50",
+  "description": "M16 X 2 L/H BAERCOIL TAP 110302009 is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M16 X 2 L/H BAERCOIL TAP 110302009",
+  "specifications": [
+    "Diameter: 16",
+    "Nominal diameter in inches: 0.63",
+    "Nominal diameter in mm: 16",
+    "Pitch: 2.0",
+    "Pitch in mm: 2",
+    "Dimension: M 16 x 2.0",
+    "Square: 9 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Left",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/14x20unclhtapset-262301403|>
+## 1/4x20 UNC L/H TAP SET -
+
+{
+  "price": "€38.72",
+  "description": "BAER HSSG Hand Tap Set (3pcs.) UNC 1/4 x 20 - LEFT. The left-hand tapping hand tap set consists of three taps and enables you to cut a finished left-hand thread with significantly reduced risk of breakage. One left-hand thread is tapped counterclockwise. The left-hand tap or left-hand screw tap is also operated counterclockwise. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, three-piece hand taps- sets are used for regular threads with coarse pitch, as the thread profile area is larger than for fine threads and the force effects on the taps are greater.",
+  "availability": "Unavailable",
+  "product_name": "1/4x20 UNC L/H TAP SET -",
+  "specifications": [
+    "Diameter: 1/4",
+    "Nominal diameter in inches: 0.25",
+    "Nominal diameter in mm: 6.35",
+    "Pitch: 20",
+    "Pitch in mm: 1.27",
+    "Dimension: UNC 1/4 x 20",
+    "Square: 4.9 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2B",
+    "Direction: Left",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m9x125baertapset-262734401p19|>
+## M9 X 1.25 BAER TAP SET
+
+{
+  "price": "€32.12",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, three-piece hand taps- sets are used for regular threads with coarse pitch, as the thread profile area is larger than for fine threads and the force effects on the taps are greater.",
+  "availability": "Unavailable",
+  "product_name": "M9 X 1.25 BAER TAP SET",
+  "specifications": [
+    "Diameter: 9 mm",
+    "Nominal diameter in inches: 0.354",
+    "Nominal diameter in mm: 9",
+    "Pitch: 1.25 mm",
+    "Square: 5.5 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 352"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/baer-hssg-hand-tap-set-2pcs-mf-22-x-125|>
+## BAER HSSG Hand Tap Set (2pcs.) MF 22 x 1.25
+
+{
+  "price": "€66.61",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "BAER HSSG Hand Tap Set (2pcs.) MF 22 x 1.25",
+  "specifications": [
+    "Diameter: 22",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 1.25",
+    "Pitch in mm: 1.25",
+    "Dimension: MF 22 x 1.25",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m10x125mfbaertapset-262633802p43|>
+## M10 X 1.25 MF BAER TAP SET
+
+{
+  "price": "€21.29",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M10 X 1.25 MF BAER TAP SET",
+  "specifications": [
+    "Diameter: 10 mm",
+    "Nominal diameter in inches: 0.394",
+    "Nominal diameter in mm: 10",
+    "Pitch: 1.25 mm",
+    "Dimension: MF 10 x 1.25",
+    "Square: 5.5 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m25x045baertapset-262732201p19|>
+## M2.5 X 0.45 BAER TAP SET - 262732201 (P19)
+
+{
+  "price": "€18.79",
+  "description": "BAER HSSG Hand Tap Set (3pcs.) M 2.5 x 0.45. The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M2.5 X 0.45 BAER TAP SET - 262732201 (P19)",
+  "specifications": [
+    "Diameter: 2.5 mm",
+    "Nominal diameter in inches: 0.098",
+    "Nominal diameter in mm: 2.5",
+    "Pitch: 0.45 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Core hole diameter: 2.05 mm",
+    "Hole type: Through hole and blind hole up to 2 x D",
+    "Form / Geometry: Form C straight fluted",
+    "Cooling: External cooling and lubrication"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m32x15baertap266653601|>
+## M32 x 1.5 BaerTap (266653601)
+
+{
+  "price": "€91.41",
+  "description": "M32 x 1.5 BaerTap (266653601) is backordered and will ship as soon as it is back in stock. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "M32 x 1.5 BaerTap (266653601)",
+  "specifications": [
+    "Diameter: 32 mm",
+    "Nominal diameter in inches: 1.26",
+    "Nominal diameter in mm: 32",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 32 x 1.5",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/14x18nptmachinetap-266351419p124|>
+## 1/4 X 18 NPT MACHINE TAP - 266351419 (P124)
+
+{
+  "price": "€21.43",
+  "description": "1/4 X 18 NPT MACHINE TAP - 266351419 (P124) is backordered and will ship as soon as it is back in stock. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "1/4 X 18 NPT MACHINE TAP - 266351419 (P124)",
+  "specifications": [
+    "Diameter: 1/4",
+    "Nominal diameter in mm: 13,62",
+    "Pitch: 18",
+    "Pitch in mm: 1,41",
+    "Dimension: NPT 1/4 x 18",
+    "Square: 9 mm",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: NPT: National Pipe Thread or American pipe thread according to ANSI B 1.20.1",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: Factory standard",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/12x16bsfbaertapset-262272211p118|>
+## 1/2" X 16 BSF BAER TAP SET - 262272211 (P118)
+
+{
+  "price": "€35.39",
+  "description": "1/2\" X 16 BSF BAER TAP SET - 262272211 (P118) is backordered and will ship as soon as it is back in stock. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "1/2\" X 16 BSF BAER TAP SET - 262272211 (P118)",
+  "specifications": [
+    "Diameter: 1/2",
+    "Nominal diameter in inches: 0.5",
+    "Nominal diameter in mm: 12.7",
+    "Pitch: 16",
+    "Pitch in mm: 1.587",
+    "Dimension: BSF 1/2 x 16",
+    "Square: 7 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: BSF: British Whitworth fine thread according to BS 84",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/mfm22x15baertap120301072|>
+## MF M22 X 1.5 BAER TAP (120301072)
+
+{
+  "price": "€66.61",
+  "description": "MF M22 X 1.5 BAER TAP (120301072) is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "MF M22 X 1.5 BAER TAP (120301072)",
+  "specifications": [
+    "Diameter: 22 mm",
+    "Nominal diameter in inches: 0.866",
+    "Pitch: 1.5 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Core hole diameter: 20.5 mm",
+    "Chamfer: 2-3 threads",
+    "Cooling: External cooling and lubrication",
+    "Applications: Materials with good machinability up to 900 N/mm², Unalloyed and low-alloy steels"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baer-hand-taps/products/m16x20handtapset-262735801p19|>
+## M16 X 2.0 HAND TAP SET - 262735801 (P19)
+
+{
+  "price": "€28.53",
+  "description": "The hand tap set consists of three taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of three-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with one ring) removes 65 per cent of the thread profile and the intermediate tap (No. 2) (marked with two rings) removes 85 per cent. Pre-cutting and reworking with the intermediate tap (No. 2) bring the thread into shape. In the last step, the finishing tap (No. 3) is used, which has no ring marking. Only this cuts the full and usable thread at the end. The division of labour between the three screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M16 X 2.0 HAND TAP SET - 262735801 (P19)",
+  "specifications": [
+    "Diameter: 16",
+    "Nominal diameter in inches: 0.63",
+    "Nominal diameter in mm: 16",
+    "Pitch: 2.0",
+    "Pitch in mm: 2",
+    "Dimension: M 16 x 2.0",
+    "Square: 9 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+

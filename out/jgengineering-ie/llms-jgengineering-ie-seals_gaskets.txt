@@ -1,0 +1,18 @@
+<|https://www.jgengineering.ie/products/roof-7sealer5kgcan|>
+## Roof-7 Sealer 5kg Can
+
+{
+  "price": "€49.99",
+  "description": "Roof-7 Sealer 5kg Can is backordered and will ship as soon as it is back in stock.",
+  "availability": "Sold out",
+  "product_name": "Roof-7 Sealer 5kg Can",
+  "specifications": [
+    "SKU: 5414195622049",
+    "Tax included",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+

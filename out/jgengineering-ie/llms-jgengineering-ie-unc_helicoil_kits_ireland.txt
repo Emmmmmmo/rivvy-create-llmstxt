@@ -1,0 +1,343 @@
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-3-x-48-baercoil-kit|>
+## UNC 3 X 48 BaerCoil Kit
+
+{
+  "price": "€134.20",
+  "description": "BaerCoil Thread Repair Kit UNC 3 x 48. With this BaerCoil® thread repair set it is possible to repair through hole and blind-hole threads in UNC No. 3 x 48. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 3 X 48 BaerCoil Kit",
+  "specifications": [
+    "Diameter: No. 3",
+    "Pitch: 48",
+    "Dimension: UNC No. 3 x 48",
+    "Length: 1.5 D",
+    "T (Length when installed): 3.77 mm",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-7-16-x-14-baercoil-kit-helicoil|>
+## UNC 7/16 x 14 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€74.80",
+  "description": "BaerCoil Thread Repair Kit UNC 7/16 x 14. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in UNC 7/16 x 14. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 7/16 x 14 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 7/16",
+    "Pitch: 14",
+    "Length when installed: 16.67 mm",
+    "Material: Stainless Steel V2A (AISI 304)",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-7-8-x-9-baercoil-kit|>
+## UNC 7/8 x 9 BaerCoil Kit
+
+{
+  "price": "€346.63",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "UNC 7/8 x 9 BaerCoil Kit",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-5-8-x-11-baercoil-kit|>
+## UNC 5/8 x 11 BaerCoil Kit
+
+{
+  "price": "€302.08",
+  "description": "UNC 5/8 x 11 BaerCoil Kit - TRS 5/8 X 11 UNC KIT is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "UNC 5/8 x 11 BaerCoil Kit",
+  "specifications": [
+    "SKU: TRS58X11",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-5-16-x-18-baercoil-kit-helicoil|>
+## UNC 5/16 x 18 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€54.99",
+  "description": "BaerCoil Thread Repair Kit UNC 5/16 x 18. With this BaerCoil® thread repair set it is possible to repair through hole and blind-hole threads in UNC 5/16 x 18. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 5/16 x 18 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 5/16",
+    "Pitch: 18",
+    "Length: 1.5 D",
+    "T (Length when installed): 11.91 mm",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-10-x-24-baercoil-kit-helicoil|>
+## UNC 10 x 24 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€33.21",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x M5.2 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "UNC 10 x 24 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M5.2 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-4-x-40-baercoil-kit-helicoil|>
+## UNC 4 x 40 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€56.92",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x M3 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "UNC 4 x 40 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Style: TRS 4 - 40 UNC KIT",
+    "Style: 4 - 40 UNC BAERCOIL KIT"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-11-16-x-11-baercoil-kit|>
+## UNC 11/16 x 11 BaerCoil Kit
+
+{
+  "price": "€596.40",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "UNC 11/16 x 11 BaerCoil Kit",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-3-4-x-10-baercoil-kit|>
+## UNC 3/4 x 10 BaerCoil Kit
+
+{
+  "price": "€180.81",
+  "description": "BaerCoil Thread Repair Kit UNC 3/4 x 10. With this BaerCoil® thread repair-set it is possible to repair through hole threads and blind hole threads in UNC 3/4 x 10. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the hand tap with oversize for insert threads, insertion tool and wire thread inserts made of stainless steel. This set does not include twist drill bit and tang breaker. To drill the core hole, a 19.75 mm twist drill bit is still needed here. The tenon can be broken with the installation tool. To do this, pull the installation tool back after installation and turn it 90° so that it rests on the tenon. Then strike the tool briefly at the back. BaerCoil® thread inserts can be shortened, if necessary, to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 3/4 x 10 BaerCoil Kit",
+  "specifications": [
+    "Diameter: 3/4",
+    "Pitch: 10",
+    "Dimension: UNC 3/4 x 10",
+    "Length: 1.5 D",
+    "T (Length when installed): 28.58 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-9-16-x-12-baercoil-kit|>
+## UNC 9/16 x 12 BaerCoil Kit
+
+{
+  "price": "€107.76",
+  "description": "BaerCoil Thread Repair Kit UNC 9/16 x 12. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in UNC 9/16 x 12. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the hand tap with oversize for insert threads, insertion tool and wire thread inserts made of stainless steel. This set does not include twist drill bit and tang breaker. To drill the core hole, a 14.8 mm twist drill bit is still needed here. The tenon can be broken with the installation tool. To do this, pull the installation tool back after installation and turn it 90° so that it rests on the tenon. Then strike the tool briefly at the back. BaerCoil® thread inserts can be shortened, if necessary, to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 9/16 x 12 BaerCoil Kit",
+  "specifications": [
+    "Diameter: 9/16",
+    "Pitch: 12",
+    "Dimension: UNC 9/16 x 12",
+    "Length: 1.5 D",
+    "T (Length when installed): 21.43 mm",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-12-x-24-baercoil-kit-helicoil|>
+## UNC 12 x 24 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€42.00",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x M5.8 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "UNC 12 x 24 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-2-x-56-baercoil-kit|>
+## UNC 2 X 56 BaerCoil Kit
+
+{
+  "price": "€81.18",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x M2.3 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "UNC 2 X 56 BaerCoil Kit",
+  "specifications": [
+    "1 x M2.3 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-8-x-32-baercoil-kit-helicoil|>
+## UNC 8 x 32 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€56.92",
+  "description": "BaerCoil Thread Repair Kit UNC 8 x 32. With this BaerCoil® thread repair set it is possible to repair through hole and blind-hole threads in UNC No. 8 x 32. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 8 x 32 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: No. 8",
+    "Pitch: 32",
+    "Dimension: UNC No. 8 x 32",
+    "Length: 1.5 D",
+    "T (Length when installed): 6.25 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-3-8-x-16-baercoil-kit|>
+## UNC 3/8 x 16 BaerCoil Kit
+
+{
+  "price": "€60.81",
+  "description": "BaerCoil Thread Repair Kit UNC 3/8 x 16. With this BaerCoil® thread repair-set it is possible to repair through hole threads and blind hole threads in UNC 3/8 x 16. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 3/8 x 16 BaerCoil Kit",
+  "specifications": [
+    "Diameter: 3/8",
+    "Pitch: 16",
+    "Dimension: UNC 3/8 x 16",
+    "Length: 1.5 D",
+    "T (Length when installed): 14.29 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-6-x-32-baercoil-kit-helicoil|>
+## UNC 6 x 32 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€56.67",
+  "description": "BaerCoil Thread Repair Kit UNC 6 x 32. With this BaerCoil® thread repair set it is possible to repair through hole and blind-hole threads in UNC No. 6 x 32. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 6 x 32 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: No. 6",
+    "Pitch: 32",
+    "Dimension: UNC No. 6 x 32",
+    "Length: 1.5 D",
+    "T (Length when installed): 5.26 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-5-x-40-baercoil-kit-helicoil|>
+## UNC 5 X 40 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€33.21",
+  "description": "Complete BaerCoil Thread-Repair-Kit. Contents: 1 x M3.4 BaerCoil Drill Bit, 1 x HSSG BaerCoil Tap, 1 x BaerCoil Inserting Tool, 1 x BaerCoil Tang Break Tool, + 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D. BaerCoil: Thread Repair of damaged or worn-out threads, Recovery of rejected items, Thread Armour Plating. For material with low shear strength e.g. aluminium alloys and magnesium alloys. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "UNC 5 X 40 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M3.4 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-1-x-8-baercoil-kit|>
+## UNC 1" X 8 BaerCoil Kit
+
+{
+  "price": "€345.65",
+  "description": "BaerCoil Thread Repair Kit UNC 1'' x 8. With this BaerCoil® thread repair set it is possible to repair through hole and blind-hole threads in UNC 1\" x 8. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the hand tap with oversize for insert threads, insertion tool and wire thread inserts made of stainless steel. This set does not include twist drill bit and tang breaker. To drill the core hole, a 26.25 mm twist drill bit is still needed here. The tenon can be broken with the installation tool. To do this, pull the installation tool back after installation and turn it 90° so that it rests on the tenon. Then strike the tool briefly at the back. BaerCoil® thread inserts can be shortened, if necessary, to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 1\" X 8 BaerCoil Kit",
+  "specifications": [
+    "Diameter: 1\"",
+    "Pitch: 8",
+    "Dimension: UNC 1\" x 8",
+    "Length: 1.5 D",
+    "T (Length when installed): 38.1 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-1-4-x-20-baercoil-kit-helicoil|>
+## UNC 1/4 X 20 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€46.46",
+  "description": "BaerCoil Thread Repair Kit UNC 1/4 x 20. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in UNC 1/4 x 20. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 1/4 X 20 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 1/4",
+    "Pitch: 20",
+    "Dimension: UNC 1/4 x 20",
+    "Length: 1.5 D",
+    "T (Length when installed): 9.53 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-helicoil-kits-ireland/products/unc-1-2-x-13-baercoil-kit-helicoil|>
+## UNC 1/2 x 13 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€77.07",
+  "description": "BaerCoil Thread Repair Kit UNC 1/2 x 13. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind hole threads in UNC 1/2 x 13. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "UNC 1/2 x 13 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 1/2",
+    "Pitch: 13",
+    "Dimension: UNC 1/2 x 13",
+    "Length: 1.5 D",
+    "T (Length when installed): 19.05 mm",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+

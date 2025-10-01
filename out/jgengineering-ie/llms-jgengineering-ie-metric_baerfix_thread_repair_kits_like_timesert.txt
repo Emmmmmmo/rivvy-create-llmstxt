@@ -1,0 +1,219 @@
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-10-x-1-5-like-timesert|>
+## BaerFix Thread Repair Kit M 10 x 1,5 like timesert
+
+{
+  "price": "€63.22",
+  "description": "BaerFix Thread Repair Kit M 10 - type: ECO\nApplicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc.\nFor very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert.\n(You can find screw lockings at accessories)\ninside thread: M 10 x 1,5\nlength: 18 mm\noutside thread: M 14 x 1,5\nkit content:\n1 x HSS spiral drill\n1 x BaerFix inserting tool\n5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated\n+ instruction for use",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 10 x 1,5 like timesert",
+  "specifications": [
+    "inside thread: M 10 x 1,5",
+    "length: 18 mm",
+    "outside thread: M 14 x 1,5",
+    "kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-8-x-1-25-like-timecert|>
+## BaerFix Thread Repair Kit M 8 x 1,25 like timesert
+
+{
+  "price": "€43.50",
+  "description": "BaerFix Thread Repair Kit M 8 x 1,25 like timesert is backordered and will ship as soon as it is back in stock. This set contains all the tools you need to achieve a permanent and strong anchorage in various materials. The BaerFix® thread repair set is ideal for materials such as aluminium, light metals, non-ferrous metals, brass, bronze, cast iron, plastics, laminates and hardwood. Please note that the set is only suitable for materials with a tensile strength up to approx. 450 N/mm².",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 8 x 1,25 like timesert",
+  "specifications": [
+    "Diameter: 8",
+    "Pitch: 1.25",
+    "Dimension: M 8 x 1.25",
+    "Product group: Self-cutting thread inserts - Thread repair kits",
+    "Product type: BaerFix thread repair kits",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: with cutting slots",
+    "Material: Case-hardened steel, galvanized",
+    "Maximum insertion torque: 28 Nm",
+    "Speed guide value for light metals: 280-400 R/min",
+    "Drilling depth: Min. drilling depth for through hole: 15.00 mm, Min. drilling depth for blind hole: 18.00 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-20-x-2-5-like-timesert|>
+## BaerFix Thread Repair Kit M 20 x 2,5 like timesert
+
+{
+  "price": "€104.55",
+  "description": "BaerFix Thread Repair Kit M 20 - type: ECO. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 20 x 2,5 like timesert",
+  "specifications": [
+    "Inside thread: M 20 x 2,5",
+    "Length: 27 mm",
+    "External Thread: M 26 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-12-x-1-75-like-timesert|>
+## BaerFix Thread Repair Kit M 12 x 1,75 like timesert
+
+{
+  "price": "€35.55",
+  "description": "BaerFix Thread Repair Kit M 12 - type: ECO. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 12 x 1,75 like timesert",
+  "specifications": [
+    "Inside thread: M 12 x 1,75",
+    "Length: 22 mm",
+    "Outside thread: M 16 x 1,5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-3-x-0-5-like-timecert|>
+## BaerFix Thread Repair Kit M 3 x 0,5 like timesert
+
+{
+  "price": "€22.02",
+  "description": "BaerFix Thread Repair Kit M 3 - type: ECO. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 3 x 0,5 like timesert",
+  "specifications": [
+    "Inside thread: M 3 x 0,5",
+    "Length: 6 mm",
+    "Outside thread: M 5 x 0,5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-14-x-2-0-like-timesert|>
+## BaerFix Thread Repair Kit M 14 x 2,0 like timesert
+
+{
+  "price": "€76.26",
+  "description": "BaerFix Thread Repair Kit M 14 - type: ECO\nApplicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc.\nFor very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert.\n(You can find screw lockings at accessories)\ninside thread: M 14 x 2,0\nLänge: 24 mm\nAußengewinde: M 18 x 1,5\nkit content:\n1 x HSS spiral drill\n1 x BaerFix inserting tool\n5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated\n+ instruction for use",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 14 x 2,0 like timesert",
+  "specifications": [
+    "Inside thread: M 14 x 2,0",
+    "Length: 24 mm",
+    "Outside thread: M 18 x 1,5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts (hardened steel, bichromated)"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-16-x-2-0-like-timesert|>
+## BaerFix Thread Repair Kit M 16 x 2,0 like timesert
+
+{
+  "price": "€78.72",
+  "description": "BaerFix Thread Repair Kit M 16 - type: ECO\nApplicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc.\nFor very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert.\n(You can find screw lockings at accessories)\ninside thread: M 16 x 2,0\nLength: 22 mm\nExternal Thread: M 20 x 1.5\nkit content:\n1 x HSS spiral drill\n1 x BaerFix inserting tool\n5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated\n+ instruction for use",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 16 x 2,0 like timesert",
+  "specifications": [
+    "Inside thread: M 16 x 2,0",
+    "Length: 22 mm",
+    "External Thread: M 20 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-4-x-0-7|>
+## BaerFix Thread Repair Kit M 4 x 0,7 like timesert
+
+{
+  "price": "€22.02",
+  "description": "BaerFix Thread Repair Kit M 4 - type: ECO\nApplicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc.\nFor very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert.\n(You can find screw lockings at accessories)\ninside thread: M 4 x 0,7\nlength: 8 mm\noutside thread: M 6,5 x 0,75\nkit content:\n1 x HSS spiral drill\n1 x BaerFix inserting tool\n5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated\n+ instruction for use",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 4 x 0,7 like timesert",
+  "specifications": [
+    "inside thread: M 4 x 0,7",
+    "length: 8 mm",
+    "outside thread: M 6,5 x 0,75",
+    "1 x HSS spiral drill",
+    "1 x BaerFix inserting tool",
+    "5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-2-x-0-4-like-timesert|>
+## BaerFix Thread Repair Kit M 2 x 0,4 like timesert
+
+{
+  "price": "€22.02",
+  "description": "BaerFix Thread Repair Kit M 2 x 0,4 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 2 x 0,4 like timesert",
+  "specifications": [
+    "Inside thread: M 2 x 0,4",
+    "Length: 6 mm",
+    "External Thread: M 4.5 x 0.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-5-x-0-8|>
+## BaerFix Thread Repair Kit M 5 x 0,8 like timesert
+
+{
+  "price": "€22.02",
+  "description": "BaerFix Thread Repair Kit M 5 - type: ECO. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 5 x 0,8 like timesert",
+  "specifications": [
+    "inside thread: M 5 x 0,8",
+    "length: 10 mm",
+    "outside thread: M 8 x 1,0",
+    "kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-14-x-1-5-like-timesert|>
+## BaerFix Thread Repair Kit M 14 x 1,5 like timesert
+
+{
+  "price": "€67.53",
+  "description": "BaerFix Thread Repair Kit M 14 - type: ECO. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 14 x 1,5 like timesert",
+  "specifications": [
+    "Inside thread: M 14 x 1,5",
+    "Length: 24 mm",
+    "Outside thread: M 18 x 1,5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-2-5-x-0-45-like-timecert|>
+## BaerFix Thread Repair Kit M 2,5 x 0,45 like timesert
+
+{
+  "price": "€22.02",
+  "description": "BaerFix Thread Repair Kit M 2,5 x 0,45 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 2,5 x 0,45 like timesert",
+  "specifications": [
+    "Inside thread: M 2,5 x 0,45",
+    "Length: 6 mm",
+    "External Thread: M 4.5 x 0.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-m-12-x-1-5-like-timesert|>
+## BaerFix Thread Repair Kit M 12 x 1,5 like timesert
+
+{
+  "price": "€63.22",
+  "description": "BaerFix Thread Repair Kit M 12 - type: ECO\nApplicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc.\nFor very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert.\n(You can find screw lockings at accessories)\ninside thread: M 12 x 1,5\nlength: 22 mm\noutside thread: M 16 x 1,5\nkit content:\n1 x HSS spiral drill\n1 x BaerFix inserting tool\n5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated\n+ instruction for use\nApplication:\n- Thread Armour Plating. For material with low shear strength eg. aluminum-alloys and magnesium alloys.\n- Recovery of rejected items.\n- Thread Repair of damaged or worn-out threads.\nUse in machine building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit M 12 x 1,5 like timesert",
+  "specifications": [
+    "inside thread: M 12 x 1,5",
+    "length: 22 mm",
+    "outside thread: M 16 x 1,5",
+    "kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+

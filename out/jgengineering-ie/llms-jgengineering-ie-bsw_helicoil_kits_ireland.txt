@@ -1,0 +1,193 @@
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-1-2-x-12-baercoil-kit|>
+## BSW 1/2 x 12 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€83.64",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSW 1/2 x 12 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-3-16-x-24-baercoil-kit-helicoil|>
+## BSW 3/16 x 24 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€68.78",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSW 3/16 x 24 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-7-8-x-9-baercoil-kit-helicoil|>
+## BSW 7/8 x 9 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€220.29",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\n\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\n\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "BSW 7/8 x 9 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Suitable for machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-9-16-x-12-baercoil-kit-helicoil|>
+## BSW 9/16 x 12 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€140.29",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "BSW 9/16 x 12 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D",
+    "Suitable for machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-3-4-x-10-baercoil-kit|>
+## BSW 3/4 x 10 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€181.30",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\n\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "BSW 3/4 x 10 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Suitable for machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-1-4-x-20-baercoil-kit-helicoil|>
+## BSW 1/4 x 20 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€61.37",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSW 1/4 x 20 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-1-8-x-40-baercoil-kit-helicoil|>
+## BSW 1/8 x 40 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€68.78",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSW 1/8 x 40 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-3-8-x-16-baercoil-kit|>
+## BSW 3/8 x 16 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€70.98",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 15 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSW 3/8 x 16 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-5-16-x-18-baercoil-kit-helicoil|>
+## BSW 5/16 x 18 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€66.18",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 20 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSW 5/16 x 18 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-1-x-8-baercoil-kit|>
+## BSW 1'' x 8 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€210.10",
+  "description": "Complete BaerCoil Thread-Repair-Kit. Content: 1 x HSSG BaerCoil Standard Drill, 1 x HSSG BaerCoil Tap, + 4 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D. Without Drill - suitable Drill in Shop. Without Tang Break Tool - break tang with a needle-nosed pliers.",
+  "availability": "Unavailable",
+  "product_name": "BSW 1'' x 8 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "4 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Suitable Drill available in Shop",
+    "Break tang with a needle-nosed pliers"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-5-8-x-11-baercoil-kit-helicoil|>
+## BSW 5/8 x 11 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€141.39",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\n\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\n\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "BSW 5/8 x 11 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+    "Suitable for machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsw-helicoil-kits-ireland/products/bsw-7-16-x-14-baercoil-kit-helicoil|>
+## BSW 7/16 x 14 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€77.98",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap > ISO1-4H\n1 x BaerCoil Inserting Tool\n(with this Inserting tool you don't need a tang break tool)\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSW 7/16 x 14 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+

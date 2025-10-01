@@ -1,0 +1,138 @@
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-1-8-x-28-baercoil-kit-helicoil|>
+## G (BSP) 1/8 x 28 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€83.46",
+  "description": "Complete BaerCoil Thread-Repair-Kit including 1 x HSSG BaerCoil Standard Drill, 1 x HSSG BaerCoil Tap, 1 x BaerCoil Inserting Tool, 1 x BaerCoil Tang Break Tool, and 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D.",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 1/8 x 28 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-3-8-x-19-baercoil-kit-helicoil|>
+## G (BSP) 3/8 x 19 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€126.37",
+  "description": "BaerCoil Thread Repair Kit G 3/8 x 19. With this BaerCoil® thread repair set it is possible to repair through hole and blind hole threads in G (BSP) 3/8 x 19. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool and wire thread inserts made of stainless steel. No tang breaker is included in this set. The tang can be broken with the installation tool. To do this, pull back the installation tool after installation and turn it 90° so that it rests on the tang. Then strike the tool briefly at the back. BaerCoil® thread inserts can be shortened, if necessary, to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 3/8 x 19 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 3/8",
+    "Pitch: 19",
+    "Dimension: G (BSP) 3/8 x 19",
+    "Length: 2,0 D",
+    "T (Length when installed): 19,05 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-3-4-x-14-baercoil-kit-helicoil|>
+## G (BSP) 3/4 x 14 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€183.27",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 3/4 x 14 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D",
+    "Suitable Drill available in Shop",
+    "Tang Break Tool not included"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-1-4-x-19-baercoil-kit-helicoil|>
+## G (BSP) 1/4 x 19 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€116.11",
+  "description": "BaerCoil Thread Repair Kit G 1/4 x 19. With this BaerCoil® thread repair set it is possible to repair through hole and blind hole threads in G (BSP) 1/4 x 19. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid waste in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 1/4 x 19 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 1/4",
+    "Pitch: 19",
+    "Dimension: G (BSP) 1/4 x 19",
+    "Length: 2,0 D",
+    "T (Length when installed): 12,7 mm",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-1-x-11-baercoil-kit-helicoil|>
+## G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€270.60",
+  "description": "Complete BaerCoil Thread-Repair-Kit\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 1'' x 11 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-5-8-x-14-baercoil-kit-helicoil|>
+## G (BSP) 5/8 x 14 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€183.27",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\n\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 5/8 x 14 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D",
+    "Suitable Drill available in Shop",
+    "Tang Break Tool not included"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-7-8-x-14-baercoil-kit-helicoil|>
+## G (BSP) 7/8 x 14 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€270.60",
+  "description": "Complete BaerCoil Thread-Repair-Kit. Content: 1 x HSSG BaerCoil Standard Drill, 1 x HSSG BaerCoil Tap, + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D without Drill - suitable Drill in Shop without Tang Break Tool - break tang with a needle-nosed pliers.",
+  "availability": "Sold out",
+  "product_name": "G (BSP) 7/8 x 14 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/g-bsp-1-2-x-14-baercoil-kit-helicoil|>
+## G (BSP) 1/2 x 14 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€109.47",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\n\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "G (BSP) 1/2 x 14 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Standard Drill",
+    "1 x HSSG BaerCoil Tap",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 2,0 x D",
+    "Suitable for machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+

@@ -1,0 +1,80 @@
+<|https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/baerfix-thread-repair-kit-unf-5-16-x-24-like-timesert|>
+## BaerFix Thread Repair Kit UNF 5/16 x 24 like timesert
+
+{
+  "price": "€142.56",
+  "description": "BaerFix Thread Repair Kit UNF 5/16 x 24 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNF 5/16 x 24 like timesert",
+  "specifications": [
+    "Inside thread: UNF 5/16 x 24",
+    "Length: 15 mm",
+    "External Thread: M 12 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/baerfix-thread-repair-kit-unf-7-16-x-20-like-timesert|>
+## BaerFix Thread Repair Kit UNF 7/16 x 20 like timesert
+
+{
+  "price": "€81.06",
+  "description": "BaerFix Thread Repair Kit UNF 7/16 x 20 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNF 7/16 x 20 like timesert",
+  "specifications": [
+    "Inside thread: UNF 7/16 x 20",
+    "Length: 22 mm",
+    "External Thread: M 16 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/baerfix-thread-repair-kit-unf-3-8-x-24-like-timesert|>
+## BaerFix Thread Repair Kit UNF 3/8 x 24 like timesert
+
+{
+  "price": "€84.99",
+  "description": "BaerFix Thread Repair Kit UNF 3/8 x 24 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Sold out",
+  "product_name": "BaerFix Thread Repair Kit UNF 3/8 x 24 like timesert",
+  "specifications": [
+    "Inside thread: UNF 3/8 x 24",
+    "Length: 18 mm",
+    "External Thread: M 14 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/baerfix-thread-repair-kit-unf-1-4-x-28-like-timesert|>
+## BaerFix Thread Repair Kit UNF 1/4 x 28 like timesert
+
+{
+  "price": "€56.46",
+  "description": "BaerFix Thread Repair Kit UNF 1/4 x 28 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNF 1/4 x 28 like timesert",
+  "specifications": [
+    "Inside thread: UNF 1/4 x 28",
+    "Length: 14 mm",
+    "External Thread: M 10 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/baerfix-thread-repair-kit-unf-1-2-x-20-like-timesert|>
+## BaerFix Thread Repair Kit UNF 1/2 x 20 like timesert
+
+{
+  "price": "€122.88",
+  "description": "BaerFix Thread Repair Kit UNF 1/2 x 20 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNF 1/2 x 20 like timesert",
+  "specifications": [
+    "Inside thread: UNF 1/2 x 20",
+    "Length: 22 mm",
+    "External Thread: M 18 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+

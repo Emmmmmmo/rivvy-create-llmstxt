@@ -1,0 +1,80 @@
+<|https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-unc-1-4-x-20-like-timesert|>
+## BaerFix Thread Repair Kit UNC 1/4 x 20 like timesert
+
+{
+  "price": "€56.46",
+  "description": "BaerFix Thread Repair Kit UNC 1/4 x 20 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNC 1/4 x 20 like timesert",
+  "specifications": [
+    "Inside thread: UNC 1/4 x 20",
+    "Length: 14 mm",
+    "External Thread: M 10 x 1.5",
+    "Kit content includes HSS spiral drill, BaerFix inserting tool, Adapter Nut, 5 BaerFix self-tapping thread inserts"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-unc-5-16-x-18-like-timesert|>
+## BaerFix Thread Repair Kit UNC 5/16 x 18 like timesert
+
+{
+  "price": "€73.68",
+  "description": "BaerFix Thread Repair Kit UNC 5/16 x 18 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Out of Stock",
+  "product_name": "BaerFix Thread Repair Kit UNC 5/16 x 18 like timesert",
+  "specifications": [
+    "Inside thread: UNC 5/16 x 18",
+    "Length: 15 mm",
+    "External Thread: M 12 x 1.5",
+    "Kit content includes: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-unc-3-8-x-16-like-timsert|>
+## BaerFix Thread Repair Kit UNC 3/8 x 16 like timesert
+
+{
+  "price": "€81.06",
+  "description": "BaerFix Thread Repair Kit UNC 3/8 x 16 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNC 3/8 x 16 like timesert",
+  "specifications": [
+    "Inside thread: UNC 3/8 x 16",
+    "Length: 18 mm",
+    "External Thread: M 14 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-unc-7-16-x-14-like-timesert|>
+## BaerFix Thread Repair Kit UNC 7/16 x 14 like timesert
+
+{
+  "price": "€110.56",
+  "description": "BaerFix Thread Repair Kit UNC 7/16 x 14 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNC 7/16 x 14 like timesert",
+  "specifications": [
+    "Inside thread: UNC 7/16 x 14",
+    "Length: 22 mm",
+    "External Thread: M 16 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/unc-baerfix-thread-repair-kits-like-timesert/products/baerfix-thread-repair-kit-unc-1-2-x-13-like-timesert|>
+## BaerFix Thread Repair Kit UNC 1/2 x 13 like timesert
+
+{
+  "price": "€122.88",
+  "description": "BaerFix Thread Repair Kit UNC 1/2 x 13 like timesert is backordered and will ship as soon as it is back in stock. Applicable for materials like: aluminum, light alloys, nonferrous metals, brass, bronze, cast iron, synthetic materials, laminated plastics, hardwoods, plastics etc. For very hard and strong materials, it's recommended to tap the thread before the installation of the BaerFix insert. Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated + instruction for use.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Repair Kit UNC 1/2 x 13 like timesert",
+  "specifications": [
+    "Inside thread: UNC 1/2 x 13",
+    "Length: 22 mm",
+    "External Thread: M 18 x 1.5",
+    "Kit content: 1 x HSS spiral drill, 1 x BaerFix inserting tool, 1 x Adapter Nut, 5 x BaerFix self-tapping thread inserts, material: hardened steel, bichromated"
+  ]
+}
+

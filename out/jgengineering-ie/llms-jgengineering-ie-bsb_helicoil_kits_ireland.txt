@@ -1,0 +1,80 @@
+<|https://www.jgengineering.ie/collections/bsb-helicoil-kits-ireland/products/bsb-7-16-x-26-baercoil-kit-helicoil|>
+## BSB 7/16 x 26 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€284.00",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSB 7/16 x 26 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsb-helicoil-kits-ireland/products/bsb-1-4-x-26-baercoil-kit-helicoil|>
+## BSB 1/4 x 26 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€273.55",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSB 1/4 x 26 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsb-helicoil-kits-ireland/products/bsb-1-2-x-26-baercoil-kit-helicoil|>
+## BSB 1/2 x 26 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€318.32",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSB 1/2 x 26 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsb-helicoil-kits-ireland/products/bsb-5-16-x-26-baercoil-kit-helicoil|>
+## BSB 5/16 x 26 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€273.55",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSB 5/16 x 26 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/bsb-helicoil-kits-ireland/products/bsb-3-8-x-26-baercoil-kit-helicoil|>
+## BSB 3/8 x 26 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€273.55",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D",
+  "availability": "Unavailable",
+  "product_name": "BSB 3/8 x 26 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+

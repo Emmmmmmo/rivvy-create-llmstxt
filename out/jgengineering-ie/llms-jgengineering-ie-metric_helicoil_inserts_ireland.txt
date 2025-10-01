@@ -1,0 +1,1009 @@
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m8-x-1-25-baercoil-inserts-helicoil|>
+## M8 X 1.25 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€11.90",
+  "description": "BaerCoil Wire Thread Inserts M 8 x 1.25 - 2.0 D (16 mm) - free running - 100 pcs. BaerCoil® thread inserts are the perfect solution for your thread repair needs! These inserts provide a long lasting and powerful thread connection and scrap recovery. The BaerCoil® thread insert is the perfect solution for damaged threads. With the use of BaerCoil® thread inserts, the thread produced is significantly stronger than the original thread. BaerCoil® thread inserts ensure optimum power transmission from the bolt to the nut thread, even in lightweight constructions. Today, they are already an important component in aviation and vehicle construction. They save weight and allow the use of smaller and shorter screw connections. BaerCoil® thread inserts can be shortened, according to the required length, with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M8 X 1.25 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Diameter: 8",
+    "Pitch: 1.25",
+    "Dimension: M 8 x 1.25",
+    "Length: 2.0 D",
+    "T (Length when installed): 16 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m18-x-1-5-baercoil-inserts-helicoil|>
+## M18 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€52.00",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M18 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M18 X 1.5 X 1D / 25",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Standard: DIN 8140, Toleranz ISO 2 (6H)"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m30-x-3-5-baercoil-inserts-helicoil|>
+## M30 X 3.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€42.80",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M30 X 3.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M30 X 3.5 X 1D",
+    "Length: M30 X 3.5 X 1.5D",
+    "Length: M30 X 3.5 X 2D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m36-x-4-0-baercoil-inserts-helicoil|>
+## M36 X 4.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€34.60",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M36 X 4.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: Default, M36 X 4.0 X 1D, M36 X 4.0 X 1.5D, M36 X 4.0 X 2D",
+    "Qty: Default, 5",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m14-x-2-0-baercoil-inserts-helicoil|>
+## M14 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€14.75",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"",
+  "availability": "Unavailable",
+  "product_name": "M14 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M14 X 2.0 X 1D",
+    "Length: M14 X 2.0 X 1.5D",
+    "Length: M14 X 2.0 X 2D",
+    "Length: M14 X 2.0 X 2.5D",
+    "Length: M14 X 2.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m36-x-2-0-baercoil-inserts-helicoil|>
+## M36 X 2.0 BaerCoil Inserts
+
+{
+  "price": "€86.55",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M36 X 2.0 BaerCoil Inserts",
+  "specifications": [
+    "Length: M36 X 2.0 X 1D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m20-x-2-5-baercoil-inserts-helicoil|>
+## M20 X 2.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€70.07",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M20 X 2.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M20 X 2.5 X 1D",
+    "Length: M20 X 2.5 X 1.5D",
+    "Length: M20 X 2.5 X 2D",
+    "Length: M20 X 2.5 X 2.5D",
+    "Length: M20 X 2.5 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m42-x-4-0-baercoil-inserts-helicoil|>
+## M42 X 4.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€369.17",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M42 X 4.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M42 X 4.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m8-x-1-0-baercoil-inserts-helicoil|>
+## M8 X 1.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€12.77",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M8 X 1.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M8 X 1.0 X 1D",
+    "Length: M8 X 1.0 X 1.5D",
+    "Length: M8 X 1.0 X 2D",
+    "Length: M8 X 1.0 X 2.5D",
+    "Length: M8 X 1.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m2-5-x-0-45-baercoil-inserts-helicoil|>
+## M2.5 X 0.45 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€33.36",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M2.5 X 0.45 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length options: M2.5 X 0.45 X 1D, M2.5 X 0.45 X 1.5D, M2.5 X 0.45 X 2D, M2.5 X 0.45 X 2.5D, M2.5 X 0.45 X 3D",
+    "Material: Stainless Steel (AISI 304)",
+    "Standard: DIN 8140, Toleranz ISO 2 (6H)",
+    "Type: Free running",
+    "Thread repair for damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread armour plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m26x15x15dbaercoilinserts1-b7349-15|>
+## M26 X 1.5 X 1.5D BAERCOIL INSERTS (5Pck) : 1-B7349-15
+
+{
+  "price": "€36.90",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M26 X 1.5 X 1.5D BAERCOIL INSERTS (5Pck) : 1-B7349-15",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength",
+    "Use in machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m3-x-0-5-baercoil-inserts-helicoil|>
+## M3 X 0.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€7.24",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M3 X 0.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length options: M3 X 0.5 X 1D, M3 X 0.5 X 1.5D, M3 X 0.5 X 2D, M3 X 0.5 X 2.5D, M3 X 0.5 X 3D",
+    "Material: Stainless Steel (AISI 304)",
+    "Standard: DIN 8140, Toleranz ISO 2 (6H)",
+    "Type: Free running",
+    "Applications: Machine-building, electrical, automotive, medical, aerospace"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m28-x-1-5-baercoil-inserts-helicoil|>
+## M28 X 1.5 BaerCoil Inserts
+
+{
+  "price": "€50.20",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M28 X 1.5 BaerCoil Inserts",
+  "specifications": [
+    "Length: M28 X 1.5 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m14-x-1-0-baercoil-inserts-helicoil|>
+## M14 X 1.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€10.15",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M14 X 1.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M14 X 1.0 X 1D",
+    "Length: M14 X 1.0 X 1.5D",
+    "Length: M14 X 1.0 X 2D",
+    "Length: M14 X 1.0 X 2.5D",
+    "Length: M14 X 1.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m20-x-1-5-baercoil-inserts-helicoil|>
+## M20 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€56.91",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M20 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M20 X 1.5 X 1D / 25",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m39-x-4-0-baercoil-inserts-helicoil|>
+## M39 X 4.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€130.20",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M39 X 4.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M39 X 4.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m18-x-2-5-baercoil-inserts-helicoil|>
+## M18 X 2.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€96.03",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"",
+  "availability": "Sold out",
+  "product_name": "M18 X 2.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M18 X 2.5 X 1D",
+    "Length: M18 X 2.5 X 1.5D",
+    "Length: M18 X 2.5 X 2D",
+    "Length: M18 X 2.5 X 2.5D",
+    "Length: M18 X 2.5 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m27-x-3-0-baercoil-inserts-helicoil|>
+## M27 X 3.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€16.80",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M27 X 3.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M27 X 3.0 X 1D",
+    "Length: M27 X 3.0 X 1.5D",
+    "Length: M27 X 3.0 X 2D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m10-x-1-5-baercoil-inserts-helicoil|>
+## M10 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€13.20",
+  "description": "BaerCoil Wire Thread Inserts M 10 x 1.5 - 2.5 D (25 mm) - free running. BaerCoil® thread inserts are the perfect solution for your thread repair needs! These inserts provide a long-lasting and powerful thread connection and scrap recovery. If you have damaged threads, the BaerCoil® thread insert is the perfect solution - while maintaining the same nominal diameter! By reaming and inserting a new EC thread, your old thread becomes strong and stable again. With the BaerCoil® thread insert, your manufactured thread becomes significantly more stable than the original thread! BaerCoil® thread inserts are sophisticated design elements that ensure optimum power transmission from the bolt to the nut thread. They compensate for pitch and angular errors and thus distribute static and dynamic work loads evenly over all thread turns. This is particularly important in lightweight constructions where the carrier material is to be reduced. BaerCoil® thread inserts make it possible to use smaller and shorter screw connections. Today, they are already an important component in the aerospace and automotive industries. BaerCoil® thread inserts can be shortened, according to the required length, with a side cutter or similar.",
+  "availability": "Sold out",
+  "product_name": "M10 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Diameter: 10 mm",
+    "Pitch: 1.5 mm",
+    "Length: 2.5 D (25 mm)",
+    "Material: Stainless Steel V2A (AISI 304)",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m30-x-1-5-baercoil-inserts-helicoil|>
+## M30 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€67.24",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M30 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M30 X 1.5 X 1D / 5",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m27-x-2-0-baercoil-inserts-helicoil|>
+## M27 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€18.95",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M27 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M27 X 2.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m39-x-2-0-baercoil-inserts-helicoil|>
+## M39 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€220.20",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M39 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M39 X 2.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m33-x-2-0-baercoil-inserts-helicoil|>
+## M33 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€148.78",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M33 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M33 X 2.0 X 1D",
+    "Length: M33 X 2.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for low shear strength materials"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m12-x-1-0-baercoil-inserts-helicoil|>
+## M12 X 1.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€8.69",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M12 X 1.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M12 X 1.0 X 1D",
+    "Length: M12 X 1.0 X 1.5D",
+    "Length: M12 X 1.0 X 2D",
+    "Length: M12 X 1.0 X 2.5D",
+    "Length: M12 X 1.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m36-x-1-5-baercoil-inserts-helicoil|>
+## M36 X 1.5 BaerCoil Inserts
+
+{
+  "price": "€94.79",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M36 X 1.5 BaerCoil Inserts",
+  "specifications": [
+    "Length: M36 X 1.5 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m4-x-0-7-baercoil-inserts-helicoil|>
+## M4 X 0.7 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€6.39",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M4 X 0.7 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length options: M4 X 0.7 X 1D, M4 X 0.7 X 1.5D, M4 X 0.7 X 2D, M4 X 0.7 X 2.5D, M4 X 0.7 X 3D",
+    "Material: Stainless Steel (AISI 304)",
+    "Standard: DIN 8140, Toleranz ISO 2 (6H)",
+    "Type: Free running",
+    "Applications: Thread repair, recovery of rejected items, thread armour plating"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m22-x-1-5-baercoil-inserts-helicoil|>
+## M22 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€84.31",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M22 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M22 X 1.5 X 1D",
+    "Length: M22 X 1.5 X 1.5D",
+    "Length: M22 X 1.5 X 2D",
+    "Length: M22 X 1.5 X 2.5D",
+    "Length: M22 X 1.5 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m24-x-1-5-baercoil-inserts-helicoil|>
+## M24 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€54.25",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M24 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M24 X 1.5 X 1D",
+    "Length: M24 X 1.5 X 1.5D",
+    "Length: M24 X 1.5 X 2D",
+    "Length: M24 X 1.5 X 2.5D",
+    "Length: M24 X 1.5 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m36-x-3-0-baercoil-inserts-helicoil|>
+## M36 X 3.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€103.10",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M36 X 3.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M36 X 3.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m20-x-2-0-baercoil-inserts-helicoil|>
+## M20 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€33.19",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M20 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M20 X 2.0 X 1D",
+    "Length: M20 X 2.0 X 1.5D",
+    "Length: M20 X 2.0 X 2D",
+    "Length: M20 X 2.0 X 2.5D",
+    "Length: M20 X 2.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m2-x-0-4-baercoil-insert-helicoil|>
+## M2 x 0.4 BaerCoil Insert (Helicoil Type)
+
+{
+  "price": "€5.05",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M2 x 0.4 BaerCoil Insert (Helicoil Type)",
+  "specifications": [
+    "Length: M2 x 0.4 x 1D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Standard: DIN 8140, Toleranz ISO 2 (6H)"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m16-x-2-0-baercoil-inserts-helicoil|>
+## M16 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€18.20",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M16 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M16 X 2.0 X 1D",
+    "Length: M16 X 2.0 X 1.5D",
+    "Length: M16 X 2.0 X 2D",
+    "Length: M16 X 2.0 X 2.5D",
+    "Length: M16 X 2.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m9-x-1-25-baercoil-inserts-helicoil|>
+## M9 X 1.25 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€9.79",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M9 X 1.25 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M9 X 1.25 X 1D",
+    "Length: M9 X 1.25 X 1.5D",
+    "Length: M9 X 1.25 X 2D",
+    "Length: M9 X 1.25 X 2.5D",
+    "Length: M9 X 1.25 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m6-x-0-75-baercoil-inserts-helicoil|>
+## M6 X 1.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€8.90",
+  "description": "BaerCoil® thread inserts are the perfect solution for your thread repair needs! These inserts provide a long lasting and powerful thread connection and scrap recovery. The BaerCoil® thread insert is the perfect solution for damaged threads. With the use of BaerCoil® thread inserts, the thread produced is significantly stronger than the original thread. BaerCoil® thread inserts are an indispensable component in aviation and vehicle construction. They ensure that both static and dynamic work loads are distributed in a balanced manner over the individual thread turns. Also, the flexibility of the thread inserts compensates for any pitch and angular errors, so that optimum power transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts helps to reduce the carrier material and to use smaller or shorter screw connections. Thanks to their versatility and reliability, BaerCoil® thread inserts are now an indispensable component in many industries. BaerCoil thread inserts can be shortened to the required length with a side cutter or similar.",
+  "availability": "Sold out",
+  "product_name": "M6 X 1.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Diameter: 6",
+    "Pitch: 1.0",
+    "Dimension: M 6 x 1.0",
+    "Length: 2.0 D",
+    "T (Length when installed): 12 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m14-x-1-5-baercoil-inserts-helicoil|>
+## M14 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€19.66",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M14 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M14 X 1.5 X 1D",
+    "Length: M14 X 1.5 X 1.5D",
+    "Length: M14 X 1.5 X 2D",
+    "Length: M14 X 1.5 X 2.5D",
+    "Length: M14 X 1.5 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m12-x-1-75-baercoil-inserts-helicoil|>
+## M12 X 1.75 BaerCoil Inserts (Helicoil Type)ppppp
+
+{
+  "price": "€10.85",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M12 X 1.75 BaerCoil Inserts (Helicoil Type)ppppp",
+  "specifications": [
+    "Length: M12 X 1.75 X 1D",
+    "Length: M12 X 1.75 X 1.5D",
+    "Length: M12 X 1.75 X 2D",
+    "Length: M12 X 1.75 X 2.5D",
+    "Length: M12 X 1.75 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m27-x-1-5-baercoil-inserts-helicoil-helicoil|>
+## M27 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€18.95",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M27 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M27 X 1.5 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m2-2-0-45-baercoil-insert-helicoil|>
+## M2.2 0.45 BaerCoil Insert (Helicoil Type)
+
+{
+  "price": "€13.60",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M2.2 0.45 BaerCoil Insert (Helicoil Type)",
+  "specifications": [
+    "Length options: M2.2 X 0.45 X 1D, M2.2 X 0.45 X 1.5D, M2.2 X 0.45 X 2D, M2.2 X 0.45 X 2.5D, M2.2 X 0.45 X 3D",
+    "Material: Stainless Steel (AISI 304)",
+    "Standard: DIN 8140, Toleranz ISO 2 (6H)",
+    "Type: Free running",
+    "Thread repair for damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m9-x-1-0-baercoil-inserts-helicoil|>
+## M9 X 1.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€9.39",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M9 X 1.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M9 X 1.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m22-x-2-5-baercoil-inserts-helicoil|>
+## M22 X 2.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€119.90",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M22 X 2.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M22 X 2.5 X 1D",
+    "Length: M22 X 2.5 X 1.5D",
+    "Length: M22 X 2.5 X 2D",
+    "Length: M22 X 2.5 X 2.5D",
+    "Length: M22 X 2.5 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m42-x-3-0-baercoil-inserts-helicoil|>
+## M42 X 3.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€369.17",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M42 X 3.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M42 X 3.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m30-x-2-0-baercoil-inserts-helicoil|>
+## M30 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€51.20",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M30 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M30 X 2.0 X 1D / 5",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m33-x-3-5-baercoil-inserts-helicoil|>
+## M33 X 3.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€55.85",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M33 X 3.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M33 X 3.5 X 1D",
+    "Length: M33 X 3.5 X 1.5D",
+    "Length: M33 X 3.5 X 2D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m11-x-1-25-baercoil-inserts-helicoil|>
+## M11 X 1.25 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€10.27",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M11 X 1.25 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M11 X 1.25 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m14-x-1-25-baercoil-inserts-helicoil|>
+## M14 X 1.25 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€10.49",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"",
+  "availability": "Unavailable",
+  "product_name": "M14 X 1.25 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M14 X 1.25 1D, M14 X 1.25 1.5D, M14 X 1.25 2D, M14 X 1.25 2.5D, M14 X 1.25 3D",
+    "Tax included",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Use in machine-building, electrical, automotive, medical and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m24-x-3-0-baercoil-inserts-helicoil|>
+## M24 X 3.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€80.23",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M24 X 3.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M24 X 3.0 X 1D",
+    "Length: M24 X 3.0 X 1.5D",
+    "Length: M24 X 3.0 X 2D",
+    "Length: M24 X 3.0 X 2.5D",
+    "Length: M24 X 3.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m5-x-0-8-baercoil-inserts-helicoil|>
+## M5 X 0.8 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€6.75",
+  "description": "BaerCoil Wire Thread Inserts M 5 x 0.8 - 2.0 D (10 mm) - free running - 100 pcs. BaerCoil® thread inserts are the perfect solution for your thread repair needs! These inserts provide a long lasting and powerful thread connection and scrap recovery. The BaerCoil® thread insert is the perfect solution for damaged threads. STI thread (Insert thread) is cut and the BaerCoil® insert is screwed in. The thread produced is significantly stronger than the original thread. BaerCoil® thread inserts are essential for optimum force transmission in lightweight constructions. They ensure that both static and dynamic work loads are distributed in a balanced way to the individual threads. Also, the flexibility of the thread inserts compensates for any pitch and angle errors. BaerCoil® thread inserts not only save time and money, but are also much lighter and more compact than conventional screw connections. BaerCoil® thread inserts can be shortened, according to the required length, with a side cutter or similar.",
+  "availability": "Sold out",
+  "product_name": "M5 X 0.8 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Diameter: 5",
+    "Pitch: 0.8",
+    "Dimension: M 5 x 0.8",
+    "Length: 2.0 D",
+    "T (Length when installed): 10 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m10-x-1-0-baercoil-inserts-helicoil|>
+## baerfix m
+
+{
+  "price": "€12.39",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "baerfix m",
+  "specifications": [
+    "Length: M10 X 1.0 X 1D",
+    "Length: M10 X 1.0 X 1.5D",
+    "Length: M10 X 1.0 X 2D",
+    "Length: M10 X 1.0 X 2.5D",
+    "Length: M10 X 1.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m24-x-2-0-baercoil-inserts-helicoil|>
+## M24 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€54.35",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M24 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M24 X 2.0 X 1D",
+    "Length: M24 X 2.0 X 1.5D",
+    "Length: M24 X 2.0 X 2D",
+    "Length: M24 X 2.0 X 2.5D",
+    "Length: M24 X 2.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m11-x-1-5-baercoil-inserts-helicoil|>
+## M11 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€7.62",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M11 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M11 X 1.5 X 1D",
+    "Length: M11 X 1.5 X 1.5D",
+    "Length: M11 X 1.5 X 2D",
+    "Length: M11 X 1.5 X 2.5D",
+    "Length: M11 X 1.5 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m12-x-1-5-baercoil-inserts|>
+## M12 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€14.79",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"",
+  "availability": "Sold out",
+  "product_name": "M12 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M12 X 1.5 X 1D, M12 X 1.5 X 1.5D, M12 X 1.5 X 2D, M12 X 1.5 X 2.5D, M12 X 1.5 X 3D",
+    "Qty: 10, 100",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m16-x-1-5-baercoil-inserts-helicoil|>
+## M16 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€64.09",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Sold out",
+  "product_name": "M16 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M16 X 1.5 X 1D",
+    "Length: M16 X 1.5 X 1.5D",
+    "Length: M16 X 1.5 X 2D",
+    "Length: M16 X 1.5 X 2.5D",
+    "Length: M16 X 1.5 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m18-x-2-0-baercoil-inserts-helicoil|>
+## M18 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€28.85",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M18 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M18 X 2.0 X 1D",
+    "Length: M18 X 2.0 X 1.5D",
+    "Length: M18 X 2.0 X 2D",
+    "Length: M18 X 2.0 X 2.5D",
+    "Length: M18 X 2.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m7-x-1-0-baercoil-inserts-helicoil|>
+## M7 X 1.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€7.14",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M7 X 1.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M7 X 1.0 X 1D",
+    "Length: M7 X 1.0 X 1.5D",
+    "Length: M7 X 1.0 X 2D",
+    "Length: M7 X 1.0 X 2.5D",
+    "Length: M7 X 1.0 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m42-x-2-0-baercoil-inserts-helicoil|>
+## M42 X 2.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€369.17",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Unavailable",
+  "product_name": "M42 X 2.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M42 X 2.0 X 1.5D",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m10-x-1-25-baercoil-inserts-helicoil|>
+## M10 X 1.25 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€7.75",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M10 X 1.25 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M10 X 1.25 X 1D",
+    "Length: M10 X 1.25 X 1.5D",
+    "Length: M10 X 1.25 X 2D",
+    "Length: M10 X 1.25 X 2.5D",
+    "Length: M10 X 1.25 X 3D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/metric-helicoil-inserts-ireland/products/m12-x-1-25-baercoil-inserts-helicoil|>
+## M12 X 1.25 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€9.60",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M12 X 1.25 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M12 X 1.25 X 1D",
+    "Length: M12 X 1.25 X 1.5D",
+    "Length: M12 X 1.25 X 2D",
+    "Length: M12 X 1.25 X 2.5D",
+    "Length: M12 X 1.25 X 3D"
+  ]
+}
+

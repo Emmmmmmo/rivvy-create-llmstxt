@@ -1,0 +1,189 @@
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m5-m8-baercoil-workshop-kit-helicoil|>
+## M5 - M8 BaerCoil Workshop Kit (Helicoil Type)
+
+{
+  "price": "€97.79",
+  "description": "M5 - M8 BaerCoil Workshop Kit (Helicoil Type) in metal box. Box Content: BaerCoil Drill HSS, STI Bottoming Tap HSSG, BaerCoil Inserting Tool, BaerCoil Tang Break Tool, + Wire Thread Inserts - type: \"free running\" - lengths: 1.5 D - 2.5 D. Different lengths for most applications.",
+  "availability": "Sold out",
+  "product_name": "M5 - M8 BaerCoil Workshop Kit (Helicoil Type)",
+  "specifications": [
+    "M 5 x 0.8 Tap: EBW05, BZ005, 5.2 mm Drill, 10 Inserts of 1.5 D, 5 Inserts of 2.5 D",
+    "M 6 x 1.0 Tap: EBW06, BZ006, 6.3 mm Drill, 10 Inserts of 1.5 D, 5 Inserts of 2.5 D",
+    "M 8 x 1.25 Tap: EBW08, BZ008, 8.3 mm Drill, 10 Inserts of 1.5 D, 5 Inserts of 2.5 D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m6-m14-x-1-25-baercoil-workshop-kit-helicoil|>
+## M6 - M14 X 1.25 BaerCoil Workshop Kit (Helicoil Type)
+
+{
+  "price": "€171.59",
+  "description": "BaerCoil Thread Repair Workshop Kit M 6 - M 14 x 1.25* (*Spark Plug) in metal box. Box Content: BaerCoil Drill HSS, STI Bottoming Tap HSSG, BaerCoil Inserting Tool, BaerCoil Tang Break Tool, + Wire Thread Inserts - type: \"free running\" - lengths: 1.5 D - 2.5 D. Different lengths for most applications.",
+  "availability": "Unavailable",
+  "product_name": "M6 - M14 X 1.25 BaerCoil Workshop Kit (Helicoil Type)",
+  "specifications": [
+    "M6 - M14 X 1.25",
+    "Includes BaerCoil Drill HSS",
+    "Includes STI Bottoming Tap HSSG",
+    "Includes BaerCoil Inserting Tool",
+    "Includes BaerCoil Tang Break Tool",
+    "Wire Thread Inserts - lengths: 1.5 D - 2.5 D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m3-m12-baercoil-workshop-kit-helicoil|>
+## M3 - M12 BaerCoil Workshop Kit (Helicoil Type)
+
+{
+  "price": "€298.61",
+  "description": "BaerCoil Thread Repair Workshop Kit M 3 - M 12. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in M 3 - 12. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair magazine contains various auxiliary tools, such as the core drill bit, hand taps with oversize for insert threads, insertion tools, tang breakers and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened if necessary, according to the required length, with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M3 - M12 BaerCoil Workshop Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 3 - 12",
+    "Product group: Wire thread inserts - Repair kits",
+    "Product type: BaerCoil thread repair workshop kits",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: free running",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m6-m10-baercoil-workshop-kits-helicoil|>
+## M6 - M10 BaerCoil Workshop Kits (Helicoil Type)
+
+{
+  "price": "€110.09",
+  "description": "BaerCoil Thread Repair Workshop Kit M 6 - M 10 in metal box. Box Content: BaerCoil Drill HSS, STI Bottoming Tap HSSG, BaerCoil Inserting Tool, BaerCoil Tang Break Tool, + Wire Thread Inserts - type: \"free running\" - lengths: 1.5 D - 2.5 D. Different lengths for most applications.",
+  "availability": "Unavailable",
+  "product_name": "M6 - M10 BaerCoil Workshop Kits (Helicoil Type)",
+  "specifications": [
+    "M 6 x 1.0",
+    "M 8 x 1.25",
+    "M 10 x 1.5",
+    "Wire Thread Inserts length: 1.5 D - 10 pieces",
+    "Wire Thread Inserts length: 2.5 D - 5 pieces"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m12-m16-oil-drain-plug-baercoil-workshop-kit-helicoil|>
+## M12 - M16 Oil Drain Plug BaerCoil Workshop Kit (Helicoil Type)
+
+{
+  "price": "€147.48",
+  "description": "BaerCoil Thread-Repair-Workshop-Kit for Oil Drain Plug in metal box. Box Content: BaerCoil Drill HSS, STI Bottoming Tap HSSG, BaerCoil Inserting Tool, + Wire Thread Inserts - type: \"free running\" different lengths for most applications.",
+  "availability": "Unavailable",
+  "product_name": "M12 - M16 Oil Drain Plug BaerCoil Workshop Kit (Helicoil Type)",
+  "specifications": [
+    "M 12 x 1.5",
+    "EBW12",
+    "12.4 mm",
+    "5 pcs. 12 mm",
+    "5 pcs. 18 mm",
+    "M 14 x 1.5",
+    "EBW14",
+    "14.4 mm",
+    "5 pcs. 14 mm",
+    "5 pcs. 21 mm",
+    "M 16 x 1.5",
+    "EBW14",
+    "-",
+    "5 pcs. 16 mm",
+    "5 pcs. 24 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/automobile-special-baercoil-workshop-kit-helicoil|>
+## Automobile Special BaerCoil (Helicoil Type) Workshop Kit
+
+{
+  "price": "€305.90",
+  "description": "Automobile Special BaerCoil (Helicoil Type) Workshop Kit is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "Automobile Special BaerCoil (Helicoil Type) Workshop Kit",
+  "specifications": [
+    "BaerCoil Tap: M 6 x 1.0, Inserting Tool: EBW06, Tang Break Tool: BZ006, Drill: 6.3 mm, Wire-Thread Inserts: 10 pcs. 9 mm, 5 pcs. 15 mm, -",
+    "BaerCoil Tap: M 10 x 1.0*, Inserting Tool: EBW10, Tang Break Tool: -, Drill: -, Wire-Thread Inserts: 5 pcs. 10 mm, 5 pcs. 15 mm, 5 pcs. 20 mm",
+    "BaerCoil Tap: M 12 x 1.25*, Inserting Tool: EBW12, Tang Break Tool: -, Drill: -, Wire-Thread Inserts: 5 pcs. 12 mm, 5 pcs. 18 mm, 5 pcs. 24 mm",
+    "BaerCoil Tap: M 12 x 1.5**, Inserting Tool: EBW12, Tang Break Tool: BZ012, Drill: 12.4 mm, Wire-Thread Inserts: 5 pcs. 12 mm, 5 pcs. 18 mm, -",
+    "BaerCoil Tap: M 14 x 1.25*, Inserting Tool: EBW14, Tang Break Tool: -, Drill: -, Wire-Thread Inserts: 5 pcs. 8.4 mm, 5 pcs. 12.4 mm, 5 pcs. 16.4 mm",
+    "BaerCoil Tap: M 14 x 1.5**, Inserting Tool: EBW14, Tang Break Tool: -, Drill: 14.4 mm, Wire-Thread Inserts: 5 pcs. 14 mm, 5 pcs. 21 mm, -"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m5-m12baercoilworkshopkitshelicoiltypeb5104|>
+## M5 - M12 BaerCoil Workshop Kits (Helicoil Type) B5104
+
+{
+  "price": "€227.54",
+  "description": "BaerCoil Thread Repair Workshop Kit M 5 - M 12. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in M 5 - 12. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair magazine contains various auxiliary tools, such as the core drill bit, hand taps with oversize for insert threads, insertion tools, tang breakers and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened if necessary, according to the required length, with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M5 - M12 BaerCoil Workshop Kits (Helicoil Type) B5104",
+  "specifications": [
+    "Diameter: 5 - 12",
+    "Product group: Wire thread inserts - Repair kits",
+    "Product type: BaerCoil thread repair workshop kits",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: free running",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m10-m14-spark-plug-baercoil-kit-helicoil|>
+## M10 - M14 Spark Plug BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€159.78",
+  "description": "BaerCoil Thread Repair Workshop Kit for Spark Plug in metal box. Box Content: STI Tap HSSG, for Spark Plug, Inserting Tool, Wire Thread Inserts - type: \"free running\" with different lengths for most applications.",
+  "availability": "Unavailable",
+  "product_name": "M10 - M14 Spark Plug BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "M 10 x 1.0* - EBW10 - 5 Stk. 10 mm - 5 Stk. 15 mm - 5 Stk. 20 mm",
+    "M 12 x 1.25* - EBW12 - 5 Stk. 12 mm - 5 Stk. 18 mm - 5 Stk. 24 mm",
+    "M 14 x 1.25* - EBW14 - 5 Stk. 8.4 mm - 5 Stk. 12.4 mm - 5 Stk. 16.4 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_deburring_item|>
+## Test_Deburring_Item
+
+{
+  "price": "€10.00",
+  "description": "For test purposes",
+  "availability": "Sold out",
+  "product_name": "Test_Deburring_Item",
+  "specifications": [
+    "Tax included",
+    "Backordered and will ship as soon as it is back in stock",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m6-m14-x-1-5-baercoil-workshop-kit-helicoil|>
+## M6 - M14 X 1.5 BaerCoil Workshop Kit (Helicoil Type)
+
+{
+  "price": "€171.59",
+  "description": "BaerCoil Thread Repair Workshop Kit M 6 - M 14 x 1.5* (*Oil Drain Plug) in metal box. Box Content: BaerCoil Drill HSS, STI Bottoming Tap HSSG, BaerCoil Inserting Tool, BaerCoil Tang Break Tool, + Wire Thread Inserts - type: \"free running\" - lengths: 1.5 D - 2.5 D. Different lengths for most applications.",
+  "availability": "Unavailable",
+  "product_name": "M6 - M14 X 1.5 BaerCoil Workshop Kit (Helicoil Type)",
+  "specifications": [
+    "M6 - M14 X 1.5",
+    "Includes BaerCoil Drill HSS",
+    "Includes STI Bottoming Tap HSSG",
+    "Includes BaerCoil Inserting Tool",
+    "Includes BaerCoil Tang Break Tool",
+    "Wire Thread Inserts - lengths: 1.5 D - 2.5 D"
+  ]
+}
+

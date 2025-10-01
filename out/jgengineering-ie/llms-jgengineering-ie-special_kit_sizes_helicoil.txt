@@ -1,0 +1,99 @@
+<|https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/unef-1-4-x-32-baercoil-kit|>
+## UNEF 1/4 x 32 BaerCoil Kit
+
+{
+  "price": "€347.89",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Standard Drill\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D",
+  "availability": "Unavailable",
+  "product_name": "UNEF 1/4 x 32 BaerCoil Kit",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/harley-7-16-x-16-baercoil-kit-helicoil|>
+## Harley 7/16 x 16 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€78.11",
+  "description": "Complete BaerCoil Thread-Repair-Kit for Harley Davidson special Harley-Davidson 7/16 x 16. Contents: 1 x HSSG BaerCoil Standard Drill, 1 x HSSG BaerCoil Tap, 1 x BaerCoil Inserting Tool, 1 x BaerCoil Tang Break Tool, + 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D. BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one.",
+  "availability": "Unavailable",
+  "product_name": "Harley 7/16 x 16 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "SKU: B4227",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Contents include drill, tap, inserting tool, tang break tool, and wire-thread-inserts"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/carburetor-1-x-20-baercoil-kit-helicoil|>
+## Carburetor 1'' x 20 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€481.49",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\n\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "Carburetor 1'' x 20 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "10 BaerCoil Wire-Thread-Inserts (stainless steel)",
+    "Length: 1.5 x D",
+    "Suitable Drill available in Shop",
+    "Tang Break Tool not included"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/cummins-11-16-x-16-baercoil-kit-helicoil|>
+## Cummins 11/16 x 16 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€698.65",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers",
+  "availability": "Unavailable",
+  "product_name": "Cummins 11/16 x 16 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength (e.g., aluminium alloys and magnesium alloys)",
+    "Use in machine-building, electrical, automotive, medical, and aerospace industries"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/harley-1-4-x-24-baercoil-kit-helicoil|>
+## Harley 1/4 x 24 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€85.35",
+  "description": "Complete BaerCoil Thread-Repair-Kit for Harley Davidson special Harley-Davidson 1/4 - 24. Contents: 1 x HSSG BaerCoil Standard Drill, 1 x HSSG BaerCoil Tap, 1 x BaerCoil Inserting Tool, 1 x BaerCoil Tang Break Tool, + 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D.",
+  "availability": "Sold out",
+  "product_name": "Harley 1/4 x 24 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength such as aluminium alloys and magnesium alloys."
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/special-kit-sizes-helicoil/products/carburetor-7-8-x-20-baercoil-kit-helicoil|>
+## Carburetor 7/8 x 20 BaerCoil® Kit (Helicoil Type)
+
+{
+  "price": "€787.85",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContents:\n1 x HSSG BaerCoil Tap\n1 x BaerCoil Inserting Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1,5 x D\nwithout Drill - suitable Drill in Shop\nwithout Tang Break Tool - break tang with a needle-nosed pliers\n\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "Carburetor 7/8 x 20 BaerCoil® Kit (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Tap",
+    "1 x BaerCoil Inserting Tool",
+    "10 BaerCoil Wire-Thread-Inserts (stainless steel)",
+    "Length: 1.5 x D",
+    "Suitable Drill available in Shop",
+    "Tang Break Tool not included"
+  ]
+}
+

@@ -512,11 +512,13 @@ class AgnosticLLMsUpdater:
             # Parse pre-scraped content to match structured JSON format
             return self._parse_prescraped_to_json(url, pre_scraped_content, is_diff)
         
-        # Check if this is a product URL (contains /products/)
+        # Only process individual product URLs - skip collection/category pages
         if '/products/' in url.lower():
             return self._extract_product_data(url)
         else:
-            return self._scrape_category_page(url)
+            # Skip collection/category pages - they contain HTML that pollutes shards
+            logger.debug(f"Skipping collection/category page: {url}")
+            return None
     
     def _scrape_category_page(self, url: str) -> Optional[Dict[str, Any]]:
         """Scrape category page using regular scrape endpoint."""

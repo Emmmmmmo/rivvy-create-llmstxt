@@ -1,0 +1,606 @@
+<|https://www.jgengineering.ie/products/solid-telescopic-hedge-shears|>
+## Solid™ Telescopic Hedge Shears
+
+{
+  "price": "€44.99",
+  "description": "The Fiskars Solid™ Telescopic Hedge Shears are ideal for trimming and shaping hedges and decorative shrubs. The telescopic, extendable handles with non-slip grips make high, hard-to-reach or awkward cuts easy.",
+  "availability": "Unavailable",
+  "product_name": "Solid™ Telescopic Hedge Shears",
+  "specifications": [
+    "Length: 630-830mm",
+    "Weight: 1.55kg"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/semienclosedcablereel240v10m13a4g|>
+## Semi Enclosed Cable Reel 240V 10m 13A 4G
+
+{
+  "price": "€29.99",
+  "description": "This Faithfull robust Cable Reel features a thermal overload protection system to prevent damage to the cable from overheating. It has 4 shuttered sockets with a maximum load of 13A (3,120W) when fully unwound, and 4A (1,000W) when wound. The cable reel is suitable for providing electrical power for both trade and DIY users. Its semi-enclosed case allows fast rewind and helps to prevent damage to the cable when in transit or storage. A flat base keeps the reel upright for easy storage and protects the sockets from contact with wet or damp areas. Manufactured in accordance BS EN 61242.",
+  "availability": "Unavailable",
+  "product_name": "Semi Enclosed Cable Reel 240V 10m 13A 4G",
+  "specifications": [
+    "Length: 10m",
+    "Maximum load: 13A (3,120W) when fully unwound",
+    "Maximum load: 4A (1,000W) when wound",
+    "Thermal overload protection system",
+    "4 shuttered sockets",
+    "Semi-enclosed case for fast rewind",
+    "Flat base for easy storage"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/rubberedgesqueegee|>
+## Rubber Edge Squeegee
+
+{
+  "price": "€4.99",
+  "description": "The Faithfull Rubber Edge Squeegee is designed to apply grouting to wall and floor tiles after fixing. Its strong, flexible plastic blade allows the grout to be spread quickly helping make light work of big grouting projects. An easy-grip handle provides user comfort. Blade size: 190mm.",
+  "availability": "Unavailable",
+  "product_name": "Rubber Edge Squeegee",
+  "specifications": [
+    "Blade size: 190mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/breathablemicrofoamnitrileglovessize9l|>
+## Breathable Microfoam Nitrile Gloves Size 9 (L)
+
+{
+  "price": "€4.99",
+  "description": "The Scan Breathable Microfoam Nitrile Gloves are manufactured from a knitted grey spandex liner with a microfoam nitrile palm coating. These gloves are suitable for use in many processes involving the handling of small metal or plastic parts, or any situation where high dexterity is required. Extremely light and breathable, the special microfoam coating offers a secure grip in both wet and dry applications, with no sticky side effect and is oil and grease resistant. Conform to EN420 and EN388 4 = Abrasion, Performance Index 0-4 1 = Blade Cut, Performance Index 0-5 3 = Tear, Performance Index 0-4 1 = Puncture, Performance Index 0-4 Size: 9 (Large)",
+  "availability": "Sold out",
+  "product_name": "Breathable Microfoam Nitrile Gloves Size 9 (L)",
+  "specifications": [
+    "Size: 9 (Large)",
+    "Conform to EN420 and EN388",
+    "4 = Abrasion, Performance Index 0-4",
+    "1 = Blade Cut, Performance Index 0-5",
+    "3 = Tear, Performance Index 0-4",
+    "1 = Puncture, Performance Index 0-4"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/blutackhandy|>
+## Blu Tack Handy
+
+{
+  "price": "€3.99",
+  "description": "Blu Tack Handy is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "Blu Tack Handy",
+  "specifications": [
+    "SKU: 5000399001003",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/ul050-u-5d-couored-key-blanks-bag-of-100-free-shipping|>
+## UL050 / U-5D Couored Key Blanks Bag of 100 FREE Shipping
+
+{
+  "price": "€25.00",
+  "description": "UL050 / U-5D Couored Key Blanks Bag of 100 FREE Shipping",
+  "availability": "Unavailable",
+  "product_name": "UL050 / U-5D Couored Key Blanks Bag of 100 FREE Shipping",
+  "specifications": [
+    "SKU: 5050028011029",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/outsidetheeu|>
+## Outside the eu
+
+{
+  "price": "€55.00",
+  "description": "Outside the eu",
+  "availability": "Unavailable",
+  "product_name": "Outside the eu",
+  "specifications": [
+    "Backordered and will ship as soon as it is back in stock.",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/wd-405litremulti-usemaintenancecanplusspray5litre|>
+## WD-40 5 Litre Multi-Use Maintenance Can Plus Spray 5 Litre
+
+{
+  "price": "€49.99",
+  "description": "WD-40 is an all purpose liquid for displacing moisture, corrosion control, lubrication, cleaning and penetration. It has the ability to penetrate the minute grain boundaries on all metals. Although not essentially a lubricant, WD-40 is regularly used to lubricate all light machinery and electrical equipment. WD-40 protects metal from rust and corrosion, penetrates stuck or jammed parts, displaces moisture, and lubricates just about anything. WD-40 is also great when it comes to cleaning grease, grime, and other marks from most surfaces. WD-40 is a mixture of chemical concentrates suspended in a high grade petroleum distillate. It will not affect fabrics, rubbers or plastics. Its working temperature is between -100° F and +500° F. Thoroughly recommended to clean, preserve and protect all tools.",
+  "availability": "Unavailable",
+  "product_name": "WD-40 5 Litre Multi-Use Maintenance Can Plus Spray 5 Litre",
+  "specifications": [
+    "5 Litre container plus spray",
+    "Cleans: WD-40 gets under dirt, marks and grease, making it easy to wipe them away.",
+    "Protects: WD-40 protects metal surfaces with corrosion-resistant ingredients to shield against moisture and other corrosive elements.",
+    "Lubricates: WD-40's lubricating ingredients are widely dispersed, and hold firmly to all moving parts.",
+    "Penetrates: WD-40 loosens rust-to-metal bonds and frees stuck, frozen or rusted metal parts.",
+    "Displaces moisture: Because WD-40 displaces moisture, it quickly dries out electrical systems to eliminate moisture-induced short circuits."
+  ]
+}
+
+<|https://www.jgengineering.ie/products/curved-claw-hammer-fibreglass-shaft-450g-16oz|>
+## Curved Claw Hammer Fibreglass Shaft 450g (16oz)
+
+{
+  "price": "€14.99",
+  "description": "Curved Claw Hammer Fibreglass Shaft 450g (16oz) is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "Curved Claw Hammer Fibreglass Shaft 450g (16oz)",
+  "specifications": [
+    "SKU: 3253560513092",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/softgripcombinationshavehook|>
+## Soft Grip Combination Shave Hook
+
+{
+  "price": "€5.99",
+  "description": "The Faithfull Combination Shave Hook features a stainless steel blade for long-life and resistance to corrosion. The soft grip handle provides greater comfort. Shave Hooks are used for stripping paint from surfaces such as window frames, mouldings, doors and furniture. The heart-shaped blade of the Combination Shave Hook aids the removal of paint from curved and difficult surfaces.",
+  "availability": "Unavailable",
+  "product_name": "Soft Grip Combination Shave Hook",
+  "specifications": [
+    "Blade Width: 55mm",
+    "Blade Length: 80mm",
+    "Overall Length: 210mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/paintscuttle15litres|>
+## Paint Scuttle 15 Litres
+
+{
+  "price": "€12.99",
+  "description": "The Faithfull 15 litre plastic paint scuttle that can be used with all types of paint and wallpaper paste. Ribbed side assists in an even application on to the roller when used in painting applications. Strong wire handle. Size: 400 x 250mm. Capacity: 15 litres.",
+  "availability": "Unavailable",
+  "product_name": "Paint Scuttle 15 Litres",
+  "specifications": [
+    "Size: 400 x 250mm",
+    "Capacity: 15 litres",
+    "Ribbed side for even application",
+    "Strong wire handle"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/verniercaliper125mm5in|>
+## Vernier Caliper 125 mm (5in)
+
+{
+  "price": "€11.99",
+  "description": "The Faithfull D.I.Y Vernier Calipers which are manufactured from mild steel with dual reading in imperial and metric. The universal three-way measurement facility enables readings in external, internal and depth modes. The sliding thumb-lock feature easily allows quick and precise measurements to be taken. Metric and Imperial dual reading with a handy locking function. Range: 125mm (5in). Graduations: 1.0mm and 0.16in increments.",
+  "availability": "Unavailable",
+  "product_name": "Vernier Caliper 125 mm (5in)",
+  "specifications": [
+    "Range: 125mm (5in)",
+    "Graduations: 1.0mm and 0.16in increments",
+    "Manufactured from mild steel",
+    "Dual reading in imperial and metric",
+    "Universal three-way measurement facility",
+    "Sliding thumb-lock feature"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/puttyknife38mmsoft-griphandle|>
+## Putty Knife 38mm Soft-Grip Handle
+
+{
+  "price": "€4.99",
+  "description": "The Faithfull Putty Knife has a stainless steel blade for long life and resistance to corrosion. The soft-grip handle provides greater comfort. Specially designed for applying putty and filler in cracks and corners, this putty knife features a 'clipt point' blade, shaped with one side curved and a straight edged side cut at an oblique angle. Blade width: 38mm.",
+  "availability": "Sold out",
+  "product_name": "Putty Knife 38mm Soft-Grip Handle",
+  "specifications": [
+    "Stainless steel blade for long life and resistance to corrosion",
+    "Soft-grip handle for greater comfort",
+    "Designed for applying putty and filler in cracks and corners",
+    "'Clipt point' blade with one side curved and a straight edged side cut at an oblique angle",
+    "Blade width: 38mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/heavy-duty-spray-adhesive-400ml|>
+## Heavy-Duty Spray Adhesive 400ml
+
+{
+  "price": "€17.99",
+  "description": "Gorilla® Heavy-Duty Spray Adhesive forms a clear, permanent bond which is moisture resistant and can be used on projects both indoors and out. This spray adhesive is also photo safe. Its wide pad nozzle and controlled, fine mist spray provide an even application on the project you are working on.",
+  "availability": "Unavailable",
+  "product_name": "Heavy-Duty Spray Adhesive 400ml",
+  "specifications": [
+    "400ml capacity",
+    "Moisture resistant",
+    "Photo safe",
+    "Wide pad nozzle for even application",
+    "Controlled fine mist spray"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/kx3300twallpaperstripper2400w240v|>
+## KX3300T Wallpaper Stripper 2400W 240V
+
+{
+  "price": "€59.99",
+  "description": "The Black & Decker KX3300T Wallpaper Stripper removes all types of wallpaper including vinyl, multi-layered, painted and textured coatings. With safety release valves so that the unit will never overheat and a boil dry safety cut-out protects the unit from damage due to overheating. Its easy fill spout means that it can be filled direct from the tap. There is also a convenient water level indicator, to prevent over filling. Easy storage, thanks to the on-board hose and steam plate storage. Supplied with a large steam plate that covers a wide area and saves time.",
+  "availability": "Unavailable",
+  "product_name": "KX3300T Wallpaper Stripper 2400W 240V",
+  "specifications": [
+    "Input Power: 2,400W",
+    "Capacity: 4 litre",
+    "Run Time: 60 min.",
+    "Hose Length: 3.65m",
+    "Cable Length: 3m"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/standardshipping|>
+## Standard Shipping
+
+{
+  "price": "€4.99",
+  "description": "Standard Shipping is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "Standard Shipping",
+  "specifications": [
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Delivery with DPD for full traceability and one-hour delivery window"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/replacementlancetriggerforfaispray16|>
+## Replacement Lance & Trigger For FAISPRAY16
+
+{
+  "price": "€10.49",
+  "description": "The Faithfull FAISPRAY16LA is a replacement lance and trigger for the Faithfull 16 litre easy carry knapsack sprayer (FAISPRAY16). A pump as you go pressure action makes light work of those big spraying jobs and the large capacity makes this sprayer ideal for use in the bigger garden.",
+  "availability": "Unavailable",
+  "product_name": "Replacement Lance & Trigger For FAISPRAY16",
+  "specifications": [
+    "SKU: 5023969256269",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/clothsandingbelt610x100mm80gpack3|>
+## Cloth Sanding Belt 610 x 100mm 80G (Pack 3)
+
+{
+  "price": "€11.99",
+  "description": "Faithfull aluminium oxide resin bonded onto a durable X-Weight cloth belt for high-speed industrial use on ferrous metals and hardwoods and suitable for both stock removal and finishing applications. The belts are bi-directional, and benefit from butt joints and smooth slot to ensure scuff-free performance.",
+  "availability": "Unavailable",
+  "product_name": "Cloth Sanding Belt 610 x 100mm 80G (Pack 3)",
+  "specifications": [
+    "Pack of 3 Faithfull Cloth Sanding Belt 610 x 100mm 80g",
+    "High-speed industrial use on ferrous metals and hardwoods",
+    "Suitable for both stock removal and finishing applications",
+    "Bi-directional belts with butt joints and smooth slot for scuff-free performance"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/europe|>
+## Europe
+
+{
+  "price": "€14.50",
+  "description": "Europe is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "Europe",
+  "specifications": [
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/18mm-external-ireland|>
+## 18mm External Circlip Carbon Black
+
+{
+  "price": "€3.87",
+  "description": "External Circlips: The most common form of axially fitted circlips for shafts with grooves. The circlip has a large free diameter and gap width, consequently it fits more tightly into the groove and provides higher and more uniform thrust load capacity. Lugs with holes are provided for rapid fitting or removal with circlip pliers. Standard material: Carbon Spring Steel - Standard Finish: Phosphate and Oil. Benefits: Cost effective replacement, durable, removable. 1. Printing and precision applications 2. Pharmaceutical and food industry 3. Gearboxes and differentials 4. Light and heavy industrial use 5. General engineering applications 6. Great Quality parts shipped the same day",
+  "availability": "Unavailable",
+  "product_name": "18mm External Circlip Carbon Black",
+  "specifications": [
+    "Pack Size: Pack of 2, Pack of 5, Pack of 10, Pack of 50, Pack of 100",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/cylinder-brush-10-x-100mm-polyamide|>
+## Cylinder Brush 10 x 100mm Polyamide
+
+{
+  "price": "€4.75",
+  "description": "Lessmann Cylinder Brush for manual cleaning and deburring of tubes, bores etc. Available in different sizes and filling materials.",
+  "availability": "Unavailable",
+  "product_name": "Cylinder Brush 10 x 100mm Polyamide",
+  "specifications": [
+    "Wire Type: Polyamide",
+    "Diameter: 10mm",
+    "Filled Length: 100mm",
+    "Overall Length: 300mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/soft-grip-filling-knife-100mm|>
+## Soft Grip Filling Knife 100mm
+
+{
+  "price": "€7.99",
+  "description": "Faithfull Soft Grip Filling Knife with a corrosion resistant, stainless steel blade for long-life. This extremely flexible blade produces a smooth finish on all fillers prior to sanding. The soft grip handle provides greater comfort. Fitted with a metal end cap that can be used to knock back protruding nails. Ideal for inserting filler into cracks or holes, in wood or plaster.",
+  "availability": "Unavailable",
+  "product_name": "Soft Grip Filling Knife 100mm",
+  "specifications": [
+    "Blade Width: 100mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/ukshipping|>
+## UK Shipping
+
+{
+  "price": "€15.00",
+  "description": "UK Shipping is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "UK Shipping",
+  "specifications": [
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Delivery with DPD for full traceability and one-hour delivery window"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/gorillasuperglue15g|>
+## Gorilla Superglue 15g
+
+{
+  "price": "€11.99",
+  "description": "Gorilla Super Glue is a super glue that keeps holding strong, even when the bond takes a hit. Just hold in place for 30-60 seconds while the formula sets, no clamping necessary. Features include: IMPACT STRENGTH - unique rubber particles increase impact-resistance and strength to handle everyday use after your repair or creation is set. WON'T CLOG - anti-clog tip with metal pin keeps nozzle clean. EASY TO USE - thick formula flows better for improved control. Dries in just 30-60 seconds, with no clamping. WHATEVER THE SURFACE - use on nearly anything, from wood, metal, ceramics, some plastics, rubber and a whole lot more!",
+  "availability": "Unavailable",
+  "product_name": "Gorilla Superglue 15g",
+  "specifications": [
+    "Size: 15g",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/twistspraysatinblack400ml|>
+## Twist & Spray Satin Black 400ml
+
+{
+  "price": "€12.99",
+  "description": "Plasti-Kote Premium Satin spray paint formula gives an enhanced, consistent coverage in its new can design. The new easy spray technology provides added control to make spray painting easier, faster and cleaner than ever before. Each coat is ultra smooth, providing flawless coverage that dries quickly to a tough, durable finish. The paint can be recoated at anytime for simple, faster project completion. The can's large, comfortable finger pad requires 35% less finger pressure than other spray paint cans, and the twist and lock mechanism means there is no separate top to remove or replace after use. Its cap and button design shields the finger from paint for a cleaner spray-painting process. Suitable for: wood, metal, plastic, stone, wicker and crafts. Drying time: touch dry in 30-50 minutes. Coverage: 2.23m² per tin.",
+  "availability": "Unavailable",
+  "product_name": "Twist & Spray Satin Black 400ml",
+  "specifications": [
+    "Finish: Satin",
+    "Colour: Black",
+    "Pack size: 400ml"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/energizercr2032coinlithiumbatterypackof2|>
+## ENERGIZER CR2032 Coin Lithium Battery Pack of 2
+
+{
+  "price": "€5.50",
+  "description": "The CR2032 is the most popular 3V Lithium coin cell from Energizer. It is 20mm in diameter, 3.2mm thick, weighs 3.1g and has a capacity of 220.0mAh - 240.0mAh. For use in calculators, pagers, watches and car key alarms. Replaces: 2032, BR2032, CR2032, DL2032, EA2032C, ECR2032, L14, L2032, LF1/2V, SB-T15.",
+  "availability": "Sold out",
+  "product_name": "ENERGIZER CR2032 Coin Lithium Battery Pack of 2",
+  "specifications": [
+    "20mm diameter",
+    "3.2mm thick",
+    "3.1g weight",
+    "Capacity: 220.0mAh - 240.0mAh",
+    "Replaces: 2032, BR2032, CR2032, DL2032, EA2032C, ECR2032, L14, L2032, LF1/2V, SB-T15"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/irelandstandardshipping|>
+## Ireland Standard Shipping
+
+{
+  "price": "€0.00",
+  "description": "Ireland Standard Shipping is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "Ireland Standard Shipping",
+  "specifications": [
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Delivery with DPD for full traceability and one-hour delivery window"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unc-3-x-48|>
+## UNC 3 X 48 BaerCoil Wire Thread Inserts
+
+{
+  "price": "€64.82",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. UNC 1/4: 1,5 times 6,35 (1/4\") = 9,525mm\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strenght\neg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Out of Stock",
+  "product_name": "UNC 3 X 48 BaerCoil Wire Thread Inserts",
+  "specifications": [
+    "Length: UNC 3 X 48 X 1D",
+    "Length: UNC 3 X 48 X 1.5D",
+    "Length: UNC 3 X 48 X 2D",
+    "Length: UNC 3 X 48 X 3D",
+    "Material: Stainless Steel (AISI 304)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/batterytesterforaaaaacd9v|>
+## Battery Tester for AA, AAA, C, D & 9V
+
+{
+  "price": "€5.99",
+  "description": "Battery Tester for AA, AAA, C, D & 9V is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "Battery Tester for AA, AAA, C, D & 9V",
+  "specifications": [
+    "SKU: 5023969299655",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/rat-killer-outdoor-bait-box|>
+## Rat Killer Outdoor Bait Box
+
+{
+  "price": "€29.99",
+  "description": "Rentokil Rat Killer Outdoor Bait Box is an easy-to-use pre-baited rat bait box for safer baiting in and around the home and garden. Contains 3 pre-formed blocks secured inside the bait station. Reduces the risk of other wildlife, pets or children tampering with the baits. Ideal for outdoor areas. Fully reusable - can be refilled after initial bait has been taken. Kills up to 5 rats. Contains Brodifacoum.",
+  "availability": "Unavailable",
+  "product_name": "Rat Killer Outdoor Bait Box",
+  "specifications": [
+    "Contains 3 pre-formed blocks secured inside the bait station",
+    "Reduces the risk of other wildlife, pets or children tampering with the baits",
+    "Ideal for outdoor areas",
+    "Fully reusable - can be refilled after initial bait has been taken",
+    "Kills up to 5 rats",
+    "Contains Brodifacoum"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/craftsmentrouserscanvasholsterpocketscolour1818greysize48|>
+## Craftsmen Trousers (Canvas+) Holster Pockets Colour 1818 (Grey) Size 48
+
+{
+  "price": "€109.99",
+  "description": "Craftsmen Trousers (Canvas+) Holster Pockets Colour 1818 (Grey) Size 48 is backordered and will ship as soon as it is back in stock.",
+  "availability": "Sold out",
+  "product_name": "Craftsmen Trousers (Canvas+) Holster Pockets Colour 1818 (Grey) Size 48",
+  "specifications": [
+    "SKU: 7391531308189",
+    "Tax included",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/fixgrouttileadhesive7035litre|>
+## Fix & Grout Tile Adhesive 703 5 Litre
+
+{
+  "price": "€24.99",
+  "description": "Fix and Grout Tile Adhesive is a ready mixed brilliant white water resistant wall tile adhesive which is also suitable for grouting. \n\nBENEFITS\n- Excellent water resistance\n- Extremely high bond strength - over double the B. S. minimum requirement in wet shear (7 days drying, 7 days water immersion followed for slight thermal movement\n- Dries brilliant white\n- Contains a fungicide - prevents mould growth\n- Ready mixed formula - no mixing, no mess. Apply straight from the tub\n- Easier to apply than most competitive adhesives\n- Extended open time\n\nAREAS FOR USE\n- Kitchen/Bathroom walls\n- Shower areas\n- Communal and power showers\n- Work tops subject to water contact",
+  "availability": "Unavailable",
+  "product_name": "Fix & Grout Tile Adhesive 703 5 Litre",
+  "specifications": [
+    "5 Litre",
+    "Tax included",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/heavy-dutytrimmingknifebladesdispenser10|>
+## Heavy-Duty Trimming Knife Blades (Dispenser 10)
+
+{
+  "price": "€4.99",
+  "description": "The Faithfull general purpose heavy-duty blades are made from quality steel and suitable for trade use. The blades are designed to cut carpet, vinyl, cardboard, canvas, leather and some softer plastics. The heavy-duty trimming knife blades are made in Sheffield and fit most leading brand knives. The pack of 10 blades comes in a plastic dispenser and the pack of 100 is supplied in a safe storage dispenser. Blade size: 19 x 60mm. Thickness: 0.6mm.",
+  "availability": "Unavailable",
+  "product_name": "Heavy-Duty Trimming Knife Blades (Dispenser 10)",
+  "specifications": [
+    "Blade size: 19 x 60mm",
+    "Thickness: 0.6mm",
+    "Box Quantity: 10"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/th2000handyblowlampwithgas|>
+## Faithfull Auto Start Blow Torch
+
+{
+  "price": "€29.99",
+  "description": "The Faithfull Auto Start Blow Torch is a high temperature, all-purpose gas torch designed for home use. The blow torch has an automatic piezo ignition, fine flame adjustment valve and a rapid one minute warm up. It also has a highly ergonomic, shock-resistant polypropylene handle, making it comfortable to use. Suitable for use with Faithfull Tools Butane Propane Mix Gas Cartridges Part nos. FAIGZ350, FAIGZ170 (Not included). Supplied with a stability base. Applications: Soft Soldering, Aluminium Welding, Paint Stripping, Pipe Bending, Loosening Bolts, Defrosting Pipes, Brazing, Lighting Barbecues.",
+  "availability": "Unavailable",
+  "product_name": "Faithfull Auto Start Blow Torch",
+  "specifications": [
+    "Max. operating temperature: 1600°C",
+    "Optimum power output: 1,230 Watts",
+    "Gas consumption: 88 g/h",
+    "EN417 Connection"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/1-fal03|>
+## BaerFix Thread Inserts with cutting holes M 3 x 0.5 - 4 mm - 1.4305 - 100 pcs. Stainless Steel
+
+{
+  "price": "€86.10",
+  "description": "BaerFix Thread Inserts with cutting holes M 3 x 0.5 - 4 mm - 1.4305 - 100 pcs. Stainless Steel is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "BaerFix Thread Inserts with cutting holes M 3 x 0.5 - 4 mm - 1.4305 - 100 pcs. Stainless Steel",
+  "specifications": [
+    "Diameter: 3",
+    "Pitch: 0.5",
+    "Material: Stainless Steel 1.4305 (AISI 303)",
+    "Maximum insertion torque: 2.5 Nm",
+    "Speed guide value for light metals: 650-900 R/min",
+    "Drilling depth for through hole: 4.00 mm",
+    "Drilling depth for blind hole: 6.00 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/professionalhydrogroutingsponge|>
+## Professional Hydro Grouting Sponge
+
+{
+  "price": "€3.99",
+  "description": "The Faithfull Professional Hydro Grouting Sponge combines a soft and absorbent top sponge and a coarse stiff bottom sponge. It is ideal for tough cleaning applications and is particularly suited to decorating and tiling projects requiring an absorbent sponge with a more aggressive cleaning surface. Size: 190 x 120 x 40mm",
+  "availability": "Sold out",
+  "product_name": "Professional Hydro Grouting Sponge",
+  "specifications": [
+    "Size: 190 x 120 x 40mm",
+    "Ideal for tough cleaning applications",
+    "Suited for decorating and tiling projects"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/carpetfixsprayadhesiveaerosol500ml|>
+## Carpet Fix Spray Adhesive Aerosol 500ml
+
+{
+  "price": "€7.99",
+  "description": "Faithfull spray adhesive is simple to use either inside or outside. When used inside, allow adequate ventilation during use and afterwards to remove all fumes. Spray adhesive replaces ordinary double sided tapes and can be used for a wide range of applications such as floor laying, upholstery and mounting photographs. Spray adhesive fixes almost all surfaces (excluding Vinyl). Make sure the surfaces you are joining are porous. Each 500ml can covers an area of 60 sq ft approximately (medium setting).",
+  "availability": "Unavailable",
+  "product_name": "Carpet Fix Spray Adhesive Aerosol 500ml",
+  "specifications": [
+    "500ml can",
+    "Covers approximately 60 sq ft",
+    "Suitable for various applications including floor laying and upholstery",
+    "Excludes use on Vinyl surfaces"
+  ]
+}
+

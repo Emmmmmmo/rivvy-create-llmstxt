@@ -1,0 +1,270 @@
+<|https://www.jgengineering.ie/collections/front-page/products/m20-x-1-5-baercoil-inserts-helicoil|>
+## M20 X 1.5 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€56.91",
+  "description": "BaerCoil Wire Thread Inserts - Standard\nDIN 8140, Toleranz ISO 2 (6H)\nStainless Steel (AISI 304), type: \"free running\"\nlength measurement:\n1,5 D means 1,5 times thread diameter equals thread lenght, e.g. M 3: 1,5 times 3 = 4,5mm",
+  "availability": "Sold out",
+  "product_name": "M20 X 1.5 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Length: M20 X 1.5 X 1D / 25",
+    "Material: Stainless Steel (AISI 304)",
+    "Type: Free running",
+    "Thread Repair of damaged or worn-out threads",
+    "Recovery of rejected items",
+    "Thread Armour Plating for materials with low shear strength"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m6-x-0-75-baercoil-inserts-helicoil|>
+## M6 X 1.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€8.90",
+  "description": "BaerCoil® thread inserts are the perfect solution for your thread repair needs! These inserts provide a long lasting and powerful thread connection and scrap recovery. The BaerCoil® thread insert is the perfect solution for damaged threads. With the use of BaerCoil® thread inserts, the thread produced is significantly stronger than the original thread. BaerCoil® thread inserts are an indispensable component in aviation and vehicle construction. They ensure that both static and dynamic work loads are distributed in a balanced manner over the individual thread turns. Also, the flexibility of the thread inserts compensates for any pitch and angular errors, so that optimum power transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts helps to reduce the carrier material and to use smaller or shorter screw connections. Thanks to their versatility and reliability, BaerCoil® thread inserts are now an indispensable component in many industries. BaerCoil thread inserts can be shortened to the required length with a side cutter or similar.",
+  "availability": "Sold out",
+  "product_name": "M6 X 1.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Diameter: 6",
+    "Pitch: 1.0",
+    "Dimension: M 6 x 1.0",
+    "Length: 2.0 D",
+    "T (Length when installed): 12 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m-14-x-1-25-spark-plug-baercoil-thread-repair-kit-for-helicoil-type|>
+## M 14 x 1,25 Spark Plug BaerCoil Thread Repair Kit for (Helicoil Type)
+
+{
+  "price": "€85.41",
+  "description": "BaerCoil Spark Plug Thread Repair Kit M 14 x 1.25 - With this BaerCoil® thread repair-set it is possible to repair spark plug threads or glow plug threads in MF 14 x 1,25. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the combination tap with guide thread, insertion tool and wire thread inserts made of stainless steel. This set does not include twist drill bit and tang breaker. For spark plug threads, no reaming is necessary because the combined drilling and cutting tool is used here. The hole is widened by the guide thread and then the thread is cut with oversize. For spark plug threads, the tang must be removed with needle-nose pliers. BaerCoil® thread inserts can be shortened if necessary, according to the required length, with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M 14 x 1,25 Spark Plug BaerCoil Thread Repair Kit for (Helicoil Type)",
+  "specifications": [
+    "Diameter: 14",
+    "Pitch: 1.25",
+    "Dimension: MF 14 x 1.25",
+    "Length: 8.4 mm | 12.4 mm | 16.4 mm",
+    "T (Length when installed): 8.4 mm | 12.4 mm | 16.4 mm",
+    "Thread length calculation: 1.5 D means 1.5 times the diameter: 1.5 times 14 mm=21 mm",
+    "Product group: Wire thread inserts - Repair kits",
+    "Product type: BaerCoil thread repair kits",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: free running",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term",
+    "Applications: Thread repair and thread reinforcement of spark plug threads"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m3-m12-baercoil-workshop-kit-helicoil|>
+## M3 - M12 BaerCoil Workshop Kit (Helicoil Type)
+
+{
+  "price": "€298.61",
+  "description": "BaerCoil Thread Repair Workshop Kit M 3 - M 12. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in M 3 - 12. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair magazine contains various auxiliary tools, such as the core drill bit, hand taps with oversize for insert threads, insertion tools, tang breakers and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened if necessary, according to the required length, with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M3 - M12 BaerCoil Workshop Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 3 - 12",
+    "Product group: Wire thread inserts - Repair kits",
+    "Product type: BaerCoil thread repair workshop kits",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: free running",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m-10-x-1-0-baercoil-thread-repair-kit-for-spark-plug-helicoil|>
+## M 10 x 1.0 Spark Plug BaerCoil Thread Repair Kit for (Helicoil Type)
+
+{
+  "price": "€74.75",
+  "description": "BaerCoil Spark Plug Thread Repair Kit M 10 x 1.0. With this BaerCoil® thread repair set it is possible to repair spark plug threads or glow plug threads in MF 10 x 1.0. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the combination tap with guide thread, insertion tool and wire thread inserts made of stainless steel. This set does not include twist drill bit and tang breaker. For spark plug threads, no reaming is necessary because the combined drilling and cutting tool is used here. The hole is widened by the guide thread and then the thread is cut with oversize. For spark plug threads, the tang must be removed with needle-nose pliers. BaerCoil® thread inserts can be shortened if necessary, according to the required length, with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M 10 x 1.0 Spark Plug BaerCoil Thread Repair Kit for (Helicoil Type)",
+  "specifications": [
+    "Diameter: 10",
+    "Pitch: 1.0",
+    "Dimension: MF 10 x 1.0",
+    "Length: 1.0 D | 1.5 D | 2.0 D",
+    "T (Length when installed): 1.0 D: 10 mm | 1.5 D: 15 mm | 2.0 D: 20 mm",
+    "Thread length calculation: 1.5 D means 1.5 times the diameter: 1.5 times 10 mm=15 mm",
+    "The nominal diameter for MF 10 is 10 mm",
+    "Product group: Wire thread inserts - Repair kits",
+    "Product type: BaerCoil thread repair kits",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Type: free running",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term | 425°C short-term",
+    "Applications: Thread repair and thread reinforcement of spark plug threads."
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m9-x-1-0-baercoil-kit-helicoil|>
+## M9 X 1.0 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€136.16",
+  "description": "Complete BaerCoil Thread-Repair-Kit\n\nContent:\n1 x M9.3 BaerCoil Drill Bit\n1 x HSSG BaerCoil Tap > ISO1-4H\n1 x BaerCoil Inserting Tool\n1 x BaerCoil Tang Break Tool\n+ 10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D\nBaerCoil:\n- Thread Repair of damaged or worn-out threads\n- Recovery of rejected items\n- Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys.\nDue to narrow and exact tolerances the new thread normally is stronger than the original one.\nUse in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M9 X 1.0 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "1 x M9.3 BaerCoil Drill Bit",
+    "1 x HSSG BaerCoil Tap > ISO1-4H",
+    "1 x BaerCoil Inserting Tool",
+    "1 x BaerCoil Tang Break Tool",
+    "10 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304), length: 1.5 x D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m8-x-1-25-baercoil-kit-helicoil|>
+## M8 X 1.25 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€53.81",
+  "description": "BaerCoil Thread Repair Kit M 8 x 1.25. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in M 8 x 1.25. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M8 X 1.25 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 8",
+    "Pitch: 1.25",
+    "Dimension: M 8 x 1.25",
+    "Length: 1.5 D",
+    "T (Length when installed): 12 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m6-x-1-0-baercoil-kit|>
+## M6 x 1.0 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€40.46",
+  "description": "BaerCoil Thread Repair Kit M 6 x 1.0. With this BaerCoil® thread repair-set it is possible to repair through hole threads and blind hole threads in M 6 x 1.0. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M6 x 1.0 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 6",
+    "Pitch: 1.0",
+    "Dimension: M 6 x 1.0",
+    "Length: 1.5 D",
+    "T (Length when installed): 9 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m-12-x-1-25-spark-plug-baercoil-thread-repair-kit-for-helicoil-type|>
+## M 12 x 1,25 Spark Plug BaerCoil Thread Repair Kit for (Helicoil Type)
+
+{
+  "price": "€79.59",
+  "description": "Complete BaerCoil Thread-Repair-Kit Contents: 1 x HSSG BaerCoil Spark Plug Tap with Pilot Nose (no pre-drilling necessary) 1 x Inserting Tool + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 12 mm + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 18 mm + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 24 mm",
+  "availability": "Unavailable",
+  "product_name": "M 12 x 1,25 Spark Plug BaerCoil Thread Repair Kit for (Helicoil Type)",
+  "specifications": [
+    "Style: TRS M12 X 1.25 Spark Plug KIT",
+    "Style: M12 X 1.25 BAERCOIL SPARK PLUG KIT",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m14-x-1-25-baercoil-kit-helicoil|>
+## M14 X 1.25 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€75.90",
+  "description": "BaerCoil Thread Repair Kit M 14 x 1.25. With this BaerCoil® thread repair-set it is possible to repair through hole threads and blind hole threads in MF 14 x 1.25. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair set contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool and wire thread inserts made of stainless steel. No tang breaker is included in this set. The tang can be broken with the installation tool. To do this, pull back the installation tool after installation and turn it 90° so that it rests on the tang. Then strike the tool briefly at the back. BaerCoil® thread inserts can be shortened, if necessary, to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M14 X 1.25 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 14",
+    "Pitch: 1.25",
+    "Dimension: MF 14 x 1.25",
+    "Length: 1.5 D",
+    "T (Length when installed): 21 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m10-m14-spark-plug-baercoil-kit-helicoil|>
+## M10 - M14 Spark Plug BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€159.78",
+  "description": "BaerCoil Thread Repair Workshop Kit for Spark Plug in metal box. Box Content: STI Tap HSSG, for Spark Plug, Inserting Tool, Wire Thread Inserts - type: \"free running\" with different lengths for most applications.",
+  "availability": "Unavailable",
+  "product_name": "M10 - M14 Spark Plug BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "M 10 x 1.0* - 5 Stk. 10 mm, 5 Stk. 15 mm, 5 Stk. 20 mm",
+    "M 12 x 1.25* - 5 Stk. 12 mm, 5 Stk. 18 mm, 5 Stk. 24 mm",
+    "M 14 x 1.25* - 5 Stk. 8.4 mm, 5 Stk. 12.4 mm, 5 Stk. 16.4 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m-18-x-1-5-spark-plug-baercoil-thread-repair-kit-for-helicoil-type|>
+## M 18 x 1.5 Spark Plug BaerCoil Thread Repair Kit for (Helicoil Type)
+
+{
+  "price": "€110.09",
+  "description": "Complete BaerCoil Thread-Repair-Kit Contents: 1 x HSSG BaerCoil Spark Plug Tap with Pilot Nose (no pre-drilling necessary) 1 x Inserting Tool + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 12.7 mm + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 15.9 mm + 5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 16.7 mm. BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M 18 x 1.5 Spark Plug BaerCoil Thread Repair Kit for (Helicoil Type)",
+  "specifications": [
+    "1 x HSSG BaerCoil Spark Plug Tap with Pilot Nose (no pre-drilling necessary)",
+    "1 x Inserting Tool",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 12.7 mm",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 15.9 mm",
+    "5 BaerCoil Wire-Thread-Inserts \"free running\", stainless steel (ASIS 304) length: 16.7 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/front-page/products/m12-m16-oil-drain-plug-baercoil-workshop-kit-helicoil|>
+## M12 - M16 Oil Drain Plug BaerCoil Workshop Kit (Helicoil Type)
+
+{
+  "price": "€147.48",
+  "description": "BaerCoil Thread-Repair-Workshop-Kit for Oil Drain Plug in metal box. Box Content: BaerCoil Drill HSS, STI Bottoming Tap HSSG, BaerCoil Inserting Tool, + Wire Thread Inserts - type: \"free running\" different lengths for most applications.",
+  "availability": "Unavailable",
+  "product_name": "M12 - M16 Oil Drain Plug BaerCoil Workshop Kit (Helicoil Type)",
+  "specifications": [
+    "M 12 x 1.5",
+    "EBW12",
+    "12.4 mm",
+    "5 pcs. 12 mm",
+    "5 pcs. 18 mm",
+    "M 14 x 1.5",
+    "EBW14",
+    "14.4 mm",
+    "5 pcs. 14 mm",
+    "5 pcs. 21 mm",
+    "M 16 x 1.5",
+    "EBW14",
+    "-",
+    "5 pcs. 16 mm",
+    "5 pcs. 24 mm"
+  ]
+}
+

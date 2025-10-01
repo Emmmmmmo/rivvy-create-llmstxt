@@ -1,0 +1,60 @@
+<|https://www.jgengineering.ie/products/impact-rated-flat-bit-15-x-152mm|>
+## Impact Rated Flat Bit 15 x 152mm
+
+{
+  "price": "€5.99",
+  "description": "Faithfull Impact Rated Flat Bits are designed to perform fast, clean cuts, will bore all types of timber and are equally efficient when drilling with or against the grain. All bits have a precision ground point and cutting surfaces with extended spurs for faster cutting. All sizes except the 6mm, have a non-slip hexagonal shank with a locking mechanism compatible with adaptors or chucks with a built-in quick-release feature. A 300mm extension shank is available for use with flat bits of 16mm and above, for deep drill applications. Ideal for use with both mains or cordless drills. Made to DIN 3126 quality with 1/4in hexagonal non-slip shaft.",
+  "availability": "Unavailable",
+  "product_name": "Impact Rated Flat Bit 15 x 152mm",
+  "specifications": [
+    "Diameter: 15mm",
+    "Overall Length: 152mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/sdsplusdrill65mmol160mmwl100mm|>
+## SDS Plus Drill 6.5mm OL: 160mm WL: 100mm
+
+{
+  "price": "€6.99",
+  "description": "These Faithfull high-performance, tungsten carbide tipped drill bits fit into SDS Plus chucks which provide a particularly secure, non-slip grip, that transmits maximum power for rotary percussion drilling, mainly into concrete. The SDS Plus bits ensure maximum power transmission due to their unique fluted shaft. This effectively removes situations where a perfectly serviceable cutting edge is rendered useless by a worn shank. The SDS Plus system also enables faster changing of drills using a quick-release keyless chuck. The drill bits are suitable for use in bricks, blocks, concrete containing aggregates, marble, hard stone and other hard masonry materials.",
+  "availability": "Unavailable",
+  "product_name": "SDS Plus Drill 6.5mm OL: 160mm WL: 100mm",
+  "specifications": [
+    "Diameter: 6.5mm",
+    "Working Length: 100mm",
+    "Overall Length: 160mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/sdsplusdrill8mmol210mmwl150mm|>
+## SDS Plus Drill 8mm OL: 210mm WL: 150mm
+
+{
+  "price": "€7.99",
+  "description": "These high performance Faithfull Tungsten Carbide tipped drill bits fit into 'SDS Plus' chucks which provide a particularly secure non-slip grip that transmits maximum power for rotary percussion drilling, mainly into concrete. The SDS Plus bits ensure maximum power transmission due to their unique fluted shaft. This effectively removes situations where a perfectly serviceable cutting edge is rendered useless by a worn shank. The SDS Plus system also enables faster changing of drills using a quick release keyless chuck. The drill bits are suitable for use in bricks, blocks, concrete containing aggregates, marble and hard stone and other hard masonry materials. The Faithfull FAISDS8210 SDS Drill has a heavy-duty tungsten carbide tip with the following dimensions: Diameter: 8mm, Working Length: 150mm, Overall Length: 210mm.",
+  "availability": "Unavailable",
+  "product_name": "SDS Plus Drill 8mm OL: 210mm WL: 150mm",
+  "specifications": [
+    "Diameter: 8mm",
+    "Working Length: 150mm",
+    "Overall Length: 210mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/standardmasonrydrillbit7x150mm|>
+## Standard Masonry Drill Bit 7 x 150mm
+
+{
+  "price": "€5.99",
+  "description": "Standard masonry bits are for use in chucks up to 13mm capacity and are suitable for general purpose drilling including bricks, blocks and cement render when used in an impact or percussion drill. Roll formed and treated body with a heavy-duty Tungsten Carbide tip and fast spiral for quick waste removal.",
+  "availability": "Sold out",
+  "product_name": "Standard Masonry Drill Bit 7 x 150mm",
+  "specifications": [
+    "Size: 7 mm x 150 mm",
+    "Suitable for general purpose drilling",
+    "Heavy-duty Tungsten Carbide tip",
+    "Fast spiral for quick waste removal"
+  ]
+}
+

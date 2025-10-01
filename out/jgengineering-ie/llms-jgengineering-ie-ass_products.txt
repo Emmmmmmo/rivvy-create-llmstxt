@@ -1,0 +1,132 @@
+<|https://www.jgengineering.ie/collections/ass-products/products/m6-x-0-75-baercoil-inserts-helicoil|>
+## M6 X 1.0 BaerCoil Inserts (Helicoil Type)
+
+{
+  "price": "€8.90",
+  "description": "BaerCoil® thread inserts are the perfect solution for your thread repair needs! These inserts provide a long lasting and powerful thread connection and scrap recovery. The BaerCoil® thread insert is the perfect solution for damaged threads. With the use of BaerCoil® thread inserts, the thread produced is significantly stronger than the original thread. BaerCoil® thread inserts are an indispensable component in aviation and vehicle construction. They ensure that both static and dynamic work loads are distributed in a balanced manner over the individual thread turns. Also, the flexibility of the thread inserts compensates for any pitch and angular errors, so that optimum power transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts helps to reduce the carrier material and to use smaller or shorter screw connections. Thanks to their versatility and reliability, BaerCoil® thread inserts are now an indispensable component in many industries. BaerCoil thread inserts can be shortened to the required length with a side cutter or similar.",
+  "availability": "Sold out",
+  "product_name": "M6 X 1.0 BaerCoil Inserts (Helicoil Type)",
+  "specifications": [
+    "Diameter: 6",
+    "Pitch: 1.0",
+    "Dimension: M 6 x 1.0",
+    "Length: 2.0 D",
+    "T (Length when installed): 12 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/ass-products/products/m10-30-baercoil-drill-bit|>
+## M10.30 BaerCoil Drill Bit
+
+{
+  "price": "€6.77",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 10,30mm\nFitting BaerCoil taps:\nM 10 x 1,0\nM 10 x 1,25",
+  "availability": "Unavailable",
+  "product_name": "M10.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 10.30mm",
+    "Fitting BaerCoil taps: M 10 x 1.0",
+    "Fitting BaerCoil taps: M 10 x 1.25",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/ass-products/products/m6-x-1-0-baercoil-bottoming-tap-helicoil|>
+## M6 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
+
+{
+  "price": "€11.90",
+  "description": "BaerCoil HSSG Short Machine Tap M 6 x 1.0 STI (oversized for wire thread inserts)",
+  "availability": "Unavailable",
+  "product_name": "M6 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
+  "specifications": [
+    "Diameter: 6 mm",
+    "Nominal diameter in inches: 0.287",
+    "Nominal diameter in mm: 7.3",
+    "Pitch: 1.0 mm",
+    "Dimension: M 6 x 1.0 EG/STI",
+    "Square: 6.0 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 800 N/mm² | 22.2 HRC",
+    "Core hole diameter: 6.3 mm",
+    "Hole type: Through hole and blind hole up to 2 x D",
+    "Form / Geometry: Form D straight fluted",
+    "Cooling: External cooling and lubrication"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/ass-products/products/m8-x-1-25-baercoil-kit-helicoil|>
+## M8 X 1.25 BaerCoil Kit (Helicoil Type)
+
+{
+  "price": "€53.81",
+  "description": "BaerCoil Thread Repair Kit M 8 x 1.25. With this BaerCoil® thread repair set it is possible to repair through hole threads and blind-hole threads in M 8 x 1.25. BaerCoil® thread inserts are the best solution for all your thread repair needs! With them you are able to make durable and strong connections. With the inserts you avoid scrap in your components and can recycle them. The inserts are precise and wear resistant - your screw will stay firmly in place without the thread insert slipping out. The BaerCoil® thread insert is the perfect solution for damaged threads without changing the nominal diameter. For the thread repair with wire thread inserts, the thread is drilled out and a new STI thread (screw thread insert) is cut for the wire thread insert. This thread is often also called STI thread (STI=Screw Thread Insert). Then the BaerCoil® thread insert is screwed into the old thread and thus the workpieces are screwed back together. With BaerCoil® thread inserts, the thread produced is significantly more stable than the original thread. Our thread inserts ensure that both static and dynamic work loads are distributed evenly over the individual thread turns. In addition, the flexibility of the thread inserts compensates for possible pitch and angular errors, so that optimum force transmission from the bolt to the nut thread is achieved. Especially in lightweight constructions, BaerCoil® thread inserts help to save carrier material and to use smaller or shorter screw connections. They are already an important component in aviation and vehicle construction. They significantly save material and contribute to the conservation of resources. For repair directly on the thread, this thread repair kit contains various auxiliary tools, such as the core drill bit, hand tap with oversize for insert thread, insertion tool, tang breaker and wire thread inserts made of stainless steel. BaerCoil® thread inserts can be shortened, if necessary, according to the required length with a side cutter or similar.",
+  "availability": "Unavailable",
+  "product_name": "M8 X 1.25 BaerCoil Kit (Helicoil Type)",
+  "specifications": [
+    "Diameter: 8",
+    "Pitch: 1.25",
+    "Dimension: M 8 x 1.25",
+    "Length: 1.5 D",
+    "T (Length when installed): 12 mm",
+    "Tensile strength at room temperature: >1400 N/mm²",
+    "Material: Stainless Steel V2A (AISI 304, X5CrNi18-10, Material No.: 1.4301)",
+    "Temperature resistance: 315°C long-term, 425°C short-term"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/ass-products/products/m6-m10-baercoil-workshop-kits-helicoil|>
+## M6 - M10 BaerCoil Workshop Kits (Helicoil Type)
+
+{
+  "price": "€110.09",
+  "description": "BaerCoil Thread Repair Workshop Kit M 6 - M 10 in metal box. Box Content: BaerCoil Drill HSS, STI Bottoming Tap HSSG, BaerCoil Inserting Tool, BaerCoil Tang Break Tool, + Wire Thread Inserts - type: \"free running\" - lengths: 1.5 D - 2.5 D. Different lengths for most applications.",
+  "availability": "Unavailable",
+  "product_name": "M6 - M10 BaerCoil Workshop Kits (Helicoil Type)",
+  "specifications": [
+    "M 6 x 1.0",
+    "M 8 x 1.25",
+    "M 10 x 1.5",
+    "Wire Thread Inserts length: 1.5 D and 2.5 D (D= Diameter) - stainless Steel",
+    "Use in machine-building, electrical, automotive, medical and aerospace industries."
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/ass-products/products/10mm-external-circlip-ireland|>
+## 10mm External Circlip Carbon Black
+
+{
+  "price": "€3.63",
+  "description": "External Circlips: The most common form of axially fitted circlips for shafts with grooves. The circlip has a large free diameter and gap width, consequently it fits more tightly into the groove and provides higher and more uniform thrust load capacity. Lugs with holes are provided for rapid fitting or removal with circlip pliers. Standard material: Carbon Spring Steel - Standard Finish: Phosphate and Oil. Benefits: Cost effective replacement, durable, removable. 1. Printing and precision applications 2. Pharmaceutical and food industry 3. Gearboxes and differentials 4. Light and heavy industrial use 5. General engineering applications 6. Great Quality parts shipped the same day",
+  "availability": "Unavailable",
+  "product_name": "10mm External Circlip Carbon Black",
+  "specifications": [
+    "Pack Size: Pack of 2, Pack of 5, Pack of 10, Pack of 50, Pack of 100",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "Material: Carbon Spring Steel",
+    "Finish: Phosphate and Oil"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/ass-products/products/10mm-internal-circlip-carbon-black|>
+## 10mm Internal Circlip Carbon Black
+
+{
+  "price": "€3.63",
+  "description": "10mm Internal Circlip Carbon Black - Pack of 2 is backordered and will ship as soon as it is back in stock. Internal Circlips: The most common form of axially fitted circlips for bores with grooves. The circlip has a large free diameter and gap width, consequently it fits more tightly into the groove and provides higher and more uniform thrust load capacity. Lugs with holes are provided for rapid fitting or removal with circlip pliers. Standard material: Carbon Spring Steel - Standard Finish: Phosphate and Oil. Benefits: Cost effective replacement, durable, removable. 1. Printing and precision applications 2. Pharmaceutical and food industry 3. Gearboxes and differentials 4. Light and heavy industrial use 5. General engineering applications 6. Great Quality parts shipped the same day",
+  "availability": "Unavailable",
+  "product_name": "10mm Internal Circlip Carbon Black",
+  "specifications": [
+    "Pack Size: Pack of 2, Pack of 5, Pack of 10, Pack of 50, Pack of 100",
+    "Shipping Information: Place your order before 2 PM for same-day shipping!",
+    "Shipping Cost: €8.99",
+    "Free Shipping: On orders over €50",
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+

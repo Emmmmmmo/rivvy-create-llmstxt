@@ -1,0 +1,1754 @@
+<|https://www.jgengineering.ie/products/m14x15rounddie262645601|>
+## M14 x 1.5 Round Die 262645601
+
+{
+  "price": "€14.20",
+  "description": "BAER Round Cutting Die MF 14 x 1.5 - HSS. BAER thread cutting dies are threading tools that are perfect for external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The die holder is used to cut the threads by hand and the special die holders also allow you to attach the round die to a tailstock or drill. The dies can usually be used on both sides and have a perfect cut. The tap is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS cutting dies can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M14 x 1.5 Round Die 262645601",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 14 mm",
+    "Nominal diameter in inches: 0.551",
+    "Nominal diameter in mm: 14",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 14 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m12x15mfbaerhexdie-262614802p72|>
+## M12 X 1.5 MF Baer® HEX DIE - 121501021 (P72)
+
+{
+  "price": "€59.74",
+  "description": "M12 X 1.5 MF Baer® HEX DIE - 121501021 (P72) is backordered and will ship as soon as it is back in stock. The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, making it easier to reach inaccessible places. BAER thread cutting dies are threading tools that are perfect for external threads. This thread cutting nut has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The hexagon die nut is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Sold out",
+  "product_name": "M12 X 1.5 MF Baer® HEX DIE - 121501021 (P72)",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 12 mm",
+    "Nominal diameter in inches: 0.472",
+    "Nominal diameter in mm: 12",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 12 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/mf-24-x-15-baer-round-cutting-die-left-hss|>
+## MF 24 x 1.5 BAER Round Cutting Die - LEFT - HSS
+
+{
+  "price": "€121.25",
+  "description": "BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Cutting dies are used to cut screws, nuts and threaded rods in everyday use. This is a left-hand cutting die that can be used to make left-hand thread. Round dies are cylindrical and are used to make external threads in one operation. On the outer casing of the round die there are four holes and a groove which are used to fix the die in suitable die holder and holders by means of retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill press. The tap is made of high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS cutting dies can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "MF 24 x 1.5 BAER Round Cutting Die - LEFT - HSS",
+  "specifications": [
+    "Height H: 16 mm",
+    "Diameter: 24 mm",
+    "Nominal diameter in inches: 0.945",
+    "Nominal diameter in mm: 24",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 24 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Left",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m16x20baerrounddie-262745801p36|>
+## M16 X 2.0 BAER ROUND DIE - 262745801 (P36)
+
+{
+  "price": "€18.26",
+  "description": "BAER Round Cutting Die M 16 x 2.0 - HSS. BAER thread cutting dies are threading tools that are perfect for external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The die holder is used to cut the threads by hand and the special die holders also allow you to attach the round die to a tailstock or drill. The dies can be used on both sides and have a perfect cut. The tap is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS cutting dies can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M16 X 2.0 BAER ROUND DIE - 262745801 (P36)",
+  "specifications": [
+    "Height H: 18 mm",
+    "Diameter: 16 mm",
+    "Nominal diameter in inches: 0.63",
+    "Nominal diameter in mm: 16",
+    "Pitch: 2.0 mm",
+    "Dimension: M 16 x 2.0",
+    "Material: HSS",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-round-cutting-die-mf-12-x-10-hss|>
+## BAER Round Cutting Die MF 12 x 1.0 - HSS
+
+{
+  "price": "€12.91",
+  "description": "BAER Round Cutting Die MF 12 x 1.0 - HSS is backordered and will ship as soon as it is back in stock. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or to a drill. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "BAER Round Cutting Die MF 12 x 1.0 - HSS",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 12 mm",
+    "Nominal diameter in inches: 0.472",
+    "Nominal diameter in mm: 12",
+    "Pitch: 1.0 mm",
+    "Pitch in mm: 1",
+    "Dimension: MF 12 x 1.0",
+    "Product group: Round cutting die",
+    "Product type: Round cutting dies",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m12x125baer-hexdie-262614603|>
+## M12 X 1.25 Baer® HEX DIE -
+
+{
+  "price": "€55.75",
+  "description": "The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, making it easier to reach inaccessible places. BAER thread cutting dies are threading tools that are perfect for external threads. This thread cutting nut has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M12 X 1.25 Baer® HEX DIE -",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 12 mm",
+    "Nominal diameter in inches: 0.472",
+    "Nominal diameter in mm: 12",
+    "Pitch: 1.25 mm",
+    "Dimension: MF 12 x 1.25",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m30x15baertapmfpage45262653002|>
+## M30 X 1.5 BAER ® TAP MF
+
+{
+  "price": "€173.35",
+  "description": "M30 X 1.5 BAER ® TAP MF is backordered and will ship as soon as it is back in stock. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M30 X 1.5 BAER ® TAP MF",
+  "specifications": [
+    "Diameter: 30 mm",
+    "Nominal diameter in inches: 1.181",
+    "Nominal diameter in mm: 30",
+    "Pitch: 1.5 mm",
+    "Square: 18 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-hexagon-die-nut-m-10-x-15-hss|>
+## BAER Hexagon Die Nut M 10 x 1.5 - HSS
+
+{
+  "price": "€19.90",
+  "description": "The hexagonal die (also called hexagon die nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "BAER Hexagon Die Nut M 10 x 1.5 - HSS",
+  "specifications": [
+    "Height H: 11 mm",
+    "Diameter: 10 mm",
+    "Nominal diameter in inches: 0.394",
+    "Nominal diameter in mm: 10",
+    "Pitch: 1.5 mm",
+    "Dimension: M 10 x 1.5",
+    "Material: HSS",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m22-x-25-baer-hexagon-die-nut-hss|>
+## M22 x 2.5 BAER Hexagon Die Nut HSS
+
+{
+  "price": "€82.69",
+  "description": "M22 x 2.5 BAER Hexagon Die Nut HSS is backordered and will ship as soon as it is back in stock. The hexagonal die (also called hexagon die nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M22 x 2.5 BAER Hexagon Die Nut HSS",
+  "specifications": [
+    "Height H: 22 mm",
+    "Diameter: 22 mm",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 2.5 mm",
+    "Dimension: M 22 x 2.5",
+    "Material: HSS",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/un-114-x-8-baer-hssg-hand-tap-taper-no-1|>
+## UN 1.1/4 x 8 Baer HSSG Hand Tap Taper (No. 1)
+
+{
+  "price": "€140.05",
+  "description": "The hand tap taper tap (No. 1) enables you to pre-cut a thread. The advantage of pre-cutting a thread is that the cutting forces on the subsequent finishing tap (No. 3) are reduced. The taper tap (No. 1) is marked with a ring and removes approx. 65 percent of the thread profile. Because no complete thread profile is cut, the thread is not yet usable. Only when the finishing tap (No. 3) completes the thread in the last process is it fully usable. By dividing the work between two or three taps, it is easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole.",
+  "availability": "Unavailable",
+  "product_name": "UN 1.1/4 x 8 Baer HSSG Hand Tap Taper (No. 1)",
+  "specifications": [
+    "Diameter: 1.1/4\"",
+    "Nominal diameter in inches: 1.25",
+    "Nominal diameter in mm: 31.75",
+    "Pitch: 8",
+    "Pitch in mm: 3.175",
+    "Dimension: UN 1.1/4\" x 8",
+    "Square: 18 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: UN: American Unified National thread according to ANSI B1.1 - 8 TPI with 8 threads per inch",
+    "Tolerance: 2B",
+    "Direction: Right",
+    "Standard: DIN 2184-2",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m22-x-10-baer-tap-120301070|>
+## M22 X 1.0 BAER TAP 120301070
+
+{
+  "price": "€63.43",
+  "description": "M22 X 1.0 BAER TAP 120301070 is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M22 X 1.0 BAER TAP 120301070",
+  "specifications": [
+    "Diameter: 22 mm",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 1.0 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Core hole diameter: 21 mm",
+    "Hole type: Through hole and blind hole up to 2 x D",
+    "Form / Geometry: Form C straight fluted",
+    "Cooling: External cooling and lubrication"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/112bspbaertap|>
+## BAER HSSG Hand Tap Set (2pcs.) G (BSP) 1.1/2 x 11
+
+{
+  "price": "€248.97",
+  "description": "The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "BAER HSSG Hand Tap Set (2pcs.) G (BSP) 1.1/2 x 11",
+  "specifications": [
+    "Diameter: 1.1/2\"",
+    "Nominal diameter in inches: 1.882",
+    "Nominal diameter in mm: 47.8",
+    "Pitch: 11",
+    "Pitch in mm: 2.309",
+    "Dimension: G (BSP) 1.1/2\" x 11",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 5157",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m32x15baertap266653601|>
+## M32 x 1.5 BaerTap (266653601)
+
+{
+  "price": "€91.41",
+  "description": "BAER HSSG Short Machine Tap Form D - MF 32 x 1.5. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "M32 x 1.5 BaerTap (266653601)",
+  "specifications": [
+    "Diameter: 32",
+    "Nominal diameter in inches: 1.26",
+    "Nominal diameter in mm: 32",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: MF 32 x 1.5",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m12-x-175-baer-hexagon-die-nut-hss|>
+## M12 x 1.75 Baer Hexagon Die Nut - HSS
+
+{
+  "price": "€30.84",
+  "description": "M12 x 1.75 Baer Hexagon Die Nut - HSS is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M12 x 1.75 Baer Hexagon Die Nut - HSS",
+  "specifications": [
+    "Height H: 14 mm",
+    "Diameter: 12 mm",
+    "Nominal diameter in inches: 0.472",
+    "Nominal diameter in mm: 12",
+    "Pitch: 1.75 mm",
+    "Dimension: M 12 x 1.75",
+    "Material: HSS",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/38x16uncbaerhexdienut-262311803p92|>
+## 3/8"x16 UNC BAER HEX DIE NUT - 262311803 (P92)
+
+{
+  "price": "€28.81",
+  "description": "BAER Hexagon Die Nut UNC 3/8 x 16 - HSS. The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, making it easier to reach inaccessible places. BAER thread cutting dies are threading tools that are perfect for external threads. This thread cutting nut has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "3/8\"x16 UNC BAER HEX DIE NUT - 262311803 (P92)",
+  "specifications": [
+    "Height H: 11 mm",
+    "Diameter: 3/8",
+    "Nominal diameter in inches: 0.375",
+    "Nominal diameter in mm: 9.525",
+    "Pitch: 16",
+    "Pitch in mm: 1.587",
+    "Dimension: UNC 3/8 x 16",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/14-x-19-baer-round-cutting-die-g-bsp-14-x-19-hss|>
+## 1/4 x 19 Baer Round Cutting Die G (BSP) 1/4 x 19 - HSS
+
+{
+  "price": "€20.97",
+  "description": "The die is a reliable and durable tool that helps you to produce precise external threads in one operation. It is equipped with four holes and a V-groove that secure the die in matching die stock and holders. This allows you to handle the die safely and comfortably. The BAER round die is also perfect for use in a tailstock or chuck of a drill press. Dies are tools used for cutting screws, nuts and threaded rods in everyday life. Round dies are cylindrical in shape and are used for making external threads in one operation. There are four holes and a groove on the outer casing of the round die, which are used to fasten the die in suitable die holder and holders by means of retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill. The external thread cutting tool is made of high speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "1/4 x 19 Baer Round Cutting Die G (BSP) 1/4 x 19 - HSS",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 1/4",
+    "Nominal diameter in inches: 0,518",
+    "Nominal diameter in mm: 13,16",
+    "Pitch: 19",
+    "Pitch in mm: 1,337",
+    "Dimension: G (BSP) 1/4 x 19",
+    "Material: HSS",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: A",
+    "Direction: Right",
+    "Standard: DIN 5158"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/1x8unchexdienut-262313803p92|>
+## 1" x 8 UNC HEX DIE NUT - 262313803 (P92)
+
+{
+  "price": "€95.94",
+  "description": "The hexagonal die (also called hexagon die nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "1\" x 8 UNC HEX DIE NUT - 262313803 (P92)",
+  "specifications": [
+    "Height H: 22 mm",
+    "Diameter: 1\"",
+    "Nominal diameter in inches: 1",
+    "Nominal diameter in mm: 25.4",
+    "Pitch: 8",
+    "Pitch in mm: 3.175",
+    "Dimension: UNC 1\" x 8",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-hexagon-die-nut-g-bsp-34-x-14-hss|>
+## BAER Hexagon Die Nut G (BSP) 3/4 x 14 - HSS
+
+{
+  "price": "€64.09",
+  "description": "The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring or open-end spanners, making it easier to reach inaccessible places. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "BAER Hexagon Die Nut G (BSP) 3/4 x 14 - HSS",
+  "specifications": [
+    "Height H: 16 mm",
+    "Diameter: 3/4",
+    "Nominal diameter in inches: 1.041",
+    "Nominal diameter in mm: 26.44",
+    "Pitch: 14",
+    "Pitch in mm: 1.814",
+    "Dimension: G (BSP) 3/4 x 14",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m10x15baerrounddie-262744601p36|>
+## M10 X 1.5 BAER ROUND DIE - 262744601 (P36)
+
+{
+  "price": "€20.45",
+  "description": "BAER Round Cutting Die M 10 x 1.5 - HSS - tolerance 6e. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or to a drill. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M10 X 1.5 BAER ROUND DIE - 262744601 (P36)",
+  "specifications": [
+    "Height H: 11 mm",
+    "Diameter: 10 mm",
+    "Nominal diameter in inches: 0.394",
+    "Nominal diameter in mm: 10",
+    "Pitch: 1.5 mm",
+    "Dimension: M 10 x 1.5",
+    "Material: HSS",
+    "Tolerance: 6e Untermaß",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m30-x-15-round-die|>
+## M30 X 1.5 ROUND DIE
+
+{
+  "price": "€101.47",
+  "description": "The die is a reliable and durable tool that helps you to produce precise external threads in one operation. It is equipped with four holes and a V-groove that secure the die in matching die stock and holders. This allows you to handle the die safely and comfortably. The BAER round die is also perfect for use in a tailstock or chuck of a drill press. Dies are tools used for cutting screws, nuts and threaded rods in everyday life. Round dies are cylindrical in shape and are used for making external threads in one operation. There are four holes and a groove on the outer casing of the round die, which are used to fasten the die in suitable die holder and holders by means of retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill. The external thread cutting tool is made of high speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M30 X 1.5 ROUND DIE",
+  "specifications": [
+    "Height H: 18 mm",
+    "Diameter: 30 mm",
+    "Nominal diameter in inches: 1.181",
+    "Nominal diameter in mm: 30",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 30 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m9-m27adjustablesteelbaertapwrench-261404087p138|>
+## M9 - M27 ADJUSTABLE STEEL BAER TAP WRENCH -261404087 (P138)
+
+{
+  "price": "€89.27",
+  "description": "The adjustable steel tap wrench is an operating tool made of tool steel for taps, with which internal thread can be cut by hand. An all-steel tap wrench is ideal when a larger diameter of the threaded hole and thus a higher torque is required. The reason for this is that the higher quality of the cast steel also allows higher forces to be absorbed. The outstanding quality of the tap wrench lies not only in the material, but also in the high-quality clamping jaws, handles and geometry, which make the tool extremely stable and very precise to use. They are standardised according to DIN 1814, equipped with hardened clamping jaws and can be adjusted. The term \"Tap turning tool\" is also used equivalently in everyday life. These holding tools are not only used for thread cutting, because they and are generally used to clamp tools with square ends. For example, screwdrivers, reamers or insertion tools for thread inserts can be clamped. The long levers on both sides support plumb cutting in the bore and easy application of the required torque. Another advantage is the easy handling and the short changing times. In order to be able to work in hard-to-reach places, one lever can be unscrewed on one side.",
+  "availability": "Unavailable",
+  "product_name": "M9 - M27 ADJUSTABLE STEEL BAER TAP WRENCH -261404087 (P138)",
+  "specifications": [
+    "Diameter: 11 - 27",
+    "Square: 5,5 - 16 mm",
+    "Length: 500 mm",
+    "Product group: Operating tools",
+    "Product type: Tap wrench",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Standard: DIN 1814",
+    "Material: Steel"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/mfm22x15baertap120301072|>
+## MF M22 X 1.5 BAER TAP (120301072)
+
+{
+  "price": "€66.61",
+  "description": "MF M22 X 1.5 BAER TAP (120301072) is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "MF M22 X 1.5 BAER TAP (120301072)",
+  "specifications": [
+    "Diameter: 22 mm",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 1.5 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Core hole diameter: 20.5 mm",
+    "Hole type: Through hole and blind hole up to 2 x D",
+    "Form / Geometry: Form C straight fluted",
+    "Cooling: External cooling and lubrication"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-hssg-short-machine-tap-form-d-pg-9-x-18|>
+## BAER HSSG Short Machine Tap Form D - PG 9 x 18
+
+{
+  "price": "€19.45",
+  "description": "Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "BAER HSSG Short Machine Tap Form D - PG 9 x 18",
+  "specifications": [
+    "Diameter: 9",
+    "Nominal diameter in inches: 0.598",
+    "Nominal diameter in mm: 15.2",
+    "Pitch: 18",
+    "Pitch in mm: 1.41",
+    "Dimension: PG 9 x 18",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: PG: Armored conduit thread according to DIN 40430",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 40432",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-hsse-machine-tap-35-rsp-mf-20-x-15-din-374|>
+## BAER HSSE Machine Tap - 35° RSP - MF 20 x 1.5 - DIN 374
+
+{
+  "price": "€39.49",
+  "description": "BAER HSSE Machine Tap - 35° RSP - MF 20 x 1.5 - DIN 374 is backordered and will ship as soon as it is back in stock. Our machine taps are powerful and reliable taps for efficient machining in one step with the machine. Machine taps are used especially in industrial manufacturing. They can be used in CNC machines, thread cutting machines, cordless drills and pneumatic tapping arms, among others. As they are characterised by high efficiency and low production costs, they are often used in series production. The thread is cut by machine in one operation. Thus, although the BAER machine tap can basically be compared with short machine taps, it is designed for use with the machine. The machine tap can be used for blind holes, as the short chamfer and the spiral flutes ensure that the chip is discharged to the rear of the hole. Every material shows individual chip behaviour. Therefore, screw taps must have the correct rake angle and - for even better results - a specially treated surface. This is the only way to achieve a good chip transport and to produce a thread that is true to gauge. The high quality of the cobalt-alloyed HSSE steel we use ensures that our tools are extremely durable and robust. Due to special hardening processes and repeated tempering the hardness structure is very homogeneous, which forms the ideal basis for a genuine BAER screw taps. This increases the toughness and stability of the screw taps, allowing them to remain in use for longer.",
+  "availability": "Unavailable",
+  "product_name": "BAER HSSE Machine Tap - 35° RSP - MF 20 x 1.5 - DIN 374",
+  "specifications": [
+    "Diameter: 20 mm",
+    "Nominal diameter in inches: 0.787",
+    "Nominal diameter in mm: 20",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 20 x 1.5",
+    "Product group: Screw taps",
+    "Product type: Machine taps",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 374",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSE bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m10x10mfbaerdie-121401023p66|>
+## M10 X 1.0 MF Baer® Die - 121401023 (P66)
+
+{
+  "price": "€17.90",
+  "description": "M10 X 1.0 MF Baer® Die - 121401023 (P66) is backordered and will ship as soon as it is back in stock. The die is a reliable and durable tool that helps you to produce precise external threads in one operation. It is equipped with four holes and a V-groove that secure the die in matching die stock and holders. This allows you to handle the die safely and comfortably. The BAER round die is also perfect for use in a tailstock or chuck of a drill press. Dies are tools used for cutting screws, nuts and threaded rods in everyday life. Round dies are cylindrical in shape and are used for making external threads in one operation. There are four holes and a groove on the outer casing of the round die, which are used to fasten the die in suitable die holder and holders by means of retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill press. The tap is made of high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS cutting dies can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M10 X 1.0 MF Baer® Die - 121401023 (P66)",
+  "specifications": [
+    "Height H: 11 mm",
+    "Diameter: 10 mm",
+    "Nominal diameter in inches: 0.394",
+    "Nominal diameter in mm: 10",
+    "Pitch: 1.0 mm",
+    "Pitch in mm: 1",
+    "Dimension: MF 10 x 1.0",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m22-x-15-baer-hexagon-die-nut-mf-hss|>
+## M22 x 1.5 BAER Hexagon Die Nut MF - HSS
+
+{
+  "price": "€117.50",
+  "description": "M22 x 1.5 BAER Hexagon Die Nut MF - HSS is backordered and will ship as soon as it is back in stock. The hexagonal die (also called hexagon die nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M22 x 1.5 BAER Hexagon Die Nut MF - HSS",
+  "specifications": [
+    "Height H: 16 mm",
+    "Diameter: 22 mm",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 22 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m20-x-1-round-baer-die|>
+## M20 X 1 ROUND BAER DIE
+
+{
+  "price": "€43.84",
+  "description": "BAER Round Cutting Die MF 20 x 1.0 - HSS. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or to a drill. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M20 X 1 ROUND BAER DIE",
+  "specifications": [
+    "Height H: 14 mm",
+    "Diameter: 20 mm",
+    "Nominal diameter in inches: 0.787",
+    "Nominal diameter in mm: 20",
+    "Pitch: 1.0 mm",
+    "Pitch in mm: 1",
+    "Dimension: MF 20 x 1.0",
+    "Product group: Round cutting die",
+    "Product type: Round cutting dies",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/14x18nptmachinetap-266351419p124|>
+## 1/4 X 18 NPT MACHINE TAP - 266351419 (P124)
+
+{
+  "price": "€21.43",
+  "description": "BAER HSSG Short Machine Tap Form C - NPT 1/4 x 18. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "1/4 X 18 NPT MACHINE TAP - 266351419 (P124)",
+  "specifications": [
+    "Diameter: 1/4",
+    "Nominal diameter in mm: 13,62",
+    "Pitch: 18",
+    "Pitch in mm: 1,41",
+    "Dimension: NPT 1/4 x 18",
+    "Square: 9 mm",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: NPT: National Pipe Thread or American pipe thread according to ANSI B 1.20.1",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: Factory standard",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-hexagon-die-nut-npt-34-x-14-hss|>
+## BAER Hexagon Die Nut NPT 3/4 x 14 - HSS
+
+{
+  "price": "€198.68",
+  "description": "The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, making it easier to reach inaccessible places. BAER thread cutting dies are threading tools that are perfect for external threads. This thread cutting nut has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The hexagon die nut is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "BAER Hexagon Die Nut NPT 3/4 x 14 - HSS",
+  "specifications": [
+    "Height H: 22 mm",
+    "Diameter: 3/4",
+    "Nominal diameter in mm: 26,57",
+    "Pitch: 14",
+    "Pitch in mm: 1,81",
+    "Dimension: NPT 3/4 x 14",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: NPT: National Pipe Thread or American pipe thread according to ANSI B 1.20.1",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m20-x-1-hex-baer-die|>
+## M20 X 1.0 HEX BAER DIE
+
+{
+  "price": "€80.23",
+  "description": "The hexagonal die (also called hexagonal cutting nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER thread cutting dies are threading tools that are perfect for external threads. This metal-cutting tap has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The hexagon die nut is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M20 X 1.0 HEX BAER DIE",
+  "specifications": [
+    "Height H: 14 mm",
+    "Diameter: 20 mm",
+    "Nominal diameter in inches: 0.787",
+    "Nominal diameter in mm: 20",
+    "Pitch: 1.0 mm",
+    "Pitch in mm: 1",
+    "Dimension: MF 20 x 1.0",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unc-516-x-18-baer-hexagon-die-nut-hss|>
+## UNC 5/16 x 18 BAER Hexagon Die Nut - HSS
+
+{
+  "price": "€25.06",
+  "description": "The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring or open-end spanners, making it easier to reach inaccessible places. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "UNC 5/16 x 18 BAER Hexagon Die Nut - HSS",
+  "specifications": [
+    "Height H: 9 mm",
+    "Diameter: 5/16",
+    "Nominal diameter in inches: 0,313",
+    "Nominal diameter in mm: 7,938",
+    "Pitch: 18",
+    "Pitch in mm: 1,411",
+    "Dimension: UNC 5/16 x 18",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-die-stocks-pro-55-x-16mm-mf-22-26-g-bsp-58-34|>
+## BAER Die Stocks - PRO 55 x 16mm | MF 22-26 | G (BSP) 5/8-3/4
+
+{
+  "price": "€25.94",
+  "description": "BAER Die Stocks - PRO 55 x 16mm | MF 22-26 | G (BSP) 5/8-3/4 is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "BAER Die Stocks - PRO 55 x 16mm | MF 22-26 | G (BSP) 5/8-3/4",
+  "specifications": [
+    "Height H: 16 mm",
+    "Diameter: 55 mm",
+    "Dimension: 55 x 16",
+    "Length: 560 mm",
+    "Product group: Operating tools",
+    "Product type: Die Holders",
+    "Standard: DIN 225",
+    "Material: Premium die casting",
+    "Applications: for dies in M and MF: MF 22 - MF 26, for dies in: G 5/8 - G 3/4"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-round-cutting-die-bsw-12-x-12-hss|>
+## BAER Round Cutting Die BSW 1/2 x 12 - HSS
+
+{
+  "price": "€26.93",
+  "description": "The die is a reliable and durable tool that helps you to produce precise external threads in one operation. It is equipped with four holes and a V-groove that secure the die in matching die stock and holders. This allows you to handle the die safely and comfortably. The BAER round die is also perfect for use in a tailstock or chuck of a drill press. Dies are tools used for cutting screws, nuts and threaded rods in everyday life. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or drill press. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "BAER Round Cutting Die BSW 1/2 x 12 - HSS",
+  "specifications": [
+    "Height H: 14 mm",
+    "Diameter: 1/2",
+    "Nominal diameter in inches: 0.5",
+    "Nominal diameter in mm: 12.7",
+    "Pitch: 12",
+    "Pitch in mm: 2.12",
+    "Dimension: BSW 1/2 x 12",
+    "Product group: Round cutting die",
+    "Product type: Round cutting dies",
+    "Thread standard: BSW: British Whitworth standard thread according to BS 84",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-round-cutting-die-mf-28-x-15-hss|>
+## BAER Round Cutting Die MF M28 x 1.5 - HSS
+
+{
+  "price": "€104.61",
+  "description": "BAER Round Cutting Die MF 28 x 1.5 - HSS is backordered and will ship as soon as it is back in stock. BAER thread cutting dies are threading tools that are perfect for external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The die holder is used to cut the threads by hand and the special die holders also allow you to attach the round die to a tailstock or drill. The dies can usually be used on both sides and have a perfect cut. The tap is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS cutting dies can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "BAER Round Cutting Die MF M28 x 1.5 - HSS",
+  "specifications": [
+    "Height H: 18 mm",
+    "Diameter: 28 mm",
+    "Nominal diameter in inches: 1.102",
+    "Nominal diameter in mm: 28",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 28 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/stanleyfatmaxkeyringtape2m|>
+## Stanley FatMax Keyring Tape 2m
+
+{
+  "price": "€5.99",
+  "description": "Stanley FatMax Keyring Tape 2m is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "Stanley FatMax Keyring Tape 2m",
+  "specifications": [
+    "SKU: 3253561338564",
+    "Shipping Cost: €8.99",
+    "Free Shipping on orders over €50",
+    "Order before 2 PM for same-day shipping"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m12x125mfrounddie262644601page66|>
+## M12 X 1.25 MF ROUND DIE (262644601)
+
+{
+  "price": "€12.91",
+  "description": "BAER Round Cutting Die MF 12 x 1.25 - HSS. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or to a drill. The dies can be used on both sides and have a perfect cut. The tap is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS cutting dies can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M12 X 1.25 MF ROUND DIE (262644601)",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 12 mm",
+    "Nominal diameter in inches: 0.472",
+    "Nominal diameter in mm: 12",
+    "Pitch: 1.25 mm",
+    "Dimension: MF 12 x 1.25",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m30x2mfbaertappage42266653201|>
+## M30 X 2 MF BAER TAP® PAGE 42 (266653201)
+
+{
+  "price": "€71.53",
+  "description": "BAER HSSG Short Machine Tap Form D - MF 30 x 2.0. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "M30 X 2 MF BAER TAP® PAGE 42 (266653201)",
+  "specifications": [
+    "Diameter: 30",
+    "Nominal diameter in inches: 1.181",
+    "Nominal diameter in mm: 30",
+    "Pitch: 2.0",
+    "Pitch in mm: 2",
+    "Dimension: MF 30 x 2.0",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/1-x-11-bsp-tap-hex-baer-tap|>
+## 1" X 11 BSP Die HEX BAER TAP
+
+{
+  "price": "€279.06",
+  "description": "BAER Hexagon Die Nut R (BSPT) 1\" x 11 - HSS. The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, making it easier to reach inaccessible places. BAER thread cutting dies are threading tools that are perfect for external threads. This thread cutting nut has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "1\" X 11 BSP Die HEX BAER TAP",
+  "specifications": [
+    "Height H: 25 mm",
+    "Diameter: 1\"",
+    "Pitch: 11",
+    "Dimension: R (BSPT) 1\" x 11",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: R (BSPT): Tapered Whitworth pipe thread according to ISO 7/1 DIN EN 10226-1 + 2",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/mf-52-x-15-baer-hssg-hand-tap-taper-no-1|>
+## MF 52 x 1.5 Baer HSSG Hand Tap Taper (No. 1)
+
+{
+  "price": "€266.28",
+  "description": "The hand tap taper tap (No. 1) enables you to pre-cut a thread. The advantage of pre-cutting a thread is that the cutting forces on the subsequent finishing tap (No. 3) are reduced. The taper tap (No. 1) is marked with a ring and removes approx. 65 percent of the thread profile. Because no complete thread profile is cut, the thread is not yet usable. Only when the finishing tap (No. 3) completes the thread in the last process is it fully usable. By dividing the work between two or three taps, it is easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole.",
+  "availability": "Sold out",
+  "product_name": "MF 52 x 1.5 Baer HSSG Hand Tap Taper (No. 1)",
+  "specifications": [
+    "Diameter: 52",
+    "Nominal diameter in inches: 2.047",
+    "Nominal diameter in mm: 52",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: MF 52 x 1.5",
+    "Square: 32 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m30-x-15-die-nut|>
+## M30 X 1.5 DIE NUT
+
+{
+  "price": "€177.68",
+  "description": "The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring or open-end spanners, making it easier to reach inaccessible places. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The hexagon die nut is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M30 X 1.5 DIE NUT",
+  "specifications": [
+    "Height H: 18 mm",
+    "Diameter: 30 mm",
+    "Nominal diameter in inches: 1.181",
+    "Nominal diameter in mm: 30",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 30 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/mf-24-x-15-hssg-hand-tap-finishing-no-2-left|>
+## MF 24 x 1.5 HSSG Hand Tap Finishing (No. 2) - LEFT
+
+{
+  "price": "€56.78",
+  "description": "The left-hand tap finishing tap (No. 3) enables you to cut a finished left-hand thread. It is advantageous to shape the thread beforehand with a taper tap (No. 1) in order to better distribute the cutting power. However, the finishing tap (No. 3) can also be used without a pre- or intermediate tap (No. 2) as it already cuts a fully usable thread. However, the short chamfer makes it more difficult to get straight into the hole and the tool life time is reduced compared to using multi-part hand tap sets. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut into a pre-drilled core hole. Due to the short chamfer of the finish tap, it can be used universally for through holes and blind holes. A left-hand thread is tapped counterclockwise. The left-hand tap or left-hand screw tap is also operated counterclockwise.",
+  "availability": "Unavailable",
+  "product_name": "MF 24 x 1.5 HSSG Hand Tap Finishing (No. 2) - LEFT",
+  "specifications": [
+    "Diameter: 24",
+    "Nominal diameter in inches: 0.945",
+    "Nominal diameter in mm: 24",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: MF 24 x 1.5",
+    "Square: 14.5 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Left",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m22x15lefthandtap|>
+## M22 X 1.5 LEFT HAND TAP SET
+
+{
+  "price": "€102.90",
+  "description": "The left-hand tapping hand tap set consists of two taps and enables you to cut a finished left-hand thread with significantly reduced risk of breakage. One left-hand thread is tapped counterclockwise. The left-hand tap or left-hand screw tap is also operated counterclockwise. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than at coarse thread, as the thread profile area is smaller than for coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M22 X 1.5 LEFT HAND TAP SET",
+  "specifications": [
+    "Diameter: 22",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: MF 22 x 1.5",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Left",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m15x15baerrounddie-262646001p67|>
+## M15 X 1.5 BAER ROUND DIE - 262646001 (P67)
+
+{
+  "price": "€34.95",
+  "description": "M15 X 1.5 BAER ROUND DIE - 262646001 (P67) is backordered and will ship as soon as it is back in stock. BAER thread cutting dies are threading tools that are perfect for external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. Round dies are cylindrical and are used to make external threads in one operation. There are four holes and a groove on the outer casing of the round die, which are used to fasten the die in matching die stock and holders using retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill. The external thread cutting tool is made of high speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M15 X 1.5 BAER ROUND DIE - 262646001 (P67)",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 15 mm",
+    "Nominal diameter in inches: 0.591",
+    "Nominal diameter in mm: 15",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 15 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/npt-12-baertap-240101005|>
+## NPT 1/2" BAERTAP 240101005
+
+{
+  "price": "€38.50",
+  "description": "NPT 1/2\" BAERTAP 240101005 is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "NPT 1/2\" BAERTAP 240101005",
+  "specifications": [
+    "Diameter: 1/2",
+    "Nominal diameter in mm: 21,22",
+    "Pitch: 14",
+    "Pitch in mm: 1,81",
+    "Dimension: NPT 1/2 x 14",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: NPT: National Pipe Thread or American pipe thread according to ANSI B 1.20.1",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: Factory standard",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/18x25bspbaerhexagondienuts262551214|>
+## 1/8 x 28 BSP BAER® HEXAGON DIE NUTS (262551214)
+
+{
+  "price": "€20.63",
+  "description": "1/8 x 28 BSP BAER® HEXAGON DIE NUTS (262551214) is backordered and will ship as soon as it is back in stock. The hexagonal die is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER dies are perfect for anyone who wants to cut external threads. This cutting tool has an external hexagon and has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "1/8 x 28 BSP BAER® HEXAGON DIE NUTS (262551214)",
+  "specifications": [
+    "Height H: 11 mm",
+    "Diameter: 1/8",
+    "Nominal diameter in inches: 0.383",
+    "Nominal diameter in mm: 9.73",
+    "Pitch: 28",
+    "Pitch in mm: 0.907",
+    "Dimension: G (BSP) 1/8 x 28",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/14-x-19-baer-round-cutting-die-g-bsp-hsse-spiral-entry|>
+## 1/4 x 19 - BAER Round Cutting Die G (BSP) HSSE spiral entry
+
+{
+  "price": "€46.71",
+  "description": "The die is a reliable and durable tool that helps you to produce precise external threads in one operation. It is equipped with four holes and a V-groove that secure the die in matching die stock and holders. This allows you to handle the die safely and comfortably. The BAER round die is also perfect for use in a tailstock or chuck of a drill press. Dies are tools used for cutting screws, nuts and threaded rods in everyday life. Round dies are cylindrical in shape and are used for making external threads in one operation. There are four holes and a groove on the outer casing of the round die, which are used to fasten the die in suitable die holder and holders by means of retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill. The die is made of the high-quality high-speed steel HSSE. HSSE is more heat-resistant, more wear-resistant and has a slightly higher hardness than HSS steel. the round die is therefore more durable and can also be used for demanding tasks. The improved surface finish, the spiral entry and the basic material HSSE give you the necessary strength for working with difficult-to-cut materials and stainless steels. The cutting tool also has a special cutting edge geometry so that it can be used in metalworking for, among other things, tempering and case-hardening steels up to 1200 N/mm², as well as stainless and acid-resistant steels, heat-resistant structural steels and malleable cast iron. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "1/4 x 19 - BAER Round Cutting Die G (BSP) HSSE spiral entry",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 1/4",
+    "Nominal diameter in inches: 0,518",
+    "Nominal diameter in mm: 13,16",
+    "Pitch: 19",
+    "Pitch in mm: 1,337",
+    "Dimension: G (BSP) 1/4 x 19",
+    "Material: HSSE",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: A",
+    "Direction: Right",
+    "Standard: DIN 5158"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m22x2baertap120301073|>
+## M22 X 2 BAER TAP (120301073)
+
+{
+  "price": "€66.64",
+  "description": "M22 X 2 BAER TAP (120301073) is backordered and will ship as soon as it is back in stock. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M22 X 2 BAER TAP (120301073)",
+  "specifications": [
+    "Diameter: 22",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 2.0",
+    "Pitch in mm: 2",
+    "Dimension: MF 22 x 2.0",
+    "Square: 14.5 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/34x14npttap|>
+## 3/4" x 14 NPT BAER Tap
+
+{
+  "price": "€49.56",
+  "description": "BAER HSSG Short Machine Tap Form C - NPT 3/4 x 14. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "3/4\" x 14 NPT BAER Tap",
+  "specifications": [
+    "Diameter: 3/4",
+    "Nominal diameter in mm: 26,57",
+    "Pitch: 14",
+    "Pitch in mm: 1,81",
+    "Dimension: NPT 3/4 x 14",
+    "Square: 16 mm",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: NPT: National Pipe Thread or American pipe thread according to ANSI B 1.20.1",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: Factory standard",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m-10-x-15-left-hand-hexagon-die-nut-hss|>
+## M 10 x 1.5 - LEFT HAND Hexagon Die Nut - HSS
+
+{
+  "price": "€38.25",
+  "description": "The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, making it easier to reach inaccessible places. BAER thread cutting dies are threading tools that are perfect for external threads. This thread cutting nut has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. This is a left-hand cutting nut used to make left-hand thread. The hexagon die nut is made of high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M 10 x 1.5 - LEFT HAND Hexagon Die Nut - HSS",
+  "specifications": [
+    "Height H: 11 mm",
+    "Diameter: 10 mm",
+    "Nominal diameter in inches: 0.394",
+    "Nominal diameter in mm: 10",
+    "Pitch: 1.5 mm",
+    "Dimension: M 10 x 1.5",
+    "Material: HSS",
+    "Direction: Left",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-hexagon-die-nut-unc-12-x-13-hss|>
+## BAER Hexagon Die Nut UNC 1/2 x 13 - HSS
+
+{
+  "price": "€35.49",
+  "description": "The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring or open-end spanners, making it easier to reach inaccessible places. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "BAER Hexagon Die Nut UNC 1/2 x 13 - HSS",
+  "specifications": [
+    "Height H: 14 mm",
+    "Diameter: 1/2",
+    "Nominal diameter in inches: 0.5",
+    "Nominal diameter in mm: 12.7",
+    "Pitch: 13",
+    "Pitch in mm: 1.954",
+    "Dimension: UNC 1/2 x 13",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m16-x-2-hex-die|>
+## M16 X 2 HEX DIE
+
+{
+  "price": "€45.23",
+  "description": "BAER Hexagon Die Nut M 16 x 2.0 - HSS. The hexagonal die (also called hexagon die nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The hexagon die nut is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M16 X 2 HEX DIE",
+  "specifications": [
+    "Height H: 18 mm",
+    "Diameter: 16 mm",
+    "Nominal diameter in inches: 0.63",
+    "Nominal diameter in mm: 16",
+    "Pitch: 2.0 mm",
+    "Dimension: M 16 x 2.0",
+    "Material: HSS",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m17-x-1-baer-hssg-hand-tap-finishing-no-2-mf|>
+## M17 x 1 BAER HSSG Hand Tap Finishing (No. 2) MF
+
+{
+  "price": "€28.99",
+  "description": "M17 x 1 BAER HSSG Hand Tap Finishing (No. 2) MF is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M17 x 1 BAER HSSG Hand Tap Finishing (No. 2) MF",
+  "specifications": [
+    "Diameter: 17 mm",
+    "Nominal diameter in inches: 0.669",
+    "Nominal diameter in mm: 17",
+    "Pitch: 1.0 mm",
+    "Dimension: MF 17 x 1.0",
+    "Square: 9 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/12bsphexdie-131501004|>
+## 1/2" BSP HEX DIE - 131501004
+
+{
+  "price": "€41.13",
+  "description": "BAER Hexagon Die Nut G (BSP) 1/2 x 14 - HSS. The hexagonal die (also called hexagonal cutting nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER thread cutting dies are threading tools that are perfect for external threads. This metal-cutting tap has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The hexagon die nut is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "1/2\" BSP HEX DIE - 131501004",
+  "specifications": [
+    "Height H: 14 mm",
+    "Diameter: 1/2",
+    "Nominal diameter in inches: 0.825",
+    "Nominal diameter in mm: 20.95",
+    "Pitch: 14",
+    "Pitch in mm: 1.814",
+    "Dimension: G (BSP) 1/2 x 14",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unc-716-x-14-baer-round-cutting-die-hss|>
+## UNC 7/16 x 14 Baer Round Cutting Die - HSS
+
+{
+  "price": "€28.80",
+  "description": "BAER thread cutting dies are threading tools that are perfect for external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The die holder is used to cut the threads by hand and the special die holders also allow you to attach the round die to a tailstock or drill. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "UNC 7/16 x 14 Baer Round Cutting Die - HSS",
+  "specifications": [
+    "Height H: 11 mm",
+    "Diameter: 7/16",
+    "Nominal diameter in inches: 0.438",
+    "Nominal diameter in mm: 11.112",
+    "Pitch: 14",
+    "Pitch in mm: 1.814",
+    "Dimension: UNC 7/16 x 14",
+    "Product group: Round cutting die",
+    "Product type: Round cutting dies",
+    "Thread standard: UNC: American Unified National Coarse thread according to ANSI B1.1",
+    "Tolerance: 2A",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/18x28bspbaerrounddie262541214|>
+## 1/8" x 28 BSP Baer® Round Die 262541214
+
+{
+  "price": "€12.10",
+  "description": "The die is a reliable and durable tool that helps you to produce precise external threads in one operation. It is equipped with four holes and a V-groove that secure the die in matching die stock and holders. This allows you to handle the die safely and comfortably. The BAER round die is also perfect for use in a tailstock or chuck of a drill press. Dies are tools used for cutting screws, nuts and threaded rods in everyday life. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or drill press. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "1/8\" x 28 BSP Baer® Round Die 262541214",
+  "specifications": [
+    "Height H: 11 mm",
+    "Diameter: 1/8",
+    "Nominal diameter in inches: 0.383",
+    "Nominal diameter in mm: 9.73",
+    "Pitch: 28",
+    "Pitch in mm: 0.907",
+    "Dimension: G (BSP) 1/8 x 28",
+    "Material: HSS",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: A",
+    "Direction: Right",
+    "Standard: DIN 5158"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/unf-1-x-12-x-12-baer-hexagon-die-nut-hss|>
+## UNF 1" x 12 x 12 BAER Hexagon Die Nut - HSS
+
+{
+  "price": "€105.76",
+  "description": "The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, making it easier to reach inaccessible places. BAER thread cutting dies are threading tools that are perfect for external threads. This thread cutting nut has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The hexagon die nut is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "UNF 1\" x 12 x 12 BAER Hexagon Die Nut - HSS",
+  "specifications": [
+    "Height H: 16 mm",
+    "Diameter: 1\"",
+    "Nominal diameter in inches: 1",
+    "Nominal diameter in mm: 25.4",
+    "Pitch: 12",
+    "Pitch in mm: 2.117",
+    "Dimension: UNF 1\" x 12",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: UNF: American Fine Unified National thread according to ANSI B1.1",
+    "Tolerance: 2A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m18-x-10-baer-tap|>
+## M18 X 1.0 MF BAER TAP
+
+{
+  "price": "€21.45",
+  "description": "M18 X 1.0 MF BAER TAP is backordered and will ship as soon as it is back in stock. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "M18 X 1.0 MF BAER TAP",
+  "specifications": [
+    "Diameter: 18 mm",
+    "Nominal diameter in inches: 0.709",
+    "Nominal diameter in mm: 18",
+    "Pitch: 1.0 mm",
+    "Dimension: MF 18 x 1.0",
+    "Square: 11 mm",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m10-x-15-baer-hssg-hand-tap-intermediate-no-2-left|>
+## M10 x 1.5 BAER HSSG Hand Tap Intermediate (No. 2) - LEFT
+
+{
+  "price": "€19.90",
+  "description": "The left-hand tap intermediate tap (No. 2) allows you to shape a left-hand thread before finishing it with the finishing tap (No. 3). The advantage of pre-cutting a thread with the intermediate tap (No. 2) is that the cutting forces on the subsequent finishing tap (No. 3) are reduced. The intermediate tap (No. 2) is marked with two rings and removes approx. 85 percent of the thread profile. Because no complete thread profile is cut, the thread is not yet usable. Only when the finishing tap (No. 3) completes the thread in the last process is it fully usable. By dividing the work between two or three taps, it is easier to cut a straight and clean thread by hand.",
+  "availability": "Unavailable",
+  "product_name": "M10 x 1.5 BAER HSSG Hand Tap Intermediate (No. 2) - LEFT",
+  "specifications": [
+    "Diameter: 10",
+    "Nominal diameter in inches: 0.394",
+    "Nominal diameter in mm: 10",
+    "Pitch: 1.5",
+    "Pitch in mm: 1.5",
+    "Dimension: M 10 x 1.5",
+    "Square: 5.5 mm",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Left",
+    "Standard: DIN 352",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m16x15baerhexdie-262615402|>
+## M16 X 1.5 Baer® HEX DIE - 262615402
+
+{
+  "price": "€63.72",
+  "description": "M16 X 1.5 Baer® HEX DIE - 262615402 is backordered and will ship as soon as it is back in stock. The hexagonal die (also called hexagon die nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M16 X 1.5 Baer® HEX DIE - 262615402",
+  "specifications": [
+    "Height H: 14 mm",
+    "Diameter: 16 mm",
+    "Nominal diameter in inches: 0.63",
+    "Nominal diameter in mm: 16",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 16 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/10-x-32-unf-baer-round-cutting-die-hss|>
+## 10 x 32 UNF Baer Round Cutting Die - HSS
+
+{
+  "price": "€16.26",
+  "description": "BAER Round Cutting Die UNF No. 10 x 32 - HSS is perfect for anyone who wants to cut external threads. This cutting tool is cylindrical and has three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. The die holder is used to cut the threads by hand and with special die holders you can also attach the round die to a tailstock or to a drill. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "10 x 32 UNF Baer Round Cutting Die - HSS",
+  "specifications": [
+    "Height: 7 mm",
+    "Diameter: No. 10",
+    "Nominal diameter in inches: 0.19",
+    "Nominal diameter in mm: 4.826",
+    "Pitch: 32",
+    "Pitch in mm: 0.794",
+    "Dimension: UNF No. 10 x 32",
+    "Material: HSS",
+    "Thread standard: UNF: American Fine Unified National thread according to ANSI B1.1",
+    "Tolerance: 2A",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/18-x-40-bsw-hss-baer-round-cutting-die|>
+## 1/8 x 40 BSW - HSS BAER Round Cutting Die
+
+{
+  "price": "€8.84",
+  "description": "BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. Round dies are cylindrical and are used for making external threads in one operation. There are four holes and a groove on the outer casing of the round die, which are used to secure the die in matching die stock and holders using retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill. The external thread cutting tool is made of high speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Sold out",
+  "product_name": "1/8 x 40 BSW - HSS BAER Round Cutting Die",
+  "specifications": [
+    "Height H: 5 mm",
+    "Diameter: 1/8",
+    "Nominal diameter in inches: 0.125",
+    "Nominal diameter in mm: 3.175",
+    "Pitch: 40",
+    "Pitch in mm: 0.64",
+    "Dimension: BSW 1/8 x 40",
+    "Product group: Round cutting die",
+    "Product type: Round cutting dies",
+    "Thread standard: BSW: British Whitworth standard thread according to BS 84",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/18bspbaertapb3311|>
+## 1/8 BSP BAERcoil TAP (B3311)
+
+{
+  "price": "€22.09",
+  "description": "BaerCoil HSSG Short Machine Tap G (BSP) 1/8 x 28 STI (oversized for wire thread inserts)",
+  "availability": "Unavailable",
+  "product_name": "1/8 BSP BAERcoil TAP (B3311)",
+  "specifications": [
+    "Diameter: 1/8",
+    "Nominal diameter in inches: 0.425",
+    "Nominal diameter in mm: 10.8",
+    "Pitch: 28",
+    "Pitch in mm: 0.907",
+    "Dimension: G (BSP) 1/8 x 28 EG/STI",
+    "Square: 6.3 mm",
+    "Product group: Screw taps, Wire thread inserts - Taps",
+    "Product type: BaerCoil screw taps",
+    "Thread standard: G (BSP) EG/STI: British Standard Pipe Thread - Cylindrical pipe thread for wire thread inserts",
+    "Direction: Right",
+    "Standard: Factory standard",
+    "Tensile strength at room temperature: up to 800 N/mm² | 22.2 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/34x14bsphexdie-262552214|>
+## 3/4" X 14 BSP HEX DIE - 262552214
+
+{
+  "price": "€59.64",
+  "description": "BAER Round Cutting Die G (BSP) 3/4 x 14 - HSS. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or to a drill. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "3/4\" X 14 BSP HEX DIE - 262552214",
+  "specifications": [
+    "Height H: 16 mm",
+    "Diameter: 3/4",
+    "Nominal diameter in inches: 1.041",
+    "Nominal diameter in mm: 26.44",
+    "Pitch: 14",
+    "Pitch in mm: 1.814",
+    "Dimension: G (BSP) 3/4 x 14",
+    "Product group: Round cutting die",
+    "Product type: Round cutting dies",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: A",
+    "Direction: Right",
+    "Standard: DIN 5158",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m22-x-15-baer-round-die|>
+## M22 X 1.5 Baer Round Die
+
+{
+  "price": "€73.01",
+  "description": "BAER Round Cutting Die MF 22 x 1.5 - HSS. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. Round dies are cylindrical and are used for making external threads in one operation. There are four holes and a groove on the outer casing of the round die, which are used to secure the die in matching die stock and holders using retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill. The external thread cutting tool is made of high speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M22 X 1.5 Baer Round Die",
+  "specifications": [
+    "Height H: 16 mm",
+    "Diameter: 22 mm",
+    "Nominal diameter in inches: 0.866",
+    "Nominal diameter in mm: 22",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 22 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-round-cutting-die-mf-12-x-05-hss|>
+## BAER Round Cutting Die MF 12 x 0.5 - HSS
+
+{
+  "price": "€29.99",
+  "description": "BAER Round Cutting Die MF 12 x 0.5 - HSS is backordered and will ship as soon as it is back in stock. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool is cylindrical and has - depending on the size - three or more cutting edges inside. The holes between the cutting edges receive the chips, roll them and discharge them. Dies are used to cut screws, nuts and threaded rods in everyday use. Round dies are cylindrical and are used for making external threads in one operation. There are four holes and a groove on the outer casing of the round die, which are used to secure the die in matching die stock and holders using retaining screws. External threads are cut by hand with die stock. Special die holders are used for the tailstock on a lathe or for the chuck of a drill press. The tap is made of high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS cutting dies can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "BAER Round Cutting Die MF 12 x 0.5 - HSS",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 12 mm",
+    "Nominal diameter in inches: 0.4724409",
+    "Nominal diameter in mm: 12 mm",
+    "Pitch: 0.5 mm",
+    "Dimension: MF 12 x 0.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/1rounddiestockholderzincdiecastp139|>
+## 1" Round Die Stock Holder Zinc Die Cast (P139)
+
+{
+  "price": "€4.11",
+  "description": "1\" Round Die Stock Holder Zinc Die Cast (P139) is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "1\" Round Die Stock Holder Zinc Die Cast (P139)",
+  "specifications": [
+    "Height H: 9.5 mm",
+    "Diameter: 25.4 mm",
+    "Dimension: 1\" x 3/8",
+    "Length: 224 mm",
+    "Product group: Operating tools",
+    "Product type: Die Holders",
+    "Material: Die casting"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/baer-hssg-short-machine-tap-form-d-pg-7-x-20|>
+## BAER HSSG Short Machine Tap Form D - PG 7 x 20
+
+{
+  "price": "€18.45",
+  "description": "BAER HSSG Short Machine Tap Form D - PG 7 x 20 is backordered and will ship as soon as it is back in stock. Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.",
+  "availability": "Unavailable",
+  "product_name": "BAER HSSG Short Machine Tap Form D - PG 7 x 20",
+  "specifications": [
+    "Diameter: 7",
+    "Nominal diameter in inches: 0.492",
+    "Nominal diameter in mm: 12.5",
+    "Pitch: 20",
+    "Pitch in mm: 1.27",
+    "Dimension: PG 7 x 20",
+    "Product group: Screw taps",
+    "Product type: Short machine taps",
+    "Thread standard: PG: Armored conduit thread according to DIN 40430",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 40432",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m38-x-15-baer-round-die-121401116|>
+## M38 X 1.5 BAER ROUND DIE 121401116
+
+{
+  "price": "€169.23",
+  "description": "M38 X 1.5 BAER ROUND DIE 121401116 is backordered and will ship as soon as it is back in stock. The die is a reliable and durable tool that helps you to produce precise external threads in one operation. It is equipped with four holes and a V-groove that secure the die in matching die stock and holders. This allows you to handle the die safely and comfortably. The BAER round die is also perfect for use in a tailstock or chuck of a drill press. Dies are tools used for cutting screws, nuts and threaded rods in everyday life. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or drill press. The dies can usually be used on both sides and have a perfect cut. The tap is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS cutting dies can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "M38 X 1.5 BAER ROUND DIE 121401116",
+  "specifications": [
+    "Height H: 20 mm",
+    "Diameter: 38 mm",
+    "Nominal diameter in inches: 1.496",
+    "Nominal diameter in mm: 38",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 38 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m14-x-15-baer-hex-die|>
+## M14 X 1.5 BAER HEX DIE
+
+{
+  "price": "€62.31",
+  "description": "M14 X 1.5 BAER HEX DIE is backordered and will ship as soon as it is back in stock. The hexagon die nut is particularly advantageous for repairs, as it can be moved with ring or open-end spanners, making it easier to reach inaccessible places. BAER dies are perfect for anyone who wants to cut external threads. Basically, this cutting tool has an external hexagon and - depending on the size - has three or more cutting edges inside. The holes between the cutting edges take up the chips, roll them and carry them away. Hexagonal die nuts are used to cut screws, nuts and threaded rods in everyday use. The hexagon die nut is made of the high-speed steel HSS, which has better toughness and is less susceptible to breakage than HSSE steel. HSS steel is also a popular material for making tools that are subjected to high stresses. HSS hexagonal die nuts can be used for structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloyed copper and short-chipping copper-tin alloys. Also plastics such as POM, PVC etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Sold out",
+  "product_name": "M14 X 1.5 BAER HEX DIE",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 14 mm",
+    "Nominal diameter in inches: 0.551",
+    "Nominal diameter in mm: 14",
+    "Pitch: 1.5 mm",
+    "Dimension: MF 14 x 1.5",
+    "Material: HSS",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO-6g",
+    "Direction: Right",
+    "Standard: DIN 382"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/14x19bspbaerhexagondienut262561414|>
+## 1/4 X 19 BSP BAER® HEXAGON DIE NUT
+
+{
+  "price": "€29.42",
+  "description": "The hexagonal die (also called hexagonal cutting nut) is particularly advantageous for repairs, as it can be moved with ring spanners or open-end spanners, allowing you to reach inaccessible places more easily. BAER thread cutting dies are threading tools that are perfect for external threads. This metal-cutting tap has an external hexagon and - depending on the size - has three or more cutting edges on the inside. The holes between the cutting edges take up the chips, roll them and carry them away. Dies are commonly used in everyday life to make screws, nuts and threaded rods. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS hexagonal die nuts can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "1/4 X 19 BSP BAER® HEXAGON DIE NUT",
+  "specifications": [
+    "Height H: 10 mm",
+    "Diameter: 1/4",
+    "Nominal diameter in inches: 0,518",
+    "Nominal diameter in mm: 13,16",
+    "Pitch: 19",
+    "Pitch in mm: 1,337",
+    "Dimension: G (BSP) 1/4 x 19",
+    "Product group: Round cutting die",
+    "Product type: Hexagon die nuts",
+    "Thread standard: G (BSP): British Standard Pipe Thread according to DIN ISO 228 - Cylindrical pipe thread",
+    "Tolerance: A",
+    "Direction: Right",
+    "Standard: DIN 382",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/npt-12-x-14-hss-baer-round-cutting-die|>
+## NPT 1/2 x 14 - HSS BAER Round Cutting Die
+
+{
+  "price": "€114.21",
+  "description": "The die is a reliable and durable tool that helps you to produce precise external threads in one operation. It is equipped with four holes and a V-groove that secure the die in matching die stock and holders. This allows you to handle the die safely and comfortably. The BAER round die is also perfect for use in a tailstock or chuck of a drill press. Dies are tools used for cutting screws, nuts and threaded rods in everyday life. The die holder is used to cut the threads by hand and with the special die holders you can also attach the round die to a tailstock or drill press. The dies can usually be used on both sides and have a perfect cut. The external thread cutting tool is made of high-speed steel (HSS). HSS steel has a higher toughness and a lower susceptibility to breakage compared to HSSE steel. HSS steel is known for its exceptional cutting performance and durability. HSS cutting dies can be used for a wide range of applications, such as structural steels, carbon steels and free-cutting steels. It is also suitable for case-hardening steels and unalloyed tempering steels with a strength of up to 750 N/mm². Cast steel as well as zinc alloys can also be cut with it, as well as pure copper, low-alloy copper, as well as short-chipping copper-tin alloys, plastics such as POM, PVC, etc. It is important that you lubricate the tool plumbed working and with cutting oil or cutting paste.",
+  "availability": "Unavailable",
+  "product_name": "NPT 1/2 x 14 - HSS BAER Round Cutting Die",
+  "specifications": [
+    "Height H: 18 mm",
+    "Diameter: 1/2",
+    "Nominal diameter in mm: 21,22",
+    "Pitch: 14",
+    "Pitch in mm: 1,81",
+    "Dimension: NPT 1/2 x 14",
+    "Product group: Round cutting die",
+    "Product type: Round cutting dies",
+    "Thread standard: NPT: National Pipe Thread or American pipe thread according to ANSI B 1.20.1",
+    "Tolerance: medium",
+    "Direction: Right",
+    "Standard: DIN 223 (DIN EN 2256)",
+    "Material: HSS"
+  ]
+}
+
+<|https://www.jgengineering.ie/products/m36-x-3-baer-tap|>
+## M36 X 3 BAER TAP SET
+
+{
+  "price": "€232.37",
+  "description": "BAER HSSG Hand Tap Set (2pcs.) MF 36 x 3.0. The hand tap set consists of two taps and allows you to cut a finished thread with significantly reduced risk of breakage. The advantage of two-piece hand taps is that the respective parts of a set share the cutting power: The taper tap (No. 1) (marked with a ring) removes 65 per cent of the thread profile and the and brings the thread into shape. The finishing tap (No. 3) has no ring marking and cuts the remaining thread profile to produce the 100% full and usable thread. The division of labour between the two screw tap makes it easier to cut a straight and clean thread by hand. Compared to the machine tap, the hand tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole. Due to the short chamfer of the finish tap, the hand tap set can be used reliably and universally for through holes and blind holes. As a rule, two-piece hand taps- sets are used for fine threads with a smaller pitch than with coarse thread, as the thread profile surface is smaller than with coarse threads and the force effects on the taps are smaller.",
+  "availability": "Unavailable",
+  "product_name": "M36 X 3 BAER TAP SET",
+  "specifications": [
+    "Diameter: 36",
+    "Nominal diameter in inches: 1.417",
+    "Nominal diameter in mm: 36",
+    "Pitch: 3.0",
+    "Pitch in mm: 3",
+    "Dimension: MF 36 x 3.0",
+    "Product group: Screw taps",
+    "Product type: Hand tap sets",
+    "Thread standard: MF: Metric ISO fine thread according to DIN 13",
+    "Tolerance: ISO2/6H",
+    "Direction: Right",
+    "Standard: DIN 2181",
+    "Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC",
+    "Material: HSSG bright"
+  ]
+}
+

@@ -1,0 +1,1296 @@
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m39-00-baercoil-drill-bit|>
+## M39.00 BaerCoil Drill Bit
+
+{
+  "price": "€313.65",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 39,00mm. Fitting BaerCoil taps: UNC 1.1/2'' x 6, UNF 1.1/2'' x 12, BSW 1.1/2'' x 6, BSF 1.1/2'' x 8.",
+  "availability": "Unavailable",
+  "product_name": "M39.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 39,00mm",
+    "Fitting BaerCoil taps: UNC 1.1/2'' x 6",
+    "Fitting BaerCoil taps: UNF 1.1/2'' x 12",
+    "Fitting BaerCoil taps: BSW 1.1/2'' x 6",
+    "Fitting BaerCoil taps: BSF 1.1/2'' x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m2-10-baercoil-drill-bit|>
+## M2.10 BaerCoil Drill Bit
+
+{
+  "price": "€0.60",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338\nDiameter: 2,10mm\nFitting BaerCoil taps: M 2 x 0,4",
+  "availability": "Unavailable",
+  "product_name": "M2.10 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 2.10mm",
+    "Fitting BaerCoil taps: M 2 x 0.4",
+    "DIN 338"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m2-9-baercoil-drll-bit|>
+## M2.9 BaerCoil Drll Bit
+
+{
+  "price": "€0.60",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 2,90mm\nFitting BaerCoil taps: BA 6",
+  "availability": "Unavailable",
+  "product_name": "M2.9 BaerCoil Drll Bit",
+  "specifications": [
+    "Diameter: 2.90mm",
+    "Fitting BaerCoil taps: BA 6",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m39-50-baercoil-drill-bit|>
+## M39.50 BaerCoil Drill Bit
+
+{
+  "price": "€313.65",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 39,50mm. Fitting BaerCoil taps: M 39 x 2,0.",
+  "availability": "Unavailable",
+  "product_name": "M39.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 39,50mm",
+    "Fitting BaerCoil taps: M 39 x 2,0",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m13-50-baercoil-drill-bit|>
+## M13.50 BaerCoil Drill Bit
+
+{
+  "price": "€33.50",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 13,50mm\nFitting BaerCoil taps:\nG 1/4 x 19\nNPT 1/4 x 19",
+  "availability": "Unavailable",
+  "product_name": "M13.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 13.50mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: G 1/4 x 19, NPT 1/4 x 19"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m3-00-baercoil-drill-bit|>
+## M3.00 BaerCoil Drill Bit
+
+{
+  "price": "€0.75",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 3,00mm\nFitting BaerCoil taps:\nUNC 4 x 40\nUNF 4 x 48",
+  "availability": "Unavailable",
+  "product_name": "M3.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 3,00mm",
+    "Fitting BaerCoil taps: UNC 4 x 40",
+    "Fitting BaerCoil taps: UNF 4 x 48"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m7-30-baercoil-drill-bit|>
+## M7.30 BaerCoil Drill Bit
+
+{
+  "price": "€3.10",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 7,30mm\nFitting BaerCoil taps:\nM 7 x 1,0\nBSF 9/32 x 26",
+  "availability": "Unavailable",
+  "product_name": "M7.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 7.30mm",
+    "Fitting BaerCoil taps: M 7 x 1.0",
+    "Fitting BaerCoil taps: BSF 9/32 x 26"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m16-50-baercoil-drill-bit|>
+## M16.50 BaerCoil Drill Bit
+
+{
+  "price": "€29.77",
+  "description": "M16.50 BaerCoil Drill Bit is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M16.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 16.5 mm",
+    "Length: 184 mm",
+    "Machine mount: cylindrical shank (⌀ 13 mm)",
+    "Material: Roll forged HSS High-speed steel",
+    "Standard: DIN 338-A",
+    "Type: N (118° tip angle)",
+    "Direction: Right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m14-40-baercoil-drill-bit|>
+## M14.40 BaerCoil Drill Bit
+
+{
+  "price": "€33.50",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 14,40mm\nFitting BaerCoil taps:\nM 14 x 1,0\nM 14 x 1,25",
+  "availability": "Unavailable",
+  "product_name": "M14.40 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 14.40mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: M 14 x 1.0, M 14 x 1.25"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m33-00-baercoil-drill-bit|>
+## M33.00 BaerCoil Drill Bit
+
+{
+  "price": "€200.80",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 33,00mm. Fitting BaerCoil taps: UNC 1.1/4'' x 7, BSW 1.1/4 x 7.",
+  "availability": "Unavailable",
+  "product_name": "M33.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 33,00mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UNC 1.1/4'' x 7",
+    "Fitting BaerCoil taps: BSW 1.1/4 x 7"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m11-50-baercoil-drill-bit|>
+## M11.50 BaerCoil Drill Bit
+
+{
+  "price": "€6.90",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 11,50mm\nFitting BaerCoil taps:\nUNF 7/16 x 20\nBSF 7/16 x 18",
+  "availability": "Unavailable",
+  "product_name": "M11.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 11.50mm",
+    "Fitting BaerCoil taps: UNF 7/16 x 20",
+    "Fitting BaerCoil taps: BSF 7/16 x 18"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m6-30-baercoil-drill-bit|>
+## M6.30 BaerCoil Drill Bit
+
+{
+  "price": "€2.40",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 6,30mm\nFitting BaerCoil taps:\nM 6 x 1,0\nM 6 x 0,75",
+  "availability": "Unavailable",
+  "product_name": "M6.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 6.30mm",
+    "Fitting BaerCoil taps: M 6 x 1.0",
+    "Fitting BaerCoil taps: M 6 x 0.75"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m4-90-baercoil-drll-bit|>
+## M4.90 BaerCoil Drll Bit
+
+{
+  "price": "€1.60",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 4,90mm\nFitting BaerCoil taps: BA 2",
+  "availability": "Unavailable",
+  "product_name": "M4.90 BaerCoil Drll Bit",
+  "specifications": [
+    "Diameter: 4.90mm",
+    "Fitting BaerCoil taps: BA 2",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m3-70-baercoil-drill-bit|>
+## M3.70 BaerCoil Drill Bit
+
+{
+  "price": "€0.99",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 3,70mm\nFitting BaerCoil taps:\nM 3,5 x 0,6\nUNC 6 x 32\nUNF 6 x 40",
+  "availability": "Unavailable",
+  "product_name": "M3.70 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 3.70mm",
+    "Fitting BaerCoil taps: M 3.5 x 0.6, UNC 6 x 32, UNF 6 x 40"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m26-50-baercoil-drill-bit|>
+## M26.50 BaerCoil Drill Bit
+
+{
+  "price": "€89.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 26,50mm. Fitting BaerCoil taps: M 26 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M26.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 26,50mm",
+    "Fitting BaerCoil taps: M 26 x 1,5",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m6-60-baercoil-drill-bit|>
+## M6.60 BaerCoil Drill Bit
+
+{
+  "price": "€2.70",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 6,60mm\nFitting BaerCoil taps:\nUNF 1/4 x 28\nBSF 1/4 x 26",
+  "availability": "Unavailable",
+  "product_name": "M6.60 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 6.60mm",
+    "Fitting BaerCoil taps: UNF 1/4 x 28",
+    "Fitting BaerCoil taps: BSF 1/4 x 26"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m13-25-baercoil-drill-bit|>
+## M13.25 BaerCoil Drill Bit
+
+{
+  "price": "€33.50",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 13,25mm\nFitting BaerCoil taps:\nM 13 x 1,25\nM 13 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M13.25 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 13.25mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: M 13 x 1.25, M 13 x 1.5"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m12-30-baercoil-drill-bit|>
+## M12.30 BaerCoil Drill Bit
+
+{
+  "price": "€8.90",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 12,30mm\nFitting BaerCoil taps:\nM 12 x 1,0\nM 12 x 1,25",
+  "availability": "Unavailable",
+  "product_name": "M12.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 12,30mm",
+    "Fitting BaerCoil taps: M 12 x 1,0",
+    "Fitting BaerCoil taps: M 12 x 1,25"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m8-30-baercoil-drill-bit|>
+## M8.30 BaerCoil Drill Bit
+
+{
+  "price": "€4.30",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 8,30mm\nFitting BaerCoil taps:\nM 8 x 1,25\nM 8 x 1,0\nBSW 5/16 x 18\nBSF 5/16 x 22",
+  "availability": "Unavailable",
+  "product_name": "M8.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 8,30mm",
+    "Fitting BaerCoil taps: M 8 x 1,25",
+    "Fitting BaerCoil taps: M 8 x 1,0",
+    "Fitting BaerCoil taps: BSW 5/16 x 18",
+    "Fitting BaerCoil taps: BSF 5/16 x 22"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m3-20-baercoil-drill-bit|>
+## M3.20 BaerCoil Drill Bit
+
+{
+  "price": "€0.75",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 3,20mm\nFitting BaerCoil taps: M 3 x 0,5",
+  "availability": "Unavailable",
+  "product_name": "M3.20 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 3.20mm",
+    "Fitting BaerCoil taps: M 3 x 0.5",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m3-4-baercoil-drill-bit|>
+## M3.4 BaerCoil Drill Bit
+
+{
+  "price": "€0.99",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 3,40mm\nFitting BaerCoil taps:\nUNC 5 x 40\nBSW 1/8 x 40",
+  "availability": "Unavailable",
+  "product_name": "M3.4 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 3.40mm",
+    "Fitting BaerCoil taps: UNC 5 x 40",
+    "Fitting BaerCoil taps: BSW 1/8 x 40"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m23-00-baercoil-drill-bit|>
+## M23.00 BaerCoil Drill Bit
+
+{
+  "price": "€58.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 23,00mm\nFitting BaerCoil taps:\nUNC 7/8 x 9\nBSW 7/8 x 9",
+  "availability": "Unavailable",
+  "product_name": "M23.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 23,00mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: UNC 7/8 x 9, BSW 7/8 x 9"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m14-75-baercoil-drill-bit|>
+## M14.75 BaerCoil Drill Bit
+
+{
+  "price": "€67.50",
+  "description": "BaerCoil HSS Drill Bit with morse taper 14.75 mm. Almost every do-it-yourselfer has worked with them at one time or another: the classic drilling tools for cordless screwdrivers, drills, impact drills or hammer drills. twist drill bit consist of the drill shank, chip-removing grooves and the drill point. Decisive for the application of the drill is not only the material, but also the cutting edge geometry, the rake angle and the spiral angle, the so-called twist. At BAER you get HSSR- twist drill bit in proven BAER-industrial quality at an unbeatable price-performance ratio. The twist drill bit are available in many dimensions. BaerCoil® twist drill bit can be used to drill core holes for thread inserts.",
+  "availability": "Unavailable",
+  "product_name": "M14.75 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 14,75 mm",
+    "Length: 212 mm",
+    "Machine mount: MK 2",
+    "Product group: Wire thread inserts - Twist drill bits",
+    "Product type: Twist drill bits",
+    "Direction: Right",
+    "Standard: DIN 345",
+    "Type: N (118° tip angle)",
+    "Material: Roll forged HSS High-speed steel",
+    "Suitable for: steels, cast steel (alloyed), cast steel (unalloyed), grey cast iron, malleable cast iron, nodular cast iron, sintered iron, nickel silver, graphite, bronze, brass, aluminium"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m48-50-baercoil-drill-bit|>
+## M48.50 BaerCoil Drill Bit
+
+{
+  "price": "€487.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 48,50mm. Fitting BaerCoil taps: G 1.1/2'' x 11.",
+  "availability": "Unavailable",
+  "product_name": "M48.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 48,50mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: G 1.1/2'' x 11"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m4-3-baercoil-drill-bit|>
+## M4.3 BaerCoil Drill Bit
+
+{
+  "price": "€1.48",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 4,30mm\nFitting BaerCoil taps: BA 3",
+  "availability": "Unavailable",
+  "product_name": "M4.3 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 4.30mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: BA 3"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m3-8-baercoil-drill-bit|>
+## M3.8 BaerCoil Drill Bit
+
+{
+  "price": "€1.17",
+  "description": "M3.8 BaerCoil Drill Bit is backordered and will ship as soon as it is back in stock. BaerCoil spiral drill for BaerCoil taps, DIN 338 right, Diameter: 3,80mm, Fitting BaerCoil taps: BA 4",
+  "availability": "Unavailable",
+  "product_name": "M3.8 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 3.80mm",
+    "Fitting BaerCoil taps: BA 4",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m47-50-baercoil-drill-bit|>
+## M47.50 BaerCoil Drill Bit
+
+{
+  "price": "€487.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 47,50mm. Fitting BaerCoil taps: UN 1.7/8'' x 8.",
+  "availability": "Unavailable",
+  "product_name": "M47.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 47.50mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UN 1.7/8'' x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m9-30-baercoil-drill-bit|>
+## M9.30 BaerCoil Drill Bit
+
+{
+  "price": "€4.80",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 9,30mm\nFitting BaerCoil taps:\nM 9 x 1,25\nM 9 x 1,0",
+  "availability": "Unavailable",
+  "product_name": "M9.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 9.30mm",
+    "Fitting BaerCoil taps: M 9 x 1.25, M 9 x 1.0",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m11-60-baercoil-drill-bit|>
+## M11.60 BaerCoil Drill Bit
+
+{
+  "price": "€6.90",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 11,60mm\nFitting BaerCoil taps:\nUNC 7/16 x 14\nBSW 7/16 x 14",
+  "availability": "Unavailable",
+  "product_name": "M11.60 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 11,60mm",
+    "Fitting BaerCoil taps: UNC 7/16 x 14",
+    "Fitting BaerCoil taps: BSW 7/16 x 14"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m8-20-baercoil-drill-bit|>
+## M8.20 BaerCoil Drill Bit
+
+{
+  "price": "€4.30",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 8,20mm\nFitting BaerCoil taps:\nM 8 x 0,75\nUNF 5/16 x 24",
+  "availability": "Unavailable",
+  "product_name": "M8.20 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 8.20mm",
+    "Fitting BaerCoil taps: M 8 x 0.75",
+    "UNF 5/16 x 24"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m51-00-baercoil-drill-bit|>
+## M51.00 BaerCoil Drill Bit
+
+{
+  "price": "€854.85",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 51,00mm. Fitting BaerCoil taps: UN 2\" x 8.",
+  "availability": "Unavailable",
+  "product_name": "M51.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 51,00mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UN 2\" x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m24-50-baercoil-drill-bit|>
+## M24.50 BaerCoil Drill Bit
+
+{
+  "price": "€55.50",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 24,50mm. Fitting BaerCoil taps: M 24 x 3,0, M 24 x 2,0, M 24 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M24.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 24,50mm",
+    "Fitting BaerCoil taps: M 24 x 3,0",
+    "Fitting BaerCoil taps: M 24 x 2,0",
+    "Fitting BaerCoil taps: M 24 x 1,5"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m2-30-baercoil-drill-bit|>
+## M2.30 BaerCoil Drill Bit
+
+{
+  "price": "€0.60",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 2,30mm\nFitting BaerCoil taps:\nM 2,2 x 0,45\nUNC 2 x 56\nUNF 2 x 64",
+  "availability": "Unavailable",
+  "product_name": "M2.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 2.30mm",
+    "Fitting BaerCoil taps: M 2,2 x 0,45",
+    "UNC 2 x 56",
+    "UNF 2 x 64"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m6-20-baercoil-drill-bit|>
+## M6.20 BaerCoil Drill Bit
+
+{
+  "price": "€3.40",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 6,20mm\nFitting BaerCoil taps: BA 0",
+  "availability": "Unavailable",
+  "product_name": "M6.20 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 6.20mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: BA 0"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m44-50-baercoil-drill-bit|>
+## M44.50 BaerCoil Drill Bit
+
+{
+  "price": "€380.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 44,50mm. Fitting BaerCoil taps: UN 1.3/4'' x 8",
+  "availability": "Unavailable",
+  "product_name": "M44.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 44,50mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UN 1.3/4'' x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m9-90-baercoil-drill-bit|>
+## M9.90 BaerCoil Drill Bit
+
+{
+  "price": "€5.54",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 9,90mm\nFitting BaerCoil taps:\nUNC 3/8 x 16\nBSW 3/8 x 16\nBSF 3/8 x 20",
+  "availability": "Unavailable",
+  "product_name": "M9.90 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 9.90mm",
+    "Fitting BaerCoil taps: UNC 3/8 x 16",
+    "Fitting BaerCoil taps: BSW 3/8 x 16",
+    "Fitting BaerCoil taps: BSF 3/8 x 20"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m38-00-baercoil-drill-bit|>
+## M38.00 BaerCoil Drill Bit
+
+{
+  "price": "€255.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 38,00mm. Fitting BaerCoil taps: UN 1.1/2'' x 8",
+  "availability": "Unavailable",
+  "product_name": "M38.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 38,00mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UN 1.1/2'' x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m35-00-baercoil-drill-bit|>
+## M35.00 BaerCoil Drill Bit
+
+{
+  "price": "€198.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 35,00mm. Fitting BaerCoil taps: UN 1.3/8'' x 8",
+  "availability": "Unavailable",
+  "product_name": "M35.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 35,00mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UN 1.3/8'' x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m11-30-baercoil-drill-bit|>
+## M11.30 BaerCoil Drill Bit
+
+{
+  "price": "€6.90",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 11,30mm\nFitting BaerCoil taps:\nM 11 x 1,0",
+  "availability": "Unavailable",
+  "product_name": "M11.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 11.30mm",
+    "Fitting BaerCoil taps: M 11 x 1.0",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m14-50-baercoil-drill-bit|>
+## M14.50 BaerCoil Drill Bit
+
+{
+  "price": "€18.50",
+  "description": "M14.50 BaerCoil Drill Bit is backordered and will ship as soon as it is back in stock. BaerCoil spiral drill for BaerCoil taps shaft: 13mm or 16mm; DIN 338 right. Diameter: 14,50mm. Fitting BaerCoil taps: M 14 x 2,0, M 14 x 1,5, UNF 9/16 x 18, BSF 9/16 x 16.",
+  "availability": "Unavailable",
+  "product_name": "M14.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 14.50mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: M 14 x 2,0, M 14 x 1,5, UNF 9/16 x 18, BSF 9/16 x 16"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m41-00-baercoil-drill-bit|>
+## M41.00 BaerCoil Drill Bit
+
+{
+  "price": "€364.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 41,00mm. Fitting BaerCoil taps: UN 1.5/8'' x 8",
+  "availability": "Unavailable",
+  "product_name": "M41.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 41,00mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UN 1.5/8'' x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m5-5-baercoil-drill-bit|>
+## M5.5 BaerCoil Drill Bit
+
+{
+  "price": "€2.22",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 5,50mm\nFitting BaerCoil taps: BA 1",
+  "availability": "Unavailable",
+  "product_name": "M5.5 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 5.50mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: BA 1"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m19-75-baercoil-drill-bit|>
+## M19.75 BaerCoil Drill Bit
+
+{
+  "price": "€49.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 19,75mm. Fitting BaerCoil taps: UNC 3/4 x 10, BSW 3/4 x 10.",
+  "availability": "Unavailable",
+  "product_name": "M19.75 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 19.75mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UNC 3/4 x 10",
+    "Fitting BaerCoil taps: BSW 3/4 x 10"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m2-60-baercoil-drill-bit|>
+## M2.60 BaerCoil Drill Bit
+
+{
+  "price": "€0.70",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 2,30mm\nFitting BaerCoil taps:\nM 2,2 x 0,45\nUNC 2 x 56\nUNF 2 x 64",
+  "availability": "Unavailable",
+  "product_name": "M2.60 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 2.30mm",
+    "Fitting BaerCoil taps: M 2.2 x 0.45, UNC 2 x 56, UNF 2 x 64"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m15-50-baercoil-drill-bitdin338a111155|>
+## M15.50 BaerCoil Drill Bit DIN338-A - 111155
+
+{
+  "price": "€26.81",
+  "description": "M15.50 BaerCoil Drill Bit DIN338-A - 111155 is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M15.50 BaerCoil Drill Bit DIN338-A - 111155",
+  "specifications": [
+    "Diameter: 15,50mm",
+    "Fitting BaerCoil taps: M 15 x 2,0",
+    "Fitting BaerCoil taps: M 15 x 1,5",
+    "Shaft: 13mm or 16mm; DIN 338A right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m21-50-baercoil-drill-bit|>
+## M21.50 BaerCoil Drill Bit
+
+{
+  "price": "€55.50",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 21,50mm\nFitting BaerCoil taps:\nG 1/2 x 14\nNPT 1/2 x 14",
+  "availability": "Unavailable",
+  "product_name": "M21.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 21.50mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: G 1/2 x 14, NPT 1/2 x 14"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m17-00-baercoil-drill-bit|>
+## M17.00 BaerCoil Drill Bit
+
+{
+  "price": "€29.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 17,00mm\nFitting BaerCoil taps:\nG 3/8 x 19\nNPT 3/8 x 18",
+  "availability": "Unavailable",
+  "product_name": "M17.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 17,00mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: G 3/8 x 19, NPT 3/8 x 18"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m27-00-baercoil-drill-bit|>
+## M27.00 BaerCoil Drill Bit
+
+{
+  "price": "€89.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 27,00mm\nFitting BaerCoil taps:\nG 3/4 x 14\nNPT 3/4 x 14",
+  "availability": "Unavailable",
+  "product_name": "M27.00 BaerCoil Drill Bit",
+  "specifications": [
+    "shaft: 13mm or 16mm; DIN 338 right",
+    "Diameter: 27,00mm",
+    "Fitting BaerCoil taps: G 3/4 x 14",
+    "Fitting BaerCoil taps: NPT 3/4 x 14"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m9-80-baercoil-drill-bit|>
+## M9.80 BaerCoil Drill Bit
+
+{
+  "price": "€5.54",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 9,80mm\nFitting BaerCoil taps: UNF 3/8 x 24",
+  "availability": "Unavailable",
+  "product_name": "M9.80 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 9.80mm",
+    "Fitting BaerCoil taps: UNF 3/8 x 24",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/26mmhssbaercoildin338drillbit|>
+## 26MM HSS BaerCoil® DIN 338 DRILL BIT
+
+{
+  "price": "€97.17",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 26,00mm\nFitting BaerCoil taps:\nUNC 1'' x 8\nUNF 1'' x 12/14\nBSW 1'' x 8\nBSF 1'' x 10",
+  "availability": "Unavailable",
+  "product_name": "26MM HSS BaerCoil® DIN 338 DRILL BIT",
+  "specifications": [
+    "Diameter: 26,00mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: UNC 1'' x 8, UNF 1'' x 12/14, BSW 1'' x 8, BSF 1'' x 10"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m18-50-baercoil-drill-bitdin338a111185|>
+## M18.50 BaerCoil Drill Bit DIN338-A 111185
+
+{
+  "price": "€41.04",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 18,50mm\nFitting BaerCoil taps:\nM 18 x 2,5\nM 18 x 2,0\nM 18 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M18.50 BaerCoil Drill Bit DIN338-A 111185",
+  "specifications": [
+    "Diameter: 18,50mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: M 18 x 2,5, M 18 x 2,0, M 18 x 1,5"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m23-50-baercoil-drill-bit|>
+## M23.50 BaerCoil Drill Bit
+
+{
+  "price": "€76.57",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 23,50mm. Fitting BaerCoil taps: G 5/8 x 14",
+  "availability": "Unavailable",
+  "product_name": "M23.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 23,50mm",
+    "Fitting BaerCoil taps: G 5/8 x 14",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m40-00-baercoil-drill-bit|>
+## M40.00 BaerCoil Drill Bit
+
+{
+  "price": "€313.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 40,00mm. Fitting BaerCoil taps: M 39 x 4,0.",
+  "availability": "Unavailable",
+  "product_name": "M40.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 40,00mm",
+    "Fitting BaerCoil taps: M 39 x 4,0",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m28-50-baercoil-drill-bit|>
+## M28.50 BaerCoil Drill Bit
+
+{
+  "price": "€97.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 28,50mm. Fitting BaerCoil taps: M 28 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M28.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 28,50mm",
+    "Fitting BaerCoil taps: M 28 x 1,5",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m6-70-baercoil-drill-bit|>
+## M6.70 BaerCoil Drill Bit
+
+{
+  "price": "€2.70",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 6,70mm\nFitting BaerCoil taps:\nUNC 1/4 x 20\nBSW 1/4 x 20",
+  "availability": "Unavailable",
+  "product_name": "M6.70 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 6.70mm",
+    "Fitting BaerCoil taps: UNC 1/4 x 20",
+    "Fitting BaerCoil taps: BSW 1/4 x 20"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m32-50-baercoil-drill-bit|>
+## M32.50 BaerCoil Drill Bit
+
+{
+  "price": "€188.19",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 32,50mm. Fitting BaerCoil taps: UNF 1.1/4'' x 12, BSF 1.1/4 x 9.",
+  "availability": "Unavailable",
+  "product_name": "M32.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 32,50mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UNF 1.1/4'' x 12",
+    "Fitting BaerCoil taps: BSF 1.1/4 x 9"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m43-00-baercoil-drill-bit|>
+## M43.00 BaerCoil Drill Bit
+
+{
+  "price": "€364.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 43,00mm. Fitting BaerCoil taps: M 42 x 4,5, M 42 x 4,0, M 42 x 3,0, M 42 x 2,0.",
+  "availability": "Unavailable",
+  "product_name": "M43.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 43,00mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: M 42 x 4,5",
+    "Fitting BaerCoil taps: M 42 x 4,0",
+    "Fitting BaerCoil taps: M 42 x 3,0",
+    "Fitting BaerCoil taps: M 42 x 2,0"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m4-20-baercoil-drill-bit|>
+## M4.20 BaerCoil Drill Bit
+
+{
+  "price": "€1.17",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 4,20mm\nFitting BaerCoil taps: M 4 x 0,7",
+  "availability": "Unavailable",
+  "product_name": "M4.20 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 4.20mm",
+    "Fitting BaerCoil taps: M 4 x 0.7",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m13-00-baercoil-drill-bit|>
+## M13.00 BaerCoil Drill Bit
+
+{
+  "price": "€8.90",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 13,00mm\nFitting BaerCoil taps:\nUNC 1/2 x 13\nUNF 1/2 x 20\nBSW 1/2 x 12\nBSF 1/2 x 16",
+  "availability": "Unavailable",
+  "product_name": "M13.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 13,00mm",
+    "Fitting BaerCoil taps: UNC 1/2 x 13",
+    "Fitting BaerCoil taps: UNF 1/2 x 20",
+    "Fitting BaerCoil taps: BSW 1/2 x 12",
+    "Fitting BaerCoil taps: BSF 1/2 x 16"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m11-40-baercoil-drill-bit|>
+## M11.40 BaerCoil Drill Bit
+
+{
+  "price": "€12.05",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 11,40mm\nFitting BaerCoil taps:\nM 11 x 1,5\nM 11 x 1,25",
+  "availability": "Unavailable",
+  "product_name": "M11.40 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 11.40mm",
+    "Fitting BaerCoil taps: M 11 x 1.5",
+    "Fitting BaerCoil taps: M 11 x 1.25"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m5-80-baercoil-drill-bit|>
+## M5.80 BaerCoil Drill Bit
+
+{
+  "price": "€2.22",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 5,80mm\nFitting BaerCoil taps:\nUNC 12 x 24\nBSF 7/32 x 28",
+  "availability": "Unavailable",
+  "product_name": "M5.80 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 5.80mm",
+    "Fitting BaerCoil taps: UNC 12 x 24",
+    "Fitting BaerCoil taps: BSF 7/32 x 28"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m4-50-baercoil-drill-bit|>
+## M4.50 BaerCoil Drill Bit
+
+{
+  "price": "€1.49",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 4,50mm\nFitting BaerCoil taps: UNF 8 x 36",
+  "availability": "Unavailable",
+  "product_name": "M4.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 4.50mm",
+    "Fitting BaerCoil taps: UNF 8 x 36",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m36-50-baercoil-drill-bit|>
+## M36.50 BaerCoil Drill Bit
+
+{
+  "price": "€219.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 36,50mm. Fitting BaerCoil taps: M 36 x 3,0, M 36 x 2,0, M 36 x 1,5.",
+  "availability": "Unavailable",
+  "product_name": "M36.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 36,50mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: M 36 x 3,0",
+    "Fitting BaerCoil taps: M 36 x 2,0",
+    "Fitting BaerCoil taps: M 36 x 1,5"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m33-50-baercoil-drill-bit|>
+## M33.50 BaerCoil Drill Bit
+
+{
+  "price": "€210.30",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 33,50mm. Fitting BaerCoil taps: M 33 x 2,0",
+  "availability": "Unavailable",
+  "product_name": "M33.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 33,50mm",
+    "Fitting BaerCoil taps: M 33 x 2,0",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m22-50-baercoil-drill-bit|>
+## M22.50 BaerCoil Drill Bit
+
+{
+  "price": "€71.68",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 22,50mm. Fitting BaerCoil taps: M 22 x 2,5, M 22 x 2,0, M 22 x 1,5, UNF 7/8 x 14, BSF 7/8 x 11.",
+  "availability": "Sold out",
+  "product_name": "M22.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 22,50mm",
+    "Fitting BaerCoil taps: M 22 x 2,5",
+    "Fitting BaerCoil taps: M 22 x 2,0",
+    "Fitting BaerCoil taps: M 22 x 1,5",
+    "Fitting BaerCoil taps: UNF 7/8 x 14",
+    "Fitting BaerCoil taps: BSF 7/8 x 11"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m36-00-baercoil-drill-bit|>
+## M36.00 BaerCoil Drill Bit
+
+{
+  "price": "€198.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 36,00mm. Fitting BaerCoil taps: UNC 1.3/8'' x 6, UNF 1.3/8'' x 12, BSW 1.3/8'' x 6, BSF 1.3/8'' x 8.",
+  "availability": "Unavailable",
+  "product_name": "M36.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 36,00mm",
+    "Fitting BaerCoil taps: UNC 1.3/8'' x 6",
+    "Fitting BaerCoil taps: UNF 1.3/8'' x 12",
+    "Fitting BaerCoil taps: BSW 1.3/8'' x 6",
+    "Fitting BaerCoil taps: BSF 1.3/8'' x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m19-50-baercoil-drill-bit|>
+## M19.50 BaerCoil Drill Bit
+
+{
+  "price": "€40.15",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 19,50mm\nFitting BaerCoil taps:\nUNF 3/4 x 16\nBSF 3/4 x 12",
+  "availability": "Unavailable",
+  "product_name": "M19.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 19.50mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: UNF 3/4 x 16, BSF 3/4 x 12"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m37-00-baercoil-drill-bit|>
+## M37.00 BaerCoil Drill Bit
+
+{
+  "price": "€252.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 37,00mm. Fitting BaerCoil taps: M 36 x 4,0",
+  "availability": "Unavailable",
+  "product_name": "M37.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 37,00mm",
+    "Fitting BaerCoil taps: M 36 x 4,0",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m32-00-baercoil-drill-bit|>
+## M32.00 BaerCoil Drill Bit
+
+{
+  "price": "€182.05",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 32,00mm. Fitting BaerCoil taps: UN 1.1/4'' x 8",
+  "availability": "Unavailable",
+  "product_name": "M32.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 32,00mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UN 1.1/4'' x 8"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m30-50-baercoil-drill-bit|>
+## M30.50 BaerCoil Drill Bit
+
+{
+  "price": "€147.60",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 30,50mm. Fitting BaerCoil taps: M 30 x 2,0, M 30 x 1,5.",
+  "availability": "Unavailable",
+  "product_name": "M30.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 30,50mm",
+    "Fitting BaerCoil taps: M 30 x 2,0",
+    "Fitting BaerCoil taps: M 30 x 1,5"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m3-30-baercoil-drll-bit|>
+## M3.30 BaerCoil Drll Bit
+
+{
+  "price": "€0.75",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 3,30mm\nFitting BaerCoil taps:\nUNF 5 x 44",
+  "availability": "Unavailable",
+  "product_name": "M3.30 BaerCoil Drll Bit",
+  "specifications": [
+    "Diameter: 3.30mm",
+    "Fitting BaerCoil taps: UNF 5 x 44",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m5-20-baercoil-drll-bit|>
+## M5.20 BaerCoil Drll Bit
+
+{
+  "price": "€1.85",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 5,20mm\nFitting BaerCoil taps:\nM 5 x 0,8\nUNC 10 x 24",
+  "availability": "Unavailable",
+  "product_name": "M5.20 BaerCoil Drll Bit",
+  "specifications": [
+    "Diameter: 5.20mm",
+    "Fitting BaerCoil taps: M 5 x 0.8",
+    "Fitting BaerCoil taps: UNC 10 x 24"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m10-30-baercoil-drill-bit|>
+## M10.30 BaerCoil Drill Bit
+
+{
+  "price": "€6.77",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 10,30mm\nFitting BaerCoil taps:\nM 10 x 1,0\nM 10 x 1,25",
+  "availability": "Unavailable",
+  "product_name": "M10.30 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 10.30mm",
+    "Fitting BaerCoil taps: M 10 x 1.0",
+    "Fitting BaerCoil taps: M 10 x 1.25",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m4-40-baercoil-drill-bit|>
+## M4.40 BaerCoil Drill Bit
+
+{
+  "price": "€1.48",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 4,40mm\nFitting BaerCoil taps: UNF 8 x 36",
+  "availability": "Unavailable",
+  "product_name": "M4.40 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 4.40mm",
+    "Fitting BaerCoil taps: UNF 8 x 36",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m12-40-baercoil-drill-bit|>
+## M12.40 BaerCoil Drill Bit
+
+{
+  "price": "€8.90",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 12,40mm\nFitting BaerCoil taps:\nM 12 x 1,75\nM 12 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M12.40 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 12.40mm",
+    "Fitting BaerCoil taps: M 12 x 1.75",
+    "Fitting BaerCoil taps: M 12 x 1.5"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m16-25-baercoil-drill-bit|>
+## BaerCoil HSS Drill Bit with morse taper 16.25 mm
+
+{
+  "price": "€99.63",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 16,25mm. Fitting BaerCoil taps: UNF 5/8 x 18, BSF 5/8 x 14.",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil HSS Drill Bit with morse taper 16.25 mm",
+  "specifications": [
+    "Diameter: 16.25 mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UNF 5/8 x 18",
+    "Fitting BaerCoil taps: BSF 5/8 x 14"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m27-50-baercoil-drill-bit|>
+## M27.50 BaerCoil Drill Bit
+
+{
+  "price": "€89.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 27,50mm. Fitting BaerCoil taps: M 27 x 2,0, M 27 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M27.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 27.50mm",
+    "Fitting BaerCoil taps: M 27 x 2.0",
+    "Fitting BaerCoil taps: M 27 x 1.5",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m29-50-baercoil-drill-bit|>
+## M29.50 BaerCoil Drill Bit
+
+{
+  "price": "€119.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 29,50mm. Fitting BaerCoil taps: UNC 1.1/8'' x 7, UNF 1.1/8'' x 12, BSW 1.1/8'' x 7, BSF 1.1/8'' x 9.",
+  "availability": "Unavailable",
+  "product_name": "M29.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 29,50mm",
+    "Morse taper; DIN 345 right",
+    "Fitting BaerCoil taps: UNC 1.1/8'' x 7",
+    "Fitting BaerCoil taps: UNF 1.1/8'' x 12",
+    "Fitting BaerCoil taps: BSW 1.1/8'' x 7",
+    "Fitting BaerCoil taps: BSF 1.1/8'' x 9"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m10-40-baercoil-drill-bit|>
+## M10.40 BaerCoil Drill Bit
+
+{
+  "price": "€5.50",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 10,40mm\nFitting BaerCoil taps: M 10 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M10.40 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 10.40mm",
+    "Fitting BaerCoil taps: M 10 x 1.5",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m18-00-baercoil-drill-bit|>
+## M18.00 BaerCoil Drill Bit
+
+{
+  "price": "€29.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 18,00mm\nFitting BaerCoil taps:\nUNC 11/16 x 11\nBSW 11/16 x 11\nBSF 11/16 x 14",
+  "availability": "Unavailable",
+  "product_name": "M18.00 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 18,00mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: UNC 11/16 x 11, BSW 11/16 x 11, BSF 11/16 x 14"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m5-10-baercoil-drill-bit|>
+## M5.10 BaerCoil Drill Bit
+
+{
+  "price": "€1.85",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nDIN 338 right\nDiameter: 5,10mm\nFitting BaerCoil taps: UNF 10 x 32",
+  "availability": "Unavailable",
+  "product_name": "M5.10 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 5.10mm",
+    "Fitting BaerCoil taps: UNF 10 x 32",
+    "DIN 338 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m42-50-baercoil-drill-bits|>
+## M42.50 BaerCoil Drill Bits
+
+{
+  "price": "€364.00",
+  "description": "BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 42,20mm. Fitting BaerCoil taps: M 42 x 2,0",
+  "availability": "Unavailable",
+  "product_name": "M42.50 BaerCoil Drill Bits",
+  "specifications": [
+    "Diameter: 42,20mm",
+    "Fitting BaerCoil taps: M 42 x 2,0",
+    "Morse taper; DIN 345 right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m20-50-baercoil-drill-bit|>
+## M20.50 BaerCoil Drill Bit
+
+{
+  "price": "€59.04",
+  "description": "BaerCoil spiral drill for BaerCoil taps\nshaft: 13mm or 16mm; DIN 338 right\nDiameter: 20,50mm\nFitting BaerCoil taps:\nM 20 x 2,5\nM 20 x 2,0\nM 20 x 1,5",
+  "availability": "Unavailable",
+  "product_name": "M20.50 BaerCoil Drill Bit",
+  "specifications": [
+    "Diameter: 20,50mm",
+    "Shaft: 13mm or 16mm",
+    "DIN 338 right",
+    "Fitting BaerCoil taps: M 20 x 2,5, M 20 x 2,0, M 20 x 1,5"
+  ]
+}
+
