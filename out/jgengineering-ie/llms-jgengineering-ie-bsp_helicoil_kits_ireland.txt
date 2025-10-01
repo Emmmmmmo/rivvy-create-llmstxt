@@ -136,24 +136,6 @@
   ]
 }
 
-<|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/test_deburring_item|>
-## Test_Deburring_Item
-
-{
-  "price": "€10.00",
-  "description": "For test purposes",
-  "availability": "Sold out",
-  "product_name": "Test_Deburring_Item",
-  "specifications": [
-    "Tax included",
-    "Backordered and will ship as soon as it is back in stock",
-    "Shipping Cost: €8.99",
-    "Free Shipping on orders over €50",
-    "Order before 2 PM for same-day shipping",
-    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
-  ]
-}
-
 <|https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/test_multiple_scraper|>
 ## Test_Multiple_Scraper
 
