@@ -441,3 +441,20 @@ jobs:
           fi
           
           echo "ElevenLabs sync completed successfully"
+          
+      - name: Commit sync state changes
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          # Check if sync state file was modified
+          if [ -n "$(git status --porcelain config/elevenlabs_sync_state.json)" ]; then
+            echo "Sync state file was updated, committing changes..."
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add config/elevenlabs_sync_state.json
+            git commit -m "Update ElevenLabs sync state after sync operation"
+            git pull --rebase origin main
+            git push origin main
+            echo "Sync state committed successfully"
+          else
+            echo "No sync state changes to commit"
+          fi
