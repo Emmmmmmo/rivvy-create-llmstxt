@@ -7843,9 +7843,9 @@
   },
   "https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/test_deburring_item": {
     "title": "Test_Deburring_Item",
-    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Tax included\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping: On orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"We partner with DPD for all deliveries, ensuring full traceability and a one-hour delivery window\"\n  ]\n}",
+    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Tax included\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"We partner with DPD for all deliveries\"\n  ]\n}",
     "shard": "bsp_helicoil_kits_ireland",
-    "updated_at": "2025-10-01T20:06:40.454461"
+    "updated_at": "2025-10-01T20:26:41.296195"
   },
   "https://www.jgengineering.ie/collections/bsp-helicoil-kits-ireland/products/test_multiple_scraper": {
     "title": "Test_Multiple_Scraper",
