@@ -3,7 +3,7 @@
   "last_updated": "2025-09-19T12:00:00Z",
   "agents": {
     "jgengineering-ie": {
-      "agent_id": "agent_1901k666bcn6evwrwe3hxn41txqe",
+      "agent_id": "agent_3001k6fy77ytfj7t3jbcwn21ag16",
       "agent_name": "JG Engineering Products Expert",
       "description": "Specialist in industrial engineering products, thread repair kits, helicoils, and engineering supplies",
       "enabled": true,
@@ -22,7 +22,7 @@
       ],
       "max_file_size_mb": 10,
       "sync_enabled": true,
-      "last_sync": "2025-09-28T22:42:20.163943"
+      "last_sync": "2025-10-01T14:17:28.911519"
     },
     "mydiy-ie": {
       "agent_id": "agent_mydiy_placeholder",
