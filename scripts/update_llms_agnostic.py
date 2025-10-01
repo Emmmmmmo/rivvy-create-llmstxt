@@ -39,6 +39,41 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+def retry_with_backoff(func, max_retries=3, initial_delay=2, backoff_multiplier=2):
+    """
+    Retry a function with exponential backoff.
+    
+    Args:
+        func: Function to retry
+        max_retries: Maximum number of retry attempts
+        initial_delay: Initial delay in seconds
+        backoff_multiplier: Multiplier for delay between retries
+    
+    Returns:
+        Function result if successful, None if all retries failed
+    """
+    delay = initial_delay
+    for attempt in range(max_retries):
+        try:
+            return func()
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code == 502:
+                if attempt < max_retries - 1:
+                    logger.warning(f"Got 502 error, retrying in {delay}s (attempt {attempt + 1}/{max_retries})")
+                    time.sleep(delay)
+                    delay *= backoff_multiplier
+                else:
+                    logger.error(f"Failed after {max_retries} attempts: {e}")
+                    raise
+            else:
+                # For non-502 errors, raise immediately
+                raise
+        except Exception as e:
+            logger.error(f"Unexpected error: {e}")
+            raise
+    return None
+
+
 class AgnosticLLMsUpdater:
     """Agnostic LLMs.txt updater that works with any configured website."""
     
@@ -584,60 +619,67 @@ class AgnosticLLMsUpdater:
             # Ensure EUR currency for proper pricing
             eur_url = self._ensure_eur_currency(url)
             
-            response = requests.post(
-                f"{self.firecrawl_base_url}/scrape",
-                headers=self.headers,
-                json={
-                    "url": eur_url,
-                    "formats": [{
-                        "type": "json",
-                        "schema": {
-                            "type": "object",
-                            "properties": {
-                                "product_name": {
-                                    "type": "string",
-                                    "description": "The name/title of the product"
+            def make_request():
+                response = requests.post(
+                    f"{self.firecrawl_base_url}/scrape",
+                    headers=self.headers,
+                    json={
+                        "url": eur_url,
+                        "formats": [{
+                            "type": "json",
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "product_name": {
+                                        "type": "string",
+                                        "description": "The name/title of the product"
+                                    },
+                                    "description": {
+                                        "type": "string", 
+                                        "description": "The main product description"
+                                    },
+                                    "price": {
+                                        "type": "string",
+                                        "description": "The current price of the product (including currency symbol)"
+                                    },
+                                    "availability": {
+                                        "type": "string",
+                                        "description": "Product availability status (e.g., 'In Stock', 'Out of Stock')"
+                                    },
+                                    "specifications": {
+                                        "type": "array",
+                                        "items": {"type": "string"},
+                                        "description": "Key product specifications or features"
+                                    }
                                 },
-                                "description": {
-                                    "type": "string", 
-                                    "description": "The main product description"
-                                },
-                                "price": {
-                                    "type": "string",
-                                    "description": "The current price of the product (including currency symbol)"
-                                },
-                                "availability": {
-                                    "type": "string",
-                                    "description": "Product availability status (e.g., 'In Stock', 'Out of Stock')"
-                                },
-                                "specifications": {
-                                    "type": "array",
-                                    "items": {"type": "string"},
-                                    "description": "Key product specifications or features"
-                                }
-                            },
-                            "required": ["product_name", "description", "price"]
-                        }
-                    }]
-                }
-            )
-            response.raise_for_status()
+                                "required": ["product_name", "description", "price"]
+                            }
+                        }]
+                    },
+                    timeout=30
+                )
+                response.raise_for_status()
+                return response
             
-            data = response.json()
-            if data.get("success") and data.get("data"):
-                extracted_data = data["data"].get("json", {})
-                
-                if extracted_data:
-                    # Use the extracted data directly as JSON content
-                    import json
-                    content = json.dumps(extracted_data, indent=2, ensure_ascii=False)
+            # Use retry logic for 502 errors
+            response = retry_with_backoff(make_request, max_retries=3, initial_delay=2)
+            
+            if response:
+                data = response.json()
+                if data.get("success") and data.get("data"):
+                    extracted_data = data["data"].get("json", {})
                     
-                    return {
-                        "url": eur_url,  # Use EUR URL for indexing
-                        "content": content,
-                        "title": extracted_data.get("product_name", ""),
-                        "scraped_at": datetime.now().isoformat()
-                    }
+                    if extracted_data:
+                        # Use the extracted data directly as JSON content
+                        import json
+                        content = json.dumps(extracted_data, indent=2, ensure_ascii=False)
+                        
+                        return {
+                            "url": eur_url,  # Use EUR URL for indexing
+                            "content": content,
+                            "title": extracted_data.get("product_name", ""),
+                            "scraped_at": datetime.now().isoformat()
+                        }
             
         except Exception as e:
             logger.error(f"Failed to extract product data from {url}: {e}")

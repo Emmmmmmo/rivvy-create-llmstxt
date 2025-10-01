@@ -423,8 +423,15 @@ jobs:
           changed_domains=$(git diff --name-only HEAD~1 | grep "^out/" | cut -d'/' -f2 | sort -u)
           
           if [ -z "$changed_domains" ]; then
-            echo "No domain changes detected, syncing all domains..."
-            python3 scripts/knowledge_base_manager.py sync
+            echo "No domain changes detected, discovering all domains..."
+            # Find all domains in out/ directory
+            for domain_dir in out/*/; do
+              if [ -d "$domain_dir" ]; then
+                domain=$(basename "$domain_dir")
+                echo "Syncing domain: $domain"
+                python3 scripts/knowledge_base_manager.py sync --domain "$domain"
+              fi
+            done
           else
             echo "Detected changes in domains: $changed_domains"
             for domain in $changed_domains; do
