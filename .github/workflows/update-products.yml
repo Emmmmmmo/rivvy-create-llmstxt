@@ -181,6 +181,18 @@ jobs:
                     ;;
                   "page_removed")
                     removed_urls+=("$page_url")
+                    
+                    # For page_removed, save diff content if available for extraction
+                    if [ -n "$diff_text" ] && [ "$diff_text" != "null" ] && [ "$diff_text" != "empty" ]; then
+                      # Create a safe filename by hashing the URL
+                      url_hash=$(echo "$page_url" | md5sum | cut -d' ' -f1)
+                      diff_file="/tmp/diff_content_${i}_${url_hash}.md"
+                      printf '%s\n' "$diff_text" > "$diff_file"
+                      echo "Saved diff content for $page_url (page_removed with diff)"
+                      
+                      # Mark this as a diff file for processing
+                      echo "$page_url" >> /tmp/diff_urls.txt
+                    fi
                     ;;
                   *)
                     echo "Unknown change type: $change_type, treating as content modification"
@@ -311,8 +323,21 @@ jobs:
                   ;;
                 "page_removed")
                   echo "Processing page removal for $domain"
-                  python3 scripts/update_llms_agnostic.py "$domain" \
-                    --removed "[\"$site_url\"]"
+                  
+                  # Check if there's diff.text for extraction
+                  if [ -n "$diff_text" ] && [ "$diff_text" != "null" ] && [ "$diff_text" != "empty" ]; then
+                    # Create temp file with diff content
+                    diff_file="/tmp/diff_content_$domain.md"
+                    printf '%s\n' "$diff_text" > "$diff_file"
+                    echo "Using diff extraction for removed products"
+                    
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --removed "[\"$site_url\"]" \
+                      --diff-file "$diff_file"
+                  else
+                    python3 scripts/update_llms_agnostic.py "$domain" \
+                      --removed "[\"$site_url\"]"
+                  fi
                   ;;
                 *)
                   echo "Unknown change type: $change_type, treating as content modification"

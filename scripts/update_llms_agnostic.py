@@ -244,33 +244,44 @@ class AgnosticLLMsUpdater:
             logger.error(f"Failed to map website: {e}")
             return []
     
-    def _extract_product_url_from_diff(self, diff_text: str) -> List[str]:
+    def _extract_product_url_from_diff(self, diff_text: str, removed_only: bool = False) -> List[str]:
         """
         Extract product URLs from a category page diff.
         When new products are added to a category page, extract all product URLs.
-        ONLY extracts URLs from ADDED lines (starting with +) to avoid existing products.
+        By default, ONLY extracts URLs from ADDED lines (starting with +) to avoid existing products.
+        If removed_only=True, extracts URLs from REMOVED lines (starting with -) instead.
         Returns a list of all valid product URLs found in the diff.
         """
         try:
-            logger.info("Extracting product URLs from category page diff")
+            if removed_only:
+                logger.info("Extracting REMOVED product URLs from category page diff")
+            else:
+                logger.info("Extracting ADDED product URLs from category page diff")
             
             # Image extensions to exclude
             image_extensions = ('.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg', '.ico')
             
-            # Split diff into lines and only process ADDED lines (start with +)
-            added_lines = []
-            for line in diff_text.split('\n'):
-                if line.startswith('+') and not line.startswith('++'):  # + but not +++ (file marker)
-                    added_lines.append(line[1:])  # Remove the + prefix
+            # Split diff into lines and process ADDED or REMOVED lines
+            target_lines = []
+            if removed_only:
+                # Process REMOVED lines (start with -)
+                for line in diff_text.split('\n'):
+                    if line.startswith('-') and not line.startswith('---'):  # - but not --- (file marker)
+                        target_lines.append(line[1:])  # Remove the - prefix
+            else:
+                # Process ADDED lines (start with +)
+                for line in diff_text.split('\n'):
+                    if line.startswith('+') and not line.startswith('+++'):  # + but not +++ (file marker)
+                        target_lines.append(line[1:])  # Remove the + prefix
             
-            # Rejoin added lines for processing
-            added_content = '\n'.join(added_lines)
-            logger.debug(f"Extracted {len(added_lines)} added lines from diff")
+            # Rejoin lines for processing
+            content = '\n'.join(target_lines)
+            logger.debug(f"Extracted {len(target_lines)} {'removed' if removed_only else 'added'} lines from diff")
             
-            # Look for product URLs in the ADDED content only
+            # Look for product URLs in the target content (added or removed)
             # Pattern matches URLs like: https://domain.com/collections/.../products/product-name
             product_url_pattern = r'https?://[^\s\)]+/products/[^\s\)\]"\'>]+'
-            matches = re.findall(product_url_pattern, added_content)
+            matches = re.findall(product_url_pattern, content)
             
             all_valid_urls = []
             
@@ -1304,14 +1315,39 @@ class AgnosticLLMsUpdater:
         
         elif operation == "removed":
             # Remove URLs
-            for url in urls:
+            for i, url in enumerate(urls):
                 logger.info(f"Removing: {url}")
-                normalized_url = self._normalize_url(url)
-                if normalized_url in self.url_index:
-                    shard_key = self.url_index[normalized_url]["shard"]
-                    touched_shards.add(shard_key)
-                self._remove_url_data(url)
-                processed_count += 1
+                
+                # Check if this is a category page and we have diff extraction enabled
+                is_category_page = '/products/' not in url.lower()
+                content_to_use = pre_scraped_content if i == 0 and pre_scraped_content else None
+                
+                if is_category_page and self.use_diff_extraction and content_to_use:
+                    # This is a category page diff - extract the REMOVED product URLs from it
+                    logger.info(f"Detected category page removal with diff: {url}")
+                    removed_product_urls = self._extract_product_url_from_diff(content_to_use, removed_only=True)
+                    
+                    if removed_product_urls:
+                        logger.info(f"Found {len(removed_product_urls)} product URLs to remove: {removed_product_urls}")
+                        # Get shard key from category URL
+                        shard_key = self._get_shard_key_from_category_url(url)
+                        touched_shards.add(shard_key)
+                        
+                        # Remove each extracted product URL
+                        for product_url in removed_product_urls:
+                            logger.info(f"Removing product URL: {product_url}")
+                            self._remove_url_data(product_url)
+                            processed_count += 1
+                    else:
+                        logger.warning("Could not extract removed product URLs from diff")
+                else:
+                    # Direct product URL removal or no diff extraction
+                    normalized_url = self._normalize_url(url)
+                    if normalized_url in self.url_index:
+                        shard_key = self.url_index[normalized_url]["shard"]
+                        touched_shards.add(shard_key)
+                    self._remove_url_data(url)
+                    processed_count += 1
         
         # Write shard files for all touched shards
         for shard_key in touched_shards:
