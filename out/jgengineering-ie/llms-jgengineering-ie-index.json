@@ -6945,7 +6945,7 @@
     "title": "Test_Deburring_Item",
     "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Backordered and will ship as soon as it is back in stock.\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\"\n  ]\n}",
     "shard": "baercoil_inserting_tools_ireland",
-    "updated_at": "2025-10-01T18:27:24.135095"
+    "updated_at": "2025-10-01T18:38:31.866487"
   },
   "https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m27-50-baercoil-drill-bit": {
     "title": "M27.50 BaerCoil Drill Bit",
@@ -7803,6 +7803,6 @@
     "title": "Test_Multiple_Scraper",
     "markdown": "{\n  \"price\": \"€25.00\",\n  \"description\": \"Test_Multiple_Scraper is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Multiple_Scraper\",\n  \"specifications\": [\n    \"Unit price / Unavailable\",\n    \"Tax included\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping: On orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"We partner with DPD for all deliveries, ensuring full traceability and a one-hour delivery window.\"\n  ]\n}",
     "shard": "baercoil_inserting_tools_ireland",
-    "updated_at": "2025-10-01T18:27:32.890604"
+    "updated_at": "2025-10-01T18:38:38.152065"
   }
 }
