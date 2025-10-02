@@ -23,7 +23,7 @@ add_collection() {
         -d "{
             \"url\": \"$url\",
             \"type\": \"scrape\",
-            \"checkInterval\": 60,
+            \"checkInterval\": 1440,
             \"webhook\": \"$WEBHOOK_URL\",
             \"name\": \"$name\"
         }")
@@ -80,7 +80,7 @@ add_collection "https://www.jgengineering.ie/collections/vendors" "JG Engineerin
 
 echo "🎉 All jgengineering.ie collection URLs have been added to the observer!"
 echo "📊 Total collections monitored: 27"
-echo "🔄 Check interval: 60 minutes"
+echo "🔄 Check interval: 24 hours (1440 minutes)"
 echo "🔗 Webhook: GitHub repository dispatches"
 echo ""
 echo "Next steps:"

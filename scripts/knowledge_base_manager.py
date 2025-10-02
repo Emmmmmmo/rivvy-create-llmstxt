@@ -212,13 +212,18 @@ class ElevenLabsKnowledgeBaseManager:
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
             
-            # Prepare upload data
+            # Prepare upload data with custom filename
             files = {
                 'file': (filename, content, 'text/plain')
             }
             
+            # Use the filename as the document name in ElevenLabs
+            data = {
+                'name': filename
+            }
+            
             upload_url = f"{self.base_url}/knowledge-base/file"
-            response = requests.post(upload_url, headers=self.headers, files=files)
+            response = requests.post(upload_url, headers=self.headers, files=files, data=data)
             
             if response.status_code in [200, 201]:
                 data = response.json()
