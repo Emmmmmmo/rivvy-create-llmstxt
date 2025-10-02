@@ -24,6 +24,14 @@ jobs:
           echo "Run number: ${{ github.run_number }}"
           
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+      
+      - name: Pull latest changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull --rebase origin main || echo "Already up to date"
       
       - name: Setup Python
         uses: actions/setup-python@v4
