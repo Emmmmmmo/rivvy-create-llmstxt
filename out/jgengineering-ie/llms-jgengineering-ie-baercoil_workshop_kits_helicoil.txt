@@ -170,19 +170,3 @@
   ]
 }
 
-<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_multiple_scraper|>
-## Test_Multiple_Scraper
-
-{
-  "price": "€25.00",
-  "description": "Test_Multiple_Scraper is backordered and will ship as soon as it is back in stock.",
-  "availability": "Sold out",
-  "product_name": "Test_Multiple_Scraper",
-  "specifications": [
-    "Shipping Cost: €8.99",
-    "Free Shipping on orders over €50",
-    "Order before 2 PM for same-day shipping",
-    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
-  ]
-}
-
