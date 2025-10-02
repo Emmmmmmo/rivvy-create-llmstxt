@@ -13,7 +13,7 @@
 
 ### ✅ Observer Setup
 - [ ] **27 collection URLs monitored** - ✅ WORKED (24-hour intervals)
-- [ ] **Test collection added** - ✅ WORKED (`ba-helicoil-kits-ireland` with 5-minute intervals)
+- [ ] **Test collection added** - ✅ WORKED (`baercoil-inserting-tools-ireland` with 5-minute intervals)
 
 ---
 
@@ -21,8 +21,8 @@
 
 ### Test 1: Add Product
 **Steps:**
-1. Add test product to: `https://www.jgengineering.ie/collections/ba-helicoil-kits-ireland`
-2. Wait for observer detection (within 24 hours)
+1. Add test product to: `https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland`
+2. Wait for observer detection (within 5 minutes)
 3. Check GitHub Actions logs
 4. Verify ElevenLabs document updated
 
@@ -40,7 +40,7 @@
 ### Test 2: Remove Product
 **Steps:**
 1. Remove test product from collection
-2. Wait for observer detection (within 24 hours)
+2. Wait for observer detection (within 5 minutes)
 3. Check GitHub Actions logs
 4. Verify ElevenLabs document updated
 
