@@ -78,38 +78,3 @@
   ]
 }
 
-<|https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/test_multiple_scraper|>
-## Test_Multiple_Scraper
-
-{
-  "price": "€25.00",
-  "description": "Test_Multiple_Scraper is backordered and will ship as soon as it is back in stock.",
-  "availability": "Sold out",
-  "product_name": "Test_Multiple_Scraper",
-  "specifications": [
-    "Unit price / Unavailable",
-    "Tax included",
-    "Shipping Cost: €8.99",
-    "Free Shipping: On orders over €50",
-    "Order before 2 PM for same-day shipping",
-    "We partner with DPD for all deliveries, ensuring full traceability and a one-hour delivery window."
-  ]
-}
-
-<|https://www.jgengineering.ie/collections/unf-baerfix-thread-repair-kits-like-timeserts/products/test_deburring_item|>
-## Test_Deburring_Item
-
-{
-  "price": "€10.00",
-  "description": "For test purposes",
-  "availability": "Sold out",
-  "product_name": "Test_Deburring_Item",
-  "specifications": [
-    "Backordered and will ship as soon as it is back in stock",
-    "Shipping Cost: €8.99",
-    "Free Shipping on orders over €50",
-    "Order before 2 PM for same-day shipping",
-    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
-  ]
-}
-
