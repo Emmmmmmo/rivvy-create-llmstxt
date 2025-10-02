@@ -645,49 +645,56 @@ class AgnosticLLMsUpdater:
             eur_url = self._ensure_eur_currency(url)
             
             def make_request():
-                response = requests.post(
-                    f"{self.firecrawl_base_url}/scrape",
-                    headers=self.headers,
-                    json={
-                        "url": eur_url,
-                        "formats": [{
-                            "type": "json",
-                            "schema": {
-                                "type": "object",
-                                "properties": {
-                                    "product_name": {
-                                        "type": "string",
-                                        "description": "The name/title of the product"
+                try:
+                    response = requests.post(
+                        f"{self.firecrawl_base_url}/scrape",
+                        headers=self.headers,
+                        json={
+                            "url": eur_url,
+                            "formats": [{
+                                "type": "json",
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "product_name": {
+                                            "type": "string",
+                                            "description": "The name/title of the product"
+                                        },
+                                        "description": {
+                                            "type": "string", 
+                                            "description": "The main product description"
+                                        },
+                                        "price": {
+                                            "type": "string",
+                                            "description": "The current price of the product (including currency symbol)"
+                                        },
+                                        "availability": {
+                                            "type": "string",
+                                            "description": "Product availability status (e.g., 'In Stock', 'Out of Stock')"
+                                        },
+                                        "specifications": {
+                                            "type": "array",
+                                            "items": {"type": "string"},
+                                            "description": "Key product specifications or features"
+                                        }
                                     },
-                                    "description": {
-                                        "type": "string", 
-                                        "description": "The main product description"
-                                    },
-                                    "price": {
-                                        "type": "string",
-                                        "description": "The current price of the product (including currency symbol)"
-                                    },
-                                    "availability": {
-                                        "type": "string",
-                                        "description": "Product availability status (e.g., 'In Stock', 'Out of Stock')"
-                                    },
-                                    "specifications": {
-                                        "type": "array",
-                                        "items": {"type": "string"},
-                                        "description": "Key product specifications or features"
-                                    }
-                                },
-                                "required": ["product_name", "description", "price"]
-                            }
-                        }]
-                    },
-                    timeout=30
-                )
-                response.raise_for_status()
-                return response
+                                    "required": ["product_name", "description", "price"]
+                                }
+                            }]
+                        },
+                        timeout=60  # Increased timeout from 30 to 60 seconds
+                    )
+                    response.raise_for_status()
+                    return response
+                except requests.exceptions.Timeout:
+                    logger.warning(f"Timeout scraping {eur_url}, will retry...")
+                    return None  # Return None to trigger retry
+                except requests.exceptions.RequestException as e:
+                    logger.warning(f"Request error scraping {eur_url}: {e}")
+                    return None  # Return None to trigger retry
             
-            # Use retry logic for 502 errors
-            response = retry_with_backoff(make_request, max_retries=3, initial_delay=2)
+            # Use retry logic with increased retries for timeouts
+            response = retry_with_backoff(make_request, max_retries=5, initial_delay=3)
             
             if response:
                 data = response.json()
