@@ -737,17 +737,35 @@ class AgnosticLLMsUpdater:
         """Remove URL data from index and manifest."""
         normalized_url = self._normalize_url(url)
         
+        logger.info(f"🗑️  Attempting to remove URL: {url}")
+        logger.info(f"   Normalized to: {normalized_url}")
+        
         if normalized_url in self.url_index:
             shard_key = self.url_index[normalized_url]["shard"]
+            logger.info(f"   Found in url_index under shard: {shard_key}")
             del self.url_index[normalized_url]
+            logger.info(f"   ✅ Removed from url_index")
             
             # Remove from manifest
-            if shard_key in self.manifest and normalized_url in self.manifest[shard_key]:
-                self.manifest[shard_key].remove(normalized_url)
+            if shard_key in self.manifest:
+                logger.info(f"   Shard '{shard_key}' exists in manifest with {len(self.manifest[shard_key])} URLs")
+                logger.info(f"   URLs in manifest for this shard: {self.manifest[shard_key]}")
                 
-                # Clean up empty shards
-                if not self.manifest[shard_key]:
-                    del self.manifest[shard_key]
+                if normalized_url in self.manifest[shard_key]:
+                    self.manifest[shard_key].remove(normalized_url)
+                    logger.info(f"   ✅ Removed from manifest (now {len(self.manifest[shard_key])} URLs remain)")
+                    
+                    # Clean up empty shards
+                    if not self.manifest[shard_key]:
+                        del self.manifest[shard_key]
+                        logger.info(f"   🗑️  Removed empty shard from manifest")
+                else:
+                    logger.warning(f"   ⚠️  URL NOT FOUND in manifest[{shard_key}]!")
+                    logger.warning(f"   This is a BUG - url_index and manifest are out of sync!")
+            else:
+                logger.warning(f"   ⚠️  Shard '{shard_key}' NOT FOUND in manifest!")
+        else:
+            logger.warning(f"   ⚠️  URL NOT FOUND in url_index!")
     
     def _write_shard_file(self, shard_key: str, urls: List[str]) -> List[str]:
         """Write shard file with content from URLs."""
