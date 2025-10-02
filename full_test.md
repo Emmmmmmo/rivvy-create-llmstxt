@@ -13,6 +13,7 @@
 
 ### ✅ Observer Setup
 - [ ] **27 collection URLs monitored** - ✅ WORKED (24-hour intervals)
+- [ ] **Test collection added** - ✅ WORKED (`ba-helicoil-kits-ireland` with 5-minute intervals)
 
 ---
 
