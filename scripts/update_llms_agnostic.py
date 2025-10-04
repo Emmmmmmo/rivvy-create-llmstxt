@@ -599,8 +599,29 @@ class AgnosticLLMsUpdater:
             
             data = response.json()
             if data.get("success") and data.get("data"):
-                content = data["data"].get("markdown", "")
-                title = data["data"].get("metadata", {}).get("title", "")
+                # Handle different response formats from Firecrawl API
+                response_data = data["data"]
+                
+                # Try to get content from different possible fields
+                content = ""
+                if "markdown" in response_data:
+                    content = response_data.get("markdown", "")
+                elif "html" in response_data:
+                    content = response_data.get("html", "")
+                elif "text" in response_data:
+                    content = response_data.get("text", "")
+                else:
+                    logger.warning(f"No content found in Firecrawl response for {url}")
+                    content = ""
+                
+                # Try to get title from different possible fields
+                title = ""
+                if "metadata" in response_data and response_data["metadata"]:
+                    title = response_data["metadata"].get("title", "")
+                elif "title" in response_data:
+                    title = response_data.get("title", "")
+                else:
+                    title = "Product"
                 
                 return {
                     "url": eur_url,  # Use EUR URL for indexing
@@ -609,6 +630,9 @@ class AgnosticLLMsUpdater:
                     "scraped_at": datetime.now().isoformat()
                 }
             
+        except KeyError as e:
+            logger.error(f"Missing expected field in Firecrawl response for category page {url}: {e}")
+            logger.debug(f"Response data structure: {data if 'data' in locals() else 'No data available'}")
         except Exception as e:
             logger.error(f"Failed to scrape category page {url}: {e}")
         
@@ -699,7 +723,8 @@ class AgnosticLLMsUpdater:
             if response:
                 data = response.json()
                 if data.get("success") and data.get("data"):
-                    extracted_data = data["data"].get("json", {})
+                    response_data = data["data"]
+                    extracted_data = response_data.get("json", {})
                     
                     if extracted_data:
                         # Use the extracted data directly as JSON content
@@ -712,7 +737,39 @@ class AgnosticLLMsUpdater:
                             "title": extracted_data.get("product_name", ""),
                             "scraped_at": datetime.now().isoformat()
                         }
+                    else:
+                        # Fallback: try to get content from other fields if JSON extraction failed
+                        logger.warning(f"JSON extraction failed for {url}, trying fallback methods")
+                        
+                        # Try to get content from markdown field
+                        content = ""
+                        if "markdown" in response_data:
+                            content = response_data.get("markdown", "")
+                        elif "html" in response_data:
+                            content = response_data.get("html", "")
+                        elif "text" in response_data:
+                            content = response_data.get("text", "")
+                        
+                        if content:
+                            # Try to get title
+                            title = ""
+                            if "metadata" in response_data and response_data["metadata"]:
+                                title = response_data["metadata"].get("title", "")
+                            elif "title" in response_data:
+                                title = response_data.get("title", "")
+                            else:
+                                title = "Product"
+                            
+                            return {
+                                "url": eur_url,
+                                "content": content,
+                                "title": title,
+                                "scraped_at": datetime.now().isoformat()
+                            }
             
+        except KeyError as e:
+            logger.error(f"Missing expected field in Firecrawl response for {url}: {e}")
+            logger.debug(f"Response data structure: {data if 'data' in locals() else 'No data available'}")
         except Exception as e:
             logger.error(f"Failed to extract product data from {url}: {e}")
         
@@ -785,12 +842,16 @@ class AgnosticLLMsUpdater:
         
         for url in urls:
             if url in self.url_index:
-                content = self.url_index[url]["markdown"]
-                title = self.url_index[url]["title"]
-                
-                # Add content with header
-                header = f"<|{url}|>\n## {title}\n\n"
-                content_with_header = header + content + "\n\n"
+                try:
+                    content = self.url_index[url].get("markdown", "")
+                    title = self.url_index[url].get("title", "Product")
+                    
+                    # Add content with header
+                    header = f"<|{url}|>\n## {title}\n\n"
+                    content_with_header = header + content + "\n\n"
+                except KeyError as e:
+                    logger.warning(f"Missing field in URL index for {url}: {e}")
+                    continue
                 
                 # Check character limit
                 if total_chars + len(content_with_header) > self.max_characters:
@@ -1327,30 +1388,52 @@ class AgnosticLLMsUpdater:
                         # Process each extracted product URL
                         logger.info(f"Processing {len(product_urls)} extracted product URLs: {product_urls}")
                         for product_url in product_urls:
-                            logger.info(f"Processing extracted product URL: {product_url}")
-                            # Don't use diff extraction for the actual product scraping
-                            scraped_data = self._scrape_url(product_url, None, is_diff=False)
-                            if scraped_data:
-                                # Use category-based shard key for all products from this category
-                                shard_key = self._get_shard_key_from_category_url(url)
-                                shard_key = self._update_url_data_with_category(product_url, scraped_data, shard_key)
-                                touched_shards.add(shard_key)
-                                processed_count += 1
+                            try:
+                                logger.info(f"Processing extracted product URL: {product_url}")
+                                # Don't use diff extraction for the actual product scraping
+                                scraped_data = self._scrape_url(product_url, None, is_diff=False)
+                                if scraped_data:
+                                    # Use category-based shard key for all products from this category
+                                    shard_key = self._get_shard_key_from_category_url(url)
+                                    shard_key = self._update_url_data_with_category(product_url, scraped_data, shard_key)
+                                    touched_shards.add(shard_key)
+                                    processed_count += 1
+                                else:
+                                    logger.warning(f"Failed to scrape product URL: {product_url}")
+                            except Exception as e:
+                                logger.error(f"Error processing product URL {product_url}: {e}")
+                                # Continue processing other URLs instead of failing completely
                             time.sleep(0.1)
                         # Skip the original category page processing since we processed individual products
                         continue
                     else:
                         # Couldn't extract product URLs, fall back to original behavior
                         logger.warning("Could not extract product URLs from diff, processing category page")
-                        scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
+                        try:
+                            scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
+                            if scraped_data:
+                                shard_key = self._update_url_data(url, scraped_data)
+                                touched_shards.add(shard_key)
+                                processed_count += 1
+                            else:
+                                logger.warning(f"Failed to scrape category page: {url}")
+                        except Exception as e:
+                            logger.error(f"Error processing category page {url}: {e}")
+                            # Continue processing other URLs instead of failing completely
                 else:
                     # Normal product page or no diff extraction
-                    scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
-                
-                if scraped_data:
-                    shard_key = self._update_url_data(url, scraped_data)
-                    touched_shards.add(shard_key)
-                    processed_count += 1
+                    try:
+                        scraped_data = self._scrape_url(url, content_to_use, is_diff=self.use_diff_extraction)
+                        
+                        if scraped_data:
+                            shard_key = self._update_url_data(url, scraped_data)
+                            touched_shards.add(shard_key)
+                            processed_count += 1
+                        else:
+                            logger.warning(f"Failed to scrape URL: {url}")
+                    except Exception as e:
+                        logger.error(f"Error processing URL {url}: {e}")
+                        # Continue processing other URLs instead of failing completely
                 
                 time.sleep(0.1)
         
@@ -1553,8 +1636,18 @@ def main():
         # Print results
         print(json.dumps(result, indent=2))
         
+    except KeyError as e:
+        logger.error(f"Missing expected field in API response: {e}")
+        logger.error("This usually indicates a change in the Firecrawl API response format")
+        sys.exit(1)
+    except requests.exceptions.RequestException as e:
+        logger.error(f"Network/API error: {e}")
+        sys.exit(1)
     except Exception as e:
         logger.error(f"Operation failed: {e}")
+        logger.error(f"Error type: {type(e).__name__}")
+        import traceback
+        logger.debug(f"Full traceback: {traceback.format_exc()}")
         sys.exit(1)
 
 
