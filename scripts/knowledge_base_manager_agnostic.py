@@ -128,15 +128,37 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         return domain.replace('www.', '').replace('.', '-')
 
     def _reconcile_sync_state_keys(self, domain: str):
-        """Merge sync_state entries across dotted and hyphenated keys into normalized key."""
+        """Merge sync_state entries across dotted and hyphenated keys into normalized key.
+
+        Preference rules when both exist for same filename:
+        - Prefer entry that has a non-empty 'document_id'
+        - Otherwise prefer entry with newer 'uploaded_at'
+        - Otherwise keep normalized version
+        """
         normalized = self._normalize_domain_key(domain)
         alt = self._alternate_domain_key(domain)
         # Nothing to do if already only normalized
         if normalized in self.sync_state and alt in self.sync_state and normalized != alt:
-            # Merge alt into normalized without losing data
-            for filename, meta in self.sync_state[alt].items():
+            # Merge alt into normalized with preference for complete entries
+            for filename, alt_meta in self.sync_state[alt].items():
                 if filename not in self.sync_state[normalized]:
-                    self.sync_state[normalized][filename] = meta
+                    self.sync_state[normalized][filename] = alt_meta
+                else:
+                    norm_meta = self.sync_state[normalized][filename]
+                    alt_doc = alt_meta.get('document_id')
+                    norm_doc = norm_meta.get('document_id')
+                    # If normalized lacks a doc id but alternate has one, take alternate
+                    if (not norm_doc) and alt_doc:
+                        self.sync_state[normalized][filename] = alt_meta
+                    else:
+                        # If both have or both lack doc id, prefer newer uploaded_at
+                        try:
+                            norm_time = norm_meta.get('uploaded_at') or ''
+                            alt_time = alt_meta.get('uploaded_at') or ''
+                            if alt_time > norm_time:
+                                self.sync_state[normalized][filename] = alt_meta
+                        except Exception:
+                            pass
             # Remove the alternate key after merge
             del self.sync_state[alt]
             # Persist merged state
