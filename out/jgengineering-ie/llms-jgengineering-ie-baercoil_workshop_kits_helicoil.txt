@@ -152,19 +152,6 @@
   ]
 }
 
-
-{
-  "price": "€10.00",
-  "availability": "Sold out",
-  "specifications": [
-    "Tax included",
-    "Backordered and will ship as soon as it is back in stock",
-    "Shipping Cost: €8.99",
-    "Free Shipping on orders over €50",
-    "Order before 2 PM for same-day shipping"
-  ]
-}
-
 <|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/m6-m14-x-1-5-baercoil-workshop-kit-helicoil|>
 ## M6 - M14 X 1.5 BaerCoil Workshop Kit (Helicoil Type)
 
@@ -180,6 +167,24 @@
     "Includes BaerCoil Inserting Tool",
     "Includes BaerCoil Tang Break Tool",
     "Wire Thread Inserts - lengths: 1.5 D - 2.5 D"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/baer_workshop|>
+## Baer_workshop
+
+{
+  "price": "€50.00",
+  "description": "Baer_workshop is backordered and will ship as soon as it is back in stock.",
+  "availability": "Sold out",
+  "product_name": "Baer_workshop",
+  "specifications": [
+    "Unit price / Unavailable",
+    "Tax included",
+    "Shipping Cost: €8.99",
+    "Free Shipping: On orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "We partner with DPD for all deliveries, ensuring full traceability and a one-hour delivery window."
   ]
 }
 
