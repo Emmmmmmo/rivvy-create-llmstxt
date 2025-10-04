@@ -7774,5 +7774,11 @@
     "markdown": "{\n  \"price\": \"€3.60\",\n  \"description\": \"Internal Circlips: The most common form of axially fitted circlips for bores with grooves. The circlip has a large free diameter and gap width, consequently it fits more tightly into the groove and provides higher and more uniform thrust load capacity. Lugs with holes are provided for rapid fitting or removal with circlip pliers. Standard material: Carbon Spring Steel - Standard Finish: Phosphate and Oil. Benefits: Cost effective replacement, durable, removable. 1. Printing and precision applications 2. Pharmaceutical and food industry 3. Gearboxes and differentials 4. Light and heavy industrial use 5. General engineering applications 6. Great Quality parts shipped the same day\",\n  \"availability\": \"Unavailable\",\n  \"product_name\": \"8mm Internal Circlip Carbon Black\",\n  \"specifications\": [\n    \"Pack Size: Pack of 2, Pack of 5, Pack of 10, Pack of 50, Pack of 100\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\"\n  ]\n}",
     "shard": "internal_circlips_carbon_black",
     "updated_at": "2025-10-01T13:17:49.037435"
+  },
+  "https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/bottomingtap_test": {
+    "title": "Bottomingtap_TEST",
+    "markdown": "{\n  \"price\": \"€15.00\",\n  \"description\": \"Bottomingtap_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Bottomingtap_TEST\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
+    "shard": "baercoil_bottoming_taps_metric_helicoil",
+    "updated_at": "2025-10-04T21:53:11.413513"
   }
 }
