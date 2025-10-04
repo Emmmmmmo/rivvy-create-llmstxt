@@ -56,7 +56,7 @@
     "Shipping Cost: €8.99",
     "Free Shipping on orders over €50",
     "Order before 2 PM for same-day shipping",
-    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+    "We partner with DPD for all deliveries"
   ]
 }
 
