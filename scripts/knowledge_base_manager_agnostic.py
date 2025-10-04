@@ -223,6 +223,13 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         """Upload LLMs.txt files to ElevenLabs knowledge base for a domain."""
         logger.info(f"Uploading files for domain: {domain}")
         
+        # Debug: Log sync state info
+        logger.info(f"Sync state file exists: {self.sync_state_file.exists()}")
+        logger.info(f"Sync state file size: {self.sync_state_file.stat().st_size if self.sync_state_file.exists() else 0}")
+        logger.info(f"Domain in sync state: {domain in self.sync_state}")
+        if domain in self.sync_state:
+            logger.info(f"Files in sync state for {domain}: {len(self.sync_state[domain])}")
+        
         # Reconcile sync-state keys so dotted/hyphenated domains don't duplicate uploads
         try:
             self._reconcile_sync_state_keys(domain)
@@ -272,10 +279,20 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                 if not force and domain in self.sync_state:
                     if file_path.name in self.sync_state[domain]:
                         stored_hash = self.sync_state[domain][file_path.name].get('hash')
+                        logger.info(f"File {file_path.name}: stored_hash={stored_hash}, current_hash={file_hash}")
                         if stored_hash == file_hash:
                             logger.info(f"Skipping unchanged file: {file_path.name}")
                             skipped_count += 1
                             continue
+                        else:
+                            logger.info(f"File changed, will upload: {file_path.name}")
+                    else:
+                        logger.info(f"File not in sync state, will upload: {file_path.name}")
+                else:
+                    if force:
+                        logger.info(f"Force upload enabled, will upload: {file_path.name}")
+                    else:
+                        logger.info(f"Domain not in sync state, will upload: {file_path.name}")
                         
                         # File has changed - DELETE OLD VERSION FIRST
                         old_document_id = self.sync_state[domain][file_path.name].get('document_id')
