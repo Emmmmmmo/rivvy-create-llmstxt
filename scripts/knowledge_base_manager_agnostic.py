@@ -104,6 +104,48 @@ class AgnosticElevenLabsKnowledgeBaseManager:
             logger.warning(f"Error loading sync state: {e}")
         return {}
     
+    def _normalize_domain_key(self, domain: str) -> str:
+        """Normalize domain keys to hyphenated form used in out/ directory.
+
+        Examples:
+        - "www.example.com" -> "example-com"
+        - "example.com" -> "example-com"
+        - "example-com" -> "example-com"
+        """
+        if not domain:
+            return domain
+        normalized = domain.replace('www.', '').replace('.', '-')
+        return normalized
+
+    def _alternate_domain_key(self, domain: str) -> str:
+        """Return the alternate representation (dot <-> hyphen) for reconciliation."""
+        if not domain:
+            return domain
+        if '-' in domain and '.' not in domain:
+            # hyphen -> dotted
+            return domain.replace('-', '.')
+        # dotted (or mixed) -> hyphen
+        return domain.replace('www.', '').replace('.', '-')
+
+    def _reconcile_sync_state_keys(self, domain: str):
+        """Merge sync_state entries across dotted and hyphenated keys into normalized key."""
+        normalized = self._normalize_domain_key(domain)
+        alt = self._alternate_domain_key(domain)
+        # Nothing to do if already only normalized
+        if normalized in self.sync_state and alt in self.sync_state and normalized != alt:
+            # Merge alt into normalized without losing data
+            for filename, meta in self.sync_state[alt].items():
+                if filename not in self.sync_state[normalized]:
+                    self.sync_state[normalized][filename] = meta
+            # Remove the alternate key after merge
+            del self.sync_state[alt]
+            # Persist merged state
+            self._save_sync_state()
+        elif normalized not in self.sync_state and alt in self.sync_state:
+            # Rename alt to normalized
+            self.sync_state[normalized] = self.sync_state.pop(alt)
+            self._save_sync_state()
+
     def _save_sync_state(self):
         """Save sync state to file."""
         try:
@@ -124,16 +166,28 @@ class AgnosticElevenLabsKnowledgeBaseManager:
             return ""
     
     def _get_agent_for_domain(self, domain: str) -> Optional[Dict]:
-        """Get agent configuration for a specific domain."""
-        # First try to get from site configuration
-        elevenlabs_agent = self.site_config_manager.get_elevenlabs_agent(domain)
-        if elevenlabs_agent:
-            agents = self.config.get('agents', {})
-            return agents.get(elevenlabs_agent)
-        
-        # Fallback to direct domain lookup
+        """Get agent configuration for a specific domain, trying both dotted and hyphenated forms."""
         agents = self.config.get('agents', {})
-        return agents.get(domain)
+        # Try site configuration mapping with original
+        elevenlabs_agent = self.site_config_manager.get_elevenlabs_agent(domain)
+        if elevenlabs_agent and elevenlabs_agent in agents:
+            return agents.get(elevenlabs_agent)
+        # Try with normalized (hyphen)
+        normalized = self._normalize_domain_key(domain)
+        if normalized != domain:
+            elevenlabs_agent = self.site_config_manager.get_elevenlabs_agent(normalized)
+            if elevenlabs_agent and elevenlabs_agent in agents:
+                return agents.get(elevenlabs_agent)
+        # Try with dotted (alternate)
+        dotted = self._alternate_domain_key(normalized)
+        if dotted and dotted in agents:
+            return agents.get(dotted)
+        # Direct lookups
+        if domain in agents:
+            return agents.get(domain)
+        if normalized in agents:
+            return agents.get(normalized)
+        return None
     
     def _get_llms_files(self, domain_dir: Path) -> List[Path]:
         """Get all LLMs.txt files for a domain."""
@@ -146,6 +200,12 @@ class AgnosticElevenLabsKnowledgeBaseManager:
     def upload_files(self, domain: str, force: bool = False) -> Dict[str, Any]:
         """Upload LLMs.txt files to ElevenLabs knowledge base for a domain."""
         logger.info(f"Uploading files for domain: {domain}")
+        
+        # Reconcile sync-state keys so dotted/hyphenated domains don't duplicate uploads
+        try:
+            self._reconcile_sync_state_keys(domain)
+        except Exception as e:
+            logger.warning(f"Failed to reconcile sync state keys for {domain}: {e}")
         
         # Get agent configuration
         agent_config = self._get_agent_for_domain(domain)
@@ -226,7 +286,8 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                     
                     if response.status_code == 200:
                         result = response.json()
-                        document_id = result.get('document_id')
+                        # API may return either 'document_id' or 'id'
+                        document_id = result.get('document_id') or result.get('id')
                         
                         # Update sync state
                         if domain not in self.sync_state:
