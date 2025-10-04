@@ -307,7 +307,11 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                 agent_config = self._get_agent_for_domain(domain)
                 if agent_config:
                     agent_id = agent_config.get('agent_id')
-                    all_documents = [doc for doc in all_documents if doc.get('agent_id') == agent_id]
+                    # Check if document is assigned to this agent via dependent_agents array
+                    all_documents = [
+                        doc for doc in all_documents 
+                        if any(agent.get('id') == agent_id for agent in doc.get('dependent_agents', []))
+                    ]
             
             return {
                 "total_documents": len(all_documents),
