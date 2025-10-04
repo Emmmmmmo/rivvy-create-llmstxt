@@ -478,7 +478,7 @@ jobs:
               if [ -d "$domain_dir" ]; then
                 domain=$(basename "$domain_dir")
                 echo "Syncing domain: $domain"
-                python3 scripts/knowledge_base_manager.py sync --domain "$domain"
+                python3 scripts/knowledge_base_manager_agnostic.py sync --domain "$domain"
               fi
             done
           else
