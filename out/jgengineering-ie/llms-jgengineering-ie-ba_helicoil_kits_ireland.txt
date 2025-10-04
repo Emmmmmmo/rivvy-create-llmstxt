@@ -81,3 +81,21 @@
   ]
 }
 
+<|https://www.jgengineering.ie/collections/ba-helicoil-kits-ireland/products/ba_baercoil_test|>
+## BA_Baercoil_TEST
+
+{
+  "price": "€5.00",
+  "description": "BA_Baercoil_TEST is backordered and will ship as soon as it is back in stock.",
+  "availability": "Sold out",
+  "product_name": "BA_Baercoil_TEST",
+  "specifications": [
+    "Unit price / Unavailable",
+    "Tax included",
+    "Shipping Cost: €8.99",
+    "Free Shipping: On orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "We partner with DPD for all deliveries, ensuring full traceability and a one-hour delivery window."
+  ]
+}
+

@@ -169,7 +169,6 @@
   ]
 }
 
-
 <|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm12|>
 ## BaerCoil Inserting Tool M 12
 
@@ -190,5 +189,4 @@
     "Adapted for BSB: BSB 1/2 x 26"
   ]
 }
-
 
