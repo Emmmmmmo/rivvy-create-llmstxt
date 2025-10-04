@@ -260,39 +260,59 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         }
     
     def list_documents(self, domain: Optional[str] = None, sort_by: str = "created_at", sort_direction: str = "desc") -> Dict[str, Any]:
-        """List documents in the knowledge base."""
-        logger.info("Listing documents in knowledge base")
+        """List documents in the knowledge base with proper pagination."""
+        logger.info("Listing documents in knowledge base with pagination")
         
         try:
-            params = {
-                'sort_by': sort_by,
-                'sort_direction': sort_direction
-            }
+            all_documents = []
+            cursor = None
+            page_size = 100  # Use larger page size to reduce API calls
             
-            # Try the original base URL first
-            response = requests.get(
-                f"{self.base_url}/knowledge-base",
-                headers=self.headers,
-                params=params
-            )
-            
-            if response.status_code == 200:
-                data = response.json()
-                documents = data.get('documents', [])
-                
-                # Filter by domain if specified
-                if domain:
-                    agent_config = self._get_agent_for_domain(domain)
-                    if agent_config:
-                        agent_id = agent_config.get('agent_id')
-                        documents = [doc for doc in documents if doc.get('agent_id') == agent_id]
-                
-                return {
-                    "total_documents": len(documents),
-                    "documents": documents
+            while True:
+                params = {
+                    'sort_by': sort_by,
+                    'sort_direction': sort_direction,
+                    'page_size': page_size
                 }
-            else:
-                return {"error": f"Failed to list documents: {response.status_code} - {response.text}"}
+                
+                if cursor:
+                    params['cursor'] = cursor
+                
+                logger.info(f"Fetching page with cursor: {cursor}")
+                
+                response = requests.get(
+                    f"{self.base_url}/knowledge-base",
+                    headers=self.headers,
+                    params=params
+                )
+                
+                if response.status_code == 200:
+                    data = response.json()
+                    documents = data.get('documents', [])
+                    all_documents.extend(documents)
+                    
+                    # Check if there are more pages
+                    cursor = data.get('cursor')
+                    if not cursor or len(documents) < page_size:
+                        break
+                        
+                    logger.info(f"Fetched {len(documents)} documents, total so far: {len(all_documents)}")
+                else:
+                    return {"error": f"Failed to list documents: {response.status_code} - {response.text}"}
+            
+            logger.info(f"Total documents fetched: {len(all_documents)}")
+            
+            # Filter by domain if specified
+            if domain:
+                agent_config = self._get_agent_for_domain(domain)
+                if agent_config:
+                    agent_id = agent_config.get('agent_id')
+                    all_documents = [doc for doc in all_documents if doc.get('agent_id') == agent_id]
+            
+            return {
+                "total_documents": len(all_documents),
+                "documents": all_documents
+            }
                 
         except Exception as e:
             return {"error": f"Error listing documents: {e}"}
@@ -476,25 +496,42 @@ class AgnosticElevenLabsKnowledgeBaseManager:
             return False
     
     def _get_all_knowledge_base_documents(self) -> List[Dict]:
-        """Get all documents from the global knowledge base."""
+        """Get all documents from the global knowledge base with pagination."""
         try:
-            logger.info("Fetching all knowledge base documents...")
+            logger.info("Fetching all knowledge base documents with pagination...")
             
-            # Use the original base URL for knowledge base operations
-            response = requests.get(
-                f"{self.base_url}/knowledge-base",
-                headers=self.headers,
-                timeout=30
-            )
+            all_documents = []
+            cursor = None
+            page_size = 100
             
-            if response.status_code != 200:
-                raise Exception(f"Failed to get knowledge base: {response.status_code} - {response.text}")
+            while True:
+                params = {'page_size': page_size}
+                if cursor:
+                    params['cursor'] = cursor
+                
+                response = requests.get(
+                    f"{self.base_url}/knowledge-base",
+                    headers=self.headers,
+                    params=params,
+                    timeout=30
+                )
+                
+                if response.status_code != 200:
+                    raise Exception(f"Failed to get knowledge base: {response.status_code} - {response.text}")
+                
+                data = response.json()
+                documents = data.get('documents', [])
+                all_documents.extend(documents)
+                
+                # Check if there are more pages
+                cursor = data.get('cursor')
+                if not cursor or len(documents) < page_size:
+                    break
+                    
+                logger.info(f"Fetched {len(documents)} documents, total so far: {len(all_documents)}")
             
-            data = response.json()
-            documents = data.get('documents', [])
-            
-            logger.info(f"Found {len(documents)} total documents in knowledge base")
-            return documents
+            logger.info(f"Found {len(all_documents)} total documents in knowledge base")
+            return all_documents
             
         except Exception as e:
             logger.error(f"Error getting knowledge base documents: {e}")
@@ -588,7 +625,7 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                 "usage_mode": "auto"
             })
         
-        # Update agent's knowledge base directly (correct approach)
+        # Assign all documents at once (not in batches to avoid overwriting)
         try:
             update_payload = {
                 "conversation_config": {
@@ -606,7 +643,7 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                 "Content-Type": "application/json"
             }
             
-            logger.info(f"Updating agent {agent_id} with {len(knowledge_base)} documents")
+            logger.info(f"Updating agent {agent_id} with all {len(knowledge_base)} documents")
             
             update_response = requests.patch(
                 update_url,
@@ -616,32 +653,32 @@ class AgnosticElevenLabsKnowledgeBaseManager:
             )
             
             if update_response.status_code == 200:
-                logger.info(f"✅ Successfully assigned {len(knowledge_base)} documents to agent {agent_id}")
+                logger.info(f"✅ Successfully assigned all {len(knowledge_base)} documents to agent {agent_id}")
                 return {
                     "domain": domain,
                     "assigned_count": len(knowledge_base),
                     "error_count": 0,
                     "total_documents": len(documents),
-                    "message": "All documents assigned successfully"
+                    "message": f"All {len(knowledge_base)} documents assigned successfully"
                 }
             else:
-                logger.error(f"Failed to update agent knowledge base: {update_response.status_code} - {update_response.text}")
+                logger.error(f"❌ Failed to assign documents: {update_response.status_code} - {update_response.text}")
                 return {
                     "domain": domain,
                     "assigned_count": 0,
                     "error_count": len(documents),
                     "total_documents": len(documents),
-                    "error": f"Failed to update agent: {update_response.status_code} - {update_response.text}"
+                    "error": f"Failed to assign documents: {update_response.status_code} - {update_response.text}"
                 }
                 
         except Exception as e:
-            logger.error(f"Error updating agent knowledge base: {e}")
+            logger.error(f"Error assigning documents: {e}")
             return {
                 "domain": domain,
                 "assigned_count": 0,
                 "error_count": len(documents),
                 "total_documents": len(documents),
-                "error": f"Error updating agent: {e}"
+                "error": f"Error assigning documents: {e}"
             }
     
     def sync_domain(self, domain: str, force: bool = False) -> Dict[str, Any]:
