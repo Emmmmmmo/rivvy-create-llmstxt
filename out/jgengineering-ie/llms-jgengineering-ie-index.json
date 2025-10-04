@@ -7798,5 +7798,11 @@
     "markdown": "{\n  \"price\": \"€15.00\",\n  \"description\": \"Bottomingtap_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Bottomingtap_TEST\",\n  \"specifications\": [\n    \"Unit price / Unavailable\",\n    \"Tax included\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping: On orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
     "shard": "baercoil_bottoming_taps_metric_helicoil",
     "updated_at": "2025-10-04T13:14:04.584505"
+  },
+  "https://www.jgengineering.ie/collections/baer-hand-taps/products/baer_handtaps_test": {
+    "title": "Baer_Handtaps_TEST",
+    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"Baer_Handtaps_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Baer_Handtaps_TEST\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
+    "shard": "baer_hand_taps",
+    "updated_at": "2025-10-04T13:14:23.775945"
   }
 }
