@@ -7786,5 +7786,11 @@
     "markdown": "{\n  \"price\": \"€25.00\",\n  \"description\": \"Test_Multiple_Scraper is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Multiple_Scraper\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
     "shard": "unf_helicoil_kits_ireland",
     "updated_at": "2025-10-02T19:18:47.659832"
+  },
+  "https://www.jgengineering.ie/collections/unf-helicoil-kits-ireland/products/test_deburring_item": {
+    "title": "Test_Deburring_Item",
+    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Backordered and will ship as soon as it is back in stock.\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\"\n  ]\n}",
+    "shard": "unf_helicoil_kits_ireland",
+    "updated_at": "2025-10-04T10:03:31.261065"
   }
 }
