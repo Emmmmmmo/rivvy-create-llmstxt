@@ -485,7 +485,7 @@ jobs:
             echo "Detected changes in domains: $changed_domains"
             for domain in $changed_domains; do
               echo "Syncing domain: $domain"
-              python3 scripts/knowledge_base_manager.py sync --domain "$domain"
+              python3 scripts/knowledge_base_manager_agnostic.py sync --domain "$domain"
             done
           fi
           
