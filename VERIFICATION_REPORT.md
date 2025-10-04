@@ -1,9 +1,17 @@
 # 🔍 JG Engineering Shard Verification Report
 
+> **⚠️ ARCHIVED - HISTORICAL REFERENCE ONLY**  
+> This report documents the **initial data quality verification** from October 1, 2025.  
+> **For current system status, see:** [`docs/COMPREHENSIVE_GUIDE.md`](./docs/COMPREHENSIVE_GUIDE.md) → "System Status"  
+> **For current quality procedures, see:** [`docs/COMPREHENSIVE_GUIDE.md`](./docs/COMPREHENSIVE_GUIDE.md) → "Quality Assurance"
+
 **Date:** October 1, 2025  
 **Domain:** jgengineering.ie  
 **Total Shards:** 35  
-**Total Products Scraped:** 1,300
+**Total Products Scraped:** 1,300  
+**Status:** ⚠️ **ARCHIVED - HISTORICAL REFERENCE ONLY**
+
+> **Current System Status (October 4, 2025):** 38 documents, automatic cleanup, race condition fixes, and enhanced reliability.
 
 ---
 

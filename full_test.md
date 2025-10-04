@@ -1,19 +1,31 @@
 # Simple Test Checklist - Rivvy Create LLMs.txt System
 
+> **⚠️ ARCHIVED - USE UPDATED DOCS**  
+> This file is **archived** as of October 4, 2025.  
+> **For current testing procedures, see:** [`docs/COMPREHENSIVE_GUIDE.md`](./docs/COMPREHENSIVE_GUIDE.md) → "Troubleshooting Guide"  
+> **For system health checks, see:** [`docs/README.md`](./docs/README.md) → "Quick Reference"
+
+**Version:** 2.0 (Archived)  
+**Last Updated:** October 4, 2025  
+**Status:** ⚠️ **ARCHIVED - SUPERSEDED BY COMPREHENSIVE DOCS**
+
 ## 📋 Current System Status
 
 ### ✅ ElevenLabs Knowledge Base
-- [ ] **37 documents uploaded** - ✅ WORKED
+- [ ] **38 documents uploaded** - ✅ WORKED (Updated Oct 4, 2025)
 - [ ] **Proper filenames** - ✅ WORKED (e.g., `llms-jgengineering-ie-ba_helicoil_kits_ireland.txt`)
 - [ ] **All documents assigned to agent** - ✅ WORKED (`agent_3001k6fy77ytfj7t3jbcwn21ag16`)
+- [ ] **Automatic cleanup working** - ✅ WORKED (Old versions automatically deleted)
 
 ### ✅ Sync State
 - [ ] **Clean sync state** - ✅ WORKED (`config/elevenlabs_sync_state.json` is clean)
 - [ ] **Git committed** - ✅ WORKED (all changes pushed to main)
+- [ ] **Race condition fixes** - ✅ WORKED (No more concurrent workflow conflicts)
 
 ### ✅ Observer Setup
-- [ ] **27 collection URLs monitored** - ✅ WORKED (24-hour intervals)
-- [ ] **Test collection added** - ✅ WORKED (`baercoil-inserting-tools-ireland` with 5-minute intervals)
+- [ ] **Collection URLs monitored** - ✅ WORKED (Multiple collections with different intervals)
+- [ ] **Test collections added** - ✅ WORKED (Multiple test collections for validation)
+- [ ] **Duplicate prevention** - ✅ WORKED (Script checks for existing URLs)
 
 ---
 
