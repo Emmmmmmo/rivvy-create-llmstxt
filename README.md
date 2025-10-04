@@ -1,8 +1,20 @@
 # Rivvy Create LLMs.txt - Agnostic Scraping System
 
-**Status:** ✅ **FULLY OPERATIONAL** | **Version:** 3.1 (Production-Ready with Quality Fixes) | **Last Updated:** October 1, 2025
+**Status:** ✅ **FULLY OPERATIONAL** | **Version:** 4.0 (Production-Ready with Race Condition Fixes) | **Last Updated:** October 4, 2025
 
 Automatically generate and maintain LLMs.txt files for unlimited websites with **agnostic scraping capabilities** and integrated ElevenLabs RAG (Retrieval Augmented Generation). The system automatically adapts to different website structures, URL patterns, and categorization schemes without requiring code changes.
+
+## 📚 Documentation
+
+**Complete documentation is available in the [`docs/`](./docs/) folder:**
+
+- **[📖 Comprehensive Guide](./docs/COMPREHENSIVE_GUIDE.md)** - Complete system documentation and troubleshooting
+- **[🔧 Restoration Guide](./docs/RESTORATION_GUIDE.md)** - System restoration and recovery procedures  
+- **[⚙️ Technical Fixes](./docs/TECHNICAL_FIXES_DOCUMENTATION.md)** - Detailed technical implementation
+- **[🤖 ElevenLabs Integration](./docs/ELEVENLABS_DOCUMENT_MANAGEMENT.md)** - RAG and knowledge base management
+- **[🏗️ Setup Process](./docs/FOUNDATION_SETUP_PROCESS.md)** - Initial system setup guide
+
+**Quick Start**: See [docs/README.md](./docs/README.md) for documentation overview and quick reference.
 
 ## 🚀 Overview
 
@@ -17,6 +29,9 @@ This production-ready system provides fully automated LLMs.txt file generation a
 - **ElevenLabs RAG Integration**: ⭐ **Enhanced** with automatic old version cleanup and RAG verification
 - **Change Detection**: Powered by [rivvy-observer](https://github.com/Emmmmmmo/rivvy-observer) for real-time monitoring
 - **Production Ready**: Robust error handling, extended retry logic, and scalable architecture
+- **Race Condition Fixes**: ⭐ **NEW** - Eliminated all concurrent workflow conflicts and sync state corruption
+- **Automatic Cleanup**: ⭐ **NEW** - Clean ElevenLabs knowledge base with no duplicate documents
+- **Enhanced Reliability**: ⭐ **NEW** - File locking, atomic operations, and comprehensive error handling
 
 ## 🏗 Architecture
 
