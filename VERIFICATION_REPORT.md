@@ -203,7 +203,7 @@ The data is clean, properly formatted, and ready for immediate upload to ElevenL
 
 ### **Scripts Used:**
 - `update_llms_agnostic.py` - Main scraping engine (fixed)
-- `clean_index_and_regenerate.py` - Index cleanup and shard regeneration
+- `final_shard_reorganize.py` - Final shard reorganization (most complete version)
 - `verify_all_shards.py` - Quality verification
 
 ---

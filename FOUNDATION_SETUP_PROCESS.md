@@ -464,7 +464,7 @@ Total: 6 files, ~290KB of data
 
 **Command:**
 ```bash
-python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
+python3 scripts/knowledge_base_manager_agnostic.py upload --domain jgengineering.ie
 ```
 
 **What Happens:**
@@ -579,7 +579,7 @@ Status: NOT assigned to agent yet
 
 **Command:**
 ```bash
-python3 scripts/knowledge_base_manager.py assign --domain jgengineering.ie
+python3 scripts/knowledge_base_manager_agnostic.py assign --domain jgengineering.ie
 ```
 
 **What Happens:**

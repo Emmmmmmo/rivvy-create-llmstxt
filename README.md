@@ -45,7 +45,7 @@ rivvy-create-llmstxt/
 │   ├── update_llms_agnostic.py    # ⭐ NEW - Agnostic scraping engine
 │   ├── site_config_manager.py     # ⭐ NEW - Configuration management
 │   ├── add_site.py               # ⭐ NEW - Site configuration tool
-│   ├── knowledge_base_manager.py  # Unified KB management
+│   ├── knowledge_base_manager_agnostic.py  # Unified KB management
 │   └── [legacy scripts...]        # Backward compatibility
 ├── out/
 │   ├── jgengineering.ie/          # Industrial tools (1,300 products, 37 shards)
@@ -108,7 +108,7 @@ python3 scripts/update_llms_agnostic.py example.com --hierarchical https://examp
 
 ```bash
 # Upload and assign to agent
-python3 scripts/knowledge_base_manager.py sync --domain example.com
+python3 scripts/knowledge_base_manager_agnostic.py sync --domain example.com
 ```
 
 ### 6. Add Website Monitoring
@@ -179,12 +179,12 @@ In your [rivvy-observer](https://github.com/Emmmmmmo/rivvy-observer) configurati
 
 ### ⭐ **NEW: Unified Knowledge Base Manager (Recommended)**
 
-The system now features a comprehensive `knowledge_base_manager.py` script that handles all KB operations:
+The system now features a comprehensive `knowledge_base_manager_agnostic.py` script that handles all KB operations:
 
-#### **Unified Script: `knowledge_base_manager.py`**
+#### **Unified Script: `knowledge_base_manager_agnostic.py`**
 - **Purpose**: Complete knowledge base management solution
 - **Features**: Upload, assign, verify RAG, retry failed indexing, search, stats
-- **Usage**: `python3 scripts/knowledge_base_manager.py [command] [options]`
+- **Usage**: `python3 scripts/knowledge_base_manager_agnostic.py [command] [options]`
 
 #### **Available Commands:**
 - `upload` - Upload files to knowledge base
@@ -194,7 +194,8 @@ The system now features a comprehensive `knowledge_base_manager.py` script that 
 - `retry-rag` - Retry failed RAG indexing
 - `list` - List documents in knowledge base
 - `search` - Search documents by criteria
-- `remove` - Remove documents by date/ID
+- `remove` - Remove documents by date/ID (basic)
+- `delete` - Delete documents with advanced options
 - `stats` - Show knowledge base statistics
 
 ### Legacy Scripts (Still Available)
@@ -214,43 +215,61 @@ The system now features a comprehensive `knowledge_base_manager.py` script that 
 #### **Complete Sync with RAG Verification (Recommended)**
 ```bash
 # Upload, assign, and verify RAG indexing
-python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie
+python3 scripts/knowledge_base_manager_agnostic.py sync --domain jgengineering.ie
 ```
 
 #### **Upload Only**
 ```bash
 # Just upload files to knowledge base
-python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
+python3 scripts/knowledge_base_manager_agnostic.py upload --domain jgengineering.ie
 ```
 
 #### **Assignment Only**
 ```bash
 # Assign already uploaded files to agent
-python3 scripts/knowledge_base_manager.py assign --domain jgengineering.ie
+python3 scripts/knowledge_base_manager_agnostic.py assign --domain jgengineering.ie
 ```
 
 #### **Verify RAG Indexing**
 ```bash
 # Check RAG indexing status for all documents
-python3 scripts/knowledge_base_manager.py verify-rag
+python3 scripts/knowledge_base_manager_agnostic.py verify-rag
 ```
 
 #### **Retry Failed RAG Indexing**
 ```bash
 # Retry failed RAG indexing automatically
-python3 scripts/knowledge_base_manager.py retry-rag
+python3 scripts/knowledge_base_manager_agnostic.py retry-rag
 ```
 
 #### **Force Re-upload**
 ```bash
 # Clear sync state and re-upload everything
-python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie --force
+python3 scripts/knowledge_base_manager_agnostic.py sync --domain jgengineering.ie --force
 ```
 
 #### **Skip RAG Verification (Faster)**
 ```bash
 # Sync without RAG verification for faster processing
-python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie --no-verify-rag
+python3 scripts/knowledge_base_manager_agnostic.py sync --domain jgengineering.ie --no-verify-rag
+```
+
+#### **Delete Documents (Advanced)**
+```bash
+# Delete all documents from entire knowledge base (with dry-run)
+python3 scripts/knowledge_base_manager_agnostic.py delete --all-domains --dry-run
+
+# Delete N most recent documents for a domain
+python3 scripts/knowledge_base_manager_agnostic.py delete --domain jgengineering.ie --count 10
+
+# Delete documents from specific date
+python3 scripts/knowledge_base_manager_agnostic.py delete --date 2025-09-26
+
+# Delete specific documents by ID
+python3 scripts/knowledge_base_manager_agnostic.py delete --ids doc1 doc2 doc3
+
+# Force delete even if documents are used by agents
+python3 scripts/knowledge_base_manager_agnostic.py delete --domain jgengineering.ie --force
 ```
 
 ### Error Recovery
@@ -258,26 +277,26 @@ python3 scripts/knowledge_base_manager.py sync --domain jgengineering.ie --no-ve
 #### **Upload Failed**
 ```bash
 # Retry upload (will skip already uploaded files)
-python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
+python3 scripts/knowledge_base_manager_agnostic.py upload --domain jgengineering.ie
 ```
 
 #### **Assignment Failed**
 ```bash
 # Retry assignment (files already uploaded)
-python3 scripts/knowledge_base_manager.py assign --domain jgengineering.ie
+python3 scripts/knowledge_base_manager_agnostic.py assign --domain jgengineering.ie
 ```
 
 #### **RAG Indexing Failed**
 ```bash
 # Check status and retry failed indexing
-python3 scripts/knowledge_base_manager.py verify-rag
-python3 scripts/knowledge_base_manager.py retry-rag
+python3 scripts/knowledge_base_manager_agnostic.py verify-rag
+python3 scripts/knowledge_base_manager_agnostic.py retry-rag
 ```
 
 #### **Large Files Timing Out**
 ```bash
 # Upload with longer timeouts (handled automatically)
-python3 scripts/knowledge_base_manager.py upload --domain jgengineering.ie
+python3 scripts/knowledge_base_manager_agnostic.py upload --domain jgengineering.ie
 ```
 
 ## 📊 Generated Files

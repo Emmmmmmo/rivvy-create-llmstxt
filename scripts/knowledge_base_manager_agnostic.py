@@ -12,7 +12,8 @@ Usage:
 Commands:
   upload          Upload files to knowledge base
   list            List documents in knowledge base
-  remove          Remove documents from knowledge base
+  remove          Remove documents from knowledge base (basic)
+  delete          Delete documents with advanced options
   assign          Assign documents to agents
   sync            Sync operations (upload + assign)
   search          Search documents by criteria
@@ -25,6 +26,8 @@ Examples:
   python3 scripts/knowledge_base_manager_agnostic.py upload --domain mydiy.ie
   python3 scripts/knowledge_base_manager_agnostic.py list --sort-by created_at --sort-direction asc
   python3 scripts/knowledge_base_manager_agnostic.py remove --date 2025-09-26
+  python3 scripts/knowledge_base_manager_agnostic.py delete --all-domains --dry-run
+  python3 scripts/knowledge_base_manager_agnostic.py delete --domain jgengineering.ie --count 10
   python3 scripts/knowledge_base_manager_agnostic.py assign --domain jgengineering.ie
   python3 scripts/knowledge_base_manager_agnostic.py sync --domain mydiy.ie
 """
@@ -37,7 +40,7 @@ import logging
 import sys
 import argparse
 import hashlib
-from typing import List, Dict, Optional, Tuple
+from typing import List, Dict, Optional, Tuple, Any
 from datetime import datetime
 from pathlib import Path
 
@@ -203,7 +206,7 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                     }
                     
                     response = requests.post(
-                        f"{self.base_url}/knowledge-base/upload",
+                        f"{self.base_url}/knowledge-base/file",
                         headers=self.headers,
                         files=files,
                         data=data
@@ -266,8 +269,9 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                 'sort_direction': sort_direction
             }
             
+            # Try the original base URL first
             response = requests.get(
-                f"{self.base_url}/knowledge-base/documents",
+                f"{self.base_url}/knowledge-base",
                 headers=self.headers,
                 params=params
             )
@@ -334,7 +338,7 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         for doc_id in documents_to_remove:
             try:
                 response = requests.delete(
-                    f"{self.base_url}/knowledge-base/documents/{doc_id}",
+                    f"{self.base_url}/knowledge-base/{doc_id}",
                     headers=self.headers
                 )
                 
@@ -357,6 +361,191 @@ class AgnosticElevenLabsKnowledgeBaseManager:
             "total_requested": len(documents_to_remove)
         }
     
+    def delete_documents(self, domain: Optional[str] = None, all_domains: bool = False, count: Optional[int] = None, 
+                        date: Optional[str] = None, document_ids: Optional[List[str]] = None, 
+                        force: bool = True, dry_run: bool = False) -> Dict[str, Any]:
+        """Enhanced delete documents with advanced options."""
+        logger.info(f"Deleting documents - domain: {domain}, all_domains: {all_domains}, count: {count}, date: {date}, ids: {document_ids}, force: {force}, dry_run: {dry_run}")
+        
+        # Get documents to delete
+        documents_to_delete = []
+        
+        if all_domains:
+            # Get all documents from global knowledge base
+            documents = self._get_all_knowledge_base_documents()
+            if not documents:
+                return {"message": "No documents found in knowledge base", "deleted_count": 0}
+            documents_to_delete = documents
+        elif document_ids:
+            # Delete specific document IDs
+            documents_to_delete = [{"id": doc_id} for doc_id in document_ids]
+        elif count and domain:
+            # Delete N most recent documents for domain
+            result = self._get_agent_documents(domain)
+            if "error" in result:
+                return result
+            documents = result.get("documents", [])
+            if not documents:
+                return {"message": "No documents found for this agent", "deleted_count": 0}
+            # Sort by creation date and take the most recent N
+            documents_to_delete = sorted(documents, key=lambda x: x.get('created_at', ''), reverse=True)[:count]
+        elif date:
+            # Delete documents from specific date
+            list_result = self.list_documents(domain)
+            if "error" in list_result:
+                return list_result
+            documents = list_result.get("documents", [])
+            target_date = datetime.fromisoformat(date.replace('Z', '+00:00'))
+            documents_to_delete = [
+                doc for doc in documents
+                if datetime.fromisoformat(doc['created_at'].replace('Z', '+00:00')).date() == target_date.date()
+            ]
+        elif domain:
+            # Delete all documents for domain
+            result = self._get_agent_documents(domain)
+            if "error" in result:
+                return result
+            documents_to_delete = result.get("documents", [])
+        else:
+            return {"error": "Must specify domain, all_domains, count, date, or document_ids"}
+        
+        if not documents_to_delete:
+            return {"message": "No documents found to delete", "deleted_count": 0}
+        
+        # Log what will be deleted
+        logger.info(f"Found {len(documents_to_delete)} documents to delete:")
+        for i, doc in enumerate(documents_to_delete, 1):
+            doc_name = doc.get('name', 'Unknown')
+            doc_id = doc.get('id', doc.get('document_id', 'Unknown'))
+            logger.info(f"  {i}. {doc_name} (ID: {doc_id})")
+        
+        if dry_run:
+            return {
+                "message": f"DRY RUN: Would delete {len(documents_to_delete)} documents",
+                "documents": documents_to_delete
+            }
+        
+        # Delete documents
+        deleted_count = 0
+        error_count = 0
+        
+        for doc in documents_to_delete:
+            doc_id = doc.get('id', doc.get('document_id'))
+            doc_name = doc.get('name', 'Unknown')
+            
+            logger.info(f"Deleting: {doc_name} (ID: {doc_id})")
+            
+            if self._delete_single_document(doc_id, force=force):
+                deleted_count += 1
+                logger.info(f"✅ Deleted: {doc_name}")
+            else:
+                error_count += 1
+                logger.error(f"❌ Failed to delete: {doc_name}")
+            
+            # Rate limiting
+            time.sleep(0.5)
+        
+        return {
+            "deleted_count": deleted_count,
+            "error_count": error_count,
+            "total_requested": len(documents_to_delete)
+        }
+    
+    def _delete_single_document(self, document_id: str, force: bool = True) -> bool:
+        """Delete a single document from the knowledge base."""
+        try:
+            # Use the force parameter to delete even if used by agents
+            params = {'force': 'true'} if force else {}
+            
+            # Use the original base URL for delete operations
+            response = requests.delete(
+                f"{self.base_url}/knowledge-base/{document_id}",
+                headers=self.headers,
+                params=params,
+                timeout=30
+            )
+            
+            if response.status_code in [200, 204]:
+                return True
+            else:
+                logger.error(f"Failed to delete document {document_id}: {response.status_code} - {response.text}")
+                return False
+                
+        except Exception as e:
+            logger.error(f"Error deleting document {document_id}: {e}")
+            return False
+    
+    def _get_all_knowledge_base_documents(self) -> List[Dict]:
+        """Get all documents from the global knowledge base."""
+        try:
+            logger.info("Fetching all knowledge base documents...")
+            
+            # Use the original base URL for knowledge base operations
+            response = requests.get(
+                f"{self.base_url}/knowledge-base",
+                headers=self.headers,
+                timeout=30
+            )
+            
+            if response.status_code != 200:
+                raise Exception(f"Failed to get knowledge base: {response.status_code} - {response.text}")
+            
+            data = response.json()
+            documents = data.get('documents', [])
+            
+            logger.info(f"Found {len(documents)} total documents in knowledge base")
+            return documents
+            
+        except Exception as e:
+            logger.error(f"Error getting knowledge base documents: {e}")
+            return []
+    
+    def _get_agent_documents(self, domain: str) -> Dict[str, Any]:
+        """Get documents assigned to a specific agent."""
+        agent_config = self._get_agent_for_domain(domain)
+        if not agent_config:
+            return {"error": f"No agent configuration found for domain: {domain}"}
+        
+        agent_id = agent_config.get('agent_id')
+        if not agent_id:
+            return {"error": f"No agent_id found in configuration for domain: {domain}"}
+        
+        try:
+            logger.info(f"Fetching documents for agent: {agent_id}")
+            
+            # Get agent configuration to find assigned documents
+            response = requests.get(
+                f"{self.base_url}/agents/{agent_id}",
+                headers=self.headers,
+                timeout=30
+            )
+            
+            if response.status_code != 200:
+                raise Exception(f"Failed to get agent: {response.status_code} - {response.text}")
+            
+            agent_data = response.json()
+            prompt_config = agent_data.get("conversation_config", {}).get("agent", {}).get("prompt", {})
+            knowledge_base = prompt_config.get("knowledge_base", [])
+            
+            # Convert to our format
+            documents = []
+            for doc in knowledge_base:
+                if isinstance(doc, dict) and 'id' in doc:
+                    documents.append({
+                        'document_id': doc['id'],
+                        'id': doc['id'],
+                        'name': doc.get('name', 'Unknown'),
+                        'type': doc.get('type', 'Unknown'),
+                        'usage_mode': doc.get('usage_mode', 'Unknown')
+                    })
+            
+            logger.info(f"Found {len(documents)} documents assigned to agent")
+            return {"documents": documents}
+            
+        except Exception as e:
+            logger.error(f"Error getting agent documents: {e}")
+            return {"error": f"Error getting agent documents: {e}"}
+    
     def assign_documents(self, domain: str) -> Dict[str, Any]:
         """Assign documents to agent for a domain."""
         logger.info(f"Assigning documents to agent for domain: {domain}")
@@ -370,48 +559,90 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         if not agent_id:
             return {"error": f"No agent_id found in configuration for domain: {domain}"}
         
-        # List documents for this agent
-        list_result = self.list_documents(domain)
+        # List all documents from global knowledge base (not filtered by agent)
+        list_result = self.list_documents()
         if "error" in list_result:
             return list_result
         
-        documents = list_result.get("documents", [])
+        all_documents = list_result.get("documents", [])
+        if not all_documents:
+            return {"message": "No documents found in knowledge base"}
+        
+        # Filter documents by domain prefix
+        domain_prefix = f"llms-{domain.replace('www.', '').replace('.', '-')}"
+        documents = [doc for doc in all_documents if doc.get('name', '').startswith(domain_prefix)]
+        
         if not documents:
             return {"message": f"No documents found for domain: {domain}"}
         
-        # Assign documents to agent
-        assigned_count = 0
-        error_count = 0
-        
+        # Convert documents to the format expected by the agent knowledge base
+        knowledge_base = []
         for doc in documents:
-            try:
-                doc_id = doc['document_id']
-                
-                response = requests.post(
-                    f"{self.base_url}/knowledge-base/documents/{doc_id}/assign",
-                    headers=self.headers,
-                    json={'agent_id': agent_id}
-                )
-                
-                if response.status_code == 200:
-                    assigned_count += 1
-                    logger.info(f"Assigned document {doc_id} to agent {agent_id}")
-                else:
-                    error_count += 1
-                    logger.error(f"Failed to assign document {doc_id}: {response.status_code} - {response.text}")
-                
-                time.sleep(0.1)
-                
-            except Exception as e:
-                error_count += 1
-                logger.error(f"Error assigning document {doc['document_id']}: {e}")
+            doc_id = doc.get('id') or doc.get('document_id')
+            doc_name = doc.get('name', 'Unknown')
+            
+            knowledge_base.append({
+                "type": "file",
+                "name": doc_name,
+                "id": doc_id,
+                "usage_mode": "auto"
+            })
         
-        return {
-            "domain": domain,
-            "assigned_count": assigned_count,
-            "error_count": error_count,
-            "total_documents": len(documents)
-        }
+        # Update agent's knowledge base directly (correct approach)
+        try:
+            update_payload = {
+                "conversation_config": {
+                    "agent": {
+                        "prompt": {
+                            "knowledge_base": knowledge_base
+                        }
+                    }
+                }
+            }
+            
+            update_url = f"{self.base_url}/agents/{agent_id}"
+            update_headers = {
+                "xi-api-key": self.api_key,
+                "Content-Type": "application/json"
+            }
+            
+            logger.info(f"Updating agent {agent_id} with {len(knowledge_base)} documents")
+            
+            update_response = requests.patch(
+                update_url,
+                headers=update_headers,
+                json=update_payload,
+                timeout=60
+            )
+            
+            if update_response.status_code == 200:
+                logger.info(f"✅ Successfully assigned {len(knowledge_base)} documents to agent {agent_id}")
+                return {
+                    "domain": domain,
+                    "assigned_count": len(knowledge_base),
+                    "error_count": 0,
+                    "total_documents": len(documents),
+                    "message": "All documents assigned successfully"
+                }
+            else:
+                logger.error(f"Failed to update agent knowledge base: {update_response.status_code} - {update_response.text}")
+                return {
+                    "domain": domain,
+                    "assigned_count": 0,
+                    "error_count": len(documents),
+                    "total_documents": len(documents),
+                    "error": f"Failed to update agent: {update_response.status_code} - {update_response.text}"
+                }
+                
+        except Exception as e:
+            logger.error(f"Error updating agent knowledge base: {e}")
+            return {
+                "domain": domain,
+                "assigned_count": 0,
+                "error_count": len(documents),
+                "total_documents": len(documents),
+                "error": f"Error updating agent: {e}"
+            }
     
     def sync_domain(self, domain: str, force: bool = False) -> Dict[str, Any]:
         """Sync domain: upload files and assign to agent."""
@@ -484,6 +715,16 @@ def main():
     remove_parser.add_argument('--date', help='Remove documents from specific date (YYYY-MM-DD)')
     remove_parser.add_argument('--ids', nargs='+', help='Remove specific document IDs')
     
+    # Delete command (enhanced removal with more options)
+    delete_parser = subparsers.add_parser('delete', help='Delete documents with advanced options')
+    delete_parser.add_argument('--domain', help='Delete all documents for domain')
+    delete_parser.add_argument('--all-domains', action='store_true', help='Delete ALL documents from entire knowledge base')
+    delete_parser.add_argument('--count', type=int, help='Delete N most recent documents for domain')
+    delete_parser.add_argument('--date', help='Delete documents from specific date (YYYY-MM-DD)')
+    delete_parser.add_argument('--ids', nargs='+', help='Delete specific document IDs')
+    delete_parser.add_argument('--force', action='store_true', help='Force deletion even if documents are used by agents')
+    delete_parser.add_argument('--dry-run', action='store_true', help='Show what would be deleted without actually deleting')
+    
     # Assign command
     assign_parser = subparsers.add_parser('assign', help='Assign documents to agents')
     assign_parser.add_argument('--domain', required=True, help='Domain to assign documents for')
@@ -511,6 +752,16 @@ def main():
             result = manager.list_documents(args.domain, args.sort_by, args.sort_direction)
         elif args.command == 'remove':
             result = manager.remove_documents(args.domain, args.date, args.ids)
+        elif args.command == 'delete':
+            result = manager.delete_documents(
+                domain=args.domain,
+                all_domains=args.all_domains,
+                count=args.count,
+                date=args.date,
+                document_ids=args.ids,
+                force=args.force,
+                dry_run=args.dry_run
+            )
         elif args.command == 'assign':
             result = manager.assign_documents(args.domain)
         elif args.command == 'sync':

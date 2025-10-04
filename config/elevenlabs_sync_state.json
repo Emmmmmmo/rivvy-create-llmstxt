@@ -1,1 +1,226 @@
-{}
+{
+  "jgengineering.ie": {
+    "llms-jgengineering-ie-ass_products.txt": {
+      "hash": "cf0647ce44759d645d1480777ab41864",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:00.484264",
+      "file_size": 9407
+    },
+    "llms-jgengineering-ie-ba_helicoil_kits_ireland.txt": {
+      "hash": "e3e019570e28d178e95232fff9b7a6c8",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:01.568610",
+      "file_size": 4849
+    },
+    "llms-jgengineering-ie-baer_hand_taps.txt": {
+      "hash": "bb74aa750ac8c2572d8384bc1f6fdc7d",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:03.257427",
+      "file_size": 74952
+    },
+    "llms-jgengineering-ie-baercoil_bottoming_taps_metric_helicoil.txt": {
+      "hash": "80ad340918681943ccac804feb893208",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:04.403881",
+      "file_size": 20552
+    },
+    "llms-jgengineering-ie-baercoil_drill_bits.txt": {
+      "hash": "46fcad10a5defef5bb6410b3db67962a",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:05.678430",
+      "file_size": 45683
+    },
+    "llms-jgengineering-ie-baercoil_inserting_tools_ireland.txt": {
+      "hash": "cf9528c56eed4b7e340e110c5b98b289",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:06.922854",
+      "file_size": 10078
+    },
+    "llms-jgengineering-ie-baercoil_metric_helicoil_kits_ireland.txt": {
+      "hash": "abc9b9544b8d47dc86da0328d4f8ffc1",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:08.266782",
+      "file_size": 123714
+    },
+    "llms-jgengineering-ie-baercoil_workshop_kits_helicoil.txt": {
+      "hash": "0a0d6f5a9e9209d128e304fa8ffcca62",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:09.479018",
+      "file_size": 12393
+    },
+    "llms-jgengineering-ie-baerfix_thread_inserts_cutting_slots_m_case_hardened_steel.txt": {
+      "hash": "1ff3a78a2c3411ea382ec134471189f4",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:11.228645",
+      "file_size": 22647
+    },
+    "llms-jgengineering-ie-bsb_helicoil_kits_ireland.txt": {
+      "hash": "c3be97e2ca65fda052a3268fbd60d57e",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:12.812910",
+      "file_size": 4328
+    },
+    "llms-jgengineering-ie-bsf_helicoil_kits_ireland.txt": {
+      "hash": "b1eb4b67de8f25522c27e2cbdd65529d",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:14.005411",
+      "file_size": 9835
+    },
+    "llms-jgengineering-ie-bsp_helicoil_kits_ireland.txt": {
+      "hash": "6f1faa4c07d605ca6bbbf4bfb95754fa",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:15.227483",
+      "file_size": 11676
+    },
+    "llms-jgengineering-ie-bsw_helicoil_kits_ireland.txt": {
+      "hash": "66f3d917394525244ff537c9d9cce802",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:16.368195",
+      "file_size": 11884
+    },
+    "llms-jgengineering-ie-circlips_ireland.txt": {
+      "hash": "39e68189186720546c2af02a9e04602e",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:18.200221",
+      "file_size": 93583
+    },
+    "llms-jgengineering-ie-clips_rings.txt": {
+      "hash": "5cf851733c013de841b9542e5b0ed27c",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:19.943882",
+      "file_size": 96093
+    },
+    "llms-jgengineering-ie-drill_bits.txt": {
+      "hash": "b33943bc1c8e6d9372a44589a3a6ae9f",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:21.103011",
+      "file_size": 3931
+    },
+    "llms-jgengineering-ie-external_circlips.txt": {
+      "hash": "cf4af8408b3ac647a552b605a609b169",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:22.396517",
+      "file_size": 31441
+    },
+    "llms-jgengineering-ie-fasteners.txt": {
+      "hash": "1a75abd2070a138e1e199b67956d8bb5",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:23.628470",
+      "file_size": 988
+    },
+    "llms-jgengineering-ie-front_page.txt": {
+      "hash": "0f7941ef782c37f0f377f5a290e00d54",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:24.854411",
+      "file_size": 26264
+    },
+    "llms-jgengineering-ie-internal_circlips_carbon_black.txt": {
+      "hash": "b9051a5a503e7c73f62c517a46f14ca8",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:26.185694",
+      "file_size": 64590
+    },
+    "llms-jgengineering-ie-kits_sets_part1_part1.txt": {
+      "hash": "4fa707659ab71ba6c6b4699b77cf882b",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:27.721502",
+      "file_size": 279145
+    },
+    "llms-jgengineering-ie-kits_sets_part1_part2.txt": {
+      "hash": "53438b4f640953e43766f2c890cb340f",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:28.951165",
+      "file_size": 21430
+    },
+    "llms-jgengineering-ie-kits_sets_part2.txt": {
+      "hash": "91845becf4d0a4fa986257716d7b9f00",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:30.170484",
+      "file_size": 62543
+    },
+    "llms-jgengineering-ie-metric_baerfix_thread_repair_kits_like_timesert.txt": {
+      "hash": "6c3a3506f021a85472dfae4db5115944",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:31.409762",
+      "file_size": 15847
+    },
+    "llms-jgengineering-ie-metric_helicoil_inserts_ireland.txt": {
+      "hash": "9ca63f56d414daae0f04d5015d5dbe9e",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:32.681288",
+      "file_size": 52705
+    },
+    "llms-jgengineering-ie-other_products.txt": {
+      "hash": "47b586cbe22185255fbcbc37938cd2c3",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:33.866312",
+      "file_size": 30351
+    },
+    "llms-jgengineering-ie-seals_gaskets.txt": {
+      "hash": "634f186ad110ae14fbd2a89e7094a00d",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:35.034273",
+      "file_size": 612
+    },
+    "llms-jgengineering-ie-shop.txt": {
+      "hash": "867c640a3a3fcd0df2aa465c678f7f99",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:36.222878",
+      "file_size": 213
+    },
+    "llms-jgengineering-ie-special_kit_sizes_helicoil.txt": {
+      "hash": "8d03b47cdd8877c583adc8ff206f977b",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:37.418923",
+      "file_size": 6233
+    },
+    "llms-jgengineering-ie-taps_dies.txt": {
+      "hash": "32b6826398958c5d53fc486ef1abceac",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:38.808774",
+      "file_size": 133328
+    },
+    "llms-jgengineering-ie-thread_repair.txt": {
+      "hash": "41a0147f547c6a98ef29aaf2ce815252",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:40.514559",
+      "file_size": 241239
+    },
+    "llms-jgengineering-ie-unc_baerfix_thread_repair_kits_like_timesert.txt": {
+      "hash": "8d8be1df8d541bec1889b7954fcbfce1",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:41.667111",
+      "file_size": 6107
+    },
+    "llms-jgengineering-ie-unc_helicoil_inserts_ireland.txt": {
+      "hash": "4c5dd208456c0038e7d3cd16f4f73663",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:43.088685",
+      "file_size": 21150
+    },
+    "llms-jgengineering-ie-unc_helicoil_kits_ireland.txt": {
+      "hash": "564d3a59186d60cd957775c23df62677",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:44.624810",
+      "file_size": 36857
+    },
+    "llms-jgengineering-ie-unf_baerfix_thread_repair_kits_like_timeserts.txt": {
+      "hash": "f5f566155fb3a0610535c574cabe8c2d",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:45.816750",
+      "file_size": 6144
+    },
+    "llms-jgengineering-ie-unf_helicoil_inserts.txt": {
+      "hash": "659c5fc2d210ffcf83d42ec6148bd82b",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:47.349723",
+      "file_size": 17207
+    },
+    "llms-jgengineering-ie-unf_helicoil_kits_ireland.txt": {
+      "hash": "8a038530712d8b316e2236251e5ebaab",
+      "document_id": null,
+      "uploaded_at": "2025-10-04T16:44:48.612953",
+      "file_size": 25241
+    }
+  }
+}

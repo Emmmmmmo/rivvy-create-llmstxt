@@ -51,7 +51,7 @@ rivvy-create-llmstxt/
 │   ├── update_llms_agnostic.py    # ⭐ NEW - Agnostic scraping engine
 │   ├── site_config_manager.py     # ⭐ NEW - Configuration management
 │   ├── add_site.py               # ⭐ NEW - Site configuration tool
-│   ├── knowledge_base_manager.py  # Unified KB management
+│   ├── knowledge_base_manager_agnostic.py  # Unified KB management
 │   └── [legacy scripts...]        # Backward compatibility
 ├── out/
 │   ├── jgengineering-ie/          # Industrial tools (1,300 products, 37 shards)
@@ -170,10 +170,10 @@ python3 scripts/update_llms_agnostic.py example.com --added '["https://example.c
 
 ```bash
 # Upload and assign to agent
-python3 scripts/knowledge_base_manager.py sync --domain example.com
+python3 scripts/knowledge_base_manager_agnostic.py sync --domain example.com
 
 # Or just upload
-python3 scripts/knowledge_base_manager.py upload --domain example.com
+python3 scripts/knowledge_base_manager_agnostic.py upload --domain example.com
 ```
 
 ## 📊 Currently Supported Sites
@@ -312,7 +312,7 @@ python3 scripts/update_llms_agnostic.py example.com --removed '["https://example
 
 ### Unified Knowledge Base Manager
 
-The system features a comprehensive `knowledge_base_manager.py` script:
+The system features a comprehensive `knowledge_base_manager_agnostic.py` script:
 
 #### **Available Commands:**
 - `upload` - Upload files to knowledge base
@@ -322,23 +322,29 @@ The system features a comprehensive `knowledge_base_manager.py` script:
 - `retry-rag` - Retry failed RAG indexing
 - `list` - List documents in knowledge base
 - `search` - Search documents by criteria
-- `remove` - Remove documents by date/ID
+- `remove` - Remove documents by date/ID (basic)
+- `delete` - Delete documents with advanced options
 - `stats` - Show knowledge base statistics
 
 #### **Workflow Examples:**
 
 ```bash
 # Complete sync with RAG verification (Recommended)
-python3 scripts/knowledge_base_manager.py sync --domain mydiy.ie
+python3 scripts/knowledge_base_manager_agnostic.py sync --domain mydiy.ie
 
 # Upload only
-python3 scripts/knowledge_base_manager.py upload --domain mydiy.ie
+python3 scripts/knowledge_base_manager_agnostic.py upload --domain mydiy.ie
 
 # Verify RAG indexing status
-python3 scripts/knowledge_base_manager.py verify-rag
+python3 scripts/knowledge_base_manager_agnostic.py verify-rag
 
 # Retry failed RAG indexing
-python3 scripts/knowledge_base_manager.py retry-rag
+python3 scripts/knowledge_base_manager_agnostic.py retry-rag
+
+# Delete documents (advanced options)
+python3 scripts/knowledge_base_manager_agnostic.py delete --all-domains --dry-run
+python3 scripts/knowledge_base_manager_agnostic.py delete --domain mydiy.ie --count 10
+python3 scripts/knowledge_base_manager_agnostic.py delete --date 2025-09-26
 ```
 
 ### Key Features

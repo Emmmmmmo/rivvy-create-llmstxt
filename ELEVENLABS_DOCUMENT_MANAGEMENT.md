@@ -416,7 +416,7 @@ def cleanup_old_versions(self, domain: str, keep_latest: int = 1) -> Dict[str, i
 
 1. **Cleanup Command**
    ```bash
-   python3 scripts/knowledge_base_manager.py cleanup --domain example.com --keep-latest 1
+   python3 scripts/knowledge_base_manager_agnostic.py remove --domain example.com
    ```
 
 2. **Scheduled Job**
@@ -484,7 +484,7 @@ def cleanup_old_versions(self, domain: str, keep_latest: int = 1) -> Dict[str, i
 
 ### Files to Modify
 
-1. **`scripts/knowledge_base_manager.py`**
+1. **`scripts/knowledge_base_manager_agnostic.py`**
    - Add `_delete_document()` method
    - Modify `upload_files()` to delete old versions
    - Update sync state structure
