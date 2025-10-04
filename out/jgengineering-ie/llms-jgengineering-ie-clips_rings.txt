@@ -487,6 +487,18 @@
   ]
 }
 
+<|https://www.jgengineering.ie/products/test_deburring_item|>
+## Test_Deburring_Item
+
+{
+  "price": "€10.00",
+  "description": "For test purposes",
+  "availability": "Sold out",
+  "product_name": "Test_Deburring_Item",
+  "specifications": [
+    "Backordered and will ship as soon as it is back in stock."
+  ]
+}
 
 <|https://www.jgengineering.ie/products/7mm-external-circlip-ireland|>
 ## 7mm External Circlip Carbon Black

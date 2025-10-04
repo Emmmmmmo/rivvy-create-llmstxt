@@ -571,17 +571,18 @@ class AgnosticLLMsUpdater:
             # Parse pre-scraped content to match structured JSON format
             return self._parse_prescraped_to_json(url, pre_scraped_content, is_diff)
 
-        # Only process individual product URLs - skip collection/category pages (agnostic)
+        # Process both individual product URLs and collection/category pages
         product_pattern = self.site_config.get('url_patterns', {}).get('product', '/products/')
         if product_pattern in url.lower():
+            # Individual product page - scrape directly
             return self._extract_product_data(url)
         else:
-            # Skip collection/category pages - they contain HTML that pollutes shards
-            logger.debug(f"Skipping collection/category page: {url}")
-            return None
+            # Collection/category page - scrape and extract all individual products
+            logger.info(f"Processing collection/category page: {url}")
+            return self._scrape_category_page(url)
     
     def _scrape_category_page(self, url: str) -> Optional[Dict[str, Any]]:
-        """Scrape category page using regular scrape endpoint."""
+        """Scrape category page and extract all individual product URLs, then scrape each product."""
         try:
             # Ensure EUR currency for proper pricing
             eur_url = self._ensure_eur_currency(url)
@@ -623,11 +624,42 @@ class AgnosticLLMsUpdater:
                 else:
                     title = "Product"
                 
+                # Extract all product URLs from the collection page
+                product_urls = self._extract_product_url_from_diff(content, removed_only=False)
+                logger.info(f"Found {len(product_urls)} product URLs in collection page: {url}")
+                
+                # Scrape each individual product page
+                scraped_products = []
+                for product_url in product_urls:
+                    try:
+                        logger.info(f"Scraping individual product: {product_url}")
+                        product_data = self._extract_product_data(product_url)
+                        if product_data:
+                            scraped_products.append({
+                                "url": product_url,
+                                "content": product_data.get("content", ""),
+                                "title": product_data.get("title", "Product"),
+                                "scraped_at": product_data.get("scraped_at", datetime.now().isoformat())
+                            })
+                        else:
+                            logger.warning(f"Failed to scrape product: {product_url}")
+                    except Exception as e:
+                        logger.error(f"Error scraping product {product_url}: {e}")
+                        continue
+                
+                # Combine all scraped product data into a single content block
+                combined_content = ""
+                for product in scraped_products:
+                    combined_content += f"<|{product['url']}|>\n## {product['title']}\n\n{product['content']}\n\n"
+                
+                logger.info(f"Successfully scraped {len(scraped_products)} products from collection page")
+                
                 return {
                     "url": eur_url,  # Use EUR URL for indexing
-                    "content": content,
+                    "content": combined_content,
                     "title": title,
-                    "scraped_at": datetime.now().isoformat()
+                    "scraped_at": datetime.now().isoformat(),
+                    "product_count": len(scraped_products)
                 }
             
         except KeyError as e:

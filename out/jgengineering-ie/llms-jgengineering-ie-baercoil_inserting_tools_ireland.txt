@@ -1,62 +1,209 @@
 <|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm3|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm7|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm6|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm10|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm5|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm14|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm8|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm4|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm12|>
-## Product
-
-
-
-<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/inserting_test|>
-## Inserting_TEST
+## BaerCoil Inserting Tool M 3
 
 {
-  "price": "€25.00",
-  "description": "Inserting_TEST is backordered and will ship as soon as it is back in stock.",
-  "availability": "Sold out",
-  "product_name": "Inserting_TEST",
+  "price": "€11.41",
+  "description": "BaerCoil Inserting Tool M 3 is backordered and will ship as soon as it is back in stock. With the manual BaerCoil® installation tool for wire thread inserts you can install the wire thread inserts in your workpiece in a simple and efficient way. For precise depth limitation, the insertion tool is equipped with a locking ring. In order to be able to precisely control the installation depth of the thread inserts, the locking ring can be loosened and adjusted in height with a simple grub screw. The locking ring must be fixed so that the tang of the thread insert is in the centre of the groove. Then screw the thread insert into the receiving thread under slight pressure until it is 1/4 - 1/2 turn below the surface. Care must be taken not to turn the insert against the direction of rotation, as this may cause the spigot to break off. The throw-over tool has a 5 mm square drive, i.e. the insertion tool can be driven like a screw tap with a tap wrench or a tool ratchet. In this way, convenient and effort-saving handling during assembly is possible. In case the thread is deeper than expected, the installation tool can be extended quite easily with our tap extension. This makes it easy to work in deeper areas without having to sacrifice efficiency and precision.",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 3",
   "specifications": [
-    "Tax included",
+    "Metric thread inserts: M 3 x 0.5 & M 3.5 x 0.6",
+    "UNC thread inserts: UNC 4 x 40 & UNC 5 x 40 & UNC 6 x 32",
+    "UNF thread inserts: UNF 4 x 48 & UNF 6 x 40",
+    "BSW thread inserts: BSW 1/8 x 40",
+    "BA thread inserts: BA 5",
+    "Diameter: 3",
+    "Length: 100 mm",
+    "Product group: Wire thread inserts - Assembly tools",
+    "Product type: BaerCoil installation tools",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Direction: Right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm7|>
+## BaerCoil Inserting Tool M 7
+
+{
+  "price": "€7.26",
+  "description": "BaerCoil Inserting Tool with locking ring. Adapted for: Metric: M 7 x 1.0, UNC: UNC 5/16 x 18, UNF: UNF 5/16 x 24, BSW: BSW 5/16 x 18, BSF: BSF 5/16 x 22, BSC: BSC 5/16 x 26, BSB: BSB 5/16 x 26, length of inserting tool: 100 mm, Square: 7 mm",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 7",
+  "specifications": [
+    "Adapted for: Metric: M 7 x 1.0",
+    "UNC: UNC 5/16 x 18",
+    "UNF: UNF 5/16 x 24",
+    "BSW: BSW 5/16 x 18",
+    "BSF: BSF 5/16 x 22",
+    "BSC: BSC 5/16 x 26",
+    "BSB: BSB 5/16 x 26",
+    "Length of inserting tool: 100 mm",
+    "Square: 7 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm6|>
+## BaerCoil Inserting Tool M 6
+
+{
+  "price": "€6.27",
+  "description": "BaerCoil Inserting Tool with locking ring. Adapted for: Metric: M 6 x 1.0 // M 6 x 0.75, UNC: UNC 1/4 x 20, UNF: UNF 1/4 x 28, BSW: BSW 1/4 x 20, BSF: BSF 9/32 x 26, BA: BA 0, UNEF: UNEF 1/4 x 32, Harley: Harley 1/4 x 24, BSB: BSB 1/4 x 26, length of inserting tool: 100 mm, Square: 5 mm",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 6",
+  "specifications": [
+    "Adapted for Metric: M 6 x 1.0 // M 6 x 0.75",
+    "UNC: UNC 1/4 x 20",
+    "UNF: UNF 1/4 x 28",
+    "BSW: BSW 1/4 x 20",
+    "BSF: BSF 9/32 x 26",
+    "BA: BA 0",
+    "UNEF: UNEF 1/4 x 32",
+    "Harley: Harley 1/4 x 24",
+    "BSB: BSB 1/4 x 26",
+    "Length of inserting tool: 100 mm",
+    "Square: 5 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm10|>
+## BaerCoil Inserting Tool M 10
+
+{
+  "price": "€14.12",
+  "description": "BaerCoil Inserting Tool M 10 is backordered and will ship as soon as it is back in stock. With the manual BaerCoil® installation tool for wire thread inserts you can install the wire thread inserts in your workpiece in a simple and efficient way. For precise depth limitation, the insertion tool is equipped with a locking ring. In order to be able to precisely control the installation depth of the thread inserts, the locking ring can be loosened and adjusted in height with a simple grub screw. The locking ring must be fixed so that the tang of the thread insert is in the centre of the groove. Then screw the thread insert into the receiving thread under slight pressure until it is 1/4 - 1/2 turn below the surface. Care must be taken not to turn the insert against the direction of rotation as this may cause the spigot to break off. The throw-over tool has a 7 mm square drive, i.e. the insertion tool can be driven like a screw tap with a tap wrench or a tool ratchet. In this way, convenient and effort-saving handling during assembly is possible. In case the thread is deeper than expected, the installation tool can be extended quite easily with our tap extension. This makes it easy to work in deeper areas without having to sacrifice efficiency and precision.",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 10",
+  "specifications": [
+    "Metric thread inserts: M 10 x 1.5 & M 10 x 1.25 & M 10 x 1.0 & M 11 x 1.5 & M 11 x 1.25 & M 11 x 1.0",
+    "UNC thread inserts: UNC 7/16 x 14",
+    "UNF thread inserts: UNF 7/16 x 20",
+    "BSW thread inserts: BSW 7/16 x 14",
+    "BSF thread inserts: BSF 7/16 x 18",
+    "G-tube (BSP) thread inserts: G 1/8 x 28",
+    "NPT thread inserts: NPT 1/8 x 27",
+    "Harley thread inserts: Harley 7/16 x 16",
+    "BSC thread inserts: BSC 7/16 x 26",
+    "BSB thread inserts: BSB 7/16 x 26",
+    "Diameter: 10",
+    "Dimension: M 10",
+    "Length: 100 mm",
+    "Product group: Wire thread inserts - Assembly tools",
+    "Product type: BaerCoil installation tools",
+    "Thread standard: M: Metric ISO standard thread according to DIN 13",
+    "Direction: Right"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm5|>
+## BaerCoil Inserting Tool M 5
+
+{
+  "price": "€7.27",
+  "description": "BaerCoil Inserting Tool with locking ring. Adapted for: Metric: M 5 x 0.8, UNC: UNC 12 x 24, UNF: UNF 10 x 32, BSW: BSW 3/16 x 24, BSF: BSF 7/32 x 28, BA: 2 BA // 1 BA, length of inserting tool: 100 mm, Square: 5 mm",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 5",
+  "specifications": [
+    "Adapted for: Metric: M 5 x 0.8",
+    "UNC: UNC 12 x 24",
+    "UNF: UNF 10 x 32",
+    "BSW: BSW 3/16 x 24",
+    "BSF: BSF 7/32 x 28",
+    "BA: 2 BA // 1 BA",
+    "Length of inserting tool: 100 mm",
+    "Square: 5 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm14|>
+## BaerCoil Inserting Tool M 14
+
+{
+  "price": "€10.82",
+  "description": "BaerCoil Inserting Tool with locking ring. Adapted for: Metric: M 14 x 2.0 // M 14 x 1.0 // M 14 x 1.25 // M 14 x 1.5 // M 15 x 2.0 // M 15 x 1.5 // M 16 x 2.0 // M 16 x 1.5 UNC: UNC 9/16 x 12 // UNC 5/8 x 11 UNF: UNF 9/16 x 18 // 5/8 x 18 BSW: BSW 9/16 x 12 // BSW 5/8 x 11 BSF: BSF 9/16 x 16 // BSF 5/8 x 14 G: G 1/4 x 19 // G 3/8 x 19 NPT: NPT 1/4 x 19",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 14",
+  "specifications": [
+    "Length of inserting tool: 100 mm",
+    "Square: 5 mm",
+    "Square: 7 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm8|>
+## BaerCoil Inserting Tool M 8
+
+{
+  "price": "€8.26",
+  "description": "BaerCoil Inserting Tool with locking ring. Adapted for: Metric: M 8 x 1.25 // M 8 x 1.0 // M 8 x 0.75 // M 9 x 1.25 // M 9 x 1,0 UNC: UNC 3/8 x 16 UNF: UNF 3/8 x 24 BSW: BSW 3/8 x 16 BSF: BSF 3/8 x 20 BSC: BSC 3/8 x 26 BSB: BSB 3/8 x 26 length of inserting tool: 100 mm Square: 7 mm",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 8",
+  "specifications": [
+    "Adapted for Metric: M 8 x 1.25, M 8 x 1.0, M 8 x 0.75, M 9 x 1.25, M 9 x 1.0",
+    "UNC: UNC 3/8 x 16",
+    "UNF: UNF 3/8 x 24",
+    "BSW: BSW 3/8 x 16",
+    "BSF: BSF 3/8 x 20",
+    "BSC: BSC 3/8 x 26",
+    "BSB: BSB 3/8 x 26",
+    "Length of inserting tool: 100 mm",
+    "Square: 7 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm4|>
+## BaerCoil Inserting Tool M 4
+
+{
+  "price": "€6.27",
+  "description": "BaerCoil Inserting Tool with locking ring. Adapted for: Metric: M 4 x 0.7, UNC: UNC 8 x 32 // UNC 10 x 24, UNF: UNF 8 x 36, BSW: 3/16 x 32, BA: 3 BA // 4 BA, length of inserting tool: 100 mm, Square: 5 mm",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 4",
+  "specifications": [
+    "Adapted for: Metric: M 4 x 0.7",
+    "UNC: UNC 8 x 32 // UNC 10 x 24",
+    "UNF: UNF 8 x 36",
+    "BSW: 3/16 x 32",
+    "BA: 3 BA // 4 BA",
+    "Length of inserting tool: 100 mm",
+    "Square: 5 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/test_deburring_item|>
+## Test_Deburring_Item
+
+{
+  "price": "€10.00",
+  "description": "For test purposes",
+  "availability": "Sold out",
+  "product_name": "Test_Deburring_Item",
+  "specifications": [
+    "Backordered and will ship as soon as it is back in stock",
     "Shipping Cost: €8.99",
     "Free Shipping on orders over €50",
     "Order before 2 PM for same-day shipping",
-    "We partner with DPD for all deliveries"
+    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/baercoilinsertingtoolm12|>
+## BaerCoil Inserting Tool M 12
+
+{
+  "price": "€9.23",
+  "description": "BaerCoil Inserting Tool with locking ring. Adapted for: Metric: M 12 x 1.75 // M 12 x 1.5 // M 12 x 1.25 // M 12 x 1.0 // M 13 x 1.5 // M 13 x 1.25 UNC: UNC 1/2 x 13 UNF: UNF 1/2 x 20 BSW: BSW 1/2 x 12 BSF: BSF 1/2 x 16 BSC: BSC 1/2 x 26 BSB: BSB 1/2 x 26",
+  "availability": "Unavailable",
+  "product_name": "BaerCoil Inserting Tool M 12",
+  "specifications": [
+    "Length of inserting tool: 100 mm",
+    "Square: 7 mm",
+    "Adapted for Metric: M 12 x 1.75, M 12 x 1.5, M 12 x 1.25, M 12 x 1.0, M 13 x 1.5, M 13 x 1.25",
+    "Adapted for UNC: UNC 1/2 x 13",
+    "Adapted for UNF: UNF 1/2 x 20",
+    "Adapted for BSW: BSW 1/2 x 12",
+    "Adapted for BSF: BSF 1/2 x 16",
+    "Adapted for BSC: BSC 1/2 x 26",
+    "Adapted for BSB: BSB 1/2 x 26"
   ]
 }
 
