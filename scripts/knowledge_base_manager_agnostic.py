@@ -368,6 +368,7 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                     continue
                 
                 # Check if file was already uploaded and hasn't changed
+                should_upload = False
                 if not force and normalized_domain in self.sync_state:
                     if file_path.name in self.sync_state[normalized_domain]:
                         stored_hash = self.sync_state[normalized_domain][file_path.name].get('hash')
@@ -378,25 +379,29 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                             continue
                         else:
                             logger.info(f"File changed, will upload: {file_path.name}")
+                            should_upload = True
                     else:
                         logger.info(f"File not in sync state, will upload: {file_path.name}")
+                        should_upload = True
                 else:
                     if force:
                         logger.info(f"Force upload enabled, will upload: {file_path.name}")
                     else:
                         logger.info(f"Domain not in sync state, will upload: {file_path.name}")
-                        
-                        # File has changed - DELETE OLD VERSION FIRST
-                        old_document_id = self.sync_state[normalized_domain][file_path.name].get('document_id')
-                        if old_document_id:
-                            logger.info(f"🗑️  Deleting old version: {file_path.name} (ID: {old_document_id})")
-                            if self._delete_document(old_document_id):
-                                logger.info(f"✅ Deleted old document: {old_document_id}")
-                                # Store previous document ID for rollback if needed
-                                self.sync_state[normalized_domain][file_path.name]['previous_document_id'] = old_document_id
-                            else:
-                                logger.warning(f"⚠️  Failed to delete old document: {old_document_id}")
-                                # Continue with upload anyway - new document will be created
+                    should_upload = True
+                
+                # If we need to upload and there's an old version, DELETE IT FIRST
+                if should_upload and normalized_domain in self.sync_state and file_path.name in self.sync_state[normalized_domain]:
+                    old_document_id = self.sync_state[normalized_domain][file_path.name].get('document_id')
+                    if old_document_id:
+                        logger.info(f"🗑️  Deleting old version: {file_path.name} (ID: {old_document_id})")
+                        if self._delete_document(old_document_id):
+                            logger.info(f"✅ Deleted old document: {old_document_id}")
+                            # Store previous document ID for rollback if needed
+                            self.sync_state[normalized_domain][file_path.name]['previous_document_id'] = old_document_id
+                        else:
+                            logger.warning(f"⚠️  Failed to delete old document: {old_document_id}")
+                            # Continue with upload anyway - new document will be created
                 
                 # Upload file
                 logger.info(f"Uploading: {file_path.name}")
