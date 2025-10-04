@@ -1,6 +1,6 @@
 # Rivvy Create LLMs.txt - Comprehensive Guide
 
-**Status:** ✅ **FULLY OPERATIONAL** | **Version:** 3.1 (Production-Ready with Quality Fixes) | **Last Updated:** October 1, 2025
+**Status:** ✅ **FULLY OPERATIONAL** | **Version:** 4.0 (Production-Ready with Race Condition Fixes) | **Last Updated:** October 4, 2025
 
 ## 🎯 System Overview
 
@@ -557,6 +557,84 @@ python3 scripts/update_llms_agnostic.py example.com --auto-discover https://exam
 - Add rate limiting for large crawls
 - Validate all input URLs and configurations
 
+## 🔧 Recent Improvements & Fixes (October 2025)
+
+### ✅ **Race Condition Resolution**
+**Problem**: Concurrent GitHub Actions runs were causing merge conflicts and sync state corruption.
+
+**Solutions Implemented**:
+- **Concurrency Control**: Added `cancel-in-progress: false` to prevent premature workflow cancellation
+- **Atomic Git Operations**: Implemented retry logic with `git pull --rebase` before critical operations
+- **File Locking**: Added `fcntl` file locking for sync state read/write operations
+- **Atomic File Writes**: Used `tempfile` and `shutil.move` for atomic sync state updates
+
+**Result**: ✅ Eliminated all race conditions and merge conflicts in concurrent runs
+
+### ✅ **Automatic Old Version Cleanup**
+**Problem**: Old document versions were accumulating in ElevenLabs, causing confusion and storage bloat.
+
+**Solution Implemented**:
+- **Pre-Upload Deletion**: System now deletes old document versions before uploading new ones
+- **Rollback Logic**: Failed uploads restore previous document IDs to prevent data loss
+- **Hash-Based Detection**: Only processes files that have actually changed
+- **Sync State Tracking**: Maintains accurate document ID mapping
+
+**Result**: ✅ Clean ElevenLabs knowledge base with no duplicate documents
+
+### ✅ **Domain Key Normalization**
+**Problem**: Inconsistent domain key handling (dotted vs hyphenated) caused sync mismatches.
+
+**Solution Implemented**:
+- **Standardized Format**: All domain keys now use hyphenated format (e.g., `jgengineering-ie`)
+- **Automatic Reconciliation**: System merges entries from dotted keys into hyphenated equivalents
+- **Validation**: Sync state validation ensures consistent key formatting
+
+**Result**: ✅ Consistent domain handling across all components
+
+### ✅ **Enhanced Error Handling**
+**Problem**: API response format changes and missing fields caused system failures.
+
+**Solutions Implemented**:
+- **Fallback Logic**: Multiple fallback options for Firecrawl API response fields
+- **KeyError Prevention**: Safe dictionary access with `.get()` methods and defaults
+- **Comprehensive Logging**: Detailed error messages with context for debugging
+- **Graceful Degradation**: System continues processing even if individual URLs fail
+
+**Result**: ✅ Resilient system that handles API changes and edge cases
+
+### ✅ **Sync State Validation & Recovery**
+**Problem**: Corrupted sync state files caused incorrect behavior and data loss.
+
+**Solutions Implemented**:
+- **Integrity Checks**: Validates sync state structure and required fields
+- **Automatic Recovery**: Fixes common sync state issues automatically
+- **Backup Creation**: Creates backup files before major operations
+- **Validation Logging**: Detailed logging of sync state operations
+
+**Result**: ✅ Robust sync state management with automatic recovery
+
+### ✅ **Observer Integration Improvements**
+**Problem**: Duplicate monitoring entries and inefficient collection management.
+
+**Solutions Implemented**:
+- **Duplicate Prevention**: Checks existing URLs before adding to observer
+- **Batch Processing**: Efficient handling of multiple collection additions
+- **Summary Reporting**: Clear feedback on added vs skipped collections
+- **Error Handling**: Graceful handling of observer API failures
+
+**Result**: ✅ Clean observer integration with no duplicates
+
+### ✅ **Workflow Reliability Enhancements**
+**Problem**: Workflow failures due to Git conflicts and timing issues.
+
+**Solutions Implemented**:
+- **Retry Logic**: Automatic retry with exponential backoff for failed operations
+- **Conflict Resolution**: Automatic resolution of common Git conflicts
+- **State Synchronization**: Ensures latest state before critical operations
+- **Comprehensive Logging**: Detailed workflow execution logs
+
+**Result**: ✅ Reliable workflow execution with minimal manual intervention
+
 ## 🎯 Future Enhancements
 
 ### Planned Features
@@ -573,18 +651,167 @@ python3 scripts/update_llms_agnostic.py example.com --auto-discover https://exam
 - [ ] Custom webhook formats
 - [ ] Machine learning for product categorization
 
+## 🛠️ Troubleshooting Guide
+
+### Common Issues & Solutions
+
+#### **Issue: All Files Being Re-uploaded Instead of Just Changed Ones**
+**Symptoms**: GitHub Actions logs show "uploaded_count: 38" instead of "uploaded_count: 1"
+**Causes**: 
+- Sync state corruption or missing entries
+- Domain key mismatch (dotted vs hyphenated)
+- Hash comparison failures
+
+**Solutions**:
+```bash
+# 1. Check sync state integrity
+cat config/elevenlabs_sync_state.json | jq .
+
+# 2. Verify domain key format (should be hyphenated)
+grep -o '"jgengineering-ie"' config/elevenlabs_sync_state.json
+
+# 3. Reset sync state if corrupted
+python3 scripts/knowledge_base_manager_agnostic.py delete --all-domains
+python3 scripts/knowledge_base_manager_agnostic.py sync --domain jgengineering-ie
+```
+
+#### **Issue: Old Documents Not Being Deleted from ElevenLabs**
+**Symptoms**: Multiple versions of same document in ElevenLabs knowledge base
+**Causes**: 
+- Automatic cleanup logic not working
+- Sync state missing previous document IDs
+
+**Solutions**:
+```bash
+# 1. Check if automatic cleanup is enabled
+grep -n "Deleting old version" scripts/knowledge_base_manager_agnostic.py
+
+# 2. Manually clean up duplicates
+python3 scripts/knowledge_base_manager_agnostic.py list --domain jgengineering-ie
+python3 scripts/knowledge_base_manager_agnostic.py delete --ids OLD_DOCUMENT_ID --force
+```
+
+#### **Issue: GitHub Actions Workflow Failures with Merge Conflicts**
+**Symptoms**: Workflow fails with "merge conflict" errors
+**Causes**: 
+- Concurrent workflow runs
+- Race conditions in Git operations
+
+**Solutions**:
+```bash
+# 1. Check workflow concurrency settings
+grep -A 3 "concurrency:" .github/workflows/update-products.yml
+
+# 2. Verify retry logic is in place
+grep -n "git pull --rebase" .github/workflows/update-products.yml
+
+# 3. Manual conflict resolution if needed
+git pull --rebase origin main
+git push origin main
+```
+
+#### **Issue: Firecrawl API KeyError: 'markdown'**
+**Symptoms**: Workflow fails with missing 'markdown' field errors
+**Causes**: 
+- Firecrawl API response format changes
+- Missing fallback logic
+
+**Solutions**:
+```bash
+# 1. Check fallback logic is implemented
+grep -n "\.get.*markdown" scripts/update_llms_agnostic.py
+
+# 2. Verify error handling
+grep -A 5 "KeyError" scripts/update_llms_agnostic.py
+```
+
+#### **Issue: Observer Adding Duplicate Collections**
+**Symptoms**: Same collection appears multiple times in observer
+**Causes**: 
+- Script not checking for existing URLs
+- Observer API not preventing duplicates
+
+**Solutions**:
+```bash
+# 1. Check duplicate prevention logic
+grep -n "check_url_exists" scripts/add_jgengineering_collections_updated.sh
+
+# 2. Manually remove duplicates from observer
+curl -X DELETE "https://rivvy-observer.vercel.app/api/websites/DUPLICATE_ID" \
+  -H "Authorization: Bearer $OBSERVER_API_KEY"
+```
+
+### Diagnostic Commands
+
+#### **System Health Check**
+```bash
+# Check all components are working
+echo "=== System Health Check ==="
+echo "1. Sync State Integrity:"
+cat config/elevenlabs_sync_state.json | jq 'keys' | wc -l
+
+echo "2. ElevenLabs Connection:"
+python3 scripts/knowledge_base_manager_agnostic.py list --domain jgengineering-ie | head -5
+
+echo "3. Observer Integration:"
+curl -s -X GET "https://rivvy-observer.vercel.app/api/websites" \
+  -H "Authorization: Bearer $OBSERVER_API_KEY" | jq '.data | length'
+
+echo "4. Workflow Configuration:"
+grep -c "cancel-in-progress: false" .github/workflows/update-products.yml
+```
+
+#### **Sync State Analysis**
+```bash
+# Analyze sync state for issues
+echo "=== Sync State Analysis ==="
+echo "Total domains: $(cat config/elevenlabs_sync_state.json | jq 'keys | length')"
+echo "Total files tracked: $(cat config/elevenlabs_sync_state.json | jq '[.[] | keys] | flatten | length')"
+echo "Domain keys: $(cat config/elevenlabs_sync_state.json | jq 'keys')"
+```
+
+### Recovery Procedures
+
+#### **Complete System Reset**
+```bash
+# 1. Backup current state
+git tag -a "backup-$(date +%Y%m%d-%H%M%S)" -m "Backup before reset"
+
+# 2. Clean ElevenLabs
+python3 scripts/knowledge_base_manager_agnostic.py delete --all-domains
+
+# 3. Reset sync state
+echo '{"jgengineering-ie": {}}' > config/elevenlabs_sync_state.json
+
+# 4. Re-upload all documents
+python3 scripts/knowledge_base_manager_agnostic.py sync --domain jgengineering-ie
+
+# 5. Commit changes
+git add . && git commit -m "System reset completed"
+```
+
+#### **Restore from Working State**
+```bash
+# Restore to last known working state
+git checkout v1.0-working-state-20251004-232548
+git checkout -b restore-$(date +%Y%m%d)
+git push origin HEAD
+```
+
 ## 📞 Support & Maintenance
 
 ### Monitoring
 - **GitHub Actions**: Monitor workflow runs
 - **ElevenLabs Dashboard**: Check agent status
 - **Logs**: Review processing logs for issues
+- **Sync State**: Monitor `config/elevenlabs_sync_state.json` for corruption
 
 ### Maintenance Tasks
-- **Regular**: Monitor sync state file size
-- **Periodic**: Review agent configurations
+- **Regular**: Monitor sync state file size and integrity
+- **Periodic**: Review agent configurations and document counts
 - **As Needed**: Update API keys and secrets
 - **Configuration**: Update site configs for new patterns
+- **Weekly**: Run system health check diagnostic commands
 
 ## 🎉 System Status: FULLY OPERATIONAL
 
