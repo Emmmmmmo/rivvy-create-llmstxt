@@ -194,6 +194,18 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                             logger.info(f"Skipping unchanged file: {file_path.name}")
                             skipped_count += 1
                             continue
+                        
+                        # File has changed - DELETE OLD VERSION FIRST
+                        old_document_id = self.sync_state[domain][file_path.name].get('document_id')
+                        if old_document_id:
+                            logger.info(f"🗑️  Deleting old version: {file_path.name} (ID: {old_document_id})")
+                            if self._delete_document(old_document_id):
+                                logger.info(f"✅ Deleted old document: {old_document_id}")
+                                # Store previous document ID for rollback if needed
+                                self.sync_state[domain][file_path.name]['previous_document_id'] = old_document_id
+                            else:
+                                logger.warning(f"⚠️  Failed to delete old document: {old_document_id}")
+                                # Continue with upload anyway - new document will be created
                 
                 # Upload file
                 logger.info(f"Uploading: {file_path.name}")
@@ -238,6 +250,17 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                         
                     else:
                         logger.error(f"Failed to upload {file_path.name}: {response.status_code} - {response.text}")
+                        
+                        # Rollback: Restore previous document ID if upload failed after deletion
+                        if domain in self.sync_state and file_path.name in self.sync_state[domain]:
+                            previous_doc_id = self.sync_state[domain][file_path.name].get('previous_document_id')
+                            if previous_doc_id:
+                                logger.warning(f"🔄 Upload failed, keeping previous document ID: {previous_doc_id}")
+                                self.sync_state[domain][file_path.name]['document_id'] = previous_doc_id
+                                # Remove the previous_document_id field since we're keeping it
+                                if 'previous_document_id' in self.sync_state[domain][file_path.name]:
+                                    del self.sync_state[domain][file_path.name]['previous_document_id']
+                        
                         error_count += 1
                 
                 # Rate limiting
@@ -498,6 +521,10 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         except Exception as e:
             logger.error(f"Error deleting document {document_id}: {e}")
             return False
+    
+    def _delete_document(self, document_id: str) -> bool:
+        """Delete a document from the knowledge base (alias for _delete_single_document)."""
+        return self._delete_single_document(document_id, force=True)
     
     def _get_all_knowledge_base_documents(self) -> List[Dict]:
         """Get all documents from the global knowledge base with pagination."""
