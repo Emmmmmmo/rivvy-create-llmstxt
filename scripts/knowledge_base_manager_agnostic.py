@@ -95,21 +95,33 @@ class AgnosticElevenLabsKnowledgeBaseManager:
             return {}
     
     def _load_sync_state(self) -> Dict:
-        """Load sync state for tracking uploaded files."""
+        """Load sync state for tracking uploaded files with atomic operations."""
         try:
             if self.sync_state_file.exists():
+                # Read with file locking to prevent race conditions
+                import fcntl
                 with open(self.sync_state_file, 'r') as f:
-                    return json.load(f)
+                    fcntl.flock(f.fileno(), fcntl.LOCK_SH)  # Shared lock for reading
+                    try:
+                        return json.load(f)
+                    finally:
+                        fcntl.flock(f.fileno(), fcntl.LOCK_UN)  # Release lock
+            else:
+                logger.info("Sync state file not found, creating new one")
+                return {}
         except Exception as e:
             logger.warning(f"Error loading sync state: {e}")
-        return {}
+            return {}
     
     def _normalize_domain_key(self, domain: str) -> str:
         """Normalize domain keys to hyphenated form used in out/ directory.
-
+        
+        This ensures consistent domain key handling across all components.
+        
         Examples:
         - "www.example.com" -> "example-com"
         - "example.com" -> "example-com"
+        - "jgengineering.ie" -> "jgengineering-ie"
         - "example-com" -> "example-com"
         """
         if not domain:
@@ -168,14 +180,93 @@ class AgnosticElevenLabsKnowledgeBaseManager:
             self.sync_state[normalized] = self.sync_state.pop(alt)
             self._save_sync_state()
 
-    def _save_sync_state(self):
-        """Save sync state to file."""
+    def _validate_sync_state(self) -> bool:
+        """Validate sync state integrity and fix common issues."""
         try:
+            if not isinstance(self.sync_state, dict):
+                logger.error("Sync state is not a dictionary, resetting")
+                self.sync_state = {}
+                return False
+            
+            # Check for duplicate domain keys (dotted vs hyphenated)
+            domains = list(self.sync_state.keys())
+            normalized_domains = [self._normalize_domain_key(d) for d in domains]
+            
+            if len(domains) != len(set(normalized_domains)):
+                logger.warning("Found duplicate domain keys, reconciling...")
+                self._reconcile_all_domain_keys()
+                return False
+            
+            # Validate file entries
+            for domain, files in self.sync_state.items():
+                if not isinstance(files, dict):
+                    logger.error(f"Invalid file structure for domain {domain}, resetting")
+                    self.sync_state[domain] = {}
+                    continue
+                
+                for filename, file_data in files.items():
+                    if not isinstance(file_data, dict):
+                        logger.error(f"Invalid file data for {domain}/{filename}, removing")
+                        del self.sync_state[domain][filename]
+                        continue
+                    
+                    # Check required fields
+                    required_fields = ['hash', 'document_id', 'uploaded_at']
+                    for field in required_fields:
+                        if field not in file_data:
+                            logger.warning(f"Missing {field} for {domain}/{filename}")
+            
+            return True
+            
+        except Exception as e:
+            logger.error(f"Error validating sync state: {e}")
+            return False
+    
+    def _reconcile_all_domain_keys(self):
+        """Reconcile all domain keys in sync state."""
+        try:
+            domains_to_process = list(self.sync_state.keys())
+            for domain in domains_to_process:
+                self._reconcile_sync_state_keys(domain)
+        except Exception as e:
+            logger.error(f"Error reconciling domain keys: {e}")
+    
+    def _save_sync_state(self):
+        """Save sync state to file with atomic operations and validation."""
+        try:
+            # Validate sync state before saving
+            if not self._validate_sync_state():
+                logger.warning("Sync state validation failed, but continuing with save")
+            
             self.sync_state_file.parent.mkdir(parents=True, exist_ok=True)
-            with open(self.sync_state_file, 'w') as f:
-                json.dump(self.sync_state, f, indent=2)
+            import fcntl
+            import tempfile
+            
+            # Write to temporary file first, then atomically move
+            with tempfile.NamedTemporaryFile(mode='w', dir=self.sync_state_file.parent, 
+                                           prefix='.sync_state_', suffix='.tmp', delete=False) as tmp_file:
+                json.dump(self.sync_state, tmp_file, indent=2)
+                tmp_path = tmp_file.name
+            
+            # Atomic move with file locking
+            with open(tmp_path, 'r') as f:
+                fcntl.flock(f.fileno(), fcntl.LOCK_EX)  # Exclusive lock
+                try:
+                    import shutil
+                    shutil.move(tmp_path, self.sync_state_file)
+                    logger.debug("Sync state saved successfully")
+                finally:
+                    fcntl.flock(f.fileno(), fcntl.LOCK_UN)  # Release lock
+                    
         except Exception as e:
             logger.error(f"Error saving sync state: {e}")
+            # Clean up temp file if it exists
+            try:
+                import os
+                if 'tmp_path' in locals() and os.path.exists(tmp_path):
+                    os.unlink(tmp_path)
+            except:
+                pass
     
     def _get_file_hash(self, file_path: Path) -> str:
         """Calculate MD5 hash of file content."""
@@ -221,20 +312,22 @@ class AgnosticElevenLabsKnowledgeBaseManager:
     
     def upload_files(self, domain: str, force: bool = False) -> Dict[str, Any]:
         """Upload LLMs.txt files to ElevenLabs knowledge base for a domain."""
-        logger.info(f"Uploading files for domain: {domain}")
+        # Normalize domain key to ensure consistency
+        normalized_domain = self._normalize_domain_key(domain)
+        logger.info(f"Uploading files for domain: {domain} (normalized: {normalized_domain})")
         
         # Debug: Log sync state info
         logger.info(f"Sync state file exists: {self.sync_state_file.exists()}")
         logger.info(f"Sync state file size: {self.sync_state_file.stat().st_size if self.sync_state_file.exists() else 0}")
-        logger.info(f"Domain in sync state: {domain in self.sync_state}")
-        if domain in self.sync_state:
-            logger.info(f"Files in sync state for {domain}: {len(self.sync_state[domain])}")
+        logger.info(f"Domain in sync state: {normalized_domain in self.sync_state}")
+        if normalized_domain in self.sync_state:
+            logger.info(f"Files in sync state for {normalized_domain}: {len(self.sync_state[normalized_domain])}")
         
         # Reconcile sync-state keys so dotted/hyphenated domains don't duplicate uploads
         try:
-            self._reconcile_sync_state_keys(domain)
+            self._reconcile_sync_state_keys(normalized_domain)
         except Exception as e:
-            logger.warning(f"Failed to reconcile sync state keys for {domain}: {e}")
+            logger.warning(f"Failed to reconcile sync state keys for {normalized_domain}: {e}")
         
         # Get agent configuration
         agent_config = self._get_agent_for_domain(domain)
@@ -245,9 +338,8 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         if not agent_id:
             return {"error": f"No agent_id found in configuration for domain: {domain}"}
         
-        # Find domain directory
-        site_name = domain.replace('www.', '').replace('.', '-')
-        domain_dir = Path("out") / site_name
+        # Find domain directory using normalized domain
+        domain_dir = Path("out") / normalized_domain
         
         if not domain_dir.exists():
             return {"error": f"Domain directory not found: {domain_dir}"}
@@ -257,9 +349,9 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         if not llms_files:
             return {"error": f"No LLMs.txt files found in {domain_dir}"}
         
-        # Initialize sync state for domain if not exists
-        if domain not in self.sync_state:
-            self.sync_state[domain] = {}
+        # Initialize sync state for normalized domain if not exists
+        if normalized_domain not in self.sync_state:
+            self.sync_state[normalized_domain] = {}
         
         uploaded_count = 0
         skipped_count = 0
@@ -276,9 +368,9 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                     continue
                 
                 # Check if file was already uploaded and hasn't changed
-                if not force and domain in self.sync_state:
-                    if file_path.name in self.sync_state[domain]:
-                        stored_hash = self.sync_state[domain][file_path.name].get('hash')
+                if not force and normalized_domain in self.sync_state:
+                    if file_path.name in self.sync_state[normalized_domain]:
+                        stored_hash = self.sync_state[normalized_domain][file_path.name].get('hash')
                         logger.info(f"File {file_path.name}: stored_hash={stored_hash}, current_hash={file_hash}")
                         if stored_hash == file_hash:
                             logger.info(f"Skipping unchanged file: {file_path.name}")
@@ -295,13 +387,13 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                         logger.info(f"Domain not in sync state, will upload: {file_path.name}")
                         
                         # File has changed - DELETE OLD VERSION FIRST
-                        old_document_id = self.sync_state[domain][file_path.name].get('document_id')
+                        old_document_id = self.sync_state[normalized_domain][file_path.name].get('document_id')
                         if old_document_id:
                             logger.info(f"🗑️  Deleting old version: {file_path.name} (ID: {old_document_id})")
                             if self._delete_document(old_document_id):
                                 logger.info(f"✅ Deleted old document: {old_document_id}")
                                 # Store previous document ID for rollback if needed
-                                self.sync_state[domain][file_path.name]['previous_document_id'] = old_document_id
+                                self.sync_state[normalized_domain][file_path.name]['previous_document_id'] = old_document_id
                             else:
                                 logger.warning(f"⚠️  Failed to delete old document: {old_document_id}")
                                 # Continue with upload anyway - new document will be created
@@ -329,10 +421,10 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                         document_id = result.get('document_id') or result.get('id')
                         
                         # Update sync state
-                        if domain not in self.sync_state:
-                            self.sync_state[domain] = {}
+                        if normalized_domain not in self.sync_state:
+                            self.sync_state[normalized_domain] = {}
                         
-                        self.sync_state[domain][file_path.name] = {
+                        self.sync_state[normalized_domain][file_path.name] = {
                             'hash': file_hash,
                             'document_id': document_id,
                             'uploaded_at': datetime.now().isoformat(),
@@ -352,14 +444,14 @@ class AgnosticElevenLabsKnowledgeBaseManager:
                         logger.error(f"Failed to upload {file_path.name}: {response.status_code} - {response.text}")
                         
                         # Rollback: Restore previous document ID if upload failed after deletion
-                        if domain in self.sync_state and file_path.name in self.sync_state[domain]:
-                            previous_doc_id = self.sync_state[domain][file_path.name].get('previous_document_id')
+                        if normalized_domain in self.sync_state and file_path.name in self.sync_state[normalized_domain]:
+                            previous_doc_id = self.sync_state[normalized_domain][file_path.name].get('previous_document_id')
                             if previous_doc_id:
                                 logger.warning(f"🔄 Upload failed, keeping previous document ID: {previous_doc_id}")
-                                self.sync_state[domain][file_path.name]['document_id'] = previous_doc_id
+                                self.sync_state[normalized_domain][file_path.name]['document_id'] = previous_doc_id
                                 # Remove the previous_document_id field since we're keeping it
-                                if 'previous_document_id' in self.sync_state[domain][file_path.name]:
-                                    del self.sync_state[domain][file_path.name]['previous_document_id']
+                                if 'previous_document_id' in self.sync_state[normalized_domain][file_path.name]:
+                                    del self.sync_state[normalized_domain][file_path.name]['previous_document_id']
                         
                         error_count += 1
                 
@@ -374,7 +466,7 @@ class AgnosticElevenLabsKnowledgeBaseManager:
         self._save_sync_state()
         
         return {
-            "domain": domain,
+            "domain": normalized_domain,
             "uploaded_count": uploaded_count,
             "skipped_count": skipped_count,
             "error_count": error_count,
