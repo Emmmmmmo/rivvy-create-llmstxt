@@ -1114,19 +1114,3 @@
   ]
 }
 
-<|https://www.jgengineering.ie/collections/baer-hand-taps/products/baer_handtaps_test|>
-## Baer_Handtaps_TEST
-
-{
-  "price": "€10.00",
-  "description": "Baer_Handtaps_TEST is backordered and will ship as soon as it is back in stock.",
-  "availability": "Sold out",
-  "product_name": "Baer_Handtaps_TEST",
-  "specifications": [
-    "Shipping Cost: €8.99",
-    "Free Shipping on orders over €50",
-    "Order before 2 PM for same-day shipping",
-    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
-  ]
-}
-
