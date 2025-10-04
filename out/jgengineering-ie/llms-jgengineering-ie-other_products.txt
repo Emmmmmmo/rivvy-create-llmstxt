@@ -455,14 +455,10 @@
   ]
 }
 
-<|https://www.jgengineering.ie/products/batterytesterforaaaaacd9v|>
-## Battery Tester for AA, AAA, C, D & 9V
 
 {
   "price": "€5.99",
-  "description": "Battery Tester for AA, AAA, C, D & 9V is backordered and will ship as soon as it is back in stock.",
   "availability": "Unavailable",
-  "product_name": "Battery Tester for AA, AAA, C, D & 9V",
   "specifications": [
     "SKU: 5023969299655",
     "Shipping Cost: €8.99",

@@ -2549,12 +2549,6 @@
     "shard": "thread_repair",
     "updated_at": "2025-10-01T09:54:11.768831"
   },
-  "https://www.jgengineering.ie/products/test_deburring_item": {
-    "title": "Test_Deburring_Item",
-    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Backordered and will ship as soon as it is back in stock.\"\n  ]\n}",
-    "shard": "clips_rings",
-    "updated_at": "2025-10-01T09:54:26.822351"
-  },
   "https://www.jgengineering.ie/products/baer-hssg-short-machine-tap-form-d-pg-9-x-18": {
     "title": "BAER HSSG Short Machine Tap Form D - PG 9 x 18",
     "markdown": "{\n  \"price\": \"€19.45\",\n  \"description\": \"Short machine taps allow you to cut a finished thread with just one tool in one step, even by hand. Exact internal thread can be cut by hand or semi-professionally by machine to save time. Compared to the machine tap, the short machine tap has a short shank. This allows you to cut internal thread by hand without jamming and can be operated with tap wrenches, tool ratchets or other holding tools with square drive. The thread can be cut in a pre-drilled core hole and does not require any preparatory work by a taper tap (No. 1) or intermediate tap (No. 2). This internal tap clearly offers the price advantage over the hand tap set, as you no longer need two or three screw taps for thread cutting, but only one screw tap. The high time saving also significantly increases the efficiency of thread cutting. Due to the short chamfer and the straight flutes, chip is mainly absorbed by the flutes and is not removed during cutting. We recommend removing the chip from the flutes with a brush, compressed air or similar after each thread to prevent chip jamming. This chamfer form makes the screw tap reliable and universally applicable for through holes and blind holes.\",\n  \"availability\": \"Unavailable\",\n  \"product_name\": \"BAER HSSG Short Machine Tap Form D - PG 9 x 18\",\n  \"specifications\": [\n    \"Diameter: 9\",\n    \"Nominal diameter in inches: 0.598\",\n    \"Nominal diameter in mm: 15.2\",\n    \"Pitch: 18\",\n    \"Pitch in mm: 1.41\",\n    \"Dimension: PG 9 x 18\",\n    \"Product group: Screw taps\",\n    \"Product type: Short machine taps\",\n    \"Thread standard: PG: Armored conduit thread according to DIN 40430\",\n    \"Tolerance: medium\",\n    \"Direction: Right\",\n    \"Standard: DIN 40432\",\n    \"Tensile strength at room temperature: up to 900 N/mm² | 27.1 HRC\",\n    \"Material: HSSG bright\"\n  ]\n}",
@@ -5717,12 +5711,6 @@
     "shard": "thread_repair",
     "updated_at": "2025-10-01T11:53:36.872186"
   },
-  "https://www.jgengineering.ie/products/batterytesterforaaaaacd9v": {
-    "title": "Battery Tester for AA, AAA, C, D & 9V",
-    "markdown": "{\n  \"price\": \"€5.99\",\n  \"description\": \"Battery Tester for AA, AAA, C, D & 9V is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Unavailable\",\n  \"product_name\": \"Battery Tester for AA, AAA, C, D & 9V\",\n  \"specifications\": [\n    \"SKU: 5023969299655\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
-    "shard": "other_products",
-    "updated_at": "2025-10-01T11:53:46.738935"
-  },
   "https://www.jgengineering.ie/products/harley-1-4-x-24-baercoil-kit-helicoil": {
     "title": "Harley 1/4 x 24 BaerCoil Kit (Helicoil Type)",
     "markdown": "{\n  \"price\": \"€85.35\",\n  \"description\": \"Complete BaerCoil Thread-Repair-Kit for Harley Davidson special Harley-Davidson 1/4 - 24 Contents: 1 x HSSG BaerCoil Standard Drill 1 x HSSG BaerCoil Tap 1 x BaerCoil Inserting Tool 1 x BaerCoil Tang Break Tool + 10 BaerCoil Wire-Thread-Inserts \\\"free running\\\", stainless steel (ASIS 304), length: 1,5 x D\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Harley 1/4 x 24 BaerCoil Kit (Helicoil Type)\",\n  \"specifications\": [\n    \"Thread Repair of damaged or worn-out threads\",\n    \"Recovery of rejected items\",\n    \"Thread Armour Plating for materials with low shear strength such as aluminium alloys and magnesium alloys\"\n  ]\n}",
@@ -6941,12 +6929,6 @@
     "shard": "kits_sets",
     "updated_at": "2025-10-01T12:44:16.795678"
   },
-  "https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/test_deburring_item": {
-    "title": "Test_Deburring_Item",
-    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Backordered and will ship as soon as it is back in stock\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
-    "shard": "baercoil_inserting_tools_ireland",
-    "updated_at": "2025-10-01T12:44:25.709074"
-  },
   "https://www.jgengineering.ie/collections/baercoil-drill-bits/products/m27-50-baercoil-drill-bit": {
     "title": "M27.50 BaerCoil Drill Bit",
     "markdown": "{\n  \"price\": \"€89.00\",\n  \"description\": \"BaerCoil spiral drill for BaerCoil taps with Morse taper; DIN 345 right. Diameter: 27,50mm. Fitting BaerCoil taps: M 27 x 2,0, M 27 x 1,5\",\n  \"availability\": \"Unavailable\",\n  \"product_name\": \"M27.50 BaerCoil Drill Bit\",\n  \"specifications\": [\n    \"Diameter: 27.50mm\",\n    \"Fitting BaerCoil taps: M 27 x 2.0\",\n    \"Fitting BaerCoil taps: M 27 x 1.5\",\n    \"Morse taper; DIN 345 right\"\n  ]\n}",
@@ -7318,12 +7300,6 @@
     "markdown": "{\n  \"price\": \"€3.87\",\n  \"description\": \"External Circlips: The most common form of axially fitted circlips for shafts with grooves. The circlip has a large free diameter and gap width, consequently it fits more tightly into the groove and provides higher and more uniform thrust load capacity. Lugs with holes are provided for rapid fitting or removal with circlip pliers. Standard material: Carbon Spring Steel - Standard Finish: Phosphate and Oil. Benefits: Cost effective replacement, durable, removable. 1. Printing and precision applications 2. Pharmaceutical and food industry 3. Gearboxes and differentials 4. Light and heavy industrial use 5. General engineering applications 6. Great Quality parts shipped the same day\",\n  \"availability\": \"Unavailable\",\n  \"product_name\": \"17mm External Circlip Carbon Black\",\n  \"specifications\": [\n    \"Pack Size: Pack of 2, Pack of 5, Pack of 10, Pack of 50, Pack of 100\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\"\n  ]\n}",
     "shard": "external_circlips",
     "updated_at": "2025-10-01T12:56:52.307132"
-  },
-  "https://www.jgengineering.ie/collections/baercoil-workshop-kits-helicoil/products/test_deburring_item": {
-    "title": "Test_Deburring_Item",
-    "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"For test purposes\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Test_Deburring_Item\",\n  \"specifications\": [\n    \"Tax included\",\n    \"Backordered and will ship as soon as it is back in stock\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\"\n  ]\n}",
-    "shard": "baercoil_workshop_kits_helicoil",
-    "updated_at": "2025-10-01T12:57:01.217468"
   },
   "https://www.jgengineering.ie/products/m16x20baerfixkiteco": {
     "title": "M16 X 2.0 BAERFIX KIT ECO",
