@@ -360,19 +360,3 @@
   ]
 }
 
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/bottomingtap_test|>
-## Bottomingtap_TEST
-
-{
-  "price": "€15.00",
-  "description": "Bottomingtap_TEST is backordered and will ship as soon as it is back in stock.",
-  "availability": "Sold out",
-  "product_name": "Bottomingtap_TEST",
-  "specifications": [
-    "Shipping Cost: €8.99",
-    "Free Shipping on orders over €50",
-    "Order before 2 PM for same-day shipping",
-    "Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa"
-  ]
-}
-
