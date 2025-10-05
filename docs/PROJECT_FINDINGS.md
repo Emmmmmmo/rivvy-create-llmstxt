@@ -1,8 +1,9 @@
 # Ranked Findings and Suggestions
 
-1. **ElevenLabs sync state leaves obsolete documents online**  
+1. **ElevenLabs sync state leaves obsolete documents online** ✅ **RESOLVED**  
    - **Impact:** `scripts/knowledge_base_manager_agnostic.py` skips the deletion branch for changed shards during routine syncs, so new uploads accumulate while the old documents remain in ElevenLabs. The growing `config/elevenlabs_sync_state.json` already shows `kits_sets_part1_part1`-style duplicates, and the remote KB keeps outdated content.  
-   - **Suggestions:** Always delete (or overwrite) the prior document when a hash changes, persist the new document ID atomically, and introduce a reconciliation pass that compares the sync state against ElevenLabs’ inventory to purge retired shards.
+   - **Suggestions:** Always delete (or overwrite) the prior document when a hash changes, persist the new document ID atomically, and introduce a reconciliation pass that compares the sync state against ElevenLabs' inventory to purge retired shards.
+   - **Resolution:** ✅ **FIXED** - GitHub Actions logs from 2025-10-05 show automatic old version cleanup working perfectly: `🗑️ Deleting old version: llms-jgengineering-ie-baercoil_inserting_tools_ireland.txt (ID: EJut4oTEzajIGtavO7Sq)` followed by successful upload of new version. Hash comparison and incremental sync working correctly with `uploaded_count: 1, skipped_count: 37`.
 
 2. **No cleanup path for removed shards**  
    - **Impact:** When a local shard file disappears (rename, re-split, product removal), it stays in both `config/elevenlabs_sync_state.json` and the remote agent. Over time the KB diverges badly from the files in `out/`.  

@@ -39,6 +39,103 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+class PendingQueue:
+    """Persistent FIFO queue for pending product URLs."""
+
+    def __init__(self, path: str):
+        self.path = path
+        self.items: List[Dict[str, Any]] = []
+        self._index: Dict[str, int] = {}
+        self._load()
+
+    def _load(self):
+        if not os.path.exists(self.path):
+            self.items = []
+            self._rebuild_index()
+            return
+
+        try:
+            with open(self.path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            self.items = data.get("pending", []) if isinstance(data, dict) else []
+        except Exception as exc:  # pragma: no cover - defensive, should not happen often
+            logger.warning(f"Failed to load pending queue from {self.path}: {exc}")
+            self.items = []
+        self._rebuild_index()
+
+    def _rebuild_index(self):
+        self._index = {}
+        for idx, item in enumerate(self.items):
+            normalized = item.get("normalized_url")
+            if normalized:
+                self._index[normalized] = idx
+
+    def save(self):
+        os.makedirs(os.path.dirname(self.path), exist_ok=True)
+        tmp_path = f"{self.path}.tmp"
+        payload = {"pending": self.items}
+        with open(tmp_path, "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
+        os.replace(tmp_path, self.path)
+
+    def enqueue(self, url: str, normalized_url: str, metadata: Optional[Dict[str, Any]] = None) -> bool:
+        """Add a new URL to the tail of the queue if not already present."""
+        if normalized_url in self._index:
+            return False
+
+        entry = {
+            "url": url,
+            "normalized_url": normalized_url,
+            "metadata": metadata or {},
+            "discovered_at": datetime.now().isoformat()
+        }
+        self.items.append(entry)
+        self._index[normalized_url] = len(self.items) - 1
+        return True
+
+    def enqueue_entry(self, entry: Dict[str, Any]) -> bool:
+        """Re-add an existing entry (e.g., after a failed scrape)."""
+        normalized_url = entry.get("normalized_url")
+        if not normalized_url:
+            return False
+        if normalized_url in self._index:
+            return False
+        self.items.append(entry)
+        self._index[normalized_url] = len(self.items) - 1
+        return True
+
+    def dequeue_batch(self, size: int) -> List[Dict[str, Any]]:
+        if size <= 0:
+            return []
+        batch = self.items[:size]
+        self.items = self.items[size:]
+        self._rebuild_index()
+        return batch
+
+    def peek_batch(self, size: int, offset: int = 0) -> List[Dict[str, Any]]:
+        if size <= 0:
+            return []
+        start = max(offset, 0)
+        end = start + size
+        return self.items[start:end]
+
+    def prune(self, existing_urls: Set[str]) -> int:
+        """Remove any queued URLs already present in index/manifest."""
+        before = len(self.items)
+        if not existing_urls:
+            return 0
+        self.items = [item for item in self.items if item.get("normalized_url") not in existing_urls]
+        removed = before - len(self.items)
+        if removed:
+            self._rebuild_index()
+        return removed
+
+    def __len__(self) -> int:
+        return len(self.items)
+
+    def as_list(self) -> List[Dict[str, Any]]:
+        return list(self.items)
+
 def retry_with_backoff(func, max_retries=3, initial_delay=2, backoff_multiplier=2):
     """
     Retry a function with exponential backoff.
@@ -77,7 +174,21 @@ def retry_with_backoff(func, max_retries=3, initial_delay=2, backoff_multiplier=
 class AgnosticLLMsUpdater:
     """Agnostic LLMs.txt updater that works with any configured website."""
     
-    def __init__(self, firecrawl_api_key: str, domain: str, output_dir: str = "out", max_characters: int = 300000, use_diff_extraction: bool = False):
+    def __init__(
+        self,
+        firecrawl_api_key: str,
+        domain: str,
+        output_dir: str = "out",
+        max_characters: int = 300000,
+        use_diff_extraction: bool = False,
+        batch_size: Optional[int] = None,
+        max_batches: Optional[int] = None,
+        force_refresh: bool = False,
+        dry_run: bool = False,
+        pending_queue_path: Optional[str] = None,
+        disable_discovery: bool = False,
+        discovery_only: bool = False,
+    ):
         """Initialize the updater with domain and configuration."""
         self.firecrawl_api_key = firecrawl_api_key
         self.domain = domain
@@ -108,7 +219,37 @@ class AgnosticLLMsUpdater:
         # Load existing data
         self.url_index = self._load_url_index()
         self.manifest = self._load_manifest()
+        self.existing_urls: Set[str] = set(self.url_index.keys())
         
+        # Batch handling + queue configuration
+        self.force_refresh = force_refresh
+        self.dry_run = dry_run
+        self.disable_discovery = disable_discovery
+        self.discovery_only = discovery_only
+        self.max_batches = max_batches if max_batches and max_batches > 0 else 1
+
+        effective_batch_size = batch_size
+        if self.domain == "mydiy.ie" and effective_batch_size is None:
+            # Default to conservative batches for mydiy.ie unless explicitly overridden
+            effective_batch_size = 50
+        if effective_batch_size is not None and effective_batch_size <= 0:
+            effective_batch_size = None
+        self.batch_size = effective_batch_size
+        self.batch_mode = self.batch_size is not None
+
+        queue_path = pending_queue_path or os.path.join(self.site_output_dir, "pending-queue.json")
+        self.pending_queue_path = queue_path
+        self.pending_queue = PendingQueue(queue_path)
+        removed_from_queue = self.pending_queue.prune(self.existing_urls)
+        if removed_from_queue:
+            logger.info(f"Pruned {removed_from_queue} URLs already present in index from pending queue")
+
+        # Initialize retry queue for failed URLs
+        retry_queue_path = os.path.join(self.site_output_dir, "retry-queue.json")
+        self.retry_queue_path = retry_queue_path
+        self.retry_queue = PendingQueue(retry_queue_path)
+        logger.info(f"Retry queue initialized with {len(self.retry_queue)} URLs")
+
         logger.info(f"Initialized for {self.site_config['name']} ({domain})")
     
     def _load_url_index(self) -> Dict[str, Dict[str, Any]]:
@@ -227,7 +368,8 @@ class AgnosticLLMsUpdater:
                     "url": self.site_config["base_url"],
                     "limit": limit,
                     "includeSubdomains": True
-                }
+                },
+                timeout=90  # 90 second timeout for map operations
             )
             response.raise_for_status()
             
@@ -584,6 +726,9 @@ class AgnosticLLMsUpdater:
     def _scrape_category_page(self, url: str) -> Optional[Dict[str, Any]]:
         """Scrape category page and extract all individual product URLs, then scrape each product."""
         try:
+            # Rate limiting: wait 1 second before API call
+            time.sleep(1)
+            
             # Ensure EUR currency for proper pricing
             eur_url = self._ensure_eur_currency(url)
             
@@ -594,7 +739,8 @@ class AgnosticLLMsUpdater:
                     "url": eur_url,
                     "formats": ["markdown"],
                     "onlyMainContent": True
-                }
+                },
+                timeout=60  # 60 second timeout for scrape operations
             )
             response.raise_for_status()
             
@@ -626,7 +772,11 @@ class AgnosticLLMsUpdater:
                 
                 # Extract all product URLs from the collection page
                 product_urls = self._extract_product_url_from_diff(content, removed_only=False)
-                logger.info(f"Found {len(product_urls)} product URLs in collection page: {url}")
+                
+                if len(product_urls) == 0:
+                    logger.info(f"ℹ️  Category page (no direct product listings): {url}")
+                else:
+                    logger.info(f"Found {len(product_urls)} product URLs in collection page: {url}")
                 
                 # Scrape each individual product page
                 scraped_products = []
@@ -652,7 +802,10 @@ class AgnosticLLMsUpdater:
                 for product in scraped_products:
                     combined_content += f"<|{product['url']}|>\n## {product['title']}\n\n{product['content']}\n\n"
                 
-                logger.info(f"Successfully scraped {len(scraped_products)} products from collection page")
+                if len(scraped_products) > 0:
+                    logger.info(f"✅ Successfully scraped {len(scraped_products)} products from collection page")
+                else:
+                    logger.debug(f"No products found on category page (this is normal for navigation pages)")
                 
                 return {
                     "url": eur_url,  # Use EUR URL for indexing
@@ -697,6 +850,9 @@ class AgnosticLLMsUpdater:
     def _extract_product_data(self, url: str) -> Optional[Dict[str, Any]]:
         """Extract structured product data using Firecrawl scrape endpoint with JSON format."""
         try:
+            # Rate limiting: wait 1 second before API call
+            time.sleep(1)
+            
             # Ensure EUR currency for proper pricing
             eur_url = self._ensure_eur_currency(url)
             
@@ -749,8 +905,10 @@ class AgnosticLLMsUpdater:
                     logger.warning(f"Request error scraping {eur_url}: {e}")
                     return None  # Return None to trigger retry
             
-            # Use retry logic with increased retries for timeouts
-            response = retry_with_backoff(make_request, max_retries=5, initial_delay=3)
+            # NO automatic retries - fail fast and move to retry queue
+            # This prevents any API wastage on problematic URLs
+            # Users can manually retry later with --process-retry-queue
+            response = make_request()
             
             if response:
                 data = response.json()
@@ -826,7 +984,9 @@ class AgnosticLLMsUpdater:
         
         if normalized_url not in self.manifest[shard_key]:
             self.manifest[shard_key].append(normalized_url)
-        
+
+        self.existing_urls.add(normalized_url)
+
         return shard_key
     
     def _remove_url_data(self, url: str):
@@ -835,12 +995,13 @@ class AgnosticLLMsUpdater:
         
         logger.info(f"🗑️  Attempting to remove URL: {url}")
         logger.info(f"   Normalized to: {normalized_url}")
-        
+
         if normalized_url in self.url_index:
             shard_key = self.url_index[normalized_url]["shard"]
             logger.info(f"   Found in url_index under shard: {shard_key}")
             del self.url_index[normalized_url]
             logger.info(f"   ✅ Removed from url_index")
+            self.existing_urls.discard(normalized_url)
             
             # Remove from manifest
             if shard_key in self.manifest:
@@ -904,6 +1065,189 @@ class AgnosticLLMsUpdater:
         
         logger.info(f"Wrote shard file: {filename} ({total_chars} characters)")
         return [filepath]
+
+    def _should_skip_existing(self, normalized_url: str) -> bool:
+        """Return True if URL already scraped and refresh not forced."""
+        return not self.force_refresh and normalized_url in self.existing_urls
+    
+    def _add_to_retry_queue(self, entry: Dict[str, Any]) -> None:
+        """Add a failed URL to the retry queue for manual review/retry later."""
+        url = entry.get("url")
+        normalized_url = entry.get("normalized_url")
+        
+        # Only add if not already in retry queue
+        if not self.retry_queue.contains(normalized_url):
+            self.retry_queue.enqueue_entry(entry)
+            self.retry_queue.save()
+            logger.info(f"Added to retry queue: {url}")
+        else:
+            logger.debug(f"Already in retry queue: {url}")
+
+    def _enqueue_for_batch(
+        self,
+        url: str,
+        category_shard_key: Optional[str] = None,
+        source_category: Optional[str] = None,
+    ) -> Dict[str, Any]:
+        """Queue a URL for batched scraping, capturing skip/duplicate status."""
+        normalized_url = self._normalize_url(url)
+        result = {
+            "url": url,
+            "normalized_url": normalized_url,
+            "queued": False,
+            "skipped_existing": False,
+            "duplicate": False,
+        }
+
+        if self._should_skip_existing(normalized_url):
+            result["skipped_existing"] = True
+            return result
+
+        metadata: Dict[str, Any] = {"attempts": 0}
+        if category_shard_key:
+            metadata["category_shard_key"] = category_shard_key
+        if source_category:
+            metadata["source_category"] = source_category
+
+        queued = self.pending_queue.enqueue(url, normalized_url, metadata)
+        if queued:
+            result["queued"] = True
+        else:
+            result["duplicate"] = True
+        return result
+
+    def process_queue_batch(self, batch_size: Optional[int] = None) -> Dict[str, Any]:
+        """Process a batch (or batches) of queued URLs."""
+        effective_batch = batch_size or self.batch_size
+        if not effective_batch:
+            return {
+                "operation": "process_queue_batch",
+                "batches_requested": self.max_batches,
+                "processed_urls": 0,
+                "skipped_existing": 0,
+                "queue_size": len(self.pending_queue),
+                "reason": "batch_size_not_set",
+                "dry_run": self.dry_run,
+            }
+
+        total_preview = effective_batch * self.max_batches if self.max_batches else effective_batch
+        queue_size = len(self.pending_queue)
+        if self.dry_run:
+            preview_items = self.pending_queue.peek_batch(total_preview)
+            return {
+                "operation": "process_queue_batch",
+                "dry_run": True,
+                "preview_count": len(preview_items),
+                "preview_urls": [item["url"] for item in preview_items],
+                "queue_size": queue_size,
+                "batch_size": effective_batch,
+                "max_batches": self.max_batches,
+            }
+
+        processed_count = 0
+        skipped_existing = 0
+        failed_urls: List[str] = []
+        touched_shards: Set[str] = set()
+        written_files: List[str] = []
+        batches_executed = 0
+        queue_mutated = False
+
+        while len(self.pending_queue) > 0 and batches_executed < self.max_batches:
+            batch = self.pending_queue.dequeue_batch(effective_batch)
+            if not batch:
+                break
+
+            queue_mutated = True
+            batches_executed += 1
+            requeue_entries: List[Dict[str, Any]] = []
+
+            logger.info(
+                f"Processing batch {batches_executed}/{self.max_batches} with {len(batch)} queued URLs"
+            )
+
+            for entry in batch:
+                url = entry.get("url")
+                normalized_url = entry.get("normalized_url")
+                metadata = entry.get("metadata", {})
+
+                if not url or not normalized_url:
+                    logger.warning("Encountered malformed queue entry, skipping")
+                    continue
+
+                if self._should_skip_existing(normalized_url):
+                    skipped_existing += 1
+                    logger.info(f"⏭️  Skipping already-scraped URL: {url}")
+                    continue
+
+                try:
+                    scraped_data = self._scrape_url(url)
+                except Exception as exc:  # pragma: no cover - surface error but keep loop going
+                    logger.error(f"Error scraping {url}: {exc}")
+                    scraped_data = None
+
+                if not scraped_data:
+                    # CHANGED: No automatic retry - move to retry queue immediately
+                    # This prevents API wastage on consistently failing URLs
+                    attempts = metadata.get("attempts", 0) + 1
+                    metadata["attempts"] = attempts
+                    metadata["last_error"] = f"No data returned at {datetime.now().isoformat()}"
+                    entry["metadata"] = metadata
+                    
+                    # Add to failed_urls list for tracking
+                    failed_urls.append(url)
+                    
+                    # Save to retry queue for manual review/retry later
+                    self._add_to_retry_queue(entry)
+                    logger.warning(f"Failed to scrape {url}; moved to retry queue (attempt {attempts})")
+                    continue
+
+                category_shard_key = metadata.get("category_shard_key")
+                if category_shard_key:
+                    shard_key = self._update_url_data_with_category(url, scraped_data, category_shard_key)
+                else:
+                    shard_key = self._update_url_data(url, scraped_data)
+
+                touched_shards.add(shard_key)
+                processed_count += 1
+                self.existing_urls.add(normalized_url)
+                logger.info(f"Scraped {url} into shard '{shard_key}'")
+
+            # NOTE: Removed automatic re-queueing to prevent API wastage
+            # Failed URLs are now moved to retry queue for manual review
+
+        # Persist queue changes if anything was dequeued or requeued
+        if queue_mutated:
+            self.pending_queue.save()
+
+        # Write updated shard files and persist manifests/index
+        if processed_count:
+            for shard_key in touched_shards:
+                if shard_key in self.manifest:
+                    written_files.extend(self._write_shard_file(shard_key, self.manifest[shard_key]))
+            self._save_url_index()
+            self._save_manifest()
+
+        # Log batch processing summary
+        total_processed = processed_count + skipped_existing
+        if total_processed > 0:
+            logger.info(f"📊 Batch Summary:")
+            logger.info(f"   ✅ Processed: {processed_count} URLs")
+            if skipped_existing > 0:
+                logger.info(f"   ⏭️  Skipped: {skipped_existing} already-scraped URLs")
+            if failed_urls:
+                logger.info(f"   ⚠️  Failed: {len(failed_urls)} URLs (moved to retry queue)")
+            logger.info(f"   📦 Queue remaining: {len(self.pending_queue)} URLs")
+
+        return {
+            "operation": "process_queue_batch",
+            "processed_urls": processed_count,
+            "skipped_existing": skipped_existing,
+            "failed_urls": failed_urls,
+            "queue_size": len(self.pending_queue),
+            "batch_size": effective_batch,
+            "batches_executed": batches_executed,
+            "written_files": written_files,
+        }
     
     def full_crawl(self, limit: int = 10000) -> Dict[str, Any]:
         """Perform full crawl of the website."""
@@ -1019,6 +1363,9 @@ class AgnosticLLMsUpdater:
     def _discover_subcategories(self, main_category_url: str) -> List[str]:
         """Discover subcategory URLs from a main category page (Level 1 → Level 2)."""
         try:
+            # Rate limiting: wait 1 second before API call
+            time.sleep(1)
+            
             response = requests.post(
                 f"{self.firecrawl_base_url}/map",
                 headers=self.headers,
@@ -1026,18 +1373,24 @@ class AgnosticLLMsUpdater:
                     "url": main_category_url,
                     "limit": 100,  # Get more URLs to filter from
                     "includeSubdomains": False
-                }
+                },
+                timeout=90  # 90 second timeout for map operations
             )
             
             if response.status_code == 200:
                 data = response.json()
                 all_urls = [link["url"] for link in data.get("links", [])]
                 
-                # Filter for subcategory URLs (Level 2)
+                # Filter for subcategory URLs (Level 2) and deduplicate
                 subcategory_urls = []
+                seen_normalized = set()
                 for url in all_urls:
                     if self._is_subcategory_url(url, main_category_url):
-                        subcategory_urls.append(url)
+                        # Normalize URL (remove trailing slash) to avoid duplicates
+                        normalized = url.rstrip('/')
+                        if normalized not in seen_normalized:
+                            seen_normalized.add(normalized)
+                            subcategory_urls.append(normalized)
                 
                 return subcategory_urls
                 
@@ -1049,26 +1402,61 @@ class AgnosticLLMsUpdater:
     def _discover_product_categories(self, subcategory_url: str) -> List[str]:
         """Discover product category URLs from a subcategory page (Level 2 → Level 3)."""
         try:
+            # Rate limiting: wait 1 second before API call
+            time.sleep(1)
+            
+            # Use SCRAPE with links format to get all links from the page
+            # SCRAPE is better than MAP here because it gets all links from rendered page
             response = requests.post(
-                f"{self.firecrawl_base_url}/map",
+                f"{self.firecrawl_base_url}/scrape",
                 headers=self.headers,
                 json={
                     "url": subcategory_url,
-                    "limit": 100,  # Get more URLs to filter from
-                    "includeSubdomains": False
-                }
+                    "formats": ["links"]
+                    # NOT using onlyMainContent to ensure we get all category links (nav included)
+                },
+                timeout=60  # 60 second timeout for scrape operations
             )
             
             if response.status_code == 200:
                 data = response.json()
-                all_urls = [link["url"] for link in data.get("links", [])]
+                links_data = data.get("data", {}).get("links", [])
                 
-                # Filter for product category URLs (Level 3)
+                # Extract URLs from response (handle both list of strings and list of objects)
+                all_urls = []
+                if links_data and len(links_data) > 0:
+                    if isinstance(links_data[0], str):
+                        all_urls = links_data
+                    elif isinstance(links_data[0], dict):
+                        all_urls = [link.get("url") or link.get("href") 
+                                   for link in links_data 
+                                   if link.get("url") or link.get("href")]
+                else:
+                    logger.warning(f"SCRAPE API returned empty links data for {subcategory_url}")
+                    logger.debug(f"Response structure: {data}")
+                
+                logger.debug(f"SCRAPE API returned {len(all_urls)} total URLs for {subcategory_url}")
+                
+                # Filter for product category URLs (Level 3) and deduplicate
                 product_category_urls = []
+                seen_normalized = set()
+                filtered_count = 0
                 for url in all_urls:
-                    if self._is_product_category_url(url, subcategory_url):
-                        product_category_urls.append(url)
+                    if url and self._is_product_category_url(url, subcategory_url):
+                        # Normalize URL (remove trailing slash) to avoid duplicates
+                        normalized = url.rstrip('/')
+                        if normalized not in seen_normalized:
+                            seen_normalized.add(normalized)
+                            product_category_urls.append(normalized)
+                            logger.debug(f"✅ Accepted: {normalized}")
+                        else:
+                            logger.debug(f"⏭️  Duplicate: {url}")
+                    else:
+                        filtered_count += 1
+                        logger.debug(f"❌ Filtered: {url}")
                 
+                logger.debug(f"Filtered out {filtered_count} non-category URLs")
+                logger.info(f"Found {len(product_category_urls)} product categories using SCRAPE API")
                 return product_category_urls
                 
         except Exception as e:
@@ -1138,66 +1526,163 @@ class AgnosticLLMsUpdater:
     def auto_discover_products(self, category_url: str, max_products: int = 50) -> Dict[str, Any]:
         """Auto-discover and scrape products from a category page using AI-powered link extraction."""
         logger.info(f"Auto-discovering products from: {category_url}")
-        
-        # First, scrape the category page to get product links
-        category_data = self._scrape_url(category_url)
-        if not category_data:
-            return {"error": "Failed to scrape category page"}
-        
-        # Use AI to extract product URLs from the content
-        product_urls = self._extract_product_urls_with_ai(category_data["content"], category_url, max_products)
-        
-        if not product_urls:
-            return {"error": "No product URLs found in category page"}
-        
-        # Deduplicate URLs to avoid processing the same product multiple times
-        unique_urls = list(dict.fromkeys(product_urls))  # Preserves order while removing duplicates
-        logger.info(f"Found {len(product_urls)} product URLs, {len(unique_urls)} unique URLs to process")
-        
-        product_urls = unique_urls
-        
-        # Extract category-based shard key from the category URL
         category_shard_key = self._get_shard_key_from_category_url(category_url)
-        logger.info(f"Using category-based shard key: {category_shard_key}")
-        
-        # Process product URLs
+        product_urls: List[str] = []
+        discovery_errors: List[str] = []
+
+        if self.disable_discovery:
+            logger.info("Discovery disabled; will use existing pending queue only")
+        else:
+            category_data = self._scrape_url(category_url)
+            if not category_data:
+                discovery_errors.append("failed_to_scrape_category")
+            else:
+                extracted_urls = self._extract_product_urls_with_ai(
+                    category_data["content"], category_url, max_products
+                )
+                if extracted_urls:
+                    product_urls = list(dict.fromkeys(extracted_urls))
+                    logger.info(
+                        f"Found {len(extracted_urls)} product URLs, {len(product_urls)} unique URLs to process"
+                    )
+                else:
+                    discovery_errors.append("no_product_urls_found")
+
+        discovered_total = len(product_urls)
+        result_base: Dict[str, Any] = {
+            "operation": "auto_discover_batch" if self.batch_mode else "auto_discover",
+            "category_url": category_url,
+            "category_shard_key": category_shard_key,
+            "discovered_total": discovered_total,
+            "discovery_disabled": self.disable_discovery,
+        }
+
+        if discovery_errors:
+            result_base["discovery_errors"] = discovery_errors
+
+        if self.batch_mode:
+            queue_before = len(self.pending_queue)
+            queued = 0
+            duplicates = 0
+            skipped_existing = 0
+
+            for url in product_urls:
+                enqueue_result = self._enqueue_for_batch(url, category_shard_key, category_url)
+                if enqueue_result["queued"]:
+                    queued += 1
+                elif enqueue_result["duplicate"]:
+                    duplicates += 1
+                elif enqueue_result["skipped_existing"]:
+                    skipped_existing += 1
+
+            if queued and not self.dry_run:
+                self.pending_queue.save()
+
+            # Log discovery summary
+            logger.info(f"📊 Discovery Summary: {discovered_total} URLs found")
+            if skipped_existing > 0:
+                logger.info(f"   ⏭️  Skipped {skipped_existing} already-scraped URLs")
+            if duplicates > 0:
+                logger.info(f"   🔁 Skipped {duplicates} duplicate URLs (already in queue)")
+            if queued > 0:
+                logger.info(f"   ✅ Queued {queued} new URLs for scraping")
+
+            # Only process queue if not in discovery-only mode
+            if self.discovery_only:
+                logger.info(f"🔍 Discovery-only mode: {queued} URLs queued, skipping batch processing")
+                result_base.update(
+                    {
+                        "queued_new": queued,
+                        "duplicates": duplicates,
+                        "skipped_existing": skipped_existing,
+                        "queue_before": queue_before,
+                        "queue_after": len(self.pending_queue),
+                        "discovery_only": True,
+                    }
+                )
+                return result_base
+
+            batch_summary = self.process_queue_batch(self.batch_size)
+
+            result_base.update(
+                {
+                    "queued_new": queued,
+                    "duplicates": duplicates,
+                    "skipped_existing": skipped_existing,
+                    "queue_before": queue_before,
+                    "queue_after": batch_summary.get("queue_size", len(self.pending_queue)),
+                    "batch": batch_summary,
+                }
+            )
+
+            return result_base
+
+        # Non-batch mode retains direct scraping but respects skip + dry-run controls
+        if self.dry_run:
+            preview_urls: List[str] = []
+            skipped_existing = 0
+            for url in product_urls:
+                normalized = self._normalize_url(url)
+                if self._should_skip_existing(normalized):
+                    skipped_existing += 1
+                    continue
+                preview_urls.append(url)
+
+            result_base.update(
+                {
+                    "dry_run": True,
+                    "preview_urls": preview_urls,
+                    "preview_count": len(preview_urls),
+                    "skipped_existing": skipped_existing,
+                }
+            )
+            return result_base
+
         processed_count = 0
         touched_shards = set()
-        
+        skipped_existing = 0
+        written_files: List[str] = []
+
         for url in product_urls:
             logger.info(f"Processing product: {url}")
-            
+            normalized = self._normalize_url(url)
+            if self._should_skip_existing(normalized):
+                skipped_existing += 1
+                continue
+
             scraped_data = self._scrape_url(url)
             if scraped_data:
-                # Use category-based shard key instead of product URL-based key
                 shard_key = self._update_url_data_with_category(url, scraped_data, category_shard_key)
                 touched_shards.add(shard_key)
                 processed_count += 1
-            
+                self.existing_urls.add(normalized)
             time.sleep(0.1)
-        
-        # Write shard files
-        written_files = []
-        for shard_key in touched_shards:
-            if shard_key in self.manifest:
-                filepaths = self._write_shard_file(shard_key, self.manifest[shard_key])
-                written_files.extend(filepaths)
-        
-        # Save index and manifest
-        self._save_url_index()
-        self._save_manifest()
-        
-        return {
-            "operation": "auto_discover",
-            "processed_urls": processed_count,
-            "total_urls": len(product_urls),
-            "touched_shards": list(touched_shards),
-            "written_files": written_files
-        }
+
+        if processed_count:
+            for shard_key in touched_shards:
+                if shard_key in self.manifest:
+                    written_files.extend(self._write_shard_file(shard_key, self.manifest[shard_key]))
+            self._save_url_index()
+            self._save_manifest()
+
+        result_base.update(
+            {
+                "processed_urls": processed_count,
+                "total_urls": discovered_total,
+                "touched_shards": list(touched_shards),
+                "written_files": written_files,
+                "skipped_existing": skipped_existing,
+            }
+        )
+
+        return result_base
     
     def _extract_product_urls_with_ai(self, content: str, base_url: str, max_products: int) -> List[str]:
         """Extract product URLs from page content using Scrape API with links format."""
         try:
+            # Rate limiting: wait 1 second before API call
+            time.sleep(1)
+            
             # Use Firecrawl's scrape with links format to get all links from rendered page
             logger.info("Using Firecrawl scrape to discover product URLs...")
             response = requests.post(
@@ -1207,7 +1692,8 @@ class AgnosticLLMsUpdater:
                     "url": base_url,
                     "formats": ["links"],
                     "onlyMainContent": True  # Focus on main content, not nav/footer
-                }
+                },
+                timeout=60  # 60 second timeout for scrape operations
             )
             
             if response.status_code == 200:
@@ -1388,7 +1874,9 @@ class AgnosticLLMsUpdater:
         
         if normalized_url not in self.manifest[category_shard_key]:
             self.manifest[category_shard_key].append(normalized_url)
-        
+
+        self.existing_urls.add(normalized_url)
+
         return category_shard_key
     
     def incremental_update(self, urls: List[str], operation: str, pre_scraped_content: Optional[str] = None) -> Dict[str, Any]:
@@ -1563,6 +2051,7 @@ def main():
     group.add_argument("--full", action="store_true", help="Perform full crawl")
     group.add_argument("--auto-discover", type=str, help="Auto-discover and scrape all products from a category page URL")
     group.add_argument("--hierarchical", type=str, help="Hierarchical discovery from main category page (Level 1 → Level 4)")
+    group.add_argument("--process-retry-queue", action="store_true", help="Process URLs from the retry queue")
     group.add_argument("--added", type=str, help="JSON array of URLs to add")
     group.add_argument("--changed", type=str, help="JSON array of URLs to update")
     group.add_argument("--removed", type=str, help="JSON array of URLs to remove")
@@ -1621,7 +2110,42 @@ def main():
         default=300000,
         help="Maximum characters per shard file (default: 300000)"
     )
-    
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        help="Process discovered URLs in batches of this size (default: domain-specific)"
+    )
+    parser.add_argument(
+        "--max-batches",
+        type=int,
+        help="Process at most this many batches in a single run (default: 1)"
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Preview queue changes and batch contents without scraping or writing files"
+    )
+    parser.add_argument(
+        "--discovery-only",
+        action="store_true",
+        help="Only discover and queue URLs without scraping them (queue can be processed later)"
+    )
+    parser.add_argument(
+        "--force-refresh",
+        action="store_true",
+        help="Re-scrape URLs even if they already exist in the index"
+    )
+    parser.add_argument(
+        "--pending-queue",
+        type=str,
+        help="Custom path for the pending queue file"
+    )
+    parser.add_argument(
+        "--disable-discovery",
+        action="store_true",
+        help="Skip discovery and only process from the existing pending queue"
+    )
+
     args = parser.parse_args()
     
     if args.verbose:
@@ -1637,7 +2161,14 @@ def main():
         domain=args.domain,
         output_dir=args.output_dir,
         max_characters=args.max_characters,
-        use_diff_extraction=args.use_diff_extraction
+        use_diff_extraction=args.use_diff_extraction,
+        batch_size=args.batch_size,
+        max_batches=args.max_batches,
+        force_refresh=args.force_refresh,
+        dry_run=args.dry_run,
+        pending_queue_path=args.pending_queue,
+        disable_discovery=args.disable_discovery,
+        discovery_only=args.discovery_only
     )
     
     # Load pre-scraped content if provided (support --pre-scraped-content or --diff-file)
@@ -1655,6 +2186,25 @@ def main():
             result = updater.auto_discover_products(args.auto_discover, args.max_products)
         elif args.hierarchical:
             result = updater.hierarchical_discovery(args.hierarchical, args.max_products, args.max_categories)
+        elif args.process_retry_queue:
+            # Move retry queue items back to main queue and process
+            retry_count = len(updater.retry_queue)
+            logger.info(f"Processing {retry_count} URLs from retry queue")
+            
+            # Move all items from retry queue to main queue
+            while len(updater.retry_queue) > 0:
+                entries = updater.retry_queue.dequeue_batch(100)
+                for entry in entries:
+                    # Reset attempt counter for manual retry
+                    entry["metadata"]["attempts"] = 0
+                    updater.pending_queue.enqueue_entry(entry)
+            
+            updater.pending_queue.save()
+            updater.retry_queue.save()
+            
+            # Process the queue
+            result = updater.process_queue_batch(updater.batch_size)
+            result["retry_queue_processed"] = retry_count
         elif args.added:
             urls = json.loads(args.added)
             result = updater.incremental_update(urls, "added", pre_scraped_content)
