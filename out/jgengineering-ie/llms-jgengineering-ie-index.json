@@ -7781,12 +7781,6 @@
     "shard": "baercoil_workshop_kits_helicoil",
     "updated_at": "2025-10-04T22:22:45.035090"
   },
-  "https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/bottomingtap_test": {
-    "title": "Bottomingtap_TEST",
-    "markdown": "{\n  \"price\": \"€15.00\",\n  \"description\": \"Bottomingtap_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Bottomingtap_TEST\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
-    "shard": "baercoil_bottoming_taps_metric_helicoil",
-    "updated_at": "2025-10-05T01:11:53.680457"
-  },
   "https://www.jgengineering.ie/collections/baercoil-drill-bits/products/drillbit_test": {
     "title": "Drillbit_TEST",
     "markdown": "{\n  \"price\": \"€20.00\",\n  \"description\": \"Drillbit_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Drillbit_TEST\",\n  \"specifications\": [\n    \"Unit price / Unavailable\",\n    \"Tax included\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping: On orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
