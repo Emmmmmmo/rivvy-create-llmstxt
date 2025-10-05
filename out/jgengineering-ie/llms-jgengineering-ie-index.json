@@ -7786,5 +7786,11 @@
     "markdown": "{\n  \"price\": \"€25.00\",\n  \"description\": \"Inserting_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Inserting_TEST\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
     "shard": "baercoil_inserting_tools_ireland",
     "updated_at": "2025-10-05T21:14:33.809425"
+  },
+  "https://www.jgengineering.ie/collections/baercoil-drill-bits/products/drillbit_test": {
+    "title": "Drillbit_TEST",
+    "markdown": "{\n  \"price\": \"€20.00\",\n  \"description\": \"Drillbit_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Drillbit_TEST\",\n  \"specifications\": [\n    \"Unit price / Unavailable\",\n    \"Tax included\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping: On orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
+    "shard": "baercoil_drill_bits",
+    "updated_at": "2025-10-05T21:38:07.883690"
   }
 }
