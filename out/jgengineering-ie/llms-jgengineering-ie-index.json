@@ -7780,5 +7780,11 @@
     "markdown": "{\n  \"price\": \"€50.00\",\n  \"description\": \"Baer_workshop is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Baer_workshop\",\n  \"specifications\": [\n    \"Unit price / Unavailable\",\n    \"Tax included\",\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping: On orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"We partner with DPD for all deliveries, ensuring full traceability and a one-hour delivery window.\"\n  ]\n}",
     "shard": "baercoil_workshop_kits_helicoil",
     "updated_at": "2025-10-04T22:22:45.035090"
+  },
+  "https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/inserting_test": {
+    "title": "Inserting_TEST",
+    "markdown": "{\n  \"price\": \"€25.00\",\n  \"description\": \"Inserting_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Inserting_TEST\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
+    "shard": "baercoil_inserting_tools_ireland",
+    "updated_at": "2025-10-05T21:14:33.809425"
   }
 }
