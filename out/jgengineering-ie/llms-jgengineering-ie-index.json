@@ -7798,5 +7798,11 @@
     "markdown": "{\n  \"price\": \"€10.00\",\n  \"description\": \"Baer_Handtaps_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Baer_Handtaps_TEST\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
     "shard": "baer_hand_taps",
     "updated_at": "2025-10-05T01:41:51.825045"
+  },
+  "https://www.jgengineering.ie/collections/baercoil-inserting-tools-ireland/products/inserting_test": {
+    "title": "Inserting_TEST",
+    "markdown": "{\n  \"price\": \"€25.00\",\n  \"description\": \"Inserting_TEST is backordered and will ship as soon as it is back in stock.\",\n  \"availability\": \"Sold out\",\n  \"product_name\": \"Inserting_TEST\",\n  \"specifications\": [\n    \"Shipping Cost: €8.99\",\n    \"Free Shipping on orders over €50\",\n    \"Order before 2 PM for same-day shipping\",\n    \"Payment methods: American Express, Apple Pay, Bancontact, Google Pay, iDEAL, Maestro, Mastercard, Shop Pay, Union Pay, Visa\"\n  ]\n}",
+    "shard": "baercoil_inserting_tools_ireland",
+    "updated_at": "2025-10-05T01:52:18.190074"
   }
 }
