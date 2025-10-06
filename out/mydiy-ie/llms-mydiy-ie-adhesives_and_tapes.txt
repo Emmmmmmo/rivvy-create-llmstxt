@@ -1,0 +1,147 @@
+<|https://www.mydiy.ie/products/everbuild-clear-weatherproof-tape.html|>
+## Everbuild Clear Weatherproof Tape
+
+{
+  "price": "€6.25 inc VAT",
+  "description": "Everbuild Clear Weatherproof Tape with aggressive adhesive is ideal for jointing and repairing all PVC and polythene sheets and many other uses in construction, industry and the home. Also ideal for repairing cracks in Glass and Acrylic without obscuring vision/light. With easy tear serrated edges to enable quicker application. Available in 2 sizes.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Clear Weatherproof Tape",
+  "specifications": [
+    "Size: 50mm x 10m",
+    "Aggressive adhesive",
+    "Ideal for jointing and repairing PVC and polythene sheets",
+    "Repairs cracks in Glass and Acrylic",
+    "Easy tear serrated edges"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+
+
+
+<|https://www.mydiy.ie/products/evo-stik-528-contact-adhesives.html|>
+## Evo-Stik 528 Contact Adhesives
+
+{
+  "price": "from €32.99 inc VAT",
+  "description": "A general purpose one-part contact adhesive suitable for bonding laminates, wallboards, plywood and hardboard panels, and leather goods. It has a high initial grab that bonds on contact, a high shear strength and good temperature resistance with an excellent final bond strength with low odour.",
+  "availability": "In Stock",
+  "product_name": "Evo-Stik 528 Contact Adhesives",
+  "specifications": [
+    "1 litre",
+    "2.5 Litre",
+    "5 litre"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+
+<|https://www.mydiy.ie/products/evo-stik-gripfill-max-adhesive-350ml-c30.html|>
+## EVO-STIK GRIPFILL MAX Adhesive 350ml C30
+
+{
+  "price": "€17.36 inc VAT (€14.11 exc.vat)",
+  "description": "EVO-STIK GRIPFILL MAX is a maximum strength, zero solvent, all weather adhesive. It utilises next generation advanced SM polymer bonding technology enabling it to bond to most porous and non-porous building surfaces, anywhere, even in vertical applications. Size: C30 350ml",
+  "availability": "Out of Stock",
+  "product_name": "EVO-STIK GRIPFILL MAX Adhesive 350ml C30",
+  "specifications": [
+    "Maximum strength",
+    "Zero solvent",
+    "All weather adhesive",
+    "Advanced SM polymer bonding technology",
+    "Size: C30 350ml"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+
+<|https://www.mydiy.ie/products/evo-stik-gripfill-xtra-adhesive-350ml.html|>
+## Evo-Stik Gripfill Xtra Adhesive 350ml
+
+{
+  "price": "€6.63 inc VAT (€5.39 exc.vat)",
+  "description": "Evo-Stik Gripfill Xtra Adhesive is a super strong, instant grip adhesive which will bond to most building materials. It is suitable for interior and exterior use. Size: 350ml.",
+  "availability": "In Stock",
+  "product_name": "Evo-Stik Gripfill Xtra Adhesive 350ml",
+  "specifications": [
+    "Size: 350ml",
+    "Super strong, instant grip adhesive",
+    "Suitable for interior and exterior use"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+
+<|https://www.mydiy.ie/products/evo-stik-gripfill-yellow-solvent-free-adhesive-350ml.html|>
+## Evo-Stik Gripfill Yellow Solvent Free Adhesive 350ml
+
+{
+  "price": "€6.86 inc VAT (€5.58 exc.vat)",
+  "description": "Gripfill Yellow is a solvent free adhesive which bonds almost any surface and has excellent strength including vertical applications. It is suitable for interior and exterior use (provided bond is covered). Bonds: Wood, plywood, hardboard, chipboard, laminated plastic, brick, rigid insulation material (except polystyrene), metal, stone breeze block, ceramics, concrete, sand/cement screeds, plasterboard, cement composite boards, G.R.P.",
+  "availability": "In Stock",
+  "product_name": "Evo-Stik Gripfill Yellow Solvent Free Adhesive 350ml",
+  "specifications": [
+    "Solvent free adhesive",
+    "Bonds various surfaces including wood, metal, and ceramics",
+    "Suitable for interior and exterior use",
+    "Excellent strength for vertical applications"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+
+<|https://www.mydiy.ie/products/evo-stik-serious-glue.html|>
+## Evo-Stik Serious Glue
+
+{
+  "price": "€12.00 inc VAT",
+  "description": "High performance , single component , moisture curing, Modified Silane (MS) Polymer based adhesive. Will bond most surfaces even if both are impervious.Will bond damp surfaces and may even be used underwater. It has a low odour and cures to form an elastic rubber, with almost no shrinkage and low hazard bonds to most surfaces quickly.",
+  "availability": "In Stock",
+  "product_name": "Evo-Stik Serious Glue",
+  "specifications": [
+    "33g option available"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+
+<|https://www.mydiy.ie/products/evo-stik-sticks-like-all-weather-adhesive.html|>
+## Evo-Stik Sticks Like All Weather Adhesive
+
+{
+  "price": "from €10.23 inc VAT",
+  "description": "The Evostik Sticks Like all weather adhesive is one of the strongest adhesives you can buy, it can bond most surfaces, even if both are impervious. Evostik all weather adhesive will bond damp surfaces and may even be used under water, can be used in any weather, however extreme and may be over painted. Bonds: Most surfaces including wood, concrete, brick, plaster, glass, ceramics, metals, rigid PVC, insulation boards and foam polystyrene. Works in a -40° to plus 100° Celsius temperature range. Size 290ml.",
+  "availability": "In Stock",
+  "product_name": "Evo-Stik Sticks Like All Weather Adhesive",
+  "specifications": [
+    "Size: 290ml",
+    "Temperature range: -40° to +100° Celsius",
+    "Bonds to most surfaces including wood, concrete, glass, ceramics, and metals"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+
+<|https://www.mydiy.ie/products/evo-stik-timebond-contact-adhesive.html|>
+## Evo-Stik Timebond Contact Adhesive
+
+{
+  "price": "from €27.26 inc VAT",
+  "description": "Timebond is a non-drip contact adhesive that is ideal for use on vertical and overhead surfaces, This gives you time to adjust position before bonding permanently. Time bond is a high strength permanent bond, with no need for clamps or special support while adhesive dries. Time bond is easy to spread and bonds most materials, even non-porous e.g metal. Suitable for: Wood, ceramics, rubber, paper, metals, decorative laminates, card, cork, stone, leather, fabrics, rigid PVC.",
+  "availability": "In Stock",
+  "product_name": "Evo-Stik Timebond Contact Adhesive",
+  "specifications": [
+    "500ml option available"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+
+<|https://www.mydiy.ie/products/evo-stik-weatherproof-wood-adhesive.html|>
+## Evo-Stik Weatherproof Wood Adhesive
+
+{
+  "price": "from €8.40 inc VAT",
+  "description": "Evostik fast setting, extra strong weatherproof wood adhesive for interior or exterior use. Complies with EN 204 Type D3 - weatherproof, water-resistant wood adhesive. Dries to a clear finish that can be sanded, painted or stained. Suitable for all types of wood. No mess, clog-free nozzle and twist to seal cap. Anti-roll bottle. Bonds: wood, hardboard, chipboard, blockboard, cardboard, paper, textiles.",
+  "availability": "In Stock",
+  "product_name": "Evo-Stik Weatherproof Wood Adhesive",
+  "specifications": [
+    "1 Litre",
+    "250ml",
+    "500ml"
+  ],
+  "product_category": "Adhesives & Tapes"
+}
+

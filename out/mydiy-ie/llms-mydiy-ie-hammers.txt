@@ -1,0 +1,1817 @@
+<|https://www.mydiy.ie/products/thor-312af-aluminium-spare-face-size-2-38mm.html|>
+## Thor 312AF Aluminium Spare Face Size 2 (38mm)
+
+{
+  "price": "€3.79 inc VAT (€3.08 exc.vat)",
+  "description": "Replacement cylindrical aluminium face (used as an alternative to copper). Diameter: 38 mm (1 1/2in). Size: 2.",
+  "availability": "In Stock",
+  "product_name": "Thor 312AF Aluminium Spare Face Size 2 (38mm)",
+  "specifications": [
+    "Diameter: 38 mm (1 1/2in)",
+    "Size: 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-a312-aluminium-hammer-size-2-38mm.html|>
+## Thor A312 Aluminium Hammer Size 2 (38mm)
+
+{
+  "price": "€25.74 inc VAT (€20.93 exc.vat)",
+  "description": "The Thor A312 Aluminium hammers have a malleable iron head fitted with two cylindrical ductile aluminium faces (designed to wear and be replaced) and a wooden handle. Ideal for use where a heavy blow is required in a relatively small striking area. The malleable iron head and the aluminium faces combine to provide the weight for the blow while the faces prevent damage to most items being struck. Used as an alternative to copper as a general-purpose soft-faced hammer in engineering applications for assembly, repair and maintenance operations. Weight. 950gm (34oz). Diameter: 38 mm (1 1/2in). Size: 2.",
+  "availability": "In Stock",
+  "product_name": "Thor A312 Aluminium Hammer Size 2 (38mm)",
+  "specifications": [
+    "Weight: 950gm (34oz)",
+    "Diameter: 38 mm (1 1/2in)",
+    "Size: 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-t-block-ball-pein-hammers.html|>
+## Hultafors T Block Ball Pein Hammers
+
+{
+  "price": "€60.52 inc VAT",
+  "description": "The T block ball pein hammer is an ergonomically designed hammer that increases precision and reduces strain. The head is filled with small steel bearings to cushion the shock and reduce recoil. The counterweight in the handle impedes rotation, thus improving balance and control of the hammer.",
+  "availability": "In Stock",
+  "product_name": "Hultafors T Block Ball Pein Hammers",
+  "specifications": [
+    "Select Option: Large 950g, Medium 650g",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-ball-pein-hammers---fibre-glass-handles.html|>
+## Roughneck Ball Pein Hammers - Fibre Glass Handles
+
+{
+  "price": "€18.63 inc VAT",
+  "description": "Roughneck Ball Pein Hammer manufactured from hardened and tempered drop forged alloy steel and with a fully polished head, epoxy bonded for added strength. It has a solid core fibreglass handle with polypropylene jacket. Unique treble injected TPR ergonomically designed soft grip handle for comfort during use and for reducing fatigue.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Ball Pein Hammers - Fibre Glass Handles",
+  "specifications": [
+    "454g (16oz) option available",
+    "Manufactured from hardened and tempered drop forged alloy steel",
+    "Fully polished head, epoxy bonded for added strength",
+    "Solid core fibreglass handle with polypropylene jacket",
+    "Ergonomically designed soft grip handle for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-ball-pein-hammers---graphite.html|>
+## Stanley Tools Ball Pein Hammers - Graphite
+
+{
+  "price": "from €32.73 inc VAT",
+  "description": "The Stanley engineers ball pein hammers are designed with a solid graphite core shaft. These hammers offers long life and durability and have a rim tempered poll and ball pein to prevent chipping during use. The hammers also have a patented head to handle assembly for improved safety and the comfortable handle is made from a vinyl compound.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Ball Pein Hammers - Graphite",
+  "specifications": [
+    "Available sizes: 12oz, 24oz, 32oz",
+    "Graphite core shaft for durability",
+    "Rim tempered poll and ball pein to prevent chipping",
+    "Patented head to handle assembly for improved safety",
+    "Comfortable vinyl compound handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-ball-pein-hammer-fibreglass-shaft.html|>
+## Roughneck Ball Pein Hammer, Fibreglass Shaft
+
+{
+  "price": "from €12.78 inc VAT",
+  "description": "The Roughneck Ball Pein Hammer offers superior strength and safety. Manufactured from drop-forged, hardened and tempered steel. Chamfered striking edges prevent chipping and damage to striking surfaces. Its solid fibreglass core handle is securely attached to the head with a powerful epoxy bond. The handle is fitted with an air-cushioned grip for exceptional comfort and reduced fatigue. A lanyard hole in the base of the handle allows for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Ball Pein Hammer, Fibreglass Shaft",
+  "specifications": [
+    "Weight options: 1.13kg (40oz), 1.36kg (48oz), 454g (16oz), 680g (24oz), 908g (32oz)",
+    "Manufactured from drop-forged, hardened and tempered steel",
+    "Chamfered striking edges to prevent chipping",
+    "Fibreglass core handle with epoxy bond",
+    "Air-cushioned grip for comfort",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-p375m-t-block-cross-pein-hammer-650g.html|>
+## Hultafors P375M T Block Cross Pein Hammer 650G
+
+{
+  "price": "€60.52 inc VAT (€49.20 exc.vat)",
+  "description": "The Hultafors T Block Cross Pein Hammer is an ergonomically designed hammer which increases precision and reduces strain. The head is filled with steel ball bearings to dampen vibrations and reduce recoil. Fitted with an ergonomically designed handle affording good grip along the entire shaft. Counterweights in the shaft inhibit rotation.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors P375M T Block Cross Pein Hammer 650G",
+  "specifications": [
+    "Weight: 650G",
+    "Ergonomically designed handle",
+    "Steel ball bearings in the head",
+    "Counterweights in the shaft to inhibit rotation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-tb600-bricklayers-hammer-900g-2lb.html|>
+## Hultafors TB600 Bricklayer's Hammer 900g (2lb)
+
+{
+  "price": "€78.92 inc VAT (€64.16 exc.vat)",
+  "description": "The Hultafors TB600 Bricklayer's Hammer has an ergonomic design that has been forged as one piece for increased durability with a vibration damping urethane plug. The steel shaft with I-beam provides increased durability. It is fitted with a tempered square striking face and a strong ground chisel with a notch for pulling out nails. The right angle and shape of chisel for safe splitting of bricks. The handle is fitted with a distinct end stop to ensure a secure grip and has a rubber cover to provide a comfortable grip.",
+  "availability": "In Stock",
+  "product_name": "Hultafors TB600 Bricklayer's Hammer 900g (2lb)",
+  "specifications": [
+    "Ergonomic design forged as one piece",
+    "Vibration damping urethane plug",
+    "Steel shaft with I-beam for durability",
+    "Tempered square striking face",
+    "Strong ground chisel with notch for pulling nails",
+    "Right angle and shape for safe splitting of bricks",
+    "Distinct end stop for secure grip",
+    "Rubber cover for comfortable grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-brick-hammer-680g-24oz-tubular-handle.html|>
+## Roughneck Brick Hammer 680g (24oz) Tubular Handle
+
+{
+  "price": "€18.63 inc VAT (€15.15 exc.vat)",
+  "description": "Roughneck Brick Hammer manufactured from drop forged alloy steel, hardened and tempered and with a fully polished head. The tubular steel handle has a strong head to shaft connection. The ergonomically designed grip is riveted to the handle for additional safety. Unique treble injected TPR soft grip handle for comfort during use and to reduce fatigue.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Brick Hammer 680g (24oz) Tubular Handle",
+  "specifications": [
+    "Weight: 680g (24oz)",
+    "Material: Drop forged alloy steel",
+    "Handle: Tubular steel with TPR soft grip",
+    "Head: Fully polished",
+    "Ergonomically designed grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-steelmaster-brick-hammer-500g-18oz.html|>
+## Stanley Tools Steelmaster Brick Hammer 500g (18oz)
+
+{
+  "price": "€34.45 inc VAT (€28.01 exc.vat)",
+  "description": "A Brick Hammer with a tubular steel shaft, light but strong. The soft-grip ergonomic handle is non-slip and comfortable. The head is manufactured from heat treated carbon steel and has a sharp chisel edge for cutting bricks and slate. Weight 500g (18oz).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Steelmaster Brick Hammer 500g (18oz)",
+  "specifications": [
+    "Weight: 500g (18oz)",
+    "Material: Heat treated carbon steel",
+    "Handle: Soft-grip ergonomic, non-slip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-brick-hammer-anti-vibe-567g-20oz.html|>
+## Stanley Tools Brick Hammer Anti-Vibe 567g (20oz)
+
+{
+  "price": "€40.02 inc VAT (€32.54 exc.vat)",
+  "description": "This FatMax brick hammer has been designed with one-piece forged construction for strength and durability and the patented Anti-Vibe technology reduces vibration transmitted to wrist and elbow. It is ideal for cutting brick, masonry tile, and concrete block. The blade has a hardened cutting edge designed to score materials before striking for an even cut. Weight 567g (1.1/4 lb).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Brick Hammer Anti-Vibe 567g (20oz)",
+  "specifications": [
+    "Weight: 567g (20oz)",
+    "One-piece forged construction",
+    "Anti-Vibe technology",
+    "Ideal for cutting brick, masonry tile, and concrete block",
+    "Hardened cutting edge for scoring materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-e3-brick-hammers---vinyl-grip.html|>
+## Estwing E3 Brick Hammers - Vinyl Grip
+
+{
+  "price": "€67.81 inc VAT",
+  "description": "The Estwing E3 Brick hammers are one-piece forged, with patented Bricklayer grip. Estwing's patented grip is designed for rugged use, with super tough nylon end caps, moulded and bonded into the world famous blue shock reduction vinyl grip. Made in USA.",
+  "availability": "In Stock",
+  "product_name": "Estwing E3 Brick Hammers - Vinyl Grip",
+  "specifications": [
+    "Select Option: 450g (16oz), 560g (20oz)",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-v-series-brick-hammer-567g-20oz.html|>
+## Roughneck Gorilla V-Series Brick Hammer 567g (20oz)
+
+{
+  "price": "€27.39 inc VAT (€22.27 exc.vat)",
+  "description": "Roughneck® Gorilla V-Series Brick Hammer offers increased striking power and reduced vibration. Manufactured from drop-forged, hardened and tempered steel. The unique V-Shock twin-beam girder shaft acts as a damper, resulting in reduced shock and vibration transmission, and further controlled by an air-cushioned grip. Reduced weight in the shaft transfers the centre of gravity towards the head, resulting in improved balance and reduced effort. It has a chisel end for brick cutting and a side nail puller for the removal of nails. A lanyard hole in the base of the handle allows for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla V-Series Brick Hammer 567g (20oz)",
+  "specifications": [
+    "Weight: 567g (20oz)",
+    "Material: Drop-forged, hardened and tempered steel",
+    "V-Shock twin-beam girder shaft",
+    "Chisel end for brick cutting",
+    "Side nail puller",
+    "Air-cushioned grip",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-yellow-fibreglass-claw-hammer-16oz--loop.html|>
+## Stanley Tools Yellow Fibreglass Claw Hammer 16oz + Loop
+
+{
+  "price": "€17.12 inc VAT (€13.92 exc.vat)",
+  "description": "The Stanley Fibreglass Claw Hammer has a reinforced fibreglass handle with a contoured grip for better shock absorption and comes with a hammer holder for storage while working and also safety when using the hammer above floor level. Weight: 450g (16oz).",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Yellow Fibreglass Claw Hammer 16oz + Loop",
+  "specifications": [
+    "Weight: 450g (16oz)",
+    "Reinforced fibreglass handle",
+    "Contoured grip for better shock absorption",
+    "Includes hammer holder for storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-ultra-claw-hammer-leather-425g-15oz.html|>
+## Estwing Ultra Claw Hammer Leather 425g (15oz)
+
+{
+  "price": "€87.15 inc VAT (€70.85 exc.vat)",
+  "description": "The Estwing Ultra Series Claw hammers are are one-piece forged and are engineered lighter to drive nails faster. An extra pulling notch is built into the head, along with a magnetic nail starter. This hammer has a traditional leather handle grip made from sole leather washers pressed on and riveted. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing Ultra Claw Hammer Leather 425g (15oz)",
+  "specifications": [
+    "Weight: 425g (15oz)",
+    "Handle length: 343mm (13.1/2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-ultra-claw-hammer-nvg-425g-15oz.html|>
+## Estwing Ultra Claw Hammer NVG 425g (15oz)
+
+{
+  "price": "€83.27 inc VAT (€67.70 exc.vat)",
+  "description": "The Estwing Ultra Series Claw hammers are one-piece forged and are engineered lighter to drive nails faster. This hammer has an extra nail notch built into the head and a smooth face, along with a magnetic nail starter. It has Estwing's world famous blue shock reduction nylon vinyl grip. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing Ultra Claw Hammer NVG 425g (15oz)",
+  "specifications": [
+    "Weight: 425g (15oz)",
+    "Handle length: 343mm (13.1/2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-el-electricians-hammer.html|>
+## Hultafors EL Electricians Hammer
+
+{
+  "price": "€74.91 inc VAT (€60.90 exc.vat)",
+  "description": "The Electrician's hammer is a versatile hammer with a U-shaped striking face ideal for working in confined spaces. The U-shape makes it possible to work close to ceilings and corners without leaving marks on surrounding surfaces while the straight claw makes it easy to get at and remove nails and clamps in confined places. Ergonomically designed handle for a good grip along the entire handle, regardless of power or precision. Weight: 550g.",
+  "availability": "In Stock",
+  "product_name": "Hultafors EL Electricians Hammer",
+  "specifications": [
+    "Weight: 550g",
+    "U-shaped striking face",
+    "Ergonomically designed handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-hi-velocity-curve-claw-framing-hammer-397g-14oz.html|>
+## None
+
+{
+  "price": null,
+  "description": null,
+  "availability": null,
+  "product_name": null,
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/vaughan-e18f-electricians-hammer-fibreglass-handle-510g-18oz.html|>
+## Vaughan E18F Electricians Hammer Fibreglass Handle 510g (18oz)
+
+{
+  "price": "€49.72 inc VAT (€40.42 exc.vat)",
+  "description": "The Vaughan E18F Electrician’s Hammer has a fibreglass handle. Its head is fully polished and forged from high carbon steel for excellent strength. It has a round extra-long pole, meaning it is ideal for reaching into electrical junction boxes. The Electrician's Hammer has a patented hollow core in its fibreglass handle to absorb shock and provide superb balance. It has a steel wedged and epoxy-sealed eye and an exclusive air cushioned, slip-resistant grip. Weight: 510g (18oz). Handle length: 355mm (14in). Made in the USA.",
+  "availability": "In Stock",
+  "product_name": "Vaughan E18F Electricians Hammer Fibreglass Handle 510g (18oz)",
+  "specifications": [
+    "Weight: 510g (18oz)",
+    "Handle length: 355mm (14in)",
+    "Fibreglass handle",
+    "Polished and forged high carbon steel head",
+    "Patented hollow core for shock absorption",
+    "Steel wedged and epoxy-sealed eye",
+    "Air cushioned, slip-resistant grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-ultra-framing-hammer-smooth-face-leather-handle.html|>
+## Estwing Ultra Framing Hammer Smooth Face Leather Handle
+
+{
+  "price": "€99.03 inc VAT",
+  "description": "These Estwing Ultra Series Framing Hammers are solid forged in one piece of steel for excellent strength. They are engineered lighter to drive nails faster. They have an extra nail notch built into the head, along with a magnetic nail starter. These hammers have a traditional leather handle grip made from sole leather washers, pressed on and rivetted. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing Ultra Framing Hammer Smooth Face Leather Handle",
+  "specifications": [
+    "540g (19oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-ultra-framing-hammer-milled-face-leather-handle.html|>
+## Estwing Ultra Framing Hammer Milled Face Leather Handle
+
+{
+  "price": "€101.08 inc VAT",
+  "description": "These Estwing Ultra Series Framing Hammers are solid forged in one piece of steel for excellent strength. They are engineered lighter to drive nails faster. They have an extra nail notch built into the head, along with a magnetic nail starter. These hammers have a traditional leather handle grip made from sole leather washers pressed on and riveted. The milled face aids gripping of the nail head when striking. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing Ultra Framing Hammer Milled Face Leather Handle",
+  "specifications": [
+    "540g (19oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-e-leather-grip-curved-claw-hammers.html|>
+## Estwing E Leather Grip Curved Claw Hammers
+
+{
+  "price": "€67.60 inc VAT",
+  "description": "Estwing Curved Claw Hammer with one-piece forged steel construction, and a traditional leather handle grip made from sole leather washers pressed on and riveted. The conventional carpenters' curved claw hammer offers unsurpassed balance and temper. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing E Leather Grip Curved Claw Hammers",
+  "specifications": [
+    "16oz option available",
+    "One-piece forged steel construction",
+    "Traditional leather handle grip",
+    "Made in the USA"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-curved-claw-hammer-fibreglass-shaft-1.html|>
+## Stanley Tools Curved Claw Hammer Fibreglass Shaft
+
+{
+  "price": "from €14.99 inc VAT",
+  "description": "This Stanley Curved Claw Hammer has a lightweight design with a long handle for improved performance and less user fatigue. The handle has a fibreglass core that adds strength and helps to reduce vibrations. The polished smooth face has a tempered rim to reduce incidences of chipping.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Curved Claw Hammer Fibreglass Shaft",
+  "specifications": [
+    "Weight options: 450g (16oz), 570g (20oz)",
+    "Fibreglass core handle",
+    "Polished smooth face with tempered rim"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-12oz-straight-claw-hammer.html|>
+## Estwing 12Oz Straight Claw Hammer
+
+{
+  "price": "€57.86 inc VAT (€47.04 exc.vat)",
+  "description": "12Oz Straight Claw Hammer",
+  "availability": "In Stock",
+  "product_name": "Estwing 12Oz Straight Claw Hammer",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
+    "Free delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-v-series-claw-hammer.html|>
+## Roughneck Gorilla V-Series Claw Hammer
+
+{
+  "price": "from €27.39 inc VAT",
+  "description": "Roughneck® Gorilla V-Series Claw Hammer offers increased striking power and reduced vibration. Manufactured from drop-forged, hardened and tempered steel. The unique V-Shock twin-beam girder shaft acts as a damper, resulting in reduced shock and vibration transmission, and is further controlled by an air-cushioned grip. Reduced weight in the shaft transfers the centre of gravity towards the head, resulting in improved balance and reduced effort. The magnetic nail holder makes for effortless starting, particularly in hard-to-reach areas, whilst the mini-claw allows for embedded nails to be removed with ease. There is a lanyard hole in the base of the handle, ideal for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla V-Series Claw Hammer",
+  "specifications": [
+    "Available weights: 454g (16oz), 567g (20oz), 680g (24oz)",
+    "Drop-forged, hardened and tempered steel",
+    "V-Shock twin-beam girder shaft",
+    "Air-cushioned grip",
+    "Magnetic nail holder",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-claw-hammer-fibreglass-shaft.html|>
+## Roughneck Claw Hammer, Fibreglass Shaft
+
+{
+  "price": "€12.78 inc VAT",
+  "description": "This Roughneck® Claw Hammer offers superior strength and safety. Manufactured from drop-forged, hardened and tempered steel. The magnetic nail holder makes for effortless starting, particularly in hard-to-reach areas, whilst the mini-claw allows for embedded nails to be removed with ease. Its solid fibreglass core handle is securely attached to the head with a powerful epoxy bond. The handle is fitted with an air-cushioned grip for exceptional comfort and reduced fatigue. A lanyard hole in the base of the handle allows for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Claw Hammer, Fibreglass Shaft",
+  "specifications": [
+    "Weight Options: 454g (16oz), 567g (20oz)",
+    "Manufactured from drop-forged, hardened and tempered steel",
+    "Magnetic nail holder for easy starting",
+    "Air-cushioned grip for comfort",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-v-series-framing-hammer-454g-16oz.html|>
+## Roughneck Gorilla V-Series Framing Hammer 454g (16oz)
+
+{
+  "price": "€36.52 inc VAT (€29.69 exc.vat)",
+  "description": "The Roughneck® Gorilla V-Series Framing Hammer offers increased striking power and reduced vibration. Manufactured from drop-forged, hardened and tempered steel. The unique V-Shock twin-beam girder shaft acts as a damper, resulting in reduced shock and vibration transmission, and further controlled by an air-cushioned grip. Reduced weight in the shaft transfers the centre of gravity towards the head, resulting in improved balance and reduced effort. The 2in timber claw allows for the manipulation and positioning of constructional timber. A magnetic nail holder makes for effortless starting, particularly in hard-to-reach areas, whilst the mini-claw allows for embedded nails to be removed with ease. There is a lanyard hole in the base of the handle, ideal for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla V-Series Framing Hammer 454g (16oz)",
+  "specifications": [
+    "Weight: 454g (16oz)",
+    "Material: Drop-forged, hardened and tempered steel",
+    "V-Shock twin-beam girder shaft",
+    "Air-cushioned grip",
+    "2in timber claw",
+    "Magnetic nail holder",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-electricians-hammer-300g.html|>
+## Wiha Electrician's Hammer 300g
+
+{
+  "price": "€67.02 inc VAT (€54.49 exc.vat)",
+  "description": "The Wiha Electrician's Hammer easily removes nails and nail clamps or positions cables and dowels. Its U-shaped striking surface provides optimum access to tight spaces. The flat, straight claws on the hammer head enable users to remove nail clamps even from difficult-to-reach spots and pull nails quickly and easily from the wall. This hammer unites ergonomic handling, balanced weight distribution and the ability to remove fastening elements such as nail clamps. Fitted with an ergonomically designed, non-slip handle. Fits perfectly into the hand, ensuring a secure hold when striking. The base of the handle can be used to position cables and dowels, without causing any damage to the wall.",
+  "availability": "Out of Stock",
+  "product_name": "Wiha Electrician's Hammer 300g",
+  "specifications": [
+    "Head Weight: 300g",
+    "Hammer Head Height: 23.9mm",
+    "Overall Length: 283mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-ts-curved-claw-hammer.html|>
+## Hultafors TS Curved Claw Hammer
+
+{
+  "price": "from €40.20 inc VAT",
+  "description": "The Hultafors TS Curved Claw Hammer is made with thin, strong claw for easy access without leaving marks. The claw opening and angle give the best possible grip on the nail. Ergonomically designed with a ribbed handle for added grip.",
+  "availability": "In Stock",
+  "product_name": "Hultafors TS Curved Claw Hammer",
+  "specifications": [
+    "Weight options: 720g, 800g",
+    "Ergonomically designed with a ribbed handle",
+    "Thin, strong claw for easy access",
+    "Best possible grip on the nail"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-tr-xl-straight-claw-hammer.html|>
+## Hultafors TR XL Straight Claw Hammer
+
+{
+  "price": "€53.38 inc VAT",
+  "description": "The Hultafors TR XL Straight Claw Hammer is forged in one piece for increased durability. Fitted with a vibration damping urethane plug. Its straight claw provides better access and the longer shaft allows for more power, ideal for demanding applications. The thin, strong claw provides easy access without leaving marks. In addition, it is rounded to prevent it tearing your trousers. Ergonomically designed handle with clear end stop and a secure grip.",
+  "availability": "In Stock",
+  "product_name": "Hultafors TR XL Straight Claw Hammer",
+  "specifications": [
+    "Weight options: 740g, 810g",
+    "Forged in one piece for increased durability",
+    "Vibration damping urethane plug",
+    "Straight claw for better access",
+    "Ergonomically designed handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-tc-curved-claw-hammer.html|>
+## Hultafors TC Curved Claw Hammer
+
+{
+  "price": "€61.40 inc VAT",
+  "description": "The Hultafors TC Curved Claw Hammer is forged in one piece for increased durability. Fitted with a vibration damping urethane plug. The thin, strong claw provides easy access without leaving marks. In addition, it is rounded to prevent it tearing your trousers. Ergonomically designed handle with clear end stop and a secure grip.",
+  "availability": "In Stock",
+  "product_name": "Hultafors TC Curved Claw Hammer",
+  "specifications": [
+    "Weight options: 720g, 795g, 800g",
+    "Forged in one piece for increased durability",
+    "Vibration damping urethane plug",
+    "Thin, strong claw for easy access",
+    "Rounded design to prevent tearing trousers",
+    "Ergonomically designed handle with secure grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-mig-weld-smooth-face-rip-claw-hammer-400g-14oz.html|>
+## DeWALT Hand Tools Mig Weld Smooth Face Rip Claw Hammer 400g (14oz)
+
+{
+  "price": "€79.89 inc VAT (€64.95 exc.vat)",
+  "description": "The DEWALT Mig Weld Rip Claw Hammer has an all steel design for durability and long life. Its lightweight design produces a fast swinging and reduced fatigue. It produces the same impact as a 794g (28oz) hammer. Fitted with a vibration absorbing grip for improved user comfort. It also features a magnetic nail starter for easy, one-handed nail placement.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Mig Weld Smooth Face Rip Claw Hammer 400g (14oz)",
+  "specifications": [
+    "All steel design for durability",
+    "Lightweight for reduced fatigue",
+    "Vibration absorbing grip",
+    "Magnetic nail starter"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-curve-claw-hammer-smooth-face.html|>
+## DeWALT Hand Tools Curve Claw Hammer, Smooth Face
+
+{
+  "price": "€42.61 inc VAT",
+  "description": "The DEWALT Curve Claw Hammer has a one piece steel construction and thick, heat treated steel shaft for all round jobsite durability. Its optimal weight distribution provides a controlled swing. Tri-pull technology allows you to remove finish nails, framing nails, and staples. Fitted with a soft grip handle for added comfort. It also features a nail start system for quick, one-handed nail placement.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Curve Claw Hammer, Smooth Face",
+  "specifications": [
+    "Weight options: 454g (16oz), 567g (20oz)",
+    "One piece steel construction",
+    "Heat treated steel shaft",
+    "Optimal weight distribution",
+    "Tri-pull technology for nail removal",
+    "Soft grip handle",
+    "Nail start system for quick placement"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-hand-tools-fibreglass-hi-vis-claw-hammer-567g-20oz.html|>
+## STANLEY® Hand Tools Fibreglass Hi-Vis Claw Hammer 567g (20oz)
+
+{
+  "price": "€15.29 inc VAT (€12.43 exc.vat)",
+  "description": "The STANLEY® Fibreglass Hi-Vis Claw Hammer not only reduces vibrations, but the forged high-carbon steel head improves durability and strength. The head and handle are also connected by 2-component epoxy adhesive, with both aspects balanced to help channel momentum and limit fatigue. The bi-material ergonomic grip features a ribbed surface and flared end to elevate comfort and grip, while the high-visibility green colouring makes this hammer much easier to find in a packed toolbox or work area.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Hand Tools Fibreglass Hi-Vis Claw Hammer 567g (20oz)",
+  "specifications": [
+    "Fibreglass handle",
+    "High-carbon steel head",
+    "Ergonomic grip",
+    "High-visibility green coloring",
+    "Weight: 567g (20oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-leather-grip-straight-claw-hammers.html|>
+## Estwing Leather Grip Straight Claw Hammers
+
+{
+  "price": "from €67.60 inc VAT",
+  "description": "Estwing Straight Claw Hammer which is one-piece forged steel construction with traditional leather handle grip made from sole leather washers pressed on and riveted. The straight claw hammer offers unsurpassed balance and temper. Straight claw is useful for ripping out. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing Leather Grip Straight Claw Hammers",
+  "specifications": [
+    "Available weights: 450g (16oz), 560g (20oz), 680g (24oz)",
+    "One-piece forged steel construction",
+    "Traditional leather handle grip",
+    "Made in the USA"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-e3-vinyl-grip-curved-claw-hammers.html|>
+## Estwing E3 Vinyl Grip Curved Claw Hammers
+
+{
+  "price": "€56.15 inc VAT",
+  "description": "The Estwing E3 series curved claw hammers have a vinyl grip made from liquid vinyl bonded on to the shaft during production, offers the utmost in both comfort and durability, while reducing vibrations caused by impact. The conventional carpenters' curved claw hammer offers unsurpassed balance and temper. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing E3 Vinyl Grip Curved Claw Hammers",
+  "specifications": [
+    "Available weights: 450g (16oz), 560g (20oz), 620g (22oz), 680g (24oz)",
+    "Vinyl grip for comfort and durability",
+    "Made in the USA from high quality steel",
+    "Red Vinyl Handle option available"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-e3-vinyl-grip-straight-claw-hammers.html|>
+## Estwing E3 Vinyl Grip Straight Claw Hammers
+
+{
+  "price": "€57.86 inc VAT",
+  "description": "Estwing E3 Straight claw hammers with Estwing's world famous blue shock reduction nylon vinyl grip. The handle grip, made from liquid vinyl bonded onto the shaft during production offers the utmost in both comfort and durability, while reducing vibrations caused by impact. The straight claw hammer offers unsurpassed balance and temper. Straight claw is useful for ripping out. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing E3 Vinyl Grip Straight Claw Hammers",
+  "specifications": [
+    "Available in 450g (16oz) and 560g (20oz) options",
+    "Made in the USA from high quality steel",
+    "Shock reduction nylon vinyl grip for comfort and durability",
+    "Straight claw design for ripping out"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-e3-vinyl-grip-straight-claw-framing-hammers.html|>
+## Estwing E3 Vinyl Grip Straight Claw Framing Hammers
+
+{
+  "price": "from €77.22 inc VAT",
+  "description": "The Estwing E322 Straight Claw Hammer has a one-piece forged steel construction, with Estwing's world famous blue shock reduction nylon vinyl grip. Offering comfort and durability whilst reducing vibrations caused by impact. This hammer is designed for framing work with its straight claw and longer handle. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing E3 Vinyl Grip Straight Claw Framing Hammers",
+  "specifications": [
+    "Select Option: 616g (22oz), 680g (24oz), 708g (25oz), 784g (28oz), 840g (30oz)",
+    "Made in the USA from high quality steel",
+    "One-piece forged steel construction",
+    "Blue shock reduction nylon vinyl grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-ultra-framing-hammer-smooth-face-vinyl-handle.html|>
+## Estwing Ultra Framing Hammer Smooth Face Vinyl Handle
+
+{
+  "price": "€89.88 inc VAT",
+  "description": "These Estwing Ultra Series Framing Hammers are solid forged in one piece of steel for excellent strength. They are engineered lighter to drive nails faster. They have an extra nail notch built into the head, along with a magnetic nail starter. These hammers have Estwing's world famous blue shock reduction nylon vinyl grips. Made in the USA from high quality steel.",
+  "availability": "In Stock",
+  "product_name": "Estwing Ultra Framing Hammer Smooth Face Vinyl Handle",
+  "specifications": [
+    "540g (19oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-ultra-framing-hammer-milled-face-nvg-handle.html|>
+## Estwing Ultra Framing Hammer Milled Face NVG Handle
+
+{
+  "price": "€93.63 inc VAT",
+  "description": "These Estwing Ultra Series Framing Hammers are solid forged in one piece of steel for excellent strength. They are engineered lighter to drive nails faster. They have an extra nail notch built into the head, along with a magnetic nail starter. These hammers have Estwing's world famous blue shock reduction nylon vinyl grips. The milled face aids gripping of the nail head when striking. Made in the USA.",
+  "availability": "In Stock",
+  "product_name": "Estwing Ultra Framing Hammer Milled Face NVG Handle",
+  "specifications": [
+    "540g (19oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-emrf-surestrike-fibreglass-curved-claw-hammers.html|>
+## Estwing EMRF Surestrike Fibreglass Curved Claw Hammers
+
+{
+  "price": "€38.78 inc VAT",
+  "description": "Surestrike curved claw hammer with a smooth face and fibreglass shaft with an injection moulded grip.",
+  "availability": "In Stock",
+  "product_name": "Estwing EMRF Surestrike Fibreglass Curved Claw Hammers",
+  "specifications": [
+    "450g (16oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-emrw-surestrike-curved-claw-hammers.html|>
+## Estwing EMRW Surestrike Curved Claw Hammers
+
+{
+  "price": "€33.36 inc VAT",
+  "description": "Surestrike curved claw hammer with a smooth face and a hickory handle.",
+  "availability": "In Stock",
+  "product_name": "Estwing EMRW Surestrike Curved Claw Hammers",
+  "specifications": [
+    "560g (20oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-club-hammers---fibre-glass-handles-1.html|>
+## Roughneck Club Hammers - Fibre Glass Handles
+
+{
+  "price": "from €21.71 inc VAT",
+  "description": "Roughneck Club Hammer with a fibreglass handle manufactured from drop forged alloy steel hardened and tempered with a black painted head with polished faces and chamfered edges, epoxy bonded for added strength. Solid core fibreglass handle with polypropylene jacket. Unique treble injected TPR soft grip handle for comfort during use and reduced fatigue.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Club Hammers - Fibre Glass Handles",
+  "specifications": [
+    "1.1kg (2.1/2lb)",
+    "1.81kg (4lb)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-club-hammers---fibre-glass-handles.html|>
+## Roughneck Club Hammers - Fibre Glass Handles
+
+{
+  "price": "from €23.49 inc VAT",
+  "description": "Roughneck Club hammers with fibreglass handles are manufactured from drop forged alloy steel, hardened and tempered, with a black painted head with polished faces and chamfered edges, epoxy bonded for added strength. With Solid core fibreglass handle with polypropylene jacket and a Double injected soft grip handle.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Club Hammers - Fibre Glass Handles",
+  "specifications": [
+    "3lb and 4lb options available",
+    "Manufactured from drop forged alloy steel",
+    "Hardened and tempered",
+    "Black painted head with polished faces",
+    "Epoxy bonded for added strength",
+    "Solid core fibreglass handle with polypropylene jacket",
+    "Double injected soft grip handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vaughan-rhd2-solid-steel-drilling-hammers.html|>
+## Vaughan RHD2 Solid Steel Drilling Hammers
+
+{
+  "price": "€52.71 inc VAT",
+  "description": "The Vaughan Drilling Club hammer designed for striking star drills, cold chisels, brick bolsters, and punches. With rust-resistant blue finish and polished striking faces with generous bevels. Forged from high carbon steel and with a patented Shock-Blok™ plug in its head, using hickory and rubber to absorb shock. Exclusive air cushioned slip-resistant grip for comfortable use. Sizes 2lb, 3lb and 4lb. Made in the USA.",
+  "availability": "In Stock",
+  "product_name": "Vaughan RHD2 Solid Steel Drilling Hammers",
+  "specifications": [
+    "3lb option available",
+    "Rust-resistant blue finish",
+    "Polished striking faces",
+    "Forged from high carbon steel",
+    "Patented Shock-Blok™ plug",
+    "Air cushioned slip-resistant grip",
+    "Made in the USA"
+  ]
+}
+
+<|https://www.mydiy.ie/products/footprint-club-hammer-fibreglass-shaft.html|>
+## Footprint Club Hammer Fibreglass Shaft
+
+{
+  "price": "from €25.10 inc VAT",
+  "description": "This Footprint Club Hammer has a forged, hardened and tempered head, and a solid fibreglass core handle for strength. Its thick rubberised grip provides superior comfort when striking objects and helps to absorb shock. A large safety loop allows tethering the hammer for working at height.",
+  "availability": "In Stock",
+  "product_name": "Footprint Club Hammer Fibreglass Shaft",
+  "specifications": [
+    "Select Option: 2.1/2lb, 4lb",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-club-hammers.html|>
+## Roughneck Club Hammers
+
+{
+  "price": "from €25.71 inc VAT",
+  "description": "Roughneck Club Hammers",
+  "availability": "In Stock",
+  "product_name": "Roughneck Club Hammers",
+  "specifications": [
+    "3lb Head",
+    "4lb Head"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-v-series-club-hammer.html|>
+## Roughneck Gorilla V-Series Club Hammer
+
+{
+  "price": "€29.22 inc VAT",
+  "description": "Roughneck® Gorilla V-Series Club Hammer offers increased striking power and reduced vibration. Manufactured from drop-forged, hardened and tempered steel. The unique V-Shock twin-beam girder shaft acts as a damper, resulting in reduced shock and vibration transmission, and further controlled by an air-cushioned grip. Reduced weight in the shaft transfers the centre of gravity towards the head, resulting in improved balance and reduced effort. 45° chamfered striking edges prevent chipping and damage to striking surfaces. A lanyard hole in the base of the handle allows for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla V-Series Club Hammer",
+  "specifications": [
+    "Weight options: 1.1kg (2.1/2 lb), 1.8kg (4 lb)",
+    "Drop-forged, hardened and tempered steel",
+    "V-Shock twin-beam girder shaft",
+    "Air-cushioned grip",
+    "45° chamfered striking edges",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-club-hammer-fibreglass-shaft.html|>
+## Roughneck Club Hammer, Fibreglass Shaft
+
+{
+  "price": "from €18.27 inc VAT",
+  "description": "This Roughneck® Club Hammer offers superior strength and safety. Manufactured from drop-forged, hardened and tempered steel. Chamfered striking edges prevent chipping and damage to striking surfaces. Its solid fibreglass core handle is securely attached to the head with a powerful epoxy bond. The handle is fitted with an air-cushioned grip for exceptional comfort and reduced fatigue. A lanyard hole in the base of the handle allows for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Club Hammer, Fibreglass Shaft",
+  "specifications": [
+    "Weight options: 1.13kg (2.1/2 lb), 1.81kg (4 lb)",
+    "Manufactured from drop-forged, hardened and tempered steel",
+    "Chamfered striking edges to prevent chipping",
+    "Solid fibreglass core handle with epoxy bond",
+    "Air-cushioned grip for comfort",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-emrw3lb-surestrike-drilling-hammer-13kg-3lb.html|>
+## Estwing EMRW3lb Surestrike Drilling Hammer 1.3kg (3lb)
+
+{
+  "price": "€43.19 inc VAT (€35.11 exc.vat)",
+  "description": "The Estwing EMRW-3LB Surestrike drilling hammer has a forged steel head, a fully polished face and genuine top grade hickory handle. Weight: 1360g (3lb).",
+  "availability": "In Stock",
+  "product_name": "Estwing EMRW3lb Surestrike Drilling Hammer 1.3kg (3lb)",
+  "specifications": [
+    "Forged steel head",
+    "Fully polished face",
+    "Genuine top grade hickory handle",
+    "Weight: 1360g (3lb)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-anti-vibe-lump--club-hammer-13kg-3lb.html|>
+## Stanley Tools Anti Vibe Lump / Club Hammer 1.3kg (3lb)
+
+{
+  "price": "€40.02 inc VAT (€32.54 exc.vat)",
+  "description": "This lump/club hammer has been designed with a one-piece forged construction for strength and durability. The patented anti-vibe technology reduces vibration transmitted to wrist and elbow. Ideal for use in confined work areas with little room for a full arc-swing. The wide face makes it ideal for striking chisels and punches.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Anti Vibe Lump / Club Hammer 1.3kg (3lb)",
+  "specifications": [
+    "Weight 1360g (3 lb)",
+    "One-piece forged construction",
+    "Patented anti-vibe technology"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-eb3-club-hammers---vinyl-grip-handle.html|>
+## Estwing EB3 Club Hammers - Vinyl Grip Handle
+
+{
+  "price": "€70.93 inc VAT",
+  "description": "The proper tool for driving hardened nails and cold chisels. One-piece steel hammer with Estwing's world famous blue shock reduction nylon vinyl grip.",
+  "availability": "In Stock",
+  "product_name": "Estwing EB3 Club Hammers - Vinyl Grip Handle",
+  "specifications": [
+    "1.8kg (4lb) option available",
+    "One-piece steel construction",
+    "Shock reduction nylon vinyl grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-hide-hammers.html|>
+## Thor Hide Hammers
+
+{
+  "price": "from €24.81 inc VAT",
+  "description": "Thor hide hammers have malleable Iron head fitted with two cylindrical faces of compressed buffalo hide on a wooden shaft. The malleable Iron head provides the weight for the blow and the hide faces absorb the shock whilst transferring the force to the item being struck without fear of damage. Ideal where a heavy blow is required combined with a relatively small striking area. These hide hammers have faces that are designed to wear and can be easily replaced as spare faces are available. They are used as a general-purpose soft-faced hammer in engineering for assembly, repair and maintenance.",
+  "availability": "In Stock",
+  "product_name": "Thor Hide Hammers",
+  "specifications": [
+    "Malleable Iron head",
+    "Two cylindrical faces of compressed buffalo hide",
+    "Wooden shaft",
+    "Ideal for assembly, repair, and maintenance",
+    "Replaceable faces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-hide-replacement-faces.html|>
+## Thor Hide Replacement Faces
+
+{
+  "price": "from €5.99 inc VAT",
+  "description": "Thor replacement cylindrical faces are constructed from compressed hide, these are for use with a malleable iron split head hammer. Hide faces will absorb the shock of the blow and transfer the force to the item being struck without fear of damage. The Thor hide faces are ideal where a heavy blow is required combined with a relatively small striking area. Faces are designed to wear and be replaced.",
+  "availability": "In Stock",
+  "product_name": "Thor Hide Replacement Faces",
+  "specifications": [
+    "Size A (25mm)",
+    "Size 4 (50mm)",
+    "Size 5 (70mm)",
+    "Size 1 (32mm)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-copper--hide-hammers.html|>
+## Thor Copper / Hide Hammers
+
+{
+  "price": "from €29.89 inc VAT",
+  "description": "These Thor hammers are a general-purpose, soft-faced hammer for automotive and general engineering applications in assembly, repair and maintenance operations. Available in 6 different weights. The malleable iron head is fitted with one hide and one copper face on a polished wooden handle. Ideal for use where a heavy blow is required in a relatively small striking area. One face is made from pure copper, the other from highly compressed buffalo hide and are both designed to wear and be replaced - spare faces are available.",
+  "availability": "In Stock",
+  "product_name": "Thor Copper / Hide Hammers",
+  "specifications": [
+    "Available in 6 different weights",
+    "Malleable iron head with one hide and one copper face",
+    "Polished wooden handle",
+    "Ideal for automotive and general engineering applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-copper-hammers.html|>
+## Thor Copper Hammers
+
+{
+  "price": "from €18.76 inc VAT",
+  "description": "Thor copper hammers have a malleable Iron head fitted with two cylindrical faces of pure electrolytic copper on a wooden shaft. Available in 6 different weights. The malleable Iron head provides the weight for the blow and the the Copper faces also provide weight whilst transferring the force to the item being struck without fear of damage. Ideal where a heavy blow is required combined with a relatively small striking area. These copper hammers have faces that are designed to wear and can be easily replaced as spare faces are available. They are used as a general-purpose soft-faced hammer in automotive and general engineering for assembly, repair and maintenance.",
+  "availability": "In Stock",
+  "product_name": "Thor Copper Hammers",
+  "specifications": [
+    "Available in 6 different weights",
+    "Malleable Iron head with copper faces",
+    "Ideal for automotive and general engineering",
+    "Replaceable faces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-copper-replacement-faces.html|>
+## Thor Copper Replacement Faces
+
+{
+  "price": "€4.69 inc VAT",
+  "description": "Thor cylindrical copper faces are manufactured from 99.9% pure extruded electrolytic copper rod. These copper faces when fitted into a malleable iron head prevent damage to expensive machined sub components and assemblies. These Thor copper face heads are ideal where a heavy blow is required combined with a relatively small striking area. The faces are designed to wear and can be easily replaced.",
+  "availability": "In Stock",
+  "product_name": "Thor Copper Replacement Faces",
+  "specifications": [
+    "Manufactured from 99.9% pure extruded electrolytic copper rod",
+    "Designed to prevent damage to expensive machined sub components",
+    "Ideal for heavy blows with a small striking area",
+    "Easily replaceable faces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-copper--hide-hammer---branded-head-size-2-38mm-1070g.html|>
+## Thor Copper / Hide Hammer - Branded Head Size 2 (38mm) 1070g
+
+{
+  "price": "€46.63 inc VAT (€37.91 exc.vat)",
+  "description": "Thor Classic Copper & Hide Hammer with a Malleable Iron THOR branded head fitted with one copper and one hide face. Combines force, finesse and traditional craftsmanship. Use the copper face for harder strikes with maximum impact, then switch to the hide face for softer, controlled blows which won’t damage delicate surfaces. Vital for any environment where surface protection and safety are essential. Recommended for car maintenance, bicycle repair, aerospace, rail, toolmaking and metalworking. The cast iron head provides long-lasting durability for heavy-duty use. 99.99% pure electrolytic copper face: The faces are cut from pure electrolytic extruded pure copper bars. Copper's natural non-sparking properties make the face crucial for work environments where striking steel on steel contact poses a safety risk, making it perfect for high-impact tasks without surface damage. Compressed, sustainable water buffalo hide face: The hide absorbs recoil and dampens sound, offering a firm strike that won’t mark finished surfaces. This makes it ideal for delicate work, restoration and use in noise-sensitive environments. Fitted with a durable anti-vibration, wooden handle. Crafted from high-quality hardwood, it minimises recoil for enhanced comfort and control. Thor’s founding hammer from 1923 remains a trusted tool by professionals for over a century.",
+  "availability": "Out of Stock",
+  "product_name": "Thor Copper / Hide Hammer - Branded Head Size 2 (38mm) 1070g",
+  "specifications": [
+    "Branded head size 2 (38mm)",
+    "Weight: 1070g",
+    "Copper and hide faces for versatile use",
+    "Durable anti-vibration wooden handle",
+    "99.99% pure electrolytic copper face",
+    "Compressed sustainable water buffalo hide face"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-copper-fibreglass-hammer-size-4-50mm-2470g.html|>
+## Thor Copper Fibreglass Hammer Size 4 (50mm) 2470g
+
+{
+  "price": "€91.75 inc VAT (€74.59 exc.vat)",
+  "description": "Thor Classic Copper Fibreglass Hammer. Combines force and finesse with shock-absorbing fibreglass. The cast iron head provides long-lasting durability and strength for heavy-duty use. Its lightweight fibreglass handle absorbs shocks, reduces vibration, and offers excellent grip and control for enhanced comfort during extended use. 99.99% pure electrolytic copper faces: The faces are cut from pure electrolytic extruded pure copper bars. Copper's natural non-sparking properties make the face crucial for work environments where striking steel on steel contact poses a safety risk, making it perfect for high-impact tasks without surface damage. Thor’s founding hammer from 1923 with a fibreglass handle, a contemporary take on our classic design.",
+  "availability": "Out of Stock",
+  "product_name": "Thor Copper Fibreglass Hammer Size 4 (50mm) 2470g",
+  "specifications": [
+    "Size: 4 (50mm)",
+    "Weight: 2470g",
+    "Material: Copper and Fibreglass",
+    "Non-sparking properties",
+    "Shock-absorbing handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-t-block-combi-hammers.html|>
+## Hultafors T Block Combi Hammers
+
+{
+  "price": "from €49.93 inc VAT",
+  "description": "The T Block Combi Hammer is an ergonomically designed hammer that increases precision and reduces strain. The head is filled with small steel bearings to cushion the shock and reduce recoil, the shaft is made from steel with an ergonomically designed rubber grip. The counterweight in the handle impedes rotation, thus improving balance and control of the hammer.",
+  "availability": "In Stock",
+  "product_name": "Hultafors T Block Combi Hammers",
+  "specifications": [
+    "Select Option: Large 900g, Medium 650g, Small 540g",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-dead-blow-nylon-hammers.html|>
+## Thor Dead-blow Nylon Hammers
+
+{
+  "price": "from €39.02 inc VAT",
+  "description": "Thor deadblow hammers have coated die-cast aluminium alloy head with rubber grip and screw-in white nylon or brown polyurethane faces. Available in 5 different weights. The hollow die-cast head is partially filled with steel shot to add to the weight, prevent rebound and deliver dead blows of maximum force. Thor deadblow hammers are ideal as a multi-purpose striking tool and are ideal for sustained and effective blows without recoil. They are commonly used in most assembly / fitting applications including engineering, toolmaking, shopfitting, partitioning and double glazing. Replacement faces are available.",
+  "availability": "In Stock",
+  "product_name": "Thor Dead-blow Nylon Hammers",
+  "specifications": [
+    "Available in 5 different weights",
+    "Coated die-cast aluminium alloy head",
+    "Rubber grip",
+    "Screw-in nylon or polyurethane faces",
+    "Hollow die-cast head partially filled with steel shot"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-fibrebuzz-soft-faced-hammer-740g.html|>
+## Wiha FibreBuzz® Soft-Faced Hammer 740g
+
+{
+  "price": "€95.90 inc VAT (€77.97 exc.vat)",
+  "description": "The Wiha FibreBuzz® Soft-Faced Hammer for the controlled positioning and joining of work pieces. The soft-faced hammer dead-blow allows the user to deliver measured positioning blows, protecting delicate surfaces and edges through its high-impact effect. A special metal ball filling in the hammer head helps the soft-faced hammer to work completely without recoil and in a way' which is easy on the joints. Fitted with a high-quality, plastic fibreglass handle that is lightweight and an almost unbreakable. The non-slip, ergonomically shaped multi-component grip ensures a tight and secure grip that guarantees full control even when used with oily or wet hands. Integrated impact protection safeguards the work piece as well as the hammer from damage. In addition, the powerful connection between the hammer head and handle ensures greatest safety while working and the shatter-proof nylon heads can be independently replaced at any time. GS standard according to DIN 5134.",
+  "availability": "In Stock",
+  "product_name": "Wiha FibreBuzz® Soft-Faced Hammer 740g",
+  "specifications": [
+    "Hammer Face Diameter: 40mm",
+    "Hammer Head Height: 120mm",
+    "Overall Length: 320mm",
+    "Weight: 740g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-soft-face-dead-blow-hammer-hickory-handle.html|>
+## Wiha Soft-Face Dead-Blow Hammer, Hickory Handle
+
+{
+  "price": "from €37.75 inc VAT",
+  "description": "The Wiha Soft-Face Dead-Blow Hammer comes with a yellow, medium-hard hammer head for tool and machine engineering, car repairs, sheet metal and assembly work. Makes work easier, with an optimum impact effect and less effort needed. Deadblow hammering without recoil minimises loads on joints, tendons and muscles. Fitted with an ergonomic hickory wooden handle.",
+  "availability": "In Stock",
+  "product_name": "Wiha Soft-Face Dead-Blow Hammer, Hickory Handle",
+  "specifications": [
+    "1710g",
+    "Hickory Handle",
+    "Medium-hard hammer head",
+    "Ergonomic design"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-dead-blow-sledgehammer-hickory-handle-4580g.html|>
+## Wiha Dead-blow Sledgehammer Hickory Handle 4580g
+
+{
+  "price": "€297.09 inc VAT (€241.54 exc.vat)",
+  "description": "The Wiha Dead-blow Sledgehammer come with a yellow, medium-hard hammer head for tool and machine engineering, car repairs, sheet metal and assembly work. Makes work easier, optimum impact effect and less effort needed. Deadblow hammering without recoil minimises loads on joints, tendons and muscles. Fitted with an ergonomic hickory wooden handle.",
+  "availability": "In Stock",
+  "product_name": "Wiha Dead-blow Sledgehammer Hickory Handle 4580g",
+  "specifications": [
+    "Hammer Face Diameter: 80mm",
+    "Hammer Head Height: 205mm",
+    "Overall Length: 880mm",
+    "Weight: 4580g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-e311-drywall-hammer---vinyl-grip-392g-14oz.html|>
+## Estwing E3/11 Drywall Hammer - Vinyl Grip 392g (14oz)
+
+{
+  "price": "€74.01 inc VAT (€60.17 exc.vat)",
+  "description": "The Estwing E3/11 dry wall hammer has a cushioned vinyl grip and solid one piece forged construction. Crowned, scored hammer head which reduces the likelihood of impact marks on the plasterboard. Cutaway and notched cutting blades for withdrawing nails and cutting laths. Size: 400g (14oz).",
+  "availability": "In Stock",
+  "product_name": "Estwing E3/11 Drywall Hammer - Vinyl Grip 392g (14oz)",
+  "specifications": [
+    "Cushioned vinyl grip",
+    "Solid one piece forged construction",
+    "Crowned, scored hammer head",
+    "Cutaway and notched cutting blades",
+    "Size: 400g (14oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-e322p-rock-pick---vinyl-grip-616g-22oz.html|>
+## Estwing E3/22P Rock Pick - Vinyl Grip 616g (22oz)
+
+{
+  "price": "€69.70 inc VAT (€56.67 exc.vat)",
+  "description": "The Estwing E322P square section rock pick hammer has a flat face at one end and a pick at the other. Used by slaters or geologists it has a liquid vinyl grip handle bonded on to the shaft during production for added grip and comfort. These Estwing high quality chisel geological hammer picks use the strongest steel which is forged in one-piece. The strongest known construction of its type. A tool designed for the geologist when working with rock or rubble. Weight: 620g (1 lb 6oz)",
+  "availability": "In Stock",
+  "product_name": "Estwing E3/22P Rock Pick - Vinyl Grip 616g (22oz)",
+  "specifications": [
+    "Weight: 620g (1 lb 6oz)",
+    "Flat face at one end and a pick at the other",
+    "Liquid vinyl grip handle for added comfort",
+    "Forged in one-piece for strength"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vaughan-ap-prospecting-pick.html|>
+## Vaughan AP Prospecting Pick
+
+{
+  "price": "€52.05 inc VAT",
+  "description": "The Vaughan Prospecting (rock) pick forged from solid high carbon steel for excellent strength. It has a flat, smooth striking face and a tapered, sharp point for chipping rock and masonry. For comfort, the pick has an exclusive air cushioned, slip-resistant grip. Sizes: 400g (14oz) and 620g (22oz). Made in the USA.",
+  "availability": "In Stock",
+  "product_name": "Vaughan AP Prospecting Pick",
+  "specifications": [
+    "620g (22oz) option available",
+    "Made from solid high carbon steel",
+    "Flat, smooth striking face",
+    "Tapered, sharp point for chipping rock and masonry",
+    "Exclusive air cushioned, slip-resistant grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-non-marking-rubber-mallet.html|>
+## Vitrex Non Marking Rubber Mallet
+
+{
+  "price": "€7.40 inc VAT (€6.02 exc.vat)",
+  "description": "The Vitrex 10 1060 Non Marking Rubber Mallet is ideal for setting large tiles into adhesive. It has a non-marking white rubber head.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Non Marking Rubber Mallet",
+  "specifications": [
+    "Model: VIT101060",
+    "Weight: 0.5 kg",
+    "Material: Rubber",
+    "Color: White"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-white-rubber-mallets-non-marking.html|>
+## Roughneck White Rubber Mallets Non Marking
+
+{
+  "price": "from €15.08 inc VAT",
+  "description": "Roughneck Non Marking White Rubber Mallet has a single piece rubber head with a steel and soft grip handle. For general industrial use, these semi-hard rubber mallets give a gentle but firm blow with little rebound, ideal for use under damp conditions or outdoors. These rubber mallets will not discolour or leave marks on work surfaces. Used as a general purpose mallet in automotive, industrial, brewery, DIY and camping, garden landscape or work site application when hard materials need to be layed like concrete slabs, patios etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck White Rubber Mallets Non Marking",
+  "specifications": [
+    "Select Option: 454g (16oz), 680g (24oz)",
+    "Single piece rubber head",
+    "Steel and soft grip handle",
+    "Ideal for general industrial use",
+    "Gentle but firm blow with little rebound",
+    "Non-marking and will not discolour work surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-hide-mallets.html|>
+## Thor Hide Mallets
+
+{
+  "price": "from €19.47 inc VAT",
+  "description": "Thor Hide mallets have a one piece cylindrical compressed hide head, that provides a large striking surface with a relatively light head weight. These hide mallets are widely used in sheet metal forming, the jewellery trade and used on copper, brass and other soft materials that need to be shaped etc. These Mallets are fitted with an oval wood handle.",
+  "availability": "In Stock",
+  "product_name": "Thor Hide Mallets",
+  "specifications": [
+    "Available Sizes: 0, 1, 2, 3, 4, 5, 6, 8",
+    "One piece cylindrical compressed hide head",
+    "Oval wood handle",
+    "Widely used in sheet metal forming and jewellery trade"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-cylindrical-hardwood-mallets.html|>
+## Thor Cylindrical Hardwood Mallets
+
+{
+  "price": "from €62.00 inc VAT",
+  "description": "The Thor hardwood mallets have laminated cylindrical compressed wood heads (to a density of 1.3) fitted with flushed-in glass fibre hoops for extra security. The mallets have a conical self-locking handle and come in 3 different weights. These have an excellent resistance to impact and will give a long service life, they are suitable for hot work applications. Typical uses for these mallets include steel plate trade, casting, schools and technical colleges, general assembly, aluminium forming, aviation etc.",
+  "availability": "In Stock",
+  "product_name": "Thor Cylindrical Hardwood Mallets",
+  "specifications": [
+    "Laminated cylindrical compressed wood heads",
+    "Density of 1.3",
+    "Flushed-in glass fibre hoops for extra security",
+    "Conical self-locking handle",
+    "Suitable for hot work applications",
+    "Available in 3 different weights"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-super-plastic-mallets.html|>
+## Thor Super Plastic Mallets
+
+{
+  "price": "from €15.92 inc VAT",
+  "description": "Thor super plastic mallets fitted with strong wood handle and ultra-high molecular weight Polythene head, this will provide high impact, durability and high abrasive resistance, well as resistant to corrosion to most chemicals, these mallets will not fracture, splinter or delaminate. Also these Thor mallets are used in the jewellery industry, steel rule die assembly, the furniture industry and sheet metal working.",
+  "availability": "In Stock",
+  "product_name": "Thor Super Plastic Mallets",
+  "specifications": [
+    "Available weights: 175g, 325g, 490g, 650g, 960g",
+    "High impact and durability",
+    "Resistant to corrosion and chemicals",
+    "Used in various industries including jewellery and furniture"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-rubber-mallets.html|>
+## Thor Rubber Mallets
+
+{
+  "price": "from €9.54 inc VAT",
+  "description": "Thor rubber mallets are a one-piece design with rubber head and self locking handle. These semi-hard rubber mallets give a gentle but firm blow with little rebound. Used as a general-purpose mallet in automotive, industrial, brewery, DIY, garden landscaping and camping applications. Black Head: Ideal for use under damp conditions or outdoors. White Head: Will not discolour or leave marks on work surfaces.",
+  "availability": "In Stock",
+  "product_name": "Thor Rubber Mallets",
+  "specifications": [
+    "Select Option: 1200g Black, 1450g White, 310g Black, 550g Black, 675g White, 800g Black, 970g White",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-round-solid-copper-mallet-fiberglass-handle.html|>
+## Thor Round Solid Copper Mallet, Fiberglass Handle
+
+{
+  "price": "€328.64 inc VAT (€267.19 exc.vat)",
+  "description": "Thor Round Solid Copper Mallet is manufactured from 99.9% Pure Electrolytic Copper rod. Provides a firm blow without the risk of damage to expensive components. Fitted with a durable anti-vibration, fibreglass handle. Ideal for positive blows on highly finished or closely ground machined parts throughout the Aircraft, Automotive or Shipping Industries. Also used by tool and gauge makers and for bearing assembly in heavy industrial applications such as earthmoving equipment, shipping, locomotive assembly, etc.",
+  "availability": "Out of Stock",
+  "product_name": "Thor Round Solid Copper Mallet, Fiberglass Handle",
+  "specifications": [
+    "Weight: 3140g, 5300g, 7550g",
+    "Manufactured from 99.9% Pure Electrolytic Copper",
+    "Durable anti-vibration fibreglass handle",
+    "Ideal for use in Aircraft, Automotive, and Shipping Industries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-xtreme-rubber-mallet.html|>
+## Vitrex Xtreme Rubber Mallet
+
+{
+  "price": "€9.13 inc VAT (€7.42 exc.vat)",
+  "description": "The Vitrex Xtreme Rubber Floor Mallet is ideal for setting flooring, safely and securely. The 16oz white rubber head does not mar or damage surfaces and measures 70-75 on the Shore A hardness scale, for a firm hardness with minimum bounce when striking. The mallet is ideal for multiple applications and its 29cm co-moulded plastic handle with non-slip, rubber grip makes it comfortable for repeat use.",
+  "availability": "Out of Stock",
+  "product_name": "Vitrex Xtreme Rubber Mallet",
+  "specifications": [
+    "16oz white rubber head",
+    "70-75 Shore A hardness",
+    "29cm co-moulded plastic handle",
+    "Non-slip rubber grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-square-solid-brass-mallet-2000g.html|>
+## Thor Square Solid Brass Mallet 2000g
+
+{
+  "price": "€68.18 inc VAT (€55.43 exc.vat)",
+  "description": "This Thor 27-42000 Square Solid Brass Mallet. Manufactured from extruded Brass rod. Provides a firm blow without the risk of damage to expensive components. Fitted with a durable wooden handle. Ideal for positive blows on highly finished or closely ground machined parts throughout the Aircraft, Automotive or Shipping Industries. Also used by tool and gauge makers and for bearing assembly in heavy industrial applications such as earth moving equipment, shipping, locomotive assembly etc. NOT recommended for non-sparking applications.",
+  "availability": "Out of Stock",
+  "product_name": "Thor Square Solid Brass Mallet 2000g",
+  "specifications": [
+    "Weight: 2000g",
+    "Face: 44mm (1 3/4in) Square",
+    "Head Length: 114mm (4 1/2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-round-solid-copper-mallet-wooden-handle.html|>
+## Thor Round Solid Copper Mallet, Wooden Handle
+
+{
+  "price": "from €30.41 inc VAT",
+  "description": "The Thor Round Solid Copper Mallet is manufactured from 99.9% Pure Electrolytic Copper rod. Provides a firm blow without the risk of damage to expensive components. Fitted with a durable anti-vibration, wooden handle. Crafted from high-quality hardwood, it minimises recoil for enhanced comfort and control. Ideal for positive blows on highly finished or closely ground machined parts throughout the Aircraft, Automotive or Shipping Industries. Also used by tool and gauge makers and for bearing assembly in heavy industrial applications such as earthmoving equipment, shipping, locomotive assembly, etc.",
+  "availability": "In Stock",
+  "product_name": "Thor Round Solid Copper Mallet, Wooden Handle",
+  "specifications": [
+    "Available sizes: 25mm, 360g; 32mm, 600g; 38mm, 890g; 50mm, 1750g; 70mm, 5300g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-round-solid-copper-mallet-plastic-handle.html|>
+## Thor Round Solid Copper Mallet, Plastic Handle
+
+{
+  "price": "€38.79 inc VAT",
+  "description": "The Thor Round Solid Copper Mallet is manufactured from 99.9% Pure Electrolytic Copper rod. Provides a firm blow without the risk of damage to expensive components. Its durable nylon handle with rubber grip offers enhanced comfort, control, and reduced slippage during use. Ideal for positive blows on highly finished or closely ground machined parts throughout the Aircraft, Automotive or Shipping Industries. Also used by tool and gauge makers and for bearing assembly in heavy industrial applications such as earthmoving equipment, shipping, locomotive assembly, etc.",
+  "availability": "In Stock",
+  "product_name": "Thor Round Solid Copper Mallet, Plastic Handle",
+  "specifications": [
+    "Available sizes: 32mm 670g, 38mm 955g, 44mm 1325g, 50mm 1745g",
+    "Manufactured from 99.9% Pure Electrolytic Copper",
+    "Durable nylon handle with rubber grip",
+    "Ideal for use in Aircraft, Automotive, and Shipping Industries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-stfs-non-rebound-hammer.html|>
+## Hultafors STFS Non-Rebound Hammer
+
+{
+  "price": "€83.95 inc VAT",
+  "description": "The Hultafors STFS Non-Rebound Hammer has a striking head filled with damping steel balls that dampen vibrations and reduce recoil. The nylon strikers are gentle on workpieces. It has a steel shaft with an ergonomic Santoprene rubber handle.",
+  "availability": "In Stock",
+  "product_name": "Hultafors STFS Non-Rebound Hammer",
+  "specifications": [
+    "Weight options: 1145g, 595g, 800g",
+    "Includes a steel shaft with ergonomic Santoprene rubber handle",
+    "Striking head filled with damping steel balls to reduce recoil"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-spare-nylon-faces.html|>
+## Thor Spare Nylon Faces
+
+{
+  "price": "from €4.48 inc VAT",
+  "description": "Thor replacement split head nylon faces. Made from hard white nylon shore, hardness D 61-65. The best all-purpose nylon face for light and heavy assembly work.",
+  "availability": "In Stock",
+  "product_name": "Thor Spare Nylon Faces",
+  "specifications": [
+    "Select Option: 32mm, 38mm, 44mm, 50mm, 70mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-plastic-hammers.html|>
+## Thor Plastic Hammers
+
+{
+  "price": "from €16.67 inc VAT",
+  "description": "Thor Nylon hammers have a choice of plastic grip or wooden handles with Chrome plated Zinc heads with Nylon faces, these are fitted as standard, available in 6 different weights. Alternative faces, colour coded to distinguish hardness are also available. The faces are designed to wear and are replaceable by hand. Available in 6 sizes each with different weights, Used, due to the easily interchangeable heads, as a multi purpose striking tool in most assembly applications including engineering, furniture, shopfitting, partitioning, double glazing, injection moulding dies etc.",
+  "availability": "In Stock",
+  "product_name": "Thor Plastic Hammers",
+  "specifications": [
+    "Available in 6 different weights",
+    "Interchangeable heads",
+    "Chrome plated Zinc heads with Nylon faces",
+    "Plastic grip or wooden handles",
+    "Multi-purpose striking tool"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-replacement-plastic-faces.html|>
+## Thor Replacement Plastic Faces
+
+{
+  "price": "from €1.46 inc VAT",
+  "description": "Replacement screw-in plastic orange faces for Thor plastic hammers. Medium hard all purpose face, for light and heavy assembly work.",
+  "availability": "In Stock",
+  "product_name": "Thor Replacement Plastic Faces",
+  "specifications": [
+    "Select Option: 1.1/4in, 1in, 2in, 3/4in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-nylon-hammers.html|>
+## Thor Nylon Hammers
+
+{
+  "price": "from €18.73 inc VAT",
+  "description": "Chrome plated zinc head (except THO720 12-720N which has a cast iron head) with two screw-in nylon faces which are designed to be replaced when worn. THO708, THO720, THO710R and THO712R are fitted with wooden handles while THO710, THO712, THO714 and THO716 have plastic handles. All have two white nylon faces except THO710R and THO712R which have one white nylon and one soft grey face. Available in 6 different weights. Used as a multi-purpose striking tool in most assembly applications including engineering, furniture making, shopfitting, partitioning, double glazing and injection moulding operations. Alternative colour coded faces to distinguish hardness are also available.",
+  "availability": "In Stock",
+  "product_name": "Thor Nylon Hammers",
+  "specifications": [
+    "Available in multiple weights: 1250g, 2200g, 250g, 385g, 760g, 450g, 675g, 900g",
+    "Chrome plated zinc head",
+    "Two screw-in nylon faces",
+    "Wooden and plastic handle options",
+    "Multi-purpose striking tool for various applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-replacement-nylon-faces.html|>
+## Thor Replacement Nylon Faces
+
+{
+  "price": "from €2.37 inc VAT",
+  "description": "All purpose replacement screw-in white nylon faces which will not mark finished surfaces. For light and heavy assembly work.",
+  "availability": "In Stock",
+  "product_name": "Thor Replacement Nylon Faces",
+  "specifications": [
+    "Select Option: 1.1/2in, 1.1/4in, 1.3/4in, 1in, 2.1/2in, 2in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-replacement-soft-grey-plastic-faces.html|>
+## Thor Replacement Soft Grey Plastic Faces
+
+{
+  "price": "€3.37 inc VAT",
+  "description": "Thor GREY - SOFT PVC with Shore hardness A63-73. These faces will not mar finished surfaces. Ideal for flat pack furniture assembly, woodworking.",
+  "availability": "In Stock",
+  "product_name": "Thor Replacement Soft Grey Plastic Faces",
+  "specifications": [
+    "To Fit 712R",
+    "Soft PVC with Shore hardness A63-73",
+    "Ideal for flat pack furniture assembly",
+    "Will not mar finished surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-replacement-super-plastic-faces.html|>
+## Thor Replacement Super Plastic Faces
+
+{
+  "price": "€3.84 inc VAT",
+  "description": "Thor Replacement white super plastic split head faces are special shaped and manufactured from ultra-high molecular weight polythene which will not fracture, splinter or delaminate on use. The Ultra-high molecular weight Polythene when fitted into Malleable iron heads provide high impact, durability and high abrasive resistance. These faces can be used as an alternative to Rawhide.",
+  "availability": "In Stock",
+  "product_name": "Thor Replacement Super Plastic Faces",
+  "specifications": [
+    "Select Option: 1.1/2in, 1.1/4in, 1.3/4in, 2.3/4in, 2in",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-super-plastic-hammers.html|>
+## Thor Super Plastic Hammers
+
+{
+  "price": "€28.31 inc VAT",
+  "description": "Thor super plastic hammers have a malleable iron head fitted with cylindrical ultra-high molecular weight polythene faces which are designed to wear and be replaced. Available in 3 different weights. The ultra-high molecular weight polythene heads provide high impact, durability and high abrasive resistance. The faces will not fracture, splinter or delaminate. Ideal for use as a general-purpose, soft-faced hammer in engineering applications for assembly, repair and maintenance operations as an alternative to a rawhide faced hammer.",
+  "availability": "In Stock",
+  "product_name": "Thor Super Plastic Hammers",
+  "specifications": [
+    "Available in 3 different weights: 1300g, 2000g, 790g",
+    "Malleable iron head with ultra-high molecular weight polythene faces",
+    "Designed for high impact and durability",
+    "Ideal for engineering applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-76-714tf-replacement-tough-brown-polyurethane-face.html|>
+## Thor 76-714TF Replacement Tough Brown Polyurethane Face
+
+{
+  "price": "€5.33 inc VAT (€4.33 exc.vat)",
+  "description": "The 76-714TF Replacement Tough Brown Polyurethane Face. Ideal for striking sharp surfaces including cutting forms, steel rule die assembly. One piece moulded for increased durability. No metal pegs or inserts to damage the workpiece when worn. Faces have a shoulder for extra strength and to prevent fracture from misdirected blows. Faces are designed to wear and to be replaced by hand.",
+  "availability": "Out of Stock",
+  "product_name": "Thor 76-714TF Replacement Tough Brown Polyurethane Face",
+  "specifications": [
+    "Fits Hammers: 11-714, 11-714NV, 12-714N, 12-A714NT, 13-714P, 20-1414",
+    "Face Diameter: 44mm (1.3/4in)",
+    "Weight: 45g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-t-block-combi-hammer-spare-heads.html|>
+## Hultafors T-block Combi Hammer Spare Heads
+
+{
+  "price": "€15.38 inc VAT",
+  "description": "Replaceable nylon strikers which are gentle on workpieces.",
+  "availability": "In Stock",
+  "product_name": "Hultafors T-block Combi Hammer Spare Heads",
+  "specifications": [
+    "Select Option: Medium, Small",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-b-1500-aluminium-pry-bar-1500mm-28kg.html|>
+## Hultafors B 1500 Aluminium Pry Bar 1500mm 2.8kg
+
+{
+  "price": "€174.57 inc VAT (€141.93 exc.vat)",
+  "description": "This Hultafors B 1500 Aluminium Pry Bar 1500mm 2.8kg is lighter and easier to work with, especially when working at shoulder height. Used for applications such as prizing items onto truck platforms and ripping up formwork. An aluminium tool does not rust, has better resistance to cold and is also more flexible than steel tools. It can be bent about three times as much as a steel tool without being deformed.",
+  "availability": "In Stock",
+  "product_name": "Hultafors B 1500 Aluminium Pry Bar 1500mm 2.8kg",
+  "specifications": [
+    "Weight: 2.8kg",
+    "Length: 1500mm",
+    "Material: Aluminium"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-h-480-b-aluminium-bending-bar-480mm-500g.html|>
+## Hultafors H 480 B Aluminium Bending Bar 480mm 500g
+
+{
+  "price": "€54.16 inc VAT (€44.03 exc.vat)",
+  "description": "The Hultafors H 480 B Aluminium Bending Bar is made with a bent tip. Lighter and easier to work with. Usually used in car workshops to adjust wheel alignment. This smaller bar is easy to store. As aluminium does not rust, it has a better resistance to extreme temperatures and is also more flexible than steel tools.",
+  "availability": "In Stock",
+  "product_name": "Hultafors H 480 B Aluminium Bending Bar 480mm 500g",
+  "specifications": [
+    "Aluminium construction",
+    "Length: 480mm",
+    "Weight: 500g",
+    "Bent tip for easier use",
+    "Used in car workshops for wheel alignment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-h-700-b-aluminium-bending-bar-680mm-700g.html|>
+## Hultafors H 700 B Aluminium Bending Bar 680mm 700g
+
+{
+  "price": "€53.65 inc VAT (€43.62 exc.vat)",
+  "description": "The Hultafors H 700 B Aluminium Bending Bar is made with a bent tip. Originally produced to test wheel bearings on cars, but also used by locksmiths to adjust door fittings. As aluminium does not rust, it has a better resistance to extreme temperatures and is also more flexible than steel tools.",
+  "availability": "In Stock",
+  "product_name": "Hultafors H 700 B Aluminium Bending Bar 680mm 700g",
+  "specifications": [
+    "HUL841022",
+    "Weight: 700g",
+    "Length: 680mm",
+    "Material: Aluminium",
+    "Rust-resistant",
+    "Flexible compared to steel"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-a-1500-sk-aluminium-demolition-pry-bar-1500mm-34kg.html|>
+## Hultafors A 1500 SK Aluminium Demolition Pry Bar 1500mm 3.4kg
+
+{
+  "price": "€305.13 inc VAT (€248.07 exc.vat)",
+  "description": "The Hultafors A 1500 SK Aluminium Demolition Pry Bar combines the best features of both a pry bar and a wrecking bar. Its claw with a nail puller makes it an excellent alternative to a wrecking bar. The claw is made from hardened boron steel, broad and robust but still thin enough to provide the best possible access. The long handle provides more power and makes it easier to work with a more ergonomic posture compared to working with a shorter wrecking bar. Made of hollow, specially alloyed aluminium making it light weight and strong at the same time. This low weight compared to steel pry bars and Burke bars makes it more gentle on the body, which is especially important when working above shoulder height.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors A 1500 SK Aluminium Demolition Pry Bar 1500mm 3.4kg",
+  "specifications": [
+    "Length: 1500mm",
+    "Weight: 3.4kg",
+    "Material: Aluminium and Boron Steel",
+    "Claw with nail puller"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-b-s-aluminium-pry-bar-with-steel-point.html|>
+## Hultafors B S Aluminium Pry Bar with Steel Point
+
+{
+  "price": "€199.79 inc VAT",
+  "description": "The Hultafors BS Aluminium Pry Bar is lighter and easier to work with, especially when working at shoulder height. The steel point is required if the bar is to be used to strike and cut. As aluminium does not rust, it has a better resistance to extreme temperatures and is also more flexible than steel tools. It can be bent about three times as much as a steel tool without being deformed.",
+  "availability": "In Stock",
+  "product_name": "Hultafors B S Aluminium Pry Bar with Steel Point",
+  "specifications": [
+    "1200mm, 2.7kg",
+    "3.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-a-sa-aluminium-pry-bar.html|>
+## Hultafors A SA Aluminium Pry Bar
+
+{
+  "price": "€327.40 inc VAT",
+  "description": "The Hultafors A SA Aluminium Pry Bar made for light to medium heavy tasks. The entire pry bar, including the tip, is made from aerospace aluminium for high strength. Lighter and gentler to your body compared to heavier pry bars in steel, especially when working at shoulder height. Can be used for demolition work, for moving bigger objects or when you need to be gentle to the material you are working with.",
+  "availability": "In Stock",
+  "product_name": "Hultafors A SA Aluminium Pry Bar",
+  "specifications": [
+    "Select Option: 1200mm 1.95kg, 1500mm 2.35kg",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-pry-bar-set-3-piece.html|>
+## Estwing Pry Bar Set, 3 Piece
+
+{
+  "price": "€25.50 inc VAT (€20.73 exc.vat)",
+  "description": "Estwing 3 Piece Pry Bar Set. All the bars are forged in one piece of steel, making it an extremely durable, long lasting striking tool. The high leverage design is engineered to produce maximum torque when pulling nails and prying boards. The chisel end is angled for prying and lifting, it is also ideal for working on window and door trim, moulding and baseboard. Contains the following sizes: 140mm (5.5in), 190mm (7.5in) and 250mm (10in).",
+  "availability": "Out of Stock",
+  "product_name": "Estwing Pry Bar Set, 3 Piece",
+  "specifications": [
+    "Sizes: 140mm (5.5in), 190mm (7.5in), 250mm (10in)",
+    "Forged in one piece of steel",
+    "High leverage design for maximum torque",
+    "Chisel end angled for prying and lifting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-moulding-bar-250mm.html|>
+## DeWALT Hand Tools Moulding Bar 250mm
+
+{
+  "price": "€26.62 inc VAT (€21.64 exc.vat)",
+  "description": "The DEWALT Moulding Bar has an extra wide head, 40% wider than standard moulding bars, that helps prevent wall damage when prying trim or moulding or pulling nails. The extra wide strike surface and flat prying end help the user accurately strike the bar to get under a nail or behind material to pry. An i-beam shaft provides strength without adding weight.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Moulding Bar 250mm",
+  "specifications": [
+    "Moulding Bar 250mm",
+    "DHT055529 : €26.62"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-flat-bar.html|>
+## DeWALT Hand Tools Flat Bar
+
+{
+  "price": "from €22.63 inc VAT",
+  "description": "The DEWALT Flat Bar is made from spring steel for added strength and durability. Its extra wide prying end provides greater leverage and bigger pry surface. This bar has multiple nail pullers and point bevelled ends for efficient nail removal.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Flat Bar",
+  "specifications": [
+    "Select Option: 300mm (12in), 530mm (21in)",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-108-mini-wrecking-bar-display-20-piece.html|>
+## Hultafors 108 Mini Wrecking Bar Display 20 Piece
+
+{
+  "price": "€164.19 inc VAT (€133.49 exc.vat)",
+  "description": "Comes complete as a Countertop Display with 20 x 108 Mini Wrecking Bars.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors 108 Mini Wrecking Bar Display 20 Piece",
+  "specifications": [
+    "HUL827026 : €164.19",
+    "List: €195.47",
+    "You save €31.28"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-e3239mm-roofers-pick-hammer-milled-face-vinyl-grip.html|>
+## Estwing E3/239MM Roofers Pick Hammer Milled Face-Vinyl Grip
+
+{
+  "price": "€82.05 inc VAT (€66.71 exc.vat)",
+  "description": "The Estwing E3/239MM hammer is designed for the roofing trade. It has a spike for making a hole in the slate, a claw for extracting old nails and a magnetised, recessed head for starting nails accurately. It is one piece forged with Estwing's world famous shock reduction grip.",
+  "availability": "Out of Stock",
+  "product_name": "Estwing E3/239MM Roofers Pick Hammer Milled Face-Vinyl Grip",
+  "specifications": [
+    "Milled face for better grip",
+    "Vinyl grip for comfort",
+    "One piece forged design",
+    "Spike for making holes in slate",
+    "Claw for extracting old nails",
+    "Magnetised head for accurate nail starting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-v-series-slaters-hammer-600g-21oz.html|>
+## Roughneck Gorilla V-Series Slater's Hammer 600g (21oz)
+
+{
+  "price": "€28.76 inc VAT (€23.38 exc.vat)",
+  "description": "The Roughneck® Gorilla V-Series Slater's Hammer offers increased striking power and reduced vibration. Manufactured from drop-forged, hardened and tempered steel. The unique V-Shock twin-beam girder shaft acts as a damper, resulting in reduced shock and vibration transmission, and further controlled by an air-cushioned grip. Reduced weight in the shaft transfers the centre of gravity towards the head, resulting in improved balance and reduced effort. The pick end enables holes to be punched in slates and an integrated nail puller allows nails to be removed with ease. A lanyard hole in the base of the handle allows for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla V-Series Slater's Hammer 600g (21oz)",
+  "specifications": [
+    "Weight: 600g (21oz)",
+    "Material: Drop-forged, hardened and tempered steel",
+    "V-Shock twin-beam girder shaft",
+    "Air-cushioned grip",
+    "Integrated nail puller",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-j612-junior-thorlite-rubber-faced-hammer-38mm-283g.html|>
+## Thor J612 Junior Thorlite Rubber Faced Hammer 38mm 283g
+
+{
+  "price": "€17.55 inc VAT (€14.27 exc.vat)",
+  "description": "The Thor J612 has Aluminium-alloy head fitted with one hard black and one soft red flat rubber push-on face and a fixed ash handle. These are specifically designed for use on woodwork, easing tight doors and windows, fitting trim, fitting chrome surrounds and light assembly work. Replacement faces are available: THO612HF (hard black) and THO612SF (soft red). Diameter: 38mm (1.1/2in). Weight: 283g (10oz).",
+  "availability": "Out of Stock",
+  "product_name": "Thor J612 Junior Thorlite Rubber Faced Hammer 38mm 283g",
+  "specifications": [
+    "Aluminium-alloy head",
+    "Hard black and soft red rubber faces",
+    "Fixed ash handle",
+    "Diameter: 38mm (1.1/2in)",
+    "Weight: 283g (10oz)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/thor-rubber-faces-for-j612.html|>
+## Thor Rubber Faces for J612
+
+{
+  "price": "from €2.42 inc VAT",
+  "description": "Push-on rubber face. THO612SF - soft red rubber face - will not mark white wood. THO612HF - hard black rubber face. Diameter: 38 mm (1.1/2in).",
+  "availability": "In Stock",
+  "product_name": "Thor Rubber Faces for J612",
+  "specifications": [
+    "Soft red rubber face - will not mark white wood",
+    "Hard black rubber face",
+    "Diameter: 38 mm (1.1/2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-assorted-hammer-face-set-9-piece.html|>
+## Wiha Assorted Hammer Face Set, 9 Piece
+
+{
+  "price": "€210.76 inc VAT (€171.35 exc.vat)",
+  "description": "This 9 Piece Wiha Hammer Set is for all application fields, especially delicate surfaces. Contains eight interchangeable round hammer faces. These heads can be quickly and easily changed for the task at hand using the supplied hexagon L-key. GS tested. Supplied in a robust metal box. Contains the following: 1 x Safety Hammer with a high-grade hickory handle. 1 x Round Soft Face. 2 x Round Medium-soft Face. 2 x Round Medium-hard Faces. 1 x Round Hard Face. 1 x Round Very Hard Face. 1 x Hexagonal Ball End L-key 6.0mm.",
+  "availability": "In Stock",
+  "product_name": "Wiha Assorted Hammer Face Set, 9 Piece",
+  "specifications": [
+    "Assorted Hammer Face Set, 9 Piece",
+    "WHA44008 : €210.76",
+    "Contains eight interchangeable round hammer faces",
+    "Supplied in a robust metal box",
+    "Includes a Safety Hammer with a high-grade hickory handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-soft-face-safety-hammer-hickory-handle-620g.html|>
+## Wiha Soft-Face Safety Hammer Hickory Handle 620g
+
+{
+  "price": "€42.84 inc VAT (€34.83 exc.vat)",
+  "description": "The Wiha Safety Hammer comes with a dual sided head. The blue soft head is ideal for furniture work and interior decorating, minor assembly. The yellow medium-hard head is ideal for tool and machine engineering, car repairs, sheet metal and assembly work. Makes work easier, with an optimum impact effect and less effort needed. Fitted with an ergonomic hickory wooden handle. GS tested.",
+  "availability": "In Stock",
+  "product_name": "Wiha Soft-Face Safety Hammer Hickory Handle 620g",
+  "specifications": [
+    "Hammer Face Diameter: 40mm",
+    "Hammer Head Height: 110mm",
+    "Overall Length: 325mm",
+    "Weight: 620g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/spear-and-jackson-double-end-scutch-hammer-22oz-624g.html|>
+## Spear & Jackson Double End Scutch Hammer 22oz (624g)
+
+{
+  "price": "€26.31 inc VAT (€21.39 exc.vat)",
+  "description": "Double ended with both ends grooved\nHickory shaft\nFor cutting stone, brickwork or for removing mortar prior to repointing",
+  "availability": "Out of Stock",
+  "product_name": "Spear & Jackson Double End Scutch Hammer 22oz (624g)",
+  "specifications": [
+    "Double ended with both ends grooved",
+    "Hickory shaft",
+    "For cutting stone, brickwork or for removing mortar prior to repointing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-v-series-scutch-hammer-567g-20oz.html|>
+## Roughneck Gorilla V-Series Scutch Hammer 567g (20oz)
+
+{
+  "price": "€31.34 inc VAT (€25.48 exc.vat)",
+  "description": "The Roughneck® Gorilla V-Series Double-Ended Scutch Hammer accepts both scutch combs and chisels, making it ideal for stone and masonry dressing. Manufactured from drop-forged, hardened and tempered steel for extreme strength and durability. The unique V-Shock twin-beam girder shaft acts as a damper, resulting in reduced shock and vibration transmission, and further controlled by an air-cushioned grip. Reduced weight in the shaft transfers the centre of gravity towards the head, resulting in improved balance and reduced effort. There is a lanyard hole in the base of the handle, ideal for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla V-Series Scutch Hammer 567g (20oz)",
+  "specifications": [
+    "Weight: 567g (20oz)",
+    "Material: Drop-forged, hardened and tempered steel",
+    "V-Shock twin-beam girder shaft",
+    "Air-cushioned grip",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-mini-sledge-hammer-16in-fibreglass-handle-14kg-3-lb.html|>
+## Roughneck Mini Sledge Hammer 16in Fibreglass Handle 1.4kg (3 lb)
+
+{
+  "price": "€14.98 inc VAT (€12.18 exc.vat)",
+  "description": "Roughneck Mini Sledge Hammer made from drop-forged alloy steel hardened and tempered, with 8-sided 45 degree chamfered precision milled faces. Fitted with a solid core fibreglass handle bonded with a industrial grade epoxy for a longer lasting bond. The handle has a polypropylene cover and double injected TPR soft grip handle with integral overstrike protection. They have shorter fibreglass handles than the traditional Sledge Hammers, which make them ideal for use in places where a large swing cannot be taken or using a full length sledge hammer is not practical. They can easily be carried in tool boxes and tool bags.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Mini Sledge Hammer 16in Fibreglass Handle 1.4kg (3 lb)",
+  "specifications": [
+    "Handle Length: 16in",
+    "Weight: 1.4kg (3 lb)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-sledge-hammer-fibreglass-handle.html|>
+## Estwing Sledge Hammer, Fibreglass Handle
+
+{
+  "price": "€35.05 inc VAT",
+  "description": "The Estwing Sledge Hammer is perfect for driving stakes and rebar, shattering stone and concrete, and performing heavy demolition or industrial construction projects. Designed and built for heavy-duty use, this hammer features a forged alloy steel head with striking ends hardened to 50-55 HRC. It can withstand years of repeated impacts without deforming. The head is mounted to a fibreglass handle, double injected for increased strength and durability. A textured rubber overlay on the handle provides a comfortable, ergonomic, and secure grip in both grip positions while also helping to dampen vibrations. Below the striking head the handle and rubber overlay are thicker to provide increased overstrike protection to prevent damage from missed hits.",
+  "availability": "In Stock",
+  "product_name": "Estwing Sledge Hammer, Fibreglass Handle",
+  "specifications": [
+    "Weight Options: 1.13kg (2.5 lb), 1.8kg (4 lb), 2.7kg (6 lb), 3.6kg (8 lb), 4.54kg (10 lb), 5.5kg (12 lb), 6.35kg (14 lb), 7.3kg (16 lb)",
+    "Forged alloy steel head",
+    "Hardened to 50-55 HRC",
+    "Fibreglass handle",
+    "Textured rubber overlay for grip",
+    "Increased overstrike protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-sledge-hammers---fibre-glass-handles.html|>
+## Roughneck Sledge Hammers - Fibre Glass Handles
+
+{
+  "price": "€19.99 inc VAT",
+  "description": "Roughneck Sledge hammers with Fibre glass handles are manufactured from drop forged alloy steel hardened and tempered, with 8-sided 45 degree chamfered precision milled edges. With an Industrial grade epoxy for a longer lasting bond, solid core fibreglass handle with polypropylene cover and double injected TPR soft-grip handle with integral overstrike protection.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Sledge Hammers - Fibre Glass Handles",
+  "specifications": [
+    "Available weights: 3lb, 4lb, 6lb, 8lb, 10lb, 12lb, 14lb, 16lb",
+    "Manufactured from drop forged alloy steel",
+    "Industrial grade epoxy for longer lasting bond",
+    "Solid core fibreglass handle with polypropylene cover",
+    "Double injected TPR soft-grip handle with integral overstrike protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-mini-sledge-hammer.html|>
+## Roughneck Gorilla Mini Sledge Hammer
+
+{
+  "price": "from €29.22 inc VAT",
+  "description": "Roughneck Gorilla Sledge Hammers are precision forged from high carbon steel. Each sledge hammer features a dome-shaped striking point for exerting concentrated force. They also have a larger than normal striking face with chamfered edge for general use. Both of these striking faces are induction heat-treated for hardness. The hammers also each feature a side striking face which is not hardened and is designed for striking wooden posts. A shock absorbing TPE grip handle is designed for maximum comfort.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla Mini Sledge Hammer",
+  "specifications": [
+    "3lb and 4lb options available",
+    "Precision forged from high carbon steel",
+    "Dome-shaped striking point",
+    "Larger than normal striking face",
+    "Induction heat-treated for hardness",
+    "Shock absorbing TPE grip handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-sledge-hammers.html|>
+## Roughneck Gorilla Sledge Hammers
+
+{
+  "price": "from €54.21 inc VAT",
+  "description": "Roughneck Gorilla Sledge Hammers are precision forged from high carbon steel. Each sledge hammer features a dome-shaped striking point for exerting concentrated force. They also have a larger than normal striking face with chamfered edge for general use. Both of these striking faces are induction heat-treated for hardness. The hammers also feature a side striking face which is not hardened and is designed for striking wooden posts. A shock absorbing TPE grip handle is designed for maximum comfort.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla Sledge Hammers",
+  "specifications": [
+    "Available weights: 3.6kg (8lb), 4.5kg (10lb), 5.5kg (12lb), 6lb",
+    "Precision forged from high carbon steel",
+    "Dome-shaped striking point for concentrated force",
+    "Larger striking face with chamfered edge",
+    "Induction heat-treated striking faces for hardness",
+    "Side striking face designed for wooden posts",
+    "Shock absorbing TPE grip handle for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-fibreglass-long-handle-sledge-hammer.html|>
+## Stanley Tools Fatmax Fibreglass Long Handle Sledge Hammer
+
+{
+  "price": "€57.47 inc VAT",
+  "description": "The Stanley Fibreglass Long Handle Sledge Hammer features Stanley FatMax AntiVibe particle dampening technology to reduce vibration to a minimum to prevent RSI's and fatigue. The 'bullet' face provides greater impact force. The hammer has a multi core construction and a high impact polypropylene jacket, which is tough and durable. The rubber overmould is long lasting and slip resistant.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Fatmax Fibreglass Long Handle Sledge Hammer",
+  "specifications": [
+    "Weight: 2.7kg (6lb)",
+    "AntiVibe technology to reduce vibration",
+    "Multi core construction",
+    "High impact polypropylene jacket",
+    "Rubber overmould for slip resistance"
+  ]
+}
+

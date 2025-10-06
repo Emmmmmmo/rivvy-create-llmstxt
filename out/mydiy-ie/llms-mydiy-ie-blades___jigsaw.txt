@@ -1,0 +1,586 @@
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-metal-cutting-pack-of-5-t118a.html|>
+## IRWIN Jigsaw Blades Metal Cutting Pack of 5 T118A
+
+{
+  "price": "€13.32 inc VAT (€10.83 exc.vat)",
+  "description": "Irwin Jigsaw Metal Cutting Blades have fully hardened high speed steel for use in metal, aluminum, and no-ferrous metal. HSS milled teeth provide longer life and fast cuts in metal. Fast and even cuts in thin and thick metal. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Straight cuts in metal, non-ferrous metal, aluminium, sheet metal, 1.5-3 mm (1/16Inch -1/8in ). Length: 92mm. Pitch: 24. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Metal Cutting Pack of 5 T118A",
+  "specifications": [
+    "Pack of 5",
+    "Length: 92mm",
+    "Pitch: 24",
+    "Material: High speed steel",
+    "Compatible with AEG, Bosch, DEWALT and Hitachi Jigsaws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-metal-cutting-pack-of-5-t118b.html|>
+## IRWIN Jigsaw Blades Metal Cutting Pack of 5 T118B
+
+{
+  "price": "€13.32 inc VAT (€10.83 exc.vat)",
+  "description": "Irwin Jigsaw Metal Cutting Blades have fully hardened high speed steel for use in metal, aluminum, and no-ferrous metal. HSS milled teeth provide longer life and fast cuts in metal. Fast and even cuts in thin and thick metal. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Straight cuts in metal, non-ferrous metal, aluminium, sheet metal, 3-6 mm (1/8Inch -1/4in). Length: 92mm. Pitch: 20. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Metal Cutting Pack of 5 T118B",
+  "specifications": [
+    "Pack of 5",
+    "Length: 92mm",
+    "Pitch: 20",
+    "Material: High speed steel",
+    "Compatible with AEG, Bosch, DEWALT and Hitachi Jigsaws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-metal-cutting-pack-of-5-t318a.html|>
+## IRWIN Jigsaw Blades Metal Cutting Pack of 5 T318A
+
+{
+  "price": "€30.31 inc VAT (€24.64 exc.vat)",
+  "description": "Irwin Jigsaw Metal Cutting Blades have fully hardened high speed steel for use in metal, aluminum, and no-ferrous metal. HSS milled teeth provide longer life and fast cuts in metal. Fast and even cuts in thin and thick metal. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Straight cuts in metal, non-ferrous metal, aluminium 1.5-3 mm (1/16Inch -1/8in ), sandwich materials 1.5-65 mm (1/16in -2 1/2in). Length: 132mm. Pitch: 24. Supplied in a pack of 5.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN Jigsaw Blades Metal Cutting Pack of 5 T318A",
+  "specifications": [
+    "Pack of 5",
+    "Length: 132mm",
+    "Pitch: 24",
+    "Material: High speed steel",
+    "Compatible with AEG, Bosch, DEWALT and Hitachi Jigsaws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-metal-cutting-pack-of-5-t123x.html|>
+## IRWIN Jigsaw Blades Metal Cutting Pack of 5 T123X
+
+{
+  "price": "€17.32 inc VAT (€14.08 exc.vat)",
+  "description": "Irwin Jigsaw Metal Cutting Blades have fully hardened high speed steel for use in metal, aluminum, and no-ferrous metal. HSS milled teeth provide longer life and fast cuts in metal. Fast and even cuts in thin and thick metal. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Progressive tooth spacing, for fast cuts, long life, in sheet metal 2-10mm, non-ferrous metal 2-20mm, stainless steel 1.5-3mm, plastic 1.5-30mm, fiberglass 1-20mm. Length: 132mm. Pitch: 24. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Metal Cutting Pack of 5 T123X",
+  "specifications": [
+    "Pack of 5",
+    "Length: 132mm",
+    "Pitch: 24",
+    "Material: High speed steel",
+    "Compatible with AEG, Bosch, DEWALT and Hitachi Jigsaws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-metal-cutting-pack-of-5-t118g.html|>
+## IRWIN Jigsaw Blades Metal Cutting Pack of 5 T118G
+
+{
+  "price": "€13.32 inc VAT (€10.83 exc.vat)",
+  "description": "Irwin Jigsaw Metal Cutting Blades have fully hardened high speed steel for use in metal, aluminum, and no-ferrous metal. HSS milled teeth provide longer life and fast cuts in metal. Fast and even cuts in thin and thick metal. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Straight cuts in thin metal, non-ferrous metal, sheet metal, aluminium 0.2-1 mm (1/64Inch -3/64in). Length: 92mm. Pitch: 36. Supplied in a pack of 5.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN Jigsaw Blades Metal Cutting Pack of 5 T118G",
+  "specifications": [
+    "Length: 92mm",
+    "Pitch: 36",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-t118-traditional-metal-jigsaw-blades.html|>
+## Milwaukee T118 Traditional Metal Jigsaw Blades
+
+{
+  "price": "€12.83 inc VAT",
+  "description": "Milwaukee T118 Traditional Metal Jigsaw Blades are especially suited to cutting very thin sheet material because of their low tooth pitch. Made from High Speed Steel these blades are suited to cutting metal, non ferrous metal and aluminium. Blade length: 55mm. Pack of 5.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee T118 Traditional Metal Jigsaw Blades",
+  "specifications": [
+    "Blade length: 55mm",
+    "Pack of 5",
+    "Made from High Speed Steel",
+    "Suitable for cutting metal, non ferrous metal and aluminium"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blade-abrasive-materials.html|>
+## IRWIN Jigsaw Blade Abrasive Materials
+
+{
+  "price": "€15.94 inc VAT",
+  "description": "These Irwin Jigsaw Blades are carbide tipped for long life and are especially suited for abrasive materials. They are ideal for use on glass fibre reinforced plastics (5-50mm), plasterboard and fibre cement boards (<80mm).",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blade Abrasive Materials",
+  "specifications": [
+    "Carbide tipped for long life",
+    "Suitable for abrasive materials",
+    "Ideal for glass fibre reinforced plastics (5-50mm)",
+    "Suitable for plasterboard and fibre cement boards (<80mm)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t144d.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T144D
+
+{
+  "price": "€10.81 inc VAT (€8.79 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Fast, clean cuts in hard and soft wood, particle board 6-60 mm (1/4-2 3/8 Inch). Length: 100mm. Pitch: 6. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T144D",
+  "specifications": [
+    "Made from Carbon steel",
+    "For use in softer materials such as wood, laminated chipboard, and plastics",
+    "3 Sided, fleam ground teeth for fast cut and clean finishes",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Fast, clean cuts in hard and soft wood, particle board 6-60 mm (1/4-2 3/8 Inch)",
+    "Length: 100mm",
+    "Pitch: 6",
+    "Supplied in a pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t101b.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T101B
+
+{
+  "price": "€13.80 inc VAT (€11.22 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Straight cuts in hard and soft wood, plastics, plywood, laminated particle board 4-30 mm (3/16 Inch - 1 1/4 Inch) Length: 100mm Pitch: 10. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T101B",
+  "specifications": [
+    "Length: 100mm",
+    "Pitch: 10",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t111c.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T111C
+
+{
+  "price": "€7.17 inc VAT (€5.83 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Fast, coarse cuts in hard and soft wood, plastics 5-60 mm (7/32Inch -2 3/8in ). Length: 100mm. Pitch: 6. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T111C",
+  "specifications": [
+    "Made from Carbon steel",
+    "3 Sided, fleam ground teeth",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Length: 100mm",
+    "Pitch: 6",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t101d.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T101D
+
+{
+  "price": "€13.80 inc VAT (€11.22 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Fast straight cuts in hard and soft wood, plastics, particleboard 6-60 mm (1/4Inch -2 3/8in). Length: 100mm. Pitch: 6. Comes supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T101D",
+  "specifications": [
+    "Made from Carbon steel",
+    "For use in softer materials such as wood, laminated chipboard, and plastics",
+    "3 Sided, fleam ground teeth for fast cut and clean finishes",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Fast straight cuts in hard and soft wood, plastics, particleboard 6-60 mm (1/4Inch -2 3/8in)",
+    "Length: 100mm",
+    "Pitch: 6",
+    "Comes supplied in a pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t101br.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T101BR
+
+{
+  "price": "€15.26 inc VAT (€12.41 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Straight, fine down cuts in plywood, laminated particleboard, hard and soft wood, plastics 4-30 mm (3/16Inch -1 1/4in). Length: 100mm. Pitch: 10. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T101BR",
+  "specifications": [
+    "Length: 100mm",
+    "Pitch: 10",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t244d.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T244D
+
+{
+  "price": "€13.95 inc VAT (€11.34 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Very fast clean cuts in hard and soft wood, particleboard 6-60 mm (1/4Inch -2 3/8in). Length: 100mm. Pitch: 6. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T244D",
+  "specifications": [
+    "Length: 100mm",
+    "Pitch: 6",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-jigsaw-blades-t101br-wood-special-application-5.html|>
+## Milwaukee Jigsaw Blades T101BR Wood Special Application (5)
+
+{
+  "price": "€14.82 inc VAT (€12.05 exc.vat)",
+  "description": "Milwaukee T101BR Wood Special Application Jigsaw Blades for kitchen worktops and laminated chipboard. These blades have a reversed tooth design. This means that the blade cuts on the downward stroke making them extremely suitable for clean and splinter free cuts in laminated chipboard and especially kitchen worktops in situ. For best results work without pendulum action. Blade length: 75mm. Tooth pitch: 2.5mm. Pack of 5.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Jigsaw Blades T101BR Wood Special Application (5)",
+  "specifications": [
+    "Blade length: 75mm",
+    "Tooth pitch: 2.5mm",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t101ao.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T101AO
+
+{
+  "price": "€26.51 inc VAT (€21.55 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Curve cutting in plywood, laminated particleboard, hard and soft wood, plastics 2-20 mm (5/64Inch -3/4in). Length: 83mm. Pitch: 20. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T101AO",
+  "specifications": [
+    "Made from Carbon steel",
+    "3 Sided, fleam ground teeth",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Curve cutting in plywood, laminated particleboard, hard and soft wood, plastics 2-20 mm (5/64Inch -3/4in)",
+    "Length: 83mm",
+    "Pitch: 20",
+    "Supplied in a pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t119bo.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T119BO
+
+{
+  "price": "€10.54 inc VAT (€8.57 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Narrow curve cutting hard and soft wood, plywood, particleboard and plastics 2-20 mm (5/64Inch -3/4in). Length: 83mm. Pitch: 12. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T119BO",
+  "specifications": [
+    "Made from Carbon steel",
+    "3 Sided, fleam ground teeth",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Narrow curve cutting for hard and soft wood, plywood, particleboard and plastics 2-20 mm",
+    "Length: 83mm",
+    "Pitch: 12",
+    "Supplied in a pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t234x.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T234X
+
+{
+  "price": "€21.61 inc VAT (€17.57 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Progressive tooth spacing for straight, accurate cuts in thick and thin wood materials, hard and soft wood, particleboard and plywood 1-80 mm (3/16Inch -3 1/8in ). Length: 115mm. Pitch: progressive. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T234X",
+  "specifications": [
+    "Made from Carbon steel",
+    "3 Sided, fleam ground teeth",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Progressive tooth spacing for accurate cuts",
+    "Length: 115mm",
+    "Supplied in a pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t301cd.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T301CD
+
+{
+  "price": "€23.81 inc VAT (€19.36 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Fast, fine cuts in hard and soft wood, particleboard, laminated particleboard 4-60 mm (3/16Inch -2 3/8in ), plastics, 4-30 mm (3/16in -1 1/4in). Length: 115mm. Pitch: 8. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T301CD",
+  "specifications": [
+    "Made from Carbon steel",
+    "3 Sided, fleam ground teeth",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Length: 115mm",
+    "Pitch: 8",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t127d.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T127D
+
+{
+  "price": "€14.48 inc VAT (€11.77 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws.Fast, straight cuts in aluminum 4-15mm, plastic 4-30mm, non-ferrous metal, metal 4-6mm, fiberglass, lead, tin 4-20mm. Length: 100mm. Pitch: 6. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T127D",
+  "specifications": [
+    "Made from Carbon steel",
+    "3 Sided, fleam ground teeth",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Length: 100mm",
+    "Pitch: 6",
+    "Supplied in a pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-metal-and-wood-cutting-pack-of-5-t345xf.html|>
+## IRWIN Jigsaw Blades Metal & Wood Cutting Pack of 5 T345XF
+
+{
+  "price": "€25.93 inc VAT (€21.08 exc.vat)",
+  "description": "Jigsaw Metal & Wood Cutting Blades made from Bi-Metal which is a highly flexible, tough combination of HSS and HCS is suitable for the most demanding applications. HSS and BiMetal progressive tooth blade for all-purpose cutting in wood and metal, whilst also extendeding life. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. Progressive tooth spacing for fast cuts, long life in metal 3.5-10mm, wood with nails, particleboard 3.5-90mm, non-ferrous metal, aluminium, plastics 2-30mm. Length: 132mm. Pitch: Progressive. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Metal & Wood Cutting Pack of 5 T345XF",
+  "specifications": [
+    "Length: 132mm",
+    "Pitch: Progressive",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-t144dp.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 T144DP
+
+{
+  "price": "€14.71 inc VAT (€11.96 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting blades made from Carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. They have 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws. FFast, clean, parallel cuts in hard and soft wood, particle board 6-60 mm (1/4-2 3/8Inch). Length: 100mm. Pitch: 6. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 T144DP",
+  "specifications": [
+    "Made from Carbon steel",
+    "3 Sided, fleam ground teeth",
+    "T Shank for AEG, Bosch, DEWALT and Hitachi Jigsaws",
+    "Length: 100mm",
+    "Pitch: 6",
+    "Supplied in a pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-multi-use-jigsaw-blades-5-bu214-5.html|>
+## Starrett Multi Use Jigsaw Blades (5) BU214-5
+
+{
+  "price": "€12.29 inc VAT (€9.99 exc.vat)",
+  "description": "Multi Use Jigsaw Blades (5) BU214-5",
+  "availability": "In Stock",
+  "product_name": "Starrett Multi Use Jigsaw Blades (5) BU214-5",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-metal-cutting-pack-of-5-u118b.html|>
+## IRWIN Jigsaw Blades Metal Cutting Pack of 5 U118B
+
+{
+  "price": "€13.32 inc VAT (€10.83 exc.vat)",
+  "description": "Irwin Jigsaw Metal Cutting Blades are made from fully hardened high speed steel for use in metal, aluminum, and no-ferrous metal. HSS milled teeth for a longer life and fast, even cuts in metal. Straight cuts in metal, non-ferrous metal, aluminium, 3-6 mm (1/8Inch -1/4in). Length: 92mm. Pitch: 20 Precise Cut. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Metal Cutting Pack of 5 U118B",
+  "specifications": [
+    "Made from fully hardened high speed steel",
+    "HSS milled teeth for longer life",
+    "Suitable for metal, aluminum, and non-ferrous metal",
+    "Length: 92mm",
+    "Pitch: 20 Precise Cut",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-metal-cutting-pack-of-5-u118g.html|>
+## IRWIN Jigsaw Blades Metal Cutting Pack of 5 U118G
+
+{
+  "price": "€13.32 inc VAT (€10.83 exc.vat)",
+  "description": "Irwin Jigsaw Metal Cutting Blades are made from fully hardened high speed steel for use in metal, aluminum, and no-ferrous metal. HSS milled teeth for a longer life and fast, even cuts in thin and thick metal. Straight cuts in thin metal, non-ferrous metal, sheet metal, aluminium 0.2-1 mm (1/64Inch -3/64in). Length: 92mm. Pitch: 36 Precise Cut. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Metal Cutting Pack of 5 U118G",
+  "specifications": [
+    "Length: 92mm",
+    "Pitch: 36 Precise Cut",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blade-set-assorted-10-piece-set.html|>
+## IRWIN Jigsaw Blade Set Assorted 10 Piece Set
+
+{
+  "price": "€17.56 inc VAT (€14.28 exc.vat)",
+  "description": "The Irwin 10 piece set of T-shank jigsaw blades for AEG, Bosch, DEWALT and Hitachi Jigsaws for metal and wood cutting are manufactured from high quality materials. Contain the following pieces: 2 x 10504221 (T111C) Wood cutting 100mm 8 tpi. 2 x 10504218 (T144D) Wood cutting 100mm 6 tpi (fast cut). 2 x 10504219 (T101B) Wood cutting 100mm 10 tpi. 1 x 10504222 (T101D) Wood cutting 100mm 6 tpi (clean cut). 2 x 10504220 (T118A) Metal cutting 92mm Progressive 17 - 23 tpi. 1 x 10504225 (T118B) Metal cutting 92mm Progressive 11 - 13 tpi.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN Jigsaw Blade Set Assorted 10 Piece Set",
+  "specifications": [
+    "2 x 10504221 (T111C) Wood cutting 100mm 8 tpi",
+    "2 x 10504218 (T144D) Wood cutting 100mm 6 tpi (fast cut)",
+    "2 x 10504219 (T101B) Wood cutting 100mm 10 tpi",
+    "1 x 10504222 (T101D) Wood cutting 100mm 6 tpi (clean cut)",
+    "2 x 10504220 (T118A) Metal cutting 92mm Progressive 17 - 23 tpi",
+    "1 x 10504225 (T118B) Metal cutting 92mm Progressive 11 - 13 tpi"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-metal-cutting-jigsaw-blades-5-bu224-5.html|>
+## Starrett Metal Cutting Jigsaw Blades (5) BU224-5
+
+{
+  "price": "€12.29 inc VAT (€9.99 exc.vat)",
+  "description": "Metal Cutting Jigsaw Blades (5) BU224-5",
+  "availability": "In Stock",
+  "product_name": "Starrett Metal Cutting Jigsaw Blades (5) BU224-5",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-metal-cutting-jigsaw-blades-5-bu224s-5.html|>
+## Starrett Metal Cutting Jigsaw Blades (5) BU224s-5
+
+{
+  "price": "€12.77 inc VAT (€10.38 exc.vat)",
+  "description": "Metal Cutting Jigsaw Blades (5) BU224s-5",
+  "availability": "In Stock",
+  "product_name": "Starrett Metal Cutting Jigsaw Blades (5) BU224s-5",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-metal-cutting-jigsaw-blades-5-bu232-5.html|>
+## Starrett Metal Cutting Jigsaw Blades (5) BU232-5
+
+{
+  "price": "€12.77 inc VAT (€10.38 exc.vat)",
+  "description": "Metal Cutting Jigsaw Blades (5) BU232-5",
+  "availability": "In Stock",
+  "product_name": "Starrett Metal Cutting Jigsaw Blades (5) BU232-5",
+  "specifications": [
+    "STRBU2325 : €12.77",
+    "List: €13.55",
+    "You save €0.78"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-metal-cutting-jigsaw-blades-5-bu424-5.html|>
+## Starrett Metal Cutting Jigsaw Blades (5) BU424-5
+
+{
+  "price": "€18.23 inc VAT (€14.82 exc.vat)",
+  "description": "Metal Cutting Jigsaw Blades (5) BU424-5",
+  "availability": "In Stock",
+  "product_name": "Starrett Metal Cutting Jigsaw Blades (5) BU424-5",
+  "specifications": [
+    "STRBU4245 : €18.23",
+    "List: €19.34",
+    "You save €1.11"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-u101bp-jigsaw-blades-wood-cutting-pack-of-5.html|>
+## IRWIN U101BP Jigsaw Blades Wood Cutting Pack of 5
+
+{
+  "price": "€13.80 inc VAT (€11.22 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting Blades made from carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. With a universal shank and 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. Straight cuts in hard and soft wood, plastics, plywood, laminated particle board 4-30 mm (3/16 Inch - 1 1/4 Inch). Length: 100mm. Pitch: 10 Ordinary Cut. Supplied in a pack of 5.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN U101BP Jigsaw Blades Wood Cutting Pack of 5",
+  "specifications": [
+    "Made from carbon steel",
+    "Universal shank",
+    "3 Sided, fleam ground teeth",
+    "Length: 100mm",
+    "Pitch: 10 Ordinary Cut",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-u111c.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 U111C
+
+{
+  "price": "€7.17 inc VAT (€5.83 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting Blades made from carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. Universal shank with 3 sided, fleam ground teeth for fast cut and clean finishes in all wood applications. Fast, coarse cuts in hard and soft wood, plastics 5-60 mm (7/32Inch -2 3/8in). Length: 100mm. Pitch: 8 Fast Cut. Supplied in packs of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 U111C",
+  "specifications": [
+    "Made from carbon steel",
+    "Universal shank with 3 sided, fleam ground teeth",
+    "Fast cut and clean finishes in all wood applications",
+    "Length: 100mm",
+    "Pitch: 8 Fast Cut",
+    "Supplied in packs of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-jigsaw-blades-wood-cutting-pack-of-5-u101d.html|>
+## IRWIN Jigsaw Blades Wood Cutting Pack of 5 U101D
+
+{
+  "price": "€13.80 inc VAT (€11.22 exc.vat)",
+  "description": "Irwin Jigsaw Wood Cutting Blades made from carbon steel for use in softer materials such as wood, laminated chipboard, and plastics. With a universal shank and 3 Sided, fleam ground teeth for fast cut and clean finishes in all wood applications. Fast straight cuts in hard and soft wood, plastics, particleboard 6-60 mm (1/4Inch -2 3/8in). Length: 100mm. Pitch 6 Fast Cut. Supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Jigsaw Blades Wood Cutting Pack of 5 U101D",
+  "specifications": [
+    "Made from carbon steel",
+    "Universal shank",
+    "3 Sided, fleam ground teeth",
+    "Length: 100mm",
+    "Pitch 6 Fast Cut",
+    "Pack of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-wood-cutting-jigsaw-blades-5bu310dt-5.html|>
+## Starrett Wood Cutting Jigsaw Blades (5) BU310dt-5
+
+{
+  "price": "€21.88 inc VAT (€17.79 exc.vat)",
+  "description": "BU310DT-5 Wood Cutting Jigsaw Blades Pack of 5",
+  "availability": "In Stock",
+  "product_name": "Starrett Wood Cutting Jigsaw Blades (5) BU310dt-5",
+  "specifications": [
+    "Pack of 5",
+    "Wood Cutting",
+    "Compatible with jigsaws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-wood-cutting-jigsaw-blades-5-bu310t-5.html|>
+## Starrett Wood Cutting Jigsaw Blades (5) BU310t-5
+
+{
+  "price": "€18.08 inc VAT (€14.70 exc.vat)",
+  "description": "BU310T-5 Wood Cutting Jigsaw Blades Pack of 5",
+  "availability": "In Stock",
+  "product_name": "Starrett Wood Cutting Jigsaw Blades (5) BU310t-5",
+  "specifications": [
+    "Pack of 5",
+    "Wood Cutting",
+    "Compatible with jigsaws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-wood-cutting-jigsaw-blades-5-bu36-5.html|>
+## Starrett Wood Cutting Jigsaw Blades (5) BU36-5
+
+{
+  "price": "€13.67 inc VAT (€11.11 exc.vat)",
+  "description": "BU36-5 Wood Cutting Jigsaw Blades Pack of 5",
+  "availability": "In Stock",
+  "product_name": "Starrett Wood Cutting Jigsaw Blades (5) BU36-5",
+  "specifications": [
+    "Pack of 5",
+    "Wood Cutting",
+    "Compatible with jigsaws"
+  ]
+}
+

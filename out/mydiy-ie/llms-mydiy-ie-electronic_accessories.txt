@@ -1,0 +1,14 @@
+<|https://www.mydiy.ie/products/dewalt-telecoms-3-in-1-stylus-pocket-pen.html|>
+## DEWALT Telecoms 3-in-1 Stylus Pocket Pen
+
+{
+  "price": "€26.64 inc VAT (€21.66 exc.vat)",
+  "description": "The DEWALT 3-in-1 Stylus Pocket Pen is the perfect jobsite companion: compact, durable, and packed with features. The strong, brass construction and condensed size permit this stylus pen to safely travel in pocket. The digital tip allows you to operate digital kiosks, phones, and tablets while the nylon tap tip is keypad friendly. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 3-in-1 Stylus Pocket Pen",
+  "specifications": [
+    "3-in-1 Stylus Pocket Pen",
+    "DWT2151130 : €26.64"
+  ]
+}
+

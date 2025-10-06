@@ -1,0 +1,275 @@
+<|https://www.mydiy.ie/products/yale-locks-pvcu-window-handles.html|>
+## Yale Locks PVCu Window Handles
+
+{
+  "price": "€14.43 inc VAT",
+  "description": "Replacement window handle to fit PVCu windows. Fits all concealed espagnolette and shootbolt locking systems. Push button operation with key deadlocking for additional security. Includes key, fixing screws and cover cap.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks PVCu Window Handles",
+  "specifications": [
+    "Select One - PVCu Window Handle Polished Brass Finish",
+    "PVCu Window Handle Polished Chrome Finish",
+    "White Finish YWHLCK40N-WH"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p115-lockable-window-handle.html|>
+## Yale Locks P115 Lockable Window Handle
+
+{
+  "price": "€33.64 inc VAT",
+  "description": "The Yale P115 series lockable window handles can be easily fitted and will give extra security for unprotected windows. Surface fixed handle incorporating the lock mechanism. Locks both in closed and ventilation positions and will fit both right and left-hand opening windows. This lock is suitable for narrow framed windows.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P115 Lockable Window Handle",
+  "specifications": [
+    "Chrome finish",
+    "Polished Brass Finish",
+    "White Finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-white-offset-locking-pvcu-window-handle.html|>
+## Yale Locks White Offset Locking PVCu Window Handle
+
+{
+  "price": "€18.62 inc VAT",
+  "description": "Yale Offset Locking PVCu Window Handles are ideal replacements for PVCu windows and offer standard security. The 40mm spindle fits the most popular sizes of PVCu windows and there are spindle markings that make it easier to cut down if a shorter length is required. Supplied with Fixing Screw, Screw Cover Cap and Key. 2 Year Guarantee.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks White Offset Locking PVCu Window Handle",
+  "specifications": [
+    "40mm spindle fits most popular sizes of PVCu windows",
+    "Supplied with Fixing Screw, Screw Cover Cap and Key",
+    "2 Year Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p121-window-stay-clamp.html|>
+## Yale Locks P121 Window Stay Clamp
+
+{
+  "price": "€12.13 inc VAT (€9.86 exc.vat)",
+  "description": "The Yale P121 is a window stay clamp in a white finish and is designed for metal casement window frames. The main feature is that it simply secures over the metal stay bracket and screws into the hole on the arm, thus preventing movement of the arm when the window is opened for ventilation or in the closed position at night for added security. Simply use the universal key supplied to lock and unlock.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P121 Window Stay Clamp",
+  "specifications": [
+    "Finish: White",
+    "1 x Key"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p122-window-lock-key-p113.html|>
+## Yale Locks P122 Window Lock Key (P113)
+
+{
+  "price": "€3.46 inc VAT (€2.81 exc.vat)",
+  "description": "1 x Additional Keys Only, suitable for use with P122 window handle bolt. The additional keys are ideal to stored in a safe place in case of misplacement of the original key.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P122 Window Lock Key (P113)",
+  "specifications": [
+    "YALP122KEY : €3.46",
+    "List: €3.97",
+    "You save €0.51"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p114-patio-door-locks.html|>
+## Yale Locks P114 Patio Door Locks
+
+{
+  "price": "€24.99 inc VAT",
+  "description": "The Yale P114 Patio door lock offers simple, effective security. Suitable for most sliding patio doors. Push to lock action (no key required). Offers an optional ventilation position. Features security clutch-head screws.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P114 Patio Door Locks",
+  "specifications": [
+    "White Finish Visi",
+    "Push to lock action (no key required)",
+    "Optional ventilation position",
+    "Security clutch-head screws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/securit-cable-window-restrictor-white.html|>
+## Securit Cable Window Restrictor White
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Securit Cable Window Restrictor White",
+  "availability": "Out of Stock",
+  "product_name": "Securit Cable Window Restrictor White",
+  "specifications": [
+    "Window & Door Restrictor",
+    "Cabled Lock",
+    "Black or white finish",
+    "25mm Self drilling flat head screws included",
+    "2 keys included per unit",
+    "Barcode: 5019923110449"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tessi-white-sash-jammers-2pk.html|>
+## Tessi White Sash Jammers 2Pk
+
+{
+  "price": "€11.02 inc VAT (€8.96 exc.vat)",
+  "description": "White Sash Jammers 2Pk",
+  "availability": "Out of Stock",
+  "product_name": "Tessi White Sash Jammers 2Pk",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-8k103-pvcu-window-stop-white.html|>
+## Yale Locks 8K103 PVCu Window Stop White
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Yale YALV8K103WE 8K103 PVCu Window Stop is suitable for surface fixing to PVCu windows, it has a simple push to lock action with key to release. This 8K103 window lock is supplied with a selection of packers for different window sizes. White powder coated aluminium. Finish: White. 2 year Guarantee.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 8K103 PVCu Window Stop White",
+  "specifications": [
+    "YALV8K103WE : €14.99",
+    "White powder coated aluminium",
+    "Finish: White",
+    "2 year Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p123-sash-window-presslock-white.html|>
+## Yale Locks P123 Sash Window Presslock White
+
+{
+  "price": "€17.32 inc VAT (€14.08 exc.vat)",
+  "description": "The Yale P123 sash window presslock is in a white finish, the lock incorporating a pressbolt preventing the inner and outer frames of the sash window from passing each other so giving added security and protection to your home. The P123 locks are for use on sash windows comes with 1 x key and are easy to fit.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P123 Sash Window Presslock White",
+  "specifications": [
+    "Finish: White",
+    "1 x Key"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p130-window-lock-hexagon-keys-pack-of-3.html|>
+## Yale Locks P130 Window Lock Hexagon Keys Pack of 3
+
+{
+  "price": "€10.39 inc VAT (€8.45 exc.vat)",
+  "description": "Yale 3 x additional keys for s/bc. The additional keys are ideal to store in a safe place in case of misplacement of the original key. Fits: P111, P121, P122, P112, and P120.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P130 Window Lock Hexagon Keys Pack of 3",
+  "specifications": [
+    "Pack of 3 hexagon keys",
+    "Fits multiple Yale lock models (P111, P121, P122, P112, P120)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p113-toggle-window-locks.html|>
+## Yale Locks P113 Toggle Window Locks
+
+{
+  "price": "€40.86 inc VAT",
+  "description": "This Yale P113 toggle lock is a surface fixing lock which swings over a frame fixed striking plate and is suitable for timber casement windows. The Yale P113 locks will give extra security to your home and is ideal for those obscure windows fitted in side allyways etc. The P113 is finished in white.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P113 Toggle Window Locks",
+  "specifications": [
+    "Surface fixing lock",
+    "Suitable for timber casement windows",
+    "Extra security for obscure windows",
+    "Finished in white"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p117-ventilation-window-lock.html|>
+## Yale Locks P117 Ventilation Window Lock
+
+{
+  "price": "€29.14 inc VAT",
+  "description": "This Yale P117 ventilation window lock is ideal for ground floor flats or windows that need to be opened for some ventilation but still keeping window secure from unwanted intruders as the window can be locked in a part openend fashion while still being secure. This lock is finished in white. Surface-fixed lock that offers restricted opening and locking in a ventilation position. Will also restrict opening of window but allows ventilation.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P117 Ventilation Window Lock",
+  "specifications": [
+    "Select One - White Finish Pack of 1",
+    "White Finish Pack of 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p118-auto-window-locks.html|>
+## Yale Locks P118 Auto Window Locks
+
+{
+  "price": "€38.15 inc VAT",
+  "description": "The Yale P118 auto window lock is an ideal solution for added security to your home, as this easy to install lock will provide maximum security to your windows. This surface fixed lock automatically snaplocks on closing the window. Key to open lock.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P118 Auto Window Locks",
+  "specifications": [
+    "Select Option: White Finish Pack of 2",
+    "Easy to install",
+    "Surface fixed lock",
+    "Automatically snaplocks on closing the window"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-8013-dual-screw-window-locks.html|>
+## Yale Locks 8013 Dual Screw Window Locks
+
+{
+  "price": "€29.46 inc VAT",
+  "description": "Yale 8013 Sash window locks have a threaded lock barrel which is fixed into the inner frame and the window is secured by locking the inner bolt into the barrel and frame using the key. Can also be used in hinged windows. The locks simply screw into the barrel.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 8013 Dual Screw Window Locks",
+  "specifications": [
+    "Brass Finish Pack of 2",
+    "Threaded lock barrel",
+    "Suitable for hinged windows",
+    "Includes key for locking"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-8k101-window-latches.html|>
+## Yale Locks 8K101 Window Latches
+
+{
+  "price": "from €9.99 inc VAT",
+  "description": "The Yale 8K101 lock is surface fixed onto the window section and is locked around the frame fixed staple by use of the key. A clenching action helps to pull the window to the frame for added security and will also help to reduce draughts. The Yale 8K101 are suitable for hinged timber casement windows and can easy be fitted in minutes.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 8K101 Window Latches",
+  "specifications": [
+    "Brass Finish",
+    "White Finish Visi",
+    "Multi Pack of 4",
+    "White Finish Visi Pack 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-8k102-push-button-window-lock.html|>
+## Yale Locks 8K102 Push Button Window Lock
+
+{
+  "price": "€12.00 inc VAT",
+  "description": "The Yale 8K102 Lock for surface fixing to the fixed frame which is locked onto the lock plate on the window section by pushing the lock barrel. Easy-to-use push to lock system which is released by a key. Suitable for hinged timber casement windows.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 8K102 Push Button Window Lock",
+  "specifications": [
+    "Easy-to-use push to lock system",
+    "Suitable for hinged timber casement windows",
+    "Surface fixing to the fixed frame"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-8k118-economy-window-locks.html|>
+## Yale Locks 8K118 Economy Window Locks
+
+{
+  "price": "from €24.02 inc VAT",
+  "description": "Lock is surface fixed onto the window section, locking into the fixed frame by use of the key. Suitable for hinged timber casement windows.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 8K118 Economy Window Locks",
+  "specifications": [
+    "Electo Brass Finish Pack 4",
+    "VisiWhite Finish Pack 4"
+  ]
+}
+

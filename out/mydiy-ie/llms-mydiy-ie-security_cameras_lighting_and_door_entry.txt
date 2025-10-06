@@ -1,0 +1,372 @@
+<|https://www.mydiy.ie/products/link2home-smart-alarm-doorwindow-sensor.html|>
+## Link2Home Smart Alarm Door/Window Sensor
+
+{
+  "price": "€42.24 inc VAT (€34.34 exc.vat)",
+  "description": "The Link2Home Smart Alarm Door/Window Sensor provides up to 80m open field Zigbee transmission (3.0). It can be used with other Link2Home devices, or used to trigger them. This includes lighting. Battery powered (supplied) with low power indication and tamper protection. Requires smart alarm hub (L2H-SECUREGWAY), includes spacers.",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Alarm Door/Window Sensor",
+  "specifications": [
+    "Transmission Range: 80m",
+    "Battery Life: up to 24 months"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-smart-alarm-rfid-key-fob.html|>
+## Link2Home Smart Alarm RFID Key Fob
+
+{
+  "price": "€14.06 inc VAT (€11.43 exc.vat)",
+  "description": "Link2Home Smart Alarm RFID Key Fob for disarming smart alarm systems. Use with the L2H-SECUREKPAD. Key ring fixing included. Comes as a pack of 2. Transmission Range: 10mm",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Alarm RFID Key Fob",
+  "specifications": [
+    "Transmission Range: 10mm",
+    "Pack of 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-smart-alarm-gateway-and-internal-siren.html|>
+## Link2Home Smart Alarm Gateway & Internal Siren
+
+{
+  "price": "€162.94 inc VAT (€132.47 exc.vat)",
+  "description": "The Link2Home Smart Alarm Gateway & Internal Siren supports the monitored alarm system and can also act as a door chime. Brightness, volume (Max. 95dB) and duration can be adjusted to your preference. It has up to 80m open field Zigbee transmission (3.0) and requires a WiFi connection. Mains powered 5V 1A, adaptor included.",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Alarm Gateway & Internal Siren",
+  "specifications": [
+    "Transmission Range: 80m",
+    "Fixing: Floor/shelf standing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-smart-alarm-keypad.html|>
+## Link2Home Smart Alarm Keypad
+
+{
+  "price": "€82.99 inc VAT (€67.47 exc.vat)",
+  "description": "The Link2Home Smart Alarm Keypad allows you arm and disarm your smart alarm. It also supports home and SOS modes. The keypad has up to 80m open field Zigbee transmission (3.0). It requires smart alarm hub (L2H-SECUREGWAY). Battery powered (supplied) with low power indication and tamper protection.",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Alarm Keypad",
+  "specifications": [
+    "Transmission Range: 80m",
+    "Battery Life: up to 24 months",
+    "Fixing: Surface Mount"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-link2home-smart-alarm-pir.html|>
+## Link2Home Smart Alarm PIR
+
+{
+  "price": "€55.84 inc VAT (€45.40 exc.vat)",
+  "description": "The Link2Home Smart Alarm PIR can be used with other Link2Home devices, including presence detection with lighting. It has up to 80m open field Zigbee transmission (3.0). Requires smart alarm hub (L2H-SECUREGWAY). Battery powered (supplied) with low power indication and tamper protection.",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Alarm PIR",
+  "specifications": [
+    "PIR Detection Coverage: 8m/110°",
+    "Battery Life: up to 24 months",
+    "Fixing: Surface Mount"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-smart-alarm-remote.html|>
+## Link2Home Smart Alarm Remote
+
+{
+  "price": "€42.24 inc VAT (€34.34 exc.vat)",
+  "description": "The Link2Home Smart Alarm Remote can be used to trigger other Link2Home devices. For example. it can be used to arm, disarm, or activate cameras and lighting. It has up to 80m open field Zigbee transmission (3.0). Requires smart alarm hub (L2H-SECUREGWAY). Battery powered (supplied) with low power indication.",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Alarm Remote",
+  "specifications": [
+    "Transmission Range: 80m",
+    "Battery Life: up to 24 months"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-smart-alarm-external-siren.html|>
+## Link2Home Smart Alarm External Siren
+
+{
+  "price": "€96.58 inc VAT (€78.52 exc.vat)",
+  "description": "The Link2Home Smart Alarm External Siren features adjustable brightness, volume (Max. 105dB) and duration. It has up to 80m open field Zigbee transmission (3.0) and requires a smart alarm hub (L2H-SECUREGWAY). Mains powered 5V 1A (includes adaptor) with battery backup (supplied).",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Alarm External Siren",
+  "specifications": [
+    "Transmission Range: 80m",
+    "Battery Backup: up to 5 days",
+    "Fixing: Surface Mount",
+    "Protection Rating: IP44"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-door--window-alarm.html|>
+## Uni-Com Door / Window Alarm
+
+{
+  "price": "€6.67 inc VAT (€5.42 exc.vat)",
+  "description": "The Uni-Com Door / Window Alarm provides a simple solution to protect your home, sheds, out buildings, caravans, etc. from unwanted intruders. Also ideal for use on kitchen or medicine cupboards, anywhere you want an alarm to notify access has been made. The magnetic contact switch automatically sounds the loud 90dB alarm when the door or window is opened. Quick and simple to install using the adhesive pads supplied. Powered by 2 x CR2032 batteries (included).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Door / Window Alarm",
+  "specifications": [
+    "Model: UNC68693",
+    "Price: €6.67",
+    "Loudness: 90dB",
+    "Power: 2 x CR2032 batteries (included)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-motion-detector-alarm.html|>
+## Uni-Com Motion Detector Alarm
+
+{
+  "price": "€10.00 inc VAT (€8.13 exc.vat)",
+  "description": "The Uni-Com Motion Detector Alarm has a PIR sensor that detects movement over a large detection range of 5m x 110 degrees, and automatically actives the 90dB alarm. Quick and simple to install using the adhesive pads supplied. Ideal for use around the home, workplace, sheds, out buildings, caravans, etc. A simple solution to protect from unwanted intruders. Powered by 2 x CR2450 batteries (included).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Motion Detector Alarm",
+  "specifications": [
+    "Sound Output: 90dB(A)",
+    "Size: 87x46x17mm",
+    "Weight: 35g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/led-solar-lights-waterproof-ip44-string-garden-patio.html|>
+## LED Solar Lights Waterproof IP44 String Garden Patio
+
+{
+  "price": "€99.88 inc VAT (€81.20 exc.vat)",
+  "description": "Green lamp LED Solar Lights Waterproof String Garden Patio lights. Introducing our new Indoor/Outdoor LED Solar Garden Lights. These strings are 49ft in length which will provide full coverage of any garden. Our LED String Lights are charged under direct sunlight. Just hang it on the wall or install it in your garden. (Note: There’s an ON/OFF switch on the lamp cover, make sure you switch it on for the first time of use). Dusk to dawn feature – The lights will switch on automatically at dusk and off at dawn. IP44 waterproof – Rain, snow, dirt, and extreme heat are no match for our string lights. Compared with tungsten bulbs, LED bulbs are more efficient and energy-saving. The light bulbs are replaceable and will not be affected if one bulb goes out. They’re designed for indoor and outdoor use alike, making them the perfect choice for parties, barbecues, weddings, and date nights. Comes with a remote so you can turn them on and off from inside your home when it's raining.",
+  "availability": "In Stock",
+  "product_name": "LED Solar Lights Waterproof IP44 String Garden Patio",
+  "specifications": [
+    "49ft length",
+    "Dusk to dawn feature",
+    "IP44 waterproof",
+    "Energy-saving LED bulbs",
+    "Remote control included"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-outdoor-smart-security-camera.html|>
+## Link2Home Outdoor Smart Security Camera
+
+{
+  "price": "€215.02 inc VAT (€174.81 exc.vat)",
+  "description": "The Link2Home Outdoor Smart Security Camera features full colour night vision and auto tracking. It works with Alexa and Google to show your driveway, garage, shed or anywhere else you have your camera set up. The camera allows you to receive notifications when sound and or motion is detected and respond with 2-way audio in full 1080p HD video. It captures a snapshot every time motion or sound is detected and stored in the app / memory card or cloud.",
+  "availability": "In Stock",
+  "product_name": "Link2Home Outdoor Smart Security Camera",
+  "specifications": [
+    "Sensor Type: 1/3in CMOS",
+    "Min. Illuminance: Colour 0.01Lux@F1.2 Black and White 0.001Lux@F1.2",
+    "Viewing Angle: 130° with Auto Tracking",
+    "Lens: 4.0mm F2.0",
+    "Shutter: 1/25-1/100,000 per second",
+    "IR: High power LED with ICR",
+    "IR Distance: 15m",
+    "WDR: Digital WDR",
+    "Video Compression Standard: H.264",
+    "Bit Rate: 32Kbps-2Mbps",
+    "Max. Picture Size: 1920×1080",
+    "Frame Rate: 1-25 per second",
+    "Image Setting: Supports HD/SD",
+    "Audio: Two-way audio",
+    "Storage: Pre installed SD card (16G), Non removeable and replaceable, Cloud storage",
+    "Communication protocol: HTTP,DH CP,DNS,RTSP",
+    "Wi-Fi standard: IEEE802.11b/g/n",
+    "Frequency: 2.4 GHz – 2.4835 GHz",
+    "Channel bandwidth: Support 20/40MHz",
+    "Wi-Fi security: WPA-PSK/WPA2-PSK",
+    "Data security: AES128",
+    "Tilt: -90° to 30°",
+    "Pan: 0 to 350°",
+    "Working Temperature: -20°C to 50°C",
+    "Power: DC12V,1A",
+    "Consumption: 5.5W MAX",
+    "Waterproof: IP54",
+    "Size: Φ108×148mm",
+    "Weight: 530g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-smart-porch-light-with-camera.html|>
+## Link2Home Smart Porch Light with Camera
+
+{
+  "price": "€211.09 inc VAT (€171.62 exc.vat)",
+  "description": "The Link2Home Smart Porch Light features a motion activated security camera floodlight with motion and sound detection, 2 way audio, Full HD video recording and a 125dB siren alarm for a complete security package. It also features Auto Tracking, meaning it will follow a subject as it moves across the field of vision. Its 12W light panel provides 1,000 lumens of light which can also be dimmed in the Link2Home Pro App. It is equivalent to a traditional 75W floodlight, yet provided a compact robust body to light up your surroundings weather that be a driveway, garden or office carpark. The Porch Camera can be placed anywhere, over your front door, garage, driveway or other area. The mount can be fixed to wood or masonry using the screws provided. It can be moved manually on its bracket through 120° to give you the best viewing angle or select Auto Tracking and it will follow subjects automatically through 120°. The camera is weather-proof, so will continue monitoring, come rain or shine. It plugs into the mains to ensure it never runs out of power, for security 24/7. The Porch Camera streams 2K, 1296p content to your device. See 50% more detail compared with standard HD. With the ability to get a 130° wide-angle view of the area, zoom in and enhance, you will be able to see every detail. This is the same day or night thanks to Night Vision LED sensors which let you view the whole scene at night. The CMOS sensor also provides better image clarity compared to CCD Sensors. There is also a built-in microphone and speaker that lets you tune in to what's going on, and talk back via the Link2Home Pro app, so you can see who’s around and respond. The 125dB siren alarm can be activated from the app screen or let the alarm be triggered by another device. If your floodlight camera detects something irregular, you can receive an activity alert on your smartphone with a snapshot of what happened. You can record video clips of activity using the inbuilt MicroSD card slot (memory card*) or cloud service**. Everything about the Porch Camera is private. Using security with 128-bit SSL encryption. Compatible with Amazon Echo Show and Google Screen devices including Google Chromecast. Just ask your smart speaker to access your camera device by saying 'Alexa show me the driveway' or 'Hey Google show me the office car park on the living room TV'. The floodlight camera can be easily set up outside your home. Simply wire up using an existing power source or install a new one (if in doubt consult a qualified electrician). Download the Link2Home Pro app (Free) and set it up from your Android or iOS device. No hub required. Using the Link2Home Pro app you can set up a range of Automation features including recording during specific times or use the pan and tilt camera to trigger another device. Such as if the camera detects movement or sound turn on a bedroom light or activate a siren alarm. Memory: *MicroSD Card (sold separately): 16GB - up to 3 days, 32GB - up to 5 days, 64GB - up to 10 days, 128GB - up to 21 days. **Cloud Service (subscription sold separately). With the cloud service, you can continuously record everything that’s happening, 24/7, not just clips. So, you can scan through up to 30 days of video history to see what you’ve missed. System Requirements: Wi-Fi Connection Mobile or tablet with iOS 8 or later, or Android 4.1 or later Link2Home Pro Account (Free)",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Porch Light with Camera",
+  "specifications": [
+    "Motion activated security camera floodlight",
+    "2 way audio",
+    "Full HD video recording",
+    "125dB siren alarm",
+    "Auto Tracking feature",
+    "12W light panel with 1,000 lumens",
+    "Weather-proof design",
+    "Streams 2K, 1296p content",
+    "130° wide-angle view",
+    "Night Vision LED sensors",
+    "Built-in microphone and speaker",
+    "Compatible with Amazon Echo Show and Google Screen devices"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-outdoor-smart-floodlight-camera-2k-4mp.html|>
+## Link2Home Outdoor Smart Floodlight Camera 2K 4MP
+
+{
+  "price": "€232.22 inc VAT",
+  "description": "The Link2Home Outdoor Smart Floodlight Camera features motion and sound detection with 2-way audio, full HD video recording and a loud 125dB siren alarm for complete security. With a secure connection, the camera utilises 128-bit SSL encryption. The floodlight is fitted with 2 x 12.5W light panels, providing 2,000 lumens of light. This is equivalent to a traditional 125W floodlight, and is more than enough power to light up your surroundings, driveway, garden or office car park. Weatherproof, the floodlight will continue monitoring, come rain or shine. It plugs into the mains to ensure it never runs out of power, for security 24/7. It can be moved manually on its bracket through 120° to give you the best viewing angle. A built-in microphone and speaker allows you to tune in to what's going on, and talk back via the Link2Home Pro app. You can also activate a 125dB siren alarm from the app screen or let the alarm be triggered by another device. The floodlight camera streams 2K, 1440p content to your device - twice as much detail compared with standard HD. With the ability to get a 140° wide-angle view of the area, zoom in and enhance, you will be able to see every detail. This is the same day or night thanks to Night Vision LED sensors which let you view the whole scene at night. The CMOS sensor also provides better image clarity compared to CCD Sensors. If your floodlight camera detects something irregular, you can receive an activity alert on your smartphone with a snapshot of what happened. You can record video clips of activity using the inbuilt MicroSD card slot (memory card*) or cloud service**. Compatible with Amazon Echo Show and Google Screen devices including Google Chromecast. Just ask your smart speaker to access your camera device by saying 'Alexa show me the driveway' or 'Hey Google show me the office car park on the living room TV'. Using the Link2Home Pro app you can set up a range of Automation features including recording during specific times or use the pan and tilt camera to trigger another device. Memory: *MicroSD Card (sold separately): 16GB - up to 3 days, 32GB - up to 5 days, 64GB - up to 10 days, 128GB - up to 21 days. **Cloud Service (subscription sold separately). With the cloud service, you can continuously record everything that’s happening, 24/7, not just clips. So, you can scan through up to 30 days of video history to see what you’ve missed. System Requirements: Wi-Fi Connection Mobile or tablet with iOS 8 or later, or Android 4.1 or later Link2Home Pro Account (Free)",
+  "availability": "In Stock",
+  "product_name": "Link2Home Outdoor Smart Floodlight Camera 2K 4MP",
+  "specifications": [
+    "Motion and sound detection",
+    "2-way audio",
+    "Full HD video recording",
+    "125dB siren alarm",
+    "128-bit SSL encryption",
+    "2 x 12.5W light panels",
+    "2000 lumens",
+    "Weatherproof",
+    "Manual adjustment through 120°",
+    "Night Vision LED sensors",
+    "CMOS sensor for better image clarity",
+    "Compatible with Amazon Echo Show and Google Screen devices"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-flexible-indoor-camera.html|>
+## Link2Home Flexible Indoor Camera
+
+{
+  "price": "€112.45 inc VAT (€91.42 exc.vat)",
+  "description": "The Link2Home Flexible Indoor Camera makes sure that your home/workplace is safe and secure by enabling you to check in on your device anytime from anywhere. Secure connection, the camera utilises 128-bit SSL encryption. Ideal for checking in on pets or use as a baby monitor. Install your camera anywhere thanks to its flexible neck. Use the neck to create a stand, wrap around surfaces such as a cot or use the mounting bracket included in the box. Plug in the optional temperature and humidity sensor to get readings direct on your video feed on your device. With a built-in microphone and speaker, you can see who’s around and respond, listen and talk back via the Link2Home Pro app (Free). It also streams in full HD (1080p) to your chosen device. Additionally, you can get a 105° wide-angle view of the area, zoom in, and enhance, you will be able to see every detail. This is the same day or night thanks to Night Vision LED sensors which let you view the whole scene at night. The CMOS sensor also provides better image clarity compared to CCD Sensors. The flex camera detects motion and sound, and instantly sends an activity alert to your device. If your flex camera detects something irregular, you can receive an activity alert on your smartphone with a snapshot of what happened. You can record video clips of activity using the inbuilt MicroSD card slot (memory card*) or cloud service**. Compatible with Amazon Echo Show and Google Screen devices including Google Chromecast. Just ask your smart speaker to access your camera device by saying 'Alexa show me the baby’s room' or 'Hey Google show me the nursery on the living room TV'. Quick and easy to set up. Simply plug in the USB power cable, download the Link2Home Pro app (Free) and set it up from your Android or iOS device. No hub required.",
+  "availability": "In Stock",
+  "product_name": "Link2Home Flexible Indoor Camera",
+  "specifications": [
+    "Flexible neck for easy installation",
+    "Full HD (1080p) streaming",
+    "Night Vision LED sensors",
+    "Built-in microphone and speaker",
+    "Compatible with Amazon Echo Show and Google Screen devices",
+    "Motion and sound detection with activity alerts",
+    "MicroSD card slot for recording video clips",
+    "Cloud service for continuous recording"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-smart-square-pan-and-tilt-indoor-camera.html|>
+## Link2Home Smart Square Pan & Tilt Indoor Camera
+
+{
+  "price": "€121.56 inc VAT (€98.83 exc.vat)",
+  "description": "The Link2Home Smart Square Pan & Tilt Indoor Camera makes sure that your home/workplace is safe and secure by enabling you to check in on your device anytime from anywhere. Secure connection, the camera utilises 128-bit SSL encryption. Use the Link2Home Pro app (Free) to tilt your camera from -75° to 75° and pan through 355° by simply swiping your finger across the display screen or using the joystick control. There is a built-in microphone and speaker that lets you tune in to what's going on, and talk back via the Link2Home Pro app, so you can see who’s around and respond. It also streams in full HD (1080p) to your chosen device. Additionally, you can get a 100° wide-angle view of the area, zoom in, and enhance, you will be able to see every detail. This is the same day or night thanks to Night Vision LED sensors which let you view the whole scene at night. The CMOS sensor also provides better image clarity compared to CCD Sensors. The pan and tilt camera detects motion and sound, and instantly sends an activity alert to your device. If your pan and tilt camera detects something irregular, you can receive an activity alert on your smartphone with a snapshot of what happened. You can record video clips of activity using the inbuilt MicroSD card slot (memory card*) or cloud service**. Compatible with Amazon Echo Show and Google Screen devices including Google Chromecast. Just ask your smart speaker to access your camera device by saying 'Alexa show me the baby’s room' or 'Hey Google show me the nursery on the living room TV'. Quick and easy to set up. Simply plug in the USB power cable, download the Link2Home Pro app (Free) and set it up from your Android or iOS device. No hub required. You can also use the installation bracket to install your camera to a ceiling or supportive surface. Memory: *MicroSD Card (sold separately): 16GB - up to 3 days, 32GB - up to 5 days, 64GB - up to 10 days, 128GB - up to 21 days. **Cloud Service (subscription sold separately). With the cloud service, you can continuously record everything that’s happening, 24/7, not just clips. So, you can scan through up to 30 days of video history to see what you’ve missed. System Requirements: Wi-Fi Connection Mobile or tablet with iOS 8 or later, or Android 4.1 or later Link2Home Pro Account (Free)",
+  "availability": "In Stock",
+  "product_name": "Link2Home Smart Square Pan & Tilt Indoor Camera",
+  "specifications": [
+    "Full HD (1080p) streaming",
+    "100° wide-angle view",
+    "Night Vision LED sensors",
+    "Motion and sound detection",
+    "Built-in microphone and speaker",
+    "Compatible with Amazon Echo Show and Google Screen devices",
+    "MicroSD card slot for recording",
+    "Cloud service available for continuous recording"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-outdoor-smart-floodlight-camera.html|>
+## Link2Home Outdoor Smart Floodlight Camera
+
+{
+  "price": "€195.74 inc VAT (€159.14 exc.vat)",
+  "description": "The Link2Home Outdoor Smart Floodlight Camera features motion and sound detection with 2-way audio, full HD video recording and a loud 125dB siren alarm for complete security. With a secure connection, the camera utilises 128-bit SSL encryption. The floodlight camera detects motion and sound, and instantly sends an activity alert to your device.\n\nFitted with 2 x 12.5W light panels providing 2000 lumens of light. Equivalent to a traditional 125W floodlight, more than enough power to light up your surroundings, driveway, garden or office car park.\n\nIt can be placed anywhere, over your front door, garage, driveway or other areas. Weatherproof, so it will always keep monitoring, come rain or shine. It plugs into the mains to ensure it never runs out of power, for security 24/7. It can be moved manually on its bracket through 120° to give you the best viewing angle. Through the app screen, you can draw your detection area so that you only focus on the areas that matter and eliminate false alerts from things like trees and shrubs.\n\nThere is a built-in microphone and speaker that lets you tune in to what's going on, and talk back via the Link2Home Pro app, so you can see who’s around and respond. You can also activate a 125dB siren alarm from the app screen or let the alarm be triggered by another device.\n\nIt also streams in full HD (1080p) to your chosen device. Additionally, you can get a 140° wide-angle view of the area, zoom in, and enhance, you will be able to see every detail. This is the same day or night thanks to Night Vision LED sensors which let you view the whole scene at night. The CMOS sensor also provides better image clarity compared to CCD Sensors.\n\nIf your floodlight camera detects something irregular, you can receive an activity alert on your smartphone with a snapshot of what happened. You can record video clips of activity using the inbuilt MicroSD card slot (memory card*) or cloud service**.\n\nCompatible with Amazon Echo Show and Google Screen devices including Google Chromecast. Just ask your smart speaker to access your camera device by saying 'Alexa show me the driveway' or 'Hey Google show me the office car park on the living room TV'.\n\nThe floodlight camera can be easily set up outside your home. Simply wire up using an existing power source or install a new one (if in doubt consult a qualified electrician). Download the Link2Home Pro app (Free) and set it up from your Android or iOS device. No hub required.\n\nMemory:\n*MicroSD Card (sold separately): 16GB - up to 3 days, 32GB - up to 5 days, 64GB - up to 10 days, 128GB - up to 21 days.\n**Cloud Service (subscription sold separately). With the cloud service, you can continuously record everything that’s happening, 24/7, not just clips. So, you can scan through up to 30 days of video history to see what you’ve missed.",
+  "availability": "Out of Stock",
+  "product_name": "Link2Home Outdoor Smart Floodlight Camera",
+  "specifications": [
+    "Motion and sound detection",
+    "2-way audio",
+    "Full HD video recording",
+    "125dB siren alarm",
+    "128-bit SSL encryption",
+    "2000 lumens light output",
+    "Weatherproof design",
+    "Compatible with Amazon Echo Show and Google devices",
+    "Night Vision LED sensors",
+    "MicroSD card slot for recording"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-outdoor-smart-camera.html|>
+## Link2Home Outdoor Smart Camera
+
+{
+  "price": "€105.90 inc VAT (€86.10 exc.vat)",
+  "description": "The Link2Home Outdoor Smart Camera makes sure that your home/workplace is safe and secure by enabling you to check in on your device anytime from anywhere. Secure connection, the camera utilises 128-bit SSL encryption. The camera detects motion and sound, and instantly sends an activity alert to your device. It can be placed anywhere, over your front door, garage, driveway or other areas. Weatherproof, so it will always keep monitoring, come rain or shine. It plugs into the mains to ensure it never runs out of power, for security 24/7. The lens can be moved manually through 355° to give you the best viewing angle. There is a built-in microphone and speaker that lets you tune in to what's going on, and talk back via the Link2Home Pro app, so you can see who’s around and respond. It also streams in full HD (1080p) to your chosen device. Additionally, you can get a 100° wide-angle view of the area, zoom in, and enhance, you will be able to see every detail. This is the same day or night thanks to Night Vision LED sensors which let you view the whole scene at night. The CMOS sensor also provides better image clarity compared to CCD Sensors. If your outdoor camera detects something irregular, you can receive an activity alert on your smartphone with a snapshot of what happened. You can record video clips of activity using the inbuilt MicroSD card slot (memory card*) or cloud service**. Compatible with Amazon Echo Show and Google Screen devices including Google Chromecast. Just ask your smart speaker to access your camera device by saying 'Alexa show me the driveway' or 'Hey Google show me the garage on the living room TV'. Quick and easy to set up. Simply plug in the power cable, download the Link2Home Pro app (Free) and set it up from your Android or iOS device. No hub required. The mount can be fixed to wood or masonry using the screws provided.",
+  "availability": "Out of Stock",
+  "product_name": "Link2Home Outdoor Smart Camera",
+  "specifications": [
+    "128-bit SSL encryption",
+    "Motion and sound detection",
+    "355° manual lens movement",
+    "Full HD (1080p) streaming",
+    "100° wide-angle view",
+    "Night Vision LED sensors",
+    "Compatible with Amazon Echo Show and Google Screen devices",
+    "MicroSD card slot for recording"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-15w-led-round-pir-bulkhead-1105-lumens.html|>
+## ENERGIZER 15W LED ROUND PIR BULKHEAD 1105 LUMENS
+
+{
+  "price": "€19.99 inc VAT (€16.26 exc.vat)",
+  "description": "The LED Round Bulkhead Light is a versatile lighting solution for indoor and outdoor use. It features a cool white light output with a color temperature of 4,000 K and a lumen output of 1105. The light is powered by 15W and has an impressive energy efficiency, producing 73W per lumen. It is constructed from durable polycarbonate material with anti-corrosion properties, making it suitable for harsh weather conditions. With an IP54 rating, it is protected against dust and water. The built-in PIR sensor has a range of 2-5m and an angle of 90°, allowing it to turn \"on\" for a period of 3 minutes. With an average lifetime of 15 years, it is a reliable and cost-effective lighting solution.",
+  "availability": "In Stock",
+  "product_name": "ENERGIZER 15W LED ROUND PIR BULKHEAD 1105 LUMENS",
+  "specifications": [
+    "LED Round Bulkhead Light",
+    "Cool White",
+    "PIR Range: 2-5m",
+    "PIR Angle: 90°",
+    "Time \"on\" period: 3 minutes",
+    "Indoor & Outdoor use",
+    "Light output: 4,000 K",
+    "Power: 15W",
+    "Lumens per Watt: 73W",
+    "Lumen: 1105",
+    "Polycarbonate Construction",
+    "Anti Corrosion",
+    "IP54 rating",
+    "Average lifetime: 15 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-smart-pir-floodlight.html|>
+## Link2Home Smart PIR Floodlight
+
+{
+  "price": "€63.37 inc VAT (€51.52 exc.vat)",
+  "description": "The Link2Home Smart Floodlight Camera features a 20W light panel providing 1,620 lumens of light, equivalent to a traditional 90W floodlight. The light temperature can be set between a warm 2,700K and cool 6,500K colour temperature and is also fully dimmable. The built in PIR provides a 120° viewing angle at a distance of up to 8m. The floodlight camera has a compact, Aluminum body with a clean, modern design. It is weather-proof so it will continue monitoring, come rain or shine. It plugs into the mains to ensure it never runs out of power, for security 24/7. Equipped with an IP65 quick connector for fast and convenient wiring. The floodlight camera can be placed anywhere, over your front door, garage, driveway or other area. The mount can be fixed to wood or masonry using the screws provided. It can also be moved manually on its bracket through 120° to give you the best viewing angle. Everything about the floodlight camera is private, using security with 128-bit SSL encryption. Fully integrated with Alexa and Google. Just ask your smart speaker to access your device by saying 'Alexa turn on driveway' or 'Hey google dim the garage light to 100%'. Through the Link2Home app you can select your motion detection sensitivity, set your light on duration and link your floodlight with other Link2Home smart devices. You can also set up a range of Automation features including recording during specific times or use the pan and tilt camera to trigger another device. Supplied with: 1 x Fixing Bracket, 1 x Quick Connector, 1 x Quick Start Guide and 1 x Reset Pin. System Requirements: Wi-Fi connection, Mobile or tablet with iOS 8 or later, or Android 4.1 or later, Free Link2Home Pro account.",
+  "availability": "Out of Stock",
+  "product_name": "Link2Home Smart PIR Floodlight",
+  "specifications": [
+    "Wattage: 20W",
+    "Lumens: 1,620",
+    "Beam Angle: 110°",
+    "PIR Distance: 8m",
+    "PIR Viewing Angle: 120°",
+    "Lighting Control: Manual, PIR, sensor or timer control",
+    "Wi-Fi Standard: IEEE802.11b/g/n",
+    "Frequency: 2.4 GHz – 2.4835 GHz",
+    "Channel Bandwidth: Support 20/40MHz",
+    "Wi-Fi Security: WPA-PSK/WPA2-PSK",
+    "Data Security: AES128",
+    "Size: 157 x 125 x 60mm",
+    "Weight: 460g"
+  ]
+}
+

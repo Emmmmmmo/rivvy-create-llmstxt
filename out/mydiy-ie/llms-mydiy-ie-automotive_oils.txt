@@ -1,0 +1,18 @@
+<|https://www.mydiy.ie/products/carlube-triple-r-5w40-fully-synthetic-bmw-oil-1-litre.html|>
+## Carlube Triple R 5W40 Fully Synthetic BMW Oil 1 Litre
+
+{
+  "price": "€21.45 inc VAT (€17.44 exc.vat)",
+  "description": "Triple R 5W40 Fully Synthetic BMW Oil is suitable for use in the latest BMW, Mercedes Benz and GM/Vauxhall (Opel) petrol and diesel cars and light vans, safe for use in vehicles with three way catalyst's (TWC's) and diesel particulate filters (DPF's).",
+  "availability": "In Stock",
+  "product_name": "Carlube Triple R 5W40 Fully Synthetic BMW Oil 1 Litre",
+  "specifications": [
+    "BMW LL-04",
+    "API SN/CF",
+    "MB 229 31/229 51/229 52",
+    "ACEA C3",
+    "GM DEXOS 2"
+  ],
+  "product_category": "Automotive Oils"
+}
+

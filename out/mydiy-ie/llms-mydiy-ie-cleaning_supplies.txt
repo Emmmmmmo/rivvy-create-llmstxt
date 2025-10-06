@@ -1,0 +1,424 @@
+<|https://www.mydiy.ie/products/1001-carpet-shampoo-500ml.html|>
+## 1001 Carpet Shampoo 500ml
+
+{
+  "price": "€3.57 inc VAT (€2.90 exc.vat)",
+  "description": "1001 Carpet Shampoo has been designed to clean carpet areas that experience 'high traffic'. The formula works right down into the carpet fibres attacking ground-in dirt. Its unique formula leaves a protective shield that will defend your carpet, keeping it cleaner for longer.",
+  "availability": "Out of Stock",
+  "product_name": "1001 Carpet Shampoo 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Designed for high traffic areas",
+    "Attacks ground-in dirt",
+    "Leaves a protective shield"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/3-in-one-3-in-one-heavy-duty-cleaner-degreaser-500ml.html|>
+## 3-IN-ONE Heavy-Duty Cleaner Degreaser 500ml
+
+{
+  "price": "€11.54 inc VAT (€9.38 exc.vat)",
+  "description": "3-IN-ONE Heavy-Duty Cleaner Degreaser is a water rinsable heavy-duty cleaner and degreaser that produces a deep penetrating citrus foam action, quickly removing grease, oil, tar and grime. Enables equipment to run smoother, last longer and look like new. Size: 500ml.",
+  "availability": "In Stock",
+  "product_name": "3-IN-ONE Heavy-Duty Cleaner Degreaser 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Water rinsable",
+    "Deep penetrating citrus foam action",
+    "Removes grease, oil, tar and grime"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/all-purpose-versatile-cleaning-white-vinegar-5l.html|>
+## All Purpose Versatile Cleaning White Vinegar 5L
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "5 Litre White Vinegar – Natural Multi-Purpose Cleaner & Weed Killer. Our 5 Litre White Vinegar is a powerful, eco-friendly alternative to harsh chemical cleaners, offering natural cleaning and degreasing power for countless household and garden uses. Biodegradable, non-toxic, and free from synthetic additives, it's a safe choice for homes with children and pets. With a high acidity level, this vinegar is not only perfect for everyday cleaning but also ideal for technical and industrial use. It's an excellent natural weed killer—effectively dealing with unwanted plants without resorting to harmful chemicals. Whether you're descaling kettles, cleaning windows, freshening laundry, or tackling weeds in the garden, this budget-friendly vinegar is a must-have for any eco-conscious home.",
+  "availability": "In Stock",
+  "product_name": "All Purpose Versatile Cleaning White Vinegar 5L",
+  "specifications": [
+    "Eco-Friendly: 100% biodegradable and free from harsh chemicals",
+    "Non-Toxic: Safe for use around children and pets",
+    "Cost-Effective: A versatile, economical cleaning solution",
+    "High Acidity: Ideal for technical, industrial, and outdoor use",
+    "Natural Weed Killer: A chemical-free way to eliminate garden weeds",
+    "Multi-Use: Great for cleaning glass, removing limescale, deodorising, and more"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+
+
+<|https://www.mydiy.ie/products/everbuild-sika-wonder-wipes-biodegradable-60.html|>
+## Everbuild Sika Wonder Wipes Biodegradable (60)
+
+{
+  "price": "€11.64 inc VAT (€9.46 exc.vat)",
+  "description": "The Sika Wonder Wipes Biodegradable offer a green alternative without compromising on performance. Specially formulated to clean hands, tools and surfaces from wet and semi-cured paint, sealant, adhesive, bitumen, expanding foam, oil, grease and even silicone. Contains an anti-bacterial additive tested by an independent laboratory to BSEN 1276 for chemical disinfectants and antiseptics. 100% plastic free and biodegradable wipes.",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild Sika Wonder Wipes Biodegradable (60)",
+  "specifications": [
+    "Biodegradable",
+    "100% plastic free",
+    "Contains anti-bacterial additive",
+    "Cleans hands, tools, and surfaces"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/everbuild-sugar-soap.html|>
+## Everbuild Sugar Soap
+
+{
+  "price": "€8.99 inc VAT",
+  "description": "Everbuild Sugar Soap effectively removes grease, grime and nicotine from painted surfaces to ensure improved adhesion. It is also ideal as a general household cleaner.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Sugar Soap",
+  "specifications": [
+    "Liquid Concentrate 500ml"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/everbuild-wonder-wipes.html|>
+## Everbuild Wonder Wipes
+
+{
+  "price": "from €7.81 inc VAT",
+  "description": "Multi-use Wonder Wipes have become the first choice wipe of the nations builders and tradesmen. Specially formulated to clean hands, tools and surfaces from wet and semi-cured paint, sealant, adhesive, bitumen, expanding foam, oil, grease and even silicone. Particularly useful when there is no water on site. Available in dispensing tubs. Everbuild Wonder Wipes now contain a powerful Anti-Bacterial Additive that is tested by an independent laboratory to the standards for killing bacteria on dirty surfaces and hands. Resistant to MRSA, Salmonella, Listeria and E.Coli",
+  "availability": "In Stock",
+  "product_name": "Everbuild Wonder Wipes",
+  "specifications": [
+    "Multi-use wipes for cleaning hands, tools, and surfaces",
+    "Contains Anti-Bacterial Additive",
+    "Resistant to MRSA, Salmonella, Listeria, and E.Coli",
+    "Available in dispensing tubs"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/big-wipes-4-x-4-power-spray-1-litre.html|>
+## Big Wipes 4 x 4 Power Spray 1 Litre
+
+{
+  "price": "€14.87 inc VAT (€12.09 exc.vat)",
+  "description": "Powerful, fast-acting antibacterial specialist cleaning spray, which contains the 4x4 grime-busting formula as used in all the Big Wipes 4x4 hand cleaning wipes. The unique biodegradable, water-based formulation of 4x power cleansers ensures the removal of paint, adhesives, oil, sealants, silicones, PU foam and general grime. Preservative-free and designed to meet tough EU Regulation 1223/2009 for Cosmetic Products, Big Wipes Power Spray contain 4x skin conditioners - Aloe Vera, Lanolin, Vitamin E and Glycerine – all helping to nourish and protect the skin.",
+  "availability": "Out of Stock",
+  "product_name": "Big Wipes 4 x 4 Power Spray 1 Litre",
+  "specifications": [
+    "BGW2448 : €14.87",
+    "Usage: Use without water for heavy-duty cleaning of surfaces, tools and hands. Ideal for cleaning or pre-treating larger areas such as walls, floors or window frames before wiping clean. Also perfect for ‘re-charging’, or using in conjunction with, any of the 4x4 hand cleaning Big Wipes."
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/big-wipes-black-top-multi-purpose-wipes.html|>
+## Big Wipes Black Top Multi-Purpose Wipes
+
+{
+  "price": "€5.54 inc VAT",
+  "description": "Pre-impregnated industrial-strength cleaning wipes designed for use by anyone who needs a very effective and immediately on-hand cleaning product. Say goodbye to dirty wet towels and messy liquid cleaners, say hello to a high-performance mobile multi-cleaner that will tackle just about any dirt or stain.",
+  "availability": "In Stock",
+  "product_name": "Big Wipes Black Top Multi-Purpose Wipes",
+  "specifications": [
+    "Pre-impregnated industrial-strength cleaning wipes",
+    "Cleans a vast range of substances including grease, oil, and paint",
+    "Antibacterial formula",
+    "Suitable for construction, maintenance, workshops, and DIY applications"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/big-wipes-triple-pack-of-hand-wipes.html|>
+## Big Wipes Triple Pack of Hand Wipes
+
+{
+  "price": "€45.09 inc VAT (€36.66 exc.vat)",
+  "description": "The Big Wipes Triple Pack of Hand Wipes contains 2 x Tubs of 80 4x4 Heavy-Duty Cleaning Wipes. They have a unique biodegradable, water-based formulation of 4x power cleansers that ensures the removal of paint, adhesives, oil, sealants, silicones, PU foam and general grime from hands, tools and surfaces. Preservative-free and designed to meet tough EU Regulation 1223/2009 for Cosmetic Products. Heavy-Duty wipes contain 4x skin conditioners: Aloe Vera, Lanolin, Vitamin E and Glycerine, all help to nourish and protect the skin. For use on the toughest stains and most ingrained dirt. Heavy-Duty wipes offer the perfect fabric combination: Scrub face - The enhanced scrubbing power of the abrasive surface drives the powerful Big Wipes 4x4 formula deep into the dirt to speed up cleaning. Smooth face - The smooth face now has an absorbency of 7.93 gr/gr, which equates to a fabric absorbing quality of almost 800%! This results in the muck being soaked up and trapped in the wipe, leaving your hands, tools and surfaces cleaner than ever. 1 x Tub of 80 4x4 Multi-Surface Cleaning Wipes. Suitable for cleaning non-hazardous spillages and residual dirt from surfaces. They can be disposed of in the normal waste or composted with ‘green’ waste. Both the all-natural plant-based viscose fabric and the 4x4 formula are 100% biodegradable, making this cleaning product our most environmentally friendly option. Dermatologically tested and assessed to the latest EU Regulation 1223/2009 for cosmetic products, ZERO levels of skin irritation recorded. The water-based formula is biodegradable, free from preservatives, parabens and phosphates and offers antibacterial protection. Contains 4x skin conditioners: Aloe Vera, Lanolin, Vitamin E and Glycerine, all proven to nourish and protect the skin. Ideal for tradespeople on the move.",
+  "availability": "Out of Stock",
+  "product_name": "Big Wipes Triple Pack of Hand Wipes",
+  "specifications": [
+    "2 x Tubs of 80 4x4 Heavy-Duty Cleaning Wipes",
+    "1 x Tub of 80 4x4 Multi-Surface Cleaning Wipes",
+    "Biodegradable and water-based formulation",
+    "Dermatologically tested",
+    "Contains 4x skin conditioners: Aloe Vera, Lanolin, Vitamin E and Glycerine"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/big-wipes-van-and-wall-bracket-for-80-wipe-tubs-1.html|>
+## Big Wipes Van & Wall Bracket For 80 Wipe Tubs
+
+{
+  "price": "€15.82 inc VAT (€12.86 exc.vat)",
+  "description": "The Big Wipes Van & Wall Bracket allows Big Wipes tubs to be kept close to hand. Simply push a Big Wipes tub the into bracket, tighten and you’re ready to dispense. The bracket allows 'one-handed dispensing' for those very messy jobs and means no more looking for your tub of Big Wipes! Van mountable - fixes to ply panelling or integrates easily into a bespoke racking system. Wall mountable - keep close by in the garage or workshop. Manufactured in robust high quality polycarbonate.",
+  "availability": "In Stock",
+  "product_name": "Big Wipes Van & Wall Bracket For 80 Wipe Tubs",
+  "specifications": [
+    "Van mountable",
+    "Wall mountable",
+    "Manufactured in robust high quality polycarbonate"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/big-wipes-van-system.html|>
+## Big Wipes Van System
+
+{
+  "price": "€116.21 inc VAT (€94.48 exc.vat)",
+  "description": "This all-in-one racking and dispensing solution contains all the Big Wipes essentials you need to fix problems fast, clean up quickly and effectively, and get to the next job, in one handy kit. Contains: 1 x Tub of 80 Big Wipes Heavy-Duty Pro+ Antiviral Wipes (BGW2420). 1 x Refill Pouch of 80 Big Wipes Heavy-Duty Pro+ Antiviral Wipes (BGW2026). 1 x Tub of 80 Big Wipes Multi-Surface Bio Pro+ Antiviral Wipes (BGW2440). 1 x Refill Pouch of 80 Big Wipes Multi-Surface Pro+ Wipes (BGW2046). 1 x 1 x Big Wipes Power Spray Pro+ Antiviral Cleaning Spray 1 litre (BGW2448). 3 x Big Wipes ‘CAGE’ Van/Wall Brackets (BGW2421). 'The CAGE' van/wall bracket fixes your Big Wipes tub & Power Spray firmly and conveniently close to hand. The days of searching your van for your Big Wipes tub only to find the tub squashed and damaged are over with the introduction of 'The CAGE'. This handy bracket easily fixes to ply lining or integrates into a bespoke racking system. The bracket provides the ultimate convenience of both easy access and one-handed dispensing for when you need to get out of the muck, fast. Push the tubs into the bracket and tighten the straps and it's ready to dispense",
+  "availability": "In Stock",
+  "product_name": "Big Wipes Van System",
+  "specifications": [
+    "1 x Tub of 80 Big Wipes Heavy-Duty Pro+ Antiviral Wipes (BGW2420)",
+    "1 x Refill Pouch of 80 Big Wipes Heavy-Duty Pro+ Antiviral Wipes (BGW2026)",
+    "1 x Tub of 80 Big Wipes Multi-Surface Bio Pro+ Antiviral Wipes (BGW2440)",
+    "1 x Refill Pouch of 80 Big Wipes Multi-Surface Pro+ Wipes (BGW2046)",
+    "1 x Big Wipes Power Spray Pro+ Antiviral Cleaning Spray 1 litre (BGW2448)",
+    "3 x Big Wipes ‘CAGE’ Van/Wall Brackets (BGW2421)"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-b410-b-clean-cleaning-station.html|>
+## Bolle Safety B410 b Clean Cleaning Station
+
+{
+  "price": "€35.10 inc VAT (€28.54 exc.vat)",
+  "description": "The Bollé Safety B410 b Clean Cleaning Station contains 400 multi-functional cleaning tissues and a 250ml cleaning spray which is alcohol and silicone-free. Suitable for all Bollé Safety lens coatings.",
+  "availability": "Out of Stock",
+  "product_name": "Bolle Safety B410 b Clean Cleaning Station",
+  "specifications": [
+    "400 multi-functional cleaning tissues",
+    "250ml cleaning spray",
+    "Alcohol and silicone-free",
+    "Suitable for all Bollé Safety lens coatings"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-heavy-duty-mop-bucket-16l.html|>
+## Bulldozer Heavy-Duty Mop Bucket 16L
+
+{
+  "price": "€20.80 inc VAT (€16.91 exc.vat)",
+  "description": "The Bulldozer Pro products are engineered to tackle the toughest cleaning jobs, and the heavy-duty range is designed to deliver outstanding performance. The Bulldozer Pro heavy duty mop bucket is designed to tackle the rough cleaning jobs with ease, featuring an Ergonomic Handle and a pouring spout to aid emptying, and to stop spillages. It has a large 16 litre capacity with a tough heavy duty sieve base that is detachable.",
+  "availability": "Out of Stock",
+  "product_name": "Bulldozer Heavy-Duty Mop Bucket 16L",
+  "specifications": [
+    "16 litre capacity",
+    "Ergonomic Handle",
+    "Detachable sieve base"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-heavy-duty-hand-cleaners.html|>
+## Swarfega Heavy-Duty Hand Cleaners
+
+{
+  "price": "from €42.72 inc VAT",
+  "description": "Heavy-duty, gel formula hand cleaner that quickly removes deeply ingrained oil and grease soilings. Contains non-abrasive micro-polymer granules. With added conditioner to leave the skin feeling smooth after use.",
+  "availability": "In Stock",
+  "product_name": "Swarfega Heavy-Duty Hand Cleaners",
+  "specifications": [
+    "4.5 Litre Tub"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-jizer-degreasers.html|>
+## Swarfega Jizer Degreasers
+
+{
+  "price": "from €48.07 inc VAT",
+  "description": "The Swarfega® Jizer Degreaser is a parts degreaser which quickly dissolves heavy deposits of mineral oil, grease, tar, bitumen and waxes. Can be used for removing oil and grease marks from many floor surfaces, tar spots and oil from body work and cleaning paint brushes. It is also water rinsable.",
+  "availability": "In Stock",
+  "product_name": "Swarfega Jizer Degreasers",
+  "specifications": [
+    "5 Litre Degreaser"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-orange-hand-cleaners.html|>
+## Swarfega Orange Hand Cleaners
+
+{
+  "price": "from €13.36 inc VAT",
+  "description": "Swarfega Orange is an advanced formulation, solvent-free heavy duty hand cleanser containing natural cornmeal for a deep down cleaning action and moisturiser to help care for skin. Removes ingrained oil, grease, and general grime. The pump provides controlled dosages, and prevents the product from cross-contamination. One push is enough for an effective hand wash.",
+  "availability": "In Stock",
+  "product_name": "Swarfega Orange Hand Cleaners",
+  "specifications": [
+    "Available in multiple sizes: 15 litre Pail, 4 Litre Cartridge, 4 Litre Pump Bottle, 450ml Pump Bottle",
+    "Solvent-free formulation",
+    "Contains natural cornmeal for deep cleaning",
+    "Moisturiser included to care for skin",
+    "Pump provides controlled dosages"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-skin-safety-cradle-hand-cleaner-750ml.html|>
+## Swarfega Skin Safety Cradle Hand Cleaner 750ml
+
+{
+  "price": "€31.02 inc VAT (€25.22 exc.vat)",
+  "description": "The Swarfega® Hand Cleaner is a smooth lime cream hand cleaner that can be used without water. Designed to fit the SWASVC01SP skin safety cradle. Up to 375 applications from each cartridge.",
+  "availability": "Out of Stock",
+  "product_name": "Swarfega Skin Safety Cradle Hand Cleaner 750ml",
+  "specifications": [
+    "750ml capacity",
+    "Smooth lime cream hand cleaner",
+    "Can be used without water",
+    "Up to 375 applications per cartridge"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-skin-safety-cradle-hand-cleanser-starter-kit.html|>
+## Swarfega Skin Safety Cradle Hand Cleanser Starter Kit
+
+{
+  "price": "€148.87 inc VAT (€121.03 exc.vat)",
+  "description": "The Swarfega Cradle Complete Starter Kit is convenient in that it can be installed in areas of limited space, it is easy to use and economical - giving up to 750 applications for each cartridge. The Kit contains the following; CRH36V: No water required, works rapidly to remove soiling, dermatologically tested. CRC340: Universal pre work cream for dry and wet work to protect against contaminants, perfume free non greasy. Proven anti-bacterial activity – Helps protect the skin against contact with contaminants often associated with outdoor workers. CRA360: Alcohol based gel sanitiser, protects against bacteria and fungi, no water required. Advanced alcohol gel formula is easy-to-apply to provide an economical and convenient method of rapidly disinfecting clean skin. Excellent bacteria static activity against gram +ve and gram –ve bacteria and fungi.",
+  "availability": "In Stock",
+  "product_name": "Swarfega Skin Safety Cradle Hand Cleanser Starter Kit",
+  "specifications": [
+    "No water required, works rapidly to remove soiling",
+    "Dermatologically tested",
+    "Universal pre work cream for dry and wet work",
+    "Perfume free, non greasy",
+    "Proven anti-bacterial activity",
+    "Alcohol based gel sanitiser, protects against bacteria and fungi",
+    "Economical and convenient method of rapidly disinfecting clean skin"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-skin-safety-cradle-skin-sanitiser-750ml.html|>
+## Swarfega Skin Safety Cradle Skin Sanitiser 750ml
+
+{
+  "price": "€38.63 inc VAT (€31.41 exc.vat)",
+  "description": "The Swarfega® Skin Sanitiser is an alcohol based gel instant skin sanitiser for rapid and convenient disinfection. Designed to fit the SWASVC01SP skin safety cradle. Up to 750 applications from each cartridge.",
+  "availability": "In Stock",
+  "product_name": "Swarfega Skin Safety Cradle Skin Sanitiser 750ml",
+  "specifications": [
+    "Alcohol based gel",
+    "Instant skin sanitiser",
+    "Up to 750 applications"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-heavy-duty-hand-cleaner-cartridge-4-litre.html|>
+## Swarfega® Heavy-Duty Hand Cleaner Cartridge 4 litre
+
+{
+  "price": "€64.64 inc VAT (€52.55 exc.vat)",
+  "description": "Swarfega® Heavy-Duty Hand Cleaner has an advanced gel formulation and contains non-abrasive perlite granules to scrub away ingrained dirt and heavy soiling. Easy to apply and rinse away, the mildly scented gel leaves behind no residue, while conditioners leave hands soft and smooth. Infused with a fresh citrus fragrance for that clean feeling.",
+  "availability": "In Stock",
+  "product_name": "Swarfega® Heavy-Duty Hand Cleaner Cartridge 4 litre",
+  "specifications": [
+    "Advanced gel formulation",
+    "Contains non-abrasive perlite granules",
+    "Mildly scented gel",
+    "Leaves hands soft and smooth",
+    "Infused with fresh citrus fragrance"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-heavy-duty-hand-wipes-tub-70.html|>
+## Swarfega® Heavy-Duty Hand Wipes (Tub 70)
+
+{
+  "price": "€39.38 inc VAT (€32.02 exc.vat)",
+  "description": "Swarfega® Heavy-Duty Hand Wipes are ideal for cleaning your hands after general tasks. They quickly and thoroughly clean dirt from hands. Conveniently sized packs are ideal for workshops, easy to store and no water is required.",
+  "availability": "In Stock",
+  "product_name": "Swarfega® Heavy-Duty Hand Wipes (Tub 70)",
+  "specifications": [
+    "SWASWHD70W : €39.38",
+    "Conveniently sized packs",
+    "No water required for use"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-jizer-aqua-25-litre.html|>
+## Swarfega® Jizer® Aqua 25 litre
+
+{
+  "price": "€324.56 inc VAT (€263.87 exc.vat)",
+  "description": "The Swarfega® Jizer® Aqua is a water-based detergent degreaser which quickly removes oils, greases, and general dirt and grime from vehicles, components, machinery and floor surfaces.",
+  "availability": "Out of Stock",
+  "product_name": "Swarfega® Jizer® Aqua 25 litre",
+  "specifications": [
+    "Water-based detergent degreaser",
+    "Quickly removes oils, greases, and grime",
+    "Suitable for vehicles, components, machinery, and floor surfaces"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/swarfega-swarfega-light-cartridge-2-litre.html|>
+## Swarfega® Light Cartridge 2 litre
+
+{
+  "price": "€41.54 inc VAT (€33.77 exc.vat)",
+  "description": "Light-duty hand, hair and body cleaner with skin moisturiser, lightly fragranced for efficient cleaning of oils, greases and general grime. Size: 2 Litre Cartridge",
+  "availability": "In Stock",
+  "product_name": "Swarfega® Light Cartridge 2 litre",
+  "specifications": [
+    "Size: 2 Litre Cartridge",
+    "Light-duty hand, hair and body cleaner",
+    "Contains skin moisturiser",
+    "Lightly fragranced for efficient cleaning"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/tec7-tec7-multiclean.html|>
+## TEC7 TEC7 MULTICLEAN
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Tec7 MultiClean – the all purpose foaming spray cleaner. Universal, all-purpose fast-acting cleaner for household and professional use. Cleans and degreases without leaving traces. Contains no abrasives. Visible action by foam contact. Very strong, very efficient. Pleasant odour.",
+  "availability": "In Stock",
+  "product_name": "TEC7 TEC7 MULTICLEAN",
+  "specifications": [
+    "Universal, all-purpose fast-acting cleaner",
+    "Cleans and degreases without leaving traces",
+    "Contains no abrasives",
+    "Visible action by foam contact",
+    "Very strong, very efficient",
+    "Pleasant odour"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+
+<|https://www.mydiy.ie/products/tec7-tec7-scrub--cleans-rejuvenates-and-protects.html|>
+## TEC7 TEC7 SCRUB – CLEANS, REJUVENATES & PROTECTS
+
+{
+  "price": "€9.99",
+  "description": "Tec7 Scrub is a cleaning and scouring cream for hard surfaces that cleans, refreshes and protects by leaving a water-repellent layer in a single application. Tec7 Scrub is solvent free and H.A.C.C.P (food grade) safe making it suitable for use on most surfaces to include kitchens. Tec7 Scrub is also skin friendly and biodegradable.",
+  "availability": "In Stock",
+  "product_name": "TEC7 TEC7 SCRUB – CLEANS, REJUVENATES & PROTECTS",
+  "specifications": [
+    "Solvent free",
+    "H.A.C.C.P (food grade) safe",
+    "Skin friendly",
+    "Biodegradable",
+    "Suitable for various surfaces including concrete, ceramic, glass, and metals"
+  ],
+  "product_category": "Cleaning Supplies"
+}
+

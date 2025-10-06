@@ -1,0 +1,422 @@
+{
+  "pending": [
+    {
+      "url": "https://www.mydiy.ie/products/makita-b-09444-specialized-tip-embedded-knot-and-nail-saw-blade-235-x-30mm-x-24t.html",
+      "normalized_url": "https://www.mydiy.ie/products/makita-b-09444-specialized-tip-embedded-knot-and-nail-saw-blade-235-x-30mm-x-24t.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "blades",
+        "source_category": "https://www.mydiy.ie/power-tool-accessories/blades/circular-saw-blades",
+        "last_error": "No data returned at 2025-10-06T10:22:25.512771"
+      },
+      "discovered_at": "2025-10-06T00:27:53.729801"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/trend-setss9tc-starter-router-cutter-set-of-15-12in-shank-tct.html",
+      "normalized_url": "https://www.mydiy.ie/products/trend-setss9tc-starter-router-cutter-set-of-15-12in-shank-tct.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "router_bits",
+        "source_category": "https://www.mydiy.ie/power-tool-accessories/router-bits/router-bit-sets",
+        "last_error": "No data returned at 2025-10-06T11:02:27.135274"
+      },
+      "discovered_at": "2025-10-06T00:36:25.400500"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/trend-phpc95-pocket-hole-plug-cut-95mm-38.html",
+      "normalized_url": "https://www.mydiy.ie/products/trend-phpc95-pocket-hole-plug-cut-95mm-38.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "router_bits",
+        "source_category": "https://www.mydiy.ie/power-tool-accessories/router-bits/staircase-lock-and-letter-box-jigs",
+        "last_error": "No data returned at 2025-10-06T11:04:53.755315"
+      },
+      "discovered_at": "2025-10-06T00:36:37.979332"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/mexco-dust-management-core-drill-kit-9-piece.html",
+      "normalized_url": "https://www.mydiy.ie/products/mexco-dust-management-core-drill-kit-9-piece.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "drill_bits___glass_tile_core_and_diamond",
+        "source_category": "https://www.mydiy.ie/drill-bits-and-holesaws/drill-bits---glass-tile-core-and-diamond/diamond-core-drills",
+        "last_error": "No data returned at 2025-10-06T13:03:01.361195"
+      },
+      "discovered_at": "2025-10-06T00:49:45.567829"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/dormer-a125-hss-extra-length-drills-metric.html",
+      "normalized_url": "https://www.mydiy.ie/products/dormer-a125-hss-extra-length-drills-metric.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "drill_bits___metal",
+        "source_category": "https://www.mydiy.ie/drill-bits-and-holesaws/drill-bits---metal/a125-extra-length-drills",
+        "last_error": "No data returned at 2025-10-06T13:13:31.962912"
+      },
+      "discovered_at": "2025-10-06T00:51:04.113479"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/krino-19pc-hss-steel-case-drill-bit-set-1-10mm.html",
+      "normalized_url": "https://www.mydiy.ie/products/krino-19pc-hss-steel-case-drill-bit-set-1-10mm.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "drill_bits___metal",
+        "source_category": "https://www.mydiy.ie/drill-bits-and-holesaws/drill-bits---metal/hss-jobber-twist-drills-for-metal",
+        "last_error": "No data returned at 2025-10-06T13:18:11.536641"
+      },
+      "discovered_at": "2025-10-06T00:51:38.789387"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/dormer-a777-hsco-cobalt-heavy-duty-jobber-drills-metric-and-imperial.html",
+      "normalized_url": "https://www.mydiy.ie/products/dormer-a777-hsco-cobalt-heavy-duty-jobber-drills-metric-and-imperial.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "drill_bits___metal",
+        "source_category": "https://www.mydiy.ie/drill-bits-and-holesaws/drill-bits---metal/tin-coated--and-cobalt-jobber-drills",
+        "last_error": "No data returned at 2025-10-06T13:23:05.930447"
+      },
+      "discovered_at": "2025-10-06T00:52:36.139449"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/irwin-blue-groove-power-bits.html",
+      "normalized_url": "https://www.mydiy.ie/products/irwin-blue-groove-power-bits.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "drill_bits___wood",
+        "source_category": "https://www.mydiy.ie/drill-bits-and-holesaws/drill-bits---wood/auger-bits",
+        "last_error": "No data returned at 2025-10-06T13:26:17.430283"
+      },
+      "discovered_at": "2025-10-06T00:52:50.372297"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/makita-e-05533-tool-organiser-wrap.html",
+      "normalized_url": "https://www.mydiy.ie/products/makita-e-05533-tool-organiser-wrap.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "tool_holders_pouches_and_belts",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/tool-holders-pouches-and-belts/chisel-bit-and-tool-rolls",
+        "last_error": "No data returned at 2025-10-06T13:30:16.401409"
+      },
+      "discovered_at": "2025-10-06T00:53:32.432739"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/makita-e-05262-knifesecateur-holder.html",
+      "normalized_url": "https://www.mydiy.ie/products/makita-e-05262-knifesecateur-holder.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "tool_holders_pouches_and_belts",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/tool-holders-pouches-and-belts/tool-holders",
+        "last_error": "No data returned at 2025-10-06T13:33:08.422599"
+      },
+      "discovered_at": "2025-10-06T00:53:45.978252"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/scan-scaffold-tag-kit.html",
+      "normalized_url": "https://www.mydiy.ie/products/scan-scaffold-tag-kit.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "safety_signs_smoke_and_fire_detection",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/safety-signs-smoke-and-fire-detection/safety-tags",
+        "last_error": "No data returned at 2025-10-06T13:42:55.939923"
+      },
+      "discovered_at": "2025-10-06T00:54:30.428948"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/geko-500m-red-and-white-barrier-tape.html",
+      "normalized_url": "https://www.mydiy.ie/products/geko-500m-red-and-white-barrier-tape.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "safety_signs_smoke_and_fire_detection",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/safety-signs-smoke-and-fire-detection/safety-warning-and-barrier-tapes",
+        "last_error": "No data returned at 2025-10-06T13:44:05.031415"
+      },
+      "discovered_at": "2025-10-06T00:54:36.690594"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/scan-strictly-no-admittance-to-unauthorised-persons---pvc-400-x-600mm.html",
+      "normalized_url": "https://www.mydiy.ie/products/scan-strictly-no-admittance-to-unauthorised-persons---pvc-400-x-600mm.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "safety_signs_smoke_and_fire_detection",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/safety-signs-smoke-and-fire-detection/signs-no-smoking-and-prohibition",
+        "last_error": "No data returned at 2025-10-06T14:04:28.666148"
+      },
+      "discovered_at": "2025-10-06T00:55:38.002962"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/portwest-new-group-for-pwtfw10b41.html",
+      "normalized_url": "https://www.mydiy.ie/products/portwest-new-group-for-pwtfw10b41.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "safety_footwear",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/safety-footwear/safety-boots---toecap-and-midsole",
+        "last_error": "No data returned at 2025-10-06T14:09:23.312841"
+      },
+      "discovered_at": "2025-10-06T00:56:35.266584"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/portwest-s460-hi-vis-orange-traffic-jacket.html",
+      "normalized_url": "https://www.mydiy.ie/products/portwest-s460-hi-vis-orange-traffic-jacket.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "clothing_and_workwear",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/clothing-and-workwear/hi-visibility-clothing",
+        "last_error": "No data returned at 2025-10-06T14:28:33.556077"
+      },
+      "discovered_at": "2025-10-06T00:57:57.371716"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/portwest-hi-vis-two-tone-yellownavy-bodywarmer-xl.html",
+      "normalized_url": "https://www.mydiy.ie/products/portwest-hi-vis-two-tone-yellownavy-bodywarmer-xl.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "clothing_and_workwear",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/clothing-and-workwear/jackets-and-gilets",
+        "last_error": "No data returned at 2025-10-06T14:33:55.814798"
+      },
+      "discovered_at": "2025-10-06T00:58:03.614556"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/kunys-kp-309-accordian-knee-pads.html",
+      "normalized_url": "https://www.mydiy.ie/products/kunys-kp-309-accordian-knee-pads.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "clothing_and_workwear",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/clothing-and-workwear/knee-pads",
+        "last_error": "No data returned at 2025-10-06T14:41:31.242984"
+      },
+      "discovered_at": "2025-10-06T00:58:14.172246"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/stanley-hand-tools-sy345hc-padded-ear-defenders-snr-26-db.html",
+      "normalized_url": "https://www.mydiy.ie/products/stanley-hand-tools-sy345hc-padded-ear-defenders-snr-26-db.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "personal_protection_equipment",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/personal-protection-equipment/ear-defenders-and-earplugs",
+        "last_error": "No data returned at 2025-10-06T16:15:07.263199"
+      },
+      "discovered_at": "2025-10-06T01:00:14.505628"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/stanley-hand-tools-gasket-safety-glasses.html",
+      "normalized_url": "https://www.mydiy.ie/products/stanley-hand-tools-gasket-safety-glasses.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "personal_protection_equipment",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/personal-protection-equipment/safety-spectacles",
+        "last_error": "No data returned at 2025-10-06T16:34:25.193545"
+      },
+      "discovered_at": "2025-10-06T01:04:14.967793"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/keter-pro-gear-20-half-organiser-1.html",
+      "normalized_url": "https://www.mydiy.ie/products/keter-pro-gear-20-half-organiser-1.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "toolboxes_and_tool_storage",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/toolboxes-and-tool-storage/organisers",
+        "last_error": "No data returned at 2025-10-06T16:39:00.257848"
+      },
+      "discovered_at": "2025-10-06T01:04:36.066889"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/dewalt-toughsystem-20-charger-toolbox.html",
+      "normalized_url": "https://www.mydiy.ie/products/dewalt-toughsystem-20-charger-toolbox.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "toolboxes_and_tool_storage",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/toolboxes-and-tool-storage/toolboxes---toughsystem-and-tstak",
+        "last_error": "No data returned at 2025-10-06T16:59:49.044656"
+      },
+      "discovered_at": "2025-10-06T01:06:34.902740"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/stanley-tools-junior-saw-horse-twin-pack.html",
+      "normalized_url": "https://www.mydiy.ie/products/stanley-tools-junior-saw-horse-twin-pack.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "workbenches_workmates_and_trestles",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/workbenches-workmates-and-trestles/saw-horses-roller-stands-and-trestles",
+        "last_error": "No data returned at 2025-10-06T17:17:25.740759"
+      },
+      "discovered_at": "2025-10-06T01:06:54.255423"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/keter-lumberjack-sawhorse-1.html",
+      "normalized_url": "https://www.mydiy.ie/products/keter-lumberjack-sawhorse-1.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "workbenches_workmates_and_trestles",
+        "source_category": "https://www.mydiy.ie/workwear-tool-storage-and-safety/workbenches-workmates-and-trestles/saw-horses-roller-stands-and-trestles",
+        "last_error": "No data returned at 2025-10-06T17:33:23.373601"
+      },
+      "discovered_at": "2025-10-06T01:06:54.255560"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/duracell-mn21-a23-lrv08-battery-pack-2.html",
+      "normalized_url": "https://www.mydiy.ie/products/duracell-mn21-a23-lrv08-battery-pack-2.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "batteries",
+        "source_category": "https://www.mydiy.ie/home-leisure-and-car-care/batteries/small-electronic-batteries",
+        "last_error": "No data returned at 2025-10-06T17:39:24.304610"
+      },
+      "discovered_at": "2025-10-06T01:08:31.468442"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/pest-stop-systems-rat-cage-trap-14in.html",
+      "normalized_url": "https://www.mydiy.ie/products/pest-stop-systems-rat-cage-trap-14in.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "pest_control",
+        "source_category": "https://www.mydiy.ie/home-leisure-and-car-care/pest-control/cage-traps",
+        "last_error": "No data returned at 2025-10-06T17:56:25.688494"
+      },
+      "discovered_at": "2025-10-06T01:09:24.989785"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/rentokil-advanced-window-fly-traps-pack-of-4.html",
+      "normalized_url": "https://www.mydiy.ie/products/rentokil-advanced-window-fly-traps-pack-of-4.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "pest_control",
+        "source_category": "https://www.mydiy.ie/home-leisure-and-car-care/pest-control/insect-pest-control",
+        "last_error": "No data returned at 2025-10-06T18:06:11.920616"
+      },
+      "discovered_at": "2025-10-06T01:09:43.321129"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/sc-johnson-professional-mr-muscle-drain-gel-1-litre.html",
+      "normalized_url": "https://www.mydiy.ie/products/sc-johnson-professional-mr-muscle-drain-gel-1-litre.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "cleaning_and_heating",
+        "source_category": "https://www.mydiy.ie/home-leisure-and-car-care/cleaning-and-heating/household-cleaning-consumables",
+        "last_error": "No data returned at 2025-10-06T18:23:47.123891"
+      },
+      "discovered_at": "2025-10-06T01:11:20.805772"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/motip-pro-copper-spray-500ml.html",
+      "normalized_url": "https://www.mydiy.ie/products/motip-pro-copper-spray-500ml.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "car_maintenance_and_valeting_products",
+        "source_category": "https://www.mydiy.ie/home-leisure-and-car-care/car-maintenance-and-valeting-products/exhaust-and-radiator-repair",
+        "last_error": "No data returned at 2025-10-06T18:44:59.918979"
+      },
+      "discovered_at": "2025-10-06T01:16:19.096427"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/everbuild-mitre-fast-bonding-kit-standard.html",
+      "normalized_url": "https://www.mydiy.ie/products/everbuild-mitre-fast-bonding-kit-standard.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T20:13:04.793147"
+      },
+      "discovered_at": "2025-10-06T08:08:31.961160"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/teng-long-nose-plier-200mm-8in.html",
+      "normalized_url": "https://www.mydiy.ie/products/teng-long-nose-plier-200mm-8in.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T20:34:32.351653"
+      },
+      "discovered_at": "2025-10-06T08:08:31.962002"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/tec7-tec7-wp7-201-spray-and-seal-rubber-based-repair-400g-500ml.html",
+      "normalized_url": "https://www.mydiy.ie/products/tec7-tec7-wp7-201-spray-and-seal-rubber-based-repair-400g-500ml.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T20:45:55.225716"
+      },
+      "discovered_at": "2025-10-06T08:08:31.962715"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/record-power-ac400-two-stage-air-filter-with-remote.html",
+      "normalized_url": "https://www.mydiy.ie/products/record-power-ac400-two-stage-air-filter-with-remote.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T22:07:19.017649"
+      },
+      "discovered_at": "2025-10-06T08:08:31.965480"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/teng-ttid20-ind-impact-driver-set-12-drive.html",
+      "normalized_url": "https://www.mydiy.ie/products/teng-ttid20-ind-impact-driver-set-12-drive.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T22:08:39.639450"
+      },
+      "discovered_at": "2025-10-06T08:08:31.965548"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/makita-gd0600-6mm-die-grinder.html",
+      "normalized_url": "https://www.mydiy.ie/products/makita-gd0600-6mm-die-grinder.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T22:20:52.240855"
+      },
+      "discovered_at": "2025-10-06T08:08:31.965631"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/nilfisk-alto-kew-core-130-home-and-garden-powercontrol-pressure-washer-130-bar-240v.html",
+      "normalized_url": "https://www.mydiy.ie/products/nilfisk-alto-kew-core-130-home-and-garden-powercontrol-pressure-washer-130-bar-240v.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T22:52:08.597582"
+      },
+      "discovered_at": "2025-10-06T08:08:31.965828"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/makita-ga4534-paddle-switch-angle-grinder.html",
+      "normalized_url": "https://www.mydiy.ie/products/makita-ga4534-paddle-switch-angle-grinder.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T23:01:58.376295"
+      },
+      "discovered_at": "2025-10-06T08:08:31.965997"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/teng-tt9116-16-piece-regular-deep-impact-socket-set-12in-drive.html",
+      "normalized_url": "https://www.mydiy.ie/products/teng-tt9116-16-piece-regular-deep-impact-socket-set-12in-drive.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T23:08:54.196307"
+      },
+      "discovered_at": "2025-10-06T08:08:31.966095"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/steinel-hg2320e-lcd-heat-gun-2300-watt-240-volt.html",
+      "normalized_url": "https://www.mydiy.ie/products/steinel-hg2320e-lcd-heat-gun-2300-watt-240-volt.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-06T23:10:46.915203"
+      },
+      "discovered_at": "2025-10-06T08:08:31.966123"
+    }
+  ]
+}

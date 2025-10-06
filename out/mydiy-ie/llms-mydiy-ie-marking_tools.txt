@@ -1,0 +1,15 @@
+<|https://www.mydiy.ie/products/faithfull-paint-marker-pen.html|>
+## Faithfull Paint Marker Pen
+
+{
+  "price": "€9.85 inc VAT",
+  "description": "Faithfull Paint Markers can write on virtually any surface including timber, concrete, ceramics and metals. The paint is quick-drying, Xylene free and UV resistant. Suitable for outdoor use.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Paint Marker Pen",
+  "specifications": [
+    "Pack of 2 Black & White",
+    "Pack of 2 Yellow & Red"
+  ],
+  "product_category": "Marking Tools"
+}
+

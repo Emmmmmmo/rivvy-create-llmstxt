@@ -1,0 +1,51 @@
+<|https://www.mydiy.ie/products/arctic-hayes-landlordhomeowner-gas-safety-record-pad-of-25.html|>
+## Arctic Hayes Landlord/Homeowner Gas Safety Record (Pad of 25)
+
+{
+  "price": "€10.46 inc VAT (€8.50 exc.vat)",
+  "description": "Arctic Hayes Landlord/Homeowner Gas Safety Record Pad of 25 A4 forms in triplicate. Suitable for landlord inspections, servicing and appliance checks for homes and caravans. Issued in accordance with the Gas Safety Regulations for installation and use.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Landlord/Homeowner Gas Safety Record (Pad of 25)",
+  "specifications": [
+    "Pad of 25 A4 forms",
+    "Suitable for landlord inspections",
+    "Servicing and appliance checks for homes and caravans",
+    "Issued in accordance with Gas Safety Regulations"
+  ],
+  "product_category": "Consumables"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-smoke-cartridges-classic-3g.html|>
+## Arctic Hayes Smoke Cartridges Classic 3g
+
+{
+  "price": "€7.22 inc VAT",
+  "description": "Arctic Hayes Classic 3g Smoke Cartridges with an easy-to-use finger grip base. Perfect for testing air filters, fume hoods, air balancing and fans, as well as for use within mandatory testing of flues, chimneys, pipe and ductwork. Each cartridge supplies approximately 5m³ of dense smoke for 45 seconds. Supplied in a resealable plastic pack. Complies with BS 5440-1.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Smoke Cartridges Classic 3g",
+  "specifications": [
+    "Easy-to-use finger grip base",
+    "Supplies approximately 5m³ of dense smoke for 45 seconds",
+    "Resealable plastic pack",
+    "Complies with BS 5440-1"
+  ],
+  "product_category": "Consumables"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-smoke-cartridges-classic-9g-white-pack-10.html|>
+## Arctic Hayes Smoke Cartridges Classic 9g White (Pack 10)
+
+{
+  "price": "€10.30 inc VAT (€8.37 exc.vat)",
+  "description": "Arctic Hayes Classic 9g Smoke Cartridges are encapsulated in a polycarbonate plastic sheath. Perfect for testing air filters, fume hoods, air balancing and fans, as well as for use within mandatory testing of flues, chimneys, pipe and ductwork. White smoke can also be used for photography, special effects and more. Each cartridge supplies approximately 7m³ of dense smoke for 75 seconds. Supplied in a resealable plastic pack. Complies with BS 5440-1.",
+  "availability": "Out of Stock",
+  "product_name": "Arctic Hayes Smoke Cartridges Classic 9g White (Pack 10)",
+  "specifications": [
+    "Pack of 10 cartridges",
+    "Each cartridge supplies approximately 7m³ of dense smoke for 75 seconds",
+    "Encapsulated in a polycarbonate plastic sheath",
+    "Complies with BS 5440-1"
+  ],
+  "product_category": "Consumables"
+}
+

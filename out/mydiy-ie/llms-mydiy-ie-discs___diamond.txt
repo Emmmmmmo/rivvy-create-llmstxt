@@ -1,0 +1,373 @@
+<|https://www.mydiy.ie/products/spectrum-new-group-for-spema30020.html|>
+## Spectrum New Group for SPEMA30020
+
+{
+  "price": "€379.39 inc VAT (€308.45 exc.vat)",
+  "description": "Spectrum New Group for SPEMA30020",
+  "availability": "In Stock",
+  "product_name": "Spectrum New Group for SPEMA30020",
+  "specifications": [
+    "Option: Select One - ma350 350Mm Pro Asphal Diamond Blade",
+    "SPEMA35025 : €379.39"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-turbo-continuous-rim-115mm-diamond-disk.html|>
+## Krino Turbo Continuous Rim 115Mm Diamond Disk
+
+{
+  "price": "€13.17 inc VAT (€10.71 exc.vat)",
+  "description": "Turbo Continuous Rim 115Mm Diamond Disk",
+  "availability": "In Stock",
+  "product_name": "Krino Turbo Continuous Rim 115Mm Diamond Disk",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-3-pce-set-turbo-diamond-disk.html|>
+## Krino 3 Pce Set Turbo Diamond Disk
+
+{
+  "price": "€36.33 inc VAT (€29.54 exc.vat)",
+  "description": "3 Pce Set Turbo Diamond Disk",
+  "availability": "Out of Stock",
+  "product_name": "Krino 3 Pce Set Turbo Diamond Disk",
+  "specifications": [
+    "Product Code: KRI03412100",
+    "List Price: €53.82",
+    "You save: €17.49"
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-tcx15-125mm-premium-universal-dia-blade.html|>
+## tcx15 125Mm Premium Universal Dia Blade
+
+{
+  "price": "€48.44 inc VAT (€39.38 exc.vat)",
+  "description": "Spectrum tcx15 125Mm Premium Universal Dia Blade",
+  "availability": "Out of Stock",
+  "product_name": "tcx15 125Mm Premium Universal Dia Blade",
+  "specifications": [
+    "List: €59.80",
+    "You save €11.36",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-tcx15-230mm-premium-universal-dia-blade.html|>
+## Spectrum tcx15 230Mm Premium Universal Dia Blade
+
+{
+  "price": "€95.25 inc VAT (€77.44 exc.vat)",
+  "description": "tcx15 230Mm Premium Universal Dia Blade",
+  "availability": "Out of Stock",
+  "product_name": "Spectrum tcx15 230Mm Premium Universal Dia Blade",
+  "specifications": [
+    "SPETCX152302 : €95.25",
+    "List: €117.59",
+    "You save €22.34"
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-tx10r-230mm-pro-universal-diamond-blade.html|>
+## tx10R 230Mm Pro Universal Diamond Blade
+
+{
+  "price": "€121.07 inc VAT (€98.43 exc.vat)",
+  "description": "Spectrum tx10R 230Mm Pro Universal Diamond Blade",
+  "availability": "Out of Stock",
+  "product_name": "tx10R 230Mm Pro Universal Diamond Blade",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-tx10r-300mm-pro-universal-diamond-blade.html|>
+## tx10R 300Mm Pro Universal Diamond Blade
+
+{
+  "price": "€201.81 inc VAT (€164.07 exc.vat)",
+  "description": "Spectrum tx10R 300Mm Pro Universal Diamond Blade",
+  "availability": "In Stock",
+  "product_name": "tx10R 300Mm Pro Universal Diamond Blade",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery",
+    "No quibble returns policy"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-nebula-diamond-blade.html|>
+## Makita Nebula Diamond Blade
+
+{
+  "price": "from €51.59 inc VAT",
+  "description": "General purpose blade for use on construction materials, masonry, etc. Ideal for use on hard concrete and flint aggregate. Can be used wet or dry. Suitable for petrol disc cutters.",
+  "availability": "In Stock",
+  "product_name": "Makita Nebula Diamond Blade",
+  "specifications": [
+    "Select Option: 125 x 22.23mm, 300 x 22.23mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-diamak-diamond-blade.html|>
+## Makita Diamak Diamond Blade
+
+{
+  "price": "€15.24 inc VAT",
+  "description": "Entry level economical blade. Segmented rim for cutting most masonry materials, slabs, bricks, blocks, sandstone, slate and limestone. Can be used either wet or dry.",
+  "availability": "In Stock",
+  "product_name": "Makita Diamak Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22.23mm, 125 x 22.23mm, 230 x 22.23mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-new-group-for-spemx1011522.html|>
+## Spectrum New Group for SPEMX1011522
+
+{
+  "price": "€104.89 inc VAT (€85.28 exc.vat)",
+  "description": "Spectrum New Group for SPEMX1011522",
+  "availability": "In Stock",
+  "product_name": "Spectrum New Group for SPEMX1011522",
+  "specifications": [
+    "Option: mx10 230Mm Pro Superfast Univ Dia Blade",
+    "Product Code: SPEMX1023022",
+    "List Price: €129.49",
+    "You save: €24.60"
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-new-group-for-spetc1011522.html|>
+## tc10 125Mm Std Gp Diamond Blade
+
+{
+  "price": "€14.51 inc VAT (€11.80 exc.vat)",
+  "description": "Spectrum New Group for SPETC1011522",
+  "availability": "Out of Stock",
+  "product_name": "tc10 125Mm Std Gp Diamond Blade",
+  "specifications": [
+    "List: €17.92",
+    "You save €3.41",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/edgepoint-gp10-general-purpose-diamond-blade.html|>
+## EdgePoint GP10 General-Purpose Diamond Blade
+
+{
+  "price": "€6.63 inc VAT",
+  "description": "The EdgePoint GP10 General-Purpose Diamond Blade has taller segments for longer blade life. Provides low-cost cutting in a wide variety of building materials. With premium graded quality diamond segments and a tensioned high-grade steel core. Manufactured to EN 13236 quality standard.",
+  "availability": "In Stock",
+  "product_name": "EdgePoint GP10 General-Purpose Diamond Blade",
+  "specifications": [
+    "Available sizes: 115mm, 125mm, 230mm, 300mm, 350mm",
+    "Manufactured to EN 13236 quality standard",
+    "Taller segments for longer blade life",
+    "Premium graded quality diamond segments",
+    "Tensioned high-grade steel core"
+  ]
+}
+
+<|https://www.mydiy.ie/products/edgepoint-gp7-general-purpose-diamond-blade.html|>
+## EdgePoint GP7 General-Purpose Diamond Blade
+
+{
+  "price": "€4.99 inc VAT",
+  "description": "The EdgePoint GP7 General-Purpose Diamond Blade provides low-cost cutting in a wide variety of building materials. With premium graded quality diamond segments and a tensioned high-grade steel core. Manufactured to EN 13236 quality standard.",
+  "availability": "In Stock",
+  "product_name": "EdgePoint GP7 General-Purpose Diamond Blade",
+  "specifications": [
+    "Select Option: 115mm, 230mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-general-purpose-diamond-blade.html|>
+## Evolution General Purpose Diamond Blade
+
+{
+  "price": "from €31.72 inc VAT",
+  "description": "Evolution General Purpose Diamond Blade easily cuts with outstanding performance on both hard and abrasive masonry, hard brick, pavers, stone, concrete and steel-reinforced concrete. A popular choice among contractors.",
+  "availability": "In Stock",
+  "product_name": "Evolution General Purpose Diamond Blade",
+  "specifications": [
+    "Select Option: 230 x 22.2mm, 255 x 22.2mm, 300 x 22.2mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-multi-material-diamond-demolition-disc-cutter-blade.html|>
+## Evolution Multi-Material Diamond Demolition Disc Cutter Blade
+
+{
+  "price": "€87.56 inc VAT",
+  "description": "The Evolution Diamond Demolition Disc Cutter Blade is the ultimate multi-material saw blade. It’s packed with coarse-grain diamond cutting power to help you slice through masonry, rebar reinforced slab, mild steel and non-ferrous metals, as well as new or reclaimed wood. It will tackle any construction cutting task. Whether you’re putting buildings up or knocking them down, you need a powerful saw that you can rely on, with a blade that outlasts the competition to make quick and easy cuts. It’s built for long life, harsh working conditions and the toughest cuts. Offers up to 30x longer blade life than abrasive discs when cutting metal. Its diamond cutting edge is incredibly tough and can make over 1,000 cuts through steel. Cooling holes close to the edge expel heat to maintain optimum cutting performance. Cleaner & Safer: The steel body won’t shatter, unlike abrasives, which can cause serious injury. Less dust, fewer sparks and less odour vs abrasive discs make this a safer cutting solution.",
+  "availability": "In Stock",
+  "product_name": "Evolution Multi-Material Diamond Demolition Disc Cutter Blade",
+  "specifications": [
+    "Select Option: 230 x 22.2mm, 255 x 22.2mm, 300 x 22.2mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-premium-diamond-disc-cutter-blade.html|>
+## Evolution Premium Diamond Disc Cutter Blade
+
+{
+  "price": "from €44.16 inc VAT",
+  "description": "The Evolution Premium Diamond Disc Cutter Blade is impregnated with even more diamond to provide a cutting surface that will deliver cut after cut in the toughest working conditions. Hot pressed and higher diamond concentration delivers 10% faster cutting and longer life than our general-purpose diamond blade. Engineered for aggressive cutting on both hard and abrasive masonry, hard brick, block, roof tile, pavers, stone, concrete and steel-reinforced concrete.",
+  "availability": "In Stock",
+  "product_name": "Evolution Premium Diamond Disc Cutter Blade",
+  "specifications": [
+    "Select Option: 230 x 22.2mm, 255 x 22.2mm, 300 x 22.2mm",
+    "Fast & Reliable Shipping with DPD",
+    "Free delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-diamond-blade-230-x-2223mm.html|>
+## IRWIN® Diamond Blade 230 x 22.23mm
+
+{
+  "price": "€49.93 inc VAT (€40.59 exc.vat)",
+  "description": "IRWIN® Diamond Blade 230 x 22.23mm for cutting stone, ceramic, tiles and granite. Fits all popular angle grinders.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Diamond Blade 230 x 22.23mm",
+  "specifications": [
+    "Diamond Blade 230 x 22.23mm",
+    "Fits all popular angle grinders",
+    "Ideal for cutting stone, ceramic, tiles, and granite"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-segmented-diamond-blade.html|>
+## IRWIN® Segmented Diamond Blade
+
+{
+  "price": "€16.06 inc VAT",
+  "description": "This IRWIN® Segmented Diamond Blade made for cutting concrete, brick, granite and marble. Fits all popular angle grinders.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Segmented Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22.23mm, 125 x 22.23mm, 230 x 22.23mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-new-group-for-sperd611522.html|>
+## Spectrum New Group for SPERD611522
+
+{
+  "price": "€62.95",
+  "description": "Spectrum New Group for SPERD611522",
+  "availability": "In Stock",
+  "product_name": "Spectrum New Group for SPERD611522",
+  "specifications": [
+    "List: €77.72",
+    "You save €14.77",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Orders under €150: €8.99 delivery fee",
+    "Most orders ship on a 24-hour courier service (2 working days)",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-d-61189-diamak-diamond-blade-115-x-2223mm.html|>
+## Makita D-61189 Diamak Diamond Blade 115 x 22.23mm
+
+{
+  "price": "€9.88 inc VAT (€8.03 exc.vat)",
+  "description": "Entry level economical blade. Continuous rim for tile cutting, marble, limestone, porcelain terrazzo, etc. Can be used either wet or dry.",
+  "availability": "Out of Stock",
+  "product_name": "Makita D-61189 Diamak Diamond Blade 115 x 22.23mm",
+  "specifications": [
+    "MAKD61189 : €9.88",
+    "List: €12.42",
+    "You save €2.54",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/edgepoint-ct-tile-cutting-diamond-blade.html|>
+## EdgePoint CT Tile Cutting Diamond Blade
+
+{
+  "price": "from €8.08 inc VAT",
+  "description": "The EdgePoint CT Tile Cutting Diamond Blade has a continuous rim that provides easy, clean cuts in ceramic and natural stone tiles. Made with premium graded quality diamond that is bonded within the rim. It also has a tensioned high grade steel core. Manufactured to EN 13236 quality standards.",
+  "availability": "In Stock",
+  "product_name": "EdgePoint CT Tile Cutting Diamond Blade",
+  "specifications": [
+    "Select Option: 115mm, 180mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns policy"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-continuous-rim-diamond-blade.html|>
+## IRWIN® Continuous Rim Diamond Blade
+
+{
+  "price": "€16.06 inc VAT",
+  "description": "This IRWIN® Continuous Rim Diamond Blade made for cutting ceramic tiles. Fits all popular angle grinders.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Continuous Rim Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22.23mm, 125 x 22.23mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: If you need to return something for any reason"
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-new-group-for-spesl11522.html|>
+## Spectrum New Group for SPESL11522
+
+{
+  "price": "€72.64 inc VAT (€59.06 exc.vat)",
+  "description": "Spectrum New Group for SPESL11522",
+  "availability": "In Stock",
+  "product_name": "Spectrum New Group for SPESL11522",
+  "specifications": [
+    "Option: sl180 180Mm Ultimate Univ Tile Dia Blade",
+    "Product Code: SPESL1802522",
+    "List Price: €89.68",
+    "You save: €17.04"
+  ]
+}
+

@@ -1,0 +1,16 @@
+<|https://www.mydiy.ie/products/faithfull-12-tonne-builders-bag-woven-polypropylene-135gm2.html|>
+## Faithfull 1/2 Tonne Builders Bag Woven Polypropylene 135g/M2
+
+{
+  "price": "€7.16 inc VAT (€5.82 exc.vat)",
+  "description": "The Faithfull 1/2 Tonne Builder's Bag, also referred to as a Flexible Intermediate Bulk Container (FIBC), is a reliable option for industrial storage. The half-tonne bulk bags are spacious enough to hold a significant amount of flowing products like sand, gravel, soil, and stones, and are ideal for building, landscaping, construction, and agricultural applications. The open-top design allows for easy loading and unloading, while the four lifting loops aid with manual movement or the attachment to a crane or forklift. Although intended to be single-use, these bags can be repurposed for domestic or lighter-duty uses, partly thanks to their tear-resistant, woven polypropylene build quality.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 1/2 Tonne Builders Bag Woven Polypropylene 135g/M2",
+  "specifications": [
+    "Max. Loading Weight: 500kg (single use only at maximum weight)",
+    "Size: 730 x 730 x 730mm",
+    "Fabric: Uncoated, white, 30% recycled, 135gsm material weight"
+  ],
+  "product_category": "Building Materials"
+}
+

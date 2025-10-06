@@ -1,0 +1,16 @@
+<|https://www.mydiy.ie/products/-18-x-34-spring-pin-slotted-stainless-steel-roll-pin.html|>
+## 1/8 x 3/4" Spring Pin, Slotted Stainless Steel Roll Pin
+
+{
+  "price": "€29.90 inc VAT (€24.31 exc.vat)",
+  "description": "1/8 X 3/4 STAINLESS STEEL ROLL PIN SPRING PINS A2\n\nBOX OF 1,000",
+  "availability": "In Stock",
+  "product_name": "1/8 x 3/4\" Spring Pin, Slotted Stainless Steel Roll Pin",
+  "specifications": [
+    "1/8 x 3/4 inch size",
+    "Stainless steel material",
+    "Box of 1,000 pieces"
+  ],
+  "product_category": "Fasteners"
+}
+

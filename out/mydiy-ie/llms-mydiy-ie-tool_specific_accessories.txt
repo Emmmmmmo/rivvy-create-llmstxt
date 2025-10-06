@@ -1,0 +1,42 @@
+<|https://www.mydiy.ie/products/milwaukee-power-tools-msl-2000-mitre-saw-legstand.html|>
+## MSL 2000 Mitre Saw Legstand
+
+{
+  "price": "€453.32 inc VAT (€368.55 exc.vat)",
+  "description": "The Milwaukee MSL 2000 Mitre Saw Legstand is made from lightweight yet durable aluminium. Its compact foldable design is easy to transport onto the job site. Quick release latches make it easy to open and close. A one point leg adjustment allows for levelling on uneven ground.",
+  "availability": "In Stock",
+  "product_name": "MSL 2000 Mitre Saw Legstand",
+  "specifications": [
+    "Max. Load: 227kg",
+    "Extended Length: 2.54m",
+    "Closed Length: 1.09m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/edma-spare-hot-wire-1370mm.html|>
+## Edma Spare Hot Wire 1370mm
+
+{
+  "price": "€15.08 inc VAT (€12.26 exc.vat)",
+  "description": "Edma Spare Hot Wire for the EDM260155 Horizontal Hot Wire Cutting Table.",
+  "availability": "In Stock",
+  "product_name": "Edma Spare Hot Wire 1370mm",
+  "specifications": [
+    "Overall Length: 1370mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/edma-spare-wire-roll-for-foldable-cutting-table.html|>
+## Edma Spare Wire Roll for Foldable Cutting Table
+
+{
+  "price": "€17.29 inc VAT (€14.06 exc.vat)",
+  "description": "Spare Wire Roll for Edma EDM367155 Foldable Hot Wire Cutting Table.",
+  "availability": "In Stock",
+  "product_name": "Edma Spare Wire Roll for Foldable Cutting Table",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+

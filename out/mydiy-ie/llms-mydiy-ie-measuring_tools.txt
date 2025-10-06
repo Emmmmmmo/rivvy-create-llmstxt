@@ -1,0 +1,63 @@
+<|https://www.mydiy.ie/products/bosch-glm-50-27-cg-professional-laser-measure.html|>
+## Bosch GLM 50-27 CG Professional Laser Measure
+
+{
+  "price": "€261.39 inc VAT (€212.51 exc.vat)",
+  "description": "The Bosch GLM 50-27 CG Professional Laser Measure offers a highly durable design which defies rough conditions while enabling fast documentation and ease of use. Perfect for demanding jobsites, its IP65 protection-certified design features a shock-absorbing housing and resists 1.5-metre drops even on hard concrete. Its green laser spot appears more visible compared to red laser, it is especially qualified for long-distance measurements in bright indoor conditions. Thanks to quick data transfer via Bluetooth® connectivity and Bosch’s MeasureOn App, documentation of measuring results has never been easier. Intuitive handling is ensured by its smart user interface with many helpful features such as a high-end colour display and a handy help function. Ideal for documentation, calculating material needs, room and wall areas, and placing plus fitting elements, it is the unbeatable choice for architects, electricians, and many other professions.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLM 50-27 CG Professional Laser Measure",
+  "specifications": [
+    "Measurement Range: 0.05-50.00m.",
+    "Measurement Accuracy: ±1.5mm.",
+    "Units of Measurement: m/cm/mm/ft/inch/ft-inch.",
+    "Measurement Range of Incline Measurement: 0-360° (4 x 90°).",
+    "Measurement Accuracy: ±0.2°*",
+    "Laser Diode: 515 nm, < 1 mW.",
+    "Laser Class: 2.",
+    "Memory Capacity (Values): 30.",
+    "Power Supply: 2 x AA 1.5V LR6 Batteries (supplied).",
+    "Dust and Splash Protection: IP65.",
+    "Tripod Thread: 1/4in.",
+    "Weight: 0.2kg."
+  ],
+  "product_category": "Measuring Tools"
+}
+
+<|https://www.mydiy.ie/products/bosch-gwm-32-professional-measuring-wheel.html|>
+## Bosch GWM 32 Professional Measuring Wheel
+
+{
+  "price": "€120.68 inc VAT (€98.11 exc.vat)",
+  "description": "The Bosch GWM 32 Professional Measuring Wheel has a lightweight aluminium construction for ease of use. Its ergonomic pistol grip and telescopic shaft comes with continuously variable height adjustment for more flexibility and comfort. The die-cast aluminium wheel is fitted with a robust rubber tread for use on any surface.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWM 32 Professional Measuring Wheel",
+  "specifications": [
+    "Wheel Diameter (Circumference): 318.5mm (1m)",
+    "Max. Measured Value: 9999.9m",
+    "Measurement Accuracy: ±1 dm/100m",
+    "Weight: 1.4kg"
+  ],
+  "product_category": "Measuring Tools"
+}
+
+
+
+<|https://www.mydiy.ie/products/bahco-measuring-wheel-10km.html|>
+## Bahco Measuring Wheel 10km
+
+{
+  "price": "€176.47 inc VAT (€143.47 exc.vat)",
+  "description": "Easy height adjusting handle. Rubber coated measuring wheel. Simple measuring of distances up to 9999.9m. Convenient fold down kickstand for when not in use. Quick push button reset.",
+  "availability": "In Stock",
+  "product_name": "Bahco Measuring Wheel 10km",
+  "specifications": [
+    "BAHMW250 : €176.47",
+    "Easy height adjusting handle",
+    "Rubber coated measuring wheel",
+    "Simple measuring of distances up to 9999.9m",
+    "Convenient fold down kickstand for when not in use",
+    "Quick push button reset"
+  ],
+  "product_category": "Measuring Tools"
+}
+

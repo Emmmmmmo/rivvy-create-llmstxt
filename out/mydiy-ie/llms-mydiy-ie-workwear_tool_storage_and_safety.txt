@@ -1,0 +1,973 @@
+<|https://www.mydiy.ie/products/abus-mechanical-business-card-holder.html|>
+## ABUS Mechanical Business Card Holder
+
+{
+  "price": "€12.67 inc VAT (€10.30 exc.vat)",
+  "description": "The ABUS Business Card Holder is attached to the front of the safety helmet in a specially designed slot. Attached there, it enables quick identification on the construction site or in the factory. The business card holder, which also protects the user ID card from rain, is ideal for increased security and efficient communication in everyday working life. Compatible with all safety helmets from ABUS; SPECTOR, SPECTOR-E, SCATOR or SCATOR-E.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical Business Card Holder",
+  "specifications": [
+    "ABU94864 : €12.67",
+    "Compatible with all safety helmets from ABUS; SPECTOR, SPECTOR-E, SCATOR or SCATOR-E."
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-safety-helmet-bag.html|>
+## ABUS Mechanical Safety Helmet Bag
+
+{
+  "price": "€5.63 inc VAT (€4.58 exc.vat)",
+  "description": "ABUS Safety Helmet Bag for transporting and storing your helmet. Ensures that your safety helmet remains undamaged on the way to work or after work. The soft inner fleece of the bag offers your helmet extra gentle protection to keep it in perfect condition at all times. By using our helmet protection bag, you actively contribute to the long life of your helmet and ensure that it will protect you reliably for a long time.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical Safety Helmet Bag",
+  "specifications": [
+    "Model: ABU38538",
+    "Price: €5.63",
+    "Material: Soft inner fleece for protection"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-scator-e-non-vented-safety-helmet.html|>
+## ABUS Mechanical SCATOR-E Non-vented Safety Helmet
+
+{
+  "price": "€28.79 inc VAT",
+  "description": "The ABUS SCATOR-E Non-vented Safety Helmet offers reliable head protection and is perfectly tailored to working on low-voltage systems or in the construction industry. It protects you from direct voltage up to 1,500 volts (DC) and alternating voltage up to 1,000 volts (AC) because the fully enclosed ABS shell prevents electrical currents from being passed on. This safety helmet is also suitable as a construction or industrial helmet for work in non-electrified hazardous areas. Equipped with a 6-point textile suspension harness for the perfect fit. PowerTriangle technology acts like a spring suspension absorbs part of the impact energy and thus reduces the energy transferred to the wearer's head. To prevent the helmet from wobbling and slipping, it has an angled neck strap. An adjustment wheel is integrated on this for individual size adjustment. There is also a choice of three different steps to adjust the height of the safety helmet to suit different head sizes. The helmet is fitted with a short peak so as not to impair visibility during work. It also features a headlamp holder, slots for visors and face protection, as well as the 30mm Euroslot for ear protection. Meaning it can be fitted with the appropriate accessories depending on the area of application.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SCATOR-E Non-vented Safety Helmet",
+  "specifications": [
+    "Standard: EN 397:2012 + A1:2012",
+    "Head Size: 53-63cm",
+    "Weight: 382g"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-visor-adaptor-for-scatorscator-e-helmets.html|>
+## ABUS Mechanical Visor Adaptor for SCATOR/SCATOR-E Helmets
+
+{
+  "price": "€12.67 inc VAT (€10.30 exc.vat)",
+  "description": "1 x ABUS Visor Adaptor for SCATOR/SCATOR-E Helmets",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical Visor Adaptor for SCATOR/SCATOR-E Helmets",
+  "specifications": [
+    "Visor Adaptor for SCATOR/SCATOR-E Helmets",
+    "ABU94867 : €12.67"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-visor-adaptor-for-spectorspector-e-helmets.html|>
+## ABUS Mechanical Visor Adaptor for SPECTOR/SPECTOR-E Helmets
+
+{
+  "price": "€12.67 inc VAT (€10.30 exc.vat)",
+  "description": "ABUS Visor Adaptor for SPECTOR/SPECTOR-E Helmets. These are already included in the scope of delivery of our accessories and DO NOT need to be ordered separately, but are available as spare parts.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical Visor Adaptor for SPECTOR/SPECTOR-E Helmets",
+  "specifications": [
+    "ABU41453 : €12.67",
+    "QtyAdd to Basket"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/apache-apkht-two-black-holster-trousers.html|>
+## Apache APKHT TWO Black Holster Trousers
+
+{
+  "price": "€59.85 inc VAT",
+  "description": "The Apache APKHT TWO Black Holster Trousers are an upgrade on the old reliable APKHT style. With the same great qualities, the trouser has just been modernised for additional comfort. Made from a 64% polyester, 33% cotton and 3% elastane, stretch fabric with a stretch yoke and gusset. This is to give you greater ease of movement for when you are on site all day. Double layer material on the thigh increases garment durability. It also features durable cordura branded knee pad pockets, hem and holster pockets. The elasticated waist allows the trouser to move with you. The fit has been slimmed down very slightly taking you to a regular fit.",
+  "availability": "In Stock",
+  "product_name": "Apache APKHT TWO Black Holster Trousers",
+  "specifications": [
+    "Material Composition: 64% Polyester, 33% Cotton & 3% elastane",
+    "Material Weight: 280 GSM"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/apache-ats-waterproof-padded-jacket.html|>
+## Apache ATS Waterproof Padded Jacket
+
+{
+  "price": "€83.43 inc VAT",
+  "description": "The Apache ATS Waterproof Jacket is padded providing a good degree of warmth on a cold day. All seams are sealed to avoid water ingress. Fitted with a removeable, integral storm hood with draw cord feature. The jacket features hard wearing extra panels to the shoulders and lower arms and secure elasticated cuffs. With two large side pockets and an internal zipped pocket. Reflective piping to front of jacket for added safety. Embroidery access is via a large zip to bottom back of jacket.",
+  "availability": "In Stock",
+  "product_name": "Apache ATS Waterproof Padded Jacket",
+  "specifications": [
+    "Available Sizes: Large (46in), M (42in), XL (48in), XXL (52in)",
+    "Padded for warmth",
+    "Sealed seams to avoid water ingress",
+    "Removable storm hood with draw cord",
+    "Hard wearing extra panels on shoulders and lower arms",
+    "Secure elasticated cuffs",
+    "Two large side pockets and an internal zipped pocket",
+    "Reflective piping for added safety",
+    "Embroidery access via a large zip at the back"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/apache-black--grey-hooded-sweatshirts.html|>
+## Apache Black / Grey Hooded Sweatshirts
+
+{
+  "price": "€58.34 inc VAT",
+  "description": "Apache black/grey lightweight hooded sweatshirts are made from a soft, warm, but hardwearing material for protection against all work site conditions. Apache Workwear a range of durable high-quality workwear at competitive prices from the manufacturers of Apache Safetywear the choice of DIY and professionals in heavy industry, construction and specialist sectors.",
+  "availability": "In Stock",
+  "product_name": "Apache Black / Grey Hooded Sweatshirts",
+  "specifications": [
+    "Select Option: LMXL",
+    "Soft, warm, and hardwearing material",
+    "Suitable for work site conditions",
+    "Durable high-quality workwear"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/apache-watson-4-way-stretch-joggers.html|>
+## Apache Watson 4 Way Stretch Joggers
+
+{
+  "price": "€46.05 inc VAT",
+  "description": "Apache Watson Joggers have a modern slim fit with a 4 way stretch main fabric. Knitted hem, cuffs and elasticated waist with drawstring ensure a secure fit. There are two zipped side pockets, back pocket and a floating cargo pocket with zipped internal pocket. The knees are reinforced with a hard wearing polyester fabric.",
+  "availability": "In Stock",
+  "product_name": "Apache Watson 4 Way Stretch Joggers",
+  "specifications": [
+    "Material Composition: 92% Polyester & 8% Spandex."
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/bahco-electricians-heavy-duty-backpack.html|>
+## Bahco Electrician's Heavy-Duty Backpack
+
+{
+  "price": "€174.94 inc VAT (€142.23 exc.vat)",
+  "description": "The Bahco Electrician's Heavy-Duty Backpack with an extra-large storage capacity, multiple inside and outside pockets, and a special compartment on the back, ideal for a laptop, has been designed for safe and comfortable transport of a variety of tools. Made of 1680D+600D polyester with a fully waterproof and anti-slip, hard plastic base. Other features include metal zips and 3 different handles for easy carrying. Load Capacity: 20kg",
+  "availability": "In Stock",
+  "product_name": "Bahco Electrician's Heavy-Duty Backpack",
+  "specifications": [
+    "Extra-large storage capacity",
+    "Multiple inside and outside pockets",
+    "Special compartment for laptop",
+    "Made of 1680D+600D polyester",
+    "Fully waterproof and anti-slip hard plastic base",
+    "Metal zips",
+    "3 different handles for easy carrying",
+    "Load capacity: 20kg"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/bahco-foldable-workbench.html|>
+## Bahco Foldable Workbench
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "Foldable Workbench",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Foldable Workbench",
+  "specifications": [
+    "Model: BAH9062WB100",
+    "List Price: €62.69",
+    "You save: €12.70"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-folding-sawhorse---pair.html|>
+## Faithfull Folding Sawhorse - Pair
+
+{
+  "price": "€96.09 inc VAT (€78.12 exc.vat)",
+  "description": "The Faithfull Folding Sawhorse is expertly crafted from high-grade steel, ensuring exceptional strength and durability while remaining lightweight for easy portability. Designed to meet the demands of both professional and DIY enthusiasts, offering a perfect blend of functionality and convenience. The anti-slip work surface ensures extra stability and better support for all workpieces. The fast-open mechanism allows for straightforward and simple setup, saving you time and effort. Additional features include two support arms, an easy-to-fold design and a material support on each leg. The foldable design and built-in carrying handle make storage and transport a breeze. Supplied with two removable brackets that are used to secure lengths of wood between the pair, either for working on or to create a stable workbench. Open Dimensions (H x L x W): 757 x 1055 x 593mm. Folded Dimensions (H x L x W): 115 x 950 x 70mm. Max. load Capacity: 1000kg per pair.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Folding Sawhorse - Pair",
+  "specifications": [
+    "Open Dimensions (H x L x W): 757 x 1055 x 593mm",
+    "Folded Dimensions (H x L x W): 115 x 950 x 70mm",
+    "Max. load Capacity: 1000kg per pair"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-braces-50mm-wide---blue.html|>
+## Faithfull Heavy-Duty Braces 50mm Wide - Blue
+
+{
+  "price": "€20.96 inc VAT (€17.04 exc.vat)",
+  "description": "A pair of industrial style braces, fully adjustable to fit all sizes. Manufactured from a 50mm wide top quality elastic material and fitted with heavy-duty fastening clips, these braces also feature a leather cross patch and nylon stitching for durability. These comfortable to wear, superior strength braces support and distribute weight evenly and provide total support.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Heavy-Duty Braces 50mm Wide - Blue",
+  "specifications": [
+    "50mm wide top quality elastic material",
+    "Heavy-duty fastening clips",
+    "Leather cross patch",
+    "Nylon stitching for durability",
+    "Fully adjustable to fit all sizes"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-leather-belt-45mm-wide.html|>
+## Faithfull Heavy-Duty Leather Belt 45mm Wide
+
+{
+  "price": "€21.13 inc VAT (€17.18 exc.vat)",
+  "description": "The Faithfull Leather belt 45mm (1.3/4in) wide with a strong buckle. Adjustable sturdy leather belt, suitable for waist sizes 34inch - 44inch.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Heavy-Duty Leather Belt 45mm Wide",
+  "specifications": [
+    "Width: 45mm (1.3/4in)",
+    "Adjustable for waist sizes 34inch - 44inch",
+    "Strong buckle"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-leather-belt.html|>
+## Faithfull Heavy-Duty Leather Belt
+
+{
+  "price": "€21.13 inc VAT (€17.18 exc.vat)",
+  "description": "Faithfull Heavy-Duty Leather Belt with a sturdy metal buckle. Designed with adjustability in mind, it's perfect for waist sizes ranging from 34 to 44 inches.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Heavy-Duty Leather Belt",
+  "specifications": [
+    "Width: 45mm (1.3/4in)"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-light-padded-waist-belt-2100d-nylon.html|>
+## Faithfull Light Padded Waist Belt 2100D Nylon
+
+{
+  "price": "€17.16 inc VAT (€13.95 exc.vat)",
+  "description": "The Faithfull Waist Belt is made from durable 2100 denier nylon, this belt is padded to offer comfort and support. It will fit sizes from 30-40inch and has a quick release buckle. Compatible with FAIFPN, FAIEPN, FAIFAPN and FAIHHN.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Light Padded Waist Belt 2100D Nylon",
+  "specifications": [
+    "Material: 2100 denier nylon",
+    "Size: Fits 30-40 inch waist",
+    "Quick release buckle",
+    "Compatible with FAIFPN, FAIEPN, FAIFAPN and FAIHHN"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/batavia-multi-function-work-benchsupport.html|>
+## Batavia Multi-Function Work Bench/Support
+
+{
+  "price": "€141.56 inc VAT (€115.09 exc.vat)",
+  "description": "The Batavia Multi-Function Work Bench/Support is very practical and sturdy with a table top which offers 4 different functions. The solid table top lets you use it as a conventional work trestle/support. It offers ball support for flexible movement of items, e.g. during band sawing where angles change. The roller support can be used as an extension for sawing tables and the V-support allows centring of round material. The height is easily adjusted up to 127.5cm and it can cope with a weight of up to 200kg (solid support). The wide rubber feet provide extra stability.",
+  "availability": "In Stock",
+  "product_name": "Batavia Multi-Function Work Bench/Support",
+  "specifications": [
+    "Max. Capacity: Solid Support 200kg",
+    "Ball or Roller Support 100kg",
+    "V-Support: 45kg",
+    "Dimensions: 670 x 750 x 780-1270mm"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/black-and-decker-wm301-workmate-bench.html|>
+## Black & Decker WM301 Workmate Bench
+
+{
+  "price": "€51.00 inc VAT (€41.46 exc.vat)",
+  "description": "The Black & Decker WM301 Workmate Bench has a durable steel frame construction and folds flat for compact storage and easy transport. The dual clamping cranks increase the clamping force and offers versatility with the adjustable swivel pegs and jaw retention grooves provide clamping versatility and reliable material hold. It has been designed for easy set-up and clean-up with rubber feet which are anti-slip. Ideal for: holds virtually anything, bench tool stand, vice for cutting, painting, etc., workbench and as a sawhorse.",
+  "availability": "Out of Stock",
+  "product_name": "Black & Decker WM301 Workmate Bench",
+  "specifications": [
+    "Vice Jaw Material: Compressed Bamboo",
+    "Vice Jaw Opening: 0 - 115mm",
+    "Working Height: 760mm",
+    "Vice Jaw Length: 610mm",
+    "Table Width: 341mm",
+    "Max Load: 160kg"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/black-and-decker-wm536-dual-height-workmate.html|>
+## Black & Decker WM536 Dual Height Workmate
+
+{
+  "price": "€101.98 inc VAT (€82.91 exc.vat)",
+  "description": "The Black & Decker WM536 Dual Height Workmate can be used as a workbench, bench tool stand, vice, or saw horse. It has two working heights and a fixed position vice jaw. The working top is made from particle board and is supplied with adjustable pegs which enable it to hold irregular shaped objects. With rubber anti-slip feet. Folds flat for compact storage and easy transport.",
+  "availability": "Out of Stock",
+  "product_name": "Black & Decker WM536 Dual Height Workmate",
+  "specifications": [
+    "Vice Jaw Opening: 0 - 136mm",
+    "Working Height: 775/595mm",
+    "Vice Jaw Length: 610mm",
+    "Table Width: 384mm",
+    "Max Load: 250kg"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/bluespot-tools-disposable-coverall.html|>
+## BlueSpot Tools Disposable Coverall
+
+{
+  "price": "€4.86 inc VAT",
+  "description": "The BlueSpot Tools Disposable Coverall protects against dirt and non hazardous dust and liquids. Features an elasticated hood, ankles, cuffs and zip for ease and comfort. To be disposed of after use.",
+  "availability": "In Stock",
+  "product_name": "BlueSpot Tools Disposable Coverall",
+  "specifications": [
+    "Large (170-178cm)",
+    "XL (178-185cm)"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-tryon-safety-glasses---blue-flash.html|>
+## Bolle Safety Tryon Safety Glasses - Blue Flash
+
+{
+  "price": "€24.96 inc VAT (€20.29 exc.vat)",
+  "description": "The Bolle Safety TRYON Safety Glasses have a modern wrap-around frame design with excellent fitting, to provide both protection and comfort. They provide a panoramic visual field. With co-injected PC/TPR FLEX 160° temples, adjustable and non-slip bridge. These Bolle TRYON Safety Glasses have Blue Flash lenses. This is an innovative coating that reflects heat. Ideal for outside use in full sunshine.",
+  "availability": "In Stock",
+  "product_name": "Bolle Safety Tryon Safety Glasses - Blue Flash",
+  "specifications": [
+    "Lens Type: Blue Flash",
+    "Lens Conforms to: CE 5-3,1 1 FT",
+    "Frame Conforms to: EN166 FT"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/bosch-ghh-1218v-xa-professional-heated-vest.html|>
+## Bosch GHH 12+18V XA Professional Heated Vest
+
+{
+  "price": "€225.19 inc VAT",
+  "description": "The Bosch GHH 12+18V XA Professional Heated Vest provides consistent body core warmth whilst maintaining maximum freedom of movement. Three-zone heating and three heat levels provide perfect heat distribution and long-lasting warmth to keep the body core warm, no matter the conditions. For added convenience, USB-powered devices are easily charged via the battery adaptor’s integrated port. Powered by the GAA 12V-21 charging adaptor (supplied) and 12V battery from Bosch (NOT supplied). Or, optionally, by the GAA 18V-48 charging adaptor and 18V battery from Bosch (NOT supplied).",
+  "availability": "In Stock",
+  "product_name": "Bosch GHH 12+18V XA Professional Heated Vest",
+  "specifications": [
+    "Fabric Blend: Outer Fabric 95% Polyester, 5% Spandex, Lining 100% Polyester",
+    "Fabric Construction: Softshell, Triple Layer"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/bosch-professional-proclick-tool-belt.html|>
+## Bosch Professional ProClick Tool Belt
+
+{
+  "price": "€45.55 inc VAT",
+  "description": "The Bosch Professional ProClick Tool Belt is made from lightweight 1000D polyester. Its padded belt design ensures a high level of comfort. D-rings allow the use of shoulder straps for more flexibility. The application-oriented design of the tool belt enables the attachment of all ProClick Holders and belt pouches. The Bosch Professional ProClick system enables the easy connecting, changing, and adjusting of ProClick belt pouches without removal of the belt.",
+  "availability": "In Stock",
+  "product_name": "Bosch Professional ProClick Tool Belt",
+  "specifications": [
+    "Made from lightweight 1000D polyester",
+    "Padded belt design for comfort",
+    "D-rings for shoulder strap attachment",
+    "Compatible with ProClick Holders and belt pouches",
+    "Easy connecting and adjusting of ProClick pouches"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-1-pair-of-pu-comfort-insoles.html|>
+## DEWALT 1 Pair of PU Comfort Insoles
+
+{
+  "price": "€14.59 inc VAT (€11.86 exc.vat)",
+  "description": "The DEWALT PU Comfort Insoles are universal cut to fit size, up to a UK Size 12. They feature a moisture wicking system and are anti-bacterial to reduce odour. They have a perforated design for breathability and offer a high degree of cushion comfort including arch support. Suitable replacement for all DEWALT safety footwear, up to a UK Size 12.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT 1 Pair of PU Comfort Insoles",
+  "specifications": [
+    "Universal cut to fit size, up to UK Size 12",
+    "Moisture wicking system",
+    "Anti-bacterial to reduce odour",
+    "Perforated design for breathability",
+    "High degree of cushion comfort including arch support"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-albany-slim-fit-trousers.html|>
+## DEWALT Albany Slim Fit Trousers
+
+{
+  "price": "€72.15 inc VAT",
+  "description": "DEWALT Albany Slim Fit Trousers are constructed from Rip Stop, Pro-Stretch fabric which moves with your body, allowing you to work comfortably and efficiently. The slim fit design gives you a sleek, professional look. They feature multiple pockets to store your tools and accessories, including two upper front pockets, one cargo side pocket and one ruler pocket. They also have a YKK fly zipper for durability.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Albany Slim Fit Trousers",
+  "specifications": [
+    "Material Composition: 64% Polyester, 33% Cotton & 3% Elastane",
+    "Material Weight: 200 GMS"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-apprentice-nubuck-sports-boots.html|>
+## DEWALT Apprentice Nubuck Sports Boots
+
+{
+  "price": "€146.84 inc VAT",
+  "description": "DEWALT Apprentice Sports Boots are lightweight hiker boots and have Nubuck and full grain leather uppers which are hardwearing with anti-bacterial insole with dual density seat. They are fitted with a steel toecap that has been tested to 200 Joules. The sole is chemical and oil resistant and is made from EVA rubber, so it is heat-resistant to 300°C. EN Test: CE EN ISO 20345. Safety rating: SB. Slip rating: SRA. Available in Wheat or Brown.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Apprentice Nubuck Sports Boots",
+  "specifications": [
+    "Lightweight hiker boots",
+    "Nubuck and full grain leather uppers",
+    "Anti-bacterial insole with dual density seat",
+    "Steel toecap tested to 200 Joules",
+    "Chemical and oil resistant sole made from EVA rubber",
+    "Heat-resistant to 300°C",
+    "Safety rating: SB",
+    "Slip rating: SRA",
+    "Available in Wheat or Brown"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-challenger-3-sympatex-boot.html|>
+## DEWALT Challenger 3 Sympatex Boot
+
+{
+  "price": "€201.14 inc VAT",
+  "description": "The DEWALT Challenger 3 Sympatex Waterproof Hiker Boots have a full grain nubuck leather upper with a Sympatex waterproof and breathable membrane. The TPU sole is resistant to petrol, chemical’s, oil and temperatures up to 120°C. The sole is anti-static for increased user protection. The boots have a lightweight and flexible design with shock absorption and a steel toe cap that offers protection of up to 200 joules. There is also a steel mid sole for underfoot protection and a dual density anti-bacterial insole. EN Test: CE EN ISO 20345. Safety Rating: S3. Slip Rating: N/A. Available in Black or Brown.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Challenger 3 Sympatex Boot",
+  "specifications": [
+    "Full grain nubuck leather upper",
+    "Sympatex waterproof and breathable membrane",
+    "TPU sole resistant to petrol, chemicals, and oil",
+    "Temperature resistance up to 120°C",
+    "Anti-static sole",
+    "Lightweight and flexible design",
+    "Shock absorption",
+    "Steel toe cap protection up to 200 joules",
+    "Steel mid sole for underfoot protection",
+    "Dual density anti-bacterial insole",
+    "Safety Rating: S3",
+    "Available in Black or Brown"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-cheverley-lightweight-grey-polycotton-shorts.html|>
+## DEWALT Cheverley Lightweight Grey Polycotton Shorts
+
+{
+  "price": "€52.45 inc VAT",
+  "description": "The DEWALT Cheverley Shorts have a durable, rip-stop fabric base, double folded hem and double stitched seams for increased durability and wear. Fitted with a zip fly and top button. It features a variety or re-enforced holster, cargo and back pockets. There is also several holster style pockets, enabling you to keep in use tools close to hand. Material Composition: 65% Polyester, 35% Rip-Stop Cotton.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Cheverley Lightweight Grey Polycotton Shorts",
+  "specifications": [
+    "Material Composition: 65% Polyester, 35% Rip-Stop Cotton",
+    "Durable, rip-stop fabric base",
+    "Double folded hem and double stitched seams",
+    "Fitted with a zip fly and top button",
+    "Re-enforced holster, cargo and back pockets",
+    "Holster style pockets for tool accessibility"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-contractor-pro-safety-glasses.html|>
+## DEWALT Contractor Pro Safety Glasses
+
+{
+  "price": "from €4.01 inc VAT",
+  "description": "DEWALT Contractor Pro safety glasses are lightweight and have polycarbonate anti-scratch lenses. They have low energy impact resistance. Conform to EN1661F standards.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Contractor Pro Safety Glasses",
+  "specifications": [
+    "Lightweight design",
+    "Polycarbonate anti-scratch lenses",
+    "Low energy impact resistance",
+    "Conform to EN1661F standards"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-cutter-lightweight-safety-trainers.html|>
+## DEWALT Cutter Lightweight Safety Trainers
+
+{
+  "price": "from €99.99 inc VAT",
+  "description": "DEWALT Cutter Lightweight Safety Trainer have a synthetic PU//Mesh upper and an anti-bacterial insole.EVA/Rubber dual density outsole with a steel midsole and steel toecap. Safety rating: S1P. Slip rating: SRA.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Cutter Lightweight Safety Trainers",
+  "specifications": [
+    "Synthetic PU//Mesh upper",
+    "Anti-bacterial insole",
+    "EVA/Rubber dual density outsole",
+    "Steel midsole",
+    "Steel toecap",
+    "Safety rating: S1P",
+    "Slip rating: SRA"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-darlington-safety-trainers.html|>
+## DEWALT Darlington Safety Trainers
+
+{
+  "price": "€112.77 inc VAT",
+  "description": "The DEWALT Darlington Trainers have a lightweight synthetic upper with a padded collar and tongue for all-day wearer comfort. The product has a removable comfort footbed and the outsole is made from EVA and rubber, as used in sports technology footwear. They are fitted with a steel toecap that has been tested to 200 joules and an anti-scuff toecap for protection when kneeling and working. EN Test: CE EN ISO 20345-2011 Safety Rating: SB Slip Rating: SRA",
+  "availability": "In Stock",
+  "product_name": "DEWALT Darlington Safety Trainers",
+  "specifications": [
+    "Lightweight synthetic upper",
+    "Padded collar and tongue",
+    "Removable comfort footbed",
+    "EVA and rubber outsole",
+    "Steel toecap tested to 200 joules",
+    "Anti-scuff toecap",
+    "Safety Rating: SB",
+    "Slip Rating: SRA"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwst1-75661-full-leather-belt.html|>
+## DEWALT DWST1-75661 Full Leather Belt
+
+{
+  "price": "€67.98 inc VAT (€55.27 exc.vat)",
+  "description": "The DEWALT DWST1-75661 Full Leather Belt is fully adjustable to suit all waist sizes and the 2-pin belt buckle ensures the belt is tightly secured and can carry heavy loads.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWST1-75661 Full Leather Belt",
+  "specifications": [
+    "Fully adjustable to suit all waist sizes",
+    "2-pin belt buckle for secure fit",
+    "Can carry heavy loads"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-force-lightweight-padded-gilet.html|>
+## DEWALT Force Lightweight Padded Gilet
+
+{
+  "price": "€61.46 inc VAT",
+  "description": "The DEWALT Force Gilet is suitable to wear as an under or over layer garment. It features a lightweight padding that has a shower resistant nylon outer and a polyester/taffeta inner lining. Comfort stretch side panels and lowered back with centre zip fastening. With two hand pockets to lower front and a zipped breast pocket. It also has a reflective DEWALT logo on the chest and rear neck.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Force Lightweight Padded Gilet",
+  "specifications": [
+    "Material Composition: Nylon Outer & Polyester/Taffeta Inner",
+    "Available in Sizes Medium - XXLarge"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-hamden-holster-pocket-shorts.html|>
+## DeWALT Hamden Holster Pocket Shorts
+
+{
+  "price": "€63.22 inc VAT",
+  "description": "The DEWALT Hamden Holster Pocket Shorts are made from 92% nylon and 8% elastane for maximum comfort and durability. They have twin holster pockets, a lined mobile phone pocket and twin rear pockets.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hamden Holster Pocket Shorts",
+  "specifications": [
+    "92% nylon and 8% elastane",
+    "Twin holster pockets",
+    "Lined mobile phone pocket",
+    "Twin rear pockets"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-hammer-non-metallic-work-boots.html|>
+## DEWALT Hammer Non Metallic Work Boots
+
+{
+  "price": "€149.90 inc VAT",
+  "description": "The DEWALT Hammer safety boots are lightweight and non metallic with a brown Nubuck upper and anti-bacterial insole with dual density seat region for shock absorption. Have a 200 Joule composite toecap and composite midsole for underfoot protection. The EVA rubber sole resistant to 300ºC, and is chemical and oil resitant. The sole is also anti-static. EN Test: CE EN ISO 20345. Safety Rating: S1P. Slip Rating: SRA.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Hammer Non Metallic Work Boots",
+  "specifications": [
+    "Lightweight and non-metallic",
+    "Brown Nubuck upper",
+    "Anti-bacterial insole",
+    "Dual density seat region for shock absorption",
+    "200 Joule composite toecap",
+    "Composite midsole for underfoot protection",
+    "EVA rubber sole resistant to 300ºC",
+    "Chemical and oil resistant",
+    "Anti-static",
+    "EN Test: CE EN ISO 20345",
+    "Safety Rating: S1P",
+    "Slip Rating: SRA"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-harrison-pro-stretch-trousers.html|>
+## DeWALT Harrison Pro Stretch Trousers
+
+{
+  "price": "€80.61 inc VAT",
+  "description": "DEWALT Harrison Pro Stretch Trousers with holster pockets. These slimmer-fit trousers have 4 stretch inserts in key areas for flexibility and comfort. Cordura® reinforced knee pads and lower hems provide increased durability.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Harrison Pro Stretch Trousers",
+  "specifications": [
+    "Slimmer-fit trousers",
+    "4 stretch inserts for flexibility",
+    "Cordura® reinforced knee pads",
+    "Durable lower hems"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-indianapolis-grey-knitted-beanie-hat.html|>
+## DEWALT Indianapolis Grey Knitted Beanie Hat
+
+{
+  "price": "€15.94 inc VAT (€12.96 exc.vat)",
+  "description": "The DEWALT Indianapolis classic Knitted Beanie for cold weather working. A stretch base ribbed hem ensures a good fit. Includes DEWALT woven badge detail to front.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Indianapolis Grey Knitted Beanie Hat",
+  "specifications": [
+    "Material Composition: 100% Acrylic.",
+    "Material Weight: 950 GMS."
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-jonesborough-mid-layer-fleece.html|>
+## DeWALT Jonesborough Mid-Layer Fleece
+
+{
+  "price": "€54.13 inc VAT",
+  "description": "The DEWALT Jonesborough 1/4in Zip Mid-Layer Fleece is made from stretch polyester with grid fleece backing. With a tonal cover stitch construction. It also features a funnel neck collar and Pro Stretch logo.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Jonesborough Mid-Layer Fleece",
+  "specifications": [
+    "Made from stretch polyester",
+    "Grid fleece backing",
+    "Tonal cover stitch construction",
+    "Funnel neck collar",
+    "Pro Stretch logo"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-lamar-lightweight-safety-trainers.html|>
+## DEWALT Lamar Lightweight Safety Trainers
+
+{
+  "price": "from €89.99 inc VAT",
+  "description": "DEWALT Lamar Lightweight Safety Trainers – Steel Toe & Composite Midsole Protection. The DEWALT Lamar Safety Trainer is designed for comfort, durability, and protection while maintaining a lightweight, sporty style. Built with a synthetic upper, these trainers provide the toughness you need on-site without compromising on comfort. Featuring steel toe protection and a composite underfoot midsole, the Lamar offers reliable safety against impact and penetration hazards. The lightweight phylon/rubber outsole not only enhances durability but also gives the trainer a true athletic look. A padded tongue and comfort insole ensure all-day wearability, making them ideal for tradesmen, builders, and DIY enthusiasts alike. Safety Rating: SBPS SR FO HRO (protecting against impact, penetration, fuel oil, slip resistance, and heat).",
+  "availability": "In Stock",
+  "product_name": "DEWALT Lamar Lightweight Safety Trainers",
+  "specifications": [
+    "Lightweight synthetic safety trainer",
+    "Steel toe cap for maximum protection",
+    "Composite midsole for underfoot safety",
+    "Phylon/rubber outsole with sporty design",
+    "Comfort insole and padded tongue for all-day wear",
+    "Suitable for professional trades and DIY projects",
+    "Certified to safety standard: SBPS SR FO HRO"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-laser-hiker-safety-boots.html|>
+## DEWALT Laser Hiker Safety Boots
+
+{
+  "price": "€110.69 inc VAT",
+  "description": "The DEWALT Laser Hiker style work boot with black Nubuck upper and anti-bacterial insole with dual density seat region for shock absorption. Have a 200 Joule steel toecap, with a steel midsole for underfoot protection. The TPU sole is resistant to 120ºC and is chemical and oil resistant and anti-static. EN Test: CE EN ISO 20345. Safety rating: S1P.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Laser Hiker Safety Boots",
+  "specifications": [
+    "Size options: 6 (39), 7 (41), 8 (42), 9 (43), 10 (44), 11 (46), 12 (47)",
+    "200 Joule steel toecap",
+    "Steel midsole for underfoot protection",
+    "TPU sole resistant to 120ºC",
+    "Chemical and oil resistant",
+    "Anti-static",
+    "Safety rating: S1P"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-millington-s3-waterproof-rigger-boots.html|>
+## DEWALT Millington S3 Waterproof Rigger Boots
+
+{
+  "price": "€173.68 inc VAT",
+  "description": "The DEWALT Millington Rigger Boots are completely non-metallic. They have a waterproof, breathable inner lining that helps to eliminate water ingress. A composite toecap and midsole provide increased user protection. The outsole is manufactured using a dual density formula of PU and rubber, giving heat resistance to 300°C. This boot also incorporates an anti-scuff toe guard. Safety Rating: S3WR HRO Slip Rating: SRC",
+  "availability": "In Stock",
+  "product_name": "DEWALT Millington S3 Waterproof Rigger Boots",
+  "specifications": [
+    "Non-metallic",
+    "Waterproof and breathable inner lining",
+    "Composite toecap and midsole",
+    "Heat resistant outsole up to 300°C",
+    "Anti-scuff toe guard",
+    "Safety Rating: S3WR HRO",
+    "Slip Rating: SRC"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-newark-s3-waterproof-safety-hiker-boots.html|>
+## DEWALT Newark S3 Waterproof Safety Hiker Boots
+
+{
+  "price": "€143.86 inc VAT",
+  "description": "The DEWALT Newark Waterproof Safety Hiker Boots have a full grain leather upper with a Samsung waterproof and breathable membrane and a PU comfort insole. The TPU sole is resistant to petrol, chemical’s, oil and temperatures up to 120°C. It also features an anti-Scuff toe guard. The sole is anti-static for increased user protection. The boots have a lightweight and flexible design with shock absorption and a steel toe cap that offers protection of up to 200 joules. There is also a steel mid sole for underfoot protection. EN Test: CE EN ISO 20345. Safety Rating: S3. Slip Rating: N/A. Available in Black or Brown.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Newark S3 Waterproof Safety Hiker Boots",
+  "specifications": [
+    "Full grain leather upper",
+    "Samsung waterproof and breathable membrane",
+    "PU comfort insole",
+    "TPU sole resistant to petrol, chemicals, oil, and temperatures up to 120°C",
+    "Anti-Scuff toe guard",
+    "Anti-static sole",
+    "Lightweight and flexible design",
+    "Shock absorption",
+    "Steel toe cap protection up to 200 joules",
+    "Steel mid sole for underfoot protection",
+    "Safety Rating: S3",
+    "EN Test: CE EN ISO 20345"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-polyestercotton-150cm-boot-laces-in-dispenser-60-pairs.html|>
+## DEWALT Polyester/Cotton 150cm Boot Laces In Dispenser (60 Pairs)
+
+{
+  "price": "€193.84 inc VAT (€157.59 exc.vat)",
+  "description": "The DEWALT Polyester/Cotton 150cm Boot Laces are a suitable replacement for use with all DEWALT safety footwear. Supplied in a dispenser with 60 pairs of laces.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Polyester/Cotton 150cm Boot Laces In Dispenser (60 Pairs)",
+  "specifications": [
+    "Polyester/Cotton Boot Laces 150cm",
+    "Supplied in a dispenser with 60 pairs"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/dewalt-polyestercotton-boot-laces-150cm-1-pair.html|>
+## DEWALT Polyester/Cotton Boot Laces 150cm (1 Pair)
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "The DEWALT Polyester/Cotton 150cm Boot Laces are a suitable replacement for use with all DEWALT safety footwear.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Polyester/Cotton Boot Laces 150cm (1 Pair)",
+  "specifications": [
+    "Length: 150cm",
+    "Material: Polyester/Cotton",
+    "Suitable for all DEWALT safety footwear"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/talatools-general-purpose-knee-pads.html|>
+## TALAtools General Purpose Knee Pads
+
+{
+  "price": "€19.66 inc VAT (€15.98 exc.vat)",
+  "description": "Grooved cap design helps prevent abrasion, Durable knee protection, Ergonomic design, Comfortable elastic straps with easy on, easy off fasteners",
+  "availability": "In Stock",
+  "product_name": "TALAtools General Purpose Knee Pads",
+  "specifications": [
+    "Grooved cap design helps prevent abrasion",
+    "Durable knee protection",
+    "Ergonomic design",
+    "Comfortable elastic straps with easy on, easy off fasteners"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/talatools-professional-gel-filled-knee-pads.html|>
+## TALAtools Professional Gel Filled Knee Pads
+
+{
+  "price": "€27.65 inc VAT (€22.48 exc.vat)",
+  "description": "Anti-compression air injected gel\nFoam core gives maximum cushioning\nPerforated neoprene lining keeps away moisture\nOne size fits all",
+  "availability": "In Stock",
+  "product_name": "TALAtools Professional Gel Filled Knee Pads",
+  "specifications": [
+    "Anti-compression air injected gel",
+    "Foam core gives maximum cushioning",
+    "Perforated neoprene lining keeps away moisture",
+    "One size fits all"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-kneeler-board-soft-insert.html|>
+## Faithfull Kneeler Board Soft Insert
+
+{
+  "price": "€30.63 inc VAT (€24.90 exc.vat)",
+  "description": "A versatile Faithfull Kneeling Board with a soft foam pad attached to a tough plastic waterproof base. Suitable for use around the home, garden, garage and worksite. The kneeler both protects and provides a comfortable surface when working in a kneeling position for prolonged periods of time. Ideal for many uses around the home and garden, when decorating, tiling and cleaning. Working surface dimensions: 450 x 345mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Kneeler Board Soft Insert",
+  "specifications": [
+    "Working surface dimensions: 450 x 345mm",
+    "Soft foam pad",
+    "Tough plastic waterproof base"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-padded-waist-belt-2100d-nylon.html|>
+## Faithfull Padded Waist Belt 2100D Nylon
+
+{
+  "price": "€34.32 inc VAT (€27.90 exc.vat)",
+  "description": "This Faithfull Padded Waist Belt is made from durable 2100 denier nylon. It has a wider padded area to offer more support and comfort and a heavy-duty metal buckle. Fits sizes 34- 42 inch. Compatible with FAIFPN, FAIEPN, FAIFAPN and FAIHHN.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Padded Waist Belt 2100D Nylon",
+  "specifications": [
+    "Material: 2100 denier nylon",
+    "Size: Fits 34-42 inch waist",
+    "Heavy-duty metal buckle",
+    "Wider padded area for support and comfort"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plastic-trestles-height-82cm-x-length-57cm-twin-pack.html|>
+## Faithfull Plastic Trestles Height 82cm x Length 57cm (Twin Pack)
+
+{
+  "price": "€46.64 inc VAT (€37.92 exc.vat)",
+  "description": "The Faithfull pair of plastic trestles that fold flat for easy storage and transportation. The top features flip-up safety pegs to secure the workpiece and rubber inserts to prevent the workpiece slipping. Non-slip rubber feet.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plastic Trestles Height 82cm x Length 57cm (Twin Pack)",
+  "specifications": [
+    "Height: 82 cm (32.1/4in)",
+    "Length: 57 cm (22.1/2in)",
+    "Maximum recommended capacity 158kg per pair."
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-saw-horse-folding-trestle-galvanised.html|>
+## Faithfull Saw Horse Folding Trestle Galvanised
+
+{
+  "price": "€54.99 inc VAT (€44.71 exc.vat)",
+  "description": "The Faithfull saw horse has a galvanised finish for rust protection and a high load bearing capacity of up to 150kg. It has a non-slip, serrated supporting surface and is made from strong, stable, angled steel profile. Folds flat for compact easy storage and guaranteed for 5 years.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Saw Horse Folding Trestle Galvanised",
+  "specifications": [
+    "Galvanised finish for rust protection",
+    "High load bearing capacity of up to 150kg",
+    "Non-slip, serrated supporting surface",
+    "Made from strong, stable, angled steel profile",
+    "Folds flat for compact easy storage",
+    "Guaranteed for 5 years"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-scaffold-level-holder-belt-fitting.html|>
+## Faithfull Scaffold Level Holder (Belt Fitting)
+
+{
+  "price": "€11.06 inc VAT (€8.99 exc.vat)",
+  "description": "This Faithfull Scaffold Level Holder conveniently fits most belts and is made from premium hide leather. It features a single pocket for securely holding your spirit level while on the job.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Scaffold Level Holder (Belt Fitting)",
+  "specifications": [
+    "Overall Size: 270 x 90mm (10.1/2 x 3.1/2in)"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-single-tool-and-nail-pouch-1.html|>
+## Faithfull Single Tool & Nail Pouch
+
+{
+  "price": "€22.67 inc VAT (€18.43 exc.vat)",
+  "description": "This Faithfull Single Tool & Nail Pouch is manufactured from high-quality suede. With double stitching and reinforced rivets at pressure points for added durability. It has 2 large pockets, 3 small pockets and a hammer loop, it provides ample room for nails and hand tools.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Single Tool & Nail Pouch",
+  "specifications": [
+    "Overall Size: 250 x 280mm (10 x 11in)"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-spares-for-faithfull-trucks.html|>
+## Faithfull Spares for Faithfull Trucks
+
+{
+  "price": "€17.99 inc VAT",
+  "description": "Faithfull Spares for Faithfull Trucks",
+  "availability": "In Stock",
+  "product_name": "Faithfull Spares for Faithfull Trucks",
+  "specifications": [
+    "Select Option: Pneumatic Wheel"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-steel-trestlesset-2-height-78cm-x-length-100cm-x-width-10cm.html|>
+## Faithfull Steel Trestles(Set 2) Height 78cm x Length 100cm x Width 10cm
+
+{
+  "price": "€78.82 inc VAT (€64.08 exc.vat)",
+  "description": "The Faithfull trestle set with slip resistant worktops and securely locking legs for improved stability. Each trestle has a safe working load of 200kg (440lbs) and folds flat for easy storage. An integral handle allows easy transportation.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Steel Trestles(Set 2) Height 78cm x Length 100cm x Width 10cm",
+  "specifications": [
+    "Height: 78cm (31in)",
+    "Length: 100cm (39in)",
+    "Width: 10cm (4in)",
+    "Safe working load: 200kg (440lbs)",
+    "Folds flat for easy storage",
+    "Sold as a pair"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tool-roll-10-pocket-leather.html|>
+## Faithfull Tool Roll 10 Pocket Leather
+
+{
+  "price": "€23.33 inc VAT (€18.97 exc.vat)",
+  "description": "Manufactured from high-quality leather, this Faithfull convenient tool roll contains ten pockets of various sizes and is ideal for storing small tools such as chisels, auger bits, screwdrivers, and spanners. It has a stud fastening system for ease of use. Note: Tools not included. Overall size: 48cm x 27cm",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tool Roll 10 Pocket Leather",
+  "specifications": [
+    "10 Pocket Leather Tool Roll",
+    "Overall size: 48cm x 27cm",
+    "Stud fastening system for ease of use"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+
+<|https://www.mydiy.ie/products/faithfull-webbing-belt---50mm-wide.html|>
+## Faithfull Webbing Belt - 50mm Wide
+
+{
+  "price": "€7.28 inc VAT (€5.92 exc.vat)",
+  "description": "This Faithfull 50mm Webbing Belt with a buckle. Adjustable for waist sizes 34-44 inch.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Webbing Belt - 50mm Wide",
+  "specifications": [
+    "50mm wide",
+    "Adjustable for waist sizes 34-44 inch"
+  ],
+  "product_category": "Workwear, Tool Storage & Safety"
+}
+

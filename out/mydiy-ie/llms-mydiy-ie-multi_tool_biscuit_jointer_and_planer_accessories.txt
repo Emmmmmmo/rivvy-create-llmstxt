@@ -1,0 +1,187 @@
+<|https://www.mydiy.ie/products/trend-biscuits.html|>
+## Trend Biscuits
+
+{
+  "price": "€13.20 inc VAT",
+  "description": "Biscuit jointing has proven to be one of the strongest, fastest, safest and most accurate ways to join hard and soft woods, plywood, composition boards etc. Compared to dowelling, biscuit joinery is faster and more precise. The biscuits are made of laminated beech which is then compressed before being die cut. Beechwood biscuits expand up to 20 per cent when in contact with a woodworking adhesive. (e.g. PVA Glue).",
+  "availability": "In Stock",
+  "product_name": "Trend Biscuits",
+  "specifications": [
+    "Select Option: BSC/0/ 100 Biscuits",
+    "BSC/10/100 Biscuits",
+    "BSC/10/1000 Biscuits",
+    "BSC/20/100 Biscuits",
+    "BSC/20/1000 Biscuits"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-biscuit-dowell-size-10-pack-1000.html|>
+## Makita Biscuit Dowell Size 10 (Pack 1000)
+
+{
+  "price": "€24.91 inc VAT (€20.25 exc.vat)",
+  "description": "Used in the joining of panels and joints in cabinet making. Size: 10. Pack of 1,000.",
+  "availability": "In Stock",
+  "product_name": "Makita Biscuit Dowell Size 10 (Pack 1000)",
+  "specifications": [
+    "Size: 10",
+    "Pack of 1,000"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-bsc01000-biscuit-no-0-1000-off.html|>
+## Bsc/0/1000 Biscuit No 0 1000 Off
+
+{
+  "price": "€65.56 inc VAT (€53.30 exc.vat)",
+  "description": "Bsc/0/1000 Biscuit No 0 1000 Off",
+  "availability": "Out of Stock",
+  "product_name": "Bsc/0/1000 Biscuit No 0 1000 Off",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-21353-plunge-cut-wood-and-metal-saw-blade-50-x-28mm.html|>
+## Makita B-21353 Plunge Cut Wood and Metal Saw Blade 50 x 28mm
+
+{
+  "price": "€32.36 inc VAT (€26.31 exc.vat)",
+  "description": "Bi-metal blade suitable for deep plunge cutting in wood, abrasive wooden materials, plastics. Also to cut-off small non-ferrous metal pipes and profiles, non-hardened nails and steel profiles with smaller dimensions.",
+  "availability": "In Stock",
+  "product_name": "Makita B-21353 Plunge Cut Wood and Metal Saw Blade 50 x 28mm",
+  "specifications": [
+    "Bi-metal blade",
+    "Suitable for deep plunge cutting in wood",
+    "Cuts small non-ferrous metal pipes",
+    "Cuts non-hardened nails and steel profiles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-49703-plasterboard-cutter-blade-pack-of-2.html|>
+## Makita B-49703 Plasterboard Cutter Blade (Pack of 2)
+
+{
+  "price": "€39.14 inc VAT (€31.82 exc.vat)",
+  "description": "Durable High Carbon Steel (HCS) construction for long life. For making precision cuts in drywall up to 29mm thick. Depth markings on blade allow for easy adjustments. Fits the Makita DSD180Z Cordless Cut-Out Saw.",
+  "availability": "In Stock",
+  "product_name": "Makita B-49703 Plasterboard Cutter Blade (Pack of 2)",
+  "specifications": [
+    "Durable High Carbon Steel (HCS) construction",
+    "Precision cuts in drywall up to 29mm thick",
+    "Depth markings on blade for easy adjustments",
+    "Fits the Makita DSD180Z Cordless Cut-Out Saw"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-49719-wood-cutter-blade-pack-of-2.html|>
+## Makita B-49719 Wood Cutter Blade (Pack of 2)
+
+{
+  "price": "€53.25 inc VAT (€43.29 exc.vat)",
+  "description": "Durable High Carbon Steel (HCS) construction for long life. For making precision cuts in wood up to 15mm thick. Depth markings on blade allow for easy adjustments. Fits the Makita DSD180Z Cordless Cut-Out Saw.",
+  "availability": "In Stock",
+  "product_name": "Makita B-49719 Wood Cutter Blade (Pack of 2)",
+  "specifications": [
+    "Durable High Carbon Steel (HCS) construction",
+    "Precision cuts in wood up to 15mm thick",
+    "Depth markings for easy adjustments",
+    "Fits Makita DSD180Z Cordless Cut-Out Saw"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-planer-blades.html|>
+## Trend Planer Blades
+
+{
+  "price": "€16.52 inc VAT",
+  "description": "Trend solid carbide planer blades fit portable electric planers and are supplied in pairs. They have two cutting edges and are reversible, giving extended life. Planer blades must be securely clamped so they cannot work loose during use.",
+  "availability": "In Stock",
+  "product_name": "Trend Planer Blades",
+  "specifications": [
+    "Solid carbide material",
+    "Reversible cutting edges",
+    "Fits portable electric planers",
+    "Supplied in pairs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-2012nb-planer-blade-306mm.html|>
+## Makita 2012NB Planer Blade 306mm
+
+{
+  "price": "€76.58 inc VAT (€62.26 exc.vat)",
+  "description": "MAK793346 : €76.58",
+  "availability": "Out of Stock",
+  "product_name": "Makita 2012NB Planer Blade 306mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee",
+    "No quibble returns"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-set-plate-82-for-mini-blade.html|>
+## Makita Set Plate 82 for Mini Blade
+
+{
+  "price": "€10.05 inc VAT (€8.17 exc.vat)",
+  "description": "For accurate blade setting. Use in conjunction with a Makita 82mm Planer.",
+  "availability": "Out of Stock",
+  "product_name": "Makita Set Plate 82 for Mini Blade",
+  "specifications": [
+    "Model: MAKA86175",
+    "Price: €10.05",
+    "Out of Stock"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tct-mini-planer-blade-82-x-55-x-12mm-pack-of-2.html|>
+## Makita TCT Mini Planer Blade 82 x 5.5 x 1.2mm Pack of 2
+
+{
+  "price": "€19.84 inc VAT (€16.13 exc.vat)",
+  "description": "Pack of 2 replacement miniTCT planer blades\n\nWidth: 5.5mm\n\nThickness: 1.2mm",
+  "availability": "In Stock",
+  "product_name": "Makita TCT Mini Planer Blade 82 x 5.5 x 1.2mm Pack of 2",
+  "specifications": [
+    "Width: 5.5mm",
+    "Thickness: 1.2mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-crpb29-craftpro-planer-blade-82mm-1-pair.html|>
+## Trend CR/PB29 Craftpro Planer Blade 82mm 1 Pair
+
+{
+  "price": "€17.56 inc VAT (€14.28 exc.vat)",
+  "description": "Trend Craft Pro solid carbide planer blades are manufactured from high grade carbide and are supplied in pairs. They are precision ground with two cutting edges and reversible for extended life. Suitable for various brands including AEG, Black & Decker, Bosch, DEWALT, Makita, and more.",
+  "availability": "Out of Stock",
+  "product_name": "Trend CR/PB29 Craftpro Planer Blade 82mm 1 Pair",
+  "specifications": [
+    "Length: 82mm",
+    "Width: 5.5mm",
+    "Thickness: 1.1mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-tct-reversible-planer-blades.html|>
+## DEWALT TCT Reversible Planer Blades
+
+{
+  "price": "€11.54 inc VAT",
+  "description": "The DEWALT DT3901 TCT Reversible Planer Blades with tungsten carbide tips. Supplied as a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "DEWALT TCT Reversible Planer Blades",
+  "specifications": [
+    "Pack of 2",
+    "Tungsten carbide tips",
+    "Compatible with DEWALT planers"
+  ]
+}
+

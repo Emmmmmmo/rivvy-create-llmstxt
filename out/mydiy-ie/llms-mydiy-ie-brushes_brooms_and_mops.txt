@@ -1,0 +1,426 @@
+<|https://www.mydiy.ie/products/vileda-3-action-broom-and-handle.html|>
+## Vileda 3 Action Broom & Handle
+
+{
+  "price": "€11.29 inc VAT (€9.18 exc.vat)",
+  "description": "The Vileda 3 Action Broom cleans all dirt effectively in one sweep, even in difficult places such as edges and corners. This is because it does not only have normal fibres for picking up hair and particles, but it also has ultra thin fibres on one side and reinforced longer fibres on the extremes. The ultra thin fibres are developed for optimal dust pickup and the longer fibres reach deep into edges and corners.",
+  "availability": "Out of Stock",
+  "product_name": "Vileda 3 Action Broom & Handle",
+  "specifications": [
+    "Model: VIL142864",
+    "Price: €11.29",
+    "List Price: €12.35",
+    "You save: €1.06"
+  ]
+}
+
+<|https://www.mydiy.ie/products/red-gorilla-complete-gorilla-broom.html|>
+## Red Gorilla Complete Gorilla Broom®
+
+{
+  "price": "€30.37 inc VAT",
+  "description": "The Red Gorilla Complete Gorilla Broom® has been designed with unique features to make your job easier. Fitted with an integrated scraper blade, makes removing ‘stuck bits’ even easier. The anti-clog channel cuts down flying dust for a clean sweeping action. The extra wide head means you can shift more with minimal effort. Ideal for use in wet environments, as the non-porous polymer head and bristles won't absorb any fluid. Excellent to use on various floor types: rubber, hard and decking. Made from UV and frost-resistant materials, meaning it can be kept outside all year without fading or cracking.",
+  "availability": "In Stock",
+  "product_name": "Red Gorilla Complete Gorilla Broom®",
+  "specifications": [
+    "Integrated scraper blade for easy removal of stuck bits",
+    "Anti-clog channel for clean sweeping action",
+    "Extra wide head for efficient sweeping",
+    "Non-porous polymer head and bristles",
+    "UV and frost-resistant materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-duactiva-anti-dust-broom-and-handle.html|>
+## Vileda Duactiva Anti-Dust Broom & Handle
+
+{
+  "price": "€14.11 inc VAT (€11.47 exc.vat)",
+  "description": "The Vileda Duactiva uses 2-in-1 technology for a superior clean. The broom won’t leave anything behind thanks to the fine bristles which gather dirt on uneven surfaces, and unique foam barrier to gather dust. Perfect for a one-sweep clean on floors indoors without raising dust. With improved hardened angled bristles on the tip for hard to reach corners and edges. Anti-dust barrier is removable for easy cleaning. Telescopic handle ensures the broom is at the perfect height for you, from 75cm-130cm.",
+  "availability": "Out of Stock",
+  "product_name": "Vileda Duactiva Anti-Dust Broom & Handle",
+  "specifications": [
+    "2-in-1 technology for superior clean",
+    "Fine bristles gather dirt on uneven surfaces",
+    "Unique foam barrier to gather dust",
+    "Telescopic handle adjustable from 75cm to 130cm",
+    "Removable anti-dust barrier for easy cleaning"
+  ]
+}
+
+<|https://www.mydiy.ie/products/red-gorilla-complete-gorilla-broom-soft-bristle.html|>
+## Red Gorilla Complete Gorilla Broom®, Soft Bristle
+
+{
+  "price": "€30.36 inc VAT",
+  "description": "The Complete Soft Bristle Gorilla Broom® is designed to make your job easier. Built with unique features such as an integrated scraper blade, making removing ‘stuck bits’ even easier as well as; an anti-clog channel which cuts down flying dust for a clean sweeping action. The broom's extra-wide head means you can shift more with minimal effort. Performs well in a wet environment, as the non-porous polymer head and bristles soak 0% fluid.",
+  "availability": "In Stock",
+  "product_name": "Red Gorilla Complete Gorilla Broom®, Soft Bristle",
+  "specifications": [
+    "Integrated scraper blade",
+    "Anti-clog channel",
+    "Extra-wide head",
+    "Non-porous polymer head and bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/bulldozer-dual-fill-broom-stiff-bristles.html|>
+## Bulldozer Dual Fill Broom, Stiff Bristles
+
+{
+  "price": "€10.81 inc VAT",
+  "description": "The BULLDOZER Dual Fill Broom has a wooden head with stiff dual PET and natural bassine bristles. The stiff bristles have been designed for sweeping up heavy debris in both wet and dry conditions. Whilst the natural bassine is resilient to both water and cleaning chemicals. Its metal handle is fitted with a cushioned neoprene grip provides additional comfort whilst sweeping. A double lock bracket provides additional stability when in use. BULLDOZER brushes are engineered to tackle the toughest cleaning jobs, making them an essential addition to your kit. Whether you’re dealing with stubborn dirt or dead leaves, our heavy-duty brooms are designed to deliver outstanding performance. Made in UK.",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Dual Fill Broom, Stiff Bristles",
+  "specifications": [
+    "Wooden head with stiff dual PET and natural bassine bristles",
+    "Designed for sweeping heavy debris in wet and dry conditions",
+    "Cushioned neoprene grip for comfort",
+    "Double lock bracket for stability",
+    "Made in UK"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-2-in-1-dustpan-and-brush.html|>
+## Vileda 2 In 1 Dustpan and Brush
+
+{
+  "price": "€8.03 inc VAT (€6.53 exc.vat)",
+  "description": "The Vileda 2 In 1 Dustpan and Brush set combines a small practical dustpan with a small collecting brush. The brush has hard red fibres on the tips for corners, edges and joints and ultra thick black fibres for fine dust. The slightly curved rubber lip on the dustpan sticks to the floor when pressure is applied to pick up dust and dirt effectively.",
+  "availability": "Out of Stock",
+  "product_name": "Vileda 2 In 1 Dustpan and Brush",
+  "specifications": [
+    "Product Code: VIL141752",
+    "List Price: €8.79",
+    "You save: €0.76"
+  ]
+}
+
+<|https://www.mydiy.ie/products/miss-45ltr-bullet-bin.html|>
+## MISS 45LTR Bullet Bin
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "Tontarelli Black Bullet Bin - 45L\n\n- Large 45L capacity bin\n- Perfect for the kitchen, bedrooms or storage rooms\n- Retractable window with an outer lip for easy sliding.\n- Wipe clean",
+  "availability": "In Stock",
+  "product_name": "MISS 45LTR Bullet Bin",
+  "specifications": [
+    "Large 45L capacity",
+    "Perfect for kitchen, bedrooms or storage rooms",
+    "Retractable window for easy sliding",
+    "Wipe clean"
+  ]
+}
+
+<|https://www.mydiy.ie/products/miss-90l-steel-galvanised.html|>
+## MISS 90L Steel Galvanised
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "Groundsman Galvanised Dustbin with Steel Lid - 90L\n- 90L capacity\n- Tapered sides\n- Durable galvanised steel\n- Ideal for use as dustbin or general storage\n- Handles on either side for easy carrying\n- Dimensions: (H) 57cm x (W) 46cm x (D) 38cm",
+  "availability": "In Stock",
+  "product_name": "MISS 90L Steel Galvanised",
+  "specifications": [
+    "90L capacity",
+    "Tapered sides",
+    "Durable galvanised steel",
+    "Ideal for use as dustbin or general storage",
+    "Handles on either side for easy carrying",
+    "Dimensions: (H) 57cm x (W) 46cm x (D) 38cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/red-gorilla-tidee-companion-set.html|>
+## Red Gorilla Tidee™ Companion Set
+
+{
+  "price": "€39.78 inc VAT (€32.34 exc.vat)",
+  "description": "The Red Gorilla Tidee™ Companion Set is designed to make mucking out and collecting waste more efficient. This kit is weather-resistant and includes a rake, mini broom and a large scoop. With this Tidee™ Companion Set, you will find mucking out more comfortable as the Tidee™ has a long handle which helps to reduce back pain. Its compact design is easy to store.",
+  "availability": "In Stock",
+  "product_name": "Red Gorilla Tidee™ Companion Set",
+  "specifications": [
+    "Weather-resistant kit",
+    "Includes rake, mini broom, and large scoop",
+    "Long handle to reduce back pain",
+    "Compact design for easy storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/red-gorilla-tidee-companion-set-1.html|>
+## Red Gorilla Tidee™ Companion Set
+
+{
+  "price": "€38.40 inc VAT (€31.22 exc.vat)",
+  "description": "The Red Gorilla Tidee™ Companion Set is designed to make mucking out and collecting waste more efficient. Great for use around the yard or in the garden, this ultimate kit is weather-resistant and includes a rake, mini broom and a large scoop. The Tidee™ has a long handle which helps to reduce back pain and it's compact design makes it easy to store or even handy to keep in your lorry or trailer when travelling to events.",
+  "availability": "Out of Stock",
+  "product_name": "Red Gorilla Tidee™ Companion Set",
+  "specifications": [
+    "Weather-resistant",
+    "Includes a rake, mini broom, and a large scoop",
+    "Long handle to reduce back pain",
+    "Compact design for easy storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marshalltown-tampico-beaver-tail-brush.html|>
+## Marshalltown Tampico Beaver Tail Brush
+
+{
+  "price": "€15.98 inc VAT (€12.99 exc.vat)",
+  "description": "Marshalltown Beaver Tail Brushes are ideal for achieving a quality finish on concrete curbs and other surfaces. The bristles are staple set in a clear lacquered hardwood block. Manufactured in the USA using top quality materials.",
+  "availability": "Out of Stock",
+  "product_name": "Marshalltown Tampico Beaver Tail Brush",
+  "specifications": [
+    "Length: 34cm (13.1/2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/spear-and-jackson-litter-picker.html|>
+## Spear & Jackson Litter Picker
+
+{
+  "price": "€30.20 inc VAT (€24.55 exc.vat)",
+  "description": "Extra long handle gives maximum reach without having to bend. Firm, clean claw-like collecting action. Locking catch for safer storage.",
+  "availability": "In Stock",
+  "product_name": "Spear & Jackson Litter Picker",
+  "specifications": [
+    "Extra long handle for maximum reach",
+    "Claw-like collecting action",
+    "Locking catch for safer storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-magic-mops-flat.html|>
+## Vileda Magic Mops Flat
+
+{
+  "price": "from €9.04 inc VAT",
+  "description": "An absorbent sponge mop with unique push-pull wringer system to leave floors clean and dry. It simply cleans floors more effectively with its 3-D grooved foam and the non-scratch scrubbing edge enables easy removal of stubborn marks. Non scratch scrubber removes stubborn marks. 3D grooved foam cleans uneven surfaces. Specially formulated foam is hardwearing and super absorbent. Flat head is ideal for large surface areas.",
+  "availability": "In Stock",
+  "product_name": "Vileda Magic Mops Flat",
+  "specifications": [
+    "Absorbent sponge mop",
+    "Unique push-pull wringer system",
+    "3-D grooved foam for effective cleaning",
+    "Non-scratch scrubbing edge",
+    "Flat head for large surface areas"
+  ]
+}
+
+<|https://www.mydiy.ie/products/merriway-bh01893-swirl-large-white-for-12-inch-tap.html|>
+## Merriway BH01893 Swirl Large White for 1/2-inch Tap
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "Pack of 1 x Tap Swirl Large White For 1/2 Inch Tap. Kitchen Plumbing Accessory. Heating And Plumbing Accessories. If instructions for fixing, assembly or maintenance of the products are included in the packaging then please ensure that they are followed. Manufacturer: Merriway.",
+  "availability": "In Stock",
+  "product_name": "Merriway BH01893 Swirl Large White for 1/2-inch Tap",
+  "specifications": [
+    "Pack of 1 x Tap Swirl Large White For 1/2 Inch Tap",
+    "Kitchen Plumbing Accessory",
+    "Heating And Plumbing Accessories",
+    "Manufacturer: Merriway"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-magic-mop.html|>
+## Vileda Magic Mop
+
+{
+  "price": "€8.22 inc VAT",
+  "description": "The Vileda Magic Mop has an angled head for faster, more effective cleaning. It has a durable tear resistant foam pad and grooved rollers which allow you to wring out more water. Features include; Durable - tear resistant foam. Grooved rollers which wring out excess water. Abrasive pad which removes stubborn marks. Angled head which fits into tight, awkward places. Cloth edge which wipes floors clean and dry. Suitable for cleaning all surfaces, it is super absorbent and leaves surfaces drier than any other mop. Its self-wringing mechanism lets you clean without bending which means you can use it without a bucket and keep your hands dry.",
+  "availability": "In Stock",
+  "product_name": "Vileda Magic Mop",
+  "specifications": [
+    "Durable - tear resistant foam",
+    "Grooved rollers which wring out excess water",
+    "Abrasive pad which removes stubborn marks",
+    "Angled head which fits into tight, awkward places",
+    "Cloth edge which wipes floors clean and dry",
+    "Super absorbent and leaves surfaces drier than any other mop",
+    "Self-wringing mechanism lets you clean without bending"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-active-max-mop-system.html|>
+## Vileda Active Max Mop System
+
+{
+  "price": "from €12.04 inc VAT",
+  "description": "The Active Max Mop is designed for thorough and safe wet cleaning of wood and laminate floors. The special microfibre structure helps remove stubborn dirt whilst Collectex™ picks up particles which can easily be washed out. The trapezoidal pivoted head shape enables easier cleaning into corners and under furniture. Fitted with a fully adjustable telescopic handle for height adjustment.",
+  "availability": "In Stock",
+  "product_name": "Vileda Active Max Mop System",
+  "specifications": [
+    "Designed for thorough and safe wet cleaning of wood and laminate floors",
+    "Special microfibre structure for stubborn dirt removal",
+    "Collectex™ technology for particle pickup",
+    "Trapezoidal pivoted head for corner cleaning",
+    "Fully adjustable telescopic handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-easy-wring-and-clean-turbo-mop-and-bucket.html|>
+## Vileda Easy Wring And Clean Turbo Mop & Bucket
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "The Vileda Easy Wring & Clean Turbo Bucket has an integrated wringing mechanism, simply press the foot pedal to easily remove water from the mop. Depending on the amount of pressure applied to the foot pedal you can control the desired mop dampness dependent on floor type. The improved design features an easy-pour mouth and a horizontal handle for convenient carrying with less spillage. The mop has a 2-in-1 microfibre head for improved particle pickup with a triangular head shape for excellent corner cleaning. The mop head is machine washable. It's telescopic handle extends from 55 to 130cm, making it easy for users of all heights. Perfect for use on tiles, wood and laminate flooring.",
+  "availability": "In Stock",
+  "product_name": "Vileda Easy Wring And Clean Turbo Mop & Bucket",
+  "specifications": [
+    "Integrated wringing mechanism",
+    "Foot pedal for easy water removal",
+    "2-in-1 microfibre head",
+    "Telescopic handle extends from 55 to 130cm",
+    "Suitable for tiles, wood, and laminate flooring"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-supermocio-micro-and-cotton-mop.html|>
+## Vileda SuperMocio Micro & Cotton Mop
+
+{
+  "price": "€13.31 inc VAT (€10.82 exc.vat)",
+  "description": "The Vileda 126757 SuperMocio Micro and Cotton Mop cleans and dries floors with ease and efficiency. It is ideal for the quick daily cleaning of all rooms as it takes up dirt perfectly and leaves floors to dry very quickly. This is because the mop is made of a material mix of high-performance microfibres and highly absorbent cotton. With the specially designed lemon shape of the mop head, the mop can clean even hard to reach corners. The mop head is machine washable and can be taken off easily.",
+  "availability": "Out of Stock",
+  "product_name": "Vileda SuperMocio Micro & Cotton Mop",
+  "specifications": [
+    "Model: VIL126575",
+    "Price: €13.31",
+    "List Price: €14.56",
+    "You save: €1.25",
+    "Machine washable mop head",
+    "High-performance microfibres and highly absorbent cotton"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-spin-mop-refill.html|>
+## Vileda Spin Mop Refill
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Vileda 134301 is a refill for Vileda EasyWring & Clean set. The premium Vileda EasyWring & Clean microfibre mop perfectly cleans all types of dirts on all floors surfaces with the super absorbent strings made of 100% microfibre allowing optimal control of mop humidity. Cleaning floors is quicker, and drying time is also reduced with the triangular Machine-washable mop head which is ideal for corner cleaning.",
+  "availability": "In Stock",
+  "product_name": "Vileda Spin Mop Refill",
+  "specifications": [
+    "VIL134301",
+    "Machine-washable mop head",
+    "100% microfibre",
+    "Super absorbent strings",
+    "Ideal for corner cleaning"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-1---2-spray-floor-cleaner-750ml.html|>
+## Vileda 1 - 2 Spray Floor Cleaner 750ml
+
+{
+  "price": "€6.15 inc VAT (€5.00 exc.vat)",
+  "description": "Ready-made cleaning liquid for the Vileda 1-2 Spray system ensuring best cleaning results on all types of flooring, including parquet and laminate.",
+  "availability": "In Stock",
+  "product_name": "Vileda 1 - 2 Spray Floor Cleaner 750ml",
+  "specifications": [
+    "750ml capacity",
+    "Suitable for all types of flooring",
+    "Includes WEEE recycling information",
+    "Fast & reliable shipping with DPD",
+    "Free delivery for orders over €150"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-supermocio-micro-and-cotton-mop-refill.html|>
+## Vileda SuperMocio Micro & Cotton Mop Refill
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "Vileda 139110 SuperMocio Micro and Cotton refill pack for the 126757 mop. The head is made from micro and cotton, a microfibre and absorbent cotton mop for the toughest cleaning jobs. Has a lemon shaped head that allows it to reach into the tightest corners and spaces. It is also machine washable.",
+  "availability": "In Stock",
+  "product_name": "Vileda SuperMocio Micro & Cotton Mop Refill",
+  "specifications": [
+    "Microfibre and absorbent cotton material",
+    "Lemon shaped head for tight corners",
+    "Machine washable"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-1---2-spray-mop-and-handle.html|>
+## Vileda 1 - 2 Spray Mop & Handle
+
+{
+  "price": "€43.01 inc VAT (€34.97 exc.vat)",
+  "description": "Vileda 1-2 Spray & Clean is the ideal flat mop system for in-between cleaning. This all in one, ready to use system has its own spray handle with a refillable liquid compartment, which means you can use it without a bucket and still get a sparkling result. For a quick clean, simply pour the cleaning liquid into the handle and squeeze the trigger to release a micro mist of spray - perfect for quickly mopping up sticky and greasy marks. Thanks to the durable Microfibre pad, it is also great for deep down cleaning and is ideal for use on all hard floor surfaces including wood and laminate.",
+  "availability": "In Stock",
+  "product_name": "Vileda 1 - 2 Spray Mop & Handle",
+  "specifications": [
+    "VIL140626",
+    "Ideal for in-between cleaning",
+    "Refillable liquid compartment",
+    "Durable Microfibre pad",
+    "Suitable for all hard floor surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-supermocio-soft-mops.html|>
+## Vileda Supermocio Soft Mops
+
+{
+  "price": "from €6.69 inc VAT",
+  "description": "The SuperMocio Soft Head Mop cleans delicate surfaces easily and quickly. It is perfect for laminate and wooden floors as you can use it slightly damp. It has a dual cleaning action: On the outer layer the fluffy Collectex fibres give you highly efficient particle and hair pick-up. The inner stripes are made from super absorbent materials that leave your floors to dry quickly and streak-free. With the specially designed lemon shape of the mop head you can clean those hard to reach corners easily. The SuperMocio mop head is machine washable.",
+  "availability": "In Stock",
+  "product_name": "Vileda Supermocio Soft Mops",
+  "specifications": [
+    "Dual cleaning action",
+    "Fluffy Collectex fibres for efficient pick-up",
+    "Super absorbent inner stripes",
+    "Machine washable mop head",
+    "Designed for delicate surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-patio-and-decking-brush-set-2-piece.html|>
+## Roughneck Patio & Decking Brush Set 2 Piece
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The Roughneck Patio and Decking Brush Set contains non-corrosive, long-lasting brush heads that will not rust or rot. It also contains a detachable long heavy-duty handle, which is angled for a comfortable working position. The pack contains the following brush heads: Heavy-duty scrubbing brush with 6 rows of steel bristles. This is ideal for cleaning larger areas. Compact angled brush with 3 rows of steel bristles. This is best suited to reach in small areas and gaps. It has a built-in steel scraper that is ideal for removing weeds and ingrained dirt, as well as reaching between slabs and decking etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Patio & Decking Brush Set 2 Piece",
+  "specifications": [
+    "Non-corrosive, long-lasting brush heads",
+    "Detachable long heavy-duty handle",
+    "Heavy-duty scrubbing brush with 6 rows of steel bristles",
+    "Compact angled brush with 3 rows of steel bristles",
+    "Built-in steel scraper for removing weeds and dirt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-heavy-duty-handle-patio-brush.html|>
+## Roughneck Heavy-Duty Handle Patio Brush
+
+{
+  "price": "from €11.99 inc VAT",
+  "description": "This Roughneck Patio Brush is an ideal tool for cleaning patios, decking, block paving, walls and slabs. The brush head is long lasting and will not rust or rot. It has 3 rows of steel bristles in a compact, angled formation to reach narrow gaps and maximise brush performance. The brush has a built-in steel scraper for removing weeds and ingrained dirt. Ideal for reaching between slabs, decking etc. The brush has a long (1.5m) detachable heavy-duty handle which is angled for a comfortable working position to allow maximum pressure for effective cleaning and brushing. The handle can be easily unscrewed from the head to use on other brushes or for use with a replacement head.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Heavy-Duty Handle Patio Brush",
+  "specifications": [
+    "Brush Head ONLY option available",
+    "1.5m detachable heavy-duty handle",
+    "Built-in steel scraper",
+    "3 rows of steel bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hilka-block-paving-wire-brush.html|>
+## HILKA BLOCK PAVING WIRE BRUSH
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Hilka Block Paving Wire Brush With Handle - 3 rows of converging wire gives direct contact with weeds and moss to clean in-between paving slabs and block paving. Fitted with 1.2 metre handle.",
+  "availability": "In Stock",
+  "product_name": "HILKA BLOCK PAVING WIRE BRUSH",
+  "specifications": [
+    "BB5003-28 : €7.99",
+    "QtyAdd to Basket"
+  ]
+}
+

@@ -1,0 +1,127 @@
+<|https://www.mydiy.ie/products/makita-dgd800z-18v-lxt-die-grinder.html|>
+## Makita Dgd800Z 18V Lxt Die Grinder
+
+{
+  "price": "€219.19 inc VAT (€178.20 exc.vat)",
+  "description": "Dgd800Z 18V Lxt Die Grinder",
+  "availability": "In Stock",
+  "product_name": "Makita Dgd800Z 18V Lxt Die Grinder",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dhs660z-brushless-lxt-165mm-circular-saw-18v-bare-unit.html|>
+## Makita DHS660Z Brushless LXT 165mm Circular Saw 18V Bare Unit
+
+{
+  "price": "€317.43 inc VAT (€258.07 exc.vat)",
+  "description": "The Makita DHS660 Brushless LXT Circular Saw with Automatic Torque Drive Technology, automatically changes the cutting speed according to load condition for optimum operation. There is also an ADT indication lamp: High torque = green light on, High speed = lights out, Overload alert = blinks green. Compact, lightweight design with a durable Aluminium base that has easy-to-read scale markings for easier adjustments. The design also provides improved visibility of blade tip and a blower function helps keep sawdust off the cut line. For safe operation there is an electric brake, soft start and lock-off button. Other features include an LED job light and a rear-facing exhaust port. Bare Unit, No Battery or Charger",
+  "availability": "In Stock",
+  "product_name": "Makita DHS660Z Brushless LXT 165mm Circular Saw 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 5,000/min.",
+    "Max. Cutting Depth: @0º: 57mm, @45º: 41mm, @50º: 37mm",
+    "Blade: 165 x 20mm Bore",
+    "Weight: 2.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-18v-brushless-circ-saw-naked-with-avs.html|>
+## Makita 18V Brushless Circ Saw Naked With Avs
+
+{
+  "price": "€540.86 inc VAT (€439.72 exc.vat)",
+  "description": "18V Brushless Circ Saw Naked With Avs",
+  "availability": "Out of Stock",
+  "product_name": "Makita 18V Brushless Circ Saw Naked With Avs",
+  "specifications": [
+    "Model: MAKDHS783ZJU",
+    "Voltage: 18V",
+    "Type: Circular Saw",
+    "Brushless Motor: Yes",
+    "AVS: Yes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-djs161z-straight-shear.html|>
+## Makita Djs161Z Straight Shear
+
+{
+  "price": "€559.93 inc VAT (€455.23 exc.vat)",
+  "description": "Djs161Z Straight Shear",
+  "availability": "Out of Stock",
+  "product_name": "Makita Djs161Z Straight Shear",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dpj180z-18v-biscuit-jointer.html|>
+## Makita Dpj180Z 18V Biscuit Jointer
+
+{
+  "price": "€409.31 inc VAT (€332.77 exc.vat)",
+  "description": "Dpj180Z 18V Biscuit Jointer",
+  "availability": "In Stock",
+  "product_name": "Makita Dpj180Z 18V Biscuit Jointer",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dst221z-18v-stapler-18v.html|>
+## Makita Dst221Z 18V Stapler 18V
+
+{
+  "price": "€434.52 inc VAT (€353.27 exc.vat)",
+  "description": "Dst221Z 18V Stapler 18V",
+  "availability": "Out of Stock",
+  "product_name": "Makita Dst221Z 18V Stapler 18V",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hp488dwax4-g-series-combi-drill-18v-1-x-20ah-li-ion--accessory-set.html|>
+## Makita HP488DWAX4 G-Series Combi Drill 18V 1 x 2.0Ah Li-ion + Accessory Set
+
+{
+  "price": "€248.13 inc VAT (€201.73 exc.vat)",
+  "description": "The Makita HP488DWAX4 G-Series Combi Drill is small and lightweight, making it the perfect tool for drilling into light masonry, plastic, metal, and wood. The all-metal gear structure adds durability. Fitted with an ergonomically designed, rubbersoft grip for added comfort and control. Supplied with: 1 x 2.0Ah G-Series Li-ion Battery. 1 x DC18WA Charger. 1 x Accessory Set, 70 Piece.",
+  "availability": "In Stock",
+  "product_name": "Makita HP488DWAX4 G-Series Combi Drill 18V 1 x 2.0Ah Li-ion + Accessory Set",
+  "specifications": [
+    "No Load Speed: 0-1,400/min",
+    "Torque Settings: 16",
+    "Capacity: Wood 36mm, Masonry 13mm, Steel 13mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-18v-mixer-body-only.html|>
+## Makita 18V Mixer Body Only
+
+{
+  "price": "€405.26 inc VAT (€329.48 exc.vat)",
+  "description": "18V Mixer Body Only",
+  "availability": "Out of Stock",
+  "product_name": "Makita 18V Mixer Body Only",
+  "specifications": [
+    "Model: MAKDUT130Z",
+    "Voltage: 18V",
+    "Condition: Body Only"
+  ]
+}
+

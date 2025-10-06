@@ -1,0 +1,191 @@
+<|https://www.mydiy.ie/products/-elite-focus-led-rechargeable-torch-and-powerbank-800-lumens.html|>
+## Elite Focus LED Rechargeable Torch & Powerbank 800 Lumens
+
+{
+  "price": "€37.00 inc VAT (€30.08 exc.vat)",
+  "description": "Focus High Performance LED Torches are manufactured from anodised aluminium, these torches are lightweight, strong, durable and reliable. Designed for rugged outdoor activities, such as camping, hiking, fishing and similar activities. Each torch is fitted with a high performance LED with three output modes and focus control that provides both a spot and flood function, allowing the light to be adjusted from a tight spot beam to a wide flood light to suit the job in hand. All these great features provide reliability, versatility and long running times. This versatile rechargeable torch offers a variety of great features and functions, including a 800 lumen output LED with three operating modes of High, Low, Strobe with a variable dimming function for precise light output control. Focus control allows the light to be adjusted from a tight spot beam to a flood light to suit the job in hand. The torch has an integral tail light charging indicator that glows Red when the battery requires charging, Blue when under charge and Green when fully charged. The tail light can also be switched to the Green mode for use as a night vision light for map reading applications. A useful powerbank function is also provided that allows the torch to be used to recharge many small electronic devices such as mobile phones and MP3 players (using a suitable manufacturers charging lead). The torch has an impressive run time of up to eight hours from its powerful internal 3.7V 2600mAh Li-ion battery that can be recharged and used time and time again. The torch is water and dustproof to IP54 for use in all weather conditions and is supplied complete with a mains and car charger unit. 800 lumen high-performance LED 45M beam distance Focus control 3.7V 2600mAh Li-ion battery USB Powerbank function Up to 8 hours run time Anodised aluminium body Tail-cap switch- charging indicator Torch size: 154 x 37/31.8mm Weight: 157g exc. batteries Output: High - 800 Lumens, Low 240 Lumens Run time: High - 3 Hours, Low - 8 Hours Beam distance: 45 metres Charging time: Approx 5 hours",
+  "availability": "Out of Stock",
+  "product_name": "Elite Focus LED Rechargeable Torch & Powerbank 800 Lumens",
+  "specifications": [
+    "800 lumen high-performance LED",
+    "45M beam distance",
+    "Focus control",
+    "3.7V 2600mAh Li-ion battery",
+    "USB Powerbank function",
+    "Up to 8 hours run time",
+    "Anodised aluminium body",
+    "Tail-cap switch- charging indicator",
+    "Torch size: 154 x 37/31.8mm",
+    "Weight: 157g exc. batteries",
+    "Output: High - 800 Lumens, Low 240 Lumens",
+    "Run time: High - 3 Hours, Low - 8 Hours",
+    "Beam distance: 45 metres",
+    "Charging time: Approx 5 hours"
+  ],
+  "product_category": "Lighting"
+}
+
+
+
+<|https://www.mydiy.ie/products/brennenstuhl-large-cree-work-light-30w-2100-lumens-240v.html|>
+## Brennenstuhl Large Cree Work Light 30W 2100 lumens 240V
+
+{
+  "price": "€85.98 inc VAT (€69.90 exc.vat)",
+  "description": "The Brennenstuhl Large Cree Work Light uses around 80% less energy than a standard lamp at the same brightness. Its onboard LEDs generate a minimal amount of heat which lowers the risk of personal injury. The die-cast aluminium housing is stable and shook absorbent. Suitable for both indoor and outdoor areas.",
+  "availability": "Out of Stock",
+  "product_name": "Brennenstuhl Large Cree Work Light 30W 2100 lumens 240V",
+  "specifications": [
+    "LED Power: 30W",
+    "Lumen Output: 2,100",
+    "IP Rating: IP65",
+    "Cable Length: 5m"
+  ],
+  "product_category": "Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dcl183-rechargeable-led-flashlight.html|>
+## DEWALT DCL183 Rechargeable LED Flashlight
+
+{
+  "price": "€134.35 inc VAT (€109.23 exc.vat)",
+  "description": "DEWALT DCL183 Rechargeable LED Flashlight helps you to illuminate low-light work areas. It offers a main spotlight with 2 light settings and a side light with a single output. Focus on the task at hand and work hands-free by using the flashlight's strong magnet and hook. Its durable housing is IP54 rated for dust and water protection. Supplied with 1 x Type C USB Cable.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCL183 Rechargeable LED Flashlight",
+  "specifications": [
+    "Spotlight Output (Low/High): 250/1,000 lumens",
+    "Side Light Output: 400 lumens",
+    "Light Beam Angle: Spotlight 15°, Side Light 90°",
+    "Runtime: Spotlight (Low/High) 6.5/2.5 hours, Side Light 6.5 hours"
+  ],
+  "product_category": "Lighting"
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-hybrid-led-work-light-18v-bare-unit.html|>
+## Batavia MAXXPACK Hybrid LED Work Light 18V Bare Unit
+
+{
+  "price": "€165.56 inc VAT (€134.60 exc.vat)",
+  "description": "The Batavia MAXXPACK Hybrid LED Work Light can be powered by a 18V MAXXPACK battery or from the mains. It illuminates an entire room, 360°. Perfect for jobs inside or around your house, but also for professional jobs, on a construction site. Also as an emergency light during a power outage, on a campsite, and more. Mounted on a tripod, which provides extra stability. The brightness of the hybrid LED work light can be adjusted in four different settings. Thanks to the IP54 rating, this work light is suitable for inside and outside use.",
+  "availability": "Out of Stock",
+  "product_name": "Batavia MAXXPACK Hybrid LED Work Light 18V Bare Unit",
+  "specifications": [
+    "LED: 216 pcs SMD LED 6500k",
+    "DC Power (18V): 25W",
+    "DC Mode Lumens (18V): 2700 lumen",
+    "AC Mode power (230V): 45W",
+    "AC Mode Lumens (230V): 4300 lumen",
+    "Cable Length: 2m",
+    "IP Rating: IP54",
+    "IK Rating: IK07",
+    "Dimensions: 73.8 x 22.4 x 16.8cm",
+    "Weight: 3.48kg"
+  ],
+  "product_category": "Lighting"
+}
+
+<|https://www.mydiy.ie/products/talatools-5-led-rubber-torch.html|>
+## TALAtools 5 LED Rubber Torch
+
+{
+  "price": "€13.47 inc VAT (€10.95 exc.vat)",
+  "description": "Durable rubber torch body, Shock and weather resistant, Runs on 2 x D batteries (supplied)",
+  "availability": "Out of Stock",
+  "product_name": "TALAtools 5 LED Rubber Torch",
+  "specifications": [
+    "Durable rubber torch body",
+    "Shock and weather resistant",
+    "Runs on 2 x D batteries (supplied)"
+  ],
+  "product_category": "Lighting"
+}
+
+<|https://www.mydiy.ie/products/talatools-cob-led-spotlight-5w.html|>
+## TALAtools COB LED Spotlight 5W
+
+{
+  "price": "€24.26 inc VAT (€19.72 exc.vat)",
+  "description": "COB (chip on board) built-in LED chip\n\n5W LED, 350 lumens\n\nBuilt-in handle for carrying and standing use\n\n4 x AA batteries included",
+  "availability": "In Stock",
+  "product_name": "TALAtools COB LED Spotlight 5W",
+  "specifications": [
+    "5W LED",
+    "350 lumens",
+    "Built-in handle for carrying and standing use",
+    "4 x AA batteries included"
+  ],
+  "product_category": "Lighting"
+}
+
+<|https://www.mydiy.ie/products/talatools-cree-led-aluminium-torch.html|>
+## TALAtools Cree LED Aluminium Torch
+
+{
+  "price": "€29.64 inc VAT",
+  "description": "Precision engineered anodized aluminium body, Fitted with a rubber grip sleeve, 3 Modes: 100%, 50% and Flashing, Adjustable beam focus, Shock and water-resistant",
+  "availability": "In Stock",
+  "product_name": "TALAtools Cree LED Aluminium Torch",
+  "specifications": [
+    "3 Modes: 100%, 50% and Flashing",
+    "Adjustable beam focus",
+    "Shock and water-resistant"
+  ],
+  "product_category": "Lighting"
+}
+
+<|https://www.mydiy.ie/products/talatools-heavy-duty-cree-led-floating-lantern-5w.html|>
+## TALAtools Heavy-Duty Cree LED Floating Lantern 5W
+
+{
+  "price": "€20.52 inc VAT (€16.68 exc.vat)",
+  "description": "Fitted with a 5W Cree LED\nFlashlight is water-resistant and unsinkable\nImpact resistant up to 1m\nProvides up to 20 hours of lighting on one set of batteries\nBeam Distance: 300m\nRuns on 4 x D batteries (supplied)",
+  "availability": "Out of Stock",
+  "product_name": "TALAtools Heavy-Duty Cree LED Floating Lantern 5W",
+  "specifications": [
+    "Fitted with a 5W Cree LED",
+    "Water-resistant and unsinkable",
+    "Impact resistant up to 1m",
+    "Provides up to 20 hours of lighting on one set of batteries",
+    "Beam Distance: 300m",
+    "Runs on 4 x D batteries (supplied)"
+  ],
+  "product_category": "Lighting"
+}
+
+<|https://www.mydiy.ie/products/talatools-led-task-light.html|>
+## TALAtools LED Task Light
+
+{
+  "price": "€37.45 inc VAT",
+  "description": "20W LED Light, 2,000 lumens\n3m cable with built-in storage\n1 socket outlet\nImpact resistant case, IP54 rated\nPower take-off, run lights in series",
+  "availability": "In Stock",
+  "product_name": "TALAtools LED Task Light",
+  "specifications": [
+    "20W LED Light",
+    "2,000 lumens",
+    "3m cable with built-in storage",
+    "1 socket outlet",
+    "Impact resistant case, IP54 rated",
+    "Power take-off, run lights in series"
+  ],
+  "product_category": "Lighting"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-smd-led-wall-mounted-floodlight.html|>
+## Faithfull Power Plus SMD LED Wall Mounted Floodlight
+
+{
+  "price": "€17.59 inc VAT",
+  "description": "The Faithfull SMD LED Wall Mounted Floodlight has been designed for both commercial and domestic use. It features the latest LED lighting technology, with a single watt LED providing a high lumen light output with the added advantage of a low power consumption and a cool running temperature. COB LEDs are maintenance free and more resilient to impact damage that can cause conventional halogen tubes to fail if a light is hit or knocked over. Manufactured from die-cast aluminium, the slim style lamp heads have an impact resistant lens and are rated at IP65 for water and dust ingress protection. Mounted on a sturdy wall mounting bracket with a ‘tilt and lock’ facility, which allows the angle of the lamp to be adjusted, directing the light exactly where it is needed to provide a powerful bright light illuminating the darkest corners of your property. For use as an exterior wall mounted lamp controlled from a manually operated switch.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus SMD LED Wall Mounted Floodlight",
+  "specifications": [
+    "Beam Angle: 120°",
+    "Colour Range: 6500K",
+    "LED Lifetime: 50,000 hours",
+    "LED Type: SMD",
+    "Cable Length: 0.3m (16cm) (1.00mm²)"
+  ],
+  "product_category": "Lighting"
+}
+

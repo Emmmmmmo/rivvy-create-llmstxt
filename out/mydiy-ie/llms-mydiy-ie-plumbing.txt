@@ -1,0 +1,1182 @@
+<|https://www.mydiy.ie/products/-26pc-hose-clamp-assortment.html|>
+## 26pc Hose Clamp Assortment
+
+{
+  "price": "€2.99 inc VAT (€2.43 exc.vat)",
+  "description": "26pc Hose Clamp Assortment ideal for securing hoses in plumbing and automotive applications. Set contains: 8 x 16mm, 6 x 22mm, 4 x 25mm, 2 x 28mm, 2 x 35mm and 4 x 40mm zinc plated worm gear hose clips.",
+  "availability": "Out of Stock",
+  "product_name": "26pc Hose Clamp Assortment",
+  "specifications": [
+    "Use for securing hoses in plumbing and automotive applications",
+    "Six popular sizes",
+    "Handy divided storage box"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/12mtr-length-orange-rubber-gas-hose-bs3212.html|>
+## 1.2Mtr Length Orange Rubber Gas Hose (BS3212)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "This 1.2Mtr Length Orange Rubber Gas Hose (Bs3212) is part of the Easi Plumb range of products. Made from premium quality materials, 1.2Mtr Orange Rubber Gas Hose from Easi Plumb contain premium quality parts and comes from a reputable company. Therefore, Easi Plumb's 0 1.2Mtr Orange Rubber Gas Hose is an essential for your plumbing needs. Reasons to use 1.25” Waste Extension.",
+  "availability": "In Stock",
+  "product_name": "1.2Mtr Length Orange Rubber Gas Hose (BS3212)",
+  "specifications": [
+    "Gas Hose",
+    "Rubber",
+    "Colour: Orange",
+    "Durable",
+    "Flexible",
+    "Interior & exterior use",
+    "Size: 1.2m"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-ball-valve-washer-kit-106-piece.html|>
+## Arctic Hayes Ball Valve Washer Kit, 106 Piece
+
+{
+  "price": "€34.91 inc VAT (€28.38 exc.vat)",
+  "description": "The Arctic Hayes Ball Valve Washer Kit contains an assortment of commonly used bits. Handy pack to keep in a work van or in the home. Contains: 20 x Black Ball Tap Washers: 1/2 x 1/8in, 3/4 x 1/8in, 40 x Red Ball Tap Washers: 1/2 x 1/8in, 3/4 x 1/8in, 3 x White High Pressure Seats, 3 x Red Low Pressure Seats, 20 x 1/2in Fibre Ball Seat Washers, 10 x Cotton Pins: 1/8 x 7/8in, 7/8 x 3/16in, 5 x 1.1/4in Diaphragm Washers, 2 x Armstrong Diaphragm Washers, 2 x Torbeck Diaphragm Washers, 1 x Fluid Master Seal.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Ball Valve Washer Kit, 106 Piece",
+  "specifications": [
+    "20 x Black Ball Tap Washers: 1/2 x 1/8in, 3/4 x 1/8in",
+    "40 x Red Ball Tap Washers: 1/2 x 1/8in, 3/4 x 1/8in",
+    "3 x White High Pressure Seats",
+    "3 x Red Low Pressure Seats",
+    "20 x 1/2in Fibre Ball Seat Washers",
+    "10 x Cotton Pins: 1/8 x 7/8in, 7/8 x 3/16in",
+    "5 x 1.1/4in Diaphragm Washers",
+    "2 x Armstrong Diaphragm Washers",
+    "2 x Torbeck Diaphragm Washers",
+    "1 x Fluid Master Seal"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-drain-down-hose-carry-bag.html|>
+## Arctic Hayes Drain Down Hose Carry Bag
+
+{
+  "price": "€10.11 inc VAT (€8.22 exc.vat)",
+  "description": "Arctic Hayes Drain Down Hose Carry Bag. Provides the perfect waterproof storage solution for your drain down hose kit. Fitted with strong handles for easy carrying.",
+  "availability": "Out of Stock",
+  "product_name": "Arctic Hayes Drain Down Hose Carry Bag",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-drain-down-hose.html|>
+## Arctic Hayes Drain Down Hose
+
+{
+  "price": "€56.30 inc VAT",
+  "description": "The Arctic Hayes Drain Down Hose will suit most plumbing system drain downs. Made from flexible and tough, natural red rubber. Will not kink or tear with regular use. Comes with a thumb screw hose clip.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Drain Down Hose",
+  "specifications": [
+    "Internal Diameter: 12.7mm (1/2in)",
+    "Outer Diameter: 19.05mm (3/4in)"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-dt1-radiator-drain-tray-kit.html|>
+## Arctic Hayes DT1 Radiator Drain Tray Kit
+
+{
+  "price": "€25.73 inc VAT (€20.92 exc.vat)",
+  "description": "The Arctic Hayes DT1 Radiator Drain Tray Kit is simple and easy to use with step by step detailed instructions included. With universal application for 8, 10, 15 and 22mm pipe work. Helps to avoid unnecessary mess, damaged floors to carpets. Perfect for professional use or DIY. Contains the following: 1 x Draining Tray, 4 x Water Diverting Collars, 4 x Reusable Sealing Straps, 1 x Water Resistant Barrier Gel (sufficient for 6 - 8 applications)",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes DT1 Radiator Drain Tray Kit",
+  "specifications": [
+    "Universal application for 8, 10, 15 and 22mm pipe work",
+    "Includes draining tray, water diverting collars, reusable sealing straps, and water resistant barrier gel"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-fibre-washer-kit-330-piece.html|>
+## Arctic Hayes Fibre Washer Kit 330 Piece
+
+{
+  "price": "€29.98 inc VAT (€24.37 exc.vat)",
+  "description": "The Arctic Hayes Fibre Washer Kit contains a large selection of washers that are ideal for general plumbing. The washers are made from fibre and are supplied in a compartment case for easy identification. Contains the following: 270 x Red Fibre Washers: 9 x 6.4mm, 12.6 x 8.3mm, 16 x 10mm, 17.5 x 11.5mm, 19 x 13.5mm, 22 x 14.6mm & 22 x 17mm. 35 x Fibre Washers: 1in, 1/2in & 3/4in. 15 x Ball Valve Seating Washers: 1/2in & 3/4in. 10 x Top Body Washers: No. 3 & No. 4.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Fibre Washer Kit 330 Piece",
+  "specifications": [
+    "270 x Red Fibre Washers: 9 x 6.4mm, 12.6 x 8.3mm, 16 x 10mm, 17.5 x 11.5mm, 19 x 13.5mm, 22 x 14.6mm & 22 x 17mm",
+    "35 x Fibre Washers: 1in, 1/2in & 3/4in",
+    "15 x Ball Valve Seating Washers: 1/2in & 3/4in",
+    "10 x Top Body Washers: No. 3 & No. 4"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-manometer-fluid-60ml.html|>
+## Arctic Hayes Manometer Fluid 60ml
+
+{
+  "price": "€10.58 inc VAT (€8.60 exc.vat)",
+  "description": "Arctic Hayes Manometer Fluid provides quick and accurate gauge readings. For use with U-Flow Gauges and U-Gauges. Fills up to 24in/60 mbar gauge. Contains de-ionised water wetting agent, an algaecide anti-foaming agent and an anti-standing agent.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Manometer Fluid 60ml",
+  "specifications": [
+    "ARC664018 : €10.58",
+    "Contains de-ionised water wetting agent",
+    "Algaecide anti-foaming agent",
+    "Anti-standing agent",
+    "Fills up to 24in/60 mbar gauge"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-plumbers-essential-washer-kit-210-piece.html|>
+## Arctic Hayes Plumber's Essential Washer Kit, 210 Piece
+
+{
+  "price": "€29.67 inc VAT (€24.12 exc.vat)",
+  "description": "The Arctic Hayes Plumber's Essential Washer Kit contains an assortment of 9 of the most commonly used sizes. Handy pack to keep in a work van or in the home. Contains: 30 x 1/2in Fibre Washers Y.I.F, 20 x 1/2in MT Ball-Cock Washers, 20 x 1/2in Fibre Ball Valve Seat Washers, 10 x Rubber Bottle Trap Washers: 1.1/4, 1.1/2in, 50 x Cap & Lining Washers: 1/2, 3/4in, 20 x 1/2in Rubber Shower Flex Washers, 10 x 3/4in Washing Machine Hose Washers, 35 x Fibre Flexi Tap Con Washers: 1/2, 3/4in, 15 x Compression Olives: 15, 22mm",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Plumber's Essential Washer Kit, 210 Piece",
+  "specifications": [
+    "30 x 1/2in Fibre Washers Y.I.F",
+    "20 x 1/2in MT Ball-Cock Washers",
+    "20 x 1/2in Fibre Ball Valve Seat Washers",
+    "10 x Rubber Bottle Trap Washers: 1.1/4, 1.1/2in",
+    "50 x Cap & Lining Washers: 1/2, 3/4in",
+    "20 x 1/2in Rubber Shower Flex Washers",
+    "10 x 3/4in Washing Machine Hose Washers",
+    "35 x Fibre Flexi Tap Con Washers: 1/2, 3/4in",
+    "15 x Compression Olives: 15, 22mm"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-plumbers-o-ring-kit-144-piece.html|>
+## Arctic Hayes Plumber's O-Ring Kit, 144 Piece
+
+{
+  "price": "€17.00 inc VAT (€13.82 exc.vat)",
+  "description": "The Arctic Hayes Plumber's O-Ring Kit contains a wide selection of the most commonly used sizes. Supplied in a quality carry/storage compartment box. Contains: 12 of each size:  22 x 1.8mm, 14 x 2.65mm, 24 x 1.8mm, 26 x 2.65mm, 27 x 2.65mm, 32 x 2.65mm, 30 x 3.5mm, 22 x 2.65mm, 29 x 3.5mm, 33 x 1.8mm. 24 of size: 29 x 2.65mm",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Plumber's O-Ring Kit, 144 Piece",
+  "specifications": [
+    "144 pieces in total",
+    "Includes various sizes of O-rings",
+    "Supplied in a quality carry/storage compartment box"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-popular-plumbers-washer-kit-144-piece.html|>
+## Arctic Hayes Popular Plumbers Washer Kit 144 Piece
+
+{
+  "price": "€16.91 inc VAT (€13.75 exc.vat)",
+  "description": "The Arctic Hayes Plumbers Washer Kit contains a selection of the most popular sizes in a handy storage/carry case. Supplied with 12 pieces of each size: 16.5*6mm, 24*11mm, 19.5*5mm, 15.5*4mm, 12*4mm, 32*5mm, 19*10mm, 19*11mm, 24*15mm, 22*12mm, 18*15mm & 24*20mm.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Popular Plumbers Washer Kit 144 Piece",
+  "specifications": [
+    "144 pieces in total",
+    "Includes various sizes of washers",
+    "Handy storage/carry case"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-quad-pipe-cleaning-brush.html|>
+## Arctic Hayes Quad Pipe Cleaning Brush
+
+{
+  "price": "€10.69 inc VAT (€8.69 exc.vat)",
+  "description": "The Arctic Hayes Quad Pipe Cleaning Brush is lightweight and portable, hard-wearing and durable. It features two different bore sizes and is suitable for cleaning copper pipes both inside and out. Fits 15mm and 22mm copper pipes.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Quad Pipe Cleaning Brush",
+  "specifications": [
+    "Fits 15mm and 22mm copper pipes",
+    "Lightweight and portable",
+    "Hard-wearing and durable"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-tap-washer-kit-170-piece.html|>
+## Arctic Hayes Tap Washer Kit 170 Piece
+
+{
+  "price": "€22.03 inc VAT (€17.91 exc.vat)",
+  "description": "The Arctic Hayes Tap Washer Kit contains a large selection of washers that are ideal for general plumbing. The washers are made from fibre and are supplied in a compartment case for easy identification. Contains the following: 55 x Vacca Flat Washers: 3/8in, 1/2in, 5/8in & 3/4in. 15 x Vacca Dome Washers: 1/2in & 3/4in. 30 x Dome Delta / Arm Washers: 1/2in & 3/4in. 20 x Tantofex Tap Washer: 1/2in & 3/4in. 50 x Cap & Lining Fibre Washers: 1/2in & 3/4in.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Tap Washer Kit 170 Piece",
+  "specifications": [
+    "55 x Vacca Flat Washers: 3/8in, 1/2in, 5/8in & 3/4in",
+    "15 x Vacca Dome Washers: 1/2in & 3/4in",
+    "30 x Dome Delta / Arm Washers: 1/2in & 3/4in",
+    "20 x Tantofex Tap Washer: 1/2in & 3/4in",
+    "50 x Cap & Lining Fibre Washers: 1/2in & 3/4in"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-u-flow-water-gauge.html|>
+## Arctic Hayes U-Flow Water Gauge
+
+{
+  "price": "€34.82 inc VAT (€28.31 exc.vat)",
+  "description": "The Arctic Hayes U-Flow Water Gauge has an innovative design, the clear, see-through body allows the gauges to be easily read. With opposing flow-rate measures on each side of the body, so you can measure the flow rate in litres or gallons per minute. This is a vital piece of equipment when preparing a new installation. Simple to read and easy-to-use, this is a must have for plumbers. Compatible with the 998731 stem thermometer for water temperature testing.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes U-Flow Water Gauge",
+  "specifications": [
+    "Flow Measure Range: 4-22 litre, 1-5 gallon"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-vortex-map-x-brazing-gas-cylinder.html|>
+## Arctic Hayes Vortex Map-X Brazing Gas Cylinder
+
+{
+  "price": "€26.05 inc VAT (€21.18 exc.vat)",
+  "description": "The Arctic Hayes Vortex Map-X is designed to burn at higher temperature than traditional propane and butane gases. Suitable for all soldering and brazing applications. Suitable for most CGA600 threaded torches.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Vortex Map-X Brazing Gas Cylinder",
+  "specifications": [
+    "Designed to burn at higher temperature than traditional propane and butane gases",
+    "Suitable for all soldering and brazing applications",
+    "Compatible with most CGA600 threaded torches"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-ze-spray-pipe-freezer-aero-large-kit.html|>
+## Arctic Hayes ZE Spray Pipe Freezer Aero, Large Kit
+
+{
+  "price": "€50.58 inc VAT (€41.12 exc.vat)",
+  "description": "The Arctic Hayes ZE Spray Aero, Large Freeze Kit is suitable for 2 x 8-15mm or 1 x 22-28mm pipe freeze. The safe and professional way to extend or repair pipework in minutes, without draining down or turning off the mains. Allows you to freeze pipes in as little as 2 minutes. Suitable for copper, steel, stainless steel, plastic, lead and iron pipes. It has a non-flammable formula that is also kinder to the environment, with low global warming potential gas. Saves time and money. Contains: 1 x ZE Spray Pipe Freezer Aero, Large 300ml, 2 x Freeze Jackets.",
+  "availability": "Out of Stock",
+  "product_name": "Arctic Hayes ZE Spray Pipe Freezer Aero, Large Kit",
+  "specifications": [
+    "Suitable for 2 x 8-15mm or 1 x 22-28mm pipe freeze",
+    "Freezes pipes in as little as 2 minutes",
+    "Non-flammable formula",
+    "Suitable for various pipe materials including copper, steel, plastic, and lead",
+    "Includes 1 x 300ml spray and 2 x freeze jackets"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-ze-spray-pipe-freezer-aero-small-kit.html|>
+## Arctic Hayes ZE Spray Pipe Freezer Aero, Small Kit
+
+{
+  "price": "€33.39 inc VAT (€27.15 exc.vat)",
+  "description": "The Arctic Hayes ZE Spray Aero, Small Freeze Kit is suitable for 1 x 8-15mm pipe freeze. The safe and professional way to extend or repair pipework in minutes, without draining down or turning off the mains. Allows you to freeze pipes in as little as 2 minutes. Suitable for copper, steel, stainless steel, plastic, lead and iron pipes. It has a non-flammable formula that is also kinder to the environment, with low global warming potential gas. Saves time and money. Contains: 1 x ZE Spray Pipe Freezer Aero, Small 150ml, 1 x Freeze Jacket",
+  "availability": "Out of Stock",
+  "product_name": "Arctic Hayes ZE Spray Pipe Freezer Aero, Small Kit",
+  "specifications": [
+    "Suitable for 1 x 8-15mm pipe freeze",
+    "Freezes pipes in as little as 2 minutes",
+    "Non-flammable formula",
+    "Suitable for various pipe materials: copper, steel, stainless steel, plastic, lead, and iron",
+    "Includes 150ml ZE Spray Pipe Freezer and Freeze Jacket"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-ze-spray-pipe-freezer-aero.html|>
+## Arctic Hayes ZE Spray Pipe Freezer Aero
+
+{
+  "price": "€25.04 inc VAT",
+  "description": "The Arctic Hayes ZE Spray Pipe Freezer Aero is the safe and professional way to extend or repair pipework in minutes, without draining down or turning off the mains. Allows you to freeze pipes in as little as 2 minutes. Suitable for copper, steel, stainless steel, plastic, lead and iron pipes. It has a non-flammable formula that is also kinder to the environment, with low global warming potential gas. Saves time and money.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes ZE Spray Pipe Freezer Aero",
+  "specifications": [
+    "Large 300ml",
+    "Small 150ml"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bahco-401-16-pipe-cutter-3-16mm.html|>
+## Bahco 401-16 Pipe Cutter 3-16mm
+
+{
+  "price": "€42.55 inc VAT (€34.59 exc.vat)",
+  "description": "The Bahco 401-16 Pipe Cutter is suitable for cutting copper, aluminium, copper-zinc alloy, steel and stainless steel. Its cutting wheel is mounted on a pin with a ball for quick and easy replacement. The support wheels are coated to avoid tube contamination. The pipe cutter has a specially designed knob to allow easy adjustment. Capacity: 3-16mm",
+  "availability": "In Stock",
+  "product_name": "Bahco 401-16 Pipe Cutter 3-16mm",
+  "specifications": [
+    "Capacity: 3-16mm",
+    "Suitable for cutting copper, aluminium, copper-zinc alloy, steel and stainless steel",
+    "Cutting wheel mounted on a pin with a ball for quick replacement",
+    "Support wheels coated to avoid tube contamination",
+    "Specially designed knob for easy adjustment"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-1324-lockfast-34in-drain-rod-set-4-tools.html|>
+## Bailey 1324 Lockfast 3/4in Drain Rod Set 4 Tools
+
+{
+  "price": "€127.91 inc VAT (€103.99 exc.vat)",
+  "description": "Lockfast blue polypropylene drain rod set with contents including 10 x 3/4 in x 3ft Blue Rods, 2 x 12 in Straps, 1 x 4 in Plunger, 1 x 2 in Double Worm Screw, 1 x Clearing Wheel, and 1 x 4 in Drop Scraper.",
+  "availability": "In Stock",
+  "product_name": "Bailey 1324 Lockfast 3/4in Drain Rod Set 4 Tools",
+  "specifications": [
+    "10 x 3/4 in x 3ft Blue Rods",
+    "2 x 12 in Straps",
+    "1 x 4 in Plunger",
+    "1 x 2 in Double Worm Screw",
+    "1 x Clearing Wheel",
+    "1 x 4 in Drop Scraper"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-1471-universal-34in-drain-cleaning-set-4-tools.html|>
+## Bailey 1471 Universal 3/4in Drain Cleaning Set 4 Tools
+
+{
+  "price": "€84.12 inc VAT (€68.39 exc.vat)",
+  "description": "Universal Drain Rod and Tool Set. Complete with four tools, for clearing and cleaning drains. Contents: 10 x 3/4 in x 3ft Blue Rods, 1 x Clearing Wheel, 1 x 4 in Drop Scraper, 1 x 4 in Plunger, 1 x 2 in Double Worm Screw, 2 x 12 in Straps.",
+  "availability": "In Stock",
+  "product_name": "Bailey 1471 Universal 3/4in Drain Cleaning Set 4 Tools",
+  "specifications": [
+    "10 x 3/4 in x 3ft Blue Rods",
+    "1 x Clearing Wheel",
+    "1 x 4 in Drop Scraper",
+    "1 x 4 in Plunger",
+    "1 x 2 in Double Worm Screw",
+    "2 x 12 in Straps"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-1749-universal-double-worm-screw-2in.html|>
+## Bailey 1749 Universal Double Worm Screw 2in
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "Universal Double Worm Screw that pierces blockages such as paper or rags, and the obstruction is drawn back to clear the pipe. Size: 2in.",
+  "availability": "In Stock",
+  "product_name": "Bailey 1749 Universal Double Worm Screw 2in",
+  "specifications": [
+    "Size: 2in",
+    "Universal Double Worm Screw that pierces blockages such as paper or rags"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-1779-lockfast-double-worm-screw-2in.html|>
+## 1779 Lockfast Double Worm Screw 2in
+
+{
+  "price": "€8.56 inc VAT (€6.96 exc.vat)",
+  "description": "Lockfast Double Worm Screw pierces blockages such as paper or rags, and the obstruction is drawn back to clear the pipe. Size: 2in.",
+  "availability": "In Stock",
+  "product_name": "1779 Lockfast Double Worm Screw 2in",
+  "specifications": [
+    "Size: 2in"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-1986-u-air-gauge-4in-with-label.html|>
+## Bailey 1986 U Air Gauge 4in with Label
+
+{
+  "price": "€21.56 inc VAT (€17.53 exc.vat)",
+  "description": "Drain testing U Air Gauge suitable for use in testing drains and sewers. Size: 100mm (4 in).",
+  "availability": "In Stock",
+  "product_name": "Bailey 1986 U Air Gauge 4in with Label",
+  "specifications": [
+    "Size: 100mm (4 in)"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-1988-u-gauge-tubing-1-metre.html|>
+## Bailey 1988 U Gauge Tubing (1 Metre)
+
+{
+  "price": "€2.68 inc VAT (€2.18 exc.vat)",
+  "description": "The U gauge tube has to be connected to the nipple via Y piece, U-gauge and hand bellows for the completion of air tests. Length: 1 metre.",
+  "availability": "In Stock",
+  "product_name": "Bailey 1988 U Gauge Tubing (1 Metre)",
+  "specifications": [
+    "Length: 1 metre"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-1989-y-piece.html|>
+## Bailey 1989 Y Piece
+
+{
+  "price": "€2.93 inc VAT (€2.38 exc.vat)",
+  "description": "The Y piece is the link between the hand bellows, U - gauge, test nipple via the rubber tubing.",
+  "availability": "In Stock",
+  "product_name": "Bailey 1989 Y Piece",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-4074-drain-test-kit.html|>
+## Bailey 4074 Drain Test Kit
+
+{
+  "price": "€67.80 inc VAT (€55.12 exc.vat)",
+  "description": "This BAI4074 drain test kit is an off the shelf solution for the completion of air tests to 4 inch (100mm) water gauge pressure on drains and pipes. Consists of the following:- 4 inch U - Gauge, 9 Feet Length of tubing, Hand Bellows, Y piece 1/2 inch, 1 inch Test Nipple Cap.",
+  "availability": "In Stock",
+  "product_name": "Bailey 4074 Drain Test Kit",
+  "specifications": [
+    "4 inch U - Gauge",
+    "9 Feet Length of tubing",
+    "Hand Bellows",
+    "Y piece 1/2 inch",
+    "1 inch Test Nipple Cap"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-5431-universal-34in-drain-rod-set-3-tools-in-carry-bag.html|>
+## Bailey 5431 Universal 3/4in Drain Rod Set 3 Tools In Carry Bag
+
+{
+  "price": "€72.36 inc VAT (€58.83 exc.vat)",
+  "description": "For professional people who require their tools to be at hand on a regular basis, this purpose designed set comes complete with a heavy-duty blue waterproof Bailey carry bag and supplied with adjustable shoulder straps. The compact nature of this set allows them to be easily stored in the works, shed, garage or van. This Universal Drain Rod set includes 30 feet of the finest Bailey Blue Rods® with varying tool options. The quality, reliability and strength of this equipment ensures that the toughest jobs can be tackled - an essential product for the builder, plumber, chimney sweep or handyman. The Bailey BAI5431 Universal Drain Rod Set includes 3 popular tools with the following contents: 10 x 3ft x 3/4 inch Blue Rods, 1 x 4 inch plunger, 1 x 4 inch drop scraper, 1 x double worm screw.",
+  "availability": "In Stock",
+  "product_name": "Bailey 5431 Universal 3/4in Drain Rod Set 3 Tools In Carry Bag",
+  "specifications": [
+    "10 x 3ft x 3/4 inch Blue Rods",
+    "1 x 4 inch plunger",
+    "1 x 4 inch drop scraper",
+    "1 x double worm screw"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-canvas-air-bags.html|>
+## Bailey Canvas Air Bags
+
+{
+  "price": "€40.69 inc VAT",
+  "description": "Inflatable rubber bladder with canvas protective case which can be used for blocking off pipes during maintenance and similar applications. Supplied with 1/4 in brass tap and 1.8 metres (6 ft) of tubing.",
+  "availability": "In Stock",
+  "product_name": "Bailey Canvas Air Bags",
+  "specifications": [
+    "Inflatable rubber bladder",
+    "Canvas protective case",
+    "1/4 in brass tap",
+    "1.8 metres (6 ft) of tubing"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-drain-test-plugs---brass-caps.html|>
+## Bailey Drain Test Plugs - Brass Caps
+
+{
+  "price": "€16.05 inc VAT",
+  "description": "Centre locking drain test plugs with steel plates, steel wing nuts and brass blanking caps. Suitable for air or water testing of drains and sewers.",
+  "availability": "In Stock",
+  "product_name": "Bailey Drain Test Plugs - Brass Caps",
+  "specifications": [
+    "Available sizes: 100mm (4in), 200mm (8in), 225mm (9in), 250mm (10in), 300mm (12in), 375mm (15in), 450mm (18in)"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-drain-test-plugs---plastic-caps.html|>
+## Bailey Drain Test Plugs - Plastic Caps
+
+{
+  "price": "€11.37 inc VAT",
+  "description": "Centre locking drain test plugs with steel plates, brass wing nuts and plastic blanking caps. Suitable for air or water testing of drains and sewers.",
+  "availability": "In Stock",
+  "product_name": "Bailey Drain Test Plugs - Plastic Caps",
+  "specifications": [
+    "Select Option: 3in, 4in, 6in",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-drain-tracing-dyes.html|>
+## Bailey Drain Tracing Dyes
+
+{
+  "price": "from €20.68 inc VAT",
+  "description": "The Baileys Drain Tracing Dyes are soluble in water and are used to locate the direction of water flow in pipes, drains etc. The best way to use the dye is to dissolve the required amount into about five litres of water and then add into the flow or tank. The dilution rates assume that the dye is being added to clean water, for example one 8oz jar will provide enough dye for approximately 15,000 litres/3,300 gallons of water. However please note that dirty water will require a greater concentration of dye.",
+  "availability": "In Stock",
+  "product_name": "Bailey Drain Tracing Dyes",
+  "specifications": [
+    "Soluble in water",
+    "Used to locate water flow direction",
+    "Dilution rate: 1 jar for 15,000 litres of clean water"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-lockfast-blue-polypropylene-rods.html|>
+## Bailey Lockfast Blue Polypropylene Rods
+
+{
+  "price": "from €10.47 inc VAT",
+  "description": "Baileys Blue Rods®, Polypropylene - These Rods are generally acknowledged as the best quality cleaning rods available which are specified on a world wide basis and are the preferred choice of professionals. Blue Rods® have earned an international reputation for their reliability, strength, rigidity and the right amount of flexibility. They have been developed through many years of constant research and development, the rods are manufactured from the highest grade of polypropylene whilst the joints are manufactured from solid brass. To ensure strength and durability during use the brass joints are securely fitted to the rods by brass rivets. Blue Rods® - Carry the Bailey name and this combination is your guarantee of quality. Both the 'Bailey' name and the colour blue, in respect of drain rods, are covered by international trademarks. Joints - All rods are offered with two types of joints, either Universal or Lockfast: Universal: Rods fitted with this type of joint should only be rotated in a clockwise direction. Lockfast: Rods fitted with this type of joint can be rotated in either direction and will remain secure in the most demanding conditions. Rods are manufactured from high grade polypropylene complete with solid brass joints.",
+  "availability": "In Stock",
+  "product_name": "Bailey Lockfast Blue Polypropylene Rods",
+  "specifications": [
+    "Available sizes: 1.1/8in x 3ft, 3/4in x 3ft",
+    "Manufactured from high grade polypropylene",
+    "Brass joints for strength and durability",
+    "Universal and Lockfast joint options available"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-lockfast-plungers.html|>
+## Bailey Lockfast Plungers
+
+{
+  "price": "from €4.82 inc VAT",
+  "description": "Lockfast plunger builds up pressure of water which forces the obstruction clear. One piece moulded.",
+  "availability": "In Stock",
+  "product_name": "Bailey Lockfast Plungers",
+  "specifications": [
+    "Select Option: 4in",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-universal-blue-polypropylene-rods.html|>
+## Bailey Universal Blue Polypropylene Rods
+
+{
+  "price": "from €5.24 inc VAT",
+  "description": "Baileys Blue Rods®, Polypropylene - These Rods are generally acknowledged as the best quality cleaning rods available which are specified on a world wide basis and are the preferred choice of professionals. Blue Rods® have earned an international reputation for their reliability, strength, rigidity and the right amount of flexibility. They have been developed through many years of constant research and development, the rods are manufactured from the highest grade of polypropylene whilst the joints are manufactured from solid brass. To ensure strength and durability during use the brass joints are securely fitted to the rods by brass rivets. Blue Rods® - Carry the Bailey name and this combination is your guarantee of quality. Both the 'Bailey' name and the colour blue, in respect of drain rods, are covered by international trademarks. Joints - All rods are offered with two types of joints, either Universal or Lockfast: Universal: Rods fitted with this type of joint should only be rotated in a clockwise direction. Lockfast: Rods fitted with this type of joint can be rotated in either direction and will remain secure in the most demanding conditions. Universal fitting Blue Rods which should only be rotated in a clockwise direction, these rods are manufactured from high grade polypropylene complete with solid brass joints. They are for general purpose use, small diameter drains or flues, and septic tanks.",
+  "availability": "In Stock",
+  "product_name": "Bailey Universal Blue Polypropylene Rods",
+  "specifications": [
+    "Universal fitting Blue Rods",
+    "Manufactured from high grade polypropylene",
+    "Solid brass joints",
+    "For general purpose use, small diameter drains or flues, and septic tanks"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/bailey-universal-plungers.html|>
+## Bailey Universal Plungers
+
+{
+  "price": "from €4.99 inc VAT",
+  "description": "Universal Plunger\n\nBuilds up pressure of water which forces the obstruction clear.",
+  "availability": "In Stock",
+  "product_name": "Bailey Universal Plungers",
+  "specifications": [
+    "Universal Plunger",
+    "Builds up pressure of water which forces the obstruction clear."
+  ],
+  "product_category": "Plumbing"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-2-way-shut-off-valve-19mm-34in-to-2-x-125mm-12in.html|>
+## Faithfull 2 Way Shut Off Valve 19mm (3/4in) to 2 x 12.5mm (1/2in)
+
+{
+  "price": "€24.06 inc VAT (€19.56 exc.vat)",
+  "description": "This Faithfull 2 Way Coupling converts a single tap with a 3/4in BSP thread into two quick release outlets with a shut-off valve on each. This handy adaptor allows the use of two watering accessories simultaneously if required. Manufactured from high quality solid brass and suitable for use with all 12.5mm (1/2in) quick release UK water fittings.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 2 Way Shut Off Valve 19mm (3/4in) to 2 x 12.5mm (1/2in)",
+  "specifications": [
+    "Converts a single tap with a 3/4in BSP thread into two quick release outlets",
+    "Shut-off valve on each outlet",
+    "Manufactured from high quality solid brass",
+    "Suitable for use with all 12.5mm (1/2in) quick release UK water fittings"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-butane-propane-gas-cartridges.html|>
+## Faithfull Butane Propane Gas Cartridges
+
+{
+  "price": "from €6.00 inc VAT",
+  "description": "The Faithfull Butane Propane Gas Cartridges are fitted with standard type EN417 threaded self-sealing safety valves. They are suitable for use with Faithfull and all other blow torches fitted with an EN417 fitting. These cartridges may also be used with blow torches fitted with a CGA600 fitting, using a Faithfull valve converter, product code: FAIGZCONVERT.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Butane Propane Gas Cartridges",
+  "specifications": [
+    "170g",
+    "350g"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-deluxe-toilet-auger.html|>
+## Faithfull Deluxe Toilet Auger
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "The Faithfull PDRWCAUG toilet auger is designed for the fast unblocking of toilets, this safe and easy to use auger utilises a flexible spring steel shaft with a barrel end that can be rotated to clear away blockages in toilet U bends and gullies. The auger features a vinyl sleeve that helps protect the toilet bowl from scratches and has a handy clip for storing the spring steel shaft when not in use. No chemicals are required to help remove the blockage, making this a safe and environmentally friendly product.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Deluxe Toilet Auger",
+  "specifications": [
+    "Flexible spring steel shaft",
+    "Vinyl sleeve to protect toilet bowl",
+    "No chemicals required for blockage removal"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-drill-snake-46m.html|>
+## Faithfull Drill Snake 4.6m
+
+{
+  "price": "€20.82 inc VAT (€16.93 exc.vat)",
+  "description": "The Faithfull PDRSNAKE is a labour saving drill auger (snake) designed for use on any variable speed electric or battery drill which is capable of holding a 1/4in hex shank. The auger is easy to use and will remove most types of blockages from household pipes and drains up to 50mm (2in) in diameter. It is ideal for clearing basins, sinks, baths and waste pipes when plungers and chemicals fail to work. The 4.6m 15ft x 6mm/1/4in steel cable is encased in a wipe clean PE sleeve that allows the inner cable to spin freely when attached to a rotary drill, a built in clutch will automatically engage if the cable becomes jammed. Effective length: 4.6m (15ft). No chemicals are required to help remove the blockage, making this a safe and environmentally friendly product.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Drill Snake 4.6m",
+  "specifications": [
+    "Effective length: 4.6m (15ft)",
+    "Designed for use on any variable speed electric or battery drill",
+    "Removes blockages from household pipes and drains up to 50mm (2in)",
+    "No chemicals required for blockage removal"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-drum-auger-25ft.html|>
+## Faithfull Drum Auger 25ft
+
+{
+  "price": "€34.99 inc VAT (€28.45 exc.vat)",
+  "description": "The Faithfull PDRAUG25 is an easy to use drum auger that is designed to remove blockages from household pipes and drains when plungers and chemicals fail to work. The auger utilises a 7.6m/25ft x 6mm/1/4in flexible spring steel shaft with a barrel end that can be rotated to clear away blockages and is easily retracted into its case after use for safe storage. The auger has a sturdy plastic body manufactured from PE and ABS wipe clean plastic and features both an integral winding and pistol grip handle that help make the auger easy to use. Once fully retracted the spring steel shaft can be locked in place using the locking thumb screw. No chemicals are required to help remove the blockage, making this a safe and environmentally friendly product.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Drum Auger 25ft",
+  "specifications": [
+    "7.6m/25ft x 6mm/1/4in flexible spring steel shaft",
+    "Sturdy plastic body manufactured from PE and ABS",
+    "Integral winding and pistol grip handle",
+    "Locking thumb screw for spring steel shaft"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-gas-cylinder-mapp-cga600-fitting-1.html|>
+## Faithfull Gas Cylinder MAPP CGA600 Fitting
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "A robust steel cylinder fitted with a standard CGA600 cylinder connection. MAPP gas is manufactured from a stable mixture of different proprietary gases and is the hottest commercially available gas and will provide a working temperature of up to 1600°C in conditions down to minus 20 degrees C. Can be used with FAIGZPROAUTO (Faithfull Quick Pro Auto Power Torch) and the FAIGZPOWER (Faithfull Power Torch) and other similar torches that use CGA600 valves. Ideal for use when brazing or soldering large diameter copper pipes. Size: 400g",
+  "availability": "In Stock",
+  "product_name": "Faithfull Gas Cylinder MAPP CGA600 Fitting",
+  "specifications": [
+    "Size: 400g",
+    "Working temperature up to 1600°C",
+    "CGA600 cylinder connection"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hp20-jet-pump-drain-unblocker.html|>
+## Faithfull HP20 Jet Pump Drain Unblocker
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The Faithfull HP20 is a high quality, easy to use durable jet pump utilising the power of water to unblock sinks, baths, basin and toilets. The Hydro Jet pump is supplied complete with three different shaped heads making it extremely versatile, enabling it to be used to clear many common pipe and drain blockages around the home. The small head is ideal for use on standard sinks and basins, the larger cupped head is for use on sinks with large plug recesses and also eliminates the need to remove awkward pop up plugs, which can be left in place if removal is not possible. The toilet adaptor is specially shaped to force water through the toilet pan to remove blockages. After use the Hydro Jet pump is simply cleaned out by drawing clean water into the unit three or four times and pumped to flush it out. No chemicals are required to help remove the blockage, making this a safe and environmentally friendly product.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HP20 Jet Pump Drain Unblocker",
+  "specifications": [
+    "High quality and durable jet pump",
+    "Utilizes water power to unblock drains",
+    "Includes three different shaped heads",
+    "Environmentally friendly, no chemicals required"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-large-plunger.html|>
+## Faithfull Large Plunger
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "The Faithfull PDRLARGPL is ideal for tackling blockages around the home and workplace in basins, baths and sinks. With a bellow action for increased pressure, it is safe and easy to use and clean, with a removable handle for storage. No chemicals are required to help remove the blockage, making this a safe and environmentally friendly product. Size: 125mm (5in). Overall length: 450mm (17.3/4in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Large Plunger",
+  "specifications": [
+    "Size: 125mm (5in)",
+    "Overall length: 450mm (17.3/4in)",
+    "Bellow action for increased pressure",
+    "Removable handle for storage",
+    "No chemicals required for use"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-mini-plunger.html|>
+## Faithfull Mini Plunger
+
+{
+  "price": "€4.69 inc VAT (€3.81 exc.vat)",
+  "description": "The Faithfull PDRWCPL is ideal for tackling blockages in small hand basins and sinks, this plunger is small and discreet and easily stored within a vanity unit or cabinet. It is safe and easy to use and clean. No chemicals are required to help remove the blockage, making this a safe and environmentally friendly product. Size: 115mm (4 1/2in) diameter. Overall length 180mm (7in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Mini Plunger",
+  "specifications": [
+    "Size: 115mm (4.5in) diameter",
+    "Overall length: 180mm (7in)"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/batavia-maxxpack-cordless-drain-auger-18v-bare-unit.html|>
+## Batavia MAXXPACK Cordless Drain Auger 18V Bare Unit
+
+{
+  "price": "€161.23 inc VAT (€131.08 exc.vat)",
+  "description": "The Batavia MAXXPACK Cordless Drain Auger is ideal for cleaning bathtub drains, sink drains and sewer pipes (19-50mm in diameter). Easily removes stubborn drain blockages with very little effort. It has a 6.8m unblocking spring and an LED work light. Fitted with a soft grip handle for a secure and comfortable hold. Bare Unit, No Battery or Charger.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXPACK Cordless Drain Auger 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-560/min",
+    "Spindle Diameter: 7-16mm",
+    "Working Length: 6.8m",
+    "Product Dimensions: 40 x 17 x 20cm",
+    "Weight: 3.46kg"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-airlock-release-kit.html|>
+## TALAtools Airlock Release Kit
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "Resolves air locked pipes in plumbing systems. Heavy-duty plastic construction ensures that the finish of the taps are not damaged. Easy to attach with no tools required.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Airlock Release Kit",
+  "specifications": [
+    "Heavy-duty plastic construction",
+    "Easy to attach with no tools required"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-blanking-plugs.html|>
+## TALAtools Blanking Plugs
+
+{
+  "price": "€5.58 inc VAT (€4.54 exc.vat)",
+  "description": "Temporarily plug 1/2in BSP female fittings. Hand tighten. Watertight. Colour coded for hot and cold. Prevents debris from entering pipes. Re-usable.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Blanking Plugs",
+  "specifications": [
+    "Temporarily plug 1/2in BSP female fittings",
+    "Hand tighten",
+    "Watertight",
+    "Colour coded for hot and cold",
+    "Prevents debris from entering pipes",
+    "Re-usable"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-drain-cleaning-wire.html|>
+## TALAtools Drain Cleaning Wire
+
+{
+  "price": "€11.32 inc VAT (€9.20 exc.vat)",
+  "description": "For unblocking drains. Screw end enables cause of blockage to be withdrawn. Can also be used for disconnecting bottle traps.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Drain Cleaning Wire",
+  "specifications": [
+    "TAL69465 : €11.32",
+    "QtyAdd to Basket"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-drain-stick.html|>
+## TALAtools Drain Stick
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "For unblocking drains. Removes waste which collects in waste outlets and traps. Flexible plastic with barb.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Drain Stick",
+  "specifications": [
+    "Flexible plastic with barb",
+    "Removes waste from drains"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-easy-drain-down-avoidance-kit.html|>
+## TALAtools Easy Drain Down Avoidance Kit
+
+{
+  "price": "€10.66 inc VAT (€8.67 exc.vat)",
+  "description": "Allows removal of central heating radiators without draining system. Can be used in 1/2in and 3/4in pipes and fittings. Push firmly into holes to close off water or air movement. Comes with a vent key.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Easy Drain Down Avoidance Kit",
+  "specifications": [
+    "TAL69472 : €10.66",
+    "Can be used in 1/2in and 3/4in pipes and fittings",
+    "Comes with a vent key"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-manhole-cover-keys-pack-of-2-620mm.html|>
+## TALAtools Manhole Cover Keys (Pack of 2) 620mm
+
+{
+  "price": "€16.63 inc VAT (€13.52 exc.vat)",
+  "description": "Made from galvanised steel for removal of manhole covers",
+  "availability": "In Stock",
+  "product_name": "TALAtools Manhole Cover Keys (Pack of 2) 620mm",
+  "specifications": [
+    "Pack of 2",
+    "620mm length",
+    "Made from galvanised steel"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-monobloc-tap-back-nut-spanner-2-piece.html|>
+## TALAtools Monobloc Tap Back Nut Spanner 2 Piece
+
+{
+  "price": "€4.23 inc VAT (€3.44 exc.vat)",
+  "description": "For fitting back nuts to monobloc taps in restricted access areas. Includes tommy bar. Sizes: 9 x 11mm & 12 x 13mm",
+  "availability": "In Stock",
+  "product_name": "TALAtools Monobloc Tap Back Nut Spanner 2 Piece",
+  "specifications": [
+    "Sizes: 9 x 11mm & 12 x 13mm",
+    "Includes tommy bar"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-radiator-bleed-keys-pack-2.html|>
+## TALAtools Radiator Bleed Keys (Pack 2)
+
+{
+  "price": "€2.12 inc VAT (€1.72 exc.vat)",
+  "description": "Made from solid brass. Used for venting excess air from radiators. Pack of 2. Display packaged.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Radiator Bleed Keys (Pack 2)",
+  "specifications": [
+    "Made from solid brass",
+    "Used for venting excess air from radiators",
+    "Pack of 2",
+    "Display packaged"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-tap-reseating-tool.html|>
+## TALAtools Tap Reseating Tool
+
+{
+  "price": "€19.50 inc VAT (€15.85 exc.vat)",
+  "description": "Universal design for smoothing out and repairing tap seating. Suitable for traditional sink, basin and bath taps.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Tap Reseating Tool",
+  "specifications": [
+    "Universal design",
+    "For smoothing out and repairing tap seating",
+    "Suitable for traditional sink, basin and bath taps"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-veha-radiator-vent-keys-pack-2.html|>
+## TALAtools Veha Radiator Vent Keys (Pack 2)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Chromium plated\nFor central heating radiators\nIdeal for inaccessible areas\nTwin pack",
+  "availability": "In Stock",
+  "product_name": "TALAtools Veha Radiator Vent Keys (Pack 2)",
+  "specifications": [
+    "Chromium plated",
+    "For central heating radiators",
+    "Ideal for inaccessible areas",
+    "Twin pack"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/talatools-water-pressure-test-kit.html|>
+## TALAtools Water Pressure Test Kit
+
+{
+  "price": "€19.51 inc VAT (€15.86 exc.vat)",
+  "description": "Tests water pressure on any tap outlet. Heavy-duty plastic construction. Will not damage or scar chrome finishes. Measures water up to 4 bar.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Water Pressure Test Kit",
+  "specifications": [
+    "Tests water pressure on any tap outlet",
+    "Heavy-duty plastic construction",
+    "Will not damage or scar chrome finishes",
+    "Measures water up to 4 bar"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-olive-puller-1522mm.html|>
+## Faithfull Olive Puller 15/22mm
+
+{
+  "price": "€25.15 inc VAT (€20.45 exc.vat)",
+  "description": "The Faithfull Olive Puller makes easy work of removing compression-fitting olives without damaging the pipe. It has a durable solid brass construction with a zinc-plated tommy bar. Insert the puller into the pipe, screw the pipe's compression nut onto the olive puller's thread and turn the tommy bar clockwise to pull the olive free. Fits 15mm and 22mm diameter pipes.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Olive Puller 15/22mm",
+  "specifications": [
+    "Fits 15mm and 22mm diameter pipes",
+    "Durable solid brass construction",
+    "Zinc-plated tommy bar"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-ptfe-gas-tape-12mm-x-5m-white-pack-10.html|>
+## Faithfull P.T.F.E Gas Tape 12mm x 5m White (Pack 10)
+
+{
+  "price": "€10.33 inc VAT (€8.40 exc.vat)",
+  "description": "Faithfull gas quality P.T.F.E (polytetrafluoroethylene) tape will provide a gas, air and water tight seal on threaded joints. This invaluable tape is an essential component when working on gas pipework. Suitable for use on BS21 threads up to 50mm (2in). It is non-adhesive, no need for messy compounds. It won’t harden or dry out and is resistant to cracking, impermeable to ˃20 bar and performs a lubricating function. Used in the plumbing and heating industries for sealing pipes, conduits, bolts, valves and threaded gas lines that carry all common gases such as air, oxygen, ammonia, butane, chlorine and hydrogen, and liquids such as water, propylene glycol, kerosene and diesel. This tape satisfies BGC IM/16 and is tested to EN751-3:1997. Supplied as a pack of 10 rolls, not sold singularly.",
+  "availability": "In Stock",
+  "product_name": "Faithfull P.T.F.E Gas Tape 12mm x 5m White (Pack 10)",
+  "specifications": [
+    "12mm x 5m",
+    "Pack of 10 rolls",
+    "Gas, air and water tight seal",
+    "Non-adhesive",
+    "Resistant to cracking",
+    "Impermeable to ˃20 bar"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-ptfe-tape-12mm-x-12m-white-pack-10.html|>
+## Faithfull P.T.F.E Tape 12mm x 12m White (Pack 10)
+
+{
+  "price": "€2.99 inc VAT (€2.43 exc.vat)",
+  "description": "Used by plumbers and heating engineers to provide a watertight seal on threaded joints. This invaluable tape is an essential component when working on all types of pipework, helping to ensure that a watertight seal is achieved and maintained on all threaded joints. This effective tape is a must for every toolbox.",
+  "availability": "In Stock",
+  "product_name": "Faithfull P.T.F.E Tape 12mm x 12m White (Pack 10)",
+  "specifications": [
+    "Width: 12mm",
+    "Length: 12m",
+    "Pack of 10"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pc330-pipe-cutter-3---30mm.html|>
+## Faithfull PC330 Pipe Cutter 3 - 30mm
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "Adjustable Cutter cuts copper, brass, aluminium and light gauge steel tube. Tube Cutting Capacity. 3 to 30 mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull PC330 Pipe Cutter 3 - 30mm",
+  "specifications": [
+    "Cuts copper, brass, aluminium, and light gauge steel tube",
+    "Tube Cutting Capacity: 3 to 30 mm"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pc642-pipe-cutter-6---42mm.html|>
+## Faithfull PC642 Pipe Cutter 6 - 42mm
+
+{
+  "price": "€27.74 inc VAT (€22.55 exc.vat)",
+  "description": "The Faithfull adjustable pipe cutter cuts copper, brass, aluminium and light gauge steel tube. It features a retractable de-burrer and has a steel wheel and rollers. The Faithfull FAIPC642 has a tube cutting capacity: 6 - 42mm outside diameter.",
+  "availability": "In Stock",
+  "product_name": "Faithfull PC642 Pipe Cutter 6 - 42mm",
+  "specifications": [
+    "Cuts copper, brass, aluminium, and light gauge steel tube",
+    "Retractable de-burrer",
+    "Steel wheel and rollers",
+    "Tube cutting capacity: 6 - 42mm outside diameter"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pipe-cutter-3---16mm.html|>
+## Faithfull Pipe Cutter 3 - 16mm
+
+{
+  "price": "€14.55 inc VAT (€11.83 exc.vat)",
+  "description": "This Faithfull Pipe Cutter crafted from durable zinc alloy, this tool is designed to provide long-lasting performance and reliability. Whether you’re a professional plumber or a DIY enthusiast, this pipe cutter is an essential addition to your toolkit. Effortlessly cut through metal pipes with precision using our 3-16mm Metal Pipe Cutter. Ideal for cutting copper, brass, aluminium, and thin-walled steel pipes. Perfect for plumbing, and general maintenance tasks.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Pipe Cutter 3 - 16mm",
+  "specifications": [
+    "Cuts pipes from 3mm to 16mm",
+    "Made from durable zinc alloy",
+    "Ideal for copper, brass, aluminium, and thin-walled steel pipes"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pipe-cutter-3---30mm.html|>
+## Faithfull Pipe Cutter 3 - 30mm
+
+{
+  "price": "€19.73 inc VAT (€16.04 exc.vat)",
+  "description": "This Faithfull Pipe Cutter crafted from durable zinc alloy, this tool is designed to provide long-lasting performance and reliability. Whether you’re a professional plumber or a DIY enthusiast, this pipe cutter is an essential addition to your toolkit. Effortlessly cut through metal pipes with precision using our 3-30mm Metal Pipe Cutter. Ideal for cutting copper, brass, aluminium, and thin-walled steel pipes. Perfect for plumbing, and general maintenance tasks.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Pipe Cutter 3 - 30mm",
+  "specifications": [
+    "Material: Zinc Alloy",
+    "Cutting Capacity: 3-30mm",
+    "Ideal for cutting copper, brass, aluminium, and thin-walled steel pipes"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pipe-cutter-replacement-wheels-pack-of-3.html|>
+## Faithfull Pipe Cutter Replacement Wheels (Pack of 3)
+
+{
+  "price": "€12.47 inc VAT (€10.14 exc.vat)",
+  "description": "A range of replacement pipe cutter wheels for pipe cutters are available, as a sharp blade will result in a better cut and more reliable connection. The Faithfull FAIPCW642 pipe cutter replacement wheels (set of 3) is compatible with PC642.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Pipe Cutter Replacement Wheels (Pack of 3)",
+  "specifications": [
+    "Pack of 3 replacement wheels",
+    "Compatible with PC642",
+    "Sharp blades for better cuts"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pipe-slicer-copper-chopper.html|>
+## Faithfull Pipe Slicer Copper Chopper
+
+{
+  "price": "€14.99 inc VAT",
+  "description": "The Faithfull Copper Chopper is the perfect tool for making clean burr-free cuts in copper pipes. It is ideal for use in confined or awkward places and it can be operated using only one hand. Simply clip the tool onto the pipe and rotate the cutter in the direction of the arrow shown on the cutter body until the pipe is cut clean through. The Copper chopper is designed to cut copper pipe only, and not for use when cutting pipes manufactured from other materials such as stainless steel or plastic. Replacement cutting wheels are available.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Pipe Slicer Copper Chopper",
+  "specifications": [
+    "Cuts copper pipes cleanly and burr-free",
+    "Operable with one hand",
+    "Ideal for confined spaces",
+    "Replacement cutting wheels available"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pipe-slicer-wheel-only-pack-of-4.html|>
+## Faithfull Pipe Slicer Wheel Only (Pack of 4)
+
+{
+  "price": "€9.08 inc VAT (€7.38 exc.vat)",
+  "description": "The Faithfull FAIPCCRW is a pack of 4 replacement cutting wheels for the Copper Chopper Pipe Slicer. The Faithfull ‘Copper Chopper’ is the perfect tool for making clean burr-free cuts in copper pipes. Ideal for use in confined or awkward places, it can be operated while using only one hand.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Pipe Slicer Wheel Only (Pack of 4)",
+  "specifications": [
+    "Pack of 4 replacement cutting wheels",
+    "Compatible with Copper Chopper Pipe Slicer",
+    "Ideal for clean burr-free cuts in copper pipes",
+    "Operable with one hand in confined spaces"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plastic-pipe-cutter-pro-capacity-3-42mm.html|>
+## Faithfull Plastic Pipe Cutter Pro Capacity 3-42mm
+
+{
+  "price": "€24.66 inc VAT (€20.05 exc.vat)",
+  "description": "This Faithfull Professional Plastic Pipe Cutter is ideal for use in demanding environments. Made from heavy gauge aluminium and incorporating a heavier duty ratcheting mechanism, this pipe cutter has been designed for everyday use and will perform quick, precise cuts on pipe of up to 42mm in diameter. The cutter features a handle lock that protects the stainless steel blade when in storage or not in use.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plastic Pipe Cutter Pro Capacity 3-42mm",
+  "specifications": [
+    "Capacity: 3-42mm",
+    "Heavy gauge aluminium construction",
+    "Heavier duty ratcheting mechanism",
+    "Designed for everyday use",
+    "Quick, precise cuts on pipe up to 42mm"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plumber-soldering-pad-1200c-195-x-300mm.html|>
+## Faithfull Plumber Soldering Pad 1200°C 195 x 300mm
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "The Faithfull Plumber Soldering Pad is a high temperature, asbestos free protective heat pad for plumbing, brazing and soldering applications. Ideal for professional soft soldering, brazing and most other plumbing applications, this heavy-duty heat pad will provide protection to surfaces against burn marks and heat damage. For best results always insure the white side of the pad is facing towards the heat source and avoid direct flame contact with the surface of the pad for prolonged periods. If the surface of the pad begins to glow it should be moved slightly so that the flame is redirected to a previously unheated area. The pad also features an easy wipe clean back and has reinforced edging. Recommended for use with both Butane and Propane gas. Size: 195 x 300mm. Withstands temperatures of up to 1,200°C.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plumber Soldering Pad 1200°C 195 x 300mm",
+  "specifications": [
+    "Size: 195 x 300mm",
+    "Withstands temperatures of up to 1,200°C",
+    "Asbestos free",
+    "Ideal for plumbing, brazing and soldering applications"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-toilet-plunger.html|>
+## Faithfull Toilet Plunger
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "The Faithfull PDRWCPL is designed for use within the toilet bowl, this plastic bellow plunger is shaped to force a powerful jet of water directly at a blockage within the main bend of the toilet pan. Unlike a drain auger the plunger has no hard moving parts so there is no chance of scratching the pan. Simple and easy to use, this tool is the first to grab when tackling a blocked toilet, manufactured from durable plastic it is easily cleaned and is fitted with a removable handle for storage. No chemicals are required to help remove the blockage, making this a safe and environmentally friendly product. Overall length: 530mm (20.3/4in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Toilet Plunger",
+  "specifications": [
+    "Overall length: 530mm (20.3/4in)",
+    "Manufactured from durable plastic",
+    "Removable handle for storage",
+    "No chemicals required for use"
+  ],
+  "product_category": "Plumbing"
+}
+
+<|https://www.mydiy.ie/products/faithfull-universal-drain-clean-set-10-x-rods-plunger-and-worm.html|>
+## Faithfull Universal Drain Clean Set (10 x Rods, Plunger & Worm)
+
+{
+  "price": "€50.81 inc VAT (€41.31 exc.vat)",
+  "description": "These Faithfull drain rods can be used to clean and remove obstructions from most domestic 100mm (4in) underground drainage pipes. The set consists of ten flexible, screw together rods which can reach up to 9 metres in length when fully assembled. Each 920mm polypropylene drain rod has crimped and pinned rustproof connectors for extra strength and the kit is supplied complete with a 100mm rubber plunger and a 50mm double worm screw.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Universal Drain Clean Set (10 x Rods, Plunger & Worm)",
+  "specifications": [
+    "10 flexible, screw together rods",
+    "Reaches up to 9 metres in length",
+    "Each rod is 920mm",
+    "Includes a 100mm rubber plunger",
+    "Includes a 50mm double worm screw"
+  ],
+  "product_category": "Plumbing"
+}
+

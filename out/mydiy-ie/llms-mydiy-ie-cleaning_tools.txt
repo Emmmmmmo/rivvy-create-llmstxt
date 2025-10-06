@@ -1,0 +1,243 @@
+<|https://www.mydiy.ie/products/batavia-twin-brush-hard-brush-red.html|>
+## Batavia Twin Brush Hard Brush (Red)
+
+{
+  "price": "€15.20 inc VAT (€12.36 exc.vat)",
+  "description": "Batavia Twin Brush Hard Brush (Red) for intensive cleaning. It is the perfect accessory for cleaning (ceramic) indoor and outdoor tiles, outdoor furniture, wooden decks, walls, garage doors and much more. For use with the Batavia Twin Brush Scrubber.",
+  "availability": "In Stock",
+  "product_name": "Batavia Twin Brush Hard Brush (Red)",
+  "specifications": [
+    "Model: BAT7064253",
+    "Price: €15.20",
+    "Usage: For cleaning indoor and outdoor surfaces"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/batavia-twin-brush-medium-brush-blue.html|>
+## Batavia Twin Brush Medium Brush (Blue)
+
+{
+  "price": "€15.20 inc VAT (€12.36 exc.vat)",
+  "description": "The Batavia Medium Twin Brush (Blue) is for all-round cleaning. It is the perfect accessory for cleaning boats (ceramic) indoor and outdoor tiles, outdoor wooden furniture, wooden deck, walls, garage doors, floors, and much more. For use with the Batavia Twin Brush Scrubber.",
+  "availability": "In Stock",
+  "product_name": "Batavia Twin Brush Medium Brush (Blue)",
+  "specifications": [
+    "Model: BAT7064252",
+    "Price: €15.20",
+    "Color: Blue",
+    "Usage: All-round cleaning for various surfaces"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-broom-head-soft-cream-pvc-bristle-300mm-12in-threaded-socket.html|>
+## Faithfull Broom Head Soft Cream PVC Bristle 300mm (12in) Threaded Socket
+
+<|https://www.mydiy.ie/products/faithfull-deck-scrub-broom-head-175mm-7in-threaded-socket.html|>
+## Faithfull Deck Scrub Broom Head 175mm (7in) Threaded Socket
+
+<|https://www.mydiy.ie/products/faithfull-floor-squeegee.html|>
+## Faithfull Floor Squeegee
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-curved-yard-squeegee-30in-762mm.html|>
+## Faithfull Heavy-Duty Curved Yard Squeegee 30in (762mm)
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-straight-yard-squeegee-22in-559mm.html|>
+## Faithfull Heavy-Duty Straight Yard Squeegee 22in (559mm)
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-winged-yard-squeegee-26in-660mm.html|>
+## Faithfull Heavy-Duty Winged Yard Squeegee 26in (660mm)
+
+<|https://www.mydiy.ie/products/bulldozer-14in-stainless-steel-window-squeegee.html|>
+## Bulldozer 14In Stainless Steel Window Squeegee
+
+{
+  "price": "€9.13 inc VAT (€7.42 exc.vat)",
+  "description": "Bulldozer Pro products are engineered to tackle the toughest cleaning jobs and the heavy-duty range is designed to deliver outstanding performance. The Bulldozer Pro heavy duty window squeege is designed to tackle the rough cleaning jobs with ease. Perfect for use anywhere, from windows and shower screens to tiled surfaces. The wider 14\" integrated rubber blade covers a larger surface area in fewer strokes, to achieve a streak-free finish.",
+  "availability": "Out of Stock",
+  "product_name": "Bulldozer 14In Stainless Steel Window Squeegee",
+  "specifications": [
+    "14In Stainless Steel Window Squeegee",
+    "BDZUNPWS114 : €9.13"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-cotton-mop-and-soft-grip-wooden-handle.html|>
+## Bulldozer Cotton Mop And Soft Grip Wooden Handle
+
+{
+  "price": "€8.31 inc VAT (€6.76 exc.vat)",
+  "description": "Bulldozer Pro products are engineered to tackle the toughest cleaning jobs and the heavy-duty range is designed to deliver outstanding performance. The Bulldozer cotton mop has highly absorbent cotton yarn strands for effective mopping and the wooden handle has a neoprene hand hold for maximum cushioned grip.",
+  "availability": "Out of Stock",
+  "product_name": "Bulldozer Cotton Mop And Soft Grip Wooden Handle",
+  "specifications": [
+    "Highly absorbent cotton yarn strands",
+    "Wooden handle with neoprene hand hold for maximum cushioned grip"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-deck-scrub-broom-279mm-11in.html|>
+## Bulldozer Deck Scrub Broom 279mm (11in)
+
+{
+  "price": "€14.13 inc VAT (€11.49 exc.vat)",
+  "description": "BULLDOZER Deck Scrub Broom with stiff PET ‘Turret Effect’ bristles to effectively clean in between the grooves of decking, paving and pathways removing grime from awkward areas. There is also an integrated metal scraper to remove stubborn debris including moss, algae, snow and ice. Its metal handle is fitted with a cushioned neoprene grip that provides additional comfort whilst sweeping. A double lock bracket provides additional stability when in use. Made in UK.",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Deck Scrub Broom 279mm (11in)",
+  "specifications": [
+    "Stiff PET ‘Turret Effect’ bristles",
+    "Integrated metal scraper",
+    "Cushioned neoprene grip",
+    "Double lock bracket for stability",
+    "Made in UK"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-heavy-duty-broom.html|>
+## Bulldozer Heavy-duty Broom
+
+{
+  "price": "€11.64 inc VAT",
+  "description": "BULLDOZER Heavy-duty Broom with stiff dual PET bristles. Engineered to tackle the toughest cleaning jobs, making them an essential addition to your kit. Whether you’re dealing with stubborn dirt or dead leaves, our heavy-duty brooms are designed to deliver outstanding performance. Designed for all heavy-duty sweeping applications both dry rubble and wet debris including snow and ice. Its durable plastic head is hardwearing and protected against all outside elements. Its metal handle is fitted with a cushioned neoprene grip that provides additional comfort whilst sweeping. A double lock bracket provides additional stability when in use. These brushes are effective across large spaces allowing you to sweep away heavy debris, leaves, and dirt from paths, patios, gardens and driveways.",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Heavy-duty Broom",
+  "specifications": [
+    "355mm (14in)",
+    "600mm (24in)"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-heavy-duty-dustpan-and-brush-set.html|>
+## Bulldozer Heavy-duty Dustpan and Brush Set
+
+{
+  "price": "€6.64 inc VAT (€5.40 exc.vat)",
+  "description": "BULLDOZER Heavy-duty Dustpan and Brush Set. The brush features stiff dual fill PET bristles designed for heavy-duty sweeping applications, both dry rubble and wet debris including snow and ice. Fitted with a soft grip handle provides additional comfort whilst sweeping. It also features a scraper tip to remove stubborn grime. The heavy-duty deep pan has been designed for collecting large quantities of heavy garden debris and rubble. A rubber lip moulds to the floor for the collection of finer particles. Assembled in UK.",
+  "availability": "Out of Stock",
+  "product_name": "Bulldozer Heavy-duty Dustpan and Brush Set",
+  "specifications": [
+    "BDZ8015BY : €6.64",
+    "Heavy-duty Dustpan and Brush Set",
+    "Stiff dual fill PET bristles",
+    "Soft grip handle",
+    "Scraper tip for stubborn grime",
+    "Heavy-duty deep pan for large debris",
+    "Rubber lip for finer particles",
+    "Assembled in UK"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-heavy-duty-floor-sweeper-ergo-handle.html|>
+## Bulldozer Heavy-Duty Floor Sweeper Ergo Handle
+
+{
+  "price": "€13.31 inc VAT (€10.82 exc.vat)",
+  "description": "Bulldozer Pro products are engineered to tackle the toughest cleaning jobs, and the heavy-duty range is designed to deliver outstanding performance. The Bulldozer Pro floor sweeper with ergonomic handle is heavy duty, with a soft grip neoprene handle offering a maximum cushioned grip. The flat mop is capable of covering large surface areas and it's pivotal bracket allows the mop head to clean at differing angles, making it ideal for cleaning under low objects.",
+  "availability": "Out of Stock",
+  "product_name": "Bulldozer Heavy-Duty Floor Sweeper Ergo Handle",
+  "specifications": [
+    "Heavy-Duty Floor Sweeper",
+    "Ergo Handle",
+    "Soft grip neoprene handle",
+    "Covers large surface areas",
+    "Pivotal bracket for cleaning at different angles"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-heavy-duty-long-handled-dustpan-and-brush-set.html|>
+## Bulldozer Heavy-duty Long Handled Dustpan and Brush Set
+
+{
+  "price": "€29.11 inc VAT (€23.67 exc.vat)",
+  "description": "The BULLDOZER Heavy-duty Long Handled Dustpan and Brush Set prevents the need to bend down providing additional comfort whilst sweeping. Soft flagged bristles aid the collection of finer debris and dust particles. The fully enclosed dustpan is ideal for collecting large amounts of waste. A fully enclosed lid retains unsightly dirt and rubbish. The set clips together for easy storage. BULLDOZER brushes are engineered to tackle the toughest cleaning jobs, making them an essential addition to your kit.",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Heavy-duty Long Handled Dustpan and Brush Set",
+  "specifications": [
+    "Heavy-duty design",
+    "Long handled for comfort",
+    "Soft flagged bristles",
+    "Fully enclosed dustpan",
+    "Easy storage"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-heavy-duty-mop-with-23mm-ergo-handle.html|>
+## Bulldozer Heavy-Duty Mop With 23Mm Ergo Handle
+
+{
+  "price": "€5.82 inc VAT (€4.73 exc.vat)",
+  "description": "Bulldozer Pro products are engineered to tackle the toughest cleaning jobs and the heavy-duty range is designed to deliver outstanding performance. The Bulldozer strip mop with ergonomic handle is heavy duty, with a soft grip neoprene handle offering a maximum cushioned grip. The strip mop is capable of covering large surface areas efficiently and it’s Screw Thread mop head, allows it to be removed to either clean or change.",
+  "availability": "Out of Stock",
+  "product_name": "Bulldozer Heavy-Duty Mop With 23Mm Ergo Handle",
+  "specifications": [
+    "Heavy-Duty Mop",
+    "23Mm Ergo Handle",
+    "Soft grip neoprene handle",
+    "Screw Thread mop head"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-heavy-duty-utility-broom-380mm-15in.html|>
+## Bulldozer Heavy-duty Utility Broom 380mm (15in)
+
+{
+  "price": "€14.98 inc VAT (€12.18 exc.vat)",
+  "description": "BULLDOZER Heavy-duty Utility Broom with stiff dual PET and natural bassine bristles. The stiff bristles have been designed for sweeping up heavy debris in both wet and dry conditions. Whilst the natural bassine is resilient to both water and cleaning chemicals. There is also an integrated metal scraper to remove stubborn debris including moss, algae, snow and ice. Its metal handle is fitted with a cushioned neoprene grip that provides additional comfort whilst sweeping. A double lock bracket provides additional stability when in use. BULLDOZER brushes are engineered to tackle the toughest cleaning jobs, making them an essential addition to your kit. Whether you’re dealing with stubborn dirt or dead leaves, our heavy-duty brooms are designed to deliver outstanding performance. Made in UK.",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Heavy-duty Utility Broom 380mm (15in)",
+  "specifications": [
+    "Heavy-duty Utility Broom",
+    "380mm (15in)",
+    "Stiff dual PET and natural bassine bristles",
+    "Integrated metal scraper",
+    "Cushioned neoprene grip",
+    "Double lock bracket for stability"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-heavy-duty-waterfed-window-cleaner-3m.html|>
+## Bulldozer Heavy-Duty Waterfed Window Cleaner 3m
+
+{
+  "price": "€24.97 inc VAT (€20.30 exc.vat)",
+  "description": "The Bulldozer Pro Heavy Duty Water Fed Window Cleaner with Telescopic Handle, which extends to 300cm, comes with a detachable head with Squeegee and micofibre Cleaning Cloth which can be used as a handheld also.",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Heavy-Duty Waterfed Window Cleaner 3m",
+  "specifications": [
+    "Telescopic Handle extends to 300cm",
+    "Detachable head with Squeegee",
+    "Includes microfiber Cleaning Cloth"
+  ],
+  "product_category": "Cleaning Tools"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-stiff-dual-pet-wooden-broom-with-metal-handle-279mm-11in.html|>
+## Bulldozer Stiff Dual PET Wooden Broom with Metal Handle 279mm (11in)
+
+{
+  "price": "€14.13 inc VAT (€11.49 exc.vat)",
+  "description": "BULLDOZER Stiff Dual PET Broom with a wooden head. Its heavy-duty stiff black and yellow PET bristles have been designed for heavy outdoor sweeping applications including snow and ice. Can be used in both wet and dry conditions. Its metal handle is fitted with a cushioned neoprene grip that provides additional comfort whilst sweeping. A double lock bracket provides additional stability when in use. BULLDOZER brushes are engineered to tackle the toughest cleaning jobs, making them an essential addition to your kit. Whether you’re dealing with stubborn dirt or dead leaves, our heavy-duty brooms are designed to deliver outstanding performance. Made in UK.",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Stiff Dual PET Wooden Broom with Metal Handle 279mm (11in)",
+  "specifications": [
+    "Heavy-duty stiff black and yellow PET bristles",
+    "Designed for heavy outdoor sweeping applications",
+    "Can be used in both wet and dry conditions",
+    "Metal handle with cushioned neoprene grip",
+    "Double lock bracket for stability"
+  ],
+  "product_category": "Cleaning Tools"
+}
+

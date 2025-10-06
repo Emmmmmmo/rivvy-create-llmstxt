@@ -1,0 +1,1068 @@
+<|https://www.mydiy.ie/products/2000w-round-fan-heater.html|>
+## 2000W Round Fan Heater
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "2 Heat Settings: 1000W/2000W, Adjustable thermostat control, Cool air for summer use, Overheat safety cut-out, Power indicator light",
+  "availability": "In Stock",
+  "product_name": "2000W Round Fan Heater",
+  "specifications": [
+    "2 Heat Settings: 1000W/2000W",
+    "Adjustable thermostat control",
+    "Cool air for summer use",
+    "Overheat safety cut-out",
+    "Power indicator light"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-bassinecane-flat-broom-325mm-13in.html|>
+## Faithfull Bassine/Cane Flat Broom 325mm (13in)
+
+{
+  "price": "€15.69 inc VAT (€12.76 exc.vat)",
+  "description": "The Faithfull Bassine/Cane Flat Broom is suitable for use in dry conditions. Cane combined with bassine provides a natural brush that has the good sweeping characteristics of bassine with added stiffness, thanks to the cane. Best used dry as can distort if used wet. Broom head supplied complete with handle.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Bassine/Cane Flat Broom 325mm (13in)",
+  "specifications": [
+    "Width: 325mm (13in)",
+    "Handle Length: 1.37m (54in)",
+    "Socket: 28mm (1.1/8in)",
+    "Replacement Handle Code: FAIRH54118"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-black-rubble-sacks.html|>
+## Faithfull Black Rubble Sacks
+
+{
+  "price": "from €3.37 inc VAT",
+  "description": "These Faithfull strong, heavy-duty black rubble sacks are suitable for DIY building waste, rubble and garden waste. Size: 510 x 760mm. Bag thickness: 100 Microns. Capacity: 40 Litres.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Black Rubble Sacks",
+  "specifications": [
+    "Size: 510 x 760mm",
+    "Bag thickness: 100 Microns",
+    "Capacity: 40 Litres"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-blue-heavy-duty-rubble-sacks.html|>
+## Faithfull Blue Heavy-Duty Rubble Sacks
+
+{
+  "price": "€4.40 inc VAT",
+  "description": "Faithfull extra strong, heavy-duty blue rubble sacks are ideal for the heaviest applications. They are suitable for bagging general building waste, rubble and heavy garden waste ready for disposal. Size: 530 x 810mm. Bag thickness: 125 Microns. Capacity: 48 Litres.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Blue Heavy-Duty Rubble Sacks",
+  "specifications": [
+    "Size: 530 x 810mm",
+    "Bag thickness: 125 Microns",
+    "Capacity: 48 Litres"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-broom-bassine-30cm-12in-head-with-48in-handle.html|>
+## Faithfull Broom Bassine 30cm (12in) Head with 48in Handle
+
+{
+  "price": "€8.92 inc VAT (€7.25 exc.vat)",
+  "description": "The Faithfull FAIBRBASS12H bassine broom has a bassine broom head 300mm (12 inch). Bassine is a natural material made from dried palm leaves. It provides good sweeping performance, best used in dry conditions as it can distort if used wet.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Broom Bassine 30cm (12in) Head with 48in Handle",
+  "specifications": [
+    "Broom head size: 300mm (12 inch)",
+    "Material: Bassine (dried palm leaves)",
+    "Best used in dry conditions"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-broom-coco-30cm-12in-head-with-48in-handle.html|>
+## Faithfull Broom Coco 30cm (12in) Head with 48in Handle
+
+{
+  "price": "€8.92 inc VAT (€7.25 exc.vat)",
+  "description": "The Faithfull FAIBRCOCO12H coco broom is a by-product of coconut harvesting, natural coco brushes are softer compared to other natural brooms, but still provide good sweeping characteristics. This broom should only be used in dry conditions. The Faithfull FAIBRCOCO12H has a 300mm (12 inch) coco broom head complete with handle.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Broom Coco 30cm (12in) Head with 48in Handle",
+  "specifications": [
+    "300mm (12 inch) coco broom head",
+    "48 inch handle",
+    "Natural coco brushes",
+    "Suitable for dry conditions"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-broom-pvc-325mm-13-in-head-complete-with-handle.html|>
+## Faithfull Broom PVC 325mm (13 in) Head complete with Handle
+
+{
+  "price": "€17.43 inc VAT (€14.17 exc.vat)",
+  "description": "Hardwearing PVC broom heads provide an excellent sweeping performance with the added benefit that they can be used dry or wet. The Faithfull FAIBRPVC13H PVC broom with 325mm (13in) head complete with handle.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Broom PVC 325mm (13 in) Head complete with Handle",
+  "specifications": [
+    "325mm (13in) head",
+    "Hardwearing PVC material",
+    "Can be used dry or wet"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-broom-pvc-600mm-24in-and-54in-handle.html|>
+## Faithfull Broom PVC 600mm 24in & 54in Handle
+
+{
+  "price": "€20.69 inc VAT (€16.82 exc.vat)",
+  "description": "The Faithfull 600mm (24in) hardwearing PVC broom head provides an excellent sweeping performance with the added benefit that they can be used dry or wet. These broom heads come complete with a handle and stay.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Broom PVC 600mm 24in & 54in Handle",
+  "specifications": [
+    "600mm (24in) hardwearing PVC broom head",
+    "Can be used dry or wet",
+    "Comes complete with a handle and stay"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-cotton-socket-mop-head-no-16.html|>
+## Faithfull Cotton Socket Mop Head No 16
+
+{
+  "price": "€4.51 inc VAT (€3.67 exc.vat)",
+  "description": "A traditional style heavy-duty cotton mop head with a galvanised bracket and socket. Ideal for domestic, commercial and industrial cleaning. Requires a 23mm diameter handle.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Cotton Socket Mop Head No 16",
+  "specifications": [
+    "Requires a 23mm diameter handle",
+    "Heavy-duty cotton mop head",
+    "Galvanised bracket and socket",
+    "Ideal for domestic, commercial and industrial cleaning"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-dustpan-and-brush-set-plastic.html|>
+## Faithfull Dustpan & Brush Set Plastic
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "A plastic dustpan complete with a soft bristle PVC bannister brush, helps to make cleaning up a simpler task. Clip in brush for compact storage. Width: 220mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Dustpan & Brush Set Plastic",
+  "specifications": [
+    "Width: 220mm"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-foot-pump-double-cylinder-with-gauge.html|>
+## Faithfull Foot Pump Double Cylinder with Gauge
+
+{
+  "price": "€35.52 inc VAT (€28.88 exc.vat)",
+  "description": "The Faithfull Double Cylinder Foot Pump is a rapid action twin cylinder foot pump for quick tyre inflation with many other features that make it simple and easy to use. The tough steel frame has rubber feet and an ergonomic, rubberised treadplate to both improve the surface grip and prevent foot slippage when the pump is in use. The pump is fitted with an analogue pressure gauge with a maximum reading of 100PSI / 7Bar and a generous 60cm long rubber hose, fitted with a double head connector for use with both Schrader and Presta valves. Under side hose clips are also provided for neat and easy storage. Supplied complete with additional adaptors for use with balls, toys and other inflatable items. Hose length: 60cm. Maximum pressure reading: 100PSI / 7Bar.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Foot Pump Double Cylinder with Gauge",
+  "specifications": [
+    "Hose length: 60cm",
+    "Maximum pressure reading: 100PSI / 7Bar"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-green-jerry-cans---metal.html|>
+## Faithfull Green Jerry Cans - Metal
+
+{
+  "price": "€28.25 inc VAT",
+  "description": "A heavy-duty all steel jerry can featuring a lockable filler cap fitted with a rubber seal to prevent leaks and evaporation. Cans are painted both internally and externally to inhibit corrosion and are certified to UN standards for the storage of Group II flammable liquids.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Green Jerry Cans - Metal",
+  "specifications": [
+    "Lockable filler cap with rubber seal",
+    "Painted internally and externally to inhibit corrosion",
+    "Certified to UN standards for storage of flammable liquids",
+    "Not suitable for storage of drinking water"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-heavy-dutyblackrefusesacks.html|>
+## Faithfull Heavy-Duty Black Refuse Sacks
+
+{
+  "price": "€30.21 inc VAT",
+  "description": "Faithfull Heavy-Duty Black Refuse Sacks are extra strong heavy-duty sacks which are ideal for general household waste, cleaning and building industry applications. They are of superior quality, with a leak resistant base. Size: 735 x 970mm, Bag thickness: 40 Microns, Capacity: 96 Litres.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Heavy-Duty Black Refuse Sacks",
+  "specifications": [
+    "Size: 735 x 970mm",
+    "Bag thickness: 40 Microns",
+    "Capacity: 96 Litres"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-large-plastic-dustpanandbrushset.html|>
+## Faithfull Large Plastic Dustpan & Brush Set
+
+{
+  "price": "€12.28 inc VAT (€9.98 exc.vat)",
+  "description": "Faithfull large, heavy-duty plastic, Dustpan and Brush Set. The dustpan incorporates a PVC lip to ensure easy loading. The brush has flagged bristles that are ideal for sweeping smaller debris and an integral scraper for removing stubborn matter.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Large Plastic Dustpan & Brush Set",
+  "specifications": [
+    "Large Plastic Dustpan & Brush Set",
+    "Heavy-duty plastic",
+    "PVC lip for easy loading",
+    "Flagged bristles for sweeping smaller debris",
+    "Integral scraper for stubborn matter"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/batavia-gutter-protector-4m-2-x-2m.html|>
+## Batavia Gutter Protector 4m (2 x 2m)
+
+{
+  "price": "€34.48 inc VAT (€28.03 exc.vat)",
+  "description": "The Batavia Gutter Protector fits any kind of gutter and keeps it free from leaves, dirt and twigs. You no longer have to get up on a ladder to clean out your gutters, as your gutter will no longer clog up and water can drain off unobstructed. This premium gutter brush has a wider (120mm) diameter than most of other brands. This ensures a snug fit, so it won't roll or blow out.",
+  "availability": "In Stock",
+  "product_name": "Batavia Gutter Protector 4m (2 x 2m)",
+  "specifications": [
+    "Length: 4m (2 x 2m Lengths)"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/bluecol-premium-ice-scraper.html|>
+## BLUECOL Premium Ice Scraper
+
+{
+  "price": "€2.90 inc VAT (€2.36 exc.vat)",
+  "description": "The BLUECOL Premium Ice Scraper has a robust design. This premium ice scraper is fitted with an ergonomic padded grip for extra comfort. This Bluecol product is perfect for removing thick ice and snow from windscreens.",
+  "availability": "In Stock",
+  "product_name": "BLUECOL Premium Ice Scraper",
+  "specifications": [
+    "Robust design",
+    "Ergonomic padded grip",
+    "Perfect for removing thick ice and snow"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/bostik-breathe-moisture-absorber-unit.html|>
+## Bostik Breathe Moisture Absorber Unit
+
+{
+  "price": "€23.98 inc VAT (€19.50 exc.vat)",
+  "description": "Bostik Breathe is a sustainable humidity absorber absorbing moisture in the air and preventing condensation issues. Suitable for use in; bathroom, kitchen, laundry rooms, bedrooms and living rooms. The unit is both sustainable and efficient; being made from recycled plastic and food industry waste. With an easy-pour spout, spillproof seal and a 1.2 litre tank capacity. Makes it safe and easy for emptying, cleaning and transportation. Supplied with 2 x Refill Tabs.",
+  "availability": "In Stock",
+  "product_name": "Bostik Breathe Moisture Absorber Unit",
+  "specifications": [
+    "Sustainable humidity absorber",
+    "Made from recycled plastic and food industry waste",
+    "1.2 litre tank capacity",
+    "Easy-pour spout and spillproof seal",
+    "Supplied with 2 x Refill Tabs"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-dual-fill-broom-soft-bristles.html|>
+## Bulldozer Dual Fill Broom, Soft Bristles
+
+{
+  "price": "€10.81 inc VAT",
+  "description": "The BULLDOZER Dual Fill Broom has a wooden head with soft dual PET bristles. The soft bristles have been designed for sweeping up finer debris in both wet and dry conditions. PET are very resilient to both water and cleaning chemicals. Its metal handle is fitted with a cushioned neoprene grip provides additional comfort whilst sweeping. A double lock bracket provides additional stability when in use. BULLDOZER brushes are engineered to tackle the toughest cleaning jobs, making them an essential addition to your kit. Whether you’re dealing with stubborn dirt or dead leaves, our heavy-duty brooms are designed to deliver outstanding performance. Made in UK.",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Dual Fill Broom, Soft Bristles",
+  "specifications": [
+    "Soft Dual Fill Wooden Broom with Metal Handle 279mm (11in)",
+    "Soft Dual Fill Wooden Broom with Metal Handle 457mm (18in)"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/bulldozer-telescopic-heavy-duty-broom.html|>
+## Bulldozer Telescopic Heavy-duty Broom
+
+{
+  "price": "€13.31 inc VAT",
+  "description": "BULLDOZER Telescopic Heavy-duty Broom with stiff dual PET bristles. Designed for sweeping up heavy debris in both wet and dry conditions. Its heavy-duty plastic head is durable and hardwearing, this helps protect against all outside elements. A telescopic handle allows you to set the broom to a comfortable height and enables easier transport and storage. Fitted with a cushioned neoprene grip that provides additional comfort whilst sweeping. A heavy-duty dual lock bracket provides additional stability when in use. BULLDOZER brushes are engineered to tackle the toughest cleaning jobs, making them an essential addition to your kit. Whether you’re dealing with stubborn dirt or dead leaves, our heavy-duty brooms are designed to deliver outstanding performance. Handle Length: Approx 73-126cm",
+  "availability": "In Stock",
+  "product_name": "Bulldozer Telescopic Heavy-duty Broom",
+  "specifications": [
+    "Handle Length: Approx 73-126cm"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carlett-shopping-trolley-classic-family.html|>
+## Carlett Shopping Trolley Classic Family
+
+{
+  "price": "€159.99 inc VAT",
+  "description": "Introducing the ultimate solution for family outings and extensive shopping endeavors: our XL shopping cart. Crafted to combine spaciousness with convenience, this cart is perfect for those who tackle sizable purchases while still valuing sleek design and style. Featuring a generous 64L extendable main bag, our cart ensures ample room for all your shopping needs. Its lightweight yet durable aluminum structure, paired with front swivel wheels, guarantees exceptional maneuverability, allowing you to navigate effortlessly with just one hand. Key Features: Robust Aluminum Construction, Adjustable Handlebar with 5 Positions, Effortless Folding for Compact Storage, Smooth and Quiet Swivel Wheels, Easily Removable, Detachable, Waterproof Bag for Maximum Versatility, Rear Wheel Safety Brake for Added Security, Convertible to 2-Wheel Drive for Enhanced Mobility, Includes Isothermal Bag for Temperature-sensitive Items, Adjustable Strap Buckle for Secure Transport, Automatic Safety Locking Mechanism. Experience the ease and efficiency of our XL shopping cart—where practicality meets elegance in every journey.",
+  "availability": "In Stock",
+  "product_name": "Carlett Shopping Trolley Classic Family",
+  "specifications": [
+    "Robust Aluminum Construction",
+    "Adjustable Handlebar with 5 Positions",
+    "Effortless Folding for Compact Storage",
+    "Smooth and Quiet Swivel Wheels, Easily Removable",
+    "Detachable, Waterproof Bag for Maximum Versatility",
+    "Rear Wheel Safety Brake for Added Security",
+    "Convertible to 2-Wheel Drive for Enhanced Mobility",
+    "Includes Isothermal Bag for Temperature-sensitive Items",
+    "Adjustable Strap Buckle for Secure Transport",
+    "Automatic Safety Locking Mechanism"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carlube-triple-r-5w40-fully-synthetic-oil-1-litre.html|>
+## Carlube Triple R 5W40 Fully Synthetic Oil 1 Litre
+
+{
+  "price": "€15.53 inc VAT (€12.63 exc.vat)",
+  "description": "Triple R 5W40 Fully Synthetic Oil has been manufactured to give maximum performance with unrivalled protection from cold start to high temperature driving. Suitable for high performance petrol and diesel engines (including turbo charged).",
+  "availability": "In Stock",
+  "product_name": "Carlube Triple R 5W40 Fully Synthetic Oil 1 Litre",
+  "specifications": [
+    "API SN/CF",
+    "ACEA A3/B3",
+    "A3/B4",
+    "MB 229.3/229.5",
+    "VW 502.00/505.00",
+    "BMW LL-01",
+    "PSA B71 2296"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carplan-demon-ice-1-litre.html|>
+## CarPlan Demon Ice 1 Litre
+
+{
+  "price": "€7.48 inc VAT (€6.08 exc.vat)",
+  "description": "CarPlan Demon Ice is the first ever 2-in-1 preventer and de-icer. Simply spray onto your windscreen the night before to prevent ice from forming. Effective down to -20°C. It can also be used as a high-performance de-icer.",
+  "availability": "In Stock",
+  "product_name": "CarPlan Demon Ice 1 Litre",
+  "specifications": [
+    "Effective down to -20°C",
+    "2-in-1 preventer and de-icer",
+    "High-performance de-icer"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carplan-demon-shine-spray-on-shine-1-litre.html|>
+## Carplan Demon Shine Spray on Shine 1 Litre
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "CarPlan Demon Shine 1Liter Spray-On Shine Pink - No time for waxing, find polishing boring? Use Demon Shine - Simply spray on for a wicked shine - it's that easy! CarPlan Demon Shine is a revolutionary top-gloss shine treatment - Easy to use spray application",
+  "availability": "In Stock",
+  "product_name": "Carplan Demon Shine Spray on Shine 1 Litre",
+  "specifications": [
+    "1 Litre capacity",
+    "Spray-on application",
+    "Top-gloss shine treatment",
+    "Easy to use"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carplan-demon-shot-500ml.html|>
+## CarPlan Demon Shot 500ml
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "CarPlan Demon Shot helps boost your screenwash. Add super concentrated Demon Shot to your washer bottle to improve the freezing point protection. Great for unexpected winter conditions. 500ml makes up to 25 litres of screenwash.",
+  "availability": "In Stock",
+  "product_name": "CarPlan Demon Shot 500ml",
+  "specifications": [
+    "500ml makes up to 25 litres of screenwash",
+    "Helps boost screenwash",
+    "Improves freezing point protection"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carplan-exhaust-repair-bandage.html|>
+## CarPlan Exhaust Repair Bandage
+
+{
+  "price": "€4.67 inc VAT (€3.80 exc.vat)",
+  "description": "CarPlan Exhaust Repair Bandage is a tough epoxy resin bandage which bonds to the exhaust system with the application of heat. It provides a long-lasting, gas tight repair for large holes and splits. It is quick and easy-to-use with no need to dismantle the exhaust. The pack contains: 1 x Bandage, 1 x Fixing Wire, 1 x Flame Shield.",
+  "availability": "In Stock",
+  "product_name": "CarPlan Exhaust Repair Bandage",
+  "specifications": [
+    "C/PMSB111 : €4.67",
+    "QtyAdd to Basket"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carplan-exhaust-repair-paste-250g.html|>
+## CarPlan Exhaust Repair Paste 250g
+
+{
+  "price": "€4.60 inc VAT (€3.74 exc.vat)",
+  "description": "CarPlan Exhaust Repair Paste is a tough epoxy resin bandage which bonds to the exhaust system with the application of heat to create a long-lasting, gas tight repair. Size: 250g",
+  "availability": "In Stock",
+  "product_name": "CarPlan Exhaust Repair Paste 250g",
+  "specifications": [
+    "Size: 250g",
+    "Tough epoxy resin bandage",
+    "Bonds to exhaust system with heat application",
+    "Creates long-lasting, gas tight repair"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carplan-mighty-oak-air-freshener.html|>
+## CarPlan Mighty Oak Air Freshener
+
+{
+  "price": "from €2.13 inc VAT",
+  "description": "CarPlan Mighty Oak is a carded air freshener, providing a fragrance that lasts for weeks. Available in singles or a mixed fragrance pack of 3. Singles: Cherry, New Car or Vanilla fragrances. Triple Pack: Vanilla, Ice Cool and New Car fragrances.",
+  "availability": "In Stock",
+  "product_name": "CarPlan Mighty Oak Air Freshener",
+  "specifications": [
+    "Available in singles or a mixed fragrance pack of 3",
+    "Singles: Cherry, New Car or Vanilla fragrances",
+    "Triple Pack: Vanilla, Ice Cool and New Car fragrances"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carplan-re-usable-car-dehumidifier.html|>
+## CarPlan Re-Usable Car Dehumidifier
+
+{
+  "price": "€10.25 inc VAT (€8.33 exc.vat)",
+  "description": "The CarPlan Re-Usable Car Dehumidifier helps to prevent in-car condensation, clouded windows, mould and mildew. Contains Silica Drying Gel which absorbs humidity and excess moisture from inside your vehicle. Reusable simply place in the microwave for 6 mins to refresh. The built-in indicators lets you know when the dehumidifier needs refreshing. Also suitable for drawers and cupboards.",
+  "availability": "In Stock",
+  "product_name": "CarPlan Re-Usable Car Dehumidifier",
+  "specifications": [
+    "Reusable",
+    "Contains Silica Drying Gel",
+    "Prevents in-car condensation",
+    "Microwave refreshable",
+    "Built-in indicators for refreshing"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/carplan-t-cut-original.html|>
+## CarPlan T-Cut Original
+
+{
+  "price": "from €10.38 inc VAT",
+  "description": "T-Cut Original has a truly classic formula, designed to bring back the original colour and lustre of paintwork. Removes oxidation, scratches, ingrained road grime, tar spots and baked on insects. Easy to apply. Contains no silicone and leaves no harmful residues. Suitable for use on many painted surfaces found in the home, caravans, bikes and boats",
+  "availability": "In Stock",
+  "product_name": "CarPlan T-Cut Original",
+  "specifications": [
+    "Available in 350ml, 500ml, and 500ml Trigger options",
+    "Contains no silicone",
+    "Easy to apply",
+    "Removes oxidation, scratches, and ingrained road grime"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/cast-iron-single-burner-gas-boiling-ring.html|>
+## Cast Iron Single Burner Gas Boiling Ring
+
+{
+  "price": "€84.95 inc VAT (€69.07 exc.vat)",
+  "description": "Cast Iron Single Gas Burner. Ideal for camping, fishing and building sites etc. - Single burner boiling ring mounted in a solid cast iron frame - Dimensions 260mm x 260mm x 110mm - Variable flame control with a maximum 2.5kw output - Made to operate at low pressure with Butane or Propane",
+  "availability": "Out of Stock",
+  "product_name": "Cast Iron Single Burner Gas Boiling Ring",
+  "specifications": [
+    "Single burner boiling ring mounted in a solid cast iron frame",
+    "Dimensions 260mm x 260mm x 110mm",
+    "Variable flame control with a maximum 2.5kw output",
+    "Made to operate at low pressure with Butane or Propane"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/decosol-power-de-icer-750ml.html|>
+## Decosol Power De-Icer 750ml
+
+{
+  "price": "€4.72 inc VAT (€3.84 exc.vat)",
+  "description": "The Decosol Power De-Icer instantly dissolves ice from glass surfaces. It leaves a streak-free finish when cleaned with windscreen wipers or rubber squeegee blade. Its concentrated sub-zero formula inhibits re-freezing.",
+  "availability": "In Stock",
+  "product_name": "Decosol Power De-Icer 750ml",
+  "specifications": [
+    "Size: 750ml"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-broom-handle.html|>
+## TALAtools Broom Handle
+
+{
+  "price": "€2.61 inc VAT",
+  "description": "Made from hardwood, Durable lacquered finish, Available Lengths: 1200 x 24mm, 1200 x 28mm, 1525 x 28mm",
+  "availability": "In Stock",
+  "product_name": "TALAtools Broom Handle",
+  "specifications": [
+    "Available Lengths: 1200 x 24mm, 1200 x 28mm, 1525 x 28mm",
+    "Made from hardwood",
+    "Durable lacquered finish"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-camping-lantern-with-bluetooth-speaker.html|>
+## TALAtools Camping Lantern with Bluetooth® Speaker
+
+{
+  "price": "€25.74 inc VAT (€20.93 exc.vat)",
+  "description": "Integrated 3W speaker connects via Bluetooth® or 3.5mm jack plug (not included). Built-in rechargeable battery provides 7 hours of lighting. Weather resistant housing and built-in hanging hook. Push-button dimmer. Beam Distance: 8m.",
+  "availability": "Out of Stock",
+  "product_name": "TALAtools Camping Lantern with Bluetooth® Speaker",
+  "specifications": [
+    "Integrated 3W speaker connects via Bluetooth® or 3.5mm jack plug (not included)",
+    "Built-in rechargeable battery provides 7 hours of lighting",
+    "Weather resistant housing and built-in hanging hook",
+    "Push-button dimmer",
+    "Beam Distance: 8m"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-petrol-can.html|>
+## TALAtools Petrol Can
+
+{
+  "price": "€39.58 inc VAT",
+  "description": "Made from high-grade phosphate treated steel with durable green powder paint finish. Wide channel breather for smoother pouring. Locking pin to ensure cap cannot be opened. Spout sold separately. Available sizes: 10L (235 x 330 x 160mm), 20L (470 x 330 x 160mm)",
+  "availability": "In Stock",
+  "product_name": "TALAtools Petrol Can",
+  "specifications": [
+    "Made from high-grade phosphate treated steel",
+    "Durable green powder paint finish",
+    "Wide channel breather for smoother pouring",
+    "Locking pin to ensure cap cannot be opened",
+    "Available sizes: 10L and 20L"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-yard-brush-with-bracket-and-handle-350mm-14in.html|>
+## TALAtools Yard Brush with Bracket & Handle 350mm (14in)
+
+{
+  "price": "€21.88 inc VAT (€17.79 exc.vat)",
+  "description": "Ash handle and metal bracket. PVC bristles for use in dry and wet conditions. Head Width: 350mm (14in).",
+  "availability": "In Stock",
+  "product_name": "TALAtools Yard Brush with Bracket & Handle 350mm (14in)",
+  "specifications": [
+    "Ash handle",
+    "Metal bracket",
+    "PVC bristles for dry and wet conditions",
+    "Head Width: 350mm (14in)"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-foot-pump-single-cylinder-with-gauge.html|>
+## Faithfull Foot Pump Single Cylinder with Gauge
+
+{
+  "price": "€28.11 inc VAT (€22.85 exc.vat)",
+  "description": "This Faithfull Single Cylinder Foot Pump has many features that make it simple and easy to use. The tough steel frame has rubber feet and a rubberised, ergonomic treadplate to both improve the surface grip and prevent foot slippage when the pump is in use. The pump is fitted with an analogue pressure gauge with a maximum reading of 100PSI / 7bar and a generous 60cm long rubber hose, fitted with a double head connector for use with both Schrader and Presta valves. Under side hose clips are also provided for neat and easy storage. Supplied complete with additional adaptors for use with balls, toys and other inflatable items.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Foot Pump Single Cylinder with Gauge",
+  "specifications": [
+    "Hose length: 60cm",
+    "Maximum pressure reading: 100PSI / 7bar"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-scissors.html|>
+## Faithfull Heavy-Duty Scissors
+
+{
+  "price": "€14.99 inc VAT",
+  "description": "Faithfull Heavy-Duty Scissors feature stainless steel blades with iron carbide cutting edges for superior durability. Iron carbide cutting edges stay sharper for longer than traditional stainless steel edges. Bolt lock technology keeps the blades from loosening and ensures a precise cutting action. An all-metal core adds extra strength and prevents handle breakage if the scissors are dropped. Fitted with dual-compound soft grip handles with large handle loops, which allows use whilst wearing gloves. There is also an index finger groove for increased comfort. Ideal for many cutting tasks around the house and workshop.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Heavy-Duty Scissors",
+  "specifications": [
+    "200mm (8in)",
+    "250mm (10in)"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-household-scissors.html|>
+## Faithfull Household Scissors
+
+{
+  "price": "€6.46 inc VAT",
+  "description": "A selection of high quality traditional scissors manufactured from stainless steel with precision ground blades for accurate cutting. All Faithfull scissors feature a centre adjustment screw, allowing the blades to be tightened or taken apart for sharpening. The range includes the most popular scissors for both the professional user and for use around the home.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Household Scissors",
+  "specifications": [
+    "Available in 5in and 6in options",
+    "Manufactured from stainless steel",
+    "Precision ground blades for accurate cutting",
+    "Centre adjustment screw for blade tightening and sharpening"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-natural-bassine-platform-broom-heads.html|>
+## Faithfull Natural Bassine Platform Broom Heads
+
+{
+  "price": "from €9.78 inc VAT",
+  "description": "Faithfull Natural Bassine Broom Heads provide an all-round good sweeping performance. They are designed for dry use. These heads will fit the following handles: FAIRH48118 1.22m (48in), FAIRH54118 1.37m (54in), FAIRH60118 1.52m (60in), FAIRH72118 1.83m (72in). Socket: 28mm (1.1/8in)",
+  "availability": "In Stock",
+  "product_name": "Faithfull Natural Bassine Platform Broom Heads",
+  "specifications": [
+    "Available sizes: 450mm (18in), 900mm (36in)",
+    "Socket size: 28mm (1.1/8in)",
+    "Designed for dry use"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-platform-broom-head-black-pvc-45cm-18in-threaded-socket.html|>
+## Faithfull Platform Broom Head Black PVC 45cm (18in) Threaded Socket
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Faithfull FAIBRPVC18R has a hard-wearing PVC broom head with threaded socket. The PVC broom heads provide an excellent sweeping performance with the added benefit that they can be used dry or wet. The Faithfull FAIBRPVC18R black PVC platform broom head has the following specifications: Width: 450mm (18 inch). Socket: Threaded. Fits the following handle: FAIP48118TH - 1.22m (48 inch) Threaded.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Platform Broom Head Black PVC 45cm (18in) Threaded Socket",
+  "specifications": [
+    "Width: 450mm (18 inch)",
+    "Socket: Threaded",
+    "Fits handle: FAIP48118TH - 1.22m (48 inch) Threaded"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-portable-electronic-scale-0---50kg.html|>
+## Faithfull Portable Electronic Scale 0 - 50kg
+
+{
+  "price": "€26.99 inc VAT (€21.94 exc.vat)",
+  "description": "The Faithfull Portable Electronic Scale is ideal for both luggage and fishing. The scale can measure weight in kilograms, pounds, and ounces. It has tare, zero, and overload functions. A LCD display with backlight allows easy reading, and the scale is supplied complete with a steel hook and nylon strap. Requires 2 x AAA batteries (NOT included). Maximum capacity: 50kg.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Portable Electronic Scale 0 - 50kg",
+  "specifications": [
+    "Maximum capacity: 50kg",
+    "Measures weight in kilograms, pounds, and ounces",
+    "Tare, zero, and overload functions",
+    "LCD display with backlight",
+    "Includes steel hook and nylon strap",
+    "Requires 2 x AAA batteries (NOT included)"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-industrial-dehumidifier-30-litre.html|>
+## Faithfull Power Plus Industrial Dehumidifier 30 litre
+
+{
+  "price": "€655.17 inc VAT (€532.66 exc.vat)",
+  "description": "The Faithfull Industrial Dehumidifier removes excess moisture from humid air to limit mould, mildew and condensation. This powerful unit can extract up to 30 litres of water per day to create a healthier environment. Easy to operate touch pad with an LCD screen which displays temperature and humidity and indicates when the tank is full. A 24 hour timer function allows automatic start and stop times to be set. An automatic defrost function will activate if the room temperature drops too low. The unit will automatically shut off when the 7 litre tank is full. An optional continuous drainage function can direct water to a drain or suitable receptacle with the 1m pipe provided. It has a durable metal housing and heavy-duty wheels for easy manoeuvrability.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus Industrial Dehumidifier 30 litre",
+  "specifications": [
+    "Power: AC 220-240V/50Hz",
+    "Humidity Extraction: 30L/D (27°C RH60%)",
+    "Water Tank Capacity: 7.0 litre",
+    "Air Volume: 300 m3/h",
+    "Working Space: 50-100m³",
+    "Max. Suction Pressure: 1.0Mpa",
+    "Max. Discharge Pressure: 2.5Mpa",
+    "Working Temperature: 5-35°",
+    "Refrigerant: R920",
+    "Sound Level: 56dB",
+    "Product Size: 440 x 336 x 850mm"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pvc-broom-head.html|>
+## Faithfull PVC Broom Head
+
+{
+  "price": "€10.90 inc VAT",
+  "description": "The Faithfull PVC Broom Head is suitable for use in dry and wet conditions. PVC is hard-wearing and provides excellent sweeping performance. Ideal for use inside and out, and fine for wet or dry use. Broom head only. Will fit handles: FAIRH48118, FAIRH54118, FAIRH60118 and FAIRH72118.",
+  "availability": "In Stock",
+  "product_name": "Faithfull PVC Broom Head",
+  "specifications": [
+    "450mm (18in)",
+    "600mm (24in)"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pvc-saddleback-broom.html|>
+## Faithfull PVC Saddleback Broom
+
+{
+  "price": "from €19.15 inc VAT",
+  "description": "The Faithfull PVC Saddleback Broom is suitable for use in dry and wet conditions. PVC is hard-wearing and provides excellent sweeping performance. Ideal for use inside and out, and fine for wet or dry use. Broom head supplied complete with handle and metal stay.",
+  "availability": "In Stock",
+  "product_name": "Faithfull PVC Saddleback Broom",
+  "specifications": [
+    "Available sizes: 325mm (13in), 450mm (18in)",
+    "Suitable for dry and wet conditions",
+    "Hard-wearing PVC material",
+    "Includes broom head, handle, and metal stay"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-broom-with-screw-on-handle.html|>
+## Faithfull Soft Broom with Screw On Handle
+
+{
+  "price": "€6.27 inc VAT (€5.10 exc.vat)",
+  "description": "The Faithfull Soft Broom is a low cost plastic broom with soft PVC bristles complete with a tubular steel, thread fitting handle. With a handy hanging bracket.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Broom with Screw On Handle",
+  "specifications": [
+    "Width: 300mm",
+    "Handle length: 1.2m"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-coco-broom-head.html|>
+## Faithfull Soft Coco Broom Head
+
+{
+  "price": "€8.47 inc VAT",
+  "description": "Faithfull Coco Brooms are suitable for use in dry conditions. A by-product of coconut harvesting, natural coco brushes are softer compared to other natural brooms, but still provide good sweeping characteristics. Broom head only.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Coco Broom Head",
+  "specifications": [
+    "450mm (18in) option available"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-coco-broom-head-1.html|>
+## Faithfull Soft Coco Broom Head
+
+{
+  "price": "€10.38 inc VAT",
+  "description": "The Faithfull Soft Coco Broom Head is suitable for use in dry conditions. Made from coco, a by-product of coconut harvesting, natural coco brushes are softer compared to other natural brooms, but still provide good sweeping characteristics. Broom head only. Fits the following handles: FAIRH48118, FAIRH54118, FAIRH60118 and FAIRH72118",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Coco Broom Head",
+  "specifications": [
+    "600mm (24in)",
+    "Made from coco",
+    "Suitable for dry conditions",
+    "Fits various handles: FAIRH48118, FAIRH54118, FAIRH60118, FAIRH72118"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-coco-brooms.html|>
+## Faithfull Soft Coco Brooms
+
+{
+  "price": "from €14.99 inc VAT",
+  "description": "A by-product of coconut harvesting, natural coco brushes are softer compared to other natural brooms, but still provide good sweeping characteristics. The Faithfull soft coco brooms are for use in dry conditions. These broom heads come complete with a handle and stay.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Coco Brooms",
+  "specifications": [
+    "Available in 45cm (18in), 60cm (24in), 90cm (36in)",
+    "Natural coco brushes for dry conditions",
+    "Includes handle and stay"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-stiff-bassine-broom-and-brushes.html|>
+## Faithfull Stiff Bassine Broom & Brushes
+
+{
+  "price": "from €18.07 inc VAT",
+  "description": "The Faithfull natural stiff Bassine broom heads provide an all round good sweeping performance. They are designed for dry use. These broom heads come complete with a handle and stay.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Stiff Bassine Broom & Brushes",
+  "specifications": [
+    "Available sizes: 45cm (18in), 60cm (24in), 90cm (36in)",
+    "Natural stiff Bassine broom heads",
+    "Designed for dry use",
+    "Complete with handle and stay"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-thermometer-digital-max-min.html|>
+## Faithfull Thermometer Digital Max-Min
+
+{
+  "price": "€20.61 inc VAT (€16.76 exc.vat)",
+  "description": "Based on a traditional design, the Faithfull Digital Max-Min Thermometer offers the convenience of both digital and standard capillary thermometers. Double capillary thermometers provide an instant and accurate reading of the surrounding environment in both Centigrade and Fahrenheit. The thermometer features a large, easy to read LED display that records and shows the highest and lowest temperatures reached throughout the day and night since its last reset. The display can easily be switched between Centigrade and Fahrenheit depending on preference and can be instantly reset to the current temperature at the press of a single button. This is the ideal instrument for measuring and recording the temperature of greenhouses, conservatories or any room around the home. The thermometer can be used free standing or hung and is suitable for both indoor and outdoor use and is mercury free. Uses 1 x AAA battery.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Thermometer Digital Max-Min",
+  "specifications": [
+    "Digital and standard capillary thermometer",
+    "Instant and accurate readings in Centigrade and Fahrenheit",
+    "Large LED display",
+    "Records highest and lowest temperatures",
+    "Suitable for indoor and outdoor use",
+    "Mercury free",
+    "Uses 1 x AAA battery"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-thermometer-press-button-max-min.html|>
+## Thermometer Press Button Max-Min
+
+{
+  "price": "€19.51 inc VAT (€15.86 exc.vat)",
+  "description": "The Faithfull FAITHMMBUTMF mercury free thermometer has a press button that records the highest and lowest temperatures reached throughout the day and night by pushing markers to the extreme readings until re-set. Suitable for indoor or outdoor use, this thermometer has the following range: -40° C to +50° C / -40° F to +120° F.",
+  "availability": "In Stock",
+  "product_name": "Thermometer Press Button Max-Min",
+  "specifications": [
+    "Mercury free",
+    "Records highest and lowest temperatures",
+    "Range: -40° C to +50° C / -40° F to +120° F",
+    "Suitable for indoor or outdoor use"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-thermometer-stick-on-window.html|>
+## Faithfull Thermometer Stick On-window
+
+{
+  "price": "€4.67 inc VAT (€3.80 exc.vat)",
+  "description": "This Faithfull Stick-On Window Thermometer is a simple but effective thermometer which sticks directly onto the outside of a window with the adhesive pads supplied. The outside temperature can then be read while you are indoors. Mercury free. Range: -50° C to +50° C.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Thermometer Stick On-window",
+  "specifications": [
+    "Range: -50° C to +50° C",
+    "Mercury free",
+    "Sticks directly onto the outside of a window"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-thermometer-wall-beech-silver-200mm.html|>
+## Faithfull Thermometer Wall Beech Silver 200mm
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "This attractive and practical wall-mounted thermometer is ideal for the home, conservatory, office or factory. Graduations are clearly marked on a silver plate which is set in a sturdy Beech wood casing. Measures temperature in both Celsius and Fahrenheit. Mercury free. Range: -5° C to +50° C / +20° F to +120° F.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Thermometer Wall Beech Silver 200mm",
+  "specifications": [
+    "Measures temperature in Celsius and Fahrenheit",
+    "Range: -5° C to +50° C / +20° F to +120° F",
+    "Mercury free",
+    "Sturdy Beech wood casing"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-thermometer-wall-plastic-200mm.html|>
+## Faithfull Thermometer Wall Plastic 200mm
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "This Faithfull Wall Thermometer is mercury free. A simple white plastic wall thermometer for everyday use in and around the home and garden. It measures temperature in both Celsius and Fahrenheit and is suitable for indoor or outdoor use. It is also ideal also for checking the temperature of fridges. Range: -30° C to +50° C / -20° F to +120° F.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Thermometer Wall Plastic 200mm",
+  "specifications": [
+    "Mercury free",
+    "Measures temperature in Celsius and Fahrenheit",
+    "Suitable for indoor and outdoor use",
+    "Range: -30° C to +50° C / -20° F to +120° F"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-thermometer-wall-wood.html|>
+## Faithfull Thermometer Wall Wood
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "This Faithfull Wall Thermometer is a traditional wooden thermometer which is ideal for the home, conservatory, summer house or garage. Measures temperature in both Celsius and Fahrenheit. Mercury free. Range: -40° C to +50° C / -40° F to +120° F.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Thermometer Wall Wood",
+  "specifications": [
+    "Measures temperature in Celsius and Fahrenheit",
+    "Mercury free",
+    "Temperature range: -40° C to +50° C / -40° F to +120° F",
+    "Ideal for home, conservatory, summer house or garage"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tractor-funnel-with-inbuilt-filter.html|>
+## Faithfull Tractor Funnel with Inbuilt Filter
+
+{
+  "price": "€10.99 inc VAT (€8.93 exc.vat)",
+  "description": "The Faithfull Tractor Funnel is a heavy-duty funnel for quickly transferring large volumes of liquid. It is made from high density polyethylene, with a large, easy to fill oblong aperture to accommodate pouring from drums. The funnel is supplied with an integral filter to help remove particulate contamination. It has a tapered spout design with venting ribs to aid fast filling. Funnel aperture: 260 x 170mm. Spout diameter: 29mm. Spout length: 120mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tractor Funnel with Inbuilt Filter",
+  "specifications": [
+    "Funnel aperture: 260 x 170mm",
+    "Spout diameter: 29mm",
+    "Spout length: 120mm"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tyre-pressure-dial-gauge-60psi.html|>
+## Faithfull Tyre Pressure Dial Gauge 60psi
+
+{
+  "price": "€9.45 inc VAT (€7.68 exc.vat)",
+  "description": "The Faithfull Tyre Pressure Dial Gauge is an easy to use, manual tyre pressure gauge for use with Schrader valves as fitted to all automotive tyres, it provides an instant reading of tyre pressure up to a maximum of 60PSI. The gauge features a 45° angled chuck for easy connection to the tyre and will retain the current reading when removed from the valve. The gauge has a quick release button to zero the gauge after use and to allow over inflated tyres to be deflated to the correct pressure. The gauge has a high contrast, easy to read dial with a rubberised coating to help protect the face glass from scratching. Keeping your tyres at the correct pressure helps prevent premature wear, improves you MPG and helps provide maximum braking performance. Use in conjunction with the FAIAUTGAUGE manual tread depth gauge to help ensure your tyres are in top condition.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tyre Pressure Dial Gauge 60psi",
+  "specifications": [
+    "Maximum Pressure: 60 PSI",
+    "Type: Manual Tyre Pressure Gauge",
+    "Compatible with: Schrader Valves",
+    "Features: 45° angled chuck, quick release button, high contrast dial"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wooden-broom-handle-threaded.html|>
+## Faithfull Wooden Broom Handle Threaded
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Threaded wooden broom handle. Length: 1220 mm (48 inch) Diameter: 28 mm (1.1/8 inch) diameter. Fits the following Faithfull brooms: FAIBRDECKSCR - DECK SCRUB 175mm FAIBRBASS12R - STIFF BASSINE 300mm FAIBRSTIF12R - STIFF PVC GREEN 300mm FAIBRSOFT12R - SOFT PVC CREAM 300mm FAIBRBAS18R - BASSINE 450mm FAIBRPVC18R - BLACK PVC 450mm",
+  "availability": "In Stock",
+  "product_name": "Faithfull Wooden Broom Handle Threaded",
+  "specifications": [
+    "Length: 1220 mm (48 inch)",
+    "Diameter: 28 mm (1.1/8 inch)",
+    "Fits various Faithfull brooms"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wooden-broom-handles.html|>
+## Faithfull Wooden Broom Handles
+
+{
+  "price": "from €2.73 inc VAT",
+  "description": "A range of straight wooden broom handles supplied in a variety of lengths and diameters to fit most broom heads.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Wooden Broom Handles",
+  "specifications": [
+    "Available lengths: 1.22m x 23mm, 1.22m x 28mm, 1.37M x 28mm, 1.53m x 23mm, 1.53m x 28mm, 1.83m x 28mm",
+    "Material: Wood",
+    "Suitable for most broom heads"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wovenwhiterubblesacks-5.html|>
+## Faithfull Woven White Rubble Sacks (5)
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "These Faithfull Woven Rubble Sacks are reusable white rubble sacks manufactured from rugged woven PVC. They are tough, waterproof and ideal for heavy-duty applications such as clearing general building waste and site clearance. The sacks have double stitched bottoms for added strength and a hemmed top to help make loading and handling the sacks easier. Size: 600 x 900mm. Pack quantity: 5.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Woven White Rubble Sacks (5)",
+  "specifications": [
+    "Size: 600 x 900mm",
+    "Pack quantity: 5",
+    "Material: Woven PVC",
+    "Waterproof and tough for heavy-duty applications"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/fiskars-amplify-scissors.html|>
+## Fiskars Amplify Scissors
+
+{
+  "price": "€38.36 inc VAT",
+  "description": "The Fiskars Amplify Scissors feature premium-grade, stainless steel blades with a precisely-honed edge to stay sharp and cut cleanly, all the way to the tip. These high quality stainless steel blades hold their sharp edge longer. Soft-grip handles provide comfort and control. The thumb and finger loops feature ergonomic sculpting for exceptional comfort and control. Ideal for cuts through thick, heavy materials like leather, burlap, carpet, canvas, upholstery and much more. Suitable for right-handed use.",
+  "availability": "In Stock",
+  "product_name": "Fiskars Amplify Scissors",
+  "specifications": [
+    "21cm length",
+    "Premium-grade stainless steel blades",
+    "Soft-grip handles",
+    "Ergonomic thumb and finger loops",
+    "Ideal for thick materials"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/fiskars-clip-sharp-scissor-sharpener.html|>
+## Fiskars Clip-Sharp™ Scissor Sharpener
+
+{
+  "price": "€17.17 inc VAT (€13.96 exc.vat)",
+  "description": "Fiskars Clip-Sharp™ Scissor Sharpener requires no electricity, and can be used for both right and left-handed scissors. It ensures an optimal cutting edge and lifelong performance of your scissors. Easy to clean, and dishwasher safe. Weight: 75g.",
+  "availability": "In Stock",
+  "product_name": "Fiskars Clip-Sharp™ Scissor Sharpener",
+  "specifications": [
+    "Requires no electricity",
+    "Suitable for right and left-handed scissors",
+    "Easy to clean and dishwasher safe",
+    "Weight: 75g"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/fiskars-functional-form-renew-universal-scissors-21cm.html|>
+## Fiskars Functional Form ReNew Universal Scissors 21cm
+
+{
+  "price": "€18.43 inc VAT (€14.98 exc.vat)",
+  "description": "The Fiskars Functional Form ReNew Universal Scissors are made from recycled materials (minimum 70%) for unique comfort and cutting performance. Its durable, recycled (~80%) stainless steel blades are precision ground for long-lasting sharpness. The ergonomically designed handle is made from a mix of recycled (~80%) plastic (80%) and fiberglass (20%). Ideal for a wide variety of tasks around-the-home. Can be washed in a dishwasher. Made in our factory in Finland with an environmental protection certificate. Completed and tested by hand. Supplied in plastic-free packaging can be easily recycled.",
+  "availability": "In Stock",
+  "product_name": "Fiskars Functional Form ReNew Universal Scissors 21cm",
+  "specifications": [
+    "Length: 21cm"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+
+<|https://www.mydiy.ie/products/fiskars-solid-axe-and-knife-sharpener.html|>
+## Fiskars Solid™ Axe & Knife Sharpener
+
+{
+  "price": "€15.25 inc VAT (€12.40 exc.vat)",
+  "description": "The Fiskars Solid™ Axe & Knife Sharpener keeps axes and knives sharp during the working day. Run the axe or knife a couple of times through the groove, and the blade will restore to its optimal bevel for cutting.",
+  "availability": "In Stock",
+  "product_name": "Fiskars Solid™ Axe & Knife Sharpener",
+  "specifications": [
+    "Model: FSK1026797",
+    "Price: €15.25",
+    "List Price: €19.13",
+    "You save: €3.88"
+  ],
+  "product_category": "Home, Leisure & Car Care"
+}
+

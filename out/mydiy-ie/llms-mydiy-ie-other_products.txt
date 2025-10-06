@@ -1,0 +1,640 @@
+<|https://www.mydiy.ie/products/britool-expert-socket-and-accessory-set-of-22-metric-12in-drive.html|>
+## Britool Expert Socket & Accessory Set of 22 Metric 1/2in Drive
+
+<|https://www.mydiy.ie/products/britool-expert-socket-and-accessory-set-of-22-metric-12in-drive.html|>
+## Britool Expert Socket & Accessory Set of 22 Metric 1/2in Drive
+
+<|https://www.mydiy.ie/products/dewalt-dck2050e2t-xr-bl-powerstack-twin-kit-18v.html|>
+## DEWALT DCK2050E2T XR BL POWERSTACK™ Twin Kit 18V
+
+<|https://www.mydiy.ie/products/dewalt-dck2050e2t-xr-bl-powerstack-twin-kit-18v.html|>
+## DEWALT DCK2050E2T XR BL POWERSTACK™ Twin Kit 18V
+
+{
+  "price": "€480.73 inc VAT (€390.84 exc.vat)",
+  "description": "The DEWALT DCK2050E2T XR Brushless POWERSTACK™ Twin Kit contains the following: 1 x 18V DCD805E2T XR Brushless G3 Combi with an ultra-compact, lightweight design for use in confined spaces. An enhanced pivoting LED positioned on the foot offers greater visibility in dark and confined spaces. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint and work with all DEWALT 18V XR tools. Chuck: 13mm No Load Speed: 0-650/2,000/min. Impact Rate: 34,000/bpm Max. Torque: 90Nm Capacity: Steel 13mm, Masonry 13mm, Wood 55mm Weight: 1.3kg 1 x DCF850 XR Brushless Impact Driver with a 3 mode switch for enhanced control. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint and work with all DEWALT 18V XR tools. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/2,800/3,250/min. Impact Rate: 3,800/bpm Max. Torque: 205Nm Weight: 0.9kg 2 x 18V 2.0Ah Li-ion XR POWERSTACK™ Slide Batteries. 25% smaller and 15% lighter than the DEWALT DCB183 18V XR 2.0Ah battery, making it easier to use in tight workspaces. Stacked pouch cell battery technology provides a low impedance construction, meaning that the rate of flow of electrons is much higher thanks to the innovative internal pouch battery connectors and electrodes, providing a greater surface area vs a traditional cylindrical battery cell type. It also benefits from superior thermal performance vs cylindrical batteries. This increases battery durability, improves the cycle life and results. Also comes with 1 x TSTAK™ Kitbox.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DCK2050E2T XR BL POWERSTACK™ Twin Kit 18V",
+  "specifications": [
+    "Chuck: 13mm",
+    "No Load Speed: 0-650/2,000/min.",
+    "Impact Rate: 34,000/bpm",
+    "Max. Torque: 90Nm",
+    "Capacity: Steel 13mm, Masonry 13mm, Wood 55mm",
+    "Weight: 1.3kg",
+    "Bit Holder: 6.35mm (1/4in)",
+    "No Load Speed: 0-1,000/2,800/3,250/min.",
+    "Impact Rate: 3,800/bpm",
+    "Max. Torque: 205Nm",
+    "Weight: 0.9kg",
+    "2 x 18V 2.0Ah Li-ion XR POWERSTACK™ Slide Batteries"
+  ]
+}
+
+
+
+<|https://www.mydiy.ie/products/fiskars-solid-telescopic-loppers.html|>
+## Fiskars Solidâ„¢ Telescopic Loppers
+
+{
+  "price": "€150",
+  "description": "Fiskars Solid™ Telescopic Loppers for cutting fresh wood. Telescopic, extendable handles with non-slip grips make high, hard-to-reach or awkward cuts easy. Specification: Cutting Diameter: 45mm Length: 630-830mm Weight: 1.65kg",
+  "availability": "In Stock",
+  "product_name": "Fiskars Solidâ„¢ Telescopic Loppers",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fiskars-solid-weed-fork-1.html|>
+## Fiskars Solidâ„¢ Weed Fork
+
+{
+  "price": "€150",
+  "description": "The Fiskars Solid™  Weed Fork is made from 65% recycled plastic with fibreglass for durability. UV resistant. Its narrow, curved tines aerate soil, remove rocks and weeds and spread compost over small areas. A convenient hang hole offers easy storage options.",
+  "availability": "Out of Stock",
+  "product_name": "Fiskars Solidâ„¢ Weed Fork",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fiskars-universal-garden-scissor-180mm-7in.html|>
+## Fiskars Universal Garden Scissor 180mm (7in)
+
+{
+  "price": "€150",
+  "description": "Fiskars Universal Garden Scissors provide excellent assistance for all kinds of cutting and trimming tasks in the garden. They have a serrated edge, ideal for small, precise cutting jobs such as cutting flowers, herbs and potted plants. In addition to use in the garden, these scissors can also be utilised in the kitchen. The blades are made from stainless steel for long lasting sharpness. The handles are made from impact resistant PBT. Length: 180mm (7in). Weight: 70g.",
+  "availability": "In Stock",
+  "product_name": "Fiskars Universal Garden Scissor 180mm (7in)",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fiskars-woodxpert-xa22-sappie-log-tool-785mm.html|>
+## Fiskars WoodXpert XA22 Sappie Log Tool 785mm
+
+{
+  "price": "€150",
+  "description": "The Fiskars FSK1003623 WoodXpert XA22 Sappie Log Tool is ideal for heavier logs and more sustained wood preparation work. The longer shafted sappie enables a one or two hand grip while enjoying the same handling qualities as the smaller XA2. The XA22 Sappie has a lightweight FiberComp shaft and its tactile SoftGrip inlay is complemented by a hooked sculpted steel beak with a toothed inlay to secure a solid grip. Applications: Lifting and transporting larger logs. Handling and arranging wood pile",
+  "availability": "In Stock",
+  "product_name": "Fiskars WoodXpert XA22 Sappie Log Tool 785mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fiskars-woodxpert-log-hook.html|>
+## Fiskars WoodXpertâ„¢ Log Hook
+
+{
+  "price": "€150",
+  "description": "The Fiskars WoodXpert™ Log Hook features a highly visible orange soft grip handle which engages all the fingers of the hand comfortably during the lift. The tool’s ergonomic, lightweight low profile geometry boron steel hook with its toothed support face grips logs with ease. As well as coming with a sturdy holster, this tool also features a wiregate clip for safe storage on a belt loop when not in use.",
+  "availability": "In Stock",
+  "product_name": "Fiskars WoodXpertâ„¢ Log Hook",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fiskars-xact-weed-puller.html|>
+## Fiskars Xactâ„¢ Weed Puller
+
+{
+  "price": "€150",
+  "description": "The Fiskars 139950 Xact™ Weed Puller has been designed for removing any root weeds ergonomically and effortlessly, thanks to it's unique ergonomic grip. Its deep reaching stainless steel jaws grab the root from multiple directions and a long shaft means no digging or bending is required, reducing strain on the body. Offers easy and effective weeding in 3 Steps: 1\\. Push the weed puller blades around the weed. 2\\. Press the pedal with your foot to the ground. Then remove your foot and pull the sh",
+  "availability": "In Stock",
+  "product_name": "Fiskars Xactâ„¢ Weed Puller",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fiskars-xs-x7-camping-axe-640g-14lb.html|>
+## Fiskars XS-X7 Camping Axe 640g (1.4lb)
+
+{
+  "price": "€150",
+  "description": "The Fiskars XS-X7 Camping Axe is great for universal cutting tasks and is suitable for campers, hikers, and as a companion for outdoor activities. The blade has a thin, wide edge that ensures a clean, easy cut through fresh and resinous wood. The new (patent pending) 3D grip impoves user safety by offering greater control in use. It also helps to deliver more power, due to less focus on holding the axe. The ultra-light and durable FiberComp™ handle minimises fatigue and makes the axe virtually u",
+  "availability": "In Stock",
+  "product_name": "Fiskars XS-X7 Camping Axe 640g (1.4lb)",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fiskars-xxs-x5-chopping-axe.html|>
+## Fiskars XXS X5 Chopping Axe
+
+{
+  "price": "€150",
+  "description": "The Fiskars XXS X5 Chopping Axe combines a minimalist design and sharp-edged functionality, ideal for all wood preparation tasks. Suitable for kindling small wood for a campfire. Its thin, wide edged blade ensure a clean, easy cut in fresh, resinous wood, like spruce or pine. Ultralight and durable FiberComp shaft for minimal fatigue, it also makes the axe virtually unbreakable. C This Fiskars axe has a compact, lightweight design with a plastic sheath for easy carrying and storage.",
+  "availability": "Out of Stock",
+  "product_name": "Fiskars XXS X5 Chopping Axe",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-399-418-velcro-adaptor.html|>
+## Flex Power Tools 399 418 Velcro Adaptor
+
+{
+  "price": "€150",
+  "description": "## WEEE Recycling",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools 399 418 Velcro Adaptor",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-406716-coupling-sleeve.html|>
+## Flex Power Tools 406716 Coupling Sleeve
+
+{
+  "price": "€150",
+  "description": "## WEEE Recycling",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools 406716 Coupling Sleeve",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-bp-m-cushioned-velcro-pad.html|>
+## Flex Power Tools BP-M Cushioned Velcro Pad
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools BP-M Cushioned Velcro Pad has a thin PU layer, medium-hard. Due to the special pad mount, it can only be used with the PXE 80 10.8-EC Spot Polisher. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools BP-M Cushioned Velcro Pad",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-cordless-rotary-polisher-150mm-18v-2-x-50ah-li-ion.html|>
+## Flex Power Tools Cordless Rotary Polisher 150mm 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools Cordless Rotary Polisher features an electronic management system (EMS), which protects the machine, extends the service life and increases efficiency.  It is fitted with a highly efficient brushless motor with an innovative combination of planetary and angular gears, reducing noise to an absolute minimum.  Fitted with a continuous speed control trigger: for a gentle start and a lock-on for continuous operation.  Polishes with low speed and high torque, e.g. for heat-sensiti",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools Cordless Rotary Polisher 150mm 18V 2 x 5.0Ah Li-ion",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-dt-p-rotary-adaptor.html|>
+## Flex Power Tools DT-P Rotary Adaptor
+
+{
+  "price": "€150",
+  "description": "Flex Power Tools DT-P Rotary Adaptor for rapid spot repairs. Can only be used with the PXE 80 10.8-EC Spot Polisher. Use with the 30mm diameter Velcro pad for spot polishing and grinding.",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools DT-P Rotary Adaptor",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-exs-m14-rotary-polisher-extension-set.html|>
+## Flex Power Tools EXS M14 Rotary Polisher Extension Set
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools EXS M14 Rotary Polisher Extension Set enables you to work in narrow and difficult to reach areas, such as exterior mirrors, spoilers, bumpers etc. Compatible with the following machines: PE 8-4 80, PE 14-3 125, PE 14-2 150, PE 14-1 180, L 1503 VR and PE 150 18.0-EC. This set contains: 3 x M14 Anodised Aluminium Extensions: 50mm, 80mm and 120mm 1 x M14 Adaptor for Cordless Screwdrivers 1 x Mini L-BOXX® Carry Case Specification: Shaft Ø: 19mm Width Across Flat: SW 17 Max. Back",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools EXS M14 Rotary Polisher Extension Set",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-fs-f-vce-21-26-lv5-filter-bags-pack-5.html|>
+## Flex Power Tools FS-F VC/E 21-26 LV5 Filter Bags (Pack 5)
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools FS-F VC/E 21-26 LV5 Filter Bags are made from highly tear-proof fleece for optimum filling of the filter bags and trouble-free disposal of the extracted dust. Dust class L. Suitable for VC 21 L MC, VC 25 L MC and VCE 26 L MC.",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools FS-F VC/E 21-26 LV5 Filter Bags (Pack 5)",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-fs-f-vce33-44-lm-ve5-filter-bags-pack-5.html|>
+## Flex Power Tools FS-F VCE33-44 L/M VE5 Filter Bags (Pack 5)
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools FS-F VCE33-44 L/M VE5 Filter Bags offer improved filling compared with paper filter sacks, they are durable and moisture-resistant. Due to the larger dimensions, the filter sack can be used for both containers 33 and 44. Class M Rated. Suitable for: VCE 33 L MC, VCE 33 L AC, VCE 44 L AC, VCE 33 M AC, VCE 44 M AC and VCE 44 H AC.",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools FS-F VCE33-44 L/M VE5 Filter Bags (Pack 5)",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-hook-and-loop-pad-m14.html|>
+## Flex Power Tools Hook & Loop Pad M14
+
+{
+  "price": "€150",
+  "description": "Cell rubber for even pressure distribution for grinding, polishing or sealing Available Sizes: 125mm, 150mm [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools Hook & Loop Pad M14",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-hook-and-loop-sanding-paper-perforated.html|>
+## Flex Power Tools Hook & Loop Sanding Paper Perforated
+
+{
+  "price": "€150",
+  "description": "These FlexHook & Loop backed, perforated sanding discs are suitable for use with the following Flex sanders: GE 5 / GE 5 R GSE 5R WSE 7 Vario Set WSE 7 Vario Plus WST 700 W WST 700 VV Plus. They are available in a range of grit sizes and each pack contains 25 discs. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools Hook & Loop Sanding Paper Perforated",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-l1503-vr-110v-polisher.html|>
+## Flex Power Tools L1503 Vr 110V Polisher
+
+{
+  "price": "€150",
+  "description": "## WEEE Recycling",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools L1503 Vr 110V Polisher",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-mh-r-d225-rotary-sanding-head-225mm.html|>
+## Flex Power Tools MH-R D225 Rotary Sanding Head 225mm
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools MH-R Rotary Sanding Head with Edge Segment can be used to sand walls and ceilings. The rotation of the sanding head edge is induced by the movement of the tool, without interruption of the sanding process. This results in a 5 times faster edge processing. Integrated sliding edges on the sanding head prevent damage to the contact surfaces on the wall and ceiling. Compatible with the GE 7 Giraffe® Sander. Specification: Diameter: 225mm",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools MH-R D225 Rotary Sanding Head 225mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-mh-t-triangular-sanding-head-290-x-290mm.html|>
+## Flex Power Tools MH-T Triangular Sanding Head 290 x 290mm
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools MH-T Triangular Sanding Head utilises an orbital movement that guides the abrasive right up to the edge, perfect for sanding corners. Its large contact surface enables a more even finish when compared with hand-held eccentric sanders. The rotation of the triangular sanding head adapts to tool movement, which allows sanding of the wall and ceiling transitions without interruption of the operation. It comes with changeable protective corners with sliding strips. Compatible wit",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools MH-T Triangular Sanding Head 290 x 290mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-mh-x-d225-excentric-sanding-head-225mm.html|>
+## Flex Power Tools MH-X D225 Excentric Sanding Head 225mm
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools MH-X D225 Excentric Sanding Head uses multi-hole perforation sandpaper for optimum dust extraction and more comfortable working conditions. This innovative excentric sanding head effortlessly achieves perfect surfaces. It efficiently grinds fast putties, spray fillers, and also softer putties and fillers in a controlled manner. Compatible with the GE 7 Giraffe® Sander. Specification: Diameter: 225mm Oscillating Diameter: 4mm",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools MH-X D225 Excentric Sanding Head 225mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-ms-1706-wall-chasers.html|>
+## Flex Power Tools MS-1706 Wall Chasers
+
+{
+  "price": "€150",
+  "description": "The Flex MS-1706 wall chaser has FR electronic control with constant speed control by means of a tachogenerator. It features soft start, overload protection and temperature monitoring. The wall chaser has a patented swivel-mounted motor (EP1693169) which allows for push and pull cutting. It has optimal dust extraction and maximum safety due to the enclosed guard. It allows blades to be changed tool-free and has slit width adjustment. The MS1706 also has a rotating adaptor for dust extractor, too",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools MS-1706 Wall Chasers",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-pe-142150-polisher.html|>
+## Flex Power Tools PE 142150 Polisher
+
+{
+  "price": "€150",
+  "description": "The Flex POLISHFLEX is a variable-speed polisher with a high torque. It has a powerful 1,400 watt motor with highly-efficient ventilator for optimum cooling, making it ideal for heavy-duty applications. Its VR electronic control allows stepless speed selection, constant speed control by means of tachogenerator, overload protection and temperature monitoring. The continuous speed control trigger allows the speed to be locked on for continuous operation. The innovative combination of planetary and",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools PE 142150 Polisher",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-pe-150-180-ec50-p-set-cless-polisher.html|>
+## Flex Power Tools Pe 150 18.0-Ec/5.0 P-Set C/Less Polisher
+
+{
+  "price": "€150",
+  "description": "## WEEE Recycling",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools Pe 150 18.0-Ec/5.0 P-Set C/Less Polisher",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexipads-world-class-wool-bonnet.html|>
+## Flexipads World Class Wool Bonnet
+
+{
+  "price": "€150",
+  "description": "This Flexipads Wool Bonnet is made from ultimate Merino sheepskin wool, which has a unique double skin, making it very long lasting. It is a professional, world renown bonnet bought by Prestige Car Manufacturers. With VELCRO® Brand fastening. Made in Great Britain Specifications: Wool pile: 20mm. Max RPM: 2,500. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flexipads World Class Wool Bonnet",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexipads-world-class-zero-swirl-liquid-shine-red-500ml.html|>
+## Flexipads World Class ZERO SWIRL Liquid Shine Red 500ml
+
+{
+  "price": "€150",
+  "description": "Flexipads ZERO SWIRL Liquid Shine removes fine scratches, swirling and holograms on automotive paints and marine gel-coats and creates a deep liquid shine gloss. Its water-based formula is free of silicone, filler, wax or glaze and works on any colour paint. ZERO SWIRL Liquid Shine can be applied by hand or machine. Size: 500ml.",
+  "availability": "In Stock",
+  "product_name": "Flexipads World Class ZERO SWIRL Liquid Shine Red 500ml",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-115mm-x-10m-high-performance-sanding-rolls.html|>
+## Flexovit 115mm X 10m High Performance Sanding Rolls
+
+{
+  "price": "€150",
+  "description": "Preparation is key when trying to achieve a perfect finish. This tough and durable heavy paper backed sanding roll has an High Performance Aluminium Oxide structure which is ideal for general purpose sanding and stock removal. Suitable for hand and power tool use. For use on: Wood, Paint, Plaster and Metal.",
+  "availability": "In Stock",
+  "product_name": "Flexovit 115mm X 10m High Performance Sanding Rolls",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-115mm-x-50m-high-performance-sanding-rolls.html|>
+## Flexovit 115mm X 50m High Performance Sanding Rolls
+
+{
+  "price": "€150",
+  "description": "Preparation is key when trying to achieve a perfect finish. This tough and durable heavy paper backed sanding roll has an High Performance Aluminium Oxide structure which is ideal for general purpose sanding and stock removal. Suitable for hand and power tool use. For use on: Wood, Paint, Plaster and Metal.",
+  "availability": "In Stock",
+  "product_name": "Flexovit 115mm X 50m High Performance Sanding Rolls",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-115mm-x-5m-general-purpose-sanding-rolls.html|>
+## Flexovit 115mm x 5m General Purpose Sanding Rolls
+
+{
+  "price": "€150",
+  "description": "Flexovit General purpose paper backed sanding roll with a tough and sharp Aluminium Oxide grain with an open structure, making it ideal for general purpose sanding and stock removal. It can be cut to any length and can also be used in conjunction with a powered sheet sander. Suitable for hand and power tool use. For use on wood, paint, plaster and metal. Size: 115mm x 5m. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flexovit 115mm x 5m General Purpose Sanding Rolls",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-aluminium-oxide-sheets-230-x-280mm.html|>
+## Flexovit Aluminium Oxide Sheets 230 x 280mm
+
+{
+  "price": "€150",
+  "description": "Flexovit high performance Aluminium Oxide sanding sheets are tough and durable, with heavy paper backing for longer life. They are ideal for general purpose sanding and stock removal and are suitable for hand or power use. Suitable for use on wood, paint, plaster and metal. Size: 230 x 280mm.",
+  "availability": "In Stock",
+  "product_name": "Flexovit Aluminium Oxide Sheets 230 x 280mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-delta-hook-and-loop-sheets-94-mm.html|>
+## Flexovit Delta Hook & Loop Sheets 94 mm
+
+{
+  "price": "€150",
+  "description": "Flexovit Delta hook & loop sanding sheets; tough and sharp high performance aluminium oxide, combined with a heavy paper backing makes this product extremely durable, long lasting and suitable for use on a variety of surfaces. Fits most brands of Delta sanders, the hook and loop backing allows quick and easy sheet changing and the perforated holes allow free and easy dust extraction. Suitable for use on: wood, paint and metal. Size: Delta Shape, 94mm. [Data Sheet](https://tbimages.e2ecdn.co.uk/S",
+  "availability": "In Stock",
+  "product_name": "Flexovit Delta Hook & Loop Sheets 94 mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-emery-cloth-sheets-230-x-280mm.html|>
+## Flexovit Emery Cloth Sheets 230 x 280mm
+
+{
+  "price": "€150",
+  "description": "Flexovit emery cloth sanding sheets have an incredibly strong cloth backing for increased product strength and durability. Can be torn into strips for detailed work and is suitable for hand or power tool use. Ideal for removing rust, paint and scale from metal surfaces. The fine grits are also ideal for preparing and polishing metal. Size: 230 x 280mm. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flexovit Emery Cloth Sheets 230 x 280mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-glasspaper-sheets-230-x-280mm.html|>
+## Flexovit Glasspaper Sheets 230 x 280mm
+
+{
+  "price": "€150",
+  "description": "Flexovit glasspaper sanding sheets are ideal for general purpose applications and are suitable for sanding both wood and paint. Size: 230 x 280mm. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flexovit Glasspaper Sheets 230 x 280mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-high-performance-finishing-roll.html|>
+## Flexovit High Performance Finishing Roll
+
+{
+  "price": "€150",
+  "description": "Flexovit High Performance Finishing Sanding Rolls are ideal for fine finishing and between coats sanding. The high quality extremely sharp silicon carbide abrasive has a stearate coating which significantly improves performance and finish by reducing friction and clogging, giving a sanding action which results in a very consistent scratch free surface. Ideal to achieve a very smooth surface. For use on wood, paint, plaster and varnish. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/",
+  "availability": "In Stock",
+  "product_name": "Flexovit High Performance Finishing Roll",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-silicon-carbide-finishing-sheets-230-x-280mm.html|>
+## Flexovit Silicon Carbide Finishing Sheets 230 x 280mm
+
+{
+  "price": "€150",
+  "description": "Flexovit Silicon Carbide Finishing Sheets are ideal for fine finishing and between coats sanding. The high quality extremely sharp silicon carbide abrasive has a stearate coating which significantly improves performance and finish by reducing friction and clogging, giving a sanding action which results in a very consistent scratch free surface. Ideal to achieve a very smooth surface. For use on wood, paint, plaster and varnish. Sheet Size: 230 x 280mm. [Data Sheet](https://tbimages.e2ecdn.co.uk/",
+  "availability": "In Stock",
+  "product_name": "Flexovit Silicon Carbide Finishing Sheets 230 x 280mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flexovit-waterproof-sheets-230-x-280mm.html|>
+## Flexovit Waterproof Sheets 230 x 280mm
+
+{
+  "price": "€150",
+  "description": "Flexovit Waterproof Sanding Sheets can be used wet or dry and is a highly flexible high quality Silicon carbide abrasive. Waterproof paper is specially treated making it ideal for use with water or other lubricants. The paper lasts longer and gives a smoother finish when used wet as the water cleans, lubricates and helps prevent clogging. Size: 230 x 280mm. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flexovit Waterproof Sheets 230 x 280mm",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-adjustable-jet-spray-gun.html|>
+## Flopro Adjustable Jet Spray Gun
+
+{
+  "price": "€150",
+  "description": "The Flopro Adjustable Jet Spray Gun has a fully adjustable water flow, complete with a lockable trigger and precision flow adjuster to help make your watering experience effortless. Three distinct patterns; jet, fill, and cone. When it’s time to fill up watering cans and buckets, easily switch to the fill setting. For the delicate task of watering your plants, the gentle cone spray ensures precise and careful watering and the powerful jet spray is ideal for car washing and cleaning your patio. T",
+  "availability": "In Stock",
+  "product_name": "Flopro Adjustable Jet Spray Gun",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-auto-rewind-wall-mounted-reel--20m-of-hose.html|>
+## Flopro Auto Rewind Wall Mounted Reel + 20m of Hose
+
+{
+  "price": "€150",
+  "description": "The Flopro Auto Rewind Hose is a automatic rewind hose which is both convenient and easy to use. The durable spring allows automatic hose retraction, to retract smoothly with minimal effort and prevent kinks and tangles. The 180° wall swivel sits tight against walls and provides storage for spare connectors or nozzles. Supplied with 20m of Hose, 1 x Water Stop Hose Connector and 1 x Watering Nozzle.",
+  "availability": "In Stock",
+  "product_name": "Flopro Auto Rewind Wall Mounted Reel + 20m of Hose",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-cobra-expanding-hose.html|>
+## Flopro Cobra Expanding Hose
+
+{
+  "price": "€150",
+  "description": "The Flopro Cobra Expanding Hose is 50% lighter than a traditional hosepipe and extremely tough. Unlike fabric expanding hoses, it is armoured and thorn proof. It ensures no twists or kinks to provide an uninterrupted smooth flow of water. Can expand to 3 times its length when the tap is on and shrinks back to starting size once turned off, making for convenient storage. [Data Sheet](https://tbimages.e2ecdn.co.uk/SafetyDataSheets/0000.pdf)",
+  "availability": "In Stock",
+  "product_name": "Flopro Cobra Expanding Hose",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-everyday-complete-hose-system-20m.html|>
+## Flopro Everyday Complete Hose System 20m
+
+{
+  "price": "€150",
+  "description": "The Flopro Everyday Complete Hose System is an all-inclusive solution designed to simplify your watering routine. Engineered for stability, the hose reel ensures effortless unwinding and rewinding of your hosepipe, guaranteeing a hassle-free watering experience every time. Whether you prefer a free-standing setup or opt to mount it onto a wall, this versatile system adapts seamlessly to your garden layout and watering preferences. Supplied with 20 meters (12.5mm Ø) of Flopro Everyday Hose. Three",
+  "availability": "In Stock",
+  "product_name": "Flopro Everyday Complete Hose System 20m",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-everyday-hose.html|>
+## Flopro Everyday Hose
+
+{
+  "price": "€150",
+  "description": "The Flopro Everyday Hose is a quality 12.5mm garden hose pipe which is weatherproof with UV and frost protection. It will withstand temperatures from -20 degrees to +60 degrees, giving you peace of mind all year round. Crafted with a durable 3 layer structure and braided reinforcement, this hose is designed to help prevent twists and kinks while remaining remarkably flexible during use. Ideal for everyday use, plus you can enjoy the assurance of a 10 year guarantee too. [Data Sheet](https://tbim",
+  "availability": "In Stock",
+  "product_name": "Flopro Everyday Hose",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-everyday-hose-cart-and-25m-hose.html|>
+## Flopro Everyday Hose Cart & 25m Hose
+
+{
+  "price": "€150",
+  "description": "The Flopro Everyday Hose Cart is engineered for durability and convenience, and is perfect for your everyday watering tasks. Designed for stability, it is easy to unwind and rewind, saving you time and effort. Equipped with wide wheels specially designed to avoid sinking, our hose cart ensures seamless movement across your lawn and garden. It also features an adjustable height telescopic handle for easy wheeling. Plus, with a storage capacity of up to 45m (12.5mm hose), you’ll have plenty of spa",
+  "availability": "Out of Stock",
+  "product_name": "Flopro Everyday Hose Cart & 25m Hose",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-everyday-hose-connection-set.html|>
+## Flopro Everyday Hose Connection Set
+
+{
+  "price": "€150",
+  "description": "The Flopro Everyday Hose Connection Set is the optimal solution for linking your hose reel, cart, or Can-Can to your outdoor tap without the need to cut a short section of your hosepipe. This set features a hose connector and water stop connector, both equipped with steel springs for swift and seamless connections to the tap, reel, or cart. Crafted from ABS plastic, the same material found in car bumpers for impact absorption and strength. Flopro Supergrip connectors are also 20\\* longer vs. the",
+  "availability": "In Stock",
+  "product_name": "Flopro Everyday Hose Connection Set",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-everyday-hose-reel-flat-pack.html|>
+## Flopro Everyday Hose Reel (Flat Pack)
+
+{
+  "price": "€150",
+  "description": "The Flopro Everyday Hose Reel is a convenient solution for storing your hose pipe. This flat-packed reel is designed for hassle-free assembly, making it a perfect addition to any garden or outdoor space. Crafted with stability in mind, the Flopro Everyday Hose Reel ensures smooth unwinding and rewinding of your hose, eliminating tangles and knots. It also has the option of wall-mounting or the convenience of freestanding. Holds up to 45m of hose for maximum storage, hose not included. Compatible",
+  "availability": "In Stock",
+  "product_name": "Flopro Everyday Hose Reel (Flat Pack)",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-everyday-hose-starter-set-15m.html|>
+## Flopro Everyday Hose Starter Set 15m
+
+{
+  "price": "€150",
+  "description": "This Flopro Starter Set has everything you need for everyday watering tasks around the home and garden. Whether you’re a novice gardener or are seeking a complete set for your watering needs. Featuring three layers of reinforcement, the Everyday hose guarantees durability and flexibility essential for various garden watering tasks. Whether you prefer direct use or prefer to wind it onto a hose hanger or reel for storage, its versatility adapts to your preferences seamlessly. The Flopro Hose Star",
+  "availability": "In Stock",
+  "product_name": "Flopro Everyday Hose Starter Set 15m",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-garden-multi-spray-gun.html|>
+## Flopro Garden Multi Spray Gun
+
+{
+  "price": "€150",
+  "description": "The Flopro Garden Multi Spray Gun features seven distinct spray patterns designed to simplify your watering routine. With the ability to effortlessly switch between mist, cone, fan, rose, jet, fill, and soft patterns, this spray gun offers a solution for every watering need. Crafted from durable materials, the spray gun is built to withstand the rigors of regular use, providing confidence in its longevity and performance. Seamlessly integrates with any watering brand product, ensuring easy conne",
+  "availability": "In Stock",
+  "product_name": "Flopro Garden Multi Spray Gun",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-garden-multi-spray-gun-set.html|>
+## Flopro Garden Multi Spray Gun Set
+
+{
+  "price": "€150",
+  "description": "The Flopro Garden Multi Spray Gun features seven distinct spray patterns designed to simplify your watering routine. With the ability to effortlessly switch between mist, cone, fan, rose, jet, fill, and soft patterns, this spray gun offers a solution for every watering need. Crafted from durable materials, the spray gun is built to withstand the rigors of regular use, providing confidence in its longevity and performance. Seamlessly integrates with any watering brand product, ensuring easy conne",
+  "availability": "In Stock",
+  "product_name": "Flopro Garden Multi Spray Gun Set",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-metal-jet-gun.html|>
+## Flopro Metal Jet Gun
+
+{
+  "price": "€150",
+  "description": "The Flopro Metal Jet Gun comes with an adjustable jet. Whether you’re tackling car cleaning, or patio maintenance, the powerful jet spray is your go-to solution. Crafted with an ultra-tough metal body, built to withstand the demands of outdoor use, ensuring durability and longevity. The One Flo Control Valve allows you to easily turn the gun on and off, and regulate water flow seamlessly with a single valve. Seamlessly integrates with any watering brand product, ensuring easy connectivity to you",
+  "availability": "In Stock",
+  "product_name": "Flopro Metal Jet Gun",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-metal-multi-spray-gun.html|>
+## Flopro Metal Multi Spray Gun
+
+{
+  "price": "€150",
+  "description": "The Flopro Heavy Duty Multi Spray is a spray gun combining functionality with durability. Boasting six versatile spray patterns, including a jet setting for removing hard dirt to a fine aerated rose for watering delicate plants. The inclusion of the One Flo Control Valve allows for effortless switching between on, off, and adjustment modes with a single device. It sports a robust ultra-tough metal body and is 100% compatible with all watering brands, offering a versatile solution which you can u",
+  "availability": "In Stock",
+  "product_name": "Flopro Metal Multi Spray Gun",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flopro-three-way-connector.html|>
+## Flopro Three Way Connector
+
+{
+  "price": "€150",
+  "description": "Flopro Three Way Connector for the easy connection and separation of 3 hoses. This ultra-tough three-way connector is designed to branch a hose in two different directions. Made from premium grade plastic, UV resistant. The connector is guaranteed to fit all watering brands. Specification: Diameter: 12.5mm (1/2in).",
+  "availability": "Out of Stock",
+  "product_name": "Flopro Three Way Connector",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fluxite-tin-soldering-paste.html|>
+## Fluxite Tin Soldering Paste
+
+{
+  "price": "€150",
+  "description": "An effective and reliable flux paste which simplifies soldering and lead jointing. Also suitable for lead-free and lead containing solder alloys. Quick and clean to use. Complies with water research council requirements. UKWBF listed and approved by British Gas.",
+  "availability": "In Stock",
+  "product_name": "Fluxite Tin Soldering Paste",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/fluxrite-soldering-flux-paste-100g.html|>
+## FluxriteÂ® Soldering Flux Paste 100g
+
+{
+  "price": "€150",
+  "description": "Fluxrite® is a mid to dark brown, soft paste, designed for engineering and sheet metal work. The flux is active and contains zinc chloride and is suitable for soldering many metals including copper, brass and mild steel. This all-purpose paste flux has been used successfully in gas systems for many years where professional application is essential. Fluxrite® is WRAS approved for use in both hot and cold water systems and is also listed in the UK Water Fittings and Material Directory. This produc",
+  "availability": "Out of Stock",
+  "product_name": "FluxriteÂ® Soldering Flux Paste 100g",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/footprint-241-square-scraper-set.html|>
+## Footprint 241 Square Scraper Set
+
+{
+  "price": "€150",
+  "description": "A 3 piece rectangular Cabinet Scraper set. Made from the finest European Steel. Ideal for the fine finishing of wood. Comprises 1 of each:- 6 x 3 inch Scraper 5 x 2 1/2 inch Scraper 4 x 2 inch Scraper",
+  "availability": "In Stock",
+  "product_name": "Footprint 241 Square Scraper Set",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/footprint-242-shaped-scraper-set.html|>
+## Footprint 242 Shaped Scraper Set
+
+{
+  "price": "€150",
+  "description": "A 3 piece Shaped Cabinet Scraper set. Made from the finest European Steel. Ideal for the fine finishing of wood. Comprises:- 1 Oblong Scraper 1 Curved Scraper 1 Goose Neck Scraper",
+  "availability": "Out of Stock",
+  "product_name": "Footprint 242 Shaped Scraper Set",
+  "specifications": []
+}
+

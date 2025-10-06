@@ -1,0 +1,16 @@
+<|https://www.mydiy.ie/products/zarges-aluminium-hop-up-600mm-x-600mm.html|>
+## Zarges Aluminium Hop Up 600mm x 600mm
+
+{
+  "price": "€141.75 inc VAT (€115.24 exc.vat)",
+  "description": "The Zarges 100304 Hop Up platform is made from aluminium. It is a low level professional work platform which is lightweight and durable and ideal for a multitude of low level tasks. A safety locking catch prevents the legs collapsing underneath. The platform is easy to store and transport due to compact closed dimensions and has a 150 kg load capacity. Height: 470mm. Platform Size: 600 x 600mm. Weight: 7.4kg.",
+  "availability": "Out of Stock",
+  "product_name": "Zarges Aluminium Hop Up 600mm x 600mm",
+  "specifications": [
+    "Height: 470mm",
+    "Platform Size: 600 x 600mm",
+    "Weight: 7.4kg",
+    "150 kg load capacity"
+  ]
+}
+

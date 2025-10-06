@@ -1,0 +1,128 @@
+<|https://www.mydiy.ie/products/stanley-trucks-ft516-folding-hand-truck.html|>
+## STANLEY® Trucks FT516 Folding Hand Truck
+
+{
+  "price": "€40.89 inc VAT (€33.24 exc.vat)",
+  "description": "The STANLEY FT516 Folding Hand Truck is made from durable, yet lightweight Aluminium. Major stress points are made of durable nylon whilst other plastic pieces are made of polyproplyene. Easy to use and store, the truck folds completely flat for easy transportation. It is fitted with soft grip handles for added user comfort. Supplied fully assembled.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Trucks FT516 Folding Hand Truck",
+  "specifications": [
+    "Max. Load: 60kg",
+    "Base Plate: 39 x 28cm",
+    "Folded Dimensions: 390 x 60 x 730mm",
+    "Unfolded Dimensions: 40 x 41 x 100cm",
+    "Weight: 3.34kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-trolley-hm1810.html|>
+## Makita Trolley Hm1810
+
+{
+  "price": "€328.91 inc VAT (€267.41 exc.vat)",
+  "description": "Trolley Hm1810",
+  "availability": "Out of Stock",
+  "product_name": "Makita Trolley Hm1810",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-trucks-sxwtd-ft582-folding-hand-truck.html|>
+## SXWTD-FT582 Folding Hand Truck
+
+{
+  "price": "€70.25 inc VAT (€57.11 exc.vat)",
+  "description": "STANLEY® SXWTD-FT582 Folding Hand Truck is easy-to-use, equipped with a useful elastic cord for added stability. Made of strong durable steel. Its major plastic stress points are made of durable nylon. The compact and lightweight design makes it easy to open and close for easier transport and storage. Comes fully assembled.",
+  "availability": "Out of Stock",
+  "product_name": "SXWTD-FT582 Folding Hand Truck",
+  "specifications": [
+    "Max. Load: 90kg",
+    "Base Plate: 49 x 28cm",
+    "Dimensions: Folded 49 x 6.5 x 73cm, Unfolded 50 x 45 x 98cm",
+    "Weight: 5.45kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-trucks-fxwt-706-fatmax-folding-truck.html|>
+## FXWT-706 FatMax® Folding Truck
+
+{
+  "price": "€116.63 inc VAT (€94.82 exc.vat)",
+  "description": "The STANLEY® FXWT-706 FatMax® Folding Truck is made of lightweight, durable aluminium. Major stress points are made of durable nylon, other plastic parts are polypropylene. Folds and opens in seconds, making it easy to use and store. For added comfort the handle is fitted with a soft grip. Supplied fully assembled and includes an elastic bungee cord.",
+  "availability": "Out of Stock",
+  "product_name": "FXWT-706 FatMax® Folding Truck",
+  "specifications": [
+    "Max. Load: 125kg",
+    "Base Plate: 48 x 35cm",
+    "Dimensions: Folded 49 x 6.5 x 77cm, Unfolded 50 x 52.5 x 107cm",
+    "Wheel Diameter: 175mm",
+    "Weight: 6.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-trucks-sxwtd-moving-dolly.html|>
+## STANLEY® Trucks SXWTD Moving Dolly
+
+{
+  "price": "€28.11 inc VAT",
+  "description": "The STANLEY® SXWTD Moving Dolly is made from extra strong plywood with an outer plastic bump guard so you do not scratch any walls when moving. It has a built-in carry on handle for easy positioning. This also makes it easy to move the dolly where you need it. Ideal for heavy moving applications.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Trucks SXWTD Moving Dolly",
+  "specifications": [
+    "Select Option: 45 x 30cm, 60 x 45cm",
+    "Made from extra strong plywood",
+    "Outer plastic bump guard",
+    "Built-in carry handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-trucks-platform-truck.html|>
+## STANLEY® Trucks Platform Truck
+
+{
+  "price": "from €54.33 inc VAT",
+  "description": "The STANLEY® SXWTD Platform Truck has a large platform with a non-slip coating for safe moving of heavy loads. The tubing and platform are made of tough steel for added durability. Fitted with bumper strips to minimize damage. The 4 durable TPR wheels are quiet and provide added wear resistance.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Trucks Platform Truck",
+  "specifications": [
+    "Max. Load: 150kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-trucks-ft586-2-in-1-folding-truck.html|>
+## STANLEY® Trucks FT586 2-in-1 Folding Truck
+
+{
+  "price": "€117.96 inc VAT (€95.90 exc.vat)",
+  "description": "The STANLEY® Trucks FT586 2-in-1 Folding Truck combines a hand truck and platform cart in one. Easy-to-use, takes seconds to open and close. Made of strong and durable steel. Major plastic stress points are made of durable nylon; other plastic pieces are polypropylene.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Trucks FT586 2-in-1 Folding Truck",
+  "specifications": [
+    "Max. Load: Hand Truck 80kg, Platform Truck 137kg",
+    "Base Plate: 38 x 28cm",
+    "Dimensions: Folded 39 x 12 x 64mm, Hand Truck 45 x 41 x 110mm, Platform 45 x 78 x 92mm",
+    "Weight: 8.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-trucks-sxwtd-mt519-multi-truck.html|>
+## STANLEY® Trucks SXWTD-MT519 Multi-Truck
+
+{
+  "price": "€82.15 inc VAT (€66.79 exc.vat)",
+  "description": "The STANLEY® SXWTD-MT519 Multi-Truck is made of durable steel to enable you to move your heavy loads, boxes, furniture etc. easily and safely. It has a capacity of up to 150kg as a sack barrow and 200kg as a platform truck. Large pneumatic wheels allow for easy movement in both indoor and outdoor situations whilst the heavy-duty castors allow for precise steering in platform mode. Built-in guides on the back allow for easier handling on stairways.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Trucks SXWTD-MT519 Multi-Truck",
+  "specifications": [
+    "Max. Load: Hand Truck 150kg, Platform Truck 200kg",
+    "Base Plate: 35.5 x 22cm",
+    "Overall Size: 460 x 580 x 1435mm",
+    "Wheel Diameter: 260mm",
+    "Weight: 13.4kg"
+  ]
+}
+

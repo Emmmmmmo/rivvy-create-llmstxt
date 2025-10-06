@@ -1,0 +1,11 @@
+<|https://www.mydiy.ie/products/flex-power-tools-ap-18050-battery-pack-18v-50ah-li-ion.html|>
+## Flex Power Tools AP 18.0/5.0 Battery Pack 18V 5.0Ah Li-ion
+
+{
+  "price": "€150",
+  "description": "The Flex AP 18.0/5.0 Li-ion Battery Pack has integrated charge and discharge protection. The electronic management system (EMS) protects the battery pack, extends service life and increases efficiency. It also features a handy battery charge indicator.",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools AP 18.0/5.0 Battery Pack 18V 5.0Ah Li-ion",
+  "specifications": []
+}
+

@@ -1,0 +1,240 @@
+<|https://www.mydiy.ie/products/purdy-paperhanging-brush-230mm-9in.html|>
+## Purdy® Paperhanging Brush 230mm (9in)
+
+{
+  "price": "€50.25 inc VAT (€40.85 exc.vat)",
+  "description": "The Purdy® 230mm Paperhanging Brush comes with a beech wood handle and soft lily bristle. Ideal for smoothing all types of wallpaper.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Paperhanging Brush 230mm (9in)",
+  "specifications": [
+    "Size: 230mm (9in)",
+    "Thickness: 25mm (1in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-wallpaper-paste-brush-130mm-x-40mm.html|>
+## Stanley Tools Wallpaper Paste Brush 130mm x 40mm
+
+{
+  "price": "€5.23 inc VAT (€4.25 exc.vat)",
+  "description": "A synthetic paste brush for pasting wallpaper and wall coverings. Pot clip to hang the brush easily when not in use. Size: 130mm x 40mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Wallpaper Paste Brush 130mm x 40mm",
+  "specifications": [
+    "Size: 130mm x 40mm",
+    "Synthetic paste brush for pasting wallpaper and wall coverings",
+    "Pot clip for easy hanging when not in use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-ready-mixed-wallcovering-adhesive-45kg.html|>
+## Everbuild Ready Mixed Wallcovering Adhesive 4.5kg
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "Ready Mixed Wallcovering Adhesive is a ready mixed paste suitable for hanging all wall coverings including sculptured, blown and textured vinyl, washable and heavily embossed wallpapers. This product has a high initial tack combined with excellent adjustability for accurate positioning. Easy application smooth formula. Works on most types of wallpapers. Contains a powerful fungicide to prevent mould growth whilst the paste is drying. Ensure surfaces are clean, dry and free from any loose or flaky material. Gloss or non porous surfaces should be rubbed down to improve adhesion. Porous surfaces should be sized with a 1-1 dilution of this paste with water before hanging. Use neat when hanging and apply with a brush, roller or fine-notched trowel. Wipe off excess with a damp cloth before product dries. Clean tools immediately after use with warm water. COVERAGE - approx. 1kg per roll of wallpaper.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Ready Mixed Wallcovering Adhesive 4.5kg",
+  "specifications": [
+    "Product Code: EVBWALLRD4",
+    "Coverage: approx. 1kg per roll of wallpaper",
+    "Contains fungicide to prevent mould growth",
+    "Easy application with brush, roller, or trowel"
+  ]
+}
+
+<|https://www.mydiy.ie/products/solvite-overlap-and-border-adhesive-tube.html|>
+## Solvite Overlap & Border Adhesive Tube
+
+{
+  "price": "€8.76 inc VAT (€7.12 exc.vat)",
+  "description": "Solvite Overlap & Border Adhesive is an extra strong adhesive for overlapping vinyl to vinyl wallpaper and borders. The formula is smooth and easy to apply.",
+  "availability": "Out of Stock",
+  "product_name": "Solvite Overlap & Border Adhesive Tube",
+  "specifications": [
+    "Product Code: SLV1574677",
+    "List Price: €9.30",
+    "You save: €0.54"
+  ]
+}
+
+<|https://www.mydiy.ie/products/solvite-wallpaper-repair-adhesive-tube.html|>
+## Solvite Wallpaper Repair Adhesive Tube
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Solvite Wallpaper Repair Adhesive is an easy spread formulation and precision nozzle for quick and easy wallpaper repairs to tears and lifted seams.",
+  "availability": "In Stock",
+  "product_name": "Solvite Wallpaper Repair Adhesive Tube",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/solvite-wall-sealer-30m.html|>
+## Solvite Wall Sealer 30m²
+
+{
+  "price": "€5.42 inc VAT (€4.41 exc.vat)",
+  "description": "Solvite Wall Sealer is an ideal base prior to wallpapering, stopping absorbent walls from sucking moisture from the wallpaper adhesive. Easy 30 second mix. Ready to use in under 3 minutes. Covers up to 30m².",
+  "availability": "In Stock",
+  "product_name": "Solvite Wall Sealer 30m²",
+  "specifications": [
+    "Covers up to 30m²",
+    "Easy 30 second mix",
+    "Ready to use in under 3 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/solvite-paste-the-wall-wallpaper-paste-sachet-5-roll.html|>
+## Solvite Paste The Wall Wallpaper Paste Sachet 5 Roll
+
+{
+  "price": "€14.78 inc VAT (€12.02 exc.vat)",
+  "description": "Solvite Paste The Wall Wallpaper Paste is in less than 2 minutes. Easy to mix and apply. Thick, smooth, lump free formula. No pasting table required. Ideal for 'Paste The Wall' and non-woven wallcoverings.",
+  "availability": "In Stock",
+  "product_name": "Solvite Paste The Wall Wallpaper Paste Sachet 5 Roll",
+  "specifications": [
+    "SLV1584707 : €14.78",
+    "Easy to mix and apply",
+    "Thick, smooth, lump free formula",
+    "No pasting table required",
+    "Ideal for 'Paste The Wall' and non-woven wallcoverings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-overlap-and-border-adhesives.html|>
+## Everbuild Overlap & Border Adhesives
+
+{
+  "price": "from €5.71 inc VAT",
+  "description": "Everbuild Overlap and Border adhesive, is a high strength, ready mixed paste suitable for hanging all types of borders (including vinyl). Overlap and Border adhesive may also be used for adhering overlaps and carrying out repairs to damaged paper sections. Overlap and Border adhesive will stick to all common papers as well as gloss and emulsioned walls. -High initial tack for quick bonding. -Allows time for repositioning. -Contains a powerful fungicide to prevent mould growth whist the paste fully cures. -Use only as directed -Store in original container. -Dispose of product and packaging correctly. -It is users responsibility to determine suitability for use. If in doubt please contact technical services for advice. Ensure surfaces are clean and dry and free from loose or flaky material. Gloss or non porous surfaces should be rubbed down to improve adhesion. For borders - cut border to required length. Gently score vinyl wallpaper where border is to be positioned. If using on pre pasted borders moisten before applying adhesive. Spread adhesive over border ensuring even coverage. Position border and smooth down with a sponge or cloth. Take care to keep the printed side of the border free of adhesive. If contact occurs wipe off excess adhesive with a damp cloth. COVERAGE - 1kg will hang approx.40m of a 13 cm (5 inch) deep border. For overlap repairs - apply the adhesive to the fixed substrate and press the overlap piece into position. Press firmly into place using a brush and wipe off excess immediately with a damp cloth.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Overlap & Border Adhesives",
+  "specifications": [
+    "High strength, ready mixed paste",
+    "Suitable for hanging all types of borders",
+    "Contains a powerful fungicide",
+    "High initial tack for quick bonding",
+    "Allows time for repositioning"
+  ]
+}
+
+<|https://www.mydiy.ie/products/solvite-all-purpose-wallpaper-paste.html|>
+## Solvite All Purpose Wallpaper Paste
+
+{
+  "price": "from €4.59 inc VAT",
+  "description": "Solvite All Purpose Wallpaper Adhesive is extra strong for reliable, long lasting results. It has a fast mix formula for quick and easy preparation. Extra strong, smooth lump free formula, fast 20 second mix and ready to use in under 2 minutes. For hanging washables, vinyl's, lining paper and embossed paper.",
+  "availability": "In Stock",
+  "product_name": "Solvite All Purpose Wallpaper Paste",
+  "specifications": [
+    "Extra strong, smooth lump free formula",
+    "Fast 20 second mix",
+    "Ready to use in under 2 minutes",
+    "Suitable for hanging washables, vinyl's, lining paper and embossed paper"
+  ]
+}
+
+<|https://www.mydiy.ie/products/earlex-lmb-steammaster-wallpaper-strippers.html|>
+## Earlex LMB Steammaster Wallpaper Strippers
+
+{
+  "price": "€772.69 inc VAT",
+  "description": "The Earlex LMB176 Steam Master Wallpaper Stripper is a professional wallpaper stripper with a patented design, protected by a tubular steel frame. Hardwearing and durable, it is an ideal solution to large stripping tasks. With its in-built step, there is no need for a ladder to access hard to reach areas. The Earlex Steam Master features a large capacity tank for up to 90 minutes of stripping. The on-board storage also makes it compact and portable, making it the perfect choice for a painter and decorator. It is ideal for multi-layered wallpapers, vinyls and painted wallpaper. For safety It has two thermal protection devices and a pressure release valve.",
+  "availability": "In Stock",
+  "product_name": "Earlex LMB Steammaster Wallpaper Strippers",
+  "specifications": [
+    "Tank Size: 7.5 litre",
+    "Hose Length : 5m run cool anti-kink",
+    "Plate Size : 253 x 305 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hiretech-steam-wallpaper-stripper-2500w-240v.html|>
+## Hiretech Steam Wallpaper Stripper 2500W 240V
+
+{
+  "price": "€677.85 inc VAT (€551.10 exc.vat)",
+  "description": "This Steam Wallpaper Stripper will steam-up in 10 to 25 minutes and continue to run for up to 90 minutes. It will remove vinyl, foil, flock, woodchip and multi-layered papers, including painted-over wallpaper.",
+  "availability": "Out of Stock",
+  "product_name": "Hiretech Steam Wallpaper Stripper 2500W 240V",
+  "specifications": [
+    "Input Power: 2,500W",
+    "Tank: 7 litre",
+    "Running Time: 240V 90min., 110V 195min.",
+    "Steam Hose: 4m",
+    "Mains Cable: 4m",
+    "Weight: 7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-steamforce-plus-wallpaper-stripper-2000w-240v.html|>
+## Wagner SteamForce Plus Wallpaper Stripper 2000W 240V
+
+{
+  "price": "€103.75 inc VAT (€84.35 exc.vat)",
+  "description": "The Wagner SteamForce Plus Wallpaper Stripper uses the power of steam to easily remove wallpaper without chemical additives. The high working speed is particularly evident when removing stubborn wallpaper. It has a 3.7m long, heat-insulated hose to increase your reach and safety whilst working. Thanks to the cool-touch design and a well-thought-out valve system, you always work on the safe side. Its long steaming time allows large surfaces to be processed without breaks, tireless working is made possible thanks to the light and handy steamer plate. The small steamer plate included makes it easier to work in hard-to-reach places and ensures a professional result. Also included is a scraper which makes removing the wallpaper even easier.",
+  "availability": "In Stock",
+  "product_name": "Wagner SteamForce Plus Wallpaper Stripper 2000W 240V",
+  "specifications": [
+    "Input Power: 2,000W",
+    "Tank: 4 litre",
+    "Max. Run Time: 70 min.",
+    "Hose Length: 3.7m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-steamforce-wallpaper-stripper-2000w-240v.html|>
+## Wagner SteamForce Wallpaper Stripper 2000W 240V
+
+{
+  "price": "€98.68 inc VAT (€80.23 exc.vat)",
+  "description": "The Wagner SteamForce Wallpaper Stripper uses the power of steam to easily remove wallpaper without chemical additives. The high working speed is particularly evident when removing stubborn wallpaper. It has a 3.7m long, heat-insulated hose to increase your reach and safety whilst working. Thanks to the cool-touch design and a well-thought-out valve system, you always work on the safe side. Its long steaming time allows large surfaces to be processed without breaks, tireless working is made possible thanks to the light and handy steamer plate.",
+  "availability": "Out of Stock",
+  "product_name": "Wagner SteamForce Wallpaper Stripper 2000W 240V",
+  "specifications": [
+    "Input Power: 2,000W",
+    "Tank: 4 litre",
+    "Max. Run Time: 70 min.",
+    "Hose Length: 3.7m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-steamforce-speed-pro.html|>
+## Wagner SteamForce Speed Pro
+
+{
+  "price": "€543.54 inc VAT (€441.90 exc.vat)",
+  "description": "The Wagner SteamForce Speed Pro is quick to use thanks to minimal heating time, innovative Flash Boil technology means it is ready for use in less than 4 minutes. Two practical plate sizes are included: a small one for narrow areas and a larger one for efficiently working on large areas. Thanks to its high performance, several layers of wallpaper can be removed easily without leaving any residue. Thanks to the flexible, 5m long hose, the working radius is increased and minimizes the need to reposition the device. The water tank can be easily removed for refilling. All parts can be conveniently stored in the steam wallpaper stripper to save space. Other features include; a step to reach up high (supports up to 150kg), large foldable carrying handle and two recessed handles on the side for transport.",
+  "availability": "Out of Stock",
+  "product_name": "Wagner SteamForce Speed Pro",
+  "specifications": [
+    "Voltage: 230V",
+    "Motor Output: 2.75 kW",
+    "Heat Up Time: approx. 3.5 min",
+    "Max. Usage Time: 68 min",
+    "Steam Plate Size: 321 x 242mm and 150 x 75mm",
+    "Water Capacity: 5.1 litre",
+    "Mains Cable Length: 5m",
+    "Flexible Hose Length: 5m",
+    "Step Load Capacity: 150kg",
+    "Weight: 7.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-wallpaper-remover-500ml.html|>
+## HG Wallpaper Remover 500ml
+
+{
+  "price": "€8.17 inc VAT (€6.64 exc.vat)",
+  "description": "HG Wallpaper Remover dissolves all types of wallpaper adhesive quickly, making it possible to remove the wallpaper in full sheets. The wallpaper remover works fast and efficiently to remove wallpaper. 500ml is sufficient for removing 100m² to 200m² of wallpaper.",
+  "availability": "In Stock",
+  "product_name": "HG Wallpaper Remover 500ml",
+  "specifications": [
+    "500ml is sufficient for removing 100m² to 200m² of wallpaper.",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+

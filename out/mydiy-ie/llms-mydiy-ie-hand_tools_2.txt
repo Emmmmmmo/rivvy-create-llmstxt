@@ -1,0 +1,3316 @@
+<|https://www.mydiy.ie/products/bahco-dds14-impact-socket-14-piece-set-12in-square-drive.html|>
+## Bahco DD/S14 Impact Socket 14 Piece Set 1/2in Square Drive
+
+{
+  "price": "€98.14 inc VAT (€79.79 exc.vat)",
+  "description": "Bahco DD/S14 1/2in drive impact socket set with a black finish and made from high performance alloy steel. To be used with machines, for maximum safety use clamping springs. Conforms to DIN 3121-G 12,5 ISO 1174 standards. Supplied in a carry case with a 1 piece removable three section plastic box. Size: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24 and 27mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco DD/S14 Impact Socket 14 Piece Set 1/2in Square Drive",
+  "specifications": [
+    "14 Piece Set",
+    "1/2in Square Drive",
+    "High performance alloy steel",
+    "Black finish",
+    "Conforms to DIN 3121-G 12,5 ISO 1174 standards",
+    "Supplied in a carry case"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-d-dds20-mixed-impact-socket-set-of-20-metric-12in.html|>
+## Bahco D-DD/S20 Mixed Impact Socket Set of 20 Metric 1/2in
+
+{
+  "price": "€232.74 inc VAT (€189.22 exc.vat)",
+  "description": "The Bahco D-DD/S20 Impact Socket set has 10 deep and 10 standard 1/2in drive impact sockets. Made from high performance alloy steel with a black finish. To be used with machines. For maximum safety, use clamping springs. Comes in a case with a 2-component handle. DIN 3129, ISO 2725. Sizes include; 10 x 1/2in Impact Sockets: 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19mm. 10 x 1/2in Deep Impact Sockets.: 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco D-DD/S20 Mixed Impact Socket Set of 20 Metric 1/2in",
+  "specifications": [
+    "10 deep and 10 standard 1/2in drive impact sockets",
+    "Made from high performance alloy steel",
+    "Black finish",
+    "Comes in a case with a 2-component handle",
+    "Sizes include: 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-double-ended-saw-file-handled.html|>
+## Bahco Double Ended Saw File Handled
+
+{
+  "price": "€19.94 inc VAT",
+  "description": "Bahco Double Ended Saw File for general purpose saw sharpening with both ends having second cut teeth. Single cut teeth on all sides. Fitted with an ERGO™ type handle.",
+  "availability": "In Stock",
+  "product_name": "Bahco Double Ended Saw File Handled",
+  "specifications": [
+    "200mm (8in) option available",
+    "ERGO™ type handle",
+    "General purpose saw sharpening"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-drill-holster.html|>
+## Bahco Drill Holster
+
+{
+  "price": "€45.77 inc VAT (€37.21 exc.vat)",
+  "description": "Drill Holster",
+  "availability": "In Stock",
+  "product_name": "Bahco Drill Holster",
+  "specifications": [
+    "Model: BAH4750DHO1",
+    "List Price: €57.39",
+    "You save: €11.62"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-drive-adapters-38in.html|>
+## Bahco Drive Adapters 3/8in
+
+{
+  "price": "from €11.12 inc VAT",
+  "description": "Female to male adapters to allow use of drives and sockets from different sizes.",
+  "availability": "In Stock",
+  "product_name": "Bahco Drive Adapters 3/8in",
+  "specifications": [
+    "3/8in Female > 1/2in Male",
+    "3/8in Female > 1/4in Male"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-electricians-hard-bottom-bag-12in.html|>
+## Bahco Electrician's Hard Bottom Bag 12in
+
+{
+  "price": "€97.59 inc VAT (€79.34 exc.vat)",
+  "description": "The Bahco Electrician's Bag has an easy access, open design. With various sizes of pockets and dividers both inside and outside the bag for an assortment of tools. Made from a combination of denier 600 and 1680 polyester fabrics and fitted with a hardwearing, waterproof PP base. Other features include a padded shoulder strap, tape holder, a zipped pouch, card and phone holder section. Dimensions: 190 x 285 x 285mm",
+  "availability": "In Stock",
+  "product_name": "Bahco Electrician's Hard Bottom Bag 12in",
+  "specifications": [
+    "Dimensions: 190 x 285 x 285mm",
+    "Material: Denier 600 and 1680 polyester",
+    "Waterproof PP base",
+    "Padded shoulder strap",
+    "Tape holder",
+    "Zipped pouch",
+    "Card and phone holder section"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-electricians-pocket-knife.html|>
+## Bahco Electrician's Pocket Knife
+
+{
+  "price": "€13.05 inc VAT (€10.61 exc.vat)",
+  "description": "The Bahco Electrician's Pocket Knife has a folding design for safety during transportation. It is fitted with a wooden handle and a built-in wire stripper.",
+  "availability": "In Stock",
+  "product_name": "Bahco Electrician's Pocket Knife",
+  "specifications": [
+    "Folding design for safety",
+    "Wooden handle",
+    "Built-in wire stripper"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-end-cutting-nippers-527d.html|>
+## Bahco End Cutting Nippers 527D
+
+{
+  "price": "€55.29 inc VAT",
+  "description": "End Cutting Nippers for cutting wire, the cutting edge is at 90 degrees to the handle, allowing very close cropping of wire. Will cut piano wire and softer wire such as iron wire. Phosphated, anti-corrosion treated finish with handles coated in PVC.",
+  "availability": "In Stock",
+  "product_name": "Bahco End Cutting Nippers 527D",
+  "specifications": [
+    "160mm",
+    "200mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-1-473-file-set-200mm-8in-3-piece.html|>
+## Bahco ERGO™ 1-473 File Set 200mm (8in), 3 Piece
+
+{
+  "price": "€53.39 inc VAT (€43.41 exc.vat)",
+  "description": "For filing flat surfaces, sharp corners and shoulders as well as for deburring. Second Cut for high removal rate. ERGO™ file handle. Contains one of each: hand, half round and round.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco ERGO™ 1-473 File Set 200mm (8in), 3 Piece",
+  "specifications": [
+    "ERGO™ file handle",
+    "Contains one of each: hand, half round and round",
+    "Second Cut for high removal rate"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-chainsaw-file-set-3-piece.html|>
+## Bahco ERGO™ Chainsaw File Set, 3 Piece
+
+{
+  "price": "€20.92 inc VAT (€17.01 exc.vat)",
+  "description": "Bahco ERGO™ Chainsaw File Set of 3 interchangeable files and an ERGO™ handle that provides maximum comfort and excellent grip thanks to its ergonomic design. The set contains: 2 x 200mm (8in) Round Files, 1 x 150mm (6in) Flat File, 1 x ERGO™ 2-component handle.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Chainsaw File Set, 3 Piece",
+  "specifications": [
+    "2 x 200mm (8in) Round Files",
+    "1 x 150mm (6in) Flat File",
+    "1 x ERGO™ 2-component handle"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-handsaw-system---handles.html|>
+## Bahco ERGO™ Handsaw System - Handles
+
+{
+  "price": "€66.53 inc VAT",
+  "description": "Bahco ERGO™ Handsaw System Handle is the most advanced and comfortable handle ever. Mix and match with a range of interchangeable Bahco superior blades. This truly flexible system combines maximum versatility with superior sawing performance. You simply purchase the blade you require and retain the professionally engineered handle.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Handsaw System - Handles",
+  "specifications": [
+    "Asymmetrical handle design eliminates pressure points and stops the hand sliding on the handle.",
+    "Thermoplastic Elastomer (TPE) for optimum friction and a warm feel.",
+    "The angle and position of the handle in relation to the blade teeth reduces sawing forces and increases efficiency.",
+    "Available for left or right-handed users."
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-handsaw-system-barracuda-blade-550mm-22in-7tpi.html|>
+## Bahco ERGO™ Handsaw System Barracuda Blade 550mm (22in) 7tpi
+
+{
+  "price": "€17.11 inc VAT (€13.91 exc.vat)",
+  "description": "Bahco ERGO™ Barracuda blade only is a high quality general purpose blade suitable for cutting softwood, worktops, chipboard and MDF. The hardpoint sharp toothing and thicker blade offer faster cutting with improved stability and precision during use. For use with the ERGO™ handsaw handle. Blade Length: 550mm (22in). Teeth: 7 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Handsaw System Barracuda Blade 550mm (22in) 7tpi",
+  "specifications": [
+    "Blade Length: 550mm (22in)",
+    "Teeth: 7 tpi"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-insulated-combination-pliers.html|>
+## Bahco ERGO™ Insulated Combination Pliers
+
+{
+  "price": "€36.46 inc VAT",
+  "description": "Bahco ERGO™ Insulated Combination Pliers have a special head design for better accessibility and hardened cutting edges for cutting soft and hard wire. Its gripping surfaces are particularly suited for flat and round material. Made from high-performance alloy steel with a phosphate finish and anti-corrosion treated. Fitted with two-component ERGO™ insulated handles (thermoplastic surface on a tough polypropylene base) to provide superior grip. Suitable for working on live equipment up to 1,000V in compliance with IEC 60900. Every tool is tested at 10,000V for 10 seconds at the end of the manufacturing process. Developed according to the scientific ERGO™ process. Conform to ISO 5745, IEC 60900 standards.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Insulated Combination Pliers",
+  "specifications": [
+    "180mm (7in)",
+    "200mm (8in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-insulated-flat-nose-pliers.html|>
+## Bahco ERGO™ Insulated Flat Nose Pliers
+
+{
+  "price": "€54.40 inc VAT",
+  "description": "Bahco ERGO™ Insulated Flat Nose Pliers have been designed for gripping flat material. The tips provide good grip and improved accessibility in confined spaces. Made from high-performance alloy steel with a phosphate finish and anti-corrosion treated. Fitted with two-component ERGO™ insulated handles (thermoplastic surface on a tough polypropylene base) to provide superior grip. Suitable for working on live equipment up to 1,000V in compliance with IEC 60900. Every tool is tested at 10,000V for 10 seconds at the end of the manufacturing process. Developed according to the scientific ERGO™ process. Conform to ISO 5745, IEC 60900 standards.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Insulated Flat Nose Pliers",
+  "specifications": [
+    "160mm (6.1/4in)",
+    "180mm (7in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-insulated-long-nose-pliers.html|>
+## Bahco ERGO™ Insulated Long Nose Pliers
+
+{
+  "price": "from €40.07 inc VAT",
+  "description": "Bahco ERGO™ Insulated Long Nose Pliers have half-round serrated jaws for gripping flat and round material. The hardened cutting edges are suitable for cutting soft and hard wire. Made from high-performance alloy steel with a phosphate finish and anti-corrosion treated. Fitted with two-component ERGO™ insulated handles (thermoplastic surface on a tough polypropylene base) to provide superior grip. Suitable for working on live equipment up to 1,000V in compliance with IEC 60900. Every tool is tested at 10,000V for 10 seconds at the end of the manufacturing process. Developed according to the scientific ERGO™ process. Conform to ISO 5745, IEC 60900 standards.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Insulated Long Nose Pliers",
+  "specifications": [
+    "Half-round serrated jaws for gripping flat and round material",
+    "Hardened cutting edges for cutting soft and hard wire",
+    "Made from high-performance alloy steel with phosphate finish",
+    "Two-component ERGO™ insulated handles for superior grip",
+    "Suitable for working on live equipment up to 1,000V",
+    "Tested at 10,000V for 10 seconds",
+    "Conform to ISO 5745, IEC 60900 standards"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-insulated-round-nose-pliers.html|>
+## Bahco ERGO™ Insulated Round Nose Pliers
+
+{
+  "price": "from €51.97 inc VAT",
+  "description": "Bahco ERGO™ Insulated Round Nose Pliers have been specifically designed for wire bending and have round thin tips for improved accessibility. Made from high-performance alloy steel with a phosphate finish and anti-corrosion treated. Fitted with two-component ERGO™ insulated handles (thermoplastic surface on a tough polypropylene base) to provide superior grip. Suitable for working on live equipment up to 1,000V in compliance with IEC 60900. Every tool is tested at 10,000V for 10 seconds at the end of the manufacturing process. Developed according to the scientific ERGO™ process. Conform to ISO 5745, IEC 60900 standards.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Insulated Round Nose Pliers",
+  "specifications": [
+    "140mm (5.1/2in)",
+    "160mm (6.1/4in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-slim-vde-insulated-screwdriver-phillips.html|>
+## Bahco ERGO™ Slim VDE Insulated Screwdriver, Phillips
+
+{
+  "price": "€17.93 inc VAT",
+  "description": "Bahco ERGO™ Slim VDE Insulated Screwdrivers with slim blades (reduced blade diameter) for Phillips head screws. Blades are 30% slimmer than regular insulated blades for better accessibility. Suitable for work on live equipment, up to 1,000V. Its high-quality blade insulation is moulded directly onto the blade. The phosphate finish tip provides higher accuracy, a precise fit and no flaking. Fitted with a 3-component handle for maximum user comfort. The soft material with a ridged surface provides superior grip and greater force transmission. It's easy to choose the right tip with the colour coded handle and permanent symbol on the domed end. A flat face prevents the screwdriver from rolling away. There is also an integrated hanging hole for easy storage. Screwdriver developed according to the scientific ERGO™ process. Individually inspected and manufactured according to IEC 60900, tested in a water bath at 10,000V. Conforms to: ISO 2380/DIN 5264.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Slim VDE Insulated Screwdriver, Phillips",
+  "specifications": [
+    "Slim blades for better accessibility",
+    "Suitable for work on live equipment up to 1,000V",
+    "High-quality blade insulation moulded directly onto the blade",
+    "Phosphate finish tip for higher accuracy",
+    "3-component handle for maximum user comfort",
+    "Integrated hanging hole for easy storage"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-slim-vde-insulated-screwdriver-pozidriv.html|>
+## Bahco ERGO™ Slim VDE Insulated Screwdriver, Pozidriv
+
+{
+  "price": "€19.52 inc VAT",
+  "description": "Bahco ERGO™ Slim VDE Insulated Screwdrivers with slim blades (reduced blade diameter) for Pozidriv head screws. Blades are 30% slimmer than regular insulated blades for better accessibility. Suitable for work on live equipment, up to 1,000V. Its high-quality blade insulation is moulded directly onto the blade. The phosphate finish tip provides higher accuracy, a precise fit and no flaking. Fitted with a 3-component handle for maximum user comfort. The soft material with a ridged surface provides superior grip and greater force transmission. It's easy to choose the right tip with the colour coded handle and permanent symbol on the domed end. A flat face prevents the screwdriver from rolling away. There is also an integrated hanging hole for easy storage. Screwdriver developed according to the scientific ERGO™ process. Individually inspected and manufactured according to IEC 60900, tested in a water bath at 10,000V. Conforms to: ISO 2380/DIN 5264.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Slim VDE Insulated Screwdriver, Pozidriv",
+  "specifications": [
+    "Slim blades for better accessibility",
+    "Suitable for live equipment up to 1,000V",
+    "High-quality blade insulation",
+    "Phosphate finish tip for accuracy",
+    "3-component handle for comfort",
+    "Integrated hanging hole for storage"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-slim-vde-insulated-screwdriver-slotted.html|>
+## Bahco ERGO™ Slim VDE Insulated Screwdriver, Slotted
+
+{
+  "price": "€14.00 inc VAT",
+  "description": "Bahco ERGO™ Slim VDE Insulated Screwdrivers with slim blades (reduced blade diameter) for slotted head screws. Blades are 30% slimmer than regular insulated blades for better accessibility. Suitable for work on live equipment, up to 1,000V. Its high-quality blade insulation is moulded directly onto the blade. The phosphate finish tip provides higher accuracy, a precise fit and no flaking. Fitted with a 3-component handle for maximum user comfort. The soft material with a ridged surface provides superior grip and greater force transmission. It's easy to choose the right tip with the colour coded handle and permanent symbol on the domed end. A flat face prevents the screwdriver from rolling away. There is also an integrated hanging hole for easy storage. Screwdriver developed according to the scientific ERGO™ process. Individually inspected and manufactured according to IEC 60900, tested in a water bath at 10,000V. Conforms to: ISO 2380/DIN 5264.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Slim VDE Insulated Screwdriver, Slotted",
+  "specifications": [
+    "3.0 x 100mm",
+    "3.5 x 100mm",
+    "4.0 x 100mm",
+    "5.5 x 125mm",
+    "6.5 x 150mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-through-blade-screwdriver-set-6-piece.html|>
+## Bahco ERGO™ Through Blade Screwdriver Set, 6 Piece
+
+{
+  "price": "€97.33 inc VAT (€79.13 exc.vat)",
+  "description": "The Bahco ERGO™ Through Blade Screwdrivers, 6 piece set is supplied in a cardboard box. The screwdrivers have 3-component handles for maximum user comfort and force transmission. Their blades are made from high-performance alloy steel which is chrome plated and entirely hardened. Their black finish tip provides high accuracy. Each screwdriver has a hexagon profile blade and bolster which allow the use of a wrench for applications that require more torque. Contents: 2 x Pozi: PZ1 x 100mm, PZ2 x 125mm; 4 x Slotted: 3.5 x 0.6 x 75mm, 4.5 x 0.8 x 100mm, 5.5 x 1.0 x 100mm, 6.5 x 1.2 x 125mm",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Through Blade Screwdriver Set, 6 Piece",
+  "specifications": [
+    "3-component handles for maximum user comfort",
+    "Blades made from high-performance alloy steel",
+    "Chrome plated and entirely hardened blades",
+    "Hexagon profile blade and bolster for wrench use",
+    "Includes 2 Pozi and 4 Slotted screwdrivers"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-vde-insulated-screwdriver-pozi.html|>
+## Bahco ERGO™ VDE Insulated Screwdriver, Pozi
+
+{
+  "price": "€8.86 inc VAT",
+  "description": "Bahco ERGO™ VDE Insulated Screwdrivers for pozi head screws. Suitable for work on live equipment, up to 1,000V. Its high-quality blade insulation is moulded directly onto the blade. The black oxide finish tip provides higher accuracy. Fitted with a 3-component handle for maximum user comfort. The soft material with a ridged surface provides superior grip and greater force transmission. It's easy to choose the right tip with the colour coded handle and permanent symbol on the domed end. A flat face prevents the screwdriver from rolling away. There is also an integrated hanging hole for easy storage. Screwdriver developed according to the scientific ERGO™ process. Individually inspected and manufactured according to IEC 60900, tested in a water bath at 10,000V. Conforms to: ISO 2380/DIN 5264.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ VDE Insulated Screwdriver, Pozi",
+  "specifications": [
+    "PZ1 x 80mm",
+    "Insulated for live equipment up to 1,000V",
+    "Black oxide finish tip for accuracy",
+    "3-component handle for comfort",
+    "Integrated hanging hole for storage"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-vde-side-cutting-pliers.html|>
+## Bahco ERGO™ VDE Side Cutting Pliers
+
+{
+  "price": "from €40.07 inc VAT",
+  "description": "Bahco Insulated side cutting pliers have progressive edges, the cutting radius progresses along the edge in order to cut hard material like piano wire close to the joint and soft materials like copper and plastic insulated wire at the tip. Has a screw joint that provides excellent running and accurate alignment of the cutting edges. The distance from the joint to the centre of the cutting edges is reduced, giving greater leverage and increased cutting capacity. Have a black, anti-corrosion treated finish made from high performance alloy steel, and have plastic injected handles. Induction hardened cutting edges, and round shaped jaws give improved accessibility in confined spaces. Conform to ISO 5749, and IEC 60900 standards.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ VDE Side Cutting Pliers",
+  "specifications": [
+    "Available sizes: 140mm, 160mm, 180mm, 200mm",
+    "Conform to ISO 5749 and IEC 60900 standards",
+    "Induction hardened cutting edges",
+    "Black anti-corrosion treated finish",
+    "Plastic injected handles"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ergo-wire-stripping-pliers-with-self-opening-150mm.html|>
+## Bahco ERGO™ Wire Stripping Pliers with Self-Opening 150mm
+
+{
+  "price": "€50.89 inc VAT (€41.37 exc.vat)",
+  "description": "Bahco ERGO™ Wire Stripping Pliers have been developed according to the scientific ERGO™ process. Made from high-performance alloy steel with a phosphate finish, anti-corrosion treated. Equipped with a patented return spring featuring an on/off function. Fitted with two-component ERGO™ handles: soft thermoplastic surface on tough polypropylene base provides superior grip. Suitable for cutting and stripping of copper and aluminium wires. Stripping Capacity: 0.5-5mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco ERGO™ Wire Stripping Pliers with Self-Opening 150mm",
+  "specifications": [
+    "Stripping Capacity: 0.5-5mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-extension-bars-38in-drive.html|>
+## Bahco Extension Bars 3/8in Drive
+
+{
+  "price": "€15.67 inc VAT",
+  "description": "SBS76 series extension bar with a 3/8 in square drive.",
+  "availability": "In Stock",
+  "product_name": "Bahco Extension Bars 3/8in Drive",
+  "specifications": [
+    "3/8 in square drive",
+    "125mm (5in) option available"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-extra-slim-taper-saw-files.html|>
+## Bahco Extra Slim Taper Saw Files
+
+{
+  "price": "from €9.48 inc VAT",
+  "description": "Triangular, with edges tapering towards the point. Surfaces and edges single cut. For sharpening all types of saw with fine cross toothing. Second cut.",
+  "availability": "In Stock",
+  "product_name": "Bahco Extra Slim Taper Saw Files",
+  "specifications": [
+    "Select Option: 125mm (5in), 150mm (6in)",
+    "Triangular shape",
+    "Single cut surfaces and edges",
+    "For sharpening all types of saws"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-f-clamps.html|>
+## Bahco F Clamps
+
+{
+  "price": "from €38.45 inc VAT",
+  "description": "Robust F-shape clamps with malleable cast iron brackets for strength and a galvanised steel slide rail for a smooth action. They have plastic protection caps and virtually unbreakable handle grips. 420 is the style of clamp, second number relates to the throat and the third number is the maximum opening capacity.",
+  "availability": "In Stock",
+  "product_name": "Bahco F Clamps",
+  "specifications": [
+    "Capacity 200mm",
+    "Capacity 250mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-file-set-5-piece-1-478-08-1-2-200mm-8in.html|>
+## Bahco File Set 5 piece 1-478-08-1-2 200mm (8in)
+
+{
+  "price": "€44.03 inc VAT (€35.80 exc.vat)",
+  "description": "Bahco File Set 5 Piece, Engineers 8in file set, all are fitted with ERGO™ handles for comfort. Comes with: 1 x 1-210-08-1-2 half round bastard cut file. 1 x 1-230-08-1-2 round bastard cut file. 1 x 1-100-08-1-2 hand bastard cut file. 1 x 1-100-08-2-2 hand second cut file. 1 x 1-160-08-1-2 square bastard file. Supplied in a plastic roll wrap.",
+  "availability": "In Stock",
+  "product_name": "Bahco File Set 5 piece 1-478-08-1-2 200mm (8in)",
+  "specifications": [
+    "5 Piece Set",
+    "Engineers 8in file set",
+    "Fitted with ERGO™ handles",
+    "Supplied in a plastic roll wrap"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-file-set-5-piece-1-478-10-1-2-250mm-10in.html|>
+## Bahco File Set 5 Piece 1-478-10-1-2 250mm (10in)
+
+{
+  "price": "€52.63 inc VAT (€42.79 exc.vat)",
+  "description": "Bahco File Set 5 Piece, Engineers 10in file set, all are fitted with ERGO™ handles for comfort. Comes with: 1 x 1-210-10-1-2 half round bastard file. 1 x 1-230-10-1-2 round bastard file. 1 x 1-100-10-1-2 hand bastard file. 1 x 1-100-10-2-2 hand second cut file. 1 x 1-160-10-1-2 square bastard file. Supplied in a plastic roll wrap.",
+  "availability": "In Stock",
+  "product_name": "Bahco File Set 5 Piece 1-478-10-1-2 250mm (10in)",
+  "specifications": [
+    "Engineers 10in file set",
+    "Fitted with ERGO™ handles for comfort",
+    "Includes 5 different types of files: half round bastard, round bastard, hand bastard, hand second cut, square bastard",
+    "Supplied in a plastic roll wrap"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-flat-bastard-cut-files-un-handled.html|>
+## Bahco Flat Bastard Cut Files Un-Handled
+
+{
+  "price": "from €8.36 inc VAT",
+  "description": "Bahco Flat files do the same jobs as hand files but are sometimes preferred because the tapered shape enables the user to reach into angles and corners more easily. Slightly tapered in width and thickness. Suitable for general work on iron and steel. Double cut on both sides and single cut on both edges. Smooth Cut: Approx 62 teeth per 25mm (Fine). Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Flat Bastard Cut Files Un-Handled",
+  "specifications": [
+    "100mm (4in)",
+    "150mm (6in)",
+    "200mm (8in)",
+    "250mm (10in)",
+    "300mm (12in)",
+    "350mm (14in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-flat-needle-file-cut-2-smooth-2-301-16-2-0-160mm.html|>
+## Bahco Flat Needle File Cut 2 Smooth 2-301-16-2-0 160mm
+
+{
+  "price": "€14.91 inc VAT (€12.12 exc.vat)",
+  "description": "Surfaces parallel, edges taper to a point. Surfaces double cut, edges single cut. For fine filing and polishing jobs. 16cm, smooth cut, flat needle file.",
+  "availability": "In Stock",
+  "product_name": "Bahco Flat Needle File Cut 2 Smooth 2-301-16-2-0 160mm",
+  "specifications": [
+    "Surfaces parallel, edges taper to a point",
+    "Surfaces double cut, edges single cut",
+    "For fine filing and polishing jobs",
+    "16cm, smooth cut, flat needle file"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-flat-second-cut-file-handled.html|>
+## Bahco Flat Second Cut File, Handled
+
+{
+  "price": "€22.58 inc VAT",
+  "description": "The Bahco Handled Flat Second Cut File is for the same jobs as the hand file 100, but is sometimes preferred because its tapered shape enables the user to reach into angles and corners more easily. Slightly tapered in width and thickness. Suitable for general work on iron and steel. Double cut on both sides and single cut on both edges.",
+  "availability": "In Stock",
+  "product_name": "Bahco Flat Second Cut File, Handled",
+  "specifications": [
+    "250mm (10in)",
+    "Double cut on both sides",
+    "Single cut on both edges",
+    "Suitable for general work on iron and steel"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-flat-second-cut-files-un-handled.html|>
+## Bahco Flat Second Cut Files Un-Handled
+
+{
+  "price": "from €8.71 inc VAT",
+  "description": "For the same jobs as the hand file 100, but is sometimes preferred because its tapered shape enables the user to reach into angles and corners more easily. Slightly tapered in width and thickness. Suitable for general work on iron and steel. Double cut on both sides and single cut on both edges.",
+  "availability": "In Stock",
+  "product_name": "Bahco Flat Second Cut Files Un-Handled",
+  "specifications": [
+    "100mm (4in)",
+    "200mm (8in)",
+    "300mm (12in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-flat-smooth-cut-files-un-handled.html|>
+## Bahco Flat Smooth Cut Files Un-Handled
+
+{
+  "price": "€10.04 inc VAT",
+  "description": "For the same jobs as the hand file 100, but is sometimes preferred because its tapered shape enables the user to reach into angles and corners more easily. Slightly tapered in width and thickness. Suitable for general work on iron and steel. Double cut on both sides and single cut on both edges.",
+  "availability": "In Stock",
+  "product_name": "Bahco Flat Smooth Cut Files Un-Handled",
+  "specifications": [
+    "150mm (6in)",
+    "200mm (8in)",
+    "250mm (10in)",
+    "300mm (12in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-fm10-filemaster-250mm-10in.html|>
+## Bahco FM10 Filemaster 250mm (10in)
+
+{
+  "price": "€47.64 inc VAT (€38.73 exc.vat)",
+  "description": "Bahco FM10 Filemaster with an ERGO™ handle suitable for use on ferrous and non-ferrous metals, plastics, laminates and hard woods. The parallel file FM10 has milled teeth (one side shear cut the other curved teeth). Size: 250mm (10in)",
+  "availability": "In Stock",
+  "product_name": "Bahco FM10 Filemaster 250mm (10in)",
+  "specifications": [
+    "Size: 250mm (10in)",
+    "ERGO™ handle",
+    "Suitable for ferrous and non-ferrous metals, plastics, laminates, and hard woods",
+    "Milled teeth (one side shear cut, the other curved teeth)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-good-retractable-utility-knife-twist.html|>
+## Bahco Good Retractable Utility Knife Twist
+
+{
+  "price": "€14.50 inc VAT (€11.79 exc.vat)",
+  "description": "This Bahco 'Classic' utility knife is a compact knife with a tough, full aluminium body. Blade change is available via the turning screw and the magnetic blade holder ensures easy blade changing. The blade is fully retractable, and the knife allows a strap to be attached for added safety.",
+  "availability": "In Stock",
+  "product_name": "Bahco Good Retractable Utility Knife Twist",
+  "specifications": [
+    "Compact design",
+    "Tough, full aluminium body",
+    "Easy blade change via turning screw",
+    "Magnetic blade holder",
+    "Fully retractable blade",
+    "Strap attachment for safety"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-good-sports-utility-knife.html|>
+## Bahco Good Sports Utility Knife
+
+{
+  "price": "€17.79 inc VAT (€14.46 exc.vat)",
+  "description": "This Bahco sports knife has a durable polyamide handle, with stainless steel blades and mechanism. The blade locks securely into position when fully unfolded and is only released with the unlock button. This avoids accidental folding. With a small hole on the back end, the knife allows for a safety strap to be attached, for added safety. The BAHGSK knife uses utility blades, which can be replaced when blunt.",
+  "availability": "In Stock",
+  "product_name": "Bahco Good Sports Utility Knife",
+  "specifications": [
+    "Durable polyamide handle",
+    "Stainless steel blades",
+    "Blade locks securely",
+    "Safety strap hole",
+    "Uses replaceable utility blades"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-half-round-bastard-cut-files-un-handled.html|>
+## Bahco Half Round Bastard Cut Files Un-Handled
+
+{
+  "price": "€13.83 inc VAT",
+  "description": "Bahco Half Round Cut File with a tapered half round cross section to allow use on convex and concave surfaces. The edges and surfaces are tapered towards the point. It has a double cut surface, and it suitable for deburring work. Smooth Cut: Approx 62 teeth per 25mm (Fine). Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Half Round Bastard Cut Files Un-Handled",
+  "specifications": [
+    "100mm (4in)",
+    "150mm (6in)",
+    "200mm (8in)",
+    "250mm (10in)",
+    "300mm (12in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-half-round-bastard-rasp-6-342-08-1-0-200mm-8in.html|>
+## Bahco Half Round Bastard Rasp 6-342-08-1-0 200mm (8in)
+
+{
+  "price": "€17.40 inc VAT (€14.15 exc.vat)",
+  "description": "Used for working in wood, plastic, plywood, wallboard and other soft materials with edges and surfaces tapered towards point. Coarse cut. Half round. Length: 200mm (8in). Tanged.",
+  "availability": "In Stock",
+  "product_name": "Bahco Half Round Bastard Rasp 6-342-08-1-0 200mm (8in)",
+  "specifications": [
+    "Length: 200mm (8in)",
+    "Coarse cut",
+    "Half round",
+    "Tanged"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-half-round-files-handled.html|>
+## Bahco Half Round Files Handled
+
+{
+  "price": "€18.14 inc VAT",
+  "description": "Bahco Handled Half Round Cut File with a ERGO™ handle is a tapered half round file with cross section which allows use on convex and concave surfaces, suitable for deburring work. The edges and surfaces are tapered towards the point. 8in file are semi-pointed. Double cut. Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Half Round Files Handled",
+  "specifications": [
+    "Smooth Cut, 250mm (10in)",
+    "Half Round Bastard Cut",
+    "Half Round Second Cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-half-round-needle-files-un-handled.html|>
+## Bahco Half Round Needle Files Un-Handled
+
+{
+  "price": "€15.57 inc VAT",
+  "description": "Surfaces taper to a point, flat and convex surfaces double cut. For fine filing and polishing jobs. Used by engravers, precision engineers, instrument makers, watchmakers and goldsmiths. Half round.",
+  "availability": "In Stock",
+  "product_name": "Bahco Half Round Needle Files Un-Handled",
+  "specifications": [
+    "140mm Smooth Cut",
+    "160mm Bastard Cut",
+    "160mm Dead Smooth Cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-half-round-second-cut-files-un-handled.html|>
+## Bahco Half Round Second Cut Files Un-Handled
+
+{
+  "price": "€14.16 inc VAT",
+  "description": "Tapered half round cross section allows use on convex and concave surfaces. Suitable for deburring work. The edges and surfaces are tapered towards the point. 4in and 6in files are fully pointed, 8in and longer semi-pointed. Double cut.",
+  "availability": "In Stock",
+  "product_name": "Bahco Half Round Second Cut Files Un-Handled",
+  "specifications": [
+    "Select Option: 100mm (4in), 300mm (12in)",
+    "Tapered half round cross section",
+    "Suitable for deburring work",
+    "Double cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-half-round-smooth-cut-files-un-handled.html|>
+## Bahco Half Round Smooth Cut Files Un-Handled
+
+{
+  "price": "€15.07 inc VAT",
+  "description": "Tapered half round cross section allows use on convex and concave surfaces. Suitable for deburring work. The edges and surfaces are tapered towards the point. 4in and 6in files are fully pointed, 8in and longer semi-pointed. Double cut.",
+  "availability": "In Stock",
+  "product_name": "Bahco Half Round Smooth Cut Files Un-Handled",
+  "specifications": [
+    "Select Option: 150mm (6in), 200mm (8in), 250mm (10in), 300mm (12in)",
+    "Tapered half round cross section",
+    "Suitable for deburring work",
+    "Double cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hand-bastard-cut-files-un-handled.html|>
+## Bahco Hand Bastard Cut Files Un-Handled
+
+{
+  "price": "from €8.36 inc VAT",
+  "description": "Hand Cut File for filing flat surfaces, sharp corners and shoulders as well as for deburring. A double cut file should be used for work on high-alloy tool steels. Also useful for the sharpening of heavy implements. High removal rate. Double cut on both sides - with one safe edge (a safe edge permits work in corners). Parallel sides but slightly tapered in thickness. Smooth Cut: Approx 62 teeth per 25mm (Fine). Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Hand Bastard Cut Files Un-Handled",
+  "specifications": [
+    "100mm (4in)",
+    "150mm (6in)",
+    "200mm (8in)",
+    "250mm (10in)",
+    "300mm (12in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hand-files-handled.html|>
+## Bahco Hand Files Handled
+
+{
+  "price": "from €15.62 inc VAT",
+  "description": "The Bahco Handled Hand Cut File 1-100 with a soft grip ERGO™ handle are perfect for filing flat surfaces, sharp corners and shoulders as well as for deburring. A double cut file may also be used for work on high-alloy tool steels. Also useful for the sharpening of heavy implements. High removal rate. Edges and surfaces parallel. Surfaces double cut, one edge uncut, one edge single cut. Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Hand Files Handled",
+  "specifications": [
+    "Smooth Cut, 250mm (10in)",
+    "150mm (6in) Bastard Cut",
+    "200mm (8in) Bastard Cut",
+    "200mm (8in) Second Cut",
+    "250mm (10in) Bastard Cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hand-needle-files-un-handled.html|>
+## Bahco Hand Needle Files Un-Handled
+
+{
+  "price": "from €11.82 inc VAT",
+  "description": "Hand Needle files with surface double cut, edges single cut, edges and surfaces parallel. For fine filing and polishing jobs. Used by engravers, precision engineers, instrument makers, watchmakers and goldsmiths.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hand Needle Files Un-Handled",
+  "specifications": [
+    "140mm Bastard Cut",
+    "140mm Smooth Cut",
+    "160mm Bastard Cut",
+    "160mm Dead Smooth Cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hand-second-cut-files-un-handled.html|>
+## Bahco Hand Second Cut Files Un-Handled
+
+{
+  "price": "€8.71 inc VAT",
+  "description": "For filing flat surfaces, sharp corners and shoulders as well as for deburring. A double cut file should be used for work in high-alloy tool steels. Also useful for the sharpening of heavy implements. High removal rate. Double cut on both sides - with one safe edge (a safe edge permits work in corners). Parallel sides but slightly tapered in thickness.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hand Second Cut Files Un-Handled",
+  "specifications": [
+    "Select Option: 100mm (4in), 150mm (6in), 200mm (8in), 250mm (10in), 300mm (12in), 350mm (14in)",
+    "Double cut on both sides",
+    "Safe edge permits work in corners",
+    "High removal rate",
+    "Parallel sides but slightly tapered in thickness"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hand-smooth-cut-files-un-handled.html|>
+## Bahco Hand Smooth Cut Files Un-Handled
+
+{
+  "price": "from €9.04 inc VAT",
+  "description": "For filing flat surfaces, sharp corners and shoulders as well as for deburring. A double cut file should be used for work in high-alloy tool steels. Also useful for the sharpening of heavy implements. High removal rate. Double cut on both sides - with one safe edge (a safe edge permits work in corners). Parallel sides but slightly tapered in thickness.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hand Smooth Cut Files Un-Handled",
+  "specifications": [
+    "Select Option: 100mm (4in), 150mm (6in), 200mm (8in), 250mm (10in), 300mm (12in)",
+    "Double cut on both sides",
+    "Safe edge permits work in corners",
+    "High removal rate"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-handled-flat-bastard-file-1-110-08-1-2-200mm-8in.html|>
+## Bahco Handled Flat Bastard File 1-110-08-1-2 200mm (8in)
+
+{
+  "price": "€18.23 inc VAT (€14.82 exc.vat)",
+  "description": "Bahco Handled Flat File 1-110 with soft-grip ERGO™ handle does the same job as hand files but are sometimes preferred because the tapered shape enables the user to reach into angles and corners more easily. Slightly tapered in width and thickness. Suitable for general work on iron and steel. Double cut on both sides and single cut on both edges. Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Handled Flat Bastard File 1-110-08-1-2 200mm (8in)",
+  "specifications": [
+    "Handled Flat Bastard File 1-110-08-1-2 200mm (8in)",
+    "BAH11081H : €18.23",
+    "Slightly tapered in width and thickness",
+    "Suitable for general work on iron and steel",
+    "Double cut on both sides and single cut on both edges",
+    "Second Cut: Approx 36 teeth per 25mm (Medium)",
+    "Bastard Cut: Approx 26 teeth per 25mm (Coarse)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-handled-flat-second-cut-file-1-110-08-2-2-200mm-8in.html|>
+## Bahco Handled Flat Second Cut File 1-110-08-2-2 200mm (8in)
+
+{
+  "price": "€18.95 inc VAT (€15.41 exc.vat)",
+  "description": "For the same jobs as the hand file 100, but is sometimes preferred because its tapered shape enables the user to reach into angles and corners more easily. Slightly tapered in width and thickness. Suitable for general work on iron and steel. Double cut on both sides and single cut on both edges. Size 200mm (8in) Cut: flat second Handled",
+  "availability": "In Stock",
+  "product_name": "Bahco Handled Flat Second Cut File 1-110-08-2-2 200mm (8in)",
+  "specifications": [
+    "Size: 200mm (8in)",
+    "Cut: flat second",
+    "Handled",
+    "Double cut on both sides",
+    "Single cut on both edges"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-handled-three-square-second-cut-file-1-170-08-2-2-200mm-8in.html|>
+## Bahco Handled Three Square Second Cut File 1-170-08-2-2 200mm (8in)
+
+{
+  "price": "€18.14 inc VAT (€14.75 exc.vat)",
+  "description": "Bahco Handled Three Square Second Cut File 1-170 with an ERGO™ handle. These three square files are ideal for deburring and filing angles and internal corners. Also for filing of holes and large fillets as well as concave surfaces. Its tapered surfaces make it well suited for flat filing. It has an equilateral triangle, tapered shape towards the point, and double cut surfaces. The two component handle gives comfort and control during use. It also incorporates a handy hanging slot. Size: 200mm (8in). Cut: Second Cut.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Handled Three Square Second Cut File 1-170-08-2-2 200mm (8in)",
+  "specifications": [
+    "Size: 200mm (8in)",
+    "Cut: Second Cut",
+    "ERGO™ handle for comfort and control",
+    "Ideal for deburring and filing angles and internal corners",
+    "Tapered surfaces for flat filing"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hatchet-fibreglass-handle-hfgps-1000g.html|>
+## Bahco Hatchet Fibreglass Handle HFGPS 1000g
+
+{
+  "price": "€46.74 inc VAT (€38.00 exc.vat)",
+  "description": "Bahco Hatchet with Fibreglass Handle is a general purpose axe for lighter applications. Reverse side of head suitable for use as a hammer. Comfortable three-component handle with non-slip grip provides safety and long life. Weight: 1000g. Handle length: 380mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hatchet Fibreglass Handle HFGPS 1000g",
+  "specifications": [
+    "Weight: 1000g",
+    "Handle length: 380mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-heavy-duty-cable-wire-strippers-2233d.html|>
+## Bahco Heavy-Duty Cable Wire Strippers 2233D
+
+{
+  "price": "€49.29 inc VAT",
+  "description": "Heavy-duty cable cutters / strippers for cutting copper and aluminium cables. Drop forged, carbon steel, polished, hardened and tempered body with plastic dipped sleeves for a comfortable grip.",
+  "availability": "In Stock",
+  "product_name": "Bahco Heavy-Duty Cable Wire Strippers 2233D",
+  "specifications": [
+    "160mm and 240mm options available",
+    "Drop forged, carbon steel",
+    "Polished, hardened and tempered body",
+    "Plastic dipped sleeves for comfort"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hexagon-key-folding-set-of-7-25mm-10mm.html|>
+## Bahco Hexagon Key Folding Set of 7 2.5mm-10mm
+
+{
+  "price": "€35.39 inc VAT (€28.77 exc.vat)",
+  "description": "This Bahco Hex Key Set consists of 7 hexagon offset drivers with a black finish. The keys are in metric sizes and are resistant to impact and rust, and do not conduct heat or cold. The wide opening push button allows easy and automatic release of the blades, which have a positive stop at 270º for maximum leverage. Allows for different working positions. This compact set is easy to store and to be carried in a pocket. The 2-component soft grip handle ensures user comfort. The BAH9777B Hex Key set has the following sized keys: 2.5mm, 3mm, 4mm, 5mm, 6mm, 8mm and 10mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hexagon Key Folding Set of 7 2.5mm-10mm",
+  "specifications": [
+    "Hexagon offset drivers",
+    "Black finish",
+    "Metric sizes",
+    "Impact and rust resistant",
+    "Wide opening push button for easy release",
+    "Positive stop at 270º for maximum leverage",
+    "Compact and easy to store",
+    "2-component soft grip handle"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hexagon-sockets-metric-series-sbs60-14in-drive.html|>
+## Bahco Hexagon Sockets Metric Series SBS60 1/4in Drive
+
+{
+  "price": "from €4.66 inc VAT",
+  "description": "SBS60 series sockets featuring the dynamic drive profile, for higher efficiency and an optimal grip without damaging the bolts and nuts. Manufactured from vanadium-extra steel, with nickel and matt chrome-plated finish. 1/4in square drive. DIN 3124 / ISO 2725. 1/4in 10 DIN 3120 / ISO 1174.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hexagon Sockets Metric Series SBS60 1/4in Drive",
+  "specifications": [
+    "Dynamic drive profile for higher efficiency",
+    "Manufactured from vanadium-extra steel",
+    "Nickel and matt chrome-plated finish",
+    "1/4in square drive",
+    "DIN 3124 / ISO 2725"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hexagon-sockets-metric-series-sbs80-12in-drive.html|>
+## Bahco Hexagon Sockets Metric Series SBS80 1/2in Drive
+
+{
+  "price": "from €7.37 inc VAT",
+  "description": "SBS80 series metric sockets featuring the dynamic drive profile, for higher efficiency and an optimum grip without damaging the bolts and nuts. Manufactured from vanadium-extra steel with a nickel and matt chrome-plated finish. 1/2in square drive.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hexagon Sockets Metric Series SBS80 1/2in Drive",
+  "specifications": [
+    "Dynamic drive profile for higher efficiency",
+    "Manufactured from vanadium-extra steel",
+    "Nickel and matt chrome-plated finish",
+    "1/2in square drive"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hexagon-sockets-metric-series-sbsf-38in-drive.html|>
+## Bahco Hexagon Sockets Metric Series SBSF 3/8in Drive
+
+{
+  "price": "€6.49 inc VAT",
+  "description": "SBSF series sockets 3/8in, hexagon in metric and imperial sizes. DIN 3124 / ISO 2725. 1/2in 10 DIN 3120 / ISO 1174. Finish: nickel and matt chrome-plated. Material: VANADIUM-EXTRA. With dynamic-drive profile.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hexagon Sockets Metric Series SBSF 3/8in Drive",
+  "specifications": [
+    "3/8in drive",
+    "Hexagon in metric and imperial sizes",
+    "Finish: nickel and matt chrome-plated",
+    "Material: VANADIUM-EXTRA",
+    "Dynamic-drive profile"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-high-resistance-quick-clamp.html|>
+## Bahco High Resistance Quick Clamp
+
+{
+  "price": "€34.77 inc VAT",
+  "description": "The Bahco High Resistance Quick Clamp features a quick-release system for ease of use and will hold the maximum clamping force for at least one hour. The reversible jaw mechanism can be converted from clamp to spreader. Clamping Capacity: up to 80kg",
+  "availability": "In Stock",
+  "product_name": "Bahco High Resistance Quick Clamp",
+  "specifications": [
+    "Clamping Capacity: up to 80kg",
+    "Quick-release system",
+    "Reversible jaw mechanism"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-homeowners-file-set-4-154-08-2-2-200mm-8in.html|>
+## Bahco Homeowners File Set 4-154-08-2-2 200mm (8in)
+
+{
+  "price": "€28.33 inc VAT (€23.03 exc.vat)",
+  "description": "Bahco Homeowners File Set with ERGO™ handles for comfort and grip, they are suitable for homeowners. Both files are 8in in length. Contains the following: 1 x Bastard rasp, 1 side - double second cut, for wood. 1 x Bastard double cut, 1 side - single second cut, for metal.",
+  "availability": "In Stock",
+  "product_name": "Bahco Homeowners File Set 4-154-08-2-2 200mm (8in)",
+  "specifications": [
+    "ERGO™ handles for comfort and grip",
+    "Both files are 8in in length",
+    "1 x Bastard rasp, 1 side - double second cut, for wood",
+    "1 x Bastard double cut, 1 side - single second cut, for metal"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-homeowners-metal-file-4-153-08-1-2-200mm-8in.html|>
+## Bahco Homeowners Metal File 4-153-08-1-2 200mm (8in)
+
+{
+  "price": "€11.84 inc VAT (€9.63 exc.vat)",
+  "description": "Bahco Homeowners Metal File 4-153 with an ERGO™ handle for comfort and grip, suitable for homeowners. One side has a single second cut for fine sharpening of edges on above implements and on knives and scissors, etc. and the other side has a bastard double cut for rough sharpening of edges on spades, hoes, mower blades, axes, etc. Size: 200mm (8in).",
+  "availability": "In Stock",
+  "product_name": "Bahco Homeowners Metal File 4-153-08-1-2 200mm (8in)",
+  "specifications": [
+    "Size: 200mm (8in)",
+    "ERGO™ handle for comfort and grip",
+    "One side: single second cut for fine sharpening",
+    "Other side: bastard double cut for rough sharpening"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-homeowners-wood-file-4-152-08-2-2-200mm-8in.html|>
+## Bahco Homeowners Wood File 4-152-08-2-2 200mm (8in)
+
+{
+  "price": "€9.42 inc VAT (€7.66 exc.vat)",
+  "description": "Bahco Homeowners Wood File 4-152 with an ERGO™ handle for comfort and grip, suitable for homeowners. One side a double second cut for fine filing of metals, iron and plastics, etc and the other a bastard rasp for rough filing of wood, plywood, soft plastics, etc. Size: 8in.",
+  "availability": "In Stock",
+  "product_name": "Bahco Homeowners Wood File 4-152-08-2-2 200mm (8in)",
+  "specifications": [
+    "ERGO™ handle for comfort and grip",
+    "Double second cut for fine filing of metals, iron and plastics",
+    "Bastard rasp for rough filing of wood, plywood, soft plastics",
+    "Size: 8in"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-hrfm-10-filemaster-half-round-250mm-10in.html|>
+## Bahco HRFM-10 Filemaster Half Round 250mm (10in)
+
+{
+  "price": "€47.81 inc VAT (€38.87 exc.vat)",
+  "description": "The Bahco HRFM-10 Filemaster with an ERGO™ handle suitable for use on ferrous and non-ferrous metals, plastics, laminates and hard woods. The half round HRFM10 variant tapers towards the point and has milled, curved teeth. The concave back is uncut. Size: 250mm (10in).",
+  "availability": "In Stock",
+  "product_name": "Bahco HRFM-10 Filemaster Half Round 250mm (10in)",
+  "specifications": [
+    "Size: 250mm (10in)",
+    "Suitable for ferrous and non-ferrous metals, plastics, laminates, and hard woods",
+    "ERGO™ handle design",
+    "Half round variant with milled, curved teeth",
+    "Concave back is uncut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-inslt-techno-sdriver-set-7p-vde-wallet.html|>
+## Bahco Inslt Techno+ S/Driver Set 7P Vde Wallet
+
+{
+  "price": "€126.71 inc VAT (€103.02 exc.vat)",
+  "description": "Inslt Techno+ S/Driver Set 7P Vde Wallet",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Inslt Techno+ S/Driver Set 7P Vde Wallet",
+  "specifications": [
+    "BAH202032 : €126.71",
+    "List: €153.59",
+    "You save €26.88"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-insulated-ergo-combi-screwdriver-twin-pack-pz1sl5-and-pz2sl6.html|>
+## Bahco Insulated ERGO™ Combi Screwdriver Twin Pack PZ1/SL5 & PZ2/SL6
+
+{
+  "price": "€48.35 inc VAT (€39.31 exc.vat)",
+  "description": "Bahco Insulated ERGO™ Screwdrivers are developed according to the scientific ERGO™ process. Combi insulated screwdriver features two tips in one, for slotted and Pozidriv head screws. Tested for work on live equipment, up to 1,000 Volts. Fitted with a 3-component handle, for maximum user comfort and force transmission. Easy to choose the right tip, with the colour-coded handle and the symbol on the domed end. The blade is made from high performance alloy steel, with a black finish and entirely hardened. Individually inspected and manufactured according to IEC 60900. Sizes: 1 x PZ1/Slotted 5, Length: 80mm; 1 x PZ2/Slotted 6, Length: 100mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Insulated ERGO™ Combi Screwdriver Twin Pack PZ1/SL5 & PZ2/SL6",
+  "specifications": [
+    "Insulated for safety up to 1,000 Volts",
+    "3-component handle for comfort",
+    "Colour-coded handle for easy identification",
+    "High performance alloy steel blade",
+    "Individually inspected and manufactured according to IEC 60900",
+    "Includes PZ1/Slotted 5 (80mm) and PZ2/Slotted 6 (100mm)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-insulation-saw-sharpener.html|>
+## Bahco Insulation Saw Sharpener
+
+{
+  "price": "€16.91 inc VAT (€13.75 exc.vat)",
+  "description": "The Bahco Insulation Saw Sharpener is designed to operate easily and sharpen the edge of the Bahco Insulation Saw. Equipped with tungsten carbide blades well suited to sharpening the Insulation Saw. Contains a knuckle protection for user safety.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Insulation Saw Sharpener",
+  "specifications": [
+    "Designed to sharpen the edge of the Bahco Insulation Saw",
+    "Equipped with tungsten carbide blades",
+    "Contains knuckle protection for user safety"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-kgru-01-retractable-utility-knife.html|>
+## Bahco KGRU-01 Retractable Utility Knife
+
+{
+  "price": "€17.79 inc VAT (€14.46 exc.vat)",
+  "description": "Comfortable TPR grip. 3 blade position. Easy side opening body for blade change. Ideal for a wide variety of cutting applications. Convenient storage of up to 5 blades.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco KGRU-01 Retractable Utility Knife",
+  "specifications": [
+    "Comfortable TPR grip",
+    "3 blade position",
+    "Easy side opening body for blade change",
+    "Ideal for a wide variety of cutting applications",
+    "Convenient storage of up to 5 blades"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-km653-1p-magnetic-universal-adaptor-60mm.html|>
+## Bahco KM653-1P Magnetic Universal Adaptor 60mm
+
+{
+  "price": "€10.77 inc VAT (€8.76 exc.vat)",
+  "description": "Made from high-performance alloy steel. Fitted with a strong magnet, no retaining ring. Conforms to DIN 3126-E 6,3, ISO 1173.",
+  "availability": "In Stock",
+  "product_name": "Bahco KM653-1P Magnetic Universal Adaptor 60mm",
+  "specifications": [
+    "Made from high-performance alloy steel",
+    "Fitted with a strong magnet, no retaining ring",
+    "Conforms to DIN 3126-E 6,3, ISO 1173"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-knife-needle-file-cut-2-smooth-2-308-16-2-0-160mm.html|>
+## Bahco Knife Needle File Cut 2 Smooth 2-308-16-2-0 160mm
+
+{
+  "price": "€17.01 inc VAT (€13.83 exc.vat)",
+  "description": "Conical edges and surfaces which taper to a point. Flat uncut back, surfaces double cut, thin edge single cut. For fine filing and polishing jobs. Size: 16cm. Cut: 2 (smooth). Type: Knife needle file.",
+  "availability": "In Stock",
+  "product_name": "Bahco Knife Needle File Cut 2 Smooth 2-308-16-2-0 160mm",
+  "specifications": [
+    "Size: 16cm",
+    "Cut: 2 (smooth)",
+    "Type: Knife needle file"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-long-nose-pliers-2430g-series.html|>
+## Bahco Long Nose Pliers 2430G Series
+
+{
+  "price": "€31.25 inc VAT",
+  "description": "Bahco Long Nose Plier developed according to the scientific ERGO™ process. The handles allow the vast majority of users to apply the greatest possible force with the least possible effort by combining hard polypropylene for the core and a softer elastomer for the surface. This combination of materials provides a firm, non-slip grip for the hand. Have serrated jaws, and they have a black oxidised and anti-corrosion treated finish. Tips give good grip and improved accessibility in confined spaces. Sharp edges for cutting softer material such as copper and plastic insulated wire.",
+  "availability": "In Stock",
+  "product_name": "Bahco Long Nose Pliers 2430G Series",
+  "specifications": [
+    "Available sizes: 140mm, 160mm, 200mm",
+    "Serrated jaws",
+    "Black oxidised and anti-corrosion treated finish",
+    "Sharp edges for cutting softer materials"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-lts-open-reel-fibreglass-tape-100m--330ft-width-13mm.html|>
+## Bahco LTS Open Reel Fibreglass Tape 100m / 330ft (Width 13mm)
+
+{
+  "price": "€110.50 inc VAT (€89.84 exc.vat)",
+  "description": "Metric/imperial open frame long tapes. Strong fibreglass blade to withstand pulling force of near 500Kg. Double nylon blade coating for extra wear resistance.",
+  "availability": "In Stock",
+  "product_name": "Bahco LTS Open Reel Fibreglass Tape 100m / 330ft (Width 13mm)",
+  "specifications": [
+    "Strong fibreglass blade to withstand pulling force of near 500Kg",
+    "Double nylon blade coating for extra wear resistance"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-lts-open-reel-fibreglass-tape-30m--100ft-width-13mm.html|>
+## Bahco LTS Open Reel Fibreglass Tape 30m / 100ft (Width 13mm)
+
+{
+  "price": "€38.01 inc VAT (€30.90 exc.vat)",
+  "description": "Bahco Open Reel Fibreglass Tape with metric/imperial measurements. Has a strong fibreglass blade that can withstand pulling force of near 500Kg. Also has a double nylon blade coating for extra wear resistance. Debris can be easily washed from the blade.",
+  "availability": "In Stock",
+  "product_name": "Bahco LTS Open Reel Fibreglass Tape 30m / 100ft (Width 13mm)",
+  "specifications": [
+    "Length: 30m / 100ft",
+    "Width: 13mm",
+    "Strong fibreglass blade",
+    "Withstands pulling force of near 500Kg",
+    "Double nylon blade coating for extra wear resistance"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-lts-open-reel-fibreglass-tape-50m--165ft-width-13mm.html|>
+## Bahco LTS Open Reel Fibreglass Tape 50m / 165ft (Width 13mm)
+
+{
+  "price": "€52.40 inc VAT (€42.60 exc.vat)",
+  "description": "Metric/imperial open frame long tapes. Strong fibreglass blade to withstand pulling force of near 500Kg. Double nylon blade coating for extra wear resistance.",
+  "availability": "In Stock",
+  "product_name": "Bahco LTS Open Reel Fibreglass Tape 50m / 165ft (Width 13mm)",
+  "specifications": [
+    "Width: 13mm",
+    "Length: 50m / 165ft",
+    "Material: Fibreglass",
+    "Blade Coating: Double nylon for wear resistance",
+    "Pulling Force: Near 500Kg"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-magnetic-universal-adaptor-with-retaining-ring-14in.html|>
+## Bahco Magnetic Universal Adaptor with Retaining Ring 1/4in
+
+{
+  "price": "€20.85 inc VAT (€16.95 exc.vat)",
+  "description": "Made from high-performance alloy steel. With a strong magnet and retaining ring. Conforms to DIN 3126-E 6,3, ISO 1173. Supplied in a plastic holder.",
+  "availability": "In Stock",
+  "product_name": "Bahco Magnetic Universal Adaptor with Retaining Ring 1/4in",
+  "specifications": [
+    "Made from high-performance alloy steel",
+    "Strong magnet and retaining ring",
+    "Conforms to DIN 3126-E 6,3, ISO 1173",
+    "Supplied in a plastic holder"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-marking-knives.html|>
+## Bahco Marking Knives
+
+{
+  "price": "from €24.64 inc VAT",
+  "description": "Bahco SB-2448 Chisel Wrecking Knife is a heavy-duty wrecking knife and a 25mm chisel in one. Has a curved knuckle protector, that also works as a lever. Back edge of the blade and handle can be struck with a hammer to make working faster. Ideal for rough woodwork, making mortice joints in doors, splitting wood, in building and construction, carpentry etc. Holster with button clip. Blade type: Straight. Blade length: 100mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Marking Knives",
+  "specifications": [
+    "Blade type: Straight",
+    "Blade length: 100mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-mechanical-carpenters-hb-pencil.html|>
+## Bahco Mechanical Carpenter's HB Pencil
+
+{
+  "price": "€8.35 inc VAT (€6.79 exc.vat)",
+  "description": "The Bahco Mechanical Carpenter's HB Pencil requires no sharpening. It has a wide, strong lead that holds perfectly against rough materials. The angled shaped tip is ideal for precision marking when using a square. All contained within a high-impact ABS body that is rectangular shaped to avoid rolling. Replaceable lead that lasts up to 3x longer than standard pencils. Supplied with 3 leads.",
+  "availability": "In Stock",
+  "product_name": "Bahco Mechanical Carpenter's HB Pencil",
+  "specifications": [
+    "Requires no sharpening",
+    "Wide, strong lead",
+    "Angled shaped tip for precision marking",
+    "High-impact ABS body",
+    "Replaceable lead that lasts up to 3x longer than standard pencils",
+    "Supplied with 3 leads"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-metric-combination-spanners.html|>
+## Bahco Metric Combination Spanners
+
+{
+  "price": "€14.26 inc VAT (€11.59 exc.vat)",
+  "description": "SBS20 series combination spanners manufactured from high grade chrome-vanadium steel for strength and tolerance. The small, flat heads and dynamic drive profile are designed for easy access in confined spaces. Open-end angle 15°, ring end 15° offset, DIN 3113 / ISO 3318 / ISO 7738.",
+  "availability": "In Stock",
+  "product_name": "Bahco Metric Combination Spanners",
+  "specifications": [
+    "Manufactured from high grade chrome-vanadium steel",
+    "Open-end angle 15°",
+    "Ring end 15° offset",
+    "Complies with DIN 3113 / ISO 3318 / ISO 7738"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-millsaw-bastard-single-files-un-handled.html|>
+## Bahco Millsaw Bastard Single Files Un-Handled
+
+{
+  "price": "€10.50 inc VAT",
+  "description": "Millsaw files have parallel surfaces with the edges tapering toward the point. Surfaces and edges are single cut - commonly referred to as mill bastard. This type of file is suitable both as an engineering file and a sharpening file. It is useful for filing where a smooth finish is important. Also good for polishing and deburring work in lathes. This file is also widely applicable for sharpening tools and implements such as spades, shovels, hoes, scrapers, etc.",
+  "availability": "In Stock",
+  "product_name": "Bahco Millsaw Bastard Single Files Un-Handled",
+  "specifications": [
+    "Bastard Cut: Approx 26 teeth per 25mm (Coarse)",
+    "Available sizes: 200mm (8in), 250mm (10in), 300mm (12in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-millsaw-files-un-handled.html|>
+## Bahco Millsaw Files Un-Handled
+
+{
+  "price": "€17.12 inc VAT",
+  "description": "For sharpening circular, felling and gang saws with fine toothing and also used on bandsaws. Excellent for draw and fine filing, polishing and deburring work. Often used in the engineering industry for lathe, deburring or draw filing. Type 138 has one round edge, Type 140 has two round edges.",
+  "availability": "In Stock",
+  "product_name": "Bahco Millsaw Files Un-Handled",
+  "specifications": [
+    "200mm (8in) One Round Edge",
+    "200mm (8in) Two Round Edges",
+    "250mm (10in) One Round Edge",
+    "250mm (10in) Two Round Edges"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-mtg-orange-plastic-tape-5m16ft-width-19mm.html|>
+## Bahco MTG Orange Plastic Tape 5m/16ft (Width 19mm)
+
+{
+  "price": "€14.28 inc VAT (€11.61 exc.vat)",
+  "description": "A metric/imperial tape measure with a specially designed plastic case which fits comfortably in the hand. Blade lock and belt clip incorporated.",
+  "availability": "In Stock",
+  "product_name": "Bahco MTG Orange Plastic Tape 5m/16ft (Width 19mm)",
+  "specifications": [
+    "Width: 19mm",
+    "Length: 5m/16ft",
+    "Material: Plastic case",
+    "Features: Blade lock, belt clip"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-mts-auto-tape-reversible-magnetic-tip-5m16ft-width-25mm.html|>
+## Bahco MTS Auto Tape Reversible Magnetic Tip 5m/16ft (Width 25mm)
+
+{
+  "price": "€34.40 inc VAT (€27.97 exc.vat)",
+  "description": "Bahco MTS Auto Tape has a high-grade stainless steel bladed tape with deburred edges to avoid paintcrack. Coated with a non-reflective DURA NY-coat with permanent, clearly printed graduations on both sides. Stainless steel bladed tapes can be immersed in water. Have a zero point magnetic end hook for internal and external measurement, perfect for the building and construction trade. Features automatic blade locking, impact absorbing rubber casing for better grip and greater comfort. Also has an integrated belt and button grip. Accuracy class II",
+  "availability": "In Stock",
+  "product_name": "Bahco MTS Auto Tape Reversible Magnetic Tip 5m/16ft (Width 25mm)",
+  "specifications": [
+    "High-grade stainless steel blade",
+    "Deburred edges to avoid paint crack",
+    "Non-reflective DURA NY-coat",
+    "Permanent, clearly printed graduations on both sides",
+    "Zero point magnetic end hook for internal and external measurement",
+    "Automatic blade locking",
+    "Impact absorbing rubber casing for better grip",
+    "Integrated belt and button grip",
+    "Accuracy class II"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-mtt151-multi-tool-with-holster.html|>
+## Bahco MTT151 Multi-Tool with Holster
+
+{
+  "price": "€60.49 inc VAT (€49.18 exc.vat)",
+  "description": "Bahco MTT151 Multi-Tool with Holster, has rust resistant stainless steel blades. Has an orange anodized finish. 18 versatile functions in one tool including: 2 x Pairs of pliers. 2 x Wire cutters. Knife, serrated and saw blade. 3 x Slotted screwdrivers and 1 x Cross-head screwdriver. Can opener and a bottle opener. File/de-scaler/fishing hook remover/ruler. Size: 35x211x185mm. Hard durable canvas storage pouch with belt loop. Weight: 340g.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco MTT151 Multi-Tool with Holster",
+  "specifications": [
+    "Rust resistant stainless steel blades",
+    "Orange anodized finish",
+    "18 versatile functions",
+    "Size: 35x211x185mm",
+    "Weight: 340g"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-multi-bike-pocket-tool.html|>
+## Bahco Multi Bike Pocket Tool
+
+{
+  "price": "€17.37 inc VAT (€14.12 exc.vat)",
+  "description": "The Bahco BKE850901 Multi Bike Pocket Tool features 17 different tools and it is supplied with a canvas pouch that can be attached to a belt. It has the following tools: 3 x 1/4in Sockets: 8, 9 and 10mm. 1 x 1/4in Socket Driver. 9 x Screwdrivers 0.8 x 5.0mm, PH2, HEX 2, 2.5mm, 3mm, 4mm, 5mm, 6mm and 8mm. 3 x Open End Spanners: 9, 13 and 14mm. 1 x Spoke Aligner.",
+  "availability": "In Stock",
+  "product_name": "Bahco Multi Bike Pocket Tool",
+  "specifications": [
+    "3 x 1/4in Sockets: 8, 9 and 10mm",
+    "1 x 1/4in Socket Driver",
+    "9 x Screwdrivers: 0.8 x 5.0mm, PH2, HEX 2, 2.5mm, 3mm, 4mm, 5mm, 6mm and 8mm",
+    "3 x Open End Spanners: 9, 13 and 14mm",
+    "1 x Spoke Aligner"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-needle-set-of-12-cut-2-smooth-2-472-16-2-0-160mm.html|>
+## Bahco Needle Set of 12 Cut 2 Smooth 2-472-16-2-0 160mm
+
+{
+  "price": "€182.48 inc VAT (€148.36 exc.vat)",
+  "description": "Set of 12 needle files in snapshut plastic wallet with hanging hole. One of each of the following: Hand, flat, half round, round, three square, square, crossing, knife, barrette, slitting, round edge joint and marking files, with handle included. For fine filing and polishing jobs. Used by engravers, precision engineers, instrument makers, watchmakers and goldsmiths. Size: 16cm. Cut: 2 (smooth). Type: Needle set (12).",
+  "availability": "In Stock",
+  "product_name": "Bahco Needle Set of 12 Cut 2 Smooth 2-472-16-2-0 160mm",
+  "specifications": [
+    "Size: 16cm",
+    "Cut: 2 (smooth)",
+    "Type: Needle set (12)",
+    "Includes various file types: Hand, flat, half round, round, three square, square, crossing, knife, barrette, slitting, round edge joint and marking files"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-new-group-for-bah8900sm26-1.html|>
+## Bahco New Group for BAH8900SM26
+
+{
+  "price": "€26.51 inc VAT",
+  "description": "Bahco New Group for BAH8900SM26",
+  "availability": "In Stock",
+  "product_name": "Bahco New Group for BAH8900SM26",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-oberg-cut-handled-files.html|>
+## Bahco Oberg Cut Handled Files
+
+{
+  "price": "from €25.76 inc VAT",
+  "description": "Bahco 1-106 series Hand files with Oberg cut are useful for all flat filing. The Oberg cut gives a high removal rate and smooth surface finish on most materials. The edges and surfaces are parallel. Surfaces single cut, bastard, with chipbreaking teeth. One edge single cut.",
+  "availability": "In Stock",
+  "product_name": "Bahco Oberg Cut Handled Files",
+  "specifications": [
+    "200mm (8in) Oberg Cut",
+    "250mm (10in) Oberg Cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-profcut-handsaws.html|>
+## Bahco PC Profcut Handsaws
+
+{
+  "price": "from €30.05 inc VAT",
+  "description": "Bahco ProfCut Hardpoint Handsaw for cutting all types of wood. Has GT- toothing (3 sided ground tooth) ensures excellent cutting results. The two-component handle provides optimum user comfort. Supplied with tooth protector.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC Profcut Handsaws",
+  "specifications": [
+    "475mm (19in)",
+    "GT7480mm (19in)",
+    "GT9550mm 22in",
+    "GT9"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-12-com-profcut-compass-saw-300mm-12in-9tpi.html|>
+## Bahco PC-12-COM ProfCut Compass Saw 300mm (12in) 9tpi
+
+{
+  "price": "€26.74 inc VAT (€21.74 exc.vat)",
+  "description": "Bahco ProfCut Compass Saw for all kinds of wood and plastic material. Unique XT-toothing on thicker steel for extra stability and comfort. Hardpoint teeth for long lasting sharpness. Screwed one-piece, two-component plastic handle. Blade Length: 300mm (12in). Teeth 9 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-12-COM ProfCut Compass Saw 300mm (12in) 9tpi",
+  "specifications": [
+    "Blade Length: 300mm (12in)",
+    "Teeth: 9 tpi",
+    "Material: Wood and plastic",
+    "Handle: Screwed one-piece, two-component plastic"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-12-ten-profcut-tenon-saw-300mm-12in-11tpi.html|>
+## Bahco PC-12-TEN ProfCut Tenon Saw 300mm (12in) 11tpi
+
+{
+  "price": "€23.19 inc VAT (€18.85 exc.vat)",
+  "description": "Bahco ProfCut Tenon Saw is a professional tenon saw for fine and medium thick materials, specially adapted for the cutting of small-section timber and mitre guide sawing. Hardpoint teeth for long lasting sharpness. Heavy steel back for rigidity and accurate cutting. Length 300mm (12 in) Teeth 11 tpi",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-12-TEN ProfCut Tenon Saw 300mm (12in) 11tpi",
+  "specifications": [
+    "Length 300mm (12 in)",
+    "Teeth 11 tpi",
+    "Hardpoint teeth for long lasting sharpness",
+    "Heavy steel back for rigidity and accurate cutting"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-12-ven-profcut-veneer-saw-300mm-12in-11tpi.html|>
+## Bahco PC-12-VEN ProfCut Veneer Saw 300mm (12in) 11tpi
+
+{
+  "price": "€23.19 inc VAT (€18.85 exc.vat)",
+  "description": "Bahco PC-12-VEN ProfCut Veneer Saw for fine and medium thick materials such as plywood, veneers, laminates and plastics. With hardpoint teeth for long lasting sharpness and a curved, toothed nose for starting cuts in the middle of the workpiece. With screwed one piece, two-component handle. Blade Length: 300mm (12in). Teeth: 11 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-12-VEN ProfCut Veneer Saw 300mm (12in) 11tpi",
+  "specifications": [
+    "Blade Length: 300mm (12in)",
+    "Teeth: 11 tpi"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-15-gnp-profcut-general-purpose-saw-380mm-15in-15tpi.html|>
+## Bahco PC-15-GNP ProfCut General Purpose Saw 380mm (15in) 15tpi
+
+{
+  "price": "€28.47 inc VAT (€23.15 exc.vat)",
+  "description": "Bahco ProfCut General Purpose fleam-toothed saw with very fine teeth for smooth sawing in a wide variety of materials such as plastics, laminates, wood, chipboard and soft metals like aluminium. Toolbox sized for easy storage. Slim blade and nose for easy access. Screwed one-piece, two-component plastic handle. Blade Length: 380mm (15in). Teeth: 15 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-15-GNP ProfCut General Purpose Saw 380mm (15in) 15tpi",
+  "specifications": [
+    "Blade Length: 380mm (15in)",
+    "Teeth: 15 tpi"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-15-tbx-profcut-toolbox-saw-380mm-15in-11tpi.html|>
+## Bahco PC-15-TBX ProfCut Toolbox Saw 380mm (15in) 11tpi
+
+{
+  "price": "€28.20 inc VAT (€22.93 exc.vat)",
+  "description": "Bahco ProfCut Toolbox Hardpoint Saw for medium thick materials such as timber, plywood, fibre and chipboard. Slim blade and nose for easy access. 3-side ground, super sharp GT-toothing for high cutting speed. Has a two-component handle that provides optimum user comfort. Blade Length: 380mm (15in). Teeth: 11 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-15-TBX ProfCut Toolbox Saw 380mm (15in) 11tpi",
+  "specifications": [
+    "Blade Length: 380mm (15in)",
+    "Teeth: 11 tpi",
+    "3-side ground, super sharp GT-toothing for high cutting speed",
+    "Two-component handle for optimum user comfort"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-16-deco-profcut-plastic-and-foam-saw-400mm-16in-18tpi.html|>
+## Bahco PC-16-DECO ProfCut Plastic & Foam Saw 400mm (16in) 18tpi
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "Bahco ProfCut Plastic & Foam Saw for cutting polystyrene, foam and stucco. Specially developed, toothing with very fine bevel ground teeth, and gullets designed to combine excellent finish with minimal clogging. Blade Length: 400mm (16in). Teeth: 18 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-16-DECO ProfCut Plastic & Foam Saw 400mm (16in) 18tpi",
+  "specifications": [
+    "Blade Length: 400mm (16in)",
+    "Teeth: 18 tpi"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-20-lam-profcut-laminator-saw-500mm-20in-11tpi.html|>
+## Bahco PC-20-LAM ProfCut Laminator Saw 500mm (20in) 11tpi
+
+{
+  "price": "€29.32 inc VAT (€23.84 exc.vat)",
+  "description": "Bahco ProfCut Laminator Saw has been specially designed for cutting laminated and wooden flooring. Has a two-component handle that provides optimum user comfort. The high quality steel blade is taller and thicker than conventional blades and has fine XT hardpoint toothing, allowing a faster and straighter cut. Blade Length: 500mm (20in). Teeth: 11 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-20-LAM ProfCut Laminator Saw 500mm (20in) 11tpi",
+  "specifications": [
+    "Blade Length: 500mm (20in)",
+    "Teeth: 11 tpi"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-20-prc-mitre-handsaw-500mm-20in-9tpi.html|>
+## Bahco PC-20-PRC Mitre Handsaw 500mm (20in) 9tpi
+
+{
+  "price": "€20.41 inc VAT (€16.59 exc.vat)",
+  "description": "Bahco Professional Mitre Handsaw for cutting plaster and boards of a wood based material. With a two-component handle which ensures a comfortable and safe grip. Specially developed toothing with new super sharp GT-toothing for the first 100mm (at the tip), followed by groups of four teeth with an extra large gullet between groups for greater efficiency and minimised clogging. Blade Length: 500mm (20in). Teeth: 9 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-20-PRC Mitre Handsaw 500mm (20in) 9tpi",
+  "specifications": [
+    "Blade Length: 500mm (20in)",
+    "Teeth: 9 tpi"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-24-pls-profcut-plasterboard-saw-600mm-24in-7tpi.html|>
+## Bahco PC-24-PLS ProfCut Plasterboard Saw 600mm (24in) 7tpi
+
+{
+  "price": "€37.67 inc VAT (€30.63 exc.vat)",
+  "description": "Bahco ProfCut Plasterboard Hardpoint Handsaw for fine and medium thick materials, specially adapted for mitre guide sawing of coving. Has a two-component handle that provides optimum user comfort. The shape of the blade provides good rigidity, combining the properties of a tenon saw and a conventional handsaw. Bevel ground universal toothing. Blade Length: 600mm (24in). Teeth: 7 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-24-PLS ProfCut Plasterboard Saw 600mm (24in) 7tpi",
+  "specifications": [
+    "Blade Length: 600mm (24in)",
+    "Teeth: 7 tpi"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-24-tim-timber-profcut-handsaw-600mm-24in-35tpi.html|>
+## Bahco PC-24-TIM Timber ProfCut Handsaw 600mm (24in) 3.5tpi
+
+{
+  "price": "€51.20 inc VAT (€41.63 exc.vat)",
+  "description": "Bahco ProfCut Timber Handsaw for the coarse cutting of wood. Fleam-toothed, non-hardpoint. The teeth can be resharpened by using a file. Effective on the push as well as on the pull stroke, to give a faster cut. Has a screwed one-piece, two component handle. Blade Length: 600mm (24in).",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-24-TIM Timber ProfCut Handsaw 600mm (24in) 3.5tpi",
+  "specifications": [
+    "Blade Length: 600mm (24in)",
+    "Fleam-toothed, non-hardpoint",
+    "Teeth can be resharpened",
+    "Effective on push and pull stroke",
+    "Screwed one-piece, two component handle"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pc-6-profcut-drywall-saw-160mm-614in-8tpi.html|>
+## Bahco PC-6 ProfCut Drywall Saw 160mm (6.1/4in) 8tpi
+
+{
+  "price": "€15.53 inc VAT (€12.63 exc.vat)",
+  "description": "Bahco ProfCut Drywall Saw or plasterboard saw. Ideal for both professional and DIY use. Blade Length: 160mm (6.1/4in). Teeth: 8 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco PC-6 ProfCut Drywall Saw 160mm (6.1/4in) 8tpi",
+  "specifications": [
+    "Blade Length: 160mm (6.1/4in)",
+    "Teeth: 8 tpi"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-p-hb-grade-carpenters-pencils-box-25.html|>
+## Bahco P-HB Grade Carpenters Pencils (Box 25)
+
+{
+  "price": "€24.82 inc VAT (€20.18 exc.vat)",
+  "description": "Box of 25 Bahco HB grade carpenters pencils.",
+  "availability": "In Stock",
+  "product_name": "Bahco P-HB Grade Carpenters Pencils (Box 25)",
+  "specifications": [
+    "Box of 25 Bahco HB grade carpenters pencils."
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-power-tool-padded-palm-gloves.html|>
+## Bahco Power Tool Padded Palm Gloves
+
+{
+  "price": "€28.01 inc VAT",
+  "description": "Bahco Power Tool Padded PU Glove with additional padded cells stitched into the palms, fingers and thumbs. A lightweight breathable material between the fingers and backhand.",
+  "availability": "In Stock",
+  "product_name": "Bahco Power Tool Padded Palm Gloves",
+  "specifications": [
+    "Size: Medium (Size 8)",
+    "Material: PU with padded cells",
+    "Breathable material between fingers and backhand"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-production-soft-grip-gloves.html|>
+## Bahco Production Soft Grip Gloves
+
+{
+  "price": "€22.07 inc VAT",
+  "description": "Bahco Production Soft Grip glove with knuckle protection, tailored finger seams and spandex backing.",
+  "availability": "In Stock",
+  "product_name": "Bahco Production Soft Grip Gloves",
+  "specifications": [
+    "Large (Size 10)",
+    "Medium (Size 8)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-profcut-dovetail-saws.html|>
+## Bahco ProfCut Dovetail Saws
+
+{
+  "price": "€17.81 inc VAT",
+  "description": "Bahco Dovetail Saw for use on wood and plastic materials. Fine universal hardpoint toothing and light steel back for rigidity. The flexible version has a handle which swings to allow both left and right hand sawing where access is restricted. Blade Length: 250mm (10in).",
+  "availability": "In Stock",
+  "product_name": "Bahco ProfCut Dovetail Saws",
+  "specifications": [
+    "Blade Length: 250mm (10in)",
+    "Flexible version for left and right hand sawing",
+    "Fine universal hardpoint toothing",
+    "Light steel back for rigidity"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-profcut-pullsaw-blades.html|>
+## Bahco ProfCut Pullsaw Blades
+
+{
+  "price": "€26.83 inc VAT",
+  "description": "Bahco ProfCut replacement blades are available for Bahco Pullsaws. The variations are fine, extra fine or a double sided blade.",
+  "availability": "In Stock",
+  "product_name": "Bahco ProfCut Pullsaw Blades",
+  "specifications": [
+    "240mm (9.1/2in) Blade Double Sided",
+    "280mm (11in) Ex Fine",
+    "300mm (12in) Fine"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-profcut-pullsaws.html|>
+## Bahco ProfCut Pullsaws
+
+{
+  "price": "from €38.31 inc VAT",
+  "description": "Bahco ProfCut Pullsaw is a general carpentry pull-saw for fine, cross and angled cuts. The pull action allows for a thin blade (0.60 mm), creating a minimum of removal (kerf 0.90 mm) and therefore requiring less force. Has a hardpoint, triple edge JT tooth design, and a two-component handle which ensures a comfortable and safe grip. The flexibility of the blade makes it possible to perform excellent cuts close to another surface.",
+  "availability": "In Stock",
+  "product_name": "Bahco ProfCut Pullsaws",
+  "specifications": [
+    "14tpi Fine",
+    "240mm",
+    "9.1/2in Double Sided",
+    "280mm",
+    "19tpi Extra Fine"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-pz2-300mm-long-reach-screwdriver.html|>
+## Bahco Pz2 300Mm Long Reach Screwdriver
+
+{
+  "price": "€26.97 inc VAT (€21.93 exc.vat)",
+  "description": "Pz2 300Mm Long Reach Screwdriver",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Pz2 300Mm Long Reach Screwdriver",
+  "specifications": [
+    "BAH026002300 : €26.97",
+    "List: €32.69",
+    "You save €5.72"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-qcb-better-clamps.html|>
+## Bahco QCB Better Clamps
+
+{
+  "price": "from €43.98 inc VAT",
+  "description": "The QCB series of Quick Clamps feature a variable speed mechanism which makes it easier to reach high clamping forces quickly. The head is reversible enabling the clamp to be converted to a spreader and incorporates removable contact pads with V groove to secure irregular objects. Maximum clamping pressure 200 Kg.",
+  "availability": "In Stock",
+  "product_name": "Bahco QCB Better Clamps",
+  "specifications": [
+    "Variable speed mechanism for high clamping forces",
+    "Reversible head for conversion to a spreader",
+    "Removable contact pads with V groove for securing irregular objects",
+    "Maximum clamping pressure of 200 Kg"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-qcg-good-clamps.html|>
+## Bahco QCG Good Clamps
+
+{
+  "price": "from €29.03 inc VAT",
+  "description": "The QCG series of clamps feature a small, shaped handle incorporating an easy access release mechanism, enabling improved access into confined spaces. The head is reversible and is fitted with non-marking V groove pads. Maximum clamping force 125 Kg.",
+  "availability": "In Stock",
+  "product_name": "Bahco QCG Good Clamps",
+  "specifications": [
+    "150mm (CF 125kg)",
+    "300mm (CF 125kg)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-quick-release-reversible-ratchet-12in-drive.html|>
+## Bahco Quick Release Reversible Ratchet 1/2in Drive
+
+{
+  "price": "€52.39 inc VAT (€42.59 exc.vat)",
+  "description": "The Bahco 1/2in drive Quick Release Reversible Ratchet with 60 teeth and 6° action angle. Made from high quality CrV steel with a nickel and matte chrome finish. It has a quick-release function for easy and safe operation. There is also a quick, easy direction change lever on the wrench head. Fitted with a comfortable non-slip two-component handle. An integrated hanging hole makes it easy to store. Standards: ISO 3315/1174-2, DIN 3122/3120.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Quick Release Reversible Ratchet 1/2in Drive",
+  "specifications": [
+    "1/2in drive",
+    "60 teeth",
+    "6° action angle",
+    "Made from high quality CrV steel",
+    "Nickel and matte chrome finish",
+    "Quick-release function",
+    "Comfortable non-slip two-component handle",
+    "Integrated hanging hole"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-quick-release-reversible-ratchet-38in-drive.html|>
+## Bahco Quick Release Reversible Ratchet 3/8in Drive
+
+{
+  "price": "€39.64 inc VAT (€32.23 exc.vat)",
+  "description": "The Bahco 3/8in drive Quick Release Reversible Ratchet with 60 teeth and 6° action angle. Made from high quality CrV steel with a nickel and matte chrome finish. It has a quick-release function for easy and safe operation. There is also a quick, easy direction change lever on the wrench head. Fitted with a comfortable non-slip two-component handle. An integrated hanging hole makes it easy to store. Standards: ISO 3315/1174-2, DIN 3122/3120.",
+  "availability": "In Stock",
+  "product_name": "Bahco Quick Release Reversible Ratchet 3/8in Drive",
+  "specifications": [
+    "60 teeth",
+    "6° action angle",
+    "Made from high quality CrV steel",
+    "Nickel and matte chrome finish",
+    "Quick-release function",
+    "Comfortable non-slip two-component handle",
+    "Integrated hanging hole",
+    "Standards: ISO 3315/1174-2, DIN 3122/3120"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ratchet-38in-drive.html|>
+## Bahco Ratchet 3/8in Drive
+
+{
+  "price": "€54.60 inc VAT (€44.39 exc.vat)",
+  "description": "SBS750 reversible 3/8 in square drive ratchet with 34 teeth, giving a 10.6 degree action. Length: 200mm.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Ratchet 3/8in Drive",
+  "specifications": [
+    "3/8 in square drive",
+    "34 teeth",
+    "10.6 degree action",
+    "Length: 200mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ratchet-quick-release-12in-square-drive-sbs81.html|>
+## Bahco Ratchet Quick Release 1/2in Square Drive SBS81
+
+{
+  "price": "€62.39 inc VAT (€50.72 exc.vat)",
+  "description": "SBS81 Quick Release 1/2in square drive reversible ratchet with 60 teeth for a 6° action. Length: 270mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Ratchet Quick Release 1/2in Square Drive SBS81",
+  "specifications": [
+    "1/2in square drive",
+    "Reversible ratchet",
+    "60 teeth for a 6° action",
+    "Length: 270mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-ratchet-screwdriver-set-6-piece-1000-volt.html|>
+## Bahco Ratchet ScrewDriver Set 6 Piece 1000 Volt
+
+{
+  "price": "€161.86 inc VAT",
+  "description": "Bahco Ratchet Screwdriver 808060 is an insulated ratcheting screwdriver combined with interchangeable slim blades. The blade release system built in the comfortable handle makes it easy and safe to change the blades without the blades falling out. The blades are 30% slimmer than the blade of a regular insulated screwdriver for better accessibility and more applications (e.g. sunken screws and spring elements). They have a 48 tooth non-conductive ratcheting mechanism. A must have tool for electricians, certified according to IEC 6090. Comes with a nylon pouch. 808061: PH1, PH2, 0.4 x 2.5, 0.5 x 3.0, 0.8 x 4.0, 1.0 x 5.5, and a handle. 808062: PZ1, PZ2, 0.4 x 2.5, 0.5 x 3.0, 0.8 x 4.0, 1.0 x 5.5, and a handle. Handle Length: 180mm. Length: 100mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Ratchet ScrewDriver Set 6 Piece 1000 Volt",
+  "specifications": [
+    "Insulated ratcheting screwdriver",
+    "Interchangeable slim blades",
+    "30% slimmer blades for better accessibility",
+    "48 tooth non-conductive ratcheting mechanism",
+    "Includes nylon pouch",
+    "Handle Length: 180mm",
+    "Blade Length: 100mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-reversible-ratchet-spanners-series-s4rm.html|>
+## Bahco Reversible Ratchet Spanners Series S4RM
+
+{
+  "price": "€30.55 inc VAT",
+  "description": "The Bahco S4RM ratcheting spanners are made from top quality forged steel, nickel which is then chrome-plated in a matt-finish for a smooth and secure grip. Easy to use, these spanners simply grip the nut or bolt being removed or replaced, the ratcheting spanner heads are sized either side of each spanner for the desired size of nut or bolt, then just push the direction lever to remove or replace the nut or bolt with ratchet action. They are an ideal option for motor mechanics, motor cycle repairs etc., as these spanners can be used in awkward places and minimal movement action is required to use them.",
+  "availability": "In Stock",
+  "product_name": "Bahco Reversible Ratchet Spanners Series S4RM",
+  "specifications": [
+    "Available sizes: 12/13/14/15mm, 16/17/18/19mm, 21/22/24/27mm, 3 piece set 8-19mm, 30/32/24/36mm, 4/5/6/7mm, 5 piece set 8-36mm, 8/9/10/11mm",
+    "Made from top quality forged steel",
+    "Nickel chrome-plated for a smooth grip",
+    "Ratcheting action for easy use in tight spaces"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-round-bastard-cut-files-un-handled.html|>
+## Bahco Round Bastard Cut Files Un-Handled
+
+{
+  "price": "from €8.51 inc VAT",
+  "description": "Bahco Round files are used for filing circular openings or concave surfaces. Tapered towards the point, 4in and 6in files are fully pointed, whilst 8in and longer are semi-pointed. All double cut. Smooth Cut: Approx 62 teeth per 25mm (Fine). Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Round Bastard Cut Files Un-Handled",
+  "specifications": [
+    "Available sizes: 100mm (4in), 150mm (6in), 200mm (8in), 250mm (10in), 300mm (12in)",
+    "Smooth Cut: Approx 62 teeth per 25mm (Fine)",
+    "Second Cut: Approx 36 teeth per 25mm (Medium)",
+    "Bastard Cut: Approx 26 teeth per 25mm (Coarse)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-round-files-handled.html|>
+## Bahco Round Files Handled
+
+{
+  "price": "€16.62 inc VAT",
+  "description": "Bahco Handled Round File 1-230 is fitted with a ERGO™ handle. These files are perfect for filing circular openings or concave surfaces. Tapered towards the point, 8in files are semi-pointed and double cut. Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Round Files Handled",
+  "specifications": [
+    "150mm (6in) Second Cut",
+    "250mm (10in) Round Bastard",
+    "Round Second Cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-round-needle-files-un-handled.html|>
+## Bahco Round Needle Files Un-Handled
+
+{
+  "price": "€11.82 inc VAT",
+  "description": "Bahco Round Needle Files with surfaces which taper to a point and are double cut. For fine filing and polishing jobs. Used by engravers, precision engineers, instrument makers, watchmakers and goldsmiths.",
+  "availability": "In Stock",
+  "product_name": "Bahco Round Needle Files Un-Handled",
+  "specifications": [
+    "140mm Bastard Cut",
+    "140mm Smooth Cut",
+    "160mm Bastard Cut",
+    "160mm Dead Smooth Cut",
+    "160mm Smooth Cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-round-second-cut-files-un-handled.html|>
+## Bahco Round Second Cut Files Un-Handled
+
+{
+  "price": "€9.00 inc VAT",
+  "description": "For filing circular openings or concave surfaces. Tapered towards the point, 4in and 6in files are fully pointed, 8in and longer are semi-pointed. All double cut.",
+  "availability": "In Stock",
+  "product_name": "Bahco Round Second Cut Files Un-Handled",
+  "specifications": [
+    "Select Option: 100mm (4in), 150mm (6in), 200mm (8in), 250mm (10in), 300mm (12in)",
+    "Tapered towards the point",
+    "4in and 6in files are fully pointed",
+    "8in and longer are semi-pointed",
+    "All double cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-round-smooth-cut-files-un-handled.html|>
+## Bahco Round Smooth Cut Files Un-Handled
+
+{
+  "price": "€9.20 inc VAT",
+  "description": "For filing circular openings or concave surfaces. Tapered towards the point, 4in and 6in files are fully pointed, 8in and longer are semi-pointed. All double cut.",
+  "availability": "In Stock",
+  "product_name": "Bahco Round Smooth Cut Files Un-Handled",
+  "specifications": [
+    "Available sizes: 100mm (4in), 150mm (6in), 200mm (8in), 250mm (10in), 300mm (12in)",
+    "Tapered towards the point",
+    "4in and 6in files are fully pointed",
+    "8in and longer are semi-pointed",
+    "All double cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s-type-ratchet-ring-wrench-and-adaptor-set-29-piece.html|>
+## Bahco S Type Ratchet Ring Wrench & Adaptor Set, 29 Piece
+
+{
+  "price": "€101.61 inc VAT (€82.61 exc.vat)",
+  "description": "The Bahco S Type Ratchet Ring Wrench & Adaptor Set contains: 1 x S Type Ratcheting Ring Wrench. 5 x 1/4in Metric Sockets: 8, 9, 10, 11, 12mm. 3 x 1/4in Imperial Sockets: 5/16, 3/8, 7/16in. 4 x 1/2in Metric Sockets: 13, 15, 16, 17mm. 3 x 1/2in Imperial Sockets: 1/2, 9/16, 5/8, 11/16in. 5 x 1/4in TORX® Screw Adaptors: E8, E10, E11, E12, E14. 4 x 1/2in TORX® Screw Adaptors: E16, E18, E20, E22. 2 x Adaptors: 1/4in & 1/2in. 1 x 22mm Thru-Socket. 1 x Compact Blow Mould Box with T3 Modular 2-colour Foam Inlay.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco S Type Ratchet Ring Wrench & Adaptor Set, 29 Piece",
+  "specifications": [
+    "1 x S Type Ratcheting Ring Wrench",
+    "5 x 1/4in Metric Sockets: 8, 9, 10, 11, 12mm",
+    "3 x 1/4in Imperial Sockets: 5/16, 3/8, 7/16in",
+    "4 x 1/2in Metric Sockets: 13, 15, 16, 17mm",
+    "3 x 1/2in Imperial Sockets: 1/2, 9/16, 5/8, 11/16in",
+    "5 x 1/4in TORX® Screw Adaptors: E8, E10, E11, E12, E14",
+    "4 x 1/2in TORX® Screw Adaptors: E16, E18, E20, E22",
+    "2 x Adaptors: 1/4in & 1/2in",
+    "1 x 22mm Thru-Socket",
+    "1 x Compact Blow Mould Box with T3 Modular 2-colour Foam Inlay"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s106-socket-and-spanner-set-of-106-metric-14-and-12in-drive.html|>
+## Bahco S106 Socket & Spanner Set of 106 Metric 1/4 & 1/2in Drive
+
+{
+  "price": "€265.35 inc VAT (€215.73 exc.vat)",
+  "description": "The Bahco 1/4in Drive 106 piece metric and AF socket and spanner set, consisting of: 12 x 1/4in Hex Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm. 10 x 1/4in Hex Deep Sockets: 4, 5, 6, 7, 8, 9, 10, 11, 12 & 13mm. 15 x 1/2in Hex Sockets: 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 23, 24, 27, 32 & 34mm. 9 x 1/2in Hex Sockets: 3/8, 7/16, 1/2, 9/16, 11/16, 3/4, 13/16, 7/8 & 1 3/16 AF. 4 x 1/2in Hex Impact Sockets: 17, 19, 21 & 24mm. 1 x 1/2in Spark Plug Socket 21mm (13/16in). 4 x 1/4in Phillips Bits: PH1, PH2, PH3 & PH4. 3 x 1/4in Slotted Bits: 4, 5.5 & 7mm. 6 x 1/4in Hex Bits: 3, 4, 5, 6, 8 & 10mm. 3 x 1/4in Pozidriv Bits: PZ1, PZ2 & PZ3. 8 x 1/4in Torx Bits: T8, T10, T15, T20, T25, T27, T30 & T40. 2 x 1/4in Extension Bars: 50 & 100mm. 2 x 1/2in Extension Bars: 125 & 250mm. 1 x 1/4in Sliding T-Bar 100mm, 1 x 1/2in T Adaptor. 1 x 1/4in Spinner. 1 x 1/4in Universal Joint, 1 x 1/2in Universal Joint. 1 x 1/4in Reversible Ratchet. 1 x 1/2in Reversible Ratchet. 3 x Hex Keys 1.5, 2 & 2.5mm. 4 x Flex Head Spanners: 8x9mm, 10x11mm, 12x13mm & 14x15mm. 13 x Combination Spanners: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19mm. 1 x Impact & Oil Resistant Case. 1 x Removable Tool Rack for Combination Spanners.",
+  "availability": "In Stock",
+  "product_name": "Bahco S106 Socket & Spanner Set of 106 Metric 1/4 & 1/2in Drive",
+  "specifications": [
+    "106 piece metric and AF socket and spanner set",
+    "Includes various sizes of hex sockets, bits, and spanners",
+    "Impact & oil resistant case included",
+    "Removable tool rack for combination spanners"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s108-socket-and-combination-spanner-set-of-108-metric-14in-and-12in-drive.html|>
+## Bahco S108 Socket & Combination Spanner Set of 108 Metric 1/4in & 1/2in Drive
+
+{
+  "price": "€312.12 inc VAT (€253.76 exc.vat)",
+  "description": "The Bahco S108 Socket & Combination Spanner Set, 108 piece, contains a variety of popular sizes in a handy carry case, with easy identification sizes printed on the tray. Contents: 12 x 1/4in Hex Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm, 10 x 1/4in Deep Hex Sockets: 4, 5, 6, 7, 8, 9, 10, 11, 12 & 13mm, 20 x 1/2in Hex Sockets: 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 30 & 32mm, 6 x 1/2in TORX Sockets: E12, E14, E16, E18, E20 & E24, 4 x 1/2in Hex Impact Sockets: 17, 19, 21 & 24mm, 4 x 1/4in Phillips Socket Drivers: PH1, PH2, PH3 & PH4, 3 x 1/4in Pozidriv Socket Drivers: PZ1, PZ2 & PZ3, 3 x 1/4in Slotted Socket Drivers: 4, 5.5 & 7mm, 6 x 1/4in Hex Socket Drivers: 3, 4, 5, 6, 8 & 10mm, 8 x 1/4in TORX Socket Drivers: T8, T10, T15, T20, T25, T27, T30 & T40, 2 x 1/4in Extension Bars: 50 & 100mm, 1 x 1/4in Sliding T-Bar 100mm, 1 x 1/4in Universal Joint, 1 x 1/4in Spinner with 2-Component Handle, 1 x 1/4in Quick-Release Ratchet 60 Teeth, 2 x 1/2in Extension Bars: 125 & 250mm, 1 x 1/2in Universal Joint, 1 x 1/2in Spark Plug Socket Hex 21mm (13/16\"), 1 x 1/2in T-Adaptor, 1 x 1/2in Quick-Release Ratchet 60 Teeth, 3 x Hex L-Keys: 1.5, 2 & 2.5mm, 4 x Flex Head Spanners: 8-9, 10-11, 12-13 & 14-15mm, 13 x Combination Spanners: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19mm* Supplied on a practical removable tool-rack.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco S108 Socket & Combination Spanner Set of 108 Metric 1/4in & 1/2in Drive",
+  "specifications": [
+    "12 x 1/4in Hex Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm",
+    "10 x 1/4in Deep Hex Sockets: 4, 5, 6, 7, 8, 9, 10, 11, 12 & 13mm",
+    "20 x 1/2in Hex Sockets: 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 30 & 32mm",
+    "6 x 1/2in TORX Sockets: E12, E14, E16, E18, E20 & E24",
+    "4 x 1/2in Hex Impact Sockets: 17, 19, 21 & 24mm",
+    "4 x 1/4in Phillips Socket Drivers: PH1, PH2, PH3 & PH4",
+    "3 x 1/4in Pozidriv Socket Drivers: PZ1, PZ2 & PZ3",
+    "3 x 1/4in Slotted Socket Drivers: 4, 5.5 & 7mm",
+    "6 x 1/4in Hex Socket Drivers: 3, 4, 5, 6, 8 & 10mm",
+    "8 x 1/4in TORX Socket Drivers: T8, T10, T15, T20, T25, T27, T30 & T40",
+    "2 x 1/4in Extension Bars: 50 & 100mm",
+    "1 x 1/4in Sliding T-Bar 100mm",
+    "1 x 1/4in Universal Joint",
+    "1 x 1/4in Spinner with 2-Component Handle",
+    "1 x 1/4in Quick-Release Ratchet 60 Teeth",
+    "2 x 1/2in Extension Bars: 125 & 250mm",
+    "1 x 1/2in Universal Joint",
+    "1 x 1/2in Spark Plug Socket Hex 21mm (13/16\")",
+    "1 x 1/2in T-Adaptor",
+    "1 x 1/2in Quick-Release Ratchet 60 Teeth",
+    "3 x Hex L-Keys: 1.5, 2 & 2.5mm",
+    "4 x Flex Head Spanners: 8-9, 10-11, 12-13 & 14-15mm",
+    "13 x Combination Spanners: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19mm*"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s138-socket-set-of-138-metric-14in-38in-and-12in.html|>
+## Bahco S138 Socket Set of 138 Metric 1/4in, 3/8in, & 1/2in
+
+{
+  "price": "€358.99 inc VAT (€291.86 exc.vat)",
+  "description": "Bahco S138 1/4in, 3/8in, and 1/2in drive 138 piece metric and imperial socket set that consists of: 12 x 1/4in Hexagon Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12, and 13mm. 10 x 1/4in Hexagon Deep Sockets: 4, 5, 6, 7, 8, 9, 10, 11, 12, and 13mm. 1 x 1/4in Reversible Ratchet 60 Teeth and Two Component Handle 150mm. 1 x 1/4in Spinner Handle with Two Component Handle 150mm. 1 x 1/4in Sliding T-bar 106mm, 1 x 1/4in Extension Bar 50mm, 1 x 1/4in Extension Bar 100mm, 1 x 1/4in Universal Joint, 1 x 1/4in Bit Holder, and 1 x 1/4in Flexible Extension Bar 150mm. 16 x 3/8in Hexagon Sockets: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, and 22mm. 1 x 3/8in Reversible Ratchet 60 Teeth and Two Component Handle 200mm. 1 x 3/8in Spark Plug Socket 21mm (13/16in), 1 x 3/8in Spark Plug Socket 18mm, 1 x 3/8in Spark Plug Socket 16mm (5/8in), 1 x 3/8in Universal Joint, 1 x 3/8in Extension Bar 75mm, and 1 x 3/8in Extension Bar 150mm. 18 x 1/2in Hexagon Sockets: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 32, and 34mm. 9 x 1/2in Hexagon Sockets: 3/8, 7/16, 1/2, 9/16, 11/16, 3/4, 13/16, 7/8, and 1.3/16in. 1 x 1/2in Reversible Ratchet With 60 Teeth and Two Component Handle 250mm, 1 x 1/2in Sliding T-bar With Double Function, 1/2in Head 3/8F-1/2in Male Adaptor, 1 x 1/2in Extension Bar 125mm, 1 x 1/2in Extension Bar 250mm, and 1 x 1/2in Universal joint. 1 x Bits Adaptor: 1/4in Square Drive. 4 x Pozidriv Bits: PZ 0, 1, 2, and 3. 5 x Phillips Bits: PH 0, 1, 2, 3, and 4. 3 x Flat Bits: 4, 5.5, and 7mm. 6 x Insert Bits: 3, 4, 5, 6, 8, and 10mm. 9 x Torx Bits: T 8, 10, 15, 20, 25, 27, 30, 40, and 45. 1 x Bits Ratchet, 3 x Hexagon Keys: 1.5, 2, and 2.5mm. 8 x Crow Foot Wrenches: 10, 11, 13, 14, 15, 17, 18, and19mm. 13 x Combination Spanners: 7, 8, 9, 10, 11, 12, 13, 14, 15,16, 17, 18, and 19mm. Supplied in a High Density Polythene Case.",
+  "availability": "In Stock",
+  "product_name": "Bahco S138 Socket Set of 138 Metric 1/4in, 3/8in, & 1/2in",
+  "specifications": [
+    "12 x 1/4in Hexagon Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12, and 13mm",
+    "10 x 1/4in Hexagon Deep Sockets: 4, 5, 6, 7, 8, 9, 10, 11, 12, and 13mm",
+    "1 x 1/4in Reversible Ratchet 60 Teeth and Two Component Handle 150mm",
+    "1 x 1/4in Spinner Handle with Two Component Handle 150mm",
+    "1 x 1/4in Sliding T-bar 106mm",
+    "1 x 1/4in Extension Bar 50mm",
+    "1 x 1/4in Extension Bar 100mm",
+    "1 x 1/4in Universal Joint",
+    "1 x 1/4in Bit Holder",
+    "1 x 1/4in Flexible Extension Bar 150mm",
+    "16 x 3/8in Hexagon Sockets: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, and 22mm",
+    "1 x 3/8in Reversible Ratchet 60 Teeth and Two Component Handle 200mm",
+    "1 x 3/8in Spark Plug Socket 21mm (13/16in)",
+    "1 x 3/8in Spark Plug Socket 18mm",
+    "1 x 3/8in Spark Plug Socket 16mm (5/8in)",
+    "1 x 3/8in Universal Joint",
+    "1 x 3/8in Extension Bar 75mm",
+    "1 x 3/8in Extension Bar 150mm",
+    "18 x 1/2in Hexagon Sockets: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 32, and 34mm",
+    "9 x 1/2in Hexagon Sockets: 3/8, 7/16, 1/2, 9/16, 11/16, 3/4, 13/16, 7/8, and 1.3/16in",
+    "1 x 1/2in Reversible Ratchet With 60 Teeth and Two Component Handle 250mm",
+    "1 x 1/2in Sliding T-bar With Double Function",
+    "1/2in Head 3/8F-1/2in Male Adaptor",
+    "1 x 1/2in Extension Bar 125mm",
+    "1 x 1/2in Extension Bar 250mm",
+    "1 x 1/2in Universal joint",
+    "1 x Bits Adaptor: 1/4in Square Drive",
+    "4 x Pozidriv Bits: PZ 0, 1, 2, and 3",
+    "5 x Phillips Bits: PH 0, 1, 2, 3, and 4",
+    "3 x Flat Bits: 4, 5.5, and 7mm",
+    "6 x Insert Bits: 3, 4, 5, 6, 8, and 10mm",
+    "9 x Torx Bits: T 8, 10, 15, 20, 25, 27, 30, 40, and 45",
+    "1 x Bits Ratchet",
+    "3 x Hexagon Keys: 1.5, 2, and 2.5mm",
+    "8 x Crow Foot Wrenches: 10, 11, 13, 14, 15, 17, 18, and19mm",
+    "13 x Combination Spanners: 7, 8, 9, 10, 11, 12, 13, 14, 15,16, 17, 18, and 19mm",
+    "Supplied in a High Density Polythene Case"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s160-socket-set-of-16-metric-and-af-14in-drive.html|>
+## Bahco S160 Socket Set of 16 Metric & AF 1/4in Drive
+
+{
+  "price": "€46.79 inc VAT (€38.04 exc.vat)",
+  "description": "Bahco S160 Socket set 1/4in square drive with dynamic drive profile. DIN 3120 / ISO 1174. Finish: matt chrome-plated. Material: chrome vanadium. Plastic case: oil and temperature resistant polypropylene. Contents: 16-pieces: 12 x 1/4in 6-point dynamic drive sockets 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 and 13mm. 1 x 1/4in ratchet handle 45-teeth. 1 x 1/4in sliding T-bar 4in. 1 x 1/4in extension bar 3in. 1 x 1/4in flexible extension bar 6in.",
+  "availability": "In Stock",
+  "product_name": "Bahco S160 Socket Set of 16 Metric & AF 1/4in Drive",
+  "specifications": [
+    "1/4in square drive",
+    "Dynamic drive profile",
+    "DIN 3120 / ISO 1174",
+    "Matt chrome-plated finish",
+    "Material: chrome vanadium",
+    "Oil and temperature resistant polypropylene case",
+    "Contents: 16-pieces including 12 sockets and various tools"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s240-socket-set-of-24-metric-12in-drive.html|>
+## Bahco S240 Socket Set of 24 Metric 1/2in Drive
+
+{
+  "price": "€89.99 inc VAT (€73.16 exc.vat)",
+  "description": "Bahco S240 Socket set 1/2 in square drive with dynamic drive profile. DIN3120/ ISO 1174. Finish: matt chrome-plated: material: chrome vanadium. Plastic case: oil and temperature resistant polypropene. Contents: 24-pieces 1 each 1/2 in 6-point dynamic drive sockets: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 30 and 32mm. 1 each 1/2 in extension bar 125mm (5 in) and 250mm (10 in). 1 x 1/2 in universal joint. 1 x 1/2 in T-adaptor. 1 x 1/2 in flexible handle 10 in with grip. 1 x 1/2 in ratchet handle 54-teeth.",
+  "availability": "In Stock",
+  "product_name": "Bahco S240 Socket Set of 24 Metric 1/2in Drive",
+  "specifications": [
+    "1/2 in square drive",
+    "Dynamic drive profile",
+    "Matt chrome-plated finish",
+    "Material: chrome vanadium",
+    "Oil and temperature resistant polypropene case",
+    "Contents: 24-pieces",
+    "Includes various socket sizes from 10mm to 32mm",
+    "Includes extension bars and universal joint"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s290-socket-set-of-29-metric-14in-drive.html|>
+## Bahco S290 Socket Set of 29 Metric 1/4in Drive
+
+{
+  "price": "€62.41 inc VAT (€50.74 exc.vat)",
+  "description": "Bahco S290 29 piece socket set 1/4in square drive. DIN 3120 / ISO 1174 Material: chrome vanadium. Plastic case: oil and temperature resistant polypropene. Contents: 29-pieces. 1 each 1/4in 6-point dynamic drive sockets - 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 and 13mm. 1 each 1/4in bit sockets Phillips 1, 2, 3. 1 each 1/4in bit sockets Flat 4, 5.5, 7mm. 1 each 1/4in bit sockets Hex 3, 4 , 5 , 6 , 8mm. 1 x 1/4in extension bar 2in. 1 x 1/4in extension bar 6in. 1 x 1/4in sliding T-bar. 1 x 1/4in universal joint. 1 x 1/4in spinner handle. 1 x ratchet handle 45-teeth.",
+  "availability": "In Stock",
+  "product_name": "Bahco S290 Socket Set of 29 Metric 1/4in Drive",
+  "specifications": [
+    "29 piece socket set",
+    "1/4in square drive",
+    "Material: chrome vanadium",
+    "Plastic case: oil and temperature resistant polypropene",
+    "Includes various socket sizes and types"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s330-socket-set-of-34-metric-14in-and-38in-drive.html|>
+## Bahco S330 Socket Set of 34 Metric 1/4in & 3/8in Drive
+
+{
+  "price": "€44.99 inc VAT (€36.58 exc.vat)",
+  "description": "The Bahco S330 1/4in & 3/8in Drive Socket Set Metric with dynamic drive profile. Made from high performance alloy steel with a matt finish. Confroms to DIN 3120/ ISO1174. Supplied in a plastic case, that is made from oil and temperature resistant polypropylene. Contents: 12 x 3/8in Hex Sockets: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 & 22mm. 1 x 3/8in 60 Teeth Quick Release Ratchet. 2 x 3/8in Extension Bars: 75mm (3in) & 150mm (6in). 1 x 3/8in Universal Joint. 1 x 3/8in x 1/4in Bit Holder. 2 x 3/8in Spark Plug Sockets Hex: 16mm (5/8in) & 21mm (13/16in). 1 x 1/4in Spinner Handle, 2-Component Handle. 1 x 1/4in x 1/4in Bit Holder. 3 x 1/4in Slotted Bits: 4, 5.5 & 7mm. 4 x 1/4in Phillips Bits: PH1, PH2, PH3 & PH4. 6 x 1/4in Hex Bits: 3, 4, 5, 6, 7 & 8mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco S330 Socket Set of 34 Metric 1/4in & 3/8in Drive",
+  "specifications": [
+    "Dynamic drive profile",
+    "Made from high performance alloy steel",
+    "Conforms to DIN 3120/ ISO1174",
+    "Supplied in a plastic case made from oil and temperature resistant polypropylene",
+    "Includes 12 x 3/8in Hex Sockets, 1 x 3/8in Quick Release Ratchet, 2 x Extension Bars, 1 x Universal Joint, 1 x Bit Holder, 2 x Spark Plug Sockets, 1 x Spinner Handle, 3 x Slotted Bits, 4 x Phillips Bits, 6 x Hex Bits"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s380-socket-set-of-38-metric-38in-drive.html|>
+## Bahco S380 Socket Set of 38 Metric 3/8in Drive
+
+{
+  "price": "€200.10 inc VAT (€162.68 exc.vat)",
+  "description": "Bahco S380 38 piece 3/8 in drive socket set arranged in a blow moulded plastic case. Set comprises:- 17 x 3/8 Hex sockets 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 and 22mm. 12 x 3/8 Hex sockets 1/4, 5/16, 11/32, 3/8, 7/16, 1/2, 9/16, 5/8, 11/16, 3/4, 13/16 and 7/8mm. 3 x 3/8 Extension bars 75mm(3 in), 150mm(6 in) and 250mm (10 in). 1 x 3/8 Universal joint. 1 x 3/8 Reversible ratchet. 1 x 3/8 Sliding T-bar. 2 x 3/8 Spark plug sockets 16mm (5/8) and 21mm (13/16 in). 1 x 3/8 Breaker bar 250mm (10 in).",
+  "availability": "Out of Stock",
+  "product_name": "Bahco S380 Socket Set of 38 Metric 3/8in Drive",
+  "specifications": [
+    "38 piece set",
+    "3/8 in drive",
+    "Blow moulded plastic case",
+    "Includes various hex sockets and extension bars"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s400-socket-and-spanner-set-of-40-metric-12in-drive.html|>
+## Bahco S400 Socket & Spanner Set of 40 Metric 1/2in Drive
+
+{
+  "price": "€212.19 inc VAT (€172.51 exc.vat)",
+  "description": "Bahco S400 1/2 in square drive socket set with dynamic drive profile. DIN 3120/ ISO1174. Finish: matt chrome-plated. Material: chrome vanadium. Plastic case: oil and temperature resistant polypropylene. Contents: 40-pieces. 1 each 1/2 in 6-pt dynamic drive sockets - 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30 and 32mm. 1 each 1/2 in extension bars 5 in and 10 in. 1 x 1/2 in universal joint. 1 x 1/2 in T-adaptor. 1 x 1/2 in flexible handle 10in with grip. 1 x 1/2 in ratchet handle 54 teeth. 1 each combination spanners 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco S400 Socket & Spanner Set of 40 Metric 1/2in Drive",
+  "specifications": [
+    "40-piece socket set",
+    "1/2 in square drive",
+    "Dynamic drive profile",
+    "Matt chrome-plated finish",
+    "Chrome vanadium material",
+    "Oil and temperature resistant polypropylene case"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s410-socket-and-spanner-set-of-41-metric-14in-and-12in-drive.html|>
+## Bahco S410 Socket & Spanner Set of 41 Metric 1/4in & 1/2in Drive
+
+{
+  "price": "€155.29 inc VAT (€126.25 exc.vat)",
+  "description": "Bahco 1/4 & 1/2in Drive 41 piece metric socket and spanner set, consisting of: 10 x 1/4in Metric Sockets: 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm. 10 x 1/2in Metric Sockets 10, 12, 13, 14, 16, 17, 19, 21 & 24mm. 2 x 1/4in Extension Bars: 50 & 100mm. 2 x 1/2in Extension Bars: 125 & 250mm. 1 x 1/4in 100mm Sliding T-Bar. 1 x 1/4in Universal Joint, 1 x 1/2in Universal Joint. 1 x 1/4in Reversible Quick Release Ratchet. 1 x 1/2in Reversible Quick Release Ratchet. 12 x Combination Spanners 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19mm. 1 x Impact & Oil Resistant Case. 1 x Removable Tool Rack for Combination Spanners.",
+  "availability": "In Stock",
+  "product_name": "Bahco S410 Socket & Spanner Set of 41 Metric 1/4in & 1/2in Drive",
+  "specifications": [
+    "41 piece metric socket and spanner set",
+    "10 x 1/4in Metric Sockets: 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm",
+    "10 x 1/2in Metric Sockets: 10, 12, 13, 14, 16, 17, 19, 21 & 24mm",
+    "2 x 1/4in Extension Bars: 50 & 100mm",
+    "2 x 1/2in Extension Bars: 125 & 250mm",
+    "1 x 1/4in 100mm Sliding T-Bar",
+    "1 x 1/4in Universal Joint, 1 x 1/2in Universal Joint",
+    "1 x 1/4in Reversible Quick Release Ratchet",
+    "1 x 1/2in Reversible Quick Release Ratchet",
+    "12 x Combination Spanners: 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19mm",
+    "1 x Impact & Oil Resistant Case",
+    "1 x Removable Tool Rack for Combination Spanners"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s460-socket-set-of-46-metric-14in-drive.html|>
+## Bahco S460 Socket Set of 46 Metric 1/4in Drive
+
+{
+  "price": "€176.47 inc VAT (€143.47 exc.vat)",
+  "description": "Socket set 1/4in with dynamic drive profile. DIN 3120 / ISO 1174. Finish: matt chrome-plated. Material: chrome vanadium. Plastic case: oil and temperature resistant polypropene. Contents: 46-pieces. 1 each 1/4in 6-pt dynamic drive sockets 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 and 13mm. 1 each 1/4in socket drivers Phillips 1, 2, 3, 4. 1 each 1/4in socket drivers Flat 4, 5.5, 7mm. 1 each 1/4in socket drivers Hex 3, 4, 5, 6, 8, 10mm. 1 each 1/4in socket drivers Torx 8, 10, 15, 20, 25, 27, 30. 1 each 1/4in sockets Torx E6, E7, E8. 1 x 1/4in spinner disc. 2 x 1/4in extension bars 2in and 4in. 1 x 1/4in sliding T-bar. 1 x 1/4in universal joint. 1 x 1/4in spinner handle. 1 x 1/4in flexible extension bar 6in. 1 each L-keys hex 1.5, 2, 2.5mm. 1 x 1/4in ratchet handle 45-teeth.",
+  "availability": "In Stock",
+  "product_name": "Bahco S460 Socket Set of 46 Metric 1/4in Drive",
+  "specifications": [
+    "46-piece socket set",
+    "1/4in drive",
+    "Dynamic drive profile",
+    "Matt chrome-plated finish",
+    "Chrome vanadium material",
+    "Oil and temperature resistant polypropene case"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s877-socket-and-spanner-set-of-94-metric-and-af-14-and-12in-drive.html|>
+## Bahco S87+7 Socket & Spanner Set of 94 Metric & AF 1/4 & 1/2in Drive
+
+{
+  "price": "€309.05 inc VAT (€251.26 exc.vat)",
+  "description": "The Bahco S877 Socket Set includes 1/4in and 1/2in square drive sockets and combination spanners with dynamic drive profile. The set is supplied in a three component impact and oil resistant case with removable tool rack for the combination spanners. Contains: 12 x 1/4in Hex Metric Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm 12 x 1/4in Hex Deep Metric Sockets: 4, 5, 6, 7, 8, 9, 10, 11 & 13mm. 15 x 1/2in Hex Metric Sockets 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 23, 24, 27, 32 & 34mm. 9 x 1/2in Hex AF Sockets: 3/8, 7/16, 1/2, 9/16, 11/16, 3/4, 13/16, 7/8 & 1 3/16in AF. 4 x 1/2in Hex Impact Sockets 17, 19, 21 & 24mm. 4 x 1/4in Phillips Bits: PH1, PH2, PH3 & PH4. 3 x 1/4in Slotted Bits: 4, 5.5 & 7mm. 6 x 1/4in Hex Bits: 3, 4, 5, 6, 8 & 10mm. 2 x 1/4in Extension Bars: 50 & 100mm. 1 x 1/4in 100mm Sliding T-Bar. 1 x 1/4in Universal Joint, 1 x 1/2in Universal Joint. 1 x 1/4in Spinner, 1 x 1/4in Reversible Ratchet. 2 x 1/2in Extension Bars 125 & 250mm. 1 x 1/2in Spark Plug Socket: 21mm (13/16in). 1 x 1/2in T Adaptor, 1 x 1/2in x Reversible Ratchet. 3 x Hex Keys: 1.5, 2 & 2.5mm. 4 x Flex Head Spanners 8x9mm, 10x11mm, 12x13mm & 14x15mm. 13 x Combination Spanners 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19mm. 1 x Impact & Oil Resistant Case. 1 x Removable Tool Rack for Combination Spanners.",
+  "availability": "In Stock",
+  "product_name": "Bahco S87+7 Socket & Spanner Set of 94 Metric & AF 1/4 & 1/2in Drive",
+  "specifications": [
+    "1/4in and 1/2in square drive sockets",
+    "Combination spanners with dynamic drive profile",
+    "Impact and oil resistant case",
+    "Removable tool rack for combination spanners",
+    "Includes various sizes of sockets and bits"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s910-socket-and-spanner-set-of-92-metric-and-af-14-and-12in-drive.html|>
+## Bahco S910 Socket & Spanner Set of 92 Metric & AF 1/4 & 1/2in Drive
+
+{
+  "price": "€265.35 inc VAT (€215.73 exc.vat)",
+  "description": "Socket set 1/4in and 1/2in square drive and combination spanners with dynamic drive profile. Consisting of: 12 x 1/4in Hex Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm. 10 x 1/4in Hex Deep Sockets: 4, 5, 6, 7, 8, 9, 10, 11, 12 & 13mm. 13 x 1/2in Hex Sockets: 10, 11, 12, 13, 14, 15, 17, 19, 22, 24, 27, 30 & 32mm. 5 x 1/4in Phillips Bits: PH0, PH1, PH2, PH3 & PH4. 3 x 1/4in Slotted Bits: 4, 5.5 & 7mm. 3 x 1/4in Pozidrive Bits: PZ1, PZ2 & PZ3. 6 x 1/4in Hex Bits: 3, 4, 5, 6, 8 & 10mm. 8 x 1/4in Torx Bits: T8, T10, T15, T20, T25, T27, T30 & T40. 3 x 5/16in Torx Bits: T45, T50 & T55. 1 x 1/2in Spark Plug Socket: 21mm (13/16in). 2 x 1/4in Extension Bars: 50 & 100mm. 2 x 1/2in Extension Bars: 125 & 250mm. 1 x 1/4in Universal Joint, 1 x 1/2in Universal Joint. 1 x 1/4in Bit Holder, 1 x 1/2in Bit Holder. 1 x 1/4in Bit Adaptor, 1 x 1/4in Magnetic Bit Adaptor. 1 x 1/4in Sliding T-Bar, 1 x 1/4in Spinner Handle. 1 x 1/2in T Adaptor. 1 x 1/4in Reversible Ratchet. 1 x 1/2in Reversible Ratchet. 3 x Hex Keys: 1.5, 2 & 2.5mm. 4 x Flex Head Wrenches: 8x9, 10x11, 12x13 & 14x15mm. 6 x Combination Wrenches 8, 10, 12, 13, 14 & 17mm. 1 x Impact & Oil Resistant Case. 1 x Removable Tool Rack for Combination Spanners.",
+  "availability": "In Stock",
+  "product_name": "Bahco S910 Socket & Spanner Set of 92 Metric & AF 1/4 & 1/2in Drive",
+  "specifications": [
+    "12 x 1/4in Hex Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm",
+    "10 x 1/4in Hex Deep Sockets: 4, 5, 6, 7, 8, 9, 10, 11, 12 & 13mm",
+    "13 x 1/2in Hex Sockets: 10, 11, 12, 13, 14, 15, 17, 19, 22, 24, 27, 30 & 32mm",
+    "5 x 1/4in Phillips Bits: PH0, PH1, PH2, PH3 & PH4",
+    "3 x 1/4in Slotted Bits: 4, 5.5 & 7mm",
+    "3 x 1/4in Pozidrive Bits: PZ1, PZ2 & PZ3",
+    "6 x 1/4in Hex Bits: 3, 4, 5, 6, 8 & 10mm",
+    "8 x 1/4in Torx Bits: T8, T10, T15, T20, T25, T27, T30 & T40",
+    "3 x 5/16in Torx Bits: T45, T50 & T55",
+    "1 x 1/2in Spark Plug Socket: 21mm (13/16in)",
+    "2 x 1/4in Extension Bars: 50 & 100mm",
+    "2 x 1/2in Extension Bars: 125 & 250mm",
+    "1 x 1/4in Universal Joint, 1 x 1/2in Universal Joint",
+    "1 x 1/4in Bit Holder, 1 x 1/2in Bit Holder",
+    "1 x 1/4in Bit Adaptor, 1 x 1/4in Magnetic Bit Adaptor",
+    "1 x 1/4in Sliding T-Bar, 1 x 1/4in Spinner Handle",
+    "1 x 1/2in T Adaptor",
+    "1 x 1/4in Reversible Ratchet",
+    "1 x 1/2in Reversible Ratchet",
+    "3 x Hex Keys: 1.5, 2 & 2.5mm",
+    "4 x Flex Head Wrenches: 8x9, 10x11, 12x13 & 14x15mm",
+    "6 x Combination Wrenches 8, 10, 12, 13, 14 & 17mm",
+    "1 x Impact & Oil Resistant Case",
+    "1 x Removable Tool Rack for Combination Spanners"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s95-14in-and-12in-drive-socket-and-mech-set-of-95-metric.html|>
+## Bahco S95 1/4in & 1/2in Drive Socket & Mech Set of 95 Metric
+
+{
+  "price": "€437.55 inc VAT (€355.73 exc.vat)",
+  "description": "The Bahco S95 1/4in & 1/2in Drive Socket Set contains a selection of sockets made from high-performance alloy steel with a matt finish. The Dynamic Drive™ profile protects the sockets from wear and damage. Supplied in an oil and temperature resistant polypropylene case with three sections. Contains: 12 x 1/4in Hex Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12, 13mm 1 x 1/4in Sliding T-Bar 1 x 1/4in Universal Joint 1 x 1/4in Spinner with 2-Component Handle 2 x Extension Bars: 50mm, 100mm 1 x 1/4in Quick-Release Ratchet 17 x 1/2in Hex Sockets: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 27, 30, 32mm 2 x 1/2in Spark Plug Sockets: 16mm (5/8in), 21mm (13/16in) 1 x 1/2in T-Adaptor 1 x 1/2in Universal Joint 2 x Extension Bars: 100mm, 250mm 1 x 1/2in Quick-Release Ratchet 1 x 31 Piece 59/S31 Bit Set containing: 3 x 25mm Slotted Bits: 3, 4.5, 5.5mm 5 x 25mm Phillips Bits: PH1, PH2(3), PH3 2 x 25mm Grabber Phillips Bits: PH2G(2) 5 x 25mm Pozi Bits: PZ1, PZ2(3), PZ3 11 x 25mm TORX Bits: TX10, TX15(3), TX20(3), TX25(2), TX27, TX30 4 x 25mm Hex Bits: 3, 4, 5, 6mm 1 x 25mm Magnetic Bit Holder 1 x 9 Piece BE-9770 Hexagon Key Set: 1.5, 2, 2.5, 3, 4, 5, 6, 8, 10mm 1 x 13 Piece Combination Spanner Set on a practical removable tool-rack: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19mm",
+  "availability": "In Stock",
+  "product_name": "Bahco S95 1/4in & 1/2in Drive Socket & Mech Set of 95 Metric",
+  "specifications": [
+    "12 x 1/4in Hex Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12, 13mm",
+    "1 x 1/4in Sliding T-Bar",
+    "1 x 1/4in Universal Joint",
+    "1 x 1/4in Spinner with 2-Component Handle",
+    "2 x Extension Bars: 50mm, 100mm",
+    "1 x 1/4in Quick-Release Ratchet",
+    "17 x 1/2in Hex Sockets: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 27, 30, 32mm",
+    "2 x 1/2in Spark Plug Sockets: 16mm (5/8in), 21mm (13/16in)",
+    "1 x 1/2in T-Adaptor",
+    "1 x 1/2in Universal Joint",
+    "2 x Extension Bars: 100mm, 250mm",
+    "1 x 1/2in Quick-Release Ratchet",
+    "1 x 31 Piece 59/S31 Bit Set containing: 3 x 25mm Slotted Bits: 3, 4.5, 5.5mm, 5 x 25mm Phillips Bits: PH1, PH2(3), PH3, 2 x 25mm Grabber Phillips Bits: PH2G(2), 5 x 25mm Pozi Bits: PZ1, PZ2(3), PZ3, 11 x 25mm TORX Bits: TX10, TX15(3), TX20(3), TX25(2), TX27, TX30, 4 x 25mm Hex Bits: 3, 4, 5, 6mm, 1 x 25mm Magnetic Bit Holder, 1 x 9 Piece BE-9770 Hexagon Key Set: 1.5, 2, 2.5, 3, 4, 5, 6, 8, 10mm, 1 x 13 Piece Combination Spanner Set on a practical removable tool-rack: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s9hex-12in-drive-socket-set-of-9-metric.html|>
+## Bahco S9HEX 1/2in Drive Socket Set of 9 Metric
+
+{
+  "price": "€67.69 inc VAT (€55.03 exc.vat)",
+  "description": "The Bahco S9HEX 1/2in Drive Socket Set contains a selection of sockets made from high-performance alloy steel with a matt finish. The Dynamic Drive™ profile protects the sockets from wear and damage. Supplied in an oil and temperature resistant polypropylene case. Contains: 9 x 1/2in Hex Sockets: 4, 5, 6, 7, 8, 10, 12, 14, 17mm",
+  "availability": "In Stock",
+  "product_name": "Bahco S9HEX 1/2in Drive Socket Set of 9 Metric",
+  "specifications": [
+    "9 x 1/2in Hex Sockets: 4, 5, 6, 7, 8, 10, 12, 14, 17mm",
+    "Made from high-performance alloy steel",
+    "Dynamic Drive™ profile to protect from wear and damage",
+    "Supplied in an oil and temperature resistant polypropylene case"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-s9torx-12in-drive-socket-set-of-9-metric.html|>
+## Bahco S9TORX 1/2in Drive Socket Set of 9 Metric
+
+{
+  "price": "€73.86 inc VAT (€60.05 exc.vat)",
+  "description": "The Bahco S9TORX 1/2in Drive Socket Set contains a selection of sockets made from high-performance alloy steel with a matt finish. The Dynamic Drive™ profile protects the sockets from wear and damage. Supplied in an oil and temperature resistant polypropylene case. Contains: 9 x 1/2in TORX Sockets: TX20, TX25, TX27, TX30, TX40, TX45, TX50, TX55, TX60",
+  "availability": "In Stock",
+  "product_name": "Bahco S9TORX 1/2in Drive Socket Set of 9 Metric",
+  "specifications": [
+    "9 x 1/2in TORX Sockets: TX20, TX25, TX27, TX30, TX40, TX45, TX50, TX55, TX60",
+    "Made from high-performance alloy steel",
+    "Dynamic Drive™ profile to protect sockets from wear and damage",
+    "Supplied in an oil and temperature resistant polypropylene case"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sb-2449-curved-blade-wrecking-knife.html|>
+## Bahco SB-2449 Curved Blade Wrecking Knife
+
+{
+  "price": "€32.94 inc VAT (€26.78 exc.vat)",
+  "description": "Bahco SB-2449 Curved Blade Wrecking Knife has a handle which is made from impact resistant PPE and a blade hardened to 58-61 Hrc for a long lasting edge. The curved knuckle protector works as a lever, whilst the back edge of the blade and handle can be struck with a hammer to make working faster. It has a 4mm thick curved blade that can be used like a heavy-duty carpenters knife. Ideal for rough woodwork, making mortice joints in doors and splitting wood in building and construction, carpentry etc.",
+  "availability": "In Stock",
+  "product_name": "Bahco SB-2449 Curved Blade Wrecking Knife",
+  "specifications": [
+    "Blade Type: Curved",
+    "Blade Length: 100mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sb-3732-nail-punches.html|>
+## Bahco SB-3732 Nail Punches
+
+{
+  "price": "€6.16 inc VAT",
+  "description": "SB-3732 series nail punches are manufactured with a plastic handle and fully polished steel surface with a brilliant chrome finish.",
+  "availability": "In Stock",
+  "product_name": "Bahco SB-3732 Nail Punches",
+  "specifications": [
+    "Available sizes: 2.0mm (5/64in), 2.5mm (3/32in), 3.2mm (1/8in), 4.0mm (5/32in)",
+    "Manufactured with a plastic handle",
+    "Fully polished steel surface",
+    "Brilliant chrome finish"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sb-3734n-parallel-pin-punches.html|>
+## Bahco SB-3734N Parallel Pin Punches
+
+{
+  "price": "from €8.36 inc VAT",
+  "description": "SB-373N series parallel pin punches made from vanadium extra steel with a hexagonal shank. Fully polished steel surfaces and a brilliant chrome finish.",
+  "availability": "In Stock",
+  "product_name": "Bahco SB-3734N Parallel Pin Punches",
+  "specifications": [
+    "Available sizes: 2mm (5/64in), 3mm (1/8in), 4mm (5/32in), 5mm (3/16in), 6mm (1/4in), 7mm (9/32in), 8mm (5/16in)",
+    "Made from vanadium extra steel",
+    "Hexagonal shank",
+    "Fully polished steel surfaces",
+    "Brilliant chrome finish"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sb-3735n-centre-punches.html|>
+## Bahco SB-3735N Centre Punches
+
+{
+  "price": "from €7.63 inc VAT",
+  "description": "SB-3753N series centre punches made from vanadium steel with a hexagonal shank. Fully polished steel surfaces and a brilliant chrome finish.",
+  "availability": "In Stock",
+  "product_name": "Bahco SB-3735N Centre Punches",
+  "specifications": [
+    "Available sizes: 2mm, 4mm, 5mm, 6mm, 8mm",
+    "Material: Vanadium steel",
+    "Hexagonal shank",
+    "Fully polished steel surfaces",
+    "Chrome finish"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sb6m12-13-double-open-ended-spanner-12-x-13mm.html|>
+## Bahco SB6M12-13 Double Open Ended Spanner 12 x 13mm
+
+{
+  "price": "€12.35 inc VAT (€10.04 exc.vat)",
+  "description": "SB6M12-13 Double Open Ended Spanner 12 x 13mm",
+  "availability": "Out of Stock",
+  "product_name": "Bahco SB6M12-13 Double Open Ended Spanner 12 x 13mm",
+  "specifications": [
+    "Double Open Ended Spanner",
+    "Size: 12 x 13mm",
+    "Manufacturer: Bahco"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sb7800sm-series-hexagon-metric-socket-1.html|>
+## Bahco SB7800SM Series Hexagon Metric Socket
+
+{
+  "price": "€7.15 inc VAT",
+  "description": "The Bahco SB7800SM Series Hex Sockets featuring a dynamic drive profile for higher efficiency and optimum grip. Manufactured from high-performance alloy steel with a highly polished finish. Not suitable for machine operation. 1/2in square drive.",
+  "availability": "In Stock",
+  "product_name": "Bahco SB7800SM Series Hexagon Metric Socket",
+  "specifications": [
+    "Dynamic drive profile for higher efficiency",
+    "Manufactured from high-performance alloy steel",
+    "Highly polished finish",
+    "1/2in square drive",
+    "Not suitable for machine operation"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sb8150-ratchet-handle-12in-drive.html|>
+## Bahco SB8150 Ratchet Handle 1/2in Drive
+
+{
+  "price": "€99.15 inc VAT (€80.61 exc.vat)",
+  "description": "SB8150 Ratchet Handle 1/2in Drive",
+  "availability": "In Stock",
+  "product_name": "Bahco SB8150 Ratchet Handle 1/2in Drive",
+  "specifications": [
+    "1/2in Drive",
+    "Model: BAH815012",
+    "List Price: €128.77",
+    "You save: €29.62"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sb8158-10-swivel-head-breaker-bar-12in-square-drive-x-257mm.html|>
+## Bahco SB8158-10 Swivel Head Breaker Bar 1/2in Square Drive x 257mm
+
+{
+  "price": "€59.36 inc VAT (€48.26 exc.vat)",
+  "description": "The Bahco SB8158-10 Swivel Head Breaker Bar is made from high-performance alloy steel with a matte finish. Overall Length: 257mm (10in). Standards: ISO 3315/1174 and DIN 3122/3123/3120.",
+  "availability": "In Stock",
+  "product_name": "Bahco SB8158-10 Swivel Head Breaker Bar 1/2in Square Drive x 257mm",
+  "specifications": [
+    "Overall Length: 257mm (10in)",
+    "Standards: ISO 3315/1174 and DIN 3122/3123/3120"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-screwdriver-torx.html|>
+## Bahco Screwdriver Torx
+
+{
+  "price": "from €9.36 inc VAT",
+  "description": "The Bahco BAHCOFIT Torx Tip screwdrivers are suitable for Torx head screws. They have 2-component handles with vertical grooves for comfortable grip and maximum force transmission. The screwdrivers' blades are made from high performance alloy steel which is chrome plated and entirely hardened. The black finish tip provides higher accuracy. Each screwdriver has its part number and tip size laser printed for easier identification.",
+  "availability": "In Stock",
+  "product_name": "Bahco Screwdriver Torx",
+  "specifications": [
+    "Available sizes: T10 x 75mm, T15 x 100mm, T20 x 100mm, T25 x 125mm, T30 x 150mm, T40 x 150mm",
+    "2-component handles with vertical grooves",
+    "High performance alloy steel blades",
+    "Chrome plated and entirely hardened",
+    "Black finish tip for higher accuracy",
+    "Part number and tip size laser printed"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-se-15-bowsaws.html|>
+## Bahco SE-15 Bowsaws
+
+{
+  "price": "€14.70 inc VAT",
+  "description": "The Bacho SE-15 Professional Bowsaw for all types of work, especially in building, gardening, farming and forestry applications. It comes complete as a saw with a peg toothed blade, type 51 (The teeth points are high-frequency, heat-induction hardened for long-lasting performance), for cutting dry wood and is powder painted steel tube for excellent rust protection with the knuckle protector offering comfort and safety.",
+  "availability": "In Stock",
+  "product_name": "Bahco SE-15 Bowsaws",
+  "specifications": [
+    "530mm (21in)",
+    "600mm (24in)",
+    "755mm (30in)",
+    "900mm (36in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-se22-prizecut-hardpoint-handsaw-550mm-22in-7tpi.html|>
+## Bahco SE22 PrizeCut Hardpoint Handsaw 550mm (22in) 7tpi
+
+{
+  "price": "€17.86 inc VAT (€14.52 exc.vat)",
+  "description": "The Bahco BAHSE22 PrizeCut Hardpoint Handsaw 550mm (22 inch) is a professional handsaw for cutting all types of wood. Universal toothing with hard point teeth for long lasting sharpness. The handsaw has a screwed one-piece plastic handle with 7 tpi.",
+  "availability": "In Stock",
+  "product_name": "Bahco SE22 PrizeCut Hardpoint Handsaw 550mm (22in) 7tpi",
+  "specifications": [
+    "Length: 550mm (22in)",
+    "Teeth per inch: 7tpi",
+    "Material: Hardpoint",
+    "Handle: Screwed one-piece plastic"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-series-sb111-combination-spanner-metric.html|>
+## Bahco Series SB111 Combination Spanner, Metric
+
+{
+  "price": "€9.80 inc VAT",
+  "description": "Chrome plated, high-performance alloy steel. Large, bi-directional size marking for easy identification. 12-point dynamic drive ring end and open end. Ring end angle 15º for knuckle clearance and better grip. DIN 3113/ISO 691/ISO 7738/ISO 3318/ISO 1711-1.",
+  "availability": "In Stock",
+  "product_name": "Bahco Series SB111 Combination Spanner, Metric",
+  "specifications": [
+    "Chrome plated, high-performance alloy steel",
+    "Large, bi-directional size marking for easy identification",
+    "12-point dynamic drive ring end and open end",
+    "Ring end angle 15º for knuckle clearance and better grip",
+    "DIN 3113/ISO 691/ISO 7738/ISO 3318/ISO 1711-1"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-side-cutting-pliers-2171g-series.html|>
+## Bahco Side Cutting Pliers 2171G Series
+
+{
+  "price": "€32.46 inc VAT",
+  "description": "Bahco Side Cutting Pliers for cutting hard materials such as piano wire, copper wire and plastic insulated wire. They are made form high performance alloy steel and have two-component handles for comfort.",
+  "availability": "In Stock",
+  "product_name": "Bahco Side Cutting Pliers 2171G Series",
+  "specifications": [
+    "140mm",
+    "160mm",
+    "180mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sl25-socket-set-25-piece-14in-drive.html|>
+## Bahco SL25 Socket Set 25 Piece 1/4in Drive
+
+{
+  "price": "from €19.99 inc VAT",
+  "description": "The Bahco SL25 is a handy 1/4 inch drive socket set complete with 12 sockets made from hardened chrome vanadium, a bit set with a dynamic drive profile and a quick release ratchet. Ideal for the home, garage or car this Bahco SL25 socket set will give years of service as it is made from a hard wearing steel material. The set has all the most common sized sockets, so the set is well equipped to tackle any job in or around the home. It is especially suitable for the motor trade. This Bahco SL25 also has a compact sturdy soft-grip handle with a thumb slide direction lever, a 1/4in 100mm extension bar for hard to reach places, 6 piece Torx bit set for security type bolts, 2 x PH2 standard screwdriver bits and 2 x Hex drive bits. The Bahco SL25 is supplied in a sturdy high density polythene carry case with sponged lining that is labelled with the corresponding items for quick and easy identification.",
+  "availability": "In Stock",
+  "product_name": "Bahco SL25 Socket Set 25 Piece 1/4in Drive",
+  "specifications": [
+    "1 x 1/4in Reversible Quick Release Ratchet",
+    "12 x Hex Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12 & 13mm",
+    "2 x Phillips Bits: PH2",
+    "2 x Hex Bits: 5 and 6mm",
+    "6 x Torx Bits: TX10, TX15, TX20, TX25, TX30 & TX40",
+    "1 x 1/4in Bit holder",
+    "1 x 100mm Extension",
+    "1 x High Density Plastic Case"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sl25l-socket-set-of-37-metric-14in-deep-drive.html|>
+## Bahco SL25L Socket Set of 37 Metric 1/4in Deep Drive
+
+{
+  "price": "€82.90 inc VAT (€67.40 exc.vat)",
+  "description": "The Bahco SL25 is a handy 1/4in drive socket set complete with 12 sockets, made from hardened chrome vanadium. Comes with a dynamic drive profile and a quick release ratchet. Ideal for the home, garage or car this Bahco SL25 socket set will give years of service as it is made from a hard wearing steel material. The set has all the most common sized sockets, so the set is well equipped to tackle any job in or around the home. It is especially suitable for the motor trade. The ratchet is fitted with a compact sturdy soft-grip handle with a thumb slide direction lever. It is supplied in a sturdy high density polythene carry case with sponged lining that is labelled with the corresponding items for quick and easy identification.",
+  "availability": "In Stock",
+  "product_name": "Bahco SL25L Socket Set of 37 Metric 1/4in Deep Drive",
+  "specifications": [
+    "12 x 1/4in Square Drive Sockets: 4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 12, and 13mm",
+    "10 x 1/4in Square Drive Deep Sockets: 4, 5, 6, 7, 8, 9, 10, 11, 12, and 13mm",
+    "1 x 1/4in Pozidriv Bits: PZ 2",
+    "2 x 1/4in Phillips Bits: PH 2",
+    "3 x 1/4in Hex Bits: 4, 5 and 6",
+    "6 x TORX Bits: 10, 15, 20, 25, 30 and 40",
+    "1 x 1/4in Bit Holder",
+    "1 x 1/4in 125mm Ratchet with two component handle, and a quick release button",
+    "1 x 1/4in 100mm Wobblers Extension bar"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-slice-tube-cutters.html|>
+## Bahco Slice Tube Cutters
+
+{
+  "price": "from €10.46 inc VAT",
+  "description": "Bahco Pipe Slices are automatic tube cutters that fit directly over the pipe and cuts with a simple twist. They are compact in size, making them ideal for work in confined spaces. With orange painted zinc body.",
+  "availability": "In Stock",
+  "product_name": "Bahco Slice Tube Cutters",
+  "specifications": [
+    "Automatic tube cutters",
+    "Compact size for confined spaces",
+    "Orange painted zinc body"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-sliding-t-handle-12in-drive.html|>
+## Bahco Sliding T-Handle 1/2in Drive
+
+{
+  "price": "€25.15 inc VAT (€20.45 exc.vat)",
+  "description": "SBS86 sliding T-handle with a 1/2in square drive. Length: 300mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Sliding T-Handle 1/2in Drive",
+  "specifications": [
+    "Length: 300mm",
+    "1/2in square drive"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-slim-ergo-insulated-screwdriver-slpz-set-5-piece.html|>
+## Bahco SLIM ERGO™ Insulated Screwdriver SL/PZ Set, 5 Piece
+
+{
+  "price": "€94.32 inc VAT (€76.68 exc.vat)",
+  "description": "Bahco Insulated ERGO™ SLIM Screwdrivers are developed according to the scientific ERGO™ process. Tested for work on live equipment, up to 1,000V. Fitted with a 3-component handle, for maximum user comfort and force transmission. Easy to choose the right tip, with the colour-coded handle and the symbol on the domed end. The slim blade is made from high-performance alloy steel, with a black finish and entirely hardened. Individually inspected and manufactured according to IEC 60900. Contains: 2 x Pozi SLIM ERGO™ Screwdrivers: PZ1 & PZ2, 3 x Slotted SLIM ERGO™ Screwdrivers: 3.0, 4.0 & 5.5mm",
+  "availability": "In Stock",
+  "product_name": "Bahco SLIM ERGO™ Insulated Screwdriver SL/PZ Set, 5 Piece",
+  "specifications": [
+    "Tested for work on live equipment, up to 1,000V",
+    "Fitted with a 3-component handle for maximum user comfort",
+    "Contains 2 x Pozi SLIM ERGO™ Screwdrivers: PZ1 & PZ2",
+    "Contains 3 x Slotted SLIM ERGO™ Screwdrivers: 3.0, 4.0 & 5.5mm",
+    "Manufactured according to IEC 60900"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-slim-taper-saw-files.html|>
+## Bahco Slim Taper Saw Files
+
+{
+  "price": "from €9.03 inc VAT",
+  "description": "Bahco Slim Taper Saw File, has a triangular shape with edges tapering toward the point. The surfaces and edges single cut. For sharpening all types of saws with fine cross toothing. Available only in second cut. Size: 150mm (6in).",
+  "availability": "In Stock",
+  "product_name": "Bahco Slim Taper Saw Files",
+  "specifications": [
+    "Size: 150mm (6in)",
+    "Triangular shape with edges tapering toward the point",
+    "Single cut surfaces and edges",
+    "For sharpening all types of saws with fine cross toothing"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-slx17-socket-set-of-17-metric-34in-drive.html|>
+## Bahco SLX17 Socket Set of 17 Metric 3/4in Drive
+
+{
+  "price": "€486.76 inc VAT (€395.74 exc.vat)",
+  "description": "The Bahco 3/4in Drive 17 piece metric socket set consisting of: 12 x 3/4in Hex Sockets: 22, 24, 30, 32, 33, 34, 36, 38, 41, 46 & 50mm. 2 x 3/4in Extension Bars: 200 & 400mm. 1 x 3/4in Reversible Ratchet Head. 1 x 3/4in Ratchet Handle 500mm (20in). 1 x 3/4in to 1/2in Adaptor. 1 x Impact & Oil Resistant Case.",
+  "availability": "In Stock",
+  "product_name": "Bahco SLX17 Socket Set of 17 Metric 3/4in Drive",
+  "specifications": [
+    "12 x 3/4in Hex Sockets: 22, 24, 30, 32, 33, 34, 36, 38, 41, 46 & 50mm",
+    "2 x 3/4in Extension Bars: 200 & 400mm",
+    "1 x 3/4in Reversible Ratchet Head",
+    "1 x 3/4in Ratchet Handle 500mm (20in)",
+    "1 x 3/4in to 1/2in Adaptor",
+    "1 x Impact & Oil Resistant Case"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-snipe-nose-pliers-2470g.html|>
+## Bahco Snipe Nose Pliers 2470G
+
+{
+  "price": "€31.46 inc VAT",
+  "description": "Bahco Parallel Snipe Nose Pliers with slim semi-circular shaped jaws and serrated contact surfaces. The cutting edge is suitable for severing soft material such as copper and plastic insulated wire.",
+  "availability": "In Stock",
+  "product_name": "Bahco Snipe Nose Pliers 2470G",
+  "specifications": [
+    "160mm",
+    "200mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-spare-jaws-only.html|>
+## Bahco Spare Jaws Only
+
+{
+  "price": "from €8.51 inc VAT",
+  "description": "Bahco spare jaw suitable for the series 80 and 90 adjustable wrenches. Left-hand screw. Finish: Phosphated.",
+  "availability": "In Stock",
+  "product_name": "Bahco Spare Jaws Only",
+  "specifications": [
+    "Suitable for series 80 and 90 adjustable wrenches",
+    "Left-hand screw",
+    "Finish: Phosphated"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-spare-knurl-and-pin-only.html|>
+## Bahco Spare Knurl & Pin Only
+
+{
+  "price": "from €5.07 inc VAT",
+  "description": "Bahco spare part kits for the adjustable wrench 80 and 90 Series, this set contains roll, pin and a spring. They are left-hand screw. Finish: Phosphated.",
+  "availability": "In Stock",
+  "product_name": "Bahco Spare Knurl & Pin Only",
+  "specifications": [
+    "Adjustable wrench spare part kit",
+    "Contains roll, pin, and spring",
+    "Left-hand screw",
+    "Finish: Phosphated"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-square-bastard-files-un-handled.html|>
+## Bahco Square Bastard Files Un-Handled
+
+{
+  "price": "from €9.48 inc VAT",
+  "description": "Double cut teeth for filing slots, keyways, grooves, rectangular holes, internal corners and for fine-adjustment of cutting tools. Slightly tapered towards tip for surface filing. Smooth Cut: Approx 62 teeth per 25mm (Fine). Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Square Bastard Files Un-Handled",
+  "specifications": [
+    "Select Option: 100mm (4in), 150mm (6in), 200mm (8in), 250mm (10in), 300mm (12in)",
+    "Smooth Cut: Approx 62 teeth per 25mm (Fine)",
+    "Second Cut: Approx 36 teeth per 25mm (Medium)",
+    "Bastard Cut: Approx 26 teeth per 25mm (Coarse)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-square-files-handled.html|>
+## Bahco Square Files Handled
+
+{
+  "price": "€16.84 inc VAT",
+  "description": "Handled square files with double cut teeth for filing slots, keyways, grooves, rectangular holes, internal corners and for fine-adjustment of cutting tools. The bi-material handle gives comfort and control during use. It also incorporates a handy hanging slot. Slightly tapered towards tip for surface filing.",
+  "availability": "In Stock",
+  "product_name": "Bahco Square Files Handled",
+  "specifications": [
+    "Select Option: 150mm (6in), 200mm (8in), Smooth Cut, 250mm (10in)",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-square-needle-file-cut-2-smooth-2-303-16-2-0-160mm.html|>
+## Bahco Square Needle File Cut 2 Smooth 2-303-16-2-0 160mm
+
+{
+  "price": "€14.91 inc VAT (€12.12 exc.vat)",
+  "description": "Bahco 2-303-16-2-0 square needle cut files with surfaces parallel, edges taper to a point. For fine filing and polishing jobs. Used by engravers, precision engineers, instrument makers, watchmakers and goldsmiths. Surfaces double cut. Size: 16cm. Cut: 2 (smooth) Type: square needle.",
+  "availability": "In Stock",
+  "product_name": "Bahco Square Needle File Cut 2 Smooth 2-303-16-2-0 160mm",
+  "specifications": [
+    "Size: 16cm",
+    "Cut: 2 (smooth)",
+    "Type: square needle",
+    "Surfaces double cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-square-second-cut-files-un-handled.html|>
+## Bahco Square Second Cut Files Un-Handled
+
+{
+  "price": "€10.27 inc VAT",
+  "description": "Double cut teeth for filing slots, keyways, grooves, rectangular holes, internal corners and for fine-adjustment of cutting tools. Slightly tapered towards tip for surface filing.",
+  "availability": "In Stock",
+  "product_name": "Bahco Square Second Cut Files Un-Handled",
+  "specifications": [
+    "Select Option: 100mm (4in), 150mm (6in), 200mm (8in), 250mm (10in)",
+    "Double cut teeth for filing slots, keyways, grooves, rectangular holes, internal corners",
+    "Slightly tapered towards tip for surface filing"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-square-smooth-files-un-handled.html|>
+## Bahco Square Smooth Files Un-Handled
+
+{
+  "price": "€10.61 inc VAT",
+  "description": "Double cut teeth for filing slots, keyways, grooves, rectangular holes, internal corners and for fine-adjustment of cutting tools. Slightly tapered towards tip for surface filing.",
+  "availability": "In Stock",
+  "product_name": "Bahco Square Smooth Files Un-Handled",
+  "specifications": [
+    "Select Option: 150mm (6in), 250mm (10in)",
+    "Double cut teeth for filing slots, keyways, grooves, rectangular holes, internal corners",
+    "Slightly tapered towards tip for surface filing"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-switch-cabinet-multi-fitting-5-way-master-key.html|>
+## Bahco Switch Cabinet Multi-Fitting 5-Way Master Key
+
+{
+  "price": "€40.76 inc VAT (€33.14 exc.vat)",
+  "description": "The Bahco Switch Cabinet Multi-fitting Master Key is suitable for all usual technical shut-off systems. This one wrench can be used for 5 different applications. The Master Key has 4 different keys, which are fitted on a double turning mechanism, allowing good positioning. In addition, the body houses a magnetic 5mm square and 1/4 inch bit holder, and a magnetic pocket for 1/4 inch bits in 7-8 mm square profile. The Master Key has a plastic body which has been varnished. The key profiles are zinc die-cast.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Switch Cabinet Multi-Fitting 5-Way Master Key",
+  "specifications": [
+    "5-in-1 Switch Cabinet Master Key",
+    "BAHMK5 : €40.76",
+    "4 different keys",
+    "Double turning mechanism",
+    "Magnetic 5mm square and 1/4 inch bit holder",
+    "Plastic body, varnished",
+    "Zinc die-cast key profiles"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-switch-cabinet-multi-fitting-9-way-master-key.html|>
+## Bahco Switch Cabinet Multi-Fitting 9-Way Master Key
+
+{
+  "price": "€62.16 inc VAT (€50.54 exc.vat)",
+  "description": "The Bahco Switch Cabinet Multi-Fitting Master Key is suitable for all usual technical shut-off systems. This wrench covers 9 different applications. The Master Key has 8 different keys fitted on a double turning mechanism to allow good positioning. The body houses a 5mm square key suitable for aerating radiator valves and a 1/4 inch magnetic bit holder. The functions include: 4 x Square locking keys: 5mm, 6mm, 7-8mm and 9-10 mm. 3 x Triangular locking keys: 7mm, 8-9mm and 10-11mm. 1 x Two-way key: 3-5mm. 1 x Half-moon locking key: 6mm. The keys are zinc die-casted, and the master key has a securing chain with a snap-hook.",
+  "availability": "In Stock",
+  "product_name": "Bahco Switch Cabinet Multi-Fitting 9-Way Master Key",
+  "specifications": [
+    "9-in-1 Switch Cabinet Master Key",
+    "BAHMK9 : €62.16",
+    "8 different keys fitted on a double turning mechanism",
+    "5mm square key for aerating radiator valves",
+    "1/4 inch magnetic bit holder",
+    "4 x Square locking keys: 5mm, 6mm, 7-8mm and 9-10 mm",
+    "3 x Triangular locking keys: 7mm, 8-9mm and 10-11mm",
+    "1 x Two-way key: 3-5mm",
+    "1 x Half-moon locking key: 6mm",
+    "Keys are zinc die-casted",
+    "Master key has a securing chain with a snap-hook"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-swivel-head-ratchet-12in-drive.html|>
+## Bahco Swivel Head Ratchet 1/2in Drive
+
+{
+  "price": "€83.87 inc VAT (€68.19 exc.vat)",
+  "description": "The Bahco 8120-1/2 Swivel Head Ratchet has a 1/2in drive and 72 teeth that provide a 5° action angle. Its head swivels 270°, allowing it to reach difficult areas. In addition, the direction switch on the head is accessible from almost any angle. The ratchet is made from high-performance steel and has a micro matt finish. It has a quick-release function that allows easy socket change. Conforms to hardness and torque requirements, according to ISO 3315:2011.",
+  "availability": "In Stock",
+  "product_name": "Bahco Swivel Head Ratchet 1/2in Drive",
+  "specifications": [
+    "1/2in drive",
+    "72 teeth",
+    "5° action angle",
+    "Head swivels 270°",
+    "Quick-release function",
+    "Made from high-performance steel",
+    "Micro matt finish",
+    "Conforms to ISO 3315:2011"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-swivel-head-ratchet-14in-drive.html|>
+## Bahco Swivel Head Ratchet 1/4in Drive
+
+{
+  "price": "€54.40 inc VAT (€44.23 exc.vat)",
+  "description": "The Bahco 8120-1/4 Swivel Head Ratchet has a 1/4in drive and 72 teeth that provide a 5° action angle. Its head swivels 270°, allowing it to reach difficult areas. In addition, the direction switch on the head is accessible from almost any angle. The ratchet is made from high-performance steel and has a micro matt finish. It has a quick-release function that allows easy socket change. Conforms to hardness and torque requirements, according to ISO 3315:2011.",
+  "availability": "In Stock",
+  "product_name": "Bahco Swivel Head Ratchet 1/4in Drive",
+  "specifications": [
+    "1/4in drive",
+    "72 teeth",
+    "5° action angle",
+    "Head swivels 270°",
+    "Quick-release function",
+    "Made from high-performance steel",
+    "Micro matt finish",
+    "Conforms to ISO 3315:2011"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-swivel-head-ratchet-38in-drive.html|>
+## Bahco Swivel Head Ratchet 3/8in Drive
+
+{
+  "price": "€66.25 inc VAT (€53.86 exc.vat)",
+  "description": "The Bahco 8120-3/8 Swivel Head Ratchet has a 3/8in drive and 72 teeth that provide a 5° action angle. Its head swivels 270°, allowing it to reach difficult areas. In addition, the direction switch on the head is accessible from almost any angle. The ratchet is made from high-performance steel and has a micro matt finish. It has a quick-release function that allows easy socket change. Conforms to hardness and torque requirements, according to ISO 3315:2011.",
+  "availability": "In Stock",
+  "product_name": "Bahco Swivel Head Ratchet 3/8in Drive",
+  "specifications": [
+    "3/8in drive",
+    "72 teeth",
+    "5° action angle",
+    "Head swivels 270°",
+    "Quick-release function",
+    "Made from high-performance steel",
+    "Micro matt finish",
+    "Conforms to ISO 3315:2011"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-taper-saw-file-4-183-06-2-0-150mm-6in.html|>
+## Bahco Taper Saw File 4-183-06-2-0 150mm (6in)
+
+{
+  "price": "€10.65 inc VAT (€8.66 exc.vat)",
+  "description": "Bahco Taper Saw File has a triangular shape, with edges tapering towards the point. The surfaces and edges are single cut. For sharpening saws with cross toothing at a 60° angle. It is also tanged. Available only in second cut. Size 150mm (6in). Side: 15/32in.",
+  "availability": "In Stock",
+  "product_name": "Bahco Taper Saw File 4-183-06-2-0 150mm (6in)",
+  "specifications": [
+    "Triangular shape",
+    "Single cut surfaces and edges",
+    "For sharpening saws with cross toothing at a 60° angle",
+    "Size: 150mm (6in)",
+    "Side: 15/32in"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-tekno-flared-through-shank-slotted-screwdrivers.html|>
+## Bahco Tekno+ Flared Through Shank Slotted Screwdrivers
+
+{
+  "price": "from €29.63 inc VAT",
+  "description": "Series 038 flared and slotted through shank screwdriver with the following features: The striking metal cap at the top of the handle gives ultimate protection during jobs requiring high impact and added force. The trough shank continues through the handle before contacting to a striking metal cap for ultimate strength. The double shaped handle for use with both hands (in large sizes and in proportion to the dimensions of the shank), its large surface allows optimum comfortable grip and maximum torque and the hole in the handle allows the insertion of a T bar for added force transmission and for hanging up the tool after use. The molybdenum-Vanadium shank combines great hardness and toughness and the black tip for added protection is precisely machined. Colour coded for quick identification of tip type: Yellow: Slotted. Red: Phillips. Blue: Pozidriv. Green: Torx. Purple: Hexagon (Nutdriver).",
+  "availability": "In Stock",
+  "product_name": "Bahco Tekno+ Flared Through Shank Slotted Screwdrivers",
+  "specifications": [
+    "6.5mm x 125mm option available",
+    "Molybdenum-Vanadium shank",
+    "Double shaped handle for use with both hands",
+    "Colour coded for quick identification of tip type"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-tekno-pozi-through-shank-screwdrivers.html|>
+## Bahco Tekno+ Pozi Through Shank Screwdrivers
+
+{
+  "price": "from €29.63 inc VAT",
+  "description": "The Bahco Screwdriver for Pozidriv head screws. The double shape handle allows for optimum grip and maximum torque power. Permanent colour codes at both ends of the handle, for a quick identification of the tip. The blade tip is made from high performance alloy steel. Chrome plated and entirely hardened. Black finish tip for higher accuracy. The size and part number are laser branded on the blade for easier identification. The Hexagon profile blade and bolster allow the use of a wrench for jobs that require more torque. The blade continues through the handle with no loss of hammer blow energy. Metallic cap gives protection during jobs requiring high impact. Conforms to ISO 8764. Colour coded for quick identification of tip type: Yellow: Slotted. Red: Phillips. Blue: Pozidriv. Green: Torx. Purple: Hexagon (Nutdriver).",
+  "availability": "In Stock",
+  "product_name": "Bahco Tekno+ Pozi Through Shank Screwdrivers",
+  "specifications": [
+    "Double shape handle for optimum grip",
+    "Permanent colour codes for quick identification",
+    "Blade tip made from high performance alloy steel",
+    "Chrome plated and entirely hardened",
+    "Hexagon profile blade for wrench use",
+    "Conforms to ISO 8764"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-tekno-screwdriver-pozidriv-tip-pz2-x-125mm-hex-shank.html|>
+## Bahco Tekno+ Screwdriver Pozidriv Tip PZ2 x 125mm Hex Shank
+
+{
+  "price": "€20.82 inc VAT (€16.93 exc.vat)",
+  "description": "Bahco Tekno+ Series 025 Pozidriv tip, Hex shank screwdriver for Pozidriv head screws. The hexagon profile blade and bolster allow the use of a wrench for jobs that require more torque. The double shape handle allows an optimum grip and maximum torque power. The hole in the handle allows the insertion of a T-bar for added force transmission and it has permanent colour codes at both ends of the handle, for a quick identification of the tip. The blade is made from a high performance alloy steel, chrome plated and entirely hardened, black finish tip for higher accuracy. Colour coded for quick identification of tip type: Yellow: Slotted. Red: Phillips. Blue: Pozidriv. Green: Torx. Purple: Hexagon (Nutdriver). Pozidriv Tip: PZ2 x 125mm Hex Shank.",
+  "availability": "In Stock",
+  "product_name": "Bahco Tekno+ Screwdriver Pozidriv Tip PZ2 x 125mm Hex Shank",
+  "specifications": [
+    "Pozidriv Tip: PZ2 x 125mm Hex Shank",
+    "High performance alloy steel blade",
+    "Chrome plated and entirely hardened",
+    "Double shape handle for optimum grip",
+    "Permanent colour codes for quick identification"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-telescopic-basin-wrench-10---32mm.html|>
+## Bahco Telescopic Basin Wrench 10 - 32mm
+
+{
+  "price": "€69.81 inc VAT (€56.76 exc.vat)",
+  "description": "Telescopic basin nut wrench with a reversible jaw for accessing nuts on wash basins, bath tubs, sinks or bidets. With 4 adjustment sizes. Length: 280 to 460 mm (telescopic). Capacity: 10 to 32 mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Telescopic Basin Wrench 10 - 32mm",
+  "specifications": [
+    "Length: 280 to 460 mm (telescopic)",
+    "Capacity: 10 to 32 mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-three-pouch-belt.html|>
+## Bahco Three Pouch Belt
+
+{
+  "price": "€129.33 inc VAT (€105.15 exc.vat)",
+  "description": "The Bahco 4750-3PB-1 3 Pouch Belt is made from tough, lightweight nylon. It has rivets for strength and features rust-proof fittings, including a tape clip. Fits waist sizes up to 48 inch.",
+  "availability": "In Stock",
+  "product_name": "Bahco Three Pouch Belt",
+  "specifications": [
+    "Made from tough, lightweight nylon",
+    "Rivets for strength",
+    "Rust-proof fittings",
+    "Fits waist sizes up to 48 inch"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-three-square-needle-files-un-handled.html|>
+## Bahco Three Square Needle Files Un-Handled
+
+{
+  "price": "from €13.57 inc VAT",
+  "description": "Triangular, surfaces taper to a point. Surfaces double cut. For fine filing and polishing jobs.",
+  "availability": "In Stock",
+  "product_name": "Bahco Three Square Needle Files Un-Handled",
+  "specifications": [
+    "140mm Bastard Cut",
+    "140mm Smooth Cut",
+    "160mm Smooth Cut"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-universal-pipe-wrenches.html|>
+## Bahco Universal Pipe Wrenches
+
+{
+  "price": "from €96.36 inc VAT",
+  "description": "The Bahco ERGO™ Pipe Wrench is a multi-purpose pipe wrench, black oxidised and anti-rust treated high-alloyed, hardened special steel with precision induction hardened jaws. Outer handle of hardened sheet metal with ergonomically designed soft, warm-to-the touch, high friction handle with a strong, stable core. Thermoplastic surface on tough polypropylene gives a superior grip. Optimised design with narrower jaws gives perfect accessibility, even in cramped corners. Patented progressive teeth angled aggressively inwards, fine at the inner part of the jaws and larger at the other part gives a better grip on all sizes of pipes.The inner handle with built-in protection against pinching and a safety stop for the adjusting nut. Conforms to DIN 5234 standards.",
+  "availability": "In Stock",
+  "product_name": "Bahco Universal Pipe Wrenches",
+  "specifications": [
+    "Multi-purpose pipe wrench",
+    "Black oxidised and anti-rust treated",
+    "High-alloyed, hardened special steel",
+    "Precision induction hardened jaws",
+    "Ergonomically designed soft handle",
+    "Optimised design with narrower jaws",
+    "Patented progressive teeth",
+    "Conforms to DIN 5234 standards"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-vde-quick-adjust-water-pump-pliers-250mm---44mm-capacity.html|>
+## Bahco VDE Quick-Adjust Water Pump Pliers 250mm - 44mm Capacity
+
+{
+  "price": "€86.63 inc VAT (€70.43 exc.vat)",
+  "description": "The Bahco 7224S VDE Quick-Adjust Water Pump Pliers are fitted with 2-component VDE handles for maximum grip comfort. Suitable for work on live equipment, up to 1,000V. Made from high-performance, alloy steel with a phosphate finish, anti-corrosion treated. The narrow head provides great accessibility in confined spaces. With hardened teeth (60 HRC to 62 HRC) and a self-adjusting patented lateral lever; flat and round grip shape with auto-tightening device. Up to 35% bigger mouth opening compared to market standard. Conform to ISO 8976 and IEC 60900 standards.",
+  "availability": "In Stock",
+  "product_name": "Bahco VDE Quick-Adjust Water Pump Pliers 250mm - 44mm Capacity",
+  "specifications": [
+    "Capacity: 44mm",
+    "Overall Length: 250mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-warding-bastard-cut-files-un-handled.html|>
+## Bahco Warding Bastard Cut Files Un-Handled
+
+{
+  "price": "from €9.04 inc VAT",
+  "description": "Bahco Warding Cut File is a small rectangular slender file with edges tapered to a point. Both faces are double cut for locksmithing and other precision work. Smooth Cut: Approx 62 teeth per 25mm (Fine). Second Cut: Approx 36 teeth per 25mm (Medium). Bastard Cut: Approx 26 teeth per 25mm (Coarse).",
+  "availability": "In Stock",
+  "product_name": "Bahco Warding Bastard Cut Files Un-Handled",
+  "specifications": [
+    "100mm (4in)",
+    "150mm (6in)",
+    "200mm (8in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-warding-second-cut-files-un-handled.html|>
+## Bahco Warding Second Cut Files Un-Handled
+
+{
+  "price": "€9.58 inc VAT",
+  "description": "A small rectangular slender file with edges tapered to a point. Both faces double cut for locksmithing and other precision work.",
+  "availability": "In Stock",
+  "product_name": "Bahco Warding Second Cut Files Un-Handled",
+  "specifications": [
+    "Available sizes: 100mm (4in), 150mm (6in), 200mm (8in)",
+    "Double cut for precision work"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-warding-smooth-cut-files-un-handled.html|>
+## Bahco Warding Smooth Cut Files Un-Handled
+
+{
+  "price": "€9.94 inc VAT",
+  "description": "A small rectangular slender file with edges tapered to a point. Both faces double cut for locksmithing and other precision work.",
+  "availability": "In Stock",
+  "product_name": "Bahco Warding Smooth Cut Files Un-Handled",
+  "specifications": [
+    "100mm (4in) option available"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-wide-jaw-adjustable-wrench-with-hook-2545mm.html|>
+## Bahco Wide Jaw Adjustable Wrench with Hook 254.5mm
+
+{
+  "price": "€87.15 inc VAT (€70.85 exc.vat)",
+  "description": "The Bahco Wide Jaw Adjustable Wrench combines 2 tools into 1 convenient everyday tool which can be used wherever valves are adjusted for flow and pressure. Made from high-performance alloy steel, forged in single piece. With a phosphate finish, precision-hardened and anti-corrosion treated. The extra wide jaw features a laser scale in mm for pre-adjusting and accurate measurement. Its slim design and short handle increase accessibility, ideal when working in confined spaces. There is also a tether hole added to secure the tool when working at height and a left-going screw. Conforms to ISO 6787, DIN 3117, ASME B107.8-2003 and BS 6333 standards. Specifications: Overall Length: 254.5mm. Jaw Capacity: 46mm. Hook Opening: 22.3mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Wide Jaw Adjustable Wrench with Hook 254.5mm",
+  "specifications": [
+    "Overall Length: 254.5mm",
+    "Jaw Capacity: 46mm",
+    "Hook Opening: 22.3mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-xmas-9031-ergo-extra-wide-jaw-adjustable-wrench-218mm.html|>
+## Bahco XMAS 9031 ERGO™ Extra Wide Jaw Adjustable Wrench 218mm
+
+{
+  "price": "€40.43 inc VAT (€32.87 exc.vat)",
+  "description": "1 x Bahco XMAS 9031 ERGO™ Extra Wide Jaw Adjustable Wrench 218mm. The Bahco 90 Series (20 & 30) Black Phosphated ERGO™ Adjustable Wrenches have a 40% wider opening compared to a standard adjustable wrench of equivalent size. The head combines slimness for accessibility with strength for performance, this combined with a convenient length of the handle and low weight makes it perfect for plumbers and other tradesmen who carry their tools with them. The jaws are angled at 15° to provide maximum access in confined spaces. Precision-hardened and anti-corrosion treated. With comfortable slip free, warm thermoplastic handle. Left-reading, measurement scale in mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco XMAS 9031 ERGO™ Extra Wide Jaw Adjustable Wrench 218mm",
+  "specifications": [
+    "Length: 218mm",
+    "Jaw Width: 38mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-xmas-9897g3-xe-plier-set-3-piece.html|>
+## Bahco XMAS 9897G/3-XE Plier Set, 3 Piece
+
+{
+  "price": "€131.82 inc VAT (€107.17 exc.vat)",
+  "description": "The Bahco XMAS 9897G/3-XE Plier Set contains the following: 1 x 2628G ERGO™ Combination Pliers 180mm (7in). 1 x 2101G ERGO™ Side Cutting Pliers Spring In Handle 160mm (6.1/4in). 1 x 2430G ERGO™ Long Nose Pliers 160mm (6.1/4in). All pliers are fitted with two-component ERGO™ handles: soft thermoplastic surface on tough polypropylene base provides superior grip. Developed according to the scientific ERGO™ process.",
+  "availability": "In Stock",
+  "product_name": "Bahco XMAS 9897G/3-XE Plier Set, 3 Piece",
+  "specifications": [
+    "1 x 2628G ERGO™ Combination Pliers 180mm (7in)",
+    "1 x 2101G ERGO™ Side Cutting Pliers Spring In Handle 160mm (6.1/4in)",
+    "1 x 2430G ERGO™ Long Nose Pliers 160mm (6.1/4in)",
+    "Two-component ERGO™ handles for superior grip"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-xmas-be-9881sl-ergo-slim-vde-insulated-screwdriver-set-5-piece.html|>
+## Bahco XMAS BE-9881SL ERGO™ Slim VDE Insulated Screwdriver Set, 5 Piece
+
+{
+  "price": "€43.92 inc VAT (€35.71 exc.vat)",
+  "description": "1 x Bahco XMAS BE-9881SL ERGO™ Slim VDE Insulated Screwdriver Set, 5 Piece. Bahco ERGO™ VDE Insulated Screwdrivers are suitable for work on live equipment, up to 1,000 volts, high quality blade insulation moulded directly onto the blade. The high-performance alloy steel blade has been chrome plated and entirely hardened for high protection against corrosion, long life tool. A black oxide tip provides higher accuracy. Developed according to the scientific ERGO™ process. A three-component handle provides maximum user comfort. The soft material with ridged surface provides superior grip and greater force transmission. A flat face prevents the screwdriver from rolling away. It's easy to choose the right tip, thanks to the colour-coded handle* and permanent symbol on the domed end. Each screwdriver is individually inspected and manufactured according to IEC 60900, tested in a water bath at 10,000V. This set of 5 contains: 3 x Slotted Slim Screwdrivers: 3 x 100mm, 4 x 100mm, 5.5 x 125mm 2 x Phillips Slim Screwdrivers: PH1 x 80mm, PH2 x 100mm",
+  "availability": "In Stock",
+  "product_name": "Bahco XMAS BE-9881SL ERGO™ Slim VDE Insulated Screwdriver Set, 5 Piece",
+  "specifications": [
+    "3 x Slotted Slim Screwdrivers: 3 x 100mm, 4 x 100mm, 5.5 x 125mm",
+    "2 x Phillips Slim Screwdrivers: PH1 x 80mm, PH2 x 100mm"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bahco-xmas-be-9882sl-ergo-slim-vde-insulated-screwdriver-set-5-piece.html|>
+## Bahco XMAS BE-9882SL ERGO™ Slim VDE Insulated Screwdriver Set, 5 Piece
+
+{
+  "price": "€43.92 inc VAT (€35.71 exc.vat)",
+  "description": "1 x Bahco XMAS BE-9882SL ERGO™ Slim VDE Insulated Screwdriver Set, 5 Piece. Bahco ERGO™ Slim VDE Insulated Screwdrivers are suitable for work on live equipment, up to 1,000 Volts, high quality blade insulation moulded directly onto the blade. The high-performance alloy steel blade has been chrome plated and entirely hardened for high protection against corrosion, long life tool. A black oxide tip provides higher accuracy. Developed according to the scientific ERGO™ process. A three-component handle provides maximum user comfort. The soft material with ridged surface provides superior grip and greater force transmission. A flat face prevents the screwdriver from rolling away. Blades are 30% slimmer than regular insulated blades for better accessibility. It's easy to choose the right tip, thanks to the colour-coded* handle and permanent symbol on the domed end. Each screwdriver is individually inspected and manufactured according to IEC 60900, tested in a water bath at 10,000V. This set of 5 contains: 2 x Pozi Slim Screwdrivers: PZ1 x 80mm and PZ2 x 100mm, 3 x Slotted Slim Screwdrivers: 3.0 x 75mm, 4.0 x 100mm and 5.5 x 125mm.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco XMAS BE-9882SL ERGO™ Slim VDE Insulated Screwdriver Set, 5 Piece",
+  "specifications": [
+    "Suitable for work on live equipment up to 1,000 Volts",
+    "High-quality blade insulation moulded directly onto the blade",
+    "Chrome plated and entirely hardened alloy steel blade",
+    "Black oxide tip for higher accuracy",
+    "Three-component handle for maximum user comfort",
+    "Blades are 30% slimmer than regular insulated blades",
+    "Individually inspected and manufactured according to IEC 60900"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bailey-lockfast-brushes.html|>
+## Bailey Lockfast Brushes
+
+{
+  "price": "from €16.05 inc VAT",
+  "description": "The Bailey's Lockfast drain, chimney and flue brush, has a plastic stock and polypropylene bristles. For brick chimneys and coal burning applications, and drain cleaning purposes.",
+  "availability": "In Stock",
+  "product_name": "Bailey Lockfast Brushes",
+  "specifications": [
+    "Available sizes: 200mm (8in), 250mm (10in), 300mm (12in), 350mm (14in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bailey-universal-brush.html|>
+## Bailey Universal Brush
+
+{
+  "price": "from €13.69 inc VAT",
+  "description": "The Bailey's Universal drain, chimney and flue cleaning brush has a plastic stock and polypropylene bristles. For brick chimneys and coal burning applications, and drain cleaning purposes.",
+  "availability": "In Stock",
+  "product_name": "Bailey Universal Brush",
+  "specifications": [
+    "Available sizes: 200mm (8in), 225mm (9in), 250mm (10in)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/bailey-universal-drop-scrapers.html|>
+## Bailey Universal Drop Scrapers
+
+{
+  "price": "from €5.99 inc VAT",
+  "description": "Universal Drop Scraper which glides over small obstructions and drops into a vertical scraping position to allow offending material to be dragged back towards the operator.",
+  "availability": "In Stock",
+  "product_name": "Bailey Universal Drop Scrapers",
+  "specifications": [
+    "Universal Drop Scraper",
+    "Glides over small obstructions",
+    "Vertical scraping position"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/band-of-builders-band-of-builders-tape-measure.html|>
+## Band Of Builders Band Of Builders Tape Measure
+
+{
+  "price": "€10.68 inc VAT",
+  "description": "The Band Of Builders Tape Measure has a non-reflective blade with both metric and imperial blade markings. Fitted with a three rivet, true zero end hook. The ABS plastic case and rubber outer protect the tape from damage. There is also a handy belt clip. Designed in the UK. Donation made to Band of Builders from each sale. UKCA/CE Approved. Class II Accurate.",
+  "availability": "In Stock",
+  "product_name": "Band Of Builders Band Of Builders Tape Measure",
+  "specifications": [
+    "5m/16ft (Width 25mm)",
+    "8m/26ft (Width 25mm)"
+  ],
+  "product_category": "Hand Tools"
+}
+
+<|https://www.mydiy.ie/products/batavia-croc-lock-pipe-holding-jaws.html|>
+## Batavia CROC LOCK Pipe Holding Jaws
+
+{
+  "price": "€65.68 inc VAT (€53.40 exc.vat)",
+  "description": "Batavia CROC LOCK Pipe Holding Jaws are specially designed to securely hold pipes and tubes of various materials, giving you a reliable grip on round objects. Perfect when operating an angle grinder. Made from durable steel material, easy to install. Supplied as a pair, 1 left and 1 right jaw.",
+  "availability": "In Stock",
+  "product_name": "Batavia CROC LOCK Pipe Holding Jaws",
+  "specifications": [
+    "Durable steel material",
+    "Supplied as a pair (1 left and 1 right jaw)",
+    "Designed for securely holding pipes and tubes"
+  ],
+  "product_category": "Hand Tools"
+}
+

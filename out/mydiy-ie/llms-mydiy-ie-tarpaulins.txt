@@ -1,0 +1,58 @@
+<|https://www.mydiy.ie/products/bluespot-tools-tarpaulins.html|>
+## BlueSpot Tools Tarpaulins
+
+{
+  "price": "from €6.99 inc VAT",
+  "description": "This Blue Spot lightweight and weatherproof Tarpaulin is mould and mildew resistant, with rust-proof grommets. Its welded hems provide extra strength. Ideal for storage and transportation purposes. Ideal for the following applications: Roof rack cover. Boat cover. Pool or sandpit cover. Picnics and camping. Outdoor shelter. Haystack cover.",
+  "availability": "In Stock",
+  "product_name": "BlueSpot Tools Tarpaulins",
+  "specifications": [
+    "Lightweight and weatherproof",
+    "Mould and mildew resistant",
+    "Rust-proof grommets",
+    "Welded hems for extra strength",
+    "Ideal for storage and transportation"
+  ],
+  "product_category": "Tarpaulins"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-tarpaulins-green--silver.html|>
+## Faithfull Tarpaulins Green / Silver
+
+{
+  "price": "from €12.99 inc VAT",
+  "description": "A tough reusable waterproof cover with a laminate woven polyethylene construction and heat sealed, poly rope reinforced hem. The tapaulin's is highly durable, tear, stretch and UV resistant, with rust resistant metal eyelets. The Tarpaulin can be used in the following areas: BUILDING SITES: protects lumber, aggregates & machinery FARMS: protects grain, animal feed & machinery HOME: covers boats, trailers, swimming pools, garden furniture & BBQs LEISURE: ground sheet, seating shelter, picnic & beach mat, windbreak. The Twin colour is reversible between silver and green and weighs 80 grams per square metre.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tarpaulins Green / Silver",
+  "specifications": [
+    "Available Sizes: 3.6m x 2.7m, 5.4m x 3.6m, 5.4m x 5.4m",
+    "Material: Laminate woven polyethylene",
+    "Weight: 80 grams per square metre",
+    "UV resistant",
+    "Rust resistant metal eyelets"
+  ],
+  "product_category": "Tarpaulins"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tough-tarp-tarpaulin.html|>
+## Faithfull Tough-Tarp Tarpaulin
+
+{
+  "price": "from €71.67 inc VAT",
+  "description": "The Faithfull Tough-Tarp Tarpaulin is 100% waterproof, frost and UV resistant. Integrally bonded with water repellent and UV resistant materials (not sprayed on as a secondary treatment), and manufactured with polyethylene film, using patented multi-layered, cross-laminated production technology. Puncture and tear resistant, in the unlikely case of damage, it will remain localised and not spread across the tarpaulin, making any damage easy to repair without needing to replace the tarpaulin. Made to withstand temperatures between -60 to + 60 degrees, the material will not crack or flake even at such extremes. Plus, the benefit of zero-fade technology ensures these tarpaulins stay functional and looking good for longer. Featuring ultrasonically welded eyelets, which are reinforced by rust resistant aluminium inserts and heat-sealed hems, ensuring the eyelets remain in place - even when placed under the highest pressure/tension. The lightest and strongest tarpaulins available in our range and backed by a five year guarantee, however these have been proven to last much longer. They will outlast normal, woven tarpaulins, by up to 3 times. Tested and fully REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) compliant, plus they’re 100% recyclable.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tough-Tarp Tarpaulin",
+  "specifications": [
+    "100% waterproof",
+    "Frost and UV resistant",
+    "Puncture and tear resistant",
+    "Temperature range: -60 to +60 degrees",
+    "Ultrasonically welded eyelets",
+    "5-year guarantee",
+    "100% recyclable"
+  ],
+  "product_category": "Tarpaulins"
+}
+

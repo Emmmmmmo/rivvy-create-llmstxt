@@ -1,0 +1,658 @@
+<|https://www.mydiy.ie/products/irwin-multi-purpose-cordless-drill-bit-sets.html|>
+## IRWIN Multi-Purpose Cordless Drill Bit Sets
+
+{
+  "price": "from €37.12 inc VAT",
+  "description": "The Irwin Cordless Multi-Purpose Drill Bits have been designed for cordless low /min multi-purpose drilling. In tests they produced between 90-129% more holes per battery charge than leading competitors. They have a four-facet ground carbide tip for lower drilling pressure and better centring and allow for combined drilling into wood and brickwork: the Cordless Drillbit is excellent for such drilling jobs - where you drill through wood into brickwork. Only one drillbit is needed to do the job and will drill a wide selection of different materials like: Brickwork, Ceramic Tiles, Breeze Block, Wood, Dry Wall, Gypsum Board, Limestone, Slate, Marble, Eternite and Plastics/Reinforced plastics.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Multi-Purpose Cordless Drill Bit Sets",
+  "specifications": [
+    "5 Piece 5-10mm",
+    "Set of 7"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-rotarypercussion-masonry-drill-bits.html|>
+## DEWALT Rotary/Percussion Masonry Drill Bits
+
+{
+  "price": "from €2.56 inc VAT",
+  "description": "The DEWALT Rotary/Percussion Masonry Drill Bits have 130° Douglas Form carbide tips. They are ideal for drilling anchor, plastic, fixing or pipework clearance holes. Suitable for drilling masonry, brick/blockwork and stone.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Rotary/Percussion Masonry Drill Bits",
+  "specifications": [
+    "130° Douglas Form carbide tips",
+    "Ideal for drilling anchor, plastic, fixing or pipework clearance holes",
+    "Suitable for masonry, brick/blockwork and stone"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-masonry-drill-bit-for-cordless-drills.html|>
+## IRWIN Masonry Drill Bit for Cordless Drills
+
+{
+  "price": "€3.11 inc VAT",
+  "description": "The Irwin masonry drills bits are designed for fast and efficient drilling in brickwork, concrete and breeze block, especially with cordless drills. They drill up to 60% faster than competitive drill bits whilst maintaining the same high durability. The single flute design ensures faster dust removal for increased drilling speed, with the unique, pressed diamond-ground carbide tip allows for aggressive cutting and the carbide tip design also ensures 20% longer life compared to previous Irwin masonry drill bits. The bits are made with a chrome vanadium body with high carbon content which allows more hardening and a stronger bit for maximum rupture strength.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Masonry Drill Bit for Cordless Drills",
+  "specifications": [
+    "Available sizes: 10.0mm x 140mm, 10.0mm x 160mm, 10.0mm x 200mm, 10.0mm x 400mm, 11.0mm x 160mm, 12.0mm x 160mm, 12.0mm x 400mm, 13.0mm x 160mm, 14.0mm x 160mm, 14.0mm x 400mm, 15.0mm x 160mm, 16.0mm x 160mm, 16.0mm x 400mm, 18.0mm x 160mm, 18.0mm x 400mm, 20.0mm x 160mm, 22.0mm x 160mm, 3.00mm x 70mm, 3.5mm x 75mm, 4.0mm x 160mm, 4.0mm x 80mm, 4.5mm x 85mm, 5.0mm x 160mm, 5.0mm x 90mm, 5.5mm x 160mm, 5.5mm x 95mm, 6.0mm x 100mm, 6.0mm x 160mm, 6.0mm x 400mm, 6.5mm x 105mm, 6.5mm x 160mm, 7.0mm x 110mm, 7.0mm x 160mm, 8.0mm x 120mm, 8.0mm x 160mm, 8.0mm x 200mm, 8.0mm x 400mm, 9.0mm x 130mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-masonry-drill-bit-sets-for-cordless-drills.html|>
+## IRWIN Masonry Drill Bit Sets for Cordless Drills
+
+{
+  "price": "€33.25 inc VAT",
+  "description": "The Irwin Masonry drills bits are designed for fast and efficient drilling in brickwork, concrete and breeze block, especially with cordless drills. They drill up to 60% faster than competitive drill bits whilst maintaining the same high durability. The single flute design ensures faster dust removal for increased drilling speed, with the unique, pressed diamond-ground carbide tip allows for aggressive cutting and the carbide tip design also ensures 20% longer life compared to previous Irwin masonry drill bits. The bits are made with a chrome vanadium body with high carbon content which allows more hardening and a stronger bit for maximum rupture strength.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Masonry Drill Bit Sets for Cordless Drills",
+  "specifications": [
+    "Set of 7",
+    "Designed for fast and efficient drilling",
+    "Drills up to 60% faster than competitive bits",
+    "Single flute design for faster dust removal",
+    "Pressed diamond-ground carbide tip for aggressive cutting",
+    "20% longer life compared to previous bits",
+    "Chrome vanadium body with high carbon content"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-cordless-drill-bits.html|>
+## IRWIN Cordless Drill Bits
+
+{
+  "price": "from €5.44 inc VAT",
+  "description": "The Irwin Cordless Multi-Purpose Drill Bits have been designed for cordless, low speed multi-purpose drilling. They offer around 10% extra battery life per charge. They have a four-facet ground carbide tip for lower drilling pressure and better centring and allow for combined drilling into wood and brickwork: the Cordless Drillbit is excellent for such drilling jobs - where you drill through wood into brickwork. Only one drillbit is needed to do the job and will drill a wide selection of different materials like: Brickwork, Ceramic Tiles, Breeze Block, Wood, Dry Wall, Gypsum Board, Limestone, Slate, Marble, Eternite, Plastics/Reinforced plastics.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Cordless Drill Bits",
+  "specifications": [
+    "Select Option: 10.0mm x 140mm, 10.0mm x 200mm, 12.0mm x 160mm, 3.0mmx 110mm, 4.0mmx 80mm, 5.0mm x 90mm, 5.5mm x 160mm, 5.5mm x 95mm, 6.0mm x 100mm, 6.0mm x 160mm, 6.0mm x 200mm, 6.5mm x 105mm, 6.5mm x 200mm, 7.0mm x 160mm, 8.0mm x 120mm, 8.0mm x 200mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-concrete-drill-bit.html|>
+## Milwaukee Concrete Drill Bit
+
+{
+  "price": "€8.60 inc VAT",
+  "description": "Milwaukee Concrete Drill Bits with a round shank and diamond ground percussion carbide tip with a dual cutting edge. They are ideal for drilling in brick, tile, ceramic, concrete, plaster, slate, and aerated concrete blocks. Conform to DIN 8039 standards.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Concrete Drill Bit",
+  "specifications": [
+    "12mm x 150mm",
+    "Diamond ground percussion carbide tip",
+    "Dual cutting edge",
+    "Ideal for drilling in various materials",
+    "Conform to DIN 8039 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-speedhammer-plus-drill-bits.html|>
+## IRWIN Speedhammer Plus Drill Bits
+
+{
+  "price": "from €5.23 inc VAT",
+  "description": "The Irwin SDS Speedhammer Plus Drill Bits are designed for SDS drilling. They drill exceptionally fast into brick, block, masonry, concrete and granite. The patented, unique single flute design ensures efficient, speedy removal of dust and lower vibrations and 28% greater capacity meaning more efficient waste removal. They have a patented extra short drill bit head which means the head takes 80% of the workload, ensuring higher durability and speed. Clears drilling dust directly into the flute, reducing the risk of clogging. The bits have 25% more tungsten carbide for extra strength and they drill 25% faster than competitive drill bits with the same high durability. In addition, they have more aggressive cutting angles and self-centring for faster drilling.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Speedhammer Plus Drill Bits",
+  "specifications": [
+    "Designed for SDS drilling",
+    "Drills into brick, block, masonry, concrete, and granite",
+    "Unique single flute design for efficient dust removal",
+    "Patented extra short drill bit head for durability",
+    "25% more tungsten carbide for extra strength",
+    "Drills 25% faster than competitors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-5pce-masonry-bit-set-4-5-6-8-10.html|>
+## Krino 5Pce Masonry Bit Set 4-5-6-8-10
+
+{
+  "price": "€8.29 inc VAT (€6.74 exc.vat)",
+  "description": "5Pce Masonry Bit Set 4-5-6-8-10",
+  "availability": "In Stock",
+  "product_name": "Krino 5Pce Masonry Bit Set 4-5-6-8-10",
+  "specifications": [
+    "KRI03050203 : €8.29",
+    "List: €10.70",
+    "You save €2.41"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-8pce-masonry-bit-set-3-12.html|>
+## Krino 8Pce Masonry Bit Set 3-12
+
+{
+  "price": "€13.42 inc VAT (€10.91 exc.vat)",
+  "description": "8Pce Masonry Bit Set 3-12",
+  "availability": "In Stock",
+  "product_name": "Krino 8Pce Masonry Bit Set 3-12",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
+    "Delivery Information: Fast & Reliable Shipping with DPD, FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-100mm-masonry-impact-core-bit.html|>
+## Krino 100Mm Masonry Impact Core Bit
+
+{
+  "price": "€125.68 inc VAT (€102.18 exc.vat)",
+  "description": "100Mm Masonry Impact Core Bit",
+  "availability": "Out of Stock",
+  "product_name": "Krino 100Mm Masonry Impact Core Bit",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-10mm-x-200-super-masonry-bit-dsp-pk.html|>
+## Krino 10Mm X 200 Super Masonry Bit Dsp Pk
+
+{
+  "price": "€6.03 inc VAT (€4.90 exc.vat)",
+  "description": "10Mm X 200 Super Masonry Bit Dsp Pk",
+  "availability": "Out of Stock",
+  "product_name": "Krino 10Mm X 200 Super Masonry Bit Dsp Pk",
+  "specifications": [
+    "KRIMDS10200P : €6.03",
+    "List: €7.77",
+    "You save €1.74"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krimd10200.html|>
+## Krino New Group for KRIMD10200
+
+{
+  "price": "€2.39 inc VAT",
+  "description": "Krino New Group for KRIMD10200",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIMD10200",
+  "specifications": [
+    "List: €3.06",
+    "You save €0.67",
+    "Option: Select One -"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-standard-masonry-tct-drill-bit.html|>
+## Makita Standard Masonry TCT Drill Bit
+
+{
+  "price": "€1.59 inc VAT",
+  "description": "Solid 2 cutter TCT tip\nCentering point and optimised flutes for fast drilling\nSuitable for masonry, brick, block, stone and light concrete",
+  "availability": "In Stock",
+  "product_name": "Makita Standard Masonry TCT Drill Bit",
+  "specifications": [
+    "Select One - 10 x 150mm",
+    "11 x 150mm",
+    "12 x 150mm",
+    "14 x 150mm",
+    "16 x 150mm",
+    "3 x 60mm",
+    "4 x 70mm",
+    "5 x 85mm",
+    "6 x 100mm",
+    "6 x 150mm",
+    "7 x 100mm",
+    "7 x 150mm",
+    "8 x 110mm",
+    "8 x 150mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-performance-masonry-drill-bit.html|>
+## Makita Performance Masonry Drill Bit
+
+{
+  "price": "from €1.98 inc VAT",
+  "description": "High-quality drill bit with tungsten carbide tip, good cutting speed, suitable for use with percussion drills on brick, block, stone or light concrete.",
+  "availability": "In Stock",
+  "product_name": "Makita Performance Masonry Drill Bit",
+  "specifications": [
+    "Tungsten carbide tip",
+    "Good cutting speed",
+    "For use with percussion drills",
+    "Suitable for brick, block, stone or light concrete"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-57087-titanium-coated-drill-and-driver-set-21-piece.html|>
+## Makita P-57087 Titanium Coated Drill & Driver Set, 21 Piece
+
+{
+  "price": "€24.69 inc VAT (€20.07 exc.vat)",
+  "description": "Makita P-57087 21 piece set supplied in a slim butterfly case includes a very valuable selection of the most useful accessories for drill and fix bits. This set of titanium coated HSS drill bits, regular masonry bits and screwdriver bits are perfect for a variety of applications. Contains: 6 x Titanium Coated HSS Drill Bits: 2mm, 2.5mm, 3mm, 4mm, 5mm, 6mm. 3 x 25mm Phillips Bits: PH1, PH2 and PH3. 3 x 25mm Pozi Bits: PZ1, PZ2 and PZ3. 2 x 25mm Slotted Bits: 3mm, 5mm. 6 x Masonry Drill Bits: 5.5mm, 6mm, 6.5mm, 7mm (2) and 8mm. 1 x Mini Chuck.",
+  "availability": "In Stock",
+  "product_name": "Makita P-57087 Titanium Coated Drill & Driver Set, 21 Piece",
+  "specifications": [
+    "6 x Titanium Coated HSS Drill Bits: 2mm, 2.5mm, 3mm, 4mm, 5mm, 6mm",
+    "3 x 25mm Phillips Bits: PH1, PH2 and PH3",
+    "3 x 25mm Pozi Bits: PZ1, PZ2 and PZ3",
+    "2 x 25mm Slotted Bits: 3mm, 5mm",
+    "6 x Masonry Drill Bits: 5.5mm, 6mm, 6.5mm, 7mm (2) and 8mm",
+    "1 x Mini Chuck"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-16732-tct-drill-bit-set-5-piece.html|>
+## Makita E-16732 TCT Drill Bit Set, 5 Piece
+
+{
+  "price": "€34.35 inc VAT (€27.93 exc.vat)",
+  "description": "The Makita E-16732 TCT Drill Bit Set for drilling into a wide variety of materials including steel, brick, tile, resin, wood and aluminium. Supplied in a handy case with a clear cover. Contains: 5 x TCT Drill Bits: 4 x 90mm, 5 x 100mm, 6 x 100mm, 8 x 120mm and 10 x 150mm.",
+  "availability": "In Stock",
+  "product_name": "Makita E-16732 TCT Drill Bit Set, 5 Piece",
+  "specifications": [
+    "5 x TCT Drill Bits: 4 x 90mm, 5 x 100mm, 6 x 100mm, 8 x 120mm and 10 x 150mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-multi-purpose-drill-bit.html|>
+## Milwaukee Power Tools Multi-Purpose Drill Bit
+
+{
+  "price": "€5.33 inc VAT",
+  "description": "Milwaukee Multi-Purpose Drill Bits with tungsten carbide tips (TCT). They drill into metal, wood and stone but in rotary mode only. Hammer action cannot be used with these drill bits. Ideal for tradesmen who need to drill through a variety of materials in one go.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools Multi-Purpose Drill Bit",
+  "specifications": [
+    "6.0mm OL:150mm WL:90mm",
+    "Tungsten carbide tips (TCT)",
+    "Drills into metal, wood, and stone in rotary mode only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-max-drillbits-1.html|>
+## DEWALT SDS-Max Drillbits
+
+{
+  "price": "€49.29 inc VAT",
+  "description": "DEWALT SDS Max high quality hammer drill bit with 4 cutter X-head design for improved user comfort, reduced vibration and improved hole quality. The 4-flute spiral maximises flute entry which increases drilling speed and debris removal with a heavy-duty shank for maximum durability.",
+  "availability": "In Stock",
+  "product_name": "DEWALT SDS-Max Drillbits",
+  "specifications": [
+    "Select Option: 12 x 340mm, 12 x 540mm, 16 x 340mm, 16 x 540mm, 20 x 340mm, 20 x 540mm, 22 x 540mm, 25 x 540mm, 30 x 570mm",
+    "List Price: €63.59",
+    "You save: €14.30"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-standard-sds-max-drill-bit.html|>
+## Makita Standard SDS Max Drill Bit
+
+{
+  "price": "from €41.22 inc VAT",
+  "description": "SDS Max drill bits\n\n2 cutter design\nSolid carbide tip with centering point\nOptimised flutes for fast drilling speeds\nSuitable for masonry and concrete",
+  "availability": "In Stock",
+  "product_name": "Makita Standard SDS Max Drill Bit",
+  "specifications": [
+    "18.0mm OL: 340mm WL: 200mm",
+    "38.0mm OL: 570mm WL: 450mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-mak4-sds-max-drill.html|>
+## Makita MAK4 SDS Max Drill
+
+{
+  "price": "from €87.93 inc VAT",
+  "description": "Premium SDS-MAX drill bit with dynamic 4-cutter head, suitable for concrete, stone, masonry, fixings, anchors, and engineering brick.",
+  "availability": "In Stock",
+  "product_name": "Makita MAK4 SDS Max Drill",
+  "specifications": [
+    "Dynamic 4-cutter head",
+    "Symmetrical head-geometry with centring-tip",
+    "Shortened spiral windings and conical shaped dust tracks for extra fast material removal",
+    "Suitable for concrete, stone, masonry, fixings, anchors and engineering brick"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-sds-plus-drill-bit.html|>
+## Milwaukee SDS-plus Drill Bit
+
+{
+  "price": "€5.78 inc VAT",
+  "description": "Milwaukee SDS-Plus Drill Bits 2 Cut offer the maximum in drilling speed and durability. They have a dynamic, chisel-shaped drill head that ensures swift penetration and optimal material removal. They have a tough carbide tip held by high strength brazing that offers an unrivalled durability even in steel reinforced concrete. They also have a unique 2-flute design which reduces vibrations and transfers the energy directly to the bit tip. Available in a range of sizes.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee SDS-plus Drill Bit",
+  "specifications": [
+    "Available in various sizes: 10mm x 210mm, 12mm x 210mm, 16mm x 210mm, 5.5 x 110mm, 6.5 x 210mm, 6mm x 160mm, 8mm x 160mm",
+    "Dynamic chisel-shaped drill head for swift penetration",
+    "Tough carbide tip for durability in steel reinforced concrete",
+    "Unique 2-flute design reduces vibrations"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-plus-xlr-full-head-carbide-drill-bits.html|>
+## DEWALT SDS Plus XLR Full Head Carbide Drill Bits
+
+{
+  "price": "€12.61 inc VAT",
+  "description": "DEWALT SDS Plus XLR Full Head Carbide Drill Bits have a solid carbide tip that offers users the highest performance in the toughest applications. The 4-cutter geometry provides clean holes, high drilling speed and reduces the chance of jamming of the drill in reinforced concrete. Made from a superior hard metal alloy with an increased drill core structure for greater resistance to fracture. Optimised flute design allows for efficient debris removal.",
+  "availability": "In Stock",
+  "product_name": "DEWALT SDS Plus XLR Full Head Carbide Drill Bits",
+  "specifications": [
+    "Solid carbide tip for high performance",
+    "4-cutter geometry for clean holes",
+    "High drilling speed",
+    "Reduced chance of jamming",
+    "Made from superior hard metal alloy",
+    "Optimised flute design for efficient debris removal"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-plus-extreme-2-drill-bit-set-10-piece.html|>
+## DEWALT SDS Plus Extreme 2® Drill Bit Set, 10 Piece
+
+{
+  "price": "€57.10 inc VAT (€46.42 exc.vat)",
+  "description": "DEWALT SDS Plus Extreme 2® Drill Bits are made from superior carbide grade for long life and greater durability. The hardened body adds further strength and helps to reduce breakage. Its optimised flute design provides efficient debris removal whilst the tip design ensures better bit penetration. Supplied in a TOUGH CASE+, this is part of a connectable case system that is TSTAK™ compatible. Individual TOUGH CASES can be clipped together for easy transportation. This 10 Piece set contains the following sizes: 5 x 110mm, 6 x 110mm(x2), 6 x 160mm(x2), 7 x 160mm, 8 x 160mm, 9 x 160mm, 10 x 160mm, 12 x 160mm.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT SDS Plus Extreme 2® Drill Bit Set, 10 Piece",
+  "specifications": [
+    "10 Piece set",
+    "Sizes: 5 x 110mm, 6 x 110mm(x2), 6 x 160mm(x2), 7 x 160mm, 8 x 160mm, 9 x 160mm, 10 x 160mm, 12 x 160mm",
+    "Made from superior carbide grade",
+    "Hardened body for strength",
+    "Optimised flute design for debris removal",
+    "TOUGH CASE+ for easy transportation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-standard-sds-plus-drill-bit-200mm-ol-210mm-wl-150mm.html|>
+## Makita Standard SDS Plus Drill Bit 20.0mm OL: 210mm WL: 150mm
+
+{
+  "price": "€20.70 inc VAT (€16.83 exc.vat)",
+  "description": "Standard SDS Plus Drill Bit 20.0mm OL: 210mm WL: 150mm",
+  "availability": "In Stock",
+  "product_name": "Makita Standard SDS Plus Drill Bit 20.0mm OL: 210mm WL: 150mm",
+  "specifications": [
+    "MAKD00359",
+    "OL: 210mm",
+    "WL: 150mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-d-03888-sds-plus-set-5-piece.html|>
+## Makita D-03888 SDS Plus Set, 5 Piece
+
+{
+  "price": "€9.51 inc VAT (€7.73 exc.vat)",
+  "description": "The Makita D-03888 SDS Plus Drill Bits are suitable for masonry and concrete. The solid carbide tip with centring point and optimised flutes offers fast drilling speeds in a contractors, low cost option. The 2 Cutter TCT tip is manufactured to DIN 8039 standards. Contains: 1 x 5.5 x 110mm, 1 x 7.0 x 110mm, 1 x 6.0 x 160mm, 1 x 7.0 x 160mm and 1 x 8.0 x 160mm.",
+  "availability": "In Stock",
+  "product_name": "Makita D-03888 SDS Plus Set, 5 Piece",
+  "specifications": [
+    "Contains: 1 x 5.5 x 110mm",
+    "1 x 7.0 x 110mm",
+    "1 x 6.0 x 160mm",
+    "1 x 7.0 x 160mm",
+    "1 x 8.0 x 160mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-d-21200-sds-plus-drill-bit-set-17-piece.html|>
+## Makita D-21200 SDS Plus Drill Bit Set, 17 Piece
+
+{
+  "price": "€76.24 inc VAT (€61.98 exc.vat)",
+  "description": "Makita 17 piece SDS Plus Drill Bit Set provides a good cutting performance for concrete, demolition, render, chasing and fixings. Contains the following: 12 x SDS Plus Chisel Bits: 5 x 110, 5.5 x 110, 6 x 110, 6 x 160, 7 x 160, 8 x 110, 8 x 160, 8 x 210, 10 x 110, 10 x 160, 10 x 210, 14 x 260mm; 2 x Bull Points: 140, 260mm; 2 x Cold Chisels: 20 x 140, 20 x 250mm; 1 x Scaling Chisel: 40 x 250mm.",
+  "availability": "In Stock",
+  "product_name": "Makita D-21200 SDS Plus Drill Bit Set, 17 Piece",
+  "specifications": [
+    "12 x SDS Plus Chisel Bits: 5 x 110, 5.5 x 110, 6 x 110, 6 x 160, 7 x 160, 8 x 110, 8 x 160, 8 x 210, 10 x 110, 10 x 160, 10 x 210, 14 x 260mm",
+    "2 x Bull Points: 140, 260mm",
+    "2 x Cold Chisels: 20 x 140, 20 x 250mm",
+    "1 x Scaling Chisel: 40 x 250mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-5-pce-sds--hammer-drill-bit-set.html|>
+## Krino 5 Pce Sds Hammer Drill Bit Set
+
+{
+  "price": "€33.42 inc VAT (€27.17 exc.vat)",
+  "description": "5 Pce Sds Hammer Drill Bit Set",
+  "availability": "In Stock",
+  "product_name": "Krino 5 Pce Sds Hammer Drill Bit Set",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krik410160p.html|>
+## Krino New Group for KRIK410160P
+
+{
+  "price": "€6.62",
+  "description": "Krino New Group for KRIK410160P",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIK410160P",
+  "specifications": [
+    "List: €8.54",
+    "You save €1.92",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krisds10160p.html|>
+## Krino New Group for KRISDS10160P
+
+{
+  "price": "€3.71 inc VAT",
+  "description": "Krino New Group for KRISDS10160P",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRISDS10160P",
+  "specifications": [
+    "List: €4.80",
+    "You save €1.09",
+    "Option: Select One -"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-performance-sds-plus-drill-bit.html|>
+## Makita Performance SDS Plus Drill Bit
+
+{
+  "price": "€6.16 inc VAT",
+  "description": "European manufactured hammer drill with patented, high-volume, multi-flute that quickly channels the drilling dust from the hole. Aggressive design with a durable carbide tip allows easy centering and spot drilling. Designed for regular professional use in the toughest materials.",
+  "availability": "In Stock",
+  "product_name": "Makita Performance SDS Plus Drill Bit",
+  "specifications": [
+    "Select Option: 10.0mm OL: 1000mm WL: 950mm",
+    "10.0mm OL: 160mm WL: 100mm",
+    "10.0mm OL: 260mm WL: 200mm",
+    "10.0mm OL: 450mm WL: 400mm",
+    "10.0mm OL: 600mm WL: 550mm",
+    "12.0mm OL: 1000mm WL: 950mm",
+    "12.0mm OL: 160mm WL: 100mm",
+    "12.0mm OL: 260mm WL: 200mm",
+    "12.0mm OL: 450mm WL: 400mm",
+    "12.0mm OL:210mm WL: 150mm",
+    "14.0mm OL: 160mm WL: 100mm",
+    "14.0mm OL: 260mm WL: 200mm",
+    "14.0mm OL: 450mm WL: 400mm",
+    "16.0mm OL: 1000mm WL: 950mm",
+    "16.0mm OL: 160mm WL: 100mm",
+    "16.0mm OL: 210mm WL: 150mm",
+    "16.0mm OL: 310mm WL: 250mm",
+    "16.0mm OL: 450mm WL: 400mm",
+    "18.0mm OL: 200mm WL: 140mm",
+    "18.0mm OL: 450mm WL: 400mm",
+    "20.0mm OL: 300mm WL: 240mm",
+    "20.0mm OL: 450mm WL: 400mm",
+    "25.0mm OL: 250mm WL: 190mm",
+    "25.0mm OL: 450mm WL: 400mm",
+    "5.0mm OL: 160mm WL: 100mm",
+    "5.5mm OL: 110mm WL: 50mm",
+    "5.5mm OL: 160mm WL: 100mm",
+    "6.0mm OL: 110mm WL: 50mm",
+    "6.0mm OL: 160mm WL: 100mm",
+    "6.0mm OL: 210mm WL: 150mm",
+    "6.0mm OL: 260mm WL: 200mm",
+    "6.5mm OL: 160mm WL: 100mm",
+    "6.5mm OL: 260mm WL: 200mm",
+    "6.5mm OL: 310mm WL: 250mm",
+    "7.0mm OL: 160mm WL: 100mm",
+    "7.0mm OL: 210mm WL: 150mm",
+    "8.0mm OL: 110mm WL: 50mm",
+    "8.0mm OL: 160mm WL: 100mm",
+    "8.0mm OL: 210mm WL: 150mm",
+    "8.0mm OL: 260mm WL: 200mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-52059-makpac-17pc-sdsdrill-set.html|>
+## Makita B-52059 Makpac 17Pc Sds+Drill Set
+
+{
+  "price": "€196.81 inc VAT (€160.01 exc.vat)",
+  "description": "B-52059 Makpac 17Pc Sds+Drill Set",
+  "availability": "Out of Stock",
+  "product_name": "Makita B-52059 Makpac 17Pc Sds+Drill Set",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-nemesis-ii-sds-25-x-450mm-drill-bit.html|>
+## Makita Nemesis Ii Sds+ 25 X 450Mm Drill Bit
+
+{
+  "price": "€168.53 inc VAT (€137.02 exc.vat)",
+  "description": "Nemesis Ii Sds+ 25 X 450Mm Drill Bit",
+  "availability": "Out of Stock",
+  "product_name": "Makita Nemesis Ii Sds+ 25 X 450Mm Drill Bit",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-sds-plus-mx4-drill-bit-set-5-piece.html|>
+## Milwaukee Power Tools SDS Plus MX4 Drill Bit Set, 5 Piece
+
+{
+  "price": "€70.86 inc VAT (€57.61 exc.vat)",
+  "description": "Milwaukee SDS Plus MX4 Drill Bits with 4 breaker points to pulverise material more efficiently for faster drilling. The symmetrical 4 cutter (4 x 90°) drills perfectly round holes for optimal anchor fitting, whilst the 4 flute geometry ensures the optimum removal of dust and debris. A centering tip enables easy spot drilling with pinpoint accuracy. Enhanced rebar guards for an improved resistance when hitting rebar. The welded solid carbide tip (Ø5-10mm) allows for wider flute entrance, leading to increased speed. More carbide leads to a higher durability of the tip and higher lifetime. Variable flute design: thin flute at the tip for maximum debris extraction, higher speed and less friction and a thick flute at the base for higher stability and reduced bit breakage. Up to 20% more holes per battery charge vs 4 cutter drill bit in concrete and vs the previous generation. Made in Germany. This 5 Piece set contains the following sizes: 5 x 115, 6 x 115, 6 x 165, 8 x 165 and 10 x 165mm.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools SDS Plus MX4 Drill Bit Set, 5 Piece",
+  "specifications": [
+    "4 breaker points for efficient drilling",
+    "Symmetrical 4 cutter design for round holes",
+    "4 flute geometry for dust removal",
+    "Centering tip for accuracy",
+    "Enhanced rebar guards",
+    "Welded solid carbide tip for durability",
+    "Variable flute design for stability",
+    "Includes sizes: 5 x 115, 6 x 115, 6 x 165, 8 x 165, 10 x 165mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-speedhammer-quad-drill-bit.html|>
+## IRWIN® Speedhammer Quad Drill Bit
+
+{
+  "price": "from €10.32 inc VAT",
+  "description": "The IRWIN® Speedhammer Quad Drill Bit is ideal for drilling plug and anchor holes in masonry, all types of stone and concrete. Its 4-cutter geometry, drills a more concentric hole for the best fixing retention. The full head carbide tip offers the highest levels of drilling life and durability. A unique bonding system connects the solid carbide head to the 4-flute spiral. This design provides faster, more efficient dust removal. The specially engineered grooves are designed to minimise friction, resulting in increased speed and longer life. Manufactured in Germany with premium steel. Meets PGM standards for drill bits used for anchor fixing.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Speedhammer Quad Drill Bit",
+  "specifications": [
+    "Available sizes: 10 x 160mm, 10 x 210mm, 10 x 260mm, 10 x 310mm, 10 x 460mm, 12 x 160mm, 12 x 210mm, 12 x 260mm, 12 x 310mm, 12 x 460mm, 14 x 160mm, 14 x 210mm, 14 x 310mm, 14 x 460mm, 16 x 250mm, 5 x 110mm, 5 x 160mm, 5.5 x 160mm, 6 x 110mm, 6 x 160mm, 6 x 210mm, 6 x 260mm, 6.5 x 160mm, 6.5 x 210mm, 7 x 160mm, 7 x 210mm, 8 x 160mm, 8 x 260mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-sds-plus-2-point-drill-bit.html|>
+## Starrett SDS Plus 2 Point Drill Bit
+
+{
+  "price": "€2.18 inc VAT",
+  "description": "The Starrett SDS Plus 2 Point Drill Bit is made with high performance carbide tips and a two channel design featuring a unique chip removal/breakage accelerator. This delivers fast material penetration and maximum debris removal. The drill body offers superior strength thanks to its specialised heat treatment, enabling it to withstand the most demanding of applications.",
+  "availability": "In Stock",
+  "product_name": "Starrett SDS Plus 2 Point Drill Bit",
+  "specifications": [
+    "Available sizes: 10 x 160mm, 10 x 210mm, 10 x 460mm, 12 x 160mm, 16 x 210mm, 5 x 110mm, 5 x 160mm, 5.5 x 110mm, 5.5 x 160mm, 6 x 160mm, 6 x 210mm, 6.5 x 160mm, 6.5 x 210mm, 7 x 160mm, 7 x 210mm, 8 x 160mm, 8 x 210mm, 9 Piece Set"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-sds-plus-4-point-drill-bits.html|>
+## Starrett SDS Plus 4 Point Drill Bits
+
+{
+  "price": "from €5.95 inc VAT",
+  "description": "The Starrett SDS Plus 4 Point Drill Bit comes with high performance carbide tips and a cross head design for consistent performance. This head design provides 4 vertical debris removal channels for faster material penetration and maximum debris removal. The drill body offers superior strength thanks to its specialised heat treatment, enabling it to withstand the most demanding of applications. PGM certified.",
+  "availability": "In Stock",
+  "product_name": "Starrett SDS Plus 4 Point Drill Bits",
+  "specifications": [
+    "High performance carbide tips",
+    "Cross head design for consistent performance",
+    "4 vertical debris removal channels",
+    "Specialised heat treatment for superior strength",
+    "PGM certified"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-plus-xlr-full-head-drill-bit.html|>
+## DEWALT SDS Plus XLR Full Head Drill Bit
+
+{
+  "price": "€9.98 inc VAT",
+  "description": "DEWALT SDS Plus XLR Full Head Drill Bit",
+  "availability": "In Stock",
+  "product_name": "DEWALT SDS Plus XLR Full Head Drill Bit",
+  "specifications": [
+    "List Price: €10.31",
+    "You save: €0.33",
+    "Option: Select One"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-max-sds-plus-adaptor.html|>
+## DEWALT SDS Max SDS Plus Adaptor
+
+{
+  "price": "€114.29 inc VAT (€92.92 exc.vat)",
+  "description": "The DEWALT DEWDT6830QZ SDS max to SDS plus drive adaptor fits all SDS max machines and the adaptor enables machines to use SDS plus drill bits.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT SDS Max SDS Plus Adaptor",
+  "specifications": [
+    "Model: DEWDT6830QZ",
+    "Price: €114.29 inc VAT (€92.92 exc.vat)",
+    "List Price: €246.10",
+    "You save: €131.81",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-plus-extreme-2-drillbits.html|>
+## DEWALT SDS-Plus Extreme 2 Drillbits
+
+{
+  "price": "from €5.34 inc VAT",
+  "description": "The DEWALT Extreme 2 SDS Plus Drill Bit is amongst the best in terms of its speed, life and endurance. With superior carbide grade for long life and greater durability, optimised flute design for efficient debris removal and a hardened body for extra strength and reduced breakage. The tip design ensures better bit penetration, longer life, faster drilling and greater durability.",
+  "availability": "In Stock",
+  "product_name": "DEWALT SDS-Plus Extreme 2 Drillbits",
+  "specifications": [
+    "Available sizes: 10.0 x 110mm, 10.0 x 160mm, 10.0 x 210mm, 10.0 x 260mm, 10.0 x 310mm, 10.0 x 350mm, 10.0 x 460mm, 10.0 x 600mm, 12.0 x 100cm, 12.0 x 160mm, 12.0 x 200mm, 12.0 x 260mm, 12.0 x 300mm, 12.0 x 350mm, 12.0 x 450mm, 12.0 x 600mm, 14.0 x 160mm, 14.0 x 200mm, 14.0 x 260mm, 14.0 x 300mm, 14.0 x 450mm, 14.0 x 600mm, 15.0 x 160mm, 15.0 x 260mm, 16.0 x 160mm, 16.0 x 200mm, 16.0 x 260mm, 16.0 x 300mm, 20.0 x 200mm, 20.0 x 300mm, 22.0 x 300mm, 25.0 x 1000mm, 4.0 x 110mm, 4.0 x 160mm, 5.0 x 110mm, 5.0 x 160mm, 5.5 x 110mm, 5.5 x 160mm, 5.5 x 260mm, 6.0 x 110mm, 6.0 x 160mm, 6.0 x 210mm, 6.0 x 260mm, 6.0 x 460mm, 6.5 x 160mm, 6.5 x 210mm, 6.5 x 260mm, 7.0 x 110mm, 7.0 x 160mm, 7.0 x 210mm, 7.0 x 260mm, 8.0 x 110mm, 8.0 x 160mm, 8.0 x 210mm, 8.0 x 260mm, 8.0 x 310mm, 8.0 x 410mm, 8.0 x 460mm, 9.0 x 160mm, SDS-Plus Extreme 2 Drill Bit 16.0 x 200mm DEWDT9587QZ"
+  ]
+}
+

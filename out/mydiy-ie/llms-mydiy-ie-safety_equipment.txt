@@ -1,0 +1,362 @@
+<|https://www.mydiy.ie/products/abus-mechanical-neck-guard.html|>
+## ABUS Mechanical Neck Guard
+
+{
+  "price": "€12.67 inc VAT",
+  "description": "The ABUS Neck Guard is the ideal accessory for protecting the part of the body particularly exposed to risks such as UV light, rain or dust when working outdoors. Made of polyester material offering effective UV protection and also ensures better visibility in low light conditions thanks to its reflective stripes. The neck guard can be quickly and easily attached to the back of the helmet thanks to practical click fasteners, so you are always prepared for sudden changes. Available in two eye-catching signal colours: Hi-Viz Yellow and Hi-Viz Orange. Both colours ensure optimum visibility on the construction site, in rainy weather or in bright sunlight. Compatible with all safety helmets from ABUS; SPECTOR, SPECTOR-E, SCATOR or SCATOR-E.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical Neck Guard",
+  "specifications": [
+    "Available in Hi-Viz Orange and Hi-Viz Yellow",
+    "Made of polyester material",
+    "Effective UV protection",
+    "Reflective stripes for visibility",
+    "Compatible with ABUS safety helmets"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-scator-scator-e-half-visor.html|>
+## ABUS Mechanical SCATOR /SCATOR-E Half Visor
+
+{
+  "price": "€43.62 inc VAT",
+  "description": "ABUS Half Visor for the SCATOR and SCATOR-E safety helmets. Offers maximum protection for your eyes in demanding working environments. The ideal accessory when it comes to protecting the eyes from dust, splinters and other foreign objects during everyday work. Unlike safety glasses, the visor can be attached directly to the safety helmet using an adapter (included in the scope of delivery). It also provides reliable protection from rain and wind when working outdoors. The robust polycarbonate lens of the half visor is scratch-resistant and does not fog up from the inside, even in extreme temperatures. The visor can be worn comfortably over prescription glasses and therefore offers optimum safety and functionality. Individual height adjustability and maximum freedom of movement ensure a comfortable fit. Available with either a clear or tinted polycarbonate lens. The tinted variant is particularly suitable when a high level of protection against UV light radiation is required.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SCATOR /SCATOR-E Half Visor",
+  "specifications": [
+    "Available with clear or tinted polycarbonate lens",
+    "Scratch-resistant and anti-fog lens",
+    "Compatible with SCATOR and SCATOR-E safety helmets",
+    "Includes adapter for attachment to helmet",
+    "Height adjustable for comfort"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-scator-scator-e-mesh-full-visor.html|>
+## ABUS Mechanical SCATOR /SCATOR-E Mesh Full Visor
+
+{
+  "price": "€54.88 inc VAT (€44.62 exc.vat)",
+  "description": "ABUS Mesh Full Visor for the SCATOR and SCATOR-E safety helmets. Suitable for work in forestry or in gardening and landscaping where objects such as chips or splinters are whirled up. The robust and rustproof metal mesh visor ensures optimum breathability and reliably protects your eyes and face from flying objects. Thanks to the individual height adjustment, the full visor adapts perfectly to the shape of your head and offers you maximum freedom of movement at work. The adapter with push button enables simple mounting on your safety helmet. Can be worn over prescription glasses without any problems. Thanks to the modular design of our safety helmets, the mesh full visor can also be worn with earmuffs.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SCATOR /SCATOR-E Mesh Full Visor",
+  "specifications": [
+    "ABU38792 : €54.88",
+    "Can be worn over prescription glasses",
+    "Robust and rustproof metal mesh visor",
+    "Individual height adjustment for perfect fit",
+    "Compatible with earmuffs"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-scatorscator-e-chin-strap.html|>
+## SCATOR/SCATOR-E Chin Strap
+
+{
+  "price": "€11.27 inc VAT (€9.16 exc.vat)",
+  "description": "ABUS Chin Strap for the SCATOR and SCATOR-E safety helmets. They provide additional safety, even in the event of impacts and falling objects. Individually adjustable so they can be optimally adapted to the shape of your head.",
+  "availability": "In Stock",
+  "product_name": "SCATOR/SCATOR-E Chin Strap",
+  "specifications": [
+    "ABU94865 : €11.27",
+    "Individually adjustable for optimal fit",
+    "Provides additional safety against impacts and falling objects"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-scatorscator-e-clear-full-visor.html|>
+## ABUS Mechanical SCATOR/SCATOR-E Clear Full Visor
+
+{
+  "price": "€66.14 inc VAT (€53.77 exc.vat)",
+  "description": "ABUS Clear Full Visor for the SCATOR and SCATOR-E safety helmets. Protects the eyes and face over a large area from liquids, chips and other objects as well as from weather influences such as rain and wind. Wearing our full visor prevents injuries and accidents at work. A large polycarbonate lens protects your eyes and face as well as possible from dangerous foreign objects. Equipped with a reinforced frame to make it particularly impact-resistant. A full visor is recommended as part of the personal protective equipment especially for heavy construction and assembly work and in forestry. At the same time, the anti-fog panoramic window offers an optimum field of vision for the work to be carried out. Visibility always remains clear, even in difficult conditions and extreme temperatures. The full visor can be easily attached to or removed from the ABUS safety helmet using adapters (included in the scope of delivery). It is height-adjustable and therefore offers excellent freedom of movement.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SCATOR/SCATOR-E Clear Full Visor",
+  "specifications": [
+    "Protects eyes and face from liquids, chips, and weather influences",
+    "Large polycarbonate lens for safety",
+    "Reinforced frame for impact resistance",
+    "Height-adjustable for freedom of movement",
+    "Anti-fog panoramic window for clear visibility"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-scatorscator-e-reflective-stickers.html|>
+## ABUS Mechanical SCATOR/SCATOR-E Reflective Stickers
+
+{
+  "price": "€9.85 inc VAT (€8.01 exc.vat)",
+  "description": "ABUS Reflective Stickers for the SCATOR and SCATOR-E safety helmets. The ideal solution for increasing your visibility and safety in the dark. Whether on construction sites, climbing at height or around construction site vehicles these stickers ensure workers are more visible and thus help to prevent accidents. The reflective, self-adhesive stickers are easy to apply and offer immediate improvements in terms of safety. They are robust and resistant to the weather, making them suitable for long-term outdoor use. Thanks to their high reflective power, the stickers ensure you are clearly visible even in poor lighting conditions.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SCATOR/SCATOR-E Reflective Stickers",
+  "specifications": [
+    "ABU41452 : €9.85",
+    "Self-adhesive",
+    "Weather resistant",
+    "High reflective power"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-spectorspector-e-chin-strap.html|>
+## SPECTOR/SPECTOR-E Chin Strap
+
+{
+  "price": "€14.08 inc VAT (€11.45 exc.vat)",
+  "description": "ABUS Chin Strap for the SPECTOR and SPECTOR-E safety helmets. They provide additional safety, even in the event of impacts and falling objects. Individually adjustable so they can be optimally adapted to the shape of your head.",
+  "availability": "In Stock",
+  "product_name": "SPECTOR/SPECTOR-E Chin Strap",
+  "specifications": [
+    "ABU41451 : €14.08",
+    "Individually adjustable",
+    "Compatible with SPECTOR and SPECTOR-E safety helmets"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-spectorspector-e-clear-full-visor.html|>
+## ABUS Mechanical SPECTOR/SPECTOR-E Clear Full Visor
+
+{
+  "price": "€66.14 inc VAT (€53.77 exc.vat)",
+  "description": "ABUS Clear Full Visor for the SPECTOR and SPECTOR-E safety helmets. Protects the eyes and face over a large area from liquids, chips and other objects as well as from weather influences such as rain and wind. Wearing our full visor prevents injuries and accidents at work. A large polycarbonate lens protects your eyes and face as well as possible from dangerous foreign objects. Equipped with a reinforced frame to make it particularly impact-resistant. A full visor is recommended as part of the personal protective equipment especially for heavy construction and assembly work and in forestry. At the same time, the anti-fog panoramic window offers an optimum field of vision for the work to be carried out. Visibility always remains clear, even in difficult conditions and extreme temperatures. The full visor can be easily attached to or removed from the ABUS safety helmet using adapters (included in the scope of delivery). It is height-adjustable and therefore offers excellent freedom of movement.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SPECTOR/SPECTOR-E Clear Full Visor",
+  "specifications": [
+    "Protects eyes and face from liquids, chips, and weather influences",
+    "Large polycarbonate lens for safety",
+    "Reinforced frame for impact resistance",
+    "Height-adjustable for freedom of movement",
+    "Anti-fog panoramic window for clear visibility"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-spectorspector-e-half-visor.html|>
+## ABUS Mechanical SPECTOR/SPECTOR-E Half Visor
+
+{
+  "price": "€43.62 inc VAT",
+  "description": "ABUS Half Visor for the SPECTOR and SPECTOR-E safety helmets. Offers maximum protection for your eyes in demanding working environments. The ideal accessory when it comes to protecting the eyes from dust, splinters and other foreign objects during everyday work. Unlike safety glasses, the visor can be attached directly to the safety helmet using an adapter (included in the scope of delivery). It also provides reliable protection from rain and wind when working outdoors. The robust polycarbonate lens of the half visor is scratch-resistant and does not fog up from the inside, even in extreme temperatures. The visor can be worn comfortably over prescription glasses and therefore offers optimum safety and functionality. Individual height adjustability and maximum freedom of movement ensure a comfortable fit. Available with either a clear or tinted polycarbonate lens. The tinted variant is particularly suitable when a high level of protection against UV light radiation is required.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SPECTOR/SPECTOR-E Half Visor",
+  "specifications": [
+    "Available with clear or tinted polycarbonate lens",
+    "Scratch-resistant and anti-fog lens",
+    "Compatible with SPECTOR and SPECTOR-E safety helmets",
+    "Includes adapter for attachment to helmet",
+    "Height adjustable for comfort"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-spectorspector-e-mesh-full-visor.html|>
+## SPECTOR/SPECTOR-E Mesh Full Visor
+
+{
+  "price": "€54.88 inc VAT (€44.62 exc.vat)",
+  "description": "ABUS Mesh Full Visor for the SPECTOR and SPECTOR-E safety helmets. Suitable for work in forestry or in gardening and landscaping where objects such as chips or splinters are whirled up. The robust and rustproof metal mesh visor ensures optimum breathability and reliably protects your eyes and face from flying objects. Thanks to the individual height adjustment, the full visor adapts perfectly to the shape of your head and offers you maximum freedom of movement at work. The adapter with push button enables simple mounting on your safety helmet. Can be worn over prescription glasses without any problems. Thanks to the modular design of our safety helmets, the mesh full visor can also be worn with earmuffs.",
+  "availability": "In Stock",
+  "product_name": "SPECTOR/SPECTOR-E Mesh Full Visor",
+  "specifications": [
+    "ABU38486 : €54.88",
+    "Can be worn over prescription glasses",
+    "Modular design for use with earmuffs"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-spectorspector-e-padding-set.html|>
+## SPECTOR/SPECTOR-E Padding Set
+
+{
+  "price": "€18.30 inc VAT (€14.88 exc.vat)",
+  "description": "ABUS Front Padding Set for the SPECTOR and SPECTOR-E safety helmets. Provides excellent moisture regulation (absorption and release). The Velcro backing makes it easy to fit and remove. Washable for extended use.",
+  "availability": "In Stock",
+  "product_name": "SPECTOR/SPECTOR-E Padding Set",
+  "specifications": [
+    "ABU94866 : €18.30",
+    "Excellent moisture regulation",
+    "Velcro backing for easy fitting",
+    "Washable for extended use"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-spectorspector-e-reflective-stickers.html|>
+## ABUS Mechanical SPECTOR/SPECTOR-E Reflective Stickers
+
+{
+  "price": "€9.85 inc VAT (€8.01 exc.vat)",
+  "description": "ABUS Reflective Stickers for the SPECTOR and SPECTOR-E safety helmets. The ideal solution for increasing your visibility and safety in the dark. Whether on construction sites, climbing at height or around construction site vehicles these stickers ensure workers are more visible and thus help to prevent accidents. The reflective, self-adhesive stickers are easy to apply and offer immediate improvements in terms of safety. They are robust and resistant to the weather, making them suitable for long-term outdoor use. Thanks to their high reflective power, the stickers ensure you are clearly visible even in poor lighting conditions.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SPECTOR/SPECTOR-E Reflective Stickers",
+  "specifications": [
+    "Self-adhesive",
+    "Weather resistant",
+    "High reflective power",
+    "Easy to apply"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-spectorspector-e-visor-protector.html|>
+## SPECTOR/SPECTOR-E Visor Protector
+
+{
+  "price": "€23.94 inc VAT (€19.46 exc.vat)",
+  "description": "ABUS Visor Protector for SPECTOR/SPECTOR-E Helmets. Specifically designed for protecting the half visor. The polycarbonate lens is additionally attached to the helmet using a simple click system and reliably protects the accessory. If required there is a slot in the centre is provided for attaching headlamps.",
+  "availability": "In Stock",
+  "product_name": "SPECTOR/SPECTOR-E Visor Protector",
+  "specifications": [
+    "ABU94863 : €23.94",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/alm-manufacturing-ch011-chainsaw-safety-helmet.html|>
+## ALM Manufacturing CH011 Chainsaw Safety Helmet
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "The ALM Manufacturing CH011 Chainsaw Safety Helmet comes with integral ear defenders and metal mesh face shield (guard). It can be worn for use with all electric and petrol chainsaws. Confroms to the following safety standards: Helmet: EN397-1995, ANSI Z89.1.1997 Visor: EN1731F, ANSI Z87.1, EN166 3B Ear Defenders: EP167, EN352-3-1997, ANSI S3.",
+  "availability": "In Stock",
+  "product_name": "ALM Manufacturing CH011 Chainsaw Safety Helmet",
+  "specifications": [
+    "Integral ear defenders",
+    "Metal mesh face shield",
+    "Conforms to safety standards EN397-1995, ANSI Z89.1.1997",
+    "Visor conforms to EN1731F, ANSI Z87.1, EN166 3B",
+    "Ear defenders conform to EP167, EN352-3-1997, ANSI S3"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/alm-manufacturing-ch012-trimmer-safety-kit.html|>
+## ALM Manufacturing CH012 Trimmer Safety Kit
+
+{
+  "price": "€24.92 inc VAT (€20.26 exc.vat)",
+  "description": "The ALM CH012 Grass and Hedge Trimmer safety kit comprises of ear defenders, metal mesh face shield (guard) and one pair of non slip gloves. For use with all electric and petrol trimmers. The personal protective equipment exceeds the following safety standards: Steel Mesh Visor EN1731F, ANSI Z87.1, EN166 3B; Ear Defenders EP106, EN352-1-1993, ANSI S3.19",
+  "availability": "In Stock",
+  "product_name": "ALM Manufacturing CH012 Trimmer Safety Kit",
+  "specifications": [
+    "Includes ear defenders, metal mesh face shield, and non-slip gloves",
+    "For use with electric and petrol trimmers",
+    "Exceeds safety standards: Steel Mesh Visor EN1731F, ANSI Z87.1, EN166 3B",
+    "Ear Defenders EP106, EN352-1-1993, ANSI S3.19"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/alm-manufacturing-ch017-leg-protectors.html|>
+## CH017 Leg Protectors
+
+{
+  "price": "€17.23 inc VAT (€14.01 exc.vat)",
+  "description": "The ALM Manufacturing CH017 Leg Protectors have protective knee pads and Shinguards. This equipment provides a padded knee area and protection for lower leg from flying debris, for example when using trimmers and brush cutters. These leg protectors are also suitable protection for general kneeling tasks, however they are NOT suitable/protective in the event of using a chainsaw.",
+  "availability": "In Stock",
+  "product_name": "CH017 Leg Protectors",
+  "specifications": [
+    "Protective knee pads and Shinguards",
+    "Padded knee area",
+    "Protection for lower leg from flying debris",
+    "Suitable for general kneeling tasks",
+    "Not suitable for chainsaw use"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-barrier-tape-red-and-white-70mm-x-250m.html|>
+## Faithfull Heavy-Duty Barrier Tape Red & White 70mm x 250m
+
+{
+  "price": "€19.79 inc VAT (€16.09 exc.vat)",
+  "description": "Faithfull Heavy-Duty Barrier Tape is an extra strong, heavy-duty non-adhesive PVC tape used for demarcation and cordoning off areas. The highly contrasting coloured stripes serve as a clear visual warning and also present a barrier to areas that require to be sectioned off. Suitable for a wide range of uses in various trades and services that include, construction sites, factories, warehouses, emergency services and many other situations where safety of personnel is a priority.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Heavy-Duty Barrier Tape Red & White 70mm x 250m",
+  "specifications": [
+    "Heavy-duty non-adhesive PVC tape",
+    "Dimensions: 70mm x 250m",
+    "Suitable for construction sites, factories, and emergency services"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/boll-safety-iris-platinum-safety-glasses.html|>
+## Bollé Safety Iris Platinum Safety Glasses
+
+{
+  "price": "from €18.15 inc VAT",
+  "description": "Bollé Safety IRI-s safety eye shield with Platinum anti-scratch and anti-fog coating. The IRI-s has been designed to universally fit all face shapes due to its ultra-modular and infinitely adaptable features thanks to the unique B-Flex shape memory bridge. The B-Flex bridge is height and width adjustable, and the IRI-s also has pivoting non-slip ergonomic temples. Optical class 1 polycarbonate lenses with Platinum anti- scratch and anti-fog lenses. They are supplied with sports cord.",
+  "availability": "In Stock",
+  "product_name": "Bollé Safety Iris Platinum Safety Glasses",
+  "specifications": [
+    "Platinum anti-scratch and anti-fog coating",
+    "Universal fit for all face shapes",
+    "Height and width adjustable B-Flex bridge",
+    "Pivoting non-slip ergonomic temples",
+    "Optical class 1 polycarbonate lenses"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-sphere-face-shield-with-pc-visor.html|>
+## Bolle Safety Sphere Face Shield With Pc Visor
+
+{
+  "price": "€33.38 inc VAT (€27.14 exc.vat)",
+  "description": "Sphere Face Shield With Pc Visor",
+  "availability": "Out of Stock",
+  "product_name": "Bolle Safety Sphere Face Shield With Pc Visor",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-swift-safety-glasses.html|>
+## Bolle Safety SWIFT Safety Glasses
+
+{
+  "price": "€5.38 inc VAT",
+  "description": "The Bolle Safety Swift Safety Glasses combine design, comfort, and durability. Featuring our PLATINUM Lite anti-scratch and anti-fog coating, ensuring crystal-clear vision in all situations. Its well-balanced frame provides daily comfort, while its flexible, contoured, and textured temples ensure optimal lateral protection, fit, and retention. As part of our Go Green range, SWIFT is crafted from 31% recycled polycarbonate, and is fully recyclable, with a mono-material design without any metal components.",
+  "availability": "In Stock",
+  "product_name": "Bolle Safety SWIFT Safety Glasses",
+  "specifications": [
+    "PLATINUM Lite anti-scratch and anti-fog coating",
+    "Crafted from 31% recycled polycarbonate",
+    "Fully recyclable",
+    "Mono-material design without metal components"
+  ],
+  "product_category": "Safety Equipment"
+}
+
+<|https://www.mydiy.ie/products/first-alert-tundra-fire-extinguishing-spray.html|>
+## First Alert® Tundra Fire Extinguishing Spray
+
+{
+  "price": "€13.20 inc VAT (€10.74 exc.vat)",
+  "description": "First Alert Tundra Fire Extinguishing Spray is extremely powerful for its size and has up to 4x longer discharge time than a standard extinguisher equivalent. It can be used on wood, paper, fabric, cooking oil and electrical equipment safely. Easy-to-use and self-intuitive design, ideal for non-trained users in domestic environments. It has a non-toxic, biodegradable formula that is easy to clean up after use.",
+  "availability": "In Stock",
+  "product_name": "First Alert® Tundra Fire Extinguishing Spray",
+  "specifications": [
+    "Powerful for its size",
+    "Up to 4x longer discharge time than standard extinguishers",
+    "Safe for use on wood, paper, fabric, cooking oil, and electrical equipment",
+    "Non-toxic and biodegradable formula",
+    "Easy-to-use design for non-trained users"
+  ],
+  "product_category": "Safety Equipment"
+}
+

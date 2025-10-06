@@ -1,0 +1,48 @@
+<|https://www.mydiy.ie/products/swarfega-hand-cleaners.html|>
+## Swarfega Hand Cleaners
+
+{
+  "price": "from €8.03 inc VAT",
+  "description": "Swarfega Original Classic Hand Cleaner is a rapidly acting, classic, smooth green gel formula which removes ingrained oil, grease and general grime. With added conditioner which helps maintain the skin's natural moisture level to leave the skin feeling smooth after use. Easy to apply and quick rinsing.",
+  "availability": "In Stock",
+  "product_name": "Swarfega Hand Cleaners",
+  "specifications": [
+    "Available in multiple sizes: 1 Litre, 275ml, 4.5 Litre, 500ml",
+    "Rapidly acting formula",
+    "Removes ingrained oil, grease, and grime",
+    "Contains added conditioner for skin moisture",
+    "Easy to apply and quick rinsing"
+  ],
+  "product_category": "Hand Cleaners"
+}
+
+<|https://www.mydiy.ie/products/swarfega-extreme-heavy-duty-hand-cleaner.html|>
+## Swarfega® Extreme Heavy-duty Hand Cleaner
+
+{
+  "price": "€25.31 inc VAT",
+  "description": "The Swarfega® Extreme Heavy-duty Hand Cleaner comes with non-abrasive scrubbing agents and surfactants for efficient cleaning of deeply ingrained and difficult to remove dirt and grime such as oil, grease, tar, inks, bitumen, many adhesives and most oil based paints. Solvent-free. With orange fragrance. Leaves hands clean and fresh after use.",
+  "availability": "In Stock",
+  "product_name": "Swarfega® Extreme Heavy-duty Hand Cleaner",
+  "specifications": [
+    "1 Litre",
+    "5 Litre"
+  ],
+  "product_category": "Hand Cleaners"
+}
+
+<|https://www.mydiy.ie/products/swarfega-orange-hand-cleaner.html|>
+## Swarfega® Orange Hand Cleaner
+
+{
+  "price": "€16.17 inc VAT",
+  "description": "Heavy-duty Orange fragranced Hand Cleaner with skin moisturiser and non-abrasive cornmeal scrubbing agents for an efficient deep-down cleaning action removing ingrained oil, grease and general grime. Solvent-free. Leaves hands clean and fresh after use.",
+  "availability": "In Stock",
+  "product_name": "Swarfega® Orange Hand Cleaner",
+  "specifications": [
+    "1 Litre",
+    "5 Litre"
+  ],
+  "product_category": "Hand Cleaners"
+}
+

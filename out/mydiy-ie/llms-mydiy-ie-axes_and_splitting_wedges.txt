@@ -1,0 +1,478 @@
+<|https://www.mydiy.ie/products/hultafors-overstrike-guard.html|>
+## Hultafors Overstrike Guard
+
+{
+  "price": "€16.00 inc VAT (€13.01 exc.vat)",
+  "description": "The Hultafors Overstrike Guard protects the handle closest to the axe head in the event of an overstrike. The guard (also known as a handle protector or an axe collar) is tied around the handle using the included leather cords. Made in Sweden with hides from Swedish cows, it is manufactured with the greatest care for the animals and the environment. The leather is vegetable tanned full grain leather for the best possible durability and the natural treatment means it will age beautifully when worn.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors Overstrike Guard",
+  "specifications": [
+    "Fits Hultafors Premium Axes: Ågelsjön, Hultån, Åby, Dvardala, Ekelund och Qvarfot.",
+    "Length: 120mm (4.3/4in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-spare-dvardala-axe-handle.html|>
+## Hultafors Spare Dvardala Axe Handle
+
+{
+  "price": "€25.09 inc VAT (€20.40 exc.vat)",
+  "description": "A Hultafors Spare Dvardala Axe Handle. Increase the life span for your axe by changing the handle when needed. Made from American hickory, treated with linseed oil.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors Spare Dvardala Axe Handle",
+  "specifications": [
+    "HUL842771 : €25.09",
+    "Made from American hickory",
+    "Treated with linseed oil"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-axes---double-injected-fibreglass-handles.html|>
+## Roughneck Axes - Double Injected Fibreglass Handles
+
+{
+  "price": "from €48.77 inc VAT",
+  "description": "Roughneck Felling Axe has a drop forged alloy steel blade that has been hardened and tempered for increased durability. Uses industrial grade epoxy for longer lasting bond. Has a solid core fibreglass handle with polypropylene cover that is stronger than wood. Has a double injected TPR soft grip handle, and polished blade.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Axes - Double Injected Fibreglass Handles",
+  "specifications": [
+    "Handle length: 910mm (36in) for 1.6kg option",
+    "Handle length: 925mm (36 1/2in) for 2.3kg option"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-arvika-5-star-felling-axe.html|>
+## Hultafors Arvika 5 Star Felling Axe
+
+{
+  "price": "€210.39 inc VAT (€171.05 exc.vat)",
+  "description": "The Hultafors Arvika 5 Star Felling Axe has been specially designed for competition and serious chopping. The design of the head is inspired by Australian Racing Pattern Axes, polished and heavy with a convex grind edge. The long and curved handle in American hickory provides maximum speed and force when felling trees. The axe is hand forged and made from Swedish quality steel in the forge at Hults Bruk. The steel head is struck over 60 times to increase density and durability to the head.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Arvika 5 Star Felling Axe",
+  "specifications": [
+    "Head Weight: 2kg (4.1/2 lbs)",
+    "Length: 800mm",
+    "Total Weight: 2.75kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hults-bruk-ekelund-hunting-axe.html|>
+## Hultafors Hults Bruk Ekelund Hunting Axe
+
+{
+  "price": "€152.02 inc VAT (€123.59 exc.vat)",
+  "description": "The Hultafors Hults Bruk Ekelund Hunting Axe has a ground neck and medium-weight head, ideal for easier forestry work as well as for skinning game with great precision. This makes it your perfect hunting partner. It is also an ideal gift for any hunting enthusiast. The handle is made from American hickory, treated with linseed oil for increased durability. Hand forged from Swedish quality steel, the head is struck 40–60 times to increase density and durability. With a convex grind cutting edge. The axe is supplied sharpened, polished and ready to use, in a leather axe sheath.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Hults Bruk Ekelund Hunting Axe",
+  "specifications": [
+    "Head Weight: 850g",
+    "Handle Length: 500mm (20in)",
+    "Total Weight: 1210g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hults-bruk-qvarfot-felling-axe.html|>
+## Hultafors Hults Bruk Qvarfot Felling Axe
+
+{
+  "price": "€145.16 inc VAT (€118.02 exc.vat)",
+  "description": "The Hultafors Hults Bruk Qvarfot Felling Axe is well suited to small scale forestry work. The long shaft adds force to the striking action and the axe is also useful for splitting, bucking and processing wood. The handle is made from American hickory and treated with linseed oil for increased durability. Hand forged from Swedish quality steel, the head is struck 40–60 times to increase density and durability. With a convex grind cutting edge. The axe is supplied sharpened, polished and ready to use, in a leather axe sheath.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Hults Bruk Qvarfot Felling Axe",
+  "specifications": [
+    "Head Weight: 850g",
+    "Handle Length: 650mm (26in)",
+    "Total Weight: 1260g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hults-bruk-by-forest-axe.html|>
+## Hults Bruk Åby Forest Axe
+
+{
+  "price": "€200.43 inc VAT (€162.95 exc.vat)",
+  "description": "The Hultafors Hults Bruk Åby Forest Axe is a beautiful hybrid with many types of use. Perfect for shelter building, processing firewood and carving, as well as precision work. The long, thin ergonomic handle minimises the weight but also delivers a great force when striking. Made from American hickory and treated with linseed oil for increased durability. Hand forged from Swedish quality steel, the head is struck 40–60 times to increase density and durability. It has a straighter edge and grinding, slight convex grind and a good finger notch below the head for increased precision. The axe is supplied sharpened, polished and ready to use, in a leather axe sheath.",
+  "availability": "In Stock",
+  "product_name": "Hults Bruk Åby Forest Axe",
+  "specifications": [
+    "Head Weight: 700g",
+    "Handle Length: 610mm (24in)",
+    "Total Weight: 1015g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hatchet-1.html|>
+## Hultafors Hatchet
+
+{
+  "price": "€82.62 inc VAT",
+  "description": "The Hultafors Hatchet is hand-forged and made from Swedish axe steel using traditional methods in use since 1697. The steel is struck several times, increasing its density and thereby the durability of the axe. It has a clear tempered zone within which the axe can be sharpened whilst not detracting from the strength of the edge. Its curved shaft is made from hickory and treated with linseed oil. Ideal for use in forests, open land and around the garden. Supplied with a leather axe sheath.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Hatchet",
+  "specifications": [
+    "Weight options: 600g (1.1/4 lb), 900g (2 lb)",
+    "Hand-forged from Swedish axe steel",
+    "Curved hickory shaft treated with linseed oil",
+    "Supplied with a leather axe sheath"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-felling-axe-fibreglass-handle.html|>
+## Estwing Felling Axe, Fibreglass Handle
+
+{
+  "price": "€32.99 inc VAT",
+  "description": "The Estwing Felling Axe, perfect for cutting lumber, chopping fire wood, trimming, cutting, splitting and shaping wood. The forged alloy steel head is hardened to 50-55 HRC, to withstand years of repeated use. Fitted with a fibreglass handle, double injected for increased strength and durability. A textured rubber overlay on the handle provides a comfortable, ergonomic, and secure grip, while also helping to dampen vibrations.",
+  "availability": "In Stock",
+  "product_name": "Estwing Felling Axe, Fibreglass Handle",
+  "specifications": [
+    "Weight Options: 1.8kg (4 lb), 566g (1.25 lb)",
+    "Forged alloy steel head hardened to 50-55 HRC",
+    "Fibreglass handle for increased strength and durability",
+    "Textured rubber overlay for comfort and grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-axe-fibreglass-handle-600g-114-lb.html|>
+## Roughneck Axe Fibreglass Handle 600g (1.1/4 lb)
+
+{
+  "price": "€20.18 inc VAT (€16.41 exc.vat)",
+  "description": "Roughneck 65-640 Axe has a drop forged alloy steel blade that has been hardened and tempered. It uses industrial grade epoxy for longer lasting bond, and has a solid core fibreglass handle with polypropylene cover, that is stronger than wood. Has a double injected TPR soft-grip handle, and a polished blade. Handle length: 370mm (15in). Weight: 600g (1.1/4 lb).",
+  "availability": "In Stock",
+  "product_name": "Roughneck Axe Fibreglass Handle 600g (1.1/4 lb)",
+  "specifications": [
+    "Handle length: 370mm (15in)",
+    "Weight: 600g (1.1/4 lb)",
+    "Drop forged alloy steel blade",
+    "Industrial grade epoxy for longer lasting bond",
+    "Solid core fibreglass handle with polypropylene cover",
+    "Double injected TPR soft-grip handle",
+    "Polished blade"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-steelmaster-hatchet-600g-113lb.html|>
+## Stanley Tools Steelmaster Hatchet 600g (1.1/3lb)
+
+{
+  "price": "€34.45 inc VAT (€28.01 exc.vat)",
+  "description": "Hatchet with a fully hardened and tempered carbon steel head with a heat treated seamless tubular shaft and non-slip, solvent resistant grip. Supplied with a protective head cover with a belt clip. Weight: 869 grams.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Steelmaster Hatchet 600g (1.1/3lb)",
+  "specifications": [
+    "Weight: 869 grams",
+    "Fully hardened and tempered carbon steel head",
+    "Heat treated seamless tubular shaft",
+    "Non-slip, solvent resistant grip",
+    "Supplied with a protective head cover with a belt clip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vaughan-as114-camping-axe-all-steel-and-sheath-567g-114lb.html|>
+## Vaughan AS114 Camping Axe All Steel & Sheath 567g (1.1/4lb)
+
+{
+  "price": "€71.64 inc VAT (€58.24 exc.vat)",
+  "description": "The Vaughan AS114 Camping Axe is made from solid steel with a polished head and handle. It has a flat striking face with bevelled edges and a nail slot in its blade. Its curved handle has a shock-absorbent, slip-resistant grip. Supplied with a durable, fitted sheath. Weight: 567g (1.1/4lb). Made in the USA.",
+  "availability": "In Stock",
+  "product_name": "Vaughan AS114 Camping Axe All Steel & Sheath 567g (1.1/4lb)",
+  "specifications": [
+    "Weight: 567g (1.1/4lb)",
+    "Material: Solid steel",
+    "Polished head and handle",
+    "Flat striking face with bevelled edges",
+    "Nail slot in blade",
+    "Curved handle with shock-absorbent grip",
+    "Includes durable fitted sheath",
+    "Made in the USA"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-sportsmans-axes---leather-grip.html|>
+## Estwing Sportsmans Axes - Leather Grip
+
+{
+  "price": "€82.62 inc VAT",
+  "description": "These Estwing E1 sportsmans axes are superbly balanced small axes with leather handles and come complete with a leather sheath. One-piece solid forged construction, fully polished and with leather grip. Supplied with a sheath.",
+  "availability": "In Stock",
+  "product_name": "Estwing Sportsmans Axes - Leather Grip",
+  "specifications": [
+    "Weight options: 0.60kg, 0.93kg",
+    "One-piece solid forged construction",
+    "Leather grip",
+    "Includes leather sheath"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-forged-hand-axe-600g-114lb.html|>
+## Kent & Stowe Forged Hand Axe 600g (1.1/4lb)
+
+{
+  "price": "€18.98 inc VAT (€15.43 exc.vat)",
+  "description": "The Kent & Stowe Forged Hand Axe is ideal for general purpose, domestic cutting tasks and has a 600g fine polished head made from carbon forged steel. It is fitted with a non-slip, comfort grip handle. 5 Year Guarantee",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Forged Hand Axe 600g (1.1/4lb)",
+  "specifications": [
+    "600g fine polished head made from carbon forged steel",
+    "Non-slip, comfort grip handle",
+    "5 Year Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-3-piece-wood-chopping-kit.html|>
+## Roughneck 3 Piece Wood Chopping Kit
+
+{
+  "price": "€91.13 inc VAT",
+  "description": "The 3 Piece Roughneck Wood Chopping Kit, contains the following: 1 x Wood Grenade Splitting Wedge 1.82kg (4lb), with a diamond shaped cross section that provides splitting of the log in 4 directions. The spherical striking face provides a centred and efficient blow. The notches prevent pop out from the log being split. It has a sharp point for easy start. Use with a sledge hammer for the greatest effect. 1 x Hand Axe that has a drop forged alloy steel blade which has been hardened and tempered. It uses industrial grade epoxy for a longer lasting bond, and has a solid core fibreglass handle with polypropylene cover, that is stronger than wood. It has a double injected TPR soft-grip handle, and a polished blade. Handle Length: 370mm (15in). Weight: 600g (1.1/4lb). 1 x Splitting Maul that is ideal for splitting wood and driving wedges. The unique anti-stick blade is designed for faster and easier splitting. Made from hardened and tempered drop forged alloy steel with a solid core fibreglass handle and polypropylene cover. It has a double injected TPR soft grip handle and integral over strike protection. It also has a polished striking face with chamfered edges. Uses industrial grade epoxy for longer lasting bond. Handle Length: 875mm (35in). Weight: 2.7kg (6lb).",
+  "availability": "In Stock",
+  "product_name": "Roughneck 3 Piece Wood Chopping Kit",
+  "specifications": [
+    "1 x Wood Grenade Splitting Wedge 1.82kg (4lb)",
+    "1 x Hand Axe with drop forged alloy steel blade",
+    "1 x Splitting Maul for splitting wood and driving wedges",
+    "Handle Lengths: 370mm (15in) for Hand Axe, 875mm (35in) for Splitting Maul",
+    "Weights: 600g (1.1/4lb) for Hand Axe, 2.7kg (6lb) for Splitting Maul"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-fsc-american-hickory-hatchets.html|>
+## Roughneck FSC® American Hickory Hatchets
+
+{
+  "price": "from €27.54 inc VAT",
+  "description": "The Roughneck Vintage Hatchet handles are made from 100% genuine American Hickory, FSC® 100%. The hickory has been smoke treated for moisture resistance and is fixed to the head with a steel and wood wedge for a very secure and safe fixing. The heads are made from high quality alloy steel that has been heat treated and tempered for longevity. Fully polished with a clear lacquer finish for anti-rust protection and a sharp edge for easy cutting. Certified to DIN and GS standards.",
+  "availability": "In Stock",
+  "product_name": "Roughneck FSC® American Hickory Hatchets",
+  "specifications": [
+    "Weight options: 1.0kg (2.1/4lb), 600g (1.1/4lb), 800g (1.75lb)",
+    "Made from 100% genuine American Hickory",
+    "Smoke treated for moisture resistance",
+    "High quality alloy steel head",
+    "Heat treated and tempered for longevity",
+    "Fully polished with clear lacquer finish",
+    "Certified to DIN and GS standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-fsc-american-hickory-axes.html|>
+## Roughneck FSC® American Hickory Axes
+
+{
+  "price": "from €49.86 inc VAT",
+  "description": "The Roughneck Vintage Axe handles are made from 100% genuine American Hickory, FSC® 100%. The hickory has been smoke treated for moisture resistance and is fixed to the head with a steel and wood wedge for a very secure and safe fixing. The heads are made from high quality alloy steel that has been heat treated and tempered for longevity. Fully polished with a clear lacquer finish for anti-rust protection and a sharp edge for easy cutting. Certified to DIN and GS standards.",
+  "availability": "In Stock",
+  "product_name": "Roughneck FSC® American Hickory Axes",
+  "specifications": [
+    "1.25kg (2.3/4lb)",
+    "1.6kg (3.1/2lb)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hults-bruk-hultn-hatchet.html|>
+## Hultafors Hults Bruk Hultån Hatchet
+
+{
+  "price": "€131.51 inc VAT (€106.92 exc.vat)",
+  "description": "The Hultafors Hults Bruk Hultån Hatchet is our classic outdoor hatchet and your perfect outdoor companion, whether you are hiking in the wild or just need to work on the camp fire. The handle is made from American hickory, treated with linseed oil for increased durability. Hand forged from Swedish quality steel, the head is struck 40–60 times to increase density and durability. With a convex grind cutting edge. The axe is supplied sharpened, polished and ready to use, in a leather axe sheath. It is named after Hultån, the stream which once provided the forge with power. Today Hultån runs through a tunnel underneath Hults Bruk.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Hults Bruk Hultån Hatchet",
+  "specifications": [
+    "Head Weight: 500g",
+    "Handle Length: 375mm (16in)",
+    "Total Weight: 805g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hults-bruk-stlberg-carpenters-axe.html|>
+## Hultafors Hults Bruk Stålberg Carpenter's Axe
+
+{
+  "price": "€145.16 inc VAT (€118.02 exc.vat)",
+  "description": "The Hultafors Hults Bruk Stålberg Carpenter's Axe provides the precision any skilled craftsman demands. The finger notch in the axe head allows a grip where your hand is placed, almost straight above the centre of the cutting edge, for increased precision. The handle is made from American hickory, treated with linseed oil for increased durability. Hand forged from Swedish quality steel, the head is struck 40–60 times to increase density and durability. With a straighter edge, Scandinavian grind. The axe is supplied sharpened, polished and ready to use, in a leather axe sheath. This axe is named after one of Hults Bruk’s most experienced blacksmiths from the first half of the 20th century, Ernst Stålberg.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Hults Bruk Stålberg Carpenter's Axe",
+  "specifications": [
+    "Head Weight: 800g",
+    "Handle Length: 500mm (20in)",
+    "Total Weight: 1225g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hults-bruk-gelsjn-mini-hatchet.html|>
+## Hultafors Hults Bruk Ågelsjön Mini Hatchet
+
+{
+  "price": "€124.62 inc VAT (€101.32 exc.vat)",
+  "description": "The Hultafors Hults Bruk Ågelsjön Mini Hatchet is the smallest hatchet in the range, suitable for hiking in the mountains or in the woods. It has a lightweight, short handle design which makes it the perfect outdoor companion, easy-to-use and easy to carry. The handle is made from American hickory and treated with linseed oil for increased durability. Hand forged from Swedish quality steel, the head is struck 40–60 times to increase density and durability. With a convex grind cutting edge. The axe is supplied sharpened, polished and ready to use, in a leather axe sheath.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Hults Bruk Ågelsjön Mini Hatchet",
+  "specifications": [
+    "Head Weight: 500g",
+    "Handle Length: 235mm (9in)",
+    "Total Weight: 775g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-gorilla-v-series-axe-06kg-114-lb.html|>
+## Roughneck Gorilla V-Series Axe 0.6kg (1.1/4 lb)
+
+{
+  "price": "€30.00 inc VAT (€24.39 exc.vat)",
+  "description": "The Roughneck® Gorilla V-Series Axe offers increased striking power and reduced vibration. Manufactured from drop-forged, hardened and tempered steel. The unique V-Shock twin-beam girder shaft acts as a damper, resulting in reduced shock and vibration transmission, and further controlled by an air-cushioned grip. Reduced weight in the shaft transfers the centre of gravity towards the head, resulting in improved balance and reduced effort. The integrated nail puller allows nails to be removed with ease. There is a lanyard hole in the base of the handle, ideal for safe and secure tethering when working at height.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Gorilla V-Series Axe 0.6kg (1.1/4 lb)",
+  "specifications": [
+    "Weight: 0.6kg (1.1/4 lb)",
+    "Material: Drop-forged, hardened and tempered steel",
+    "V-Shock twin-beam girder shaft",
+    "Air-cushioned grip",
+    "Integrated nail puller",
+    "Lanyard hole for tethering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-vinyl-grip-campers-axe.html|>
+## Estwing Vinyl Grip Campers Axe
+
+{
+  "price": "€76.76 inc VAT (€62.41 exc.vat)",
+  "description": "The Estwing Vinyl Grip Campers Axe is the outdoor man's 'must have' tool. Solid forged from one piece of steel with a blue outdoor powder coated finish offering extra protection. A handle tent stake puller notch has been incorporated into the blade, saving you time whilst camping. Fitted with a bonded and moulded Shock Reduction Grip which offers the utmost in both comfort and durability, while reducing vibrations caused by impact.",
+  "availability": "Out of Stock",
+  "product_name": "Estwing Vinyl Grip Campers Axe",
+  "specifications": [
+    "Model: ESTE625A",
+    "Price: €76.76",
+    "List Price: €109.67",
+    "You save: €32.91"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-black-eagle-double-bit-axe.html|>
+## Estwing Black Eagle Double Bit Axe
+
+{
+  "price": "€92.05 inc VAT (€74.84 exc.vat)",
+  "description": "The Estwing Black Eagle Double Bit Axe is designed for serious sportsmen and military professionals. It is perfectly balanced and weighted which makes striking effortless. The two blades are drop forged and tempered, creating the most durable, long lasting outdoor tool on the market. Fitted with a bonded and moulded Shock Reduction Grip which offers the utmost in both comfort and durability, while reducing vibrations caused by impact. The grip is moulded and bonded directly to the tools steel core, meaning it will never slip, even under the harshest conditions. The lightweight design makes it easy to carry.",
+  "availability": "In Stock",
+  "product_name": "Estwing Black Eagle Double Bit Axe",
+  "specifications": [
+    "Black Eagle Double Bit Axe",
+    "Model: ESTEBDBA",
+    "Price: €92.05",
+    "List Price: €131.51",
+    "You save: €39.46"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-black-eagle-tomahawk-axe.html|>
+## Estwing Black Eagle Tomahawk Axe
+
+{
+  "price": "€92.05 inc VAT (€74.84 exc.vat)",
+  "description": "The Estwing Tomahawk Axe is designed for serious sportsmen and military professionals. Perfect for breaching, excavation, and extrication. It is perfectly balanced and weighted allowing you to deliver blows with an easy swing. Fitted with a bonded and moulded Shock Reduction Grip which offers the utmost in both comfort and durability, while reducing vibrations caused by impact. The lightweight design makes it easy to carry.",
+  "availability": "In Stock",
+  "product_name": "Estwing Black Eagle Tomahawk Axe",
+  "specifications": [
+    "Model: ESTEBTA",
+    "Weight: Lightweight design",
+    "Grip: Shock Reduction Grip",
+    "Usage: Breaching, excavation, and extrication"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-dvardala-premium-hunting-and-forest-axe.html|>
+## Hultafors Dvardala Premium Hunting & Forest Axe
+
+{
+  "price": "€131.63 inc VAT (€107.02 exc.vat)",
+  "description": "The Hultafors Dvardala Axe is made of Swedish CO2-neutral axe steel. Hand-forged in Hults Bruk according to tradition since 1697. The semi-straight edge has a Scandinavian premium grind which is polished, razor-sharp and ready for use. Fitted with a curved, narrow wooden handle. Made from linseed oil-treated American hickory with a pronounced end knob for a more secure grip. Perfect for hunting and forest life. It is a combination of several different axe types, ideal for a day in the forest where you might have to deal with a wide range of challenges. The axe is suitable for precision work such as carving or building shelters, fire stands and other things around a campsite. This is thanks to a well-proportioned hand notch and a semi-straight edge with a flat and wide grind. The hand notch allows you to grip around the head and steer the axe with maximum control. The edge is a semi-straight with flatter sides allowing the axe to rest firmly against the workpiece when you cut along a piece of wood. But it’s still curved enough so the axe can be used for lighter forestry work such as clearing a path or a line of fire. The head is a bit thicker over the cheeks giving it good splitting capabilities so you can chop firewood. Supplied with a sheath made of vegetable tanned Swedish grain leather.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors Dvardala Premium Hunting & Forest Axe",
+  "specifications": [
+    "Head Weight: 0.7kg",
+    "Handle Length: 440mm (17in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-splitting-mauls---fibre-glass-handle.html|>
+## Roughneck Splitting Mauls - Fibre Glass Handle
+
+{
+  "price": "from €55.55 inc VAT",
+  "description": "Roughneck Splitting Maul is ideal for splitting wood and driving wedges. The unique anti-stick blade is designed for faster and easier splitting. Made from hardened and tempered drop forged alloy steel with a solid core fibreglass handle and polypropylene cover. Has a double injected TPR soft grip handle, and an intergral overstrike protection. Has a polished striking face with chamfered edges. Uses industrial grade epoxy for longer lasting bond. Handle length: 875mm (35in).",
+  "availability": "In Stock",
+  "product_name": "Roughneck Splitting Mauls - Fibre Glass Handle",
+  "specifications": [
+    "Weight options: 2.70kg, 3.60kg",
+    "Handle length: 875mm (35in)",
+    "Material: Hardened and tempered drop forged alloy steel",
+    "Soft grip handle with overstrike protection",
+    "Polished striking face with chamfered edges"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hults-bruk-hult-splitting-axe.html|>
+## Hults Bruk Hult Splitting Axe
+
+{
+  "price": "€166.16 inc VAT (€135.09 exc.vat)",
+  "description": "The Hultafors Hults Bruk Hult Splitting Axe has been designed for splitting logs and wood. The shape of the head, combined with slightly convex grinding, splits the wood. The Hult axe has a long, straight handle made from American hickory, to gain maximum speed and control when splitting logs. Hand forged from Swedish quality steel, the head is struck 40–60 times to increase density and durability. The axe is supplied sharpened, polished and ready to use, in a leather axe sheath.",
+  "availability": "In Stock",
+  "product_name": "Hults Bruk Hult Splitting Axe",
+  "specifications": [
+    "Head Weight: 1500g",
+    "Handle Length: 750mm (30in)",
+    "Total Weight: 2020g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/estwing-maul-fibreglass-handle.html|>
+## Estwing Maul, Fibreglass Handle
+
+{
+  "price": "€67.98 inc VAT",
+  "description": "Estwing Maul for cutting lumber, chopping fire wood, trimming, cutting, splitting and shaping wood. Its forged alloy steel head is hardened to 50-55 HRC and can withstand years of repeated use. The special head design generates greater force for splitting big logs of wood. The head is fitted to a 91cm (36in) fibreglass handle, double injected for increased strength and durability. A textured rubber overlay on the handle provides a comfortable, ergonomic, and secure grip, while also helping to dampen vibrations.",
+  "availability": "In Stock",
+  "product_name": "Estwing Maul, Fibreglass Handle",
+  "specifications": [
+    "2kg (4.5 lb) option available",
+    "Forged alloy steel head hardened to 50-55 HRC",
+    "91cm (36in) fibreglass handle",
+    "Textured rubber overlay for grip",
+    "Designed for cutting, chopping, and splitting wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-twister-wood-splitting-wedge-227kg-5lb.html|>
+## Roughneck Twister Wood Splitting Wedge 2.27kg (5lb)
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "The Roughneck ROU65510 Twister wood wedge is drop forged, hardened and tempered. This is a dynamic wood wedge which twists as it enters the log and splits the log into two pieces. Weight: 2.27 kg. (5 lb.)",
+  "availability": "In Stock",
+  "product_name": "Roughneck Twister Wood Splitting Wedge 2.27kg (5lb)",
+  "specifications": [
+    "Weight: 2.27 kg (5 lb)",
+    "Drop forged, hardened and tempered"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-wood-grenade-splitting-wedge.html|>
+## Roughneck Wood Grenade Splitting Wedge
+
+{
+  "price": "€22.78 inc VAT",
+  "description": "Roughneck Wood Grenade Splitting Wedge has a diamond shaped cross section and provides splitting of the log in 4 directions. Spherical striking face provides a centered and efficient blow. The notches prevent pop out from the log being split. Has a sharp point for easy start. Use with a sledge hammer for greatest effect.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Wood Grenade Splitting Wedge",
+  "specifications": [
+    "Diamond shaped cross section for splitting logs in 4 directions",
+    "Spherical striking face for centered and efficient blows",
+    "Notches to prevent pop out from the log",
+    "Sharp point for easy starting",
+    "Recommended use with a sledge hammer"
+  ]
+}
+

@@ -1,0 +1,16 @@
+<|https://www.mydiy.ie/products/keter-tuff-tote.html|>
+## Keter Tuff Tote
+
+{
+  "price": "from €9.20 inc VAT",
+  "description": "The Keter Roc Tuff Tote has a virtually unbreakable ultra heavy duty construction. A secure snapping lid protects your items from dust and moisture. Meets all your storage needs inside and out, ideal for moving your items to, from and around the work site. This storage tote will provide years of durable storage space whenever you need it. Made from 100% recycled material.",
+  "availability": "In Stock",
+  "product_name": "Keter Tuff Tote",
+  "specifications": [
+    "Available sizes: 11 litre, 140 litre, 37 litre, 68 litre",
+    "Made from 100% recycled material",
+    "Ultra heavy duty construction",
+    "Secure snapping lid to protect items from dust and moisture"
+  ]
+}
+

@@ -1,0 +1,74 @@
+<|https://www.mydiy.ie/products/evolution-evo200-evo-system-engine-65hp-1.html|>
+## EVO200 Evo-System Engine 6.5Hp
+
+{
+  "price": "€353.10 inc VAT (€287.07 exc.vat)",
+  "description": "The Evolution EVO200 Evo-System Engine has a professional, robust and reliable design, with a recoil start. Offers superb value and ample power to the entire selection of outputs in the Evo-System range. The wheel kit provides excellent mobility, even in tough site environments and the manual foot brake locks the unit in to position for secure operation. Also features a folding handle and output frame for convenient storage.",
+  "availability": "Out of Stock",
+  "product_name": "EVO200 Evo-System Engine 6.5Hp",
+  "specifications": [
+    "Engine: Evolution 4-Stroke (Single Cylinder)",
+    "Engine Displacement: 200cc",
+    "Engine Power: 6.5hp",
+    "Fuel Tank Capacity: 3.1 Litres",
+    "Size: Folded & Wheels Attached (HxDxW): 520 x 600 x 540mm",
+    "Size: Unfolded & Wheels Attached (HxDxW): 805 x 600 x 690mm",
+    "Weight: 29.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-gen2800-evo-system-generator-output-24kw-1.html|>
+## Evolution GEN2800 Evo-System Generator Output 2.4Kw
+
+{
+  "price": "€186.70 inc VAT (€151.79 exc.vat)",
+  "description": "The Evolution GEN2800 Evo-System Generator has been designed to use with the Evo-System EVO200 Engine. Features switchable voltages, with the flick of the switch you can choose between 110 and 240 Volt. It also features Automatic Voltage Regulation, ensuring the voltage level is always consistent and accurate. Fitted with a robust and sturdy steel frame that provides essential protection in transportation and makes it easier to carry. Ideal for a huge range of industries including: Construction, Agriculture, Automotive, Motorsport, Mobile Catering, Equestrian, Special Events and more.",
+  "availability": "Out of Stock",
+  "product_name": "Evolution GEN2800 Evo-System Generator Output 2.4Kw",
+  "specifications": [
+    "Constant Power @50Hz: 2.4kw / 3kVA",
+    "Max Power @50Hz: 2.8kw / 3.5kV",
+    "AC Output Sockets: 1 x 110V & 1 x 240V",
+    "Type: Self-Exciting, 2-Pole",
+    "Weight: 20.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-pw3200-evo-system-pressure-washer-175-bar-1.html|>
+## Evolution PW3200 Evo-System Pressure Washer 175 Bar
+
+{
+  "price": "€211.73 inc VAT (€172.14 exc.vat)",
+  "description": "The Evolution PW3200 Evo-System Pressure Washer has been designed to use with the Evo-System EVO200 Engine. It has a robust, potable design that is protected by a sturdy steel frame, which also enhances the pump's portability. Features a premium quality, brass pump for high-pressure performance (175 bar) and built-in detergent system for maximum cleaning capability. Supplied with a professional lance that has an adjustable nozzle, which varies the spray for the required use. Also offers lance storage, supplied with hooks, which fit to the frame of the engine, for convenient storage.",
+  "availability": "In Stock",
+  "product_name": "Evolution PW3200 Evo-System Pressure Washer 175 Bar",
+  "specifications": [
+    "Rated Pressure: 175 Bar",
+    "Max. Pressure: 220 Bar",
+    "Flow Rate: 8 Litre/min.",
+    "Hose: 6m Reinforced Hose",
+    "Detergent System: 1 Litre Detergent Bottle",
+    "Dimensions (H x D x W): 320 x 200 x 330mm",
+    "Weight (Lance & Hose Included): 10.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-dwp1000-evo-system-dirty-water-pump-1.html|>
+## Evolution DWP1000 Evo-System Dirty Water Pump
+
+{
+  "price": "€186.70 inc VAT (€151.79 exc.vat)",
+  "description": "The Evolution DWP1000 Evo-System Dirty Water Pump has been designed to use with the Evo-System EVO200 Engine. It has a robust, potable design that is protected by a sturdy steel frame, which also enhances the pump's portability. Features a 3in (75mm) diameter inlet and outlet ports, it pumps up to 1000 litres of water per minute. The perfect solution when you need to move water quickly and efficiently. Supplied with an inlet filter which helps prevent unwanted debris from entering the pump.",
+  "availability": "Out of Stock",
+  "product_name": "Evolution DWP1000 Evo-System Dirty Water Pump",
+  "specifications": [
+    "Flow Rate: 1000l/min",
+    "Max. Solids: 8mm",
+    "Inlet & Output Diameter (Inlet Filter): 75mm",
+    "Pump Lift: 28m",
+    "Suction Height: 8m",
+    "Dimensions (H x D x W): 395 x 345 x 300mm",
+    "Weight: 10.7kg"
+  ]
+}
+

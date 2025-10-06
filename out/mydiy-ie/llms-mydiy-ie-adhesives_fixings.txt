@@ -1,0 +1,11 @@
+<|https://www.mydiy.ie/products/flex-power-tools-bp-msr-d30-cushioned-special-adhesive-pad-30mm.html|>
+## Flex Power Tools BP-M/SR D30 Cushioned Special Adhesive Pad 30mm
+
+{
+  "price": "€150",
+  "description": "The Flex Power Tools BP-M/SR D30 Cushioned Special Adhesive Pad for spot disc grinding is soft with 5mm foam rubber. Due to the special pad mount, it can only be used with the PXE 80 10.8-EC Spot Polisher.",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools BP-M/SR D30 Cushioned Special Adhesive Pad 30mm",
+  "specifications": []
+}
+

@@ -1,0 +1,753 @@
+<|https://www.mydiy.ie/products/dewalt-boa-lightweight-boots-stone.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-classic-design-rigger-boots.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-extreme-3-wheat-buffalo-safety-boot.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-kirksville-s3-pro-lite-safety-boots.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-krypton-safety-trainer.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-murray-waterproof-safety-boots.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-radial-boots-brown.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-titanium-s3-safety-boots.html|>
+## DEWALT Titanium S3 Safety Boots
+
+{
+  "price": "from €173.04 inc VAT",
+  "description": "The DEWALT Titanium Nubuck Weatherproof Safety Boots have a PU dual density outsole that is lightweight and durable and has been tested to 35,000 flexes, providing long life. They have a steel toecap and steel midsole for maximum safety. The membrane lining is waterproof and breathable. Conform to CE ENISO20345. Safety rating: S3. Slip rating: SRA.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Titanium S3 Safety Boots",
+  "specifications": [
+    "PU dual density outsole",
+    "Steel toecap and midsole",
+    "Waterproof and breathable membrane lining",
+    "CE ENISO20345 compliant",
+    "Safety rating: S3",
+    "Slip rating: SRA"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-d340-blue-overshoes-pack-100.html|>
+## Portwest D340 Blue Overshoes (Pack 100)
+
+{
+  "price": "€5.39 inc VAT (€4.38 exc.vat)",
+  "description": "Multipurpose. Elasticated ankle strap keeps the cover securely in place. The sole is embossed for enhanced grip. Designed so one size fits all wearers.",
+  "availability": "In Stock",
+  "product_name": "Portwest D340 Blue Overshoes (Pack 100)",
+  "specifications": [
+    "Elasticated ankle strap for secure fit",
+    "Embossed sole for enhanced grip",
+    "One size fits all"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fl01-black-steelite-90cm-bootlace-pk12pr.html|>
+## Portwest Fl01 Black Steelite 90Cm Bootlace Pk12Pr
+
+{
+  "price": "€3.06 inc VAT (€2.49 exc.vat)",
+  "description": "Fl01 Black Steelite 90Cm Bootlace Pk12Pr",
+  "availability": "Out of Stock",
+  "product_name": "Portwest Fl01 Black Steelite 90Cm Bootlace Pk12Pr",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-steelite-tove-trainer-black-blue-size-44.html|>
+## Portwest Steelite Tove Trainer Black Blue Size 44
+
+{
+  "price": "€85.25 inc VAT (€69.31 exc.vat)",
+  "description": "Steelite Tove Trainer Black Blue Size 44",
+  "availability": "Out of Stock",
+  "product_name": "Portwest Steelite Tove Trainer Black Blue Size 44",
+  "specifications": [
+    "Model: PWTFT15B44",
+    "Size: 44",
+    "Price: €85.25"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-new-group-for-pwtfw31h42.html|>
+## Portwest New Group for PWTFW31H42
+
+{
+  "price": "€87.60 inc VAT (€71.22 exc.vat)",
+  "description": "Fw31 Honey 42Uk 8 Mid-Cut Nubuck Boot",
+  "availability": "Out of Stock",
+  "product_name": "Portwest New Group for PWTFW31H42",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fd90-green-non-safety-wellingtons-42.html|>
+## Portwest Fd90 Green Non Safety Wellingtons 42
+
+{
+  "price": "€77.12 inc VAT (€62.70 exc.vat)",
+  "description": "Fd90 Green Non Safety Wellingtons 42",
+  "availability": "Out of Stock",
+  "product_name": "Portwest Fd90 Green Non Safety Wellingtons 42",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fd90-green-non-safety-wellingtons-43.html|>
+## Portwest Fd90 Green Non Safety Wellingtons 43
+
+{
+  "price": "€77.12 inc VAT (€62.70 exc.vat)",
+  "description": "Fd90 Green Non Safety Wellingtons 43",
+  "availability": "Out of Stock",
+  "product_name": "Portwest Fd90 Green Non Safety Wellingtons 43",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fd90-green-non-safety-wellingtons-44-uk-10.html|>
+## FD90 Green Non-Safety Wellingtons 44 (UK 10)
+
+{
+  "price": "€77.12 inc VAT (€62.70 exc.vat)",
+  "description": "100% waterproof, keep feet warm and dry. Lightweight PU construction. More flexible and longer lasting than PVC or rubber. Keep feet hot in winter and cool in summer. SRC slip resistant, fuel and oil resistant outsole.",
+  "availability": "Out of Stock",
+  "product_name": "FD90 Green Non-Safety Wellingtons 44 (UK 10)",
+  "specifications": [
+    "100% waterproof",
+    "Lightweight PU construction",
+    "Flexible and longer lasting than PVC or rubber",
+    "SRC slip resistant",
+    "Fuel and oil resistant outsole"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw18-goodyear-welted-boots.html|>
+## Portwest FW18 Goodyear Welted Boots
+
+{
+  "price": "€85.56 inc VAT",
+  "description": "Full grain leather uppers\n\nClassic welted construction\n\nSlip Rating: SRA\n\nHeat, fuel and oil resistant rubber outsoles",
+  "availability": "In Stock",
+  "product_name": "Portwest FW18 Goodyear Welted Boots",
+  "specifications": [
+    "Full grain leather uppers",
+    "Classic welted construction",
+    "Slip Rating: SRA",
+    "Heat, fuel and oil resistant rubber outsoles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw40-occupational-hiker-boots.html|>
+## Portwest FW40 Occupational Hiker Boots
+
+{
+  "price": "€71.46 inc VAT",
+  "description": "Energy absorbing seat region\nSlip Rating: SRA\nPrevents slips and trips on ceramic surfaces\nEye-catching navy suede and lime colour combination",
+  "availability": "In Stock",
+  "product_name": "Portwest FW40 Occupational Hiker Boots",
+  "specifications": [
+    "Energy absorbing seat region",
+    "Slip Rating: SRA",
+    "Prevents slips and trips on ceramic surfaces",
+    "Eye-catching navy suede and lime colour combination"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fleece-lined-wellingtons.html|>
+## Scan Fleece Lined Wellingtons
+
+{
+  "price": "€30.27 inc VAT",
+  "description": "The Scan Fleece Lined Wellingtons are made from PVC making them fully waterproof. They also have a stitched fleece-liner, aiding both comfort and warmth perfect for cold, dirty and wet conditions. Rigger-style pull tabs and a ribbed heel aids donning and removing without a struggle. Suitable for low risk working activities within agriculture, gardening and other outdoor labour, whilst being practical for day to day activities.",
+  "availability": "In Stock",
+  "product_name": "Scan Fleece Lined Wellingtons",
+  "specifications": [
+    "Made from PVC",
+    "Fully waterproof",
+    "Stitched fleece-liner for comfort and warmth",
+    "Rigger-style pull tabs",
+    "Ribbed heel for easy donning and removal",
+    "Suitable for low risk working activities in agriculture and gardening"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-new-group-for-pwtfw90bkr41.html|>
+## Portwest New Group for PWTFW90BKR41
+
+{
+  "price": "€23.86 inc VAT",
+  "description": "Portwest New Group for PWTFW90BKR41",
+  "availability": "In Stock",
+  "product_name": "Portwest New Group for PWTFW90BKR41",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw31-steelite-mid-cut-nubuck-boots.html|>
+## Portwest FW31 Steelite Mid-Cut Nubuck Boots
+
+{
+  "price": "€87.60 inc VAT",
+  "description": "Full grain Nubuck leather uppers\nProtective steel toecap\nSlip Rating: SRA\nDual density heat, fuel and oil resistant rubber outsoles\nHigh-wicking breathable mesh liner for extra comfort",
+  "availability": "In Stock",
+  "product_name": "Portwest FW31 Steelite Mid-Cut Nubuck Boots",
+  "specifications": [
+    "Full grain Nubuck leather uppers",
+    "Protective steel toecap",
+    "Slip Rating: SRA",
+    "Dual density heat, fuel and oil resistant rubber outsoles",
+    "High-wicking breathable mesh liner for extra comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fc21-compositelite-safety-s1-boots-black-uk-11-eur-45.html|>
+## FC21 Compositelite Safety S1 Boots Black UK 11 EUR 45
+
+{
+  "price": "€52.42 inc VAT (€42.62 exc.vat)",
+  "description": "Portwest FC21 Compositelite Safety S1 Boots are lightweight and 100% metal-free. Fitted with a protective composite toecap and a dual-density PU outsole. The outsole is SRC Slip-resistant, preventing slips and trips on ceramic and steel surfaces. They are also resistant to fuel and oil stains. CE certified.",
+  "availability": "Out of Stock",
+  "product_name": "FC21 Compositelite Safety S1 Boots Black UK 11 EUR 45",
+  "specifications": [
+    "Lightweight and 100% metal-free",
+    "Protective composite toecap",
+    "Dual-density PU outsole",
+    "SRC Slip-resistant",
+    "Resistant to fuel and oil stains",
+    "CE certified"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw13-steelite-rigger-tan-boots-size-uk-6-euro-3940.html|>
+## Portwest FW13 Steelite Rigger Tan Boots Size UK 6 Euro 39/40
+
+{
+  "price": "€79.74 inc VAT (€64.83 exc.vat)",
+  "description": "Rigger style with fur lining\n\nSteel toecap and midsole\n\nAnti-static, oil and heat resistant soles\n\nSRC - Slip resistant outsole to prevent slips and trips on ceramic and steel surfaces\n\nIdeal for those working in cold conditions",
+  "availability": "Out of Stock",
+  "product_name": "Portwest FW13 Steelite Rigger Tan Boots Size UK 6 Euro 39/40",
+  "specifications": [
+    "Rigger style with fur lining",
+    "Steel toecap and midsole",
+    "Anti-static, oil and heat resistant soles",
+    "SRC - Slip resistant outsole",
+    "Ideal for those working in cold conditions"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw13-tan-steelite-rigger-scuff-cap-uk7.html|>
+## Portwest Fw13 Tan Steelite Rigger Scuff Cap Uk7
+
+{
+  "price": "€79.74 inc VAT (€64.83 exc.vat)",
+  "description": "Fw13 Tan Steelite Rigger Scuff Cap Uk7",
+  "availability": "Out of Stock",
+  "product_name": "Portwest Fw13 Tan Steelite Rigger Scuff Cap Uk7",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw46-steelite-executive-black-brogues-s1p-size-uk-9-euro-43.html|>
+## Portwest FW46 Steelite Executive Black Brogues S1P Size UK 9 (Euro 43)
+
+{
+  "price": "€103.48 inc VAT (€84.13 exc.vat)",
+  "description": "Brogue style leather safety shoe with moisture management fabric for extra comfort. Steel toecap and midsole. Fuel and oil resistant outsole. Energy absorbing seat region. SRC - Slip resistant outsole to prevent slips and trips on ceramic and steel surfaces.",
+  "availability": "Out of Stock",
+  "product_name": "Portwest FW46 Steelite Executive Black Brogues S1P Size UK 9 (Euro 43)",
+  "specifications": [
+    "Brogue style leather safety shoe",
+    "Moisture management fabric for extra comfort",
+    "Steel toecap and midsole",
+    "Fuel and oil resistant outsole",
+    "Energy absorbing seat region",
+    "SRC - Slip resistant outsole"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw51-brown-46uk-11-steelite-dealer-boot.html|>
+## Portwest Fw51 Brown 46Uk 11 Steelite Dealer Boot
+
+{
+  "price": "€79.89 inc VAT (€64.95 exc.vat)",
+  "description": "Fw51 Brown 46Uk 11 Steelite Dealer Boot",
+  "availability": "Out of Stock",
+  "product_name": "Portwest Fw51 Brown 46Uk 11 Steelite Dealer Boot",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw66-black-steelite-all-weather-hiker-boots-42-uk-8.html|>
+## Portwest FW66 Black Steelite All Weather Hiker Boots 42 (UK 8)
+
+{
+  "price": "€106.22 inc VAT (€86.36 exc.vat)",
+  "description": "Cow suede leather uppers\nSteel toecap and midsole\nSlip Rating: SRC\nAnti-static, heat, chemical and oil resistant sole\n100% waterproof membrane",
+  "availability": "Out of Stock",
+  "product_name": "Portwest FW66 Black Steelite All Weather Hiker Boots 42 (UK 8)",
+  "specifications": [
+    "Cow suede leather uppers",
+    "Steel toecap and midsole",
+    "Slip Rating: SRC",
+    "Anti-static, heat, chemical and oil resistant sole",
+    "100% waterproof membrane"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fc57-compositelite-all-weather-boots.html|>
+## Portwest FC57 Compositelite All Weather Boots
+
+{
+  "price": "€153.69 inc VAT",
+  "description": "Full grain nubuck leather uppers\nComposite toecap and midsole,100% non-metallic\nSlip Rating: SRC\nAnti-static, heat, chemical and oil resistant sole\n100% waterproof membrane",
+  "availability": "In Stock",
+  "product_name": "Portwest FC57 Compositelite All Weather Boots",
+  "specifications": [
+    "Full grain nubuck leather uppers",
+    "Composite toecap and midsole,100% non-metallic",
+    "Slip Rating: SRC",
+    "Anti-static, heat, chemical and oil resistant sole",
+    "100% waterproof membrane"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fd85-metatarsal-safety-wellingtons.html|>
+## Portwest FD85 Metatarsal Safety Wellingtons
+
+{
+  "price": "€91.75 inc VAT",
+  "description": "100% PVC/nitrile waterproof uppers\n\nSteel toecap and pierce resistant steel midsole\n\nSlip Rating: SRA\n\nAnti-static, fuel and oil resistant outsole\n\nCold flex tested to -20°C",
+  "availability": "In Stock",
+  "product_name": "Portwest FD85 Metatarsal Safety Wellingtons",
+  "specifications": [
+    "100% PVC/nitrile waterproof uppers",
+    "Steel toecap and pierce resistant steel midsole",
+    "Slip Rating: SRA",
+    "Anti-static, fuel and oil resistant outsole",
+    "Cold flex tested to -20°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw10-steelite-protector-boots.html|>
+## Portwest FW10 Steelite Protector Boots
+
+{
+  "price": "€38.63 inc VAT",
+  "description": "Leather uppers\n\nSteel toecap and puncture resistant steel midsole\n\nSlip Rating: SRC\n\nAnti-static, heat, fuel and oil resistant outsole\n\nRemovable EVA cushion footbed",
+  "availability": "In Stock",
+  "product_name": "Portwest FW10 Steelite Protector Boots",
+  "specifications": [
+    "Leather uppers",
+    "Steel toecap and puncture resistant steel midsole",
+    "Slip Rating: SRC",
+    "Anti-static, heat, fuel and oil resistant outsole",
+    "Removable EVA cushion footbed"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw11-steelite-s3-thor-boots.html|>
+## Portwest FW11 Steelite S3 Thor Boots
+
+{
+  "price": "€80.56 inc VAT",
+  "description": "Full grain leather uppers\n\nSteel toecap and midsole\n\nSlip Rating: SRC\n\nAnti-static, fuel and oil resistant outsole\n\nEnergy absorbing seat region",
+  "availability": "In Stock",
+  "product_name": "Portwest FW11 Steelite S3 Thor Boots",
+  "specifications": [
+    "Full grain leather uppers",
+    "Steel toecap and midsole",
+    "Slip Rating: SRC",
+    "Anti-static, fuel and oil resistant outsole",
+    "Energy absorbing seat region"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-new-group-for-pwtfw11b42.html|>
+## Portwest New Group for PWTFW11B42
+
+{
+  "price": "€80.56",
+  "description": "Portwest New Group for PWTFW11B42",
+  "availability": "In Stock",
+  "product_name": "Portwest New Group for PWTFW11B42",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw13-steelite-rigger-boots.html|>
+## Portwest FW13 Steelite Rigger Boots
+
+{
+  "price": "€79.74 inc VAT",
+  "description": "Split buffalo leather uppers\nSteel toecap and midsole\nSlip Rating: SRC\nAnti-static, heat, fuel and oil resistant outsole\nFur lining helps to trap heat, keeping feet warm",
+  "availability": "In Stock",
+  "product_name": "Portwest FW13 Steelite Rigger Boots",
+  "specifications": [
+    "Split buffalo leather uppers",
+    "Steel toecap and midsole",
+    "Slip Rating: SRC",
+    "Anti-static, heat, fuel and oil resistant outsole",
+    "Fur lining helps to trap heat, keeping feet warm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw51-steelite-dealer-boots.html|>
+## Portwest FW51 Steelite Dealer Boots
+
+{
+  "price": "€79.89 inc VAT",
+  "description": "Waxy full grain buffalo leather uppers\n\nSteel toecap and midsole\n\nSlip Rating: SRA\n\nAnti-static, fuel and oil resistant outsole\n\nDual density sole unit",
+  "availability": "In Stock",
+  "product_name": "Portwest FW51 Steelite Dealer Boots",
+  "specifications": [
+    "Waxy full grain buffalo leather uppers",
+    "Steel toecap and midsole",
+    "Slip Rating: SRA",
+    "Anti-static, fuel and oil resistant outsole",
+    "Dual density sole unit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-viper-sbp-safety-boots.html|>
+## Scan Viper SBP Safety Boots
+
+{
+  "price": "€47.06 inc VAT",
+  "description": "The Scan Viper SBP Safety Boots have a full grain leather upper, 200-joule steel toecap and penetration resistant steel midsole. Fitted with a dual-density PU outsole, this cushioned sole ensures high levels of comfort. There is also an energy-absorbing hill that maintains comfort over long periods. The fuel and oil-resistant, SRC-rated slip-resistant sole increases wear safety, making these boots ideal for tradesmen.",
+  "availability": "In Stock",
+  "product_name": "Scan Viper SBP Safety Boots",
+  "specifications": [
+    "Full grain leather upper",
+    "200-joule steel toecap",
+    "Penetration resistant steel midsole",
+    "Dual-density PU outsole",
+    "Energy-absorbing hill",
+    "Fuel and oil-resistant",
+    "SRC-rated slip-resistant sole",
+    "Safety Rating: SBP",
+    "Slip Rating: SRC"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-clothing-flagstaff-s3-waterproof-safety-boots.html|>
+## STANLEY® Clothing Flagstaff S3 Waterproof Safety Boots
+
+{
+  "price": "€80.58 inc VAT",
+  "description": "The Stanley Flagstaff Safety Boots have a leather and mesh upper. Fitted with a waterproof membrane, ideal when working outside during unpredictable weather conditions. There is also a padded collar and tongue for added comfort. A steel toecap tested to 200 joules, and steel midsole, provide maximum user protection. The sole is oil-resistant and antistatic. EN Test: CE EN ISO 20345-2011 Safety Rating: S3 WR",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Clothing Flagstaff S3 Waterproof Safety Boots",
+  "specifications": [
+    "Leather and mesh upper",
+    "Waterproof membrane",
+    "Padded collar and tongue",
+    "Steel toecap tested to 200 joules",
+    "Steel midsole for maximum protection",
+    "Oil-resistant and antistatic sole",
+    "Safety Rating: S3 WR",
+    "EN Test: CE EN ISO 20345-2011"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-clothing-tradesman-sb-p-safety-boots.html|>
+## STANLEY® Clothing Tradesman SB-P Safety Boots
+
+{
+  "price": "€80.58 inc VAT",
+  "description": "Stanley Tradesman Safety Boots have high-quality, full leather uppers and a padded collar and tongue for added comfort. A 200-joule steel toecap and steel midsole provide maximum user protection. Available in Honey or Brown. EN Test: CE EN ISO 20345-2011 Safety Rating: SB-P Slip Rating: SRA",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Clothing Tradesman SB-P Safety Boots",
+  "specifications": [
+    "High-quality full leather uppers",
+    "Padded collar and tongue for comfort",
+    "200-joule steel toecap",
+    "Steel midsole for protection",
+    "Available in Honey or Brown",
+    "EN Test: CE EN ISO 20345-2011",
+    "Safety Rating: SB-P",
+    "Slip Rating: SRA"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-reno-pro-lite-safety-boots.html|>
+## DEWALT Reno Pro-Lite Safety Boots
+
+{
+  "price": "€174.83 inc VAT",
+  "description": "DEWALT Reno Pro-Lite Safety Boots with water-resistant nubuck leather uppers, aluminium toe cap (200 Joules) and composite midsole. The lightweight Phylon/Rubber Pro-Lite outsole is resistant to fuel and oil. Its also certified to the highest slip rating. Comfortable all day wear is provided with the DEWALT Pro Comfort insole (built in arch support), padded tongue and collar. Conform to CE EN ISO 20345-2011. Safety Rating: S3. Slip Rating: SR.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Reno Pro-Lite Safety Boots",
+  "specifications": [
+    "Water-resistant nubuck leather uppers",
+    "Aluminium toe cap (200 Joules)",
+    "Composite midsole",
+    "Lightweight Phylon/Rubber Pro-Lite outsole",
+    "Certified to the highest slip rating",
+    "DEWALT Pro Comfort insole with built-in arch support",
+    "Padded tongue and collar",
+    "Conform to CE EN ISO 20345-2011",
+    "Safety Rating: S3",
+    "Slip Rating: SR"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw69-brown-41uk-7-steelite-boot.html|>
+## Portwest Fw69 Brown 41Uk 7 Steelite Boot
+
+{
+  "price": "€93.53 inc VAT (€76.04 exc.vat)",
+  "description": "Fw69 Brown 41Uk 7 Steelite Boot",
+  "availability": "Out of Stock",
+  "product_name": "Portwest Fw69 Brown 41Uk 7 Steelite Boot",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
+    "No quibble returns: If you need to return something for any reason, whether it's not the right tool for the job or if it's faulty."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-desert-viper-s3-safety-boots.html|>
+## Scan Desert Viper S3 Safety Boots
+
+{
+  "price": "€54.97 inc VAT",
+  "description": "The Scan Desert Viper S3 Safety Boots have action nubuck leather water-resistant uppers with a padded mesh liner, 200-joule steel toecaps and penetration-resistant steel midsoles. Fitted with a anti-static, fuel and oil resistant and SR slip resistant dual-density PU outsole. The reinforced cleated heel offers high traction to uneven surfaces. The heel features a thermoplastic rubber guard and pull-tab for easy removal. The boot features a padded upper and cushioned tongue for prolonged comfort. EN Test: EN ISO 20345-2022. Safety Ratings: S3 SR FO.",
+  "availability": "In Stock",
+  "product_name": "Scan Desert Viper S3 Safety Boots",
+  "specifications": [
+    "Action nubuck leather water-resistant uppers",
+    "Padded mesh liner",
+    "200-joule steel toecaps",
+    "Penetration-resistant steel midsoles",
+    "Anti-static, fuel and oil resistant",
+    "SR slip resistant dual-density PU outsole",
+    "Reinforced cleated heel for high traction",
+    "Thermoplastic rubber guard and pull-tab for easy removal",
+    "Padded upper and cushioned tongue for comfort",
+    "EN Test: EN ISO 20345-2022",
+    "Safety Ratings: S3 SR FO"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw69-steelite-mustang-boots.html|>
+## Portwest FW69 Steelite Mustang Boots
+
+{
+  "price": "€93.53 inc VAT",
+  "description": "Water-resistant, full grain leather uppers\nSteel toecap and midsole\nSlip Rating: SRC\nAnti-static, fuel and oil resistant outsole\nRemovable EVA cushion footbed",
+  "availability": "In Stock",
+  "product_name": "Portwest FW69 Steelite Mustang Boots",
+  "specifications": [
+    "Water-resistant, full grain leather uppers",
+    "Steel toecap and midsole",
+    "Slip Rating: SRC",
+    "Anti-static, fuel and oil resistant outsole",
+    "Removable EVA cushion footbed"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-stone-extreme-boots.html|>
+## DEWALT Stone Extreme Boots
+
+{
+  "price": "€76.75 inc VAT",
+  "description": "DEWALT Stone Extreme Boot with Nubuck leather uppers. Steel toecaps provide added protection and can withstand up to 200 Joules of pressure. They have lightweight phylon/rubber outsoles. A padded collar and tongue for increased comfort, there is also a comfort insole. EN Test: CE EN ISO 20345-2011. Safety Rating: SB.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Stone Extreme Boots",
+  "specifications": [
+    "Nubuck leather uppers",
+    "Steel toecaps (200 Joules)",
+    "Lightweight phylon/rubber outsoles",
+    "Padded collar and tongue",
+    "Comfort insole",
+    "EN Test: CE EN ISO 20345-2011",
+    "Safety Rating: SB"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw95-steelite-wellingtons.html|>
+## Portwest FW95 Steelite Wellingtons
+
+{
+  "price": "€35.72 inc VAT",
+  "description": "Dual density PVC/nitrile construction\nSteel toecap and midsole\nSlip Rating: SRC\nAnti-static, fuel and oil resistant outsole\nWashable nylon inner lining",
+  "availability": "In Stock",
+  "product_name": "Portwest FW95 Steelite Wellingtons",
+  "specifications": [
+    "Dual density PVC/nitrile construction",
+    "Steel toecap and midsole",
+    "Slip Rating: SRC",
+    "Anti-static, fuel and oil resistant outsole",
+    "Washable nylon inner lining"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-clothing-atlanta-waterproof-safety-boots.html|>
+## STANLEY® Clothing Atlanta Waterproof Safety Boots
+
+{
+  "price": "€88.60 inc VAT",
+  "description": "The STANLEY® Atlanta Waterproof Safety Boots made in premium Nubuck leather, with a breathable waterproof membrane (inside the boot). Fitted with a steel toe and midsole for increased safety. The rubber and PU dual density sole not only gives great comfort but is also anti-slip and anti static. There is also an additional external toe cap and heal support. This is an all round great boot for any construction worker.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Clothing Atlanta Waterproof Safety Boots",
+  "specifications": [
+    "Made in premium Nubuck leather",
+    "Breathable waterproof membrane",
+    "Steel toe and midsole for increased safety",
+    "Rubber and PU dual density sole",
+    "Anti-slip and anti-static",
+    "Additional external toe cap and heel support"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-clothing-cody-safety-trainers.html|>
+## STANLEY® Clothing Cody Safety Trainers
+
+{
+  "price": "€67.17 inc VAT",
+  "description": "The Stanley Cody Safety Trainers have a suede and mesh upper with a padded collar and tongue for all-day comfort. They are fitted with an oil-resistant sole and a steel toecap that has been tested to 200 joules.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Clothing Cody Safety Trainers",
+  "specifications": [
+    "EN Test: CE EN ISO 20345-2011",
+    "Safety Rating: SB",
+    "Slip Rating: SRC"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-viper-s1p-safety-trainers.html|>
+## Scan Viper S1P Safety Trainers
+
+{
+  "price": "€39.91 inc VAT",
+  "description": "The Scan Viper S1P Safety Trainers have a lightweight and breathable fly knit upper, 200-joule steel toe caps and penetration resistant steel midsoles. Fitted with a dual-density PU outsole, this cushioned sole ensures high levels of comfort. There is also an energy-absorbing heel which maintains comfort over long periods. The fuel and oil-resistant, SR rated slip-resistant sole increases wear safety, making these trainers ideal for tradespeople.",
+  "availability": "In Stock",
+  "product_name": "Scan Viper S1P Safety Trainers",
+  "specifications": [
+    "Safety Rating: S1P",
+    "Slip Rating: SR",
+    "Lightweight and breathable fly knit upper",
+    "200-joule steel toe caps",
+    "Penetration resistant steel midsoles",
+    "Dual-density PU outsole",
+    "Energy-absorbing heel",
+    "Fuel and oil-resistant sole",
+    "SR rated slip-resistant sole"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-dual-density-chukka-boots-black.html|>
+## Scan Dual Density Chukka Boots Black
+
+{
+  "price": "from €34.99 inc VAT",
+  "description": "Scan Dual Density Chukka Boot Black is a multi-purpose boot that is popular with users in the construction, agriculture and engineering industries. Grained leather uppers with resistance to abrasion. Anti-static, energy absorbent polyurethane soles for comfort, strength and durability. Padded ankle collars for extra comfort. Steel toe caps with 200 joule rating. Steel midsole. Oil, acid, alkaline, heat (180°C) and penetration resistant soles. Conform to EN20345-S1P standards.",
+  "availability": "In Stock",
+  "product_name": "Scan Dual Density Chukka Boots Black",
+  "specifications": [
+    "Size options: 6 (40), 7 (41), 8 (42), 9 (43), 10 (44), 11 (45), 12 (46)",
+    "Steel toe caps with 200 joule rating",
+    "Steel midsole",
+    "Oil, acid, alkaline, heat (180°C) and penetration resistant soles",
+    "Conform to EN20345-S1P standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-texas-dual-density-lined-rigger-boots.html|>
+## Scan Texas Dual Density Lined Rigger Boots
+
+{
+  "price": "from €20.00 inc VAT",
+  "description": "The Scan Texas Boot is a popular multipurpose dual density boot which combines style with practicality. It is ideal for the construction and haulage industries and outdoor workers. Features: Anti-static, energy absorbent polyurethane soles for comfort, strength, durability and slip resistance. Grained leather uppers resistant to abrasion. Fleece lined with cushioned insole and arch support. Padded ankle protectors and a rear scuff guard. 'Pull-on' style for ease and comfort. Steel toe caps with 200 joules rating. Steel midsole for penetration resistance. Oil, acid, alkaline, heat (180°C) and penetration resistant soles. Conforms to EN20345-S1P.",
+  "availability": "In Stock",
+  "product_name": "Scan Texas Dual Density Lined Rigger Boots",
+  "specifications": [
+    "Anti-static, energy absorbent polyurethane soles",
+    "Grained leather uppers resistant to abrasion",
+    "Fleece lined with cushioned insole and arch support",
+    "Padded ankle protectors and a rear scuff guard",
+    "'Pull-on' style for ease and comfort",
+    "Steel toe caps with 200 joules rating",
+    "Steel midsole for penetration resistance",
+    "Oil, acid, alkaline, heat (180°C) and penetration resistant soles",
+    "Conforms to EN20345-S1P"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-safety-wellingtons.html|>
+## Scan Safety Wellingtons
+
+{
+  "price": "from €19.99 inc VAT",
+  "description": "Specially adapted Wellingtons with the appearance of standard equivalents. Ideal for use in workplaces where resistance to penetration by liquids and hard objects are high priorities. Features include: High grade blend of PVC and nitrile rubber. Resistant to ISO 6112 chemicals and oils. Treated surface for easy cleaning. Anti-static, energy absorbent soles for comfort, strength, durability and slip resistance. Steel toe caps with 200 joule rating. Steel midsole. Oil, acid, alkaline, heat (180°C) and penetration resistant soles. Conforms to EN20345-S5.",
+  "availability": "In Stock",
+  "product_name": "Scan Safety Wellingtons",
+  "specifications": [
+    "High grade blend of PVC and nitrile rubber",
+    "Resistant to ISO 6112 chemicals and oils",
+    "Treated surface for easy cleaning",
+    "Anti-static, energy absorbent soles",
+    "Steel toe caps with 200 joule rating",
+    "Steel midsole",
+    "Oil, acid, alkaline, heat (180°C) and penetration resistant soles",
+    "Conforms to EN20345-S5"
+  ]
+}
+

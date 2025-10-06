@@ -1,0 +1,20 @@
+<|https://www.mydiy.ie/products/fiskars-kitchen-and-food-scissor-180mm-7in.html|>
+## Fiskars Kitchen & Food Scissor 180mm (7in)
+
+{
+  "price": "€21.01 inc VAT (€17.08 exc.vat)",
+  "description": "The Fiskars FSK859874 Kitchen & Food Scissors are ideal for cutting food and opening packages in the kitchen. The serrated blades prevent slipping and keep materials in place. The blades are made from stainless steel, with a hardness of HRC 57, ensuring long lasting sharpness. The blade tension is adjustable. They are also dishwasher safe. Length: 180mm (7in). Weight: 73g.",
+  "availability": "Out of Stock",
+  "product_name": "Fiskars Kitchen & Food Scissor 180mm (7in)",
+  "specifications": [
+    "Length: 180mm (7in)",
+    "Weight: 73g",
+    "Serrated blades prevent slipping",
+    "Blades made from stainless steel",
+    "Blade hardness: HRC 57",
+    "Dishwasher safe",
+    "Adjustable blade tension"
+  ],
+  "product_category": "Kitchen Tools"
+}
+

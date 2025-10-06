@@ -1,0 +1,403 @@
+<|https://www.mydiy.ie/products/link2home-weatherproof-ip54-smart-battery-doorbell.html|>
+## Link2Home Weatherproof (IP54) Smart Battery Doorbell
+
+{
+  "price": "€157.22 inc VAT (€127.82 exc.vat)",
+  "description": "The Link2Home Wireless Smart Battery Doorbell enables you to answer your front door from anywhere. Get instant alerts when someone presses the doorbell button or the motion sensor is activated. It emits its own exterior audible tone and can be easily linked with the Link2Home Bell Chime (sold separately) for inside your home. Secure connection, the camera utilises 128-bit SSL encryption.\n\nWith full duplex, 2-way audio, you can hear and talk with your visitor using the Link2Home Pro app. It also streams in full HD (1080p) to your chosen device. Additionally, you can get a 145° wide-angle view of the area, zoom in, and enhance, you will be able to see every detail. This is the same day or night thanks to Night Vision LED sensors which let you view the whole scene at night. The CMOS sensor also provides better image clarity compared to CCD Sensors.\n\nIf your Smart Battery Doorbell detects something irregular or regular, you can receive an activity alert on your smartphone with a snapshot of what happened. You can record video clips of activity using the inbuilt MicroSD card slot (memory card*) or cloud service**.\n\nThe casing is weatherproof (IP54 rated), so it will always keep monitoring, come rain or shine. It has its own built-in battery power supply that can last up to 3 months, based on 10 activations per day. The battery can be recharged via the USB charging cable with the option of a permanent power supply available.\n\nCompatible with Amazon Echo Show and Google Screen devices including Google Chromecast. Just ask your smart speaker to access your camera device by saying 'Alexa show me the front door' or 'Hey Google show me the front door on the living room TV'.\n\nQuick and easy to set up. Simply install the mounting bracket, charge your bell, download the Link2Home Pro app and set it up from your Android or iOS device. No hub required. With no wires needed the bell can be placed anywhere around your front door or other areas. The mount can be fixed to wood or masonry using the screws provided. Using the Link2Home Pro app (Free) you can set up a range of Automation features including recording during specific times or bell to trigger another device.\n\nMemory:\n*MicroSD Card (sold separately): 16GB - up to 3 days, 32GB - up to 5 days, 64GB - up to 10 days, 128GB - up to 21 days.\n**Cloud Service (subscription sold separately). With the cloud service, you can continuously record everything that’s happening, 24/7, not just clips. So, you can scan through up to 30 days of video history to see what you’ve missed.\n\nSystem Requirements:\nWi-Fi Connection\nMobile or tablet with iOS 8 or later, or Android 4.1 or later\nLink2Home Pro Account (Free)",
+  "availability": "Out of Stock",
+  "product_name": "Link2Home Weatherproof (IP54) Smart Battery Doorbell",
+  "specifications": [
+    "Weatherproof (IP54) rated",
+    "Full HD (1080p) streaming",
+    "145° wide-angle view",
+    "Night Vision LED sensors",
+    "2-way audio",
+    "Compatible with Amazon Echo Show and Google Screen devices",
+    "Rechargeable battery lasts up to 3 months",
+    "MicroSD card slot for video recording",
+    "Cloud service available for continuous recording"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-wireless-chime-for-smart-doorbell.html|>
+## Link2Home Wireless Chime for Smart Doorbell
+
+{
+  "price": "€26.70 inc VAT (€21.71 exc.vat)",
+  "description": "The Link2Home Wireless Chime simply plugs into any USB power supply and connects to your Link2Home doorbell over Wi-Fi through the Link2Home Pro app (Free). It means you do not need to be near your doorbell or smart device when someone rings the doorbell. It has a discrete design, measuring just 60mm wide and 24mm deep, allowing the chime to blend into your environment. It emits a loud 120dB alert with the option to choose from 4 different melodies. The volume can be adjusted within the app screen. Simple and easy to set up with two button presses. Reset the chime with one button press and then sync with your doorbell with another button press on your doorbell device. System Requirements: Wi-Fi Connection, Mobile or tablet with iOS 8 or later, or Android 4.1 or later, Link2Home Pro Account (Free).",
+  "availability": "Out of Stock",
+  "product_name": "Link2Home Wireless Chime for Smart Doorbell",
+  "specifications": [
+    "Range: 20m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/link2home-weatherproof-ip54-smart-wired-doorbell.html|>
+## Link2Home Weatherproof (IP54) Smart Wired Doorbell
+
+{
+  "price": "€136.10 inc VAT (€110.65 exc.vat)",
+  "description": "The Link2Home Smart Wired Doorbell enables you to answer your front door from anywhere. Get instant alerts when someone presses the doorbell button or the motion sensor is activated. It emits its own exterior audible tone and can be easily linked with the Link2Home Bell Chime (sold separately) for inside your home. Secure connection, the camera utilises 128-bit SSL encryption.\n\nWith full duplex, 2-way audio, you can hear and talk with your visitor using the Link2Home Pro app. It also streams in full HD (1080p) to your chosen device. Additionally, you can get a 145° wide-angle view of the area, zoom in, and enhance, you will be able to see every detail. This is the same day or night thanks to Night Vision LED sensors which let you view the whole scene at night. The CMOS sensor also provides better image clarity compared to CCD Sensors.\n\nIf your Smart Wired Doorbell detects something irregular or regular, you can receive an activity alert on your smartphone with a snapshot of what happened. You can record video clips of activity using the inbuilt MicroSD card slot (memory card*) or cloud service**.\n\nThe casing is weatherproof (IP54 rated), so it will always keep monitoring, come rain or shine.\n\nCompatible with Amazon Echo Show and Google Screen devices including Google Chromecast. Just ask your smart speaker to access your camera device by saying 'Alexa show me the front door' or 'Hey Google show me the front door on the living room TV'.\n\nQuick and easy to set up. Simply wire up using the power adaptor included in the box and plug it into a standard 13 amp socket outlet. Download the Link2Home Pro app and set it up from your Android or iOS device. No hub required. The mount can be fixed to wood or masonry using the screws provided. Using the Link2Home Pro app (Free) you can set up a range of Automation features including recording during specific times or bell to trigger another device.\n\nMemory:\n*MicroSD Card (sold separately): 16GB - up to 3 days, 32GB - up to 5 days, 64GB - up to 10 days, 128GB - up to 21 days.\n\n**Cloud Service (subscription sold separately). With the cloud service, you can continuously record everything that’s happening, 24/7, not just clips. So, you can scan through up to 30 days of video history to see what you’ve missed.\n\nSystem Requirements:\nWi-Fi Connection\nMobile or tablet with iOS 8 or later, or Android 4.1 or later\nLink2Home Pro Account (Free)",
+  "availability": "Out of Stock",
+  "product_name": "Link2Home Weatherproof (IP54) Smart Wired Doorbell",
+  "specifications": [
+    "Weatherproof (IP54) rated",
+    "Full HD (1080p) streaming",
+    "145° wide-angle view",
+    "Night Vision LED sensors",
+    "2-way audio",
+    "Compatible with Amazon Echo Show and Google Screen devices",
+    "MicroSD card slot for recording",
+    "Cloud service available for continuous recording"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-wire-free-bell-push.html|>
+## Uni-Com Wire-free Bell Push
+
+{
+  "price": "€5.84 inc VAT (€4.75 exc.vat)",
+  "description": "The Uni-Com Wire-free Bell Push is water resistant (IP44 rated) with a blue LED indicator light and nameplate. Suitable for use with all Uni-Com Wireless + Door Chimes. The bell push is wireless, so no wiring is required, and with an extensive operating range of up to 150m, you never have to miss a visitor or delivery. Easy to fit and set-up. It comes complete with a CR2032 button cell battery, fixing screws and adhesive pads.",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Wire-free Bell Push",
+  "specifications": [
+    "Water resistant (IP44 rated)",
+    "Blue LED indicator light",
+    "Wireless operation",
+    "Operating range of up to 150m",
+    "Includes CR2032 button cell battery",
+    "Fixing screws and adhesive pads"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-plug-through-door-chime.html|>
+## Uni-Com Plug-through Door Chime
+
+{
+  "price": "€14.17 inc VAT (€11.52 exc.vat)",
+  "description": "The Uni-Com Plug-through Door Chime simply plugs into any 13A socket around your home, and with the plug-through feature, your mains socket is still available for use with other appliances. The door chime is wireless, so no wiring is required, and with an extensive operating range of up to 150m, you never have to miss a visitor or delivery. The bell push is water resistant (IP44 rated). It has 3 operating modes - chime sound only, blue LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. With 30 different chime melodies to choose from, 90dB(A) sound output with volume control and a flashing colour change chime alert, you will always know when somebody is at your door. Bell push powered by 1 x CR2032 Button Cell Battery (supplied). Compatible with all other Wireless + Uni-Com door chimes.",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Plug-through Door Chime",
+  "specifications": [
+    "Plug-through feature allows use of mains socket for other appliances",
+    "Wireless operation with a range of up to 150m",
+    "Water resistant bell push (IP44 rated)",
+    "3 operating modes: chime sound only, blue LED alert light only, both",
+    "30 different chime melodies",
+    "90dB(A) sound output with volume control",
+    "Flashing colour change chime alert",
+    "Bell push powered by 1 x CR2032 Button Cell Battery (supplied)",
+    "Compatible with all other Wireless + Uni-Com door chimes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-plug-in-door-chime-with-night-light.html|>
+## Uni-Com Plug-In Door Chime with Night Light
+
+{
+  "price": "€16.67 inc VAT (€13.55 exc.vat)",
+  "description": "Uni-Com Plug-In Door Chime with Night Light. Its dusk to dawn sensor means the night light will automatically operate only when it is dark, and can be switched off if required. Ideal for use around the home, plugs into any 13A socket around your home. The door chime is wireless, so no wiring is required, and with an extensive operating range of up to 200m, you never have to miss a visitor or delivery. The bell push is water resistant (IP44 rated). It has three operating modes - chime sound only, LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. With 30 different chime melodies to choose from, 90dB(A) sound output with volume control and a flashing chime alert, you will always know when somebody is at your door. Bell push powered by 1 x CR2032 Button Cell Battery (supplied).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Plug-In Door Chime with Night Light",
+  "specifications": [
+    "Dusk to dawn sensor",
+    "Wireless operation",
+    "Operating range up to 200m",
+    "Water resistant bell push (IP44 rated)",
+    "Three operating modes: chime sound only, LED alert light only, both together",
+    "30 different chime melodies",
+    "90dB(A) sound output with volume control",
+    "Flashing chime alert",
+    "Bell push powered by 1 x CR2032 Button Cell Battery (supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-plug-in-door-chime-with-usb-charger.html|>
+## Uni-Com Plug-in Door Chime with USB Charger
+
+{
+  "price": "€21.68 inc VAT (€17.63 exc.vat)",
+  "description": "Uni-Com Plug-in Door Chime with USB-A and USB-C ports plus handy shelf to hold your mobile phone while charging. Ideal for use around the home, plugs into any 13A socket around your home. The door chime is wireless, so no wiring is required, and with an extensive operating range of up to 200m, you never have to miss a visitor or delivery. The bell push is water resistant (IP44 rated). It has three operating modes - chime sound only, blue LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. With 30 different chime melodies to choose from, 90dB(A) sound output with volume control and a flashing blue chime alert, you will always know when somebody is at your door. Bell push powered by 1 x CR2032 Button Cell Battery (supplied).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Plug-in Door Chime with USB Charger",
+  "specifications": [
+    "Plug-in design",
+    "USB-A and USB-C ports",
+    "Wireless operation",
+    "Operating range of up to 200m",
+    "Water resistant bell push (IP44 rated)",
+    "30 different chime melodies",
+    "90dB(A) sound output with volume control",
+    "Flashing blue chime alert",
+    "Bell push powered by 1 x CR2032 Button Cell Battery (supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-kinetic-door-chime.html|>
+## Uni-Com Kinetic Door Chime
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "The Uni-Com Kinetic Door Chime is our most environmentally friendly door chime to date, with a battery free bell push and made from 50% recycled plastic! The Chime unit simply plugs into any 13A socket around your home, and with very low standby power consumption, you will be using minimal power while never missing a visitor or delivery. The Door Chime also has a built-in night light which automatically switches on when it is dark and off when daylight returns. The night light can be switched off if not required. The door chime is wireless, so no wiring is required, and has an extensive operating range of up to 150m. With 30 different chime melodies to choose from, 90dB(A) sound output with volume control and a flashing chime alert, you will always know when somebody is at your door. It has 3 operating modes - chime sound only, LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. The kinetic bell push is self powered when the button is pressed, so no battery required. Water resistant (IP55 rated).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Kinetic Door Chime",
+  "specifications": [
+    "Battery-free bell push",
+    "Made from 50% recycled plastic",
+    "Plugs into any 13A socket",
+    "Low standby power consumption",
+    "Built-in night light",
+    "Wireless with 150m range",
+    "30 different chime melodies",
+    "90dB(A) sound output",
+    "Volume control",
+    "Flashing chime alert",
+    "3 operating modes",
+    "Self-powered bell push",
+    "Water resistant (IP55 rated)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-portable-door-chime-2.html|>
+## Uni-Com Portable Door Chime
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Uni-Com Portable Door Chime is ideal for use around the home/garden, it can be wall mounted or free-standing. The door chime is wireless, so no wiring is required, and with an extensive operating range of up to 150m, you never have to miss a visitor or delivery. The bell push is water resistant (IP44 rated). It has three operating modes - chime sound only, LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. With 30 different chime melodies to choose from, 85dB(A) sound output with volume control and a flashing colour change chime alert, you will always know when somebody is at your door. Chime unit powered by 3 x AA Batteries (not supplied). Bell push powered by 1 x CR2032 Button Cell Battery (supplied). Compatible with all other Wireless + Uni-Com door chimes.",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Portable Door Chime",
+  "specifications": [
+    "Wireless operation with a range of up to 150m",
+    "Water resistant bell push (IP44 rated)",
+    "Three operating modes: chime sound only, LED alert light only, both together",
+    "30 different chime melodies",
+    "85dB(A) sound output with volume control",
+    "Flashing colour change chime alert",
+    "Chime unit powered by 3 x AA batteries (not supplied)",
+    "Bell push powered by 1 x CR2032 button cell battery (supplied)",
+    "Compatible with all other Wireless + Uni-Com door chimes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-plug-in-door-chime-1.html|>
+## Uni-Com Plug-in Door Chime
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Uni-Com Plug-in Door Chime is ideal for use around the home, plugs into any 13A socket around your home. The door chime is wireless, so no wiring is required, and with an extensive operating range of up to 150m, you never have to miss a visitor or delivery. The bell push is water resistant (IP44 rated). It has three operating modes - chime sound only, LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. With 30 different chime melodies to choose from, 90dB(A) sound output with volume control and a flashing colour change chime alert, you will always know when somebody is at your door. Bell push powered by 1 x CR2032 Button Cell Battery (supplied). Compatible with all other Wireless + Uni-Com door chimes.",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Plug-in Door Chime",
+  "specifications": [
+    "Plug-in design",
+    "Wireless operation",
+    "Operating range of up to 150m",
+    "Water resistant bell push (IP44 rated)",
+    "30 different chime melodies",
+    "90dB(A) sound output with volume control",
+    "Flashing colour change chime alert",
+    "Powered by 1 x CR2032 Button Cell Battery (supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-portable-door-chime-3.html|>
+## Uni-Com Portable Door Chime
+
+{
+  "price": "€10.00 inc VAT",
+  "description": "The Uni-Com Portable Door Chime is ideal for use around the home/garden, it can be wall mounted or free-standing. The door chime is wireless, so no wiring is required, and with an extensive operating range of up to 150m, you never have to miss a visitor or delivery. The bell push is water resistant (IP44 rated). It has three operating modes - chime sound only, LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. With 30 different chime melodies to choose from, 90dB(A) sound output with volume control and a flashing blue chime alert, you will always know when somebody is at your door. Chime unit powered by 3 x AA Batteries (not supplied). Bell push powered by 1 x CR2032 Button Cell Battery (supplied). Compatible with all other Wireless + Uni-Com door chimes.",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Portable Door Chime",
+  "specifications": [
+    "Wireless operation with a range of up to 150m",
+    "Water resistant bell push (IP44 rated)",
+    "Three operating modes: chime sound only, LED alert light only, both together",
+    "30 different chime melodies",
+    "90dB(A) sound output with volume control",
+    "Flashing blue chime alert",
+    "Chime unit powered by 3 x AA Batteries (not supplied)",
+    "Bell push powered by 1 x CR2032 Button Cell Battery (supplied)",
+    "Compatible with all other Wireless + Uni-Com door chimes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-plug-in-door-chime-2.html|>
+## Uni-Com Plug-in Door Chime
+
+{
+  "price": "€12.50 inc VAT",
+  "description": "The Uni-Com Plug-in Door Chime is ideal for use around the home, plugs into any 13A socket around your home. The door chime is wireless, so no wiring is required, and with an extensive operating range of up to 150m, you never have to miss a visitor or delivery. The bell push is water resistant (IP44 rated). It has three operating modes - chime sound only, LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. With 30 different chime melodies to choose from, 90dB(A) sound output with volume control and a flashing blue chime alert, you will always know when somebody is at your door. Bell push powered by 1 x CR2032 Button Cell Battery (supplied).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Plug-in Door Chime",
+  "specifications": [
+    "Wireless operation with a range of up to 150m",
+    "Water resistant bell push (IP44 rated)",
+    "30 different chime melodies",
+    "90dB(A) sound output with volume control",
+    "Three operating modes: chime sound only, LED alert light only, both together",
+    "Bell push powered by 1 x CR2032 Button Cell Battery (supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-portable-and-plug-in-door-chime-set.html|>
+## Uni-Com Portable and Plug-In Door Chime Set
+
+{
+  "price": "€18.34 inc VAT",
+  "description": "The Uni-Com Portable and Plug-In Door Chime Set is ideal for use around the home/garden. This set extends your door chime system, so for example you can have the plug-in unit permanently in a hallway and the portable unit to take with you anywhere in the home or garden. The door chimes are wireless, so no wiring is required, and with an extensive operating range of up to 150m, you never have to miss a visitor or delivery. The bell push is water resistant (IP44 rated). It has three operating modes - chime sound only, LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. With 30 different chime melodies to choose from, 90dB(A) sound output with volume control and a flashing blue chime alert, you will always know when somebody is at your door. Bell push powered by 1 x CR2032 Button Cell Battery (supplied). Compatible with all other Wireless + Uni-Com door chimes.",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Portable and Plug-In Door Chime Set",
+  "specifications": [
+    "Wireless operation with a range of up to 150m",
+    "Three operating modes: chime sound only, LED alert light only, both together",
+    "30 different chime melodies",
+    "90dB(A) sound output with volume control",
+    "Water resistant bell push (IP44 rated)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-extra-loud-door-chime.html|>
+## Uni-Com Extra Loud Door Chime
+
+{
+  "price": "€16.67 inc VAT (€13.55 exc.vat)",
+  "description": "This Uni-Com Door Chime has an extra loud 98dB(Aa) output and volume control, this door chime is ideal for the hard of hearing or use in larger properties. It has 30 different chime melodies to choose from, the 98dB(A) sound output with volume control and a flashing blue chime alert, you will always know when somebody is at your door. The Door Chime is wireless, so no wiring is required, and with an extensive operating range of up to 200m, you never have to miss a visitor or delivery. It can be wall mounted or used as free-standing unit, meaning it can be placed around your home and garden. With 3 operating modes - chime sound only, blue LED alert light only and both together, you can set your Door Chime to operate exactly as you want it to. Compatible with all other Wireless + Uni-Com door chimes, so you can add extra bell pushes and chime units to extend your door chime system around your home. The memory feature means the pairing is memorised when batteries removed.",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Extra Loud Door Chime",
+  "specifications": [
+    "Colour: White",
+    "Power (Chime Unit): 3 x AA Batteries (Not included)",
+    "Power (Bell Push): CR2032 Battery (Included)",
+    "Melodies: 30",
+    "Output: 98dB",
+    "Volume control: Yes",
+    "Operating distance: 200m",
+    "Size: 125 x 125 x 38mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-indicator-bolt-for-bathrooms-or-wc-doors-satin-chrome-p127.html|>
+## Yale Locks Indicator Bolt for Bathrooms or W.C Doors Satin Chrome P127
+
+{
+  "price": "€34.67 inc VAT (€28.19 exc.vat)",
+  "description": "The Yale P127 Privacy indicator locks are for use on bathrooms or W.C. doors. They have an emergency facility which allows access to be gained from outside by using a coin or screwdriver. Suitable for inward opening wooden doors hinged on the left or right.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Indicator Bolt for Bathrooms or W.C Doors Satin Chrome P127",
+  "specifications": [
+    "Finish: Satin Chrome",
+    "Dimensions: 57mm x 40mm - 66mm x 41mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p1037-door-chains.html|>
+## Yale Locks P1037 Door Chains
+
+{
+  "price": "€12.13 inc VAT",
+  "description": "The Yale P1037 range of door chains are ideal to help identify a caller before the door is fully released, the Yale locks are simple to install and is a most welcomed surface fitted security accessory, the door chains can be fitted in minutes and will give you peace of mind and added extra security.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P1037 Door Chains",
+  "specifications": [
+    "Brass finish",
+    "Chrome finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p124-door-push-bolts.html|>
+## Yale Locks P124 Door Push Bolts
+
+{
+  "price": "€24.26 inc VAT",
+  "description": "The Yale P124 door push bolts offer greater security and added protection to your home, they are surface fixed bolts suitable for both aluminium sliding doors and flush wooden doors, this lock offers additional security to internal and external doors.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P124 Door Push Bolts",
+  "specifications": [
+    "Brass Finish",
+    "VisiChrome Finish",
+    "VisiWhite Finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p125-hinge-bolts.html|>
+## Yale Locks P125 Hinge Bolts
+
+{
+  "price": "€21.01 inc VAT",
+  "description": "The Yale P125 hinge bolts can not be seen from inside or outside so giving maximum security to your home and are ideal for outward opening doors. Automatically engage and disengage when opening and closing the door. Hinge bolts will resist hacksawing and attempts to remove the door from its frame and can be fitted in minutes, simply place x 2 per door just below hinges to secure the door from being removed.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P125 Hinge Bolts",
+  "specifications": [
+    "Select Option: Brass, Zinc",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p9401-door-viewers.html|>
+## Yale Locks P9401 Door Viewers
+
+{
+  "price": "from €17.32 inc VAT",
+  "description": "The Yale P9401 Door viewers ideal for all wooden full panelled external doors. These viewers are also adjustable to fit door thickness 35mm - 57mm, by means of a tubular casing and a screw lens. Help to identify callers before opening the door, adding extra safety and security to your home.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P9401 Door Viewers",
+  "specifications": [
+    "Brass finish",
+    "Chrome finish",
+    "Adjustable to fit door thickness 35mm - 57mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-pm444-door-security-bolts.html|>
+## Yale Locks PM444 Door Security Bolts
+
+{
+  "price": "from €7.99 inc VAT",
+  "description": "The Yale PM444 series security door bolts are concealed (mortice fixed) into the door with a bolt which throws into the door frame. Operated by using the key supplied giving added security and extra protection to your home.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks PM444 Door Security Bolts",
+  "specifications": [
+    "Brass Finish",
+    "Polished Chrome Finish",
+    "White Finish",
+    "Pack of 2",
+    "Key for Door Security Bolt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-8k116-multi-purpose-door-bolts.html|>
+## Yale Locks 8K116 Multi-Purpose Door Bolts
+
+{
+  "price": "€34.67 inc VAT",
+  "description": "The Yale 8K116 multi-purpose door bolt is suitable for securing single or double aluminium sliding doors by means of the steel locking bar. Also the lock is suitable for hinged doors and wooden doors (fixings included). Easy to lock with a push action. A key differing mechanism releases the bar from the frame.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 8K116 Multi-Purpose Door Bolts",
+  "specifications": [
+    "Suitable for single or double aluminium sliding doors",
+    "Includes fixings for hinged and wooden doors",
+    "Easy push action locking mechanism",
+    "Key differing mechanism for release"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-ws6-security-door-chains.html|>
+## Yale Locks WS6 Security Door Chains
+
+{
+  "price": "€17.32 inc VAT",
+  "description": "The WS6 security door chain complies with the TS003:2012 DHF standard for door chains and limiters, and is Secured by Design approved. This door chain is simple to install and easy to use, holding the door in a slightly open position whilst restraining against a forced attack. Also helps you identify a caller before the door is fully released.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks WS6 Security Door Chains",
+  "specifications": [
+    "Chrome finish",
+    "Satin Chrome Finish",
+    "Complies with TS003:2012 DHF standard",
+    "Secured by Design approved",
+    "Simple to install",
+    "Holds door in slightly open position"
+  ]
+}
+

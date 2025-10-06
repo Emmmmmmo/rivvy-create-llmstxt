@@ -1,0 +1,49 @@
+<|https://www.mydiy.ie/products/faithfull-stainless-steel-hose-clips.html|>
+## Faithfull Stainless Steel Hose Clips
+
+{
+  "price": "from €1.77 inc VAT",
+  "description": "Faithfull Hose Clips are ideal for fixing flexible rubber hoses, plastic hoses and flexible pipes and can be used around the home, in the garden, workshop or the garage, in most applications where a water or air tight seal is required. The non-perforated worm drive used on these hose clips provides a high thread strength with a smooth running, snag-free winding surface. A hex shaped drive nut allows the use of either a slotted screwdriver, spanner, nutdriver or hose clip driver when tightening or loosening the clips. The Stainless range of hose clips are manufactured using a marine grade 316 W5 stainless steel and are ideal where a high resistance to corrosion is required. Clips are available in a variety of sizes.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Stainless Steel Hose Clips",
+  "specifications": [
+    "Available sizes: 11 - 16mm, 13 - 20mm, 16 - 22mm, 18 - 25mm, 22 - 30mm, 25 - 35mm, 30 - 40mm, 32 - 45mm, 35 - 50mm, 45 - 60mm, 55 - 70mm, 9.5 - 12mm",
+    "Screw head size: 7mm",
+    "Manufactured using marine grade 316 W5 stainless steel"
+  ],
+  "product_category": "Fixings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wing-screw-hose-clips.html|>
+## Faithfull Wing Screw Hose Clips
+
+{
+  "price": "from €1.18 inc VAT",
+  "description": "Faithfull Hose Clips are ideal for fixing flexible rubber hoses, plastic hoses and flexible pipes and can be used around the home, in the garden, workshop or the garage, in most applications where a water or air tight seal is required. The non-perforated worm drive used on these hose clips provides a high thread strength with a smooth running, snag-free winding surface. This user friendly product features a comfortable, plastic, easy-grip wing screw that allows tool-free tightening or loosening of the clips. The wing screw hose clips are manufactured from mild steel and are zinc plated to aid corrosion resistance and are available in a wide variety of sizes.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Wing Screw Hose Clips",
+  "specifications": [
+    "Available sizes: 16-25mm, 32-50mm",
+    "Material: Mild steel, zinc plated",
+    "User-friendly plastic wing screw for tool-free operation"
+  ],
+  "product_category": "Fixings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-zinc-hose-clips.html|>
+## Faithfull Zinc Hose Clips
+
+{
+  "price": "from €0.80 inc VAT",
+  "description": "Faithfull Hose Clips are ideal for fixing flexible rubber hoses, plastic hoses and flexible pipes and can be used around the home, in the garden, workshop or the garage, in most applications where a water or air tight seal is required. The non-perforated worm drive used on these hose clips provides a high thread strength with a smooth running, snag-free winding surface. A hex shaped drive nut allows the use of either a slotted screwdriver, spanner, nutdriver or hose clip driver when tightening or loosening the clips. Standard range hose clips are manufactured from mild steel and are zinc plated to aid corrosion resistance and are available in a wide variety of sizes.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Zinc Hose Clips",
+  "specifications": [
+    "Screw head size: 7mm",
+    "Manufactured from mild steel",
+    "Zinc plated for corrosion resistance",
+    "Available in a wide variety of sizes"
+  ],
+  "product_category": "Fixings"
+}
+

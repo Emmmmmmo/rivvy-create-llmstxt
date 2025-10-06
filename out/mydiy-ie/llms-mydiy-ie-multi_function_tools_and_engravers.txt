@@ -1,0 +1,216 @@
+<|https://www.mydiy.ie/products/einhell-te-mg-200-ce-multitool-in-case-200-watt-240-volt.html|>
+## Einhell TE-MG 200 CE Multitool In Case 200 Watt 240 Volt
+
+{
+  "price": "€64.99 inc VAT (€52.84 exc.vat)",
+  "description": "The Einhell TE-MG 200CE Multitool is a high-quality, compact and ergonomic tool for sawing, sanding, scraping and much more. The electronic speed control ensures smooth starting and enables the power to be adjusted exactly to the particular task. The soft grip provides a non-slip hold, while the extremely slim design makes it the ideal helper in hard-to-reach places. The dust extractor plus adaptor can be fitted without tools and keeps the air clean at all times, even during jobs with intensive dust development. The tool chuck of this versatile tool is adjustable, up to 12 settings for mounting various tools. A cable clip is provided for securing the wound-up cable neatly and safely in place after use. Complete with: 1 x Delta Sanding Disk, 6 x Abrasive Papers, 1 x Scraper, 1 x Plunge-Cut Blade for Wood, 1 x Allen Key and 1 x Storage Case.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-MG 200 CE Multitool In Case 200 Watt 240 Volt",
+  "specifications": [
+    "Input Power: 200 Watt",
+    "Oscillating Speed: 30,000-42,000/min",
+    "Oscillating Angle: 3°",
+    "Sandpaper Size: 93 x 93 x 93mm",
+    "Weight: 1.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-c12-mt-compact-cordless-multi-tool-12-volt.html|>
+## Milwaukee C12 MT Compact Cordless Multi-Tool 12 Volt
+
+{
+  "price": "€268.45 inc VAT",
+  "description": "Milwaukee C12 MT Compact Cordless Multi-Tool is a versatile cordless solution for cutting and removal applications. With REDLINK™ overload protection electronics in tool and battery pack deliver best in class system durability. Variable speed (5000 - 20,000/min) and 1.5° left/right oscillation movement allows quick completion of professional applications into materials such as metal, wood and plastic. Individual battery cell monitoring optimises tool run time and ensures long term pack durability. Fuel gauge displays remaining charge. REDLITHIUM-ION™ battery pack delivers up to 2x more run time, up to 20% more power, up to 2x more battery life and operates better down to -20°C than other lithium-ion technologies. Flexible battery system: works with all Milwaukee® M12™ batteries. C12 MT-402C: 2 x 4.0Ah REDLITHIUM-ION™ Batteries. C12 MT-0: Bare Unit, No Battery or Charger. Will accept competitor accessories. Supplied with an adapter, plunge cut blade OSC 112, sanding backing pad, 5 x sanding sheets.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee C12 MT Compact Cordless Multi-Tool 12 Volt",
+  "specifications": [
+    "No Load Speed: 5,000-20,000/min",
+    "Oscillation Angle: 1.5°",
+    "Weight: 1.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-bmt-multi-tool-18-volt.html|>
+## Milwaukee M18 BMT Multi-Tool 18 Volt
+
+{
+  "price": "€151.50 inc VAT",
+  "description": "Milwaukee M18 BMT Multi-Tool is a versatile cordless solution for cutting and removal applications. With REDLINK™ overload protection electronics in tool and battery pack, it delivers best in class system durability. Variable speed (12,000 - 18,000/min) and 1.7° left/right oscillation movement allows quick completion of professional applications into materials such as metal, wood and plastic. With FIXTEC™ tool free blade change and a bright LED work light. A fuel gauge also displays the remaining charge. REDLITHIUM-ION™ battery pack delivers up to 2x more run time, up to 20% more power, up to 2x more battery life and operates better down to -20°C than other lithium-ion technologies. Flexible battery system works with all Milwaukee® M1B™ batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 BMT Multi-Tool 18 Volt",
+  "specifications": [
+    "No Load Speed: 12,000 - 18,000/min",
+    "Oscillation Angle: 1.7°",
+    "Weight: 1.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-mg-300-eq-multi-tool-kit-240v-300w.html|>
+## Einhell TE-MG 300 EQ Multi-Tool Kit 240V 300W
+
+{
+  "price": "€83.86 inc VAT (€68.18 exc.vat)",
+  "description": "The Einhell TE-MG 300 EQ Multi-Tool is a practical all-rounder for ambitious DIY enthusiasts. Wood, plastic and even metal can be sawed reliably, wood can also be sanded. Even grouting from between tiles can be removed easily. Equipped with a powerful 300W motor and variable speed electronics, allowing you to customise the speed to the material being worked on. The constant electronics provide consistent power and a quick-release chuck enables you to change equipment without additional tools, in minimum time. The tool chuck has 12 settings and a magnetic tool fixation. The tool body is fitted with a comfortable soft grip.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-MG 300 EQ Multi-Tool Kit 240V 300W",
+  "specifications": [
+    "Input Power: 300W",
+    "Oscillating Speed: 22,000-40,000/min.",
+    "Oscillating Angle: 3.2°",
+    "Sandpaper Size: 93 x 93 x 93mm",
+    "Weight: 1.54kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtm50z-lxt-multi-tool.html|>
+## Makita DTM50Z LXT Multi-Tool
+
+{
+  "price": "from €123.95 inc VAT",
+  "description": "The Makita DTM50 LXT Multi-Tool has a conveniently located thumb On/Off switch for ease of use when holding the machine. It has an easy to use variable speed control dial and a hex wrench holder on body. Uses an OIS interface. Accessories can be installed at 30º increments, across 360º and it comes with a dust extraction attachment.",
+  "availability": "In Stock",
+  "product_name": "Makita DTM50Z LXT Multi-Tool",
+  "specifications": [
+    "No Load Speed: 6,000-20,000/min.",
+    "Oscillation Angle: 3.2º",
+    "Weight: 2.0kg",
+    "Vibration K Factor: 1.5 m/sec²",
+    "Vibration: Cutting Metal: 5 m/sec²",
+    "Vibration: Cutting Wood: 9.5 m/sec²",
+    "Vibration: Chiselling: 7.5 m/sec²",
+    "Vibration: Sanding: 2.5 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dtm51-multi-tool.html|>
+## Makita DTM51 Multi-Tool
+
+{
+  "price": "€180.58 inc VAT",
+  "description": "The Makita DTM51 Multi-Tool has a high operational efficiency which enables it to cut through most materials with ease. Offers multi-angle settings, that span a full 360° in 30° increments. Will cut plasterboard, wood, metal, ceramic tiles and can flush cut nails and metal pipework. Change the blade for the sanding plate and you can sand or polish with it too. Compatible with all OIS Accessories (Oscillating Interface Systems). With a wide variety of accessories available for various applications.",
+  "availability": "In Stock",
+  "product_name": "Makita DTM51 Multi-Tool",
+  "specifications": [
+    "No Load Speed: 6,000-20,000/min.",
+    "Length: 324mm",
+    "Weight: 1.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tm3000c-multi-tool.html|>
+## Makita TM3000C Multi-Tool
+
+{
+  "price": "€149.60 inc VAT",
+  "description": "The Makita TM3000C Multi-Tool is fitted with a variable speed control dial and a thumb On/Off switch that has been positioned for ease of use when holding body of machine. There is a Hex wrench holder on the body and an optional dust extraction attachment (Not included). All accessories can be installed at 30° increments, across 360°. Uses OIS interface.",
+  "availability": "In Stock",
+  "product_name": "Makita TM3000C Multi-Tool",
+  "specifications": [
+    "Input Power: 320W",
+    "No Load Speed: 6,000-20,000/min.",
+    "Oscillation Angle: 3.2°",
+    "Weight: 1.4kg",
+    "Vibration K Factor: 1.5 m/sec²",
+    "Vibration: Cutting Metal: 3 m/sec²",
+    "Vibration: Cutting Wood: 6.5 m/sec²",
+    "Vibration: Chiselling: 5.5 m/sec²",
+    "Vibration: Sanding: 2.5 m/sec²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tm3000cx4-multi-tool-kit.html|>
+## Makita TM3000CX4 Multi-Tool Kit
+
+{
+  "price": "€416.61 inc VAT",
+  "description": "TM3000CX4 Multi-Tool with a conveniently located thumb On/Off switch for ease of use when holding the machine. Comes with: 50 x Delta Sanding Sheets: 10 of each size: 60G, 80G, 100G, 150G, 240G; 1 x Segment Saw Blade 85mm; 2 x Plunge Cut Saw Blades: 10, 28mm; 1 x Backing Pad; 1 x Universal Adaptor; 1 x Hex Wrench & 1 x Carry Case",
+  "availability": "In Stock",
+  "product_name": "Makita TM3000CX4 Multi-Tool Kit",
+  "specifications": [
+    "Input Power: 320W",
+    "No Load Speed: 6,000-20,000/min.",
+    "Oscillation Angle: 3.2º",
+    "Weight: 1.4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tm3010ck-multi-tool.html|>
+## Makita TM3010CK Multi-Tool
+
+{
+  "price": "€168.95 inc VAT",
+  "description": "The Makita TM3010CK Multi-Tool is equipped with the tool-less accessory clamp, a lever style lock system allows for quick installation and replacement of accessories. Accessories can be installed at 30º increments, across 360º. Offers a high operating efficiency with soft start and constant speed control. There is also a variable speed dial, so you can match your speed to the task at hand. Uses an OIS interface and is fitted with an ergonomic barrel grip design.",
+  "availability": "In Stock",
+  "product_name": "Makita TM3010CK Multi-Tool",
+  "specifications": [
+    "Input Power: 320W",
+    "No Load Speed: 6,000-20,000/min.",
+    "Oscillation Angle: 3.2º",
+    "Weight: 1.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-multi-tool-with-accessories-300w-240v.html|>
+## Olympia Power Tools Multi-Tool with Accessories 300W 240V
+
+{
+  "price": "€41.30 inc VAT (€33.58 exc.vat)",
+  "description": "The Olympia Tools® Multi-Tool is a highly versatile machine that can perform a wide variety of tasks: sawing, sanding, scraping and much more. Fitted with a high-powered motor and an easy to control variable speed wheel. The body features soft grip areas for increased comfort and control. Supplied with: 1 x Sanding Pad, 8 x Sanding Sheets: 4 x P60, 4 x P80, 1 x Plunge Cut Blade and 1 x Scraper.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools Multi-Tool with Accessories 300W 240V",
+  "specifications": [
+    "Input Power: 300W",
+    "No Load Speed: 15,000/20,000/min.",
+    "Oscillation Angle: 3.5°",
+    "Weight: 1.00kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tc-mg-250-ce-multifunctional-tool-250w-240v.html|>
+## Einhell TC-MG 250 CE Multifunctional Tool 250W 240V
+
+{
+  "price": "€54.51 inc VAT (€44.32 exc.vat)",
+  "description": "The Einhell TC-MG 250 CE Multifunctional Tool is a compact all-rounder to support ambitious DIYers during expansion, renovation and refurbishment work. Sawing, sanding, scraping and much more are fast and easy with this handy all-rounder. The powerful 250W motor offers sufficient power for labour-intensive projects and the speed electronics enable material- and application-appropriate working. Constant electronics ensure consistent performance. Its 12-way adjustable magnetic tool adapter allows easy changing and optimal positioning of the accessory. The switch with locking function facilitates lengthy work. This multifunctional tool has an oscillation angle of 3° and, thanks to its slim, ergonomic design with softgrip surfaces, is always comfortable and secure to hold. The supplied dust extraction device can be mounted without tools. The delivery includes a plunge saw blade for wood and plastic and a hexagon key for tool change.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TC-MG 250 CE Multifunctional Tool 250W 240V",
+  "specifications": [
+    "Input Power: 250W",
+    "Oscillating Speed: 22,000-40,000/min",
+    "Oscillation Angle: 3°",
+    "Suction Adaptor Diameter: 35.5mm",
+    "Power Cable Length: 2m",
+    "Weight: 1.02kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-mini-rotary-multi-tool-with-40-piece-accessory-set.html|>
+## Olympia Power Tools Mini Rotary Multi-Tool with 40 Piece Accessory Set
+
+{
+  "price": "€35.25 inc VAT (€28.66 exc.vat)",
+  "description": "The Olympia Power Tools Mini Rotary Multi-Tool has a powerful 135W motor with a variable speed selection for more control. Fitted with an easy-to-use spindle lock, making it easy to switch between the different accessories. Its soft grip handle makes it easy to hold and provides precise handling. Supplied in a handy carry case with the following accessories: 2 x Collets (2.3 & 3.2mm), 2 x HSS Drill Bits, 1 x Screw Type Mandrel, 1 x Tapered Screw Type Mandrel, 1 x Sanding Type Mandrel, 2 x Diamond Grinding Points, 10 x Grinding Stones, 3 x Sanding Discs Ø20mm/320 grit, 8 x Cut Off Wheels Ø22 x 1mm Thick, 4 x Sanding Drum Bands 16mm/120 grit, 4 x Polishing Wheels, 1 x Grinding Stone, 1 x Flexible Drive.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools Mini Rotary Multi-Tool with 40 Piece Accessory Set",
+  "specifications": [
+    "Input Power: 135W",
+    "No Load Speed: 10,000-32,000/min.",
+    "Max. Collet Size: 3.2mm",
+    "Weight: 0.68kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dsc102zj-lxt-threaded-rod-cutter-18v-bare-unit.html|>
+## Makita DSC102ZJ LXT Threaded Rod Cutter 18V Bare Unit
+
+{
+  "price": "€552.04 inc VAT (€448.81 exc.vat)",
+  "description": "Makita DSC102 LXT Threaded Rod Cutter provides for spark-free and neat cutting of steel rods. Generates burr-free cuts allow for easy nut tightening. Fitted with a brushless motor maintenance-free and provides long motor life. A battery protection system automatically shuts off power when the battery level is low. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DSC102ZJ LXT Threaded Rod Cutter 18V Bare Unit",
+  "specifications": [
+    "Cutting Capacity: Mild Steel (up to 400N/mm²): M6 - M10 mm.",
+    "Cutting Capacity: Stainless Steel (up to 600N/mm²): M6 - M8 mm."
+  ]
+}
+

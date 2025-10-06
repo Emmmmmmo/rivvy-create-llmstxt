@@ -1,0 +1,1013 @@
+<|https://www.mydiy.ie/products/dormer-a101-hss-left-hand-spiral-drills.html|>
+## Dormer A101 HSS Left Hand Spiral Drill
+
+{
+  "price": "from €9.18 inc VAT",
+  "description": "The Dormer A101 Metric Traditional Flute Ground Jobber Drill Bits are ideal for general machining applications. This HSS drill bit has a left hand spiral and a blue finish (bright below 3mm). Manufactured to DIN 338 LN / BS328 / ISO 235.",
+  "availability": "In Stock",
+  "product_name": "Dormer A101 HSS Left Hand Spiral Drill",
+  "specifications": [
+    "Flute Geometry: Standard Helix, Left hand spiral.",
+    "Point Angle: 118°.",
+    "Material: High Speed Steel."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a108-hss-quick-spiral-drills---stainless-steel.html|>
+## Dormer A108 HSS Quick Spiral Drills - Stainless Steel
+
+{
+  "price": "from €8.62 inc VAT",
+  "description": "The Dormer A108 Metric Split Point HSS Jobber Drill Bits are designed specifically for machining stainless steels. The quick spiral helix enables rapid swarf removal. Manufactured to DIN 338 RW / BS328 / ISO 235.",
+  "availability": "In Stock",
+  "product_name": "Dormer A108 HSS Quick Spiral Drills - Stainless Steel",
+  "specifications": [
+    "Flute Geometry: Quick Helix, Right hand spiral.",
+    "Point Angle: 135°: up to 1.5mm: 135° Split Point, 1.6mm, 1/16 and above.",
+    "Surface Treatment: Blue.",
+    "Material: High Speed Steel."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a110-metric-hss-long-series-drill-bits.html|>
+## Dormer A110 Metric HSS Long Series Drill Bits
+
+{
+  "price": "from €8.66 inc VAT",
+  "description": "The Dormer A110 Metric Long Series Drill Bits is a general purpose long reach drill. Ideal for drilling deep holes in a wide range of materials and are suitable for both hand and machine use. Manufactured to: DIN340RN/BS328/ISO494.",
+  "availability": "In Stock",
+  "product_name": "Dormer A110 Metric HSS Long Series Drill Bits",
+  "specifications": [
+    "Select Option: 10.00mm, 11.00mm, 12.00mm, 2.00mm, 2.50mm, 3.00mm, 3.20mm, 4.20mm, 4.80mm, 5.50mm, 6.50mm, 7.00mm, 8.00mm, 8.50mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: Refund or replace within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a110-imperial-hss-long-series-drill-bits.html|>
+## Dormer A110 Imperial HSS Long Series Drill Bits
+
+{
+  "price": "from €10.27 inc VAT",
+  "description": "Dormer A110 Imperial Long Series Drill Bits is a general purpose long reach drill. Ideal for drilling deep holes in a wide range of materials and are suitable for both hand and machine use. Manufactured to DIN340RN/BS328/ISO494 standards.",
+  "availability": "In Stock",
+  "product_name": "Dormer A110 Imperial HSS Long Series Drill Bits",
+  "specifications": [
+    "General purpose long reach drill",
+    "Ideal for drilling deep holes",
+    "Suitable for both hand and machine use",
+    "Manufactured to DIN340RN/BS328/ISO494 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a120-hss-stub-drills---metric.html|>
+## Dormer A120 HSS Stub Drills - Metric
+
+{
+  "price": "from €4.26 inc VAT",
+  "description": "The Dormer A120 Metric HSS Stub Drill Bits for general machining applications and is ideal for use in portable drills, turrets and automatic lathes. Special split-point ensures easy starting and accurate drill location.",
+  "availability": "In Stock",
+  "product_name": "Dormer A120 HSS Stub Drills - Metric",
+  "specifications": [
+    "Select Option: 2.00mm, 3.00mm, 3.20mm, 3.30mm, 4.00mm, 4.10mm, 4.50mm, 4.90mm, 5.00mm, 6.00mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a120-hss-stub-drills---imperial.html|>
+## Dormer A120 HSS Stub Drills - Imperial
+
+{
+  "price": "from €4.72 inc VAT",
+  "description": "Standard helix right hand spiral stub drill. The rigidity of the bit allows the tool to be used in portable drills, turret and automatic lathes.",
+  "availability": "In Stock",
+  "product_name": "Dormer A120 HSS Stub Drills - Imperial",
+  "specifications": [
+    "Select Option: 1/8in, 3/16in, 5/32in",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a130-hss-taper-shank-drills.html|>
+## Dormer A130 HSS Taper Shank Drills
+
+{
+  "price": "from €85.47 inc VAT",
+  "description": "Dormer A130 HSS Taper Shank Drill for general purpose drilling applications. Has thinner web which minimises thrust requirements without compromising strength. Manufactured to: DIN345RN/BS328/ISO235.",
+  "availability": "In Stock",
+  "product_name": "Dormer A130 HSS Taper Shank Drills",
+  "specifications": [
+    "Select Option: 14.00mm",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a170-hss-12in-parallel-shank-drills-metric.html|>
+## Dormer A170 HSS 1/2in Parallel Shank Drills Metric
+
+{
+  "price": "€96.24 inc VAT",
+  "description": "Dormer A170 Parallel shank drills with a standard helix, right hand spiral, 1/2in parallel shank drill, often referred to as a Blacksmiths drill. General purpose drill, ideal for a wide range of materials where chuck holding capacity is limited. Suitable for both hand and machine use.",
+  "availability": "In Stock",
+  "product_name": "Dormer A170 HSS 1/2in Parallel Shank Drills Metric",
+  "specifications": [
+    "Select Option: 14.00mm, 15.00mm, 16.00mm, 18.00mm, 20.00mm",
+    "General purpose drill",
+    "Ideal for a wide range of materials",
+    "Suitable for both hand and machine use",
+    "WARNING: For general purpose light-duty work only."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a200-hss-centre-drills.html|>
+## Dormer A200 HSS Centre Drills
+
+{
+  "price": "from €18.33 inc VAT",
+  "description": "Dormer A200 HSS Centre Drill (DIN 333A) for drilling components that require machining between centres. Has a 118° point angle with a 60° included countersink.",
+  "availability": "In Stock",
+  "product_name": "Dormer A200 HSS Centre Drills",
+  "specifications": [
+    "Select Option: 10.00mm x 4.00mm",
+    "3.15mm x 0.80mm",
+    "6.30mm x 2.50mm",
+    "8.00mm x 3.15mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a225-hss-centre-drills-right-hand.html|>
+## Dormer A225 HSS Centre Drills Right Hand
+
+{
+  "price": "from €10.05 inc VAT",
+  "description": "Dormer A225 HSS Centre Drill (BS 328) for drilling components that require machining between centres. Has a 120° point angle with a 60° included countersink. Suitable for both hand and machine use.",
+  "availability": "In Stock",
+  "product_name": "Dormer A225 HSS Centre Drills Right Hand",
+  "specifications": [
+    "Select Option: 1/4in BS31/8in BS15/16in BS47/16in BS7/16in BS5",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-hss-blacksmiths-drill.html|>
+## Krino HSS Blacksmiths Drill
+
+{
+  "price": "€8.71",
+  "description": "Krino HSS Blacksmiths Drill",
+  "availability": "In Stock",
+  "product_name": "Krino HSS Blacksmiths Drill",
+  "specifications": [
+    "List Price: €11.23",
+    "You save: €2.52",
+    "Option: Select One",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-conecut-cc-high-speed-steel-sheet-and-tube-drills--metric.html|>
+## Halls CONECUT® CC High Speed Steel Sheet & Tube Drills- Metric
+
+{
+  "price": "€31.65 inc VAT",
+  "description": "The G & J Halls CONECUT® is a versatile hole-cutting tool for rapid drilling and enlarging holes in thin materials up to 2mm thick. Designed for industrial applications, the diameter of the hole increases as the CONECUT® is advanced into the material, providing infinitely variable sizes. For use in sheet steel, non-ferrous metals, plastics, Formica and plywood. The conical shape of the tool enables any size of hole to be drilled between the bottom and the top of the taper. When drilling metals always use a coolant. Conecut® applications: Electrical, Heating, Ventilation, Plumbing, Shopfitting installations etc., Auto body repair, Control panels, Sheet metalwork etc., Maintenance.",
+  "availability": "In Stock",
+  "product_name": "Halls CONECUT® CC High Speed Steel Sheet & Tube Drills- Metric",
+  "specifications": [
+    "Versatile hole-cutting tool",
+    "Rapid drilling and enlarging holes in thin materials up to 2mm thick",
+    "Infinitely variable sizes",
+    "For use in sheet steel, non-ferrous metals, plastics, Formica and plywood",
+    "Conical shape enables any size of hole to be drilled between the bottom and the top of the taper"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a100-hss-jobber-drill-bits-metric.html|>
+## Dormer A100 HSS Jobber Drill Bits Metric
+
+{
+  "price": "from €3.68 inc VAT",
+  "description": "Dormer A100 Metric HSS jobber drills are suitable for use in the majority of general purpose engineering applications. They have good self-centring capability on a wide range of materials and are suitable for both hand and machine use. DIN338RN BS328 ISO235",
+  "availability": "In Stock",
+  "product_name": "Dormer A100 HSS Jobber Drill Bits Metric",
+  "specifications": [
+    "Good self-centring capability",
+    "Suitable for hand and machine use",
+    "DIN338RN",
+    "BS328",
+    "ISO235"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a100-hss-jobber-drill-bits-imperial.html|>
+## Dormer A100 HSS Jobber Drill Bits Imperial
+
+{
+  "price": "from €3.97 inc VAT",
+  "description": "Dormer A100 series general purpose HSS jobber drills are suitable for use in the majority of general purpose engineering applications. They have good self-centring capability on a wide range of materials and are suitable for both hand and machine use. DIN338RN BS328 ISO235",
+  "availability": "In Stock",
+  "product_name": "Dormer A100 HSS Jobber Drill Bits Imperial",
+  "specifications": [
+    "General purpose HSS jobber drills",
+    "Good self-centring capability",
+    "Suitable for hand and machine use",
+    "Standards: DIN338RN, BS328, ISO235"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a190-series-imperail-high-speed-steel-drill-sets.html|>
+## Dormer A190 Series Imperial High Speed Steel Drill Sets
+
+{
+  "price": "€278.75 inc VAT",
+  "description": "The Dormer 18 Piece A190 Imperial HSS Jobber Drill Set features A100 HSS Jobber Drills that are ideal for general machining applications. Supplied in an attractive plastic case.",
+  "availability": "In Stock",
+  "product_name": "Dormer A190 Series Imperial High Speed Steel Drill Sets",
+  "specifications": [
+    "Set of 15 1/16 - 1/2in x 32nds",
+    "Includes A100 HSS Jobber Drills",
+    "Supplied in a plastic case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a190-series-metric-high-speed-steel-drill-sets.html|>
+## Dormer A190 Series Metric High Speed Steel Drill Sets
+
+{
+  "price": "from €218.62 inc VAT",
+  "description": "The Dormer A190 Imperial HSS Jobber Drill Sets feature A100 HSS Jobber drills that are ideal for general machining applications. Supplied in an attractive plastic case.",
+  "availability": "In Stock",
+  "product_name": "Dormer A190 Series Metric High Speed Steel Drill Sets",
+  "specifications": [
+    "Set of 19 1.0-10.0 x 0.5mm",
+    "Set of 25 1.0-13.0 x 0.5mm",
+    "Set of 51 1.0-6.0 x 0.1mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a191-high-speed-steel-drill-set---metric.html|>
+## Dormer A191 High Speed Steel Drill Set - Metric
+
+{
+  "price": "€68.12 inc VAT",
+  "description": "Dormer A191 HSS Metric Jobber Drills in plastic case with each size embossed for ease of identification.",
+  "availability": "In Stock",
+  "product_name": "Dormer A191 High Speed Steel Drill Set - Metric",
+  "specifications": [
+    "Set of 13 1.5-6.5 x 0.5mm",
+    "Set of 19 1.0-10.0 x 0.5mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-turbomax-hss-drill-bits.html|>
+## IRWIN TurboMax HSS Drill Bits
+
+{
+  "price": "from €3.84 inc VAT",
+  "description": "The Irwin Turbo Max range of drill bits are suitable for portable and cordless drills. They are primarily designed for drilling metal and sheet metal but also performs exceedingly well in all types of wood and plastics and can be used for drilling stainless steel. Please note that if used for drilling stainless steel, a coolant should be always be used.",
+  "availability": "In Stock",
+  "product_name": "IRWIN TurboMax HSS Drill Bits",
+  "specifications": [
+    "Suitable for portable and cordless drills",
+    "Designed for drilling metal and sheet metal",
+    "Effective in wood and plastics",
+    "Can be used for drilling stainless steel with coolant"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-pro-drill-bits.html|>
+## IRWIN HSS Pro Drill Bits
+
+{
+  "price": "from €2.77 inc VAT",
+  "description": "The Irwin HSS Pro Drill Bit manufactured from high quality HSS steel. They have precision ground cutting edges for fast drilling and perfect finishing, a ground flute for maximum accuracy and fast chip removal and a universal 118º point shape for drilling a wide selection of materials. Manufactured to DIN338 standards.",
+  "availability": "In Stock",
+  "product_name": "IRWIN HSS Pro Drill Bits",
+  "specifications": [
+    "Precision ground cutting edges for fast drilling",
+    "Ground flute for maximum accuracy and fast chip removal",
+    "Universal 118º point shape for drilling a wide selection of materials",
+    "Manufactured to DIN338 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-reduced-shank-pro-drill-bits.html|>
+## IRWIN HSS Reduced Shank Pro Drill Bits
+
+{
+  "price": "from €11.69 inc VAT",
+  "description": "The Irwin HSS Pro Drillbits are made from high performance, high speed steel. They have an 118° split point shape for increased performance and very good centring. The drillbits ensure precision starting, with no need to pre-punch or pilot drill. They penetrate the material quickly, requiring little effort and feed pressure. Manufactured to DIN 338 standards. DIN 338 drillbits are suitable for many trade and industrial applications in alloyed and un-alloyed steel, non-ferrous metal, cast iron and plastics.",
+  "availability": "In Stock",
+  "product_name": "IRWIN HSS Reduced Shank Pro Drill Bits",
+  "specifications": [
+    "11.0mm OL:142mm WL:94mm",
+    "12mm",
+    "14mm",
+    "16mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-long-series-pro-drill-bits.html|>
+## IRWIN HSS Long Series Pro Drill Bits
+
+{
+  "price": "from €40.11 inc VAT",
+  "description": "HSS Pro Drill long series drill bits have a body manufactured from high quality HSS steel and have a bright finish. The drill bits have precision ground cutting edges which enable fast drilling and ensure perfect finishing. They have a ground flute for maximum accuracy and fast chip removal. The universal 118º point shape makes the drill bits suitable for drilling a wide selection of materials. They are perfect for drilling low carbon steel, soft metals, wood and plastics. They are manufactured to DIN 340 standards and have a cylindrical shank.",
+  "availability": "In Stock",
+  "product_name": "IRWIN HSS Long Series Pro Drill Bits",
+  "specifications": [
+    "Body manufactured from high quality HSS steel",
+    "Precision ground cutting edges for fast drilling",
+    "Ground flute for maximum accuracy and fast chip removal",
+    "Universal 118º point shape suitable for various materials",
+    "Manufactured to DIN 340 standards",
+    "Cylindrical shank"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-tct-drill-bits-metric.html|>
+## IRWIN HSS TCT Drill Bits Metric
+
+{
+  "price": "€19.89 inc VAT",
+  "description": "The Irwin Metric TCT (Tungsten Carbide Tipped) Drill Bits offer precision drilling with stationary machines in hardened steel, cast iron, bronze alloys and manganese alloyed steel. The C2 Carbide Tip will drill hardened material up to a hardness of 50 Rockwell C and is four facetted ground for low drilling pressure and perfect centring. The body of the drill bit is made from Chrome Vanadium Steel, Hardened to 56 Rockwell C.",
+  "availability": "In Stock",
+  "product_name": "IRWIN HSS TCT Drill Bits Metric",
+  "specifications": [
+    "Available sizes: 10.5mm, 11.0mm, 11.5mm, 12.0mm, 13.0mm, 14.0mm, 16.0mm, 2.0mm, 2.5mm, 3.0mm, 3.5mm, 4.0mm, 4.5mm, 5.0mm, 5.5mm, 6.5mm, 7.0mm, 7.5mm, 9.0mm, 9.5mm",
+    "Made from Chrome Vanadium Steel, Hardened to 56 Rockwell C",
+    "C2 Carbide Tip for drilling hardened materials up to 50 Rockwell C",
+    "Four facetted ground for low drilling pressure and perfect centring"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-hss-g-drill-bit.html|>
+## Milwaukee HSS-G Drill Bit
+
+{
+  "price": "€2.05 inc VAT",
+  "description": "The Milwaukee Metric HSS-G THUNDERWEB Metal Drill Bit design is unique, with a conical shaped web which gets thicker towards the back of the drill bit. It has a parabolic web cross section that gives a larger web thickness increasing the strength of the bit, and prevents breakage. The THUNDERWEB flute form ejects hot chips rapidly, dissipating heat better, increasing the life span and working time. The open flute form also reduces drill drawback, especially when drilling deeper holes. The 135° split point allows for precision starting, quick penetration, and requires less effort/feed pressure, and is perfect for drilling very hard materials. They are also great for drilling on curved surfaces.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee HSS-G Drill Bit",
+  "specifications": [
+    "1.0mm Pack of 2",
+    "1.5mm Pack of 2",
+    "2.0mm Pack of 2",
+    "3.0mm Pack of 2",
+    "4.0mm Pack of 2",
+    "5.0mm Pack of 2",
+    "6.0mm Pack of 2",
+    "8.0mm Pack of 2",
+    "10.0mm Single",
+    "12.0mm Single",
+    "14.0mm Single",
+    "16.0mm Single",
+    "18.0mm Single",
+    "20.0mm Single"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-pro-drill-bit-set-15-piece.html|>
+## IRWIN® HSS Pro Drill Bit Set, 15 Piece
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "The IRWIN® HSS Pro Drill Bits are manufactured from high-quality HSS steel. They have precision ground cutting edges for fast drilling and perfect finishing, a ground flute for maximum accuracy and fast chip removal, and a universal 118º point shape for drilling a wide selection of materials. Manufactured to DIN 338 standards. This 15 Piece Set contains the following sizes: 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 8, 9, 10mm.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® HSS Pro Drill Bit Set, 15 Piece",
+  "specifications": [
+    "Manufactured from high-quality HSS steel",
+    "Precision ground cutting edges for fast drilling",
+    "Ground flute for maximum accuracy and fast chip removal",
+    "Universal 118º point shape for drilling a wide selection of materials",
+    "Manufactured to DIN 338 standards",
+    "Set contains sizes: 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 8, 9, 10mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-titanium-metal-drill-bit-set-15-piece.html|>
+## IRWIN® HSS Titanium Metal Drill Bit Set, 15 Piece
+
+{
+  "price": "€75.63 inc VAT (€61.49 exc.vat)",
+  "description": "IRWIN® HSS Pro Titanium Drill Bits designed for drilling metal and harder alloys, as well as being able to produce increased drill speeds of 40%-60% in comparison to the standard bits. With a titanium nitride coating for higher friction resistance and longer bit life. Its 135° split point ensures perfect centring and minimises bit walk, whilst also reducing drilling pressure, giving a more accurate and clean finish. Heavy-duty web construction is designed for optimum strength and durability. This 15 Piece Set contains the following sizes: 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 8, 9, 10mm.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® HSS Titanium Metal Drill Bit Set, 15 Piece",
+  "specifications": [
+    "15 Piece Set",
+    "Sizes: 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 8, 9, 10mm",
+    "Titanium nitride coating for higher friction resistance",
+    "135° split point for perfect centring",
+    "Heavy-duty web construction for strength and durability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-3mm-hss-titanium-metal-drill-bit.html|>
+## Makita 3Mm Hss Titanium Metal Drill Bit
+
+{
+  "price": "€2.78 inc VAT (€2.26 exc.vat)",
+  "description": "3Mm Hss Titanium Metal Drill Bit",
+  "availability": "Out of Stock",
+  "product_name": "Makita 3Mm Hss Titanium Metal Drill Bit",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-d-54075-hss-r-bit-set-13-piece.html|>
+## Makita D-54075 HSS-R Bit Set 13 Piece
+
+{
+  "price": "€13.25 inc VAT (€10.77 exc.vat)",
+  "description": "The Makita D-54075 HSS-R Bit Set is suitable for drilling applications in steel and cast-steel alloyed and unalloyed up to 900N/mm² tensile strength. Other materials include: grey cast, malleable cast iron, die-cast metal, iron sinter, nickel-silver, graphite cast iron, short chipping aluminium alloys, bronze, brass and hard plastics. Conforms to DIN 338 Standards. Sizes: 1.5, 2, 2.5, 3, 3.2, 3.5, 4, 4.5, 4.8, 5, 5.5, 6 & 6.5mm.",
+  "availability": "In Stock",
+  "product_name": "Makita D-54075 HSS-R Bit Set 13 Piece",
+  "specifications": [
+    "Sizes: 1.5, 2, 2.5, 3, 3.2, 3.5, 4, 4.5, 4.8, 5, 5.5, 6 & 6.5mm",
+    "Suitable for drilling in steel and cast-steel",
+    "Conforms to DIN 338 Standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-10pce-hss-drill-bit-rolled-set-1-10-x-1.html|>
+## Krino 10Pce Hss Drill Bit Rolled Set 1-10 X 1
+
+{
+  "price": "€15.29 inc VAT (€12.43 exc.vat)",
+  "description": "10Pce Hss Drill Bit Rolled Set 1-10 X 1",
+  "availability": "In Stock",
+  "product_name": "Krino 10Pce Hss Drill Bit Rolled Set 1-10 X 1",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee",
+    "Free delivery for orders over €150 within Ireland",
+    "Orders under €150: €8.99 delivery fee",
+    "International delivery charges based on weight"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-6pce-hss-drill-bit-set-2-8mm.html|>
+## Krino 6Pce Hss Drill Bit Set 2-8Mm
+
+{
+  "price": "€8.45 inc VAT (€6.87 exc.vat)",
+  "description": "6Pce Hss Drill Bit Set 2-8Mm",
+  "availability": "In Stock",
+  "product_name": "Krino 6Pce Hss Drill Bit Set 2-8Mm",
+  "specifications": [
+    "KRI01016204 : €8.45",
+    "List: €10.89",
+    "You save €2.44"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-19pce-hss-drill-bit-set-1-10x05-rollled.html|>
+## Krino 19Pce Hss Drill Bit Set 1-10X0.5 Rollled
+
+{
+  "price": "€18.92 inc VAT (€15.38 exc.vat)",
+  "description": "19Pce Hss Drill Bit Set 1-10X0.5 Rollled",
+  "availability": "In Stock",
+  "product_name": "Krino 19Pce Hss Drill Bit Set 1-10X0.5 Rollled",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-25pce-hss-drill-bit-set-1-13x05-rolled.html|>
+## Krino 25Pce Hss Drill Bit Set 1-13X0.5 Rolled
+
+{
+  "price": "€47.97 inc VAT (€39.00 exc.vat)",
+  "description": "25Pce Hss Drill Bit Set 1-13X0.5 Rolled",
+  "availability": "In Stock",
+  "product_name": "Krino 25Pce Hss Drill Bit Set 1-13X0.5 Rolled",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee",
+    "Free delivery for orders over €150 within Ireland",
+    "Orders under €150: €8.99 delivery fee",
+    "International delivery charges based on weight"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krihs100.html|>
+## Krino New Group for KRIHS100
+
+{
+  "price": "€0.46 inc VAT",
+  "description": "Krino New Group for KRIHS100",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIHS100",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krimpd12.html|>
+## Krino New Group for KRIMPD12
+
+{
+  "price": "€3.41 inc VAT",
+  "description": "Krino New Group for KRIMPD12",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIMPD12",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-performance-ground-point-hss-dril-bits.html|>
+## Makita Performance Ground Point HSS Drill Bits
+
+{
+  "price": "from €2.36 inc VAT",
+  "description": "Milled from a solid steel form for strength and precision\n\n118º ground point for fast and accurate drilling\n\nHelicoidal flute to improve swarf discharge\n\nIdeal for use on steel, cast iron, aluminium, malleable cast iron, brass and copper\n\nConforms to DIN338 standard",
+  "availability": "In Stock",
+  "product_name": "Makita Performance Ground Point HSS Drill Bits",
+  "specifications": [
+    "10.0mm OL: 133mm WL: 87mm",
+    "12.0mm OL: 151mm WL: 101mm",
+    "13.0mm OL: 151mm WL: 101mm",
+    "2.0mm OL: 49mm WL: 24mm",
+    "3.0mm OL: 61mm WL: 33mm",
+    "4.0mm OL: 75mm WL: 43mm",
+    "5.0mm OL: 86mm WL: 52mm",
+    "6.0mm OL: 93mm WL: 57mm",
+    "6.5mm OL: 101mm WL: 63mm",
+    "7.0mm OL: 109mm WL: 69mm",
+    "8.0mm OL: 117mm WL: 75mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-hss-split-point-drill-bit.html|>
+## Starrett HSS Split Point Drill Bit
+
+{
+  "price": "€0.96 inc VAT",
+  "description": "The Starrett HSS Split Point Drill Bits have superior body strength thanks to a specialised heat treatment, they can withstand the most demanding of applications. The high-performance ecision ground carbide tips deliver consistent performance. Whilst the flute geometry provides fast material penetration and maximum debris removal. They also feature a unique chip removal/breakage accelerator. Designed to meet the requirements of professional users. Manufactured to DIN 338 Standards.",
+  "availability": "In Stock",
+  "product_name": "Starrett HSS Split Point Drill Bit",
+  "specifications": [
+    "Available sizes: 10.0 x 133mm, 12.0 x 151mm, 13 Piece Set, 2.0 x 49mm, 2.5 x 57mm, 3.0 x 61mm, 3.5 x 70mm, 4.0 x 75mm, 5.0 x 86mm, 6.0 x 93mm, 7.0 x 109mm",
+    "High-performance carbide tips",
+    "Flute geometry for fast material penetration",
+    "Manufactured to DIN 338 Standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-titanium-metal-drill-bit-set-13-piece.html|>
+## IRWIN® HSS Titanium Metal Drill Bit Set, 13 Piece
+
+{
+  "price": "€44.38 inc VAT (€36.08 exc.vat)",
+  "description": "IRWIN® HSS Pro Titanium 13 Piece Drill Bits are designed for drilling metal and harder alloys, as well as being able to produce increased drill speeds of 40-60% in comparison to the standard bits. With a titanium nitride coating, the drill bits offer higher friction resistance and longer life. Their 135° split point ensures perfect centring and minimises bit walk, while also reducing drilling pressure, giving a more accurate and clean finish. Heavy-duty web construction is designed to optimise strength and durability of the drill bits. Supplied in a handy storage case.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® HSS Titanium Metal Drill Bit Set, 13 Piece",
+  "specifications": [
+    "Sizes: 1.5, 2, 2.5, 3, 3.2, 4, 4.5, 5, 5.5, 6, 6.5 and 7mm."
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-drill-bit-hex-shank-bits.html|>
+## IRWIN® HSS Drill Bit Hex Shank Bits
+
+{
+  "price": "€5.65 inc VAT",
+  "description": "IRWIN® HSS Drill Bit Hex Shank Bit for drilling into wood, metal and plastic. Made from high steel speed (HSS) for durability. Its hexagon shank improves grip in the connector. The quick change system allows for quicker change between drilling and driving.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® HSS Drill Bit Hex Shank Bits",
+  "specifications": [
+    "Select Option: Set, 3 Piece, 1.5mm, 2.0mm, 2.5mm, 3.0mm, 4.0mm, 5.0mm, 6.0mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-10730-drill-and-screw-bit-set-102-piece.html|>
+## Makita E-10730 Drill & Screw Bit Set, 102 Piece
+
+{
+  "price": "€37.80 inc VAT (€30.73 exc.vat)",
+  "description": "Makita E-10730 Drill & Screw Bit Set in a well laid-out case, each item has its own section and is clearly marked out. Contains: 3 x 25mm Phillips Bits: PH1, PH2, PH3. 7 x 25mm Pozi Bits: PZ1(x2), PZ2(x3), PZ3(x2). 10 x 25mm Slotted Bits: 0.5 x 3(x2), 0.5 x 4(x2), 0.6 x 4(x2), 1.0 x 6(x2), 1.2 x 7, 1.2 x 8mm. 6 x 25mm TORX Bits: TX10, TX15, TX20, TX25, TX27, TX30. 4 x 25mm Hex: 3, 4, 5, 6. 4 x 50mm Phillips Bits: PH1, PH2(x2), PH3. 5 x 50mm Phillips Bits: PZ0, PZ1, PZ2(x2), PZ3. 3 x 50mm Slotted Bits: 0.5 x 3, 0.5 x 4, 0.6 x 4.5mm. 4 x 50mm TORX Bits: TX10, TX20, TX25, TX27. 4 x 50mm Hex: 3, 4, 5, 6. 13 x 1/4in Hex Nut Setters: 5(x2), 5.5, 6(x2), 7(x2), 8, 9, 10, 11, 12, 13mm. 4 x Depth Stops: 3, 5, 8, 10mm. 6 x Wood Bits: 3, 4, 5, 5.5, 6, 6.5mm. 6 x HSS-TiN Metal Drill Bits: 3, 4, 5, 5.5, 6, 6.5mm. 6 x Masonry Drill Bits: 3, 4, 5, 5.5, 6, 6.5mm. 3 x 1/4in Hex Flat Bits: 12, 16, 19mm. 4 x Holesaws: 32, 38, 40, 54mm. 1 x Dry Wall Bit C-Form. 1 x Magnetic Bit Holder. 1 x Hex Wrench. 1 x Centre Punch. 1 x Countersink Hole Saw. 1 x Adaptor. 1 x Bit Driver Handle. 1 x Spirit Level. 1 x Tape Measure. 1 x Diameter Gauge.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-10730 Drill & Screw Bit Set, 102 Piece",
+  "specifications": [
+    "102 Piece Set",
+    "Includes various types of bits",
+    "Well laid-out case for organization",
+    "Includes depth stops and a spirit level"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-multi-material-and-screwdriving-set-25-piece.html|>
+## IRWIN® Multi Material & Screwdriving Set, 25 Piece
+
+{
+  "price": "€41.89 inc VAT (€34.06 exc.vat)",
+  "description": "IRWIN 25 Piece Multi Material & Screwdriving Set is supplied in a compact carry case and contains the following: 4 x 25mm Phillips Bits: PH1, PH2x2, PH3. 4 x 25mm Pozi Bits: PZ1, PZ2x2, PZ3. 3 x 25mm TORX Bits: T20, T25, T30. 3 x Slotted Bits: 6mm, 8mm, 10mm. 1 x 50mm Phillips Bit: PH2. 1 x 50mm Pozi Bit: PZ2. 2 x x 50mm TORX Bits: T20, T30. 6 x Multi Material Drill Bits: 4mm, 5mm, 5.5mm, 6mm, 7mm, 8mm. 1 x Magnetic Bit Holder.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Multi Material & Screwdriving Set, 25 Piece",
+  "specifications": [
+    "4 x 25mm Phillips Bits: PH1, PH2x2, PH3",
+    "4 x 25mm Pozi Bits: PZ1, PZ2x2, PZ3",
+    "3 x 25mm TORX Bits: T20, T25, T30",
+    "3 x Slotted Bits: 6mm, 8mm, 10mm",
+    "1 x 50mm Phillips Bit: PH2",
+    "1 x 50mm Pozi Bit: PZ2",
+    "2 x 50mm TORX Bits: T20, T30",
+    "6 x Multi Material Drill Bits: 4mm, 5mm, 5.5mm, 6mm, 7mm, 8mm",
+    "1 x Magnetic Bit Holder"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-max-chisel-set-2-piece.html|>
+## DEWALT SDS Max Chisel Set, 2 Piece
+
+{
+  "price": "€63.44 inc VAT (€51.58 exc.vat)",
+  "description": "This DEWALT SDS Max Chisel Set is made of the highest quality. The quartet of chisels are produced from toughened steel with microprocessor controlled heat treatment for a long-life. Suitable for use with all SDS Max drills with roto-stop. This 2 piece set contains: 1 x Flat Chisel 25 x 400mm. 1 x Point Chisel 400mm.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT SDS Max Chisel Set, 2 Piece",
+  "specifications": [
+    "DEWDT9000QZ : €63.44",
+    "1 x Flat Chisel 25 x 400mm",
+    "1 x Point Chisel 400mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-sds-plus-chisel-set-3-piece.html|>
+## IRWIN® SDS Plus Chisel Set, 3 Piece
+
+{
+  "price": "€42.36 inc VAT (€34.44 exc.vat)",
+  "description": "IRWIN®3 Piece SDS Plus Chisel Set. Ideal for all chasing and demolition work in mortar, brick and concrete. Suitable for use with hammer drills with a rotary stop feature. Supplied in a plastic tube. Contains: 1 x Pointed Chisel 250mm. 1 x Spade Chisel 40 x 250mm. 1 x Flat Chisel 20 x 250mm.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® SDS Plus Chisel Set, 3 Piece",
+  "specifications": [
+    "1 x Pointed Chisel 250mm",
+    "1 x Spade Chisel 40 x 250mm",
+    "1 x Flat Chisel 20 x 250mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-step-drill-bits.html|>
+## IRWIN Step Drill Bits
+
+{
+  "price": "from €49.84 inc VAT",
+  "description": "The Irwin Step Drill Bits are designed for precise drilling in thin materials and have a single flute for maximum drilling control into sheet metal. Their unique flute design ensures perfect round holes in sheet metal. A fluted shank also prevents the drill bit from slipping in the chuck, along with a self centering point that will not walk and eliminates centre punching. Made from industrial grade M7 high-speed steel.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Step Drill Bits",
+  "specifications": [
+    "Select Option: 4-22mm (10 Holes), 5-13mm (13 Holes), 5-28.3mm (10 Holes), 6-18mm (7 Holes)",
+    "Made from industrial grade M7 high-speed steel",
+    "Designed for precise drilling in thin materials",
+    "Single flute for maximum drilling control",
+    "Fluted shank prevents slipping in the chuck",
+    "Self centering point eliminates centre punching"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-bradrad-tools.html|>
+## Halls Bradrad® Tools
+
+{
+  "price": "€227.40 inc VAT",
+  "description": "The Hall Bradrad® precision tools drill and deburr in material thicknesses up to 10mm. Designed for industrial applications, each step produces accurate, parallel holes with a small clearance on the nominal diameter. It positively deburrs the entry side as the hole is drilled, and if the work can be reversed, both sides. 'S’ Type Bradrad® drills are used to machine a wide variety of materials and for many different applications. No pilot drill is required, and good quality deburred holes are produced with minimum fuss using a bench drill or light pedestal drilling machine. Each Bradrad® has eleven different drilling diameters. When drilling metals always use a coolant.",
+  "availability": "In Stock",
+  "product_name": "Halls Bradrad® Tools",
+  "specifications": [
+    "Precision tools drill and deburr in material thicknesses up to 10mm",
+    "Produces accurate, parallel holes",
+    "No pilot drill required",
+    "Deburrs entry side while drilling",
+    "Eleven different drilling diameters"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-high-speed-steel-step-drills-conduit.html|>
+## Halls High Speed Steel Step Drills Conduit
+
+{
+  "price": "from €83.85 inc VAT",
+  "description": "The Halls High Speed Steel Step Drill, special application for conduit entry these step drills cut a parallel hole for size range stated.",
+  "availability": "In Stock",
+  "product_name": "Halls High Speed Steel Step Drills Conduit",
+  "specifications": [
+    "Select Option: 16, 20 & 25mm, 16, 20, 25 & 32mm",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: If you need to return something for any reason"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-mc-high-speed-steel-step-drills.html|>
+## Halls MC High Speed Steel Step Drills
+
+{
+  "price": "from €55.52 inc VAT",
+  "description": "The Halls MC High Speed Steel Step Drill provides an easy way to cut the hole size you want. Each tool cuts parallel hole sizes. For use on sheet metal to stated maximum thickness.",
+  "availability": "In Stock",
+  "product_name": "Halls MC High Speed Steel Step Drills",
+  "specifications": [
+    "Select Option: 20 - 30mm, 4 - 20mm, 4 - 30mm, MC 1M High Speed Steel Step Drill 4 - 12mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-xs-high-speed-steel-step-drill.html|>
+## Halls XS High Speed Steel Step Drill
+
+{
+  "price": "from €49.26 inc VAT",
+  "description": "The Halls High Speed Steel Step Drill for drilling holes in ferrous and non-ferrous materials up to 5mm thick.",
+  "availability": "In Stock",
+  "product_name": "Halls XS High Speed Steel Step Drill",
+  "specifications": [
+    "Select Option: 4-12mm, 5-13mm, 8-20mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/spectrum-jb13-13mm-a-taper-drill.html|>
+## Spectrum jb13 13Mm A Taper Drill
+
+{
+  "price": "€22.23 inc VAT (€18.07 exc.vat)",
+  "description": "jb13 13Mm A Taper Drill",
+  "availability": "Out of Stock",
+  "product_name": "Spectrum jb13 13Mm A Taper Drill",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-pro-tin-coated-drill-bits.html|>
+## IRWIN HSS Pro TiN Coated Drill Bits
+
+{
+  "price": "from €1.50 inc VAT",
+  "description": "The Irwin HSS Pro titanium drill bits are primarily designed for drilling metal and harder, tougher alloys. Compared to traditional HSS twist drill bits, speed can be increased by 40 -60% and feed by 10 -20% without reducing the life time of the drill bit significantly. TiN is also a poor conductor of heat, so the heat generated during the drilling process is diverted into the chips and coolant and less into the drill bit. These drills have a 135° split point grinding tip which ensures perfect centring and reduced drilling pressure. The drill bit body is manufactured from high quality HSS steel coated with 2.5µ Titanium Nitride (TiN), the TiN coating has a hardness of app. 80 HRC and is very resistant to wear. TiN has a low coefficient of friction, this results in less power being consumed and less heat generated during the drilling.",
+  "availability": "In Stock",
+  "product_name": "IRWIN HSS Pro TiN Coated Drill Bits",
+  "specifications": [
+    "Available sizes: 1.0mm, 1.5mm, 2.0mm, 3.0mm, 4.0mm, 4.5mm, 6.5mm, 7.0mm, 7.5mm, 8.0mm, 8.5mm, 9.0mm, 9.5mm",
+    "135° split point grinding tip for perfect centring",
+    "Manufactured from high quality HSS steel",
+    "Coated with 2.5µ Titanium Nitride (TiN)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a08910-set-a002-hss-tin-coated-jobber-drill-set-of-5-40-100-x-05mm.html|>
+## Dormer A08910 Set A002 HSS TiN Coated Jobber Drill Set of 5 4.0-10.0 x 0.5mm
+
+{
+  "price": "€57.81 inc VAT (€47.00 exc.vat)",
+  "description": "5 Piece Set of Dormer Imperial A002 TiN Jobber Drill Bits with a TiN tip coating for increased tool life and performance. It has a self-centring split point for superb hole quality and positional accuracy. It will drill steel, stainless, cast iron, ceramics, plastics and many other materials with ease. Suitable for both hand and machine use. Made to DIN 338RN/BS328/ISO 235 standards. Sizes: 4, 5, 6, 8 & 10mm.",
+  "availability": "In Stock",
+  "product_name": "Dormer A08910 Set A002 HSS TiN Coated Jobber Drill Set of 5 4.0-10.0 x 0.5mm",
+  "specifications": [
+    "5 Piece Set",
+    "TiN tip coating for increased tool life",
+    "Self-centring split point for superb hole quality",
+    "Drills steel, stainless, cast iron, ceramics, plastics",
+    "Suitable for both hand and machine use",
+    "Made to DIN 338RN/BS328/ISO 235 standards",
+    "Sizes: 4, 5, 6, 8 & 10mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-cobalt-drill-bit-set-15-piece.html|>
+## IRWIN® HSS Cobalt Drill Bit Set, 15 Piece
+
+{
+  "price": "€117.71 inc VAT (€95.70 exc.vat)",
+  "description": "IRWIN® HSS Cobalt Drill Bits are perfect for drilling stainless steel and other high alloys. Their 135° split point grinding ensures perfect centring and reduced drilling pressure. An industrial quality ground flute ensures high accuracy drilling and fast removal of chips. The drill bit body is manufactured from high-quality HSS steel containing 5% cobalt (Co). The added 5% cobalt improves the red hardness (heat resistance) of the drill bit and results in significantly extended life. It has an attractive golden tempered surface finish. This 15 Piece Set contains the following sizes: 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 8, 9, 10mm.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® HSS Cobalt Drill Bit Set, 15 Piece",
+  "specifications": [
+    "15 Piece Set",
+    "Sizes: 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 8, 9, 10mm",
+    "Manufactured from high-quality HSS steel with 5% cobalt",
+    "135° split point grinding for perfect centring",
+    "Industrial quality ground flute for high accuracy drilling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-10pce-cobalt-drill-bit-set-1-10x1.html|>
+## Krino 10Pce Cobalt Drill Bit Set 1-10X1
+
+{
+  "price": "€62.39 inc VAT (€50.72 exc.vat)",
+  "description": "10Pce Cobalt Drill Bit Set 1-10X1",
+  "availability": "In Stock",
+  "product_name": "Krino 10Pce Cobalt Drill Bit Set 1-10X1",
+  "specifications": [
+    "KRI01155201 : €62.39",
+    "List: €80.49",
+    "You save €18.10"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krihsc100.html|>
+## Krino New Group for KRIHSC100
+
+{
+  "price": "€1.55 inc VAT",
+  "description": "Krino New Group for KRIHSC100",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIHSC100",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-d-72855-hss-tin-drill-bit-set-13-piece.html|>
+## Makita D-72855 HSS-TiN Drill Bit Set, 13 Piece
+
+{
+  "price": "€23.32 inc VAT (€18.96 exc.vat)",
+  "description": "Makita HSS-TiN Drill Bits come with a straight shank for drilling in metal. This set is supplied in a handy plastic case, ideal for professional use.",
+  "availability": "Out of Stock",
+  "product_name": "Makita D-72855 HSS-TiN Drill Bit Set, 13 Piece",
+  "specifications": [
+    "Sizes: 1.5, 2, 2.5, 3, 3.2, 3.5, 4, 4.5, 4.8, 5, 5.5, 6.0, 6.5mm",
+    "Pack Quantity: 13 piece"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a002-hss-tin-coated-jobber-drills-metric.html|>
+## Dormer A002 HSS-TiN Coated Jobber Drills Metric
+
+{
+  "price": "from €3.53 inc VAT",
+  "description": "Dormer Metric A002 TiN Jobber Drill Bits have a TiN tip coating for increased tool life and performance. It has a self-centring split point for superb hole quality and positional accuracy. It will drill steel, stainless, cast iron, ceramics, plastics and many other materials with ease. Made to DIN338RN/BS328/ISO235 standards.",
+  "availability": "In Stock",
+  "product_name": "Dormer A002 HSS-TiN Coated Jobber Drills Metric",
+  "specifications": [
+    "TiN tip coating for increased tool life and performance",
+    "Self-centring split point for superb hole quality",
+    "Drills steel, stainless, cast iron, ceramics, plastics and more",
+    "Made to DIN338RN/BS328/ISO235 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a777-hsco-cobalt-heavy-duty-jobber-drills-metric-and-imperial-1.html|>
+## Dormer A777 HSCo Cobalt Heavy-Duty Jobber Drills Metric and Imperial
+
+{
+  "price": "from €10.92 inc VAT",
+  "description": "Dormer A777 Heavy-duty Cobalt jobber drill for use when greater heat is generated during drilling, e.g on higher tensile, tougher materials and in particular the Aerospace Industry.",
+  "availability": "In Stock",
+  "product_name": "Dormer A777 HSCo Cobalt Heavy-Duty Jobber Drills Metric and Imperial",
+  "specifications": [
+    "Flute Geometry: Standard Helix, Right hand spiral, Thick Web",
+    "Point Angle: 0.30 mm - 0.95 mm 118° Conical point, 1.00 mm to 1.40 mm inclusive 135° 4 facet point, 1.50 mm and above 135° split point sizes (Split point geometry to NAS 907 Areospace Specification type P3 Point)",
+    "Surface Treatment: Bronze",
+    "Material: HSCo Cobalt steel",
+    "DIN 338 RN / BS328 / ISO235"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a002-hss-tin-coated-jobber-drills-imperial.html|>
+## Dormer A002 HSS-TiN Coated Jobber Drills Imperial
+
+{
+  "price": "from €5.06 inc VAT",
+  "description": "The Dormer Imperial A002 TiN Jobber Drill Bits have a TiN tip coating for increased tool life and performance. It has a self-centring split point for superb hole quality and positional accuracy. It will drill steel, stainless, cast iron, ceramics, plastics and many other materials with ease. Suitable for both hand and machine use. Made to DIN338RN/BS328/ISO235 standards.",
+  "availability": "In Stock",
+  "product_name": "Dormer A002 HSS-TiN Coated Jobber Drills Imperial",
+  "specifications": [
+    "TiN tip coating for increased tool life and performance",
+    "Self-centring split point for superb hole quality",
+    "Suitable for drilling steel, stainless, cast iron, ceramics, plastics",
+    "Made to DIN338RN/BS328/ISO235 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a002-hss-tin-coated-jobber-drill-pouch-pack-metric.html|>
+## Dormer A002 HSS-TiN Coated Jobber Drill Pouch Pack Metric
+
+{
+  "price": "from €7.34 inc VAT",
+  "description": "The Dormer A002 Metric HSS-TiN Coated Jobber Drill Bits in Pouch Packs. Each bit has a pointed web and fluted tip design. The point design allows for efficient cutting, with a reduced axial force and allows for accurate centring. The web design provides optimised strength, rigidity and improves the feed of the drilling bit. The flutes allows for efficient chip form and evacuation. The bits have visible, tool in-situ marking that allows for easy identification. The optimised helix angle provides greater stiffness across the diameter range. The bright body improves cutting performance on ductile materials, and the Titanium Nitride coating resists flank and crater wear, and has low friction that allows for increased cutting speeds. The packaging is suitable for Euro Slot Hangers.",
+  "availability": "In Stock",
+  "product_name": "Dormer A002 HSS-TiN Coated Jobber Drill Pouch Pack Metric",
+  "specifications": [
+    "HSS-TiN Coated",
+    "Available in various sizes",
+    "Pouch pack design",
+    "Optimised helix angle for stiffness",
+    "Suitable for Euro Slot Hangers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a094-hss-jobber-drills-in-round-plastic-cases.html|>
+## Dormer A094 HSS Jobber Drills in Round Plastic Cases
+
+{
+  "price": "€75.02 inc VAT",
+  "description": "Dormer A094 HSS TiN Coated Metric jobber drills in round plastic 'Select-A Drill' case with each size embossed for ease of identification.",
+  "availability": "In Stock",
+  "product_name": "Dormer A094 HSS Jobber Drills in Round Plastic Cases",
+  "specifications": [
+    "Set of 13 1.5-10 mm",
+    "Set of 19 1mm-10mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-a095-tin-coated-hss-jobber-drills.html|>
+## Dormer A095 TiN Coated HSS Jobber Drills
+
+{
+  "price": "from €184.48 inc VAT",
+  "description": "Dormer A095 TiN coated tipped HSS jobber drills in a plastic case, ideal general purpose engineering drills. These sets use the Dormer A002 general purpose jobber drills, which are made from High Speed Steel with TiN (Titanium Nitride) coated for high wear resistance, lower friction, longer life, with good self-centring capability on a wide range of materials. Particularly suitable for aluminium and other abrasive materials, ideal for drilling wood and chipboard. Suitable for both hand and machine use. DIN338RN/BS328/ISO235",
+  "availability": "In Stock",
+  "product_name": "Dormer A095 TiN Coated HSS Jobber Drills",
+  "specifications": [
+    "Set of 13 1.0-10 x 0.5mm",
+    "Set of 19 1.0-10.0 x 0.5mm",
+    "Set of 25 1.0-13.0 x 0.5mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-cobalt-drill-bit.html|>
+## IRWIN HSS Cobalt Drill Bit
+
+{
+  "price": "from €2.50 inc VAT",
+  "description": "The Irwin Metric HSS Cobalt Drill Bits are perfect for drilling stainless steel and other high alloys. Their 135° split point grinding ensures perfect centring and reduced drilling pressure. An industrial quality ground flute ensures high accuracy drilling and fast removal of chips. The drill bit body is manufactured from high quality HSS steel containing 5% Cobalt (Co). The added 5% Cobalt improves the red hardness (heat resistance) of the drill bit and results in significantly extended life. It has an attractive golden tempered surface finish.",
+  "availability": "In Stock",
+  "product_name": "IRWIN HSS Cobalt Drill Bit",
+  "specifications": [
+    "135° split point grinding for perfect centring",
+    "Manufactured from high quality HSS steel with 5% Cobalt",
+    "Golden tempered surface finish",
+    "Suitable for drilling stainless steel and high alloys"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hss-cobalt-drillbits.html|>
+## IRWIN HSS Cobalt Drillbits
+
+{
+  "price": "from €29.61 inc VAT",
+  "description": "The Irwin Metric HSS Cobalt Drill Bits are perfect for drilling stainless steel and other high alloy steels. They have 5% cobalt for higher heat and abrasion resistance and a heavy-duty web construction for strength and durability. The 135° split point begins drilling immediately, minimising bit walk and they are manufactured to DIN 338 Standards.",
+  "availability": "In Stock",
+  "product_name": "IRWIN HSS Cobalt Drillbits",
+  "specifications": [
+    "5% cobalt for higher heat and abrasion resistance",
+    "Heavy-duty web construction for strength and durability",
+    "135° split point for immediate drilling",
+    "Manufactured to DIN 338 Standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gripit-flat-drill-bit-15mm.html|>
+## Gripit Flat Drill Bit 15mm
+
+{
+  "price": "€1.91 inc VAT (€1.55 exc.vat)",
+  "description": "The Gripit 15mm Flat Drill Bit provides fast and accurate drilling. Attaches to any power drill, allowing you to neatly cut the correct sized hole. Ideal for use with the 15mm Yellow Gripit Plasterboard Fixings.",
+  "availability": "In Stock",
+  "product_name": "Gripit Flat Drill Bit 15mm",
+  "specifications": [
+    "Flat Drill Bit 15mm",
+    "GRPDRILL15 : €1.91",
+    "Ideal for use with the 15mm Yellow Gripit Plasterboard Fixings."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-08698-flat-bit-set-8-piece.html|>
+## Makita E-08698 Flat Bit Set, 8 Piece
+
+{
+  "price": "€22.37 inc VAT (€18.19 exc.vat)",
+  "description": "The Makita E-08698 Flat Bit Set is ideal for drilling in most types of wood. Each bit has a 1/4in shank. Supplied in a plastic carry case with foam inserts, keeping the bits in place and allow for easy identification of size. Contains the following sizes: 12, 14, 16, 18, 20, 22, 25 and 32mm",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-08698 Flat Bit Set, 8 Piece",
+  "specifications": [
+    "Sizes: 12, 14, 16, 18, 20, 22, 25 and 32mm",
+    "1/4in shank",
+    "Supplied in a plastic carry case with foam inserts"
+  ]
+}
+

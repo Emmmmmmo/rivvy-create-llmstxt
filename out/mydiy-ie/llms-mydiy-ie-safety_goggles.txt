@@ -1,0 +1,94 @@
+<|https://www.mydiy.ie/products/boll-safety-tracker-safety-goggles.html|>
+## Bollé Safety Tracker Safety Goggles
+
+{
+  "price": "€19.86 inc VAT",
+  "description": "The Bolle Tracker Safety Goggles provide protection from all mechanical risks and also chemical risks. The goggles are very comfortable, and have a removable adjustable strap for secure fitting. The foam reinforcement is also removable and provides indirect ventilation. Protection is offered from above, below and sides. The lenses have an anti-scratch and anti-fog Platinum Coating. Resistant to medium energy impacts (121m/s).",
+  "availability": "In Stock",
+  "product_name": "Bollé Safety Tracker Safety Goggles",
+  "specifications": [
+    "Removable adjustable strap for secure fitting",
+    "Foam reinforcement for indirect ventilation",
+    "Anti-scratch and anti-fog Platinum Coating",
+    "Resistant to medium energy impacts (121m/s)"
+  ],
+  "product_category": "Safety Goggles"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-bl15-ventilated-goggles---clear.html|>
+## Bolle Safety BL15 Ventilated Goggles - Clear
+
+{
+  "price": "€4.69 inc VAT (€3.81 exc.vat)",
+  "description": "Bollé Safety BL15 Ventilated Goggles have a clear lens with an anti-fog coating. 99.9% UVA/UVB protection. They have a flexible, vented frame and an adjustable tightening elastic. Can be worn over glasses. EN 166 B rated.",
+  "availability": "Out of Stock",
+  "product_name": "Bolle Safety BL15 Ventilated Goggles - Clear",
+  "specifications": [
+    "Clear lens with anti-fog coating",
+    "99.9% UVA/UVB protection",
+    "Flexible, vented frame",
+    "Adjustable tightening elastic",
+    "Can be worn over glasses",
+    "EN 166 B rated"
+  ],
+  "product_category": "Safety Goggles"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-overlight-otg-goggles---clear.html|>
+## Bolle Safety Overlight OTG Goggles - Clear
+
+{
+  "price": "€9.51 inc VAT (€7.73 exc.vat)",
+  "description": "The Bolle Overlight Goggles are a new generation of OTG (over the glasses) and fit over all standard prescription frames. They have a compact, lightweight design with pivoting temples. The optical class 1 polycarbonate lenses have an anti-scratch and anti-fog coating. Conform to Standard: EN 166/170 1FT.",
+  "availability": "In Stock",
+  "product_name": "Bolle Safety Overlight OTG Goggles - Clear",
+  "specifications": [
+    "Optical class 1 polycarbonate lenses",
+    "Anti-scratch and anti-fog coating",
+    "Fits over standard prescription frames",
+    "Compact and lightweight design",
+    "Conforms to Standard: EN 166/170 1FT"
+  ],
+  "product_category": "Safety Goggles"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-pilot-ventilated-safety-goggles.html|>
+## Bolle Safety Pilot Ventilated Safety Goggles
+
+{
+  "price": "€25.49 inc VAT",
+  "description": "These Bolle Pilot Ventilated Safety Goggles are fitted with a toric optical class 1 polycarbonate lens and a Platinum double sided anti-scratch and anti-fog coating. Offering an excellent field of view. The ultra-flexible co-injected TPR housing provides increased comfort. With a wide fully adjustable strap that guarantees the wearer optimum levels of fit and comfort. They also fit over prescription spectacles. Conform to EN 166/170/172 1BT 3,4,9 K,N.",
+  "availability": "In Stock",
+  "product_name": "Bolle Safety Pilot Ventilated Safety Goggles",
+  "specifications": [
+    "Toric optical class 1 polycarbonate lens",
+    "Platinum double sided anti-scratch and anti-fog coating",
+    "Ultra-flexible co-injected TPR housing",
+    "Wide fully adjustable strap",
+    "Fits over prescription spectacles",
+    "Conform to EN 166/170/172 1BT 3,4,9 K,N"
+  ],
+  "product_category": "Safety Goggles"
+}
+
+<|https://www.mydiy.ie/products/dewalt-concealer-clear-goggle-dpg82-11d.html|>
+## DEWALT Concealer Clear Goggle DPG82-11D
+
+{
+  "price": "€15.51 inc VAT (€12.61 exc.vat)",
+  "description": "The DEWALT DPG82-11D concealer goggles have a soft rubber nose piece and a hand grip pattern on the temple. They have a scratch resistant hard coat polycarbonate lens, anti-fog coating and distortion free lens with 99.9% UVA & UVB protection.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Concealer Clear Goggle DPG82-11D",
+  "specifications": [
+    "Soft rubber nose piece",
+    "Hand grip pattern on the temple",
+    "Scratch resistant hard coat polycarbonate lens",
+    "Anti-fog coating",
+    "Distortion free lens",
+    "99.9% UVA & UVB protection",
+    "EN Test: EN 166-1F",
+    "Safety Rating: E3"
+  ],
+  "product_category": "Safety Goggles"
+}
+

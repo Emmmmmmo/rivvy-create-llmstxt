@@ -1,0 +1,30 @@
+<|https://www.mydiy.ie/products/campingaz-cp250-isobutane-gas-250g-202207.html|>
+## CP250 Isobutane Gas 250g 202207
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "Isobutane gas cansiter, suitable for Campingaz Bistro and Festivio stoves. Small and lightweight, it is easy to transport. Ideal for camping. Size: 250g. Caution: This product is highly flammable.",
+  "availability": "In Stock",
+  "product_name": "CP250 Isobutane Gas 250g 202207",
+  "specifications": [
+    "Size: 250g",
+    "Highly flammable"
+  ],
+  "product_category": "Camping Equipment"
+}
+
+<|https://www.mydiy.ie/products/campingaz-cp250-isobutane-gas-cartridge-220g-pack-of-4.html|>
+## Campingaz® CP250 Isobutane Gas Cartridge 220g Pack of 4
+
+{
+  "price": "€16.99 inc VAT (€13.81 exc.vat)",
+  "description": "The Campingaz® CP250 Isobutane Gas Cartridge contains high-performance Isobutane gas. This cartridge will work better at lower temperatures than other similarly styled cartridges. The CP250 cartridge can be removed and re-attached safely, even if not yet empty and will fit the Campingaz® Camp Bistro 3 stove.",
+  "availability": "In Stock",
+  "product_name": "Campingaz® CP250 Isobutane Gas Cartridge 220g Pack of 4",
+  "specifications": [
+    "Pack Quantity: 4",
+    "Gas Weight: 220g"
+  ],
+  "product_category": "Camping Equipment"
+}
+

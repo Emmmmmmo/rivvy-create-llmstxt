@@ -1,0 +1,17 @@
+<|https://www.mydiy.ie/products/coleman-c300-performance-butanepropane-gas-240g.html|>
+## C300 Performance Butane/Propane Gas 240g
+
+{
+  "price": "€7.80 inc VAT (€6.34 exc.vat)",
+  "description": "The Coleman C300 Performance Gas offers a (70/30) butane/propane gas mixture in a threaded self-sealing cartridge with safety valve. It's compatible with all Coleman resealable appliances. Caution: This Product is Highly Flammable.",
+  "availability": "Out of Stock",
+  "product_name": "C300 Performance Butane/Propane Gas 240g",
+  "specifications": [
+    "70/30 butane/propane gas mixture",
+    "Threaded self-sealing cartridge",
+    "Compatible with Coleman resealable appliances",
+    "Highly flammable"
+  ],
+  "product_category": "Gas Products"
+}
+

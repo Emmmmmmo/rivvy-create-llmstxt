@@ -1,0 +1,780 @@
+<|https://www.mydiy.ie/products/stanley-tools-hobby-paint-brush-set-of-10-12mm-76mm.html|>
+## Stanley Tools Hobby Paint Brush Set of 10 12mm-76mm
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "This Stanley STAHOBBY10 is everything you need in 1 complete set of pure bristle paint brushes. You can get all the odd jobs around the house done in no time with this set, from the smallest 1/2-Inch for around window frames, dado rails etc. to the largest 3 inch for doors, small wall areas or cupboard doors giving them a new lease of life. This is a great 10 piece set for almost any household project, ranging from 1/2 inch to 3 Inch (12 mm to 76mm). Pure Bristle 2 x 1/2 inch brushes 2 x 1 inch brushes 3 x 1 1/2 inch brushes 2 x 2 inch brushes 1 x 3 inch brushes",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Hobby Paint Brush Set of 10 12mm-76mm",
+  "specifications": [
+    "Hobby Paint Brush Set of 10",
+    "Sizes: 12mm, 25mm, 38mm, 50mm, 75mm",
+    "Pure bristle brushes",
+    "Includes 2 x 1/2 inch, 2 x 1 inch, 3 x 1 1/2 inch, 2 x 2 inch, 1 x 3 inch brushes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-shed-and-fence-brush-100mm-4in.html|>
+## Stanley Tools Shed & Fence Brush 100mm (4in)
+
+{
+  "price": "€7.64 inc VAT (€6.21 exc.vat)",
+  "description": "A Shed and Fence brush with an extra thick head for the safe and effective application of preservatives including creosote. A bristle and synthetic mixture head is attached to a handle with a pot clip to hang the brush easily when not in use. Size: 100mm (4in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Shed & Fence Brush 100mm (4in)",
+  "specifications": [
+    "Size: 100mm (4in)",
+    "Extra thick head for effective application of preservatives",
+    "Bristle and synthetic mixture head",
+    "Handle with pot clip for easy hanging"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-masonry-brush-125mm-5in.html|>
+## Stanley Tools Masonry Brush 125mm (5in)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "A masonry brush designed for the application of all types of cement, sand and stone based paints and exterior wall paint. Synthetic bristles and special pot clip to hang the brush easily when not in use. Size: 125 mm (5in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Masonry Brush 125mm (5in)",
+  "specifications": [
+    "Size: 125 mm (5in)",
+    "Synthetic bristles",
+    "Special pot clip for easy hanging"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-max-finish-advance-synthetic-paint-brush.html|>
+## Stanley Tools Max Finish Advance Synthetic Paint Brush
+
+{
+  "price": "€10.59 inc VAT",
+  "description": "Stanley Max Finish Advance Synthetic Paint Brushes have DuPont™ synthetic bristles to provide longer life and easier cleaning. They feature brilliant paint loading, provide gradual paint release and give a fine finish with no bristle loss. The brushes have a stainless steel ferrule and wooden Beavertail handles. They are compatible with vapour boxes to ensure easy brush care and storage for re-use.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Max Finish Advance Synthetic Paint Brush",
+  "specifications": [
+    "DuPont™ synthetic bristles for longer life",
+    "Brilliant paint loading and gradual paint release",
+    "Fine finish with no bristle loss",
+    "Stainless steel ferrule and wooden Beavertail handles",
+    "Compatible with vapour boxes for easy care and storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-decor-paint-brushes.html|>
+## Stanley Tools Decor Paint Brushes
+
+{
+  "price": "from €6.86 inc VAT",
+  "description": "A general purpose black bristle brush with a rust-resistant ferrule. The polyproylene handle is shaped for comfort.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Decor Paint Brushes",
+  "specifications": [
+    "65mm (2.1/2in) Set of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-dynagrip-synthetic-paint-brushes.html|>
+## Stanley Tools DynaGrip Synthetic Paint Brushes
+
+{
+  "price": "from €4.27 inc VAT",
+  "description": "The Stanley DynaGrip paint brush has tapered synthetic filaments for a smooth finish, with no bristle loss. It has a stainless steel ferrule and a DynaGrip handle for comfort and control. Suitable for use with all paints.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools DynaGrip Synthetic Paint Brushes",
+  "specifications": [
+    "Type: synthetic filament",
+    "Available sizes: 38mm (1.1/2in), 50mm (2in), 75mm (3in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-hobby-paint-brushes.html|>
+## Stanley Tools Hobby Paint Brushes
+
+{
+  "price": "from €1.55 inc VAT",
+  "description": "The Stanley Hobby paint brush has pure black bristles and a rust resistant ferrule. The yellow polypropylene handle is shaped for comfort.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Hobby Paint Brushes",
+  "specifications": [
+    "Set of 3: 25mm, 38mm & 50mm",
+    "Set of 5: 12, 25, 37, 50 & 62mm",
+    "12mm (1/2in)",
+    "25mm (1in)",
+    "38mm (1.1/2in)",
+    "50mm (2in)",
+    "65mm (2.1/2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-loss-free-synthetic-brush-pack-10-piece.html|>
+## Stanley Tools Loss Free Synthetic Brush Pack 10 Piece
+
+{
+  "price": "€12.19 inc VAT (€9.91 exc.vat)",
+  "description": "The Stanley 10 Piece Loss Free Synthetic Brush Set. These brushes have synthetic bristles for a smooth finish, with no bristle loss. Fitted with a soft grip handle for extra comfort and control. Suitable for use with all paints and varnishes. Contains the following sizes: 2 x 12mm (1/2in), 2 x 25mm (1in), 3 x 38mm (1.1/2in), 2 x 50mm (2in) & 1 x 75mm (3in).",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Loss Free Synthetic Brush Pack 10 Piece",
+  "specifications": [
+    "10 Piece Set",
+    "Synthetic bristles for smooth finish",
+    "Soft grip handle for comfort",
+    "Suitable for all paints and varnishes",
+    "Sizes: 2 x 12mm, 2 x 25mm, 3 x 38mm, 2 x 50mm, 1 x 75mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-xl-elite-monarch-paint-brush.html|>
+## Purdy XL Elite Monarch Paint Brush
+
+{
+  "price": "from €21.02 inc VAT",
+  "description": "The Purdy® XL™ Elite™ Monarch™ Paint Brush is recommended for use with emulsion paint. Its thicker filaments will pick up and lay off more paint for better productivity on the job. Designed by UK professionals specifically for the UK market, ensuring it's Purdy's most versatile and trusted brush.",
+  "availability": "In Stock",
+  "product_name": "Purdy XL Elite Monarch Paint Brush",
+  "specifications": [
+    "Material: Chinex & Orel Blend Synthetic Filaments",
+    "Handle: Beavertail",
+    "Ferrule: Round Edge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-pro-extra-monarch-paint-brush.html|>
+## Purdy Pro-Extra Monarch Paint Brush
+
+{
+  "price": "€22.83 inc VAT",
+  "description": "The Purdy® Pro-Extra® Monarch™ Paint Brush delivers 30% more paint onto walls and ceilings than any other Purdy® brush. Its thicker filaments maximise paint pick-up of higher viscosity paints. Ideal when working with thick oil based paints. Material: Chinex®, Tynex® & Orel® Blend Synthetic Filaments Handle: Beavertail Ferrule: Round Edge",
+  "availability": "In Stock",
+  "product_name": "Purdy Pro-Extra Monarch Paint Brush",
+  "specifications": [
+    "Material: Chinex®, Tynex® & Orel® Blend Synthetic Filaments",
+    "Handle: Beavertail",
+    "Ferrule: Round Edge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-xl-elite-sprig-paint-brush.html|>
+## Purdy XL Elite Sprig Paint Brush
+
+{
+  "price": "€21.19 inc VAT",
+  "description": "The Purdy® XL™ Elite™ Sprig™ Paint Brush is recommended for use with water-based trim paint. Its thinner filaments are ideal when used with these lower viscosity paints, ensuring improved lay off with less drag, to achieve a flawless finish to trim.",
+  "availability": "In Stock",
+  "product_name": "Purdy XL Elite Sprig Paint Brush",
+  "specifications": [
+    "Material: Chinex, Tynex & Orel Blend Synthetic Filaments",
+    "Handle: Beavertail",
+    "Ferrule: Round Edge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-syntox-angled-woodcare-brush-50mm-2in.html|>
+## Purdy® Syntox™ Angled Woodcare Brush 50mm (2in)
+
+{
+  "price": "€28.88 inc VAT (€23.48 exc.vat)",
+  "description": "The Purdy® Syntox™ Angled Woodcare Brush 50mm (2in) gives a superior, ultra-smooth finish on wood which is so glossy and shiny it looks polished. The bristles are designed to mimic natural ox-hair brushes so have the same benefits but last five-times longer. It works best with stains, varnishes, oils or anything to leave a clear finish as well as water and solvent-based finishes.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Syntox™ Angled Woodcare Brush 50mm (2in)",
+  "specifications": [
+    "Material: Chinex & Nylon blend synthetic filaments.",
+    "Handle: Thin Rattail.",
+    "Ferrule: Round edge."
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-syntox-flat-woodcare-brush.html|>
+## Purdy® Syntox™ Flat Woodcare Brush
+
+{
+  "price": "€26.80 inc VAT",
+  "description": "The Purdy® Syntox™ Flat Woodcare Brush gives a superior, ultra-smooth finish on wood which is so glossy and shiny it looks polished. The bristles are designed to mimic natural ox-hair brushes so have the same benefits but last five-times longer. It works best with stains, varnishes, oils or anything to leave a clear finish as well as water and solvent-based finishes.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Syntox™ Flat Woodcare Brush",
+  "specifications": [
+    "Material: Chinex & Nylon blend synthetic filaments.",
+    "Handle: Thin Rattail.",
+    "Ferrule: Round edge."
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-monarch-elite-and-pro-extra-monarch-brush-set-5-piece.html|>
+## Purdy® Monarch™ Elite™ & Pro-Extra® Monarch™ Brush Set, 5 Piece
+
+{
+  "price": "€94.92 inc VAT (€77.17 exc.vat)",
+  "description": "This Purdy® Box Set contains: 3 x Monarch™ Elite™ Brushes. Recommended for use with emulsion paint. Its thicker filaments will pick up and lay off more paint for better productivity on the job. Designed by UK professionals specifically for the UK market, ensuring it's Purdy's most versatile and trusted brush. One of each size: 1.1/2in, 2in and 3in. 2 x Pro-Extra® Monarch™ Brushes. Delivers 30% more paint onto walls and ceilings than any other Purdy® brush. Its thicker filaments maximise paint pick-up of higher viscosity paints. Ideal when working with thick oil based paints. One of each size: 1.1/2in and 2in.",
+  "availability": "Out of Stock",
+  "product_name": "Purdy® Monarch™ Elite™ & Pro-Extra® Monarch™ Brush Set, 5 Piece",
+  "specifications": [
+    "3 x Monarch™ Elite™ Brushes (1.1/2in, 2in, 3in)",
+    "2 x Pro-Extra® Monarch™ Brushes (1.1/2in, 2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-plastic-paint-kettle.html|>
+## Stanley Tools Plastic Paint Kettle
+
+{
+  "price": "from €2.99 inc VAT",
+  "description": "This Stanley Plastic Paint Kettle is suitable for use with all types of paint. It can also be used for mixing wallpaper paste or holding nails, screws and small tools when working at height.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Plastic Paint Kettle",
+  "specifications": [
+    "1 Litre Capacity",
+    "2.5 Litre Capacity"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marshalltown-heavy-duty-paint-pail-950ml.html|>
+## Marshalltown Heavy-Duty Paint Pail 950ml
+
+{
+  "price": "€14.07 inc VAT (€11.44 exc.vat)",
+  "description": "The Marshalltown Heavy-Duty Paint Pail features a tear-drop design with an integrated pour spout for easy, mess-free pouring. A paint brush magnet holds brushes of up to 2in wide, in an optimal brush resting position when not in use and allows excess paint to drip back into the pail. Two wiper blades helps rid excess paint from your brush. The pail comes with an adjustable nylon cinch strap that fits any hand, a thumb rest for increase comfort, and two ergonomic grip grooves. Capacity: 950ml",
+  "availability": "Out of Stock",
+  "product_name": "Marshalltown Heavy-Duty Paint Pail 950ml",
+  "specifications": [
+    "Capacity: 950ml",
+    "Tear-drop design with integrated pour spout",
+    "Paint brush magnet for optimal resting position",
+    "Two wiper blades to remove excess paint",
+    "Adjustable nylon cinch strap",
+    "Thumb rest for comfort",
+    "Ergonomic grip grooves"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marshalltown-heavy-duty-paint-pail-liners-pack-6.html|>
+## Marshalltown Heavy-Duty Paint Pail Liners (Pack 6)
+
+{
+  "price": "€4.51 inc VAT (€3.67 exc.vat)",
+  "description": "These Marshalltown Pail Liners are suitable for the Marshalltown Heavy-Duty Paint Pail. Perfect for quick color changes and easy clean up. One pack contains six disposable liners.",
+  "availability": "Out of Stock",
+  "product_name": "Marshalltown Heavy-Duty Paint Pail Liners (Pack 6)",
+  "specifications": [
+    "Pack of 6 disposable liners",
+    "Suitable for Marshalltown Heavy-Duty Paint Pail",
+    "Perfect for quick color changes",
+    "Easy clean up"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marshalltown-paint-cup.html|>
+## Marshalltown Paint Cup
+
+{
+  "price": "€3.65 inc VAT (€2.97 exc.vat)",
+  "description": "The Marshalltown Paint Cup is made of a durable, solvent-resistant and non-stick material that makes removing dried paint quick and easy. It holds up to 475ml (1 Pint) of paint, ideal for any small paint or staining project. Its pour spout allows quick and easy paint transfer. The Paint Cup comes with an integrated brush magnet that holds brushes up to 2in wide, and allows excess paint to drain back into the Cup.",
+  "availability": "Out of Stock",
+  "product_name": "Marshalltown Paint Cup",
+  "specifications": [
+    "Durable, solvent-resistant and non-stick material",
+    "Holds up to 475ml (1 Pint) of paint",
+    "Integrated brush magnet for holding brushes up to 2in wide",
+    "Pour spout for quick and easy paint transfer"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-dual-roll-off-bucket-liners-pack-3.html|>
+## Purdy® Dual Roll Off Bucket Liners (Pack 3)
+
+{
+  "price": "€27.11 inc VAT (€22.04 exc.vat)",
+  "description": "The Purdy® Dual Roll Off Bucket Liners for use with the Dual Roll-Off bucket. Makes clean up fast and easy. The patented Roll-Off grid pattern provides the ideal amount of paint pick-up, consistent paint distribution and smooth wall application. Perfect for when a quick colour change is needed or when using more than one colour. An easy remove tab allows painters to easily remove the liner. Pack Quantity: 3.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Dual Roll Off Bucket Liners (Pack 3)",
+  "specifications": [
+    "Pack Quantity: 3",
+    "Patented Roll-Off grid pattern for ideal paint pick-up",
+    "Easy remove tab for quick liner change"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-dual-roll-off-bucket-lid.html|>
+## Purdy® Dual Roll Off Bucket Lid
+
+{
+  "price": "€10.18 inc VAT (€8.28 exc.vat)",
+  "description": "The Purdy® Dual Roll Off Bucket Lid clips onto the Dual Roll-Off Bucket, allowing the users to store paint in the bucket between coats. Creates a portable system to move paint and supplies with only one trip.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Dual Roll Off Bucket Lid",
+  "specifications": [
+    "Product Code: PUR14LID6018",
+    "List Price: €10.81",
+    "You save: €0.63",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-mini-roller-emulsion-and-gloss-kit-100mm-4in.html|>
+## Stanley Tools Mini Roller Emulsion & Gloss Kit 100mm (4in)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "This Stanley mini paint roller kit includes one roller head for emulsion and one roller head for gloss or varnish. The practical size tray can be held in the hand whilst using the roller. The hollow handle in roller frame allows the use of an extension pole. Roller size : 100 mm (4in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Mini Roller Emulsion & Gloss Kit 100mm (4in)",
+  "specifications": [
+    "Roller size: 100 mm (4in)",
+    "Includes one roller head for emulsion and one for gloss or varnish",
+    "Practical size tray for easy handling",
+    "Hollow handle for extension pole use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/two-fussy-blokes-roller-sleeves-smooth-3-pack.html|>
+## Two Fussy Blokes Roller Sleeve's Smooth (3 PACK)
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "Premium microfibre paint roller sleeve, designed to deliver smooth finish. Size: 100mm, NAP: 5mm, Use on: Doors, Trims & Cupboards, Paint: Water based and oil based",
+  "availability": "In Stock",
+  "product_name": "Two Fussy Blokes Roller Sleeve's Smooth (3 PACK)",
+  "specifications": [
+    "Size: 100mm",
+    "NAP: 5mm",
+    "Use on: Doors, Trims & Cupboards",
+    "Paint: Water based and oil based"
+  ]
+}
+
+<|https://www.mydiy.ie/products/two-fussy-blokes-roller-sleeves-semi-smooth-3-pack.html|>
+## Two Fussy Blokes Roller Sleeve's Semi Smooth (3 PACK)
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "Premium microfibre paint roller sleeve, designed to deliver smooth finish. Size: 100mm, NAP: 10mm, Use on: Weatherboards, Brick Walls, Fences, Plaster Walls, Soffits, Rough Surfaces, Paint: Water based and oil based",
+  "availability": "In Stock",
+  "product_name": "Two Fussy Blokes Roller Sleeve's Semi Smooth (3 PACK)",
+  "specifications": [
+    "Size: 100mm",
+    "NAP: 10mm",
+    "Use on: Weatherboards, Brick Walls, Fences, Plaster Walls, Soffits, Rough Surfaces",
+    "Paint: Water based and oil based"
+  ]
+}
+
+<|https://www.mydiy.ie/products/two-fussy-blokes-roller-sleeves-smooth-10-pack.html|>
+## Two Fussy Blokes Roller Sleeve's Smooth (10 Pack)
+
+{
+  "price": "€17.99 inc VAT",
+  "description": "Premium microfibre paint roller sleeve, designed to deliver smooth finish. Size: 100mm, NAP: 5mm, Use on: Doors, Trims & Cupboards, Paint: Water based and oil based",
+  "availability": "In Stock",
+  "product_name": "Two Fussy Blokes Roller Sleeve's Smooth (10 Pack)",
+  "specifications": [
+    "Size: 100mm",
+    "NAP: 5mm",
+    "Use on: Doors, Trims & Cupboards",
+    "Paint: Water based and oil based"
+  ]
+}
+
+<|https://www.mydiy.ie/products/two-fussy-blokes-roller-sleeves-semi-smooth-10-pack.html|>
+## Two Fussy Blokes Roller Sleeve's Semi Smooth (10 PACK)
+
+{
+  "price": "€17.99 inc VAT",
+  "description": "Premium microfibre paint roller sleeve, designed to deliver smooth finish. Size: 100mm, NAP: 10mm, Use on: Weatherboards, Brick Walls, Fences, Plaster Walls, Soffits, Rough Surfaces, Paint: Water based and oil based",
+  "availability": "In Stock",
+  "product_name": "Two Fussy Blokes Roller Sleeve's Semi Smooth (10 PACK)",
+  "specifications": [
+    "Size: 100mm",
+    "NAP: 10mm",
+    "Use on: Weatherboards, Brick Walls, Fences, Plaster Walls, Soffits, Rough Surfaces",
+    "Paint: Water based and oil based"
+  ]
+}
+
+<|https://www.mydiy.ie/products/two-fussy-blokes-9-inch-230mm-smooth--premium-quality-microfibre-roller-two-fussy-blokes.html|>
+## Two Fussy Blokes 9 Inch (230mm) SMOOTH Premium Quality Microfibre Roller
+
+{
+  "price": "€7.99 inc VAT",
+  "description": "Premium microfibre paint roller sleeve designed to deliver semi-smooth finish. Size: 9\" (230mm), NAP: 5mm, Use on: Walls, Ceilings, Plaster Board, Wallpaper, Hardboard, Paint: Water-based and oil-based.",
+  "availability": "In Stock",
+  "product_name": "Two Fussy Blokes 9 Inch (230mm) SMOOTH Premium Quality Microfibre Roller",
+  "specifications": [
+    "Size: 9\" (230mm)",
+    "NAP: 5mm",
+    "Use on: Walls, Ceilings, Plaster Board, Wallpaper, Hardboard",
+    "Paint: Water-based and oil-based"
+  ]
+}
+
+<|https://www.mydiy.ie/products/two-fussy-blokes-9-inch-semi-smooth-premium-quality-dacron-roller-two-fussy-blokes.html|>
+## Two Fussy Blokes 9 Inch SEMI SMOOTH Premium Quality Dacron Roller
+
+{
+  "price": "€8.99 inc VAT",
+  "description": "Premium Dacron roller for superb coverage and smooth finish. Size: 9\" (230mm), NAP: 10mm, Use on: Walls, Ceilings, MDF, Plywood, Paint: Water-based paint.",
+  "availability": "In Stock",
+  "product_name": "Two Fussy Blokes 9 Inch SEMI SMOOTH Premium Quality Dacron Roller",
+  "specifications": [
+    "Size: 9\" (230mm)",
+    "NAP: 10mm",
+    "Use on: Walls, Ceilings, MDF, Plywood",
+    "Paint: Water-based paint"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marshalltown-heavy-duty-paint-tray.html|>
+## Marshalltown Heavy-Duty Paint Tray
+
+{
+  "price": "€15.77 inc VAT (€12.82 exc.vat)",
+  "description": "The Marshalltown Heavy-Duty Paint Tray is made of a durable, solvent-resistant and non-stick material that makes removing dried paint quick and easy. Its deep-well design can hold up to 3,785ml of paint or stain. It has two pour spouts on each side of the deep well for easy paint transfer and three roller divots for perfect roller frame resting position. There is also an angled brush magnet that allows excess paint to drip from your brush back into the tray. Integrated handles allow for easy, spill-free transportation.",
+  "availability": "Out of Stock",
+  "product_name": "Marshalltown Heavy-Duty Paint Tray",
+  "specifications": [
+    "Durable, solvent-resistant and non-stick material",
+    "Deep-well design holds up to 3,785ml of paint or stain",
+    "Two pour spouts for easy paint transfer",
+    "Three roller divots for perfect roller frame resting position",
+    "Angled brush magnet for excess paint drip",
+    "Integrated handles for easy transportation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marshalltown-heavy-duty-paint-tray-liners-3-pack.html|>
+## Marshalltown Heavy-Duty Paint Tray Liners (3 Pack)
+
+{
+  "price": "€5.63 inc VAT (€4.58 exc.vat)",
+  "description": "Marshalltown Paint Tray Liners are suitable for the Marshalltown Heavy Duty Paint Tray. They are perfect for quick color changes and easy clean up. Insert these liners into your Marshalltown Paint Tray and get started on your next paint project.",
+  "availability": "Out of Stock",
+  "product_name": "Marshalltown Heavy-Duty Paint Tray Liners (3 Pack)",
+  "specifications": [
+    "M/TMHDTL3 : €5.63",
+    "Heavy-Duty Paint Tray Liners (3 Pack)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-marathon-roller-sleeve-228-x-44mm-9-x-134in.html|>
+## Purdy® Marathon™ Roller Sleeve 228 x 44mm (9 x 1.3/4in)
+
+{
+  "price": "€10.39 inc VAT (€8.45 exc.vat)",
+  "description": "The Purdy® Marathon™ Roller Sleeve is made with an exclusive blend of nylon and polyester. Designed to withstand wear and tear. Provides a smooth finish and even coverage, even after 40 hours of continual use. Doesn’t leave traces of lint. If consistency is key, this is the sleeve for you. Suitable for all latex and oil based paints. For flat, eggshell and satin finishes.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Marathon™ Roller Sleeve 228 x 44mm (9 x 1.3/4in)",
+  "specifications": [
+    "Material: Nylon/ Polyester knitted cover.",
+    "Size: 228mm (9in).",
+    "Pile Height: 19mm (3/4in).",
+    "Core: 44mm (1.3/4in)."
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-marathon-jumbo-mini-roller-sleeve-114-x-19mm-412-x-34in-pack-2.html|>
+## Purdy® Marathon™ Jumbo Mini Roller Sleeve 114 x 19mm (4.1/2 x 3/4in) (Pack 2)
+
+{
+  "price": "€8.25 inc VAT (€6.71 exc.vat)",
+  "description": "The Purdy® Marathon™ Jumbo Mini Roller Sleeve, in a pack of 2, will last you years due to its unique blend of nylon and polyester. Lasts longer and paints further for consistent coverage and a smooth finish. Picks up more paint than a normal sleeve so fewer trips back and forth. Perfect for large projects. Suitable with oil and water-based paints and for interior or exterior jobs. No more buying a new sleeve after every job, the Marathon™ will save you time and effort.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Marathon™ Jumbo Mini Roller Sleeve 114 x 19mm (4.1/2 x 3/4in) (Pack 2)",
+  "specifications": [
+    "Material: Nylon/ Polyester",
+    "Size: 114mm (4.1/2in)",
+    "Pile Height: 9.5mm (3/8in)",
+    "Core: 19mm (3/4in)",
+    "Pack Quantity: 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-double-arm-spindle-roller-frame-305mm-12in.html|>
+## STANLEY® Double Arm Spindle Roller Frame 305mm (12in)
+
+{
+  "price": "€17.36 inc VAT (€14.11 exc.vat)",
+  "description": "The STANLEY® Double Arm Spindle Roller Frame is made from a single piece of cast aluminium for strength and durability. Fitted with a push-fit extension pole connection.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Double Arm Spindle Roller Frame 305mm (12in)",
+  "specifications": [
+    "Model: STA16414010",
+    "Size: 305mm (12in)",
+    "Material: Cast Aluminium",
+    "Extension Pole Connection: Push-fit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-white-dove-sleeve.html|>
+## Purdy White Dove Sleeve
+
+{
+  "price": "€8.22 inc VAT",
+  "description": "The Purdy® White Dove™ Sleeve is made from high density, woven Dralon® that is capable of carrying a large quantity of paint, leading to improved efficiency and productivity. Paint can flow freely into and out of the cover. With thousands of miniature flagged filaments, so paint leaves from thousands of tiny surfaces, for a smooth, virtually perfect finish. Use with all paints and exterior stains, especially where a smooth, lint-free finish is desired.",
+  "availability": "In Stock",
+  "product_name": "Purdy White Dove Sleeve",
+  "specifications": [
+    "Available Sizes: 228 x 38mm (9 x 1.1/2in), 305 x 10mm (12 x 3/8in), 457 x 10mm (18 x 3/8in)",
+    "High density, woven Dralon® material",
+    "Suitable for all paints and exterior stains",
+    "Designed for a smooth, lint-free finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-power-lock-extension-pole.html|>
+## Purdy POWER LOCK Extension Pole
+
+{
+  "price": "€34.44 inc VAT",
+  "description": "The Purdy® POWER LOCK™ Extension Pole is made from a combination of fibreglass and aluminium, making it lightweight and durable. It has a rubber handle and a quick adjustment locking mechanism for infinite adjustments when working on different areas. Fitted with a quick connect threaded end that allows for roller attachments, with both the old and new Revolution Frame.",
+  "availability": "In Stock",
+  "product_name": "Purdy POWER LOCK Extension Pole",
+  "specifications": [
+    "Length options: 0.3-0.6m (1-2ft), 0.6-1.2m (2-4ft), 1.2-2.4m (4-8ft)",
+    "Material: Fibreglass and Aluminium",
+    "Rubber handle for comfort",
+    "Quick adjustment locking mechanism",
+    "Quick connect threaded end for roller attachments"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-roller-kit-230mm-9in.html|>
+## Stanley Tools Roller Kit 230mm (9in)
+
+{
+  "price": "€5.15 inc VAT (€4.19 exc.vat)",
+  "description": "Push-on type roller frame with moulded and shaped handle. Supplied with a medium pile polyester roller and paint tray. Roller refill diameter: 37mm (1.1/2in). Roller size: 230mm (9in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Roller Kit 230mm (9in)",
+  "specifications": [
+    "Roller Kit 230mm (9in)",
+    "STA029822 : €5.15",
+    "Roller refill diameter: 37mm (1.1/2in)",
+    "Roller size: 230mm (9in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-max-finish-mini-roller-kit-100mm-4in.html|>
+## Stanley Tools Max Finish Mini Roller Kit 100mm (4in)
+
+{
+  "price": "€8.67 inc VAT (€7.05 exc.vat)",
+  "description": "This mini roller kit is suitable for use with all emulsion and wood stains. Ideal for small area work and perfect for touching up paintwork. Microfibre technology enables up to twice the paint coverage with minimal splatter. Supplied with a 100 mm (4in) microfibre refill.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Max Finish Mini Roller Kit 100mm (4in)",
+  "specifications": [
+    "Max Finish Mini Roller Kit 100mm (4in)",
+    "Model: STA126102",
+    "Price: €8.67",
+    "Microfibre technology for better coverage",
+    "Includes 100 mm (4in) microfibre refill"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-roller-kit-with-4-sleeves-100mm-4in.html|>
+## Stanley Tools Roller Kit with 4 Sleeves 100mm (4in)
+
+{
+  "price": "€5.98 inc VAT (€4.86 exc.vat)",
+  "description": "This Stainley 10cm (4in) Roller Kit contains: 10cm (4in) frame and tray, Four sleeves (2 emulsion and 2 gloss)",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Roller Kit with 4 Sleeves 100mm (4in)",
+  "specifications": [
+    "Roller Kit with 4 Sleeves 100mm (4in)",
+    "STASTRMS1LL : €5.98",
+    "Includes 10cm (4in) frame and tray",
+    "Four sleeves (2 emulsion and 2 gloss)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-mini-roller-frame-100-x-280mm-4-x-11in.html|>
+## Stanley Tools Mini Roller Frame 100 x 280mm (4 x 11in)
+
+{
+  "price": "€3.05 inc VAT (€2.48 exc.vat)",
+  "description": "Stanley Mini Roller Frame with a Dynagrip handle to provide a soft grip for added comfort and control. Width: 100mm (4in). Length: 280mm (11in). Diameter: 6mm wire.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Mini Roller Frame 100 x 280mm (4 x 11in)",
+  "specifications": [
+    "Width: 100mm (4in)",
+    "Length: 280mm (11in)",
+    "Diameter: 6mm wire"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-long-reach-roller-frame-100-x-533mm-4-x-21in.html|>
+## Stanley Tools Long Reach Roller Frame 100 x 533mm (4 x 21in)
+
+{
+  "price": "€4.11 inc VAT (€3.34 exc.vat)",
+  "description": "Stanley Long Reach Roller Frame with a Dynagrip handle to provide a soft grip for added comfort and control.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Long Reach Roller Frame 100 x 533mm (4 x 21in)",
+  "specifications": [
+    "Width: 100mm (4in)",
+    "Length: 533mm (21in)",
+    "Diameter: 6mm wire"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-9in-roller-kit-with-2-sleeves.html|>
+## Stanley Tools 9in Roller Kit with 2 Sleeves
+
+{
+  "price": "€6.79 inc VAT (€5.52 exc.vat)",
+  "description": "Push-on type roller frame with moulded and shaped handle. Supplied with 2 medium pile polyester rollers and a paint tray. Roller refill diameter: 37mm (1.1/2in). Roller size: 230mm (9in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools 9in Roller Kit with 2 Sleeves",
+  "specifications": [
+    "Roller refill diameter: 37mm (1.1/2in)",
+    "Roller size: 230mm (9in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-mohair-gloss-sleeve-230-x-38mm-9-x-112in.html|>
+## Stanley Tools Mohair Gloss Sleeve 230 x 38mm (9 x 1.1/2in)
+
+{
+  "price": "€5.23 inc VAT (€4.25 exc.vat)",
+  "description": "Stanley Roller Sleeve made from Mohair, which is ideal for varnish, gloss and low viscosity paints. It has great paint holding capacity and even release. It is designed to provide a fine finish on smooth and lightly textured surfaces. Size: 230 x 38mm (9 x 1.1/2in). Pile height: 5mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Mohair Gloss Sleeve 230 x 38mm (9 x 1.1/2in)",
+  "specifications": [
+    "Size: 230 x 38mm (9 x 1.1/2in)",
+    "Pile height: 5mm",
+    "Ideal for varnish, gloss and low viscosity paints",
+    "Great paint holding capacity and even release",
+    "Designed for fine finish on smooth and lightly textured surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-high-density-foam-refills-100mm-4in-2-pack.html|>
+## Stanley Tools High Density Foam Refills 100mm (4in) 2 Pack
+
+{
+  "price": "€3.30 inc VAT (€2.68 exc.vat)",
+  "description": "These Stanley high density foam refills are suitable for water based paints on smooth surfaces. Size : 100mm (4in). Pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools High Density Foam Refills 100mm (4in) 2 Pack",
+  "specifications": [
+    "High Density Foam Refills",
+    "Size: 100mm (4in)",
+    "Pack of 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-mini-mohair-gloss-sleeve-100mm-4in-2-pack.html|>
+## Stanley Tools Mini Mohair Gloss Sleeve 100mm (4in) 2 Pack
+
+{
+  "price": "€3.30 inc VAT (€2.68 exc.vat)",
+  "description": "The Stanley Mini Mohair gloss roller sleeves are ideal for varnish, gloss, satin finishes and low viscosity paints. They have a great holding capacity and give an even release. They are designed for a fine finish on smooth and lightly textured finishes.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Mini Mohair Gloss Sleeve 100mm (4in) 2 Pack",
+  "specifications": [
+    "Size: 100mm (4in)",
+    "Diameter: 6mm wire",
+    "Pile height: 5mm",
+    "Pack quantity: 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-pure-turpentine-300ml.html|>
+## Rustins Pure Turpentine 300ml
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "Rustins Pure Turpentine is used for mixing artists oil colours and is ideal for dissolving beeswax to make a wax polish. It is prepared by distillation, ensuring that it is free of impurities. Turpentine improves brushing qualities and cleans brushes, rollers and spray equipment. It may also be used to remove dirt, wax, and grease from surfaces before painting. Size: 300ml.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Pure Turpentine 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Used for mixing artists oil colours",
+    "Ideal for dissolving beeswax",
+    "Improves brushing qualities",
+    "Cleans brushes, rollers, and spray equipment",
+    "Removes dirt, wax, and grease from surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-brush-restorer-300ml.html|>
+## Rustins Brush Restorer 300ml
+
+{
+  "price": "€5.45 inc VAT (€4.43 exc.vat)",
+  "description": "Rustins Brush Restorer removes dried paint, varnish and polyurethane from brushes and rollers. Pour into a glass or metal container so that the roller or bristles of the brush are covered. As it may take some time for paint to soften, cover the container with cling film or foil to prevent loss of restorer by evaporation. As brush softens, restorer can penetrate faster. When bristles are softened, rinse in water to remove all loose material. Size: 300ml.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Brush Restorer 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Removes dried paint, varnish, and polyurethane from brushes and rollers",
+    "Pour into a glass or metal container",
+    "Cover with cling film or foil to prevent evaporation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-brush-cleaner.html|>
+## Polycell Brush Cleaner
+
+{
+  "price": "from €6.83 inc VAT",
+  "description": "Polycell Brush Cleaner is the easiest way to get brushes really clean with no mess or paint residue. It contains powerful detergents to break down the paint, meaning that it is more effective than white spirit. Ideal for most types of wet paint, including gloss.",
+  "availability": "In Stock",
+  "product_name": "Polycell Brush Cleaner",
+  "specifications": [
+    "Available in 1 Litre and 500ml options",
+    "Contains powerful detergents",
+    "Effective for most types of wet paint",
+    "Ideal for cleaning brushes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-brush-cleaner-300ml.html|>
+## Rustins Brush Cleaner 300ml
+
+{
+  "price": "€5.45 inc VAT (€4.43 exc.vat)",
+  "description": "Rustins Brush Cleaner is ideal for cleaning wet brushes and rollers. This special liquid emulsifies oil paints, varnishes and polyurethane from brushes and rollers which can then be rinsed with clean water. Size: 300ml.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Brush Cleaner 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Ideal for cleaning wet brushes and rollers",
+    "Emulsifies oil paints, varnishes, and polyurethane"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-brush-cleaner-500ml.html|>
+## Everbuild Brush Cleaner 500ml
+
+{
+  "price": "€8.76 inc VAT (€7.12 exc.vat)",
+  "description": "A thin solvent based liquid which removes wet paint quickly from brushes, rollers and pads. It works on emulsion, spirit based paints, varnish and is water washable. Contains conditioner to prolong brush/roller life. Cleans up with water. Contains conditioner to prolong brush life. Works on most common paint types. Not suitable for cellulose paints.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Brush Cleaner 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Solvent-based liquid",
+    "Removes wet paint from brushes, rollers, and pads",
+    "Works on emulsion and spirit-based paints",
+    "Water washable",
+    "Contains conditioner for brush life prolongation",
+    "Not suitable for cellulose paints"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-brush-restorer-500ml.html|>
+## Everbuild Brush Restorer 500ml
+
+{
+  "price": "€10.74 inc VAT (€8.73 exc.vat)",
+  "description": "EVERBUILD Brush Restorer is a thin solvent-based liquid which removes paint from gummed up and old hardened brushes. Works on all paints and is water washable. Cleans up with water. Powerful fast acting formula. Before opening container THOROUGHLY read health and safety section and wear equipment detailed. Hold container away from face when removing cap. Store product upright at all times with lid securely fastened. Use in well-ventilated areas and protect all surrounding areas from accidental splashes. Do not smoke whilst using this product. Pour brush restorer into a metallic or glass jar. Do not use plastic. Immerse brushes and leave to soak for a minimum of 2 hours or preferably overnight. When paint begins to soften agitate the brushes against the bottom of the jar to loosen paint fragments. Repeat if necessary. Wash brushes with clean water.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Brush Restorer 500ml",
+  "specifications": [
+    "Thin solvent-based liquid",
+    "Removes paint from gummed up brushes",
+    "Works on all paints",
+    "Water washable",
+    "Powerful fast acting formula"
+  ]
+}
+

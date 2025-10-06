@@ -1,0 +1,1143 @@
+<|https://www.mydiy.ie/products/red-gorilla-mixing-tub-50-litre.html|>
+## Red Gorilla Mixing Tub 50 Litre
+
+{
+  "price": "€37.05 inc VAT (€30.12 exc.vat)",
+  "description": "The Red Gorilla Mixing Tub is the perfect plasterer's bucket. It has a heavy-duty, durable design that is reusable and easy to clean. Large enough to hold full bags of plaster. It also features strong, moulded carrying handles. It is also great for carrying rubble and waste.",
+  "availability": "In Stock",
+  "product_name": "Red Gorilla Mixing Tub 50 Litre",
+  "specifications": [
+    "50 Litre capacity",
+    "Heavy-duty, durable design",
+    "Reusable and easy to clean",
+    "Strong, moulded carrying handles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/red-gorilla-premium-bucket.html|>
+## Red Gorilla Premium Bucket
+
+{
+  "price": "from €7.01 inc VAT",
+  "description": "The Red Gorilla Premium Bucket is an extra strong, 3 gallon bucket with thick, ribbed walls. Great for plastering, mixing, plumbing, carrying water and tools. Available in black, yellow, red and blue.",
+  "availability": "In Stock",
+  "product_name": "Red Gorilla Premium Bucket",
+  "specifications": [
+    "3 gallon capacity",
+    "Extra strong with thick, ribbed walls",
+    "Available in multiple colors: black, yellow, red, blue"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-rust-remover-125ml.html|>
+## Rustins Rust Remover 125ml
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Rustins Rust Remover can remove surface rust from mild steel and iron products. Ideal for use on garden gates, bicycles, cars and all metal objects around the home. Size: 125ml.",
+  "availability": "In Stock",
+  "product_name": "Rustins Rust Remover 125ml",
+  "specifications": [
+    "Size: 125ml",
+    "Ideal for removing surface rust from mild steel and iron products",
+    "Suitable for garden gates, bicycles, cars, and all metal objects around the home"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-brass-restorer-125ml.html|>
+## Rustins Brass Restorer 125ml
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Rustins Brass Restorer is ideal for restoring exterior brass door furniture, which may be cleaned by applying with a brush or dipping small items. Also may be used for cleaning copper and bronze. Size: 125ml.",
+  "availability": "In Stock",
+  "product_name": "Rustins Brass Restorer 125ml",
+  "specifications": [
+    "Size: 125ml",
+    "Ideal for restoring exterior brass door furniture",
+    "Can be used for cleaning copper and bronze"
+  ]
+}
+
+<|https://www.mydiy.ie/products/supadec-brush-restorer.html|>
+## SupaDec Brush Restorer
+
+{
+  "price": "€5.98 inc VAT (€4.86 exc.vat)",
+  "description": "Are your paintbrushes in need of some TLC? Supadec Brush Cleaner restores your hardened paintbrushes and leaves them like new. Softening hard brushes, the Supadec Brush Cleaner is suitable for use on paint rollers, brushers and pads. Longer treatment may be needed when using the Supadec Brush Cleaner on paintbrushes that are hardened by emulsion paint.",
+  "availability": "In Stock",
+  "product_name": "SupaDec Brush Restorer",
+  "specifications": [
+    "Cleans and restores hardened paint brushes",
+    "Suitable for use on paintbrushes, rollers and pads",
+    "Can be used to clean emulsion paint from brushes but may take a little longer"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-sugar-soap-500ml.html|>
+## Rustins Sugar Soap 500ml
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Rustins Sugar Soap is ideal for preparing surfaces prior to repainting, cutting through grease and dirt, leaving the surface chemically clean so that a fresh coat of paint adheres readily. Excellent for general household cleaning. It is suitable for use on paintwork, vinyl wallcoverings and enamel surfaces, it is concentrated and 500ml makes up to 13 litres of full strength solution.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Sugar Soap 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Concentrated solution makes up to 13 litres",
+    "Ideal for preparing surfaces before painting",
+    "Suitable for paintwork, vinyl wallcoverings, and enamel surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-wallpaper-stripper-500ml.html|>
+## Everbuild Wallpaper Stripper 500ml
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "This Wall Paper Stripper is a highly concentrated solution of surfactants designed to help strip wallpaper quickly and easily. 500ml makes up to 4 gallons of solution. Works on most types of wallpapers. Pour approx. 1/4 of a bottle into 1 gallon (4.5 litres) of hot water. Stir well and work into wallpaper with a sponge. Scoring the wallpaper beforehand will help penetration. This is essential with washable wallpaper. Leaves for 5-15 minutes to take effect then remove paper with a scraper or steamer. If there are several layers of paper process may need to be repeated. Protect carpets and furniture and mop up any spills of liquid immediately.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Wallpaper Stripper 500ml",
+  "specifications": [
+    "500ml makes up to 4 gallons of solution",
+    "Works on most types of wallpapers",
+    "Highly concentrated solution of surfactants"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-methylated-spirit-250ml.html|>
+## Rustins Methylated Spirit 250ml
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "Rustins Methylated Spirit is used for thinning french polishes and shellac varnishes. For use in spirit burning heaters, stoves and for lighting barbecues. Cleans mirrors, glass and jewellery. Size: 250ml.",
+  "availability": "In Stock",
+  "product_name": "Rustins Methylated Spirit 250ml",
+  "specifications": [
+    "Size: 250ml",
+    "Used for thinning french polishes and shellac varnishes",
+    "For use in spirit burning heaters, stoves and for lighting barbecues",
+    "Cleans mirrors, glass and jewellery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-paint-driers-300ml.html|>
+## Rustins Paint Driers 300ml
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Rustins Paint Driers contains a special blend of chemicals to speed the drying of oil and alkyd based paints and varnishes. Particularly recommended for adding to old paint and varnish that has been kept for a long time, and has become slow drying. Add a capful of driers to 1/2 litre of paint or varnish and stir well. Size: 300ml.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Paint Driers 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Contains a special blend of chemicals to speed drying of oil and alkyd based paints and varnishes",
+    "Recommended for adding to old paint and varnish that has become slow drying"
+  ]
+}
+
+<|https://www.mydiy.ie/products/douglas-white-spirits-2ltr.html|>
+## Douglas White Spirits 2ltr
+
+{
+  "price": "€8.68 inc VAT (€7.06 exc.vat)",
+  "description": "A petroleum solvent, very good thinner for paints with quick drying properties and lack of greasiness. Also good for general cleaning purposes. 2l White Spirits - Used for cleaning paint brushes - Can be used for thinning paint - Easy to use - Resealable",
+  "availability": "In Stock",
+  "product_name": "Douglas White Spirits 2ltr",
+  "specifications": [
+    "2l White Spirits",
+    "Used for cleaning paint brushes",
+    "Can be used for thinning paint",
+    "Easy to use",
+    "Resealable"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-roll-and-stroll-premium-carpet-protector-600mm-x-25m.html|>
+## Everbuild Roll & Stroll Premium Carpet Protector 600mm x 25m
+
+{
+  "price": "€29.13 inc VAT (€23.68 exc.vat)",
+  "description": "Everbuild Roll & Stroll is the ultimate self-adhesive floor protector, ideal for protecting floors against mess, dirt, staining, spillages and soiling that occurs during painting, plastering, building, tiling, general maintenance and repair work. Roll and Stroll is totally waterproof, fire retardant and sticks to most types of flooring including carpet, wood, laminate, stair cases, ceramics, vinyl and stone. Roll and Stroll will also protect window ledges and sills etc. Roll and Stroll is reverse wound for easy application with minimum effort. Roll and Stroll is ideal for a multitude of uses in engineering, commercial and industrial applications. Designed for heavy usage, Roll and Stroll has a heavy-duty anti-slip cross weave which will not tear or rip.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Roll & Stroll Premium Carpet Protector 600mm x 25m",
+  "specifications": [
+    "Easy roll out with no specialist applicator equipment required.",
+    "Will not creep and wrinkle after application. Stays where it is put!",
+    "Totally waterproof.",
+    "Protects against expensive to clean spillages from paints, varnishes etc.",
+    "Easily removed, will not leave a sticky residue.",
+    "Can be left for up to 4 weeks.",
+    "Adheres to most common flooring types.",
+    "Heavy-duty anti-slip cross weave, will not tear or rip.",
+    "Safer than dust sheets, no trip risk."
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-roll-and-stroll-contract-carpet-protector.html|>
+## Everbuild Roll & Stroll Contract Carpet Protector
+
+{
+  "price": "€55.15 inc VAT",
+  "description": "Everbuild Roll & Stroll Contract Carpet Protector is the ultimate clear self adhesive carpet protection system. Roll & Stroll Contract Carpet Protector has the adhesive coating on the outside so it is easy to unwind, safer than dustsheets and has a multitude of uses across all trade sectors. It is totally waterproof and protects against paint spillage, and is tough enough not to tear or rip. Clear branded film.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Roll & Stroll Contract Carpet Protector",
+  "specifications": [
+    "Available sizes: 600mm x 100m, 600mm x 50m",
+    "Self-adhesive",
+    "Waterproof",
+    "Protects against paint spillage",
+    "Tear-resistant"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-roll-and-stroll-textured-non-slip-carpet-protector-600mm-x-75m.html|>
+## Everbuild Roll & Stroll Textured Non-Slip Carpet Protector 600mm x 75m
+
+{
+  "price": "€129.38 inc VAT (€105.19 exc.vat)",
+  "description": "Everbuild Roll & Stroll Textured Non-Slip Carpet Protector is the ultimate self adhesive carpet protection system. With the adhesive coating on the outside, it is easy to unwind, safer than dustsheets and has a multitude of uses across all trade sectors. Totally waterproof and textured to make it non-slip.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Roll & Stroll Textured Non-Slip Carpet Protector 600mm x 75m",
+  "specifications": [
+    "Size: 600mm x 75m",
+    "Self-adhesive",
+    "Waterproof",
+    "Textured for non-slip use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-roll-and-stroll-hard-surface-protector.html|>
+## Everbuild Roll & Stroll Hard Surface Protector
+
+{
+  "price": "€68.60 inc VAT",
+  "description": "Everbuild Roll & Stroll Hard Surface Protector is the ultimate self adhesive hard surface protection system. With the adhesive coating on the outside, Roll and Stroll Hard Surface Protector is easy to unwind, is safer than dustsheets and has a multitude of uses across all trade sectors. Totally waterproof Roll and Stroll Hard Surface Protector protects against paint spillage and is heavy-duty so it won't tear or rip. Clear branded film.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Roll & Stroll Hard Surface Protector",
+  "specifications": [
+    "600mm x 75m",
+    "Self adhesive hard surface protection",
+    "Waterproof",
+    "Heavy-duty",
+    "Clear branded film"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-roll-and-stroll-premium-carpet-protector.html|>
+## Everbuild Roll & Stroll Premium Carpet Protector
+
+{
+  "price": "€88.86 inc VAT",
+  "description": "Everbuild Roll & Stroll is the ultimate self-adhesive floor protector, ideal for protecting floors against mess, dirt, staining, spillages and soiling that occurs during painting, plastering, building, tiling, general maintenance and repair work. Roll and Stroll is totally waterproof, fire retardant and sticks to most types of flooring including carpet, wood, laminate, stair cases, ceramics, vinyl and stone. Roll and Stroll will also protect window ledges and sills etc. Roll and Stroll is reverse wound for easy application with minimum effort. Roll and Stroll is ideal for a multitude of uses in engineering, commercial and industrial applications. Designed for heavy usage, Roll and Stroll has a heavy-duty anti-slip cross weave which will not tear or rip.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Roll & Stroll Premium Carpet Protector",
+  "specifications": [
+    "Size: 600mm x 75m",
+    "Waterproof",
+    "Fire retardant",
+    "Heavy-duty anti-slip cross weave",
+    "Easy roll out with no specialist applicator equipment required",
+    "Can be left for up to 4 weeks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/shurtape-frogtape-drop-cloth-pads-pack-3.html|>
+## FrogTape™ Drop Cloth Pads (Pack 3)
+
+{
+  "price": "€12.89 inc VAT (€10.48 exc.vat)",
+  "description": "FrogTape™ Drop Cloth Pads have been designed specifically with small spaces in mind to protect floors and surfaces when painting. The leakproof material protects the floors below, while the slip-resistant bottom holds the pad in place. Provides a safer surface for standing and working. Drop Cloth Pads are also a great spot to place your paint or other supplies and can be easily moved around any room.",
+  "availability": "In Stock",
+  "product_name": "FrogTape™ Drop Cloth Pads (Pack 3)",
+  "specifications": [
+    "Size: 76.2 x 91.4cm (2.5 x 3ft)",
+    "Pack Quantity: 3 cloths per pack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-cotton-dust-sheet-36-x-27m.html|>
+## Everbuild Cotton Dust Sheet 3.6 x 2.7m
+
+{
+  "price": "€23.36 inc VAT (€18.99 exc.vat)",
+  "description": "This Everbuild Genuine cotton twill dust sheet protects from spills, splashes and dust. Strong hardwearing cotton resists wear from tools, stepladders and feet. Reversible, machine washable. Size: 3.6 x 2.7m.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Cotton Dust Sheet 3.6 x 2.7m",
+  "specifications": [
+    "Size: 3.6 x 2.7m",
+    "Material: Cotton twill",
+    "Reversible and machine washable",
+    "Protects from spills, splashes, and dust"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-laminated-cotton-dust-sheet-36-x-27m.html|>
+## Everbuild Laminated Cotton Dust Sheet 3.6 x 2.7m
+
+{
+  "price": "€31.40 inc VAT (€25.53 exc.vat)",
+  "description": "Everbuild top quality cotton twill dust sheet with polythene inter-laminate, which stops paints and liquids passing through. Size: 3.6 x 2.7m (12 x 9ft).",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild Laminated Cotton Dust Sheet 3.6 x 2.7m",
+  "specifications": [
+    "Size: 3.6 x 2.7m (12 x 9ft)",
+    "Material: Cotton twill with polythene inter-laminate",
+    "Stops paints and liquids from passing through"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-glass-protector-film-600mm-x-25m.html|>
+## Everbuild Glass Protector Film 600mm x 25m
+
+{
+  "price": "€32.44 inc VAT (€26.37 exc.vat)",
+  "description": "Glass Protector is the ultimate self adhesive protector ideal for protecting glass against the mess, dirt, staining, spillages, and soiling that occurs during general building and decorating work. It also reduces the risk of costly scratches to glass. With the adhesive coating on the outside it is also easy to apply.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Glass Protector Film 600mm x 25m",
+  "specifications": [
+    "Self-adhesive protector for glass",
+    "Dimensions: 600mm x 25m",
+    "Ideal for protecting against mess, dirt, and scratches",
+    "Easy to apply"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-roll-and-stroll-hard-surface-protector-600mm-x-25m.html|>
+## Everbuild Roll & Stroll Hard Surface Protector 600mm x 25m
+
+{
+  "price": "€31.27 inc VAT (€25.42 exc.vat)",
+  "description": "Roll & Stroll Hard Surface Protector is the ultimate self adhesive hard surface protection system. With the adhesive coating on the outside, Roll and Stroll Hard Surface Protector is easy to unwind, is safer than dustsheets and has a multitude of uses across all trade sectors. Totally waterproof Roll and Stroll Hard Surface Protector protects against paint spillage and is heavy-duty so it won't tear or rip. Clear Branded Film.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Roll & Stroll Hard Surface Protector 600mm x 25m",
+  "specifications": [
+    "Dimensions: 600mm x 25m",
+    "Self-adhesive",
+    "Waterproof",
+    "Heavy-duty",
+    "Clear branded film"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-dynagrip-chisel-knife-25mm.html|>
+## Stanley Tools DynaGrip Chisel Knife 25mm
+
+{
+  "price": "€7.53 inc VAT (€6.12 exc.vat)",
+  "description": "Stanley DynaGrip chisel knife is suitable for removing the toughest paints, stickers or adhesives. The special curved handle, which is moulded directly onto the blade for durability, has been designed and tested to ensure control and comfort whilst stripping and resists all normal paint solvents. The blade is made of stainless steel which makes it easy to clean and keeps it rust-free. Blade width: 25mm (1in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools DynaGrip Chisel Knife 25mm",
+  "specifications": [
+    "Blade width: 25mm (1in)",
+    "Stainless steel blade for easy cleaning and rust resistance",
+    "Curved handle for control and comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-professional-chisel-knife-25mm.html|>
+## Stanley Tools Professional Chisel Knife 25mm
+
+{
+  "price": "€9.86 inc VAT (€8.02 exc.vat)",
+  "description": "This Stanley Professional Chisel Knife has a one piece steel blade and tang with traditional rosewood handle for strength, comfort and durability. For general stripping of wallpaper and paper. Can also be used for applying putty. Size: 25 mm (1in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Professional Chisel Knife 25mm",
+  "specifications": [
+    "Size: 25 mm (1in)",
+    "One piece steel blade and tang",
+    "Traditional rosewood handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-dynagrip-filling-knives.html|>
+## Stanley Tools DynaGrip Filling Knives
+
+{
+  "price": "from €8.31 inc VAT",
+  "description": "This Stanley DynaGrip filling knife is suitable for smoothing filler. The high grip contoured handle, which is moulded directly onto the blade for durability, has been designed and tested to ensure comfort and efficiency in use. The blade is made of fully ground flexible stainless steel which makes it strong, easy to clean and rust-free.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools DynaGrip Filling Knives",
+  "specifications": [
+    "Available sizes: 100mm, 50mm, 75mm",
+    "High grip contoured handle",
+    "Blade made of fully ground flexible stainless steel",
+    "Durable and easy to clean"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-tang-filling-knives.html|>
+## Stanley Tools Tang Filling Knives
+
+{
+  "price": "from €8.89 inc VAT",
+  "description": "The Stanley Tang Filling Knife has a full tang for excellent strength and durability. The blade is made from hardened steel for extended life and is ground for optimum flexibility to give a professional smooth finish. Fitted with a wooden handle.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Tang Filling Knives",
+  "specifications": [
+    "Available sizes: 25mm, 50mm, 75mm",
+    "Full tang for strength and durability",
+    "Hardened steel blade for extended life",
+    "Ground for optimum flexibility",
+    "Fitted with a wooden handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-premium-flex-putty-knife.html|>
+## Purdy Premium Flex Putty Knife
+
+{
+  "price": "€9.99 inc VAT",
+  "description": "The Purdy® Premium Flex Putty Knife is made from the highest quality raw materials to make prep work quick and easy. Fitted with a carbon steel blade, nail set hammerhead and non-slip handle for increased comfort. Available in a range of sizes to cater for any type of project and are designed to stand up to the toughest of jobs.",
+  "availability": "In Stock",
+  "product_name": "Purdy Premium Flex Putty Knife",
+  "specifications": [
+    "Available in multiple sizes: 1.1/2in, 2in, 3in, 4in, 6in",
+    "Carbon steel blade",
+    "Nail set hammerhead",
+    "Non-slip handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-premium-stiff-putty-knife.html|>
+## Purdy Premium Stiff Putty Knife
+
+{
+  "price": "from €8.23 inc VAT",
+  "description": "The Purdy® Premium Stiff Putty Knife is made from the highest quality raw materials to make prep work quick and easy. Fitted with a carbon steel blade, nail set hammerhead and non-slip handle for increased comfort. Available in a range of sizes to cater for any type of project and are designed to stand up to the toughest of jobs.",
+  "availability": "In Stock",
+  "product_name": "Purdy Premium Stiff Putty Knife",
+  "specifications": [
+    "Made from high-quality raw materials",
+    "Fitted with a carbon steel blade",
+    "Nail set hammerhead",
+    "Non-slip handle for increased comfort",
+    "Available in a range of sizes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/shurtape-frogtape-multi-surface-masking-tape.html|>
+## Shurtape FrogTape® Multi-Surface Masking Tape
+
+{
+  "price": "€8.99 inc VAT",
+  "description": "FrogTape® Multi-Surface is a medium adhesion painter's tape designed for use on cured painted walls, wooden trim, glass and metal. After application it will remove cleanly from most surfaces for up to 21 days (or 7 days in direct sunlight). The only tape with PaintBlock® Technology.",
+  "availability": "In Stock",
+  "product_name": "Shurtape FrogTape® Multi-Surface Masking Tape",
+  "specifications": [
+    "Available sizes: 24mm x 55m, Pack of 2; 24mm x 55m, Pack of 6; 36mm x 55m, Pack of 2; 36mm x 55m, Pack of 4; 48mm x 55m, Pack of 3; 24mm x 41.1m; 36mm x 41.1m; 36mm x 55m (3 Pack); 48mm x 41.1m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/shurtape-frogtape-delicate.html|>
+## Shurtape FrogTape® Delicate
+
+{
+  "price": "from €8.45 inc VAT",
+  "description": "Shurtape Delicate Surface FrogTape® is a low tack painter's masking tape for use on freshly painted surfaces, wallpaper and newly plastered walls. FrogTape® is the only painter’s masking tape treated with PaintBlock® Technology. It reacts with emulsion paint and instantly gels to form a micro-barrier that seals the edges of the tape, preventing paint bleed. It can be applied up to 60 days before you paint - for best results remove FrogTape® immediately after painting. FrogTape® Delicate Surface is UV resistant and can be applied in direct sunlight. It is ideal for creating stripes and paint effects.",
+  "availability": "In Stock",
+  "product_name": "Shurtape FrogTape® Delicate",
+  "specifications": [
+    "Available Sizes: 24mm x 41.1m, 36mm x 41.1m, 48mm x 41.1m",
+    "Low tack for delicate surfaces",
+    "UV resistant",
+    "PaintBlock® Technology to prevent paint bleed",
+    "Can be applied up to 60 days before painting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/shurtape-duck-tape-all-purpose-masking-tapes.html|>
+## Shurtape Duck Tape All Purpose Masking Tapes
+
+{
+  "price": "from €3.21 inc VAT",
+  "description": "Duck Tape® Original Masking Tape is an all purpose tape for general interior applications which helps to stop paint bleed. Product Benefits: Clean removal for up to 30 hours. Suitable for use with most paints including emulsion, gloss and spray paint, as well as most varnishes.",
+  "availability": "In Stock",
+  "product_name": "Shurtape Duck Tape All Purpose Masking Tapes",
+  "specifications": [
+    "Select Option: 25mm x 25m, 25mm x 50m, 50mm x 50m, Pack of 3 - 25mm x 25m",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/shurtape-frogtape-high-bond-exterior-painters-tape-36mm-x-55m.html|>
+## Shurtape FrogTape® High Bond Exterior Painter's Tape™ 36mm x 55m
+
+{
+  "price": "€10.68 inc VAT (€8.68 exc.vat)",
+  "description": "FrogTape® High Bond Exterior Painter's Tape™ is the only painter’s tape engineered to consistently adhere to hard-to-stick surfaces. Plus, the conformable crepe paper backing makes it easy to mask around exterior surfaces like doorways and windows. This very high adhesion, exterior tape offers 3-day clean removal without shredding or leaving residue behind. Ideal for exterior surfaces such as painted wood, vinyl, Aluminium, steel, brick and concrete, and keeping poly in place for spraying during painting projects.",
+  "availability": "In Stock",
+  "product_name": "Shurtape FrogTape® High Bond Exterior Painter's Tape™ 36mm x 55m",
+  "specifications": [
+    "Size: 36mm x 55m",
+    "High adhesion for hard-to-stick surfaces",
+    "3-day clean removal",
+    "Ideal for various exterior surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kip-238-premium-washi-tec-masking-tape.html|>
+## KIPÂ® 238 Premium WASHI-TECÂ® Masking Tape
+
+{
+  "price": "€8.30 inc VAT",
+  "description": "kip® 238 Premium WASHI-TEC® Masking Tape helps to produce sharp paint lines on smooth and lightly textured surfaces. Suitable for almost all types of covering work. This thin and flexible masking tape made is from WASHI-TEC® paper with acrylic adhesive. UV resistant with excellent adhesion and tensile strength. Can be applied up to 6 months before painting indoors and 2 months outside. For best results, remove tape immediately after painting.",
+  "availability": "In Stock",
+  "product_name": "KIPÂ® 238 Premium WASHI-TECÂ® Masking Tape",
+  "specifications": [
+    "Available sizes: 24mm x 50m, 36mm x 50m, 48mm x 50m",
+    "UV resistant",
+    "Excellent adhesion and tensile strength",
+    "Can be applied up to 6 months before painting indoors and 2 months outside"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kip-246-premium-outdoor-washi-tec-masking-tape.html|>
+## KIPÂ® 246 Premium Outdoor WASHI-TECÂ® Masking Tape
+
+{
+  "price": "€10.92 inc VAT",
+  "description": "kip® 246 Premium Outdoor WASHI-TEC® Masking Tape provides reliable outdoor surface protection. Suitable for lacquer paint and varnish. Made from WASHI-TEC® paper with acrylic adhesive. UV resistant with good tear resistance, adhesion and high tensile strength. Can be applied up to 6 months outdoors or indoors before use. For best results, remove tape immediately after painting.",
+  "availability": "In Stock",
+  "product_name": "KIPÂ® 246 Premium Outdoor WASHI-TECÂ® Masking Tape",
+  "specifications": [
+    "Select Option: 24mm x 50m, 36mm x 50m, 48mm x 50m",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kip-209-premium-low-tack-washi-tec-masking-tape.html|>
+## KIPÂ® 209 Premium Low Tack WASHI-TECÂ® Masking Tape
+
+{
+  "price": "€10.49 inc VAT",
+  "description": "kip® 209 Premium Low Tack WASHI-TEC® Masking Tape has been designed for delicate surfaces. This flexible masking tape made from WASHI-TEC® paper with low tack acrylic adhesive. It allows extremely easy removal from delicate surfaces. Suitable for demanding paint work on delicate surfaces such as wallpaper, paper and plaster. Can be applied up to 2 months before use. For best results, remove tape immediately after painting.",
+  "availability": "In Stock",
+  "product_name": "KIPÂ® 209 Premium Low Tack WASHI-TECÂ® Masking Tape",
+  "specifications": [
+    "Available sizes: 24mm x 50m, 30mm x 50m, 48mm x 50m",
+    "Designed for delicate surfaces",
+    "Flexible masking tape made from WASHI-TEC® paper",
+    "Low tack acrylic adhesive",
+    "Easy removal from delicate surfaces",
+    "Suitable for demanding paint work",
+    "Can be applied up to 2 months before use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kip-232-plastic-masker-tape.html|>
+## KIPÂ® 232 Plastic Masker Tape
+
+{
+  "price": "€5.35 inc VAT",
+  "description": "This KIP® 232 Plastic Masker Tape is made from environmentally friendly PE film. The film attaches itself to the substrate through static charge. Designed for quick and full covering and masking of large surface areas. Ideal for masking walls, windows, doors and furniture. Perfect for use with emulsion and when spray painting. Can be applied up to 4 days before use. For best results remove immediately after painting.",
+  "availability": "In Stock",
+  "product_name": "KIPÂ® 232 Plastic Masker Tape",
+  "specifications": [
+    "Select Option: 0.55 x 33m, 1.4 x 33m, 26 x 25m",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/kip-234-paper-masker-tape.html|>
+## KIPÂ® 234 Paper Masker Tape
+
+{
+  "price": "€6.70 inc VAT",
+  "description": "kip® 234 Paper Masker Tape is made from high quality premium crepe with environmentally friendly, unbleached super absorbent soda masking paper. Save time by masking and protecting surfaces in one. Can be used on door frames, skirting boards and windowsills. Ideal for use with emulsion and when spray painting. Resistant to temperatures up to 80 °C. Can be applied up to 7 days before use. For best results, remove immediately after painting.",
+  "availability": "In Stock",
+  "product_name": "KIPÂ® 234 Paper Masker Tape",
+  "specifications": [
+    "Select Option: 180mm x 25m, 300mm x 25m",
+    "Resistant to temperatures up to 80 °C",
+    "Can be applied up to 7 days before use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-masking-tape.html|>
+## Everbuild Masking Tape
+
+{
+  "price": "€3.68 inc VAT",
+  "description": "Mammoth Value GP Masking Tape is a general purpose trade quality masking tape for conventional paint masking which can be left for up to 3 days without leaving a residue. Available in loose packed rolls without individual film wrap.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Masking Tape",
+  "specifications": [
+    "Hotmelt adhesive provides clean removal from all surfaces",
+    "Easy tear",
+    "Does not leave a surface residue"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-low-tack-masking-tape.html|>
+## Everbuild Low Tack Masking Tape
+
+{
+  "price": "€7.43 inc VAT",
+  "description": "Everbuild Low Tack Masking Tape is the Professionals' choice for application to more delicate surfaces and wallpaper, where conventional masking tapes could damage the surface. Can be left on for up to 14 days. Ideal for use on woodstains, varnishes and enamels where coating does not usually key well to substrate. Available in 2 sizes.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Low Tack Masking Tape",
+  "specifications": [
+    "Size: 50mm x 25m",
+    "Can be left on for up to 14 days",
+    "Ideal for delicate surfaces and wallpaper"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-retaillabelled-masking-tape.html|>
+## Everbuild Retail/Labelled Masking Tape
+
+{
+  "price": "€3.32 inc VAT",
+  "description": "Everbuild Mammoth Retail Masking Tape is a general purpose, trade quality masking tape for conventional paint masking which can be left for up to 3 days without leaving a residue. The tape is easy to tear, and the 'Hotmelt' adhesive provides clean removal from all surfaces.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Retail/Labelled Masking Tape",
+  "specifications": [
+    "Available sizes: 19mm x 50m, 25mm x 50m, 38mm x 50m, 75mm x 50m",
+    "General purpose, trade quality masking tape",
+    "Can be left for up to 3 days without leaving residue",
+    "Easy to tear",
+    "Hotmelt adhesive for clean removal"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-pro-blue-masking-tape.html|>
+## Everbuild Pro Blue Masking Tape
+
+{
+  "price": "€5.52 inc VAT",
+  "description": "Everbuild Pro Blue is a professional long stay masking tape that can be left on for up to 14 days without leaving a residue or damaging the surface. Increasingly popular with professional decorators, Pro Blue prevents seepage when using highly solvented or thinner coatings such as woodstains and many metal paints. High temperature resistance. Available in two sizes.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Pro Blue Masking Tape",
+  "specifications": [
+    "Sizes: 25mm x 33m, 50mm x 33m",
+    "High temperature resistance",
+    "Can be left on for up to 14 days without residue"
+  ]
+}
+
+<|https://www.mydiy.ie/products/shurtape-frogtape-gloss-and-satin.html|>
+## Shurtape FrogTape® Gloss & Satin
+
+{
+  "price": "€12.13 inc VAT",
+  "description": "FrogTape® Painter’s Masking Tape gives the best finish possible, by keeping paint out and lines sharp. It is the only tape with PaintBlock® Technology. The tape can be used when pointing skirting boards, architrave, frames and doors. Perfect on cured painted surfaces, glass, carpet and stone. Designed for use with gloss and satin paints. Remove FrogTape® immediately after painting.",
+  "availability": "In Stock",
+  "product_name": "Shurtape FrogTape® Gloss & Satin",
+  "specifications": [
+    "FrogTape® Gloss & Satin 36mm x 41.1m SHU104201",
+    "PaintBlock® Technology",
+    "Ideal for gloss and satin paints",
+    "Perfect for cured painted surfaces, glass, carpet, and stone"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-max-finish-9-in-1-multitool.html|>
+## Stanley Tools Max Finish 9 In 1 Multitool
+
+{
+  "price": "€13.87 inc VAT (€11.28 exc.vat)",
+  "description": "Max Finish 9-in-1 multitool has a high quality stainless steel blade for a longer life. This tool enables you to scrape flat and contoured surfaces due to the specially shaped and sharpened blade.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Max Finish 9 In 1 Multitool",
+  "specifications": [
+    "High quality stainless steel blade",
+    "Enables scraping of flat and contoured surfaces",
+    "Specially shaped and sharpened blade"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-folding-10-in-1-multi-tool.html|>
+## Purdy Folding 10-in-1 Multi-Tool
+
+{
+  "price": "€12.96 inc VAT (€10.54 exc.vat)",
+  "description": "The Purdy® Folding Multi-Tool has a full length rust-resistant, stainless steel blade that provides 10 different uses in one handy tool. Fitted with a non-slip rubberised grip for greater comfort and tool control. Functions: Scraper, Putty/Filler Remover, Roller Cleaner, Putty/Filler Applicator, Opening Cracks, Nail Set Hammerhead End, Nail Puller, Bottle Opener, Flat/Phillips Screwdriver Key.",
+  "availability": "In Stock",
+  "product_name": "Purdy Folding 10-in-1 Multi-Tool",
+  "specifications": [
+    "Rust-resistant stainless steel blade",
+    "10 different uses",
+    "Non-slip rubberised grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-premium-6-in-1-multi-tool.html|>
+## Purdy Premium 6-in-1 Multi-Tool
+
+{
+  "price": "€12.37 inc VAT (€10.06 exc.vat)",
+  "description": "The Purdy® Premium 6-in-1 Multi-Tool is the ultimate sidekick for any professional. Its unique rust-resistant, stainless steel blade provides 6 different uses in one handy tool. Fitted with a non-slip handle for extra comfort. Uses: Set Nails, Scrape, Open Cans, Spread Compounds, Open/Clean Cracks and Clean Rollers.",
+  "availability": "In Stock",
+  "product_name": "Purdy Premium 6-in-1 Multi-Tool",
+  "specifications": [
+    "Rust-resistant stainless steel blade",
+    "6 different uses: Set Nails, Scrape, Open Cans, Spread Compounds, Open/Clean Cracks, Clean Rollers",
+    "Non-slip handle for extra comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-brush-and-roller-cleaner-tool.html|>
+## Purdy Brush & Roller Cleaner Tool
+
+{
+  "price": "€11.25 inc VAT (€9.15 exc.vat)",
+  "description": "The Purdy® Brush & Roller Cleaner Tool is fitted with a high carbon steel blade, which has 2 semi-circle cut-outs for cleaning any roller or mini roller. It also features a brush cleaning comb. For increased user comfort it has a non-slip handle with thumb grip. Designed and engineered with professional decorators in mind.",
+  "availability": "In Stock",
+  "product_name": "Purdy Brush & Roller Cleaner Tool",
+  "specifications": [
+    "High carbon steel blade",
+    "2 semi-circle cut-outs for cleaning rollers",
+    "Brush cleaning comb",
+    "Non-slip handle with thumb grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-premium-10-in-1-multi-tool.html|>
+## Purdy Premium 10-in-1 Multi-Tool
+
+{
+  "price": "€12.96 inc VAT (€10.54 exc.vat)",
+  "description": "The Purdy® Premium 10-in-1 Multi Tool is the ultimate sidekick for any professional. Its unique rust-resistant, stainless steel blade provides 10 different uses in one handy tool. Fitted with a non-slip handle for extra comfort. Uses: Set Nails, Scrape, Open Cans, Spread Compounds, Open/Clean Cracks, Clean Rollers, Bottle Opener, Nail Puller and Flat & Phillips Screwdriver Bit (stores in handle).",
+  "availability": "Out of Stock",
+  "product_name": "Purdy Premium 10-in-1 Multi-Tool",
+  "specifications": [
+    "Rust-resistant stainless steel blade",
+    "10 different uses",
+    "Non-slip handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-strypit-paint-and-varnish-stripper-new-formulation.html|>
+## Rustins Strypit Paint & Varnish Stripper New Formulation
+
+{
+  "price": "from €14.99 inc VAT",
+  "description": "Rustins new formula Strypit is a non-caustic dichloromethane-free gel suitable for removing multiple coats of paints and varnishes applied to wood, metal, glass, stone and masonry surfaces. New formula Strypit works best when applied liberally and allowed to penetrate after two applications. The gel consistency allows effective use on vertical surfaces.",
+  "availability": "In Stock",
+  "product_name": "Rustins Strypit Paint & Varnish Stripper New Formulation",
+  "specifications": [
+    "Available in multiple sizes: 1 Litre, 250ml, 4 Litre, 500ml",
+    "Non-caustic and dichloromethane-free",
+    "Effective on wood, metal, glass, stone, and masonry surfaces",
+    "Gel consistency for vertical surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/douglas-profesional-graffiti-remover-750ml.html|>
+## DOUGLAS PROFESIONAL GRAFFITI REMOVER 750ML
+
+{
+  "price": "€18.99 inc VAT (€15.44 exc.vat)",
+  "description": "Graffiti Spray 750ml\n\n- A Powerful, fast acting formula removes graffiti from brick, stone and concretes.\n- Spray onto area, allow to penetrate and wash off with plenty of water.\n- Low viscosity ensures quick penetration.\n- Low odour.",
+  "availability": "In Stock",
+  "product_name": "DOUGLAS PROFESIONAL GRAFFITI REMOVER 750ML",
+  "specifications": [
+    "750ml capacity",
+    "Fast acting formula",
+    "Removes graffiti from brick, stone, and concrete",
+    "Low viscosity for quick penetration",
+    "Low odour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-paint-remover-spray-500ml.html|>
+## MOTIP® Pro Paint Remover Spray 500ml
+
+{
+  "price": "€8.01 inc VAT (€6.51 exc.vat)",
+  "description": "MoTip Pro Paint Remover Spray has an easy-to-use gel formula that removes old layers of lacquer. It can be used on stone, concrete, asphalt, metal and wood.",
+  "availability": "In Stock",
+  "product_name": "MOTIP® Pro Paint Remover Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Easy-to-use gel formula",
+    "Removes old layers of lacquer",
+    "Suitable for stone, concrete, asphalt, metal, and wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-maximum-strength-paint-stripper-500ml.html|>
+## Polycell Maximum Strength Paint Stripper 500ml
+
+{
+  "price": "€14.39 inc VAT (€11.70 exc.vat)",
+  "description": "Polycell Maximum Strength Paint Stripper is a quick and easy way to strip most types of paint and varnish, without harming the surface. It penetrates the paint layers and lifts them up to form a soft film that is easy to remove, leaving the surface ready for stripping. It is suitable for solvent and water-based paints and varnishes on wood and metal, and can be used indoors and outdoors. Strips up to 12 layers of paint. Works from 20 minutes of application. Coverage: 0.8m² per 500ml. Size: 500ml.",
+  "availability": "Out of Stock",
+  "product_name": "Polycell Maximum Strength Paint Stripper 500ml",
+  "specifications": [
+    "Strips up to 12 layers of paint",
+    "Works from 20 minutes of application",
+    "Coverage: 0.8m² per 500ml",
+    "Size: 500ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-paint-remover-400ml.html|>
+## PlastiKote Trade Paint Remover 400ml
+
+{
+  "price": "€8.89 inc VAT (€7.23 exc.vat)",
+  "description": "PlastiKote Trade Paint Remover is effective at removing old paint layers on stone, concrete, asphalt, metal and wood. It has a gel structure. Douse the intended surface for at least 15 minutes for effective paint removal.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade Paint Remover 400ml",
+  "specifications": [
+    "Coverage: 0.8m²",
+    "Working Time: 15 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nitromors-craftsmans-paint-varnish-and-lacquer-remover.html|>
+## Nitromors Craftsman's Paint, Varnish & Lacquer Remover
+
+{
+  "price": "from €21.37 inc VAT",
+  "description": "Nitromors Craftsman's Paint, Varnish & Lacquer Remover is perfect for those intricate mouldings and carvings due to its thin consistency. It comes in a cloudy liquid form, making it ideal for getting into all those small areas that a thicker product couldn't reach. Don't be fooled though, what it lacks in thickness, it makes up for in strength! Ideal for use on wood, metal and masonry. The formula is dichloromethane-free, meaning it is less volatile and will stay active for longer.",
+  "availability": "In Stock",
+  "product_name": "Nitromors Craftsman's Paint, Varnish & Lacquer Remover",
+  "specifications": [
+    "Available in 2 Litre, 500ml Aerosol, 750ml",
+    "Dichloromethane-free formula",
+    "Ideal for wood, metal, and masonry"
+  ]
+}
+
+<|https://www.mydiy.ie/products/nitromors-all-purpose-paint-and-varnish-remover.html|>
+## Nitromors All-Purpose Paint & Varnish Remover
+
+{
+  "price": "from €17.79 inc VAT",
+  "description": "Nitromors All-Purpose Paint & Varnish Remover is ideal for those vertical applications due to its strong non-drip gel formula. The gel is also a lovely shade of green meaning you are able to see exactly where you applied it. Ideal for wood, metal and masonry.",
+  "availability": "In Stock",
+  "product_name": "Nitromors All-Purpose Paint & Varnish Remover",
+  "specifications": [
+    "Available in multiple sizes: 2 Litre, 375ml, 4 Litre, 500ml Aerosol, 750ml",
+    "Strong non-drip gel formula",
+    "Ideal for wood, metal, and masonry applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/personna-floor-and-wall-stripper-100mm-4in-blade-pack-10.html|>
+## Personna Floor & Wall Stripper 100mm (4in) Blade Pack 10
+
+{
+  "price": "€8.12 inc VAT (€6.60 exc.vat)",
+  "description": "Personna 610148EA heavy-duty floor and wall stripper blades 100mm (4 in). Edge configuration removes surface coverings and blemishes without damaging the surface. Cards of 10 blades.",
+  "availability": "Out of Stock",
+  "product_name": "Personna Floor & Wall Stripper 100mm (4in) Blade Pack 10",
+  "specifications": [
+    "Pack of 10 blades",
+    "100mm (4 in) size",
+    "Heavy-duty design",
+    "Edge configuration for surface removal"
+  ]
+}
+
+<|https://www.mydiy.ie/products/personna-heavy-duty-wall-stripper-100mm-4in--1-blade.html|>
+## Personna Heavy-Duty Wall Stripper 100mm (4in) + 1 Blade
+
+{
+  "price": "€17.10 inc VAT (€13.90 exc.vat)",
+  "description": "American Line 660434 100mm (4 in) standard wall stripper with 1 blade. It has a light weight aluminum handle which includes a reusable storage tube for up to 5 blades.",
+  "availability": "Out of Stock",
+  "product_name": "Personna Heavy-Duty Wall Stripper 100mm (4in) + 1 Blade",
+  "specifications": [
+    "PSA660434",
+    "Weight: Light weight aluminum handle",
+    "Includes reusable storage tube for up to 5 blades"
+  ]
+}
+
+<|https://www.mydiy.ie/products/personna-wide-scraper-blades-100mm-4in-pack-of-5.html|>
+## Personna Wide Scraper Blades 100mm (4in) Pack of 5
+
+{
+  "price": "€2.99 inc VAT (€2.43 exc.vat)",
+  "description": "American Line 660454 100mm (4 in) wide scraper blades fit wide blade scrapers and also other 100mm scrapers. Carded in 5's.",
+  "availability": "In Stock",
+  "product_name": "Personna Wide Scraper Blades 100mm (4in) Pack of 5",
+  "specifications": [
+    "Pack of 5",
+    "100mm (4 in) wide",
+    "Fits wide blade scrapers and other 100mm scrapers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-heavy-duty-long-handle-scraper.html|>
+## Stanley Tools Heavy-Duty Long Handle Scraper
+
+{
+  "price": "€15.55 inc VAT (€12.64 exc.vat)",
+  "description": "Heavy-duty long handled scraper with 100 mm (4in) steel blade and shaft with an ergonomic soft grip handle. Ideal for the removal of wallpaper, vinyl wallcoverings, textured wallcoverings and ceramic tiles. Replacement blade available (STA028005). Overall length: 300 mm. Blade width: 100mm (4in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Heavy-Duty Long Handle Scraper",
+  "specifications": [
+    "Heavy-duty long handled scraper",
+    "100 mm (4in) steel blade",
+    "Ergonomic soft grip handle",
+    "Overall length: 300 mm",
+    "Blade width: 100mm (4in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-heavy-duty-scraper-blades-pack-of-5.html|>
+## Stanley Tools Heavy-Duty Scraper Blades (pack of 5)
+
+{
+  "price": "€8.44 inc VAT (€6.86 exc.vat)",
+  "description": "A pack of heavy-duty replacement blades to fit the Stanley 028004 heavy-duty long handled scraper. Blade width: 100mm (4in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Heavy-Duty Scraper Blades (pack of 5)",
+  "specifications": [
+    "Blade width: 100mm (4in)",
+    "Pack of 5 heavy-duty replacement blades"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-chisel-scraper.html|>
+## Vitrex Chisel Scraper
+
+{
+  "price": "€11.07 inc VAT (€9.00 exc.vat)",
+  "description": "The Vitrex Chisel Scraper is ideal for removing tiles and residue from most surfaces. It is fitted with a hammer end for quick strike use on stubborn materials.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Chisel Scraper",
+  "specifications": [
+    "Model: VITCHS005",
+    "Price: €11.07",
+    "List Price: €13.41",
+    "You save: €2.34",
+    "Hammer end for quick strike use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-softfinish-universal-scraper.html|>
+## Wiha SoftFinish® Universal Scraper
+
+{
+  "price": "€50.96 inc VAT (€41.43 exc.vat)",
+  "description": "The Wiha SoftFinish® Universal Scraper removes sealing materials, glue residue, tape and labels. Optimal guidance is guaranteed thank to the razor-sharp blade. This superbly crafted blade is ideal for working on edges and corners thanks to its rectangular shape. If a blade is blunt, it can be replaced easily in seconds. Fitted with an ergonomic SoftFinish® handle for increased comfort and grip. Supplied with 10 x 13mm Wide Blades.",
+  "availability": "Out of Stock",
+  "product_name": "Wiha SoftFinish® Universal Scraper",
+  "specifications": [
+    "WHA26920 : €50.96",
+    "Qty: Sorry this item is out of stock",
+    "Includes 10 x 13mm Wide Blades",
+    "Ergonomic SoftFinish® handle for comfort and grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-four-edge-carbide-scraper.html|>
+## Purdy® Four Edge Carbide Scraper
+
+{
+  "price": "€26.03 inc VAT (€21.16 exc.vat)",
+  "description": "The Purdy® Carbide Scraper comes with four edges; two for aggressive scraping and two for finishing. The blade is made from strong carbon steel. Fitted with a non-slip grip for increased comfort. Replacement blades available as a separate item.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Four Edge Carbide Scraper",
+  "specifications": [
+    "Blade Width: 63mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-bent-pole-scraper.html|>
+## Purdy® Bent Pole Scraper
+
+{
+  "price": "€11.05 inc VAT (€8.98 exc.vat)",
+  "description": "This Purdy® Bent Pole Scraper comes with a premium quality, rust-resistant 3in stainless-steel blade. Designed to be used in conjunction with the Purdy® POWER LOCK™ Extension Pole, it is ideal for scraping floorboards.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Bent Pole Scraper",
+  "specifications": [
+    "Rust-resistant 3in stainless-steel blade",
+    "Compatible with Purdy® POWER LOCK™ Extension Pole",
+    "Ideal for scraping floorboards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-four-edge-scraper-replacement-blade.html|>
+## Purdy® Four Edge Scraper Replacement Blade
+
+{
+  "price": "€6.42 inc VAT (€5.22 exc.vat)",
+  "description": "The Purdy® Four Edge Scraper Blades are made from strong high carbon steel. With four edges; two for aggressive scraping and two for finishing. For use with the Purdy® Four Edge Carbide Scraper (PUR144900240). Contents:- 1 Blade.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Four Edge Scraper Replacement Blade",
+  "specifications": [
+    "Made from strong high carbon steel",
+    "Four edges for aggressive scraping and finishing",
+    "Compatible with Purdy® Four Edge Carbide Scraper (PUR144900240)",
+    "Contents: 1 Blade"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-xtreme-tile-adhesive-scraper.html|>
+## Vitrex Xtreme Tile Adhesive Scraper
+
+{
+  "price": "€11.76 inc VAT (€9.56 exc.vat)",
+  "description": "The Vitrex Adhesive Scraper is ideal for removing stubborn residue build-up and dried adhesives. It stores 5 replacement blades in the handle which can be replaced with the built-in screwdriver. The screwdriver cap keeps the threaded interior clean, which may be used with a threaded pole for an extended reach.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Xtreme Tile Adhesive Scraper",
+  "specifications": [
+    "Model: VITPROTAS100",
+    "Price: €11.76",
+    "List Price: €15.28",
+    "You save: €3.52",
+    "Includes 5 replacement blades",
+    "Built-in screwdriver for blade replacement"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-1in-paint-scraper-6in-handle.html|>
+## Stanley Tools 1In Paint Scraper (6In Handle)
+
+{
+  "price": "€5.66 inc VAT (€4.60 exc.vat)",
+  "description": "1In Paint Scraper (6In Handle)",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools 1In Paint Scraper (6In Handle)",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-upvc-cleaner-500ml.html|>
+## Rustins uPVC Cleaner 500ml
+
+{
+  "price": "€8.13 inc VAT (€6.61 exc.vat)",
+  "description": "Rustin's uPVC Cleaner is a blend of ingredients which clean and restore all types of white uPVC that are weather stained, dirty and dull. It cleans and revives uPVC doors, windows, fascias, cladding and plastic garden furniture. The uPVC Cleaner removes ingrained dirt and restores gloss. Size: 500ml.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins uPVC Cleaner 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Cleans and restores white uPVC",
+    "Removes ingrained dirt",
+    "Restores gloss"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-thompsons-upvc-liquid-restorer-480ml.html|>
+## Ronseal Thompsons uPVC Liquid Restorer 480ml
+
+{
+  "price": "€11.76 inc VAT (€9.56 exc.vat)",
+  "description": "Thompson's RSLTUPVREST is a powerful uPVC liquid restorer that is a specially formulated cleaner which is designed to transform dirty and weathered uPVC back to white. The powerful cleaning action removes ingrained dirt without scratching the surface and the waterbased formulation makes it safe and easy to use. 480ml.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Thompsons uPVC Liquid Restorer 480ml",
+  "specifications": [
+    "Powerful uPVC liquid restorer",
+    "Transforms dirty and weathered uPVC back to white",
+    "Removes ingrained dirt without scratching",
+    "Water-based formulation",
+    "480ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-pvcu-cream-cleaner-1-litre.html|>
+## Everbuild PVCu Cream Cleaner 1 Litre
+
+{
+  "price": "€10.26 inc VAT (€8.34 exc.vat)",
+  "description": "This Everbuild EVBPVCC1 PVCu Cream Cleaner is a solvent-free formulation designed to remove ingrained dirt, stains and pollution from PVCu window frames without scratching and with light buffs will leave a deep clean sheen to your tired looking doors or windows making them look as good as new.",
+  "availability": "In Stock",
+  "product_name": "Everbuild PVCu Cream Cleaner 1 Litre",
+  "specifications": [
+    "Product Code: EVBPVCC1",
+    "Volume: 1 Litre",
+    "Solvent-free formulation",
+    "Removes ingrained dirt and stains",
+    "Leaves a deep clean sheen"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-593oc-window-scraper.html|>
+## Stanley Tools 593OC Window Scraper
+
+{
+  "price": "€2.72 inc VAT (€2.21 exc.vat)",
+  "description": "The Stanley 5930 window scraper uses a standard (011921) trimming knife blade to scrape excess paint from window panes. It has a comfortable plastic handle with detachable blade guard. With the guard fitted it makes a good windscreen ice scraper.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools 593OC Window Scraper",
+  "specifications": [
+    "Uses standard trimming knife blade (011921)",
+    "Comfortable plastic handle",
+    "Detachable blade guard",
+    "Can be used as a windscreen ice scraper"
+  ]
+}
+
+<|https://www.mydiy.ie/products/personna-american-line-regular-duty-razor-blades.html|>
+## Personna American Line Regular-Duty Razor Blades
+
+{
+  "price": "€9.24 inc VAT",
+  "description": "American Line branded top quality regular-duty carbon steel single edge razor blades with an aluminium spine that are ideal to fit into a scraper tool. For hand use they have the advantage that the blade can be bent to the contour of a convex surface for effective cleaning (e.g. windscreens).",
+  "availability": "In Stock",
+  "product_name": "Personna American Line Regular-Duty Razor Blades",
+  "specifications": [
+    "Regular-duty carbon steel",
+    "Single edge razor blades",
+    "Aluminium spine",
+    "Ideal for scraper tools",
+    "Can be bent for contour cleaning"
+  ]
+}
+
+<|https://www.mydiy.ie/products/personna-delux-metal-retractable-window-scrapers.html|>
+## Personna Delux Metal Retractable Window Scrapers
+
+{
+  "price": "€7.54 inc VAT",
+  "description": "American Line 660445 heavy-duty metal window scraper with a retractable blade, an ideal tool for scraping or cleaning hard surfaces, removing labels, spills, paint, hob and oven cleaning etc.",
+  "availability": "In Stock",
+  "product_name": "Personna Delux Metal Retractable Window Scrapers",
+  "specifications": [
+    "Retractable blade",
+    "Heavy-duty metal construction",
+    "Ideal for scraping and cleaning hard surfaces",
+    "Includes 5 blades option"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-razor-edge-scraper-with-5-blades.html|>
+## Stanley Tools Razor Edge Scraper with 5 Blades
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Stanley Tools Razor Edge Scraper has an all-metal construction. It removes paint, glue, putty or adhesives from glass, tiles, walls, floors or other smooth surfaces. Uses standard single-edge razor blades. Comes with 5 blades.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Razor Edge Scraper with 5 Blades",
+  "specifications": [
+    "All-metal construction",
+    "Removes paint, glue, putty, or adhesives",
+    "Uses standard single-edge razor blades",
+    "Comes with 5 blades"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-single-edge-razor-blades-pack-100.html|>
+## Stanley Tools Single Edge Razor Blades (Pack 100)
+
+{
+  "price": "€26.03 inc VAT (€21.16 exc.vat)",
+  "description": "Steel backed, high-carbon steel blade. Fits all standard razor blade tools. Replacement blades for Stanley 28-100 and 28-500 scrapers.",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Single Edge Razor Blades (Pack 100)",
+  "specifications": [
+    "Pack of 100 blades",
+    "High-carbon steel",
+    "Fits standard razor blade tools",
+    "Replacement for Stanley 28-100 and 28-500 scrapers"
+  ]
+}
+

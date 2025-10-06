@@ -1,0 +1,79 @@
+<|https://www.mydiy.ie/products/dormer-g136-hss-straight-shank-countersinks-90.html|>
+## Dormer G136 HSS Straight Shank Countersinks 90°
+
+{
+  "price": "€49.14 inc VAT",
+  "description": "Dormer G136 HSS Straight Shank 90° Countersink for production of 90° countersinks in most materials, which can also be used as a de-burring tool. Has a bright finish, 3 flute, ground all over. Other types available on request (MTS, 60°/82°/100°, Coated).",
+  "availability": "In Stock",
+  "product_name": "Dormer G136 HSS Straight Shank Countersinks 90°",
+  "specifications": [
+    "Select Option: 10.00mm, 12.40mm, 16.50mm, 25.00mm, 8.00mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-xcm-hss-countersinks---metal.html|>
+## Halls XCM HSS Countersinks - Metal
+
+{
+  "price": "from €25.67 inc VAT",
+  "description": "The Halls High Speed Steel Countersink with 1/4in hexagon shank, 3 flute 90° included angle. Designed for use with power tools and for use on metal.",
+  "availability": "In Stock",
+  "product_name": "Halls XCM HSS Countersinks - Metal",
+  "specifications": [
+    "Select Option: 10.4mm, 12.4mm, 16.5mm, 20.5mm, 6.3mm, 8.3mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/halls-xcw-hss-countersinks---wood.html|>
+## Halls XCW HSS Countersinks - Wood
+
+{
+  "price": "€24.74 inc VAT",
+  "description": "The Halls High Speed Steel Countersink with 1/4in hexagon shank, 5 flute (6mm) 90° included angle. Designed for use with power tools and for use on wood.",
+  "availability": "In Stock",
+  "product_name": "Halls XCW HSS Countersinks - Wood",
+  "specifications": [
+    "1/4in hexagon shank",
+    "5 flute (6mm)",
+    "90° included angle",
+    "Designed for use with power tools",
+    "Suitable for wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-hex-countersink.html|>
+## IRWIN® Hex Countersink
+
+{
+  "price": "from €7.54 inc VAT",
+  "description": "The IRWIN® Hex Countersink drills, countersinks and counter bores in one step. Its 4-cutter countersink and tapered drill bit provide superior speed and ideal finish. Ideal for both soft and hard woods.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Hex Countersink",
+  "specifications": [
+    "Select Option: 10mm, 13mm, 16mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-4-way-driver-pilot-drill.html|>
+## Makita 4-Way Driver Pilot Drill
+
+{
+  "price": "€5.14 inc VAT",
+  "description": "Titanium coated pilot bits suitable for use in quad drivers. Set includes 5 pilot drills and 2 grub screws.",
+  "availability": "In Stock",
+  "product_name": "Makita 4-Way Driver Pilot Drill",
+  "specifications": [
+    "Titanium coated pilot bits",
+    "Suitable for use in quad drivers",
+    "Set includes 5 pilot drills and 2 grub screws"
+  ]
+}
+

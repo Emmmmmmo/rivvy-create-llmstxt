@@ -1,0 +1,537 @@
+<|https://www.mydiy.ie/products/makita-12-orbital-sanding-sheets.html|>
+## Makita 1/2 Orbital Sanding Sheets
+
+{
+  "price": "€9.37 inc VAT",
+  "description": "Aluminium oxide grit bonded to hard wearing paper\n\nHook & Loop fixing for smoother finish\n\nSuitable for sanding wood and metal in confined areas\n\n10 hole configuration\n\nCompatible with Makita 9046 and BO4900 orbital sander",
+  "availability": "In Stock",
+  "product_name": "Makita 1/2 Orbital Sanding Sheets",
+  "specifications": [
+    "Select Option: 40G (Pack of 10), 60G (Pack of 10)",
+    "Aluminium oxide grit bonded to hard wearing paper",
+    "Hook & Loop fixing for smoother finish",
+    "Suitable for sanding wood and metal in confined areas",
+    "10 hole configuration",
+    "Compatible with Makita 9046 and BO4900 orbital sander"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-13-orbital-sanding-sheets.html|>
+## Makita 1/3 Orbital Sanding Sheets
+
+{
+  "price": "€4.10 inc VAT",
+  "description": "Aluminium oxide grit bonded to hard wearing paper. Traditional clip on fixing. Ideal for sanding wood and metal and for decorating. Compatible with Makita 9036 and BO3700 orbital sanders.",
+  "availability": "In Stock",
+  "product_name": "Makita 1/3 Orbital Sanding Sheets",
+  "specifications": [
+    "Select Option: 180G (Pack of 10), 240G (Pack of 10), 40G (Pack of 10), 60G (Pack of 10), 80G (Pack of 10)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-13-punched-sanding-sheet-set-5-piece.html|>
+## IRWIN® 1/3 Punched Sanding Sheet Set, 5 Piece
+
+{
+  "price": "€7.84 inc VAT (€6.37 exc.vat)",
+  "description": "IRWIN® 1/3 Punched Sanding Sheets with Velcro attachment, reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficient dust extraction. Suitable for BLACK + DECKER.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® 1/3 Punched Sanding Sheet Set, 5 Piece",
+  "specifications": [
+    "Size: 93 x 190mm",
+    "Grits: 2 x K80, 2 x K120 and 1 x K240"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-13-punched-quick-fit-sanding-sheet-set-10-piece-1.html|>
+## IRWIN® 1/3 Punched Quick Fit Sanding Sheet Set, 10 Piece
+
+{
+  "price": "€13.21 inc VAT (€10.74 exc.vat)",
+  "description": "IRWIN® 1/3 Punched Quick Fit Sanding Sheets with Velcro attachment, reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficient dust extraction. Suitable for BLACK + DECKER and WORX.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® 1/3 Punched Quick Fit Sanding Sheet Set, 10 Piece",
+  "specifications": [
+    "Size: 93 x 190mm",
+    "Grits: 4 x K80, 3 x K120 and 3 x K240"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-13-punched-quick-fit-sanding-sheet-set-10-piece.html|>
+## IRWIN® 1/3 Punched Quick Fit Sanding Sheet Set, 10 Piece
+
+{
+  "price": "€13.21 inc VAT (€10.74 exc.vat)",
+  "description": "IRWIN® 1/3 Punched Sanding Sheets with Velcro attachment, reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficent dust extraction. Suitable for BOSCH and SKIL.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® 1/3 Punched Quick Fit Sanding Sheet Set, 10 Piece",
+  "specifications": [
+    "Size: 93 x 190mm",
+    "Grits: 4 x K80, 3 x K120 and 3 x K240"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-14-punched-sanding-sheet-set-10-piece.html|>
+## IRWIN® 1/4 Punched Sanding Sheet Set, 10 Piece
+
+{
+  "price": "€7.54 inc VAT (€6.13 exc.vat)",
+  "description": "IRWIN® 1/4 Punched Sanding Sheets with Velcro attachment, reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficent dust extraction. Suitable for BLACK + DECKER KA10GT and KA400.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® 1/4 Punched Sanding Sheet Set, 10 Piece",
+  "specifications": [
+    "Size: 114 x 114mm",
+    "Grits: 3 x K80, 4 x K120 and 3 x K180"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-new-group-for-makp36398.html|>
+## Makita New Group for MAKP36398
+
+{
+  "price": "€5.15 inc VAT",
+  "description": "Makita New Group for MAKP36398",
+  "availability": "In Stock",
+  "product_name": "Makita New Group for MAKP36398",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-delta-sanding-sheets-pack-of-10.html|>
+## Vitrex Delta Sanding Sheets (Pack of 10)
+
+{
+  "price": "€25.06 inc VAT",
+  "description": "Replacement Triangular Sanding Sheets for use with the Vitrex Long Reach Sander LRS700. Must be used in conjunction with the Vitrex LRSDH001 Delta Sander Head (Stock Code: VITLRSDH01). Easy to replace, Hook & Loop attachment.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Delta Sanding Sheets (Pack of 10)",
+  "specifications": [
+    "Pack of 10",
+    "Compatible with Vitrex Long Reach Sander LRS700",
+    "Hook & Loop attachment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-14-palm-sander-sheet-80g-pack-of-10.html|>
+## Makita 1/4 Palm Sander Sheet 80G (Pack of 10)
+
+{
+  "price": "€6.03 inc VAT (€4.90 exc.vat)",
+  "description": "Aluminium oxide grit bonded to hard wearing paper. Ideal for sanding wood, regular steel and painted wood. Suitable for professional use. Available punched. Compatible with Makita BO4553 palm sander.",
+  "availability": "Out of Stock",
+  "product_name": "Makita 1/4 Palm Sander Sheet 80G (Pack of 10)",
+  "specifications": [
+    "Pack of 10 sheets",
+    "80G grit",
+    "Aluminium oxide grit",
+    "Compatible with Makita BO4553 palm sander"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-detail-sander-sheet-set-20-piece.html|>
+## IRWIN® Detail Sander Sheet Set, 20 Piece
+
+{
+  "price": "€18.22 inc VAT (€14.81 exc.vat)",
+  "description": "IRWIN® Detail Sander Sheets with Velcro attachment, reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficient dust extraction.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Detail Sander Sheet Set, 20 Piece",
+  "specifications": [
+    "Size: 92 x 92 x 92mm",
+    "Grits: 5 x K60, 5 x K120, 5 x K180 and 5 x K320"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-multi-sander-detail-sanding-sheet-set-8-piece.html|>
+## IRWIN® Multi Sander Detail Sanding Sheet Set, 8 Piece
+
+{
+  "price": "€8.18 inc VAT (€6.65 exc.vat)",
+  "description": "IRWIN® Multi Sander Detail Sanding Sheets for very detailed sanding. Suitable for the following BLACK+DECKER models: KA270, KA272, KA280, BEW200. Specifications: Size: 100×165mm. Grits: 2 x K80, 2 x K120, 2 x K180 and 2 x K240.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Multi Sander Detail Sanding Sheet Set, 8 Piece",
+  "specifications": [
+    "Size: 100×165mm",
+    "Grits: 2 x K80, 2 x K120, 2 x K180 and 2 x K240"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-palm-sander-sheet-set-10-piece.html|>
+## IRWIN® Palm Sander Sheet Set, 10 Piece
+
+{
+  "price": "€10.97 inc VAT (€8.92 exc.vat)",
+  "description": "IRWIN® Palm Sander Sheets with Velcro attachment, reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficient dust extraction. Suitable for palm sander Gamma HS200W and OK HS-105.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Palm Sander Sheet Set, 10 Piece",
+  "specifications": [
+    "Size: 140 x 98mm",
+    "Grits: 3 x K60, 3 x K80 and 4 x K120"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-multi-sander-sanding-sheet-set-10-piece.html|>
+## IRWIN® Multi Sander Sanding Sheet Set, 10 Piece
+
+{
+  "price": "€15.68 inc VAT (€12.75 exc.vat)",
+  "description": "IRWIN® Multi Sander Sanding Sheets with Velcro attachment, the reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficient dust extraction. Compatible with the BLACK+DECKER MULTI Sander.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Multi Sander Sanding Sheet Set, 10 Piece",
+  "specifications": [
+    "Grits: 3 x K40, 2 x K80, 2 x K120 and 3 x K240."
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-bosch-palm-sanding-sheet-set-10-piece.html|>
+## IRWIN® Bosch Palm Sanding Sheet Set, 10 Piece
+
+{
+  "price": "€15.84 inc VAT (€12.88 exc.vat)",
+  "description": "This IRWIN® Bosch Palm Sander Sheets with Velcro attachment, the reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficent dust extraction. Compatible with the BOSCH PSM160A, PSM80/80A, PRIO and Skil OCTO 7208.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Bosch Palm Sanding Sheet Set, 10 Piece",
+  "specifications": [
+    "Grits: 3 x K40, 2 x K80, 2 x 120K and 3 x K180."
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-mouse-sanding-finger-sheet-set-15-piece.html|>
+## IRWIN® Mouse Sanding Finger Sheet Set, 15 Piece
+
+{
+  "price": "€12.74 inc VAT (€10.36 exc.vat)",
+  "description": "IRWIN® Mouse Sanding Finger Sheets for very detailed sanding. Velcro attachment provides reduced space between the sanding sheet and allows for higher removal rate. Compatible with the sanding finger often supplied separately with a palm sander from the BLACK+DECKER Mouse KA161, KA168, KA1000, KA2000, BEW230 and Bosch Primo. Specification: Grits: 5 x K120, 5 x K180 and 5 x K240.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Mouse Sanding Finger Sheet Set, 15 Piece",
+  "specifications": [
+    "Grits: 5 x K120, 5 x K180 and 5 x K240"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-mouse-sanding-sheets.html|>
+## IRWIN® Mouse Sanding Sheets
+
+{
+  "price": "from €13.21 inc VAT",
+  "description": "IRWIN® Mouse Sanding Sheets with Velcro attachment, reduced space between the sanding sheet and the machine allows for higher removal rate. Perforation allows for more efficient dust extraction. Compatible with the following: BLACK+DECKER Mouse KA161, KA168, KA1000, KA2000, BEW230, Stanley FatMax FMCW210 and BOSCH primo.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Mouse Sanding Sheets",
+  "specifications": [
+    "10 Piece Set",
+    "20 Piece Set"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-file-sanding-belts.html|>
+## Makita File Sanding Belts
+
+{
+  "price": "from €10.58 inc VAT",
+  "description": "Aluminium oxide grit bonded to cloth backing. Ideal for sanding wood and regular steel. Suitable for sanding in confined areas, door edges, automotive etc. Pack of 5.",
+  "availability": "In Stock",
+  "product_name": "Makita File Sanding Belts",
+  "specifications": [
+    "Option: Select One - 533 x 30mm 100G (Pack of 5)",
+    "533 x 76mm 100G (Pack of 5)",
+    "533 x 76mm 80G (Pack of 5)",
+    "9 x 533mm 100G (Pack of 5)",
+    "9 x 533mm 120G (Pack of 5)",
+    "9 x 533mm 60G (Pack of 5)",
+    "9 x 533mm 80G (Pack of 5)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-file-sander-belts-1.html|>
+## Evolution File Sander Belts
+
+{
+  "price": "€6.80 inc VAT",
+  "description": "The Evolution File Sander Belts for the Precision File Sander. Each pack contains 3 sanding belts, available in the following options: 80 Grit belts are suitable for sanding: steel, solid wood, chipboard and paint removal. 100 Grit belts are suitable for sanding: plastics and acrylics. 120 Grit belts are suitable for sanding: veneered wood.",
+  "availability": "In Stock",
+  "product_name": "Evolution File Sander Belts",
+  "specifications": [
+    "Available in 80 Grit, 100 Grit, and 120 Grit options",
+    "Pack contains 3 sanding belts",
+    "Suitable for various materials including steel, wood, plastics, and acrylics"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-new-group-for-makp43256.html|>
+## Makita New Group for MAKP43256
+
+{
+  "price": "€10.58",
+  "description": "Makita New Group for MAKP43256",
+  "availability": "In Stock",
+  "product_name": "Makita New Group for MAKP43256",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dust-bag-9401.html|>
+## Makita Dust Bag 9401
+
+{
+  "price": "€22.55 inc VAT (€18.33 exc.vat)",
+  "description": "Dust Bag 9401",
+  "availability": "In Stock",
+  "product_name": "Makita Dust Bag 9401",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-mini-belt-sander-belts-303-x-40mm-1.html|>
+## Evolution Mini Belt Sander Belts 303 x 40mm
+
+{
+  "price": "€8.02 inc VAT",
+  "description": "The Evolution Mini Belt Sander Belts are ideal for wood and plastics. The type of grade depends upon the coarseness (particle size) of the grit embedded in the cloth. As an approximate guide; The 80 grade belts are for sanding solid wood, chipboard and paint removal. The 100 grade belts are suited for plastics and acrylics and 120 grade belts are ideal for veneered wood. The coarser paper grades remove the unwanted material faster and with less effort. There are 3 packs available to choose from: 80 grade, 100 grade and 120 grade. Eack pack contains 3 mini sanding belts. Size: 303 x 40mm.",
+  "availability": "In Stock",
+  "product_name": "Evolution Mini Belt Sander Belts 303 x 40mm",
+  "specifications": [
+    "Size: 303 x 40mm",
+    "Available in 80G, 100G, and 120G (Pack of 3)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-powerfile-zirconium-sanding-belt-13-x-451mm-60g-pack-3.html|>
+## IRWIN® Powerfile Zirconium Sanding Belt 13 x 451mm 60G (Pack 3)
+
+{
+  "price": "€7.28 inc VAT (€5.92 exc.vat)",
+  "description": "IRWIN® Powerfile Zirconium Sanding Belts have been specially developed for working on ceramics. Made from high quality materials with a heat-resistant and dust-resistant synthetic resin bond for powerful sanding. Compatible with the following: BLACK+DECKER Powerfile (BD280/290/282E/292E, KA290 and KA292E).",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Powerfile Zirconium Sanding Belt 13 x 451mm 60G (Pack 3)",
+  "specifications": [
+    "Pack of 3",
+    "Size: 13 x 451mm",
+    "Grit: 60G",
+    "Compatible with BLACK+DECKER Powerfile models"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-75-x-457mm-sanding-belt-set-9-piece.html|>
+## IRWIN® 75 x 457mm Sanding Belt Set, 9 Piece
+
+{
+  "price": "€26.70 inc VAT (€21.71 exc.vat)",
+  "description": "IRWIN® Sanding Belts are made from high quality materials with a heat-resistant and dust-resistant synthetic resin bond for powerful sanding. The Aluminium Oxide abrasive grain provides excellent stock removal. For use on wood, metal and other materials. Compatible with the BLACK+DECKER Belt Sanders: KA86 and KA88. This 9 piece set has a selection of grits for a variable result. Contains: 3 x 60G, 3 x 80G and 3 x 100G.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® 75 x 457mm Sanding Belt Set, 9 Piece",
+  "specifications": [
+    "Belt Size: 75 x 457mm",
+    "Contains: 3 x 60G, 3 x 80G and 3 x 100G"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-75-x-533mm-sanding-belt-set-9-piece.html|>
+## IRWIN® 75 x 533mm Sanding Belt Set, 9 Piece
+
+{
+  "price": "€26.70 inc VAT (€21.71 exc.vat)",
+  "description": "IRWIN® Sanding Belts are made from high quality materials with a heat-resistant and dust-resistant synthetic resin bond for powerful sanding. The Aluminium Oxide abrasive grain provides excellent stock removal. For use on wood, metal and other materials. This 9 piece set has a selection of grits for a variable result. Contains: 3 x 60G, 3 x 80G and 3 x 100G.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® 75 x 533mm Sanding Belt Set, 9 Piece",
+  "specifications": [
+    "Belt Size: 75 x 533mm",
+    "Contains: 3 x 60G, 3 x 80G and 3 x 100G"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-powerfile-sanding-belts.html|>
+## IRWIN® Powerfile Sanding Belts
+
+{
+  "price": "from €7.28 inc VAT",
+  "description": "IRWIN® Powerfile Sanding Belts are made from high quality materials with a heat-resistant and dust-resistant synthetic resin bond for powerful sanding. The Aluminium Oxide abrasive grain provides excellent stock removal. For use on wood, metal and other materials. Compatible with the following: BLACK+DECKER Powerfile (BD280/290/282E/292E, KA290 and KA292E).",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Powerfile Sanding Belts",
+  "specifications": [
+    "Select Option: Set, 10 Piece; 120G (Pack 3); 40G (Pack 3); 60G (Pack 3)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-43337-abrasive-sanding-belt-13-x-533mm-x-60g.html|>
+## Makita P-43337 Abrasive Sanding Belt 13 x 533mm x 60G
+
+{
+  "price": "€11.41 inc VAT (€9.28 exc.vat)",
+  "description": "Makita Abrasive Sanding Belts for trade professionals as well as DIY enthusiasts. Cloth-backed abrasive belt with hard-wearing aluminium oxide grit. Designed for sanding wood and regular steel making them versatile as well as durable.",
+  "availability": "Out of Stock",
+  "product_name": "Makita P-43337 Abrasive Sanding Belt 13 x 533mm x 60G",
+  "specifications": [
+    "Size: 13 x 533mm",
+    "Grit: 60",
+    "Pack Size: 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-sanding-belts.html|>
+## Makita Sanding Belts
+
+{
+  "price": "from €18.22 inc VAT",
+  "description": "Makita Sanding Belts",
+  "availability": "In Stock",
+  "product_name": "Makita Sanding Belts",
+  "specifications": [
+    "Select Option: 100G (Pack of 5), 120G, 240G (Pack of 5), 40g, 60g, 80G (Pack of 5)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-long-reach-floor-sander-discs.html|>
+## Vitrex Long Reach Floor Sander Discs
+
+{
+  "price": "€25.06 inc VAT (€20.37 exc.vat)",
+  "description": "Replacement sanding discs for use with Vitrex Long Reach Sander LRS700. Easy to replace, hook and loop attachment.",
+  "availability": "Out of Stock",
+  "product_name": "Vitrex Long Reach Floor Sander Discs",
+  "specifications": [
+    "Option: 120G (Pack of 10), 150G (Pack of 10), 240G (Pack of 10), 60G (Pack of 10), 80G (Pack of 10)",
+    "Long Reach Floor Sander Discs 180G (Pack of 10): €25.06"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hook-and-loop-abrasive-discs-150mm.html|>
+## Makita Hook & Loop Abrasive Discs 150mm
+
+{
+  "price": "€10.23",
+  "description": "Extra hard-wearing aluminium oxide\n\nHook & Loop backed\n\n8 holes for dust extraction\n\nSuitable for Makita BO6030 ad BO6040 sanders",
+  "availability": "In Stock",
+  "product_name": "Makita Hook & Loop Abrasive Discs 150mm",
+  "specifications": [
+    "Extra hard-wearing aluminium oxide",
+    "Hook & Loop backed",
+    "8 holes for dust extraction",
+    "Suitable for Makita BO6030 ad BO6040 sanders"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-red-abrasive-discs-150mm.html|>
+## Makita Red Abrasive Discs 150mm
+
+{
+  "price": "€9.90 inc VAT",
+  "description": "6in round Hook & Loop backed abrasive disc\nPunched to allow dust collection\n6 holes\nSuitable for Makita BO6030 and BO6040 sanders",
+  "availability": "In Stock",
+  "product_name": "Makita Red Abrasive Discs 150mm",
+  "specifications": [
+    "Select Option: 120G, 240g, 60g, 80G",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hook-and-loop-abrasive-discs-125mm.html|>
+## Makita Hook & Loop Abrasive Discs 125mm
+
+{
+  "price": "€9.20 inc VAT (€7.48 exc.vat)",
+  "description": "5in round Hook & Loop backed abrasive disc, Punched to allow dust collection, 8 holes, Suitable for Makita BO5010, BO5012, BO5021 random orbit sanders",
+  "availability": "Out of Stock",
+  "product_name": "Makita Hook & Loop Abrasive Discs 125mm",
+  "specifications": [
+    "125mm diameter",
+    "Hook & Loop backed",
+    "Punched for dust collection",
+    "8 holes for dust extraction",
+    "Compatible with Makita BO5010, BO5012, BO5021 sanders"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-mesh-random-orbital-sanding-discs-125mm.html|>
+## Trend Mesh Random Orbital Sanding Discs 125mm
+
+{
+  "price": "€10.60 inc VAT",
+  "description": "Trend 125mm Mesh Random Orbital Sanding Disc with silicon carbide grit for long-life, 5x longer than conventional abrasives and enhanced performance on all materials. An anti-clogging open coat reduces clogging and allows for faster stock removal, especially on gummy, resinous timbers, fillers and paint removal. The mesh pattern allows unrestricted airflow across the entire sanding base for dust-free sanding. Simply rinse with water to dislodge sanding residue and re-use for maximum lifespan. Hook & loop fixing provides a secure fit to the tool base. Suitable for use on wood, paint, metal and plaster.",
+  "availability": "In Stock",
+  "product_name": "Trend Mesh Random Orbital Sanding Discs 125mm",
+  "specifications": [
+    "80G Pack of 10",
+    "Silicon carbide grit",
+    "Anti-clogging open coat",
+    "Mesh pattern for dust-free sanding",
+    "Hook & loop fixing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-zirconium-orbital-sanding-discs-225mm.html|>
+## Trend Zirconium Orbital Sanding Discs 225mm
+
+{
+  "price": "€37.90 inc VAT",
+  "description": "Trend 225mm Random Orbital Sanding Disc with a multi-material, long-life zirconium abrasive. This self-sharpening grit maintains cutting performance by fracturing away in use to expose fresh, sharp-cutting faces. An anti-clogging open coat reduces clogging and allows for faster stock removal, especially on gummy, resinous timbers, fillers and paint removal. The elongated hole pattern ensures base compatibility and aids maximum extraction capability. Hook & loop fixing provides a secure fit to the tool base. Suitable for heavier sanding on fillers, drywall sanding on walls and ceilings, removing old paintwork, prepping walls. This hard surface abrasion excels on harder materials, especially metals.",
+  "availability": "In Stock",
+  "product_name": "Trend Zirconium Orbital Sanding Discs 225mm",
+  "specifications": [
+    "Size: 225mm",
+    "Material: Zirconium",
+    "Pack: 10",
+    "Self-sharpening grit",
+    "Anti-clogging open coat",
+    "Hook & loop fixing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-mesh-random-orbital-sanding-discs-225mm.html|>
+## Trend Mesh Random Orbital Sanding Discs 225mm
+
+{
+  "price": "€22.74 inc VAT",
+  "description": "Trend 225mm Mesh Random Orbital Sanding Disc with silicon carbide grit for long-life, 5x longer than conventional abrasives and enhanced performance on all materials. An anti-clogging open coat reduces clogging and allows for faster stock removal, especially on gummy, resinous timbers, fillers and paint removal. The mesh pattern allows unrestricted airflow across the entire sanding base for dust-free sanding. Simply rinse with water to dislodge sanding residue and re-use for maximum lifespan. Hook & loop fixing provides a secure fit to the tool base. Suitable for use on wood, paint, metal and plaster.",
+  "availability": "In Stock",
+  "product_name": "Trend Mesh Random Orbital Sanding Discs 225mm",
+  "specifications": [
+    "Size: 225mm",
+    "Grit: Silicon carbide",
+    "Long-life: 5x longer than conventional abrasives",
+    "Anti-clogging open coat",
+    "Dust-free sanding",
+    "Hook & loop fixing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-sanding-discs.html|>
+## IRWIN® Sanding Discs
+
+{
+  "price": "from €7.54 inc VAT",
+  "description": "IRWIN® Sanding Discs are suitable for eccentric sanders with a round sanding sole. Velcro attachment reduces space between the sanding sheet and the machine for a higher removal rate. Perforation allows for more efficient dust extraction.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Sanding Discs",
+  "specifications": [
+    "125mm, 10 Piece Set: 3 x K60, 3 x K80, 2 x K120 and 2 x K180",
+    "125mm, 25 Piece Set: 10 x K60, 10 x K80 and 5 x K120",
+    "125mm, 5 Piece Set: 1 x K60, 1 x K80, 2 x K120 and 1 x K180"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-dry-wall-sander-pads.html|>
+## Evolution Dry Wall Sander Pads
+
+{
+  "price": "€11.54 inc VAT",
+  "description": "Evolution Dry Wall Sander Pads suitable for Evolution dry wall sanders and are compatible with most makes that have a 225/230mm diameter head.",
+  "availability": "In Stock",
+  "product_name": "Evolution Dry Wall Sander Pads",
+  "specifications": [
+    "Select Option: 120 Grit (Pack of 6), 180 Grit (Pack of 6), 240 Grit (Pack of 6), 80G (Pack 6)"
+  ]
+}
+

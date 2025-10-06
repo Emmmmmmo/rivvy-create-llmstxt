@@ -1,0 +1,158 @@
+<|https://www.mydiy.ie/products/lessmann-x-lock-non-spark-bevel-brushes.html|>
+## Lessmann X-Lock Non-Spark Bevel Brushes
+
+{
+  "price": "€31.80 inc VAT",
+  "description": "These Lessmann X-Lock non-sparking brushes are suitable for use on hand-held angle grinders with the X-Lock fitting, they can be used for polishing, light deburring work, and removing rust, paint, dirt, and scale. The brush with steel wire is used for flexible work on large steel surfaces. The high-grade 'Made in Germany' quality is often used in the metalworking industry and in craft businesses, car workshops, and by staircase, railing and container builders. Features of the wire brushes are their dense filling and precise concentricity.",
+  "availability": "In Stock",
+  "product_name": "Lessmann X-Lock Non-Spark Bevel Brushes",
+  "specifications": [
+    "Select Option: Crimp Stainless Steel, 115mm, Crimped Steel, 115mm, Stainless Steel Knot, 115mm, Steel Knot, 115mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-x-lock-crimped-cup-brushes.html|>
+## Lessmann X-Lock Crimped Cup Brushes
+
+{
+  "price": "from €31.66 inc VAT",
+  "description": "These Lessmann X-Lock non-sparking brushes are suitable for use on hand-held angle grinders with the X-Lock fitting, they can be used for polishing, light deburring work, and removing rust, paint, dirt, and scale. The brush with steel wire is used for flexible work on large steel surfaces. The high-grade 'Made in Germany' quality is often used in the metalworking industry and in craft businesses, car workshops, and by staircase, railing and container builders. Features of the wire brushes are their dense filling and precise concentricity.",
+  "availability": "In Stock",
+  "product_name": "Lessmann X-Lock Crimped Cup Brushes",
+  "specifications": [
+    "Suitable for hand-held angle grinders with X-Lock fitting",
+    "Used for polishing, light deburring, and removing rust, paint, dirt, and scale",
+    "High-grade 'Made in Germany' quality",
+    "Dense filling and precise concentricity"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-diy-end-brush-with-shank-23mm-030-steel-wire.html|>
+## Lessmann DIY End Brush with Shank 23mm, 0.30 Steel Wire
+
+{
+  "price": "€10.21 inc VAT (€8.30 exc.vat)",
+  "description": "The Lessmann DIY Steel Wire End Brush is fitted with a 6mm shank. Ideal for working in hard-to-reach places such as drilled holes or recesses. For the removal of paint and the cleaning of moulds and castings.",
+  "availability": "Out of Stock",
+  "product_name": "Lessmann DIY End Brush with Shank 23mm, 0.30 Steel Wire",
+  "specifications": [
+    "Wire Type: Steel",
+    "Diameter: 23mm",
+    "Shank: 6mm",
+    "Wire Gauge: 0.30",
+    "Max. Speed: 12,000/rpm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-pipeline-brush.html|>
+## Lessmann Pipeline Brush
+
+{
+  "price": "€48.55 inc VAT",
+  "description": "Lessmann Pipeline Brushes are specially developed for professional use on U and V-welds in the pipeline industry. These high-quality Lessmann brushes have a long lifetime and are quiet when running. They are especially narrow and therefore they are the perfect tool for cleaning all welds at tube connections.",
+  "availability": "In Stock",
+  "product_name": "Lessmann Pipeline Brush",
+  "specifications": [
+    "40 Knots 125 x 22.2mm Bore Stainless Steel",
+    "40 Knots 125 x 22.2mm Bore Steel Wire",
+    "48 Knots 178 x 22.2mm Bore Stainless Steel Wire",
+    "48 Knots 178 x 22.2mm Bore Steel Wire"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-threaded-tube-brush.html|>
+## Lessmann Threaded Tube Brush
+
+{
+  "price": "€14.96 inc VAT",
+  "description": "Lessmann Tube Brush with external thread. These brushes are varied for many different uses: not only for cleaning of tubes, gratings, sleeves and cylinders. Available in different sizes and filling materials.",
+  "availability": "In Stock",
+  "product_name": "Lessmann Threaded Tube Brush",
+  "specifications": [
+    "Available in different sizes and filling materials",
+    "External thread for various cleaning uses"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-low-spark-cylinder-brushes.html|>
+## Lessmann Low Spark Cylinder Brushes
+
+{
+  "price": "from €25.74 inc VAT",
+  "description": "The Lessmann Cylinder Brush is used for manually removing rust, dirt, and paint. The bronze filling is suitable for processing soft and delicate surfaces, it is used in a wide variety of applications. It not only masters the cleaning of pipes, gratings, sleeves, and cylinders, but it is also suitable for deburring cross holes. When used internally, the diameter should match the workpiece. The high-grade 'Made in Germany' quality is often used in craft businesses, repair shops, industrial companies, DIY workshops, and in heating, air conditioning, and sanitary areas.",
+  "availability": "In Stock",
+  "product_name": "Lessmann Low Spark Cylinder Brushes",
+  "specifications": [
+    "Available sizes: 10mm, Ø20mm, Ø35mm",
+    "Bronze filling for soft and delicate surfaces",
+    "Used for cleaning pipes, gratings, sleeves, and cylinders",
+    "Suitable for deburring cross holes",
+    "High-grade 'Made in Germany' quality"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-cylinder-brush.html|>
+## Lessmann Cylinder Brush
+
+{
+  "price": "from €4.75 inc VAT",
+  "description": "Lessmann Cylinder Brush for manual cleaning and deburring of tubes, bores, etc.",
+  "availability": "In Stock",
+  "product_name": "Lessmann Cylinder Brush",
+  "specifications": [
+    "Select Option: 10 x 100mm Brass Wire",
+    "10 x 100mm Polyamide",
+    "10 x 100mm Stainless Steel Wire",
+    "10mm Steel Wire"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-x-lock-non-spark-knot-cup-brush.html|>
+## Lessmann X-Lock Non-Spark Knot Cup Brush
+
+{
+  "price": "from €31.14 inc VAT",
+  "description": "These Lessmann X-Lock non-sparking brushes are suitable for use on hand-held angle grinders with the X-Lock fitting, they can be used for polishing, light deburring work, and removing rust, paint, dirt, and scale. The brush with steel wire is used for flexible work on large steel surfaces. The high-grade 'Made in Germany' quality is often used in the metalworking industry and in craft businesses, car workshops, and by staircase, railing and container builders. Features of the wire brushes are their dense filling and precise concentricity.",
+  "availability": "In Stock",
+  "product_name": "Lessmann X-Lock Non-Spark Knot Cup Brush",
+  "specifications": [
+    "Stainless Steel, 85mm",
+    "Steel, 85mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-x-lock-non-spark-knot-wheel-brush.html|>
+## Lessmann X-Lock Non-Spark Knot Wheel Brush
+
+{
+  "price": "€35.15 inc VAT",
+  "description": "These Lessmann X-Lock non-sparking brushes are suitable for use on hand-held angle grinders with the X-Lock fitting, they can be used for polishing, light deburring work, and removing rust, paint, dirt, and scale. The brush with steel wire is used for flexible work on large steel surfaces. The high-grade 'Made in Germany' quality is often used in the metalworking industry and in craft businesses, car workshops, and by staircase, railing and container builders. Features of the wire brushes are their dense filling and precise concentricity.",
+  "availability": "In Stock",
+  "product_name": "Lessmann X-Lock Non-Spark Knot Wheel Brush",
+  "specifications": [
+    "Select Option: Stainless Steel, 115mm",
+    "Select Option: Stainless Steel, 125mm",
+    "Select Option: Steel, 115mm",
+    "Select Option: Steel, 125mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-knotted-wheel-brush-with-shank.html|>
+## Lessmann Knotted Wheel Brush with Shank
+
+{
+  "price": "from €21.62 inc VAT",
+  "description": "Lessmann Knotted Wheel Brushes are fitted with a 6mm shank. Ideal for removing under seal, rust, de-burring and roughening.",
+  "availability": "In Stock",
+  "product_name": "Lessmann Knotted Wheel Brush with Shank",
+  "specifications": [
+    "Select Option: 75 x 12mm 0.50 Steel Wire",
+    "75 x 16mm 0.50 Steel Wire",
+    "75 x 9mm 0.50 Steel Wire"
+  ]
+}
+

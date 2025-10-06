@@ -1,0 +1,2016 @@
+<|https://www.mydiy.ie/products/starrett-carbon-bandsaw-blades.html|>
+## Starrett Carbon Bandsaw Blades
+
+{
+  "price": "from €10.49 inc VAT",
+  "description": "The Starrett RG FB Carbon Bandsaw Blade is an economical blade with a flexible carbon steel back for general purpose cutting. For cutting applications in: wood, plastics, low alloy and non-ferrous metals. It come with the ability to run at high speed and is ideal for both contour and straight cutting. Use on vertical and horizontal machines.",
+  "availability": "In Stock",
+  "product_name": "Starrett Carbon Bandsaw Blades",
+  "specifications": [
+    "Flexible carbon steel back",
+    "Economical blade for general purpose cutting",
+    "Suitable for wood, plastics, low alloy and non-ferrous metals",
+    "Ideal for contour and straight cutting",
+    "Compatible with vertical and horizontal machines"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-intenss-pro-die-bi-metal-bandsaw-blade.html|>
+## Starrett Intenss PRO-DIE Bi Metal Bandsaw Blade
+
+{
+  "price": "€23.64 inc VAT",
+  "description": "Starrett Intenss PRO-DIE Bi Metal Bandsaw Blades have been specifically developed for use on portable bandsaw machines that have small diameter band wheels. Manufactured with a high-quality HSS edge, includes our patented technology, Bi-Metal Unique. This technology combines Starrett’s Bi-Metal Unique Multi-Edge and Split Chip Advantage Technologies to deliver faster and smoother cutting, alongside an enhanced blade life.",
+  "availability": "In Stock",
+  "product_name": "Starrett Intenss PRO-DIE Bi Metal Bandsaw Blade",
+  "specifications": [
+    "Select Option: 1335 x 13 x 0.65mm 10-14 Tooth Pitch",
+    "Select Option: 1335 x 13 x 0.65mm 18 Tooth Pitch",
+    "Select Option: 1440 x 13 x 0.65mm 10-14 Tooth Pitch",
+    "Select Option: 1440 x 13 x 0.65mm 18 Tooth Pitch",
+    "Select Option: 1735 x 13 x 0.90mm 10-14 Tooth Pitch"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b29-clean-cut-wood-jigsaw-blades-pack-5.html|>
+## Makita B29 Clean Cut Wood Jigsaw Blades (Pack 5)
+
+{
+  "price": "€15.71 inc VAT (€12.77 exc.vat)",
+  "description": "The Makita B29 Jigsaw Blades are ideal for scroll cutting (finishing) of wood and plastics. Symmetrical head-geometry with centring-tip for optimised results in the event of reinforcement.",
+  "availability": "Out of Stock",
+  "product_name": "Makita B29 Clean Cut Wood Jigsaw Blades (Pack 5)",
+  "specifications": [
+    "Capacity: Plywood/Plastic: 2-35mm",
+    "ID Code: B-29",
+    "Tooth Type/Set: Ground and Taper Ground Teeth",
+    "Tooth Spacing: 1.6mm",
+    "TPI: 16",
+    "Shank: Universal",
+    "Overall Length: 42mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b13-basic-cut-wood-jigsaw-blades-pack-5.html|>
+## Makita B13 Basic Cut Wood Jigsaw Blades (Pack 5)
+
+{
+  "price": "€4.90 inc VAT (€3.98 exc.vat)",
+  "description": "The Makita B13 Jigsaw Blades are ideal for general cutting of wood and plastics. Designed as an economical blade without compromising cutting performance. Application: Woodworking, Joinery & Jigsaws.",
+  "availability": "In Stock",
+  "product_name": "Makita B13 Basic Cut Wood Jigsaw Blades (Pack 5)",
+  "specifications": [
+    "Capacity: Plywood/Plastic: 4-65mm",
+    "ID Code: B-13",
+    "Tooth Type/Set: Milled and Side Set Teeth",
+    "Tooth Spacing: 3.2mm",
+    "TPI: 8",
+    "Shank: Universal",
+    "Overall Length: 80mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b16-speed-cut-wood-jigsaw-blades-pack-5.html|>
+## Makita B16 Speed Cut Wood Jigsaw Blades (Pack 5)
+
+{
+  "price": "€8.07 inc VAT (€6.56 exc.vat)",
+  "description": "The Makita B16 Jigsaw Blades are ideal for fast cutting of medium/thick workpieces. Symmetrical head-geometry with centring-tip for optimised results in the event of reinforcement. Application: Woodworking, Joinery, Kitchens.",
+  "availability": "In Stock",
+  "product_name": "Makita B16 Speed Cut Wood Jigsaw Blades (Pack 5)",
+  "specifications": [
+    "Capacity: Plywood/Plastic: 5-65mm",
+    "ID Code: B-16",
+    "Tooth Type/Set: Ground and Side Set Teeth",
+    "Tooth Spacing: 4.2mm",
+    "TPI: 6",
+    "Shank: Universal",
+    "Overall Length: 75mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b22-basic-cut-metal-jigsaw-blades-pack-5.html|>
+## Makita B22 Basic Cut Metal Jigsaw Blades (Pack 5)
+
+{
+  "price": "€7.06 inc VAT (€5.74 exc.vat)",
+  "description": "The Makita B22 Jigsaw Blades for mild steel, stainless steel and tough plastics, especially suited for thin plate. Cuts up to 3mm in most metals including stainless steel.",
+  "availability": "In Stock",
+  "product_name": "Makita B22 Basic Cut Metal Jigsaw Blades (Pack 5)",
+  "specifications": [
+    "Capacity: Aluminium/Stainless Steel/Mild Steel: 1-3mm, Plastics: 1-6mm",
+    "ID Code: B-22",
+    "Tooth Type/Set: B - Milled and Wavy Set Teeth",
+    "Tooth Spacing: 1.1mm",
+    "TPI: 24",
+    "Shank: Universal",
+    "Overall Length: 50mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b23-basic-cut-metal-jigsaw-blades-pack-5.html|>
+## Makita B23 Basic Cut Metal Jigsaw Blades (Pack 5)
+
+{
+  "price": "€6.79 inc VAT (€5.52 exc.vat)",
+  "description": "The Makita B23 Jigsaw Blades are excellent for non-ferrous metals and mild steel as well as decorative veneers and delicate cuts in wood.",
+  "availability": "In Stock",
+  "product_name": "Makita B23 Basic Cut Metal Jigsaw Blades (Pack 5)",
+  "specifications": [
+    "Capacity: Plywood/Plastics: 3-35mm, Aluminium: 2-6mm",
+    "ID Code: B-23",
+    "Tooth Type/Set: B - Milled and Wavy Set Teeth",
+    "Tooth Spacing: 1.8mm",
+    "TPI: 14",
+    "Shank: Universal",
+    "Overall Length: 50mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-saw-blade-190-x-30mm-x-24t40t60t-pack-3.html|>
+## Trend CraftPro Saw Blade 190 x 30mm x 24T/40T/60T (Pack 3)
+
+{
+  "price": "€41.43 inc VAT (€33.68 exc.vat)",
+  "description": "This Trend CraftPro Saw Blade Triple Pack contains a range of same diameter saw blades, designed for a professional finish in softwood, hardwood, plasterboard, stone fibreboard, particle board, veneer, plywood, MDF and hardboard. Microgranular Tungsten Carbide tipped to allow for cutting of abrasive materials. Silver brazed to ensure tips are securely bonded to body. With a reamed bore to ensure a precise spindle fit. Laser etched on reverse to European standard EN 847-1/2. Contains: 1 x CSB/19024 Combination Cut Saw Blade for Hand Held Saws 190 x 30mm x 24T, 1 x CSB/19040 General-Purpose Saw Blade for Hand Held Saws 190 x 30mm x 40T, 1 x CSB/19060 Saw Blade for Hand Held Saws 190 x 30mm x 60T",
+  "availability": "In Stock",
+  "product_name": "Trend CraftPro Saw Blade 190 x 30mm x 24T/40T/60T (Pack 3)",
+  "specifications": [
+    "Microgranular Tungsten Carbide tipped",
+    "Silver brazed for secure bonding",
+    "Reamed bore for precise spindle fit",
+    "Laser etched to European standard EN 847-1/2",
+    "Includes 3 saw blades: 24T, 40T, 60T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-mitre-saw-blade-216-x-30mm-x-24t48t60t-pack-3.html|>
+## Trend CraftPro Mitre Saw Blade 216 x 30mm x 24T/48T/60T (Pack 3)
+
+{
+  "price": "€120.28 inc VAT (€97.79 exc.vat)",
+  "description": "This Trend CraftPro Mitre Saw Blade Triple Pack contains a selection of same diameter Tungsten Carbide Tipped circular saw blades designed for a professional finish in hardwood, exotic rip, plywood rip, crosscut, softwood rip and chipboard laminated one-sided. The high-grade, alloy steel plate body has been precision ground to maintain flatness. Silver brazed to ensure tips are securely bonded to body. With a reamed bore to ensure a precise spindle fit. Laser etched on reverse to European standard EN 847-1/2. Contains: 1 x CSB/CC21624 Crosscut Mitre Saw Blade 216 x 30mm x 24T, 1 x CSB/CC21648 Medium/Fine Cut Mitre Saw Blade 216 x 30mm x 48T, 1 x CSB/CC21660 Fine Cut Mitre Saw Blade 216 x 30mm x 60T",
+  "availability": "Out of Stock",
+  "product_name": "Trend CraftPro Mitre Saw Blade 216 x 30mm x 24T/48T/60T (Pack 3)",
+  "specifications": [
+    "Diameter: 216mm",
+    "Bore: 30mm",
+    "Teeth: 24T/48T/60T",
+    "Material: Tungsten Carbide Tipped",
+    "Pack: 3 blades"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-table-saw-blade-250-x-30mm-x-48t60t84t-pack-3.html|>
+## Trend CraftPro Table Saw Blade 250 x 30mm x 48T/60T/84T (Pack 3)
+
+{
+  "price": "€82.94 inc VAT (€67.43 exc.vat)",
+  "description": "This Trend CraftPro Table Saw Blade Triple Pack contains a selection of same diameter Tungsten Carbide Tipped circular saw blades, designed for a professional finish in hardwood, exotic rip, plywood rip, crosscut, softwood rip and chipboard laminated one-sided. High-grade alloy steel plate body precision ground to maintain flatness. Silver brazed to ensure tips are securely bonded to body. With a reamed bore to ensure a precise spindle fit. Laser etched on reverse to European standard EN 847-1/2. Contains: 1 x CSB/25048 General-Purpose Table Saw Blade 250 x 30mm x 48T, 1 x CSB/25060 Fine Finish Table Saw Blade 250 x 30mm x 60T, 1 x CSB/AP25084 Aluminium & Plastic Table Saw Blade 250 x 30mm x 84T",
+  "availability": "In Stock",
+  "product_name": "Trend CraftPro Table Saw Blade 250 x 30mm x 48T/60T/84T (Pack 3)",
+  "specifications": [
+    "Diameter: 250mm",
+    "Bore: 30mm",
+    "Teeth: 48T/60T/84T",
+    "Material: Tungsten Carbide Tipped",
+    "Pack: 3 blades"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-plunge-saw-blade.html|>
+## Trend CraftPro Plunge Saw Blade
+
+{
+  "price": "€36.44 inc VAT",
+  "description": "The Trend CraftPro Plunge Saw Blade is designed to provide a professional finish in particle board, plywood, MDF and hardboard. It has a high-grade, hardened and tempered, alloy steel plate body that has been precision ground to maintain flatness. Silver brazed to ensure tips are securely bonded to body. With a reamed bore to ensure a precise spindle fit. Laser etched on reverse to European standard EN 847-1/2.",
+  "availability": "In Stock",
+  "product_name": "Trend CraftPro Plunge Saw Blade",
+  "specifications": [
+    "160 x 20mm x 48T, Pack of 3",
+    "160 x 20mm x 48T",
+    "165 x 20mm x 48T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-cordless-saw-blade-triple-pack.html|>
+## Trend CraftPro Cordless Saw Blade Triple Pack
+
+{
+  "price": "€29.80 inc VAT",
+  "description": "Trend CraftPro Cordless Saw Blade, designed for a professional finish in softwood, hardwood, plasterboard, stone fibreboard, particle board, veneer, plywood, MDF and hardboard. Thin kerf, ideal for cordless saws. High-grade alloy steel plate body precision ground to maintain flatness. Silver brazed to ensure tips are securely bonded to body. With a reamed bore to ensure a precise spindle fit. Laser etched on reverse to European standard EN 847-1/2.",
+  "availability": "In Stock",
+  "product_name": "Trend CraftPro Cordless Saw Blade Triple Pack",
+  "specifications": [
+    "165 x 20mm x 24T/40T, Pack of 3",
+    "165 x 20mm x 24T/40T/52T, Pack of 3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-panel-trim-saw-blade.html|>
+## Trend CraftPro Panel Trim Saw Blade
+
+{
+  "price": "€54.71 inc VAT",
+  "description": "The Trend CraftPro Plunge Saw Blade is designed to provide a professional finish in particle board, plywood, MDF and hardboard. It has a high-grade, hardened and tempered, alloy steel plate body that has been precision ground to maintain flatness. Silver brazed to ensure tips are securely bonded to body. With a reamed bore to ensure a precise spindle fit. Laser etched on reverse to European standard EN 847-1/2.",
+  "availability": "In Stock",
+  "product_name": "Trend CraftPro Panel Trim Saw Blade",
+  "specifications": [
+    "165 x 20mm x 48T Pack of 3",
+    "High-grade, hardened and tempered alloy steel plate body",
+    "Precision ground to maintain flatness",
+    "Silver brazed tips for secure bonding",
+    "Reamed bore for precise spindle fit",
+    "Laser etched to European standard EN 847-1/2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-makblade-tct-circular-saw-blade.html|>
+## Makita MAKBLADE® TCT Circular Saw Blade
+
+{
+  "price": "from €45.15 inc VAT",
+  "description": "High-grade, precision honed tungsten carbide tips. Fully hardened and tensioned blade. Thin kerf for less waste and reduced motor pressure. For all makes and models of mitre and slide compound mitre saws, including cordless saws.",
+  "availability": "In Stock",
+  "product_name": "Makita MAKBLADE® TCT Circular Saw Blade",
+  "specifications": [
+    "Select Option: 235 x 30mm x 20T, 260 x 30mm x 40T",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-mforce-portable-saw-blades.html|>
+## Makita MForce™ Portable Saw Blades
+
+{
+  "price": "€34.43 inc VAT (€27.99 exc.vat)",
+  "description": "The Makita MForce™ Portable Saw Blades have a revolutionary tooth design that sets a new benchmark for blade technology. The dual bevelled tooth face has sharper cutting edges and the 'M' shape is like doubling the tooth count per blade. A greater wear area and more cutting surfaces means the MForce™ blade will last up to 2x longer than traditional blades. A narrow kerf and plate reduces friction allowing for a lighter feed pressure, protecting the motor of your saw. Ideal for all applications in wood, cross and rip cutting, joinery etc.",
+  "availability": "Out of Stock",
+  "product_name": "Makita MForce™ Portable Saw Blades",
+  "specifications": [
+    "165 x 30mm x 24T",
+    "210 x 30 x 16TB-07967 MForce™ Portable Saw Blade",
+    "190 x 30mm x 12TB-07973 MForce Portable Saw Blade",
+    "B-32007 MForce Portable Saw Blade 165 x 20mm x 24T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-makforce-tct-circular-saw-blade.html|>
+## Makita MAKFORCE TCT Circular Saw Blade
+
+{
+  "price": "€36.52 inc VAT",
+  "description": "High-grade, precision honed tungsten carbide tips. Fully hardened and tensioned blade. Thin kerf for less waste and reduced motor pressure. For all makes and models of portable circular saw.",
+  "availability": "In Stock",
+  "product_name": "Makita MAKFORCE TCT Circular Saw Blade",
+  "specifications": [
+    "Select Option: 165 x 20mm x 10T, 180 x 30mm x 40T, 185 x 16mm x 16T, 210 x 30mm x 40T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-makblade-plus-tct-circular-saw-blade.html|>
+## Makita MAKBLADE PLUS® TCT Circular Saw Blade
+
+{
+  "price": "€72.73 inc VAT",
+  "description": "High-grade, precision honed tungsten carbide tips. Precision plate tensioning for a flatter blade and truer cut. Anti-rust, ultra-low friction coating. Vibration dampening system. For all mitre and table saws.",
+  "availability": "In Stock",
+  "product_name": "Makita MAKBLADE PLUS® TCT Circular Saw Blade",
+  "specifications": [
+    "Select Option: 260 x 30mm x 60T",
+    "260 x 30mm x 70T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-specialized-blade-for-cordless-saws-wood.html|>
+## Makita Specialized Blade for Cordless Saws, Wood
+
+{
+  "price": "€28.81 inc VAT",
+  "description": "The Makita B-09173 Circular Saw Blade for wood cutting with the most popular cordless circular saw models. With ultra-thin, perfectly tensioned steel plates for true run. Made from precision honed, high-grade carbide for easy, smooth cuts and long life.",
+  "availability": "In Stock",
+  "product_name": "Makita Specialized Blade for Cordless Saws, Wood",
+  "specifications": [
+    "Select Option: 150 x 10mm x 40T",
+    "165 x 20mm x 24T",
+    "165 x 20mm x 40T",
+    "165 x 20mm x 56T",
+    "85 x 15mm x 20T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-specialized-for-aluminium-cutting-blade.html|>
+## Makita Specialized for Aluminium Cutting Blade
+
+{
+  "price": "€142.75 inc VAT",
+  "description": "The Makita Specialized for Aluminium Cutting Blade provides excellent cutting performance in aluminium, copper, brass, bronze and other non-ferrous metals. Suitable for use with portable, mitre and table saws. Precision plate tensioning for a flatter blade and truer cuts. The blades are also suitable for working on plastics and laminated wood.",
+  "availability": "In Stock",
+  "product_name": "Makita Specialized for Aluminium Cutting Blade",
+  "specifications": [
+    "260 x 30mm x 80T",
+    "Suitable for aluminium, copper, brass, bronze, and other non-ferrous metals",
+    "Compatible with portable, mitre, and table saws",
+    "Precision plate tensioning for flatter blade and truer cuts",
+    "Also suitable for plastics and laminated wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-specialized-for-metal-cutting-saw-blade.html|>
+## Makita Specialized for Metal Cutting Saw Blade
+
+{
+  "price": "€59.91 inc VAT",
+  "description": "Makita Specialized for Metal Cutting Saw Blades have been designed for fast, clean cuts in mild steel, sheet, pipe, channel and threaded rod. Especially formulated carbide is combined with a special tip design to resist breakage on impact and to provide increased life. These blades are low sparking with minimal dust production for cool cuts with burr free edges.",
+  "availability": "In Stock",
+  "product_name": "Makita Specialized for Metal Cutting Saw Blade",
+  "specifications": [
+    "150 x 20mm x 32T",
+    "185 x 30mm x 38T",
+    "305 x 25.4mm x 60T",
+    "305 x 30mm x 36T",
+    "B-33526 Metal Cutting Circular Saw Blade 136 x 20mm x 30T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tct-portable-circular-saw-blade-wood.html|>
+## Makita TCT Portable Circular Saw Blade, Wood
+
+{
+  "price": "€23.16 inc VAT",
+  "description": "Made of cemented carbide. Does not require frequent sharpening. Best suited to cutting wood, laminated wood, plywood etc. For portable saws.",
+  "availability": "In Stock",
+  "product_name": "Makita TCT Portable Circular Saw Blade, Wood",
+  "specifications": [
+    "Triple Pack: 165 x 20mm x 16T, 165 x 20mm x 24T, 165 x 20mm x 40T",
+    "Triple Pack: 235 x 30mm x 20T, 235 x 30mm x 48T, 235 x 30mm x 60T",
+    "165 x 20mm x 24T",
+    "185 x 30mm x 16T",
+    "185 x 30mm x 40T",
+    "235 x 30mm x 20T",
+    "235 x 30mm x 48T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-csc14018c-140x18tx1588b-15k-tct-blade.html|>
+## Makita Csc14018C 140X18Tx15.88B 1.5K Tct Blade
+
+{
+  "price": "€43.12 inc VAT (€35.06 exc.vat)",
+  "description": "Csc14018C 140X18Tx15.88B 1.5K Tct Blade",
+  "availability": "Out of Stock",
+  "product_name": "Makita Csc14018C 140X18Tx15.88B 1.5K Tct Blade",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-08458-180x20x40t-wcut-sblade.html|>
+## Makita B-08458 180X20X40T W/Cut S/Blade
+
+{
+  "price": "€56.26 inc VAT (€45.74 exc.vat)",
+  "description": "B-08458 180X20X40T W/Cut S/Blade",
+  "availability": "Out of Stock",
+  "product_name": "Makita B-08458 180X20X40T W/Cut S/Blade",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-msm30560gla-305x60tx30b-26k-tct-blade.html|>
+## Makita Msm30560Gla 305X60Tx30B 2.6K Tct Blade
+
+{
+  "price": "€188.01 inc VAT (€152.85 exc.vat)",
+  "description": "Msm30560Gla 305X60Tx30B 2.6K Tct Blade",
+  "availability": "Out of Stock",
+  "product_name": "Makita Msm30560Gla 305X60Tx30B 2.6K Tct Blade",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-09612-specialized-for-aluminium-cutting-saw-blade-190-x-20mm-x-60t.html|>
+## Makita B-09612 Specialized for Aluminium Cutting Saw Blade 190 x 20mm x 60T
+
+{
+  "price": "€81.51 inc VAT (€66.27 exc.vat)",
+  "description": "B-09612 Specialized for Aluminium Cutting Saw Blade 190 x 20mm x 60T",
+  "availability": "Out of Stock",
+  "product_name": "Makita B-09612 Specialized for Aluminium Cutting Saw Blade 190 x 20mm x 60T",
+  "specifications": [
+    "Specialized for Aluminium Cutting",
+    "Size: 190 x 20mm",
+    "Teeth: 60T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-msa305100g-305x100tx30b-23k-tct-blade.html|>
+## Makita Msa305100G 305X100Tx30B 2.3K Tct Blade
+
+{
+  "price": "€151.01 inc VAT (€122.77 exc.vat)",
+  "description": "Msa305100G 305X100Tx30B 2.3K Tct Blade",
+  "availability": "Out of Stock",
+  "product_name": "Makita Msa305100G 305X100Tx30B 2.3K Tct Blade",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-29430-specialized-for-laminate-cutting-blade-85-x-15mm-x-24t.html|>
+## Makita B-29430 Specialized for Laminate Cutting Blade
+
+{
+  "price": "€38.79 inc VAT (€31.54 exc.vat)",
+  "description": "B-29430 Specialized for Laminate Cutting Blade 85 x 15mm x 24T",
+  "availability": "Out of Stock",
+  "product_name": "Makita B-29430 Specialized for Laminate Cutting Blade",
+  "specifications": [
+    "Blade Size: 85 x 15mm",
+    "Teeth: 24T",
+    "Specialized for laminate cutting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craft-pro-saw-blade-for-cordless-saws.html|>
+## Trend Craft Pro Saw Blade for Cordless Saws
+
+{
+  "price": "€17.42 inc VAT",
+  "description": "Microgranular tungsten carbide tips for a pro finish in soft/hardwood, plasterboard, particle board, MDF etc. Hardened and tempered, high-grade alloy steel body. Silverbraze to ensure tip is bonded securely to body. Reamed bore to ensure precise fit to spindle.",
+  "availability": "In Stock",
+  "product_name": "Trend Craft Pro Saw Blade for Cordless Saws",
+  "specifications": [
+    "165 x 15.88mm x 24T",
+    "165 x 15.88mm x 48T",
+    "165 x 20mm x 24T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craft-pro-saw-blade-extra-fine-finish.html|>
+## Trend Craft Pro Saw Blade, Extra Fine Finish
+
+{
+  "price": "from €42.19 inc VAT",
+  "description": "Microgranular tungsten carbide tips for a pro finish in soft/hardwood, plywood, cement bonded board etc. Hardened and tempered, high-grade alloy steel body. Silverbraze to ensure tip is bonded securely to body. Reamed bore to ensure precise fit to spindle.",
+  "availability": "In Stock",
+  "product_name": "Trend Craft Pro Saw Blade, Extra Fine Finish",
+  "specifications": [
+    "Select Option: 190 x 30mm x 60T, 250 x 30mm x 80T",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craft-pro-saw-blade-for-aluminium-and-plastic.html|>
+## Trend Craft Pro Saw Blade for Aluminium & Plastic
+
+{
+  "price": "€48.52 inc VAT",
+  "description": "Microgranular tungsten carbide tips for a professional finish in plastic and alloy. Hardened and tempered, high-grade alloy steel body. Silverbraze to ensure tip is bonded securely to body. Reamed bore to ensure precise fit to spindle.",
+  "availability": "In Stock",
+  "product_name": "Trend Craft Pro Saw Blade for Aluminium & Plastic",
+  "specifications": [
+    "Select Option: 165 x 20mm x 48T, 190 x 30mm x 60T, 254 x 30mm x 80T, 305 x 30mm x 84T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-mitre-saw-blade.html|>
+## Trend CraftPro Mitre Saw Blade
+
+{
+  "price": "€52.71 inc VAT (€42.85 exc.vat)",
+  "description": "Tungsten carbide tips for a pro finish in hardwood, exotic rip, crosscut, softwood rip, chipboard etc. Hardened and tempered, high-grade alloy steel body. Silverbraze to ensure tip is bonded securely to body. Reamed bore to ensure precise fit to spindle.",
+  "availability": "Out of Stock",
+  "product_name": "Trend CraftPro Mitre Saw Blade",
+  "specifications": [
+    "Option: 215 x 30mm x 60T, 216 x 30mm x 64T, 250 x 30mm x 24T, 250 x 30mm x 42T, 260 x 30mm x 42T, 260 x 30mm x 72T, 305 x 30mm x 64T",
+    "CSB/CC21660 CraftPro Mitre Saw Blade 216 x 30mm x 60T",
+    "List Price: €78.08",
+    "You save: €25.37"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craft-pro-saw-blade-medium-and-fine-finish.html|>
+## Trend Craft Pro Saw Blade, Medium & Fine Finish
+
+{
+  "price": "€19.84 inc VAT",
+  "description": "Microgranular tungsten carbide tips for a pro finish in particle board, veneered board, plywood MDF etc. Hardened and tempered, high-grade alloy steel body. Silverbraze to ensure tip is bonded securely to body. Reamed bore to ensure precise fit to spindle.",
+  "availability": "In Stock",
+  "product_name": "Trend Craft Pro Saw Blade, Medium & Fine Finish",
+  "specifications": [
+    "Select Option: 165 x 30mm x 48T",
+    "180 x 30mm x 40T",
+    "184 x 20mm x 40T",
+    "215 x 30mm x 48T",
+    "215 x 30mm x 60T",
+    "250 x 30mm x 60T",
+    "300 x 30mm x 72T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craft-pro-saw-blade-medium-and-coarse-finish.html|>
+## Trend Craft Pro Saw Blade, Medium & Coarse Finish
+
+{
+  "price": "€24.06 inc VAT",
+  "description": "Microgranular tungsten carbide tips for a pro finish in soft/hardwood, exotic rip, plasterboard, particle board etc. Hardened and tempered, high-grade alloy steel body. Silverbraze to ensure tip is bonded securely to body. Reamed bore to ensure precise fit to spindle.",
+  "availability": "In Stock",
+  "product_name": "Trend Craft Pro Saw Blade, Medium & Coarse Finish",
+  "specifications": [
+    "Select Option: 190 x 16mm x 24T, 230 x 30mm x 24T, 235 x 30mm x 24T, 250 x 30mm x 24T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craft-pro-saw-blade-medium-finish.html|>
+## Trend Craft Pro Saw Blade, Medium Finish
+
+{
+  "price": "€24.07 inc VAT",
+  "description": "Microgranular tungsten carbide tips for a pro finish in soft/hardwood, plasterboard, cement bonded board etc. Hardened and tempered, high-grade alloy steel body. Silverbraze to ensure tip is bonded securely to body. Reamed bore to ensure precise fit to spindle.",
+  "availability": "In Stock",
+  "product_name": "Trend Craft Pro Saw Blade, Medium Finish",
+  "specifications": [
+    "Select Option: 140 x 20mm x 24T, 210 x 30mm x 48T, 230 x 30mm x 40T, 300 x 30mm x 48T, 350 x 30mm x 64T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-tct-mitre-saw-blade-wood.html|>
+## Makita TCT Mitre Saw Blade, Wood
+
+{
+  "price": "€73.20 inc VAT",
+  "description": "Carbide tips. Does not require frequent sharpening. Cuts aluminium and wood. For mitre saws.",
+  "availability": "In Stock",
+  "product_name": "Makita TCT Mitre Saw Blade, Wood",
+  "specifications": [
+    "260 x 30mm x 100T",
+    "260 x 30mm x 70T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-aluminium-cutting-chop-saw-blade-355-x-254mm-x-80t.html|>
+## Evolution Aluminium Cutting Chop Saw Blade 355 x 25.4mm x 80T
+
+{
+  "price": "€167.70 inc VAT (€136.34 exc.vat)",
+  "description": "Evolution tungsten carbide tipped Aluminium Cutting Chop Saw Blade uses the highest-grade Japanese sourced carbide, a hardened steel blade body and ultra-precise brazing to create a fast cutting, long-lasting and vibration-free saw blade. Its narrow kerf design keeps wasted material to a minimum and saves you money with every cut. Ideal for all grades of aluminium and non-ferrous metals.",
+  "availability": "In Stock",
+  "product_name": "Evolution Aluminium Cutting Chop Saw Blade 355 x 25.4mm x 80T",
+  "specifications": [
+    "Diameter: 355mm",
+    "Bore: 25.4mm",
+    "Teeth: 80",
+    "Kerf: 2.4mm",
+    "Max. Speed: 1,600/rpm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-aluminium-cutting-circular-saw-blade.html|>
+## Evolution Aluminium Cutting Circular Saw Blade
+
+{
+  "price": "€69.22 inc VAT",
+  "description": "Evolution tungsten carbide tipped, Aluminium Cutting Circular Saw Blade uses the highest-grade Japanese sourced carbide, a hardened steel blade body and ultra-precise brazing to create a fast cutting, long-lasting and vibration-free saw blade. Its narrow kerf design keeps wasted material to a minimum and saves you money with every cut. Ideal for all grades of aluminium and non-ferrous metals.",
+  "availability": "In Stock",
+  "product_name": "Evolution Aluminium Cutting Circular Saw Blade",
+  "specifications": [
+    "180 x 20mm x 54T",
+    "185 x 20mm x 60T",
+    "210 x 25.4mm x 60T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-aluminium-cutting-mitre-saw-blade.html|>
+## Evolution Aluminium Cutting Mitre Saw Blade
+
+{
+  "price": "from €98.19 inc VAT",
+  "description": "Evolution tungsten carbide tipped, Aluminium Cutting Mitre Saw Blade uses the highest-grade Japanese sourced carbide, a hardened steel blade body and ultra-precise brazing to create a fast cutting, long-lasting and vibration-free saw blade. Its narrow kerf design keeps wasted material to a minimum and saves you money with every cut. Ideal for all grades of aluminium and non-ferrous metals.",
+  "availability": "In Stock",
+  "product_name": "Evolution Aluminium Cutting Mitre Saw Blade",
+  "specifications": [
+    "210 x 25.4mm x 60T",
+    "230 x 25.4mm x 80T",
+    "255 x 25.4mm x 80T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-fury-multipurpose-tct-circular-saw-blade-1.html|>
+## Evolution FURY® Multipurpose TCT Circular Saw Blade
+
+{
+  "price": "€22.03 inc VAT",
+  "description": "The Evoultion FURY® Multipurpose TCT Circular Saw Blade cuts through mild steel, aluminium, plastics and wood, even wood with nails. The hardened blade body ensures the blade runs truer for longer and is an invaluable addition to any home workshop. An Evolution designed TCT tooth configuration combined with high-grade carbide teeth, enables fast efficient cuts and increased durability. Made in Japan.",
+  "availability": "In Stock",
+  "product_name": "Evolution FURY® Multipurpose TCT Circular Saw Blade",
+  "specifications": [
+    "185 x 20mm",
+    "210 x 25.4mm x 20T",
+    "255 x 25.4mm x 24T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-fine-wood-mitretable-saw-blade.html|>
+## Evolution Fine Wood Mitre/Table Saw Blade
+
+{
+  "price": "from €33.06 inc VAT",
+  "description": "Evolution Fine Wood Mitre/Table Saw Blade for perfectly smooth finishing cuts in wood. Ultra-tough tungsten carbide teeth with ATB pattern and advanced face grind for a beautifully smooth cut with no splintering. The hardened steel body with expansion slots ensures this blade runs true and cuts accurately. Evolution saw blades are created to deliver maximum performance and value for money.",
+  "availability": "In Stock",
+  "product_name": "Evolution Fine Wood Mitre/Table Saw Blade",
+  "specifications": [
+    "Select Option: 185 x 20mm x 40T, 210 x 25.4mm x 40T, 255 x 25.4mm x 60T",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-mild-steel-cutting-circular-saw-blade-1.html|>
+## Evolution Mild Steel Cutting Circular Saw Blade
+
+{
+  "price": "€52.87 inc VAT",
+  "description": "Evolution Mild Steel Cutting Circular Saw Blade delivers maximum performance by using the highest grade carbide, hardened blade bodies and ultra high-grade brazing techniques to increase production and performance. Produces clean, accurate cuts that are cool enough to handle immediately and ready to weld straight off the saw. Designed to deliver maximum cutting performance and precision to metalworkers and fabricators.",
+  "availability": "In Stock",
+  "product_name": "Evolution Mild Steel Cutting Circular Saw Blade",
+  "specifications": [
+    "185 x 20mm x 40T",
+    "210 x 25.4mm x 50T",
+    "230 x 25.4mm x 48T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-cordless-saw-blade-190-x-30mm-x-60t.html|>
+## Trend CraftPro Cordless Saw Blade 190 x 30mm x 60T
+
+{
+  "price": "€43.47 inc VAT (€35.34 exc.vat)",
+  "description": "This Trend CraftPro Cordless Saw Blade produces a professional finish in soft wood, hard wood, plasterboard, stone fibre board, particle board, veneer, plywood, MDF and hardboard. Its reamed bore ensures precise fit to the spindle. The high grade alloy steel plate body has been precision ground to maintain flatness. It has also been hardened and tempered to maintain trueness. Laser etched on reverse to European standard EN847-1/2.",
+  "availability": "Out of Stock",
+  "product_name": "Trend CraftPro Cordless Saw Blade 190 x 30mm x 60T",
+  "specifications": [
+    "Diameter: 190mm",
+    "Bore: 30mm",
+    "Kerf: 1.6mm",
+    "Plate Thickness: 1.0mm",
+    "No. of Teeth: 60",
+    "Tooth Form: ATB + Raker",
+    "Hook: 25°",
+    "Cut Finish: Extra Fine"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-metalmax-cut-off-disc.html|>
+## LENOX METALMAX™ Cut Off Disc
+
+{
+  "price": "€20.89 inc VAT",
+  "description": "LENOX METALMAX™ Cut Off Disc is made for extreme durability and maximum work efficiency. Generates less odor and dust residue as the wheel does not wear down like bonded abrasives. Visible sparks originate only from the material being cut. Its solid steel body reduces the risk of breakage. They feature an extra layer of brazed diamonds on the top and bottom of the rim, allows users to not only cut but also do light grinding and deburring.",
+  "availability": "In Stock",
+  "product_name": "LENOX METALMAX™ Cut Off Disc",
+  "specifications": [
+    "Available Sizes: 115 x 1.3 x 22.23mm, 125 x 1.3 x 22.23mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "Free delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-metalmax-diamond-blade.html|>
+## LENOX METALMAX™ Diamond Blade
+
+{
+  "price": "from €50.07 inc VAT",
+  "description": "The LENOX METALMAX™ Diamond Blade made for extreme durability and maximum work efficiency. Generates less odor and dust residue as the wheel does not wear down like bonded abrasives. Visible sparks originate only from the material being cut. Its solid steel body reduces the risk of breakage. They feature an extra layer of brazed diamonds on the top and bottom of the rim, allows users to not only cut but also do light grinding and deburring.",
+  "availability": "In Stock",
+  "product_name": "LENOX METALMAX™ Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 2.0 x 22.23mm, 125 x 2.0 x 22.23mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-tpx90-tri-purpose-diamond-blade-300-x-20mm.html|>
+## MEXCO TPX90 Tri Purpose Diamond Blade 300 x 20mm
+
+{
+  "price": "€110.65 inc VAT (€89.96 exc.vat)",
+  "description": "The MEXCO TPX90 Tri Purpose Diamond Blade is ideal for the most common applications. Suitable for cutting most materials such as; Reinforced Concrete, Concrete Block, Asphalt, Ductile Iron, Granite, Engineering Brick, Limestone and Breeze Blocks.",
+  "availability": "In Stock",
+  "product_name": "MEXCO TPX90 Tri Purpose Diamond Blade 300 x 20mm",
+  "specifications": [
+    "Size: 300 x 20mm",
+    "Suitable for cutting various materials including reinforced concrete, asphalt, and granite.",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-uhxcel-grade-porcelain-and-ceramic-tile-diamond-blade-115-x-22mm.html|>
+## MEXCO UHXCEL Grade Porcelain & Ceramic Tile Diamond Blade 115 x 22mm
+
+{
+  "price": "€27.91 inc VAT (€22.69 exc.vat)",
+  "description": "MEXCO UHXCEL Grade Porcelain & Ceramic Tile Diamond Blade. Developed to offer fast cutting of hard natural stone products and man made fired materials such as porcelain and ceramic. A ventilated steel centre provides rapid heat dispersion. Segment Height: 10mm.",
+  "availability": "In Stock",
+  "product_name": "MEXCO UHXCEL Grade Porcelain & Ceramic Tile Diamond Blade 115 x 22mm",
+  "specifications": [
+    "Segment Height: 10mm",
+    "Developed for fast cutting of hard natural stone and man-made materials",
+    "Ventilated steel centre for rapid heat dispersion"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-abrasive-materials-x10-grade-diamond-blade.html|>
+## MEXCO Abrasive Materials X10 Grade Diamond Blade
+
+{
+  "price": "€8.17 inc VAT",
+  "description": "The MEXCO Abrasive Materials X10 Grade Diamond Blade offers the user extended product lifetime when cutting abrasive building materials like medium density concrete blocks and lignacite products due to its harder segment bond. Great value diamond blade offering superb cutting performance; specifically designed and manufactured for the purpose of cutting abrasive materials. The harder segment bond offers the user an extended cutting life over the General Purpose Diamond Blade. Suitable for wet and dry cutting.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Abrasive Materials X10 Grade Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22.23mm, 125 x 22.23mm, 230 x 22mm, 300 x 20mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "Delivery Charges: FREE for orders over €150, €8.99 for orders under €150",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-abrasive-materials-x90-grade-diamond-blade.html|>
+## MEXCO Abrasive Materials X90 Grade Diamond Blade
+
+{
+  "price": "€32.90 inc VAT",
+  "description": "The MEXCO Abrasive Materials X90 Grade Diamond Blade offers the user extended product lifetime when cutting abrasive building materials like medium density concrete blocks and lignacite products due to its harder segment bond. Great value diamond blade offering superb cutting performance; specifically designed and manufactured for the purpose of cutting abrasive materials. The harder segment bond offers the user an extended cutting life over the General Purpose Diamond Blade. Suitable for wet and dry cutting.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Abrasive Materials X90 Grade Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22mm, 125 x 22mm, 150 x 22mm, 180 x 22mm, 230 x 22mm, 300 x 20mm, 350 x 20mm, 350 x 25mm, 450 x 25mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-asphalt-looping-diamond-blade.html|>
+## MEXCO Asphalt Looping Diamond Blade
+
+{
+  "price": "€393.03 inc VAT",
+  "description": "The Mexco Asphalt Looping Diamond Blades are specifically designed to produce predetermined width slots in Asphalt to insert detector loops. For use on Floor Saws only.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Asphalt Looping Diamond Blade",
+  "specifications": [
+    "Select Option: 350 x 25.4mm x 10mm Width",
+    "350 x 25.4mm x 12mm Width",
+    "350 x 25.4mm x 6mm Width",
+    "350 x 25.4mm x 8mm Width"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-asphalt--x10-grade-diamond-blade.html|>
+## MEXCO Asphalt X10 Grade Diamond Blade
+
+{
+  "price": "€65.13 inc VAT",
+  "description": "The MEXCO Asphalt X10 Grade Diamond Blades offer fast stock removal and excellent performance when used for cutting the most abrasive of applications such as Asphalt, Green Concrete and Cement Screed. The ASX10 is an entry level Asphalt Blade designed to give a good performance for a great price. Perfect for users not cutting on a regular basis or for one-off jobs.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Asphalt X10 Grade Diamond Blade",
+  "specifications": [
+    "Select Option: 300 x 20mm, 350 x 20mm, 350 x 25.4mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-asphalt--x90-grade-diamond-blade.html|>
+## MEXCO Asphalt X90 Grade Diamond Blade
+
+{
+  "price": "€127.55 inc VAT",
+  "description": "The MEXCO Asphalt X90 Grade Diamond Blades have been developed to offer a longer cutting life. Designed for users cutting on a more regular basis, or a one-off job which lasts more than several cuts. The blade is manufactured using the latest techniques such as undercutting protection and laser welded segment attachment. A premium blade, excellent value for money.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Asphalt X90 Grade Diamond Blade",
+  "specifications": [
+    "Select Option: 300 x 20mm",
+    "350 x 25.4mm",
+    "450 x 25mm",
+    "500 x 25.4mm",
+    "600 x 25.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-asphalt-xcel-grade-diamond-blade.html|>
+## MEXCO Asphalt XCEL Grade Diamond Blade
+
+{
+  "price": "€150.93 inc VAT",
+  "description": "The MEXCO Asphalt XCEL Grade Diamond Blade is a superior diamond cutting blade. Developed to meet the needs of contractors and builders who cut on a regular basis and demand a superior cut every time. Offers fast stock removal and excellent performance when used for cutting the most abrasive of applications such as Asphalt, green concrete and cement screed.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Asphalt XCEL Grade Diamond Blade",
+  "specifications": [
+    "Select Option: 300 x 20mm",
+    "350 x 20mm",
+    "350 x 25.4mm",
+    "400 x 20mm",
+    "400 x 25.4mm",
+    "450 x 25.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-x90-grade-twin-row-cup-grinder.html|>
+## MEXCO X90 Grade Twin Row Cup Grinder
+
+{
+  "price": "€63.16 inc VAT",
+  "description": "MEXCO X90 Grade Twin Row Cup Grinders are designed for use in conjunction with grinding machines and angle grinders for the preparation or finishing of construction site materials. These products are especially suited for the preparation or repair of concrete and natural stone, the twin row segment allows fast stock removal.",
+  "availability": "In Stock",
+  "product_name": "MEXCO X90 Grade Twin Row Cup Grinder",
+  "specifications": [
+    "Select Option: 115mm, 125mm, 180mm, 230mm",
+    "EMC (Environmental Management Cost) Included in the purchase price: Gas discharge lamps, LFLs and CFLs €0.15, LED lamps and luminaires €0.05, Large appliances €5.00",
+    "Delivery Information: FREE delivery for orders over €150 within Ireland, Orders under €150: €8.99 delivery fee, International delivery: Charges based on weight."
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-x90-grade-cup-grinder.html|>
+## MEXCO X90 Grade Cup Grinder
+
+{
+  "price": "€66.31 inc VAT",
+  "description": "The MEXCO X90 Grade Cup Grinders are designed for use in conjunction with grinding machines and angle grinders for the preparation or finishing of construction site materials. These products are especially suited for the preparation or repair of concrete and natural stone, the turbo segment offers a smoother finish.",
+  "availability": "In Stock",
+  "product_name": "MEXCO X90 Grade Cup Grinder",
+  "specifications": [
+    "Available sizes: 115mm, 125mm, 180mm",
+    "Designed for use with grinding machines and angle grinders",
+    "Suitable for preparation or repair of concrete and natural stone",
+    "Turbo segment for smoother finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-concrete-looping-diamond-blade.html|>
+## MEXCO Concrete Looping Diamond Blade
+
+{
+  "price": "€393.03 inc VAT",
+  "description": "MEXCO Concrete Looping Diamond Blades are specifically designed to produce pre-determined width slots in concrete to insert detector loops. For use on Floor Saws only.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Concrete Looping Diamond Blade",
+  "specifications": [
+    "Select Option: 10mm Width, 12mm Width, 350 x 25.4mm x 6mm Width, 8mm Width",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: Refund or replace within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-x90-grade-ceramic-materials-diamond-blade.html|>
+## MEXCO X90 Grade Ceramic Materials Diamond Blade
+
+{
+  "price": "from €10.71 inc VAT",
+  "description": "The MEXCO X90 Grade Ceramic Materials Diamond Blade has been developed with a continuous rim segment to cut ceramic tiles quickly and cleanly. The performance of this product can be attributed to its high diamond concentration allowing a large amount of diamond grit to be exposed at all times producing a fast accurate clean cut. When taking on a job such as tiling, whether on the walls or floors, it’s the finish which really matters. A general purpose blade will chip, not cut neatly or accurately and will not last very long. Mexco’s diamond blade for ceramic cutting has been designed to give an excellent cut, have a low wear rate, but still be great value for money.",
+  "availability": "In Stock",
+  "product_name": "MEXCO X90 Grade Ceramic Materials Diamond Blade",
+  "specifications": [
+    "Available sizes: 105 x 16mm, 115 x 22mm, 125 x 22mm, 180 x 22mm, 180 x 25.4mm, 200 x 22.23mm, 200 x 25.4mm, 230 x 22mm, 300 x 25.4mm, 350 x 25.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-xcel-grade-dual-purpose-diamond-blade.html|>
+## MEXCO XCEL Grade Dual Purpose Diamond Blade
+
+{
+  "price": "€39.30 inc VAT",
+  "description": "The MEXCO Dual Purpose Abrasive Diamond Blade comes with a dual bond segment design. Enables fast cutting and long life in a wider range of common applications from facing bricks to asphalt. Manufactured using the latest techniques and ingredients including undercutting protection, dual bond diamond segment configuration and laser welded segment attachment, this blade is the best in its class. Specially designed for builders and construction workers who cut on a regular basis.",
+  "availability": "In Stock",
+  "product_name": "MEXCO XCEL Grade Dual Purpose Diamond Blade",
+  "specifications": [
+    "Available Sizes: 115 x 22mm, 125 x 22mm, 230 x 22mm, 300 x 20mm, 350 x 20mm, 350 x 25.4mm, 400 x 25.4mm",
+    "Dual bond segment design for fast cutting",
+    "Laser welded segment attachment",
+    "Suitable for various applications including bricks and asphalt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-xcel-grade-dual-purpose-turbo-diamond-blade.html|>
+## MEXCO XCEL Grade Dual Purpose Turbo Diamond Blade
+
+{
+  "price": "€30.31 inc VAT",
+  "description": "The MEXCO XCEL Grade Dual Purpose Turbo Diamond Blade. Specifically designed for fast cutting a wide range of hard and non-abrasive building products. It’s rapid cool centre and turbo fast cut segment delivers the ultimate cut at a fast speed. Recommended for contractors cutting a wide range of non-abrasive building products. Suitable for cutting; Reinforced Concrete, Clay Roof Tiles, Concrete Slabs, Granite, Ductile Iron, Quarry Tiles, Sandstone, Limestone and most non-abrasive materials.",
+  "availability": "In Stock",
+  "product_name": "MEXCO XCEL Grade Dual Purpose Turbo Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22mm, 125 x 22mm, 180 x 22mm, 230 x 22mm, 300 x 20mm, 350 x 20mm, 350 x 25mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date for refund or replacement"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-fibre-cement-board-pcd-blade.html|>
+## MEXCO Fibre Cement Board PCD Blade
+
+{
+  "price": "€63.94 inc VAT",
+  "description": "The MEXCO Fibre Cement Board PCD Blade has Polycrystalline diamond (PCD) teeth which cut through cement based fibre boards, composite materials and many other difficult applications with outstanding performance results compared to a TCT blade or diamond continuous blade. Suitable for dry cutting.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Fibre Cement Board PCD Blade",
+  "specifications": [
+    "160 x 20mm x 4T",
+    "185 x 30mm x 4T",
+    "216 x 30mm x 6T",
+    "254 x 30mm x 6T"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-fcxcel-grade-flush-cut-diamond-blade.html|>
+## MEXCO FCXCEL Grade Flush Cut Diamond Blade
+
+{
+  "price": "€80.26 inc VAT",
+  "description": "The MEXCO FCXCEL Grade Flush Cut Diamond Blade is designed to be used on angle grinders for both straight and flush cutting. These blades are fitted with a detachable flange mount with an M14 thread attaching directly to most angle grinders. The flush face gives the opportunity for deep cutting and flat finishing.",
+  "availability": "In Stock",
+  "product_name": "MEXCO FCXCEL Grade Flush Cut Diamond Blade",
+  "specifications": [
+    "Size Options: 115 x 22mm, 125 x 22mm, 230 x 22mm",
+    "Designed for angle grinders",
+    "Detachable flange mount with M14 thread",
+    "Flush face for deep cutting and flat finishing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-gpx10-concrete-diamond-blade.html|>
+## MEXCO GPX10 Concrete Diamond Blade
+
+{
+  "price": "€7.32 inc VAT",
+  "description": "MEXCO GPX10 Concrete Diamond Blades have been specifically designed for cutting a wide range of general purpose building materials. The GPX10 offers a cost effective solution for the user who requires a diamond blade which can cope with the cutting of the most widely used non-abrasive building materials. MEXCO have developed this blade using a high diamond concentration and the highest quality ingredients knowing the user could be cutting a wide variety of non-abrasive building materials such as; Reinforced Concrete, Hard Limestone and Concrete Paviours. Segment Height: 10mm",
+  "availability": "In Stock",
+  "product_name": "MEXCO GPX10 Concrete Diamond Blade",
+  "specifications": [
+    "Segment Height: 10mm",
+    "Designed for cutting general purpose building materials",
+    "High diamond concentration for durability",
+    "Suitable for non-abrasive materials like reinforced concrete and hard limestone"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-gpx10-8-concrete-diamond-blade.html|>
+## MEXCO GPX10-8 Concrete Diamond Blade
+
+{
+  "price": "€5.94 inc VAT",
+  "description": "MEXCO GPX10-8 Concrete Diamond Blades have been specifically designed for cutting a wide range of general purpose building materials. The GPX10-8 offers a cost effective solution for the user who requires a diamond blade which can cope with the cutting of the most widely used non-abrasive building materials. MEXCO have developed this blade using a high diamond concentration and the highest quality ingredients knowing the user could be cutting a wide variety of non-abrasive building materials such as; Reinforced Concrete, Hard Limestone and Concrete Paviours. Segment Height: 8mm",
+  "availability": "In Stock",
+  "product_name": "MEXCO GPX10-8 Concrete Diamond Blade",
+  "specifications": [
+    "Segment Height: 8mm",
+    "Designed for cutting general purpose building materials",
+    "High diamond concentration",
+    "Suitable for non-abrasive materials like Reinforced Concrete and Hard Limestone"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-gp-concrete-turbo-diamond-blade.html|>
+## MEXCO GP Concrete Turbo Diamond Blade
+
+{
+  "price": "from €7.32 inc VAT",
+  "description": "MEXCO GP Concrete Turbo Diamond Blades provides the user with excellent cutting characteristics in the majority of non-abrasive construction products used in the UK. Mexco have developed this blade using a high diamond concentration and the highest quality ingredients knowing the user could be cutting a wide variety of non-abrasive building materials such as; Reinforced Concrete, Hard Limestone and Concrete Paviours.",
+  "availability": "In Stock",
+  "product_name": "MEXCO GP Concrete Turbo Diamond Blade",
+  "specifications": [
+    "Available sizes: 115 x 22mm, 125 x 22mm, 230 x 22mm, 300 x 20mm",
+    "High diamond concentration for excellent cutting performance",
+    "Suitable for cutting non-abrasive building materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-gpx10-15-concrete-diamond-blade.html|>
+## MEXCO GPX10-15 Concrete Diamond Blade
+
+{
+  "price": "€13.65 inc VAT",
+  "description": "MEXCO GPX10-15 Concrete Diamond Blades have been specifically designed for cutting a wide range of general purpose building materials. The GPX10-15 offers a cost effective solution for the user who requires a diamond blade which can cope with the cutting of the most widely used non-abrasive building materials. MEXCO have developed this blade using a high diamond concentration and the highest quality ingredients knowing the user could be cutting a wide variety of non-abrasive building materials such as; Reinforced Concrete, Hard Limestone and Concrete Paviours. Segment Height: 15mm",
+  "availability": "In Stock",
+  "product_name": "MEXCO GPX10-15 Concrete Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22mm, 125 x 22mm, 230 x 22mm, 300 x 20mm, 350 x 20mm, 350 x 25.4mm",
+    "Segment Height: 15mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-gpx90-concrete-diamond-blade.html|>
+## MEXCO GPX90 Concrete Diamond Blade
+
+{
+  "price": "€27.42 inc VAT",
+  "description": "MEXCO GPX90 Concrete Diamond Blades provide the user with excellent cutting characteristics in the majority of non-abrasive construction products used in the UK. MEXCO have developed this blade using a high diamond concentration and the highest quality ingredients knowing the user could be cutting a wide variety of non-abrasive building materials such as; Reinforced Concrete, Hard Limestone and Concrete Paviours. Segment Height: 10mm (12mm on 300mm + diameter)",
+  "availability": "In Stock",
+  "product_name": "MEXCO GPX90 Concrete Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22mm, 125 x 22mm, 180 x 22mm, 230 x 22mm, 300 x 22mm, 350 x 20mm, 350 x 25.4mm, 400 x 20mm, 400 x 25.4mm, 450 x 25mm, 500 x 22mm, 600 x 25.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-xcel-grade-concrete-diamond-blade.html|>
+## MEXCO XCEL GRADE Concrete Diamond Blade
+
+{
+  "price": "€89.53 inc VAT",
+  "description": "MEXCO XCEL GRADE Concrete Diamond Blades have been specifically designed for cutting a wide range of general purpose building materials. MEXCO have developed this blade using a high diamond concentration and the highest quality ingredients knowing the user could be cutting a wide variety of non-abrasive building materials such as; Reinforced Concrete, Hard Limestone and Concrete Paviours.",
+  "availability": "In Stock",
+  "product_name": "MEXCO XCEL GRADE Concrete Diamond Blade",
+  "specifications": [
+    "Available sizes: 180 x 22mm, 230 x 22mm, 250 x 22mm, 300 x 20mm, 350 x 20mm, 350 x 25.4mm, 400 x 20mm, 400 x 25mm",
+    "High diamond concentration for durability",
+    "Designed for cutting reinforced concrete, hard limestone, and concrete paviours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-xcel-grade-hard-materials-diamond-blade.html|>
+## MEXCO XCEL Grade Hard Materials Diamond Blade
+
+{
+  "price": "€32.90 inc VAT",
+  "description": "The MEXCO XCEL Grade Hard Materials Diamond Blade has been specifically designed for cutting hard materials such as; Clay Roof Tiles, Concrete kerbs, Indian Sandstone and Granite Products. It’s anti-chipping narrow gullet design and soft bond matrix exposes new diamond grit quickly. The MEXCO XCEL grade uses the best ingredients available in manufacturing resulting in the best diamond blades on the market today.",
+  "availability": "In Stock",
+  "product_name": "MEXCO XCEL Grade Hard Materials Diamond Blade",
+  "specifications": [
+    "Available Sizes: 115 x 22mm, 125 x 22mm, 230 x 22mm, 300 x 20mm, 350 x 20mm, 350 x 25.4mm, 400 x 25.4mm, 450 x 25.4mm",
+    "Designed for cutting hard materials like Clay Roof Tiles, Concrete kerbs, Indian Sandstone, and Granite Products",
+    "Anti-chipping narrow gullet design",
+    "Soft bond matrix exposes new diamond grit quickly"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-xcel-grade-metal-cut-diamond-blade.html|>
+## MEXCO XCEL Grade Metal Cut Diamond Blade
+
+{
+  "price": "€34.02 inc VAT",
+  "description": "The MEXCO XCEL Grade Metal Cut Diamond Blade provides superior cutting precision. The perforated steel core design reduces heat build-up and ensures quick cooling – perfect for intensive use. The MEXCEL metal cutting diamond blade offers an alternative to carborundum abrasive wheels and in addition provides extra benefits. MEXCEL diamond blades last over 40 times longer than a normal abrasive wheel, less down time changing abrasive wheels and a constant cutting depth. NOTE: We do not recommend using this blade to cut Aluminium.",
+  "availability": "In Stock",
+  "product_name": "MEXCO XCEL Grade Metal Cut Diamond Blade",
+  "specifications": [
+    "Available Sizes: 115 x 22mm, 125 x 22mm, 230 x 22mm, 300 x 20mm, 350 x 25.4mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-x90-grade-mortar-raking-diamond-blade.html|>
+## MEXCO X90 Grade Mortar Raking Diamond Blade
+
+{
+  "price": "€33.19 inc VAT",
+  "description": "The MEXCO X90 Grade Mortar Raking Diamond Blade offers fast removal of mortar joints between bricks, natural stone, blocks and facing bricks. Mortar raking blades can also be used in the cutting of lead flashing channels.",
+  "availability": "In Stock",
+  "product_name": "MEXCO X90 Grade Mortar Raking Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22mm, 125 x 22mm, 180 x 22mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-bull-nose-profile-wheel.html|>
+## MEXCO Bull Nose Profile Wheel
+
+{
+  "price": "€78.73 inc VAT",
+  "description": "The MEXCO Bullnose Profile Wheel is the perfect tool for producing a bullnose profile edge on a range of materials; including Natural Stone, Slate and Porcelain.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Bull Nose Profile Wheel",
+  "specifications": [
+    "Profile: 22mm",
+    "Profile: 32mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-rb-x10-radius--curve-cutting-diamond-blade.html|>
+## MEXCO RB X10 Radius / Curve Cutting Diamond Blade
+
+{
+  "price": "€27.38 inc VAT",
+  "description": "The MEXCO RB X10 Radius / Curve Cutting Diamond Blades are designed to be used with 4.5in and 9in angle grinders for cutting curves and radii with ease. The radii of the curve can be altered by tilting the angle of the blade in the cut. Especially suited for cutting into concrete, natural stone and paving slabs, making them ideal for landscape gardeners, driveway installers, general builders and anybody doing decorative patio work.",
+  "availability": "In Stock",
+  "product_name": "MEXCO RB X10 Radius / Curve Cutting Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22.23mm, 230 x 22.23mm",
+    "Designed for 4.5in and 9in angle grinders",
+    "Ideal for cutting curves and radii",
+    "Suitable for concrete, natural stone, and paving slabs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-diamond-blade-reducing-bush.html|>
+## MEXCO Diamond Blade Reducing Bush
+
+{
+  "price": "from €4.23 inc VAT",
+  "description": "MEXCO Diamond Blade Reducing Bush for the reduction of diamond blade bore diameter to fit smaller spindle machines. Note: When fitting bush please ensure it is fitted securely.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Diamond Blade Reducing Bush",
+  "specifications": [
+    "Select Option: 20-16mm, 22.23-15mm, 22.23-16mm, 22.23-20mm, 25.40-15mm, 25.40-20mm, 25.4-22.23mm, 31.75-25.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-xcel-grade-tri-purpose-diamond-blade.html|>
+## MEXCO XCEL Grade Tri-Purpose Diamond Blade
+
+{
+  "price": "€90.49 inc VAT",
+  "description": "This MEXCO XCEL Grade Tri-Purpose Diamond Blade is made for superior cutting performance on all general purpose building and construction materials including abrasive, non abrasive and asphalt. Designed specifically to take away the hassle of having to change diamond blades for different materials. This blade has been developed using only the most advanced manufacturing techniques; TCT undercutting protection ensures the segments are protected against undercutting. The steel centre has ventilation holes for cooling and the segments have been laser welded. Suitable for cutting most materials such as; Reinforced Concrete, Concrete Block, Asphalt, Ductile Iron, Granite, Engineering Brick, Limestone and Breeze Blocks.",
+  "availability": "In Stock",
+  "product_name": "MEXCO XCEL Grade Tri-Purpose Diamond Blade",
+  "specifications": [
+    "230 x 22mm",
+    "300 x 20mm",
+    "350 x 20mm",
+    "350 x 25.4mm",
+    "400 x 20mm",
+    "400 x 25.4mm",
+    "450 x 25.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-uhxcel-ultra-hard-plus-diamond-blade.html|>
+## MEXCO UHXCEL+ Ultra Hard Plus Diamond Blade
+
+{
+  "price": "€59.41 inc VAT",
+  "description": "MEXCO UHXCEL+ Ultra Hard Plus Diamond Blades have been specifically designed and manufactured for fast, clean cutting with reduced chipping. Suitable for ultra hard materials such as; Granite, Porcelain, Marble, Ceramic Tiles, Clay Roof Tiles and other hard natural stone and man-made fired materials. With an ultra thin castellated turbo segment, the MEXCO UHXCEL Diamond Blade delivers a fantastic cutting performance. Perfect for: Tile Fitters, Roofers, Kitchen Fitters, Stone Workers, Plumbers, Civil Engineers and General Building Contractors. Advisory: Maximum Recommended Cutting Depth: 20mm.",
+  "availability": "In Stock",
+  "product_name": "MEXCO UHXCEL+ Ultra Hard Plus Diamond Blade",
+  "specifications": [
+    "Available Sizes: 115 x 22mm, 125 x 22mm, 200 x 22mm, 230 x 22mm, 230 x 25.4mm, 250 x 25.4mm, 350 x 25.4mm",
+    "Maximum Recommended Cutting Depth: 20mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-uhxcel-ultra-hard-materials-diamond-blade.html|>
+## MEXCO UHXCEL Ultra Hard Materials Diamond Blade
+
+{
+  "price": "from €25.09 inc VAT",
+  "description": "MEXCO UHXCEL Ultra Hard Plus Diamond Blades have been specifically designed and manufactured for cutting ultra hard materials such as; Granite, Porcelain, Marble, Ceramic Tiles, Clay Roof Tiles and other hard natural stone and man-made fired materials. With an ultra thin castellated turbo segment, the MEXCO UHXCEL Diamond Blade delivers a fantastic cutting performance. Perfect for: Tile Fitters, Roofers, Kitchen Fitters, Stone Workers, Plumbers, Civil Engineers and General Building Contractors. Advisory: Maximum Recommended Cutting Depth: 20mm.",
+  "availability": "In Stock",
+  "product_name": "MEXCO UHXCEL Ultra Hard Materials Diamond Blade",
+  "specifications": [
+    "Select Option: 115 x 22mm, 125 x 22mm, 150 x 22mm, 180 x 22mm, 180 x 25.4mm, 200 x 22mm, 200 x 25.4mm, 230 x 22mm, 230 x 25.4mm, 250 x 25.4mm, 300 x 20mm, 350 x 25.4mm, 400 x 25.4mm",
+    "Maximum Recommended Cutting Depth: 20mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-vbx90-grade-universal-diamond-blade.html|>
+## MEXCO VBX90 Grade Universal Diamond Blade
+
+{
+  "price": "€30.15 inc VAT (€24.51 exc.vat)",
+  "description": "MEXCO VBX90 Grade Universal Diamond Blade. The VBX90 uses a process of vacuum brazing to attach large pieces of diamond grit to the cutting edge of a steel centre; this manufacturing process allows the diamond grit to be held constantly in contact with the material being cut producing very fast and effective stock removal. Suitable for dry and wet cutting.",
+  "availability": "In Stock",
+  "product_name": "MEXCO VBX90 Grade Universal Diamond Blade",
+  "specifications": [
+    "Option: Select One - 125 x 22mm, 230 x 22mm, 300 x 20mm, 350 x 20mm, 350 x 25.4mm, 400 x 25.4mm, 75 x 10mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-iw1017110-oscillating-blade-set-3-piece.html|>
+## IRWIN® IW1017110 Oscillating Blade Set, 3 Piece
+
+{
+  "price": "€25.04 inc VAT (€20.36 exc.vat)",
+  "description": "IRWIN® 3 Piece Oscillating Blade Set. Suitable for cutting a range of common materials; wood, plasterboard, PVC and nail embedded wood. Ideal for use on renovation jobs. Contains: 1 x Oscillating Blade 30 x 43mm x 18 TPI. 1 x Oscillating Blade 30 x 66mm x 15 TPI. 1 x Oscillating Blade 30 x 43mm x 20 TPI.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® IW1017110 Oscillating Blade Set, 3 Piece",
+  "specifications": [
+    "1 x Oscillating Blade 30 x 43mm x 18 TPI",
+    "1 x Oscillating Blade 30 x 66mm x 15 TPI",
+    "1 x Oscillating Blade 30 x 43mm x 20 TPI"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-iw1017111-oscillating-blade-set-5-piece.html|>
+## IRWIN® IW1017111 Oscillating Blade Set, 5 Piece
+
+{
+  "price": "€39.74 inc VAT (€32.31 exc.vat)",
+  "description": "IRWIN® 5 Piece Oscillating Blade Set. Suitable for cutting a range of common materials; wood, plasterboard, PVC and nail embedded wood. Ideal for use on renovation jobs. Contains: 2 x Oscillating Blades 30 x 43mm x 18 TPI. 1 x Oscillating Blade 30 x 66mm x 15 TPI. 2 x Oscillating Blades 30 x 43mm x 20 TPI.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® IW1017111 Oscillating Blade Set, 5 Piece",
+  "specifications": [
+    "2 x Oscillating Blades 30 x 43mm x 18 TPI",
+    "1 x Oscillating Blade 30 x 66mm x 15 TPI",
+    "2 x Oscillating Blades 30 x 43mm x 20 TPI"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-iw1017112-oscillating-blade-set-8-piece.html|>
+## IRWIN® IW1017112 Oscillating Blade Set, 8 Piece
+
+{
+  "price": "€62.82 inc VAT (€51.07 exc.vat)",
+  "description": "IRWIN® 8 Piece Oscillating Blade Set. Suitable for cutting a range of common materials; wood, plasterboard, PVC and nail embedded wood. Ideal for use on renovation jobs. Contains: 3 x Oscillating Blades 30 x 43mm x 18 TPI. 2 x Oscillating Blades 30 x 66mm x 15 TPI. 3 x Oscillating Blades 30 x 43mm x 20 TPI.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® IW1017112 Oscillating Blade Set, 8 Piece",
+  "specifications": [
+    "3 x Oscillating Blades 30 x 43mm x 18 TPI",
+    "2 x Oscillating Blades 30 x 66mm x 15 TPI",
+    "3 x Oscillating Blades 30 x 43mm x 20 TPI"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-wood-with-nails-oscillating-blade-30-x-43mm-x-20-tpi.html|>
+## IRWIN® Wood with Nails Oscillating Blade 30 x 43mm x 20 TPI
+
+{
+  "price": "€9.40 inc VAT (€7.64 exc.vat)",
+  "description": "IRWIN® Oscillating Blade for cutting through wood containing nails.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Wood with Nails Oscillating Blade 30 x 43mm x 20 TPI",
+  "specifications": [
+    "Model: IRWIW1017210",
+    "Size: 30 x 43mm",
+    "Teeth Per Inch: 20 TPI",
+    "Material: Wood with Nails"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-fastcut-wood-oscillating-blade.html|>
+## IRWIN® Fastcut Wood Oscillating Blade
+
+{
+  "price": "€6.59 inc VAT",
+  "description": "IRWIN® Fastcut Wood Oscillating Blade for cutting through wood, plasterboard and PVC.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Fastcut Wood Oscillating Blade",
+  "specifications": [
+    "Select Option: 30 x 43mm x 18 TPI, 65 x 43mm x 15 TPI",
+    "List Price: €8.56",
+    "You save: €1.97"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-67480-starlock-multi-tool-plunge-set-4-piece.html|>
+## Makita B-67480 Starlock Multi-tool Plunge Set, 4 Piece
+
+{
+  "price": "€116.33 inc VAT (€94.58 exc.vat)",
+  "description": "The Makita B-67480 Multi-tool Plunge Set with Starlock fitting. Suitable for use with all Multi-tool which accept Starlock fitting blades. Contains the following: 1 x B-64799 Bi-Metal Segment Saw Blade 85mm (for wood and metal) 1 x 729104-6 Bi-Metal Plunge Cut Saw Blade 32mm (for wood and metal) 1 x B-64870 Bi-Metal Plunge Cut Saw Blade 32mm (for wood) 1 x B-64923 Bi-Metal Plunge Cut Saw Blade 20mm (for metal)",
+  "availability": "Out of Stock",
+  "product_name": "Makita B-67480 Starlock Multi-tool Plunge Set, 4 Piece",
+  "specifications": [
+    "1 x B-64799 Bi-Metal Segment Saw Blade 85mm (for wood and metal)",
+    "1 x 729104-6 Bi-Metal Plunge Cut Saw Blade 32mm (for wood and metal)",
+    "1 x B-64870 Bi-Metal Plunge Cut Saw Blade 32mm (for wood)",
+    "1 x B-64923 Bi-Metal Plunge Cut Saw Blade 20mm (for metal)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-67480-starlock-multi-tool-tile-set-4-piece.html|>
+## Makita B-67480 Starlock Multi-tool Tile Set, 4 Piece
+
+{
+  "price": "€121.45 inc VAT (€98.74 exc.vat)",
+  "description": "The Makita B-67480 Multi-tool Tile Set with Starlock fitting. Suitable for use with all Multi-tool that accept Starlock fitting blades. Contains the following: 1 x B-64923 Plunge Cut Saw Blade 20mm, 1 x B-64989 Scraper Blade 52mm, 1 x B-65028 Segment Saw Blade 85mm, 1 x B-65062 Sanding Plate 78mm",
+  "availability": "Out of Stock",
+  "product_name": "Makita B-67480 Starlock Multi-tool Tile Set, 4 Piece",
+  "specifications": [
+    "1 x B-64923 Plunge Cut Saw Blade 20mm",
+    "1 x B-64989 Scraper Blade 52mm",
+    "1 x B-65028 Segment Saw Blade 85mm",
+    "1 x B-65062 Sanding Plate 78mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-67505-starlock-multi-tool-floor-set-4-piece.html|>
+## Makita B-67505 Starlock Multi-tool Floor Set, 4 Piece
+
+{
+  "price": "€108.66 inc VAT (€88.34 exc.vat)",
+  "description": "The Makita B-67505 Multi-tool Floor Set with Starlock fitting. Suitable for use with all Multi-tool that accept Starlock fitting blades. Contains the following: 1 x B-64799 Bi-Metal Segment Saw Blade 85mm (for wood and metal). 1 x B-64820 Bi-Metal Plunge Cut Saw Blade 65mm (for wood and metal). 1 x B-64858 Plunge Cut Saw Blade 32mm (for wood). 1 x B-64995 Scraper Blade 52mm.",
+  "availability": "Out of Stock",
+  "product_name": "Makita B-67505 Starlock Multi-tool Floor Set, 4 Piece",
+  "specifications": [
+    "1 x B-64799 Bi-Metal Segment Saw Blade 85mm (for wood and metal)",
+    "1 x B-64820 Bi-Metal Plunge Cut Saw Blade 65mm (for wood and metal)",
+    "1 x B-64858 Plunge Cut Saw Blade 32mm (for wood)",
+    "1 x B-64995 Scraper Blade 52mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-67511-starlock-multi-tool-carpentry-set-5-piece.html|>
+## Makita B-67511 Starlock Multi-tool Carpentry Set, 5 Piece
+
+{
+  "price": "€118.09 inc VAT (€96.01 exc.vat)",
+  "description": "The Makita B-67511 Multi-tool Carpentry Set with Starlock fitting. Suitable for use with all Multi-tool that accept Starlock fitting blades. Contains the following: 1 x B-64799 Bi-Metal Segment Saw Blade 85mm (for wood and metal). 1 x B-64814 Bi-Metal Plunge Cut Saw Blade 32mm (for wood and metal). 1 x B-64870 Bi-Metal Plunge Cut Saw Blade 32mm (for wood and metal). 2 x 743117-3 Sanding Pads.",
+  "availability": "Out of Stock",
+  "product_name": "Makita B-67511 Starlock Multi-tool Carpentry Set, 5 Piece",
+  "specifications": [
+    "1 x B-64799 Bi-Metal Segment Saw Blade 85mm (for wood and metal)",
+    "1 x B-64814 Bi-Metal Plunge Cut Saw Blade 32mm (for wood and metal)",
+    "1 x B-64870 Bi-Metal Plunge Cut Saw Blade 32mm (for wood and metal)",
+    "2 x 743117-3 Sanding Pads"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-bi-metal-wood-cutting-reciprocating-saw-blades.html|>
+## LENOX Bi-Metal Wood Cutting Reciprocating Saw Blades
+
+{
+  "price": "from €44.00 inc VAT",
+  "description": "LENOX® Bi-Metal Wood Cutting Reciprocating Saw Blades use POWER BLAST TECHNOLOGY™ to increase blade life. High speed blasting along the cutting edge strengthens the blade to reduce breaks and increase durability. Patented T2™ Technology reduces cutting forces on each tooth and optimises chip removal to allow efficient cutting in the widest range of materials. Each blade has a unique configuration including an aggressive tang angle and tapered blade shape to allow for cutting in tight areas. The special design minimises friction and heat build up whilst cutting. Ideal for cutting wood: clean or nail embedded.",
+  "availability": "In Stock",
+  "product_name": "LENOX Bi-Metal Wood Cutting Reciprocating Saw Blades",
+  "specifications": [
+    "Pack of 5 230mm 6 TPI",
+    "High speed blasting along the cutting edge",
+    "Patented T2™ Technology",
+    "Unique configuration for tight areas",
+    "Minimises friction and heat build up"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-800rdg-diamond-reciprocating-saw-blade-200mm.html|>
+## LENOX 800RDG DIAMOND™ Reciprocating Saw Blade 200mm
+
+{
+  "price": "€23.39 inc VAT (€19.02 exc.vat)",
+  "description": "The LENOX® 800RDG DIAMOND™ Reciprocating Saw Blade with a narrow kerf design for thinner, faster cuts. The cutting edge features nickel alloy brazed diamond particles that help to maintain sharpness, so it keeps on cutting long after conventional carbide grit fails. Fitted with a durable chrome alloy backing steel that provides extra stability. LENOX® DIAMOND™ blades cut cleanly through cast iron, tile, granite and other abrasives unlike bulky snap cutters which crush pipes and leave ragged, uneven cuts.",
+  "availability": "In Stock",
+  "product_name": "LENOX 800RDG DIAMOND™ Reciprocating Saw Blade 200mm",
+  "specifications": [
+    "Length: 200mm",
+    "Material: Nickel alloy brazed diamond particles",
+    "Design: Narrow kerf for thinner, faster cuts",
+    "Compatible with: Cast iron, tile, granite, and other abrasives"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-double-tang-diamond-reciprocating-saw-blade.html|>
+## LENOX Double Tang DIAMOND™ Reciprocating Saw Blade
+
+{
+  "price": "€36.10 inc VAT",
+  "description": "LENOX® Double Tang DIAMOND™ Reciprocating Saw Blade with a narrow kerf design for thinner, faster cuts. The cutting edge features nickel alloy brazed diamond particles that help to maintain sharpness, so it keeps on cutting long after conventional carbide grit fails. Fitted with a durable chrome alloy backing steel that provides extra stability. LENOX® DIAMOND™ Blades cut cleanly through cast iron, tile, granite and other abrasives, unlike bulky snap cutters which crush pipes and leave ragged, uneven cuts.",
+  "availability": "In Stock",
+  "product_name": "LENOX Double Tang DIAMOND™ Reciprocating Saw Blade",
+  "specifications": [
+    "225mm option available",
+    "Nickel alloy brazed diamond particles",
+    "Durable chrome alloy backing steel",
+    "Narrow kerf design for thinner cuts"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-demolition-ct-reciprocating-saw-blade.html|>
+## LENOX DEMOLITION CT™ Reciprocating Saw Blade
+
+{
+  "price": "€19.70 inc VAT",
+  "description": "The LENOX® DEMOLITION CT™ Reciprocating Saw Blade features carbide tipped teeth providing the highest performance in nail embedded wood. Each tooth is precision ground on multiple surfaces to cut through nails with ease. The high-performance carbide teeth are welded to the blade using the latest technology to increase durability and prevent tooth loss. Offering up to 10x longer life than standard bi-metal reciprocating saw blades. They have a tall, thick blade profile for maximum durability in tough demolition applications.",
+  "availability": "In Stock",
+  "product_name": "LENOX DEMOLITION CT™ Reciprocating Saw Blade",
+  "specifications": [
+    "Available Sizes: 150mm 6 TPI, 230mm 6 TPI, 300mm 6 TPI",
+    "Carbide tipped teeth for high performance",
+    "Precision ground teeth for cutting through nails",
+    "Tall, thick blade profile for durability",
+    "Up to 10x longer life than standard blades"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-gold-demolition-reciprocating-saw-blades.html|>
+## LENOX Gold® Demolition Reciprocating Saw Blades
+
+{
+  "price": "€87.34 inc VAT",
+  "description": "LENOX® Gold® Demolition Reciprocating Saw Blades have an aggressive blade design that optimises the blades cutting angle for faster cutting in a wide variety of materials. The POWER ARC™ curved blade delivers up to 2x longer life vs traditional straight LENOX® Reciprocating Saw Blades. Patented T2™ Technology reduces cutting forces on each tooth and optimises chip removal to allow efficient cutting in the widest range of materials. The teeth feature a titanium coating making them more wear-resistant, keeping them sharper for longer.",
+  "availability": "In Stock",
+  "product_name": "LENOX Gold® Demolition Reciprocating Saw Blades",
+  "specifications": [
+    "Pack of 5 230mm 10 TPI",
+    "Aggressive blade design for faster cutting",
+    "POWER ARC™ curved blade for longer life",
+    "Patented T2™ Technology for efficient cutting",
+    "Titanium coating for wear-resistance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-bi-metal-steel-cutting-reciprocating-saw-blades.html|>
+## LENOX Bi-Metal Steel Cutting Reciprocating Saw Blades
+
+{
+  "price": "€48.40 inc VAT",
+  "description": "LENOX® Bi-Metal Steel Cutting Reciprocating Saw Blades use POWER BLAST TECHNOLOGY™ to increase blade life. High-speed blasting along the cutting edge strengthens the blade to reduce breaks and increase durability. The taller blade profile delivers straighter cuts and longer life, even in the most demanding metal cutting applications. For cutting structural steels and all metals.",
+  "availability": "In Stock",
+  "product_name": "LENOX Bi-Metal Steel Cutting Reciprocating Saw Blades",
+  "specifications": [
+    "Pack of 5 229mm 10 TPI",
+    "High-speed blasting technology",
+    "Durable and long-lasting",
+    "Suitable for cutting structural steels and all metals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-general-purpose-reciprocating-saw-blade-kit-9-piece.html|>
+## LENOX General-Purpose Reciprocating Saw Blade Kit, 9 Piece
+
+{
+  "price": "€53.37 inc VAT (€43.39 exc.vat)",
+  "description": "The LENOX® General-Purpose Reciprocating Saw Blade Kit, contains a selection of blades that cover a wide range of applications. Each blade uses POWER BLAST TECHNOLOGY™ to increase blade life. High-speed blasting along the cutting edge strengthens the blade to reduce breaks and increase durability. Patented T2™ Technology reduces cutting forces on each tooth and optimises chip removal to allow efficient cutting in the widest range of materials. Supplied with a handy blade carry case and the following blades: 2 x 656R Nail Embedded Wood Cutting Reciprocating Saw Blades 150mm 6 TPI, 2 x 624R Metal Cutting Reciprocating Saw Blades 150mm 24 TPI, 2 x 818R Metal Cutting Reciprocating Saw Blades 200mm 18 TPI, 2 x 810R General-Purpose Reciprocating Saw Blades 200mm 10 TPI, 1 x 960R Demolition Reciprocating Saw Blade 225mm 10 TPI.",
+  "availability": "In Stock",
+  "product_name": "LENOX General-Purpose Reciprocating Saw Blade Kit, 9 Piece",
+  "specifications": [
+    "Includes 9 different saw blades",
+    "Uses POWER BLAST TECHNOLOGY™",
+    "High-speed blasting for durability",
+    "Patented T2™ Technology for efficient cutting",
+    "Comes with a handy blade carry case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-flexible-cut-metal-reciprocating-blades.html|>
+## Makita Flexible Cut Metal Reciprocating Blades
+
+{
+  "price": "€35.90 inc VAT",
+  "description": "Metal cutting. Strong HSS blade for quick cutting of steel plate and iron pipe. Tooth Type/Set: B - milled and wavy set teeth.",
+  "availability": "In Stock",
+  "product_name": "Makita Flexible Cut Metal Reciprocating Blades",
+  "specifications": [
+    "Select Option: No.21 120mm 24 TPI, No.22 160mm 24 TPI",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-wood-reciprocating-blades.html|>
+## Makita Wood Reciprocating Blades
+
+{
+  "price": "from €12.32 inc VAT",
+  "description": "Quick cutting in wood, plastics and polystyrene foam. Suitable for curves and bevels. Quick cutting blade. Tooth Type/Set: C - ground and side set teeth",
+  "availability": "In Stock",
+  "product_name": "Makita Wood Reciprocating Blades",
+  "specifications": [
+    "Select Option: 150mm 18 TPI, 150mm 4 TPI, 150mm 6 TPI, 160mm 9 TPI, 300mm 4 TPI, 300mm 6 TPI"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-b810p-250-bi-metal-pallet-cutting-blade-203mm-10-tpi-pack-250.html|>
+## Starrett B810P-250 Bi-Metal Pallet Cutting Blade, 203mm 10 TPI (Pack 250)
+
+{
+  "price": "€519.92 inc VAT (€422.70 exc.vat)",
+  "description": "These Starrett reinforced Bi-Metal Reciprocating Saw Blades have been specially developed for cutting nails in wooden pallets. The rounded blade tips help prevent accidents. Provides clean cuts without marking the wood on unpainted pallets.",
+  "availability": "Out of Stock",
+  "product_name": "Starrett B810P-250 Bi-Metal Pallet Cutting Blade, 203mm 10 TPI (Pack 250)",
+  "specifications": [
+    "Application: Pallet Dismantling",
+    "Application Material Thickness: 6-25mm (1/4-1in)",
+    "Dimensions: 203 x 19 x 0.90mm (8 x 3/4 x 0.035in)",
+    "Blade Shape: Straight",
+    "TPI: 10",
+    "Pack: Cardboard box",
+    "Pack Quantity: 250"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-bi-metal-reciprocating-blade-wood.html|>
+## Starrett Bi-Metal Reciprocating Blade, Wood
+
+{
+  "price": "€18.43 inc VAT",
+  "description": "These Starrett Bi-Metal Reciprocating Saw Blades will slice through wood quickly and efficiently. Blades are available in a straight and tapered cut format, the tooth pitches ensure that the blades will cut thick wooden beams.",
+  "availability": "In Stock",
+  "product_name": "Starrett Bi-Metal Reciprocating Blade, Wood",
+  "specifications": [
+    "Available in straight and tapered cut formats",
+    "Tooth pitches designed for cutting thick wooden beams",
+    "Pack options available"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-sawzall-heavy-duty-ax-demolition-blades-230mm-5-tpi-pack-5.html|>
+## Milwaukee Power Tools SAWZALL® Heavy-Duty AX™ Demolition Blades 230mm 5 TPI (Pack 5)
+
+{
+  "price": "€42.98 inc VAT (€34.94 exc.vat)",
+  "description": "These Milwaukee SAWZALL® Heavy-Duty AX™ Demolition Blades have a FANG TIP™ and sloped shape for faster plunge cutting and reaching into restricted areas. Fast, aggressive 5 TPI tooth geometry that removes more material per stroke for faster cutting. They have a thick (1.60mm) robust blade body for precise cuts and a shatter-resistant, bi-metal construction that allows the blade to bend and flex without breaking. NAIL GUARD™ protects the tooth during nail impacts for increased durability and lifetime. 1/2in universal shank reception. Suitable for use with the following brands: AEG, B&D, Bosch, DeWalt, Fein, Flex, Hilti, Makita, Metabo, Milwaukee, Porter-Cable, Ridgid, Rothenberger, Ryobi, and Skil.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools SAWZALL® Heavy-Duty AX™ Demolition Blades 230mm 5 TPI (Pack 5)",
+  "specifications": [
+    "Blade Length: 230mm",
+    "TPI: 5",
+    "Cutting Capacity: Plastic Pipe Ø 10-175mm, PVC 10-50mm, Wood/Wood with Nails 10-175mm",
+    "Pack Quantity: 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-bi-metal-reciprocating-blade-multipurpose.html|>
+## Starrett Bi-Metal Reciprocating Blade, Multipurpose
+
+{
+  "price": "€18.43 inc VAT",
+  "description": "These Starrett Bi-Metal Multipurpose Reciprocating Saw Blades will slice through wood, plastic, metal and structurals. Excellent for all-round use. Blades are available in a straight and tapered cut format.",
+  "availability": "In Stock",
+  "product_name": "Starrett Bi-Metal Reciprocating Blade, Multipurpose",
+  "specifications": [
+    "Available in various sizes and TPI options",
+    "Suitable for cutting wood, plastic, and metal",
+    "Includes options for straight and tapered cuts"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-vb66-5-bi-metal-reciprocating-blade-plasterboard-152mm-6v-tpi-pack-5.html|>
+## Starrett VB66-5 Bi-Metal Reciprocating Blade, Plasterboard 152mm 6V TPI (Pack 5)
+
+{
+  "price": "€25.15 inc VAT (€20.45 exc.vat)",
+  "description": "These Starrett Bi-Metal Reciprocating Saw Blades have 'V' shaped teeth, ideal for plasterboard cutting.",
+  "availability": "In Stock",
+  "product_name": "Starrett VB66-5 Bi-Metal Reciprocating Blade, Plasterboard 152mm 6V TPI (Pack 5)",
+  "specifications": [
+    "ID: VB66-5",
+    "Application: Special Purpose Plaster Cutting",
+    "Application Material Thickness: 13-63mm (1/2-2.1/2in)",
+    "Dimensions: 152 x 19 x 0.90mm (6 x 3/4 x .035in)",
+    "TPI: 6V",
+    "Blade Shape: Straight",
+    "Pack: Plastic Tube",
+    "Pack Quantity: 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-carbide-grit-reciprocating-saw-blade-152mm-coarse-30.html|>
+## Starrett Carbide Grit Reciprocating Saw Blade 152mm Coarse #30
+
+{
+  "price": "€18.97 inc VAT (€15.42 exc.vat)",
+  "description": "Starrett Carbide Grit Reciprocating Saw Blade suitable for cutting ceramic tiles, fibreglass and cement board.",
+  "availability": "In Stock",
+  "product_name": "Starrett Carbide Grit Reciprocating Saw Blade 152mm Coarse #30",
+  "specifications": [
+    "Application: Ceramics, PVC and other abrasive materials",
+    "Dimensions: 152 x 19 x 0.90mm (6 x 3/4 x .035in)",
+    "TPI: Coarse #30 Carbide Grit",
+    "Blade Shape: Tapered",
+    "Pack: Card/Blister",
+    "Pack Quantity: 1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-bi-metal-reciprocating-blades.html|>
+## Makita Bi-Metal Reciprocating Blades
+
+{
+  "price": "€18.65 inc VAT",
+  "description": "Suitable for steel, stainless steel, alloys, cast iron, wood with nails, steel pipe etc. Bi-metal reciprocating blade, flexible to resist snapping, cuts wood and metal. Tooth Type/Set: B - milled and wavy set teeth",
+  "availability": "In Stock",
+  "product_name": "Makita Bi-Metal Reciprocating Blades",
+  "specifications": [
+    "Select Option: 150mm 14 TPI, 150mm 18 TPI, 150mm 24 TPI",
+    "EMC (Environmental Management Cost) Included in the purchase price. Gas discharge lamps, LFLs and CFLs €0.15, LED lamps and luminaires €0.05, Large appliances €5.00",
+    "Delivery Information: Fast & Reliable Shipping with DPD, FREE delivery for orders over €150 within Ireland, Orders under €150: €8.99 delivery fee, International delivery: Charges based on weight—contact us for a quote."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-specialised-reciprocating-blades.html|>
+## Makita Specialised Reciprocating Blades
+
+{
+  "price": "from €24.81 inc VAT",
+  "description": "Fast cut in metals, steel, alloys, cast iron, wood with nails, steel pipe etc. Bi-metal reciprocating blade, flexible to resist snapping, cuts wood and metal. Tooth Type/Set: A - milled and side set teeth",
+  "availability": "In Stock",
+  "product_name": "Makita Specialised Reciprocating Blades",
+  "specifications": [
+    "200mm 14 TPI",
+    "200mm 18 TPI",
+    "200mm 24 TPI",
+    "280mm 10 TPI",
+    "Specialised Reciprocating Blade 150mm 6 TPI (Pack 5) MAKP05088"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-bi-metal-reciprocating-blade-metal.html|>
+## Starrett Bi-Metal Reciprocating Blade, Metal
+
+{
+  "price": "€16.62 inc VAT",
+  "description": "These Starrett Bi-Metal Reciprocating Saw Blades will slice through metal quickly and efficiently. Standard blades are available in a straight and scroll cut format. The range of tooth pitches ensures that the blades will cut everything from the thinnest sheet steel up to heavy-duty steel sections.",
+  "availability": "In Stock",
+  "product_name": "Starrett Bi-Metal Reciprocating Blade, Metal",
+  "specifications": [
+    "Select Option: B414-5, Straight 100mm 14 TPI Pack of 5",
+    "B418-5, Straight 100mm 18 TPI Pack of 5",
+    "B424-5, Straight 100mm 24 TPI Pack of 5",
+    "B614-5, Straight 152mm 14 TPI Pack of 5",
+    "B618-5, Straight 152mm 18 TPI",
+    "B624-5, Straight 152mm 24 TPI Pack of 5",
+    "B818-5, Straight 203mm 18 TPI Pack of 5",
+    "SB424-5, Scroll 100mm 24 TPI"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-bi-metal-king-cut-demolition-blades.html|>
+## Starrett Bi-Metal King Cut™ Demolition Blades
+
+{
+  "price": "from €20.27 inc VAT",
+  "description": "These Starrett Bi-Metal King Cut™ Reciprocating Blades are thicker, specifically designed for heavy-duty demolition, emergency extrication and other demanding applications. The teeth have a super aggressive pitch set, designed to rip through just about anything. Blades are available in a straight and tapered cut format.",
+  "availability": "In Stock",
+  "product_name": "Starrett Bi-Metal King Cut™ Demolition Blades",
+  "specifications": [
+    "Available in straight and tapered cut format",
+    "Designed for heavy-duty demolition",
+    "Aggressive pitch set for ripping through materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-sabre-blade-205x29-2-pieces.html|>
+## Krino Sabre Blade 205X2.9 2 Pieces
+
+{
+  "price": "€25.35 inc VAT (€20.61 exc.vat)",
+  "description": "Sabre Blade 205X2.9 2 Pieces",
+  "availability": "Out of Stock",
+  "product_name": "Krino Sabre Blade 205X2.9 2 Pieces",
+  "specifications": [
+    "KRI23175102 : €25.35",
+    "List: €37.56",
+    "You save €12.21"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-rescue-and-demolition-reciprocating-blade-230mm-6-tpi-pack-3.html|>
+## Makita Rescue and Demolition Reciprocating Blade 230mm 6 TPI (Pack 3)
+
+{
+  "price": "€26.48 inc VAT (€21.53 exc.vat)",
+  "description": "Can be used in rescue situations for fire brigades etc. For cutting a wide variety of materials including metal and glass. Extra thick demolition blade. Demolition in metal, pipe, channels, angle iron and nail embedded wood.",
+  "availability": "In Stock",
+  "product_name": "Makita Rescue and Demolition Reciprocating Blade 230mm 6 TPI (Pack 3)",
+  "specifications": [
+    "230mm length",
+    "6 TPI",
+    "Pack of 3",
+    "Extra thick demolition blade",
+    "Suitable for cutting metal, glass, and wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-sawzall-heavy-duty-torch-demolition-tct-blade-230mm-7-tpi.html|>
+## Milwaukee Power Tools SAWZALL® Heavy-Duty TORCH™ Demolition TCT Blade 230mm 7 TPI
+
+{
+  "price": "€54.65 inc VAT (€44.43 exc.vat)",
+  "description": "The Milwaukee SAWZALL® Heavy-Duty TORCH™ Demolition TCT Blade has carbide teeth that tackle a wide variety of metal materials: black pipe, angle iron to cast iron, stainless steel, and high strength alloys. The teeth have 25% more carbide per tooth than other carbide blades and an optimised tooth design delivers extreme life in metal cutting applications. Having a thick (1.27mm), robust blade body for precise cuts and a 25mm blade height for improved stability and minimum vibration. TOUGH NECK™, stamped indentations around the reception, strengthen the blade at its weakest point. A GRID IRON™ pattern is built into the blade to make it more rigid with less tendency to bend or buckle for best durability and straight cuts. 1/2in universal shank reception. Suitable for use with the following brands: AEG, B&D, Bosch, DeWalt, Fein, Flex, Hilti, Makita, Metabo, Milwaukee, Porter-Cable, Ridgid, Rothenberger, Ryobi, and Skil.",
+  "availability": "Out of Stock",
+  "product_name": "Milwaukee Power Tools SAWZALL® Heavy-Duty TORCH™ Demolition TCT Blade 230mm 7 TPI",
+  "specifications": [
+    "Blade Length: 230mm",
+    "TPI: 7",
+    "Cutting Capacity: Cast Iron/Metal Pipe Ø 10-175mm, Non-Ferrous Metals/Steel/Stainless Steel 5-13mm",
+    "Pack Quantity: 1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-wood-pruning-sabre-saw-blade-225mm-pack-2.html|>
+## IRWIN® Wood Pruning Sabre Saw Blade 225mm (Pack 2)
+
+{
+  "price": "€21.24 inc VAT (€17.27 exc.vat)",
+  "description": "IRWIN® Wood Pruning Sabre Saw Blade with a universal shank fits all major brands including DEWALT, Bosch, Hitachi, Flex, Makita, Metabo, Skil etc.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Wood Pruning Sabre Saw Blade 225mm (Pack 2)",
+  "specifications": [
+    "Length: 225mm (9in)",
+    "TPI: 5/6"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-sabre-saw-blade-woodpvc-cutting-152mm-pack-of-2.html|>
+## IRWIN® Sabre Saw Blade Wood/PVC Cutting 152mm Pack of 2
+
+{
+  "price": "€12.47 inc VAT (€10.14 exc.vat)",
+  "description": "IRWIN® Wood/PVC Cutting Sabre Saw Blades with aggressive teeth for fast sawing and a fine finish. Superior construction and design make them faster cutting and longer lasting. Labelling on the blade makes it easy to identify the right blade for the right application. Suitable for cutting wood and PVC up to a thickness of 100mm.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Sabre Saw Blade Wood/PVC Cutting 152mm Pack of 2",
+  "specifications": [
+    "Pack of 2",
+    "152mm length",
+    "Suitable for cutting wood and PVC up to 100mm thickness"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-coarse-wood-cutting-sabre-saw-blades.html|>
+## IRWIN® Coarse Wood Cutting Sabre Saw Blades
+
+{
+  "price": "€17.82 inc VAT",
+  "description": "The IRWIN® Coarse Wood Cutting Sabre Saw Blades come with aggressive teeth for fast sawing. Superior construction and design makes them faster cutting and longer lasting. Labelling on the blade makes it easy to identify the right blade for the right application.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Coarse Wood Cutting Sabre Saw Blades",
+  "specifications": [
+    "Select Option: 240mm, Pack of 2",
+    "Select Option: 228mm Pack of 2",
+    "Select Option: 305mm Pack of 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-sabre-saw-blade-masonry-cutting-450mm-25-tpi.html|>
+## IRWIN® Sabre Saw Blade Masonry Cutting 450mm 2.5 TPI
+
+{
+  "price": "€81.50 inc VAT (€66.26 exc.vat)",
+  "description": "The IRWIN® Masonry Cutting Sabre Saw Blade offers fast, durable, and precise cutting. Suitable for use in many masonry materials, including clay bricks, limestone, or gas concrete. Its innovative design provides faster cutting and a longer life. This blade features a universal 1/2in shank for maximum versatility and compatibility.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Sabre Saw Blade Masonry Cutting 450mm 2.5 TPI",
+  "specifications": [
+    "Length: 450mm",
+    "Teeth per inch: 2.5",
+    "Universal 1/2in shank",
+    "Suitable for masonry materials like clay bricks, limestone, and gas concrete"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-general-purpose-reciprocating-saw-blade-set-15-piece.html|>
+## LENOX General Purpose Reciprocating Saw Blade Set, 15 Piece
+
+{
+  "price": "€62.39 inc VAT (€50.72 exc.vat)",
+  "description": "The LENOX General Purpose Reciprocating Saw Blade Set cuts through a wide variety of materials. Designed for making quick, clean cuts in metal, wood, and plastic. A high-speed steel cutting edge and spring steel backing helps strengthen the blade, reducing breaks and increasing durability for long blade life. Supplied in a handy storage case, contains the following: 5 x 656R Blades for cutting wood with nails. 5 x 614R Blades for cutting pipes, construction and stainless steel (2.5–6mm), non-ferrous metal (2.5–10mm). 5 x 618R Blades for cutting structural steel, pipes, stainless steel (1.5–5mm), non-ferrous metal (1.5–8mm).",
+  "availability": "In Stock",
+  "product_name": "LENOX General Purpose Reciprocating Saw Blade Set, 15 Piece",
+  "specifications": [
+    "15-piece set",
+    "Cuts through metal, wood, and plastic",
+    "High-speed steel cutting edge",
+    "Spring steel backing for durability",
+    "Includes blades for various materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-pressurised-water-container-14-litre.html|>
+## MEXCO Pressurised Water Container 14 litre
+
+{
+  "price": "€81.87 inc VAT (€66.56 exc.vat)",
+  "description": "The MEXCO Pressurised Water Container provides a mobile wet cutting solution to eliminate dust build up when operating cut-off saws. With up to 3 bar working pressure there is no requirement for an external water source connection. Supplied with a 2 metre hose and quick connection coupling. Capacity: 14 litre",
+  "availability": "In Stock",
+  "product_name": "MEXCO Pressurised Water Container 14 litre",
+  "specifications": [
+    "Capacity: 14 litre",
+    "Working pressure: up to 3 bar",
+    "Includes 2 metre hose and quick connection coupling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-pressurised-water-container-10-litre.html|>
+## MEXCO Pressurised Water Container 10 litre
+
+{
+  "price": "€110.65 inc VAT (€89.96 exc.vat)",
+  "description": "The MEXCO Pressurised Water Container provides a mobile wet cutting solution to eliminate dust build up when operating cut-off saws. With up to 3 bar working pressure there is no requirement for an external water source connection. Supplied with 4 metre hose, dust ingress prevention cover and quick connection coupling.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Pressurised Water Container 10 litre",
+  "specifications": [
+    "Capacity: 10 litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-10l-o-rings-and-gasket.html|>
+## MEXCO 10L 'O' Rings & Gasket
+
+{
+  "price": "€21.57 inc VAT (€17.54 exc.vat)",
+  "description": "Replacement 'O' Rings & Gasket for the MEXCO Pressurised Water Container 10 litre (MEX3270).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 10L 'O' Rings & Gasket",
+  "specifications": [
+    "MEX6002 : €21.57",
+    "List: €44.03",
+    "You save €22.46"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-10l-water-container-foot-ring.html|>
+## MEXCO 10L Water Container Foot Ring
+
+{
+  "price": "€14.48 inc VAT (€11.77 exc.vat)",
+  "description": "Replacement Water Container Foot Ring for the MEXCO Pressurised Water Container 10 litre (MEX3270).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 10L Water Container Foot Ring",
+  "specifications": [
+    "Model: MEX6126OE",
+    "List Price: €29.54",
+    "You save: €15.06",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-10l-bottle-pump-handle-kit.html|>
+## MEXCO 10L Bottle Pump Handle Kit
+
+{
+  "price": "€74.96 inc VAT (€60.94 exc.vat)",
+  "description": "Replacement Bottle Pump Handle Kit for the MEXCO Pressurised Water Container 10 litre (MEX3270).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 10L Bottle Pump Handle Kit",
+  "specifications": [
+    "Model: MEX6224N",
+    "List Price: €152.99",
+    "You save: €78.03",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-10l-water-container-funnel-cover.html|>
+## MEXCO 10L Water Container Funnel Cover
+
+{
+  "price": "€8.30 inc VAT (€6.75 exc.vat)",
+  "description": "Replacement Water Container Funnel Cover for the MEXCO Pressurised Water Container 10 litre (MEX3270).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 10L Water Container Funnel Cover",
+  "specifications": [
+    "Model: MEX6247D",
+    "List Price: €16.94",
+    "You save: €8.64",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-10l-bottle-hose-kit.html|>
+## MEXCO 10L Bottle Hose Kit
+
+{
+  "price": "€40.64 inc VAT (€33.04 exc.vat)",
+  "description": "MEXCO Hose Kit for the MEXCO Pressurised Water Container 10 litre (MEX3270). Contains: 4m of Hose, Inline Filter & Coupling.",
+  "availability": "In Stock",
+  "product_name": "MEXCO 10L Bottle Hose Kit",
+  "specifications": [
+    "10L Bottle Hose Kit",
+    "MEX6300WN : €40.64",
+    "Contains: 4m of Hose, Inline Filter & Coupling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-10l-piston-pressure-release-cap.html|>
+## MEXCO 10L Piston Pressure Release Cap
+
+{
+  "price": "€18.89 inc VAT (€15.36 exc.vat)",
+  "description": "Replacement Piston Pressure Release Cap for the MEXCO Pressurised Water Container 10 litre (MEX3270).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 10L Piston Pressure Release Cap",
+  "specifications": [
+    "Model: MEX6707",
+    "List Price: €38.54",
+    "You save: €19.65",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-14l-bottle-base.html|>
+## MEXCO 14L Bottle Base
+
+{
+  "price": "€11.14 inc VAT (€9.06 exc.vat)",
+  "description": "Replacement Bottle Base for the MEXCO Pressurised Water Container 14 litre (MEX3180).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 14L Bottle Base",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-14l-bottle-hose-assembly.html|>
+## MEXCO 14L Bottle Hose Assembly
+
+{
+  "price": "€17.48 inc VAT (€14.21 exc.vat)",
+  "description": "Replacement 3 metre hose assembly for the MEXCO Pressurised Water Container 14 litre (MEX3180)",
+  "availability": "In Stock",
+  "product_name": "MEXCO 14L Bottle Hose Assembly",
+  "specifications": [
+    "Replacement 3 metre hose assembly for the MEXCO Pressurised Water Container 14 litre (MEX3180)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-14l-bottle-lift-pipe-assembly.html|>
+## MEXCO 14L Bottle Lift Pipe Assembly
+
+{
+  "price": "€8.49 inc VAT (€6.90 exc.vat)",
+  "description": "Replacement lift pipe assembly for the MEXCO Pressurised Water Container 14 litre (MEX3180).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 14L Bottle Lift Pipe Assembly",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-14l-bottle-pressure-valve.html|>
+## MEXCO 14L Bottle Pressure Valve
+
+{
+  "price": "€4.70 inc VAT (€3.82 exc.vat)",
+  "description": "Replacement pressure release valve for the MEXCO Pressurised Water Container 14 litre (MEX3180)",
+  "availability": "In Stock",
+  "product_name": "MEXCO 14L Bottle Pressure Valve",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-14l-bottle-pump-handle-kit.html|>
+## MEXCO 14L Bottle Pump Handle Kit
+
+{
+  "price": "€13.83 inc VAT (€11.24 exc.vat)",
+  "description": "Replacement pump handle kit complete for the MEXCO Pressurised Water Container 14 litre (MEX3180).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 14L Bottle Pump Handle Kit",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-14l-bottle-quick-connector.html|>
+## MEXCO 14L Bottle Quick Connector
+
+{
+  "price": "€6.90 inc VAT (€5.61 exc.vat)",
+  "description": "Replacement quick hose connector for connecting the disc cutter to the MEXCO Pressurised Water Container 14 litre (MEX3180).",
+  "availability": "In Stock",
+  "product_name": "MEXCO 14L Bottle Quick Connector",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-14l-bottle-o-ring.html|>
+## MEXCO 14L Bottle 'O' Ring
+
+{
+  "price": "€8.28 inc VAT (€6.73 exc.vat)",
+  "description": "Replacement 'O' ring set for the MEXCO Pressurised Water Container 14 litre (MEX3180). Contains 9 'O' rings.",
+  "availability": "In Stock",
+  "product_name": "MEXCO 14L Bottle 'O' Ring",
+  "specifications": [
+    "Replacement 'O' ring set for the MEXCO Pressurised Water Container 14 litre (MEX3180)",
+    "Contains 9 'O' rings"
+  ]
+}
+

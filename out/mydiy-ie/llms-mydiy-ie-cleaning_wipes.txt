@@ -1,0 +1,32 @@
+<|https://www.mydiy.ie/products/big-wipes-4x4-heavy-duty-cleaning-wipes.html|>
+## Big Wipes 4x4 Heavy-Duty Cleaning Wipes
+
+{
+  "price": "€13.87 inc VAT",
+  "description": "Dual-sided 'scrub & clean', industrial strength, antibacterial, heavy-duty cleaning wipes that are ideal for use on the toughest stains and most ingrained dirt. Extremely tear resistant, Heavy-Duty wipes offer the perfect fabric combination: Scrub face - super tough cloth that loosens even the most stubborn grime Smooth face - soaks up the muck. The unique biodegradable, water-based formulation of 4x power cleansers ensures the removal of paint, adhesives, oil, sealants, silicone's, PU foam and general grime from hands, tools and surfaces. Preservative-free and designed to meet tough EU Regulation 1223/2009 for Cosmetic Products, Big Wipes Heavy-Duty wipes contain 4x skin conditioners - Aloe Vera, Lanolin, Vitamin E and Glycerine – all helping to nourish and protect the skin.",
+  "availability": "In Stock",
+  "product_name": "Big Wipes 4x4 Heavy-Duty Cleaning Wipes",
+  "specifications": [
+    "Refill Pouch 80 Wipes",
+    "Tub of 80"
+  ],
+  "product_category": "Cleaning Wipes"
+}
+
+
+
+<|https://www.mydiy.ie/products/big-wipes-4x4-multi-purpose-cleaning-wipes.html|>
+## Big Wipes 4x4 Multi-Purpose Cleaning Wipes
+
+{
+  "price": "€10.79 inc VAT",
+  "description": "Industrial-strength, multi-purpose, antibacterial cleaning wipes designed for use by anyone who needs a very tough, highly tear resistant, very absorbent and immediate on-hand cleaning product. The cutting edge 3 layered power fabric captures liquid between the fibres, minimising the number of cleansing wipes used for any cleaning job. The unique biodegradable, water-based formulation of 4x power cleansers ensures the removal of paint, adhesives, oil, sealants, silicones, PU foam and general grime from hands, tools and surfaces. Preservative-free and designed to meet tough EU Regulation 1223/2009 for Cosmetic Products, Big Wipes Multi-Purpose wipes contain 4x skin conditioners - Aloe Vera, Lanolin, Vitamin E and Glycerine – all helping to nourish and protect the skin.",
+  "availability": "In Stock",
+  "product_name": "Big Wipes 4x4 Multi-Purpose Cleaning Wipes",
+  "specifications": [
+    "Pack of 120",
+    "Pack of 80"
+  ],
+  "product_category": "Cleaning Wipes"
+}
+

@@ -1,0 +1,42 @@
+<|https://www.mydiy.ie/products/faithfull-pocket-portable-multimeter.html|>
+## Faithfull Pocket Portable Multimeter
+
+{
+  "price": "€23.69 inc VAT (€19.26 exc.vat)",
+  "description": "The Faithfull Pocket Portable Multimeter is a compact unit contained within a flip open case. It is ideal for performing many checks used in radio and electronic testing, car electrics, household appliances, portable tools and similar equipment. With a 3.1/2 digit LCD display, this multimeter is suitable for measuring DC and AC voltage, DC and AC current, resistance, diode and continuity. It features data hold and polarity indication. It is easy to operate and carry, and is an ideal measurement tool. Supplied with batteries, test leads and user manual.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Pocket Portable Multimeter",
+  "specifications": [
+    "AC Voltage: 200-250V",
+    "DC Voltage: 2V/20V/200V/300V",
+    "DC Current: 200mA",
+    "Resistance: 2kΩ/20kΩ/200kΩ/2000kΩ",
+    "Diode Check: ~2.5V",
+    "Continuity: > 30Ω",
+    "Cat II 250V",
+    "Power: 2 x 1.5V LR44 batteries (supplied)",
+    "Dimensions: 114 x 55 x 22mm",
+    "Weight: approx. 100g (including battery)"
+  ],
+  "product_category": "Detectors & Testers"
+}
+
+<|https://www.mydiy.ie/products/faithfull-voltage-detector-stick.html|>
+## Faithfull Voltage Detector Stick
+
+{
+  "price": "€20.06 inc VAT (€16.31 exc.vat)",
+  "description": "The Faithfull Voltage Detector Stick is a non-contact AC voltage detector for detecting 5-1000V AC voltage. It is ideal for testing sockets and wires, and for detecting break points in a live wire. When AC voltage is detected, the indicator LED will flash red and the built-in buzzer will sound short beeps. The rotary power switch can be used to adjust the unit's detection sensitivity and an illumination function is provided for use in dark places. The detector's LED will flash red periodically to indicate there is sufficient battery power left. The casing features a pocket clip to help keep the unit close to hand. Supplied with batteries and user manual.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Voltage Detector Stick",
+  "specifications": [
+    "Voltage Detecting Range: 5-1000V AC",
+    "Frequency Range: 50~400Hz",
+    "Safety Category: CAT IV 1000V",
+    "Power: 2 x 1.5V AAA batteries (supplied)",
+    "Size: 154 x 32 x 28mm",
+    "Weight: approx. 50g (including batteries)"
+  ],
+  "product_category": "Detectors & Testers"
+}
+

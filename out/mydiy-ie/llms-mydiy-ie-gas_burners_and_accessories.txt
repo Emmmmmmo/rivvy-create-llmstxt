@@ -1,0 +1,36 @@
+<|https://www.mydiy.ie/products/campingaz-butane-propane-gas-cartridge.html|>
+## Campingaz Butane Propane Gas Cartridge
+
+{
+  "price": "€9.91 inc VAT",
+  "description": "This Campingaz cartridge of a mix of Butane/Propane gas is suitable for use with Campingaz Easy Clic® PLUS and Easy Clic® appliances. It has a high-security self-sealing valve, meaning it can be easily and safely disconnected and reconnected even when not empty. It is small and lightweight, making it easy to transport. Ideal for camping. Caution: This product is highly flammable.",
+  "availability": "In Stock",
+  "product_name": "Campingaz Butane Propane Gas Cartridge",
+  "specifications": [
+    "Suitable for Campingaz Easy Clic® PLUS and Easy Clic® appliances",
+    "High-security self-sealing valve",
+    "Small and lightweight",
+    "Ideal for camping",
+    "Highly flammable"
+  ],
+  "product_category": "Gas Burners & Accessories"
+}
+
+<|https://www.mydiy.ie/products/campingaz-cv470-butanepropane-gas-plus-203084.html|>
+## Campingaz CV470 Butane/Propane Gas Plus 203084
+
+{
+  "price": "€16.53 inc VAT (€13.44 exc.vat)",
+  "description": "This Campingaz cartridge of a mix of Butane/Propane gas is suitable for use with Campingaz Easy Clic PLUS and Easy Clic® appliances. It has a high security self-sealing valve, meaning it can be easily and safely disconnected and reconnected even when not empty. It is relatively small and lightweight, making it easy to transport. Ideal for camping, Caution: this product is highly flammable. Size: 450g.",
+  "availability": "Out of Stock",
+  "product_name": "Campingaz CV470 Butane/Propane Gas Plus 203084",
+  "specifications": [
+    "Size: 450g",
+    "High security self-sealing valve",
+    "Suitable for Campingaz Easy Clic PLUS and Easy Clic® appliances",
+    "Ideal for camping",
+    "Highly flammable"
+  ],
+  "product_category": "Gas Burners & Accessories"
+}
+

@@ -1,0 +1,1426 @@
+<|https://www.mydiy.ie/products/1-gang-switched-socket.html|>
+## 1 Gang Switched Socket
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "Single Switched Socket, White, 1 Gang, 13 amp, Standard bakelite-fitting switch, 2.5 core twin + earth cable, Fittings included",
+  "availability": "In Stock",
+  "product_name": "1 Gang Switched Socket",
+  "specifications": [
+    "Single Switched Socket",
+    "White",
+    "1 Gang",
+    "13 amp",
+    "Standard bakelite-fitting switch",
+    "2.5 core twin + earth cable",
+    "Fittings included"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/13-amp-rubberized-plug-top.html|>
+## 13 Amp Rubberized Plug top
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "13 Amp Rubberized Plug top",
+  "availability": "In Stock",
+  "product_name": "13 Amp Rubberized Plug top",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/2-way-adapter.html|>
+## 2 Way Adapter
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "2 Way Adapter",
+  "availability": "In Stock",
+  "product_name": "2 Way Adapter",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/3-way-adapter-fused.html|>
+## 3 Way Adapter Fused
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "The Triple Adaptor is a convenient and practical solution for powering multiple devices at once. This adaptor features a 3 gang design, allowing you to plug in up to three devices in a single wall socket. With a 13 amp capacity, it is suitable for powering a range of electrical appliances and devices. For added safety, the adaptor is fused, helping to protect against electrical overloads and short circuits. The compact and lightweight design makes it easy to carry and use on the go, making it ideal for use in homes, offices, and even when traveling. Whether you need to power up your laptop, phone, and tablet or you have multiple appliances to plug in, the Triple Adaptor has got you covered.",
+  "availability": "In Stock",
+  "product_name": "3 Way Adapter Fused",
+  "specifications": [
+    "Make a single socket a triple.",
+    "13A Fuse",
+    "Max Load 250v"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/4-extractor-fan-with-timer.html|>
+## 4'' EXTRACTOR FAN WITH TIMER
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "4'' EXTRACTOR FAN WITH TIMER",
+  "availability": "In Stock",
+  "product_name": "4'' EXTRACTOR FAN WITH TIMER",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Orders under €150: €8.99 delivery fee",
+    "Most orders ship on a 24-hour courier service (2 working days)",
+    "Money Back Guarantee within 16 days of delivery date"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/5amp-pull-cord-switch.html|>
+## 5AMP PULL CORD SWITCH
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "The Powermaster 2 Way Pull Cord Switch - 6 Amp is a standard white bakelite fitting. It fits straight to the ceiling and allows for the control of two fittings such as the main light and fan. The pack contains one pull cord switch and has hassle free, easy to open polyurethane packaging. It requires standard installation tools and should only be installed by a competent, qualified person. It is CE approved.",
+  "availability": "In Stock",
+  "product_name": "5AMP PULL CORD SWITCH",
+  "specifications": [
+    "Height: 8cm",
+    "Width: 8cm",
+    "Depth: 3cm",
+    "Weight: 139gr"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/60w-switched-lampholder.html|>
+## 60W Switched Lampholder
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "60W Switched Lampholder",
+  "availability": "In Stock",
+  "product_name": "60W Switched Lampholder",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/arctic-hayes-access-panels.html|>
+## Arctic Hayes Access Panels
+
+{
+  "price": "€13.21 inc VAT",
+  "description": "The Arctic Access Panel Range offers a simple, low cost, high quality solution to provide protected openings in ceilings and walls for access to building engineering services. The injection molded slim profile produces a lightweight solution, enabling an easy fit installation into all types of wall or ceiling construction. Made from UV stable ABS and is held closed by a snap friction catch. They can be over-painted to match the surrounding surface.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Access Panels",
+  "specifications": [
+    "Available sizes: 100 x 150mm, 150 x 230mm, 200 x 200mm, 300 x 300mm, 350 x 350mm",
+    "Made from UV stable ABS",
+    "Lightweight and easy to install",
+    "Can be over-painted to match surroundings"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+
+
+<|https://www.mydiy.ie/products/evolamp-9w-led-gls-bc-3k-dusk-til-dawn.html|>
+## Evolamp 9W LED GLS BC 3K Dusk Til Dawn
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Evolamp 9W LED GLS BC 3K Dusk Til Dawn Sensor Lamp – Warm White (850 Lumens). Upgrade your outdoor or indoor lighting with the Evolamp 9W LED GLS Dusk Til Dawn Sensor Lamp, designed for convenience, energy efficiency, and reliable performance. Featuring a built-in light sensor, this bulb automatically switches on at dusk and off at dawn—no timers or switches needed. With a warm white 3000K colour temperature and 850 lumens output, it provides a soft yet bright light ideal for porches, hallways, and security lighting. The standard BC (Bayonet Cap) fitting makes it compatible with most traditional light fixtures. This non-dimmable LED bulb offers up to 15,000 hours of reliable light while consuming only 9W, making it an energy-efficient replacement for older incandescent or CFL bulbs.",
+  "availability": "In Stock",
+  "product_name": "Evolamp 9W LED GLS BC 3K Dusk Til Dawn",
+  "specifications": [
+    "Wattage: 9W (equivalent brightness to 60W incandescent)",
+    "Lumens: 850 lm",
+    "Cap Type: BC (Bayonet Cap)",
+    "Colour Temperature: 3000K Warm White",
+    "Dimmable: No",
+    "Rated Life: 15,000 hours",
+    "Voltage: 240V AC, 50Hz",
+    "Sensor: Built-in dusk til dawn sensor"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/child-safety-blanking-plug.html|>
+## Child Safety Blanking Plug
+
+{
+  "price": "€2.99 inc VAT (€2.43 exc.vat)",
+  "description": "The Powermaster Child Socket Safety Blank - 5 Pack is used to blank off unused sockets to help prevent young children from putting objects into exposed live sockets. This lead-free safety blank conforms to electrical safety standards and comes individually packed for extra protection.",
+  "availability": "In Stock",
+  "product_name": "Child Safety Blanking Plug",
+  "specifications": [
+    "Individually packed for protection",
+    "Conforms to electrical standards",
+    "Lead-free"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-12-way-connector-strips.html|>
+## Dencon 12 Way Connector Strips
+
+{
+  "price": "€1.29 inc VAT",
+  "description": "Dencon Connector Strips are made from high quality Polymide. Used to connect multiple wires together.",
+  "availability": "In Stock",
+  "product_name": "Dencon 12 Way Connector Strips",
+  "specifications": [
+    "Made from high quality Polymide",
+    "Used to connect multiple wires together"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-1g-to-2g-converter-socket.html|>
+## Dencon 1G to 2G Converter Socket
+
+{
+  "price": "€10.20 inc VAT (€8.29 exc.vat)",
+  "description": "The Dencon Converter Socket converts an existing flush mounted single switched socket to a 2-gang switched surface socket. This is a wired installation.",
+  "availability": "In Stock",
+  "product_name": "Dencon 1G to 2G Converter Socket",
+  "specifications": [
+    "1G to 2G Converter",
+    "Wired installation"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-2-core-inline-switch-2a.html|>
+## Dencon 2 Core Inline Switch 2A
+
+{
+  "price": "€2.98 inc VAT",
+  "description": "Decon Double Pole Inline Switch 2A. Designed to be added to the flex of a table lamp.",
+  "availability": "In Stock",
+  "product_name": "Dencon 2 Core Inline Switch 2A",
+  "specifications": [
+    "Select Option: Black, White",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-2-way-adaptor-13a-fused.html|>
+## Dencon 2 Way Adaptor 13A Fused
+
+{
+  "price": "€2.55 inc VAT (€2.07 exc.vat)",
+  "description": "Dencon Fused 2 Way Adaptor. Sockets are located on the top and front. Conforms to BSI1363/3.",
+  "availability": "Out of Stock",
+  "product_name": "Dencon 2 Way Adaptor 13A Fused",
+  "specifications": [
+    "2 Way Adaptor 13A Fused",
+    "DCN5685NB : €2.55"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-3-core-through-switch-6a.html|>
+## Dencon 3 Core Through Switch 6A
+
+{
+  "price": "€4.56 inc VAT",
+  "description": "Dencon 3 Core Through Switch 6A. Designed to be added to the flex of a table lamp.",
+  "availability": "In Stock",
+  "product_name": "Dencon 3 Core Through Switch 6A",
+  "specifications": [
+    "Designed to be added to the flex of a table lamp"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-3-pin-fused-plug-13a-white.html|>
+## Dencon 3 Pin Fused Plug 13A White
+
+{
+  "price": "€2.19 inc VAT (€1.78 exc.vat)",
+  "description": "Dencon 3 Pin Fused Plug with 13 Amp fuse. Manufactured to British standards.",
+  "availability": "In Stock",
+  "product_name": "Dencon 3 Pin Fused Plug 13A White",
+  "specifications": [
+    "3 Pin Fused Plug",
+    "13 Amp fuse",
+    "Manufactured to British standards"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-3-pin-rubber-plug-13a.html|>
+## Dencon 3 Pin Rubber Plug 13A
+
+{
+  "price": "€3.46 inc VAT",
+  "description": "Dencon 3 Pin Rubber Plug with 13 Amp Fuse. Manufactured to British standards.",
+  "availability": "In Stock",
+  "product_name": "Dencon 3 Pin Rubber Plug 13A",
+  "specifications": [
+    "13 Amp Fuse",
+    "Manufactured to British standards"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-3-pole-connector-box.html|>
+## Dencon 3 Pole Connector Box
+
+{
+  "price": "€2.37 inc VAT",
+  "description": "The Dencon 3 Pole Connector Box provides a safe and simple solution to protect and insulate electrical connections. Screws and 10A connector strip included. Dimensions (LxWxH): 65 x 35 x 25mm.",
+  "availability": "In Stock",
+  "product_name": "Dencon 3 Pole Connector Box",
+  "specifications": [
+    "Dimensions (LxWxH): 65 x 35 x 25mm",
+    "Includes screws and 10A connector strip"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-3-way-adaptor-13a-fused.html|>
+## Dencon 3 Way Adaptor 13A Fused
+
+{
+  "price": "€4.51 inc VAT (€3.67 exc.vat)",
+  "description": "Dencon Fused 3 Way Adaptor. Sockets are located on the top, then on the right and left sides. Conforms to BSI1363/3.",
+  "availability": "In Stock",
+  "product_name": "Dencon 3 Way Adaptor 13A Fused",
+  "specifications": [
+    "Fused 3 Way Adaptor",
+    "Conforms to BSI1363/3",
+    "Sockets located on top, right, and left sides"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-4-pole-connector-box.html|>
+## Dencon 4 Pole Connector Box
+
+{
+  "price": "€2.42 inc VAT",
+  "description": "The Dencon 4 Pole Connector Box provides a safe and simple solution to protect and insulate electrical connections. 4 way screw terminal block included.",
+  "availability": "In Stock",
+  "product_name": "Dencon 4 Pole Connector Box",
+  "specifications": [
+    "4 way screw terminal block included"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-adjustable-earth-bonding-clamp.html|>
+## Dencon Adjustable Earth Bonding Clamp
+
+{
+  "price": "€2.71 inc VAT (€2.20 exc.vat)",
+  "description": "Dencon Adjustable Earth Bonding Clamp for Pipes 12-32mm Ø, cable 2.5-10mm. Conforms to BS9S Standards.",
+  "availability": "In Stock",
+  "product_name": "Dencon Adjustable Earth Bonding Clamp",
+  "specifications": [
+    "Pipes 12-32mm Ø",
+    "Cable 2.5-10mm",
+    "Conforms to BS9S Standards"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-australian-travel-adaptor-10a.html|>
+## Dencon Australian Travel Adaptor 10A
+
+{
+  "price": "€2.51 inc VAT (€2.04 exc.vat)",
+  "description": "The Dencon Travel Adaptor for UK visitors to Australia. Pins are fixed.",
+  "availability": "In Stock",
+  "product_name": "Dencon Australian Travel Adaptor 10A",
+  "specifications": [
+    "Model: DCN1661",
+    "Voltage: 10A",
+    "Type: Travel Adaptor"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-b22-to-e27-adaptor-black.html|>
+## Dencon B22 to E27 Adaptor Black
+
+{
+  "price": "€3.06 inc VAT (€2.49 exc.vat)",
+  "description": "This Dencon BC to ES Adaptor converts a B22 BC lamp holder to a E27 ES lamp holder.",
+  "availability": "Out of Stock",
+  "product_name": "Dencon B22 to E27 Adaptor Black",
+  "specifications": [
+    "B22 to E27 Adaptor",
+    "DCN1940BNB : €3.06"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-bc-brass-12in-switched-lamp-holder.html|>
+## Dencon BC Brass 1/2in Switched Lamp Holder
+
+{
+  "price": "€4.46 inc VAT (€3.63 exc.vat)",
+  "description": "The Dencon BC Brass 1/2in Switched Lamp Holder with earth.",
+  "availability": "In Stock",
+  "product_name": "Dencon BC Brass 1/2in Switched Lamp Holder",
+  "specifications": [
+    "BC Brass 1/2in Switched Lamp Holder",
+    "DCN101NB : €4.46"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-bc-brass-12in-unswitched-lamp-holder.html|>
+## Dencon BC Brass 1/2in Unswitched Lamp Holder
+
+{
+  "price": "€3.60 inc VAT (€2.93 exc.vat)",
+  "description": "Dencon BC Brass 1/2in Unswitched Lamp Holder with earth.",
+  "availability": "Out of Stock",
+  "product_name": "Dencon BC Brass 1/2in Unswitched Lamp Holder",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-blanking-plate.html|>
+## Dencon Blanking Plate
+
+{
+  "price": "€1.21 inc VAT",
+  "description": "Dencon White Moulded Plastic Blanking Plate.",
+  "availability": "In Stock",
+  "product_name": "Dencon Blanking Plate",
+  "specifications": [
+    "Select Option: Double, Single",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-bottle-b22-lamp-adaptor-with-flex-and-plug.html|>
+## Dencon Bottle B22 Lamp Adaptor with Flex & Plug
+
+{
+  "price": "€8.30 inc VAT (€6.75 exc.vat)",
+  "description": "Dencon Bottle B22 Lamp Adaptor with Flex & Plug. Fits bottles with a diameter of between 17mm and 19mm. Conforms to BSEN/IEC60598. Suitable for Indoor use ONLY! Recommended Wattage: 60W max. for closed shade and 100W max. for open shade. Cable Length: 2m.",
+  "availability": "Out of Stock",
+  "product_name": "Dencon Bottle B22 Lamp Adaptor with Flex & Plug",
+  "specifications": [
+    "Fits bottles with a diameter of between 17mm and 19mm",
+    "Conforms to BSEN/IEC60598",
+    "Suitable for Indoor use ONLY",
+    "Recommended Wattage: 60W max. for closed shade and 100W max. for open shade",
+    "Cable Length: 2m"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-ceiling-pendant-kit.html|>
+## Dencon Ceiling Pendant Kit
+
+{
+  "price": "€4.43 inc VAT",
+  "description": "Dencon Ceiling Pendant Kit with T1 lamp holder. Suitable for conditions up to 165°C.",
+  "availability": "In Stock",
+  "product_name": "Dencon Ceiling Pendant Kit",
+  "specifications": [
+    "Select Option: 150mm (6in), 225mm (9in)",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-ceiling-rose-6a-white.html|>
+## Dencon Ceiling Rose 6A White
+
+{
+  "price": "€2.79 inc VAT (€2.27 exc.vat)",
+  "description": "Dencon 6 Amp White Ceiling Rose complete with terminals.",
+  "availability": "In Stock",
+  "product_name": "Dencon Ceiling Rose 6A White",
+  "specifications": [
+    "6 Amp",
+    "White",
+    "Complete with terminals"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-ceiling-switch-with-neon-and-indicator-45a.html|>
+## Dencon Ceiling Switch with Neon & Indicator 45A
+
+{
+  "price": "€12.00 inc VAT (€9.76 exc.vat)",
+  "description": "Dencon White Moulded Plastic Ceiling Switch 45A with neon and indicator.",
+  "availability": "In Stock",
+  "product_name": "Dencon Ceiling Switch with Neon & Indicator 45A",
+  "specifications": [
+    "45A capacity",
+    "White moulded plastic",
+    "Includes neon and indicator"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-clip-on-lamp-adaptor-with-flexplug.html|>
+## Dencon Clip-On Lamp Adaptor with Flex/Plug
+
+{
+  "price": "€7.71 inc VAT (€6.27 exc.vat)",
+  "description": "Dencon Clip-On Lamp Adaptor with 2m Flex and 13A Plug. B22 BC switched fitting.",
+  "availability": "In Stock",
+  "product_name": "Dencon Clip-On Lamp Adaptor with Flex/Plug",
+  "specifications": [
+    "Clip-On Lamp Adaptor",
+    "2m Flex",
+    "13A Plug",
+    "B22 BC switched fitting"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-compact-lever-connector.html|>
+## Dencon Compact Lever Connector
+
+{
+  "price": "from €1.41 inc VAT",
+  "description": "Dencon Compact Lever Connectors are quick and easy to use. Ideal for connecting multiple wires.",
+  "availability": "In Stock",
+  "product_name": "Dencon Compact Lever Connector",
+  "specifications": [
+    "3 Pole, 32A",
+    "5 Pole, 32A"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-double-pole-switch-45a-with-switched-socket-13a.html|>
+## Dencon Double Pole Switch 45A with Switched Socket 13A
+
+{
+  "price": "€18.01 inc VAT (€14.64 exc.vat)",
+  "description": "Dencon White Moulded Plastic 45A Double Pole Cooker Switch with 13A Switched Socket.",
+  "availability": "In Stock",
+  "product_name": "Dencon Double Pole Switch 45A with Switched Socket 13A",
+  "specifications": [
+    "45A Double Pole Cooker Switch",
+    "13A Switched Socket",
+    "White Moulded Plastic"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-double-pole-switch-with-pilot-lamp-45a.html|>
+## Dencon Double Pole Switch with Pilot Lamp 45A
+
+{
+  "price": "€11.83 inc VAT (€9.62 exc.vat)",
+  "description": "Dencon White Moulded Plastic 45A Double Pole Cooker Switch with Pilot Lamp.",
+  "availability": "In Stock",
+  "product_name": "Dencon Double Pole Switch with Pilot Lamp 45A",
+  "specifications": [
+    "45A Double Pole Cooker Switch",
+    "White Moulded Plastic",
+    "Includes Pilot Lamp"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-dry-lining-box.html|>
+## Dencon Dry Lining Box
+
+{
+  "price": "€1.67 inc VAT",
+  "description": "Dencon Dry Lining Box with multiple knock outs for cable. Adjustable for varying plasterboard thickness.",
+  "availability": "In Stock",
+  "product_name": "Dencon Dry Lining Box",
+  "specifications": [
+    "1-Gang, 36mm",
+    "2-Gang 36mm"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-dual-metal-back-box-35mm.html|>
+## Dencon Dual Metal Back Box 35mm
+
+{
+  "price": "€4.15 inc VAT (€3.37 exc.vat)",
+  "description": "Dencon Dual Metal Socket Box with adjustable lugs, earth terminal and multiple knock outs for cable entry. Conforms to BS4662.",
+  "availability": "In Stock",
+  "product_name": "Dencon Dual Metal Back Box 35mm",
+  "specifications": [
+    "Adjustable lugs",
+    "Earth terminal",
+    "Multiple knock outs for cable entry",
+    "Conforms to BS4662"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-e27-to-b22-adaptor-white.html|>
+## Dencon E27 to B22 Adaptor White
+
+{
+  "price": "€3.06 inc VAT (€2.49 exc.vat)",
+  "description": "This Dencon ES to BC Adaptor converts a E27 ES lamp holder to a B22 BC lamp holder.",
+  "availability": "In Stock",
+  "product_name": "Dencon E27 to B22 Adaptor White",
+  "specifications": [
+    "E27 to B22 Adaptor",
+    "Converts E27 ES lamp holder to B22 BC lamp holder"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-easy-pull-plug-13a-white.html|>
+## Dencon Easy Pull Plug 13A White
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "The Dencon Easy Pull Plug features a handle for assistance when inserting and removing the plugs from sockets. Ideal for anyone with arthritis, a weak grip, or when plugs or sockets are a tight fit.",
+  "availability": "In Stock",
+  "product_name": "Dencon Easy Pull Plug 13A White",
+  "specifications": [
+    "13A rating",
+    "Easy pull handle for easy insertion and removal",
+    "Ideal for individuals with arthritis or weak grip"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-euuscanaus-to-uk-adaptor-13a.html|>
+## Dencon EU/US/CAN/AUS to UK Adaptor 13A
+
+{
+  "price": "€3.83 inc VAT (€3.11 exc.vat)",
+  "description": "The Dencon EU/US/CAN/AUS to UK Adaptor. Conforms to BS8546.",
+  "availability": "In Stock",
+  "product_name": "Dencon EU/US/CAN/AUS to UK Adaptor 13A",
+  "specifications": [
+    "Conforms to BS8546"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-european-travel-adaptor-10a.html|>
+## Dencon European Travel Adaptor 10A
+
+{
+  "price": "€2.51 inc VAT (€2.04 exc.vat)",
+  "description": "The Dencon Travel Adaptor for UK visitors to Europe. Pins are fixed. Conforms to BS8546.",
+  "availability": "In Stock",
+  "product_name": "Dencon European Travel Adaptor 10A",
+  "specifications": [
+    "10A capacity",
+    "Conforms to BS8546",
+    "Fixed pins"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-fan-isolator-switch-10a.html|>
+## Dencon Fan Isolator Switch 10A
+
+{
+  "price": "€5.61 inc VAT (€4.56 exc.vat)",
+  "description": "Dencon White Moulded 10A 3 Pole Fan Isolator Switch.",
+  "availability": "In Stock",
+  "product_name": "Dencon Fan Isolator Switch 10A",
+  "specifications": [
+    "10A",
+    "3 Pole",
+    "White Moulded"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-finger-plate.html|>
+## Dencon Finger Plate
+
+{
+  "price": "€2.63 inc VAT",
+  "description": "Dencon Moulded Finger Plate. Suitable for flush switches.",
+  "availability": "In Stock",
+  "product_name": "Dencon Finger Plate",
+  "specifications": [
+    "Select Option: Clear, 1-Gang, Pack of 2",
+    "Clear, 2-Gang",
+    "White, 1-Gang, Pack of 2",
+    "White, 2-Gang"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-fixed-connector.html|>
+## Dencon Fixed Connector
+
+{
+  "price": "€2.50 inc VAT",
+  "description": "Dencon Fixed Connector for connecting multiple wires together. Its body is made from durable plastic.",
+  "availability": "In Stock",
+  "product_name": "Dencon Fixed Connector",
+  "specifications": [
+    "2 Terminal, 5A",
+    "3 Terminal, 13A"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-fused-spur-without-pilot-lamp-13a.html|>
+## Dencon Fused Spur without Pilot Lamp 13A
+
+{
+  "price": "€5.15 inc VAT (€4.19 exc.vat)",
+  "description": "Dencon White Moulded Plastic Unswitched Fused Connection unit 13A without Pilot Lamp.",
+  "availability": "In Stock",
+  "product_name": "Dencon Fused Spur without Pilot Lamp 13A",
+  "specifications": [
+    "Fused Spur without Pilot Lamp 13A",
+    "DCN4466NB : €5.15"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-fuses.html|>
+## Dencon Fuses
+
+{
+  "price": "€0.96 inc VAT",
+  "description": "Dencon Replacement Fuses are made to BS1362 Standards. Suitable for use in domestic mains plugs and fused spurs.",
+  "availability": "In Stock",
+  "product_name": "Dencon Fuses",
+  "specifications": [
+    "Available Options: 13A, Pack of 4; 3A, Pack of 4; 5A, Pack of 4",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-grommet-20mm-pack-of-10.html|>
+## Dencon Grommet 20mm (Pack of 10)
+
+{
+  "price": "€1.43 inc VAT (€1.16 exc.vat)",
+  "description": "Dencon Open Grommets for metal back boxes. Pack of 10.",
+  "availability": "In Stock",
+  "product_name": "Dencon Grommet 20mm (Pack of 10)",
+  "specifications": [
+    "Pack of 10",
+    "20mm size",
+    "For metal back boxes"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-heat-resistant-bc-cordgrip-lamp-holder.html|>
+## Dencon Heat Resistant BC Cordgrip Lamp Holder
+
+{
+  "price": "€1.82 inc VAT (€1.48 exc.vat)",
+  "description": "The Dencon Heat Resistant BC Cordgrip Lamp Holder.",
+  "availability": "Out of Stock",
+  "product_name": "Dencon Heat Resistant BC Cordgrip Lamp Holder",
+  "specifications": [
+    "Heat Resistant",
+    "BC Cordgrip",
+    "Lamp Holder"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-heat-resistant-bc-switched-lamp-holder-12in-screw-entry.html|>
+## Dencon Heat Resistant BC Switched Lamp Holder 1/2in Screw Entry
+
+{
+  "price": "€1.91 inc VAT (€1.55 exc.vat)",
+  "description": "Dencon Heat Resistant BC Switched Lamp Holder with 1/2in screw entry in the base.",
+  "availability": "Out of Stock",
+  "product_name": "Dencon Heat Resistant BC Switched Lamp Holder 1/2in Screw Entry",
+  "specifications": [
+    "Heat Resistant",
+    "BC Switched",
+    "1/2in Screw Entry"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-ip66-junction-box.html|>
+## Dencon IP66 Junction Box
+
+{
+  "price": "€8.99 inc VAT",
+  "description": "Dencon IP66 Junction Box with self sealing cable inlets. Suitable for extreme conditions or outdoor installations. Comes with stainless steel lid screws.",
+  "availability": "In Stock",
+  "product_name": "Dencon IP66 Junction Box",
+  "specifications": [
+    "Self sealing cable inlets",
+    "Suitable for extreme conditions",
+    "Stainless steel lid screws"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-junction-box.html|>
+## Dencon Junction Box
+
+{
+  "price": "from €1.29 inc VAT",
+  "description": "Dencon Junction Boxes are made to BSEN60670 standards.",
+  "availability": "In Stock",
+  "product_name": "Dencon Junction Box",
+  "specifications": [
+    "3 Terminal, 30A, White",
+    "4 Terminal, 20A, White",
+    "4 Terminal, 5A, White",
+    "6-Terminal, 20A, Black"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-light-switch-10a.html|>
+## Dencon Light Switch 10A
+
+{
+  "price": "€1.94 inc VAT",
+  "description": "Dencon white moulded plastic light switch. Manufactured to BS3676. Supplied with fixing screws: M3.5 x 20mm.",
+  "availability": "In Stock",
+  "product_name": "Dencon Light Switch 10A",
+  "specifications": [
+    "1-Gang 1-Way",
+    "1-Gang 2-Way",
+    "2-Gang 2-Way"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-metal-back-box.html|>
+## Dencon Metal Back Box
+
+{
+  "price": "from €1.19 inc VAT",
+  "description": "Dencon Metal Socket Box with adjustable lugs, earth terminal and multiple knock outs for cable entry. Conforms to BS4662.",
+  "availability": "In Stock",
+  "product_name": "Dencon Metal Back Box",
+  "specifications": [
+    "1-Gang, 16mm",
+    "1-Gang 25mm",
+    "1-Gang 35mm",
+    "1-Gang 47mm",
+    "2-Gang 25mm",
+    "2-Gang 35mm",
+    "2-Gang 45mm"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-pattress-box.html|>
+## Dencon Pattress Box
+
+{
+  "price": "from €1.55 inc VAT",
+  "description": "Dencon Pattress Box with knock outs for cable. Made of high quality materials you can be sure of completing a satisfying job. Available in one and two gang options.",
+  "availability": "In Stock",
+  "product_name": "Dencon Pattress Box",
+  "specifications": [
+    "1-Gang, 28/32mm",
+    "2-Gang, 25mm",
+    "1-Gang 18mm",
+    "1-Gang 25mm",
+    "2-Gang 28/32mm"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-pattress-box-with-earth.html|>
+## Dencon Pattress Box with Earth
+
+{
+  "price": "€2.50 inc VAT",
+  "description": "Dencon Pattress Box with Earth and knock outs for cable. Made of high quality materials you can be sure of completing a satisfying job. Available in one and two gang options.",
+  "availability": "In Stock",
+  "product_name": "Dencon Pattress Box with Earth",
+  "specifications": [
+    "Available in one and two gang options",
+    "Made of high quality materials",
+    "Knock outs for cable"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-rubber-connector-plug.html|>
+## Dencon Rubber Connector Plug
+
+{
+  "price": "€3.60 inc VAT",
+  "description": "The Dencon Rubber Connector Plug provides a safe and easy way of extending power cables and electrical appliances.",
+  "availability": "In Stock",
+  "product_name": "Dencon Rubber Connector Plug",
+  "specifications": [
+    "2 Pin, 10A, Black",
+    "2 Pin, 10A, Orange",
+    "3 Pin, 10A, Black",
+    "3 Pin, 10A, Orange"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-rubber-trailing-socket.html|>
+## Dencon Rubber Trailing Socket
+
+{
+  "price": "€5.08 inc VAT",
+  "description": "Dencon Rubber Trailing Socket. Ideal for bespoke electrical extensions at work or around the home. Socket only, extension cable not included.",
+  "availability": "In Stock",
+  "product_name": "Dencon Rubber Trailing Socket",
+  "specifications": [
+    "1-Gang White",
+    "2-Gang White"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-shaver-adaptor-13a-fused.html|>
+## Dencon Shaver Adaptor 13A Fused
+
+{
+  "price": "€2.41 inc VAT (€1.96 exc.vat)",
+  "description": "Dencon Fused Shaver Adaptor. Conforms to BSI1363/3 and Asta Approved.",
+  "availability": "In Stock",
+  "product_name": "Dencon Shaver Adaptor 13A Fused",
+  "specifications": [
+    "Conforms to BSI1363/3",
+    "Asta Approved"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-single-flush-coax-tv-socket-white.html|>
+## Dencon Single Flush Coax TV Socket White
+
+{
+  "price": "€3.00 inc VAT (€2.44 exc.vat)",
+  "description": "Dencon Single Flush Coax TV Socket. Made of white plastic.",
+  "availability": "In Stock",
+  "product_name": "Dencon Single Flush Coax TV Socket White",
+  "specifications": [
+    "DCN7119NB : €3.00",
+    "WEEE Recycling Producer Registration Number:12889"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-square-ip54-junction-box.html|>
+## Dencon Square IP54 Junction Box
+
+{
+  "price": "€3.11 inc VAT",
+  "description": "Dencon Square IP54 Junction Box with multiple cable inlets.",
+  "availability": "In Stock",
+  "product_name": "Dencon Square IP54 Junction Box",
+  "specifications": [
+    "Multiple cable inlets",
+    "IP54 rated"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-switchsocket-plate-screws-brass.html|>
+## Dencon Switch/Socket Plate Screws, Brass
+
+{
+  "price": "€2.71 inc VAT",
+  "description": "Dencon Brass Switch/Socket Plate Screws.",
+  "availability": "In Stock",
+  "product_name": "Dencon Switch/Socket Plate Screws, Brass",
+  "specifications": [
+    "3.5 x 38mm, Pack of 10",
+    "3.5 x 50mm (Pack of 10)"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-switchsocket-plate-screws-nickle-plated.html|>
+## Dencon Switch/Socket Plate Screws, Nickle Plated
+
+{
+  "price": "€2.71 inc VAT",
+  "description": "Dencon Switch/Socket Plate Screws. Nickle plated for increased durability.",
+  "availability": "In Stock",
+  "product_name": "Dencon Switch/Socket Plate Screws, Nickle Plated",
+  "specifications": [
+    "3.5 x 38mm, Pack of 10",
+    "3.5 x 50mm (Pack of 10)"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-switched-fused-spur-13a-with-pilot-lamp.html|>
+## Dencon Switched Fused Spur 13A with Pilot Lamp
+
+{
+  "price": "€5.85 inc VAT (€4.76 exc.vat)",
+  "description": "Dencon White Moulded Plastic Switched Fused Connection unit 13A with Pilot Lamp.",
+  "availability": "In Stock",
+  "product_name": "Dencon Switched Fused Spur 13A with Pilot Lamp",
+  "specifications": [
+    "Switched Fused Connection unit 13A",
+    "Includes Pilot Lamp",
+    "White Moulded Plastic"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-switched-fused-spur-without-pilot-lamp-13a.html|>
+## Dencon Switched Fused Spur without Pilot Lamp 13A
+
+{
+  "price": "€5.25 inc VAT (€4.27 exc.vat)",
+  "description": "Dencon White Moulded Plastic Switched Fused Connection unit 13A without Pilot Lamp.",
+  "availability": "In Stock",
+  "product_name": "Dencon Switched Fused Spur without Pilot Lamp 13A",
+  "specifications": [
+    "Switched Fused Spur without Pilot Lamp 13A",
+    "Model: DCN4468NB",
+    "Price: €5.25"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-switched-socket-13a.html|>
+## Dencon Switched Socket 13A
+
+{
+  "price": "€3.32 inc VAT",
+  "description": "Dencon White Moulded Plastic Switched Socket 13A. Manufactured to BS3676. Supplied with fixing screws: M3.5 x 20mm.",
+  "availability": "In Stock",
+  "product_name": "Dencon Switched Socket 13A",
+  "specifications": [
+    "1-Gang",
+    "2-Gang"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-switched-socket-2-gang--2-usb-ac-ports-13a.html|>
+## Dencon Switched Socket 2-Gang + 2 USB A/C Ports 13A
+
+{
+  "price": "€21.01 inc VAT (€17.08 exc.vat)",
+  "description": "Dencon White Moulded Plastic Switched Socket with 1 USB A and 1 USB C Port 13A. Manufactured to BS3676. Supplied with fixing screws: M3.5 x 20mm.",
+  "availability": "Out of Stock",
+  "product_name": "Dencon Switched Socket 2-Gang + 2 USB A/C Ports 13A",
+  "specifications": [
+    "2-Gang",
+    "2 USB A/C Ports",
+    "13A",
+    "Manufactured to BS3676",
+    "Supplied with fixing screws: M3.5 x 20mm"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-switched-socket-2-gang--2-usb-ports-13a.html|>
+## Dencon Switched Socket 2-Gang + 2 USB Ports 13A
+
+{
+  "price": "€19.54 inc VAT (€15.89 exc.vat)",
+  "description": "Dencon White Moulded Plastic Switched Socket with 2 USB Ports 13A. Manufactured to BS3676. Supplied with fixing screws: M3.5 x 20mm.",
+  "availability": "In Stock",
+  "product_name": "Dencon Switched Socket 2-Gang + 2 USB Ports 13A",
+  "specifications": [
+    "2-Gang",
+    "2 USB Ports",
+    "13A",
+    "Manufactured to BS3676",
+    "Supplied with fixing screws: M3.5 x 20mm"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-telephone-extension-lead.html|>
+## Dencon Telephone Extension Lead
+
+{
+  "price": "€3.09 inc VAT",
+  "description": "Dencon Telephone Extension Lead for BT type sockets.",
+  "availability": "In Stock",
+  "product_name": "Dencon Telephone Extension Lead",
+  "specifications": [
+    "Available lengths: 5m, 10m, 15m",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-telephone-socket-1-way-white.html|>
+## Dencon Telephone Socket 1 Way White
+
+{
+  "price": "€4.43 inc VAT (€3.60 exc.vat)",
+  "description": "Dencon Telephone Socket 1 Way. Made of white plastic.",
+  "availability": "In Stock",
+  "product_name": "Dencon Telephone Socket 1 Way White",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-trailing-socket.html|>
+## Dencon Trailing Socket
+
+{
+  "price": "€3.54 inc VAT",
+  "description": "Replacement Dencon Trailing Socket. Ideal for bespoke electrical extensions at work or around the home. Socket only, extension cable not included.",
+  "availability": "In Stock",
+  "product_name": "Dencon Trailing Socket",
+  "specifications": [
+    "Select Option: 13A 1-Gang Black, 1-Gang Orange, 2-Gang Black, 2-Gang Orange",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-t-shape-socket-2-way-adaptor-13a-fused-with-usb.html|>
+## Dencon T-shape Socket 2 Way Adaptor 13A Fused with USB
+
+{
+  "price": "€15.79 inc VAT (€12.84 exc.vat)",
+  "description": "Dencon T-shape Socket Adaptor with 2 sockets and 2 x USB Charging Ports - 2.1A (shared). Conforms to BSI1363/3.",
+  "availability": "In Stock",
+  "product_name": "Dencon T-shape Socket 2 Way Adaptor 13A Fused with USB",
+  "specifications": [
+    "2 sockets",
+    "2 x USB Charging Ports - 2.1A (shared)",
+    "Conforms to BSI1363/3"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-unswitched-socket-13a.html|>
+## Dencon Unswitched Socket 13A
+
+{
+  "price": "€2.92 inc VAT",
+  "description": "Dencon White Moulded Plastic Unswitched Socket 13A. Manufactured to BS3676. Supplied with fixing screws: M3.5 x 20mm.",
+  "availability": "In Stock",
+  "product_name": "Dencon Unswitched Socket 13A",
+  "specifications": [
+    "Manufactured to BS3676",
+    "Supplied with fixing screws: M3.5 x 20mm"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-usa-travel-adaptor-10a.html|>
+## Dencon USA Travel Adaptor 10A
+
+{
+  "price": "€2.55 inc VAT (€2.07 exc.vat)",
+  "description": "The Dencon Travel Adaptor for UK visitors to the USA. Pins are fixed.",
+  "availability": "In Stock",
+  "product_name": "Dencon USA Travel Adaptor 10A",
+  "specifications": [
+    "Model: DCN1660",
+    "Voltage: 10A",
+    "Type: Travel Adaptor"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/dencon-white-ceiling-pull-switch-6a.html|>
+## Dencon White Ceiling Pull Switch 6A
+
+{
+  "price": "€2.98 inc VAT",
+  "description": "Dencon White Moulded Plastic Ceiling Pull Switch 6A.",
+  "availability": "In Stock",
+  "product_name": "Dencon White Ceiling Pull Switch 6A",
+  "specifications": [
+    "1 Way"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/deta-vimark-chrome-bell-push.html|>
+## Deta Vimark Chrome Bell Push
+
+{
+  "price": "€17.80 inc VAT (€14.47 exc.vat)",
+  "description": "Deta Vimark Chrome Bell Push for use with a wired 240V mains voltage door chime.",
+  "availability": "In Stock",
+  "product_name": "Deta Vimark Chrome Bell Push",
+  "specifications": [
+    "Model: DETC3506CH",
+    "Voltage: 240V",
+    "Material: Chrome"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/talatools-3-way-adaptor-16a-110v.html|>
+## TALAtools 3-Way Adaptor 16A 110V
+
+{
+  "price": "€16.04 inc VAT (€13.04 exc.vat)",
+  "description": "3 way multiple outlet socket\n\n100-130V ~ 50-60Hz\n\nConforms to IEC309-2",
+  "availability": "In Stock",
+  "product_name": "TALAtools 3-Way Adaptor 16A 110V",
+  "specifications": [
+    "3 way multiple outlet socket",
+    "100-130V ~ 50-60Hz",
+    "Conforms to IEC309-2"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/talatools-4-way-junction-box.html|>
+## TALAtools 4-Way Junction Box
+
+{
+  "price": "€33.87 inc VAT (€27.54 exc.vat)",
+  "description": "Junction box (spider) with 4 x 110V outlet sockets. Complete with 2m cable and 110V plug.",
+  "availability": "In Stock",
+  "product_name": "TALAtools 4-Way Junction Box",
+  "specifications": [
+    "4 x 110V outlet sockets",
+    "2m cable",
+    "110V plug"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/talatools-j-r7s-halogen-tube.html|>
+## TALAtools J-R7S Halogen Tube
+
+{
+  "price": "€0.79 inc VAT",
+  "description": "J-R7S Halogen Tube to suit Tala lights.",
+  "availability": "In Stock",
+  "product_name": "TALAtools J-R7S Halogen Tube",
+  "specifications": [
+    "110 Volt Version",
+    "240 Volt Version"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/talatools-led-up-light-36w-110v.html|>
+## TALAtools LED Up Light 36W 110V
+
+{
+  "price": "€110.58 inc VAT (€89.90 exc.vat)",
+  "description": "Provides 3,050 lumens of light\nEnergy saving LED bulb\n3m fitted cable with plug\n1 socket outlet\nIP54 rated",
+  "availability": "In Stock",
+  "product_name": "TALAtools LED Up Light 36W 110V",
+  "specifications": [
+    "Provides 3,050 lumens of light",
+    "Energy saving LED bulb",
+    "3m fitted cable with plug",
+    "1 socket outlet",
+    "IP54 rated"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/talatools-plug-top-1.html|>
+## TALAtools Plug Top
+
+{
+  "price": "€3.91 inc VAT",
+  "description": "Made from heavy-duty moulded plastic. For use with trailing leads. 16 amp or 32 amp available.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Plug Top",
+  "specifications": [
+    "Made from heavy-duty moulded plastic",
+    "For use with trailing leads",
+    "Available in 16 amp or 32 amp"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/talatools-s1234-blue-coupler-240v-16-amp.html|>
+## TALAtools S1234 Blue Coupler 240V 16 Amp
+
+{
+  "price": "€5.35 inc VAT (€4.35 exc.vat)",
+  "description": "Current rating: 16A and 32A\nVoltage rating: 200V to 250V and 50Hz to 60Hz\nPoles: 2P+E\nIP44 rated",
+  "availability": "Out of Stock",
+  "product_name": "TALAtools S1234 Blue Coupler 240V 16 Amp",
+  "specifications": [
+    "Current rating: 16A and 32A",
+    "Voltage rating: 200V to 250V and 50Hz to 60Hz",
+    "Poles: 2P+E",
+    "IP44 rated"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-110-volt-replacement-yellow-sockets.html|>
+## Faithfull Power Plus 110 Volt Replacement Yellow Sockets
+
+{
+  "price": "€3.62 inc VAT",
+  "description": "Faithfull Power Plus 110 Volt Replacement Yellow Sockets",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus 110 Volt Replacement Yellow Sockets",
+  "specifications": [
+    "Available in 16 Amp and 32 Amp options"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-black-rubberised-plug-240-volt-13-amp.html|>
+## Faithfull Power Plus Black Rubberised Plug 240 Volt 13 Amp
+
+{
+  "price": "€2.32 inc VAT (€1.89 exc.vat)",
+  "description": "Black rubberised plug, 240v, 13amp. This plug features a sturdy nylon base and a cover cap with a rubber content that is approved to BS1363/A. Intended for rough conditions.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus Black Rubberised Plug 240 Volt 13 Amp",
+  "specifications": [
+    "240 Volt",
+    "13 Amp",
+    "Black rubberised plug",
+    "Sturdy nylon base",
+    "Approved to BS1363/A"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-blue-replacement-plug-240-volt-16-amp.html|>
+## Faithfull Power Plus Blue Replacement Plug 240 Volt 16 Amp
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "Waterproof electrical plug for use with site transformers and trailing leads.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus Blue Replacement Plug 240 Volt 16 Amp",
+  "specifications": [
+    "Voltage: 240v",
+    "Amps: 16amps",
+    "Type: BSEN60309 Plug."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-blue-socket-16-amp-240-volt.html|>
+## Faithfull Power Plus Blue Socket 16 Amp 240 Volt
+
+{
+  "price": "€5.07 inc VAT (€4.12 exc.vat)",
+  "description": "Faithfull Power Plus 16 Amp Socket for use with Trailing leads, with weatherproof protective flap and brass connections. 240v.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus Blue Socket 16 Amp 240 Volt",
+  "specifications": [
+    "16 Amp",
+    "240 Volt",
+    "Weatherproof protective flap",
+    "Brass connections"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-ip44-panel-socket-16a-110v.html|>
+## Faithfull Power Plus IP44 Panel Socket 16A 110V
+
+{
+  "price": "€5.71 inc VAT (€4.64 exc.vat)",
+  "description": "Replacement shuttered panel socket for Faithfull transformers.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Power Plus IP44 Panel Socket 16A 110V",
+  "specifications": [
+    "IP44 rated",
+    "16A",
+    "110V",
+    "Replacement shuttered panel socket for Faithfull transformers."
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-ledlightbulba60110-240v10w.html|>
+## Faithfull Power Plus LED Light Bulb A60 110-240V 10W
+
+{
+  "price": "€4.23 inc VAT (€3.44 exc.vat)",
+  "description": "Faithfull Power Plus LED Energy Saving Light Bulb with an E27 fitting (Large Edison). Energy rated at A++ this 10W bulb produces a bright white 800 lumen output and is more energy efficient than a conventional filament GLS bulb or compact florescent light bulb. This dual voltage bulb can be used in both 110V and 240V fittings and is suitable for both industrial and domestic application where a bright white, non-dimmable light is required. Power: 10W Output: 800 Lumens Colour Range: 6500 Kelvin Bright White Energy rating: A++ Cap fitting: E27 screw LED lifetime: 50,000 hours Voltage: 110-240V 10W is equivalent to a standard 60W filament bulb, giving an approximate 83% energy saving compared to conventional GLS bulbs.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus LED Light Bulb A60 110-240V 10W",
+  "specifications": [
+    "Power: 10W",
+    "Output: 800 Lumens",
+    "Colour Range: 6500 Kelvin Bright White",
+    "Energy rating: A++",
+    "Cap fitting: E27 screw",
+    "LED lifetime: 50,000 hours",
+    "Voltage: 110-240V"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-rcd-adaptor-circuit-breaker.html|>
+## Faithfull Power Plus RCD Adaptor (Circuit Breaker)
+
+{
+  "price": "€14.82 inc VAT (€12.05 exc.vat)",
+  "description": "The Faithfull FPPRCD RCD Safety Adaptor Plug simply plugs into the mains, then you plug your electrical appliance into it. If there is a fault or a short in the tool you are using, the unit cuts the power very quickly, reducing the risk of electrocution. The Faithfull FPPRCD Safety RCD Adaptor continuously monitors the power supply to an electrical appliance and cuts off the power within 40 milliseconds if an earth current fault is detected. This is fast enough to prevent a fatal electric shock. The Faithfull RCD Safety Adaptor Plug is an ideal way to protect yourself when using portable electrical tools, like lawnmowers, hedge trimmers and mains powered drills. Electrical appliances can become dangerous if the wiring becomes loose, or their power cords become damaged or if they get wet. Not only power tools and lawnmowers can cause electrocution is also possible if fingers, wet hair or other conductive bodies enter the appliance. In all these cases the Faithfull Safety RCD is a must. Not for use on ponds as when disconnected the protection will be lost. Safety RCD (Circuit Breaker) Can be used with any 240v appliance. Particularly recommended for use with power tools.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus RCD Adaptor (Circuit Breaker)",
+  "specifications": [
+    "RCD Adaptor (Circuit Breaker)",
+    "Particularly recommended for use with power tools",
+    "Can be used with any 240v appliance"
+  ],
+  "product_category": "Electrical Fittings"
+}
+
+<|https://www.mydiy.ie/products/faithfull-socket-polarity-tester-with-rcd-test-function.html|>
+## Faithfull Socket Polarity Tester with RCD Test Function
+
+{
+  "price": "€25.09 inc VAT (€20.40 exc.vat)",
+  "description": "The Faithfull Socket Tester is an essential mains safety tester designed for testing socket wiring and RCDs. It will determine whether a socket is wired correctly or incorrectly. Used in conjunction with the coding table provided, the 5 combined indicators show the true status of the sockets wiring condition. It provides a true ground error indication through the LCD if dangerous contact voltage is present at the protective earth (PE). The use of 3 neon indicators for L-N-PE provides rapid detection of correct/incorrect socket wiring. It is equipped with an additional RCD tester for testing the operation of RCDs with a rating of not more than 30mA.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Socket Polarity Tester with RCD Test Function",
+  "specifications": [
+    "Socket Type: UK 240V 3-Pin",
+    "Nominal Voltage: 220V ±10%",
+    "Frequency Range: 50~60Hz",
+    "Measurement Category: CATIII, 300V",
+    "RCD Test Time: 60~300ms",
+    "Contact Voltage Threshold: <35 AC against ground depending on coupling to earth",
+    "RCD Test Current: 30mA ±15%",
+    "Dimensions: 77 x 67 x 66mm",
+    "Weight: approx. 70g"
+  ],
+  "product_category": "Electrical Fittings"
+}
+

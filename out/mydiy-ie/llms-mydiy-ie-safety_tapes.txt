@@ -1,0 +1,33 @@
+<|https://www.mydiy.ie/products/faithfull-hazard-warning-safety-tapes.html|>
+## Faithfull Hazard Warning Safety Tapes
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "Self-adhesive hardwearing safety tape for marking hazardous areas, Fire equipment, First aid points and ideal for lane marking. Diagonally striped in contrasting colours.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Hazard Warning Safety Tapes",
+  "specifications": [
+    "Self-adhesive",
+    "Hardwearing",
+    "Ideal for marking hazardous areas",
+    "Contrasting colours"
+  ],
+  "product_category": "Safety Tapes"
+}
+
+<|https://www.mydiy.ie/products/faithfull-laminated-self-adhesive-hazard-tape.html|>
+## Faithfull Laminated Self-Adhesive Hazard Tape
+
+{
+  "price": "€7.64 inc VAT",
+  "description": "Faithfull Laminated Self-Adhesive Hazard Tape is ideal for marking out or cordoning off areas. The highly contrasting colours serve as a clear visual warning. Suitable for a wide range of uses in various trades and services, including construction sites, factories, warehouses, emergency services and many other situations where safety of personnel is a priority.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Laminated Self-Adhesive Hazard Tape",
+  "specifications": [
+    "Select Option: Arrows Black/Yellow, Black/Yellow, Red/White, Social Distance Black/Yellow",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Safety Tapes"
+}
+

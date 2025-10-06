@@ -1,0 +1,469 @@
+<|https://www.mydiy.ie/products/duracell-9v-cell-alkaline-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-aa-cell-alkaline-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-cr2032-coin-lithium-battery-pack-2.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-d-cell-ultra-power-batteries-pack-of-2.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-procell-alkaline-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-procell-intense-alkaline-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-rechargeable-batteries-1.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-s6374-hi-speed-charger-with-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-specialty-hearing-aid-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/energizer-aa-rechargeable-extreme-batteries-2300-mah-s6386-pack-of-4.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/energizer-alkaline-power-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/energizer-cr2016-coin-lithium-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/energizer-cr2032-coin-lithium-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/energizer-max-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/duracell-aaa-cell-plus-power-batteries-pack-of-4-ro3alr0.html|>
+## Duracell AAA Cell Plus Power Batteries Pack of 4 RO3A/LR0
+
+{
+  "price": "€5.60 inc VAT (€4.55 exc.vat)",
+  "description": "Duracell Plus Power batteries provide reliable performance and long-lasting power in a broad range of everyday devices. They are ideal for powering remote controls, CD players, motorised toys, flashlights, toothbrushes etc. Duralock technology preserves the battery power, guaranteeing that it stays powered for up to 10 years in storage. Pack of 4. Size: AAA.",
+  "availability": "Out of Stock",
+  "product_name": "Duracell AAA Cell Plus Power Batteries Pack of 4 RO3A/LR0",
+  "specifications": [
+    "Pack of 4",
+    "Size: AAA",
+    "Duralock technology for long-lasting power"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-aa-cell-ultra-power-batteries-pack-of-4-lr6hp7.html|>
+## Duracell AA Cell Ultra Power Batteries Pack of 4 LR6/HP7
+
+{
+  "price": "€6.61 inc VAT (€5.37 exc.vat)",
+  "description": "Duracell Ultra Power batteries provide reliable performance and long-lasting power in a broad range of everyday devices. They are ideal for powering digital cameras, portable games consoles, shavers, remote controls, motorised toys, flashlights, toothbrushes, etc. Ultra Power batteries have Powercheck™, which shows how much power is left inside the battery. Duralock technology preserves the battery power, guaranteeing that it stays powered for up to 10 years in storage. Pack of 4. Size: AA.",
+  "availability": "Out of Stock",
+  "product_name": "Duracell AA Cell Ultra Power Batteries Pack of 4 LR6/HP7",
+  "specifications": [
+    "Pack of 4",
+    "Size: AA",
+    "Powercheck™ technology",
+    "Duralock technology for long storage life"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-c-cell-ultra-power-batteries-pack-of-2.html|>
+## Duracell C Cell Ultra Power Batteries Pack of 2
+
+{
+  "price": "€6.62 inc VAT (€5.38 exc.vat)",
+  "description": "Duracell Ultra Power batteries provide reliable performance and long-lasting power in a broad range of everyday devices. They are ideal for powering digital cameras, portable games consoles, shavers, remote controls, motorised toys, flashlights, toothbrushes, etc. Ultra Power batteries have Powercheck™, which shows how much power is left inside the battery. Duralock technology preserves the battery power, guaranteeing that it stays powered for up to 10 years in storage. Pack of 2. Size: C.",
+  "availability": "Out of Stock",
+  "product_name": "Duracell C Cell Ultra Power Batteries Pack of 2",
+  "specifications": [
+    "Pack of 2",
+    "Size: C",
+    "Powercheck™ technology",
+    "Duralock technology for long-lasting power"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-alkaline-batteries-9v-lr61-1100mah-pack-of-1.html|>
+## Lighthouse Alkaline Batteries 9v LR61 1100mAh Pack of 1
+
+{
+  "price": "€2.94 inc VAT (€2.39 exc.vat)",
+  "description": "These Lighthouse high performance Alkaline batteries are designed to offer a high capacity for energy-hungry devices and offer a long storage life of up to five years. Alkaline batteries last longer when used with higher current devices and can, in some cases, out perform Zinc Carbon products by up to six times. They also have less risk of leaking.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Alkaline Batteries 9v LR61 1100mAh Pack of 1",
+  "specifications": [
+    "Type: 9V",
+    "Capacity: 1100mAh",
+    "Pack of 1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-alkaline-batteries-aa-lr6-2400mah-pack-of-4.html|>
+## Lighthouse Alkaline Batteries AA LR6 2400mAh Pack of 4
+
+{
+  "price": "€2.94 inc VAT (€2.39 exc.vat)",
+  "description": "These Lighthouse high performance Alkaline batteries are designed to offer a high capacity for energy-hungry devices and offer a long storage life of up to five years. Alkaline batteries last longer when used with higher current devices and can, in some cases, out perform Zinc Carbon products by up to six times. They also have less risk of leaking. Type: AA. Pack of 4 batteries.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Alkaline Batteries AA LR6 2400mAh Pack of 4",
+  "specifications": [
+    "Type: AA",
+    "Pack of 4 batteries",
+    "High capacity for energy-hungry devices",
+    "Long storage life of up to five years",
+    "Less risk of leaking"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-alkaline-batteries-c-lr14-6200mah-pack-of-2.html|>
+## Lighthouse Alkaline Batteries C LR14 6200mAh Pack of 2
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "These Lighthouse high performance Alkaline batteries are designed to offer a high capacity for energy-hungry devices and offer a long storage life of up to five years. Alkaline batteries last longer when used with higher current devices and can, in some cases, out perform Zinc Carbon products by up to six times. They also have less risk of leaking.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Alkaline Batteries C LR14 6200mAh Pack of 2",
+  "specifications": [
+    "Type: C",
+    "Capacity: 6200mAh",
+    "Pack of 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-alkaline-batteries-d-lr20-14800mah-pack-of-2.html|>
+## Lighthouse Alkaline Batteries D LR20 14800mAh Pack of 2
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "These Lighthouse high performance Alkaline batteries are designed to offer a high capacity for energy-hungry devices and offer a long storage life of up to five years. Alkaline batteries last longer when used with higher current devices and can, in some cases, out perform Zinc Carbon products by up to six times. They also have less risk of leaking. Type: D.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Alkaline Batteries D LR20 14800mAh Pack of 2",
+  "specifications": [
+    "Type: D",
+    "Capacity: 14800mAh",
+    "Pack of 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-d-cell-alkaline-batteries.html|>
+## Duracell D Cell Alkaline Batteries
+
+{
+  "price": "€6.61 inc VAT",
+  "description": "Duracell Plus Power batteries provide reliable performance and long-lasting power in a broad range of everyday devices. They are ideal for powering remote controls, CD players, motorised toys, flashlights, toothbrushes etc. Duralock technology preserves the battery power, guaranteeing that it stays powered for up to 10 years in storage. Size: D.",
+  "availability": "In Stock",
+  "product_name": "Duracell D Cell Alkaline Batteries",
+  "specifications": [
+    "Pack of 2 LR20/HP2",
+    "Duralock technology for long-lasting power",
+    "Ideal for various everyday devices",
+    "Size: D"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-alkaline-batteries-aaa-lr03-1120mah.html|>
+## Lighthouse Alkaline Batteries AAA LR03 1120mah
+
+{
+  "price": "€2.94 inc VAT",
+  "description": "These Lighthouse high performance Alkaline batteries are designed to offer a high capacity for energy-hungry devices and offer a long storage life of up to five years. Alkaline batteries last longer when used with higher current devices and can, in some cases, out perform Zinc Carbon products by up to six times, they also have less risk of leaking.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Alkaline Batteries AAA LR03 1120mah",
+  "specifications": [
+    "Type: AAA",
+    "Capacity: 1120mAh",
+    "Pack Options: Pack of 24, Pack of 4"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-lighting-pj996-6v-lantern-battery.html|>
+## Energizer Lighting PJ996 6v Lantern Battery
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "Economic long life batteries used mainly in the construction industry. 6 Volt ideal for road flashing lights, skip lights, large lanterns etc.",
+  "availability": "In Stock",
+  "product_name": "Energizer Lighting PJ996 6v Lantern Battery",
+  "specifications": [
+    "6 Volt",
+    "Ideal for road flashing lights, skip lights, large lanterns",
+    "Economic long life batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-procell-constant-power-industrial-batteries.html|>
+## Duracell PROCELL® Constant Power Industrial Batteries
+
+{
+  "price": "from €8.03 inc VAT",
+  "description": "Duracell PROCELL® Alkaline Constant Power Industrial Batteries are ideal for powering low drain professional devices which require constant current over a long period of time. They offer reliable performance with excellent resistance to corrosion. Designed to meet all major quality, safety and environmental standards. Typical applications include: Remote Control, Wireless Mouse / Keyboard, Clocks, Torches & Thermostats. Supplied in a resealable bulk pack of 10 for great value.",
+  "availability": "In Stock",
+  "product_name": "Duracell PROCELL® Constant Power Industrial Batteries",
+  "specifications": [
+    "Ideal for low drain professional devices",
+    "Reliable performance with excellent resistance to corrosion",
+    "Supplied in a resealable bulk pack of 10"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-s514-hi-speed-charger-with-batteries.html|>
+## Duracell S514 Hi-Speed Charger with Batteries
+
+{
+  "price": "€39.72 inc VAT (€32.29 exc.vat)",
+  "description": "The Duracell S514 Hi-Speed Charger is your simple, safe and reliable solution to never missing out on anything which happens in your life. Comes with a partial charge indication and after batteries are completely charged, the charger can automatically shut off to prevent overheating. Its 9 safety features make sure you have the power you need without the worry. Comes with Duracell’s 5-year guarantee so you can rely on Duracell’s best, long-lasting power every day. Ready in 4 hours; Approx. 90% of full charge, when using Duracell 1300 mAh AA NiMH batteries. Approx. 80% of full charge when using Duracell 750 mAh AAA NiMH batteries. Supplied with: 2 x AA Cell 1300Mah Rechargeable Batteries and 2 x AAA Cell 750Mah Rechargeable Batteries.",
+  "availability": "In Stock",
+  "product_name": "Duracell S514 Hi-Speed Charger with Batteries",
+  "specifications": [
+    "Comes with a partial charge indication",
+    "Automatic shut off to prevent overheating",
+    "9 safety features",
+    "Ready in 4 hours for 90% charge with 1300 mAh AA batteries",
+    "5-year guarantee",
+    "Includes 2 x AA Cell 1300Mah and 2 x AAA Cell 750Mah rechargeable batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-9-volt-rechargeable-power-plus-battery-r9v-175-mah-single.html|>
+## Energizer 9 Volt Rechargeable Power Plus Battery R9V 175 mAh Single
+
+{
+  "price": "€16.75 inc VAT (€13.62 exc.vat)",
+  "description": "Energizer Rechargeable Batteries - Reusable Power You Can Depend On! Energizer Rechargeable batteries are highly recommended for high-drain or frequently used devices - ones that you use more than once a week - such as digital cameras, portable audio players, two-way radios, handheld games, and GPS equipment. They are also recommended for toys, infant devices, and PDA's. For best results pair your Energizer Rechargeable batteries with Energizer chargers. Can be charged 100's of times. Hold their charge for up to 6 months.",
+  "availability": "In Stock",
+  "product_name": "Energizer 9 Volt Rechargeable Power Plus Battery R9V 175 mAh Single",
+  "specifications": [
+    "9 Volt Rechargeable Power Plus Battery R9V 175 mAh Single",
+    "Can be charged 100's of times",
+    "Holds charge for up to 6 months"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-aa-rechargeable-universal-batteries-1300-mah-pack-of-4.html|>
+## Energizer AA Rechargeable Universal Batteries 1300 mAh Pack of 4
+
+{
+  "price": "€16.72 inc VAT (€13.59 exc.vat)",
+  "description": "Energizer Rechargeable Batteries - Reusable Power You Can Depend On! Energizer Rechargeable batteries are highly recommended for high-drain or frequently used devices - ones that you use more than once a week - such as digital cameras, portable audio players, two-way radios, handheld games, and GPS equipment. They are also recommended for toys, infant devices and PDA's. For best results pair your Energizer Rechargeable batteries with Energizer chargers. Can be charged 100's of times. Hold their charge for up to 6 months.",
+  "availability": "In Stock",
+  "product_name": "Energizer AA Rechargeable Universal Batteries 1300 mAh Pack of 4",
+  "specifications": [
+    "Pack of 4",
+    "1300 mAh capacity",
+    "Rechargeable",
+    "Can be charged hundreds of times",
+    "Holds charge for up to 6 months"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-aaa-rechargeable-power-plus-batteries-700mah-pack-of-4.html|>
+## Energizer AAA Rechargeable Power Plus Batteries 700mAh Pack of 4
+
+{
+  "price": "€18.03 inc VAT (€14.66 exc.vat)",
+  "description": "Energizer AAA 700mAh rechargeable batteries are recommended for high-drain or frequently used devices such as digital cameras, portable audio players, two-way radios, handheld games and GPS equipment. They are also recommended for toys, infant devices and PDA's. Batteries hold their charge for up to 6 months and can be charged 100's of times.",
+  "availability": "In Stock",
+  "product_name": "Energizer AAA Rechargeable Power Plus Batteries 700mAh Pack of 4",
+  "specifications": [
+    "700mAh capacity",
+    "Pack of 4",
+    "Rechargeable",
+    "Suitable for high-drain devices",
+    "Charge lasts up to 6 months"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-c-cell-rechargeable-power-plus-batteries-rc2500-mah-pack-of-2.html|>
+## Energizer C Cell Rechargeable Power Plus Batteries RC2500 mAh Pack of 2
+
+{
+  "price": "€18.15 inc VAT (€14.76 exc.vat)",
+  "description": "Energizer Rechargeable Batteries - Reusable Power You Can Depend On! Energizer Rechargeable batteries are highly recommended for high-drain or frequently used devices - ones that you use more than once a week - such as digital cameras, portable audio players, two-way radios, handheld games, and GPS equipment. They are also recommended for toys, infant devices, and PDA's. For best results, pair your Energizer Rechargeable batteries with Energizer chargers. Can be charged 100's of times. Hold their charge for up to 6 months.",
+  "availability": "In Stock",
+  "product_name": "Energizer C Cell Rechargeable Power Plus Batteries RC2500 mAh Pack of 2",
+  "specifications": [
+    "Rechargeable",
+    "Pack of 2",
+    "Capacity: 2500 mAh",
+    "Can be charged hundreds of times",
+    "Holds charge for up to 6 months"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-d-cell-rechargeable-power-plus-batteries-rd2500-mah-pack-of-2.html|>
+## Energizer D Cell Rechargeable Power Plus Batteries RD2500 mAh Pack of 2
+
+{
+  "price": "€18.15 inc VAT (€14.76 exc.vat)",
+  "description": "D Cell 2,500 mAh rechargeable batteries recommended for high-drain or frequently used devices such as digital cameras, portable audio players, two-way radios, handheld games, and GPS equipment. They are also recommended for toys, infant devices and PDA's. Batteries hold their charge for up to 6 months and can be charged 100's of times.",
+  "availability": "In Stock",
+  "product_name": "Energizer D Cell Rechargeable Power Plus Batteries RD2500 mAh Pack of 2",
+  "specifications": [
+    "D Cell 2,500 mAh rechargeable batteries",
+    "Recommended for high-drain devices",
+    "Charge lasts up to 6 months",
+    "Can be charged hundreds of times"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-e23-electronic-battery-single.html|>
+## Energizer E23 Electronic Battery Single
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "The Energizer E23 Alkaline battery is 28.5mm in height, 10.3mm in diameter and weighs 8g. Suitable for most digital cameras, calculators and car alarms. For use with some car and home alarms, lighters and remote controls. Energizer LRV08 - also known as A23, K23A, MN21. 1 x 12v alkaline battery in pack.",
+  "availability": "In Stock",
+  "product_name": "Energizer E23 Electronic Battery Single",
+  "specifications": [
+    "Height: 28.5mm",
+    "Diameter: 10.3mm",
+    "Weight: 8g",
+    "Suitable for digital cameras, calculators, car alarms",
+    "1 x 12v alkaline battery in pack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-lr1-electronic-battery-single.html|>
+## Energizer LR1 Electronic Battery Single
+
+{
+  "price": "€2.94 inc VAT (€2.39 exc.vat)",
+  "description": "Energizer LR1 Alkaline battery, 30.2mm height, 12mm diameter and weighs 9.2g and has a capacity of 1000.0mAh. Suitable for most digital cameras, calculators and car alarms. Lasts up to 7 times longer than normal batteries. Replaces: 4001, 910A, AM5, E90, KN, LADY, LR1, MN9100, MN9100/N, N, UM-5, UM5.",
+  "availability": "In Stock",
+  "product_name": "Energizer LR1 Electronic Battery Single",
+  "specifications": [
+    "Height: 30.2mm",
+    "Diameter: 12mm",
+    "Weight: 9.2g",
+    "Capacity: 1000.0mAh",
+    "Suitable for digital cameras, calculators, and car alarms",
+    "Lasts up to 7 times longer than normal batteries",
+    "Replaces: 4001, 910A, AM5, E90, KN, LADY, LR1, MN9100, MN9100/N, N, UM-5, UM5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-cr2025-coin-lithium-batteries.html|>
+## Energizer CR2025 Coin Lithium Batteries
+
+{
+  "price": "€5.50 inc VAT",
+  "description": "The CR2025 is a very popular 3V Lithium coin cell from Energizer. It is 20mm in diameter, 2.5mm thick, weights 2.5g and has a capacity of 150.0mAh - 170.0mAh. Reliable, dependable power, for use in calculators, pagers, watches and car alarms. Replaces: 2025, CR2025, DL2025, EA100CF, ECR2025, KL2025, L12",
+  "availability": "In Stock",
+  "product_name": "Energizer CR2025 Coin Lithium Batteries",
+  "specifications": [
+    "Diameter: 20mm",
+    "Thickness: 2.5mm",
+    "Weight: 2.5g",
+    "Capacity: 150.0mAh - 170.0mAh"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-cr2016-coin-lithium-battery-pack-2.html|>
+## Duracell CR2016 Coin Lithium Battery (Pack 2)
+
+{
+  "price": "€4.06 inc VAT (€3.30 exc.vat)",
+  "description": "The Duracell CR2016 Coin Lithium Batteries are designed to provide the power any electronic device needs to remain functional. The ideal choice for key fobs, small remotes, scales, wearable devices, sensors, digital thermometers, glucometers, heart rate monitors or bike accessories. Pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Duracell CR2016 Coin Lithium Battery (Pack 2)",
+  "specifications": [
+    "Pack of 2",
+    "Designed for key fobs, small remotes, scales, wearable devices, sensors, digital thermometers, glucometers, heart rate monitors, bike accessories"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-cr2025-coin-lithium-battery-pack-2.html|>
+## Duracell CR2025 Coin Lithium Battery (Pack 2)
+
+{
+  "price": "€3.79 inc VAT (€3.08 exc.vat)",
+  "description": "Duracell CR2025 Coin Batteries are made from high-purity lithium, with up to 50% more power for reliable, long-lasting performance in devices such as car key alarms, calculators, watches, clocks etc. Duralock Power Preserve technology offers up to 10 years of in-storage, guaranteed. So you can be confident these lithium coin batteries will be ready when you need them.",
+  "availability": "Out of Stock",
+  "product_name": "Duracell CR2025 Coin Lithium Battery (Pack 2)",
+  "specifications": [
+    "CR2025 Coin Lithium Battery (Pack 2)",
+    "DURCR2025 : €3.79",
+    "Qty: Sorry this item is out of stock"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-lr1-electronic-battery-pack-2.html|>
+## Duracell LR1 Electronic Battery (Pack 2)
+
+{
+  "price": "€3.60 inc VAT (€2.93 exc.vat)",
+  "description": "Duracell LR1 Electronic Batteries offer up to 40% more power. They can be used in torches, calculators, bike lights etc. Duralock Power Preserve technology offers up to 5 years of in-storage, guaranteed. So you can be confident these alkaline batteries will be ready when you need them.",
+  "availability": "In Stock",
+  "product_name": "Duracell LR1 Electronic Battery (Pack 2)",
+  "specifications": [
+    "Pack of 2 batteries",
+    "Duralock Power Preserve technology",
+    "Up to 40% more power",
+    "Suitable for torches, calculators, bike lights",
+    "5 years of guaranteed storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/duracell-lr44-a76-button-battery-pack-2.html|>
+## Duracell LR44 A76 Button Battery (Pack 2)
+
+{
+  "price": "€2.19 inc VAT (€1.78 exc.vat)",
+  "description": "Duracell LR44 A76 Button Batteries offer up to 50% more power for your specialty devices, such as toys, calculators and measuring devices. Duralock Power Preserve technology offers up to 5 years of in-storage, guaranteed. So you can be confident these alkaline batteries will be ready when you need them.",
+  "availability": "Out of Stock",
+  "product_name": "Duracell LR44 A76 Button Battery (Pack 2)",
+  "specifications": [
+    "Pack of 2",
+    "Duralock Power Preserve technology",
+    "Up to 50% more power",
+    "Suitable for toys, calculators, and measuring devices"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-lr44-coin-alkaline-batteries-pack-of-2.html|>
+## Energizer LR44 Coin Alkaline Batteries Pack of 2
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Battery Type: Alkaline.\nVolts: 1.5.\nmAh: 150.",
+  "availability": "In Stock",
+  "product_name": "Energizer LR44 Coin Alkaline Batteries Pack of 2",
+  "specifications": [
+    "Battery Type: Alkaline",
+    "Volts: 1.5",
+    "mAh: 150"
+  ]
+}
+

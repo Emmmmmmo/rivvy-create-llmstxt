@@ -1,0 +1,1496 @@
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-chalkboard-paint-black-400ml.html|>
+## Plasti-kote Twist & Spray Chalkboard Paint Black 400ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "The Plasti-Kote Twist & Spray Chalkboard Paint is ideal for renovating a chalkboard, menu or score board. With its non-reflective matt finish it gives a durable surface to write or draw on. It is suitable for kitchen chalk boards and is easily cleaned with a damp cloth or standard eraser. If the surface eventually becomes worn, simply clean and recoat. The new easy spray technology provides added control to make spray painting easier, faster and cleaner than ever before. The can's large, comfortable finger pad requires 35% less finger pressure than other spray paint cans and the twist and lock mechanism means there is no separate top to remove or replace after use. The cap and button design shields the finger from paint for a cleaner spray-painting process. Coverage: approximately 1.5m². Drying time: 15 minutes between coats, thoroughly dry in 30 minutes. Pack size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Chalkboard Paint Black 400ml",
+  "specifications": [
+    "Pack size: 400ml",
+    "Coverage: approximately 1.5m²",
+    "Drying time: 15 minutes between coats, thoroughly dry in 30 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-quick-dry-blackboard-black.html|>
+## Rustins Quick Dry Blackboard Black
+
+{
+  "price": "€14.99 inc VAT",
+  "description": "Rustins Quick Dry Blackboard Paint provides a matt black non-reflective surface for blackboards and photographic work. Suitable for interior and exterior use. Clean brushes in water. Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3, which makes it ideal to use on children's toys.",
+  "availability": "In Stock",
+  "product_name": "Rustins Quick Dry Blackboard Black",
+  "specifications": [
+    "Select Option: 250 ml, 500 ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-one-coat-all-surface-primer-and-undercoat-1.html|>
+## Ronseal One Coat All Surface Primer and Undercoat
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "One Coat All Surface Primer and Undercoat. Works on just about any surface including metal, tiles, brick, stone, MDF, plastic, glass, and more. You only need one coat of this primer for your paint to adhere to it and leave you with a strong and smooth finish. Makes preparation a breeze. Also available as a quick-dry aerosol to really cut down on prep time. Ready to paint over in two hours. Suitable for bare or previously painted surfaces. Covers bold colors.",
+  "availability": "In Stock",
+  "product_name": "Ronseal One Coat All Surface Primer and Undercoat",
+  "specifications": [
+    "Works on various surfaces including metal, tiles, brick, stone, MDF, plastic, glass",
+    "One coat application",
+    "Quick-dry aerosol available",
+    "Ready to paint over in two hours",
+    "Suitable for bare or previously painted surfaces",
+    "Covers bold colors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-one-coat-paint-satin-black-250ml.html|>
+## Ronseal One Coat Paint Satin Black 250ml
+
+{
+  "price": "€11.39 inc VAT (€9.26 exc.vat)",
+  "description": "Ronseal Satin Black Paint is a one coat application where no primer is required. Leaving a tough and durable smooth satin finish, it is easy-to-clean enabling a job to be finished in a matter of hours. Size: 250ml",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal One Coat Paint Satin Black 250ml",
+  "specifications": [
+    "Size: 250ml",
+    "One coat application",
+    "No primer required",
+    "Tough and durable smooth satin finish",
+    "Easy to clean"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-metal-lacquer-clear-125ml.html|>
+## Rustins Metal Lacquer Clear 125ml
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Rustins Metal Lacquer Clear is based on a polymethacrylicester. Leaves a film that does not yellow or craze on ageing as cellulose lacquers do. Has excellent adhesion on chrome, brass, copper and silver. Size: 125ml.",
+  "availability": "In Stock",
+  "product_name": "Rustins Metal Lacquer Clear 125ml",
+  "specifications": [
+    "Size: 125ml",
+    "Based on a polymethacrylicester",
+    "Excellent adhesion on chrome, brass, copper and silver"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-metal-paints-smooth-satin.html|>
+## Rustins Metal Paints Smooth Satin
+
+{
+  "price": "€6.97 inc VAT",
+  "description": "Rustins new formula Metal Paint is a low VOC paint for use on both bare and galvanised metal. It can be applied directly without the use of a primer and is suitable for indoor and outdoor use. Containing anti-corrosion additives the paint has a low odour and dries to a smooth satin finish in just 2 hours. Brushes can be cleaned with water.",
+  "availability": "In Stock",
+  "product_name": "Rustins Metal Paints Smooth Satin",
+  "specifications": [
+    "Available in multiple sizes: Black 1 Litre, Black 2.5 Litre, Black 250ml, Black 500ml, White 1 Litre, White 250ml, White 500ml",
+    "Low VOC paint suitable for indoor and outdoor use",
+    "Dries to a smooth satin finish in 2 hours",
+    "Anti-corrosion additives",
+    "Brushes can be cleaned with water"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-quick-dry-small-job-gloss-paint.html|>
+## Rustins Quick Dry Small Job Gloss Paint
+
+{
+  "price": "from €13.99 inc VAT",
+  "description": "The Rustins Quick Dry Small Job Gloss Paint has been designed specifically for small painting projects. A water based hard wearing paint for interior and exterior use that is touch dry in approximately 30 minutes. Suitable for use on wood and metal. A 250ml tin will cover approximately 3.25m². Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3 which makes the paint ideal to use on children's toys and furniture.",
+  "availability": "In Stock",
+  "product_name": "Rustins Quick Dry Small Job Gloss Paint",
+  "specifications": [
+    "250ml tin covers approximately 3.25m²",
+    "Touch dry in approximately 30 minutes",
+    "Water based hard wearing paint for interior and exterior use",
+    "Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-paint-matt.html|>
+## Plasti-kote Twist & Spray Paint Matt
+
+{
+  "price": "€10.31 inc VAT",
+  "description": "The Plasti-Kote Twist & Spray Premium Matt Paint gives an enhanced, consistent coverage. The easy spray technology provides added control to make spray painting easier, faster and cleaner. Each coat is ultra smooth, providing flawless coverage that dries quickly to a tough, durable finish. The paint can be recoated at anytime for simple, faster project completion. The can's large, comfortable finger pad requires 33% less finger pressure than other spray paint cans, and the twist and lock mechanism means there is no separate top to remove or replace after use. Its cap and button design shields the finger from paint for a cleaner spray-painting process. Suitable for: wood, metal, plastic, stone, wicker and crafts. Drying Time: touch dry in 30-50 minutes. Coverage: 2.23m² per can.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Paint Matt",
+  "specifications": [
+    "Suitable for wood, metal, plastic, stone, wicker and crafts",
+    "Touch dry in 30-50 minutes",
+    "Coverage: 2.23m² per can"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-glow-in-the-dark-spray-paint-400ml.html|>
+## Plasti-kote Glow In The Dark Spray Paint 400ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "The Plasti-Kote Glow In The Dark Spray Paint is suitable for wood, metal, plastic, stone wicker and crafts. Ideal for use in childrens bedrooms or other craft projects. For best results use a white primer. Touch Dry: 1 Hour. Coverage: Approximately 1m².",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Glow In The Dark Spray Paint 400ml",
+  "specifications": [
+    "PKT117002 : €12.99",
+    "Touch Dry: 1 Hour",
+    "Coverage: Approximately 1m²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-garden-games-spray-paint-white-400ml.html|>
+## Plasti-kote Garden Games Spray Paint White 400ml
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Plasti-Kote Garden Games Paint is perfect for marking out temporary hopscotch, football pitches, badminton courts etc. Coverage per 400ml can is approx 40m of line markings which can be washed away with water after use. Suitable for use on grass, astroturf, concrete and tarmac.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Garden Games Spray Paint White 400ml",
+  "specifications": [
+    "400ml can",
+    "Coverage: approx 40m of line markings",
+    "Washable with water after use",
+    "Suitable for grass, astroturf, concrete, and tarmac"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-plastic-paints.html|>
+## Plasti-kote Plastic Paints
+
+{
+  "price": "€11.91 inc VAT",
+  "description": "Plasti-Kote Plastic Gloss Spray Paint has been designed for use on rigid plastic surfaces, enabling refreshment or change in colour of outdoor furniture, plastic play items and storage equipment. Available in 5 colours in a gloss finish.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Plastic Paints",
+  "specifications": [
+    "Available in 5 colours in a gloss finish",
+    "Designed for use on rigid plastic surfaces",
+    "Ideal for outdoor furniture, plastic play items, and storage equipment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-super-spray-paint-gloss.html|>
+## Plasti-kote Super Spray Paint Gloss
+
+{
+  "price": "€8.30 inc VAT",
+  "description": "The Plasti-kote Super Gloss Spray is an excellent multi-purpose spray paint. It comes in a range of finishes to suit many applications. The paint is tough, hard wearing and resistant to scratches. Super Spray Paint is very UV absorbent, water resistant, and will not fade or yellow. It protects against rust and is fast-drying. The paint is suitable for any decorative project inside or outside of the home, and is available in many colours.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Super Spray Paint Gloss",
+  "specifications": [
+    "Suitable for: aluminium, fibreglass, glass, iron, masonry, metal, paper, papier mache, plastic, steel, stone, terracotta, wicker and wood.",
+    "Not for use on high impact styrene, leather, Styrofoam and vinyl.",
+    "Drying time: Touch dry within 30-50 minutes. Recoat within 1 hour.",
+    "Coverage: approximately 2.23m² per pack."
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-metal-protekt-sprays.html|>
+## Plasti-kote Metal Protekt Sprays
+
+{
+  "price": "from €12.80 inc VAT",
+  "description": "The Plasti-Kote Metal Protekt can be used on both interior and exterior surfaces and gives long-lasting protection against rust and corrosion. Available in 9 colour finishes, Metal Protekt is ideal for giving a splash of colour to wrought iron gates or garden furniture and many other decorative projects. It is quick and easy to use and fast drying. Drying time: touch dry in 10-20 minutes, thoroughly dry in 30-40 minutes. Coverage: approximately 2.23m² per tin.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Metal Protekt Sprays",
+  "specifications": [
+    "Available in 9 colour finishes",
+    "Quick and easy to use",
+    "Fast drying",
+    "Coverage: approximately 2.23m² per tin",
+    "Drying time: touch dry in 10-20 minutes, thoroughly dry in 30-40 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-brilliant-metallic-aerosols.html|>
+## Plasti-kote Brilliant Metallic Aerosols
+
+{
+  "price": "from €12.83 inc VAT",
+  "description": "Plasti-Kote Brilliant Metallic produces an ultra modern, reflective metallic finish on virtually any surface. Ideal for decorative projects around the home, it is quick and easy to use and available in gold, silver and copper. The formula is fast drying and can be re-coated at any time. Suitable for: ceramic, china, glass, metal, papier mache, stone, terracotta, wicker and wood. Coverage: approximately 1.5m² per tin. Drying time: touch dry in 10 minutes, thoroughly dry in 2 hours.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Brilliant Metallic Aerosols",
+  "specifications": [
+    "Available in Copper, Gold, Silver (400 ml)",
+    "Coverage: approximately 1.5m² per tin",
+    "Touch dry in 10 minutes, thoroughly dry in 2 hours",
+    "Suitable for various surfaces including ceramic, glass, metal, and wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-glitter-effect-spray.html|>
+## Plasti-kote Glitter Effect Spray
+
+{
+  "price": "€12.83 inc VAT",
+  "description": "Plasti-Kote Glitter Effect Spray can be used as a top coat to create a stunning finish for a creative glitter effect. It is perfect for adding a touch of glamour and sophistication to boxes, frames and other small objects around the home. Suitable for: ceramic, china, glass, metal, papier mache, stone, terracotta, wicker and wood. Coverage: approximately 1m² per tin. Drying time: touch dry in 10 minutes, thoroughly dry in 2 hours.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Glitter Effect Spray",
+  "specifications": [
+    "Select Option: 400ml Gold, 400ml Silver",
+    "Coverage: approximately 1m² per tin",
+    "Drying time: touch dry in 10 minutes, thoroughly dry in 2 hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-fluorescent.html|>
+## Plasti-kote Twist & Spray Fluorescent
+
+{
+  "price": "€14.90 inc VAT",
+  "description": "Plasti-kote Fluorescents ensure instant visibility and are ideal for identification and safety as well as decorative and craft projects. They can be used on both interior and exterior surfaces and on a wide range of materials. They are quick and easy to use and fast drying. Suitable for: concrete, fabric, glass, metal, plaster and wood. Drying time: touch dry in 15 - 20 minutes, thoroughly dry in 25 - 35 minutes. Coverage: approximately 2.23m² per tin.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Fluorescent",
+  "specifications": [
+    "Select Option: Green 400ml, Orange 400ml, Pink 400ml, Yellow 400ml",
+    "Drying time: touch dry in 15 - 20 minutes, thoroughly dry in 25 - 35 minutes",
+    "Coverage: approximately 2.23m² per tin"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-paint-gloss.html|>
+## Plasti-kote Twist & Spray Paint Gloss
+
+{
+  "price": "from €9.63 inc VAT",
+  "description": "The Plasti-Kote Twist & Spray Premium Gloss Paint gives an enhanced, consistent coverage. The easy spray technology provides added control to make spray painting easier, faster and cleaner. Each coat is ultra smooth, providing flawless coverage that dries quickly to a tough, durable finish. The paint can be recoated at anytime for simple, faster project completion. The can's large, comfortable finger pad requires 33% less finger pressure than other spray paint cans, and the twist and lock mechanism means there is no separate top to remove or replace after use. Its cap and button design shields the finger from paint for a cleaner spray-painting process. Suitable for: wood, metal, plastic, stone, wicker and crafts. Drying Time: touch dry in 30-50 minutes. Coverage: 2.23m² per can.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Paint Gloss",
+  "specifications": [
+    "Suitable for wood, metal, plastic, stone, wicker and crafts",
+    "Touch dry in 30-50 minutes",
+    "Coverage: 2.23m² per can"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-paint-satin.html|>
+## Plasti-kote Twist & Spray Paint Satin
+
+{
+  "price": "€10.31 inc VAT",
+  "description": "The Plasti-Kote Twist & Spray Premium Satin Paint gives an enhanced, consistent coverage. The easy spray technology provides added control to make spray painting easier, faster and cleaner. Each coat is ultra smooth, providing flawless coverage that dries quickly to a tough, durable finish. The paint can be recoated at anytime for simple, faster project completion. The can's large, comfortable finger pad requires 33% less finger pressure than other spray paint cans, and the twist and lock mechanism means there is no separate top to remove or replace after use. Its cap and button design shields the finger from paint for a cleaner spray-painting process. Suitable for: wood, metal, plastic, stone, wicker and crafts. Drying Time: touch dry in 30-50 minutes. Coverage: 2.23m² per can.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Paint Satin",
+  "specifications": [
+    "Drying Time: touch dry in 30-50 minutes",
+    "Coverage: 2.23m² per can",
+    "Suitable for wood, metal, plastic, stone, wicker and crafts"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-metal-hammer-sprays.html|>
+## Plasti-kote Metal Hammer Sprays
+
+{
+  "price": "€12.83 inc VAT",
+  "description": "The Plasti-kote Metal Paint Hammer Spray Paint offers a decorative, hammered effect finish, which can be used on most surfaces to achieve a metal-like effect. Hammer is fast drying and protects against corrosion. It is quick and easy to use and is rust resistant. Suitable for: masonry, metal, plaster, and wood. Drying time: 30 minutes. Coverage: Approximately 2.23m² per tin.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Metal Hammer Sprays",
+  "specifications": [
+    "Fast drying",
+    "Rust resistant",
+    "Coverage: Approximately 2.23m² per tin",
+    "Suitable for masonry, metal, plaster, and wood",
+    "Drying time: 30 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-clear-acrylic-spray.html|>
+## Plasti-kote Clear Acrylic Spray
+
+{
+  "price": "from €9.99 inc VAT",
+  "description": "The Plasti-Kote Twist & Spray Gloss Clear Acrylic allows you to change the sheen to Gloss, Satin or Matt after spraying a colour; and to give additional protection against weather, heat, cold, acid, alkali, corrosion and water with a sealer formula for enhanced and consistent coverage. It is UV absorbent, water resistant, protects against rust and will not fade or yellow. Easy spray technology provides added control to make spray painting easier, faster and cleaner. It can be recoated at anytime for simple, faster project completion. The can's large, comfortable finger pad requires 33% less finger pressure than other spray paint cans and the twist and lock mechanism means there is no separate top to remove or replace after use. The cap and button design shields the finger from paint for a cleaner spray-painting process.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Clear Acrylic Spray",
+  "specifications": [
+    "Select Option: Gloss/Satin",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-super-enamel-paint-gloss.html|>
+## Plasti-kote Super Enamel Paint Gloss
+
+{
+  "price": "€8.30 inc VAT",
+  "description": "The Plasti-kote Super Matt Spray is an excellent multi-purpose spray paint. It comes in a range of finishes to suit many applications. The paint is tough, hard wearing and resistant to scratches. Super Spray Paint is very UV absorbent, water resistant, and will not fade or yellow. It protects against rust and is fast-drying. The paint is suitable for any decorative project inside or outside of the home, and is available in many colours.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Super Enamel Paint Gloss",
+  "specifications": [
+    "Suitable for: aluminium, fibreglass, glass, iron, masonry, metal, paper, paper mache, plastic, steel, stone, terracotta, wicker and wood.",
+    "Not for use on high impact styrene, leather, Styrofoam and vinyl.",
+    "Drying time: Touch dry within 30-50 minutes. Recoat within 1 hour.",
+    "Coverage: approximately 2.23m² per pack."
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-hobby-and-craft-sealer-spray.html|>
+## Plasti-kote Hobby & Craft Sealer Spray
+
+{
+  "price": "€12.99 inc VAT",
+  "description": "The Plasti-Kote Hobby and Craft Sealer is a water-based that provides a deep, rich durable coating in gloss, satin or matt finishes. Ideal for finishing ceramics, decorative painting, floral and craft projects and perfect for sealing decoupage projects. It can also be used on Ceramic, China, Glass, Metal, Papier Mache, Plastic, Stone, Terracotta, Wicker, Wood, Porcelain, and most paintable surfaces to give durability and protection to any interior craft project.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Hobby & Craft Sealer Spray",
+  "specifications": [
+    "Available in: Gloss, Satin and Matt finishes",
+    "Coverage: Approximately 2.23 m² (Coverage varies by colour and application)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-metallic-aerosols.html|>
+## Plasti-kote Metallic Aerosols
+
+{
+  "price": "from €9.84 inc VAT",
+  "description": "Plasti-Kote metallic spray paint is ideal for small decorative and craft projects and is perfect for adding a special touch around the festive season. The paint creates a deep, rich metallic finish and is suitable for indoor and outdoor use. Suitable for: papier mache, stone, terracotta, wicker and wood. Drying time: Touch dry in 5-10 minutes, thoroughly dry in 25-35 minutes. Coverage: approximately 2.23m² per 400ml.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Metallic Aerosols",
+  "specifications": [
+    "Suitable for indoor and outdoor use",
+    "Touch dry in 5-10 minutes",
+    "Thoroughly dry in 25-35 minutes",
+    "Coverage: approximately 2.23m² per 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-crackle-touch.html|>
+## Plasti-kote Crackle Touch
+
+{
+  "price": "€11.56 inc VAT",
+  "description": "The Plasti-kote Crackle Touch Spray Paint is a two-part system of a base coat and a top coat that uses two incompatible paints to give objects an antique look. The depth and width of crackle can be influenced by building up several layers of the base-coat. It is fast drying and ideal for various decorative projects. Suitable for glass, papier mache, stone, terracotta, wood and wicker.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Crackle Touch",
+  "specifications": [
+    "Base Coat: Allow 2-5 minutes between base coat applications.",
+    "Top Coat: Apply while base coat is still tacky.",
+    "Touch dry in 10-20 minutes, thoroughly dry in 30-50 minutes, depending on number of coats.",
+    "Coverage: Approximately 2.23 m² (Coverage varies by colour and application).",
+    "For a light crackle effect - apply 2 light coats of base coat and then apply one even layer of top-coat.",
+    "For a medium crackle effect - apply 2 heavy base coats and while still tacky, spray 2 to 3 even layers of top-coat.",
+    "For a large crackle effect - apply 2 heavy base coats and while still tacky, spray 3 to 4 even layers of top-coat."
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-polyurethane-varnish-spray.html|>
+## Plasti-kote Polyurethane Varnish Spray
+
+{
+  "price": "€11.91 inc VAT",
+  "description": "Available in Gloss and Satin finishes, Polyurethane Varnish provides a tough and durable coating to bare wooden surfaces that protects against scratches and stains. The formula is non-yellowing. Suitable for bare wood only. Coverage: approximately 2.23m² per pack. Drying time: Thoroughly dry in 1 hour.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Polyurethane Varnish Spray",
+  "specifications": [
+    "Available in Gloss and Satin finishes",
+    "Non-yellowing formula",
+    "Coverage: approximately 2.23m² per pack",
+    "Drying time: Thoroughly dry in 1 hour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-high-visibility-spray.html|>
+## Plasti-kote High Visibility Spray
+
+{
+  "price": "€9.69 inc VAT",
+  "description": "The Plasti-Kote High Visibility Spray is a lacquer based fluorescent coating, ideal for identification and safety applications. They are formulated at the highest pigmentation levels possible to provide maximum visibility. The paints are available in a range of bright, vivid colours. They are fast drying and can be re-coated at any time. Suitable for: concrete, glass, metal and wood. Drying time: touch dry in 15 - 20 minutes, thoroughly dry in 25 - 35 minutes. Coverage: 2.23m² per tin.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote High Visibility Spray",
+  "specifications": [
+    "Lacquer based fluorescent coating",
+    "Fast drying",
+    "Suitable for concrete, glass, metal and wood",
+    "Touch dry in 15 - 20 minutes",
+    "Coverage: 2.23m² per tin"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-stone-touch-sprays.html|>
+## Plasti-kote Stone Touch Sprays
+
+{
+  "price": "€13.87 inc VAT",
+  "description": "The Plasti-kote Stone Touch Spray Paint is a textured spray that's as appealing to look at as it is to touch. Provides an easy way to create multi-coloured textured stone effect finishes with just one can. Simply prepare the surface and spray - it's that easy. To enhance and preserve your stone surface, simply apply Plasti-kote Stone Touch Clear Sealer. For maximum coverage and a different effect, use Satin Super under a thin coat of Stone. Suitable for: ceramic, china, glass, metal, papier mache, stone, terracotta, wicker and wood. Drying time: touch dry in 2 hours, thoroughly dry in 4-6 hours. Coverage: approximately 2.23m² per tin.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Stone Touch Sprays",
+  "specifications": [
+    "400 ml Clear Sealer",
+    "400 ml Santa Fe Sand",
+    "Alabaster 400 ml",
+    "Gotham Grey 400ml",
+    "Manhattan Mist 400 ml",
+    "soap stone 400 ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-quick-dry-matt-emulsion-paint-1.html|>
+## Rustins Quick Dry Matt Emulsion Paint
+
+{
+  "price": "€14.99 inc VAT",
+  "description": "The Rustins Quick Dry Matt Emulsion Paint is a quick drying high performance paint that dries to a smooth Matt finish. For interior use on areas that have been exposed to wear and tear that need touching up. Available in two British Standard colours: Magnolia BS08B15 and White BS00E55.",
+  "availability": "In Stock",
+  "product_name": "Rustins Quick Dry Matt Emulsion Paint",
+  "specifications": [
+    "250ml",
+    "Quick drying",
+    "High performance",
+    "Smooth Matt finish",
+    "Interior use",
+    "Available in Magnolia BS08B15 and White BS00E55"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-chalk-spray.html|>
+## Plasti-kote Chalk Spray
+
+{
+  "price": "€8.84 inc VAT",
+  "description": "Plasti-Kote Chalk Spray is a chalk-effect spray for decoration, furnishing, design, restoration or interior fittings. Can be used on virtually any surface, especially on wooden furniture. Creates an ultra matt finish. It has a water based formula that is environmentally friendly and is odour free. Suitable for interior and exterior use. The product can be sanded and washed back from 10 minutes after application to create a rustic look. Plasti-Kote gold and silver leaf paints can also be used underneath the chalk spray to create wonderful furniture effects. Coverage: Up to 1.4m² per 400ml.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Chalk Spray",
+  "specifications": [
+    "Select Option: Caffe Espresso 400ml, Dark Hessian 400ml, Old Hessian 400ml, Pale Rose 400ml, Pastel Green 400ml, Vintage White 400ml",
+    "Coverage: Up to 1.4m² per 400ml",
+    "Water based formula, environmentally friendly, odour free",
+    "Suitable for interior and exterior use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-leaf-spray.html|>
+## Plasti-kote Leaf Spray
+
+{
+  "price": "€8.84 inc VAT",
+  "description": "Plasti-Kote Leaf Spray is a decorative, quick-drying acrylic lacquer that creates a gold leaf or silver leaf effect. It has a noble metal appearance with high gloss finish that is resistant to abrasions. Making it especially suitable for outdoors. For use on metal, glass, ceramics, stone, wood, paper, carton and many other surfaces. Optimal gloss will be achieved on a white base coat. Possible applications: picture/mirror frames, furniture, borders/ornamental battens, signs, Christmas and other decorations, etc. We recommend to prime with Plasti-Kote Twist & Spray white primer. The product can also be used underneath Plasti-Kote Chalk Sprays to create a classic looking piece of furniture.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Leaf Spray",
+  "specifications": [
+    "Select Option: Gold Leaf, Silver",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "Delivery Charges: Free for orders over €150, €8.99 for orders under €150"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-garden-colours-spray-paint.html|>
+## Plasti-kote Garden Colours Spray Paint
+
+{
+  "price": "€10.06 inc VAT",
+  "description": "The Plasti-kote Garden Colours Spray Paint has an eco-friendly water-based (90% less solvents) formula with fast drying technology. It can be used on wood, plastic, stone and brick. Ideal for small garden furniture, planters, gates and garden ornaments.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Garden Colours Spray Paint",
+  "specifications": [
+    "Eco-friendly water-based formula",
+    "Fast drying technology",
+    "Suitable for wood, plastic, stone, and brick",
+    "Ideal for small garden furniture, planters, gates, and garden ornaments"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-quick-dry-trim-spray-paint.html|>
+## PlastiKote Trade Quick Dry Trim Spray Paint
+
+{
+  "price": "€8.36 inc VAT",
+  "description": "The PlastiKote Trade Quick Dry Trim Spray Paint is a high-quality paint that is ideal for all window sills and wood trim. It is also the first ever trade quality trim paint in spray form. It has a next gen formulation, meaning the paint can be applied on almost all surfaces. Produces a long-lasting, durable, scratch resistant finish. Comes in 2 white finishes: high gloss and satinwood.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade Quick Dry Trim Spray Paint",
+  "specifications": [
+    "Available in High Gloss White 400ml and Satinwood White 400ml",
+    "Next gen formulation for application on almost all surfaces",
+    "Long-lasting, durable, scratch resistant finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-quick-dry-acrylic-spray-paint.html|>
+## PlastiKote Trade Quick Dry Acrylic Spray Paint
+
+{
+  "price": "€8.36 inc VAT",
+  "description": "PlastiKote Trade Acrylic Spray Paint is a high-quality paint with quick drying formula. Touch dry in 10 minutes. Ideal for jobs where you need to paint or update various objects. Available in a selection of basic colours with either a matt or gloss finish.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade Quick Dry Acrylic Spray Paint",
+  "specifications": [
+    "Touch dry in 10 minutes",
+    "Available in various colors",
+    "Matt or gloss finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-deco-spray-paint-satin-matt-ral-9005-deep-black-400ml.html|>
+## MOTIPÂ® Deco Spray Paint Satin Matt RAL 9005 Deep Black 400ml
+
+{
+  "price": "€6.04 inc VAT (€4.91 exc.vat)",
+  "description": "MoTip Deco Spray Paint has excellent coverage and filling properties to treat wood, metal, aluminium, glass, stone and various types of plastic. Surfaces can be previously treated or untreated. It provides long-lasting colour, whilst being rust preventive and resistant to petrol, chemicals and weather influences.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Deco Spray Paint Satin Matt RAL 9005 Deep Black 400ml",
+  "specifications": [
+    "Finish: Satin Matt",
+    "Colour: RAL 9005 Deep Black",
+    "Size: 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-deco-spray-paint-matt.html|>
+## MOTIPÂ® Deco Spray Paint, Matt
+
+{
+  "price": "€6.05 inc VAT",
+  "description": "MoTip Deco Spray Paint has excellent coverage and filling properties to treat wood, metal, aluminium, glass, stone and various types of plastic. Surfaces can be previously treated or untreated. It provides long-lasting colour, whilst being rust preventive and resistant to petrol, chemicals and weather influences.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Deco Spray Paint, Matt",
+  "specifications": [
+    "Excellent coverage and filling properties",
+    "Suitable for wood, metal, aluminium, glass, stone, and various plastics",
+    "Rust preventive and resistant to petrol, chemicals, and weather influences"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-deco-spray-paint-high-gloss.html|>
+## MOTIPÂ® Deco Spray Paint, High Gloss
+
+{
+  "price": "€6.05 inc VAT",
+  "description": "MoTip Deco Spray Paint has excellent coverage and filling properties to treat wood, metal, aluminium, glass, stone and various types of plastic. Surfaces can be previously treated or untreated. It provides long-lasting colour, whilst being rust preventive and resistant to petrol, chemicals and weather influences.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Deco Spray Paint, High Gloss",
+  "specifications": [
+    "Available Colors: RAL 1004 Gold Yellow, RAL 2004 Pure Orange, RAL 5010 Gentian Blue, RAL 6018 Yellow Green, RAL 9005 Deep Black, RAL 9016 Brilliant White",
+    "Volume: 400ml",
+    "Rust preventive",
+    "Resistant to petrol, chemicals, and weather influences"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-stick-2-touch-up-enamel-white-25ml.html|>
+## Everbuild Stick 2 Touch Up Enamel White 25ml
+
+{
+  "price": "€7.75 inc VAT (€6.30 exc.vat)",
+  "description": "The Everbuild EVBS2ENAMEL is a high quality gloss enamel that provides superior rust protection and dries to a mirror like finish. It is ideal for touching up scratches and chips on enamel and lacquer damages on bathroom fixtures, kitchen appliances and ceramics. It provides excellent colour and gloss retention, even after repeated cleaning, and has a high resistance to water and sunlight.",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild Stick 2 Touch Up Enamel White 25ml",
+  "specifications": [
+    "High quality gloss enamel",
+    "Superior rust protection",
+    "Dries to a mirror-like finish",
+    "Ideal for touching up scratches and chips",
+    "Excellent colour and gloss retention",
+    "High resistance to water and sunlight"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-kitchen-and-bathroom-repair-kit-60g.html|>
+## Ronseal Kitchen & Bathroom Repair Kit 60g
+
+{
+  "price": "€36.67 inc VAT (€29.81 exc.vat)",
+  "description": "Ronseal Kitchen and Bathroom Repair Kit contains everything you need for the easy and professional repair of cracks, scratches, and defects on kitchen and bathroom fixtures and appliances. It is long lasting, tough, durable, and waterproof and leaves a smooth white finish in just 3 easy steps. Ideal for use on enamelled cast iron and steel, porcelain, fibreglass, acrylic and other similar material. Instantaneous repair of kitchen and bathroom fixtures and appliances e.g. sinks, washing machines, baths, ceramic tiles, refrigerators, shower stalls and hard water damage.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Kitchen & Bathroom Repair Kit 60g",
+  "specifications": [
+    "Size: 60g",
+    "Finish: Enamel",
+    "Application: Brush",
+    "Approx drying time: 30 mins",
+    "Protection level: Medium",
+    "Approx number of coats: 1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-fast-dry-enamel-aerosols.html|>
+## Plasti-kote Fast Dry Enamel Aerosols
+
+{
+  "price": "€5.55 inc VAT",
+  "description": "The Plasti-kote Fast Dry Enamel Aerosol is a superior quality paint comes in a handy 100ml spray and is ideal for small project or craft uses. Fast Dry Enamel is non-fading, long-lasting paint which is safe to use on children's toys and furniture. Suitable for use on cardboard, ceramic, glass, metal, paper, plastic and wood. Available in 37 superb colours, please note that the cap is not a true representation of the finish.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Fast Dry Enamel Aerosols",
+  "specifications": [
+    "100ml spray",
+    "Non-fading",
+    "Long-lasting",
+    "Safe for children's toys and furniture",
+    "Suitable for various surfaces including cardboard, ceramic, glass, metal, paper, plastic, and wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-multi-purpose-enamel-spray-400-ml.html|>
+## Plasti-kote Multi Purpose Enamel Spray 400 ml
+
+{
+  "price": "€12.99 inc VAT",
+  "description": "The Plasti-Kote Multi Purpose Enamel Spray Paint incorporate a valve system that allows the can to be used at any angle without clogging, making them ideal for use in hard to reach areas, or when objects cannot be moved with ease. The paint is suitable for interior or exterior use and is resistant against corrosion, chemicals, petroleum and UV light. It is also heat resistant to 121° C and is long-lasting, durable and incredibly versatile. Suitable for fibreglass, iron, masonry, metal, paper, plastic, steel, stone and wood. Drying time: touch dry in 20 - 30 minutes, thoroughly dry in 1 hour. Coverage: approximately 2.23m² per tin.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Multi Purpose Enamel Spray 400 ml",
+  "specifications": [
+    "Gloss Grey, Gloss Orange, Gloss Red options available",
+    "Heat resistant to 121° C",
+    "Coverage: approximately 2.23m² per tin",
+    "Touch dry in 20 - 30 minutes, thoroughly dry in 1 hour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-appliance-enamel.html|>
+## Plasti-kote Twist & Spray Appliance Enamel
+
+{
+  "price": "€14.99 inc VAT",
+  "description": "Plasti-Kote Appliance Enamel is a high quality enamel, which is quick and easy to use and can be used on most metal surfaces in the kitchen. It provides a quick drying, long lasting finish that can put life back into old and tired kitchen appliances. It is scratch, stain and moisture resistant with a non-yellowing formula. Available in a super modern satin chrome finish, in addition to traditional gloss white. Not for use on sinks, cookers or hobs. Coverage: approximately 2.23m² per pack. Drying Time: touch dry in 10-20 minutes, thoroughly dry in 1 hour.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Appliance Enamel",
+  "specifications": [
+    "Gloss White 400ml",
+    "Quick drying",
+    "Long lasting finish",
+    "Scratch, stain and moisture resistant",
+    "Coverage: approximately 2.23m² per pack",
+    "Drying Time: touch dry in 10-20 minutes, thoroughly dry in 1 hour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-fast-dry-enamel-brush-on.html|>
+## Plasti-kote Fast Dry Enamel Brush On
+
+{
+  "price": "€7.38 inc VAT",
+  "description": "The Fast Dry Enamel Paint is superior quality paint comes in a handy 59ml bottle and is ideal for small project or craft uses. Fast Dry Enamel is non-fading, long-lasting paint which is safe to use on children’s toys and furniture. Suitable for use on cardboard, ceramic, glass, metal, paper, plastic, wicker and wood.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Fast Dry Enamel Brush On",
+  "specifications": [
+    "Bottle Size: 59ml",
+    "Non-fading and long-lasting",
+    "Safe for children's toys and furniture",
+    "Suitable for various surfaces including cardboard, ceramic, glass, metal, paper, plastic, wicker, and wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-one-coat-tile-paint-white-satin-750ml.html|>
+## Ronseal One Coat Tile Paint White Satin 750ml
+
+{
+  "price": "€27.24 inc VAT (€22.15 exc.vat)",
+  "description": "The Ronseal RSLTPWS750 One Coat Tile Paint transforms old tiled surfaces creating a completely new look without the need to re-tile. It requires no primer and leaves a tough, durable, waterproof and mould resistant finish without leaving brush marks. Ideal for tiled areas around sinks, baths, cookers, and domestic shower areas. Not recommended for floor tiles or tiled work surfaces. Quick drying formula. Size: 750ml. Colour: White Satin.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal One Coat Tile Paint White Satin 750ml",
+  "specifications": [
+    "Size: 750ml",
+    "Colour: White Satin",
+    "Quick drying formula",
+    "Transforms old tiled surfaces",
+    "No primer required",
+    "Waterproof and mould resistant finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-step-and-tile-paint-gloss-red-25-litre.html|>
+## Rustins Step & Tile Paint Gloss Red 2.5 Litre
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "Rustins Step & Tile Gloss Paint has a gloss finish and is suitable for use on brick and stone. Formulated to be hardwearing and durable, which makes it suitable for interior and exterior use.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Step & Tile Paint Gloss Red 2.5 Litre",
+  "specifications": [
+    "Colour: Red",
+    "Size: 2.5 Litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-floor-paint.html|>
+## Everbuild Floor Paint
+
+{
+  "price": "€133.96 inc VAT",
+  "description": "Floor Paint is a low viscosity, heavy-duty alkyd based paint designed to provide a clean hardwearing finish to concrete, stone and wooden floors subject to light traffic including fork lift trucks, scissor lifts etc. Ideal for use on garage floors, workshops, storerooms, walkways etc. It gives enhanced durability, abrasion resistance and a good resistance to dilute acids/alkalis and oils. Solvent Free Interior Use Coverage 10 square metres per Litre",
+  "availability": "In Stock",
+  "product_name": "Everbuild Floor Paint",
+  "specifications": [
+    "Select Option: Grey 5 Litre, Red 5 Litre",
+    "Coverage 10 square metres per Litre",
+    "Solvent Free",
+    "Interior Use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-masonry-paint.html|>
+## Rustins Masonry Paint
+
+{
+  "price": "from €5.47 inc VAT",
+  "description": "Rustins Quick Dry Masonry Paint is a high quality, acrylic paint which is suitable for dry exterior masonry surfaces. To apply, use a large brush and apply evenly. The surface area must be clean, dry, free from dust and other contaminants likely to affect adhesion. No primer is required if fresh mortar has been applied to pointing. Do not use on damp surfaces. One coat is usually sufficient. Drying time: approx 30 mins, depending on temperature and humidity. Re-coat: 4 hours. Coverage: 14m² per 1 litre.",
+  "availability": "In Stock",
+  "product_name": "Rustins Masonry Paint",
+  "specifications": [
+    "Size Options: Black 250ml, White 250ml",
+    "Drying time: approx 30 mins",
+    "Re-coat time: 4 hours",
+    "Coverage: 14m² per 1 litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-one-coat-spray-tile-paint-gloss-white-400ml.html|>
+## PlastiKote Trade One Coat Spray Tile Paint Gloss White 400ml
+
+{
+  "price": "€8.89 inc VAT (€7.23 exc.vat)",
+  "description": "PlastiKote Trade One Coat Spray Tile Paint is a fast-drying acrylic lacquer for treating and updating bathroom and kitchen tiles. Trade Functional Sprays are ideal for every professional builder, tradesman or painter/decorator.",
+  "availability": "Out of Stock",
+  "product_name": "PlastiKote Trade One Coat Spray Tile Paint Gloss White 400ml",
+  "specifications": [
+    "Coverage: 1-1.75m²",
+    "Touch Dry: 10 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hammerite-direct-to-rust-smooth-finish-paint.html|>
+## Hammerite Direct to Rust Smooth Finish Paint
+
+{
+  "price": "from €21.99 inc VAT",
+  "description": "Hammerite Direct To Rust Metal Paint can be painted directly onto rusty surfaces and, thanks to its special 3 in 1 formula, there is no need to use a primer or undercoat - saving you precious time! Hammerite forms a superior barrier that not only seals out moisture, but also gives long lasting protection, both inside and outside. Touch dry in an hour, Hammerite is corrosion resistant and is suitable for use on a wide range of exterior metal including gates, railings, drainpipes, guttering and garden furniture. Protects for up to 8 years.",
+  "availability": "In Stock",
+  "product_name": "Hammerite Direct to Rust Smooth Finish Paint",
+  "specifications": [
+    "Available in Black 750ml and Dark Blue 2.5 Litre",
+    "Touch dry in an hour",
+    "Corrosion resistant",
+    "Protects for up to 8 years",
+    "No need for primer or undercoat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-500ml-yellow-metal-and-machinery-paint.html|>
+## Master Lock 500Ml Yellow Metal And Machinery Paint
+
+{
+  "price": "€6.49 inc VAT (€5.28 exc.vat)",
+  "description": "500Ml Yellow Metal And Machinery Paint",
+  "availability": "Out of Stock",
+  "product_name": "Master Lock 500Ml Yellow Metal And Machinery Paint",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/supadec-metal-primer.html|>
+## SupaDec Metal Primer
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "SupaDec Metal Primer Spray Paint 400ml Grey - Supadec Metal Spray Paints have anti-rust properties designed to provide long-lasting protection against damage from rust and corrosion. Because they are spray paints, they are simple to apply and dry quickly for a great finish allowing projects to be completed quickly and with ease.",
+  "availability": "In Stock",
+  "product_name": "SupaDec Metal Primer",
+  "specifications": [
+    "168G : €9.99",
+    "Anti-rust properties",
+    "Long-lasting protection against rust and corrosion",
+    "Quick-drying for easy application"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-anti-corrosion-primer-500ml.html|>
+## MOTIPÂ® Pro Anti Corrosion Primer 500ml
+
+{
+  "price": "€5.61 inc VAT (€4.56 exc.vat)",
+  "description": "MoTip Pro Anti Corrosion Primer is a fast-drying, lead-free, red oxide primer to treat untreated surfaces of ferrometal. Suitable as a pre-treatment for respraying with air-drying alkyd lacquer systems. MoTip Anti Corrosion Primer has excellent coverage, filling properties and adhesion. It is also weldable and easy to sand and has excellent corrosion prevention.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Anti Corrosion Primer 500ml",
+  "specifications": [
+    "Fast-drying",
+    "Lead-free",
+    "Red oxide primer",
+    "Excellent coverage",
+    "Filling properties",
+    "Weldable",
+    "Easy to sand",
+    "Corrosion prevention"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-deco-spray-primer.html|>
+## MOTIPÂ® Deco Spray Primer
+
+{
+  "price": "€6.05 inc VAT",
+  "description": "MoTip Deco Spray Primer is fast-drying with excellent coverage and filling properties. It is easy to sand, both wet and dry (from grade 400). It can be used on both treated and untreated surfaces and is suitable for wood, metal, aluminium, glass and stone.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Deco Spray Primer",
+  "specifications": [
+    "Grey 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-aluminium-primer-spray-400ml.html|>
+## Plasti-kote Aluminium Primer Spray 400ml
+
+{
+  "price": "€12.29 inc VAT (€9.99 exc.vat)",
+  "description": "The Plasti-Kote Aluminium Primer Spray provides base adhesion on any aluminium surface such as bike frames and model aircraft etc. It gives an even layer of base colour and increases the adhesion of the topcoat. Drying time: touch dry in 10-20 minutes, thoroughly dry in 30-40 minutes. Coverage: approximately 2.23 m² (Coverage varies by colour and application). Suitable for use on aluminium.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Aluminium Primer Spray 400ml",
+  "specifications": [
+    "Drying time: touch dry in 10-20 minutes, thoroughly dry in 30-40 minutes",
+    "Coverage: approximately 2.23 m²",
+    "Suitable for use on aluminium"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-super-grey-primer-spray-400ml.html|>
+## Plasti-kote Super Grey Primer Spray 400ml
+
+{
+  "price": "€8.30 inc VAT (€6.75 exc.vat)",
+  "description": "Plasti-kote Super Grey Primer Spray is ideal for many applications, both interior and exterior, and is suitable for use on wood or metal. It provides a preparatory coating that allows finishing paint to adhere much better than if it were used alone. Use after initial preparation and prior to the top coat being applied.",
+  "availability": "Out of Stock",
+  "product_name": "Plasti-kote Super Grey Primer Spray 400ml",
+  "specifications": [
+    "PKT1148 : €8.30",
+    "List: €9.77",
+    "You save €1.47",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-plastic-primer-400ml.html|>
+## Plasti-kote Twist & Spray Plastic Primer 400ml
+
+{
+  "price": "€12.36 inc VAT (€10.05 exc.vat)",
+  "description": "The Plasti-kote Twist & Spray Plastic Primer is ideal for renewing and decorating common household plastics, giving extra adhesion to any Plasti-kote topcoat. Perfect for interior and exterior rigid plastic surfaces such as patio furniture, plant pots and storage boxes, etc. Drying time: Allow 5-10 minutes between coats. Topcoat can be applied after 1 hour, but for best results leave to thoroughly dry overnight. Coverage approximately 2.23m² (Coverage varies by colour and application). Not suitable for soft plastic surfaces. Pack size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Plastic Primer 400ml",
+  "specifications": [
+    "Pack size: 400ml",
+    "Coverage approximately 2.23m²",
+    "Drying time: Allow 5-10 minutes between coats",
+    "Topcoat can be applied after 1 hour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-red-oxide-metal-primer-5-litre.html|>
+## Rustins Red Oxide Metal Primer 5 Litre
+
+{
+  "price": "€79.99 inc VAT (€65.03 exc.vat)",
+  "description": "Rustins Red Oxide Metal Primer has exceptional covering power and can be used on gates, metal tanks and all ferrous metal surfaces. Not suitable for use with cellulose finishes. Size: 5 Litre.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Red Oxide Metal Primer 5 Litre",
+  "specifications": [
+    "Size: 5 Litre",
+    "Exceptional covering power",
+    "Not suitable for use with cellulose finishes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-one-coat-all-surface-primer-and-undercoat-750ml.html|>
+## Ronseal One Coat All Surface Primer & Undercoat 750ml
+
+{
+  "price": "€14.38 inc VAT (€11.69 exc.vat)",
+  "description": "Ronseal All Surface Primer & Undercoat has been specifically formulated for exterior surfaces. It can be used as a base coat on wood, metal, brick and terracotta to give added adhesion before applying the top coat. Size: 750ml.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal One Coat All Surface Primer & Undercoat 750ml",
+  "specifications": [
+    "Size: 750ml",
+    "Can be used on wood, metal, brick, and terracotta",
+    "Provides added adhesion before applying top coat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-metal-primer-sprays.html|>
+## Plasti-kote Metal Primer Sprays
+
+{
+  "price": "from €12.83 inc VAT",
+  "description": "Plasti-Kote Metal Spray Primer offers ultimate metal protection with a non-sanding formula for areas of moderate corrosion. The primer is quick and easy to apply and fast drying. Available in a range of colours. For protection from severe corrosion use Plasti-Kote Zinc Primer which actually fuses to the surface it is applied to. Drying time: touch dry in 20 - 40 minutes, thoroughly dry in 2 - 4 hours. Coverage: approximately 2.23m² per tin.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Metal Primer Sprays",
+  "specifications": [
+    "Available in a range of colours",
+    "Touch dry in 20 - 40 minutes",
+    "Thoroughly dry in 2 - 4 hours",
+    "Coverage: approximately 2.23m² per tin"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-spray-primer.html|>
+## Plasti-kote Spray Primer
+
+{
+  "price": "from €10.31 inc VAT",
+  "description": "Plasti-Kote primer increases top coat adhesion, seals porous, bare or corroded surfaces, maximises durability and improves the overall finish of many surfaces with a formula designed for enhanced and consistent coverage. The new easy spray technology provides added control to make spray painting easier, faster and cleaner than ever before. The primer can be recoated at anytime for simple, faster project completion. The can’s large, comfortable finger pad requires 33% less finger pressure than other spray paint cans, and the twist and lock mechanism means there is no separate top to remove or replace after use. Its cap and button design shields the finger from paint for a cleaner spray-painting process.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Spray Primer",
+  "specifications": [
+    "Select Option: Black, Grey, Red Oxide, White",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-industrial-primers.html|>
+## Plasti-kote Industrial Primers
+
+{
+  "price": "from €9.69 inc VAT",
+  "description": "The Plasti-Kote Industrial Metal Primer Sprays increase the life and durability of metal surfaces. They seal out moisture and inhibit rust formation. Metal Primers protect and seal all bare surfaces without the need for sanding. Quick drying. Drying time: touch dry in 20-40 minutes, thoroughly dry in 2 - 4 hours. Coverage: approximately 2.23m².",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Industrial Primers",
+  "specifications": [
+    "Drying time: touch dry in 20-40 minutes, thoroughly dry in 2 - 4 hours",
+    "Coverage: approximately 2.23m²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-galvanised-primer.html|>
+## Rustins Galvanised Primer
+
+{
+  "price": "from €7.59 inc VAT",
+  "description": "Rustins Galvanized Primer is a quick drying, low odour metal primer that is suitable for indoor and outdoor use. Containing anti-corrosion additives, it is ideal for use on bare and galvanized metal such as metal steps, hand rails, corrugated sheets and metal shiplap prior to applying a top coat. Touch dry in 30 minutes and re-coatable in 2 hours.",
+  "availability": "In Stock",
+  "product_name": "Rustins Galvanised Primer",
+  "specifications": [
+    "Select Option: 1 Litre, 250ml, 500ml",
+    "Touch dry in 30 minutes",
+    "Re-coatable in 2 hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-quick-dry-mdf-sealer.html|>
+## Rustins Quick Dry MDF Sealer
+
+{
+  "price": "from €8.67 inc VAT",
+  "description": "Rustins Quick Dry MDF Sealer is a quick drying, clear sealer that allows the application of both paints or varnishes, unlike white MDF sealers which can only be painted. Touch dry in 30 minutes and can be re-coated in 2 hours. Clean brushes in water. Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3, which makes it ideal to use on children's toys.",
+  "availability": "In Stock",
+  "product_name": "Rustins Quick Dry MDF Sealer",
+  "specifications": [
+    "Select Option: Clear 1 Litre, Clear 2.5 Litre, Clear 250 ml, Clear 500 ml",
+    "Touch dry in 30 minutes",
+    "Can be re-coated in 2 hours",
+    "Clean brushes in water",
+    "Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-aluminium-wood-primers.html|>
+## Rustins Aluminium Wood Primers
+
+{
+  "price": "€14.99 inc VAT",
+  "description": "Rustins Aluminium Wood Primer is an oil based primer, but contains aluminium pigment which provides better water resistance.",
+  "availability": "In Stock",
+  "product_name": "Rustins Aluminium Wood Primers",
+  "specifications": [
+    "Select Option: 250 ml",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-cold-zinc-spray-primer-400ml.html|>
+## PlastiKote Trade Cold Zinc Spray Primer 400ml
+
+{
+  "price": "€8.89 inc VAT (€7.23 exc.vat)",
+  "description": "PlastiKote Trade Cold Zinc Spray Primer has a zinc based formula, based on epoxy ester for treating galvanised and untreated steel. Offers excellent cathodic corrosion prevention. Great for covering spot welding and heat-resistant up to 350°C. Trade Functional Sprays are ideal for every professional builder, tradesman or painter/decorator.",
+  "availability": "Out of Stock",
+  "product_name": "PlastiKote Trade Cold Zinc Spray Primer 400ml",
+  "specifications": [
+    "Coverage: 1-1.75m²",
+    "Touch Dry: 20-30 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-quick-dry-primer-spray.html|>
+## PlastiKote Trade Quick Dry Primer Spray
+
+{
+  "price": "€8.36 inc VAT",
+  "description": "The PlastiKote Trade Primer Spray is a high-quality paint with quick drying formula. Touch dry in 15 minutes. Ideal for jobs where you need to paint or update various objects.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade Quick Dry Primer Spray",
+  "specifications": [
+    "Select Option: Grey, Red Oxide, White",
+    "Touch dry in 15 minutes",
+    "High-quality paint with quick drying formula"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-metal-spray-paint-and-primer.html|>
+## PlastiKote Trade Metal Spray Paint & Primer
+
+{
+  "price": "€8.89 inc VAT",
+  "description": "PlastiKote Trade Metal Spray Paint & Primer is an advanced spray lacquer that combines primer and paint in one product. Suitable for metal surfaces. Trade functional sprays are ideal for every professional builder, tradesman or painter/decorator.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade Metal Spray Paint & Primer",
+  "specifications": [
+    "Coverage: 1-1.75m²",
+    "Touch Dry: 40-60 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-quick-drying-mdf-primer.html|>
+## Rustins Quick Drying MDF Primer
+
+{
+  "price": "€14.99 inc VAT",
+  "description": "Rustins Quick Drying MDF Primer is a grey, water-based primer for all interior and exterior surfaces. It has a high opacity with low odour. Suitable for use on hardboard and wood. Sizes available are 250ml and 500ml.",
+  "availability": "In Stock",
+  "product_name": "Rustins Quick Drying MDF Primer",
+  "specifications": [
+    "Sizes available: 250ml and 500ml",
+    "Grey, water-based primer",
+    "High opacity with low odour",
+    "Suitable for hardboard and wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-quick-dry-radiator-enamel.html|>
+## Rustins Quick Dry Radiator Enamel
+
+{
+  "price": "€7.91 inc VAT",
+  "description": "Rustins Quick Dry Radiator Enamel is ideal for touching up white appliances. The enamel is specially designed so that it stays white and does not yellow with age. The enamel is touch dry in 30 minutes, Heat resistant, and low odour. Not to be used on oil filled electric radiators. Avalible in gloss or satin finish.",
+  "availability": "In Stock",
+  "product_name": "Rustins Quick Dry Radiator Enamel",
+  "specifications": [
+    "Available in Gloss White and Satin White",
+    "250 ml and 500 ml options",
+    "Touch dry in 30 minutes",
+    "Heat resistant",
+    "Low odour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-one-coat-radiator-paint.html|>
+## Ronseal One Coat Radiator Paint
+
+{
+  "price": "€12.30 inc VAT",
+  "description": "Ronseal One Coat Radiator Paint is a one coat application that requires no primer. Its heat resistant and leaves a super smooth, tough enamel satin finish with no brush marks for long lasting protection and resists yellowing.",
+  "availability": "In Stock",
+  "product_name": "Ronseal One Coat Radiator Paint",
+  "specifications": [
+    "Select One - Spray White Satin 400ml",
+    "White Satin 250ml",
+    "White Satin 750ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-high-temperature-spray-paint-black-400ml.html|>
+## PlastiKote Trade High Temperature Spray Paint Black 400ml
+
+{
+  "price": "€8.89 inc VAT (€7.23 exc.vat)",
+  "description": "The PlastiKote Trade High Temperature Spray Paint has been designed for use on surfaces that are exposed to very high temperatures. Formulated to withstand temperatures up to 200°C. Ideal for boilers, pipework etc.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade High Temperature Spray Paint Black 400ml",
+  "specifications": [
+    "Colour: Black",
+    "Coverage: 1-1.75m²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-radiator-spray-paint.html|>
+## PlastiKote Trade Radiator Spray Paint
+
+{
+  "price": "€8.89 inc VAT",
+  "description": "PlastiKote Trade Radiator Spray Paint is a fast-drying acrylic lacquer for decorating radiators and heating pipes. Trade functional sprays are ideal for every professional builder, tradesman or painter/decorator.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade Radiator Spray Paint",
+  "specifications": [
+    "Coverage: 1-1.75m²",
+    "Touch Dry: 10 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-bbq-paint-black-400ml.html|>
+## Plasti-kote Twist & Spray BBQ Paint Black 400ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "The Plasti-kote Twist & Spray BBQ Paint offers a beautiful satin sheen that is exceptionally durable, and provides resistance against fading due to wind, sun and rain. It preserves the life of metal and is abrasion resistant. The new easy spray technology provides added control to make spray painting easier, faster and cleaner than ever before. The can's large, comfortable finger pad requires 35% less finger pressure than other spray paint cans. The twist and lock mechanism means there is no separate top to remove or replace after use and the cap and button design shields the finger from paint for a cleaner spray-painting process. Heat resistant to 425° C. Coverage: approximately 2.23m². Pack size: 400ml. Colour: Black. Suitable for metal only.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray BBQ Paint Black 400ml",
+  "specifications": [
+    "Heat resistant to 425° C",
+    "Coverage: approximately 2.23m²",
+    "Pack size: 400ml",
+    "Colour: Black",
+    "Suitable for metal only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-wood-stove-paint-black-400ml.html|>
+## Plasti-kote Twist & Spray Wood Stove Paint Black 400ml
+
+{
+  "price": "€13.99 inc VAT (€11.37 exc.vat)",
+  "description": "The Plasti-kote Twist & Spray Wood Stove Paint offers a beautiful satin sheen that is exceptionally durable, and provides resistance against fading. It preserves the life of the metal and is abrasion resistant. The new easy spray technology provides added control to make spray painting easier, faster and cleaner than ever before. The can's large, comfortable finger pad requires 35% less finger pressure than other spray paint cans, and the Twist and lock mechanism means there is no separate top to remove or replace after use. The cap and button design shields fingers from paint for a cleaner spray-painting process. Coverage: approximately 2.23m². Pack size: 400ml. Colour: Black. Suitable for metal only.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Wood Stove Paint Black 400ml",
+  "specifications": [
+    "Pack size: 400ml",
+    "Coverage: approximately 2.23m²",
+    "Colour: Black",
+    "Suitable for metal only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-high-heat-paint.html|>
+## Plasti-kote High Heat Paint
+
+{
+  "price": "from €9.69 inc VAT",
+  "description": "The Plasti-Kote High Heat Paint has a curing formula that forms a hard, long lasting finish that will not burn off, chip or flake. It is ideal for any surface exposed to very high heat. Heat resistant up to 650°C once cured, can be re-coated anytime.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote High Heat Paint",
+  "specifications": [
+    "Heat resistant up to 650°C once cured",
+    "Curing formula for a hard, long lasting finish",
+    "Ideal for surfaces exposed to very high heat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-radiator-paint.html|>
+## Plasti-kote Twist & Spray Radiator Paint
+
+{
+  "price": "from €11.91 inc VAT",
+  "description": "The Plasti-Kote Twist & Spray Radiator Paint is specially formulated to make painting radiators quick and easy. The finish obtained is both durable and professional. There are no brushes to clean and you will not be left with brush marks on your radiator. The formula is non-yellowing and resists heat up to 100° C. Easy spray technology provides added control to make spray painting easier, faster and cleaner than ever before. The can's large, comfortable finger pad requires 35% less finger pressure than other spray paint cans, and the twist and lock mechanism means there is no separate top to remove or replace after use. The cap and button design shields the finger from paint for a cleaner spray-painting process. The radiator spray range is available in gloss and satin finishes.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Radiator Paint",
+  "specifications": [
+    "Available in Gloss White, Magnolia, Satin White",
+    "Heat resistant up to 100° C",
+    "Non-yellowing formula",
+    "Easy spray technology for better control",
+    "Comfortable finger pad design"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-high-600-paints.html|>
+## Rustins High 600 Paints
+
+{
+  "price": "€11.82 inc VAT",
+  "description": "Rustins High Heat Paint is a fast drying protective and decorative paint which is stable to temperatures up to 600C. Suitable for use on Ferrous Metals such as wood burning stoves, barbeques, domestic and industrial stoves, furnace chimeys, grates and exhausts.",
+  "availability": "In Stock",
+  "product_name": "Rustins High 600 Paints",
+  "specifications": [
+    "Available in Black 250 ml, Black 500 ml, Silver 500 ml",
+    "Fast drying",
+    "Stable to temperatures up to 600C",
+    "Suitable for Ferrous Metals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-rust-not-spray.html|>
+## Plasti-kote Rust Not Spray
+
+{
+  "price": "€8.93 inc VAT",
+  "description": "The Plasti-kote Rust Not Spray Paint is formulated for maximum rust protection and provides a hard wearing, durable finish. It penetrates the metal's surface to form a permanent bond that is impact resistant and will not peel, flake, or fade for years. The formula is quick drying and can be re-coated at any time. Drying time: touch dry in 10 - 20 minutes, thoroughly dry in 30 - 40 minutes. Coverage: approximately 2.6m² per tin.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Rust Not Spray",
+  "specifications": [
+    "Select Option: Gloss Black 500ml, Gloss White 500ml, Matt 500ml, Aluminium, Matt 500ml Mid Blue RAL5010, Matt Black 500ml, Matt White 500ml",
+    "Drying time: touch dry in 10 - 20 minutes, thoroughly dry in 30 - 40 minutes",
+    "Coverage: approximately 2.6m² per tin"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-4-in-1-rust-stop-spray-paint-white-400ml.html|>
+## PlastiKote Trade 4-in-1 Rust Stop Spray Paint White 400ml
+
+{
+  "price": "€8.89 inc VAT (€7.23 exc.vat)",
+  "description": "PlastiKote Trade 4-in-1 Rust Stop Spray Paint provides active corrosion protection using an effective 4-in-1 lacquer system: primer, corrosion resistance, colour and protection. It has a quick drying formula that provides high coverage and excellent adhesion on almost all surfaces, even rust. Trade Functional Sprays are ideal for every professional builder, tradesman or painter/decorator.",
+  "availability": "Out of Stock",
+  "product_name": "PlastiKote Trade 4-in-1 Rust Stop Spray Paint White 400ml",
+  "specifications": [
+    "Coverage: 1.5-2m²",
+    "Touch Dry: 20 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/h-g-rust-remover-500ml.html|>
+## H G Rust Remover 500ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "The HG Rust Remover removes rust without sanding from fences, garden tools, ice skates, bolts, nuts, tools, etc. The rust remover works fast and efficiently to de rust metal.",
+  "availability": "In Stock",
+  "product_name": "H G Rust Remover 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Removes rust without sanding",
+    "Works on various metal items"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-6-year-anti-mould-paint.html|>
+## Ronseal 6 Year Anti Mould Paint
+
+{
+  "price": "from €25.72 inc VAT",
+  "description": "The Ronseal Anti Mould Paint protects walls and ceilings from mould growth for up to 6 Years. The paint's advanced encapsulated biocide technology is specifically designed to actively prevent all common types of mould (including black mould) from building up on the paint surface in areas of high condensation and humidity such as kitchens and bathrooms.",
+  "availability": "In Stock",
+  "product_name": "Ronseal 6 Year Anti Mould Paint",
+  "specifications": [
+    "Areas of use: Interior walls.",
+    "Coverage: 13m2 covered per litre.",
+    "Number of coats: 2.",
+    "Drying time: 2 hours."
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-anti-condensation-paint.html|>
+## Ronseal Anti Condensation Paint
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "Helps prevent the causes of mould. Tough, scrubbable finish. Touch dry in 1-2 hours. Second Coat: 4 hours. The Ronseal Anti Condensation Paint adds a layer of insulation to help prevent condensation which leads to mould. Once it's dry that's it, the job is done. Unless you want to add some colour. Then you can paint over it any colour your want. It still gives the same anti-condensation protection. BEFORE YOU START to Make sure the room is above 10°c. Open your doors and windows for ventilation and put down dust sheets to protect anything you don't want to get paint on. Preparation: Remove any wallpaper and get rid of any loose paint or plaster by giving it a quicksand. Make sure the area you're painting is clean and dry. If you've got mould, get rid of it with our 3in1 Mould Killer. Cover any damp stains with our One Coat Damp Seal. USING YOUR ANTI-CONDENSATION PAINT Give it a really good stir. Then use a roller or brush to put it on. Don't brush or roller it out too thinly. After 4 hours put another generous coat on. It'll be touch dry in 1-2 hours. If you want to paint over it, let it dry for 4 hours. Usage Areas: All indoor walls and ceilings. Compatibility: Bare and previously painted walls and ceilings. Clean-Up: Clean all brushes in warm, soapy water. Coverage: 6m² per Litre. Ronseal RSLACPWM750 Anti Condensation Paint Colour: White. Finish: Matt. Size: 750ml.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Anti Condensation Paint",
+  "specifications": [
+    "Size: 750ml",
+    "Colour: White",
+    "Finish: Matt",
+    "Coverage: 6m² per Litre",
+    "Touch dry in 1-2 hours",
+    "Second coat after 4 hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-stain-sealer-400ml.html|>
+## Plasti-kote Twist & Spray Stain Sealer 400ml
+
+{
+  "price": "€11.91 inc VAT (€9.68 exc.vat)",
+  "description": "The Plasti-kote Twist & Spray Stain Sealer is ideal as a spot primer for covering and sealing interior surfaces before repainting with interior wall or ceiling paints. Its new easy spray technology provides added control to make spray painting easier, faster and cleaner than ever before. The can's large, comfortable finger pad requires 35% less finger pressure than other spray paint cans. The twist and lock mechanism means there is no separate top to remove or replace after use, and the cap and button design shields the finger from paint for a cleaner spray-painting process. Stain Sealer covers and seals unsightly stains and water spots, and prevents water, smoke, mildew or rust stains from bleeding through. Touch dry in 15 minutes. Thoroughly dry in 2 - 3 hours. Coverage: 2.23m² per 400ml.",
+  "availability": "Out of Stock",
+  "product_name": "Plasti-kote Twist & Spray Stain Sealer 400ml",
+  "specifications": [
+    "PKT26010 : €11.91",
+    "Touch dry in 15 minutes",
+    "Thoroughly dry in 2 - 3 hours",
+    "Coverage: 2.23m² per 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-quick-dry-damp-seal-aerosol-white-400ml.html|>
+## Ronseal Quick Dry Damp Seal Aerosol White 400ml
+
+{
+  "price": "€14.40 inc VAT (€11.71 exc.vat)",
+  "description": "Ronseal Damp Seal Aerosol permanently blocks damp stains and prevents them from damaging topcoat paint. The aerosol application makes it easier to access hard to reach places. It can be applied directly to damp surfaces and only takes 10 minutes to dry. Usage areas: All interior walls and ceilings. Compatibility: Bare and previously painted walls and ceilings. Coats required: 2-3. Size: 400ml.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Quick Dry Damp Seal Aerosol White 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Usage areas: All interior walls and ceilings",
+    "Compatibility: Bare and previously painted walls and ceilings",
+    "Coats required: 2-3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-one-coat-damp-seal.html|>
+## Rustins One Coat Damp Seal
+
+{
+  "price": "from €7.59 inc VAT",
+  "description": "Rustins One Coat Damp Seal is a fast drying, high performance interior paint which permanently covers damp, water stains and most household stains. It dries with a long-lasting permanent seal over damp walls and ceilings and can be over coated with gloss or emulsion paint as well as wallpaper. It does not cure the damp but is specially formulated to allow trapped moisture to escape over time so preventing flaking of the paint or peeling of wallpaper. Suitable for interior use and can be applied to damp surfaces. Fast drying and can be re-coated in 2 hours.",
+  "availability": "In Stock",
+  "product_name": "Rustins One Coat Damp Seal",
+  "specifications": [
+    "Select Option: 1 Litre, 250ml, 500ml",
+    "Fast drying",
+    "Can be re-coated in 2 hours",
+    "Suitable for interior use",
+    "Covers damp and water stains"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-damp-seal.html|>
+## Polycell Damp Seal
+
+{
+  "price": "from €17.69 inc VAT",
+  "description": "Polycell Damp Seal has been specially formulated to seal patches of penetrating damp on interior walls and ceilings in just one coat, preventing them from showing through and spoiling decorations. Damp Seal has a matt white finish that can be over painted or wallpapered if required.",
+  "availability": "In Stock",
+  "product_name": "Polycell Damp Seal",
+  "specifications": [
+    "Prevents damp from showing through and spoiling decoration.",
+    "Seals patches of penetrating damp on interior walls and ceilings in just one coat.",
+    "Touch dry in 4 hours (depending on conditions).",
+    "For plaster, cement and stone.",
+    "Use indoors."
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-stain-stop.html|>
+## Polycell Stain Stop
+
+{
+  "price": "from €7.99 inc VAT",
+  "description": "Polycell Stain Stop is a highly pigmented paint, which permanently prevents existing stains reappearing through paint. It provides one coat coverage over water stains, grease, nicotine, crayons, rust and soot. Suitable for plaster, stone, masonry, plasterboard and wood. Drying time: Surface dry in 2-3 hours.",
+  "availability": "In Stock",
+  "product_name": "Polycell Stain Stop",
+  "specifications": [
+    "Select Option: 1 Litre, 250 ml",
+    "Drying time: Surface dry in 2-3 hours",
+    "Suitable for plaster, stone, masonry, plasterboard and wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-3-in-1-mould-killer.html|>
+## Ronseal 3 In 1 Mould Killer
+
+{
+  "price": "€14.00 inc VAT",
+  "description": "The Ronseal 3 In 1 Mould Killer kills mould instantly, cleans and protects against mould. It breaks down mould and removes it from paint work.",
+  "availability": "In Stock",
+  "product_name": "Ronseal 3 In 1 Mould Killer",
+  "specifications": [
+    "Trigger Spray 500ml",
+    "Usage Areas: For use in areas where mould is present.",
+    "Compatibility: Suitable for use on, bare or previously painted walls and ceilings."
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-one-coat-damp-seal-1.html|>
+## Ronseal One Coat Damp Seal
+
+{
+  "price": "from €10.91 inc VAT",
+  "description": "The Ronseal One Coat Damp Seal permanently blocks damp stains on walls and ceilings. You can even put it onto damp walls. It lets trapped moisture escape without causing anymore damage. When it's dry you can paint or wallpaper over it.",
+  "availability": "In Stock",
+  "product_name": "Ronseal One Coat Damp Seal",
+  "specifications": [
+    "Coverage: 5m² Per Litre",
+    "Touch dry in 2 hours",
+    "Ready to paint or wallpaper over in 4 hours",
+    "Compatible with bare or previously painted walls and ceilings",
+    "Clean up with warm, soapy water"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-one-coat-stain-block-white.html|>
+## Ronseal One Coat Stain Block White
+
+{
+  "price": "€20.37 inc VAT",
+  "description": "The Ronseal One Coat Stain Block can be used before painting to permanently block stains from showing through. It covers nicotine, crayon, grease and much more. Permanently blocks stains in 1 coat and is ready to paint over in 4 hours. Before you start, make sure you're in a warm well ventilated room. All surfaces should be clean, dry and free from dust. Mask any surrounding surfaces and repair any holes or cracks will the correct filler. Stir well before you start. If you're using it to seal bare surfaces then thin with 20% water. Put the paint on with a brush or a roller. Leave it for 4 hours before painting or wallpapering. Clean all brushes and rollers in warm, soapy water. Coverage: 8m² Per Litre. Usage Areas: All interior walls and ceilings. Compatibility: Bare or previously painted walls and ceilings.",
+  "availability": "In Stock",
+  "product_name": "Ronseal One Coat Stain Block White",
+  "specifications": [
+    "Select Option: 2.5 Litre, 750ml",
+    "Coverage: 8m² Per Litre",
+    "Usage Areas: All interior walls and ceilings",
+    "Compatibility: Bare or previously painted walls and ceilings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-thompsons-damp-seal.html|>
+## Ronseal Thompsons Damp Seal
+
+{
+  "price": "from €10.92 inc VAT",
+  "description": "A high performance seal for sealing and covering damp, water and other household stains in one coat. Micro-porous formulation allows trapped moisture to escape. Can be applied directly to damp surfaces and permanently stops the reappearance of stains. The one coat formulation allows the surface to be decorated in 4 hours. Coverage to 7m²/L depending on the porosity of the substrate. Allow 4 hours between each coat. After the second coat, leave for a further 4 hours before decorating.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Thompsons Damp Seal",
+  "specifications": [
+    "Available in 2.5 Litre, 250 ml, 750 ml",
+    "Coverage: 7m²/L depending on substrate porosity",
+    "One coat formulation allows surface to be decorated in 4 hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-one-coat-damp-seal.html|>
+## Ronseal One Coat Damp Seal
+
+{
+  "price": "from €14.99 inc VAT",
+  "description": "A high performance seal for sealing and covering damp, water and other household stains in one coat. Micro-porous formulation allows trapped moisture to escape. Can be applied directly to damp surfaces and permanently stops the reappearance of stains. The one coat formulation – allows the surface to be decorated in 4 hours. Coverage to 7m²/L depending on the porosity of the substrate. Allow 4 hours between each coat. After the second coat, leave for a further 4 hours before decorating.",
+  "availability": "In Stock",
+  "product_name": "Ronseal One Coat Damp Seal",
+  "specifications": [
+    "Select Option: 2.5 Litre, 250 ml, 750 ml",
+    "Coverage to 7m²/L depending on the porosity of the substrate",
+    "Allow 4 hours between each coat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-stain-block-spray-paint-white-400ml.html|>
+## PlastiKote Trade Stain Block Spray Paint White 400ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "PlastiKote Trade Stain Block is a fast-drying primer based on acrylate resin with excellent insulating properties for exterior and interior use. For insulating stains in plasterwork, as well as in wood and concrete. Can be overcoated with all dispersion lacquers and alkaline and waterborne acrylic lacquers.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade Stain Block Spray Paint White 400ml",
+  "specifications": [
+    "Coverage: 1-1.5m²",
+    "Dust Dry: 10 minutes",
+    "Recoatable: after 30 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-anti-slip-spray-paint-400ml.html|>
+## PlastiKote Trade Anti-Slip Spray Paint 400ml
+
+{
+  "price": "€8.89 inc VAT (€7.23 exc.vat)",
+  "description": "PlastiKote Trade Anti-Slip Spray Paint is a specially modified, fast-drying acrylic resin lacquer with anti-slip particles and a transparent matt finish. Increases grip on slippery surfaces, reducing the risk of falling, even in wet weather. Suitable for interior and exterior use. Ideal for stairs, shower trays, bathroom floors, tiles around swimming pools, tool handles, etc. Chlorine and saltwater resistant. Good adhesion to concrete, tiles, wood, metal, linoleum and most plastics. Trade Functional Sprays are ideal for every professional builder, tradesman or painter/decorator.",
+  "availability": "Out of Stock",
+  "product_name": "PlastiKote Trade Anti-Slip Spray Paint 400ml",
+  "specifications": [
+    "Coverage: 1-1.6m²",
+    "Touch Dry: 10 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-quick-dry-clear-lacquer-spray.html|>
+## PlastiKote Trade Quick Dry Clear Lacquer Spray
+
+{
+  "price": "from €8.36 inc VAT",
+  "description": "The PlastiKote Trade Clear Lacquer Spray has a quick drying formula that provides excellent coverage with a durable scratch free and wear-resistant finish. The finish is resistant to chemicals and weather influences. Touch dry in 10 minutes. Three different finishes: Matt, Satin or Gloss.",
+  "availability": "In Stock",
+  "product_name": "PlastiKote Trade Quick Dry Clear Lacquer Spray",
+  "specifications": [
+    "Quick drying formula",
+    "Durable scratch-free finish",
+    "Resistant to chemicals and weather influences",
+    "Touch dry in 10 minutes",
+    "Available in Matt, Satin, or Gloss finishes"
+  ]
+}
+

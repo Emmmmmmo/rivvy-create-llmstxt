@@ -1,0 +1,264 @@
+<|https://www.mydiy.ie/products/faithfull-concave-foam-mini-roller-refill-pack-2.html|>
+## Faithfull Concave Foam Mini Roller Refill (Pack 2)
+
+{
+  "price": "€3.03 inc VAT (€2.46 exc.vat)",
+  "description": "Faithfull Concave Foam Mini Roller Refill for use with gloss paints on smooth surfaces. The special concave design eliminates roll marks providing an all-round smooth finish and enables the speedy application of the paint.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Concave Foam Mini Roller Refill (Pack 2)",
+  "specifications": [
+    "Size: 100mm (4in)"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-foam-mini-roller-refills.html|>
+## Faithfull Foam Mini Roller Refills
+
+{
+  "price": "from €4.07 inc VAT",
+  "description": "Dense foam roller refills for use with gloss and emulsion paints on smooth surfaces for a fine finish. For use with both mini rollers and radiator rollers.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Foam Mini Roller Refills",
+  "specifications": [
+    "Pack of 10",
+    "Pack of 2"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-paint-kettle-plastic-25-litres.html|>
+## Faithfull Paint Kettle Plastic 2.5 Litres
+
+{
+  "price": "€2.99 inc VAT (€2.43 exc.vat)",
+  "description": "This Faithfull plastic Paint Kettle can be used with all types of paint and wallpaper paste. It can also be used for holding nails, screws and small tools when working at height. Capacity: 2.5 Litres.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Paint Kettle Plastic 2.5 Litres",
+  "specifications": [
+    "Capacity: 2.5 Litres"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-paint-roller-tray-liners-230mm-9in-pack-5.html|>
+## Faithfull Paint Roller Tray Liners 230mm (9in) (Pack 5)
+
+{
+  "price": "€5.28 inc VAT (€4.29 exc.vat)",
+  "description": "Faithfull Paint Roller Tray Liners allow a paint roller tray to be used for more than one colour simultaneously. Trade quality. Suitable for use with most 230mm (9in) paint roller trays. These moulded, disposable liners are supplied in a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Paint Roller Tray Liners 230mm (9in) (Pack 5)",
+  "specifications": [
+    "Pack of 5",
+    "Suitable for 230mm (9in) paint roller trays",
+    "Trade quality",
+    "Moulded, disposable liners"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plastic-handle-roller-frame.html|>
+## Faithfull Plastic Handle Roller Frame
+
+{
+  "price": "€4.03 inc VAT",
+  "description": "This Faithfull Plastic Handle Roller Frame has a smooth rolling action and features a full frame roller support. Allowing easy mounting of roller refills by simply pushing them on, or pulling them off the frame. The plastic handle is designed for user comfort and easy cleaning. It has an internal thread that allows the roller to be used with Faithfull and many other makes of roller extension pole.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plastic Handle Roller Frame",
+  "specifications": [
+    "Smooth rolling action",
+    "Full frame roller support",
+    "Easy mounting of roller refills",
+    "Plastic handle for user comfort",
+    "Internal thread for roller extension pole"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plastic-roller-kit-tray-100mm-4in.html|>
+## Faithfull Plastic Roller Kit Tray 100mm (4in)
+
+{
+  "price": "€1.99 inc VAT (€1.62 exc.vat)",
+  "description": "The Faithfull general purpose mini roller paint tray for 100mm (4in) rollers; perfect for use in most DIY and trade applications. Manufactured from 100% recycled plastic, these trays are tough and sturdy, with a deep paint reservoir and ribbed rolling area to assist an even application on to the roller.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plastic Roller Kit Tray 100mm (4in)",
+  "specifications": [
+    "100mm (4in) size",
+    "Manufactured from 100% recycled plastic",
+    "Deep paint reservoir",
+    "Ribbed rolling area for even application"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-polyamide-roller-refill.html|>
+## Faithfull Polyamide Roller Refill
+
+{
+  "price": "€7.86 inc VAT",
+  "description": "The Faithfull Polyamide Roller Refills offer excellent results with emulsions and masonry paints on rough surfaces. These professional quality sleeves feature the best possible 'pick-up' and paint application for evenly distributed coatings. The open pile of the roller makes it easy to clean after use. Polyamide rollers are made from a heavy-duty grade material that is engineered for a long-life and will pick up a vast range of coverings including thinner paints, woodstains and coatings.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Polyamide Roller Refill",
+  "specifications": [
+    "Available sizes: 230 x 38mm (9 x 1.1/2in), 230 x 44mm (9 x 1.3/4in)",
+    "Professional quality sleeves",
+    "Excellent pick-up and paint application",
+    "Easy to clean after use",
+    "Heavy-duty grade material for long life"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-radiator-roller-kit-frame-and-2-refills-100mm-4in.html|>
+## Faithfull Radiator Roller Kit Frame & 2 Refills 100mm (4in)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Faithfull Radiator roller kit contains the following: 1 x 530 mm (21in) roller frame. 2 x 100 mm (4in) medium pile rollers. Suitable for use with gloss and emulsion paints. Ideal for painting behind radiators, pipes and other awkward places.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Radiator Roller Kit Frame & 2 Refills 100mm (4in)",
+  "specifications": [
+    "1 x 530 mm (21in) roller frame",
+    "2 x 100 mm (4in) medium pile rollers",
+    "Suitable for use with gloss and emulsion paints",
+    "Ideal for painting behind radiators, pipes and other awkward places."
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-roller-frame-double-frame-300mm-12in.html|>
+## Faithfull Roller Frame Double Frame 300mm (12in)
+
+{
+  "price": "€10.47 inc VAT (€8.51 exc.vat)",
+  "description": "The Faithfull FAIRFDARM is a professional quality double arm roller frame, with a standard screw-in pin fitting. Compatible with most 300mm (12 inch) masonry roller sleeves. It has a threaded handle to fit the Faithfull roller extension poles.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Roller Frame Double Frame 300mm (12in)",
+  "specifications": [
+    "Professional quality double arm roller frame",
+    "Standard screw-in pin fitting",
+    "Compatible with most 300mm (12 inch) masonry roller sleeves",
+    "Threaded handle to fit Faithfull roller extension poles"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-roller-frames-for-230mm-rollers.html|>
+## Faithfull Roller Frames for 230mm Rollers
+
+{
+  "price": "€8.31 inc VAT",
+  "description": "A quality roller frame that has a smooth rolling action and features a full frame roller support, allowing easy mounting of roller refills by simply pushing them on, or pulling them off the frame. Supplied with a traditional threaded wooden handle for user comfort and easy cleaning. Can be used with the Faithfull FAIREXPOLE extension pole.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Roller Frames for 230mm Rollers",
+  "specifications": [
+    "Size options: 228 x 38mm (9in x 1.1/2in), 228 x 43mm (9 x 1.3/4in)",
+    "Traditional threaded wooden handle",
+    "Compatible with Faithfull FAIREXPOLE extension pole"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-round-fitch-brush-set-of-6-2-4-6-8-10-and-12mm.html|>
+## Faithfull Round Fitch Brush Set of 6 2, 4, 6, 8, 10 & 12mm
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "This set comprises 6 round pattern fitch brushes with pure white bristle - useful for re-touching and detail work. The Faithfull FAIPBFITRPK comes in the following sizes: 2, 4, 6, 8, 10 and 12mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Round Fitch Brush Set of 6 2, 4, 6, 8, 10 & 12mm",
+  "specifications": [
+    "Set of 6 round pattern fitch brushes",
+    "Sizes: 2, 4, 6, 8, 10 and 12mm",
+    "Pure white bristle for detail work"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-short-mopile-roller-sleeves-230mm--9in.html|>
+## Faithfull Short Mopile Roller Sleeves 230mm (9in)
+
+{
+  "price": "€4.55 inc VAT",
+  "description": "The Faithfull Mopile Roller is manufactured in Europe to demanding standards. It has short pile, suitable for use with gloss and solid emulsion paints on smooth surfaces.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Short Mopile Roller Sleeves 230mm (9in)",
+  "specifications": [
+    "Short pile suitable for gloss and solid emulsion paints",
+    "Manufactured in Europe"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-striker-paint-brush.html|>
+## Faithfull Striker Paint Brush
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Faithfull Striker Paintbrush has a long-reach handle that makes it ideal for painting difficult areas. An angled 50mm diameter head with stainless steel ferrule is bolted to a 60cm (2ft) wooden handle. High paint holding capacity and strong construction make this brush suitable for both DIY and industrial use.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Striker Paint Brush",
+  "specifications": [
+    "Diameter: 50mm (2in)",
+    "Bristle Length: 70mm (2.3/4in)",
+    "Handle: 600 x 24mm (24 x 1in)"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-superflow-synthetic-paint-brushes.html|>
+## Faithfull Superflow Synthetic Paint Brushes
+
+{
+  "price": "from €3.65 inc VAT",
+  "description": "These Faithfull Superflow Paint Brushes have synthetic bristles which are made from 100% polyester tapered filaments and which guarantee excellent performance with no bristle loss. Fitted with a 'Kaiser' style lacquered wooden handle for user comfort, these brushes offer superb performance with all modern water based paints. Can also be used with all other types of paint. Faithfull paintbrushes are manufactured to the highest standard using the very best materials. The bristles are bonded using top quality resin to avoid any shedding. All the handles are made from natural wood from renewable sources. The stainless steel ferrules are rustproof.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Superflow Synthetic Paint Brushes",
+  "specifications": [
+    "Synthetic bristles made from 100% polyester",
+    "Kaiser style lacquered wooden handle",
+    "Suitable for all modern water-based paints",
+    "Rustproof stainless steel ferrules"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tradesman-synthetic-paint-brush.html|>
+## Faithfull Tradesman Synthetic Paint Brush
+
+{
+  "price": "€2.69 inc VAT",
+  "description": "Faithfull Tradesman synthetic filament brushes are manufactured using a 100% blend of solid round tapered filaments with a chiselled top for better performance and ease when cutting in. A natural wood beavertail handle provides perfect grip and balance, making the brushes comfortable to use. The squared stainless steel ferrule helps retain an accurate head shape. These brushes will provide a good performance and can be used with all paint types.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tradesman Synthetic Paint Brush",
+  "specifications": [
+    "Available in multiple sizes: 100mm, 13mm, 19mm, 25mm, 38mm, 50mm, 75mm",
+    "100% blend of solid round tapered filaments",
+    "Natural wood beavertail handle for grip and balance",
+    "Squared stainless steel ferrule for accurate head shape"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tradesman-synthetic-sash-brush-set-3-piece.html|>
+## Faithfull Tradesman Synthetic Sash Brush Set, 3 Piece
+
+{
+  "price": "€14.46 inc VAT (€11.76 exc.vat)",
+  "description": "Faithfull Tradesman Synthetic Sash Brushes are manufactured using a 100% blend of synthetic filament profiles that allow the brush to pick up and lay off the paint professionally. The angled top is ideal for cutting in and gaining access into the corners of rooms etc. Fitted with an extra-long, natural wood beavertail handle that provides a perfect grip and balance, making the brushes comfortable to use. The squared, stainless steel ferrule helps retain an accurate head shape. These brushes will provide a good performance and can be used with all paint types. This 3 piece set contains one of each size: 38mm (1.1/2in), 50mm (2in) and 63mm (2.1/2in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tradesman Synthetic Sash Brush Set, 3 Piece",
+  "specifications": [
+    "3 piece set includes brushes of sizes 38mm, 50mm, and 63mm",
+    "Manufactured with 100% synthetic filament",
+    "Angled top for cutting in",
+    "Natural wood beavertail handle for comfort",
+    "Stainless steel ferrule for shape retention"
+  ],
+  "product_category": "Decorating - Painting Tools"
+}
+

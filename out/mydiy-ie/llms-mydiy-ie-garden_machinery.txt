@@ -1,0 +1,453 @@
+<|https://www.mydiy.ie/products/einhell-gp-lb-18200-li-gk-solo-power-x-change-leaf-blower-18v-bare-unit.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/einhell-venturro-18210-leaf-blowervac-18v-bare-unit.html|>
+## Einhell VENTURRO 18/210 Leaf Blower/Vac 18V Bare Unit
+
+{
+  "price": "€120.10 inc VAT (€97.64 exc.vat)",
+  "description": "The Einhell VENTURRO 18/210 Leaf Blower/Vac makes tedious leaf collecting a thing of the past! With speed electronics, the suction and blowing power are controlled individually. You can switch between the suction and blowing function using a switch. Removes large quantities of foliage, which, with the shredding function, is reduced to one tenth of its volume and lands in a 45-litre collecting bag with viewing window to check the fill level. This lightweight device is comfortable to use thanks to the additional handle, two large wheels, carrying strap and wall mount. Member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Einhell VENTURRO 18/210 Leaf Blower/Vac 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 8,000-14,000/min.",
+    "Blow Velocity: 210 km/h.",
+    "Max. Blowing Power: 180m³/h.",
+    "Max. Suction Power: 500m³/h.",
+    "Shredding Function: 10:1.",
+    "Catch Bag Capacity: 45 litre.",
+    "Weight: 2.95kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-gc-cl-18-li-e-solo-leaf-blower-18v-bare-unit.html|>
+## Einhell GC-CL 18 Li E-Solo Leaf Blower 18V Bare Unit
+
+{
+  "price": "€52.46 inc VAT (€42.65 exc.vat)",
+  "description": "The Einhell GC-CL 18 Li E-Solo Leaf Blower is a powerful and reliable tool which enables the quick and user-friendly cleaning of open areas and niches, where there is no connection to the electric power grid. Its compact, low weight design enables user-friendly operation. Electronic speed control, allows you to change the speed depending on the task at hand. Thanks to the soft grip, the cordless leaf blower is both pleasant and secure to hold for particularly user-friendly operation. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GC-CL 18 Li E-Solo Leaf Blower 18V Bare Unit",
+  "specifications": [
+    "Air Speed: 210 Km/h",
+    "Max. Blowing Power: 105 m³/h",
+    "Weight: 1.33kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-ub-18250-li-e-solo-power-x-change-leaf-blower-18v-bare-unit.html|>
+## Einhell GE-UB 18/250 Li E-Solo Power X-Change Leaf Blower 18V Bare Unit
+
+{
+  "price": "€57.50 inc VAT (€46.75 exc.vat)",
+  "description": "The Einhell GE-UB 18/250 Li E-Solo Power X-Change Leaf Blower can be used for various applications in the home and garden, for example as a leaf blower with a long blowing pipe, as a workshop blower with a medium blowing pipe or as a grill ignition aid with a short precision blowing pipe. Its LED display provides information about the set speed at a glance. Electronic speed control ensures that the required adjustment is made. The softgrip ensures good grip and fatigue-free working. With integrated wall mount for easy storage. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger. For optimal results, a 2.5Ah battery or higher is recommended.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-UB 18/250 Li E-Solo Power X-Change Leaf Blower 18V Bare Unit",
+  "specifications": [
+    "Air Speed: 250 Km/h",
+    "Max. Blowing Power: 120 m³/h",
+    "Weight: 1.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-gp-lb-18200-li-e-solo-power-x-change-leaf-blower-18v-bare-unit.html|>
+## Einhell GP-LB 18/200 Li E-Solo Power X-Change Leaf Blower 18V Bare Unit
+
+{
+  "price": "€83.75 inc VAT (€68.09 exc.vat)",
+  "description": "The Einhell GP-LB 18/200 Li E-Solo Power X-Change Leaf Blower is a tried-and-tested helper around the house particularly during autumn and spring cleaning time. Powered by the Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. After registering online, the brushless motor comes with a 10-year warranty. Axial impeller technology ensures optimum performance, and a turbo switch activates the maximum blowing power.\n\nThe electronic speed control system is equipped with a practical multi-step LED. Compared to its counterparts with petrol engines, the cordless leaf blower is distinctly quieter, and thanks to its lower weight it is also much easier to handle. A softgrip handle enables ergonomic operation and extremely comfortable handling.\n\nA robust metal ring at the end of the tube provides protection against impact and ensures that the tube enjoys a long working life. No tools are needed to fit the removable blower tube. For easy and space-saving storage this cordless leaf blower comes with an integrated wall holder.\n\nOffers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger. For optimum performance it is recommended to use a 3.0Ah PXC battery or higher.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell GP-LB 18/200 Li E-Solo Power X-Change Leaf Blower 18V Bare Unit",
+  "specifications": [
+    "Air Speed: 200 Km/h",
+    "Max. Blowing Power: 670 m³/h",
+    "Weight: 2.16kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-eb7660th-backpack-petrol-blower-756cc-4-stroke.html|>
+## Makita EB7660TH Backpack Petrol Blower 75.6cc 4 Stroke
+
+{
+  "price": "€1,079.92 inc VAT (€877.98 exc.vat)",
+  "description": "EB7660TH Backpack Petrol Blower 75.6cc 4 Stroke",
+  "availability": "Out of Stock",
+  "product_name": "Makita EB7660TH Backpack Petrol Blower 75.6cc 4 Stroke",
+  "specifications": [
+    "75.6cc 4 Stroke Engine",
+    "Backpack design for comfort",
+    "Powerful blowing capability",
+    "Lightweight and easy to use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-venturro-36240-power-x-change-leaf-vacuum-36v-bare-unit.html|>
+## Einhell VENTURRO 36/240 Power X-Change Leaf Vacuum 36V Bare Unit
+
+{
+  "price": "€146.37 inc VAT (€119.00 exc.vat)",
+  "description": "The Einhell VENTURRO 36/240 Power X-Change Leaf Vacuum uses TWIN-PACK technology, which combines two 18V batteries, and the brushless motor, more power and a longer runtime are guaranteed. Speed electronics and an LED display allow you to individually control the suction and blowing power, which also influences the volume. A changeover switch can be used to change between suction and blowing functions at any time and without any effort. If the cordless leaf vacuum is used as a leaf blower, it blows the leaves away using the additional boost function at a blowing speed of up to 240 km/h. With a suction capacity of max. 740m³ per hour, the 4kg lightweight device also removes large amounts of leaves in no time at all, which, thanks to the shredding function, ends up in a 45-litre collection bag, reduced to one tenth of its original volume. The quality collection bag is equipped with two viewing windows to check the fill level and is quickly and easily clicked into the pipe. Thanks to the additional handle, the cordless leaf vacuum can be optimally guided with two-hand operation, a comfortable carrying strap also ensures optimum weight relief. Two large wheels at the end of the suction pipe allow you to easily move the leaf vacuum comfortably on uneven terrain, which protects your back. Thanks to an integrated wall bracket, the device can be stowed away in a space-saving way. For easy cleaning, the leaf vacuum cleaner is equipped with a cleaning flap with safety switch. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger. This hedge trimmer needs 2 x 18V batteries to run.",
+  "availability": "In Stock",
+  "product_name": "Einhell VENTURRO 36/240 Power X-Change Leaf Vacuum 36V Bare Unit",
+  "specifications": [
+    "Air Speed: 240km/hr.",
+    "Suction Power/Volume: 740 m³/h.",
+    "Collection Bag Capacity: 45 litre.",
+    "Waste Reduction: 10:1.",
+    "Weight: 3.55kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-x20s-cordless-blower-20v-1-x-20ah-li-ion.html|>
+## Olympia Power Tools X20S™ Cordless Blower 20V 1 x 2.0Ah Li-ion
+
+{
+  "price": "€87.51 inc VAT (€71.15 exc.vat)",
+  "description": "The Olympia Power Tools X20S™ Cordless Blower is perfect for hard surface sweeping such as decks, patios and driveways. Its powerful motor and variable speed settings allow the user to choose the power output for controlled leaf blowing. Designed to be compact and lightweight with ultimate cordless convenience, the 20V Cordless Blower makes quick work of clearing jobs.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools X20S™ Cordless Blower 20V 1 x 2.0Ah Li-ion",
+  "specifications": [
+    "Voltage: 20V",
+    "Air Flow Speed: 120mph/193kph",
+    "Variable Speed: 7,000-12,000/rpm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ub001gz-xgt-40vmax-bl-blower-40v-bare-unit.html|>
+## Makita UB001GZ XGT 40Vmax BL Blower 40V Bare Unit
+
+{
+  "price": "€390.51 inc VAT (€317.49 exc.vat)",
+  "description": "The Makita UB001G XGT 40Vmax BL Blower is a versatile and extremely efficient blower for construction and gardening. Equipped with a brushless motor. Max. blowing force can be easily obtained by fully pulling the trigger (Boost mode). In Boost mode, 17N max blowing force is always available. Compact and lightweight for single handed operation. A lock-on button operable from either side of handle for continuous operation. The battery protection system automatically shuts off power when the battery level is low. Supplied as a Bare Unit - No Battery or Charger. Comes with: 1 x Shoulder Belt, 1 x Adaptor Pipe, 1 x End Nozzle, 1 x Extension Nozzle and 1 x Flat Nozzle.",
+  "availability": "Out of Stock",
+  "product_name": "Makita UB001GZ XGT 40Vmax BL Blower 40V Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-20,000/23,000/min.",
+    "Max. Air Velocity: 53/64 m/s",
+    "Blowing Force: 0-17N",
+    "Air Volume: 0-13.5/16 m³/min.",
+    "Weight: 2.4kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-duc254z-bl-lxt-chainsaw.html|>
+## Makita DUC254Z BL LXT Chainsaw
+
+{
+  "price": "€559.29 inc VAT",
+  "description": "The Makita DUC254 BL LXT Chainsaw comes with a high chain speed for pruning and carving. Equipped with a maintenance-free brushless motor. A torque boost mode enables the cutting of thick branches by temporarily boosting current limiter. Its lightweight design with a top handle makes it easy to use. The battery protection system automatically shuts off power when the battery level is low.",
+  "availability": "In Stock",
+  "product_name": "Makita DUC254Z BL LXT Chainsaw",
+  "specifications": [
+    "Bar Length: 25cm",
+    "Chain Speed: 24m/s",
+    "Chain Gauge: 0.043in",
+    "Chain Pitch: 3/8in",
+    "Chain Oil Tank: 0.14 litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-35cm-chainsaw-duc355z-18v.html|>
+## Makita 35Cm Chainsaw Duc355Z 18V
+
+{
+  "price": "€355.19 inc VAT (€288.77 exc.vat)",
+  "description": "MAKDUC355Z : €355.19",
+  "availability": "Out of Stock",
+  "product_name": "Makita 35Cm Chainsaw Duc355Z 18V",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ea3500s40b-petrol-easy-start-chainsaw-40cm-bar-35cc-2-stroke.html|>
+## Makita EA3500S40B Petrol Easy Start Chainsaw 40cm Bar 35cc 2-Stroke
+
+{
+  "price": "€495.68 inc VAT (€402.99 exc.vat)",
+  "description": "The Makita EA3500S40B Petrol Easy Start Chainsaw has an environment-friendly 2-stroke engine with catalytic muffler to comply with well known exhaust emission regulations and has a compact and lightweight body for better handling. It offers a rapid start with an on-off choke combination switch and automatic half throttle lock. For added safety the chainsaw has a touch and stop switch.",
+  "availability": "Out of Stock",
+  "product_name": "Makita EA3500S40B Petrol Easy Start Chainsaw 40cm Bar 35cc 2-Stroke",
+  "specifications": [
+    "Input Power: 2-Stroke Petrol Engine 35cc",
+    "Horsepower: 2.28 hp",
+    "Chain Speed: 14.5m/sec.",
+    "Chain Gauge: 0.050in, Pitch: 3/8in",
+    "Bar Size: 40cm",
+    "Fuel Tank Capacity: 400ml",
+    "Chain Oil Capacity: 290ml",
+    "Weight: 5.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-uc3541a-electric-chainsaw-35cm-bar-1800w-240v.html|>
+## Makita UC3541A Electric Chainsaw 35cm Bar 1800W 240V
+
+{
+  "price": "€156.12 inc VAT (€126.93 exc.vat)",
+  "description": "The Makita UC3541A Electric Chainsaw is fitted with an adjustment lever for easier, tool-less saw chain and tension adjustment. With an adjustable automatic chain oil pump and flat motor housing end. Fitted with a large separate-type metal spike bumper. Spike grips work-piece firmly to provide more control. With a number of safety features, including a mechanical chain brake, double insulation, automatic chain oiling and a kickback brake.",
+  "availability": "Out of Stock",
+  "product_name": "Makita UC3541A Electric Chainsaw 35cm Bar 1800W 240V",
+  "specifications": [
+    "Input Power: 1,800W",
+    "Chain Speed: 14.5m/sec.",
+    "Chain: Gauge: 0.050in, Pitch: 3/8in",
+    "Bar Size: 35cm",
+    "Chain Oil Capacity: 200ml",
+    "Weight: 4.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-duc405pt2-brushless-lxt-chainsaw-36v-2-x-18v-2-x-50ah-li-ion.html|>
+## Makita DUC405PT2 Brushless LXT Chainsaw 36V (2 x 18V) 2 x 5.0Ah Li-ion
+
+{
+  "price": "€645.68 inc VAT (€524.94 exc.vat)",
+  "description": "The Makita DUC405 LXT Chainsaw has a durable brushless motor with constant speed control and variable speed control by trigger. For added safety, it has an electric chain brake and kickback brake. Fitted with an ergonomic soft grip and a large separate-type metal spike bumper. The spike grips the workpiece firmly to provide more control. Its design incorporates captive nuts, this prevents nut loss when removing the sprocket cover to replace the guide bar or saw chain. Powered by 2 x 18V Li-ion batteries in series to supply energy to the powerful 36V DC motor drive system. A battery protection system provides over-discharge protection for enhanced battery cycle life and overall battery life.",
+  "availability": "In Stock",
+  "product_name": "Makita DUC405PT2 Brushless LXT Chainsaw 36V (2 x 18V) 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "Bar Length: 40cm",
+    "Chain Speed: 0-20m/sec.",
+    "Chain: Gauge: 0.043in, Pitch: 3/8in",
+    "Chain Oil Capacity: 200ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-duc355-lxt-brushless-chainsaw.html|>
+## Makita DUC355 LXT Brushless Chainsaw
+
+{
+  "price": "€658.89 inc VAT",
+  "description": "The Makita DUC355 LXT Brushless Chainsaw is powered by two 18V Li-ion batteries in series to supply the powerful 36V DC motor drive system. Constant speed control with a variable speed control trigger for increased control. An electric chain brake and kickback brake provide increased user safety. A large separate-type metal spike bumper grips work-piece firmly to provide more control. Fitted with an ergonomic soft grip and a lock off lever to reduce fatigue. Utilizes captive nuts, they prevent loss of nut when removing sprocket cover to replace guide bar or saw chain. It also features an easy to use oil capacity display and adjustable automatic chain lubrication. The battery protection system provides over-discharge protection for enhanced battery cycle life and overall battery life.",
+  "availability": "In Stock",
+  "product_name": "Makita DUC355 LXT Brushless Chainsaw",
+  "specifications": [
+    "Bar Length: 35cm",
+    "Chain Speed: 0-20m/sec.",
+    "Chain Gauge: 0.043in",
+    "Chain Pitch: 3/8in",
+    "Chain Oil Capacity: 200ml",
+    "Weight: 4.7kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-duc305-bl-lxt-chainsaw.html|>
+## Makita DUC305 BL LXT Chainsaw
+
+{
+  "price": "€526.85 inc VAT",
+  "description": "The Makita DUC305 Brushless LXT Chainsaw is powered by 2 x 18V Li-ion batteries in series to supply energy to the powerful 36V DC motor drive system. It has an efficient brushless motor with a soft start feature and an electronic brake for added user safety. Fitted with a soft grip handle and a large separate-type metal spike bumper. Spikes grip the workpiece firmly to provide more control, making cutting easier. Captive nuts prevent loss of nut when removing sprocket cover to replace guide bar or saw chain.",
+  "availability": "In Stock",
+  "product_name": "Makita DUC305 BL LXT Chainsaw",
+  "specifications": [
+    "Bar Length: 30cm",
+    "Chain Speed: 0-20m/s",
+    "Chain Gauge: 0.043in",
+    "Chain Pitch: 3/8in",
+    "Oil Tank Capacity: 200ml",
+    "Weight: 5.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-duc307-lxt-chainsaw.html|>
+## Makita DUC307 LXT Chainsaw
+
+{
+  "price": "€270.85 inc VAT",
+  "description": "The Makita DUC307 LXT Chainsaw has a rear handle design, this allows the chainsaw to run at a lower rpm with a higher torque. Higher lock torque is achieved by adding a gear reduction mechanism. Fitted with an ergonomic soft grip for added user comfort. It is easy to change the saw chain and adjust the tension, without the use of additional tools. Equipped with lock off button, electric chain brake and mechanical kickback chain brake for increased safety in use. Its large oil tank cap allows for refilling of oil, there is also a handy chain oil view window.",
+  "availability": "In Stock",
+  "product_name": "Makita DUC307 LXT Chainsaw",
+  "specifications": [
+    "Bar Length: 30cm",
+    "Chain Speed: 7.7 m/sec",
+    "Chain: Gauge: 0.043in, Pitch: 3/8in",
+    "Oil Tank Capacity: 150ml",
+    "Weight: 4.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-duc254z-bl-lxt-chainsaw-18v-bare-unit.html|>
+## Makita DUC254Z BL LXT Chainsaw 18V Bare Unit
+
+{
+  "price": "€283.75 inc VAT (€230.69 exc.vat)",
+  "description": "Makita DUC254Z BL LXT Chainsaw comes with a high chain speed for pruning and carving. Equipped with a maintenance-free brushless motor. A torque boost mode enables the cutting of thick branches by temporarily boosting current limiter. Its lightweight and design with top handle makes it easy to use. The battery protection system automatically shuts off power when the battery level is low. Only approved for commercial users with special training. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DUC254Z BL LXT Chainsaw 18V Bare Unit",
+  "specifications": [
+    "Bar Length: 25cm",
+    "Chain Speed: 24m/s",
+    "Chain Gauge: 0.043in",
+    "Chain Pitch: 3/8in",
+    "Chain Oil Tank: 0.14 litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-lc-18-li-solo-power-x-change-chainsaw-18v-bare-unit.html|>
+## Einhell GE-LC 18 Li-Solo Power X-Change Chainsaw 18V Bare Unit
+
+{
+  "price": "€104.97 inc VAT (€85.34 exc.vat)",
+  "description": "The Einhell GE-LC 18 Li-Solo Power X-Change Chainsaw is equipped with a high-quality OREGON guide bar and chain, the cordless chainsaw is user-friendly, reliable and safe to operate. This dependable, handy chainsaw is ideal for pruning or felling small to medium-size trees, making firewood and trimming or cutting up construction timber. Safe and easy to use, kickback protection and an instant-reaction mechanical chain brake protect you whilst you work. The chain stops right away if kickback occurs. A catch bolt holds on to the chain if it jumps off the rail. A large and rugged, metal stop claw enables safe and convenient handling for all types of work. The ergonomic handle gives you a firm, comfortable grip. No tools are needed to adjust the chain tension or replace the chain. The chain is lubricated automatically. The large opening in the oil reservoir eliminates the need for a funnel. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell GE-LC 18 Li-Solo Power X-Change Chainsaw 18V Bare Unit",
+  "specifications": [
+    "Cutting Speed: 4.5 m/s",
+    "Sword Length: 25cm",
+    "Max. Cutting Length: 23cm",
+    "Oil Tank Capacity: 200ml",
+    "Weight: 2.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-gp-lc-3635-li-solo-power-x-change-chainsaw-36v-2x18v-bare-unit.html|>
+## Einhell GP-LC 36/35 Li-Solo Power X-Change Chainsaw 36V (2x18V) Bare Unit
+
+{
+  "price": "€152.40 inc VAT (€123.90 exc.vat)",
+  "description": "The Einhell GP-LC 36/35 Li-Solo Power X-Change Chainsaw is powered by two high-performance 18V batteries (NOT supplied) and is driven by an Einhell brushless motor. It also features a high-quality OREGON guide bar and chain, a cutter rail length of 350mm and a cutting speed of 15 m/s. So it cuts through larger trunks with ease. The chain can be changed and its tension adjusted without the need for any other tools. Safe and easy to use, kickback protection and an instant-reaction mechanical chain brake protect you whilst you work. The chain stops right away if kickback occurs. A catch bolt holds on to the chain if it jumps off the rail. Chain lubrication is automatic. A large opening is provided in the oil tank for topping up the oil. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Einhell GP-LC 36/35 Li-Solo Power X-Change Chainsaw 36V (2x18V) Bare Unit",
+  "specifications": [
+    "Cutting Speed: 15 m/s",
+    "Sword Length: 35cm",
+    "Max. Cutting Length: 33cm",
+    "Oil Tank Capacity: 115ml",
+    "Weight: 4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-fortexxa-1830-power-x-change-chainsaw-30cm-18v-bare-unit.html|>
+## Einhell FORTEXXA 18/30 Power X-Change Chainsaw 30cm 18V Bare Unit
+
+{
+  "price": "€146.37 inc VAT (€119.00 exc.vat)",
+  "description": "The Einhell FORTEXXA 18/30 Power X-Change Chainsaw is powered by the Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. After registering online, the brushless motor comes with a 10-year warranty. The chain speed is adjustable depending on the application, i.e. it is possible to switch between full power (8 m/s) and Eco mode (6 m/s). With the reduced chain speed, the battery life is extended. The perfect helper for woodwork on thickly branched fruit trees and dense foliage and conifers. Fitted with a OREGON quality blade and chain. Chain tension can be adjusted without tools and an equally simple chain change make handling easier. The chain catcher and the kickback protection with instant chain brake ensure safety during use and the automatic chain lubrication via the large oil filling opening for easy care. The robust claw stop is made of metal, the ergonomic handle is equipped with softgrip for a firm and secure grip. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell FORTEXXA 18/30 Power X-Change Chainsaw 30cm 18V Bare Unit",
+  "specifications": [
+    "Bar Length: 30cm",
+    "Cutting Length: 27cm",
+    "Chain Pitch: 9.525mm",
+    "Max. Chain Speed: 8.9 m/s",
+    "Oil Tank Capacity: 160ml",
+    "Weight: 4.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-fortexxa-1820-th-power-x-change-chainsaw-20cm-18v-bare-unit.html|>
+## Einhell FORTEXXA 18/20 TH Power X-Change Chainsaw 20cm 18V Bare Unit
+
+{
+  "price": "€130.20 inc VAT (€105.85 exc.vat)",
+  "description": "The Einhell FORTEXXA 18/20 TH Power X-Change Chainsaw is powered by the Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. After registering online, the brushless motor comes with a 10-year warranty. Fitted with a OREGON quality blade and chain. Chain tension can be adjusted without tools and an equally simple chain change make handling easier. Automatic chain lubrication ensures easy care via the large oil filling opening. The FORTEXXA has several safety mechanisms: a tip guard to prevent kickback, kickback protection with immediate chain brake and a chain safety bolt. Its robust claw stop is made of metal. The ergonomic handle is equipped with softgrip for a firm and secure grip. Comes as a Bare Unit, NO battery or charger. A 2.5Ah battery or higher is recommended for optimal results.",
+  "availability": "In Stock",
+  "product_name": "Einhell FORTEXXA 18/20 TH Power X-Change Chainsaw 20cm 18V Bare Unit",
+  "specifications": [
+    "Bar Length: 20cm",
+    "Cutting Length: 14cm",
+    "Chain Thickness: 1.1mm",
+    "Number of Drive Links: 33",
+    "Chain Pitch: 9.5mm",
+    "Max. Chain Speed: 7 m/s",
+    "Oil Tank Capacity: 75ml",
+    "Weight: 2.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-duc150-lxt-pruning-saw.html|>
+## Makita DUC150 LXT Pruning Saw
+
+{
+  "price": "€401.68 inc VAT",
+  "description": "The Makita DUC150 LXT Pruning Saw has a compact and lightweight design enabling easy pruning of the garden or orchard trees. Fitted with a brushless, maintenance-free, and long-life motor and electric brake for maximum productivity and increased operator safety. It also features automatic chain lubrication. The rubberised soft grip provides more comfort and control. XPT (Extreme Protection Technology) protects the saw from dust and water. Making it ideal for operating in harsh job site conditions.",
+  "availability": "In Stock",
+  "product_name": "Makita DUC150 LXT Pruning Saw",
+  "specifications": [
+    "Max. Chain Speed (No Load): 8.0 m/s",
+    "Chain Bar Length: 150mm (6in)",
+    "Chain Pitch: 0.325in",
+    "Chain Gauge: 0.043in",
+    "Number of Drive Links: 32",
+    "Chain Oil Tank: 0.055 Litre",
+    "Weight: 1.1kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-gs-18150-li-solo-power-x-change-pruning-saw-18v-bare-unit.html|>
+## Einhell GE-GS 18/150 Li-Solo Power X-Change Pruning Saw 18V Bare Unit
+
+{
+  "price": "€82.75 inc VAT (€67.28 exc.vat)",
+  "description": "The Einhell GE-GS 18/150 Li-Solo Power X-Change Pruning Saw is compact, lightweight and quickly at hand when it comes to sawing smaller branches on trees, shrubs and the like. Equipped with a U-shaft saw blade holder. Changing the saw blade is convenient and completely tool-free. For safe and one-handed sawing, the pruning saw has a tool-free removable branch bracket, which ensures a better hold on the pruning and prevents slipping. This can be used to saw branches up to 8cm thick and even higher branches can be hooked in and pulled in a little. The slim, ergonomically shaped and 1.8kg lightweight garden tool lies well in the hand thanks to softgrip, even during prolonged use. With the help of the belt clip, the saw can be stored quickly and safely on the belt during work breaks and still remains within reach. Maximum safety when handling the cordless pruning saw is ensured by the raised protective collar, the protective cover of the saw blade holder and the safety switch on both sides, which prevents accidental switching on. To protect the battery, the pruning saw is equipped with a vibration-decoupled battery receptacle, which reduces the transmission of vibrations to the battery. Supplied with two kwb quality saw blades 'Made in Switzerland'. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-GS 18/150 Li-Solo Power X-Change Pruning Saw 18V Bare Unit",
+  "specifications": [
+    "Max. Stroke Rate: 2,600/min.",
+    "Max. Cutting Thickness: with/without Branch Bracket 80/100mm.",
+    "Lift Height: 20mm.",
+    "Weight: 1.14kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-ps-1815-li-bl-solo-power-x-change-pruning-chain-saw-18v-bare-unit.html|>
+## Einhell GE-PS 18/15 Li BL-Solo Power X-Change Pruning Chain Saw 18V Bare Unit
+
+{
+  "price": "€102.94 inc VAT (€83.69 exc.vat)",
+  "description": "The Einhell GE-PS 18/15 Li BL-Solo Power X-Change Pruning Chain is a handy tool for trimming trees and shrubs as well as for shredding green cuttings and for smaller hewing work. Powered by the Einhell PurePOWER brushless motor. This brushless motor offers more power and longer running time than conventional carbon brush motors. After online registration, there is a 10-year warranty on the brushless motor. Supplied with a high-quality sword and chain set for high cutting performance. The sword and chain can be changed easily and without tools for easy maintenance. For safe and flexible use, the saw has a hand guard and a foldable chain cover. The practical garden tool is comfortable to hold thanks to the slim handle, special softgrip surfaces and the integrated hand rest for two-handed use. A sword cover is included for safe storage of the small chain saw. Also included are a dosing aid for manual oiling of the chain and a hexagon socket wrench for retensioning the chain. This is stored directly on the device and is therefore always to hand. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-PS 18/15 Li BL-Solo Power X-Change Pruning Chain Saw 18V Bare Unit",
+  "specifications": [
+    "Max. Chain Speed: 4.8 m/s",
+    "Sword Length: 15.8cm",
+    "Chain Pitch: 7.62mm",
+    "Chain Thickness: 1mm",
+    "Cutting Length: 12.5cm",
+    "Number of Drive Links: 28",
+    "Filling Quantity Chain Oil Bottle: 50ml",
+    "Weight: 1.11kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-duc357rt-lxt-brushless-chainsaw-18v-1-x-50ah-li-ion.html|>
+## Makita DUC357RT LXT Brushless Chainsaw 18V 1 x 5.0Ah Li-ion
+
+{
+  "price": "€540.12 inc VAT (€439.12 exc.vat)",
+  "description": "The Makita DUC357 BL LXT Chainsaw comes with a high chain speed for pruning and carving. Equipped with a maintenance-free brushless motor. Higher lock torque is achieved by adding a gear reduction mechanism. The rear handle structure and design is easy to use and very ergonomic. A battery protection system automatically shuts off power when the battery level is low.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DUC357RT LXT Brushless Chainsaw 18V 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "Bar Length: 35cm",
+    "Chain Speed: 7.7m/s",
+    "Chain Gauge: 0.043in",
+    "Chain Pitch: 3/8in",
+    "Chain Oil Tank: 0.15 litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dua200rt-lxt-pole-saw-18v-1-x-50ah-li-ion.html|>
+## Makita DUA200RT LXT Pole Saw 18V 1 x 5.0Ah Li-ion
+
+{
+  "price": "€558.60 inc VAT (€454.15 exc.vat)",
+  "description": "The Makita DUA200 LXT Pole Saw is equipped with a durable brushless motor. It offers excellent power and performance with low noise levels and zero emissions. The torque boost mode maximises output to power through thicker branches. This tool reduces the burden during operation and improves the ease of targeting branches, as a result to its lightweight tool head and high work efficiency. Tool-less bar tensioning and automatic chain lubrication allow for easy maintenance. Supplied with: 1 x Guide Bar 200mm, 1 x Saw Chain 200mm, 1 x Oil Vessel Set, 1 x Band Assembly, 1 x Guide Cover, 1 x 18V 5.0Ah Li-ion Battery and 1 x 14.4-18V DC18RC LXT Battery Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DUA200RT LXT Pole Saw 18V 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "Max. Chain Speed: 6.7 m/s",
+    "Chain Bar Length: 200mm",
+    "Chain Pitch: 0.325in",
+    "Chain Gauge: 0.043in",
+    "Number of Drive Links: 38",
+    "Weight: 3.2kg"
+  ]
+}
+

@@ -1,0 +1,53 @@
+<|https://www.mydiy.ie/products/campingaz-1750-butane-propane-gas-cartridge.html|>
+## Campingaz 1750 Butane Propane Gas Cartridge
+
+{
+  "price": "€7.11 inc VAT (€5.78 exc.vat)",
+  "description": "This Campingaz cartridge of a mix of Butane/Propane gas is suitable for use with Campingaz blowlamps and blowtorches. It has a high security self-sealing valve, meaning it can be easily and safely disconnected and reconnected even when not empty. Complies with EN417. Caution: this product is highly flammable. Size: 170g.",
+  "availability": "Out of Stock",
+  "product_name": "Campingaz 1750 Butane Propane Gas Cartridge",
+  "specifications": [
+    "Size: 170g",
+    "High security self-sealing valve",
+    "Suitable for Campingaz blowlamps and blowtorches",
+    "Complies with EN417",
+    "Highly flammable"
+  ],
+  "product_category": "Gas Cartridges"
+}
+
+<|https://www.mydiy.ie/products/campingaz-3500-butane-propane-gas-cartridge-350g.html|>
+## Campingaz 3500 Butane Propane Gas Cartridge 350G
+
+{
+  "price": "€9.47 inc VAT (€7.70 exc.vat)",
+  "description": "This Campingaz cartridge of a mix of Butane/Propane gas is suitable for use with Campingaz blowlamps and blowtorches. It has a high security self-sealing valve, meaning it can be easily and safely disconnected and reconnected even when not empty. Cartridge complies with EN417. Caution: this product is highly flammable. Size: 350g.",
+  "availability": "In Stock",
+  "product_name": "Campingaz 3500 Butane Propane Gas Cartridge 350G",
+  "specifications": [
+    "Size: 350g",
+    "High security self-sealing valve",
+    "Suitable for Campingaz blowlamps and blowtorches",
+    "Complies with EN417",
+    "Highly flammable"
+  ],
+  "product_category": "Gas Cartridges"
+}
+
+<|https://www.mydiy.ie/products/campingaz-cv300-butane-propane-gas-cartridge.html|>
+## Campingaz CV300 Butane Propane Gas Cartridge
+
+{
+  "price": "€8.98 inc VAT (€7.30 exc.vat)",
+  "description": "Campingaz® CV300 Plus Butane/Propane Gas Cartridge 240g. Campingaz® Valve Cartridge with a high-performance butane/propane mix (80/20). Safe installation and removal with a self-sealing safety valve. Simply push and turn the device onto the cartridge until you hear a click for a secure and tight connection. The cartridge can be removed and re-attached, even if not yet empty. An ideal solution if you need to operate multiple devices or transport your cartridge between uses.",
+  "availability": "In Stock",
+  "product_name": "Campingaz CV300 Butane Propane Gas Cartridge",
+  "specifications": [
+    "240g",
+    "Butane/Propane mix (80/20)",
+    "Self-sealing safety valve",
+    "Removable and re-attachable"
+  ],
+  "product_category": "Gas Cartridges"
+}
+

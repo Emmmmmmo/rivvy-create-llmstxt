@@ -1,0 +1,236 @@
+<|https://www.mydiy.ie/products/3-in-one-3-in-one-oil-aerosol-can-200ml.html|>
+## 3-IN-ONE Oil Aerosol Can 200ml
+
+{
+  "price": "€5.98 inc VAT (€4.86 exc.vat)",
+  "description": "3-IN-ONE Multi-Purpose Oil Aerosol Spray Can that lubricates, cleans and prevents rust for countless applications. Its high viscosity provides better lubrication and long lasting protection. Size: 200ml.",
+  "availability": "In Stock",
+  "product_name": "3-IN-ONE Oil Aerosol Can 200ml",
+  "specifications": [
+    "Size: 200ml",
+    "Multi-Purpose Oil",
+    "Lubricates, cleans and prevents rust",
+    "High viscosity for better lubrication"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-100mm-green-aluminium-oxide-sanding-paper-rolls.html|>
+## Faithfull 100mm Green Aluminium Oxide Sanding Paper Rolls
+
+{
+  "price": "from €70.81 inc VAT",
+  "description": "Faithfull roll of professional green abrasive aluminium oxide sanding paper, ideal for sanding Paint, Plaster, Fillers and Softwoods. Suited for tradesmen and regular users. Coarse grades are extremely efficient for the quick removal of old paint or tackling rough surfaces, fine grades are used for achieving smooth finishes.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 100mm Green Aluminium Oxide Sanding Paper Rolls",
+  "specifications": [
+    "Available in 120G and 80G options",
+    "Ideal for sanding paint, plaster, fillers, and softwoods",
+    "Coarse grades for quick removal of old paint",
+    "Fine grades for achieving smooth finishes"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-115mm-green-aluminium-oxide-paper-rolls.html|>
+## Faithfull 115mm Green Aluminium Oxide Paper Rolls
+
+{
+  "price": "from €9.64 inc VAT",
+  "description": "Faithfull robust E-Weight paper, these Aluminium Oxide abrasive rolls are ideal for preparing surfaces before painting, and can be used on wood, metal or plastics. The rolls are ideally suited to tradesmen and regular users. Coarse grades are extremely efficient for the quick removal of old paint or tackling rough surfaces. Fine grades are used for achieving smooth finishes. 115mm wide rolls can be used on half sheet sanders when cut to the appropriate length. Professional quality Urea bonded 200g Green paper roll for hand and power sanding on wood, boards, paint, plaster and fillers. Ideal for building trades.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 115mm Green Aluminium Oxide Paper Rolls",
+  "specifications": [
+    "10m Length 120g",
+    "10m length 40g",
+    "10m length 60g",
+    "10m Length 80g",
+    "50m Length 120g",
+    "5m length 120g",
+    "5m length 40g",
+    "5m length 60g",
+    "5m length 80g"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-115mm-silicon-carbide-finishing-rolls.html|>
+## Faithfull 115mm Silicon Carbide Finishing Rolls
+
+{
+  "price": "from €9.40 inc VAT",
+  "description": "Faithfull Silicon Carbide sheets are manufactured using an extremely sharp abrasive on a flexible B-weight paper. A special coating of zinc stearate to lubricate the surface whilst sanding. Used for achieving fine or a supreme finish between coats of varnish and paint. 115mm wide rolls can be used on half sheet sanders when cut to the appropriate length.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 115mm Silicon Carbide Finishing Rolls",
+  "specifications": [
+    "5m length 240g",
+    "5m length 320g",
+    "5m length 400g"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-aluminium-oxide-cloth-rolls.html|>
+## Faithfull Aluminium Oxide Cloth Rolls
+
+{
+  "price": "from €59.38 inc VAT",
+  "description": "Faithfull Aluminium Oxide Cloth Roll has an economical cloth backing, for hand use on metalwork and for final polishing. Length: 50m.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Aluminium Oxide Cloth Rolls",
+  "specifications": [
+    "Length: 50m"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-assorted-steel-wool-20g-pack-8.html|>
+## Faithfull Assorted Steel Wool 20g (Pack 8)
+
+{
+  "price": "€4.96 inc VAT (€4.03 exc.vat)",
+  "description": "Faithfull industrial quality Steel Wool can be used for surface preparation, finishing, cleaning, preparing and maintaining wood and metal finishes. It can also be used for applying wax polishes and can be used with paint strippers. This pack contains 8 x 20g weight rolls: 2 x Coarse 60 grit, 2 x Medium 80 grit, 2 x Fine 120 grit and 2 x Extra Fine 240 grit.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Assorted Steel Wool 20g (Pack 8)",
+  "specifications": [
+    "Pack contains 8 x 20g weight rolls",
+    "2 x Coarse 60 grit",
+    "2 x Medium 80 grit",
+    "2 x Fine 120 grit",
+    "2 x Extra Fine 240 grit"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-combi-foam-sanding-block-90-x-75-x-25mm.html|>
+## Faithfull Combi Foam Sanding Block 90 x 75 x 25mm
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "The Faithfull Aluminium Oxide coated foam blocks are flexible and can be used wet or dry. They adjust to the shape that is being sanded and are ideal for mouldings, dado rails etc. They can be used on either wood or metal. This block benefits from one angled and one rounded edge to enable access to difficult areas. Size: 90 x 75 x 25mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Combi Foam Sanding Block 90 x 75 x 25mm",
+  "specifications": [
+    "Size: 90 x 75 x 25mm",
+    "Flexible foam blocks",
+    "Can be used wet or dry",
+    "Ideal for mouldings and dado rails",
+    "One angled and one rounded edge"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-cork-block-glasspaper-sanding-sheets-assorted-pack-10.html|>
+## Faithfull Cork Block Glasspaper Sanding Sheets Assorted (Pack 10)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "These Faithfull Glasspaper Sanding Sheets are ready cut to wrap around a cork block, such as FAIC18. They are made from premium cabinet paper for general sanding on wood prior to painting or varnishing. This pack contains 10 sheets, 2 of each grit: 00, F1, F2, M2, S2.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Cork Block Glasspaper Sanding Sheets Assorted (Pack 10)",
+  "specifications": [
+    "Sheet Size: 140 x 115mm"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-cork-block-wet-and-dry-sanding-sheets-assorted-pack-10.html|>
+## Faithfull Cork Block Wet & Dry Sanding Sheets Assorted (Pack 10)
+
+{
+  "price": "€3.89 inc VAT (€3.16 exc.vat)",
+  "description": "These Faithfull Wet & Dry Sanding Sheets are ready cut to wrap around a cork block, such as FAIC18. They are made from a flexible, latex impregnated waterproof backing paper that is then coated with abrasive. Use wet or dry for sanding paint, primer and body filler. Coarser grades are ideal for removing major imperfections. Finer grades achieve a very fine finish for final painting. Super fine grades allow exceptionally fine finishes to be achieved especially when used wet. This pack contains 10 sheets, 2 of each grit: P180, P240, P320, P500, P800",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Cork Block Wet & Dry Sanding Sheets Assorted (Pack 10)",
+  "specifications": [
+    "Sheet Size: 140 x 115mm",
+    "Pack contains 10 sheets, 2 of each grit: P180, P240, P320, P500, P800"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-emery-cloth-sheets-280-x-230mm-assorted-fine-medium-and-coarse-3.html|>
+## Faithfull Emery Cloth Sheets 280 x 230mm Assorted Fine, Medium & Coarse (3)
+
+{
+  "price": "€6.58 inc VAT (€5.35 exc.vat)",
+  "description": "Faithfull emery on a J-weight heavy-duty cloth backing for hand use or lathe work on metalwork and for final polishing of metal. Assorted pack of 3: Fine, Medium and Coarse. Size: 280 mm x 230 mm.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Emery Cloth Sheets 280 x 230mm Assorted Fine, Medium & Coarse (3)",
+  "specifications": [
+    "Size: 280 mm x 230 mm",
+    "Assorted pack of 3: Fine, Medium and Coarse",
+    "Heavy-duty cloth backing for hand use or lathe work"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-glasspaper-sheets-230-x-280mm.html|>
+## Faithfull Glasspaper Sheets 230 x 280mm
+
+{
+  "price": "from €4.99 inc VAT",
+  "description": "Faithfull cabinet (also known as Glasspaper) is probably the oldest form of abrasive still in use today. Manufactured using C-Weight paper, using flint not glass. This selection is graded for general use for finishing on wood prior to painting or varnishing. These sheets can be cut to any shape or size making them extremely versatile for use in a wide variety of applications. Size: 230mm x 280mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Glasspaper Sheets 230 x 280mm",
+  "specifications": [
+    "Size: 230mm x 280mm",
+    "Manufactured using C-Weight paper",
+    "Graded for general use for finishing on wood"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hand-pads.html|>
+## Faithfull Hand Pads
+
+{
+  "price": "€16.99 inc VAT",
+  "description": "Faithfull versatile flexible sanding pad, double sided and washable, can be used on wood, paint, metal and plaster, wet or dry and even with chemical paint strippers. Pack of 10.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Hand Pads",
+  "specifications": [
+    "Double sided and washable",
+    "Can be used on wood, paint, metal, and plaster",
+    "Wet or dry use",
+    "Pack of 10"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/swarfega-skin-safety-cradle-protect-cream-700ml.html|>
+## Swarfega Skin Safety Cradle Protect Cream 700ml
+
+{
+  "price": "€37.90 inc VAT (€30.81 exc.vat)",
+  "description": "The Swarfega Protect Cream is a pre-work protective and reconditioning cream for outdoor workers. Designed to fit the SWASVC01SP skin safety cradle. Up to 700 applications from each cartridge.",
+  "availability": "In Stock",
+  "product_name": "Swarfega Skin Safety Cradle Protect Cream 700ml",
+  "specifications": [
+    "700ml capacity",
+    "Pre-work protective cream",
+    "Designed for outdoor workers",
+    "Up to 700 applications per cartridge"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+
+<|https://www.mydiy.ie/products/faithfull-sanding-blocks.html|>
+## Faithfull Sanding Blocks
+
+{
+  "price": "from €1.94 inc VAT",
+  "description": "Aluminium Oxide coated foam blocks are flexible and can be used wet or dry. They adjust to the shape that is being sanded and are ideal for mouldings, dado rails etc. They can be used on either wood or metal.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Sanding Blocks",
+  "specifications": [
+    "Coarse / Medium / Fine options available",
+    "Flexible and can be used wet or dry",
+    "Ideal for mouldings and dado rails",
+    "Suitable for wood and metal"
+  ],
+  "product_category": "Abrasives, Fillers & Lubricants"
+}
+

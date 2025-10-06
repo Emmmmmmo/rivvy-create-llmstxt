@@ -1,0 +1,188 @@
+<|https://www.mydiy.ie/products/dewalt-easton-lightweight-performance-t-shirt.html|>
+## DEWALT Easton Lightweight Performance T-Shirt
+
+{
+  "price": "€21.65 inc VAT",
+  "description": "The DEWALT Easton Performance T-Shirt has a fast drying, lightweight design with vented sides, ideal for those warm days at work. The T-Shirt has a nice fitted shape and incorporates a reflective DEWALT and Guaranteed Tough logo. Made from 100% polyester.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Easton Lightweight Performance T-Shirt",
+  "specifications": [
+    "Fast drying",
+    "Lightweight design",
+    "Vented sides",
+    "Reflective DEWALT logo",
+    "100% polyester"
+  ],
+  "product_category": "Workwear"
+}
+
+<|https://www.mydiy.ie/products/dewalt-memphis-holster-trousers.html|>
+## DeWALT Memphis Holster Trousers
+
+{
+  "price": "€81.24 inc VAT",
+  "description": "DEWALT Memphis Holster Trousers with twin holster pockets and a slim fit design. Made from 92% nylon, 8% elastane fabric for maximum comfort and flexibility. Cordura® reinforced knee pads and hems provide increased durability.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Memphis Holster Trousers",
+  "specifications": [
+    "Waist 30in Leg 29in",
+    "Waist 30in Leg 31in",
+    "Waist 30in Leg 33in",
+    "Waist 32in Leg 29in",
+    "Waist 32in Leg 31in",
+    "Waist 32in Leg 33in",
+    "Waist 34in Leg 29in",
+    "Waist 34in Leg 31in",
+    "Waist 34in Leg 33in",
+    "Waist 36in Leg 29in",
+    "Waist 36in Leg 31in",
+    "Waist 36in Leg 33in",
+    "Waist 38in Leg 29in",
+    "Waist 38in Leg 31in",
+    "Waist 38in Leg 33in",
+    "Waist 40in Leg 29in",
+    "Waist 40in Leg 31in",
+    "Waist 40in Leg 33in",
+    "Waist 42in Leg 29in",
+    "Waist 42in Leg 31in",
+    "Waist 42in Leg 33in"
+  ],
+  "product_category": "Workwear"
+}
+
+<|https://www.mydiy.ie/products/dewalt-rutland-performance-polo-shirt.html|>
+## DEWALT Rutland Performance Polo Shirt
+
+{
+  "price": "€23.51 inc VAT",
+  "description": "The DEWALT Rutland Performance Polo Shirt keeps you dry by wicking moisture away from the skin. Made from 100% polyester fabric that is fast drying. The design incorporates the DEWALT logo, button front and reflective sleeve detail. Colour: Black/Grey",
+  "availability": "In Stock",
+  "product_name": "DEWALT Rutland Performance Polo Shirt",
+  "specifications": [
+    "100% polyester fabric",
+    "Fast drying",
+    "Wicks moisture away from the skin",
+    "Reflective sleeve detail",
+    "DEWALT logo"
+  ],
+  "product_category": "Workwear"
+}
+
+<|https://www.mydiy.ie/products/dewalt-southampton-waterproof-work-jacket.html|>
+## DEWALT Southampton Waterproof Work Jacket
+
+{
+  "price": "€76.79 inc VAT",
+  "description": "The DEWALT Southampton Waterproof Work Jacket is your go-to for keeping dry and comfortable on the job site. Built tough with a rip-stop coated outer shell, it's waterproof, breathable and light enough to keep you moving freely. It features a back vent and membrane lining for airflow, keeping you cool. It also includes a foldaway hood for extra coverage when you need it. Adjustable cuffs and hem ensure the perfect fit.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Southampton Waterproof Work Jacket",
+  "specifications": [
+    "Material Composition: 100% Polyester with Rip Stop",
+    "Material Weight: 150 GMS",
+    "Waterproof Rating: 8000MM"
+  ],
+  "product_category": "Workwear"
+}
+
+<|https://www.mydiy.ie/products/dewalt-sydney-lightweight-jacket.html|>
+## DEWALT Sydney Lightweight Jacket
+
+{
+  "price": "€95.40 inc VAT",
+  "description": "The DEWALT Sydney Lightweight Jacket is made from 4 way, pro-stretch material (73% Rayon, 22% Nylon and 5% Spandex). This shower-proof fabric stretches and works as hard as you do, delivering all day comfort. With a full length zip to center, and two zipped front pockets. Velcro adjustable cuffs, and a adjustable hem provide a secure the fit. There is also a reflective DEWALT logo to chest and guaranteed logo print at the back of the neck.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Sydney Lightweight Jacket",
+  "specifications": [
+    "Material: 73% Rayon, 22% Nylon, 5% Spandex",
+    "Shower-proof fabric",
+    "Full length zip",
+    "Two zipped front pockets",
+    "Velcro adjustable cuffs",
+    "Adjustable hem",
+    "Reflective DEWALT logo"
+  ],
+  "product_category": "Workwear"
+}
+
+<|https://www.mydiy.ie/products/dewalt-typhoon-charcoal-grey-t-shirt.html|>
+## DEWALT Typhoon Charcoal Grey T Shirt
+
+{
+  "price": "€21.65 inc VAT",
+  "description": "The DEWALT Typhoon T Shirt has a ribbed crew neck and set in sleeve to ensure maximum comfort, whilst a twin needled hem and cuff ensure durability. The DEWALT brand is displayed discreetly across the chest, with an integrated back neck hanger loop for convenient storage. Material Composition: 65% Polyester, 35% Cotton.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Typhoon Charcoal Grey T Shirt",
+  "specifications": [
+    "Ribbed crew neck",
+    "Set in sleeve for comfort",
+    "Twin needled hem and cuff for durability",
+    "Material: 65% Polyester, 35% Cotton"
+  ],
+  "product_category": "Workwear"
+}
+
+
+
+<|https://www.mydiy.ie/products/apache-ashcroft-hybrid-padded-jacket.html|>
+## Apache Ashcroft Hybrid Padded Jacket
+
+{
+  "price": "€56.65 inc VAT",
+  "description": "The Apache Ashcroft Hybrid Padded Jacket features stretch side panels and arms for unbeatable freedom of movement at work. Made from tough nylon rip-stop main fabric which is both breathable and provides added warmth. Ideal for outdoor working. It has two side zipped hand pockets and a zipped pocket to right breast. To cover all weather situations the jacket features a 3 panel fold away hood with toggle adjustment.",
+  "availability": "In Stock",
+  "product_name": "Apache Ashcroft Hybrid Padded Jacket",
+  "specifications": [
+    "Stretch side panels and arms for freedom of movement",
+    "Tough nylon rip-stop main fabric",
+    "Breathable and provides added warmth",
+    "Two side zipped hand pockets",
+    "Zipped pocket to right breast",
+    "3 panel fold away hood with toggle adjustment"
+  ],
+  "product_category": "Workwear"
+}
+
+<|https://www.mydiy.ie/products/apache-black-and-grey-holster-trousers.html|>
+## Apache Black & Grey Holster Trousers
+
+{
+  "price": "from €29.00 inc VAT",
+  "description": "300g Poly Cotton work trouser with a modern low cut waist and comfort leg fitment(wider fitting for comfort whilst kneeling) reinforced with Cordura on knees and holster pockets. Top loading hook and Loop fastening knee pad pockets reinforced with Cordura. Two tuck away holster pockets with Cordura. Phone pocket designed to hold larger modern phones. Pen pockets. Large Utility Pocket. 2 Large bellowed pockets at the rear with press stud fasteners. Cordura reinforced hem. Available in 3 leg lengths for optimal fit, 29in, 31 inch and 33in. Sizes 30 inch– 42in waist. 65% Polyester, 35% Cotton.",
+  "availability": "In Stock",
+  "product_name": "Apache Black & Grey Holster Trousers",
+  "specifications": [
+    "300g Poly Cotton work trouser",
+    "Modern low cut waist",
+    "Comfort leg fitment",
+    "Reinforced with Cordura on knees",
+    "Top loading hook and Loop fastening knee pad pockets",
+    "Two tuck away holster pockets",
+    "Phone pocket for larger phones",
+    "Pen pockets",
+    "Large Utility Pocket",
+    "2 Large bellowed pockets at the rear",
+    "Cordura reinforced hem",
+    "Available in 3 leg lengths: 29in, 31in, 33in",
+    "Sizes: 30 inch– 42in waist",
+    "Material: 65% Polyester, 35% Cotton"
+  ],
+  "product_category": "Workwear"
+}
+
+<|https://www.mydiy.ie/products/apache-navy-industry-trousers.html|>
+## Apache Navy Industry Trousers
+
+{
+  "price": "€31.50 inc VAT",
+  "description": "The Apache Industrial work/drivers' trousers are made from 260g poly cotton and have bottom loading knee pad pockets, hammer loop and ruler pocket. They also have button fastening pockets at the rear. They are made from strong durable 65% polyester, 35% cotton and are ideal for all DIY or professional use. These Apache trousers are available in 2 leg lengths for optimal fit: 31, and 33 inch with sizes 32 to 42 inch waist.",
+  "availability": "In Stock",
+  "product_name": "Apache Navy Industry Trousers",
+  "specifications": [
+    "Material: 260g poly cotton",
+    "Durable: 65% polyester, 35% cotton",
+    "Features: Bottom loading knee pad pockets, hammer loop, ruler pocket, button fastening pockets at the rear",
+    "Available sizes: Waist 32 to 42 inch, Leg lengths 31 and 33 inch"
+  ],
+  "product_category": "Workwear"
+}
+

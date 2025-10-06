@@ -1,0 +1,721 @@
+<|https://www.mydiy.ie/products/raven-s3134-yellow-coupler-32-amp-110v.html|>
+## Raven S3134 Yellow Coupler 32 amp 110V
+
+{
+  "price": "€3.14 inc VAT (€2.55 exc.vat)",
+  "description": "For use with trailing leads, etc. Hinged socket covers. Conforms to IP44 for water ingress protection. Poles: 2P+E",
+  "availability": "Out of Stock",
+  "product_name": "Raven S3134 Yellow Coupler 32 amp 110V",
+  "specifications": [
+    "Hinged socket covers",
+    "Conforms to IP44 for water ingress protection",
+    "Poles: 2P+E"
+  ]
+}
+
+<|https://www.mydiy.ie/products/powermaster-20-mtr-220v-cable-reel.html|>
+## POWERMASTER 20 MTR 220V CABLE REEL
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The Cable Reel 20m Powermaster is a high-quality and durable electrical cable solution for a variety of applications. It features 20 meters of cable, making it suitable for medium-length projects and setups. The cable is rated for 240V AC and can handle up to 13A, making it ideal for use with a range of electrical devices. The reel is equipped with 4 gangs, allowing for multiple devices to be connected at once. This cable reel is a convenient and reliable solution for those in need of electrical cable. Item code: 5391521669971.",
+  "availability": "In Stock",
+  "product_name": "POWERMASTER 20 MTR 220V CABLE REEL",
+  "specifications": [
+    "20 meters of cable",
+    "Rated for 240V AC",
+    "Handles up to 13A",
+    "Equipped with 4 gangs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/masterplug-work-light-cable-reel-240v-13a-4-socket-5m.html|>
+## Masterplug Work Light Cable Reel 240V 13A 4-Socket 5m
+
+{
+  "price": "€67.22 inc VAT (€54.65 exc.vat)",
+  "description": "The Masterplug Work Light Cable Reel provides both light and power for home and heavy-duty applications. The handy work light provides 550 lumens of light. Its 4 shuttered sockets feature power control and a status indicator. Designed and engineered for longevity, a fold-out stand and ground touch points with grips help to ensure stability. It also features an ergonomic carry handle and 5 metres of highly visible green cable. Conforms to EN 61242.",
+  "availability": "In Stock",
+  "product_name": "Masterplug Work Light Cable Reel 240V 13A 4-Socket 5m",
+  "specifications": [
+    "Voltage: 240V",
+    "Fully Unwound: 3,120W (13A)",
+    "Fully Wound: 720W (3A)",
+    "Switch: Double Pole",
+    "Cable Length: 5m",
+    "Cable Diameter: 1.25mm² (HO5VV-F)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/smj-black-single-extension-socket-13a.html|>
+## SMJ Black Single Extension Socket 13A
+
+{
+  "price": "€3.94 inc VAT (€3.20 exc.vat)",
+  "description": "The SMJ Black Rubber Trailing Socket 1 Gang conforms to the latest standards of BS 1363/A for heavy use and is rated at 13 amps. It is also fitted with a cable clamp.",
+  "availability": "In Stock",
+  "product_name": "SMJ Black Single Extension Socket 13A",
+  "specifications": [
+    "Rated at 13 amps",
+    "Conforms to BS 1363/A standards",
+    "Fitted with a cable clamp"
+  ]
+}
+
+<|https://www.mydiy.ie/products/smj-white-rubber-trailing-sockets.html|>
+## SMJ White Rubber Trailing Sockets
+
+{
+  "price": "from €4.99 inc VAT",
+  "description": "The SMJ White Rubber Trailing Socket conforms to the latest standards of BS 1363/A for heavy use and is rated at 13amps. It is also fitted with a cable clamp.",
+  "availability": "In Stock",
+  "product_name": "SMJ White Rubber Trailing Sockets",
+  "specifications": [
+    "1 Gang",
+    "2 Gang"
+  ]
+}
+
+<|https://www.mydiy.ie/products/smj-13a-230-volt-fused-plug.html|>
+## SMJ 13A 230 Volt Fused Plug
+
+{
+  "price": "€43.95 inc VAT",
+  "description": "SMJ Fused Plug 13 Amp is designed for rough usage and conforms to the latest standards of BS 1363/A for heavy use. It is fitted with a BS1362 fuse.",
+  "availability": "In Stock",
+  "product_name": "SMJ 13A 230 Volt Fused Plug",
+  "specifications": [
+    "Pack of 20 Black",
+    "Pack of 20 White"
+  ]
+}
+
+<|https://www.mydiy.ie/products/smj-extension-leads.html|>
+## SMJ Extension Leads
+
+{
+  "price": "€17.60 inc VAT",
+  "description": "SMJ's range of Extension Leads that are ideal for indoor use and provides power where you need it. It is fitted with a 13 Amp plug and has a maximum working load of 3,120 Watt. This product has been designed to fully comply with the latest British Standards and Electrical Equipment Safety Regulations. Available as 1-way, 2-way, 4-way and 6-way. Current: 13 amp.",
+  "availability": "In Stock",
+  "product_name": "SMJ Extension Leads",
+  "specifications": [
+    "Ideal for indoor use",
+    "Fitted with a 13 Amp plug",
+    "Maximum working load of 3,120 Watt",
+    "Complies with British Standards and Electrical Equipment Safety Regulations",
+    "Available as 1-way, 2-way, 4-way and 6-way"
+  ]
+}
+
+<|https://www.mydiy.ie/products/smj-surge-protection-extension-leads.html|>
+## SMJ Surge Protection Extension Leads
+
+{
+  "price": "€12.99 inc VAT",
+  "description": "The SMJ Surge Protection Extension Leads are fitted with a power and surge indicator neon. The three channel surge protection that will activate during a power or mains surge, protecting your electrical items and is therefore ideal for home TV and audio equipment, power tools and portable devices. This product has been designed to fully comply with the latest British Standards and Electrical Equipment Safety Regulations.",
+  "availability": "In Stock",
+  "product_name": "SMJ Surge Protection Extension Leads",
+  "specifications": [
+    "4 Way 2 Metre",
+    "6 Way 2 Metre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-dual-bracket-for-3m-tripod.html|>
+## SCANGRIP® Dual Bracket for 3m Tripod
+
+{
+  "price": "€37.40 inc VAT (€30.41 exc.vat)",
+  "description": "SCANGRIP® Dual Bracket for mounting two work lights on one tripod.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® Dual Bracket for 3m Tripod",
+  "specifications": [
+    "Tripod Size: 3m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-scaffolding-bracket.html|>
+## SCANGRIP® Scaffolding Bracket
+
+{
+  "price": "€44.62 inc VAT (€36.28 exc.vat)",
+  "description": "The SCANGRIP® Scaffolding Bracket has been specially designed to fix NOVA and VEGA lamps on scaffolding. It can be attached to any round object with a 40-50mm diameter. Made to the same sturdy quality as standard fittings for scaffolding. The lamp can be tilted to the desired position in the mount, the installation is extremely flexible.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® Scaffolding Bracket",
+  "specifications": [
+    "Model: SCG035341",
+    "Price: €44.62",
+    "List Price: €46.16",
+    "You save: €1.54",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-work-light-tripod-3m.html|>
+## SCANGRIP® Work Light Tripod 3m
+
+{
+  "price": "€163.02 inc VAT (€132.54 exc.vat)",
+  "description": "The SCANGRIP® Work Light Tripod is made of durable powder coated steel and a welded steel mounting cap (10mm thread) ensures the durability of the universal tripod stand. When not in use the tripod is compact and has a weight of 6kg. Extendable from 1.35m to 3m, offers complete flexibility to position the work light into the required height and angle. Supplied with anchor points providing an opportunity for extra stability if the tripod is exposed to strong wind or is standing on an uneven surface.To increase safety when in use, work light cables can be stored in the safety clips placed on each of the tripods legs.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® Work Light Tripod 3m",
+  "specifications": [
+    "Extendable from 1.35m to 3m",
+    "Weight: 6kg",
+    "Durable powder coated steel",
+    "Welded steel mounting cap (10mm thread)",
+    "Compact when not in use",
+    "Anchor points for stability",
+    "Safety clips for cable storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-magnetic-bracket.html|>
+## SCANGRIP® Magnetic Bracket
+
+{
+  "price": "€40.29 inc VAT",
+  "description": "The SCANGRIP® Magnetic Bracket offers flexible mounting and positioning of NOVA and MULTIMATCH work lights on magnetic surfaces. The magnet is rubber-coated to protect and avoid scratching the surface. To obtain maximum flexibility, the magnet is turnable and can be rotated to any desirable position. So, even where the magnetic surface available is limited, the flexible magnetic mounting bracket can be used. This simple mounting bracket ensures fast and secure installation, and the work light can be tilted to any position required in the daily work. A built-in stop mechanism avoids the lamp from falling out of the bracket. Press the button to release.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® Magnetic Bracket",
+  "specifications": [
+    "Select Option: 120mm, Holding Force: 21.5kg or 210N",
+    "Select Option: 260mm, Holding Force: 40kg or 420N"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-diffuser.html|>
+## SCANGRIP® Diffuser
+
+{
+  "price": "€14.28 inc VAT",
+  "description": "This SCANGRIP® Diffuser is designed to spread and soften the light, enabling you to illuminate an entire workspace and avoiding hard shadows. It gives you increased functionality and new possibilities to adapt your work light even further to the specific work task. The cover is incredibly smooth and lightweight. Strong built-in magnets make it easy and safe to mount the cover on your SCANGRIP® lamp.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® Diffuser",
+  "specifications": [
+    "Select Option: 106mm, 129mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-universal-tripod.html|>
+## STANLEY® Lighting Universal Tripod
+
+{
+  "price": "€54.55 inc VAT (€44.35 exc.vat)",
+  "description": "The STANLEY® Universal Tripod can be adjusted to different heights, allowing for versatile positioning of the worklight. Made of aluminium, providing durability and strength. The tripod has a wide and sturdy base, providing stability and support. It also has a universal clasp fitting and an 8mm thread fitting, allowing it to be compatible with various products and accessories.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Universal Tripod",
+  "specifications": [
+    "Max. Height: 1.7m",
+    "Dimensions: 1400 x 1320 x 1320mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-control-unit-for-110v-slhdpro.html|>
+## Lighthouse Control Unit for 110V SLHDPRO
+
+{
+  "price": "€140.77 inc VAT (€114.45 exc.vat)",
+  "description": "Lighthouse Control Unit for 110V SLHDPRO. Fitted with a 10 metre input cable.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Control Unit for 110V SLHDPRO",
+  "specifications": [
+    "Input Power: 110V",
+    "IP Rating: IP44"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-heavy-duty-tripod-3m.html|>
+## Lighthouse Heavy-Duty Tripod 3m
+
+{
+  "price": "€96.21 inc VAT (€78.22 exc.vat)",
+  "description": "The Lighthouse Heavy-Duty Tripod is designed to extend up to an impressive 3 metres, providing additional height and flexibility. The tripod is compatible with a wide range of site lights, making it an ideal choice for construction sites, events, and other large spaces.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Heavy-Duty Tripod 3m",
+  "specifications": [
+    "Adjustable Height: 1.2-3.0m",
+    "Attachment Diameter: 34mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portable-rechargeable-led.html|>
+## Portable Rechargeable LED
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "EVOLEC LED RECHARGEABLE TASK LIGHT with 750 lumens, 10W wattage, 4000K colour temperature, IP44 rating, made of aluminium, and a rated life of 25,000 hours.",
+  "availability": "In Stock",
+  "product_name": "Portable Rechargeable LED",
+  "specifications": [
+    "LUMENS: 750",
+    "WATTAGE: 10W",
+    "COLOUR TEMP: 4000K",
+    "COLOUR EFFECT: COOLWHITE",
+    "RATED LIFE: 25,000 HR",
+    "IP RATING: IP44",
+    "MATERIAL: ALUMINIUM",
+    "FINISH: RED & BLACK",
+    "LED: COB",
+    "VOLTAGE: 240/12V"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-cr-dual-system-cob-led-work-light.html|>
+## SCANGRIP® NOVA C+R DUAL SYSTEM COB LED Work Light
+
+{
+  "price": "€357.89 inc VAT",
+  "description": "The SCANGRIP® NOVA C+R DUAL SYSTEM COB LED Work Light can be powered by its built-in, rechargeable Li-ion battery or by plugging into the mains (240V). A user friendly display shows both battery capacity and remaining operating time. It features the latest COB LED technology and a five-step dimming function enabling the light output to be adjusted within a 10% to 100% range. The sturdy die-casted aluminium construction is perfect for use in demanding rough working environments. Integrated carrying handle with a flexible stand can be used as a hanger enabling the work light to be positioned to the desired angle. It also enables mounting on to the SCANGRIP® Tripod or Scaffolding Bracket (both SOLD SEPARATELY) for extra versatility. The CRI value is close to daylight and the SCANGRIP® Diffuser (SOLD SEPARATELY) can be used to soften the light and avoid hard shadows.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® NOVA C+R DUAL SYSTEM COB LED Work Light",
+  "specifications": [
+    "Mains Cable Length: 5m",
+    "Power: Built-in rechargeable Li-ion battery or mains (240V)",
+    "Light Output: 6,000 Lumens",
+    "Dimming Function: 10% to 100% range",
+    "Construction: Die-casted aluminium"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-multilight-flex-connect-light-18v-bare-unit.html|>
+## SCANGRIP® MULTILIGHT FLEX CONNECT Light 18V Bare Unit
+
+{
+  "price": "€123.20 inc VAT (€100.16 exc.vat)",
+  "description": "SCANGRIP® MULTILIGHT FLEX CONNECT Light with 750 lumen flex head light. It offers 2 lighting settings: 50% or 100%. Provides you with complete freedom to choose and tailor exactly the work light solution you need. Either you choose the MULTILIGHT BODY CONNECT handle and combine it with a selected light head, or you choose to acquire the body and more individual light heads to obtain a work light solution covering different purposes. Due to the flexible part of the body all light heads can be adjusted in an angle of 120°. To ensure maximum functionality of the work light the body is equipped with a newly invented, flexible mounting system. The system provides a combination of a bracket, a hook, and a magnet in one unit. The strap is made of polyurethane which is both flexible, and durable with a smooth surface. By the snap hook at the end of the strap you can lock and fix the work light to any position. In the same way, the integrated magnet can be used to mount the work light body at any metallic surface available. The magnet is extremely powerful with a force strong enough to hold both body, light head, and battery. Comes as a Bare Unit. Can be powered by: METABO/CAS Batteries 12V 4.0Ah - 18V 5.2Ah. CONNECT POWER SUPPLY. An 18V battery from a leading power tool brand, such as Milwaukee, DeWalt, Makita, etc., by using the SCANGRIP® CONNECT CONNECTOR.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® MULTILIGHT FLEX CONNECT Light 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 750/375 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 1,200/600 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 110°",
+    "Dimensions: 168 x 79 x 203mm",
+    "Weight: 0.38kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-multilight-flood-connect-light-18v-bare-unit.html|>
+## SCANGRIP® MULTILIGHT FLOOD CONNECT Light 18V Bare Unit
+
+{
+  "price": "€131.09 inc VAT (€106.58 exc.vat)",
+  "description": "SCANGRIP® MULTILIGHT FLOOD CONNECT Light with 1500 lumen floodlight head. It offers 2 lighting settings: 50% or 100%. Provides you with complete freedom to choose and tailor exactly the work light solution you need. Either you choose the MULTILIGHT BODY CONNECT handle and combine it with a selected light head, or you choose to acquire the body and more individual light heads to obtain a work light solution covering different purposes. Due to the flexible part of the body all light heads can be adjusted in an angle of 120°. To ensure maximum functionality of the work light the body is equipped with a newly invented, flexible mounting system. The system provides a combination of a bracket, a hook, and a magnet in one unit. The strap is made of polyurethane which is both flexible, and durable with a smooth surface. By the snap hook at the end of the strap you can lock and fix the work light to any position. In the same way, the integrated magnet can be used to mount the work light body at any metallic surface available. The magnet is extremely powerful with a force strong enough to hold both body, light head, and battery. Comes as a Bare Unit. Can be powered by: METABO/CAS Batteries 12V 4.0Ah - 18V 5.2Ah. CONNECT POWER SUPPLY. An 18V battery from a leading power tool brand, such as Milwaukee, DeWalt, Makita, etc., by using the SCANGRIP® CONNECT CONNECTOR.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® MULTILIGHT FLOOD CONNECT Light 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 1,500/750 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 2,400/1,200 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 110°",
+    "Dimensions: 145 x 116 x 197mm",
+    "Weight: 0.61kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-basic-connect-compact-floodlight-18v-bare-unit.html|>
+## SCANGRIP® BASIC CONNECT Compact Floodlight 18V Bare Unit
+
+{
+  "price": "€82.07 inc VAT (€66.72 exc.vat)",
+  "description": "The SCANGRIP® BASIC CONNECT Compact Floodlight provides up to 1,000 lumen and can be adjusted in 2 lighting settings: 50% and 100% depending on the job. The lamp head has dual axis rotation. This means the lamp head is 180° flexible from folded position. Furthermore, the lamp head can be rotated 180° sideways providing completely flexible positioning of the light. Can be positioned on the surface where the battery base (NOT SUPPLIED) is acting as stand. There is also a retractable metal hook for flexible suspension. The hook can be turned 360° for flexible positioning. Like all other lamps in the CONNECT series, all battery brands can be used on the lamp using SCANGRIP CONNECTORS. Comes as a Bare Unit. Can be powered by: -METABO/CAS Batteries 12V 4.0Ah - 18V 5.2Ah. -CONNECT POWER SUPPLY. -An 18V battery from a leading power tool brand, such as Milwaukee, DeWalt, Makita, etc., by using the SCANGRIP® CONNECT CONNECTOR.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® BASIC CONNECT Compact Floodlight 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 1,000/500 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 1,300/650 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 110°",
+    "Dimensions: 158 x 79 x 62mm",
+    "Weight: 0.34kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-duo-connect-compact-floodlight-18v-bare-unit.html|>
+## SCANGRIP® DUO CONNECT Compact Floodlight 18V Bare Unit
+
+{
+  "price": "€110.54 inc VAT (€89.87 exc.vat)",
+  "description": "The SCANGRIP® DUO CONNECT Compact Floodlight with two lamp heads to provide illumination from any lighting angle. Both lamp heads have dual axis rotation which means the lamp heads can be rotated in all directions independent of each other providing completely flexible positioning of the light source. When folded the DUO CONNECT is very compact and streamlined. DUO CONNECT can be positioned on the surface with the battery base (NOT SUPPLIED) acting as the stand. There is also a foldable metal hook for flexible suspension. Comes as a Bare Unit. Can be powered by: -METABO/CAS Batteries 12V 4.0Ah - 18V 5.2Ah. -CONNECT POWER SUPPLY. -An 18V battery from a leading power tool brand, such as Milwaukee, DeWalt, Makita, etc., by using the SCANGRIP® CONNECT CONNECTOR.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® DUO CONNECT Compact Floodlight 18V Bare Unit",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 2,500/1,2500 Lumens",
+    "Illuminance, Max.Min. (@0,5m): 2,500/1,250 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 180°",
+    "Dimensions: 224 x 78 x 91mm",
+    "Weight: 0.62kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-mini-rechargeable-work-light-1000-lumens.html|>
+## SCANGRIP® NOVA MINI Rechargeable Work Light 1000 Lumens
+
+{
+  "price": "€89.73 inc VAT (€72.95 exc.vat)",
+  "description": "The SCANGRIP® NOVA MINI is a USB-C rechargeable handheld work light. With its compact dimensions, it is incredibly portable and easy to carry throughout the day. It has a high efficiency, multi-LED design with 26 LEDs, providing up to 1000 lumens. Additionally, a user-friendly battery indicator keeps you informed about the battery level. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light and runtime with a simple touch. This work light provides a constant lumens output performance measured according to the European standard EN 13032-1. It features a patented SMART GRIP 4-in-1 system, offering multiple functions in a single unit. The ring on the lamp, which is based on the functionality you know from e.g. mobile phones, enhances grip comfort during prolonged use, and improving the overall ergonomic experience. The clip securely attaches to a work belt, allowing all-day carry, while a strong built-in magnet provides flexible positioning when both hands are required for a task. Additionally, the SMART GRIP can act as a stand on any surface. The NOVA MINI is durable and resistant to water and dust (IP65).",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® NOVA MINI Rechargeable Work Light 1000 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 1,000/100 Lumens",
+    "OPTILight Setting: 500 lux @ 0.5m",
+    "Beam Angle: 100°",
+    "Power Source: Rechargeable Li-ion Battery",
+    "Charging Time: 4 hours",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 102 x 39 x 94mm",
+    "Weight: 278g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-r-rechargeable-work-light-2000-lumens.html|>
+## SCANGRIP® NOVA R Rechargeable Work Light 2000 Lumens
+
+{
+  "price": "€128.46 inc VAT (€104.44 exc.vat)",
+  "description": "The SCANGRIP® NOVA R is a USB-C rechargeable universal work light designed for the professional user. It has a high efficiency, multi-LED design with 44 LEDs, providing up to 2000 lumens. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light and runtime with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1. With its handheld and versatile design, the NOVA R is portable and easy to carry from job to job. Ergonomically designed for a good grip on the handle, which is also equipped with powerful integrated magnets for flexible mounting. Due to the flexible handle with strong built-in magnets, NOVA R can be placed in different positions to obtain the desired lighting angle. In addition, the work light can be mounted directly onto the TRIPOD or the SCAFFOLDING BRACKET, offering flexible placement options on the job site. For those seeking diffused light, a diffuser can be acquired as an add-on. SCANGRIP® provides a wide range of accessories to increase the functionality of the work light for all types of working situations. Designed to perform consistently in tough work environments, NOVA R is durable and resistant to water and dust (IP65). Along with the option to adjust the light output, the handlamp also includes separate indicators for runtime and battery life, allowing you to easily track the operating time and remaining battery power.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® NOVA R Rechargeable Work Light 2000 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 2,000/200 Lumens",
+    "OPTILight Setting: 500 lux @ 1m",
+    "Beam Angle: 110°",
+    "Power Source: Rechargeable Li-ion Battery",
+    "Charging Time: 5.5 hours",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 166 x 60 x 167mm",
+    "Weight: 840g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-4-work-light-4000-lumens.html|>
+## SCANGRIP® NOVA 4 Work Light 4000 Lumens
+
+{
+  "price": "€165.79 inc VAT (€134.79 exc.vat)",
+  "description": "The SCANGRIP® NOVA 4 is an energy-efficient LED floodlight which provides universal functionality, perfect for professional users in all working environments. It has a high efficiency, multi-LED design with 90 LEDs, providing up to 4000 lumens. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1. The NOVA 4 is built to withstand tough work environments, with an IP67 rating ensuring durability and resistance to water and dust. Its sturdiness allows it to endure rough, wet, and dirty conditions, making it suitable for outdoor work in all weather. It has an integrated carrying handle and a stand for direct mounting on the SCANGRIP TRIPOD. For those seeking diffused light, a diffuser can be acquired as an add-on. SCANGRIP® provides a wide range of accessories to increase the functionality of the work light for all types of working situations. Equipped with a 5m H07RN-F rubber cable.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® NOVA 4 Work Light 4000 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 4,000/400 Lumens",
+    "OPTILight Setting: 200 lux @ 2m",
+    "Adjustable Light Output: 6 Levels",
+    "Beam Angle: 110°",
+    "Power Source: AC 100-240V",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 235 x 80 x 235mm",
+    "Weight: 2.42kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-6-work-light-6000-lumens.html|>
+## SCANGRIP® NOVA 6 Work Light 6000 Lumens
+
+{
+  "price": "€186.54 inc VAT (€151.66 exc.vat)",
+  "description": "The SCANGRIP® NOVA 6 is an energy-efficient LED floodlight which provides universal functionality, perfect for professional users in all working environments. It has a high efficiency, multi-LED design with 120 LEDs, providing up to 6000 lumens. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1. The NOVA 6 is built to withstand tough work environments, with an IP67 rating ensuring durability and resistance to water and dust. Its sturdiness allows it to endure rough, wet, and dirty conditions, making it suitable for outdoor work in all weather. It has an integrated carrying handle and a stand for direct mounting on the SCANGRIP TRIPOD. For those seeking diffused light, a diffuser can be acquired as an add-on. SCANGRIP® provides a wide range of accessories to increase the functionality of the work light for all types of working situations. Equipped with a 5m H07RN-F rubber cable.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® NOVA 6 Work Light 6000 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 6,000/600 Lumens",
+    "OPTILight Setting: 200 lux @ 2m",
+    "Adjustable Light Output: 6 Levels",
+    "Beam Angle: 110°",
+    "Power Source: AC 100-240V",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 273 x 87 x 270mm",
+    "Weight: 3.04kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-4-cr-dual-work-light-4000-lumens.html|>
+## SCANGRIP® NOVA 4 C+R DUAL Work Light 4000 Lumens
+
+{
+  "price": "€255.67 inc VAT (€207.86 exc.vat)",
+  "description": "The SCANGRIP® NOVA 4 C+R is an all-round LED floodlight designed for professionals. The DUAL SYSTEM makes it possible to use the work light with or without the power cable, providing higher flexibility on the work site. It only takes a second to connect the power cable– or disconnect when a cordless work light is needed. Includes separate indicators for runtime and battery life, allowing you to easily track the operating time and remaining battery power. Provides universal functionality, perfect for professional users in all working environments. It has a high efficiency, multi-LED design with 90 LEDs, providing up to 4000 lumens. Along with the option to adjust the light output in five different levels. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1. Built to withstand tough work environments, with an IP67 rating ensuring durability and resistance to water and dust. Its sturdiness allows it to endure rough, wet, and dirty conditions, making it suitable for outdoor work in all weather. It has an integrated carrying handle and a stand for direct mounting on the SCANGRIP TRIPOD. For those seeking diffused light, a diffuser can be acquired as an add-on. SCANGRIP® provides a wide range of accessories to increase the functionality of the work light for all types of working situations.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® NOVA 4 C+R DUAL Work Light 4000 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 4,000/400 Lumens",
+    "OPTILight Setting: 200 lux @ 2m",
+    "Adjustable Light Output: 5 Levels",
+    "Beam Angle: 110°",
+    "Power Source: Cable & Rechargeable",
+    "Battery: 18.5 V / 2600 mAh Li-ion",
+    "Cable: 5m / 2 x 0,75mm² H05RN-F",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 235 x 82 x 235mm",
+    "Weight: 1.98kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-6-cr-dual-work-light-6000-lumens.html|>
+## SCANGRIP® NOVA 6 C+R DUAL Work Light 6000 Lumens
+
+{
+  "price": "€304.07 inc VAT (€247.21 exc.vat)",
+  "description": "The SCANGRIP® NOVA 6C+R is an all-round LED floodlight designed for professionals. The DUAL SYSTEM makes it possible to use the work light with or without the power cable, providing higher flexibility on the work site. It only takes a second to connect the power cable– or disconnect when a cordless work light is needed. Includes separate indicators for runtime and battery life, allowing you to easily track the operating time and remaining battery power. Provides universal functionality, perfect for professional users in all working environments. It has a high efficiency, multi-LED design with 120 LEDs, providing up to 6000 lumens. Along with the option to adjust the light output in five different levels. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1. Built to withstand tough work environments, with an IP67 rating ensuring durability and resistance to water and dust. Its sturdiness allows it to endure rough, wet, and dirty conditions, making it suitable for outdoor work in all weather. It has an integrated carrying handle and a stand for direct mounting on the SCANGRIP TRIPOD. For those seeking diffused light, a diffuser can be acquired as an add-on. SCANGRIP® provides a wide range of accessories to increase the functionality of the work light for all types of working situations.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® NOVA 6 C+R DUAL Work Light 6000 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 6,000/600 Lumens",
+    "OPTILight Setting: 200 lux @ 2m",
+    "Adjustable Light Output: 5 Levels",
+    "Beam Angle: 110°",
+    "Power Source: Cable & Rechargeable",
+    "Battery: 18.5 V / 2600 mAh Li-ion",
+    "Cable: 5m / 2 x 0,75mm² H05RN-F",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 273 x 88 x 270mm",
+    "Weight: 2.58kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-nova-12-work-light-12000-lumens.html|>
+## SCANGRIP® NOVA 12 Work Light 12000 Lumens
+
+{
+  "price": "€338.63 inc VAT (€275.31 exc.vat)",
+  "description": "The SCANGRIP® NOVA 12 is an extremely powerful and energy-efficient LED floodlight providing universal functionality. It has a high efficiency, multi-LED design with 200 LEDs, providing up to 12000 lumens. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1. The NOVA 12 is built to withstand tough work environments, with an IP67 rating ensuring durability and resistance to water and dust. Its sturdiness allows it to endure rough, wet, and dirty conditions, making it suitable for outdoor work in all weather. With the integrated BLUETOOTH light control feature you can easily control up to four work lights. BLUETOOTH light control also makes it possible to turn on/off the lamp and adjust the light output to suit the work task in question. The BLUETOOTH light control application is perfect when working with one or more hard-to-reach lamps, for example positioned on the SCANGRIP® TRIPOD. For those seeking diffused light, a diffuser can be acquired as an add-on. SCANGRIP® provides a wide range of accessories to increase the functionality of the work light for all types of working situations. Equipped with a 5m H07RN-F rubber cable.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® NOVA 12 Work Light 12000 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 12,000/1,200 Lumens",
+    "OPTILight Setting: 200 lux @ 2m",
+    "Adjustable Light Output: 6 Levels",
+    "Beam Angle: 110°",
+    "Power Source: AC 100-240V",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 310 x 105 x 305mm",
+    "Weight: 4.62kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-interconnectable-festoon-kit-8-led-bulbs-240v-165m.html|>
+## STANLEY® Lighting Interconnectable Festoon Kit 8 LED Bulbs 240V 16.5m
+
+{
+  "price": "€132.90 inc VAT (€108.05 exc.vat)",
+  "description": "STANLEY® Interconnectable Festoon Kit with 8 x LED modules, each providing 710 lumens. Each light has a durable polycarbonate body. IP44 rated, making them suitable for use in various environments. Operates on mains power with a voltage range of 220-240V and a frequency of 50/60 Hz. Cable ties included for installation.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Interconnectable Festoon Kit 8 LED Bulbs 240V 16.5m",
+  "specifications": [
+    "Power Source: 220-240V",
+    "Luminous Flux: 710 Lumens",
+    "Colour Temp: 6,000K",
+    "Overall Length: 16.5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-magnetic-globe-light-with-outlet-socket-2600-lumens.html|>
+## STANLEY® Lighting Magnetic Globe Light with Outlet Socket 2600 Lumens
+
+{
+  "price": "€159.27 inc VAT (€129.49 exc.vat)",
+  "description": "This STANLEY® Globe Light has an ultra strong magnetic base, which allows you to attach it to any magnetic metal surface. It also features an Aluminium hanging hook for easy mounting and it can be mounted on the SXLS37627E Universal Tripod (Sold Separately). Fitted with a 240V power outlet socket, ideal for powering power tools, etc. It has an IP54 rating, indicating it is protected against dust and water splashes, making it suitable for use in various environments. Operates on mains power with a voltage range of 220-240V and a frequency of 50/60 Hz.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Magnetic Globe Light with Outlet Socket 2600 Lumens",
+  "specifications": [
+    "Power Source: 220-240V",
+    "Luminous Flux: 2,600 Lumens",
+    "Colour Temp: 6,000K",
+    "Dimensions: 210 x 200 x 260mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-multi-directional-worklight-4500-lumens.html|>
+## STANLEY® Lighting Multi Directional Worklight 4500 Lumens
+
+{
+  "price": "€117.08 inc VAT (€95.19 exc.vat)",
+  "description": "The STANLEY® Multi Directional Worklight operates on mains power with a voltage range of 220-240V and a frequency of 50/60 Hz. It offers three power modes (100%, 50%, off), meaning the work light can be adjusted to different brightness levels according to the user’s needs. The 360° folding heads can be rotated in any direction, providing illumination to all angles. Each light head is equipped with a frosted lens resistant to shattering, ensuring durability and safety. Housed in a durable die cast aluminium casing, ensuring longevity and protection. The work light has an IP54 rating, indicating it is protected against dust and water splashes, making it suitable for use in various environments. Supplied on a freestanding base. It can also be mounted on the SXLS37627E Universal Tripod (Sold Separately) for additional flexibility in positioning.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Multi Directional Worklight 4500 Lumens",
+  "specifications": [
+    "Power Source: 220-240V",
+    "Luminous Flux: 4,500 Lumens",
+    "Colour Temp: 6,000K",
+    "Dimensions: 405 x 190 x 300mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-area-tower-light-with-outlet-socket-8000-lumens.html|>
+## STANLEY® Lighting Area Tower Light with Outlet Socket 8000 Lumens
+
+{
+  "price": "€264.06 inc VAT (€214.68 exc.vat)",
+  "description": "The STANLEY® Area Tower Light features adjustable heads for multi directional light. The polycarbonate body with aluminium tripod base is lightweight but durable, ideal for site use whilst remaining easy to transport. Fitted with a 240V power outlet socket, ideal for powering power tools, etc. It has an IP54 rating, indicating it is protected against dust and water splashes, making it suitable for use in various environments. The tower light operates on mains power with a voltage range of 220-240V and a frequency of 50/60 Hz.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Area Tower Light with Outlet Socket 8000 Lumens",
+  "specifications": [
+    "Power Source: 220-240V",
+    "Luminous Flux: 8,000 Lumens",
+    "Colour Temp: 6,000K",
+    "Height: 1.4-2m",
+    "Cable Length: 3m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-plasterers-area-light-with-outlet-socket-4500-lumens.html|>
+## STANLEY® Lighting Plasterer's Area Light with Outlet Socket 4500 Lumens
+
+{
+  "price": "€120.72 inc VAT (€98.15 exc.vat)",
+  "description": "The STANLEY® Plasterer's Area Light provides 360 degree shadow free illumination. Its polycarbonate body features a heavy-duty aluminium tripod base and a carry handle for easier transportation. Fitted with a 240V power outlet socket, ideal for powering power tools, etc. It has an IP44 rating, making it suitable for use in various environments. The tower light operates on mains power with a voltage range of 220-240V and a frequency of 50/60 Hz.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Plasterer's Area Light with Outlet Socket 4500 Lumens",
+  "specifications": [
+    "Power Source: 220-240V",
+    "Luminous Flux: 4,500 Lumens",
+    "Colour Temp: 6,000K",
+    "Dimensions: 175 x 485 x 315mm",
+    "Cable Length: 2m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-twin-worklight-5400-lumens.html|>
+## STANLEY® Lighting Twin Worklight 5400 Lumens
+
+{
+  "price": "€92.08 inc VAT (€74.86 exc.vat)",
+  "description": "The STANLEY® Twin Worklight has an aluminium frame with a moulded rubber grip, providing a comfortable and secure hold during use. Housed in a durable die cast aluminium casing, ensuring longevity and protection. It has an IP44 rating, making it suitable for use in various environments. The 360° folding heads can be rotated in any direction, providing illumination in all angles. Each light head is equipped with a frosted lens resistant to shattering, ensuring durability and safety. Supplied on a freestanding base. It can also be mounted on the SXLS37627E Universal Tripod (Sold Separately) for additional flexibility in positioning.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Lighting Twin Worklight 5400 Lumens",
+  "specifications": [
+    "Power Source: 220-240V",
+    "Luminous Flux: 5,400 Lumens",
+    "Colour Temp: 4,000K",
+    "Dimensions: 175 x 485 x 315mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-folding-worklight-20w-240v.html|>
+## STANLEY® Lighting Folding Worklight 20W 240V
+
+{
+  "price": "€43.44 inc VAT",
+  "description": "The STANLEY® Folding Worklight has a lightweight yet durable polycarbonate body. It offers 2 modes of operation, on/off. A diffuser ensures comfortable working illumination. It has an IP54 rating, indicating it is protected against dust and water splashes, making it suitable for use in various environments. Operates on mains power with a voltage range of 220-240V and a frequency of 50/60 Hz. Compatible with the SXLS37627E Universal Tripod (Sold Separately).",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Folding Worklight 20W 240V",
+  "specifications": [
+    "Lightweight and durable polycarbonate body",
+    "2 modes of operation: on/off",
+    "IP54 rating for dust and water protection",
+    "Operates on mains power (220-240V, 50/60 Hz)",
+    "Compatible with SXLS37627E Universal Tripod (Sold Separately)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-led-task-light-10w.html|>
+## Lighthouse Rechargeable LED Task Light 10W
+
+{
+  "price": "€32.73 inc VAT (€26.61 exc.vat)",
+  "description": "The Lighthouse 10W Rechargeable LED Task Light features two light modes (high & low) and is a compact and versatile lighting solution easily transported and used at home or in the garage. With a powerful COB LED, it provides bright light of up to 1100 Lumens, capable of illuminating up to 50 metres away. The light is housed in a sturdy, non-slip, waterproof case resistant to impact and rated IP54. It also features a robust stand which can be adjusted up to 180 degrees for added flexibility. The light has a 4400mAh battery that can be charged using the USB Type C cable included. The battery can provide constant light for up to 6 hours and can also be used to charge other devices, making it a convenient option for on-the-go charging. Supplied with USB-C charging cable.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Rechargeable LED Task Light 10W",
+  "specifications": [
+    "Brightness: 1100/400 Lumens",
+    "Run Time: 3/6 hours",
+    "Light Source: COB LED",
+    "Battery: 3.7V 4400mAh rechargeable Li-NMC",
+    "Water Resistant: IP54",
+    "Charge Time: Approx. 6 hours",
+    "Dimensions: 189.5 x 164.5 x 45.5mm",
+    "Weight: 732g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-led-festoon-lights-22m-10-bulbs-110v.html|>
+## Lighthouse LED Festoon Lights 22M 10 Bulbs 110V
+
+{
+  "price": "€92.11 inc VAT (€74.89 exc.vat)",
+  "description": "Illuminate large areas effortlessly with Lighthouse LED Festoon Lights, designed to provide bright, shadow-free lighting across multiple locations. This set includes a 22-metre cable fitted with 10 compact LED bulbs, delivering a bright white light output of 400 lumens. Perfect for worksites, outdoor events, and even domestic use, these festoon lights ensure maximum visibility and safety. The bulbs are spaced 2 metres apart and feature screw mounting holes for secure installation. Up to 8 sets can be daisy-chained together, extending the total length to 176 metres with 80 LED bulbs. The yellow cable enhances worksite visibility, while the IP44 rating ensures durability and weather resistance. Fitted with a 16 Amp 110 Volt plug, this light set is easy to set up and provides reliable illumination for various applications.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse LED Festoon Lights 22M 10 Bulbs 110V",
+  "specifications": [
+    "Voltage: 110V",
+    "LED Power: 10 x 5W",
+    "Lumen Output: 400",
+    "Colour Temp: 6,500K",
+    "Cable Length: 22m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-festoon-lights-22m-10-bulbs-110v.html|>
+## Lighthouse Festoon Lights 22M 10 Bulbs 110V
+
+{
+  "price": "€68.98 inc VAT (€56.08 exc.vat)",
+  "description": "Illuminate large areas effortlessly with Lighthouse Festoon Bulbs, designed to provide bright, shadow-free lighting across multiple locations. This set includes a 22-metre cable fitted with 10x E27 Lamp Holders and supplied with 60w rough service bulbs. Perfect for worksites, outdoor events, and even domestic use, these festoon lights ensure maximum visibility and safety. The bulbs are spaced 2 metres apart and feature screw mounting holes for secure installation. The yellow cable enhances worksite visibility, while the IP44 rating ensures durability and weather resistance. Fitted with a 16 Amp 110 Volt plug, this light set is easy to set up and provides reliable illumination for various applications.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Festoon Lights 22M 10 Bulbs 110V",
+  "specifications": [
+    "Voltage: 110V",
+    "Lumen Output: 8,000",
+    "Colour Temp: 6,500K",
+    "Cable Length: 22m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-heavy-duty-led-site-light-110v.html|>
+## Lighthouse Heavy-Duty LED Site Light 110V
+
+{
+  "price": "€368.52 inc VAT (€299.61 exc.vat)",
+  "description": "The Lighthouse Heavy-Duty 22000 Professional Site Light offers a remarkable 360° light spread, delivering an impressive 22,000 lumens of brightness and a beam distance of up to 50 metres. This makes it perfect for illuminating large indoor spaces and expansive outdoor areas. Equipped with six adjustable light heads, this site light allows you to lock them in a vertical 90° position or tilt them at 45° for optimal lighting angles. Each head features an anti-glare diffused lens, ensuring a broad distribution of shadow-free light. The sturdy housing is designed to withstand knocks and bumps on the job site, and it has an IP44 rating for protection against water and dust. For your convenience, the driver and operation unit can be positioned on the ground, separate from the light itself. It includes an on/off switch and individual buttons to easily select output modes of 25%, 50%, 75%, or 100%. If you’re in search of a high-quality professional site light, the Lighthouse Heavy-Duty 22000 Professional Site Light will not disappoint.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Heavy-Duty LED Site Light 110V",
+  "specifications": [
+    "Lumen Output: 22,000",
+    "Colour Temp: 6,500K",
+    "IP Rating: IP44 (control unit) / IP65 (head unit)",
+    "Cable Length: 10m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-heavy-duty-led-grip-lamp.html|>
+## Lighthouse Heavy-Duty LED Grip Lamp
+
+{
+  "price": "€23.94 inc VAT",
+  "description": "The Lighthouse Heavy-Duty LED Inspection Lamp is a powerful yet versatile clamping light capable of 800 lumens of bright light. It's ideal for construction sites, maintenance and automotive work. Featuring 50mm wide clamping jaws, it can be securely attached to various surfaces, such as joists, beams, and vehicle bonnets to provide light where you need it most. Equipped with strong hand grips, this lamp is easy to handle and position, providing convenience and flexibility. A useful hanging hook is included for easy storage and quick access, and the bulb is encased in a protective wire cage, safeguarding it from accidental damage.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Heavy-Duty LED Grip Lamp",
+  "specifications": [
+    "Lumen output: 800",
+    "Cable Length: 5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-2000-lumen-single-site-light.html|>
+## Lighthouse 2000 Lumen Single Site Light
+
+{
+  "price": "€57.31 inc VAT",
+  "description": "The Lighthouse Single Site Light is designed to provide powerful and reliable illumination for various work environments. This site light features an 18W SMD LED light capable of delivering a brightness of 2000 lumens with a 6500k colour temperature. The SMD LED light is mounted to a 1.8m tripod via a quick-release mount. The mount can be easily removed for freestanding use or attached to flat surfaces via magnets located on the base. Crafted for rugged conditions, the aluminium body with rubber overmold provides excellent durability, while the IP44 rating protects against dust and splashes. With its tilting head, this site light allows you to aim the light precisely where it's needed, making it perfect for on-site work, plastering, construction tasks, and more. The Lighthouse 2000 Single Site Light is the perfect choice for anyone needing a robust and versatile lighting solution. By investing in this site light, you ensure a well-lit and safe work environment, enhancing productivity and efficiency.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse 2000 Lumen Single Site Light",
+  "specifications": [
+    "LED Power: 18W",
+    "Lumen output: 2,000",
+    "Colour Temp: 6,500K",
+    "Height: 970-1935mm",
+    "IP Rating: IP44",
+    "Cable Length: 3m"
+  ]
+}
+

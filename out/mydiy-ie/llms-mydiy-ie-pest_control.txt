@@ -1,0 +1,1857 @@
+<|https://www.mydiy.ie/products/doff-ant-killer-300g.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/supahome-2-metal-mouse-traps.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/supahome-wooden-rat-trap.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/pest-stop-systems-mink-cage-trap-30in.html|>
+## Pest-Stop Systems Mink Cage Trap 30in
+
+{
+  "price": "€52.36 inc VAT (€42.57 exc.vat)",
+  "description": "This Pest-Stop high quality Mink Cage is a traditional device for the humane trapping of mink or other similar sized pests. This type of cage is exclusive to Procter Pest-Stop. The cage is made from galvanised steel to resist rust, and has a carry handle on the top of the cage for easy transportation. It is ready to use and comes complete with detailed instructions for use. The trap works by placing bait on or close to a plate inside the trap. When the intruder touches the plate, the trap is activated and the doors close, trapping the animal inside. Please note: It is illegal to release captured live mink back into the wild. Therefore the captured mink should be humanely killed. For further information on this, contact DEFRA or the RSPCA.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Mink Cage Trap 30in",
+  "specifications": [
+    "Galvanised steel construction",
+    "Humane trapping mechanism",
+    "Carry handle for easy transportation",
+    "Ready to use with detailed instructions"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-rabbit-cage-trap-32in.html|>
+## Pest-Stop Systems Rabbit Cage Trap 32in
+
+{
+  "price": "€71.09 inc VAT (€57.80 exc.vat)",
+  "description": "This Pest-Stop rabbit cage trap is a traditional device for the humane trapping of rabbits or similar sized pests. The bait is placed on or close to a plate inside the trap. When the intruder touches the plate, the trap is activated and the door closes, safely trapping the animal inside. The cage is made of galvanised steel to resist rust, and has a carry handle on the top of the cage for easy transportation. Supplied ready to use with no assembly needed, and complete with detailed instructions for use.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop Systems Rabbit Cage Trap 32in",
+  "specifications": [
+    "Galvanised steel construction",
+    "Humane trapping mechanism",
+    "Ready to use with no assembly required",
+    "Includes detailed instructions for use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-squirrel-cage-trap-24in.html|>
+## Pest-Stop Systems Squirrel Cage Trap 24in
+
+{
+  "price": "€52.36 inc VAT (€42.57 exc.vat)",
+  "description": "This Pest-Stop squirrel cage is a traditional device for the humane trapping of squirrels or similar sized pests, such as rats. It has doors at each end to entice squirrels to enter and take the bate. Squirrels are naturally cautious and do not like entering unfamiliar spaces from which they can not see an exit. When the intruder takes the bait, these doors close, safely trapping it inside. The cage is made from galvanised steel to resist rust, and has a carry-handle for easy transportation. It is supplied fully assembled and ready to be baited, and comes complete with simple setting instructions.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop Systems Squirrel Cage Trap 24in",
+  "specifications": [
+    "Galvanised steel construction",
+    "Humane trapping mechanism",
+    "Fully assembled and ready to use",
+    "Carry-handle for easy transportation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-rat-cage-trap.html|>
+## Rentokil Rat Cage Trap
+
+{
+  "price": "€28.65 inc VAT (€23.29 exc.vat)",
+  "description": "The Rentokil Rat Cage Trap is a wire cage trap for catching rats and small mammals alive. They can be released elsewhere after capture. The trap is poison-free, meaning that it is ideal for where other animals may get caught or use where children and pets are present. The cage trap is strong and sturdy and is easy to bait and set. Where to use: This product can be used indoors or outdoors. Place trap on a flat surface where possible, near to where rats have been seen.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Rat Cage Trap",
+  "specifications": [
+    "Model: RKLFR28",
+    "Price: €28.65",
+    "List Price: €39.50",
+    "You save: €10.85",
+    "Poison-free trap",
+    "Suitable for indoor and outdoor use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-multicatch-rat-cage.html|>
+## Pest-Stop (Pelsis Group) Multicatch Rat Cage
+
+{
+  "price": "€35.74 inc VAT (€29.06 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Multicatch Rat Cage has an ingenious funnel design that allows up to 15 rats to be safely caught alive. Provides a humane method of control in areas of high infestation. Made of rust-resistant, galvanised steel. Suitable for indoor and outdoor use. No assembly required, just set and go.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Multicatch Rat Cage",
+  "specifications": [
+    "Dimensions (LxWxH): 420 x 230 x 200mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-ultrasonic-all-pest-repeller.html|>
+## Pest-Stop Systems Ultrasonic All Pest Repeller
+
+{
+  "price": "€44.99 inc VAT (€36.58 exc.vat)",
+  "description": "The Pest-Stop Ultrasonic All Pest Repeller offers a safe, humane way to deter unwanted pests from your garden, yard, or property. Using high-frequency ultrasonic sound that's inaudible to humans, this repeller effectively drives away a wide range of animals without using chemicals or traps.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Ultrasonic All Pest Repeller",
+  "specifications": [
+    "Repels Mice and Rats",
+    "Repels Birds",
+    "Repels Rabbits and Squirrels",
+    "Repels Cats and Dogs",
+    "Repels Foxes and Badgers",
+    "Three Frequency Settings",
+    "Motion Sensor & Timed Activation",
+    "Multiple Mounting Options",
+    "Adjustable Angle",
+    "Battery Powered",
+    "Mains Adapter Option"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-ultrasonic-cat-repeller.html|>
+## Pest-Stop Systems Ultrasonic Cat Repeller
+
+{
+  "price": "€40.93 inc VAT (€33.28 exc.vat)",
+  "description": "The Pest-Stop Ultrasonic Cat Repeller uses ultrasonic sound to repel unwanted cats at a frequency too high for humans to hear, providing a humane solution to unwanted pests. The repeller can be ground or wall mounted and the repeller can rotate through 60° when wall mounted. Main features: Specialist ultrasound frequency, specifically targets and repels cats. Flexible PIR motion sensor and timed loop activation settings. Wall bracket and ground mounting stake included for flexible installation. Battery powered (2 x 9v NOT Included) for quick and simple installation. Optional mains power kit also available.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Ultrasonic Cat Repeller",
+  "specifications": [
+    "Ultrasonic sound technology",
+    "Flexible PIR motion sensor",
+    "Wall bracket and ground mounting stake included",
+    "Battery powered (2 x 9v NOT Included)",
+    "Optional mains power kit available"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-cat-and-fox-deterrent.html|>
+## Rentokil Cat & Fox Deterrent
+
+{
+  "price": "€54.72 inc VAT (€44.49 exc.vat)",
+  "description": "This Rentokil Ultrasonic Repeller is for the control of garden animal pests including cats, dogs, foxes and rabbits. It operates day and night in all weather. Inaudible to humans, this deterrent has a detection range of 10 metres. It is weatherproof, easy to set up and to use. Part of Rentokil's safer range, this ultrasonic repeller is poison free. Made in the UK with a 2 year manufacturers warranty. Requires 1 high quality alkaline battery.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Cat & Fox Deterrent",
+  "specifications": [
+    "Detection range of 10 metres",
+    "Weatherproof design",
+    "Requires 1 high quality alkaline battery",
+    "Made in the UK",
+    "2 year manufacturers warranty"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-cat-deterrent-granules-500g.html|>
+## Rentokil Cat Deterrent Granules 500g
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Rentokil FC84 Cat Deterrent Granules provide protection for gardens, flower beds, pots, planters and other areas by deterring cats from fouling, without the use of toxic chemicals. The product contains natural garlic oil that masks the territorial scent left by cats and over time they learn not to use that area.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Cat Deterrent Granules 500g",
+  "specifications": [
+    "Product Code: RKLFC84",
+    "Weight: 500g",
+    "Natural garlic oil formula",
+    "Non-toxic",
+    "Protects gardens and flower beds"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-slug-and-snail-barrier-tape-4m.html|>
+## Rentokil Slug & Snail Barrier Tape 4m
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "Rentokil Slug & Snail Barrier Tape is a non-toxic, adhesive copper tape designed to protect plants from slugs and snails without the need for harmful chemicals. This poison-free solution is safe to use around children and pets, making it an ideal choice for eco-friendly gardening. Perfect for pots, tubs, troughs, tree trunks, and other plants, this copper tape creates a natural barrier that slugs and snails avoid upon contact, helping to prevent damage to your plants. The 4-metre roll provides ample coverage and can protect up to 10 plant pots (12.5 inches each), offering long-lasting and reliable defense for your garden.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Slug & Snail Barrier Tape 4m",
+  "specifications": [
+    "Non-toxic and poison-free – safe for children, pets, and wildlife",
+    "Creates a natural barrier to keep slugs and snails away",
+    "Ideal for plant pots, tubs, troughs, and tree trunks",
+    "Easy to apply with strong adhesive backing",
+    "4-metre roll covers up to 10 x 12.5-inch plant pots"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-spider-and-crawling-insect-trap.html|>
+## Spider & Crawling Insect Trap
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Protect your home from unwanted pests with the Spider & Crawling Insect Trap. This simple, fold-together glue trap is easy to set up and blends discreetly into any room. Designed to attract and catch a wide range of crawling insects, it provides a chemical-free, odourless solution for pest concerns. Ideal for use in living areas, basements, kitchens, and anywhere bugs may wander, this trap is especially useful for those who are worried about spiders, ants, cockroaches, and more.",
+  "availability": "In Stock",
+  "product_name": "Spider & Crawling Insect Trap",
+  "specifications": [
+    "Targets Spiders & Insects – Catches spiders, ants, cockroaches, woodlice, carpet beetles & more",
+    "Easy Fold-Together Design – Simple to set up with no mess or fuss",
+    "Discreet & Compact – Blends into corners and hidden spaces around the home",
+    "Chemical-Free & Odourless – Safe for use in family environments",
+    "Ideal for Indoor Use – Use in kitchens, basements, lofts, utility rooms & more"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-bb01-bed-bug-killer-traps.html|>
+## Rentokil BB01 Bed Bug Killer Traps
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Rentokil BB01 Bed Bug Killer Trap is a discreet and effective solution for detecting and monitoring bed bug activity in your home. Designed to be placed under the mattress or around the bedroom, this plastic trap contains a strong glue board that captures bed bugs, helping you identify infestations early before they spread. Each set includes two traps and four glue boards, providing long-lasting protection and allowing for continued monitoring. The non-toxic and pesticide-free design makes it a safe option for homes with children and pets, offering peace of mind while tackling potential bed bug problems.",
+  "availability": "In Stock",
+  "product_name": "Rentokil BB01 Bed Bug Killer Traps",
+  "specifications": [
+    "Includes two traps and four glue boards",
+    "Non-toxic and pesticide-free",
+    "Strong glue board effectively captures bed bugs",
+    "Discreet design for easy placement in bedrooms",
+    "Detects and monitors bed bug activity early"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-flea-killer-spray.html|>
+## Rentokil Flea Killer Spray
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "The Rentokil PSF200 Flea Killer Spray is ready to use and has been designed for use on hard and carpeted areas to kill fleas in the home. Provides long-lasting protection. Simply spray lightly over the areas where you have seen fleas. Exclude children and pets while spraying and read instructions carefully.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Flea Killer Spray",
+  "specifications": [
+    "Product Code: RKLPSF200",
+    "Ready to use",
+    "Designed for hard and carpeted areas",
+    "Long-lasting protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-bird-scarer-rods-pack-of-3.html|>
+## Pest-Stop Systems Bird Scarer Rods (Pack of 3)
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "The Pest-Stop Systems Bird Scarer Rods help to keep birds off your property. To do this they rotate in the wind and reflect light. Easy-to-use, simply hang up outside. Ideal for use in gardens, allotments and on balconies. Supplied as a pack of 3.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Bird Scarer Rods (Pack of 3)",
+  "specifications": [
+    "Pack of 3",
+    "Rotates in the wind",
+    "Reflects light",
+    "Ideal for gardens, allotments, and balconies"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-spider-and-crawling-insect-killer-spray.html|>
+## Rentokil Spider & Crawling Insect Killer Spray
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "Rentokil Spider & Crawling Insect Killer Spray (500ml) offers a safe, effective, and insecticide-free solution for eliminating spiders and crawling insects in your home. Designed with family and pet safety in mind, this powerful yet gentle formula ensures fast action upon contact, helping to restore peace to your living spaces without the use of harmful chemicals. Featuring a user-friendly nozzle, this spray allows for precise application, even in hard-to-reach areas, making it an excellent choice for treating spiders in bedrooms, crawling insects in kitchens, or pests in other household spaces. The non-staining formula ensures a mess-free experience, leaving no unsightly residue on surfaces. Perfect for indoor and outdoor use, Rentokil Spider & Crawling Insect Killer Spray provides a dependable defense against pests year-round, keeping your home safe, comfortable, and pest-free.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Spider & Crawling Insect Killer Spray",
+  "specifications": [
+    "500ml",
+    "Fast-acting formula eliminates spiders and crawling insects on contact",
+    "Insecticide-free – safe for homes with children and pets",
+    "Easy-to-use nozzle for precise application",
+    "Non-staining formula – no sticky or greasy residue",
+    "Versatile for indoor and outdoor use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/doff-slug-and-snail-killer.html|>
+## DOFF Slug & Snail Killer
+
+{
+  "price": "€8.99 inc VAT",
+  "description": "Doff Slug & Snail Killer is a ready-to-use bait to control Slugs and Snails. Ferric phosphate pellets can be applied around edible crops up to the day of harvest and provide long-lasting control in wet weather, up to 10 days. Suitable for Organic Gardening and endorsed by OF&G Organic Farmers & Growers certification. Children and pets need not be excluded from treated areas. Made in the UK.",
+  "availability": "In Stock",
+  "product_name": "DOFF Slug & Snail Killer",
+  "specifications": [
+    "800g option available",
+    "Ready-to-use bait",
+    "Controls slugs and snails",
+    "Long-lasting control in wet weather",
+    "Suitable for organic gardening",
+    "Endorsed by OF&G Organic Farmers & Growers certification"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-prikka-strip-pack-8.html|>
+## Pest-Stop (Pelsis Group) Prikka Strip (Pack 8)
+
+{
+  "price": "€14.46 inc VAT (€11.76 exc.vat)",
+  "description": "Pest-Stop (Pelsis Group) Prikka Strips are an effective and discreet solution to deter unwanted visitors in your garden. Weatherproof and flexible, fix to fences, gates and walls. They are highly uncomfortable but unlikely to cause injury. Contains 8 strips, each measuring 500mm long and 45mm wide.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Prikka Strip (Pack 8)",
+  "specifications": [
+    "Contains 8 strips",
+    "Each strip measures 500mm long and 45mm wide",
+    "Weatherproof and flexible"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-solar-powered-mole-repeller.html|>
+## Pest-Stop (Pelsis Group) Solar-Powered Mole Repeller
+
+{
+  "price": "€24.81 inc VAT (€20.17 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Solar-Powered Mole Repeller emits a frequency of varied sonic pulses into the ground in a circular pattern to deter moles. An environmentally friendly solution, with no chemicals or traps. Safe for use around humans, cats, dogs, fish and birds. Constructed with high-quality ABS and PC plastic that is IP67 rated waterproof, resistant from both rain and moisture in the soil. Powered using a high-quality solar-powered, rechargeable 2200mAh lithium battery. A full charge provides up to 25 days of use. Coverage: up to 650m²",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Solar-Powered Mole Repeller",
+  "specifications": [
+    "Coverage: up to 650m²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-bird-repellent-tape-45m.html|>
+## Rentokil Bird Repellent Tape 45m
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "Rentokil FBT22 Bird Repellent Tape reflects sunlight to scare off birds. Poison-free, pet- and wildlife-friendly. Helps to protect vegetables, seedbeds, fruit and more.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Bird Repellent Tape 45m",
+  "specifications": [
+    "Product Code: RKLFBT22",
+    "Length: 45m",
+    "Poison-free",
+    "Pet and wildlife-friendly"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-slug-and-snail-trap-twin-pack.html|>
+## Rentokil Slug & Snail Trap (Twin Pack)
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "The Rentokil FS33 Slug & Snail Trap attracts and kills slugs and snails. Strong, discreet, easy to fill and clean. Poison-free, safe for gardens.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Slug & Snail Trap (Twin Pack)",
+  "specifications": [
+    "RKLFS33 : €7.99",
+    "Poison-free, safe for gardens",
+    "Strong, discreet, easy to fill and clean"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-pest-repeller-for-large-house.html|>
+## Pest-Repeller For Large House
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "The Pest-Stop Electronic Large House Pest Repeller is a sleek, modern, and highly effective solution for tackling pest problems in larger homes. Combining ultrasonic sound and electromagnetic waves, this dual-action device helps drive out unwanted pests without the need for traps or chemicals. Effective against rats, mice, spiders, ants, cockroaches, and other crawling pests, this repeller offers a humane, chemical-free alternative for whole-home pest control.",
+  "availability": "In Stock",
+  "product_name": "Pest-Repeller For Large House",
+  "specifications": [
+    "Covers Up to 4,000 Sq. Ft.",
+    "Dual Technology",
+    "Stylish & Discreet Design",
+    "Built-In LED Indicator",
+    "Large Speaker Output",
+    "Simple to Use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-pest-repeller-for-one-room.html|>
+## Pest-Stop Systems Pest-Repeller For One Room
+
+{
+  "price": "€14.46 inc VAT (€11.76 exc.vat)",
+  "description": "This Pest-Stop electronic one room pest repeller offers the domestic user a contemporary, aesthetically pleasing and effective solution to pest problems in the home. With a coverage of 1000 square feet, this repeller can easily cover a standard room. The repeller uses electromagnetic waves and is highly effective against rodents and most crawling insects. It has a large speaker and an LED light which is lit when the repeller is working.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Pest-Repeller For One Room",
+  "specifications": [
+    "Coverage of 1000 square feet",
+    "Uses electromagnetic waves",
+    "Effective against rodents and most crawling insects",
+    "Includes a large speaker and LED light"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-pest-repeller-for-small-house.html|>
+## Pest-Repeller For Small House
+
+{
+  "price": "€32.99 inc VAT (€26.82 exc.vat)",
+  "description": "This Pest-Stop electronic small house pest repeller offers the domestic user a contemporary, aesthetically pleasing and effective solution to pest problems in the home. With a coverage of 2,500 square feet, this repeller can easily cover a typical house. As well as ultrasonic, the repeller uses electromagnetic waves and is highly effective against rodents and most crawling insects. It has a large speaker and an LED light which is lit when the repeller is working and differentiates between the settings. Full instructions supplied.",
+  "availability": "In Stock",
+  "product_name": "Pest-Repeller For Small House",
+  "specifications": [
+    "Coverage of 2,500 square feet",
+    "Uses ultrasonic and electromagnetic waves",
+    "Effective against rodents and most crawling insects",
+    "Includes large speaker and LED light"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-prof-bird-spikes-10-x-500mm-metal-strips.html|>
+## Pest-Stop Systems Prof Bird Spikes 10 x 500mm Metal Strips
+
+{
+  "price": "€59.99 inc VAT (€48.77 exc.vat)",
+  "description": "These Pest-Stop Professional Bird Spikes can be fixed to window sills, ledges, guttering and walls etc. They are excellent at discouraging birds and can prevent birds from landing. Supplied in handy 50cm strips, the Bird Spikes are easy to fit and highly effective. The tough steel spikes are fitted on a strong but flexible plastic base which is easy to cut to required size and easy to fix with screws or glue. Supplied in a pack of 10.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Prof Bird Spikes 10 x 500mm Metal Strips",
+  "specifications": [
+    "Pack of 10 strips",
+    "Each strip is 500mm long",
+    "Made of tough steel spikes",
+    "Flexible plastic base for easy installation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-pest-control-hand-and-surface-wipes.html|>
+## Rentokil Pest Control Hand & Surface Wipes
+
+{
+  "price": "€5.07 inc VAT (€4.12 exc.vat)",
+  "description": "The Rentokil Pest Control Hand & Surface Wipes are ready to use hygienic wipes for cleaning hands after handling pest related products or dead rodents/insects. Can also be used on surfaces, bait trays and traps in the home and garden. The special antibacterial formulation is suitable for all pest control situations.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Pest Control Hand & Surface Wipes",
+  "specifications": [
+    "Product Code: RKLFPW44",
+    "List Price: €6.97",
+    "You save: €1.90"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-fly-papers-pack-of-4.html|>
+## Pest-Stop Systems Fly Papers (Pack of 4)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Pest-Stop Fly Papers offer a simple, effective, and chemical-free way to trap flies in the home. These sticky paper strips are easy to use – just untwist, hang, and catch. Ideal for kitchens, conservatories, or any area prone to flying insects. Each strip can trap up to 100 flies, making them a reliable and cost-effective solution for ongoing fly control. When full, simply dispose of the used strip and replace with a fresh one.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Fly Papers (Pack of 4)",
+  "specifications": [
+    "Traditional Fly Trap – Sticky paper traps flies instantly on contact.",
+    "Chemical-Free & Odourless – Safe to use around food and in family environments.",
+    "Easy to Use – Just untwist and hang for immediate protection.",
+    "High Capacity – Each strip can catch up to 100 flies.",
+    "Includes Hanging Pin & Loop – Everything you need to hang included.",
+    "Pack of 4 Traps – Great value for long-lasting protection."
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitax-nippon-ant-killer-liquid-25g.html|>
+## Nippon Ant Killer Liquid 25g
+
+{
+  "price": "€3.96 inc VAT (€3.22 exc.vat)",
+  "description": "For the control of common black ants in and around the home. Nippon Ant Killer Liquid is a sugary bait formulation designed to attract worker ants to take the bait and feed it to the whole colony. This product is particularly useful when the nest site is unknown or inaccessible. Apply at the first signs of ant activity (normally early spring).",
+  "availability": "Out of Stock",
+  "product_name": "Nippon Ant Killer Liquid 25g",
+  "specifications": [
+    "Contains Spinosad",
+    "Apply at the first signs of ant activity",
+    "Change the bait daily until ant activity ceases",
+    "Destroys complete ant colonies without trace"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-insectrol-moth-kill-250ml.html|>
+## Rentokil Insectrol Moth Kill 250ml
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Insectrol Moth Killer acts fast to get rid of moths in your home. This insecticidal moth spray also kills flies and wasps. Contains Tetramethrin and D-phenothrin.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Insectrol Moth Kill 250ml",
+  "specifications": [
+    "Contains Tetramethrin and D-phenothrin",
+    "Acts fast to get rid of moths",
+    "Also kills flies and wasps"
+  ]
+}
+
+<|https://www.mydiy.ie/products/raid-fly-and-wasp-killer.html|>
+## Raid Fly and Wasp Killer
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "Raid Fly & Wasp Killer 300ml Rapid Action. Rapid action. Kills flying insects in seconds. Suitable for use flies, mosquitoes, tiger mosquito, wasps, hornets, moths and yellow jacket.",
+  "availability": "In Stock",
+  "product_name": "Raid Fly and Wasp Killer",
+  "specifications": [
+    "RAID300ML : €6.99",
+    "List: €7.99",
+    "You save €1.00",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-wasp-and-flying-insect-killer-spray-300ml.html|>
+## Pest-Stop Systems Wasp & Flying Insect Killer Spray 300ml
+
+{
+  "price": "€4.35 inc VAT (€3.54 exc.vat)",
+  "description": "This Pest-Stop Systems Killer Spray has an advanced formulation that eliminates wasps, mosquitoes and other flying insects. Fast acting, designed to knockdown and kill in seconds. Has very low toxicity levels. Easy-to-use, simple spray action. Trusted by professionals.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Wasp & Flying Insect Killer Spray 300ml",
+  "specifications": [
+    "300ml capacity",
+    "Fast acting",
+    "Low toxicity",
+    "Easy-to-use spray action"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-flying-insect-killer-spray.html|>
+## Rentokil Flying Insect Killer Spray
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Rentokil Flying Insect Killer Spray is a powerful, insecticide-free solution for quickly eliminating flies and other flying insects in and around your home. Designed with safety in mind, this spray provides effective pest control without the use of harsh chemicals, making it a great choice for households with children, pets, and those sensitive to traditional insecticides. Simply spray directly onto flies, mosquitoes, and other flying pests for fast and efficient elimination. Whether you're dealing with a single nuisance insect or need a reliable solution for ongoing control, Rentokil Flying Insect Killer Spray is a safe, easy-to-use, and effective way to keep your home pest-free.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Flying Insect Killer Spray",
+  "specifications": [
+    "Insecticide-free formula – safe for use around children and pets",
+    "Fast-acting spray kills flies and flying insects on contact",
+    "Can be used indoors and outdoors for versatile protection",
+    "Ideal for homes, kitchens, and enclosed spaces",
+    "Trusted Rentokil quality for effective pest control"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-fly-killer-cassette-unit.html|>
+## Rentokil Fly Killer Cassette Unit
+
+{
+  "price": "€4.39 inc VAT (€3.57 exc.vat)",
+  "description": "The Rentokil Fly Killer Cassette Unit contains a long-lasting formula that kills and repels flies, mosquitoes, moths, midges and gnats in small sized rooms. Easy-to-use, discreet unit for complete room protection with a low odour. Long-lasting up to 4 months.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Fly Killer Cassette Unit",
+  "specifications": [
+    "RKLFFL10 : €4.39",
+    "Easy-to-use, discreet unit",
+    "Long-lasting formula up to 4 months",
+    "Kills and repels flies, mosquitoes, moths, midges, and gnats"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-carpet-beetle-and-moth-killer-powder-150g.html|>
+## Rentokil Carpet Beetle & Moth Killer Powder 150g
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "Rentokil Carpet Beetle & Moth Killer Powder is a powerful and easy-to-use solution for eliminating carpet moths and beetles at all life stages – from eggs and larvae to adults. Ideal for use in homes where textile damage is a concern, this effective powder provides long-lasting protection for carpets, rugs, and upholstery.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Carpet Beetle & Moth Killer Powder 150g",
+  "specifications": [
+    "Kills Moths & Beetles – Targets carpet moths and carpet beetles, including eggs, larvae, and adults.",
+    "Fast & Effective – Rapid action to stop infestations before they spread.",
+    "Long-Lasting Protection – Keeps working after application to prevent reinfestation.",
+    "Contains Natural Pyrethrum – Derived from chrysanthemum flowers for effective insect control.",
+    "Easy to Use – Simply apply the powder directly to affected areas and vacuum after treatment."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-ant-and-crawling-insect-powder-1.html|>
+## Rentokil Ant & Crawling Insect Powder
+
+{
+  "price": "from €5.10 inc VAT",
+  "description": "Rentokil Ant & Crawling Insect Powder provides fast and effective control of ants, fleas, woodlice, silverfish and cockroaches. Suitable for home and garden use. Contains Pyrethrum.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Ant & Crawling Insect Powder",
+  "specifications": [
+    "Available in 150g and 300g options",
+    "Contains Pyrethrum",
+    "Suitable for home and garden use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-wasp-trap-twin-pack.html|>
+## Rentokil Wasp Trap (Twin Pack)
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "The Rentokil Wasp Trap is a discreet, poison-free trap for attracting and killing wasps in the home and garden. The Wasp Traps are reusable plastic traps, which are easy to put together and are eco-friendly. They are a non-toxic product, meaning that they are safer for children and pets. How to use: Simply fill with sweet liquid, beer or other juice, and hang or place a safe distance from human activity away from the house. Wasps will be attracted to this and die inside the trap. Where to use: This product is intended for use in and around the home and garden. Ideal for gardens, patios, BBQs and picnics. Always read the label before use. Supplied as a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Wasp Trap (Twin Pack)",
+  "specifications": [
+    "Pack of 2",
+    "Poison-free",
+    "Reusable plastic traps",
+    "Eco-friendly",
+    "Non-toxic"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-wasp-powder.html|>
+## Rentokil Wasp Powder
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "Rentokil Wasp Powder provides fast and effective control of wasp nests when the nest is not visible. Easy-to-use, simply puff around entrance holes. Contains Pyrethrum.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Wasp Powder",
+  "specifications": [
+    "Available in 150g and 300g options",
+    "Contains Pyrethrum",
+    "Easy to use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-fly-swat.html|>
+## Pest-Stop (Pelsis Group) Fly Swat
+
+{
+  "price": "€1.16 inc VAT (€0.94 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Fly Swat has an extra-long handle for added reach. The spikes on top of the swat help sweep away insect debris.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Fly Swat",
+  "specifications": [
+    "Dimensions (HxWxD): 120 x 545 x 2mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-indoor-insect-fly-killer.html|>
+## Pest-Stop (Pelsis Group) Indoor Insect Fly Killer
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Indoor Insect Fly Killer lures and eliminates flies, mosquitoes and midges using florescent lighting and a unique grid for a superior catch rate. Perfect non-toxic solution for use in the home. Easy to use and dispose of.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Indoor Insect Fly Killer",
+  "specifications": [
+    "Coverage: 30m²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-plug-in-insect-fly-killer.html|>
+## Pest-Stop (Pelsis Group) Plug-In Insect Fly Killer
+
+{
+  "price": "€16.92 inc VAT (€13.76 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Plug-In Insect Fly Killer provides a non-toxic solution to controlling/killing mosquitoes, midges and flies within the home. It has a slimline and contemporary design. With an extractable tray for easy cleaning and disposal.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Plug-In Insect Fly Killer",
+  "specifications": [
+    "Coverage: 15m²"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-spider-and-insect-vacuum.html|>
+## Pest-Stop (Pelsis Group) Spider & Insect Vacuum
+
+{
+  "price": "€12.32 inc VAT (€10.02 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Spider & Insect Vacuum provides a chemical-free solution to controlling spiders and other insects in the home. It does not cause harm or kill, simply release the pest outside. It has a lightweight, portable design that is easy to use. Fitted with an LED light to help locate insects in dark spaces. Powered using a 9V battery (NOT included).",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Spider & Insect Vacuum",
+  "specifications": [
+    "Chemical-free solution for controlling spiders and insects",
+    "Lightweight and portable design",
+    "Fitted with an LED light for dark spaces",
+    "Powered by a 9V battery (not included)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-insectrol-insect-killer-powder-150g.html|>
+## Rentokil Insectrol Insect Killer Powder 150g
+
+{
+  "price": "€6.51 inc VAT (€5.29 exc.vat)",
+  "description": "Rentokil Insectrol Insect Killer Powder kills fleas, ants, wasps, carpet moths, cockroaches, woodlice and other insects. Provides fast, effective control in and around the home. Contains Pyrethrum.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Insectrol Insect Killer Powder 150g",
+  "specifications": [
+    "Product Code: RKLPSI29",
+    "Weight: 150g",
+    "Contains: Pyrethrum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-spider-and-crawling-insect-killer-powder.html|>
+## Rentokil Spider & Crawling Insect Killer Powder
+
+{
+  "price": "€5.07 inc VAT (€4.12 exc.vat)",
+  "description": "Rentokil Spider & Crawling Insect Killer Powder is highly effective and easy to use. It kills spiders, carpet beetles, fleas, ants and cockroaches in the home. Contains Pyrethrum.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Spider & Crawling Insect Killer Powder",
+  "specifications": [
+    "Product Code: RKLPSS209",
+    "List Price: €6.99",
+    "You save: €1.92",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-electronic-fly-and-mosquito-eliminator.html|>
+## HG Electronic Fly & Mosquito Eliminator
+
+{
+  "price": "€10.07 inc VAT (€8.19 exc.vat)",
+  "description": "HG Electronic Fly & Mosquito Eliminator is the quick and clean solution for getting rid of mosquitoes, flies and wasps. Our electric fly swatter prevents dirty stains caused by squashed insects, because the insects are electrocuted and stay intact. Batteries included.",
+  "availability": "In Stock",
+  "product_name": "HG Electronic Fly & Mosquito Eliminator",
+  "specifications": [
+    "H/G405000100 : €10.07",
+    "Batteries included."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-fly-and-wasp-killer-300ml.html|>
+## Rentokil Fly & Wasp Killer 300ml
+
+{
+  "price": "€3.97 inc VAT (€3.23 exc.vat)",
+  "description": "Rentokil Fly & Wasp Killer Spray is a fast-acting insecticidal spray designed to eliminate flies, wasps, moths, and mosquitoes with ease. Formulated with powerful active ingredients Tetramethrin and Permethrin, this spray delivers an immediate knockdown effect, ensuring that flying insects are quickly and effectively controlled. Ideal for direct treatment or room-wide application, this spray is perfect for indoor use in homes, offices, and other enclosed spaces. It features a pleasant fragrance, making pest control more comfortable without leaving strong chemical odors behind.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Fly & Wasp Killer 300ml",
+  "specifications": [
+    "Fast-acting formula kills flies, wasps, moths, and mosquitoes",
+    "Immediate knockdown effect for quick insect control",
+    "Suitable for direct application or room-wide treatment",
+    "Pleasant fragrance – no strong chemical smell",
+    "Trusted Rentokil quality for effective indoor pest control"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-insectrol-insect-killer-spray.html|>
+## Rentokil Insectrol Insect Killer Spray
+
+{
+  "price": "from €7.99 inc VAT",
+  "description": "Rentokil Insectrol Insect Killer Spray is a powerful and effective solution for eliminating a wide range of common household pests. Designed to provide fast-acting and long-lasting protection, this insecticide spray effectively targets fleas, ants, cockroaches, bedbugs, earwigs, beetles, woodlice, and many other crawling insects. With its easy-to-use aerosol formula, Rentokil Insectrol penetrates deep into cracks, crevices, and hard-to-reach areas where pests hide, ensuring thorough elimination. Whether you're dealing with an infestation or simply want to keep your home pest-free, this professional-grade spray delivers reliable results. Perfect for use in homes, offices, and other indoor spaces, it offers a residual effect to help prevent future infestations. Protect your home and family from unwanted pests with the trusted power of Rentokil Insectrol Insect Killer Spray.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Insectrol Insect Killer Spray",
+  "specifications": [
+    "300ml or 600ml options available",
+    "Fast-acting formula for immediate results",
+    "Long-lasting residual protection to prevent reinfestation",
+    "Easy-to-use aerosol spray for targeted application",
+    "Ideal for homes, offices, and other indoor areas"
+  ]
+}
+
+<|https://www.mydiy.ie/products/insect-o-cutor-pluszap-uv-electric-fly-killer.html|>
+## INSECT-O-CUTOR PlusZap UV Electric Fly Killer
+
+{
+  "price": "€84.69 inc VAT",
+  "description": "The Insect-O-Cutor PlusZap features staggered lamps to create efficient UV light output whilst the killing grid offers an effective catch area with easy servicing making it ideal for commercial environments. This third generation PlusZap model offers up to 35% reduction in energy consumption cost and is 20mm slimmer in design saving on space when installed. In addition, the power cable is now hardwired, improving usability. Supplied with: 2 x Screws, Wall Plugs and Suspension Keyrings and 1 x Suspension Chain.",
+  "availability": "In Stock",
+  "product_name": "INSECT-O-CUTOR PlusZap UV Electric Fly Killer",
+  "specifications": [
+    "16W and 30W options available",
+    "Efficient UV light output",
+    "35% reduction in energy consumption",
+    "20mm slimmer design",
+    "Hardwired power cable",
+    "Includes screws, wall plugs, and suspension keyrings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-clothes-moth-spray-killer-300ml.html|>
+## Rentokil Clothes Moth Spray Killer 300ml
+
+{
+  "price": "€4.98 inc VAT (€4.05 exc.vat)",
+  "description": "Rentokil Clothes Moth Spray Killer. A surface spray to kill clothes moths in the home. Long-lasting protection for cupboards and storage areas. Contains Cyphenothrin & Prallethrin.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Clothes Moth Spray Killer 300ml",
+  "specifications": [
+    "Contains Cyphenothrin & Prallethrin",
+    "Surface spray to kill clothes moths",
+    "Long-lasting protection for cupboards and storage areas"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-fly-killer-indoor-spray-300ml.html|>
+## Rentokil Fly Killer Indoor Spray 300ml
+
+{
+  "price": "€3.32 inc VAT (€2.70 exc.vat)",
+  "description": "Rentokil Fly Killer Indoor Spray 300ml for use against flies, wasps and mosquitoes. Ideal for use around the home. Contains Prallethrin & 1R-Trans Phenothrin",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Fly Killer Indoor Spray 300ml",
+  "specifications": [
+    "300ml capacity",
+    "Contains Prallethrin & 1R-Trans Phenothrin",
+    "Ideal for use against flies, wasps, and mosquitoes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-wasp-nest-destroy-foam-aerosol-300ml.html|>
+## Rentokil Wasp Nest Destroy Foam Aerosol 300ml
+
+{
+  "price": "€6.63 inc VAT (€5.39 exc.vat)",
+  "description": "Wasp Nest Destroyer Foam kills wasps in their nest from a distance. Applied from approximately 2m, the 300ml of foam is enough to treat 3 large nests. Contains D-phenothrin and Tetramethrin. Kills wasps in the nest. Effective within 24 hours. Enough to treat 3 large wasp nests. Always read the label and product information before use. Use biocides safely. This products is intended for use on wasps and wasp nests located outdoors.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Wasp Nest Destroy Foam Aerosol 300ml",
+  "specifications": [
+    "300ml foam can",
+    "Kills wasps from a distance of 2m",
+    "Effective within 24 hours",
+    "Treats up to 3 large nests",
+    "Contains D-phenothrin and Tetramethrin"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-flypapers.html|>
+## Rentokil Flypapers
+
+{
+  "price": "€2.64 inc VAT",
+  "description": "A safe, Non Toxic Method of killing flies and other flying insects. Useful in areas where food is present or prepared, such as kitchens and larders. Suitable for use in outbuildings, stables, barns and sheds. Not harmful to animals and pets. Useful in caravans and tents when camping.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Flypapers",
+  "specifications": [
+    "Select Option: Pack of 4, Pack of 8",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: Refund or replace within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-insectrol-aerosol.html|>
+## Rentokil Insectrol Aerosol
+
+{
+  "price": "€7.64 inc VAT",
+  "description": "Insectrol - Insect Killer Spray for the control of household insects. This insecticidal spray kills fleas, ants, cockroaches, earwigs, bedbugs and most other insects. Contains Permethrin and D-Allethrin. Kills crawling insects in the home. Offers long lasting protection. Always read the label and product information before use. Use biocides safely. This product is intended for indoor use.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Insectrol Aerosol",
+  "specifications": [
+    "Select Option: 250ml",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-fly-killer-stick.html|>
+## Rentokil Fly Killer Stick
+
+{
+  "price": "€4.40 inc VAT (€3.58 exc.vat)",
+  "description": "The Rentokil Fly Killer Stick attracts and kills flies and flying insects in and around the home. Provides a long-lasting, poison free solution. Ideal for kitchens and conservatories. Simply remove the unit from the box and either hang up using the hook provided, or stand it on a flat surface. Always read instructions carefully.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Fly Killer Stick",
+  "specifications": [
+    "Model: RKLFSS01",
+    "Price: €4.40",
+    "List Price: €6.06",
+    "You save: €1.66"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-window-fly-stickers-pack-of-4.html|>
+## Pest-Stop Systems Window Fly Stickers (Pack of 4)
+
+{
+  "price": "€5.56 inc VAT (€4.52 exc.vat)",
+  "description": "These Pest-Stop window fly-catchers exploit the attraction flies have for windows and light. Simply remove the cover paper and apply to window. With a sunflower design, the stickers are attractive yet practical. Their powerful adhesive will hold even the largest house flies or bluebottles. They are safe, with no chemicals or odours. Effective for up to 3 months. Pack of 4.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop Systems Window Fly Stickers (Pack of 4)",
+  "specifications": [
+    "Pack of 4",
+    "Effective for up to 3 months",
+    "Attractive sunflower design",
+    "Powerful adhesive",
+    "Safe with no chemicals or odours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-ant-killer-gel-pack-of-2.html|>
+## Rentokil Ant Killer Gel (Pack of 2)
+
+{
+  "price": "€5.34 inc VAT (€4.34 exc.vat)",
+  "description": "Ant Killer Gel bait stations contain a specially formulated gel to destroy both ants and ants nests. Ants carry this insecticidal gel deep into the nest to destroy it from within. Contains d-phenothrin. Ant Killer Gel is designed to be used in and around your home and is effective in killing ants. Kills ants and ants nests. Contains 2 bait stations. Clean and easy to use. Always read the label and product information before use. Use biocides safely. This product is intended for indoor use only.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Ant Killer Gel (Pack of 2)",
+  "specifications": [
+    "Contains 2 bait stations",
+    "Designed for indoor use",
+    "Effective in killing ants and nests",
+    "Contains d-phenothrin"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-fly-killer-strips-pack-of-3.html|>
+## Rentokil Fly Killer Strips (Pack of 3)
+
+{
+  "price": "€3.92 inc VAT (€3.19 exc.vat)",
+  "description": "Fly Killer Strips are an insecticide and odour free method of killing flies and other flying insects. Ideal for use in any room in the home and greenhouse. Simply pull out and hang. Contains 3 attractive designs. Insecticide and odour free. Ideal for greenhouses. Always read the label and product information carefully before use.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Fly Killer Strips (Pack of 3)",
+  "specifications": [
+    "RKLFF105 : €3.92",
+    "Contains 3 attractive designs",
+    "Insecticide and odour free",
+    "Ideal for greenhouses"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-insect-killer-foggers-2.html|>
+## Insect Killer Foggers (2)
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "The Rentokil Insect Killer Foggers kill flies, fleas, moths and other insects in the home. Ideal when rooms are infested or when dealing with cluster flies or fleas. Contains Permethrin. Pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Insect Killer Foggers (2)",
+  "specifications": [
+    "Pack of 2",
+    "Contains Permethrin",
+    "Ideal for killing flies, fleas, and moths"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-tunnel-type-mole-trap.html|>
+## Pest-Stop Systems Tunnel Type Mole Trap
+
+{
+  "price": "€10.97 inc VAT (€8.92 exc.vat)",
+  "description": "This Pest-Stop tunnel mole trap, also known as a barrel mole trap, is a very traditional solution to a common garden problem. The trap is set, then placed in the mole run, and is triggered when the mole passes through it, killing it instantly. The dual setting means the trap is triggered whichever direction the mole enters from. Often used by professional mole trappers, it is manufactured from galvanized steel to prevent corrosion.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Tunnel Type Mole Trap",
+  "specifications": [
+    "Galvanized steel construction to prevent corrosion",
+    "Dual setting for triggering from either direction",
+    "Traditional solution for mole control"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-scissor-mole-trap.html|>
+## Rentokil Scissor Mole Trap
+
+{
+  "price": "€6.49 inc VAT (€5.28 exc.vat)",
+  "description": "The Rentokil Scissor Mole Trap is reusable and made from sturdy steel with strong springs to ensure a fast, humane action. The trap is best suited to shallow or deeper runs where moles have been causing destruction. The trap is ideal for poison-free trapping and organic gardening. Full instructions are included on the label and should be read before use for this specialised product.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Scissor Mole Trap",
+  "specifications": [
+    "Reusable",
+    "Made from sturdy steel",
+    "Strong springs for fast, humane action",
+    "Ideal for poison-free trapping and organic gardening"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-clothes-moth-trap-pack-of-2.html|>
+## Pest-Stop Systems Clothes Moth Trap (Pack of 2)
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Keep your wardrobe safe from moth damage with Pest-Stop Moth Traps. Designed for use in clothing storage areas, these discreet traps attract and capture clothes moths using a natural pheromone lure, with no chemicals or unpleasant odours. Simple to assemble and hang, each trap offers up to 3 months of protection, making them a reliable and low-maintenance solution for protecting your clothes.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Clothes Moth Trap (Pack of 2)",
+  "specifications": [
+    "Targets Clothes Moths – Pheromone attractant lures adult moths into a sticky trap.",
+    "Odourless & Chemical-Free – Safe to use around clothing and in wardrobes.",
+    "Quick & Easy Setup – Assembles in seconds and hangs easily in closets or drawers.",
+    "Long-Lasting Protection – Each trap is effective for up to 3 months.",
+    "Discreet Design – Slim and subtle for use in all types of clothing storage."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-clothes-moth-papers-pack-of-10.html|>
+## Rentokil Clothes Moth Papers (Pack of 10)
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "Rentokil Clothes Moth Papers provide long-lasting protection against moths, their larvae, and eggs. Infused with an odourless insecticide, these paper strips are perfect for safeguarding stored clothing, bedding, and other fabric items for up to 6 months. No laundering or dry cleaning is required, making them a convenient, hassle-free solution for moth control. Ideal for use in wardrobes, closets, and storage spaces, these moth papers offer reliable protection without the mess or odor of traditional moth repellents.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Clothes Moth Papers (Pack of 10)",
+  "specifications": [
+    "Kills Moths, Larvae & Eggs – Effectively controls the full life cycle of moths.",
+    "Odourless & Non-Staining – Safe to use around clothes and bedding with no lingering scent.",
+    "Long-Lasting Protection – Each strip lasts up to 6 months for continuous protection.",
+    "No Laundering Required – Simply place the strips in storage areas, no need to wash your clothes.",
+    "Ideal for Stored Clothing & Bedding – Keep your fabric items safe in wardrobes, closets, and more.",
+    "Pack of 10 – Enough to protect multiple areas of your home."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-clothes-moth-glue-trap.html|>
+## Rentokil Clothes Moth Glue Trap
+
+{
+  "price": "€5.58 inc VAT",
+  "description": "The Rentokil Clothes Moth Glue Trap is a non-toxic trap containing a pheromone to monitor for clothes moths in the home. The glue kills adult moths.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Clothes Moth Glue Trap",
+  "specifications": [
+    "Non-toxic trap",
+    "Contains pheromone",
+    "Monitors for clothes moths",
+    "Glue kills adult moths"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-clothes-moth-killer-spray.html|>
+## Rentokil Clothes Moth Killer Spray
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Rentokil Clothes Moth Killer Spray is a powerful and ready-to-use solution designed to eliminate clothes moths and protect your fabrics from damage. Ideal for use in clothing storage areas, wardrobes, drawers, and carpets, this fast-acting spray helps keep your home moth-free and your garments safe. Formulated for long-lasting protection, Rentokil Clothes Moth Killer Spray not only targets adult moths but also helps prevent future infestations by disrupting their life cycle. Easy to apply, simply spray lightly over affected areas where moth damage has been noticed for effective and hassle-free control. For best results, always read the instructions carefully before use. Ensure that children and pets are excluded from the area during application.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Clothes Moth Killer Spray",
+  "specifications": [
+    "Powerful and ready-to-use solution",
+    "Eliminates clothes moths",
+    "Protects fabrics from damage",
+    "Long-lasting protection",
+    "Easy to apply"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-fast-action-mouse-killer-pack-of-2.html|>
+## Rentokil Fast Action Mouse Killer (Pack of 2)
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "A unique, highly palatable and effective rodenticide product, which kills mice within 24 hours. Sufficient bait to kill up to 100 mice. Children and pet friendly. Contains Alphachloralose. Use as soon as infestation occurs. Always read the label and product information before use. Use biocides safely. Ideal locations for use are against walls, under cupboards or behind furniture. 2 pre-baited boxes per pack, each box kills up to 50 mice. No bait handling required.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Fast Action Mouse Killer (Pack of 2)",
+  "specifications": [
+    "RKLPSF135 : €14.99",
+    "QtyAdd to Basket",
+    "Fast Action Mouse Killer (Pack of 2)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-and-rat-killer-pasta-bait-packs-10-sachets.html|>
+## Rentokil Mouse & Rat Killer Pasta Bait Packs 10 Sachets
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "Ready-to-use bait to be used in tamper resistant bait stations for the control of rats & mice in & around buildings. Kills up to 20 mice or 8 rats.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Mouse & Rat Killer Pasta Bait Packs 10 Sachets",
+  "specifications": [
+    "RKLFMR52 : €14.99",
+    "List: €15.69",
+    "You save €0.70",
+    "Ready-to-use bait",
+    "Kills up to 20 mice or 8 rats"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-killer-grain-bait--pack-of-5.html|>
+## Rentokil Mouse Killer Grain Bait Pack of 5
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "Rentokil Mouse Killer Grain Bait is a ready to use whole wheat bait rodenticide for the effective control of mice in and around buildings. It is suitable for both indoor and outdoor use. Pack of 5 sachets",
+  "availability": "In Stock",
+  "product_name": "Rentokil Mouse Killer Grain Bait Pack of 5",
+  "specifications": [
+    "Pack of 5 sachets",
+    "Ready to use whole wheat bait",
+    "Effective control of mice",
+    "Suitable for indoor and outdoor use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-killer-grain-bait--pack-of-10.html|>
+## Rentokil Mouse Killer Grain Bait Pack of 10
+
+{
+  "price": "€9.83 inc VAT (€7.99 exc.vat)",
+  "description": "Rentokil Mouse Killer Grain Bait is a ready to use whole wheat bait rodenticide for the effective control of mice in and around buildings. It is suitable for both indoor and outdoor use. Pack of 10 sachets",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Mouse Killer Grain Bait Pack of 10",
+  "specifications": [
+    "Pack of 10 sachets",
+    "Ready to use whole wheat bait",
+    "Effective control of mice",
+    "Suitable for indoor and outdoor use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-rodine-mouse-and-rat-killer-grain-bait-pack-of-2-sachets.html|>
+## Rentokil Rodine Mouse & Rat Killer Grain Bait Pack of 2 Sachets
+
+{
+  "price": "€5.39 inc VAT (€4.38 exc.vat)",
+  "description": "Ready-to-use bait to be used in tamper resistant bait stations for the control of rats & mice in & around buildings. Kills up to 10 mice or 4 rats.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Rodine Mouse & Rat Killer Grain Bait Pack of 2 Sachets",
+  "specifications": [
+    "RKLPSMR11",
+    "€5.39",
+    "QtyAdd to Basket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-rodine-mouse-and-rat-killer-grain-bait-pack-of-4-sachets.html|>
+## Rentokil Rodine Mouse & Rat Killer Grain Bait Pack of 4 Sachets
+
+{
+  "price": "€7.12 inc VAT (€5.79 exc.vat)",
+  "description": "Ready-to-use bait to be used in tamper resistant bait stations for the control of rats & mice in & around buildings. Kills up to 20 mice or 8 rats.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Rodine Mouse & Rat Killer Grain Bait Pack of 4 Sachets",
+  "specifications": [
+    "RKLPSMR12 : €7.12",
+    "Qty: Add to Basket",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-rodine-mouse-and-rat-killer-grain-bait-pack-of-6-sachets.html|>
+## Rentokil Rodine Mouse & Rat Killer Grain Bait Pack of 6 Sachets
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "Ready-to-use bait to be used in tamper resistant bait stations for the control of rats & mice in & around buildings. Kills up to 30 mice or 12 rats.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Rodine Mouse & Rat Killer Grain Bait Pack of 6 Sachets",
+  "specifications": [
+    "Pack of 6 Sachets",
+    "Ready-to-use bait",
+    "Controls rats & mice",
+    "Kills up to 30 mice or 12 rats"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-and-rat-weatherproof-blocks-pack-of-5.html|>
+## Rentokil Mouse & Rat Weatherproof Blocks Pack of 5
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Ready-to-use bait to be used in tamper resistant bait stations for the control of rats & mice in & around buildings. Kills up to 20 mice or 8 rats.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Mouse & Rat Weatherproof Blocks Pack of 5",
+  "specifications": [
+    "RKLPSMR41 : €9.99",
+    "QtyAdd to Basket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-rat-killer-grain-bait-pack-of-1-sachet.html|>
+## Rentokil Rat Killer Grain Bait Pack of 1 Sachet
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "The Rentokil Rat Killer Bait is a ready to use whole wheat bait rodenticide for the effective control of rats in and around buildings. It is suitable for indoor and outdoor use. Pack of of 1 sachet",
+  "availability": "In Stock",
+  "product_name": "Rentokil Rat Killer Grain Bait Pack of 1 Sachet",
+  "specifications": [
+    "Pack of 1 sachet",
+    "Ready to use whole wheat bait rodenticide",
+    "Effective control of rats in and around buildings",
+    "Suitable for indoor and outdoor use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-rat-killer-grain-bait-pack-of-3-sachets.html|>
+## Rentokil Rat Killer Grain Bait Pack of 3 Sachets
+
+{
+  "price": "€10.34 inc VAT (€8.41 exc.vat)",
+  "description": "The Rentokil Rat Killer Bait is a ready to use whole wheat bait rodenticide for the effective control of rats in and around buildings. It is suitable for indoor and outdoor use. Pack of of 3 sachets",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Rat Killer Grain Bait Pack of 3 Sachets",
+  "specifications": [
+    "RKLPSR32 : €10.34",
+    "Pack of 3 sachets",
+    "Ready to use whole wheat bait rodenticide",
+    "Effective control of rats in and around buildings",
+    "Suitable for indoor and outdoor use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-and-rat-killer-pasta-bait.html|>
+## Rentokil Mouse & Rat Killer Pasta Bait
+
+{
+  "price": "€11.99 inc VAT",
+  "description": "Ready-to-use bait for use in a tamper resistant bait station. Highly attractive, sweet smelling bait, kills in a single feed. Suitable for indoor and outdoor use in and around buildings. Available in packs of 5 and 10, enough for most infestations. Made in the UK.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Mouse & Rat Killer Pasta Bait",
+  "specifications": [
+    "Select Option: 5 Sachets",
+    "Ready-to-use bait for use in a tamper resistant bait station",
+    "Highly attractive, sweet smelling bait, kills in a single feed",
+    "Suitable for indoor and outdoor use in and around buildings",
+    "Available in packs of 5 and 10, enough for most infestations",
+    "Made in the UK"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trip-trap-mice-trap.html|>
+## Trip-Trap Mice Trap
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Pest-Stop Trip-Traps are a safe and friendly way to deal with unwanted house guests. This British designed mousetrap has been specially developed to cause the least stress and no harm to mice when they are caught. The door drops automatically behind the mouse when it crosses the treadle to reach the bait, and the clear plastic body means you can see at a glance when you have caught something. Plentiful ventilation points reduce stress to caught mice. The traps are easy to bait and set, and each trap is provided with full instructions for use.",
+  "availability": "In Stock",
+  "product_name": "Trip-Trap Mice Trap",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
+    "No quibble returns: If you need to return something for any reason, whether it's not the right tool for the job or if it's faulty."
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-automatic-metal-mouse-trap.html|>
+## Pest-Stop (Pelsis Group) Automatic Metal Mouse Trap
+
+{
+  "price": "€35.49 inc VAT (€28.85 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Automatic Metal Mouse Trap has been designed to catch and hold up to 15 mice at the same time. Made from high-quality galvanised steel. This humane trap sweeps mice into a ventilated capture compartment. Provides a compassionate solution in areas of high activity. There is also a clear plastic window for convenient monitoring.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Automatic Metal Mouse Trap",
+  "specifications": [
+    "Dimensions (HxWxD): 240 x 200 x 150mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-and-rat-weatherproof-blocks-1.html|>
+## Rentokil Mouse & Rat Weatherproof Blocks
+
+{
+  "price": "€7.81 inc VAT",
+  "description": "Rentokil Rat & Mouse Weatherproof Blocks are ready-to-use bait for use in a tamper resistant bait station. Kills in a single feed. Hard-wearing blocks, ideal for use outdoors but can also be used indoors, in and around buildings. Available in tubs of 5 or 10, enough for most large infestations. Contains Brodifacoum. Made in the UK.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Mouse & Rat Weatherproof Blocks",
+  "specifications": [
+    "Available in tubs of 5 or 10",
+    "Contains Brodifacoum",
+    "Made in the UK"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-super-rat-and-mouse-killer-wax-block-pre-baited-station.html|>
+## Pest-Stop (Pelsis Group) Super Rat & Mouse Killer Wax Block Pre-Baited Station
+
+{
+  "price": "€15.94 inc VAT (€12.96 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Pre-Baited Station is highly durable and shock-resistant. It is locked to allow you to bait safely and discreetly in areas where children and non-target animals may be present. A highly effective method for dealing with rat infestations. Supplied with 6 x 10g Super Rat & Mouse Killer Wax Blocks. Contains brodifacoum.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Super Rat & Mouse Killer Wax Block Pre-Baited Station",
+  "specifications": [
+    "Highly durable and shock-resistant",
+    "Locked for safe and discreet baiting",
+    "Includes 6 x 10g Super Rat & Mouse Killer Wax Blocks",
+    "Contains brodifacoum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-pelsis-group-sure-set-plastic-rat-trap.html|>
+## Pest-Stop (Pelsis Group) Sure-Set Plastic Rat Trap
+
+{
+  "price": "€6.46 inc VAT (€5.25 exc.vat)",
+  "description": "The Pest-Stop (Pelsis Group) Sure-Set Plastic Rat Trap has been designed to provide a quick, powerful and humane killing action. A one-click setting and release mechanism, and no-touch disposal, make this hygienic trap ideal for domestic users. A bait well eliminates the chance of bait theft.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop (Pelsis Group) Sure-Set Plastic Rat Trap",
+  "specifications": [
+    "Dimensions (HxWxD): 210 x 125 x 80mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-easy-set-mouse-trap-box.html|>
+## Pest-Stop Systems Easy Set Mouse Trap Box
+
+{
+  "price": "€11.05 inc VAT (€8.98 exc.vat)",
+  "description": "Pest-Stop Systems Easy Set Mouse Trap is a safe, effective, and ultra-hygienic solution for dealing with unwanted mice in your home. Designed with safety in mind, this powerful mouse trap is securely contained within a durable, impact-resistant, and tamper-proof box, making it an ideal choice for households with small children or pets. This easy-to-use, quick-set trap ensures that the captured mouse remains securely contained, allowing for mess-free and hygienic disposal. Its robust, high-quality construction provides long-lasting durability, while the enclosed design helps prevent accidental contact, offering peace of mind for families. Whether you're dealing with an infestation or looking for a preventative solution, the Pest-Stop Systems Easy Set Mouse Trap delivers efficient, humane, and safe pest control for your home.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Easy Set Mouse Trap Box",
+  "specifications": [
+    "Secure, enclosed design – safe for homes with children and pets",
+    "Ultra-hygienic disposal – keeps the mouse contained",
+    "Quick and simple to set – no complicated mechanisms",
+    "Impact and tamper-resistant box – durable and long-lasting",
+    "Perfect for homes, garages, and other indoor areas"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-easy-set-rat-trap-box.html|>
+## Pest-Stop Systems Easy Set Rat Trap Box
+
+{
+  "price": "€22.48 inc VAT (€18.28 exc.vat)",
+  "description": "The Pest-Stop Systems Easy Set Rat Trap is a powerful trap contained in a secure box for optimum safety. It is ultra hygienic, keeps the rat contained for easy disposal. Impact and tamper resistant box. Perfect for homes with small children or pets. Simple to set and easy-to-use.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Easy Set Rat Trap Box",
+  "specifications": [
+    "Powerful trap contained in a secure box",
+    "Ultra hygienic design",
+    "Impact and tamper resistant",
+    "Easy to set and use",
+    "Ideal for homes with small children or pets"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-super-rat-and-mouse-killer-sachets-tub-of-6.html|>
+## Pest-Stop Systems Super Rat & Mouse Killer Sachets (Tub of 6)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Pest-Stop Systems Super Rat & Mouse Killer Sachets are ready to use, no need to open or touch bait. Pre-measured wholegrain bait with an aniseed scent that is highly attractive to rodents. To be used in tamper-resistant bait stations for the control of rats and mice in and around buildings. Legally compliant. Contains the powerful active ingredient difenacoum. Packed into plastic tubs for freshness and security. Each tub contains 6 sachets.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Super Rat & Mouse Killer Sachets (Tub of 6)",
+  "specifications": [
+    "Ready to use, no need to open or touch bait",
+    "Pre-measured wholegrain bait with an aniseed scent",
+    "Contains the powerful active ingredient difenacoum",
+    "Packed into plastic tubs for freshness and security",
+    "Each tub contains 6 sachets"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-super-rat-and-mouse-killer-pasta-bait.html|>
+## Pest-Stop Systems Super Rat & Mouse Killer Pasta Bait
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Pest-Stop Super Rat & Mouse Killer Pasta Bait is ready to use, no need to open or touch bait. Pre-measured portions with a peanut scent that is highly attractive to rodents. To be used in tamper-resistant bait stations for the control of rats and mice in and around buildings. Legally compliant. Contains the powerful active ingredient difenacoum. Packed into plastic tubs for freshness and security. Each tub contains 15 x 10g sachets.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Super Rat & Mouse Killer Pasta Bait",
+  "specifications": [
+    "Ready to use, no need to open or touch bait",
+    "Pre-measured portions with a peanut scent",
+    "Contains the powerful active ingredient difenacoum",
+    "Packed into plastic tubs for freshness and security",
+    "Each tub contains 15 x 10g sachets"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-super-rat-and-mouse-killer-max-wax-blocks.html|>
+## Pest-Stop Systems Super Rat & Mouse Killer MAX Wax Blocks
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "Pest-Stop Systems Super Rat & Mouse Killer MAX Wax Blocks are especially effective in damp areas.  They have a chocolate scent that is highly attractive to rodents. To be used in tamper-resistant bait stations for the control of rats and mice in and around buildings.  Legally compliant.  Contains the powerful active ingredient brodifacoum. Packed into plastic tubs for freshness and security.  Each tub contains 15 x 10g blocks.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Super Rat & Mouse Killer MAX Wax Blocks",
+  "specifications": [
+    "15 x 10g blocks",
+    "Contains brodifacoum",
+    "Chocolate scent to attract rodents",
+    "For use in tamper-resistant bait stations"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-super-rat-and-mouse-killer-wax-blocks.html|>
+## Pest-Stop Systems Super Rat & Mouse Killer Wax Blocks
+
+{
+  "price": "€9.86 inc VAT (€8.02 exc.vat)",
+  "description": "Pest-Stop Systems Super Rat & Mouse Killer Wax Blocks are especially effective in damp areas. To be used in tamper-resistant bait stations for the control of rats and mice in and around buildings. Legally compliant. Contains the powerful active ingredient bromadiolone. Packed into plastic tubs for freshness and security. Each tub contains 15 x 20g blocks.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop Systems Super Rat & Mouse Killer Wax Blocks",
+  "specifications": [
+    "PRCPSWB04 : €9.86",
+    "Each tub contains 15 x 20g blocks",
+    "Contains bromadiolone"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-super-mouse-killer-pasta-pre-baited-station.html|>
+## Super Mouse Killer Pasta Pre-Baited Station
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Pest-Stop Systems Super Mouse Killer Pasta Pre-Baited Station is made from a highly durable and shock resistant material. Supplied locked, allowing you to bait mice safely and discreetly, in areas where children and non-target animals may be present. Safest option when choosing to use rodenticides. Highly effective method for dealing with mouse infestations, contains Difenacoum.",
+  "availability": "In Stock",
+  "product_name": "Super Mouse Killer Pasta Pre-Baited Station",
+  "specifications": [
+    "Made from highly durable and shock resistant material",
+    "Supplied locked for safe baiting",
+    "Effective for dealing with mouse infestations",
+    "Contains Difenacoum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-air-brick-cover.html|>
+## Rentokil Air Brick Cover
+
+{
+  "price": "€24.11 inc VAT (€19.60 exc.vat)",
+  "description": "The Rentokil Air Brick Cover is ready to use and prevents access to mice and rats. Also helps prevent spiders and large insects from entering your home. Part of our safer, poison-free range.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Air Brick Cover",
+  "specifications": [
+    "Model: RKLFRP10",
+    "Price: €24.11",
+    "List Price: €33.25",
+    "You save: €9.14"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-quick-set-rat-trap.html|>
+## Rentokil Quick Set Rat Trap
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Rentokil Quick Set Rat Traps are easy to set and allow disposal of the rat without having to touch it - in just one click! How to use: Press trap to open and apply bait. Suggested baits include peanut butter or chocolate spread. To discard rat, simply squeeze trap and release. There is no need to touch the rat. Always wear gloves to dispose of the rat, which should be double bagged using bin liners, or similar, and placed in a bin with a secure lid. Always read the label and product information before use. Where to use: Place trap on a flat surface along a wall, where rats run.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Quick Set Rat Trap",
+  "specifications": [
+    "Model: RKLFQ30",
+    "Price: €9.99",
+    "List Price: €12.32",
+    "You save: €2.33",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-live-capture-mouse-traps.html|>
+## Rentokil Live Capture Mouse Traps
+
+{
+  "price": "€4.99 inc VAT",
+  "description": "Live Capture Mouse Traps are ideal for capturing and releasing mice unharmed. The trap is designed to be re-usable. Easy-to-use, no mess. Safe - no spring action, no poison. Apply bait to the inside of the end cap, such as chocolate spread or peanut butter. After capture, make sure you release the mouse in a remote location - far enough away from your home. Always read the label and product information before use. Set on a flat surface along a wall, where mice run.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Live Capture Mouse Traps",
+  "specifications": [
+    "Select Option: Loose, Pack of 1, Pack of 2",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-sure-set-mouse-trap-pack-of-2.html|>
+## Pest-Stop Systems Sure-Set Mouse Trap Pack of 2
+
+{
+  "price": "€7.84 inc VAT (€6.37 exc.vat)",
+  "description": "The Pest-Stop Sure-Set Mouse Trap is a quick and humane solution for catching mice. With its easy-to-set mechanism, this trap uses a sensitive platform to ensure the mouse triggers the trap when it attempts to reach the bait. The plastic design allows for easy cleaning, and you won’t have to touch the dead mouse, making it a hygienic and simple pest control solution. Perfect for use in areas with a mouse infestation, the twin-pack ensures you have multiple traps to increase your catch-rate and deal with larger problems more effectively.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Sure-Set Mouse Trap Pack of 2",
+  "specifications": [
+    "Easy to Set & Empty – Simply click the lever to set and easily dispose of mice.",
+    "Sensitive Platform – Mouse must step on the platform to trigger the trap, ensuring accurate catches.",
+    "Humane & Quick – Fast action ensures a humane capture.",
+    "Hygienic & Easy to Clean – Plastic construction makes cleaning effortless without the need to touch dead mice.",
+    "Twin-Pack – Two traps for increased effectiveness in infested areas."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-advanced-mouse-traps.html|>
+## Rentokil Advanced Mouse Traps
+
+{
+  "price": "from €7.17 inc VAT",
+  "description": "The Rentokil Advanced Mouse Trap is a long-lasting alternative to bait and a quick and easy solution for the capture of those little fast scampering pests. Having mice in your home is more than an inconvenience, they can be a serious health risk particularly in kitchens or areas where children play. Mice can also do significant damage to your home and furniture by gnawing through wood and plastic. Mice can even cause house fires by chewing through electrical cables. They are easy-to-set and very effective. This compact little mouse trap is highly powerful, simple to bait and set. Rentokil recommend you use a suitable bait, such as peanut butter, chocolate spread or tuna. It is easy to release the mouse after capture. Rentokil recommend you place the trap on a flat surface in problem areas and preferably near a wall, shed or garage where the mice travel or are active.Always use gloves to dispose of the mouse and all waste should be double bagged using bin liners, or similar, before disposal in a bin with a secure lid. Always read the label and product information before use. Use biocides safely. Mice are usually nocturnal, so if you think you may have a mouse infestation the typical signs to watch out for are: Mouse droppings (approx. 5mm long), Smears - grease marks from the mouse body as it is repeatedly brush up against objects, Damaged stock and damage to the fabric of premises, Nesting material , shredded insulation, cardboard, wood, plastics etc, Distinctive smell - mice leave an ammonia-like smell, that is particularly strong in enclosed areas.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Advanced Mouse Traps",
+  "specifications": [
+    "Select Option: Single, Twin Pack",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "Returns Policy: Unused and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-advanced-rat-trap.html|>
+## Rentokil Advanced Rat Trap
+
+{
+  "price": "€12.20 inc VAT",
+  "description": "Advanced Rat Traps are easy-to-use, easy-to-set and very effective - plus they offer a long lasting alternative to baits. How to use: Use a suitable bait such as peanut butter, chocolate spread or tuna. It is easy to release the rodent after capture. Always use gloves to dispose of the rodent and all waste should be double bagged using bin liners or similar. Dispose in a bin with a secure lid. Always read the label and product information before use. Where to use: Place trap on a flat surface in a problem area, preferably near a wall.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Advanced Rat Trap",
+  "specifications": [
+    "Select Option: Single pack, Twin Pack",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-little-nipper-mouse-traps.html|>
+## Pest-Stop Systems Little Nipper Mouse Traps
+
+{
+  "price": "from €4.99 inc VAT",
+  "description": "This Pest-Stop Little Nipper mouse trap has a unique treadle design, which makes it one of the most effective traps available. The Little Nipper was first made by Procter Bros. Ltd. in 1897, and its distinctive design has remained largely unchanged ever since. Bait is placed on the treadle, which is raised when the trap is set, and the mouse has to cross the treadle to reach the bait. The slightest motion is enough to trigger the trap, delivering an astoundingly high catch-rate. Quick and humane.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Little Nipper Mouse Traps",
+  "specifications": [
+    "Select Option: Blistered, Loose, Box of 30",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-little-nipper-rat-traps.html|>
+## Pest-Stop Systems Little Nipper Rat Traps
+
+{
+  "price": "from €4.99 inc VAT",
+  "description": "The Pest-Stop Wood-Based Rat Trap is a traditional, highly effective solution for dealing with rat infestations. Built with a strong spring mechanism, it delivers one of the most powerful strikes on the market for a quick and humane result. Inspired by the classic Little Nipper design, this trap features a raised treadle bait station that ensures the rat must step on the trigger to access the bait, activating the trap instantly. Perfect for homes, sheds, garages, and farms, it’s easy to set, reusable, and comes with full instructions for safe use.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Little Nipper Rat Traps",
+  "specifications": [
+    "Strong Spring Mechanism – Delivers a fast, effective snap",
+    "Traditional Wooden Design – Reliable and reusable",
+    "Treadle Bait Station – Ensures accurate triggering",
+    "Quick & Humane Control – Kills instantly for minimal suffering",
+    "Easy to Use – Includes full setup instructions"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-snap-traps.html|>
+## Pest-Stop Systems Snap Traps
+
+{
+  "price": "from €5.42 inc VAT",
+  "description": "The Pest-Stop Snap Trap is a plastic mouse trap, which is pre-baited with a mixture most mice find irresistible - a mixture of peanut oil and molasses. It is easy to set with a simple click, and can even be set using just one hand. It is extremely safe to use. No need to touch dead mice; simply release by pressing down on the tab - the trap will then be ready for re-use. Please note: Mice carry a variety of diseases, and should never be handled without protection. To minimise distress to captured mice, traps must be checked regularly (preferably every 2 hours), and should not be left overnight.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Snap Traps",
+  "specifications": [
+    "Select Option: Blister pack, Loose Box 16",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-trip-trap-traps.html|>
+## Pest-Stop Systems Trip Trap Traps
+
+{
+  "price": "from €5.67 inc VAT",
+  "description": "Pest-Stop Trip Traps are a safe and friendly way to deal with unwanted house guests. This British-designed mouse trap has been especially developed to cause the least stress and no harm to mice when they are caught. The door drops automatically behind the mouse when it crosses the treadle to reach the bait, and the clear plastic body means you can see at a glance when you have caught something. Plentiful ventilation points reduce stress to caught mice. The traps are easy to bait and set, and each trap is provided with full instructions for use.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Trip Trap Traps",
+  "specifications": [
+    "British-designed mouse trap",
+    "Automatic door mechanism",
+    "Clear plastic body for visibility",
+    "Plentiful ventilation points",
+    "Easy to bait and set"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-rat-bait-station.html|>
+## Rentokil Rat Bait Station
+
+{
+  "price": "€13.70 inc VAT (€11.14 exc.vat)",
+  "description": "The Rentokil Rat Bait Station keeps bait out of the reach of children, pets and non-target animals. A strong secure rat bait station for use with all Rentokil baits. Fully reusable and supplied with a key.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Rat Bait Station",
+  "specifications": [
+    "Model: RKLFBSR02",
+    "Price: €13.70",
+    "List Price: €18.88",
+    "You save: €5.18",
+    "Fully reusable",
+    "Supplied with a key"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-bait-station.html|>
+## Rentokil Mouse Bait Station
+
+{
+  "price": "€5.78 inc VAT (€4.70 exc.vat)",
+  "description": "The Rentokil Mouse Bait Station keeps bait out of the reach of children, pets and non-target animals. A strong secure mouse bait station for use with all Rentokil baits. Fully reusable and supplied with a key.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Mouse Bait Station",
+  "specifications": [
+    "Model: RKLFBSM01",
+    "Price: €5.78",
+    "Reusable and secure design",
+    "Includes a key for access"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-bed-bug-killer-spray-300ml.html|>
+## Pest-Stop Systems Bed Bug Killer Spray 300ml
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Pest-Stop Systems Bed Bug Killer Spray is a powerful and effective solution for eliminating bed bugs and dust mites from your home. Designed for comprehensive treatment, this advanced formula can be applied to a wide range of surfaces, including hard and soft furnishings, ensuring that infestations are fully tackled at the source. With its fast-acting and long-lasting protection, this bed bug spray provides immediate results, killing pests on contact while also offering residual defense to prevent future infestations. Whether you're dealing with an active problem or looking for a preventative treatment, Pest-Stop Systems Bed Bug Killer Spray is the trusted choice for complete home protection. Featuring a user-friendly spray mechanism, this treatment is easy to apply, making pest control hassle-free and convenient. Trusted by professionals and homeowners alike, it delivers reliable, efficient, and long-lasting results to help keep your home pest-free.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Bed Bug Killer Spray 300ml",
+  "specifications": [
+    "Kills bed bugs and dust mites on contact",
+    "Fast-acting formula with long-lasting protection",
+    "Safe for use on hard and soft furnishings",
+    "Easy-to-use spray for quick and effortless application",
+    "Trusted by professionals for effective pest control"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-flea-and-crawling-insect-killer-spray-300ml.html|>
+## Pest-Stop Systems Flea & Crawling Insect Killer Spray 300ml
+
+{
+  "price": "€7.24 inc VAT (€5.89 exc.vat)",
+  "description": "Pest-Stop Systems Killer Spray eliminates fleas, cockroaches and other types of crawling insects. Provides instant results. Kills the pest quickly and prevents them from returning. Safe to use in the home. Easy-to-use, simple spray action. Trusted by professionals.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Flea & Crawling Insect Killer Spray 300ml",
+  "specifications": [
+    "PRCPSFCIK : €7.24",
+    "List: €9.99",
+    "You save €2.75"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-flea-killer-powder-300g.html|>
+## Rentokil Flea Killer Powder 300g
+
+{
+  "price": "€7.90 inc VAT (€6.42 exc.vat)",
+  "description": "Rentokil Flea Killer Powder is highly effective and easy to use. Kills fleas in the home, it also kills carpet beetles, ants and cockroaches. Contains Pyrethrum.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Flea Killer Powder 300g",
+  "specifications": [
+    "Product Code: RKLPSF203",
+    "Weight: 300g",
+    "Effective against fleas, carpet beetles, ants, and cockroaches",
+    "Contains Pyrethrum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-flea-killer-spray-300ml.html|>
+## Rentokil Flea Killer Spray 300ml
+
+{
+  "price": "€4.86 inc VAT (€3.95 exc.vat)",
+  "description": "Rentokil Flea Killer Spray is ready-to-use and has been designed for use on hard and carpeted areas to kill fleas in the home. Provides long-lasting protection. Simply spray lightly over the areas where you have seen fleas. Exclude children and pets while spraying and read instructions carefully. Contains Permethrin and D-Allethrin.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Flea Killer Spray 300ml",
+  "specifications": [
+    "Ready-to-use flea killer spray",
+    "Designed for hard and carpeted areas",
+    "Contains Permethrin and D-Allethrin",
+    "Provides long-lasting protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-rat-killer-outdoor-bait-box.html|>
+## Rentokil Rat Killer Outdoor Bait Box
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "Easy to use pre-baited rat bait box for safer baiting in and around the home and garden. Kills up to 5 rats.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Rat Killer Outdoor Bait Box",
+  "specifications": [
+    "Model: RKLPSR71",
+    "List Price: €31.01",
+    "You save: €1.02",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-easy-setting-metal-mouse-trap-boxed.html|>
+## Pest-Stop Systems Easy Setting Metal Mouse Trap (Boxed)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "The Pest-Stop Easy Setting Mouse Trap is a highly effective, reusable solution for controlling mice in and around the home. Built from strong, long-lasting metal, this trap offers a powerful snap-action and sensitive trigger, ensuring a quick and humane catch every time. Designed for both ease of use and durability, it's perfect for those who want a reliable, no-fuss solution to rodent problems.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Easy Setting Metal Mouse Trap (Boxed)",
+  "specifications": [
+    "Easy to Set – Simple mechanism makes setup quick and hassle-free.",
+    "Strong Metal Construction – Built to last for years of repeated use.",
+    "Powerful Snap Action – Delivers an effective and humane result.",
+    "Sensitive Trigger – Reacts quickly to even the slightest movement.",
+    "Reusable – Clean and reset for multiple uses."
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-easy-setting-metal-rat-trap-boxed.html|>
+## Pest-Stop Systems Easy Setting Metal Rat Trap (Boxed)
+
+{
+  "price": "€5.19 inc VAT (€4.22 exc.vat)",
+  "description": "The Pest-Stop Easy Setting rat trap is a long lasting trap that is easy to use and simple to set. This trap is constructed using strong metal that will last for many years and can be use time and time again. It has a powerful action and has a sensitive mechanism, making it a very effective trap.",
+  "availability": "Out of Stock",
+  "product_name": "Pest-Stop Systems Easy Setting Metal Rat Trap (Boxed)",
+  "specifications": [
+    "Product Code: PRCPSESRT",
+    "List Price: €7.15",
+    "You save: €1.96",
+    "Based on 1 customer reviews"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-mouse-bait-station-plastic.html|>
+## Pest-Stop Systems Mouse Bait Station (Plastic)
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "The Pest-Stop Mouse Bait Station is a secure and discreet solution for controlling mouse infestations using rodenticides. Designed with a triangular shape, it fits neatly into corners of rooms and buildings, making it ideal for low-visibility placement in both residential and commercial settings. Built for safety and durability, this lockable, tamper-resistant bait station is trusted by pest control professionals and ensures protection from accidental contact by children or pets.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Mouse Bait Station (Plastic)",
+  "specifications": [
+    "Discreet Corner Design – Triangular shape fits snugly into corners for subtle placement.",
+    "Child & Pet Safe – Lockable design prevents accidental access to bait.",
+    "Highly Durable – Made from shock-resistant materials for long-term use.",
+    "Professional Quality – Used by pest control experts across the UK.",
+    "Compatible with Rodenticides – Suitable for all standard mouse baits."
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-multicatch-mouse-trap-plastic.html|>
+## Pest-Stop Systems Multicatch Mouse Trap Plastic
+
+{
+  "price": "€7.21 inc VAT (€5.86 exc.vat)",
+  "description": "The Pest-Stop Multicatch mouse trap is designed to capture and hold up to 4 mice at the same time, without harming them. A one-way flap entrance automatically resets itself after being triggered, allowing more mice to enter and be caught. The tunnel design serves to attract mice to enter the trap and plentiful ventilation points minimise stress to caught mice. The removable label reveals a clear plastic lid, which means anything that has been caught can be seen at a glance. The trap is easy to bait and set, and each trap is provided with full instructions for use.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Multicatch Mouse Trap Plastic",
+  "specifications": [
+    "Captures and holds up to 4 mice",
+    "One-way flap entrance",
+    "Tunnel design to attract mice",
+    "Plentiful ventilation points",
+    "Clear plastic lid for visibility",
+    "Easy to bait and set"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-clean-kill-mouse-traps-pack-of-2.html|>
+## Rentokil Clean Kill Mouse Traps (Pack of 2)
+
+{
+  "price": "€11.29 inc VAT (€9.18 exc.vat)",
+  "description": "The Rentokil Clean Kill Mouse Trap is a powerful and discreet trap, which kills quickly and humanely. It is easy to use, and there is no need to touch the mouse.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Clean Kill Mouse Traps (Pack of 2)",
+  "specifications": [
+    "Powerful and discreet trap",
+    "Kills quickly and humanely",
+    "Easy to use",
+    "No need to touch the mouse"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-multicatch-humane-mouse-trap-metal.html|>
+## Pest-Stop Systems Multicatch Humane Mouse Trap Metal
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Pest-Stop Multicatch Mouse Trap is a high quality galvanised steel trap designed to catch and hold up to 10 mice at the same time. Often used by professional pest control operatives, Multicatch traps are ideal for areas where they poisons or conventional traps cannot be used. It is simple to use. The trap has two entry points for added catch-ability, and its clear plastic lid ensures that anything caught can be seen at a glance. The extra ventilation points reduce stress to captured mice.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Multicatch Humane Mouse Trap Metal",
+  "specifications": [
+    "High quality galvanised steel trap",
+    "Catches and holds up to 10 mice",
+    "Two entry points for added catch-ability",
+    "Clear plastic lid for visibility",
+    "Extra ventilation points to reduce stress"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-and-rat-odour-sachets.html|>
+## Rentokil Mouse & Rat Odour Sachets
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "The Rentokil Mouse and Rat Odour Sachets are highly fragranced to mask the smell left by mice, rats and other pests in and around the home. The easy to use sachets are long lasting and contain no poisons. Ideal for use under floorboards or behind walls. Lasts up to 6 weeks.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Mouse & Rat Odour Sachets",
+  "specifications": [
+    "RKLFM24 : €5.99",
+    "Lasts up to 6 weeks",
+    "Ideal for home and garden use",
+    "Contains no poisons"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-mouse-and-rat-gap-sealant.html|>
+## Rentokil Mouse & Rat Gap Sealant
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "Rentokil Mouse & Rat Gap Sealant is a highly effective, non-toxic solution designed to seal cracks, joints, holes, and seams around your home, preventing mice and rats from gaining access to your living spaces. Ideal for both indoor and outdoor use, this sealant creates a durable, long-lasting barrier that stops rodents in their tracks, keeping your home safe and secure. Easy to apply and safe to use around children and pets, this sealant is a must-have in any home prone to rodent problems.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Mouse & Rat Gap Sealant",
+  "specifications": [
+    "Non-Toxic Formula – Safe for use in homes with children and pets.",
+    "Effective Rodent Prevention – Seals gaps, cracks, holes, and seams to block rodent entry.",
+    "Ideal for Indoor & Outdoor Use – Suitable for sealing gaps both inside and outside the home.",
+    "Long-Lasting Protection – Provides a durable, weather-resistant seal that stands up to the elements.",
+    "Easy Application – Simple to apply for quick and efficient rodent control."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-quick-set-mouse-traps-twin-pack.html|>
+## Rentokil Quick Set Mouse Traps (Twin Pack)
+
+{
+  "price": "€6.83 inc VAT (€5.55 exc.vat)",
+  "description": "Quick Set Mouse Traps are easy-to-set and allow you to dispose of the mouse without touching it. Supplied as a twin pack. Press trap to open and apply bait. Suggested baits include peanut butter or chocolate spread. Place trap on a flat surface along a wall, where mice run. To discard the mouse, simply squeeze trap and release. There is no need to touch the mouse. Always wear gloves to dispose of the mouse and it should be double bagged using bin liners, or similar, and placed in a bin with a secure lid. Always read the label and product information before use. Use biocides safely.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Quick Set Mouse Traps (Twin Pack)",
+  "specifications": [
+    "Supplied as a twin pack",
+    "Easy to set",
+    "Allows disposal without touching the mouse",
+    "Suggested baits: peanut butter or chocolate spread",
+    "Dispose of the mouse by squeezing the trap"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-enclosed-mouse-trap.html|>
+## Rentokil Enclosed Mouse Trap
+
+{
+  "price": "€13.96 inc VAT (€11.35 exc.vat)",
+  "description": "The Enclosed Mouse Trap is a hygienic and cost effective trap. No poisons are used and the high quality trap can be used again and again. Alternatively, simply dispose of the box with trap, if you prefer. Ideal for use where children and pets are present. Trap contained within safe box. Easy disposal. Re-usable box with key and trap. Always read the label and product information before use. This product can be used indoors. Place the trap on a flat surface along walls and skirting boards where mice have been seen, with the entry hole nearest the wall.",
+  "availability": "In Stock",
+  "product_name": "Rentokil Enclosed Mouse Trap",
+  "specifications": [
+    "Hygienic and cost-effective trap",
+    "No poisons used",
+    "Re-usable box with key and trap",
+    "Ideal for use where children and pets are present",
+    "Easy disposal"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rentokil-enclosed-rat-trap-lockable-box.html|>
+## Rentokil Enclosed Rat Trap Lockable Box
+
+{
+  "price": "€29.72 inc VAT (€24.16 exc.vat)",
+  "description": "The Rentokil Enclosed Rat Trap is a hygienic, reusable, poison-free trap. It can be used again and again, or simply disposed of, if preferred. The traps are ideal for use where children and pets are present as the powerful trap is contained within a large safe box, which is opened by a key (supplied). The trap is easy to use and bait.",
+  "availability": "Out of Stock",
+  "product_name": "Rentokil Enclosed Rat Trap Lockable Box",
+  "specifications": [
+    "Model: RKLPSE10",
+    "Reusable and poison-free",
+    "Ideal for use around children and pets",
+    "Easy to use and bait",
+    "Can be used indoors or outdoors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pest-stop-systems-rat-bait-station-plastic.html|>
+## Pest-Stop Systems Rat Bait Station (Plastic)
+
+{
+  "price": "€13.87 inc VAT (€11.28 exc.vat)",
+  "description": "This Pest-Stop rat bait station has a larger design specifically to control rat infestations. Highly durable and shock resistant, the unit is completely lockable for child and animal safety. It provides a highly effective method to deal with mouse infestations, and is often the chosen solution for pest control professionals. It provides a highly effective method of dealing with rat infestations, and is often the chosen solution for pest control professionals. Also suitable for attracting and killing mice.",
+  "availability": "In Stock",
+  "product_name": "Pest-Stop Systems Rat Bait Station (Plastic)",
+  "specifications": [
+    "Larger design for rat infestations",
+    "Durable and shock resistant",
+    "Completely lockable for safety",
+    "Effective for mouse infestations",
+    "Chosen solution for pest control professionals"
+  ]
+}
+

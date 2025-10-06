@@ -1,0 +1,104 @@
+<|https://www.mydiy.ie/products/faithfull-lip-and-spur-wood-drillbits.html|>
+## Faithfull Lip & Spur Wood Drillbits
+
+{
+  "price": "€2.16 inc VAT",
+  "description": "The Faithfull Lip & Spur Wood Drill Bits are the preferred cutting tip design for drilling wood, chipboard and MDF. This alloy steel drill has a steeper twist and a deeper flute than HSS bits for rapid clearance of waste. Ideal for use in dowelling jigs.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Lip & Spur Wood Drillbits",
+  "specifications": [
+    "Available sizes: 3.0mm, 4.0mm, 5.0mm, 6.0mm, 8.0mm, 10.0mm, 12.0mm, 14.0mm, 16.0mm",
+    "Material: Alloy Steel",
+    "Designed for drilling wood, chipboard, and MDF"
+  ],
+  "product_category": "Drill Bits"
+}
+
+
+
+<|https://www.mydiy.ie/products/dewalt-blackandgold-hss-drill-bits.html|>
+## DEWALT BLACK&GOLD HSS Drill Bits
+
+{
+  "price": "from €3.27 inc VAT",
+  "description": "The DEWALT Black&Gold HSS Drill Bits are made with a tapered web design for extreme durability. The black and gold coating helps to prevent rust and wear. A 135° split point tip helps to reduce walking. While the bits also incorporate a 3-flats shank to reduce spin-out in the chuck. Suitable for drilling in plastic, wood, and metal.",
+  "availability": "In Stock",
+  "product_name": "DEWALT BLACK&GOLD HSS Drill Bits",
+  "specifications": [
+    "Tapered web design for extreme durability",
+    "Black and gold coating to prevent rust and wear",
+    "135° split point tip to reduce walking",
+    "3-flats shank to reduce spin-out in the chuck",
+    "Suitable for drilling in plastic, wood, and metal"
+  ],
+  "product_category": "Drill Bits"
+}
+
+<|https://www.mydiy.ie/products/dewalt-extreme-2-metal-drill-bits.html|>
+## DEWALT Extreme 2 Metal Drill Bits
+
+{
+  "price": "€4.55 inc VAT",
+  "description": "The DEWALT EXTREME 2™ metal tip starts drilling on contact eliminating walking for clean, accurate holes. The drill bits have the following features: Innovative tapered web which greatly reduces breakage. No-Slip shank with 3 flats which eliminates slipping in the chuck (diameters 5.0mm and above only). Permanent size markings located above the shank for increased visibility. Gold Ferrous Oxide coating which prevents overheating for longer bit life. The NEW EXTREME 2™ Metal drill bit, designed to maximise drill performance, offers: Faster drilling - up to 4x faster than standard HSS-R drill bits. Increased durability - up to 50% stronger than standard HSS-R drill bits. Cleaner, more accurate, burr-free holes due to recessed cutting wings. Applications: Suitable for portable drilling of steel, alloyed and non-alloyed up to 900N/mm². For drilling sheet or thin materials (suitable for use in wood and plastics).",
+  "availability": "In Stock",
+  "product_name": "DEWALT Extreme 2 Metal Drill Bits",
+  "specifications": [
+    "Innovative tapered web reduces breakage",
+    "No-Slip shank with 3 flats",
+    "Permanent size markings for visibility",
+    "Gold Ferrous Oxide coating prevents overheating",
+    "Faster drilling - up to 4x faster than standard HSS-R drill bits",
+    "Increased durability - up to 50% stronger than standard HSS-R drill bits",
+    "Cleaner, more accurate, burr-free holes"
+  ],
+  "product_category": "Drill Bits"
+}
+
+<|https://www.mydiy.ie/products/dewalt-extreme-flatwood-drill-bit.html|>
+## DEWALT Extreme Flatwood Drill Bit
+
+{
+  "price": "€7.45 inc VAT",
+  "description": "The DEWALT Extreme Flatwood Drill Bits have an extra thick robust steel shank for outstanding durability and chamfered outer cutting spurs for clean, very fast drilling and extended drilling life. The precision ground central point has an optimised design for faster material penetration and increased drilling speed. Ideal for the rapid drilling of holes in wood, for door locks, mortising, electrical and plumbing work. Suitable for natural hard and soft wood, chipboard and other man made materials.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Extreme Flatwood Drill Bit",
+  "specifications": [
+    "Select Option: 10mm x 152mm, 12mm x 152mm, 13mm x 152mm, 14mm x 152mm, 16mm x 152mm, 18mm x 152mm, 20mm x 152mm, 22mm x 152mm, 25mm x 152mm, 26mm x 152mm, 28mm x 152mm, 30mm x 152mm, 32mm x 152mm, 35mm x 152mm, 38mm x 152mm, 40mm x 152mm",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Drill Bits"
+}
+
+<|https://www.mydiy.ie/products/dewalt-impact-titanium-drill-bits.html|>
+## DEWALT Impact Titanium Drill Bits
+
+{
+  "price": "from €10.92 inc VAT",
+  "description": "The DEWALT Impact Titanium Drill Bits are for use in alloyed and unalloyed steels up to 900N/mm² tensile strength, sheet metal and thin-walled profile material, where exact and clean drilling is required. The pilot point penetrates material faster and allows precise drilling on curved surfaces. Titanium coating for increased wear resistance, corrosion resistance and up to 2x life.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Impact Titanium Drill Bits",
+  "specifications": [
+    "13.0mm OL:102mm WL:50mm",
+    "3.0mm OL:64mm WL:26mm",
+    "4.5mm OL:75mm WL:31mm",
+    "7.0mm OL:89mm WL:57.5mm",
+    "9.0mm OL:102mm WL:50mm"
+  ],
+  "product_category": "Drill Bits"
+}
+
+<|https://www.mydiy.ie/products/faithfull-standard-masonry-drill-bits.html|>
+## Faithfull Standard Masonry Drill Bits
+
+{
+  "price": "€1.94 inc VAT",
+  "description": "Faithfull Standard masonry bits are for use in chucks up to 13mm capacity and are suitable for general purpose drilling including bricks, blocks and cement render when used in an impact or percussion drill. A roll formed and treated body with a heavy-duty Tungsten Carbide tip and fast spiral for quick waste removal.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Standard Masonry Drill Bits",
+  "specifications": [
+    "Available sizes: 10 x 120mm, 10 x 150mm, 10 x 200mm, 10 x 300mm, 10 x 400mm, 11 x 150mm, 12 x 150mm, 12 x 300mm, 12 x 400mm, 13 x 150mm, 14 x 150mm, 14 x 300mm, 16 x 150mm, 16 x 300mm, 16 x 600mm, 18 x 160mm, 20 x 160mm, 4 x 75mm, 4.5 x 85mm, 5 x 150mm, 5 x 85mm, 5.5 x 150mm, 5.5 x 95mm, 6 x 100mm, 6 x 150mm, 6 x 300mm, 6 x 400mm, 6.5 x 100mm, 6.5 x 150mm, 6.5 x 300mm, 7 x 100mm, 7 x 150mm, 7 x 300mm, 8 x 120mm, 8 x 150mm, 8 x 200mm, 8 x 300mm, 8 x 400mm, 9 x 150mm"
+  ],
+  "product_category": "Drill Bits"
+}
+

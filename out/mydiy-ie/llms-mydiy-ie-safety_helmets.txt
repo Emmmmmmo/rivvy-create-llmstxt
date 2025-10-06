@@ -1,0 +1,67 @@
+<|https://www.mydiy.ie/products/abus-mechanical-scator-scator-e-padding-set.html|>
+## SCATOR /SCATOR-E Padding Set
+
+{
+  "price": "€7.05 inc VAT (€5.73 exc.vat)",
+  "description": "ABUS Padding Set for the SCATOR and SCATOR-E safety helmets. Provides excellent moisture regulation (absorption and release). The Velcro backing makes it easy to fit and remove. Washable for extended use.",
+  "availability": "In Stock",
+  "product_name": "SCATOR /SCATOR-E Padding Set",
+  "specifications": [
+    "ABU38540 : €7.05",
+    "Washable for extended use",
+    "Velcro backing for easy fitting and removal",
+    "Excellent moisture regulation"
+  ],
+  "product_category": "Safety Helmets"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-spector-e-non-vented-safety-helmet.html|>
+## ABUS Mechanical SPECTOR-E Non-vented Safety Helmet
+
+{
+  "price": "€104.39 inc VAT",
+  "description": "The ABUS SPECTOR -E Non-vented Safety Helmet is the closed variant of our premium safety helmet. This non-ventilated safety helmet is particularly suitable for working on low-voltage systems. Offers reliable head protection against direct voltage up to 1,500 volts (DC) and alternating voltage up to 1,000 volts (AC). Thanks to its completely closed ABS shell, electrical shocks and the transmission of electrical currents are prevented. The Spector-E is also suitable as a closed industrial safety helmet, for example, in the construction industry. Something else is important for us: when a safety helmet is your daily companion, comfort must not be neglected. The innovative, design-optimised helmet geometry is not only visible, but can also be felt and creates a unique protection system through the interaction of the components. To ensure a comfortable and perfect fit the SPECTOR-E features Active Padding (soft padding on the inner shell of the helmet) and a multifunctional 360° adjustment system. Consisting of a perforated headring with an adjustment wheel and an individually adjustable neck strap with a wide rear head support. There are clips on the front and back of the helmet for attaching headlamps and full-vision glasses. Ear protection can be attached to a side slot, the Euroslot with a width of 30mm. There is also a slot for attaching eye and face protection.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SPECTOR-E Non-vented Safety Helmet",
+  "specifications": [
+    "Standard: EN 397:2012 + A1:2012",
+    "Head Size: 53-63cm",
+    "Weight: 487g"
+  ],
+  "product_category": "Safety Helmets"
+}
+
+
+
+<|https://www.mydiy.ie/products/abus-mechanical-spector-vented-safety-helmet.html|>
+## ABUS Mechanical SPECTOR Vented Safety Helmet
+
+{
+  "price": "€104.39 inc VAT",
+  "description": "The ABUS SPECTOR Vented Safety Helmet is the premium model for your safety at work. Whether you are carrying out maintenance work on wind turbines or steering the excavator during demolition work – the Spector gives you a new experience of occupational safety. It has a robust ABS shell offering maximum impact resistance and protection against falling objects. An EPS inner shell optimally absorbs shocks and is extremely comfortable on the head. Thanks to Active Padding and a breathable sweatband, wearing a helmet is comfortable even over long periods of time. Sophisticated ventilation technology, inspired by our cycling helmet expertise, ensures optimum air circulation. Heat build-up is prevented and warm air is dissipated through channels in the EPS inner shell. Another innovative feature is the EasyFlex adjustment system, which makes the safety helmet multifunctional and individually adjustable through 360°. A rotary wheel enables precise adjustment of the headring, while an adjustable neck strap with a comfortable rear head support ensures a perfect and secure fit. There are clips on the front and back of the helmet for attaching headlamps and full-vision glasses. Ear protection can be attached to a side slot, the Euroslot with a width of 30mm. There is also a slot for attaching eye and face protection.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SPECTOR Vented Safety Helmet",
+  "specifications": [
+    "Standard: EN 397:2012 + A1:2012",
+    "Head Size: 53-63cm",
+    "Weight: 487g"
+  ],
+  "product_category": "Safety Helmets"
+}
+
+<|https://www.mydiy.ie/products/abus-mechanical-scator-vented-safety-helmet.html|>
+## ABUS Mechanical SCATOR Vented Safety Helmet
+
+{
+  "price": "€28.79 inc VAT",
+  "description": "The ABUS SCATOR Vented Safety Helmet offers reliable head protection and a high level of comfort, perfect for use on construction sites, in industry or in gardening and landscaping. The lightweight and air-permeable outer shell of the SCATOR makes it comfortable to wear. Thanks to the robust ABS material with high impact resistance, the head of the worker on the ground is reliably protected from impacts and falling objects. Equipped with a 6-point textile suspension harness for the perfect fit. PowerTriangle technology acts like a spring suspension absorbs part of the impact energy and thus reduces the energy transferred to the wearer's head. To prevent the helmet from wobbling and slipping, it has an angled neck strap. An adjustment wheel is integrated on this for individual size adjustment. There is also a choice of three different steps to adjust the height of the safety helmet to suit different head sizes. The helmet is fitted with a short peak so as not to impair visibility during work. It also features a headlamp holder, slots for visors and face protection, as well as the 30mm Euroslot for ear protection. Meaning it can be fitted with the appropriate accessories depending on the area of application.",
+  "availability": "In Stock",
+  "product_name": "ABUS Mechanical SCATOR Vented Safety Helmet",
+  "specifications": [
+    "Standard: EN 397:2012 + A1:2012",
+    "Head Size: 53-63cm",
+    "Weight: 380g"
+  ],
+  "product_category": "Safety Helmets"
+}
+

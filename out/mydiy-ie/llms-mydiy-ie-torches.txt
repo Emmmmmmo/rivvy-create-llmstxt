@@ -1,0 +1,1434 @@
+<|https://www.mydiy.ie/products/duracell-duracell-tough-super-clear-led-torch-cmp-9.html|>
+## Duracell Duracell Tough super Clear LED Torch CMP-9
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "1 Watt EPISTAR LED, Aluminium casing, Compact and robust, Complete set including Duracell Batteries",
+  "availability": "In Stock",
+  "product_name": "Duracell Duracell Tough super Clear LED Torch CMP-9",
+  "specifications": [
+    "1 Watt EPISTAR LED",
+    "Aluminium casing",
+    "Compact and robust",
+    "Complete set including Duracell Batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hurricane-lantern---silver-245mm.html|>
+## Hurricane Lantern - Silver 245mm
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "This lantern is manufactured in accordance with EN 14059 & comes complete with adjustable wick, hanging hook & childproof lock. Ideal for camping & caravanning etc, it is suitable for use both indoors & outdoors. Simply fill with LAMP OIL & light wick to use. Approx Size: 245mm/10” Color: Silver",
+  "availability": "In Stock",
+  "product_name": "Hurricane Lantern - Silver 245mm",
+  "specifications": [
+    "Manufactured in accordance with EN 14059",
+    "Adjustable wick",
+    "Hanging hook",
+    "Childproof lock",
+    "Suitable for indoor and outdoor use",
+    "Approx Size: 245mm/10”",
+    "Color: Silver"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-led-flashlight.html|>
+## Wiha LED Flashlight
+
+{
+  "price": "€108.08 inc VAT (€87.87 exc.vat)",
+  "description": "The Wiha LED Flashlight provides two lighting levels, allowing you to adjust the flashlight to specific light conditions, thus improving your field of vision. It also features a laser, can be used to position drill holes on the ceiling, and a UV light. Suitable for technical inspections. A delayed switch-on interval of 2 seconds prevents the laser being activated accidentally. The lamp head also swivels into a L-shape, enabling the user to point the light source in the direction required for the task at hand. A practical retaining clip and the magnetic positioning mechanism free your hands for other tasks. Thanks to the integrated magnets, this flashlight can also be positioned as required in most electrical enclosures.",
+  "availability": "In Stock",
+  "product_name": "Wiha LED Flashlight",
+  "specifications": [
+    "LED Output: 100 - 310 Lumens",
+    "UV Output: 390 - 400 nm",
+    "Laser: Class 2",
+    "Power: 3 x AAA Batteries (supplied)",
+    "Weight: 252g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-flash-300-torch-300-lumens.html|>
+## SCANGRIP® FLASH 300 Torch 300 lumens
+
+{
+  "price": "€43.53 inc VAT (€35.39 exc.vat)",
+  "description": "The SCANGRIP® FLASH 300 Torch features a magnetic on/off switch with boost mode enabling you to increase the light output from 150 to 300 lumen. Hold down the on/off switch for two seconds to activate boost mode. The flashlight automatically turns to NORMAL mode after 60 seconds. A focus function allows you to vary the beam angle from 10° to 70°, from concentrated and focused light beam angle to long-distance light. Light output reaches up to 100m. The housing is made of anodised aluminium for high durability and an ergonomic, safe grip. Waterproof, IP54. Tested according to the ANSI/NEMA FL1 standard. Supplied with: 3 x AAA Batteries, 1 x Clip-on Holster and 1 x Manual.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® FLASH 300 Torch 300 lumens",
+  "specifications": [
+    "Luminous Flux Max./Min.: 300/150 Lumen",
+    "Illuminance, Max./Min.(@0,5m): 10,000/600 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 10-60°",
+    "Beam Distance: 100m",
+    "Power Source: 3 x AAA Batteries",
+    "IP Rating: IP54",
+    "Dimensions (LxW): 133 x 32mm",
+    "Weight 0.12kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-flash-600-torch-600-lumens.html|>
+## SCANGRIP® FLASH 600 Torch 600 lumens
+
+{
+  "price": "€68.29 inc VAT (€55.52 exc.vat)",
+  "description": "The SCANGRIP® FLASH 600 Torch features a magnetic on/off switch with boost mode enabling you to increase the light output from 300 to 600 lumen. Hold down the on/off switch for two seconds to activate boost mode. The flashlight automatically turns to NORMAL mode after 60 seconds. A focus function allows you to vary the beam angle from 10° to 60°, from concentrated and focused light beam angle to long-distance light. Light output reaches up to 150m. The housing is made of anodised aluminium for high durability, an ergonomic and safe grip. Waterproof, IP54. Tested according to the ANSI/NEMA FL1 standard. Supplied with: 2 x C Batteries, 1 x Clip-on Holster and 1 x Manual.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® FLASH 600 Torch 600 lumens",
+  "specifications": [
+    "Luminous Flux Max./Min.: 600/300 Lumen",
+    "Illuminance, Max./Min.(@0,5m): 20,000/1000 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 10-60°",
+    "Beam Distance: 150m",
+    "Power Source: 2 x C Batteries",
+    "IP Rating: IP54",
+    "Dimensions (LxW): 174 x 36mm",
+    "Weight 0.29kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-flash-pen-r-rechargeable-pen-torch-300-lumens.html|>
+## SCANGRIP® FLASH PEN R Rechargeable Pen Torch 300 lumens
+
+{
+  "price": "€62.46 inc VAT (€50.78 exc.vat)",
+  "description": "The SCANGRIP® FLASH PEN R Rechargeable Pen Torch features a magnetic on/off switch with boost mode enabling you to increase the light output from 150 to 300 lumen. Hold down the on/off switch for two seconds to activate boost mode. The flashlight automatically turns to NORMAL mode after 60 seconds. A focus function allows you to vary the beam angle from 10° to 60°, from concentrated and focused light beam angle to long-distance light. Light output reaches up to 100m. The housing is made of anodised aluminium for high durability, an ergonomic and safe grip. Fitted with a clip and designed to always you to have in the chest pocket, right at your fingertips. Waterproof, IP54. Tested according to the ANSI/NEMA FL1 standard. Supplied with: 1 x 1m USB Charger Cable and 1 x Manual.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® FLASH PEN R Rechargeable Pen Torch 300 lumens",
+  "specifications": [
+    "Luminous Flux Max./Min.: 300/100 Lumen",
+    "Illuminance, Max./Min.(@0,5m): 1,000/600 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 10-60°",
+    "Beam Distance: 100m",
+    "Power Source: Rechargeable Li-ion Battery",
+    "IP Rating: IP54",
+    "Dimensions (LxW): 169 x 24mm",
+    "Weight 0.08kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-flash-600-r-rechargeable-torch-600-lumens.html|>
+## 
+
+{
+  "price": "",
+  "description": "",
+  "availability": "",
+  "product_name": "",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/scangrip-flash-100-r-rechargeable-torch-1000-lumens.html|>
+## SCANGRIPÂ® FLASH 100 R Rechargeable Torch 1000 lumens
+
+{
+  "price": "€100.32 inc VAT (€81.56 exc.vat)",
+  "description": "The SCANGRIP® FLASH 100 R Rechargeable Torch is very sturdy and of extraordinary high quality, designed for the professional user. Features a magnetic on/off switch with boost mode enabling you to increase the light output from 500 to 1000 lumen. Hold down the on/off switch for two seconds to activate boost mode. The flashlight automatically turns to NORMAL mode after 60 seconds. A focus function allows you to vary the beam angle from 10° to 60°, from concentrated and focused light beam angle to long-distance light. Light output reaches up to 250m. The housing is made of anodised aluminium for high durability, with an ergonomic and safe grip. Waterproof, IP54. Tested according to the ANSI/NEMA FL1 standard. Supplied with: 1 x 1m USB Charger Cable, 1 x Clip-on Holster, 1 x Silicone Wrist Strap and 1 x Manual.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIPÂ® FLASH 100 R Rechargeable Torch 1000 lumens",
+  "specifications": [
+    "Luminous Flux Max./Min.: 1,000/500 Lumen",
+    "Illuminance, Max./Min.(@0,5m): 60,000/3,000 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 10-60°",
+    "Beam Distance: 250m",
+    "Power Source: Rechargeable Li-ion Battery",
+    "IP Rating: IP54",
+    "Dimensions (LxW): 196 x 42mm",
+    "Weight 0.35kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-hand-torch-500-lumens.html|>
+## STANLEY® Lighting Hand Torch 500 Lumens
+
+{
+  "price": "€20.92 inc VAT (€17.01 exc.vat)",
+  "description": "This STANLEY® Hand Torch has a durable, lightweight Aluminium body. IPX4 rated, splash waterproof and can withstand water splashes from any direction, suitable for use in various environments. It offers three power settings (100%, 50%, flash) with adjustable zoom control and a focus beam option. Supplied with 2 x AA Duracell Batteries.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Hand Torch 500 Lumens",
+  "specifications": [
+    "Brightness: 500 Lumens",
+    "Beam Distance: 100m",
+    "Run Time: up to 4 hours",
+    "Power: 2 x AA Alkaline Batteries (supplied)",
+    "Dimensions: 160 x 33 x 33mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-hand-torch-1000-lumens.html|>
+## STANLEY® Lighting Hand Torch 1000 Lumens
+
+{
+  "price": "€31.25 inc VAT (€25.41 exc.vat)",
+  "description": "This STANLEY® Hand Torch has a durable, lightweight Aluminium body. IPX4 rated, splash waterproof and can withstand water splashes from any direction, suitable for use in various environments. It offers three power settings (100%, 50%, flash) with adjustable zoom control and a focus beam option. Supplied with 4 x AA Duracell Batteries.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Hand Torch 1000 Lumens",
+  "specifications": [
+    "Brightness: 1000 Lumens",
+    "Beam Distance: 100m",
+    "Run Time: up to 6 hours",
+    "Power: 4 x AA Alkaline Batteries (supplied)",
+    "Dimensions: 171 x 45 x 45mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-rechargeable-hand-torch-500-lumens.html|>
+## STANLEY® Lighting Rechargeable Hand Torch 500 Lumens
+
+{
+  "price": "€42.37 inc VAT (€34.45 exc.vat)",
+  "description": "This STANLEY® Rechargeable Hand Torch has a durable, lightweight Aluminium body. IP44 rated, suitable for use in various environments. It offers three power settings (100%, 50%, flash) with adjustable zoom control and a focus beam option. A USB C charging port enables easy recharging of the built-in battery. Supplied with a USB C charging cable.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Rechargeable Hand Torch 500 Lumens",
+  "specifications": [
+    "Brightness: 500 Lumens",
+    "Beam Distance: 430m",
+    "Run Time: up to 28 hours",
+    "Charging Time: 5 Hours",
+    "Power: Built-in Battery",
+    "Dimensions: 162 x 36.5 x 36.5mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-magnetic-hook-led-torch-lamp-minimum-quantity-12.html|>
+## Lighthouse Magnetic Hook LED Torch Lamp (Minimum Quantity 12)
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "The Lighthouse LED Torch Lamp is a compact yet powerful pocket sized double function lamp that operates as a torch or work light. This versatile lamp offers two types of light output using either a three LED spotlight providing a 10 Lumen spot beam or a bright 200 Lumen work light with a low and high output function. For added versatility the lamp also features a fold out stand, hanging hook and a magnetic back allowing the lamp to be stood, hung or attached to metal surfaces. The lamp can provide a spot beam for up to 35 hours or 9 hours on the low work light setting. Complete with 3 x AAA Alkaline Batteries.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Magnetic Hook LED Torch Lamp (Minimum Quantity 12)",
+  "specifications": [
+    "Minimum Order Quantity: 12",
+    "Light Output: 10 Lumen spot beam or 200 Lumen work light",
+    "Battery: 3 x AAA Alkaline Batteries",
+    "Operating Time: 35 hours on spot beam, 9 hours on low work light setting",
+    "Features: Fold out stand, hanging hook, magnetic back"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-focus-high-performance-led-torches.html|>
+## Lighthouse Focus High Performance LED Torches
+
+{
+  "price": "€14.82 inc VAT",
+  "description": "Focus High Performance LED Torches are manufactured from anodised aluminium, these torches are lightweight, strong, durable and reliable. Designed for rugged outdoor activities, such as camping, hiking, fishing and similar activities. Each torch is fitted with a high performance LED with three output modes and focus control that provides both a spot and flood function, allowing the light to be adjusted from a tight spot beam to a wide flood light to suit the job in hand. All these great features provide reliability, versatility and long running times.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Focus High Performance LED Torches",
+  "specifications": [
+    "Manufactured from anodised aluminium",
+    "Lightweight, strong, durable and reliable",
+    "Designed for rugged outdoor activities",
+    "Fitted with a high performance LED",
+    "Three output modes and focus control",
+    "Adjustable from spot beam to flood light"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-led-hand-lamp-3w-200-lumen.html|>
+## Lighthouse LED Hand Lamp 3W (200 Lumen)
+
+{
+  "price": "€5.71 inc VAT (€4.64 exc.vat)",
+  "description": "The Lighthouse LED Hand Lamp is a compact yet powerful double function LED lamp that operates as a torch or work light. Two types of light output: using either a 3 LED spotlight providing a 15 lumen spotbeam or a single COB LED that generates a bright 200 lumen work light. Fitted with a comfortable soft feel hand grip. For added versatility the lamp also features a fold away hanging hook and a magnetic back that allows it to be either hung or attached to metal surfaces. The lamp can provide a spot beam for up to 35 hours or a work light for up to 9 hours. Supplied complete with 3 x AA alkaline batteries. Available in either red or blue, colour is chosen at random.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse LED Hand Lamp 3W (200 Lumen)",
+  "specifications": [
+    "LED Hand Lamp 3W (200 Lumen)",
+    "L/H200HAND : €5.71",
+    "Two types of light output: 15 lumen spotbeam or 200 lumen work light",
+    "Fitted with a comfortable soft feel hand grip",
+    "Fold away hanging hook and magnetic back",
+    "Spot beam for up to 35 hours, work light for up to 9 hours",
+    "Supplied with 3 x AA alkaline batteries",
+    "Available in red or blue (color chosen at random)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-elite-rechargeable-led-bike-light-set.html|>
+## Lighthouse Elite Rechargeable LED Bike Light Set
+
+{
+  "price": "€31.78 inc VAT (€25.84 exc.vat)",
+  "description": "The Lighthouse Elite Rechargeable LED Bike Light Set utilises the latest technology in portable lighting, allowing extremely bright LED lights to be encased in lightweight and compact units. The front light features 3 light settings: high 100%, low 50%, strobe. Whilst the rear light has 6 settings: high, medium, low, fast flash, slow flash, strobe. The bike light output modes are controlled by a sequential switch. Press and release the button to switch between modes. Hold the button down for 3 seconds to turn the lights off. Rechargeable, can be charged via any USB port with the supplied cable.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Elite Rechargeable LED Bike Light Set",
+  "specifications": [
+    "Brightness: Front: 150 lumens, Rear: 100 lumens",
+    "Run Time: Front: 2.5/4.5 hours, Rear: 10 hours",
+    "Light Source: Front: XPG 3W LED, Rear: COB LED",
+    "Battery: Front: 3.7V 800mAh Li-Polymer, Rear: 3.7V 330mAh Li-Polymer",
+    "Charge Time: approx. 5 hours",
+    "Water Resistance: IP54",
+    "Impact Resistant: 1m",
+    "Dimensions: Front: 62 x 30 x 30mm, Rear: 41 x 41 x 38mm",
+    "Weight: Front: 52g, Rear: 37g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-elite-rechargeable-lantern-spotlight-300-lumens.html|>
+## Lighthouse Elite Rechargeable Lantern Spotlight 300 lumens
+
+{
+  "price": "€27.55 inc VAT (€22.40 exc.vat)",
+  "description": "The Lighthouse Elite Rechargeable Lantern Spotlight offers a variety of great features and functions; a 300 lumen output LED spotlight with 3 operating modes of High, Low and Flashing. On the side there is a COB LED floodlight providing 80 lumens of light. The handle has a ratchet mechanism and fold-out tripod legs enabling it to be used as a stand to aim the light exactly where you need it. Fitted with durable impact-proof rubber end caps and water and dustproof to IP67 for use in all weather conditions. It offers an impressive run time of up to 6 hours. The powerful internal 3.7V 2400mAh Li-ion battery that can be recharged and used time and time again. An integral charge indicator displays the remaining battery power. Another useful feature is the powerbank function, which charges small electronic devices such as mobile phones and MP3 players (using a suitable manufacturer's charging lead). Supplied complete with a USB charging cable.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Elite Rechargeable Lantern Spotlight 300 lumens",
+  "specifications": [
+    "Output: 300 / 150 / 80 lumens",
+    "Mode: Spot High / Spot Low / Flood",
+    "Bulb: 10W XPG LED / COB LED",
+    "Run Time: 2 / 4 / 4 hours",
+    "Charge Time: Approx. 6 hours",
+    "Power: Rechargeable Li-ion 18650 3.7V 2400mAh",
+    "Dimensions: 205 x 155 x 112mm",
+    "Water Resistant: IP67",
+    "Impact Resistant: 1m",
+    "Weight: 568g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ledlenser-p7r-core-rechargeable-torch.html|>
+## Ledlenser P7R CORE Rechargeable Torch
+
+{
+  "price": "€173.44 inc VAT (€141.01 exc.vat)",
+  "description": "The Ledlenser P7R CORE Rechargeable Torch is the perfect all-rounder. It boasts an impressive brightness that can deliver up to 300 metres, as well as exceptional protection against water and dust. The state-of-the-art multi-core precision optic delivers outstanding quality, flicker-free light. The torch has 4 brightness levels: Boost (1,400 lm), Power (1,000 lm), Mid-Power (440 lm) and Low Power (15 lm). In addition, it features position, SOS and Strobe settings. A dimming feature allows the light intensity to be adjusted to the right level of illumination. Patented Advanced Focusing System enables seamless beam focusing for flood (near) or spot (distance) illumination and any level in-between. Seal-Tight technology provides a supreme level of ingress protection to IP68 and ensures the torch is 100% dust-tight and watertight against the effects of immersion between 15cm and 1m for up to 30 minutes. The torch is made from aircraft-grade aluminium which provides strength and durability, whilst also being corrosion resistant. It is fast charging via the magnetic contact charging cable and features a charging indicator that shows when the battery is fully charged. In addition, the torch has a battery status that indicates how much power is left, and a low battery warning allows the user time to recharge the battery before the power runs out. Supplied with Li-ion battery, magnetic contact charging cable and a wrist strap.",
+  "availability": "In Stock",
+  "product_name": "Ledlenser P7R CORE Rechargeable Torch",
+  "specifications": [
+    "Power: 1,400/1,000/440/15 lumens",
+    "Run Time: 2 hours (Power), 4 hours (Mid-Power), 90 hours (Low Power)",
+    "Beam Distance: 300/210/130/15m",
+    "IP Rating: IP68",
+    "Weight: 202g (inc. battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/led-lenser-seo3-headlamp-green-test-it-pack.html|>
+## LED Lenser SEO3 Headlamp Green Test It Pack
+
+{
+  "price": "€57.75 inc VAT (€46.95 exc.vat)",
+  "description": "Guaranteed to stand out from the crowd, due to its contemporary styling, fashionable colour, and high technology features, the LED Lenser LED6103 SEO3 Headlamp has been meticulously designed to look great and perform even better. This robust, perfectly calibrated lighting instrument is the embodiment of cool performance lighting. The SEO3 features three Energy Efficient white LED's for bright white homogenous light and a red LED for anti-glare night vision protection. With a fixed focus lens that can be angled within 90⁰ for directional light, the SEO3 delivers a light output of 90 lumens from 3 AAA Alkaline batteries (supplied), and incorporates LED Lenser’s Smart Light Technology™ (SLT) - Power, Low Power, Signal. It also features a handy transport lock to prevent the lamp accidentally switching on, plus an anti-allergic, washable, and replaceable headband designed for comfort. Lastly, the SEO3 Headlamp is precisely weighted to ensure additional comfort in use.",
+  "availability": "Out of Stock",
+  "product_name": "LED Lenser SEO3 Headlamp Green Test It Pack",
+  "specifications": [
+    "3 x High End White LEDs",
+    "1 x Glare-free High End Red LED Light to protect night vision",
+    "Smart Light Technology (SLT) – Power, Low Power, Signal",
+    "Directional Lighting - Lamp Head swivels within an angle of 90°",
+    "Washable, replaceable, anti-allergic headband designed for comfort",
+    "Belt-Hook",
+    "Transport Lock – prevents light accidentally switching on",
+    "Lightweight – ideal for extended duration use",
+    "Casing glows when in use – see and be seen",
+    "IPX6 – superior dust and water protection",
+    "Power: 90 lumens max",
+    "Run Time: up to 40 hours",
+    "Beam Distance: up to 40m",
+    "Weight: 96g",
+    "Supplied with: Belt Hook and Duracell® batteries (3xAAA)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/led-lenser-police-tactical-focus-torch.html|>
+## LED Lenser Police Tactical Focus Torch
+
+{
+  "price": "€86.68 inc VAT",
+  "description": "The LED Lenser TT Medium-bodied tactical torch has classic twist focusing and built-in anti-roll protection. It features an energy efficient High End CREE Power LED Light Chip with Advanced Focus System™ Optics. The diamond-shaped knurling on the barrel provides improved grip with or without gloves. The torch is made with robust, lightweight aircraft-grade aluminium and has corrosion resistant gold plated contacts for better conductivity. Fast-action Dynamic Switch™ with Power and Low Power light options. Water and dust resistant (IPX54). Size: 116 x 32mm Ø. Power: 280 lumens max. Run Time: up to 30 hours. Beam Distance: up to 220m. Weight: 132 grams. Wrist-strap and Duracell® batteries (3xAAA) supplied.",
+  "availability": "In Stock",
+  "product_name": "LED Lenser Police Tactical Focus Torch",
+  "specifications": [
+    "Size: 116 x 32mm Ø",
+    "Power: 280 lumens max",
+    "Run Time: up to 30 hours",
+    "Beam Distance: up to 220m",
+    "Weight: 132 grams"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-eliteheadlightrechargable-350-lumens.html|>
+## Lighthouse Elite Headlight Rechargeable 350 Lumens
+
+{
+  "price": "€33.28 inc VAT (€27.06 exc.vat)",
+  "description": "The Lighthouse EHEAD350R is a rechargeable high performance LED headlight featuring focus control and three output options of high, low or strobe. This top of the range headlight features the very latest LED that provides a super bright beam of light from a single source. LED's are unsurpassed in both output and efficiency providing long running times with a life span of over 100,000 hours. The headlights powerful rechargeable Li-ion batteries will provide a 350 lumen strobing beam lasting up to five hours or a 150 lumen beam for up to 10 hours on a single charge. The torch has a virtually unbreakable polycarbonate optical reflector lens and an adjustable head strap with an adjustable lamp that tilts up to 90°. It is shock proof and rain resistant and is supplied complete with a mains charger.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Elite Headlight Rechargeable 350 Lumens",
+  "specifications": [
+    "Rechargeable high performance LED headlight",
+    "Focus control with three output options: high, low, strobe",
+    "350 lumen strobing beam lasting up to five hours",
+    "150 lumen beam for up to 10 hours on a single charge",
+    "Virtually unbreakable polycarbonate optical reflector lens",
+    "Adjustable head strap with a lamp that tilts up to 90°",
+    "Shock proof and rain resistant",
+    "Supplied complete with a mains charger"
+  ]
+}
+
+<|https://www.mydiy.ie/products/teng-cree-led-headlamp.html|>
+## Teng Cree LED Headlamp
+
+{
+  "price": "€45.81 inc VAT (€37.24 exc.vat)",
+  "description": "The Teng Cree LED Headlamp offers 3 modes of operation: high, low and flashing. It delivers up to 250 lumens of crisp white light. The robust but lightweight design is shockproof up to 1m and is IPX6 water-resistant. It has an adjustable swivel head that boasts a beam distance of up to 200m. Run time is up to 16 hours and the headlight comes complete with a fully adjustable headband. Requires 3 x AA batteries (not included).",
+  "availability": "In Stock",
+  "product_name": "Teng Cree LED Headlamp",
+  "specifications": [
+    "3 modes of operation: high, low, flashing",
+    "Delivers up to 250 lumens",
+    "Shockproof up to 1m",
+    "IPX6 water-resistant",
+    "Beam distance of up to 200m",
+    "Run time up to 16 hours",
+    "Requires 3 x AA batteries (not included)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-elite-led-sensor-headlight-300-lumens.html|>
+## Lighthouse Elite LED Sensor Headlight 300 lumens
+
+{
+  "price": "€18.79 inc VAT (€15.28 exc.vat)",
+  "description": "The Lighthouse Elite LED Sensor Headlight offers multiple light output options. One switch operates a 3 function 5W LED main beam with 3 output settings: high, medium and low. The other switch controls 5 functions: a 3W LED beam with high or low output and a red LED with solid flashing and SOS functions. The 2 LEDs can be used independently or together. The light unit can be tilted and has a rubberised casing that is waterproof to IPX6 standard and impact-rated to 1m. A fold-out hanging hook further increases versatility. Its adjustable head strap can fit most sizes. It has a maximum run time of 5 hours. A low power indicator LED on the front of the light warns you when the battery power is low. Ideal for use around the home and for many leisure activities including camping, sailing, hiking and cycling and perfect for use in emergencies such as power failures or when working on cars.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Elite LED Sensor Headlight 300 lumens",
+  "specifications": [
+    "Output: 300 lumens",
+    "Modes: High / Medium / Low / Red Solid Flashing / SOS",
+    "Run Time: 5 hours",
+    "Beam Distance: 100m",
+    "Light Source: 5W LED + 3W LED",
+    "Power: 3 x AAA Alkaline batteries (supplied)",
+    "Water Resistance: IPX6",
+    "Impact Resistant: 1m",
+    "Dimensions: 60 x 45 x 35mm exc. strap",
+    "Weight: 102g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-compact-led-headlight-150-lumens.html|>
+## Lighthouse Compact LED Headlight 150 lumens
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "The Lighthouse Compact LED Headlight features the latest LED COB (Chip On Board) technology and provides a super bright, wide-angle beam that offers four output options of high, low, strobe or SOS mode. Small, bright and lightweight, this headlight is ideal for use around the home and for many leisure activities including camping, sailing, hiking and cycling. Perfect for use in emergencies such as power failures or when working on cars.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Compact LED Headlight 150 lumens",
+  "specifications": [
+    "Output: 40/150 lumens",
+    "Beam Distance: 12-19m",
+    "Run Time: 12 hours",
+    "Power: 3 x AAA batteries (supplied)",
+    "Dimensions: 68 x 41 x 22mm",
+    "Weight: 63g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ledlenser-h7r-core-rechargeable-headlamp.html|>
+## Ledlenser H7R CORE Rechargeable Headlamp
+
+{
+  "price": "€144.51 inc VAT (€117.49 exc.vat)",
+  "description": "The Ledlenser H7R CORE Rechargeable Headlamp is powerful and features a dimming function. It has 3 brightness levels - Boost (1,000 lm), Power (600 lm) and Low Power (15 lm). The headlamp features the patented Advanced Focusing System, which enables seamless beam focusing for flood (near) or spot (distance) illumination and any level in-between. The head can be pivoted to angle the light up or down, within 130°. Seal-Tight technology provides a supreme level of ingress protection to IP67 and ensures the torch is 100% dust-tight and watertight against the effects of immersion between 15cm and 1m for up to 30 minutes. The head strap is made from anti-microbial material to help inhibit the growth of harmful micro-organisms. Additionally, the adjustable head strap can be detached for washing. An overhead band provides extra stability. This rechargeable headlamp is fast charging via the magnetic contact charging cable. It features a charging indicator that shows when the battery is fully charged. In addition, the headlamp has a battery status that indicates how much power is left, and a low battery warning allows the user time to recharge the battery before the power runs out. It has an integrated Lithium Polymer rechargeable battery pack and is supplied with a magnetic contact charging cable.",
+  "availability": "Out of Stock",
+  "product_name": "Ledlenser H7R CORE Rechargeable Headlamp",
+  "specifications": [
+    "Power: 1,000/600/15 lumens",
+    "Run Time: 4 hours (Power), 65 hours (Low Power)",
+    "Beam Distance: 250/200/25m",
+    "IP Rating: IP67",
+    "Weight: 259g (inc. battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ledlenser-h15r-core-rechargeable-headlamp.html|>
+## Ledlenser H15R CORE Rechargeable Headlamp
+
+{
+  "price": "€274.65 inc VAT (€223.29 exc.vat)",
+  "description": "The Ledlenser H15R CORE Rechargeable Headlamp provides extreme illumination, a state-of-the-art multi-core optic and the ability to light beam up to an impressive 250 metres. It has 3 brightness levels - Boost (2,500 lm), Power (1,000 lm) and Low Power (20 lm). A dimming feature allows the light intensity to be adjusted to the right level of illumination. The headlamp features the patented Advanced Focusing System, which enables seamless beam focusing for flood (near) or spot (distance) illumination and any level in-between. The head can be pivoted to angle the light up or down, within 120°. Seal-Tight technology provides a supreme level of ingress protection to IP67 and ensures the torch is 100% dust-tight and watertight against the effects of immersion between 15cm and 1m for up to 30 minutes. The head strap is made from anti-microbial material to help inhibit the growth of harmful micro-organisms. Additionally, the adjustable head strap can be detached for washing. An overhead band provides extra stability. This rechargeable headlamp is fast charging via the magnetic contact charging cable. It features a charging indicator that shows when the battery is fully charged. In addition, the headlamp has a battery status that indicates how much power is left, and a low battery warning allows the user time to recharge the battery before the power runs out.",
+  "availability": "Out of Stock",
+  "product_name": "Ledlenser H15R CORE Rechargeable Headlamp",
+  "specifications": [
+    "Power: 2,500/1,000/20 lumens",
+    "Run Time: 5 hours (Power), 80 hours (Low Power)",
+    "Beam Distance: 250/170/20m",
+    "IP Rating: IP67",
+    "Weight: 380g (inc. batteries)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-elite-rechargeable-led-sensor-headlight-300-lumens.html|>
+## Lighthouse Elite Rechargeable LED Sensor Headlight 300 lumens
+
+{
+  "price": "€25.41 inc VAT (€20.66 exc.vat)",
+  "description": "Lighthouse Elite Rechargeable LED Headlight with spot and floodlight functions can provide a super bright beam of up to 480 lumens. The on/off button will cycle between spot high, spot low and floodlight modes. Holding the button down allows the light to be dimmed to your desired output. The 2 LEDs can be used independently or together. An optional sensor operated mode can be activated by pressing the sensor button, allowing the light to be switched on or off by moving your hand directly in front of the light. A useful feature for gloved or dirty hands.\n\nThis headlight offers an impressive run time of up to 10 hours. Its powerful 3.7V 1400mAh Li-ion battery can be recharged and time and time again. A low power indicator notifies you when the light needs recharging.\n\nThe lamp head can be tilted for directional light. Fitted to an adjustable head strap, fits most head sizes. It also has a magnetic base that allows the light to be attached to metal surfaces when detached from the headband. Waterproof to IPX6 standard and impact-rated to 1m.\n\nIdeal for use around the home and for many leisure activities including camping, sailing, hiking and cycling and perfect for use in emergencies such as power failures or when working on cars.\n\nSupplied with a USB charging cable.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Elite Rechargeable LED Sensor Headlight 300 lumens",
+  "specifications": [
+    "Output: 300 / 90 / 250 / 480 lumens",
+    "Modes: High / Low / Flood / Both",
+    "Run Time: 3 / 10 / 3.5 / 1.45 hours",
+    "Beam Distance: 60 / 20 / 10m",
+    "Light Source: Osram P8 LED / COB LED",
+    "Power: Rechargeable 902554 1400mAh 3.7V Li-ion",
+    "Charge Time: 2-2.5 hours",
+    "Charging Port: Micro USB",
+    "Water Resistance: IPX6",
+    "Dimensions: 67 x 37 x 40mm exc. strap",
+    "Weight: 198g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t40hr-rechargeable-headlight.html|>
+## Lighthouse T40HR Rechargeable Headlight
+
+{
+  "price": "€19.16 inc VAT (€15.58 exc.vat)",
+  "description": "The Lighthouse T40HR Rechargeable Headlight has a powerful output of up to 400 lumens. It's perfect for everything from climbing mountains to walking the dog. You can choose between 100%, 50%, or 25%, wide beam or spotlight mode, which are ideal for night hikes or runs. The spotlight function provides focused light for when you need it most, and the integrated 180-degree tilting feature allows you to adjust the beam to your preference. As well as providing fantastic light, the T40HR has also been designed with comfort in mind and features an adjustable, reflective head strap for additional comfort and visibility. The T40HR is a small and easy-to-carry light source which can fit in your coat pocket, car, or backpack, making it a convenient option for lighting on the go. Supplied with a USB-C Charging Lead.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse T40HR Rechargeable Headlight",
+  "specifications": [
+    "Brightness: 400/200/100/300 lumens",
+    "LED Power: 3W",
+    "Beam Distance: 80m",
+    "LED Colour: 6,500K",
+    "Light Source: SMD LED",
+    "Battery: Rechargeable 1200 mAH Li-ion",
+    "Max. Run Time: 10 hours",
+    "Charge Time: Approx. 2.5 hours",
+    "Impact Resistant: IK07",
+    "Water Resistant: IP65",
+    "Dimensions: 70 x 40 x 40mm",
+    "Weight: 106g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-i-view-rechargeable-headlamp-with-sensor-400-lumens.html|>
+## SCANGRIP® I-VIEW Rechargeable Headlamp with Sensor 400 lumens
+
+{
+  "price": "€88.42 inc VAT (€71.89 exc.vat)",
+  "description": "The SCANGRIP® I-VIEW is a powerful USB-C rechargeable LED headlamp designed for the professional user. As opposed to other headlamps providing a beam of light, I-VIEW is designed to provide optimum work light illuminating your entire work area. When set on sensor mode, I-VIEW can easily be turned on/off by waving a hand in front of the lamp, also when wearing thick gloves. The headlamp is extremely lightweight with a modern and dynamic design, and the woven band is comfortable to wear throughout the entire day. Moreover, I-VIEW is equipped with a user-friendly battery indicator providing convenient visibility of the remaining battery life. Designed to perform consistently in tough work environments, I-VIEW is durable and resistant to water and dust (IP65). If you are working on projects for a longer period, you can extend the operating time with the optional power bank accessory. Powered by a high efficiency multi-LED design of 12 LEDs, I-VIEW offers an adjustable light output up to 400 lumen. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light and runtime with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® I-VIEW Rechargeable Headlamp with Sensor 400 lumens",
+  "specifications": [
+    "Luminous Flux: 40-400 Lumens",
+    "OPTILight Setting: 500 lux @0.5m",
+    "Adjustable Light Output: 3 levels",
+    "Beam Angle 120 x 60°",
+    "CRI Ra > 80: CCT 5700 K",
+    "Battery: 3,7 V / 1400 mAh Li-ion (Built-in)",
+    "Charging Time: 4.5 hours",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 99 x 50 x 40mm",
+    "Weight: 130g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-rechargeable-head-torch-650-lumens.html|>
+## STANLEY® Lighting Rechargeable Head Torch 650 Lumens
+
+{
+  "price": "€25.66 inc VAT (€20.86 exc.vat)",
+  "description": "The STANLEY® Rechargeable Head Torch has a lightweight polycarbonate body. It offers five power settings (100%, 75%, 50%, 25%, dual function). The wave sensor control allows the light to be switched on or off by moving your hand directly in front of the light. IP44 rated, suitable for use in various environments. A USB C charging port enables easy recharging of the built-in battery. Supplied with a USB C charging cable.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Rechargeable Head Torch 650 Lumens",
+  "specifications": [
+    "Brightness: 650 Lumens",
+    "Beam Distance: 110m",
+    "Run Time: up to 8 hours",
+    "Power: Built-in Battery",
+    "Charge Time: 3 hours",
+    "Dimensions: 42 x 70 x 39mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-magnetic-head-torch-300-lumens.html|>
+## STANLEY® Lighting Magnetic Head Torch 300 Lumens
+
+{
+  "price": "€23.98 inc VAT (€19.50 exc.vat)",
+  "description": "The STANLEY® Magnetic Head Torch has a durable, lightweight Aluminium body with a magnetic side for static use. IP20 rated, touchproof and resistant to dust or objects over 12mm in size. It offers two power settings (100%, 50%). Its adjustable headband provides a secure, comfortable fit. Supplied with 3 x AAA Duracell Batteries.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Magnetic Head Torch 300 Lumens",
+  "specifications": [
+    "Brightness: 300 Lumens",
+    "Beam Distance: 25m",
+    "Run Time: up to 5 hours",
+    "Power: 3 x AAA Batteries (Supplied)",
+    "Dimensions: 40 x 88 x 38mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-lighting-zoom-head-torch-300-lumens.html|>
+## STANLEY® Lighting Zoom Head Torch 300 Lumens
+
+{
+  "price": "€22.99 inc VAT (€18.69 exc.vat)",
+  "description": "The STANLEY® Zoom Head Torch has a durable, lightweight Aluminium body with a magnetic side for static use. IP20 rated, touchproof and resistant to dust or objects over 12mm in size. It offers two power settings (100%, 50%). Its adjustable headband provides a secure, comfortable fit. Supplied with 3 x AAA Duracell Batteries.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Lighting Zoom Head Torch 300 Lumens",
+  "specifications": [
+    "Brightness: 300 Lumens",
+    "Beam Distance: 150m",
+    "Run Time: up to 6 hours",
+    "Power: 3 x AAA Batteries (Supplied)",
+    "Dimensions: 48 x 65 x 54mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-mini-led-headlight-400-lumens.html|>
+## Lighthouse Rechargeable Mini LED Headlight 400 Lumens
+
+{
+  "price": "€18.41 inc VAT (€14.97 exc.vat)",
+  "description": "The Lighthouse Rechargeable Mini LED Headlight is a lightweight yet powerful lighting solution for all manner of outdoor activities. This headlight boasts 5 different light modes, including the usual high, medium and low settings, as well as an ultra-bright turbo mode which can be activated by holding the button for 2 seconds, and a red flashing mode activated with a double click. Designed with convenience and comfort in mind, the Lighthouse Mini features an adjustable head strap and a 180-degree tilting LED which can be moved in increments to provide a directed beam. For added functionality the unit can be removed from the strap and clipped on to a baseball cap for casual use. It can be charged using the USB Type C cable included, so you can easily recharge it on the go. For added safety, the head strap is reflective, making you more visible in low-light conditions. With a battery life of up to 40 hours, you can rely on this headlight for constant light during your work day or outdoor adventures. Supplied with a USB charging cable.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Rechargeable Mini LED Headlight 400 Lumens",
+  "specifications": [
+    "Light Modes: High / Medium / Low / Turbo / Red Flashing",
+    "Brightness: 400 lumens",
+    "Run time: Up to 40 hours",
+    "Light source: LED",
+    "Battery: 200mAh",
+    "Water resistant: IP54",
+    "Approx size: 43.3 x 33.3 x 31.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-power-inspection-light-300-lumen.html|>
+## Lighthouse Power Inspection Light 300 Lumen
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Lighthouse compact inspection light features a super-bright line COB LED that provides a powerful 300 lumens floodlight which is ideal for inspection work and general illumination. The lamp offers three output modes of 300, 100 lumens and a flashing Red light function, a magnetic base allows the light to be attached to metal surfaces for hands free use. These great features make this an ideal choice for inspection engineers, mechanics, plumbers, and for use anywhere where access may be restricted. It's compact size allows it to fit neatly in to a toolbox, glove box or drawer.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Power Inspection Light 300 Lumen",
+  "specifications": [
+    "300 Lumens: 4 Hours",
+    "100 Lumens: 9 Hours",
+    "Flashing: 20 Hours",
+    "Requires 3 x AAA batteries (Supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-elite-focus-torch-3-function.html|>
+## Lighthouse Elite Focus Torch 3 Function
+
+{
+  "price": "€15.46 inc VAT (€12.57 exc.vat)",
+  "description": "The Lighthouse 140 lumen Elite Focus has three functions: high, low and strobe. This top of the range torch features the very latest technology by incorporating CREE LED's, providing a super bright beam from a single source. CREE LED's are unsurpassed in both output and efficiency with a life span of over 100,000 hours and will provide a bright beam of light for up to 8 hours from one set of batteries. The torch has an aluminium body, which is shock proof and rain resistant and has a handy wrist strap for added safety. It has an adjustable focus and comes complete with 3 AAA batteries.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Elite Focus Torch 3 Function",
+  "specifications": [
+    "140 lumen output",
+    "Three functions: high, low, strobe",
+    "CREE LED technology",
+    "Aluminium body",
+    "Shock proof and rain resistant",
+    "Adjustable focus",
+    "Includes 3 AAA batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-xplorer-led-torch-3-watt-120-lumens-50m.html|>
+## Lighthouse Xplorer LED Torch 3 Watt 120 Lumens 50m
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "The Lighthouse Xplorer range of torches are designed to the highest specification using the best materials to produce torches that are solid, durable, reliable and intended for rugged outdoor activities. This compact slim pocket torch has a digitally regulated REBEL 3 Watt high performance LED, providing an output of 120 Lumens. It has an advanced focus control system to provide both a spot and flood function. The torch casing is manufactured using durable aircraft-grade T6061 aluminium, with a hard-anodised anti-abrasive finish. It is fitted with a toughened, ultra-clear glass lens with anti-reflective coating. The tail cap switch has a positive action with momentary-on function. Supplied in a gift box complete with a full set of AAA Alkaline batteries, a storage belt pouch and wrist strap.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Xplorer LED Torch 3 Watt 120 Lumens 50m",
+  "specifications": [
+    "REBEL LED lifespan: 100,000 hours",
+    "Beam distance: 50m",
+    "Batteries: 2 x AAA cell batteries (included)",
+    "Run time: 5 hours",
+    "Waterproof grade: IPX-6",
+    "Dimensions: 147mm (Length) x 14.7mm (Diameter) x 16mm (Head)",
+    "Weight: 37g (excluding battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-super-extender-inspection-light-200-lumen.html|>
+## Lighthouse Super Extender Inspection Light 200 Lumen
+
+{
+  "price": "€24.10 inc VAT (€19.59 exc.vat)",
+  "description": "The Lighthouse Super Extender Inspection Light is a versatile 2 in 1 torch. Functions as a hand torch using its 3 Watt LED 150 lumens spot beam or as an inspection light utilising its slide out super-bright liner COB LED, that provides a powerful 200 lumens output floodlight, making it ideal for inspection work and general illumination. A magnetic base allows the light to be attached to metal surfaces for hands free use. This torch is an ideal choice for inspection engineers, mechanics, plumbers and any application that also requires a spot beam for distance location. It's compact size allows it to fit neatly into a toolbox, glove box or drawer. Depending on the output mode selected the lamp will provide up to five hours of continuous illumination. Requires 3 x AAA batteries (Supplied).",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Super Extender Inspection Light 200 Lumen",
+  "specifications": [
+    "200 lumens output floodlight",
+    "3 Watt LED 150 lumens spot beam",
+    "Magnetic base for hands-free use",
+    "Compact size for easy storage",
+    "Requires 3 x AAA batteries (Supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-cob-led-swivel-light-and-torch-with-magnetic-base.html|>
+## Lighthouse COB LED Swivel Light & Torch With Magnetic Base
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "The Lighthouse COB LED Swivel Light & Torch provides users with a multitude of features and benefits. Whether you use a torch at work, for a trade application or at home and for leisure and hobby activities. It has the latest technology COB (Chip on Board) LED work light panel on the side of the body, and also a traditional spotlight torch at the end, along with a red flashing hazard light on the back of the body. This enables you to use it in a number of ways to suit the task or environment you are working in. Delivers an outstanding 220 lumens of light whilst the spotlight torch delivers an impressive 120 lumens. Making this an extremely versatile and useful light. Attached to the main body is a ratcheting base which allows the torch to be angled, enabling you to direct light where you need it. The base is also magnetic, so it can be attached to a radiator or car and shine light where you need it most. Ideal if you have to deal with a leak or change a wheel in the dark. There is also a magnet on the back of the body, along with a fold out hook which allows you to hang the torch if needed. It is ideal to have in a glove box, toolbox, kitchen drawer and can be used anywhere, whether it be camping, fishing, working in the garage, loft, plumbing a bath or working on machinery where there is little or no light available. The torch uses 3 x AAA batteries (supplied) and has an impressive run time of between 6 to 8 hours.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse COB LED Swivel Light & Torch With Magnetic Base",
+  "specifications": [
+    "220 lumens of light output",
+    "120 lumens spotlight torch",
+    "Magnetic base for easy attachment",
+    "Ratcheting base for adjustable angle",
+    "Includes 3 x AAA batteries",
+    "Run time of 6 to 8 hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-led-pocket-torch.html|>
+## Lighthouse Rechargeable LED Pocket Torch
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Lighthouse Rechargeable LED Pocket Torch has a compact and lightweight design. The body is manufactured from high grade aluminium. The torch features a super white 120 lumen LED and is powered by a rechargeable 3.7V 350mAh Li-ion battery. Simply unscrew the tail cap and plug the torch into any convenient USB power source, the charging light will glow red and change to green when the battery is fully charged and ready for use. Operated by a clever rotating collar switch, the torch will provide up to four hours of light from a full battery charge. The torch can be top-up charged at any time to ensure it is always ready for use.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Rechargeable LED Pocket Torch",
+  "specifications": [
+    "Rechargeable 3.7V 350mAh Li-ion battery",
+    "120 lumen LED",
+    "Compact and lightweight design",
+    "High grade aluminium body",
+    "Up to four hours of light on full charge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-keyring-led-torch.html|>
+## Lighthouse Keyring LED Torch
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "The Lighthouse Keyring LED Torch features a powerful LED bulb in a lightweight satin finish aluminium body, with a positive tail cap switch. The LED generates a 25 lumen ultra bright white beam of light and has a working life of over 80,000 hours. The compact size makes this torch ideal for carrying in your pocket or bag, the addition of a Carabiner style quick release hook makes it suitable for use as a keyring torch that can be attached to your car or house keys. This torch provides a powerful source of light for locating keyholes or lost items in dark places and is always close at hand.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Keyring LED Torch",
+  "specifications": [
+    "Output: 25 Lumen's.",
+    "Bulb Life: 80,000 Hours.",
+    "Input Power: 4 x LR44 Batteries (supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-elite-mini-slimline-rechargeable-led-torch-200-lumens.html|>
+## Lighthouse Elite Mini Slimline Rechargeable LED Torch 200 lumens
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Lighthouse Elite Mini Slimline Rechargeable LED Torch features the latest technology in portable lighting, allowing an extremely bright light to be encased in a lightweight compact unit. It produces a bright 200 lumens with a 30m beam distance. Three output settings are available, including a solid white dimmable light, a solid red, or a strobe red light. The clever design pocket clip allows the torch to be attached to clothing or a belt, whilst the rear-facing recessed slot allows fixing to a substrate via a screw. A strong magnet in the base enables the torch to be fixed to metalwork. An ideal companion for all trades and around the home or car. Supplied with a USB charging lead.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Elite Mini Slimline Rechargeable LED Torch 200 lumens",
+  "specifications": [
+    "Brightness: 200 lumens",
+    "Beam Distance: 30m",
+    "Run Time: 1.5 hours",
+    "Light Source: COB LED",
+    "Battery: 3.7V 500mAh Li-Polymer",
+    "Charge Time: approx. 2 hours",
+    "Water Resistant: IP64",
+    "Impact Resistant: 1m",
+    "Dimensions: 123 x 25 x 12mm",
+    "Weight: 37g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-elite-mini-led-lamp.html|>
+## Lighthouse Elite Mini LED Lamp
+
+{
+  "price": "€14.82 inc VAT",
+  "description": "The Lighthouse Elite Mini LED Lamp is a compact yet powerful, pocket-sized, double function lamp that operates as a torch or work light. This versatile lamp offers two types of light output using either a 3W LED spotlight providing a 250 lumen spot beam, or a bright 500 lumen COB LED work light. The light output of both functions can be dimmed by holding the power button down. The lamp can provide a spot beam for up to 3 hours or 1.5 hours on the work light setting. The large pocket clip allows the torch to be attached to clothing or a belt, whilst the fold-out hook adds extra versatility. A strong magnet in the base enables the torch to be fixed to metalwork. An ideal companion for all trades and around the home or car. Available in either red, blue, or black and is supplied with 3 x AAA alkaline batteries.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Elite Mini LED Lamp",
+  "specifications": [
+    "Mode: Spot/Flood",
+    "Brightness: 250/500 lumens",
+    "Run Time: 3/1.5 hours",
+    "Light Source: 3W LED/COB LED",
+    "Water Resistant: IP44",
+    "Dimensions: 115 x 46 x 17mm (36mm inc. clip)",
+    "Weight: 90g (125g inc. batteries)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-elite-mini-led-lamp.html|>
+## Lighthouse Rechargeable Elite Mini LED Lamp
+
+{
+  "price": "€21.19 inc VAT (€17.23 exc.vat)",
+  "description": "The Lighthouse Rechargeable Elite Mini LED Lamp is a compact yet powerful, pocket-sized, double-function lamp that operates as a torch or work light. This versatile lamp offers two types of light output, using either a 3W LED spotlight to provide a 55-lumen spot beam, or a 10W COB LED for a bright 500-lumen work light.\n\nThe COB LED work light can be used at 100% or 50% brightness and can be dimmed by holding the power button down. It can provide a spot beam for up to 10 hours or flood for up to 2 hours at a 100% setting.\n\nThe 3.7V Lithium Polymer battery can be easily recharged via the supplied USB cable and a suitable power outlet. A strong magnet in the base enables the torch to be fixed to metalwork. A large pocket clip can be attached to clothing or a belt, whilst the fold-out hook adds extra versatility.\n\nAn ideal companion for all trades and around the home or car. Supplied with a USB charging cable.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Rechargeable Elite Mini LED Lamp",
+  "specifications": [
+    "Mode: Spot / Flood 100% / Flood 50%",
+    "Brightness: 55 / 500 / 250 lumens",
+    "Run Time: 10 / 2 / 10 hours",
+    "Light Source: 3W LED / 10W COB LED",
+    "Battery: 3.7V 1500 mAh Lithium Polymer",
+    "Charge Time: 3 hours",
+    "Water Resistant: IP44",
+    "Dimensions: 106 x 40 x 13.5mm (24.5mm inc. clip)",
+    "Weight: 85g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-flash-micro-r-rechargeable-keychain-torch-75-lumen.html|>
+## SCANGRIP® FLASH MICRO R Rechargeable Keychain Torch 75 lumen
+
+{
+  "price": "€18.78 inc VAT (€15.27 exc.vat)",
+  "description": "The SCANGRIP® FLASH MICRO R Rechargeable Keychain Torch is ultra-compact with a bright LED and a stepless dimmer function enabling you to adjust the light output in the range of 10% to 100%. To turn on the light, press and hold the on/off switch for two seconds. This feature prevents the light from accidentally turning on in the pocket or bag. An integrated USB charger cable allows you to easily recharge the light directly in the USB port of your computer, and other devices without using a separate charger. FLASH MICRO R can also be used as a keychain.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® FLASH MICRO R Rechargeable Keychain Torch 75 lumen",
+  "specifications": [
+    "Luminous Flux Max./Min.: 75/8 Lumen",
+    "Illuminance, Max./Min.(@0,5m): 25/3 Lux",
+    "Beam Angle: 110°",
+    "Power Source: Rechargeable Battery",
+    "Dimensions (LxW): 15 x 25mm",
+    "Weight 0.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ledlenser-k6r-safety-keyring-floodlight-and-alarm.html|>
+## Ledlenser K6R Safety Keyring Floodlight & Alarm
+
+{
+  "price": "€31.32 inc VAT (€25.46 exc.vat)",
+  "description": "The Ledlenser K6R Safety Keyring is an ultra-compact yet powerful keychain light with up to 400 lumens which also includes a shrill alarm for emergency situations and can help deter an attacker or serves as a loud call for help. It has 4 modes: Low Power: 20 lumens, 15 meters for 8 hours. Standard Power: 200 lumens, 50 meters for 1.5 hours. Boost Mode: 400 lumens for 80 meters, a short burst of maximum power for when you need it most. Shrill Alarm and Light: Loud alarm (100dB) and powerful light are easily accessible for emergencies, to ward off danger or signal for help. Always within reach, a carabiner lets you easily attach to keyring, backpack or purse. A transport lock protects against unintentional switching on. Its foldout USB-A connection allows for reliable charging which is quick and easy to use, no additional cables required. A charge level indicator shows you how much battery life is available. The indispensable accessory for when you’re in the dark, alone or feel unsafe and need the ability to signal for help.",
+  "availability": "Out of Stock",
+  "product_name": "Ledlenser K6R Safety Keyring Floodlight & Alarm",
+  "specifications": [
+    "Up to 400 lumens",
+    "4 modes: Low Power, Standard Power, Boost Mode, Shrill Alarm",
+    "Carabiner for easy attachment",
+    "Foldout USB-A connection for charging",
+    "Charge level indicator"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-keyring-torch.html|>
+## Uni-Com Keyring Torch
+
+{
+  "price": "€2.93 inc VAT (€2.38 exc.vat)",
+  "description": "The Uni-Com Keyring Torch has a handy, compact size, perfect for attaching to a hand bag or back pack. It has 3 extra bright long life LEDs and a stylish and rugged anodised aluminium housing. Simply press the button on the end of the torch to turn the light on and off. Powered by 3 x LR44 batteries (supplied).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Keyring Torch",
+  "specifications": [
+    "Compact size for easy attachment to bags",
+    "3 extra bright long life LEDs",
+    "Stylish anodised aluminium housing",
+    "Powered by 3 x LR44 batteries (supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-pocket-torch.html|>
+## Uni-Com Pocket Torch
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "The Uni-Com Pocket Torch is ideal to keep in the car, a tool box, hand bag or back pack. Simply press the button on the end of the torch to turn the light on and off. It also features a handy wrist strap and soft feel torch body. Ideal for DIY, camping, sporting activities and general use around the home. Powered by 3 x AAA batteries (supplied).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Pocket Torch",
+  "specifications": [
+    "Powered by 3 x AAA batteries (supplied)",
+    "Ideal for DIY, camping, sporting activities and general use around the home",
+    "Features a handy wrist strap and soft feel torch body"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-led-mini-hand-torch.html|>
+## Lighthouse Rechargeable LED Mini Hand Torch
+
+{
+  "price": "€14.30 inc VAT (€11.63 exc.vat)",
+  "description": "The Lighthouse Mini Torch provides powerful illumination in the palm of your hand. Designed for outdoor adventures, emergency situations, or everyday tasks around the home, this torch combines portability with performance. With an impressive output of 1000-lumens, the Lighthouse Mini Torch delivers a remarkable beam distance of up to 110 metres. And weighing just 100 grams, it easily fits in your pocket or clips onto your bag, making it incredibly convenient for on-the-go use. The torch features four versatile light modes; 25%, 50%, 100%, and the high-intensity TURBO mode - allowing you to adjust the brightness to your needs. Powered by a robust 700mAh Li-ion battery, it offers an impressive run time of up to 10.5 hours on a single charge, ensuring you have reliable light whenever you need it. Designed for durability, the aluminium alloy body is built to withstand the rigours of everyday use while providing resistance to knocks and drops. Plus, the handy charge indicator keeps you informed of the battery level, so you’re never caught off guard. Whether you’re camping under the stars, hiking through the wilderness, or simply need a dependable source of light for your daily activities, the L/HMT1100R Mini Hand Torch is the perfect tool for the job.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse Rechargeable LED Mini Hand Torch",
+  "specifications": [
+    "Brightness: 1,000 Lumens",
+    "Beam Distance: 110m",
+    "Water Resistant: IPX4",
+    "Impact Resistant: 1m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-led-zoom-headlight-3w-cree.html|>
+## Lighthouse Led Zoom Headlight 3W Cree
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Lighthouse 120 lumen Elite headtorch is a high performance headlight featuring a super-bright CREE XPE LED, with focus control and three output options, high, low and strobe. It is shock and rain resistant and features the very latest technology by incorporating the CREE XPE LED that provides a super bright beam from a single source. CREE XPE LEDs are unsurpassed in both output and efficiency with a life span of over 100,000 hours they will provide a bright beam of light for up to 8 hours from one set of batteries. Supplied complete with 4 AA batteries.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Led Zoom Headlight 3W Cree",
+  "specifications": [
+    "120 lumen output",
+    "CREE XPE LED",
+    "Focus control",
+    "Three output options: high, low, strobe",
+    "Shock and rain resistant",
+    "Includes 4 AA batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/maglite-k3a016-mini-mag-aaa-solitaire-torch-blister-pack---black.html|>
+## Maglite K3A016 Mini Mag AAA Solitaire Torch Blister Pack - Black
+
+{
+  "price": "€26.29 inc VAT (€21.37 exc.vat)",
+  "description": "The Mini Mag AAA Solitaire Torch weighing less than an ounce and three inches in length, yet offering the same precision engineering found in every Maglite. Using only a single AAA battery, its focusing beam is surprisingly bright for such a small flashlight and it comes with a sturdy key lead. Spare bulb (inside tail cap). Length: 81mm. Weight: 24.38g. Batteries: AAA.",
+  "availability": "In Stock",
+  "product_name": "Maglite K3A016 Mini Mag AAA Solitaire Torch Blister Pack - Black",
+  "specifications": [
+    "Length: 81mm",
+    "Weight: 24.38g",
+    "Batteries: AAA"
+  ]
+}
+
+<|https://www.mydiy.ie/products/maglite-sp22017-aa-led-torch-black-in-gift-box.html|>
+## Maglite SP22017 AA LED Torch Black in Gift Box
+
+{
+  "price": "€73.79 inc VAT (€59.99 exc.vat)",
+  "description": "LED flashlight delivers performance in a sleek compact design. This advanced lighting instrument is driven by the next generation of MAG-LED® technology. The Multi-Mode Electronic switch offers two different power settings - a maximum-power setting that yields maximum brightness and a 25% power setting to conserve battery power for reading at night. Length: 167mm. Weight: 118g. Batteries: 2 x AA batteries.",
+  "availability": "In Stock",
+  "product_name": "Maglite SP22017 AA LED Torch Black in Gift Box",
+  "specifications": [
+    "Length: 167mm",
+    "Weight: 118g",
+    "Batteries: 2 x AA batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/maglite-boxed-aa--led-2-mini-maglite---grey.html|>
+## Maglite Boxed AA / LED 2 Mini Maglite - Grey
+
+{
+  "price": "€67.42 inc VAT (€54.81 exc.vat)",
+  "description": "The Mini Maglite® LED is crafted after the legendary Mini Maglite® flashlight. Built tough enough to last a lifetime, its durability and patented features are now available with the new MAG-LEDT Technology. The benefits include: A powerful projecting beam that focuses simply by rotating the head. Balanced OpticsT, combining a highly refined reflector with a quality LED, for a brilliant adjustable beam. Intelligent Energy Source Management (patent pending) balancing high brightness with efficient power usage. Candle mode unscrew flashlight head, place head down on stable flat surface and set flashlight barrel into head.",
+  "availability": "In Stock",
+  "product_name": "Maglite Boxed AA / LED 2 Mini Maglite - Grey",
+  "specifications": [
+    "MGLSP2209LB : €67.42",
+    "List: €71.52",
+    "You save €4.10",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/maglite-replacement-bulbs.html|>
+## Maglite Replacement Bulbs
+
+{
+  "price": "€9.40 inc VAT",
+  "description": "Replacement Bulbs",
+  "availability": "In Stock",
+  "product_name": "Maglite Replacement Bulbs",
+  "specifications": [
+    "Select Option: Solitaire Bulb",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/maglite-sp32-led-mini-mag-aaa-torch-black.html|>
+## Maglite SP32 LED Mini Mag AAA Torch Black
+
+{
+  "price": "€52.56 inc VAT",
+  "description": "MINI MAGLITE® AAA LED Flashlight. The heir to the original Mini Maglite® 2AAA flashlight launched 25 years ago, this newest member of the family features the same classic look and size and the same simple operation – just twist the head to turn it on, turn it off and focus the beam. But thanks to a latest-generation LED light engine, it produces a beam whose intensity is nothing short of amazing – from a pocket-clippable flashlight that's not much bigger than a penlight.",
+  "availability": "In Stock",
+  "product_name": "Maglite SP32 LED Mini Mag AAA Torch Black",
+  "specifications": [
+    "Length: 127mm",
+    "Barrel Diameter: 12.70mm",
+    "Head Diameter: 19mm",
+    "Weight with batteries: 49.04g",
+    "Batteries Required: 2 x AAA Alkaline (included)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-18650-li-ion-battery-37v-2000mah.html|>
+## Lighthouse Rechargeable 18650 Li-ion Battery 3.7V 2000mAh
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "Replacement Rechargeable 18650 Li-ion Battery for the Lighthouse L/HHEAD350 Headlight and L/HEHEAD150R Sensor Headlight.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Rechargeable 18650 Li-ion Battery 3.7V 2000mAh",
+  "specifications": [
+    "Voltage: 3.7V",
+    "MilliAmp-Hour: 2000mAh",
+    "Size: 18 x 65mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-rechargeable-18650-li-ion-battery-37v-2600mah.html|>
+## Lighthouse Rechargeable 18650 Li-ion Battery 3.7V 2600mAh
+
+{
+  "price": "€10.97 inc VAT (€8.92 exc.vat)",
+  "description": "Replacement Rechargeable 18650 Li-ion Battery for the Lighthouse L/HEFOC800 Focus Torch.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse Rechargeable 18650 Li-ion Battery 3.7V 2600mAh",
+  "specifications": [
+    "Voltage: 3.7V",
+    "MilliAmp-Hour: 2600mAh",
+    "Size: 18 x 65mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-a-30542-bulb-set-ml180bml185-2-piece.html|>
+## Makita A-30542 Bulb Set ML180/BML185, 2 Piece
+
+{
+  "price": "€10.10 inc VAT (€8.21 exc.vat)",
+  "description": "Compatible with: BML185, ML180. Performance matched to torch.",
+  "availability": "Out of Stock",
+  "product_name": "Makita A-30542 Bulb Set ML180/BML185, 2 Piece",
+  "specifications": [
+    "Compatible with BML185 and ML180",
+    "Performance matched to torch"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-cob-led-swivel-base-torch.html|>
+## Lighthouse COB LED Swivel Base Torch
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Lighthouse COB LED Swivel Base Torch features a 3 watt COB LED work light, providing a powerful 220 lumen output floodlight along with a bright spotlight function and a 3 LED flashing hazard light system. It has a run time of between 6 to 8 hours depending on the function selected. The unique swivelling base allows the torch to be set at a convenient angle for the job at hand and features the additional advantage of both a magnetic base so that the torch can be attached metal surfaces, along with a convenient folding hang hook making this torch ideal for use in most situations. Supplied complete with 3 AA cell alkaline batteries ready for use.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse COB LED Swivel Base Torch",
+  "specifications": [
+    "Output: Floodlight: 220 lumens, Spotlight: 120 lumens",
+    "Runtime: 6-8 Hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-led-mini-camping-lantern-150-lumens.html|>
+## Lighthouse LED Mini Camping Lantern 150 Lumens
+
+{
+  "price": "€14.82 inc VAT (€12.05 exc.vat)",
+  "description": "The Lighthouse LED Mini Camping Lantern uses high power COB LEDs to provide a safe and portable source of light. With two different light modes, High with 150 Lumen output and Low with 50 Lumen output. It has a flashing green LED under the switch, which makes it easy to locate the lantern in the dark. With an impact resistant case that has an integrated folding hanging/carry handle. Ideal for camping or fishing trips, and for use during power failures and roadside emergencies.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse LED Mini Camping Lantern 150 Lumens",
+  "specifications": [
+    "Input Power: 3 x AA Cell Batteries (Supplied)",
+    "Run Time: High: 12 Hours, Low: 35 Hours",
+    "Beam Distance: 10m",
+    "Weight: 147g (approx)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-led-elite-camping-lantern-750-lumen.html|>
+## Lighthouse LED Elite Camping Lantern 750 Lumen
+
+{
+  "price": "€34.55 inc VAT (€28.09 exc.vat)",
+  "description": "The Lighthouse LED Elite Camping Lantern uses high power COB LEDs to provide a safe and portable source of light. With a useful dimmer switch that allows you to set your own level of illumination, from a low-level reading light, to an ultra-bright flood of light. With an impact resistant case that has an integrated folding hanging/carry handle. Ideal for camping or fishing trips, and for use during power failures and roadside emergencies.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse LED Elite Camping Lantern 750 Lumen",
+  "specifications": [
+    "Input Power: 3 x C Cell Batteries (Supplied)",
+    "Run Time: Max Lumens: 4 Hours, Min Lumens: 20 Hours",
+    "Beam Distance: 21m",
+    "Weight: 321g (approx)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-mag-pen-3-rechargeable-led-pencil-work-light.html|>
+## SCANGRIP® MAG PEN 3 Rechargeable LED Pencil Work Light
+
+{
+  "price": "€56.63 inc VAT (€46.04 exc.vat)",
+  "description": "SCANGRIP® MAG PEN 3 Rechargeable LED Pencil Work Light for professional use provides up to 150 lumens of light. Its stepless dimmer function enables the light to be adjusted between 10% to 100%. The clever design provides illumination from both the lamp head, and the precision top light, while the side switch ensures single-handed operation. It has a slim and elegant design featuring a sturdy rubber surface which is both sturdy and comfortable. Built-in magnets provide versability and hands-free use. Comes complete with USB charging lead and pocket clip.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® MAG PEN 3 Rechargeable LED Pencil Work Light",
+  "specifications": [
+    "Main Light: Luminous Flux, Max.: 150 Lumens",
+    "Illuminance, Max. @0,5m: 200 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 120°",
+    "Secondary Light: Luminous Flux, Max.: 80 Lumens",
+    "Illuminance, Max. 2,000 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 25°",
+    "Length: 174mm",
+    "Power Source: Rechargeable Battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-200-r-rechargeable-led-work-pen-light.html|>
+## SCANGRIP® 200 R Rechargeable LED Work Pen Light
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "SCANGRIP® Rechargeable LED Work Pen Light with dimmer function and built-in magnets for extremely powerful illumination, both from the lamp head (up to 200 lumen) and precision top light (150 lumen). A side switch ensures easy single-handed on/off operation. It also features a stepless dimmer function ranging from 10% to 100% enabling you to easily adjust the light output and only use the light necessary for the specific job. Manufactured from a durable aluminium construction with a comfortable grip, the design is slim and compact allowing access in the most inaccessible places. It is supplied with built-in magnets for suspension or storage, both in the clip and at the bottom of the penlight. This gives you increased flexibility as you can easily position the light for hands free operation. The LED pencil light is easily rechargeable via the supplied USB cable, the charging indicator at the front shows charging status. Complete with pocket clip. Suitable for all kinds of work tasks at the auto workshop, construction site or other demanding working environments.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® 200 R Rechargeable LED Work Pen Light",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 200/20 Lumen",
+    "Illuminance, Max. (Lux@0,5m): 400",
+    "Beam Angle Main: 105°",
+    "Length: 172mm",
+    "Power Source: Rechargeable Battery",
+    "Net Weight: 0.05kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-mag-pro-rechargeable-work-light.html|>
+## SCANGRIP® MAG PRO Rechargeable Work Light
+
+{
+  "price": "€90.84 inc VAT (€73.85 exc.vat)",
+  "description": "SCANGRIP® MAG PRO Rechargeable Work Light with a stepless dimmer function in the range of 10 to 100%. COB LEDs provides up to 600 lumens of light and the clever design provides work light and flashlight functionality in one unit. The lamp head is flexible and tilts up to 180°. Its ergonomic design ensures comfort and ease of use. Three strong in-built magnetic holders and two retractable hanging hooks provide ultimate flexibility. There is also a battery life indicator on the front of the light.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® MAG PRO Rechargeable Work Light",
+  "specifications": [
+    "Luminous Flux, Max./Min.: 600/60 Lumens",
+    "Illuminance, Max./Min. (@0,5m): 900/90 Lux",
+    "Illuminance Distance: 0.50m",
+    "Beam Angle: 120°",
+    "Secondary Light Luminous Flux, Max.: 150 Lumens",
+    "Secondary Light Illuminance, Max.: 2,000 Lux",
+    "Secondary Light Illuminance Distance: 0.50m",
+    "Length: 261mm",
+    "Power Source: Rechargeable Battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-miniform-rechargeable-work-light-200-lumens.html|>
+## SCANGRIP® MINIFORM Rechargeable Work Light 200 lumens
+
+{
+  "price": "€69.57 inc VAT (€56.56 exc.vat)",
+  "description": "The SCANGRIP® MINIFORM is a compact USB-C rechargeable LED handlamp for the professional user. It has a high efficiency, multi-LED design with 20 LEDs, providing up to 200 lumens. The top light provides a focused beam of 120 lumens, ideal when you need a concentrated light source for various inspection tasks. In addition, a user-friendly battery indicator keeps you informed about the battery level. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light and runtime with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1. Designed to perform consistently in tough work environments, MINIFORM is durable and resistant to water and dust (IP65). It features a built-in magnet and hook for flexible positioning and a clip for convenient belt carrying. The handy size and shape of the lamp ensures a comfortable, ergonomic grip, making it easy to carry in your pocket and always within reach when needed.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® MINIFORM Rechargeable Work Light 200 lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 200/20 Lumens, Spot 120 Lumens",
+    "OPTILight Setting: 500 lux @0.25m",
+    "Adjustable Light Output: 3 Levels",
+    "Beam Angle: 115°, Spot: 35°",
+    "Power Source: Rechargeable",
+    "Charging Time: 3 hours",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 126 x 60 x 23.5mm",
+    "Weight: 106g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-uniform-rechargeable-work-light-with-charging-base-200-lumens.html|>
+## SCANGRIP® UNIFORM Rechargeable Work Light with Charging Base 200 lumens
+
+{
+  "price": "€108.61 inc VAT (€88.30 exc.vat)",
+  "description": "The SCANGRIP® UNIFORM is a compact LED work light for the professional user with USB-C charging base. It has a high efficiency, multi-LED design with 32 LEDs, providing up to 200 lumens. The top light provides a focused beam of 175 lumens, ideal when you need a concentrated light source for various inspection tasks. In addition, a user-friendly battery indicator keeps you informed about the battery level. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light and runtime with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1. The flexible lamp head can tilt up to 180 degrees, providing you with the flexibility to adjust the direction of the light as needed. In addition, the handlamp has an ergonomic grip and a compact design, making it easy to carry. Designed to perform consistently in tough work environments, UNIFORM is durable and resistant to water and dust (IP65). It is a versatile work light designed with a turnable hook and strong built-in magnet, allowing for flexible positioning anywhere during inspection work. The handlamp is also fitted with a belt clip for easier carrying.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® UNIFORM Rechargeable Work Light with Charging Base 200 lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 500/50 Lumens, Spot 175 Lumens",
+    "OPTILight Setting: 500 lux @0.25m",
+    "Adjustable Light Output: 3 Levels",
+    "Beam Angle: 110°, Spot: 30°",
+    "Power Source: Rechargeable",
+    "Charging Time: 3.5 hours",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 126 x 60 x 23.5mm",
+    "Weight: 263g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-unipen-2-in-1-rechargeable-work-light-150-lumens.html|>
+## SCANGRIP® UNIPEN 2-in-1 Rechargeable Work Light 150 lumens
+
+{
+  "price": "€56.09 inc VAT (€45.60 exc.vat)",
+  "description": "The SCANGRIP® UNIPEN is an energy-efficient, USB-C rechargeable penlight with a top light perfect to always have 'on hand'. Designed to perform consistently in tough work environments, UNIPEN is durable and resistant to water and dust (IP65). It features a built-in magnet for easy positioning and a pocket clip for convenient carrying. In addition, the small flexible bracket enables the lamp head to tilt up to 180 degrees, offering flexible positioning. It has a high efficiency, multi-LED design with 20 LEDs, providing up to 150 lumens. The top light provides a focused beam of 75 lumens, ideal when you need a concentrated light source for various inspection tasks. In addition, a user-friendly battery indicator keeps you informed about the battery level. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light and runtime with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® UNIPEN 2-in-1 Rechargeable Work Light 150 lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 150/15 Lumens, Spot 75 Lumens",
+    "OPTILight Setting: 500 lux @0.25m",
+    "Adjustable Light Output: 3 Levels",
+    "Beam Angle: 100°, Spot: 50°",
+    "Power Source: Rechargeable",
+    "Charging Time: 2.5 hours",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 158 x 27 x 21mm",
+    "Weight: 77g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t100cr-compact-rechargeable-lamp.html|>
+## Lighthouse T100CR Compact Rechargeable Lamp
+
+{
+  "price": "€26.59 inc VAT (€21.62 exc.vat)",
+  "description": "The Lighthouse T100CR Compact Rechargeable Lamp provides up to 1,000 lumens of super bright white light, as well as 100%, 50%, and 25% light modes to suit your needs. Designed with durable materials, the lamp can withstand heavy usage, bumps, and drops, making it an essential addition to any working environment. Its 180-degree tilting stand is fitted with a strong magnet, which allows you to attach it to any magnetic metal surface for a versatile static work light. Additionally, the lamp features a 2500mAh Li-ion battery which can last for up to 12 hours, depending on the function you select. So whether you require light for general use or are working in a workshop or garage, the T100CR is sure to provide the brightness you require for the task at hand. Supplied with a USB-C Charging Lead.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse T100CR Compact Rechargeable Lamp",
+  "specifications": [
+    "Brightness: 1,000/500/250/300 lumens",
+    "LED Power: 10W/3W",
+    "Beam Distance: 100m",
+    "LED Colour: 6,500K",
+    "Light Source: SMD LED",
+    "Battery: Rechargeable 3.7V 2500mAh Li-ion",
+    "Max. Run Time: 12 hours",
+    "Charge Time: Approx. 3.5 hours",
+    "Impact Resistant: IK08",
+    "Water Resistant: IP65",
+    "Dimensions: 90 x 72 x 40mm",
+    "Weight: 115g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-mini-slim-ultra-thin-rechargeable-work-light-200-lumens.html|>
+## SCANGRIP® MINI SLIM Ultra-thin Rechargeable Work Light 200 Lumens
+
+{
+  "price": "€77.18 inc VAT (€62.75 exc.vat)",
+  "description": "The SCANGRIP® MINI SLIM is a small USB-C rechargeable LED work light offering the perfect combination of convenience and versatility. Serves as an inspection light, work light, and flashlight - all in one compact and portable handlamp. It has a high efficiency, multi-LED design with 16 LEDs, providing up to 200 lumens. The top light provides a focused beam of 100 lumens. With the ultra-thin design of the light strip (only Ø9 mm), it is perfect for reaching the most narrow and inaccessible work areas. This makes MINI SLIM ideal for very demanding and difficult inspection jobs. It has a built-in magnet and hook, as well as a flexible 100 % foldable body offering flexible positioning options. The design allows for traditional hand-held use, and its compact size ensures portability anywhere. When folded, it easily transforms into a flashlight to provide a firm grip. In addition, a user-friendly battery indicator keeps you informed about the battery level. The OPTILightsetting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light and runtime with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® MINI SLIM Ultra-thin Rechargeable Work Light 200 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 200/20 Lumens, Spot 100 Lumens",
+    "OPTILight Setting: 500 lux @0.25m",
+    "Adjustable Light Output: 3 Levels",
+    "Beam Angle: 110°, Spot: 25°",
+    "Power Source: Rechargeable",
+    "Charging Time: 2.5 hours",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 130 x 43 x 29mm",
+    "Weight: 97g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-slim-ultra-thin-rechargeable-work-light-500-lumens.html|>
+## SCANGRIP® SLIM Ultra-thin Rechargeable Work Light 500 Lumens
+
+{
+  "price": "€95.45 inc VAT (€77.60 exc.vat)",
+  "description": "The SCANGRIP® SLIM is an USB-C rechargeable LED work light which offers the perfect combination of convenience and versatility. It is a 3-in-1 solution serving as an inspection light, work light, and flashlight - all in one compact and portable handlamp. It has a high efficiency, multi-LED design with 20 LEDs, providing up to 500 lumens. The top light provides a focused beam of 150 lumens. With the ultra-thin design of the light strip (only Ø9mm), it is perfect for reaching the most narrow and inaccessible work areas. This makes SLIM ideal for very demanding and difficult inspection jobs. It has a built-in magnet and hook, as well as a flexible 100 % foldable body offering flexible positioning options. The design allows for traditional hand-held use, and its compact size ensures portability anywhere. When folded, it easily transforms into a flashlight that provides a firm grip. In addition, a user-friendly battery indicator keeps you informed about the battery level. The OPTILight setting delivers the required illuminance (LUX) in a typical work situation, ensuring optimized light and runtime with a simple touch. This work light provides a constant lumen output performance measured according to the European standard EN 13032-1.",
+  "availability": "Out of Stock",
+  "product_name": "SCANGRIP® SLIM Ultra-thin Rechargeable Work Light 500 Lumens",
+  "specifications": [
+    "Luminous Flux (Max./Min.): 500/50 Lumens, Spot 100 Lumens",
+    "OPTILight Setting: 500 lux @0.25m",
+    "Adjustable Light Output: 3 Levels",
+    "Beam Angle: 110°, Spot: 25°",
+    "Power Source: Rechargeable",
+    "Charging Time: 3.5 hours",
+    "Impact Protection: IK07",
+    "Impact Resistance: 2m",
+    "Dimensions: 166 x 46 x 29mm",
+    "Weight: 205g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t100fr-rechargable-inspection-wand.html|>
+## Lighthouse T100FR Rechargable Inspection Wand
+
+{
+  "price": "€28.63 inc VAT (€23.28 exc.vat)",
+  "description": "The Lighthouse T100FR Rechargable Inspection Wand is ideal for illuminating hard-to-reach areas in machinery and vehicles, dimly lit work spaces, loft and outdoor activities such as camping and emergency situations. It has a 1000-lumen inspection light which can rotate up to 270 degrees, providing you with optimal illumination and coverage. Additionally, it has a secondary spotlight LED generating directional light, perfect for highlighting specific areas of interest. 25%, 50%, and 100% light settings, let you adjust the brightness level according to your needs. With its 2500mAh Li-ion battery, this torch can last up to 12 hours on a single charge, ensuring you have uninterrupted use for an extended period. Its portable and versatile folding design makes it convenient to carry around, and you can mount it to metal surfaces using its magnetic base. The Inspection Torch is IP54 water-resistant and IK07 drop-resistant, making it a sturdy and durable tool which can withstand harsh conditions. Supplied with a USB-C Charging Lead.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse T100FR Rechargable Inspection Wand",
+  "specifications": [
+    "Brightness: 1,000/500/250/200 lumens",
+    "LED Power: 10W/2W",
+    "Beam Distance: 50m",
+    "LED Colour: 6,500K",
+    "Light Source: COB LED",
+    "Battery: Rechargeable 3.7V 2500mAh Li-ion",
+    "Max. Run Time: 12 hours",
+    "Charge Time: Approx. 3.5 hours",
+    "Impact Resistant: IK07",
+    "Water Resistant: IP54",
+    "Dimensions: 350 x 50 x 50mm",
+    "Weight: 257g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t100wr-rechargeable-inspection-wand.html|>
+## Lighthouse T100WR Rechargeable Inspection Wand
+
+{
+  "price": "€38.47 inc VAT (€31.28 exc.vat)",
+  "description": "The Lighthouse T100WR Rechargeable Inspection Wand is the perfect tool for illuminating hard-to-reach areas! With its slim-line design, adjustable hook, and magnetic base, this rechargeable wand is a must-have for electricians, plumbers, mechanics, kitchen fitters, and many other trades. The wand features a dimmable light which can be used as a floodlight and a secondary spot beam LED. The high-power COB LED provides an exceptionally clear white light output of 1000 Lumens. The light output can be dimmed with a simple rotary dial. The super slim light blade is great for fitting through tight gaps, making it easy to see the task at hand. The magnetic base allows for hands-free use when attached to metal surfaces, and the ball joint allows you to angle the light to the exact location you need it. With its IP67 waterproof rating, the light can even be submersed in water for up to 10 minutes providing the USB charging cover is properly sealed. The rechargeable 3.7V 2500mAh Lithium battery provides up to 12 hours of runtime and can be easily recharged with the supplied USB charging cable.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse T100WR Rechargeable Inspection Wand",
+  "specifications": [
+    "Brightness: 1,000/200 lumens",
+    "LED Power: 10W/2W",
+    "LED Colour: 6,500K",
+    "Light Source: COB LED",
+    "Battery: Rechargeable 3.7V 2500mAh Li-ion",
+    "Max. Run Time: 12 hours",
+    "Charge Time: Approx. 3.5 hours",
+    "Impact Resistant: IK08",
+    "Water Resistant: IP67",
+    "Dimensions: 410 x 45 x 40mm",
+    "Weight: 291g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/uni-com-work-light.html|>
+## Uni-Com Work Light
+
+{
+  "price": "€6.62 inc VAT (€5.38 exc.vat)",
+  "description": "The Uni-Com Work Light is ideal for DIY, camping or general use around the home. It has a powerful 3W COB LED, bright enough to illuminate any situation. It can be used hand held or hung using built-in hanging hook or powerful magnet, both on the back of the unit. To operate the multi light simply press the button on the front to switch on and off. Powered by 3 x AA batteries (supplied).",
+  "availability": "In Stock",
+  "product_name": "Uni-Com Work Light",
+  "specifications": [
+    "Powerful 3W COB LED",
+    "Can be used hand held or hung",
+    "Built-in hanging hook and powerful magnet",
+    "Powered by 3 x AA batteries (supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t100zr-rechargable-zoom-lamp.html|>
+## Lighthouse T100ZR Rechargable Zoom Lamp
+
+{
+  "price": "€28.66 inc VAT (€23.30 exc.vat)",
+  "description": "The Lighthouse T100ZR Rechargable Zoom Lamp is a versatile handheld flashlight which can be used for a range of activities such as car repairs, hiking, dog walking, camping, and more. It boasts 1000 lumens of ultra-bright light, three brightness settings, and an easy-to-use push/pull zoom function, making it a reliable and adaptable tool to have on hand. The T100ZR also features a 180-degree pivoting head, which can effortlessly illuminate even the tightest spaces, and the base of the torch comes equipped with strong magnets, to enable hands-free use. Constructed from durable materials, the T100ZR is designed to withstand heavy usage, bumps, and drops. It's robust design and large power button mean it's both ergonomic and easy to operate, even while wearing gloves. Supplied with a USB-C Charging Lead.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse T100ZR Rechargable Zoom Lamp",
+  "specifications": [
+    "Brightness: 1,000 lumens",
+    "LED Power: 10W",
+    "Beam Distance: 120m",
+    "LED Colour: 6,500K",
+    "Light Source: COB LED",
+    "Battery: Rechargeable 3.7V 2500mAh Li-ion",
+    "Max. Run Time: 12 hours",
+    "Charge Time: Approx. 3.5 hours",
+    "Impact Resistant: IK08",
+    "Water Resistant: IP54",
+    "Dimensions: 195 x 50 x 35mm",
+    "Weight: 265g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t70r-rechargable-inspection-lamp.html|>
+## Lighthouse T70R Rechargable Inspection Lamp
+
+{
+  "price": "€25.99 inc VAT (€21.13 exc.vat)",
+  "description": "The Lighthouse T70R Rechargable Inspection Lamp is a versatile addition to any toolkit, it features an SMD LED that produces a powerful floodlight output of 700 lumens. Additionally, it has a separate 120-lumen spotlight LED for when you require a bright, directional beam. Another great feature of this torch is the 2500mAh Li-ion battery, which can run for up to 10 hours depending on the function you select. So whether you need a strong light for a long period of time or a quick burst of brightness, this torch has got you covered. The T70R Inspection Light also boasts a convenient swivelling letting you set the torch at an angle that works best for you. This feature is particularly handy for illuminating small spaces like cupboards, tents, and car engines. The magnetic back makes it easy to attach to a variety of metal surfaces, giving you even more flexibility. If that's not enough, two different-sized hanging hooks are folded neatly into the torch itself, so you can hang it up and free up your hands while you work. Supplied with a 1m USB C lead.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse T70R Rechargable Inspection Lamp",
+  "specifications": [
+    "Output: Worklight: 700 lumen, Spotlight: 120 lumen",
+    "Run Time: 6-10 hours",
+    "Dimensions: 270 x 65 x 40mm",
+    "Weight: 318g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t120r-rechargeable-inspection-lamp.html|>
+## Lighthouse T120R Rechargeable Inspection Lamp
+
+{
+  "price": "€30.69 inc VAT (€24.95 exc.vat)",
+  "description": "The Lighthouse T120R Rechargeable Inspection Lamp is both compact and versatile, it offers reliable illumination for both personal and professional settings. It boasts an impressive 1200 lumens output, providing incredible brightness to light up any space. The main torch features 100%, 50%, and 25% light modes for a broader coverage area. Additionally, a secondary spotlight on the top of the device provides a bright and focused beam, perfect for handheld use. Equipped with a rechargeable 2500mAh Li-ion battery, the T120R work light provides a runtime of up to 12 hours on the main torch or 10 hours on the secondary spotlight. Its 360-degree stand allows you to use the torch as a stand-alone light or as a mounted solution, providing flexibility in how you use it. Magnets located on the base make it easy to mount to metal surfaces, and a handy hook allows you to hang the torch for hands-free use. Supplied with a USB-C Charging Lead.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse T120R Rechargeable Inspection Lamp",
+  "specifications": [
+    "Brightness: 1,200/600/300/200 lumens",
+    "LED Power: 10W/1W",
+    "Beam Distance: 50m",
+    "LED Colour: 6,500K",
+    "Light Source: COB LED",
+    "Battery: Rechargeable 3.7V 2500mAh Li-ion",
+    "Max. Run Time: 12 hours",
+    "Charge Time: Approx. 3.5 hours",
+    "Impact Resistant: IK08",
+    "Water Resistant: IP54",
+    "Dimensions: 145 x 70 x 35mm",
+    "Weight: 287g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t30r-rechargeable-inspection-lamp.html|>
+## Lighthouse T30R Rechargeable Inspection Lamp
+
+{
+  "price": "€20.45 inc VAT (€16.63 exc.vat)",
+  "description": "The Lighthouse T30R Rechargeable Inspection Lamp is a compact yet powerful SMD LED torch suitable for a variety of work and leisure settings. Thanks to its size it is particularly versatile in small spaces like electrical cabinets, wheel arches, and camping tents. It provides 300 lumens of powerful illumination and features two brightness settings of 100% and 50% to suit the task at hand. Equipped with an 1800mAh rechargeable battery, it's an ideal everyday carry and is capable of up to 6 hours of uninterrupted usage. A pocket clip and a rotating hook can be found on the reverse of the torch to provide additional flexibility, simply attach to your workwear or other objects for hands-free use. The T30R also has a magnetic base which features a 180-degree tilting motion to allow you to securely attach the lamp to your working area and to aim the light where you need it most. Supplied with a USB-C Charging Lead.",
+  "availability": "Out of Stock",
+  "product_name": "Lighthouse T30R Rechargeable Inspection Lamp",
+  "specifications": [
+    "Brightness: 300/150 lumens",
+    "LED Power: 3W",
+    "Beam Distance: 20m",
+    "LED Colour: 6,500K",
+    "Light Source: SMD LED",
+    "Battery: Rechargeable 3.7V 2500mAh Li-ion",
+    "Max. Run Time: 6 hours",
+    "Charge Time: Approx. 3.5 hours",
+    "Impact Resistant: IK07",
+    "Water Resistant: IP54",
+    "Dimensions: 125 x 60 x 30mm",
+    "Weight: 131g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lighthouse-t40fr-rechargeable-inspection-wand.html|>
+## Lighthouse T40FR Rechargeable Inspection Wand
+
+{
+  "price": "€22.51 inc VAT (€18.30 exc.vat)",
+  "description": "The Lighthouse T40FR Rechargeable Inspection Wand is a compact, yet powerful flashlight, which can easily be clipped to your pocket, rucksack or workbag. It also comes with a convenient wrist strap for added security. The unique folding design tilts at a 200 degree angle, and three LEDs are strategically placed to provide light from any angle, and include a primary 400-lumen SMD LED, a secondary 200-lumen SMD LED at the rear, and a 120-lumen top spotlight. Made from durable materials, this wand is designed to withstand heavy usage, bumps, and drops, making it ideal for use in industrial settings. You'll find a pocket clip on the back of the handle, which allows you to easily attach it to your clothing, and a belt loop on the top for hanging it while you work. Additionally, the strong magnetic base and dual rear magnets enable you to securely mount the wand to a variety of metal surfaces, providing you with hands-free working. Supplied with a USB-C Charging Lead and wrist strap.",
+  "availability": "In Stock",
+  "product_name": "Lighthouse T40FR Rechargeable Inspection Wand",
+  "specifications": [
+    "Brightness: 400/200/120 lumens",
+    "LED Power: 3W/1.5W/1W",
+    "Beam Distance: 80m",
+    "LED Colour: 6,500K",
+    "Light Source: SMD LED",
+    "Battery: Rechargeable 3.7V 2500mAh Li-ion",
+    "Max. Run Time: 6 hours",
+    "Charge Time: Approx. 2 hours",
+    "Impact Resistant: IK07",
+    "Water Resistant: IP54",
+    "Folded Dimensions: 160 x 35 x 20mm",
+    "Weight: 92g"
+  ]
+}
+

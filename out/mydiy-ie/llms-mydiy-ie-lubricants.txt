@@ -1,0 +1,2298 @@
+<|https://www.mydiy.ie/products/3-in-one-3-in-one-high-performance-lubricant-with-ptfe-400ml.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/3-in-one-3-in-one-white-lithium-spray-grease-400ml.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/3-in-one-flexicans-3-in-one-oil.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/abus-mechanical-ps88-lubricating-spray-50ml-carded.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/aerosol-pocket-rocket-lubricant-and-repellent.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-connecting-hoses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-new-group-for-faiop1.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-oil-can-transparent-plastic-350ml.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-oil-cans.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-oil-suction-gun-metal-500ml-16fl-oz.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-plastic-rotary-pump.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/swarfega-duck-oils.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/rocol-foodlube-universal-bearing-grease-nlgi-2-380g.html|>
+## ROCOL FOODLUBE® Universal Bearing Grease NLGI 2 380g
+
+{
+  "price": "€60.17 inc VAT (€48.92 exc.vat)",
+  "description": "Rocol FOODLUBE Universal 2 bearing grease is a white, non toxic lubricant designed for the effective lubrication and protection of ball, roller and plain bearings, slides and bushes operating in food, pharmaceutical and other clean environments. An excellent all round NLGI No.2 grease offering excellent water wash off resistance and corrosion protection necessary for lubricants used in food, pharmaceutical and other clean environments.Exhibits outstanding EP performance with a 4 ball weld load of 620 kg. Has excellent oxidation stability resulting in extended relubrication intervals and a reduction in lubricant usage. Its biologically hard formulation resists bacterial growth. Whilst being compatible with other soap thickened greases. However, for best results the previous lubricant should be removed prior to application. Storage temperature should be controlled between +1°C and +40°C. Temperature range - 50°C to + 160°C. Size: 380g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL FOODLUBE® Universal Bearing Grease NLGI 2 380g",
+  "specifications": [
+    "Size: 380g",
+    "Temperature range: -50°C to +160°C",
+    "NLGI No.2 grease",
+    "Excellent water wash off resistance",
+    "Corrosion protection",
+    "Outstanding EP performance with a 4 ball weld load of 620 kg",
+    "Oxidation stability for extended relubrication intervals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-hi-temp-2-bearing-grease-nlgi-2-380g.html|>
+## ROCOL FOODLUBE® Hi-Temp 2 Bearing Grease NLGI 2 380g
+
+{
+  "price": "€100.75 inc VAT (€81.91 exc.vat)",
+  "description": "ROCOL FOODLUBE® Hi-Temp Grease 2 is a white,semi-translucent, non-toxic lubricant designed for the effective lubrication and protection of ball, roller and plain bearings, slides and bushes operating at high temperatures in food, pharmaceutical and other clean environments. Silicone grease fortified with PTFE that is ideal for slow moving bearings and slides. It has a high resistance to water wash off and attack from acids and alkalis such as fruit juices and caustic cleaners commonly found in food, pharmaceutical and other clean environments. Ideal for the assembly and lubrication of most types of plastic and rubber (not silicone rubber).It offers good anti wear performance and is highly resistant to water wash off. Its outstanding oxidation stability results in an extremely long service life and the biologically hard formulation resists bacterial growth. FOODLUBE Hi-Temp Grease 2 can be applied manually, by grease gun, keg pump or by other methods suitable for an NLGI No. 2 silicone grease. PLEASE NOTE: Silicone greases require a silicone grease gun.For best results it is recommended not to mix ROCOL FOODLUBE Hi-Temp Grease 2 with any other lubricant. Components should be cleaned with a suitable solvent such as ROCOL Industrial Cleaner Rapid Dry Spray prior to the application of FOODLUBE Hi-Temp Grease 2. The storage temperature should be controlled between +1° C and +40° C with shelf life 3 years from date of manufacture. Wide temperature resistance of -20°C to +200°C. Size: 380g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL FOODLUBE® Hi-Temp 2 Bearing Grease NLGI 2 380g",
+  "specifications": [
+    "Size: 380g",
+    "Temperature resistance: -20°C to +200°C",
+    "Non-toxic lubricant",
+    "High resistance to water wash off",
+    "Outstanding oxidation stability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-chain-spray-400ml.html|>
+## ROCOL FOODLUBE® Chain Spray 400ml
+
+{
+  "price": "€62.61 inc VAT (€50.90 exc.vat)",
+  "description": "FOODLUBE® Chain Spray is a non-toxic, water resistant lubricating aerosol designed primarily for the effective lubrication of all types of chains and conveyors operating in food, pharmaceutical and other clean environments. FOODLUBE® Chain Spray is an excellent all round lubricating fluid containing additives to boost performance and improve adhesion. It also offers excellent water wash off resistance and corrosion protection necessary for lubricants used in food, pharmaceutical and other clean environments.",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL FOODLUBE® Chain Spray 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Temperature resistance: -20° C to +150° C (+180° C for short periods)",
+    "Water displacing, highly adhesive film",
+    "Excellent oxidation stability",
+    "Biologically hard formulation - resists bacterial growth"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-spray-300ml.html|>
+## ROCOL FOODLUBE® Spray 300ml
+
+{
+  "price": "€43.80 inc VAT (€35.61 exc.vat)",
+  "description": "FOODLUBE® is a high performance versatile lubricant spray for all round light to medium lubrication of most moving parts, including small bearings and slides. Offers excellent de-watering properties, corrosion protection and provides a long lasting protective film. Temperature range - 20°C to + 110ºC. NSF H1 registered. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL FOODLUBE® Spray 300ml",
+  "specifications": [
+    "Temperature range - 20°C to + 110ºC",
+    "NSF H1 registered",
+    "Size: 300ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-dismantling-spray-300ml.html|>
+## ROCOL FOODLUBE® Dismantling Spray 300ml
+
+{
+  "price": "€49.10 inc VAT (€39.92 exc.vat)",
+  "description": "Rocol FOODLUBE® Dismantling Spray is a non-toxic, fast acting, penetrating lubricant which also provides short term corrosion protection for corroded threaded fasteners and other seized components. It is NSF H1 registered for incidental contact with food making it ideal for use in food, pharmaceutical and other clean industries where a non-toxic product is required or preferred. However, it is also ideal for general industrial applications particularly where a clean product is required. Has a wide operating temperature range from -20°C to +110°C. Its fast acting formula provides quick effective release of seized and corroded threaded fasteners. Store below +50°C, out of direct sunlight, has a shelf life is 5 years from date of manufacture. Use only in well ventilated areas and do not apply to very hot surfaces. Does not contain: mineral hydrocarbons, animal derived materials, nut oils or genetically modified ingredients. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL FOODLUBE® Dismantling Spray 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Operating temperature range: -20°C to +110°C",
+    "NSF H1 registered for incidental contact with food",
+    "Fast acting formula for quick release of seized components",
+    "Shelf life: 5 years from date of manufacture"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-multi-paste-spray-400ml.html|>
+## ROCOL FOODLUBE® Multi-Paste Spray 400ml
+
+{
+  "price": "€51.87 inc VAT (€42.17 exc.vat)",
+  "description": "FOODLUBE® Multi-Paste Spray is a superior performance, white anti-seize and assembly spray developed for protecting fasteners and lubricating bushes, slides and small open gears in a convenient aerosol spray. Ideally suited for use on stainless steel and in high temperature applications. Offers long life, up to six times more than the competition, and is exceptionally clean compared to copper based anti-seize. Prevents galling & pick-up on assembly and is extremely tenacious, even resists water wash out. Wide temperature range 30°C to +450°C. NSF H1 registered. Size: 400ml spray.",
+  "availability": "In Stock",
+  "product_name": "ROCOL FOODLUBE® Multi-Paste Spray 400ml",
+  "specifications": [
+    "Size: 400ml spray",
+    "Temperature range: 30°C to +450°C",
+    "NSF H1 registered"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-multi-paste.html|>
+## ROCOL Foodlube® Multi-paste
+
+{
+  "price": "€39.72 inc VAT",
+  "description": "Rocol FOODLUBE® Multi-Paste is a white, non-toxic hydrocarbon free paste designed for use as an anti-seize and assembly paste in the food and other clean industries. It can also be used to effectively lubricate bushes, slides and small open gears. Ideally suited for use on stainless steel particularly at elevated temperatures. Offers long life, up to six times more than the competition, exceptionally clean compared to copper based anti-seize. Prevents galling and pick-up on assembly, resists water wash out. Temperature range 30°C to + 450°C. NSF H1 registered.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Foodlube® Multi-paste",
+  "specifications": [
+    "85g option available",
+    "Temperature range: 30°C to +450°C",
+    "NSF H1 registered",
+    "Non-toxic and hydrocarbon free"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-wd-spray-300ml.html|>
+## ROCOL FOODLUBE® WD Spray 300ml
+
+{
+  "price": "€45.13 inc VAT (€36.69 exc.vat)",
+  "description": "ROCOL FOODLUBE® WD Spray has a non-toxic silicone free formulation that is fortified with PTFE. Excellent anti-wear and lubricating properties with a superior penetrating and cleaning performance. Suitable for general use in food, beverage and pharmaceutical plants. Utilises DETEX technology, x-ray and metal detectable plastic aerosol caps and actuators reduces risk of plastic contamination. NSF H1 Registered, ISO 21469, HALAL and Kosher Certified",
+  "availability": "In Stock",
+  "product_name": "ROCOL FOODLUBE® WD Spray 300ml",
+  "specifications": [
+    "Temperature Range: -50°C to +120°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-protect-spray-300ml.html|>
+## ROCOL FOODLUBE® Protect Spray 300ml
+
+{
+  "price": "€43.57 inc VAT (€35.42 exc.vat)",
+  "description": "White visible film fortified with PTFE, acts as a dry film lubricant. Resilient to aggressive cleaning and has excellent corrosion protection. Temperature range -40°C to +110°C. Detex technology reduces risk of plastic contamination. NSF H1 Registered, ISO 21469, Halal and Kosher Certified.",
+  "availability": "In Stock",
+  "product_name": "ROCOL FOODLUBE® Protect Spray 300ml",
+  "specifications": [
+    "Temperature range -40°C to +110°C",
+    "NSF H1 Registered",
+    "ISO 21469 Certified",
+    "Halal and Kosher Certified",
+    "Detex technology reduces risk of plastic contamination"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-spray-grease-400ml.html|>
+## ROCOL FOODLUBE® Spray Grease 400ml
+
+{
+  "price": "€41.23 inc VAT (€33.52 exc.vat)",
+  "description": "An excellent all-round, long-life lubricant, fortified with PTFE. Highly resistant to water wash-off and has excellent corrosion protection. Temperature resistance -50°C to +160°C. Detex technology reduces risk of plastic contamination. NSF H1 Registered, ISO 21469, Halal and Kosher Certified.",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL FOODLUBE® Spray Grease 400ml",
+  "specifications": [
+    "Fortified with PTFE",
+    "Temperature resistance -50°C to +160°C",
+    "NSF H1 Registered",
+    "ISO 21469 Certified",
+    "Halal and Kosher Certified"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foodlube-premier-380g.html|>
+## ROCOL FOODLUBE® Premier 380g
+
+{
+  "price": "€60.17 inc VAT (€48.92 exc.vat)",
+  "description": "Ideal for electric motors and fan bearings\n\nHigh load and wear properties\n\nExcellent corrosion protection\n\nTemperature range -30°C to +180°C\n\nDetex technology reduces risk of plastic contamination\n\nNSF H1 Registered, ISO 21469, Halal and Kosher Certified",
+  "availability": "In Stock",
+  "product_name": "ROCOL FOODLUBE® Premier 380g",
+  "specifications": [
+    "Ideal for electric motors and fan bearings",
+    "High load and wear properties",
+    "Excellent corrosion protection",
+    "Temperature range -30°C to +180°C",
+    "Detex technology reduces risk of plastic contamination",
+    "NSF H1 Registered, ISO 21469, Halal and Kosher Certified"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-purol-spray-grease-400ml.html|>
+## ROCOL PUROL Spray Grease 400ml
+
+{
+  "price": "€41.20 inc VAT (€33.50 exc.vat)",
+  "description": "For use as a direct food contact release agent and as a lubricant. Good oxidation stability results in extended lubrication intervals. Temperature resistance -10°C to +110°C. Detex technology reduces risk of plastic contamination. NSF H1, NSF 3H Registered, ISO 21469, Halal Certified.",
+  "availability": "In Stock",
+  "product_name": "ROCOL PUROL Spray Grease 400ml",
+  "specifications": [
+    "Temperature resistance -10°C to +110°C",
+    "NSF H1, NSF 3H Registered",
+    "ISO 21469",
+    "Halal Certified"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-1066s-heavy-duty-side-lever-grease-gun.html|>
+## Lumatic 1066/S Heavy-Duty Side Lever Grease Gun
+
+{
+  "price": "€43.11 inc VAT (€35.05 exc.vat)",
+  "description": "The Lumatic 1066/S Heavy-Duty Side Lever Grease Gun comes complete with air release valve/European pattern bulk filler nipple, filler point, 6 inch rigid tube and four jaw hydraulic connector. International cartridge loading, accepts 400cc cartridge. Made in Germany.",
+  "availability": "Out of Stock",
+  "product_name": "Lumatic 1066/S Heavy-Duty Side Lever Grease Gun",
+  "specifications": [
+    "Air release valve",
+    "European pattern bulk filler nipple",
+    "Filler point",
+    "6 inch rigid tube",
+    "Four jaw hydraulic connector",
+    "International cartridge loading (accepts 400cc cartridge)",
+    "Made in Germany"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-lube-shuttle-side-lever-grease-gun.html|>
+## Lumatic Lube-Shuttle® Side Lever Grease Gun
+
+{
+  "price": "€77.83 inc VAT (€63.28 exc.vat)",
+  "description": "The Lumatic Lube-Shuttle® Side Lever Grease Gun for use with Lube-Shuttle 400g cartridges. Features a high quality zinc plated steel barrel body and an ergonomic hand grip. It is environmentally friendly with tool free cartridge opening via a screwcap, making the cartridge re-usable. The design provides optimum use of all grease in the cartridge with fast, clean loading and unloading without opening the gun. Comes with RH-30C single wire hose and precision hydraulic connector, thread 1/8in. TÜV, DLG, BLT Approved. Working Pressure: 400 Bar/5,800 psi. Maximum Pressure Capability: 800 Bar/11,600 psi.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Lube-Shuttle® Side Lever Grease Gun",
+  "specifications": [
+    "High quality zinc plated steel barrel body",
+    "Ergonomic hand grip",
+    "Tool free cartridge opening via screwcap",
+    "Fast, clean loading and unloading",
+    "Working Pressure: 400 Bar/5,800 psi",
+    "Maximum Pressure Capability: 800 Bar/11,600 psi"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-lube-shuttle-one-handed-grease-gun.html|>
+## Lumatic Lube-Shuttle® One Handed Grease Gun
+
+{
+  "price": "€97.63 inc VAT (€79.37 exc.vat)",
+  "description": "The Lumatic Lube-Shuttle® One Handed Grease Gun has a zinc plated steel barrel for Lube-Shuttle® system cartridges, with an ergonomically designed pistol grip. It is environmentally friendly with tool free cartridge opening via a screwcap, making the cartridge re-usable. The design provides optimum use of all grease in the cartridge with fast, clean loading and unloading without opening the gun. Comes with RH-30C single wire hose and precision hydraulic connector, thread 1/8in. TÜV, DLG, BLT Approved. Maximum Pressure Capability: 300 Bar/4,350 psi.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Lube-Shuttle® One Handed Grease Gun",
+  "specifications": [
+    "Zinc plated steel barrel",
+    "Ergonomically designed pistol grip",
+    "Tool free cartridge opening",
+    "Maximum Pressure Capability: 300 Bar/4,350 psi",
+    "Comes with RH-30C single wire hose and precision hydraulic connector"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-handy-slim-fit-grease-connector.html|>
+## Lumatic Handy Slim Fit Grease Connector
+
+{
+  "price": "€29.25 inc VAT (€23.78 exc.vat)",
+  "description": "The Lumatic Handy Slim Fit Grease Connector, snaps onto hydraulic grease connectors enabling connection and release from difficult to access grease nipples. It has an 8mm O.D. concave fitting with 100mm straight steel tube and 'snap fitting'.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Handy Slim Fit Grease Connector",
+  "specifications": [
+    "8mm O.D. concave fitting",
+    "100mm straight steel tube",
+    "Snap fitting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-industrial-one-handed-grease-gun.html|>
+## Lumatic Industrial One Handed Grease Gun
+
+{
+  "price": "€61.44 inc VAT (€49.95 exc.vat)",
+  "description": "The Lumatic Industrial One Handed Grease Gun has a cast head design with a air release valve/European pattern bulk filler nipple. It is suitable for use with a standard 400g cartridge (also 500g bulk fill), and it is particularly suitable for use with silicon grease. Comes with a 228mm (9in) single wire hose and precision connector.",
+  "availability": "Out of Stock",
+  "product_name": "Lumatic Industrial One Handed Grease Gun",
+  "specifications": [
+    "Cast head design",
+    "Air release valve",
+    "Suitable for 400g cartridge",
+    "Comes with 228mm single wire hose",
+    "Precision connector"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-grease-nipple-selection-box-metric.html|>
+## Grease Nipple Selection Box Metric
+
+{
+  "price": "€35.40 inc VAT (€28.78 exc.vat)",
+  "description": "The Lumatic Selection Box contains 80 of the most popular metric grease nipples. The fittings are case hardened and plated, ZN3 zinc and clear, head forms conform to DIN71412. Supplied in a handy clear case with labelled sections for easy identification.",
+  "availability": "In Stock",
+  "product_name": "Grease Nipple Selection Box Metric",
+  "specifications": [
+    "10 x M6 x 1.00 Straight",
+    "5 x M6 x 1.00 45° Angle",
+    "5 x M6 x 1.00 90° Angle",
+    "5 x M8 x 1.00 Straight",
+    "5 x M8 x 1.00 45° Angle",
+    "5 x M8 x 1.00 90° Angle",
+    "5 x M8 x 1.25 Straight",
+    "5 x M8 x 1.25 45° Angle",
+    "5 x M8 x 1.25 90° Angle",
+    "5 x M10 x 1.00 Straight",
+    "5 x M10 x 1.00 45° Angle",
+    "5 x M10 x 1.00 90° Angle",
+    "5 x M10 x 1.5 Straight",
+    "5 x M10 x 1.5 45° Angle",
+    "5 x M10 x 1.5 90° Angle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-555s-lightweight-one-hand-mini-pistol-grease-gun.html|>
+## Lumatic 555S Lightweight One Hand Mini Pistol Grease Gun
+
+{
+  "price": "€26.15 inc VAT (€21.26 exc.vat)",
+  "description": "A lightweight lever type mini pistol grease gun with a delivery tube which can be rotated through 360° and is designed to be used one handed. Complete with air release valve, rigid tube and hydraulic connector for bulk filling. Develops 500 Bar of pressure.",
+  "availability": "Out of Stock",
+  "product_name": "Lumatic 555S Lightweight One Hand Mini Pistol Grease Gun",
+  "specifications": [
+    "Lightweight lever type design",
+    "360° rotating delivery tube",
+    "Air release valve",
+    "Rigid tube and hydraulic connector for bulk filling",
+    "Develops 500 Bar of pressure"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-mpo-telescopic-hand-grease-gun-60cc.html|>
+## Lumatic MPO Telescopic Hand Grease Gun 60cc
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "Telescopic type metal bodied hand grease gun with push on connector. 120cc Capacity.",
+  "availability": "In Stock",
+  "product_name": "Lumatic MPO Telescopic Hand Grease Gun 60cc",
+  "specifications": [
+    "120cc Capacity"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-ngus-telescopic-hand-grease-gun-125cc.html|>
+## Lumatic NGUS Telescopic Hand Grease Gun 125cc
+
+{
+  "price": "€28.46 inc VAT (€23.14 exc.vat)",
+  "description": "Metal bodied, telescopic type hand grease gun with universal connector. Capacity: 125cc.",
+  "availability": "In Stock",
+  "product_name": "Lumatic NGUS Telescopic Hand Grease Gun 125cc",
+  "specifications": [
+    "Capacity: 125cc",
+    "Metal bodied",
+    "Telescopic type",
+    "Universal connector"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-industrial-air-operated-continuous-flow-grease-gun.html|>
+## Lumatic Industrial Air Operated Continuous Flow Grease Gun
+
+{
+  "price": "€81.14 inc VAT (€65.97 exc.vat)",
+  "description": "The Lumatic Industrial Air Operated Continuous Flow Grease Gun has a unique 360° swivelling head providing ease of use. It has been designed for standard 400g grease cartridges (or 500g bulk fill). Comes with rigid tube, precision connector & UK standard air coupling. Pressure Ratio: 40:1. Recommended Air Pressure: 4-10 Bar.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Industrial Air Operated Continuous Flow Grease Gun",
+  "specifications": [
+    "360° swivelling head",
+    "Designed for standard 400g grease cartridges",
+    "Comes with rigid tube and precision connector",
+    "Pressure Ratio: 40:1",
+    "Recommended Air Pressure: 4-10 Bar"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-srt6s-6in-straight-rigid-tube.html|>
+## Lumatic SRT6S 6in Straight Rigid Tube
+
+{
+  "price": "€2.15 inc VAT (€1.75 exc.vat)",
+  "description": "Rigid delivery tube.\n\n6in long.\n\n1/8in BSP male thread connection at each end.",
+  "availability": "In Stock",
+  "product_name": "Lumatic SRT6S 6in Straight Rigid Tube",
+  "specifications": [
+    "6in long",
+    "1/8in BSP male thread connection at each end"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-vslgh-side-lever-grease-gun.html|>
+## Lumatic VSLGH Side Lever Grease Gun
+
+{
+  "price": "€16.56 inc VAT (€13.46 exc.vat)",
+  "description": "The Lumatic VSLGH Side Lever Grease Gun is suitable for 400cc cartridge loading or 500cc bulk. Complete with air release valve/European pattern bulk filler nipple, 6 inch rigid tube and 4 jaw hydraulic connector. 400cc capacity.",
+  "availability": "In Stock",
+  "product_name": "Lumatic VSLGH Side Lever Grease Gun",
+  "specifications": [
+    "400cc cartridge loading",
+    "500cc bulk",
+    "Air release valve",
+    "6 inch rigid tube",
+    "4 jaw hydraulic connector"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-hook-on-nipples.html|>
+## Lumatic Hook On Nipples
+
+{
+  "price": "from €0.76 inc VAT",
+  "description": "Hook-on grease nipple. Manufactured from high quality steel, case hardened and plated ZN3 zinc and clear. Head forms conform to DIN71412",
+  "availability": "In Stock",
+  "product_name": "Lumatic Hook On Nipples",
+  "specifications": [
+    "Select Option: 1/4 BSP, 1/8 BSP",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-hydraulic-nipples-straight.html|>
+## Lumatic Hydraulic Nipples Straight
+
+{
+  "price": "from €0.25 inc VAT",
+  "description": "Straight hydraulic grease nipple. Manufactured from high quality steel, case hardened and plated ZN3 zinc and clear. Head forms conform to DIN71412",
+  "availability": "In Stock",
+  "product_name": "Lumatic Hydraulic Nipples Straight",
+  "specifications": [
+    "Select Option: 1/4 BSF, 1/4 BSP, 1/4 UNF, 1/4 Whitworth, 3/8 BSF, 3/8 UNF, 5/16 BSF, 5/16 UNF, 6mm, HMM10/100 Hydraulic Nipple Straight 10mm, HMM10/150 Hydraulic Nipple Straight 10mm, HMM8/100 Hydraulic Nipple Straight 8mm, HMM8/125 Hydraulic Nipple Straight 8mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-hydraulic-nipples-angled.html|>
+## Lumatic Hydraulic Nipples Angled
+
+{
+  "price": "€0.68 inc VAT",
+  "description": "Angled hydraulic grease nipple. Manufactured from high quality steel, case hardened and plated ZN3 zinc and clear. Head forms conform to DIN71412",
+  "availability": "In Stock",
+  "product_name": "Lumatic Hydraulic Nipples Angled",
+  "specifications": [
+    "Select Option: HP2/45 Hydraulic Nipple Angle 1/8 BSP",
+    "HP2/90 Hydraulic Nipple Angle 1/8 BSP"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-connectors.html|>
+## Lumatic Connectors
+
+{
+  "price": "€2.89 inc VAT",
+  "description": "Connectors for use with grease guns.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Connectors",
+  "specifications": [
+    "Select Option: CC1-S Conical Connector, HOC1S Hook On Connector, POC-1S Push On Connector, RC1S Rotary Connector, SOC2 Slide On Connector"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-flexible-tubes.html|>
+## Lumatic Flexible Tubes
+
+{
+  "price": "€5.71 inc VAT",
+  "description": "Burst pressure: 1,000 bar (15,000 psi). Thread 1/8in BSP.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Flexible Tubes",
+  "specifications": [
+    "Burst pressure: 1,000 bar (15,000 psi)",
+    "Thread: 1/8in BSP"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-safe-lock-hd-mato-grease-connector.html|>
+## Lumatic Safe Lock H.D. Mato Grease Connector
+
+{
+  "price": "€39.13 inc VAT (€31.81 exc.vat)",
+  "description": "The Lumatic Safe-Lock Grease Coupler has been made to a highly precise specification. With 4 hardened tool steel jaws that provide a secure connection, once clicked on to the grease nipple it can only be released by pressing the lever down. There is no spurt/mess when uncoupling. Made in Germany.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Safe Lock H.D. Mato Grease Connector",
+  "specifications": [
+    "LUM3245603 : €39.13",
+    "Made in Germany",
+    "4 hardened tool steel jaws for secure connection",
+    "No spurt/mess when uncoupling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-thread-identification-plate.html|>
+## Lumatic Thread Identification Plate
+
+{
+  "price": "€31.92 inc VAT (€25.95 exc.vat)",
+  "description": "The Lumatic Thread Identification Plate enables quick and easy identification. For use with grease nipples, machine screws etc. Thread Sizes: Metric: M6 x 0.75, M6 x 1, M8 x 1, M8 x 1.25, M10 x 1 and M10 x 1.5 UNF/ANF: 1/4in, 5/16in and 3/8in BSW: 1/4in, 5/16in and 1/2in NPT: 1/8in, 1/4in and 3/8in BSF: 3/16in, 1/4in, 5/16in and 3/8in BSPT: 1/8in and 1/4in",
+  "availability": "In Stock",
+  "product_name": "Lumatic Thread Identification Plate",
+  "specifications": [
+    "Thread Sizes: Metric: M6 x 0.75, M6 x 1, M8 x 1, M8 x 1.25, M10 x 1 and M10 x 1.5",
+    "UNF/ANF: 1/4in, 5/16in and 3/8in",
+    "BSW: 1/4in, 5/16in and 1/2in",
+    "NPT: 1/8in, 1/4in and 3/8in",
+    "BSF: 3/16in, 1/4in, 5/16in and 3/8in",
+    "BSPT: 1/8in and 1/4in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-flexible-nylon-tube.html|>
+## Lumatic Flexible Nylon Tube
+
+{
+  "price": "€4.23 inc VAT",
+  "description": "High pressure flexible nylon tube with 1/8 in BSP male thread connection each end.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Flexible Nylon Tube",
+  "specifications": [
+    "Select Option: - Select One - 9in",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd40-wd-40-multi-use-maintenance-smart-straw-450ml-offer.html|>
+## WD40 WD-40 Multi-Use Maintenance Smart Straw 450ml OFFER
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "WD-40 is an all purpose liquid for displacing moisture, corrosion control, lubrication, cleaning and penetration. It has the ability to penetrate the minute grain boundaries on all metals. Although not essentially a lubricant, WD-40 is regularly used to lubricate all light machinery and electrical equipment. WD-40 protects metal from rust and corrosion, penetrates stuck or jammed parts, displaces moisture, and lubricates just about anything. WD-40 is also great when it comes to cleaning grease, grime, and other marks from most surfaces.",
+  "availability": "In Stock",
+  "product_name": "WD40 WD-40 Multi-Use Maintenance Smart Straw 450ml OFFER",
+  "specifications": [
+    "Size: 450ml",
+    "Working temperature: -100° F to +500° F",
+    "Cleans, protects, lubricates, penetrates, displaces moisture"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plastikote-trade-ptfe-spray-400ml.html|>
+## PlastiKote Trade PTFE Spray 400ml
+
+{
+  "price": "€8.60 inc VAT (€6.99 exc.vat)",
+  "description": "PlastiKote Trade PTFE Spray is a universal lubricant for mechanical parts that are made from metal and plastic. Helps to prevent wear and jamming. It has a water-repellent formula that offers excellent mechanical and thermal stability.",
+  "availability": "Out of Stock",
+  "product_name": "PlastiKote Trade PTFE Spray 400ml",
+  "specifications": [
+    "PKT71035 : €8.60",
+    "400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd-40-multi-use-maintenance-with-flexible-straw.html|>
+## WD-40® Multi-Use Maintenance with Flexible Straw
+
+{
+  "price": "€80.17 inc VAT",
+  "description": "WD-40® is an all-purpose liquid for displacing moisture, corrosion control, lubrication, cleaning and penetration. It has the ability to penetrate the minute grain boundaries on all metals. Although not essentially a lubricant, WD-40® is regularly used to lubricate all light machinery and electrical equipment. Protects metal from rust and corrosion, penetrates stuck or jammed parts, displaces moisture and lubricates just about anything. It is also great when it comes to cleaning grease, grime and other marks from most surfaces.",
+  "availability": "In Stock",
+  "product_name": "WD-40® Multi-Use Maintenance with Flexible Straw",
+  "specifications": [
+    "400ml (CDU of 6)",
+    "Cleans, Protects, Lubricates, Penetrates, Displaces moisture",
+    "Flexible Straw for precise application",
+    "Working temperature: -100°F to +500°F"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-silicone-spray-500ml.html|>
+## MOTIP® Pro Silicone Spray 500ml
+
+{
+  "price": "€5.95 inc VAT (€4.84 exc.vat)",
+  "description": "MoTip Pro Silicone Spray has a directed jet spray and can be used to lubricate and protect plastic or rubber parts. Prevents freezing and drying out of rubber parts, and creaking and squeaking of plastic parts. It offers outstanding mechanical and thermal stability. The formula is water-repellent, pH-neutral and resistant to weather influences, weak acids and bases. Temperature Resistant: -50ºC up to +200ºC.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIP® Pro Silicone Spray 500ml",
+  "specifications": [
+    "Temperature Resistant: -50ºC up to +200ºC"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-ptfe-dry-spray-500ml.html|>
+## MOTIPÂ® Pro PTFE Dry Spray 500ml
+
+{
+  "price": "€4.82 inc VAT (€3.92 exc.vat)",
+  "description": "MoTip Pro PTFE Dry Spray treats mechanical parts of metal and plastic, where no residues of oil or grease are desired. PTFE Dry prevents wear and sticking. It has a very low friction factor, an excellent adhesion and is resistant to weather influences. It leaves no residues of oil or grease (dry film). Suitable for parts which are liable to light load and low speed. It can also be used as a release agent for moulds, where the use of silicone is not desired.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro PTFE Dry Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Prevents wear and sticking",
+    "Low friction factor",
+    "Excellent adhesion",
+    "Weather resistant",
+    "Leaves no residues of oil or grease"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-ptfe-spray-500ml.html|>
+## MOTIP® Pro PTFE Spray 500ml
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "MoTip Pro PTFE Spray offers outstanding mechanical and thermal stability to treat mechanical parts of metal and plastic. It has a very low friction factor, a fine structure (particle size approximately 5 micrometre) and excellent adhesion. Resistant to weather influences, weak acids and bases, water-repellent and pH-neutral. PTFE Spray prevents wear and sticking. Specification: Temperature Resistant: -50°C up to +250°C.",
+  "availability": "In Stock",
+  "product_name": "MOTIP® Pro PTFE Spray 500ml",
+  "specifications": [
+    "Temperature Resistant: -50°C up to +250°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-white-grease-spray-500ml.html|>
+## MOTIPÂ® Pro White Grease Spray 500ml
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "MoTip Pro White Grease Spray offers excellent adhesion and high viscosity, to lubricate mechanical parts of metal or plastic. Contains PTFE (polytetrafluorethylene) to prevent wear and sticking. It offers outstanding mechanical and thermal stability, whilst also being resistant to weather influences, weak acids and bases. It is also water-repellent and pH-neutral. Specification: Temperature Resistant: -30°C up to +160°C.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Pro White Grease Spray 500ml",
+  "specifications": [
+    "Temperature Resistant: -30°C up to +160°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-multi-spray-500ml.html|>
+## MOTIP® Pro Multi Spray 500ml
+
+{
+  "price": "€6.14 inc VAT (€4.99 exc.vat)",
+  "description": "MoTip Pro Multi Spray is a universal oil that can be used to lubricate, protect and clean parts of metal and plastic. It has good penetrating properties and a cleansing effect. It also repels moisture and prevents rust. Removes oil, grease, wax, underbody coating and tar, and after cleaning leaves a protective film. MoTip Multi Spray has a directed jet spray.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIP® Pro Multi Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Universal oil for lubrication, protection, and cleaning",
+    "Good penetrating properties",
+    "Cleansing effect",
+    "Repels moisture and prevents rust",
+    "Removes oil, grease, wax, underbody coating, and tar",
+    "Leaves a protective film after cleaning",
+    "Directed jet spray"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-vaseline-spray-500ml.html|>
+## MOTIP® Pro Vaseline Spray 500ml
+
+{
+  "price": "€6.15 inc VAT (€5.00 exc.vat)",
+  "description": "MoTip Pro Vaseline Spray is a universal, transparent, lubricant and preservative with excellent adhesion. It is also water-repellent, pH-neutral and resistant to weather influences, weak acids and bases. Pro Vaseline Spray has excellent corrosion prevention and prevents wear and sticking. Temperature Resistant: -30°C up to +160°C.",
+  "availability": "In Stock",
+  "product_name": "MOTIP® Pro Vaseline Spray 500ml",
+  "specifications": [
+    "Temperature Resistant: -30°C up to +160°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-penetrating-oil-spray-500ml.html|>
+## MOTIP® Pro Penetrating Oil Spray 500ml
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "MoTip Pro Penetrating Oil Spray loosens rusted parts. Contains graphite and MoS2. It repels moisture and prevents rust. Fitted with a powerful jet spray enabling use in various positions.",
+  "availability": "In Stock",
+  "product_name": "MOTIP® Pro Penetrating Oil Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Contains graphite and MoS2",
+    "Repels moisture",
+    "Prevents rust",
+    "Powerful jet spray"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plusgas-aerosols.html|>
+## Plusgas Aerosols
+
+{
+  "price": "€12.12 inc VAT",
+  "description": "PlusGas Formula A is no ordinary penetrating oil. It is faster, safer and more powerful than any other dismantling lubricant. PlusGas is the penetrating oil used by mechanics, engineers, builders, plumbers, locksmiths and home handymen. Tool Cleaner/Maintainer. Lawn Mower Cleaner. Rust/Corrosion Prevention agent. Lubricant to aid screw and bolt assembly. Cleans grease build-up and leaves protective film. Temporary lubricant (oil rather than grease). Reduces squeaks and rattles on machinery. Displaces Moisture. Helps prevent re-seizing of treated parts. Pre treatment of equipment to be stored (will need degreasing prior to use).",
+  "availability": "In Stock",
+  "product_name": "Plusgas Aerosols",
+  "specifications": [
+    "Select Option: 200ml, 400ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plusgas-plusgas-tins.html|>
+## Plusgas Plusgas Tins
+
+{
+  "price": "€18.35 inc VAT",
+  "description": "PlusGas Formula A is no ordinary penetrating oil. It is faster, safer and more powerful than any other dismantling lubricant. PlusGas is the penetrating oil used by mechanics, engineers, builders, plumbers, locksmiths and home handymen. Tool Cleaner/Maintainer. Lawn Mower Cleaner. Rust/Corrosion Prevention agent. Lubricant to aid screw and bolt assembly. Cleans grease build-up and leaves protective film. Temporary lubricant (oil rather than grease). Reduces squeaks and rattles on machinery. Displaces Moisture. Helps prevent re-seizing of treated parts. Pre treatment of equipment to be stored (will need degreasing prior to use).",
+  "availability": "In Stock",
+  "product_name": "Plusgas Plusgas Tins",
+  "specifications": [
+    "Select Option: 500ml",
+    "Based on 1 customer reviews"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tri-flow-industrial-lubricant-with-ptfe.html|>
+## Tri-Flow Industrial Lubricant with P.T.F.E
+
+{
+  "price": "€27.42 inc VAT",
+  "description": "Tri-Flow provides preventative maintenance and problem solving solutions for the most demanding applications. Its unique formula also contains P.T.F.E. to maximise load bearing, reduce friction and wear and resist corrosive build up. Virtually eliminates friction and wear, even under the most extreme pressure and abrasive conditions. Displaces and prevents the build-up of dirt and dust. Repels moisture, preventing the formulation of ice, rust and other corrosives. Effective at -53° C to +246° C. Protects, lubricates and penetrates. Suitable for use on: Folding Arms, Hinges, Pulleys, Guide Rails, Gears, Agricultural Machinery, Water Pumps, Lawnmowers, Soil Working Tools, Tracks, Pneumatic Components (cylinders, valves, etc...), Roller Tables, Winches, Cement Mixers, Lifting Arms, Chains, Cables, Locks, Tool Protection, Bearings, Runners, Scaffolding, Earth-Moving Equipment, Pneumatic Drills, Conveyor Belts, Revolving Supports, Drills, Valves.",
+  "availability": "In Stock",
+  "product_name": "Tri-Flow Industrial Lubricant with P.T.F.E",
+  "specifications": [
+    "Available in 200ml, 500ml, and 4 Litre options",
+    "Effective temperature range: -53° C to +246° C",
+    "Contains P.T.F.E for enhanced lubrication",
+    "Suitable for various applications including machinery and tools"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-multi-use-maintenance-smart-straw.html|>
+## WD-40 Multi-Use Maintenance Smart Straw
+
+{
+  "price": "€10.99 inc VAT",
+  "description": "WD-40 is an all purpose liquid for displacing moisture, corrosion control, lubrication, cleaning and penetration. It has the ability to penetrate the minute grain boundaries on all metals. Although not essentially a lubricant, WD-40 is regularly used to lubricate all light machinery and electrical equipment. WD-40 protects metal from rust and corrosion, penetrates stuck or jammed parts, displaces moisture, and lubricates just about anything. WD-40 is also great when it comes to cleaning grease, grime, and other marks from most surfaces.",
+  "availability": "In Stock",
+  "product_name": "WD-40 Multi-Use Maintenance Smart Straw",
+  "specifications": [
+    "300ml (Case of 12)",
+    "450ml",
+    "450ml Box of 12",
+    "450ml x 60 Stack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd40-multi-use-aerosols.html|>
+## WD40 Multi-Use Aerosols
+
+{
+  "price": "from €5.99 inc VAT",
+  "description": "WD-40 is an all purpose liquid for displacing moisture, corrosion control, lubrication, cleaning and penetration. It has the ability to penetrate the minute grain boundaries on all metals. Although not essentially a lubricant, WD-40 is regularly used to lubricate all light machinery and electrical equipment. WD-40 protects metal from rust and corrosion, penetrates stuck or jammed parts, displaces moisture, and lubricates just about anything. WD-40 is also great when it comes to cleaning grease, grime, and other marks from most surfaces. WD-40 is a mixture of chemical concentrates suspended in a high grade petroleum distillate. It will not affect fabrics, rubbers or plastics. Its working temperature is between -100° F and +500° F. Thoroughly recommended to clean, preserve and protect all tools.",
+  "availability": "In Stock",
+  "product_name": "WD40 Multi-Use Aerosols",
+  "specifications": [
+    "Available in multiple sizes: 100ml, 600ml, 5 Litre Can, etc.",
+    "Cleans, protects, lubricates, penetrates, and displaces moisture.",
+    "Working temperature range: -100° F to +500° F."
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-all-purpose-silicone-spray-400ml.html|>
+## Everbuild All Purpose Silicone Spray 400ml
+
+{
+  "price": "€8.83 inc VAT (€7.18 exc.vat)",
+  "description": "The EVBSILSPRAY Everbuild All Purpose Silicone Spray (400ml) is a dry silicone lubricant and mould release agent for the easing of friction between two surfaces. It is ideal for use in mould making/release industries, to ease installation of rubber and EPDM gaskets to window and door frames and has hundreds of uses around the home, garage, workshop and industry. It will also enhance the appearance of vinyl and hard surfaces such as car dashboards etc, where the dry-bright finish will eliminate the need to polish.",
+  "availability": "In Stock",
+  "product_name": "Everbuild All Purpose Silicone Spray 400ml",
+  "specifications": [
+    "400ml capacity",
+    "Dry silicone lubricant",
+    "Mould release agent",
+    "Ideal for rubber and EPDM gaskets",
+    "Enhances appearance of vinyl and hard surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-specialist-cutting-oil-400ml.html|>
+## WD-40 Specialist Cutting Oil 400ml
+
+{
+  "price": "€15.15 inc VAT (€12.32 exc.vat)",
+  "description": "WD-40 Specialist Cutting Oil is a specially formulated blend of lubricants, extreme pressure additives and supplementary components. It is designed to prevent pitting and metal seizures, ease mechanical processing of metals, reducing frictional heat accumulation and frictional forces. The cutting oil will help to extend the life of drill bits, cutting tools etc. Cutting oil is suitable for use on all metals, including stainless steel and titanium. It is ideal for cutting, tapping and drilling operations.",
+  "availability": "In Stock",
+  "product_name": "WD-40 Specialist Cutting Oil 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Suitable for all metals including stainless steel and titanium",
+    "Ideal for cutting, tapping and drilling operations",
+    "Smartstraw application: Shake can thoroughly before use. Hold upright, and spray directly onto the tool and component."
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-specialist-spray-grease-400ml.html|>
+## WD-40 Specialist Spray Grease 400ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "WD-40 Specialist Spray Grease provides long lasting lubrication, along with excellent adhesion and sealing properties. Its non-drip formula is ideal for vertical application. It is highly water resistant and will waterproof and protect against moisture. Operates from -20°c to +115°C, and under high pressure loads. Smart Straw application. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "WD-40 Specialist Spray Grease 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Operates from -20°c to +115°C",
+    "Non-drip formula",
+    "Highly water resistant",
+    "Smart Straw application"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-specialist-penetrant-aerosol-400ml.html|>
+## WD-40 Specialist Penetrant Aerosol 400ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "WD-40 Specialist Penetrant is a powerful, fast acting and highly water resistant solution that quickly penetrates its way into hard to reach areas. It rapidly loosens seized fixings, stuck and rusted moving parts. Withstands extreme temperatures of -20°C to +90°C. Can be used on metal, alloys, rubber and plastic. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "WD-40 Specialist Penetrant Aerosol 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Temperature Range: -20°C to +90°C",
+    "Water Resistant",
+    "Suitable for metal, alloys, rubber, and plastic"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-specialist-silicone-aerosol-400ml.html|>
+## WD-40 Specialist Silicone Aerosol 400ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "WD-40 Specialist is a non-staining, hard working formula, which provides excellent lubrication. It won't attract dirt and protects against moisture. Can be used on high pressure equipment and withstands temperatures of -35°C to +200°C. Suitable for use on metal, plastic, rubber and wood. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "WD-40 Specialist Silicone Aerosol 400ml",
+  "specifications": [
+    "Non-staining formula",
+    "Excellent lubrication",
+    "Temperature range: -35°C to +200°C",
+    "Suitable for metal, plastic, rubber, and wood",
+    "Size: 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-specialist-white-lithium-grease-aerosol-400ml.html|>
+## WD-40 Specialist White Lithium Grease Aerosol 400ml
+
+{
+  "price": "€14.46 inc VAT (€11.76 exc.vat)",
+  "description": "WD-40 Specialist White Lithium Grease Aerosol is a thicker, water and heat resist grease product, which provides long term lubrication and will not drip or run on a surface. It is ideal for metal to metal applications, reducing friction to ensure your tools and equipment keep moving smoothly. Can be used for load bearing metal connections and withstands temperatures of -18°C to +145°C. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "WD-40 Specialist White Lithium Grease Aerosol 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Temperature resistance: -18°C to +145°C",
+    "Ideal for metal to metal applications",
+    "Long term lubrication",
+    "Water and heat resistant"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-specialist-degreaser-aerosol-500ml.html|>
+## WD-40 Specialist Degreaser Aerosol 500ml
+
+{
+  "price": "€10.99 inc VAT (€8.93 exc.vat)",
+  "description": "WD-40 Specialist Degreaser is a fast acting and solvent based formula that quickly removes grease, oil, dirt and grime, without leaving any residue. It works immediately on contact and is easy to rinse away. Can be used on a variety of surfaces including, metal, exhaust hoods and flooring. Size: 500ml.",
+  "availability": "In Stock",
+  "product_name": "WD-40 Specialist Degreaser Aerosol 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Fast acting and solvent based formula",
+    "Removes grease, oil, dirt and grime",
+    "Easy to rinse away",
+    "Suitable for various surfaces including metal and flooring"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-specialist-dry-ptfe-aerosol-400ml.html|>
+## WD-40 Specialist Dry PTFE Aerosol 400ml
+
+{
+  "price": "€15.98 inc VAT (€12.99 exc.vat)",
+  "description": "WD-40 Specialist Dry PTFE Lube offers enhanced lubrication and protection, leaving a dry clear film that won’t attract dirt, dust or oil and reduces friction. It is quick drying and also withstands temperatures of -20°C to +250°C. Can be used on metals, plastic and glass. Size: 400ml.",
+  "availability": "Out of Stock",
+  "product_name": "WD-40 Specialist Dry PTFE Aerosol 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Temperature range: -20°C to +250°C",
+    "Quick drying",
+    "Suitable for metals, plastic, and glass"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-wd-40-specialist-high-performance-ptfe-lubricant-aerosol-400ml.html|>
+## WD-40 Specialist High Performance PTFE Lubricant Aerosol 400ml
+
+{
+  "price": "€16.16 inc VAT (€13.14 exc.vat)",
+  "description": "WD-40 Specialist High Performance PTFE Lubricant provides excellent long lasting lubrication and protection, whilst reducing friction and wear to extend the life of tools and equipment. It can withstand temperatures of -20°C to +100°C and is safe for use on metals, glass, vinyl, rubber and plastic. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "WD-40 Specialist High Performance PTFE Lubricant Aerosol 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Temperature range: -20°C to +100°C",
+    "Safe for use on metals, glass, vinyl, rubber, and plastic"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wd40-gt-85-bike-lubricant-ptfe-aerosol-400ml.html|>
+## WD40 GT-85 Bike Lubricant PTFE Aerosol 400ml
+
+{
+  "price": "€7.44 inc VAT (€6.05 exc.vat)",
+  "description": "The GT-85 Bike Lubricant makes a tough job easy by loosening rusty or stiff parts. In addition it lubricates and protects from future weathering helping your tools stay in good condition all year round. Prevents squeaking, penetrates and lubricates rusted and inaccessible parts, contains PTFE to form a long lasting, protective and lubricating film and displaces water.",
+  "availability": "Out of Stock",
+  "product_name": "WD40 GT-85 Bike Lubricant PTFE Aerosol 400ml",
+  "specifications": [
+    "400ml aerosol can",
+    "Contains PTFE for long-lasting lubrication",
+    "Prevents squeaking and rust",
+    "Suitable for various applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-cold-galvanising-spray-400ml.html|>
+## ROCOL Cold Galvanising Spray 400ml
+
+{
+  "price": "€62.74 inc VAT (€51.01 exc.vat)",
+  "description": "Rocol Cold Galvanizing Spray provides ultra long term corrosion protection for metal components requiring a permanent zinc-rich mid-grey coating. Ideal for components that cannot be galvanised using a hot dip process. It can also be used to repair the surface of galvanised components which have been damaged or scratched. Offers rapid drying and provides a smooth coating that will not crack or split even when deliberately flexed. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Cold Galvanising Spray 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Ultra long term corrosion protection",
+    "Permanent zinc-rich mid-grey coating",
+    "Rapid drying",
+    "Smooth coating that will not crack or split"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-galva-flash-spray-500ml.html|>
+## ROCOL Galva Flash Spray 500ml
+
+{
+  "price": "€22.08 inc VAT (€17.95 exc.vat)",
+  "description": "Rocol Galva Flash provides long term corrosion protection for metal components that require a permanent bright, glossy appearance with the lustre look of aluminium. Zero corrosion after 1,000 hours salt and spray testing. It forms a high performance coating that contains pure zinc, aluminium, synthetic resins and additives. Its unique combination of flexibility and hardness, is resistant to peeling, flaking and fading. Suitable for use as a primer and can be over-painted. Temperature range -30ºC to 450ºC. Size: 500ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Galva Flash Spray 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Temperature range: -30ºC to 450ºC",
+    "Zero corrosion after 1,000 hours salt and spray testing",
+    "High performance coating with pure zinc and aluminium"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-galva-bright-spray-500ml.html|>
+## ROCOL Galva Bright Spray 500ml
+
+{
+  "price": "€21.45 inc VAT (€17.44 exc.vat)",
+  "description": "Rocol Galva Bright Spray provides excellent long term corrosion protection for metal components requiring a permanent bright coating. Features: Zero corrosion after 2,000 hours salt spray testing. High performance coating or primer which contains pure zinc, aluminium, synthetic resins and additives. Excellent repair for galvanised surfaces. Non-toxic formulation. Suitable for use as a primer and can be over-painted. Temperature range: -30ºC to 450ºC. Size: 500ml.",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL Galva Bright Spray 500ml",
+  "specifications": [
+    "Zero corrosion after 2,000 hours salt spray testing",
+    "High performance coating or primer",
+    "Contains pure zinc, aluminium, synthetic resins and additives",
+    "Excellent repair for galvanised surfaces",
+    "Non-toxic formulation",
+    "Suitable for use as a primer and can be over-painted",
+    "Temperature range: -30ºC to 450ºC",
+    "Size: 500ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-dry-moly-spray-400ml.html|>
+## ROCOL Dry Moly Spray 400ml
+
+{
+  "price": "€102.23 inc VAT (€83.11 exc.vat)",
+  "description": "Rocol Dry Moly (MoS2) spray applies a thin, dry film of resin bonded moly (MoS2) which withstands high loads and temperatures. Use as a dry film lubricant on slides, gears, plain bearings, as an anti-seize on precision threaded components and in applications where contamination of finished components cannot be tolerated. Temperature range: -50° C to +450° C. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Dry Moly Spray 400ml",
+  "specifications": [
+    "Temperature range: -50° C to +450° C",
+    "Size: 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-mtlm-assembly-and-run-in-paste-100g.html|>
+## ROCOL MTLM Assembly & Run In Paste 100g
+
+{
+  "price": "€87.38 inc VAT (€71.04 exc.vat)",
+  "description": "Rocol MTLM Assembly and running-in-paste is a soft greasy paste with a high content of MOS2 (Moly), giving a thin lubricating film which resists high loads and prevents seizure and galling. Used during the assembly of interference fits, it also acts as an anti-seize to allow dismantling and adjustment. Temperature range up to +450° C. Meets the specification of DEFSTAN 80-81/2 Size: 100g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL MTLM Assembly & Run In Paste 100g",
+  "specifications": [
+    "Size: 100g",
+    "Temperature range up to +450° C",
+    "High content of MOS2 (Moly)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-oxylube-spray-400ml.html|>
+## ROCOL Oxylube Spray 400ml
+
+{
+  "price": "€118.66 inc VAT (€96.47 exc.vat)",
+  "description": "Rocol Oxylube spray is used as a dry film lubricant with quick drying and is resistant to high loads, fluids and oils. Also used in oxygen or vacuum environments and where components may be affected by chemicals, solvents or petroleum based products. Temperature range: - 200°C to +450°C. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Oxylube Spray 400ml",
+  "specifications": [
+    "Temperature range: -200°C to +450°C",
+    "Size: 400ml",
+    "Used as a dry film lubricant",
+    "Resistant to high loads, fluids and oils",
+    "Suitable for oxygen or vacuum environments"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-plain-bearing-grease-400g.html|>
+## ROCOL SAPPHIRE Plain Bearing Grease 400g
+
+{
+  "price": "€45.87 inc VAT (€37.29 exc.vat)",
+  "description": "Rocol SAPPHIRE plain bearing grease has exceptional load carrying capabilities and contains molybdenum disulphide, used for the lubrication of plain bearings and slides. Temperature Range -20° to +150° NLGI No.2. Size: 400g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE Plain Bearing Grease 400g",
+  "specifications": [
+    "Temperature Range -20° to +150°",
+    "NLGI No.2",
+    "Size: 400g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-extreme-bearing-grease-400g.html|>
+## ROCOL SAPPHIRE Extreme Bearing Grease 400g
+
+{
+  "price": "€74.05 inc VAT (€60.20 exc.vat)",
+  "description": "Rocol SAPPHIRE Extreme is a high performance Moly (MoS2) grease for use in plain and roller bearings operating in arduous conditions. Has excellent resistance to vibration and high temperatures, chemical resistance and anti-wear properties. Temperature range: -25°C to +250°C. Size: 400g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE Extreme Bearing Grease 400g",
+  "specifications": [
+    "Temperature range: -25°C to +250°C",
+    "Size: 400g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-1-bearing-grease-400g.html|>
+## ROCOL SAPPHIRE 1 Bearing Grease 400g
+
+{
+  "price": "€21.05 inc VAT (€17.11 exc.vat)",
+  "description": "Rocal SAPPHIRE 1 Unilube is a revolutionary long life bearing grease for optimum lubrication. Suitable for all types of ball, roller and plain bearings. Designed for extreme loads and extended lubrication intervals (1, 3, 6 and 12 month). Temperature range: - 30°C to + 150°C. Size: 400g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE 1 Bearing Grease 400g",
+  "specifications": [
+    "Temperature range: -30°C to +150°C",
+    "Size: 400g",
+    "Suitable for all types of ball, roller and plain bearings",
+    "Designed for extreme loads and extended lubrication intervals (1, 3, 6 and 12 month)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-aqua-2-bearing-grease-380g.html|>
+## ROCOL SAPPHIRE Aqua 2 Bearing Grease 380g
+
+{
+  "price": "€36.81 inc VAT (€29.93 exc.vat)",
+  "description": "Rocol SAPPHIRE Aqua 2 is a soap thickened grease designed to give superior resistance to water washout. SAPPHIRE AQUA 2 gives exceptional corrosion protection and long term lubrication for bearings operating in water or exposed to continual water washing. Temperature range of - 20°C to + 150°C. Size: 380g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE Aqua 2 Bearing Grease 380g",
+  "specifications": [
+    "Temperature range of -20°C to +150°C",
+    "Size: 380g",
+    "Exceptional corrosion protection",
+    "Long term lubrication for bearings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-hi-load-bearing-grease-2-400g.html|>
+## ROCOL SAPPHIRE Hi-Load Bearing Grease 2 400g
+
+{
+  "price": "€40.71 inc VAT (€33.10 exc.vat)",
+  "description": "Rocol SAPPHIRE Hi-Load 2 is a grease containing Moly (MoS2) designed for all types of heavily loaded plain and anti friction bearings. Has a very high resistance to load and wear due to its revolutionary multi complex grease, that all provides good corrosion resistance. Temperature range: - 30°C to + 150ºC. Size: 400g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE Hi-Load Bearing Grease 2 400g",
+  "specifications": [
+    "Temperature range: -30°C to +150ºC",
+    "Size: 400g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-anti-seize-spray-400ml.html|>
+## ROCOL Anti-Seize Spray 400ml
+
+{
+  "price": "€57.63 inc VAT (€46.85 exc.vat)",
+  "description": "Rocol Anti-Seize Spray is copper based and used to prevent the seizure of fasteners presents a major inconvenience in many repair and maintenance situations, adding to both the time and cost of the job. Offers superb corrosion protection, and offers excellent water resistance. Temperature range up to 1,100° C. 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Anti-Seize Spray 400ml",
+  "specifications": [
+    "Copper based",
+    "Prevents seizure of fasteners",
+    "Corrosion protection",
+    "Water resistance",
+    "Temperature range up to 1,100° C",
+    "400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-penetrating-spray-300ml.html|>
+## ROCOL Penetrating Spray 300ml
+
+{
+  "price": "€37.44 inc VAT (€30.44 exc.vat)",
+  "description": "Rocol Penetrating Spray is a powerful jet lubricant containing Moly (MoS2), which penetrates dirt, grime and scale to give fast effective release of corroded fasteners. Excellent penetrating of rust, scale, grease dirt etc. Moly (MoS2) aids dismantling. Light residual film for short term protection and fast acting performance. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Penetrating Spray 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Contains Moly (MoS2) for effective penetration",
+    "Light residual film for short term protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-anti-seize-stainless-500g.html|>
+## ROCOL Anti-Seize Stainless 500g
+
+{
+  "price": "€239.86 inc VAT (€195.01 exc.vat)",
+  "description": "Rcol Anti Seize Stainless is a specially formulated nickel free paste designed to provide long term anti-seize properties where low sulphur & chlorine levels are essential. Designed for stainless steel and nimonic alloys, it is extremely stable at high temperatures for long periods. Protects against wet conditions and chemical attack with extremely low sulphur & chlorine levels. Temperature range of - 40°C to + 1,000°C. Size: 500g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Anti-Seize Stainless 500g",
+  "specifications": [
+    "Temperature range of -40°C to +1,000°C",
+    "Size: 500g",
+    "Nickel free paste",
+    "Designed for stainless steel and nimonic alloys",
+    "Protects against wet conditions and chemical attack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-tufgear-open-gear-lubricant-spray-400ml.html|>
+## ROCOL Tufgear Open Gear Lubricant Spray 400ml
+
+{
+  "price": "€60.59 inc VAT (€49.26 exc.vat)",
+  "description": "Rocol Tufgear Spray is a high viscosity petroleum oil containing Moly (MoS2) to provide excellent load carrying and anti pitting properties. Tufgear Spray provides long life lubrication in all environments. Produces a thin tenacious film, that is resistant to water and has an excellent load carrying capacity. Temperature range of -10°C to 100°C. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Tufgear Open Gear Lubricant Spray 400ml",
+  "specifications": [
+    "High viscosity petroleum oil",
+    "Contains Moly (MoS2)",
+    "Temperature range: -10°C to 100°C",
+    "Size: 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-tuflube-all-weather-open-gear-lubricant-400g.html|>
+## ROCOL Tuflube All Weather Open Gear Lubricant 400g
+
+{
+  "price": "€48.34 inc VAT (€39.30 exc.vat)",
+  "description": "Rocol Tuflube All Weather is an extremely adhesive lubricant, designed for a wide range of applications, particularly operating in wet, humid conditions. Ideal for injector chains and BOP equipment. Highly resistant to water wash off, tenacious self repairing film and can be applied underwater. Temperature range -30°C to + 70ºC. Size: 400g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Tuflube All Weather Open Gear Lubricant 400g",
+  "specifications": [
+    "Temperature range -30°C to + 70ºC",
+    "Size: 400g",
+    "Highly adhesive lubricant",
+    "Resistant to water wash off",
+    "Can be applied underwater"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-wire-rope-spray-400ml.html|>
+## ROCOL Wire Rope Spray 400ml
+
+{
+  "price": "€53.11 inc VAT (€43.18 exc.vat)",
+  "description": "Rocol Wire Rope Spray is an aerosol applied thin film rope lubricant that leaves a long lasting protective film. Penetrates to lubricate the rope core, contains Moly (MoS2) for increased lubrication, and has excellent de-watering properties. Temperature range - 30°C to + 100°C. Size: 400ml.",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL Wire Rope Spray 400ml",
+  "specifications": [
+    "Aerosol applied thin film rope lubricant",
+    "Long lasting protective film",
+    "Contains Moly (MoS2) for increased lubrication",
+    "Excellent de-watering properties",
+    "Temperature range - 30°C to + 100°C",
+    "Size: 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-chain-and-drive-spray-300ml.html|>
+## ROCOL Chain & Drive Spray 300ml
+
+{
+  "price": "€38.31 inc VAT (€31.15 exc.vat)",
+  "description": "Rocol Chain and Drive spray is an aerosol applied film chain lubricant. Designed to penetrate links and pins to give lubrication where it is most needed, for example in drive and conveyor chain lubricants. Ideal for humid conditions, and is water repellent to increase lubrication. Temperature range: -30° C to + 150° C. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Chain & Drive Spray 300ml",
+  "specifications": [
+    "Temperature range: -30° C to + 150° C",
+    "Size: 300ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-chain-guard-hi-load-spray-300ml.html|>
+## ROCOL Chain Guard Hi-Load Spray 300ml
+
+{
+  "price": "€44.27 inc VAT (€35.99 exc.vat)",
+  "description": "Rocol Chain Guard Hi-Load Spray is an aerosol chain lubricant containing Moly (MoS2) for use in the most arduous conditions. Ideally suited for use on chains under heavy loads - for example fork lift trucks. Suitable for drive and conveyor chains, and offers excellent protection. Temperature range: - 30°C to + 180ºC. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Chain Guard Hi-Load Spray 300ml",
+  "specifications": [
+    "Aerosol chain lubricant",
+    "Contains Moly (MoS2)",
+    "Temperature range: -30°C to +180°C",
+    "Size: 300ml",
+    "Ideal for heavy loads"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-chain-and-drive-fluid-5-litre.html|>
+## ROCOL Chain & Drive Fluid 5 Litre
+
+{
+  "price": "€216.87 inc VAT (€176.32 exc.vat)",
+  "description": "Rocol Chain and Drive Fluid is a multi purpose chain lubricant for drive and conveyor chains. It has good load carrying properties, and offers long term lubrication that penetrates links and pins. Temperature range -30° C to + 150ºC. Size: 5 Litre Container.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Chain & Drive Fluid 5 Litre",
+  "specifications": [
+    "Temperature range -30° C to + 150ºC",
+    "Size: 5 Litre Container"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-heavy-duty-cleaner-spray-300ml.html|>
+## ROCOL Heavy-Duty Cleaner Spray 300ml
+
+{
+  "price": "€34.72 inc VAT (€28.23 exc.vat)",
+  "description": "Heavy-Duty Cleaner Spray and Fluid\n\nA specially formulated blend of degreasing solvents designed to remove grease, oils and heavy dirts. Emulsifies the grime to allow removal by wiping.\n\nPowerful solvent blend - cuts through grease.\n\nWater emulsifiable.\n\nSafe on metal, paint and most plastics.\n\nFree from chlorinated solvents.\n\nSize: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Heavy-Duty Cleaner Spray 300ml",
+  "specifications": [
+    "Powerful solvent blend - cuts through grease",
+    "Water emulsifiable",
+    "Safe on metal, paint and most plastics",
+    "Free from chlorinated solvents",
+    "Size: 300ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-precision-silicone-spray-400ml.html|>
+## ROCOL Precision Silicone Spray 400ml
+
+{
+  "price": "€37.50 inc VAT (€30.49 exc.vat)",
+  "description": "Rocol Precision Silicone Spray is an advanced silicone lubricant for light lubrication in the food, chemical and other clean industries, where a clear film is preferred. Authorised by USDA for use in federally inspected meat and poultry plants. Non toxic colourless silicone spray providing a light lubricating film with wide temperature stability. Ideal for slides, bearings and conveyors. Resists oxidation and corrosion. Temperature range - 50°C to + 200°C. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Precision Silicone Spray 400ml",
+  "specifications": [
+    "Temperature range - 50°C to + 200°C",
+    "Size: 400ml",
+    "Non toxic colourless silicone spray",
+    "Resists oxidation and corrosion",
+    "Ideal for slides, bearings and conveyors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-electra-clean-spray-300ml.html|>
+## ROCOL Electra Clean Spray 300ml
+
+{
+  "price": "€39.51 inc VAT (€32.12 exc.vat)",
+  "description": "Electra Clean Spray is a powerful cleaner designed for use on electrical equipment and components. In addition to efficient cleaning, it evaporates to leave no residue. It is NSF Registered category code K2 as suitable for cleaning electronic instruments and devices in and around food processing areas. The cleaner is also ideal for use in many other industrial environments. Designed to remove grime, grease and dirt from all electrical instruments and devices including control panels, motors, contacts and switches. Compatible with most commonly used plastics. Electraclean Spray has a 3600 valve system enabling it to be sprayed from any angle. Electraclean Spray has a blue mini-jet spray nozzle for accurate application and easy identification as a foodsafe product. Electraclean Spray does not contain: mineral hydrocarbons, animal derived materials, nut oils or genetically modified ingredients. FDA Group 21 CFR 178-3570. NSF K2 Registered 124471. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Electra Clean Spray 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "NSF Registered category code K2",
+    "Evaporates to leave no residue",
+    "Compatible with most commonly used plastics",
+    "3600 valve system for spraying from any angle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-foam-cleaner-spray-400ml.html|>
+## ROCOL Foam Cleaner Spray 400ml
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Rocol Foam Cleaner Spray is a water based foam cleaner in aerosol format. It is NSF Registered category code A1 as suitable for use in and around food processing areas. The cleaner is also ideal for use in many other industrial environments. The product produces a fast acting white foam to efficiently clean work surfaces. The foam will cling to vertical surfaces, preventing contamination by run-off or dripping. Cuts through all general grime, grease, dirt and other workplace contamination and the foaming action ensures long contact time for effective cleaning, even on vertical surfaces, and has an anti-static formulation. Meets the requirements of The Food Safety Act 1990 and does not contain mineral hydrocarbons, animal derived materials, nut oils or genetically modified ingredients etc. Blue spray nozzle for easy identification as a foodsafe product.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Foam Cleaner Spray 400ml",
+  "specifications": [
+    "Size: 400ml spray",
+    "NSF A1 Registered - 123858",
+    "FDA Group 21 CFR 178-3570"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-dry-ptfe-spray-400ml.html|>
+## ROCOL Dry PTFE Spray 400ml
+
+{
+  "price": "€48.11 inc VAT (€39.11 exc.vat)",
+  "description": "Rocol Dry PTFE lubricant is a non-staining lubricant which gives a low friction, non-toxic, non-stick surface and reduces static. Use on cams, slides, open bearings and chutes. NSF H1 Registered. Temperature range -200°C to +270°C. Size: 400ml Aerosol.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Dry PTFE Spray 400ml",
+  "specifications": [
+    "Temperature range -200°C to +270°C",
+    "Size: 400ml Aerosol",
+    "NSF H1 Registered"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-belt-dressing-spray-300ml.html|>
+## ROCOL Belt Dressing Spray 300ml
+
+{
+  "price": "€15.99 inc VAT (€13.00 exc.vat)",
+  "description": "Rocol Belt Dressing Spray is specially formulated to condition and lubricate drive belts. Suitable for use on all types of drive and conveyor belts. Conditions drive and conveyor belts whilst preventing glazing and cracking, and reducing slipping. Temperature range: +50° C to +100ºC. NSF H1 registered. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Belt Dressing Spray 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Temperature range: +50° C to +100ºC",
+    "NSF H1 registered"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-spray-grease-400ml.html|>
+## ROCOL SAPPHIRE Spray Grease 400ml
+
+{
+  "price": "€39.03 inc VAT (€31.73 exc.vat)",
+  "description": "Rocol SAPPHIRE Grease is a versatile, multi-purpose, synthetic spray grease with PTFE. Offers high performance, fully synthetic multi-purpose grease supplied in an aerosol for ease of application and convenience. Extreme high and low temperature capability, with high speed applications such as fan and motor bearings. Extended lubrication intervals and ideal electrical contact grease. Compatible with most plastics and rubbers. Temperature range of -50° C to +200ºC.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE Spray Grease 400ml",
+  "specifications": [
+    "Versatile, multi-purpose, synthetic spray grease with PTFE",
+    "Temperature range of -50° C to +200ºC",
+    "High performance for high speed applications",
+    "Compatible with most plastics and rubbers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-precision-lube-spray-400ml.html|>
+## ROCOL SAPPHIRE Precision Lube Spray 400ml
+
+{
+  "price": "€43.51 inc VAT (€35.37 exc.vat)",
+  "description": "Rocol SAPPHIRE Precision Lube Spray is a high performance PTFE fortified lubricant designed for general lubrication of moving parts such as slides and chains. Temperature range: -55°C to + 250ºC. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE Precision Lube Spray 400ml",
+  "specifications": [
+    "Temperature range: -55°C to + 250ºC",
+    "Size: 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-z30-spray-300ml.html|>
+## ROCOL Z30 Spray 300ml
+
+{
+  "price": "€46.54 inc VAT (€37.84 exc.vat)",
+  "description": "Rocol Z30 Spray is long term heavy-duty corrosion inhibitor. It dries to form a soft waxy film providing protection for up to 2 years. Used on equipment in environments where corrosion prevention and lubrication are required on chains, gears, wire ropes etc. Temperature range: -20°C to +110ºC. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Z30 Spray 300ml",
+  "specifications": [
+    "Temperature range: -20°C to +110ºC",
+    "Size: 300ml",
+    "Long term heavy-duty corrosion inhibitor",
+    "Provides protection for up to 2 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-dry-moly-paste.html|>
+## ROCOL Dry Moly Paste
+
+{
+  "price": "from €91.35 inc VAT",
+  "description": "Rocol Dry Moly (MoS2) paste is a soft petroleum based paste with a high moly content. It can be rubbed, or burnished, on to the surface. Provides excellent load carrying and dry film lubrication. Temperature range up to 450°C.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Dry Moly Paste",
+  "specifications": [
+    "100g750g Tin",
+    "Temperature range up to 450°C",
+    "Soft petroleum based paste with high moly content",
+    "Excellent load carrying and dry film lubrication"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-2-bearing-greases.html|>
+## ROCOL SAPPHIRE 2 Bearing Greases
+
+{
+  "price": "€21.05 inc VAT",
+  "description": "Rocol SAPPHIRE 2 is a triple life bearing grease that offers excellent load carrying and corrosion resistance properties. Suitable for all types of ball, roller and plain bearings. Temperature range: - 30°C to + 150°C.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE 2 Bearing Greases",
+  "specifications": [
+    "Temperature range: -30°C to +150°C",
+    "Suitable for all types of ball, roller and plain bearings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-silicone-greases.html|>
+## ROCOL SAPPHIRE Silicone Greases
+
+{
+  "price": "€179.99 inc VAT",
+  "description": "Rocol SAPPHIRE Aqua-Sil is a silicone grease with excellent high temperature stability which is UK water Byelaws Scheme approved for use with potable water. SAPPHIRE Aqua-Sil also offers good resistance to chemicals, oils, water and gasses. It is also compatible with most Plastic and Rubbers.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE Silicone Greases",
+  "specifications": [
+    "Temperature range of -40°C to + 200°C",
+    "UK Water Byelaws Scheme approved product"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-anti-sieze-compound.html|>
+## ROCOL Anti Sieze Compound
+
+{
+  "price": "from €19.79 inc VAT",
+  "description": "Rocol Anti-Seize compound is copper based, lead free formulation, and used to prevent seizure and galling of all threaded and static fasteners. Lubricates, protects and eases dismantling, effective even in the most aggressive environments, insoluble in water. Ideal for furnaces, exhaust systems, dockside and oil rig applications. Temperature range -10°C to +1,100°C.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Anti Sieze Compound",
+  "specifications": [
+    "Copper based, lead free formulation",
+    "Prevents seizure and galling of fasteners",
+    "Temperature range -10°C to +1,100°C",
+    "Effective in aggressive environments",
+    "Ideal for furnaces, exhaust systems, dockside and oil rig applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-multisol-water-mix-cutting-fluid.html|>
+## ROCOL Multisol Water Mix Cutting Fluid
+
+{
+  "price": "€389.44 inc VAT",
+  "description": "Rocol Multisol cutting fluid is a general purpose mineral soluble oil, suitable for use on a wide range of machines and materials. The recommended dilution ratio is 1 part Rocol Multisol to 20 parts of water.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Multisol Water Mix Cutting Fluid",
+  "specifications": [
+    "20 Litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-precision-air-duster-spray.html|>
+## ROCOL Precision Air Duster Spray
+
+{
+  "price": "€38.35 inc VAT (€31.18 exc.vat)",
+  "description": "ROCOL Precision Air Duster Spray is ideal for gas fitters and plumbers on items such as gas fires, boilers etc, and on mechanical and electrical items. By providing a high pressure blast of air, it removes dust and debris from delicate items or difficult to access areas which collect dust readily, and are otherwise very difficult to clean. Supplied with an applicator straw, for cleaning with even greater accuracy.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Precision Air Duster Spray",
+  "specifications": [
+    "Ideal for gas fitters and plumbers",
+    "High pressure blast of air",
+    "Removes dust and debris from delicate items",
+    "Supplied with an applicator straw"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-advance-2-multipurpose-grease-380g.html|>
+## ROCOL SAPPHIRE® Advance 2 Multipurpose Grease 380g
+
+{
+  "price": "€23.20 inc VAT (€18.86 exc.vat)",
+  "description": "The ROCOL SAPPHIRE® Advance 2 Multipurpose Grease offers outstanding performance when compared to other conventional greases. Fortified with PTFE. Excels in high speed applications such as electric motors and fan bearings. Also ideal for rapid start-stop applications. Temperature range of -30°C to +160ºC",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE® Advance 2 Multipurpose Grease 380g",
+  "specifications": [
+    "Fortified with PTFE",
+    "Temperature range of -30°C to +160ºC",
+    "Ideal for high speed applications",
+    "Suitable for rapid start-stop applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-premier-lubricating-grease.html|>
+## ROCOL SAPPHIRE® Premier Lubricating Grease
+
+{
+  "price": "€75.63 inc VAT (€61.49 exc.vat)",
+  "description": "ROCOL SAPPHIRE® Premier Lubricating Grease is a high-performance, fully synthetic multipurpose grease, designed for all types of antifriction bearings operating in extreme conditions. Fortified with PTFE. Ideal for high speed applications such as fan and motor bearings, or used as an electrical contact grease. It is compatible with most plastics and rubbers. Temperature range of -50°C to +200°C",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE® Premier Lubricating Grease",
+  "specifications": [
+    "High-performance, fully synthetic multipurpose grease",
+    "Designed for antifriction bearings",
+    "Fortified with PTFE",
+    "Temperature range of -50°C to +200°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-sapphire-aqua-2-grease-4kg.html|>
+## ROCOL SAPPHIRE® Aqua 2 Grease 4kg
+
+{
+  "price": "€270.50 inc VAT (€219.92 exc.vat)",
+  "description": "For use in all types of ball, roller and plain bearings. Outstanding long-term water resistance, even when submerged. Excellent corrosion protection with good load and wear performance. Extended lubrication intervals. Temperature range of -20°C to +150°C.",
+  "availability": "In Stock",
+  "product_name": "ROCOL SAPPHIRE® Aqua 2 Grease 4kg",
+  "specifications": [
+    "For use in all types of ball, roller and plain bearings",
+    "Outstanding long-term water resistance, even when submerged",
+    "Excellent corrosion protection with good load and wear performance",
+    "Extended lubrication intervals",
+    "Temperature range of -20°C to +150°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-wire-rope-dressing-18kg.html|>
+## ROCOL Wire Rope Dressing 18kg
+
+{
+  "price": "€955.92 inc VAT (€777.17 exc.vat)",
+  "description": "Lubricating, penetrating and protective wire rope lubricant\n\nSemi-fluid, non-melting grease, resistant to sea water\n\nSuitable for all non-friction drive wire ropes\n\nTemperature range -30°C to +100°C\n\nApproved to NATO and Naval Standards",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL Wire Rope Dressing 18kg",
+  "specifications": [
+    "Semi-fluid, non-melting grease",
+    "Resistant to sea water",
+    "Suitable for all non-friction drive wire ropes",
+    "Temperature range -30°C to +100°C",
+    "Approved to NATO and Naval Standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-wire-rope-fluid-20-litre.html|>
+## ROCOL WIRE ROPE Fluid 20 Litre
+
+{
+  "price": "€1,001.90 inc VAT (€814.55 exc.vat)",
+  "description": "ROCOL WIRE ROPE Fluid rapidly penetrates to the rope core, offering complete internal and external corrosion protection. It has excellent de-watering properties and is also resistant to sea water. Designed for complete lubrication and corrosion protection of most types of wire ropes, particularly in wet and hostile conditions. Suitable for all non-friction drive wire ropes, including ropes in storage. Ideal for high-pressure spray applicators, can also be brushed on. Approved to NATO and Naval Standards.",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL WIRE ROPE Fluid 20 Litre",
+  "specifications": [
+    "Temperature Range: -30°C to +100°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-cable-protect-500ml.html|>
+## MOTIPÂ® Pro Cable Protect 500ml
+
+{
+  "price": "€5.95 inc VAT (€4.84 exc.vat)",
+  "description": "MoTip Pro Cable Protect is a transparent spray with excellent adhesion to prevent damage on cables and wires by martens/small mammals. It forms a unique, sticky protection film that martens and other small mammals will avoid. Its special formula enables it to be applied to moving parts. It gives lasting protection, is inodorous and resistant to weather influences, weak acids and bases.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Cable Protect 500ml",
+  "specifications": [
+    "Transparent spray",
+    "Excellent adhesion",
+    "Prevents damage from martens/small mammals",
+    "Forms a sticky protection film",
+    "Inodorous and weather resistant"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-industrial-grease-spray-500ml.html|>
+## MOTIPÂ® Pro Industrial Grease Spray 500ml
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "MoTip Pro Industrial Grease Spray is used to lubricate chain-driven transmissions, which are liable to heavy load. Industrial chain grease can be processed like oil, with the properties of grease. Offers outstanding mechanical and thermal stability, whilst also preventing wear and sticking. Resistant to weather influences, weak acids and bases, it is also water-repellent and pH-neutral. Temperature Resistant: -50°C up to +200°C.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Pro Industrial Grease Spray 500ml",
+  "specifications": [
+    "Temperature Resistant: -50°C up to +200°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-freezer-spray-500ml.html|>
+## MOTIPÂ® Pro Freezer Spray 500ml
+
+{
+  "price": "€6.15 inc VAT (€5.00 exc.vat)",
+  "description": "MoTip Pro Freezer Spray is used to loosen pressed connections, by briefly decreasing the temperature to -50°C. It has a precise and directed jet spray.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Pro Freezer Spray 500ml",
+  "specifications": [
+    "Volume: 500ml",
+    "Temperature: -50°C",
+    "Product Code: MOT090306"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-dust-remover-non-flammable-500ml.html|>
+## MOTIP® Pro Dust Remover Non-Flammable 500ml
+
+{
+  "price": "€24.62 inc VAT (€20.02 exc.vat)",
+  "description": "MoTip Pro Dust Remover is non-flammable, inodorous and leaves no residue. Uses high-pressure to remove dust and loose dirt from places that are hard to reach. With a powerful, directed jet spray.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIP® Pro Dust Remover Non-Flammable 500ml",
+  "specifications": [
+    "Non-flammable",
+    "Inodorous",
+    "Leaves no residue",
+    "High-pressure dust removal",
+    "Powerful directed jet spray"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-freezer-electronic-spray-500ml.html|>
+## MOTIPÂ® Pro Freezer Electronic Spray 500ml
+
+{
+  "price": "€7.74 inc VAT (€6.29 exc.vat)",
+  "description": "MoTip Pro Freezer Electronic Spray has a non-flammable formula. It briefly decreases the temperature to -55°C, to trace cracks in printed circuit boards. With a directed jet spray that can be used in various positions.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Freezer Electronic Spray 500ml",
+  "specifications": [
+    "Non-flammable formula",
+    "Decreases temperature to -55°C",
+    "Directed jet spray",
+    "Used for tracing cracks in printed circuit boards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-dust-remover-flammable-500ml.html|>
+## MOTIP® Pro Dust Remover Flammable 500ml
+
+{
+  "price": "€5.74 inc VAT (€4.67 exc.vat)",
+  "description": "MoTip Pro Dust Remover is flammable, inodorous and leaves no residue. Uses high-pressure to remove dust and loose dirt from places that are hard to reach. With a powerful, directed jet spray.",
+  "availability": "In Stock",
+  "product_name": "MOTIP® Pro Dust Remover Flammable 500ml",
+  "specifications": [
+    "Flammable",
+    "Inodorous",
+    "Leaves no residue",
+    "High-pressure dust removal",
+    "Powerful directed jet spray"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-stainless-steel-spray-cleaner-500ml.html|>
+## MOTIPÂ® Pro Stainless Steel Spray Cleaner 500ml
+
+{
+  "price": "€5.76 inc VAT (€4.68 exc.vat)",
+  "description": "MoTip Pro Stainless Steel Spray Cleaner cleans and protects stainless steel parts. It has a unique formula, so after cleaning, a thin protecting film is formed, which effectively prevents renewed adhesion of dirt. Protects against corrosion, restores and intensifies the gloss. MoTip Stainless Steel Cleaner is user-friendly, gives lasting protection and is non-polishing.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Pro Stainless Steel Spray Cleaner 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Cleans and protects stainless steel",
+    "Prevents dirt adhesion",
+    "Protects against corrosion",
+    "Restores and intensifies gloss",
+    "User-friendly and non-polishing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ridgid-model-418-oiler-with-5-litres-oil-73442.html|>
+## RIDGID Model 418 Oiler with 5 Litres Oil 73442
+
+{
+  "price": "€691.75 inc VAT (€562.40 exc.vat)",
+  "description": "The RIDGID Model 418 Oiler has durable pump assembly and a heavy-duty reservoir, that has been designed to increase productivity. The pump assembly allows for 50% more oil per stroke than other hand-held oilers, for a longer die life. The 418 oiler features a patent pending, fastenerless twist and lock drip pan that easily locks in place. The integral moulded body eliminates leaks at the hose-reservoir connection and it has a convenient anti-slip grip design with integral hood for easy hanging. The oiler has a die cast, heavy-duty body with swivel nozzle, so there are no exposed parts providing a longer working life. It has an ergonomic 2-finger trigger design that reduces user fatigue. The material withstands abrasion, it is lighter than metal and does not rust, the reservoir will not crack or leak. Material is so strong that under normal use, no dents will form (on impact) and the shape will not change over time. As a result, the drip pan will fit squarely on the reservoir time after time. Supplied with 5 Litres of Oil.",
+  "availability": "Out of Stock",
+  "product_name": "RIDGID Model 418 Oiler with 5 Litres Oil 73442",
+  "specifications": [
+    "Pan Diameter: 362mm (14.1/4in)",
+    "Pan Depth: 222mm (8.3/4in)",
+    "Hose Length: 1.39m (55in)",
+    "Capacity: 4.54 Litres (1 Gallon)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-poly-anti-splash-funnels.html|>
+## Lumatic Poly Anti Splash Funnels
+
+{
+  "price": "from €7.53 inc VAT",
+  "description": "The Lumatic Anti Splash Funnel is made of high density polyethylene with strainer and flexible removable spout",
+  "availability": "In Stock",
+  "product_name": "Lumatic Poly Anti Splash Funnels",
+  "specifications": [
+    "150mm (6in) Diameter",
+    "230mm (9in) Diameter"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-polyethylene-oil-measure-jug-with-spout.html|>
+## Lumatic Polyethylene Oil Measure Jug With Spout
+
+{
+  "price": "€5.99 inc VAT",
+  "description": "A heavy-duty oil measuring jug made of high grade white polyethylene with a dust protection screw cap and flexible, removable spout with cap. Fluids are protected against ingress of pollutants and the cap prevents drips and spillages.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Polyethylene Oil Measure Jug With Spout",
+  "specifications": [
+    "Select Option: 1 Litre, 2 Litre, 5 Litre",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-suction-oil-gun-500cc.html|>
+## Lumatic Suction Oil Gun 500cc
+
+{
+  "price": "€13.05 inc VAT (€10.61 exc.vat)",
+  "description": "The Lumatic 500cc Suction Oil Gun has a steel body with a flexible, clear suction hose and has been designed for gearbox filling and emptying.",
+  "availability": "In Stock",
+  "product_name": "Lumatic Suction Oil Gun 500cc",
+  "specifications": [
+    "500cc capacity",
+    "Steel body",
+    "Flexible clear suction hose",
+    "Designed for gearbox filling and emptying"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-rtd-foamcut-300ml.html|>
+## ROCOL RTD Foamcut 300ml
+
+{
+  "price": "€61.28 inc VAT (€49.82 exc.vat)",
+  "description": "Rocol RTD Foamcut is a high performance foaming metal cutting lubricant, which clings and penetrates to the cutting edge for economical application. Clean to use, silicone free, suitable for use with a wide range of metals. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL RTD Foamcut 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "High performance foaming metal cutting lubricant",
+    "Clings and penetrates to the cutting edge",
+    "Clean to use, silicone free",
+    "Suitable for use with a wide range of metals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-flawfinder-system-kit.html|>
+## ROCOL Flawfinder System Kit
+
+{
+  "price": "€162.47 inc VAT (€132.09 exc.vat)",
+  "description": "Rocol Flawfinder system is a non-destructive crack detection system. Benefits include industrial recognised NDT system, portable, easy-to-use and cost effective. System Kit comprsing 1 each of the following: 1 Flawfinder Cleaner Spray (300ml). 1 Flawfinder Developer Spray (400ml). 1 Flawfinder Dye Penetrant (300ml).",
+  "availability": "In Stock",
+  "product_name": "ROCOL Flawfinder System Kit",
+  "specifications": [
+    "Flawfinder Cleaner Spray (300ml)",
+    "Flawfinder Developer Spray (400ml)",
+    "Flawfinder Dye Penetrant (300ml)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-spatter-release-spray-300ml.html|>
+## ROCOL Spatter Release Spray 300ml
+
+{
+  "price": "€25.93 inc VAT (€21.08 exc.vat)",
+  "description": "Rocol Spatter Release Spray completely prevents the adhesion of weld spatter to nozzles and shrouds, work pieces, jigs and fixtures. Size: 300ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Spatter Release Spray 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-mould-release-pr-spray-400ml.html|>
+## ROCOL Mould Release PR Spray 400ml
+
+{
+  "price": "€36.17 inc VAT (€29.41 exc.vat)",
+  "description": "Rocol Mould Release PR Spray is a wet silicone based release agent designed to improve surface finish by preventing mould adhesion of plastic or rubber to moulding dies. Temperature range: up to +200° C. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Mould Release PR Spray 400ml",
+  "specifications": [
+    "Temperature range: up to +200° C",
+    "Size: 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-ultracut-evo-250-cutting-fluid-5-litre.html|>
+## ROCOL Ultracut EVO 250 Cutting Fluid 5 Litre
+
+{
+  "price": "€182.13 inc VAT (€148.07 exc.vat)",
+  "description": "Rocol Ultracut EVO 250 is a long life, operator friendly soluble oil cutting fluid, formulated for light/medium cutting operations. Suitable for ferrous and non-ferrous metals with a dilution rate of 40:1. Size: 5 Litre.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Ultracut EVO 250 Cutting Fluid 5 Litre",
+  "specifications": [
+    "Size: 5 Litre",
+    "Dilution rate: 40:1",
+    "Suitable for ferrous and non-ferrous metals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-ultracut-370-cutting-fluid-5-litre.html|>
+## ROCOL Ultracut 370 Cutting Fluid 5 Litre
+
+{
+  "price": "€253.42 inc VAT (€206.03 exc.vat)",
+  "description": "Rocol Ultracut 370 Plus is a long life high dilution semi-synthetic light/medium-duty cutting and grinding fluid. It forms a translucent green micro-emulsion when mixed with water, which provides a clear view of the workpiece. Recommended dilution between 40:1 and 60:1 for cutting: 50:1 and 70:1 in water for grinding. Size: 5 Litre.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Ultracut 370 Cutting Fluid 5 Litre",
+  "specifications": [
+    "Size: 5 Litre",
+    "Recommended dilution: 40:1 to 60:1 for cutting, 50:1 to 70:1 for grinding"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-slideway-lubricant-spray-400ml.html|>
+## ROCOL Slideway Lubricant Spray 400ml
+
+{
+  "price": "€54.70 inc VAT (€44.47 exc.vat)",
+  "description": "Rocol Ultraglide Spray Total Protection Slideway lubricant. All the features of ULTRAGLIDE X5 with the convenience of an aerosol. Ideal for machine tools without automatic lubrication systems. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Slideway Lubricant Spray 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Total Protection Slideway lubricant",
+    "Convenient aerosol form",
+    "Ideal for machine tools without automatic lubrication systems"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-ultraglide-x5-lubricant-5-litre.html|>
+## ROCOL Ultraglide X5 Lubricant 5 Litre
+
+{
+  "price": "€97.53 inc VAT (€79.29 exc.vat)",
+  "description": "Rocol Ultraglide X5 is a total protection slideway lubricant which is resistant to water wash off and protects slides from corrosion. Good lubricant and load carrying properties - reduces wear and prevents stick slip. Rapid demulsification - separates rapidly from cutting fluid and is easily removed by oil skimmers/separators. Size: 5 Litre.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Ultraglide X5 Lubricant 5 Litre",
+  "specifications": [
+    "Size: 5 Litre",
+    "Total protection slideway lubricant",
+    "Resistant to water wash off",
+    "Protects slides from corrosion",
+    "Reduces wear and prevents stick slip",
+    "Rapid demulsification"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-rtd-spray-400ml.html|>
+## ROCOL RTD Spray 400ml
+
+{
+  "price": "€51.49 inc VAT (€41.86 exc.vat)",
+  "description": "Rocol RTD spray is an aerosol applied metal cutting lubricant, consisting of a concentrate of extreme pressure additives. When applied, it supplies a film of metal cutting fluid direct to the cutting zone. Suitable for use during machining operations and in areas where access is difficult. Size: 400ml.",
+  "availability": "In Stock",
+  "product_name": "ROCOL RTD Spray 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Aerosol applied metal cutting lubricant",
+    "Contains extreme pressure additives",
+    "Suitable for machining operations",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-rtd-compound.html|>
+## ROCOL RTD Compound
+
+{
+  "price": "from €11.43 inc VAT",
+  "description": "Rocol RTD Metal Cutting Compound is a high performance metal cutting lubricant, containing extreme pressure additives which cling to the tool and workpiece, reducing friction and prolonging tool life. Suitable for use on all ferrous and non-ferrous metals even in the most severe metal removal operations.",
+  "availability": "In Stock",
+  "product_name": "ROCOL RTD Compound",
+  "specifications": [
+    "Available in 500g, 50g Tube, 5kg",
+    "High performance metal cutting lubricant",
+    "Contains extreme pressure additives",
+    "Suitable for ferrous and non-ferrous metals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-rtd-cleancut.html|>
+## ROCOL RTD Cleancut
+
+{
+  "price": "from €50.70 inc VAT",
+  "description": "RTD Cleancut is a specially formulated, low viscosity, oil and solvent free, hand applied metalworking liquid suitable for use with all metals - including aluminium, brass and copper. Excellent cutting performance. Prolongs tool life. Improves surface finish. Easily removed with water. Very low fuming - even at high speeds. Low viscosity-good penetration.",
+  "availability": "In Stock",
+  "product_name": "ROCOL RTD Cleancut",
+  "specifications": [
+    "350g",
+    "5 Litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-rtd-liquid.html|>
+## ROCOL RTD Liquid
+
+{
+  "price": "from €49.53 inc VAT",
+  "description": "Rocol RTD Metal Cutting Fluid is a viscous high performance metal cutting lubricant. Containing extreme pressure additives, RTD clings to the tool and work piece reducing friction and prolonging tool life. RTD promotes superior work piece surface finish. RTD gives the ultimate cutting performance on all ferrous and non-ferrous metals even in the most severe metal removal operations. RTD metal cutting liquid is suitable for automatic applications on CNC machines.",
+  "availability": "In Stock",
+  "product_name": "ROCOL RTD Liquid",
+  "specifications": [
+    "400g Bottle",
+    "5 Litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-layout-ink-sprays.html|>
+## ROCOL Layout Ink Sprays
+
+{
+  "price": "€68.68 inc VAT",
+  "description": "Rocol Layout Ink Spray allows easy markings to be made on bright metal surfaces. Resistant to washing off by metal cutting fluids.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Layout Ink Sprays",
+  "specifications": [
+    "Select Option: Fluid-blue 1 Litre, Spray-blue 300ml, Spray-white 400ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-flawfinder.html|>
+## ROCOL Flawfinder
+
+{
+  "price": "€50.22 inc VAT",
+  "description": "Rocol Aerosol Flawfinder system is a high sensitivity dye for detecting cracks and flaws under normal light. Use after the inspection area has been cleaned and any excess penetrant has been removed. Industrial recognised NDT system.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Flawfinder",
+  "specifications": [
+    "Select Option: Cleaner Spray, Developer Spray (no2), Dye Penetrant 300ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-moisture-guard-spray.html|>
+## ROCOL Moisture Guard Spray
+
+{
+  "price": "€53.32 inc VAT",
+  "description": "Rocol Moisture Guard is a thin corrosion preventative film suitable for the temporary protection of components. The flexible film does not chip or crack, does not attract dirt or dust, and protects against condensation attack. De watering film protects against corrosion caused by moisture or damp atmospheres. The product is also silicone free.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Moisture Guard Spray",
+  "specifications": [
+    "Thin corrosion preventative film",
+    "Flexible film that does not chip or crack",
+    "Protects against condensation attack",
+    "Silicone free"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-ultraguard-sc-cleaner.html|>
+## ROCOL ULTRAGUARD SC Cleaner
+
+{
+  "price": "€395.74 inc VAT",
+  "description": "ROCOL ULTRAGUARD SC is a high performance machine tool system cleaner. Cleans and disinfects in one operation. Designed for use prior to recharging machine tools with fresh cutting/grinding fluid. Can be used while machine is in operation.",
+  "availability": "In Stock",
+  "product_name": "ROCOL ULTRAGUARD SC Cleaner",
+  "specifications": [
+    "Dilution Ratio: 100:1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-ultracut-250-cutting-fluid-20-litre.html|>
+## ROCOL ULTRACUT 250 Cutting Fluid 20 litre
+
+{
+  "price": "€570.35 inc VAT (€463.70 exc.vat)",
+  "description": "Long-life, operator friendly, soluble oil cutting fluid formulated for light/medium cutting operations. No biocides or skin sensitisers. Suitable for ferrous and non-ferrous metals. Very economical dilutions, up to 40:1.",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL ULTRACUT 250 Cutting Fluid 20 litre",
+  "specifications": [
+    "Formulated for light/medium cutting operations",
+    "No biocides or skin sensitisers",
+    "Suitable for ferrous and non-ferrous metals",
+    "Very economical dilutions, up to 40:1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-v-cut-mp-cutting-fluid-20-litre.html|>
+## ROCOL V-Cut MP Cutting Fluid 20 litre
+
+{
+  "price": "€211.72 inc VAT (€172.13 exc.vat)",
+  "description": "Multipurpose cutting fluid\n\nWater mix fluid providing a milky emulsion\n\nIdeal for various metals, with excellent results on low to medium carbon steels\n\nVery economical dilutions, up to 35:1\n\nProlonged sump life",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL V-Cut MP Cutting Fluid 20 litre",
+  "specifications": [
+    "Water mix fluid providing a milky emulsion",
+    "Ideal for various metals",
+    "Excellent results on low to medium carbon steels",
+    "Very economical dilutions, up to 35:1",
+    "Prolonged sump life"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-refractometer.html|>
+## ROCOL Refractometer
+
+{
+  "price": "€285.86 inc VAT (€232.41 exc.vat)",
+  "description": "The ROCOL Refractometer provides an accurate read out (strength/mix ratio) of water mix cutting and grinding fluids.",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL Refractometer",
+  "specifications": [
+    "Model: ROC52060",
+    "Price: €285.86",
+    "Out of Stock"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-automatic-fluid-mixer.html|>
+## ROCOL Automatic Fluid Mixer
+
+{
+  "price": "€654.20 inc VAT (€531.87 exc.vat)",
+  "description": "The ROCOL Automatic Fluid Mixer accurately mixes and dispenses water mix cutting and grinding fluids from the barrel. Developed to meet the strongest demands from waterworks all over the world for category 3 fluids and ISO EN 1717.",
+  "availability": "Out of Stock",
+  "product_name": "ROCOL Automatic Fluid Mixer",
+  "specifications": [
+    "Model: ROC52233",
+    "Price: €654.20",
+    "Out of Stock",
+    "Includes WEEE Recycling information",
+    "Delivery information available",
+    "Returns policy available"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-cut-and-drill-spray-oil-500ml.html|>
+## MOTIPÂ® Pro Cut & Drill Spray Oil 500ml
+
+{
+  "price": "€7.49 inc VAT (€6.09 exc.vat)",
+  "description": "MoTip Pro Cut & Drill Spray Oil prevents overheating of metals in cutting and drilling activities. Protects and lubricates the tool and reduces wear. It is silicone-free and non-corrosive.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Pro Cut & Drill Spray Oil 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Prevents overheating of metals",
+    "Silicone-free and non-corrosive",
+    "Protects and lubricates tools",
+    "Reduces wear"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-spill-kit-18-litre-chemical.html|>
+## Scan Spill Kit 18 Litre Chemical
+
+{
+  "price": "€50.34 inc VAT (€40.93 exc.vat)",
+  "description": "This Scan spill Kit absorbs acid, solvents and strong chemicals. Absorbs up to 18 Litres. It contains high performance absorbent pads and socks and is ideal for laboratories and workshops. This kit includes 10 high performance absorbent pads (40 x 50 cm), 2 high performance absorbent socks (8 x 120 cm) and 1 disposal bag with tie.",
+  "availability": "In Stock",
+  "product_name": "Scan Spill Kit 18 Litre Chemical",
+  "specifications": [
+    "Absorbs up to 18 Litres",
+    "Includes 10 absorbent pads (40 x 50 cm)",
+    "Includes 2 absorbent socks (8 x 120 cm)",
+    "Includes 1 disposal bag with tie"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-absorbent-pads-10-chemical.html|>
+## Absorbent Pads (10) Chemical
+
+{
+  "price": "€18.66 inc VAT (€15.17 exc.vat)",
+  "description": "These Scan absorbant pads absorb acid, solvents and strong chemicals. They are bonded for extra strength. Ideal for dealing with small leaks and spills. Pad dimensions: 550 x 450mm. Supplied in packs of 10.",
+  "availability": "In Stock",
+  "product_name": "Absorbent Pads (10) Chemical",
+  "specifications": [
+    "Pad dimensions: 550 x 450mm",
+    "Supplied in packs of 10",
+    "Absorbs acid, solvents and strong chemicals",
+    "Bonded for extra strength"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-spill-kit-18-litre-general-purpose.html|>
+## Scan Spill Kit 18 Litre General Purpose
+
+{
+  "price": "€43.47 inc VAT (€35.34 exc.vat)",
+  "description": "This Scan Spill Kit absorbs coolant, oil, water, solvents and non-aggressive fluids. Asorbs up to 18 litres. The kit contains high performance absorbent pads and socks and is ideal in the plumbing trade for boiler leaks etc. This kit includes 10 high performance absorbent pads (40 x 50 cm), 2 high performance absorbent socks (8 x 120 cm) and 1 disposal bag with tie.",
+  "availability": "In Stock",
+  "product_name": "Scan Spill Kit 18 Litre General Purpose",
+  "specifications": [
+    "Absorbs up to 18 litres",
+    "Includes 10 absorbent pads (40 x 50 cm)",
+    "Includes 2 absorbent socks (8 x 120 cm)",
+    "Includes 1 disposal bag with tie"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-absorbent-pads-10-general-purpose.html|>
+## Scan Absorbent Pads (10) General Purpose
+
+{
+  "price": "€15.90 inc VAT (€12.93 exc.vat)",
+  "description": "These Scan general purpose pads absorb coolant, oil, water, solvents and non-aggressive fluids. They are bonded for extra strength. Ideal for dealing with small leaks and spills. Pad dimensions: 550 x 450mm. Supplied in a pack of 10.",
+  "availability": "In Stock",
+  "product_name": "Scan Absorbent Pads (10) General Purpose",
+  "specifications": [
+    "Pack of 10 pads",
+    "Dimensions: 550 x 450mm",
+    "Absorbs coolant, oil, water, solvents, and non-aggressive fluids",
+    "Bonded for extra strength"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-spill-kit-18-litre-oil-and-fuel.html|>
+## Scan Spill Kit 18 Litre Oil & Fuel
+
+{
+  "price": "€43.47 inc VAT (€35.34 exc.vat)",
+  "description": "This Scan Spill kit absorbs oil, fuel and solvents. Absorbs up to 18 litres. The kit contains high performance absorbent pads and socks and is ideal for vehicles and workshops. This kit includes 10 high performance absorbent pads (40 x 50cm), 2 high performance absorbent socks (8 x 120cm) and 1 disposal bag with tie.",
+  "availability": "In Stock",
+  "product_name": "Scan Spill Kit 18 Litre Oil & Fuel",
+  "specifications": [
+    "Absorbs up to 18 litres",
+    "Includes 10 absorbent pads (40 x 50cm)",
+    "Includes 2 absorbent socks (8 x 120cm)",
+    "Includes 1 disposal bag with tie"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-absorbent-pads-10-oil-and-fuel.html|>
+## Absorbent Pads (10) Oil & Fuel
+
+{
+  "price": "€15.90 inc VAT (€12.93 exc.vat)",
+  "description": "These Scan absorbant pads are designed specifically to absorb oil, fuel and solvents. They are bonded for extra strength. Ideal for dealing with small leaks and spills. Pad dimensions: 550 x 450mm. 10 pads per pack.",
+  "availability": "In Stock",
+  "product_name": "Absorbent Pads (10) Oil & Fuel",
+  "specifications": [
+    "Pad dimensions: 550 x 450mm",
+    "10 pads per pack",
+    "Designed to absorb oil, fuel, and solvents",
+    "Bonded for extra strength"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-drip-pan-53-x-40-x-95cm-16-litre.html|>
+## Scan Drip Pan 53 x 40 x 9.5cm 16 Litre
+
+{
+  "price": "€29.16 inc VAT (€23.71 exc.vat)",
+  "description": "This Scan Drip Pan is ideal for catching drips and leaks. It is made from tough, impact resistant plastic making it durable and long lasting. The pan features a pouring spout for safe and easy emptying. Holds up to 16 litres. Dimensions: Length 53cm x Width 40cm x Height 9.5cm.",
+  "availability": "In Stock",
+  "product_name": "Scan Drip Pan 53 x 40 x 9.5cm 16 Litre",
+  "specifications": [
+    "Dimensions: Length 53cm x Width 40cm x Height 9.5cm",
+    "Holds up to 16 litres",
+    "Made from tough, impact resistant plastic",
+    "Features a pouring spout for safe and easy emptying"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-paper-towel-wiping-roll.html|>
+## Scan Paper Towel Wiping Roll
+
+{
+  "price": "€13.55 inc VAT (€11.02 exc.vat)",
+  "description": "This Scan paper roll is essential for all cleaning and wiping tasks. Comes in a ready-to-use centre feed dispenser to keep rolls clean and dry. The roll measures 20cm x 150 metres.",
+  "availability": "In Stock",
+  "product_name": "Scan Paper Towel Wiping Roll",
+  "specifications": [
+    "Roll measures 20cm x 150 metres",
+    "Ready-to-use centre feed dispenser"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-drip-tray-60-x-60-x-7cm-28-litre.html|>
+## Scan Drip Tray 60 x 60 x 7cm 28 Litre
+
+{
+  "price": "€36.37 inc VAT (€29.57 exc.vat)",
+  "description": "This Scan Drip Tray is ideal for catching drips and leaks from vehicles, machinery and hoses. It is made from tough impact resistant plastic, making it durable and long-lasting. Prevents floor contamination and the need for cleaning. Holds up to 28 litres. Dimensions: Length 60cm x Width 60cm x Height 7cm*",
+  "availability": "In Stock",
+  "product_name": "Scan Drip Tray 60 x 60 x 7cm 28 Litre",
+  "specifications": [
+    "Dimensions: Length 60cm x Width 60cm x Height 7cm",
+    "Holds up to 28 litres",
+    "Made from tough impact resistant plastic"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-universal-absorbent-quick-rip-roll-box.html|>
+## Scan Universal Absorbent Quick-Rip Roll Box
+
+{
+  "price": "€71.07 inc VAT (€57.78 exc.vat)",
+  "description": "This Scan absorbent quick rip roll is non-linting, bonded for strength and perforated for easy tearing. It absorbs coolant, oil, water, solvents and non-aggressive fluids. The roll is supplied in a box with a dispensing slot and carry handle for easy use. Sheet dimensions: 31cm x 31metres.",
+  "availability": "In Stock",
+  "product_name": "Scan Universal Absorbent Quick-Rip Roll Box",
+  "specifications": [
+    "Sheet dimensions: 31cm x 31metres",
+    "Absorbs coolant, oil, water, solvents and non-aggressive fluids",
+    "Non-linting and perforated for easy tearing",
+    "Supplied in a box with a dispensing slot and carry handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-spilltrapper.html|>
+## Scan SpillTrapper®
+
+{
+  "price": "€107.50 inc VAT",
+  "description": "The Scan SpillTrapper® is designed to catch spills and leaks from machinery, tanks, and various other equipment on site avoiding any unwanted contamination. It absorbs oils, fuels and other hydrocarbon liquids. The spill trap has a hydrophobic inner material meaning rainwater cannot be absorbed in use. A tray is not required due to the additional oil retention properties and there is no concern for any pooling. The trap has a non-slip vinyl base and features eyelets in each corner, allowing for the product to be pegged to the ground or for hanging.",
+  "availability": "In Stock",
+  "product_name": "Scan SpillTrapper®",
+  "specifications": [
+    "Large (98 x 146cm) 32 litre",
+    "Medium (69 x 99cm) 15.5 litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/essentail-rags-10kg.html|>
+## Essentail Rags 10kg
+
+{
+  "price": "€22.16 inc VAT (€18.02 exc.vat)",
+  "description": "Bag of mixed rags. Use for general cleaning. Ideal for soaking up of oils, grease and grime.",
+  "availability": "In Stock",
+  "product_name": "Essentail Rags 10kg",
+  "specifications": [
+    "Rags 10kg",
+    "ESSCRAG : €22.16",
+    "Ideal for soaking up oils, grease and grime"
+  ]
+}
+

@@ -1,0 +1,60 @@
+<|https://www.mydiy.ie/products/makita-f-33948-galvanised-brad-nails-16ga-x-32mm-pack-2000.html|>
+## Makita F-33948 Galvanised Brad Nails 16Ga x 32mm (Pack 2000)
+
+{
+  "price": "€21.16 inc VAT (€17.20 exc.vat)",
+  "description": "Makita F-33948 Galvanised Brad Nails made from high-quality steel for reliability and performance. With a galvanised finish for increased durability and reduced rusting. Designed for use with the Makita AF600 Pneumatic Brad Nailer, ensuring fewer jamming or fitment issues.",
+  "availability": "In Stock",
+  "product_name": "Makita F-33948 Galvanised Brad Nails 16Ga x 32mm (Pack 2000)",
+  "specifications": [
+    "Size: 16Ga x 32mm",
+    "Shank: Smooth"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-39x55mm-50x20pc-ph2-coarse-screwstrip.html|>
+## Makita 3.9X55Mm (50X20Pc) Ph2 Coarse Screwstrip
+
+{
+  "price": "€57.95 inc VAT (€47.11 exc.vat)",
+  "description": "3.9X55Mm (50X20Pc) Ph2 Coarse Screwstrip",
+  "availability": "In Stock",
+  "product_name": "Makita 3.9X55Mm (50X20Pc) Ph2 Coarse Screwstrip",
+  "specifications": [
+    "MAKF31140 : €57.95"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-f31153-collated-drywall-screws-ph2-39-x-35mm-box-of-1000.html|>
+## Makita F31153 Collated Drywall Screws PH2 3.9 x 35mm Box of 1000
+
+{
+  "price": "€47.77 inc VAT (€38.84 exc.vat)",
+  "description": "For dry wall applications in steel and wood. Designed for use with Makita BFR550, DFR550 or 6843. PH2 drive and fine thread. Black phosphate coating. 50 screws per strip.",
+  "availability": "Out of Stock",
+  "product_name": "Makita F31153 Collated Drywall Screws PH2 3.9 x 35mm Box of 1000",
+  "specifications": [
+    "F31153 Collated Drywall Screws PH2 3.9 x 35mm Box of 1000",
+    "MAKF31153 : €47.77",
+    "Qty: Sorry this item is out of stock",
+    "Designed for use with Makita BFR550, DFR550 or 6843",
+    "PH2 drive and fine thread",
+    "Black phosphate coating",
+    "50 screws per strip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-staple-22mm-x-10mm-5040-qty.html|>
+## Makita Staple 22Mm X 10Mm 5040 Qty
+
+{
+  "price": "€34.29 inc VAT (€27.88 exc.vat)",
+  "description": "Staple 22Mm X 10Mm 5040 Qty",
+  "availability": "Out of Stock",
+  "product_name": "Makita Staple 22Mm X 10Mm 5040 Qty",
+  "specifications": [
+    "MAKF32689 : €34.29",
+    "Out of Stock"
+  ]
+}
+

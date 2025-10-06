@@ -1,0 +1,2636 @@
+<|https://www.mydiy.ie/products/faithfull-self-adhesive-hazardtapeblackyellow-50mm-x-33m.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-underground-warning-tapes.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dry-powder-abo-fire-extinguisher-with-gauge-1kg.html|>
+## Dry Powder ABO Fire Extinguisher with Gauge 1kg
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "Dry Powder ABO Fire Extinguisher with Gauge 1kg",
+  "availability": "In Stock",
+  "product_name": "Dry Powder ABO Fire Extinguisher with Gauge 1kg",
+  "specifications": [
+    "Dimensions: W: 40.0cm H: 16.0cm D: 11.0cm ⋅ 3.8kg",
+    "Effective on Class A, B, and C fires",
+    "Rapid Flame Knockdown properties",
+    "Not a conductor of electricity",
+    "Barcode: 5026637607721"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dry-powder-abo-fire-extinguisher-with-gauge-2kg.html|>
+## Dry Powder ABO Fire Extinguisher with Gauge 2kg
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "Dry Powder ABO Fire Extinguisher with Gauge 2kg. Dry Powder will be most effective on any fire where the burning produces flame fronts as in liquids and gases. It is suggested when faced with a fire with Class C components, only extinguish if total isolation of the gas supply can take place. Dry Powders are known for their Rapid Flame Knockdown properties. Dry Powder can also be used on ELECTRICAL FIRES as Powder is not a conductor of Electricity.",
+  "availability": "Out of Stock",
+  "product_name": "Dry Powder ABO Fire Extinguisher with Gauge 2kg",
+  "specifications": [
+    "Dimensions: W: 40.0cm H: 16.0cm D: 11.0cm ⋅ 2kg",
+    "Barcode: 5026637607721",
+    "Class A: Will Extinguish Fires involving combustible solid items such as Wood, Plastics, Paper",
+    "Class B: Will Extinguish Fires involving Flammable Fuels/Liquids such as Petrol, Diesel, Oil Paraffin",
+    "Class C: Will Extinguish Fires involving Flammable Gases such as Acetylene, LPG, Natural Gas"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-multipurpose-fire-extinguisher-10kg-abc.html|>
+## Kidde Multipurpose Fire Extinguisher 1.0kg ABC
+
+{
+  "price": "€37.91 inc VAT (€30.82 exc.vat)",
+  "description": "The Kidde Multipurpose Fire Extinguisher is ideal for use on most types of small domestic fires. The pressure gauge confirms that the extinguisher is ready to use (when the needle is in the green zone). It has an 8 second discharge and 4m range. BSI certified to BS EN3 standards, CE Tested and certified. For use with A, B or C category fires. A: Wood, paper B: Flammable liquids, petrol C: Gaseous fires",
+  "availability": "In Stock",
+  "product_name": "Kidde Multipurpose Fire Extinguisher 1.0kg ABC",
+  "specifications": [
+    "1.0kg capacity",
+    "Pressure gauge",
+    "8 second discharge",
+    "4m range",
+    "BSI certified to BS EN3 standards",
+    "CE Tested and certified",
+    "Suitable for A, B, C category fires"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-fire-extinguisher-multi-purpose-20kg-abc.html|>
+## Kidde Fire Extinguisher Multi-Purpose 2.0kg ABC
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "This Kidde KIDKSPD2G Multi-Purpose 2.0kg ABC Fire Extinguisher is a large capacity, dry powder fire extinguisher. The fire extinguisher is suitable for the following fires: A = Wood, paper and textiles. B = Liquid fires, such as petrol, oil and paints. C = Flammable gases. The extinguisher is also safe for use on electrical fires. It is suitable for use in vehicles and boats. The KSPD2G is easy to mount on a wall with its wall bracket and strap, and its smaller size means that it is suitable for use in vehicles, boats and caravans. The extinguisher is easy to use – simply pull the pin, press the trigger and aim at the base of the fire. A pressure gauge on the extinguisher gives constant reassurance that the unit is ready for use. It exceeds the requirements of the Gas Safe Register, has a 13A 89BC Fire rating and is approved to EN3. 6 year warranty.",
+  "availability": "In Stock",
+  "product_name": "Kidde Fire Extinguisher Multi-Purpose 2.0kg ABC",
+  "specifications": [
+    "Model: PD2G",
+    "Fire Rating: 13A 89B C",
+    "Extinguishing agent: Dry Powder (Glutex)",
+    "Discharge Range: 4m",
+    "Discharge Duration: 10 seconds",
+    "Temperature range: -30 to 60 degrees centigrade",
+    "BSI certified to BS EN3 standards",
+    "CE tested and certified"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-lifesaver-multi-purpose-fire-extinguisher-10kg-abc.html|>
+## Kidde Lifesaver Multi-Purpose Fire Extinguisher 1.0kg ABC
+
+{
+  "price": "€37.91 inc VAT (€30.82 exc.vat)",
+  "description": "The Kiddie Lifesaver Multi-Purpose Fire Extinguisher is ideal for use on most types of small domestic fires. The pressure gauge confirms that the extinguisher is ready to use (when the needle is in the green zone). It has an 8 second discharge and 4 metre range. BSI certified to BS EN3 standards, CE Tested and certified. For use with A, B or C category fires. A: Wood, paper. B: Flammable liquids, petrol. C: Gaseous fires.",
+  "availability": "Out of Stock",
+  "product_name": "Kidde Lifesaver Multi-Purpose Fire Extinguisher 1.0kg ABC",
+  "specifications": [
+    "1.0kg capacity",
+    "Pressure gauge",
+    "8 second discharge",
+    "4 metre range",
+    "BSI certified to BS EN3 standards",
+    "CE Tested and certified",
+    "Suitable for A, B, or C category fires"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-fb1-fire-blanket-11-x-11m.html|>
+## Kidde FB1 Fire Blanket 1.1 x 1.1m
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "The Kidde FB1 Fire Blanket can be used on fat-pan fires in the kitchen, where it would not be recommended to use a fire extinguisher due the potential risk of spreading the burning fat or oil. A fire blanket should be present in all homes and is an essential fire safety product. It has an easy, wall-mountable design. Can also be used to wrap around a person whose clothing has caught alight. BAFE & BS EN-1869 Approved. 5 Year Cloth Guarantee.",
+  "availability": "In Stock",
+  "product_name": "Kidde FB1 Fire Blanket 1.1 x 1.1m",
+  "specifications": [
+    "BAFE & BS EN-1869 Approved",
+    "5 Year Cloth Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-first-aid-kit-1-100-persons-bs-approved.html|>
+## Scan First Aid Kit 1-100 Persons BS Approved
+
+{
+  "price": "€41.01 inc VAT (€33.34 exc.vat)",
+  "description": "The Scan first aid kit includes sufficient content to safeguard 1-100 Persons in a workplace. It is approved by the British Standards and contains: 1 Guidance Leaflet, 6 Medium Sterile Dressings, 2 Large Sterile Dressings, 3 Triangular Bandages, 12 Safety Pins, 3 Eye Pad Dressings, 60 Adhesive Dressings, 30 Alcohol Free Wipes, 1 Adhesive Tape, 9 Nitrile Gloves (Pairs), 3 Finger Dressings, 1 Resuscitation Face Shield, 2 Foil Blankets, 2 Hydrogel Burns Dressings, 1 Shears, 2 Conforming Bandages. These kits are manufactured in accordance with the 2011 guidelines laid down by the British Standards Institute (BSI). The size and content of the kit should always be determined following a risk assessment of your work place.",
+  "availability": "In Stock",
+  "product_name": "Scan First Aid Kit 1-100 Persons BS Approved",
+  "specifications": [
+    "Sufficient content for 1-100 persons",
+    "British Standards approved",
+    "Includes various dressings and medical supplies",
+    "Manufactured according to BSI guidelines"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-first-aid-kit-1-25-persons-bs-approved.html|>
+## Scan First Aid Kit 1-25 Persons BS Approved
+
+{
+  "price": "€34.81 inc VAT (€28.30 exc.vat)",
+  "description": "The Scan first aid kit includes sufficient content to safeguard 1-25 Persons in a workplace. It is approved by the British Standards and contains: 1 Guidance Leaflet, 4 Medium Sterile Dressings, 1 Large Sterile Dressing, 2 Triangular Bandages, 6 Safety Pins, 2 Eye Pad Dressings, 40 Adhesive Dressings, 20 Alcohol Free Wipes, 1 Adhesive Tape, 6 Nitrile Gloves (Pairs), 2 Finger Dressings, 1 Resuscitation Face Shield, 1 Foil Blanket, 1 Hydrogel Burns Dressing, 1 Shears, 1 Conforming Bandage. These kits are manufactured in accordance with the 2011 guidelines laid down by the British Standards Institute (BSI).",
+  "availability": "In Stock",
+  "product_name": "Scan First Aid Kit 1-25 Persons BS Approved",
+  "specifications": [
+    "Sufficient content for 1-25 persons",
+    "British Standards approved",
+    "Includes various dressings and medical supplies",
+    "Manufactured according to 2011 BSI guidelines"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-first-aid-kit---general-purpose.html|>
+## Scan First Aid Kit - General-Purpose
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "Comprehensive Workplace First Aid Kit: Designed for versatile use in offices, garages, factories, and all other work environments, this first aid kit is meticulously curated to meet a variety of needs. Kit Contents: - Triangular bandage with fasteners - 5 cm conforming bandage - Medium dressing - 2 x 5 x 5 cm low adherent dressings - 6 x safety pins - 10 x assorted waterproof plasters - 10 x assorted fabric plasters - Eyewash bath - Pair of surgical gloves - Surgical tape - 3 x moist wipes - Forceps - 1 x finger gauze (1m + applicator) - First aid guidance leaflet. Conveniently housed in a wall bracket for easy access and visibility, this kit ensures that essential first aid supplies are readily available whenever and wherever they're needed.",
+  "availability": "In Stock",
+  "product_name": "Scan First Aid Kit - General-Purpose",
+  "specifications": [
+    "SCAFAK2 : €14.99",
+    "Comprehensive Workplace First Aid Kit",
+    "Designed for versatile use in various work environments",
+    "Conveniently housed in a wall bracket for easy access"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-eye-wash-station.html|>
+## Eye Wash Station
+
+{
+  "price": "€24.76 inc VAT (€20.13 exc.vat)",
+  "description": "This Scan compact 'briefcase' style eye wash kit box can be wall-mounted. The saline eye wash is sterile and for irrigating eyes in an emergency situation. This kit includes the following: 2 x 500ml Reliwash saline eye wash, 2 x No.16 eye pad sterile wound dressing, 1 x wall hanging bracket.",
+  "availability": "In Stock",
+  "product_name": "Eye Wash Station",
+  "specifications": [
+    "SCAFAKEYE : €24.76",
+    "QtyAdd to Basket",
+    "2 x 500ml Reliwash saline eye wash",
+    "2 x No.16 eye pad sterile wound dressing",
+    "1 x wall hanging bracket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-household-and-burns-first-aid-kit.html|>
+## Scan Household & Burns First Aid Kit
+
+{
+  "price": "€20.61 inc VAT (€16.76 exc.vat)",
+  "description": "The Scan 45-piece kit is supplied in a weatherproof 4 pocket travel bag with handle and belt clips and is suitable for use in the home and outdoors to treat burns, grazes, cuts and much more. The first aid kit contains: 1 Triangular Bandage, 1 Finger Dressing, 2 Eye Wash 20ml, 10 Assorted Clear Waterproof Plasters, 1 Conforming Stretch Bandage, 1 Medium Dressing, 2 Burns Sachets, 2 Burns Bandages, 2 Adhesive Wound Dressings, 4 Assorted Double Sided Non Adherent Wound Dressings, 5 Pairs Disposable Vinyl Gloves, 1 ReviveAid Mouth Piece, 4 Moist Wipes, 1 Scissors, 1 Microporous Tape, 6 Safety Pins.",
+  "availability": "In Stock",
+  "product_name": "Scan Household & Burns First Aid Kit",
+  "specifications": [
+    "45-piece kit",
+    "Weatherproof 4 pocket travel bag",
+    "Includes various first aid supplies"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-eye-wash-station-refill-500ml.html|>
+## Scan Eye Wash Station Refill 500ml
+
+{
+  "price": "€4.32 inc VAT (€3.51 exc.vat)",
+  "description": "Scan Reliwash saline eye wash is sterile and for irrigating eyes in an emergency situation. Size: 500ml. 1 bottle supplied.",
+  "availability": "In Stock",
+  "product_name": "Scan Eye Wash Station Refill 500ml",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-hypoallergenic-blue-plasters-100-assorted.html|>
+## Scan Hypoallergenic Blue Plasters 100 Assorted
+
+{
+  "price": "€9.15 inc VAT (€7.44 exc.vat)",
+  "description": "The Scan assorted hypoallergenic blue plasters (100) are supplied in a blue plastic first aid box and suitable for use in restaurants, hotels, takeaways and medical environments. They are metal detectable for food production facilities, waterproof with a strong adhesive and also hypoallergenic for persons with sensitive skin.",
+  "availability": "In Stock",
+  "product_name": "Scan Hypoallergenic Blue Plasters 100 Assorted",
+  "specifications": [
+    "Hypoallergenic",
+    "Metal detectable",
+    "Waterproof",
+    "Strong adhesive",
+    "Suitable for sensitive skin"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-hypoallergenic-fabric-plasters-100-assorted.html|>
+## Scan Hypoallergenic Fabric Plasters 100 Assorted
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Scan assorted hypoallergenic fabric plasters (100) are supplied in a white plastic first aid box and suitable for all types of small wounds in various shapes and sizes. They have a strong adhesion with a non-stick cushioned pad, sterile and individually wrapped and are hypoallergenic for persons with sensitive skin.",
+  "availability": "In Stock",
+  "product_name": "Scan Hypoallergenic Fabric Plasters 100 Assorted",
+  "specifications": [
+    "100 assorted hypoallergenic fabric plasters",
+    "Strong adhesion with non-stick cushioned pad",
+    "Sterile and individually wrapped",
+    "Suitable for all types of small wounds",
+    "Supplied in a white plastic first aid box"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fa10-workplace-first-aid-kit-1-25-persons.html|>
+## Portwest FA10 Workplace First Aid Kit 1-25 Persons
+
+{
+  "price": "€34.07 inc VAT (€27.70 exc.vat)",
+  "description": "BS compliant first aid kit for 1-25 persons. Ideal for small or low risk workplaces, such as offices or small shops. Contains all of the necessary items for basic first aid, including sterile plasters, dressings, bandages and much more. Comes in robust carry case with wall bracket.",
+  "availability": "In Stock",
+  "product_name": "Portwest FA10 Workplace First Aid Kit 1-25 Persons",
+  "specifications": [
+    "BS compliant first aid kit for 1-25 persons",
+    "Ideal for small or low risk workplaces",
+    "Contains sterile plasters, dressings, bandages",
+    "Comes in robust carry case with wall bracket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fa11-workplace-first-aid-kit-25-100-persons.html|>
+## Portwest FA11 Workplace First Aid Kit 25-100 Persons
+
+{
+  "price": "€51.33 inc VAT (€41.73 exc.vat)",
+  "description": "BS compliant first aid kit for 25-100 persons. For medium risk workplaces, such as warehouses or factories. Comes in robust carry case with wall bracket. All dressings are sterile and individually wrapped. Contains: various sized dressings, bandages, safety pins, wipes, tape, gloves, face shield, foil blanket, burn dressing, shears and a guidance leaflet.",
+  "availability": "Out of Stock",
+  "product_name": "Portwest FA11 Workplace First Aid Kit 25-100 Persons",
+  "specifications": [
+    "BS compliant first aid kit for 25-100 persons",
+    "For medium risk workplaces, such as warehouses or factories",
+    "Comes in robust carry case with wall bracket",
+    "All dressings are sterile and individually wrapped",
+    "Contains various sized dressings, bandages, safety pins, wipes, tape, gloves, face shield, foil blanket, burn dressing, shears and a guidance leaflet"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-burns-first-aid-kit.html|>
+## Scan Burns First Aid Kit
+
+{
+  "price": "€26.43 inc VAT (€21.49 exc.vat)",
+  "description": "The Scan Burns Kit offers efficient treatment for burns, scalds, and sunburn injuries which can occur in both workplace and domestic environments. This comprehensive kit is well-suited for a wide range of industries and aligns with the guidelines of the Health and Safety Executive. Supplied in an orange integral aura box. Contains: 1 x Burnsoothe Burn Relief Dressing 20 x 20cm. 2 x Burnsoothe Burn Relief Dressing 10 x 10cm. 8 x Burnsoothe Burn Blot Sachet 3.5g. 1 x Burnsoothe Burn Relief Gel Bottle 125ml. 1 x Small Universal Shears 150mm (6in). 1 x Pair of Religlove Nitrile Powder-free Gloves Medium/Large. 1 x Reliform Conforming Bandage 7.5cm x 4m. 1 x Burnsoothe Burn Relief Dressing 5 x 15cm. 1 x Reliform Conforming Bandage 10cm x 4m. 1 x Reliance First Aid Guidance Leaflet.",
+  "availability": "In Stock",
+  "product_name": "Scan Burns First Aid Kit",
+  "specifications": [
+    "1 x Burnsoothe Burn Relief Dressing 20 x 20cm",
+    "2 x Burnsoothe Burn Relief Dressing 10 x 10cm",
+    "8 x Burnsoothe Burn Blot Sachet 3.5g",
+    "1 x Burnsoothe Burn Relief Gel Bottle 125ml",
+    "1 x Small Universal Shears 150mm (6in)",
+    "1 x Pair of Religlove Nitrile Powder-free Gloves Medium/Large",
+    "1 x Reliform Conforming Bandage 7.5cm x 4m",
+    "1 x Burnsoothe Burn Relief Dressing 5 x 15cm",
+    "1 x Reliform Conforming Bandage 10cm x 4m",
+    "1 x Reliance First Aid Guidance Leaflet"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-how-to-treat-an-electric-shock-casualty---pvc-400-x-600mm.html|>
+## Scan How To Treat An Electric Shock Casualty - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4240 safety sign has the following specifications: Size: 400 x 600mm Message: This sign provides details on how to treat an electric shock casualty.",
+  "availability": "In Stock",
+  "product_name": "Scan How To Treat An Electric Shock Casualty - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-ladder-tag-kit.html|>
+## Scan Ladder Tag Kit
+
+{
+  "price": "€14.51 inc VAT",
+  "description": "Scan Ladder Tags are used to manage inspections of class 1 and EN131 ladders and secured to the ladder using standard cable ties. Tags should remain in place. The inserts record the ladder has been inspected and signed off and on the reverse a list of pre-use checks and in-use checks for easy reference.",
+  "availability": "In Stock",
+  "product_name": "Scan Ladder Tag Kit",
+  "specifications": [
+    "Includes 10 x Kits",
+    "Replacement inserts available, sold separately",
+    "Used for managing inspections of ladders"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-replacement-ladder-tag-inserts---pack-of-10.html|>
+## Scan Replacement Ladder Tag Inserts - Pack of 10
+
+{
+  "price": "€17.64 inc VAT (€14.34 exc.vat)",
+  "description": "Pack of 10 Scan Replacement Tag Inserts for Ladder Tag Kit (SCALADTAGS/SCALADTAGB). Used to manage inspections of class 1 and EN131 ladders and secured to the ladder using a standard cable ties. The tags should remain in place and the inspection recorded and dated before use and for future use.",
+  "availability": "In Stock",
+  "product_name": "Scan Replacement Ladder Tag Inserts - Pack of 10",
+  "specifications": [
+    "Pack of 10",
+    "Used for managing inspections of class 1 and EN131 ladders",
+    "Secured to the ladder using standard cable ties",
+    "Inspection recorded and dated before use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-scaffold-tag-inserts-pack-of-10.html|>
+## Scan Scaffold Tag Inserts Pack Of 10
+
+{
+  "price": "€22.91 inc VAT (€18.63 exc.vat)",
+  "description": "Pack of 10 Scan Replacement Tag Inserts for Scaffold Tag Kit (SCASCAFTAGS / SCASCAFTAGB). Used to manage scaffold structures to ensure safe working. Fitted to access points where ladders are situated with the easy fit claw tag design and secured in place using a standard cable tie. Tags should remain in place, from when the scaffolding is first constructed until it is dismantled.",
+  "availability": "Out of Stock",
+  "product_name": "Scan Scaffold Tag Inserts Pack Of 10",
+  "specifications": [
+    "Pack of 10",
+    "Replacement Tag Inserts for Scaffold Tag Kit",
+    "Easy fit claw tag design",
+    "Secured with standard cable tie",
+    "Used to manage scaffold structures"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-tower-tag-inserts-pack-of-10.html|>
+## Scan Tower Tag Inserts Pack Of 10
+
+{
+  "price": "€21.83 inc VAT (€17.75 exc.vat)",
+  "description": "Pack of 10 Scan Replacement Tag Inserts for Tower Tag Kit (SCATOWTAGS / SCATOWTAGB). Used to monitor the build, movement and inspections of moveable and static towers to ensure safe working. Fitted to the tower with the easy fit claw tag design and secured in place using a standard cable tie. The tags should remain in place, from when the tower is first constructed until it is dismantled.",
+  "availability": "Out of Stock",
+  "product_name": "Scan Tower Tag Inserts Pack Of 10",
+  "specifications": [
+    "Pack of 10 Scan Replacement Tag Inserts",
+    "Used to monitor the build, movement and inspections of moveable and static towers",
+    "Fitted with easy fit claw tag design",
+    "Secured in place using a standard cable tie"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-tower-tag-kit.html|>
+## Scan Tower Tag Kit
+
+{
+  "price": "€17.36 inc VAT",
+  "description": "Scan Tower Tags are used to monitor the build, movement and inspections of moveable and static towers to ensure safe working. Fitted to the tower with the easy fit claw tag design and secured in place using a standard cable tie. Tags should remain in place, from when the tower is first constructed until it is dismantled. The inserts record all important information relating to the structure including location, date erected, inspected by and maximum weight of platforms and tower scaffold. Replacement inserts are available, sold separately.",
+  "availability": "In Stock",
+  "product_name": "Scan Tower Tag Kit",
+  "specifications": [
+    "10 Kits per Box",
+    "Easy fit claw tag design",
+    "Records important information about the structure"
+  ]
+}
+
+<|https://www.mydiy.ie/products/raven-debris-netting-2m-x-50m-green.html|>
+## Raven Debris Netting 2m x 50m Green
+
+{
+  "price": "€86.17 inc VAT (€70.06 exc.vat)",
+  "description": "Scaffolding green debris netting, 50m roll",
+  "availability": "In Stock",
+  "product_name": "Raven Debris Netting 2m x 50m Green",
+  "specifications": [
+    "Debris Netting 2m x 50m Green",
+    "RAVDNG2X50 : €86.17",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-portable-safety-barrier.html|>
+## Olympia Portable Safety Barrier
+
+{
+  "price": "€88.42 inc VAT (€71.89 exc.vat)",
+  "description": "The Olympia Tools Portable Safety Barrier is a quick and convenient solution to cordon-off hazardous areas due to spillages, restrict access whilst work is being carried out or temporarily prevent unauthorised access. It features reflective panels for high visibility, the pillars can be filled with water or sand for increased stability. Folds down quickly and easily for transportation and storage. Height: 907mm. Width (Maximum): 2.5m.",
+  "availability": "In Stock",
+  "product_name": "Olympia Portable Safety Barrier",
+  "specifications": [
+    "Height: 907mm",
+    "Width (Maximum): 2.5m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-pvc-hazard-tape.html|>
+## Everbuild PVC Hazard Tape
+
+{
+  "price": "€12.40 inc VAT",
+  "description": "Everbuild PVC Hazard Tape is a strong and durable self-adhesive PVC Hazard tape for all hazard marking. It is ideal for marking floors, walls and overhead. Abrasion resistant, damp tolerant, can be used internally and externally. Available in red/white or black/yellow. Size: 50mm x 33m.",
+  "availability": "In Stock",
+  "product_name": "Everbuild PVC Hazard Tape",
+  "specifications": [
+    "Size: 50mm x 33m",
+    "Available in red/white or black/yellow",
+    "Abrasion resistant",
+    "Damp tolerant",
+    "Can be used internally and externally"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-caution-mind-the-step---pvc-200-x-50mm.html|>
+## Caution Mind The Step - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Hazard Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Caution Mind the step'.",
+  "availability": "In Stock",
+  "product_name": "Caution Mind The Step - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-caution-hot---pvc-200-x-50mm.html|>
+## Scan Caution Hot - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Hazard Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Caution Hot'.",
+  "availability": "In Stock",
+  "product_name": "Scan Caution Hot - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-caution-hot-water---pvc-200-x-50mm.html|>
+## Caution Hot Water - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Hazard Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Caution Hot water'.",
+  "availability": "In Stock",
+  "product_name": "Caution Hot Water - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-safety-helmets-must-be-worn-in-this-area---pvc-200-x-300mm.html|>
+## Scan Safety Helmets Must Be Worn In This Area - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA0002 safety sign has the following specifications: Size: 200 x 300mm Message: 'Safety helmets must be worn in this area'.",
+  "availability": "In Stock",
+  "product_name": "Scan Safety Helmets Must Be Worn In This Area - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Safety helmets must be worn in this area'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-protective-footwear-must-be-worn---pvc-200-x-300mm.html|>
+## Scan Protective Footwear Must Be Worn - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Protective Footwear Must Be Worn - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Protective footwear must be worn'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-high-visibility-jackets-must-be-worn-in-this-area---pvc-200-x-300mm.html|>
+## Scan High Visibility Jackets Must Be Worn In This Area - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA0022 safety sign has the following specifications: Size: 200 x 300mm, Message: 'High visibility jacket must be worn'.",
+  "availability": "In Stock",
+  "product_name": "Scan High Visibility Jackets Must Be Worn In This Area - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'High visibility jacket must be worn'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-protect-your-hands---pvc-200-x-300mm.html|>
+## Scan Protect Your Hands - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA0023 safety sign has the following specifications: Size: 200 x 300mm, Message: 'Protect your hands'.",
+  "availability": "In Stock",
+  "product_name": "Scan Protect Your Hands - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Protect your hands'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-door-keep-locked-shut---pvc-200-x-300mm.html|>
+## Scan Fire Door Keep Locked Shut - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This set of 6 identical Scan Safety signs are made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria and helps limit company liability, should an accident occur. The SCA0153 safety signs have the following specifications: Size: 6 signs measuring 100mm x 100mm Message: 'Fire door Keep locked shut'.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Door Keep Locked Shut - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 6 signs measuring 100mm x 100mm",
+    "Message: 'Fire door Keep locked shut'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-escape-keep-clear---pvc-200-x-300mm.html|>
+## Scan Fire Escape Keep Clear - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA0158 safety sign has the following specifications: Size: 200 x 300mm Message: 'Fire escape Keep clear'.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Escape Keep Clear - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire escape Keep clear'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-action-procedure---pvc-200-x-300mm-1.html|>
+## Scan Fire Action Procedure - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA0175 safety sign has the following specifications: Size: 200 x 300mm Message: This sign details a fire action procedure, including spaces to write the Fire Brigade phone number, and point of assembly.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Action Procedure - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-action-procedure---pvc-200-x-300mm.html|>
+## Scan Fire Action Procedure - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Saftey sign is made from 1mm thick, durable PVC. It's aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA0178 safety sign has the following specifications: Size: 200 x 300mm Message: This sign details a fire action procedure, with a space to write the point of assembly.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Action Procedure - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Material: 1mm thick durable PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-keep-clear---pvc-200-x-300mm.html|>
+## Scan Keep Clear - PVC 200 x 300mm
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Keep Clear - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Keep clear'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-keep-out---pvc-200-x-300mm.html|>
+## Scan Keep Out - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA0255 safety sign has the following specifications: Size: 200 x 300mm Message: 'Keep out'.",
+  "availability": "In Stock",
+  "product_name": "Scan Keep Out - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Keep out'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-now-wash-your-hands---pvc-300-x-200mm.html|>
+## Scan Now Wash Your Hands - PVC 300 x 200mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign consists of 2 identical signs, measuring 300 x 100mm each. They are made from 1mm thick, durable PVC. Aggressive water-based adhesive enables the signs to be easily stuck on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Now Wash Your Hands - PVC 300 x 200mm",
+  "specifications": [
+    "Size: 2 signs, measuring 300 x 100mm each",
+    "Message: 'Now wash your hands'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-safety-helmets-must-be-worn-in-this-area---pvc-400-x-600mm.html|>
+## Scan Safety Helmets Must Be Worn In This Area - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Safety Helmets Must Be Worn In This Area - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'Safety helmets must be worn in this area'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-safety-helmets--footwear-to-be-worn-pvc-400-x-600mm.html|>
+## Scan Safety Helmets + Footwear To Be Worn PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA4001 safety sign has the following specifications: Size: 400 x 600mm Message: 'Safety helmets and protective footwear must be worn in this area'.",
+  "availability": "In Stock",
+  "product_name": "Scan Safety Helmets + Footwear To Be Worn PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'Safety helmets and protective footwear must be worn in this area'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-all-drivers-and-visitors-must-report-to-site-office---pvc-400-x-600mm.html|>
+## Scan All Drivers And Visitors Must Report To Site Office - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Saftey sign is made from 1mm thick, durable PVC. It's aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction. Complies with BS5499 design criteria and helps limit company liability, should an accident occur. The SCA4002 safety sign has the following specifications: Size: 400 x 600mm Message: 'All drivers and visitors must report to the site office'.",
+  "availability": "In Stock",
+  "product_name": "Scan All Drivers And Visitors Must Report To Site Office - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-keep-out---pvc-400-x-600mm.html|>
+## Scan Keep Out - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Mandatory sign is made from 1mm thick, durable PVC. It's aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 400 x 600mm Message: 'Keep out'.",
+  "availability": "In Stock",
+  "product_name": "Scan Keep Out - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-hat-no-boots-no-job---pvc-600-x-400mm.html|>
+## Scan No Hat, No Boots, No Job - PVC 600 x 400mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Mandatory sign is made from 1mm thick, durable PVC. It's aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4009 safety sign has the following specifications: Size: 400 x 600mm Message: 'No hat, No boots, No Job!'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Hat, No Boots, No Job - PVC 600 x 400mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'No hat, No boots, No Job!'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-action-procedure---pvc-sign-200-x-300mm.html|>
+## Scan Fire Action Procedure - PVC Sign 200 x 300mm
+
+{
+  "price": "€12.71 inc VAT (€10.33 exc.vat)",
+  "description": "This SCAN Fire Action Procedure is made from 1mm thick, durable PVC Sign. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Action Procedure - PVC Sign 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Complies with BS5499 and/or ISO 7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-approved-ppe-must-be-worn---pvc-sign-600-x-400mm.html|>
+## Scan Approved PPE Must Be Worn - PVC Sign 600 x 400mm
+
+{
+  "price": "€28.60 inc VAT (€23.25 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Approved PPE Must Be Worn - PVC Sign 600 x 400mm",
+  "specifications": [
+    "Size: 600 x 400mm",
+    "Message: 'Approved Personal Protection Equipment must be worn'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-action-procedure---photoluminescent-200-x-300mm.html|>
+## Scan Fire Action Procedure - Photoluminescent 200 x 300mm
+
+{
+  "price": "€24.33 inc VAT (€19.78 exc.vat)",
+  "description": "This Scan high intensity safety sign is made from 1.3mm thick, rigid material. It is printed using UV resistant inks, which resist fading. The background of this sign is photoluminescent, which means that is glows and can be seen in the dark. It is non toxic, non radioactive with no lead of phosphorous. The sign is easy to read with clear instruction and illustration. Exceeds PSPA Class 1 classification. Complies with BS5499 and/or ISO7010 design criteria where applicable. The SCA0202 safety sign has the following specifications: Size: 200 x 300mm Message: This sign details a fire action procedure, including spaces to write the Fire Brigade phone number, and point of assembly.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Action Procedure - Photoluminescent 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: This sign details a fire action procedure, including spaces to write the Fire Brigade phone number, and point of assembly."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-extinguisher---pvc-200-x-300mm.html|>
+## Scan Fire Extinguisher - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1350 safety sign has the following specifications: Size: 200 x 300mm Message: 'Fire Extinguisher'.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Extinguisher - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire Extinguisher'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-extinguisher---pvc-300-x-200mm.html|>
+## Scan Fire Extinguisher - PVC 300 x 200mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "These 2 Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1351 safety signs have the following specifications: Individual size: 300 x 100mm each Total sheet size: 200 x 300mm Message: 'Fire Extinguisher'.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Extinguisher - PVC 300 x 200mm",
+  "specifications": [
+    "Individual size: 300 x 100mm each",
+    "Total sheet size: 200 x 300mm",
+    "Message: 'Fire Extinguisher'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-point---pvc-200-x-300mm.html|>
+## Scan Fire Point - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1451 safety sign has the following specifications: Size: 200 x 300mm Message: 'Fire Point'.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Point - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire Point'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-extinguisher-photoluminescent---200-x-300mm.html|>
+## Scan Fire Extinguisher Photoluminescent - 200 x 300mm
+
+{
+  "price": "€22.63 inc VAT (€18.40 exc.vat)",
+  "description": "This Scan high intensity safety sign is made from 1.3mm thick, rigid material. It is printed using UV resistant inks, which resist fading. The background of this sign is photoluminescent, which means that is glows and can be seen in the dark. It is non toxic, non radioactive with no lead of phosphorous. The sign is easy to read with clear writing and illustration. Exceeds PSPA Class 1 classification. Complies with BS5499 and/or ISO7010 design criteria where applicable. The SCA1571 safety sign has the following specifications: Size: 200 x 300mm Message: 'Fire Extinguisher'",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Extinguisher Photoluminescent - 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire Extinguisher'",
+    "Material: 1.3mm thick, rigid material",
+    "Printed with UV resistant inks",
+    "Photoluminescent background",
+    "Non-toxic, non-radioactive, no lead or phosphorous",
+    "Exceeds PSPA Class 1 classification",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-extinguisher-composite-water---photoluminescent-75-x-200mm.html|>
+## Scan Fire Extinguisher Composite Water - Photoluminescent 75 x 200mm
+
+{
+  "price": "€7.12 inc VAT (€5.79 exc.vat)",
+  "description": "This Scan 'Fire extinguisher composite' safety sign is for water extinguishers, and measures 75 x 200mm. It is printed on 1.3mm thick, rigid material with UV resistant inks to prevent fading. The sign is photoluminescent, which means that it will glow in the dark. The PVC sign is self-adhesive, making it easy to attach to any wall. It is perfect for alerting people to and providing guidance on the uses of water fire extinguishers. The sign exceeds PSPA Class 1 classification. It is non toxic and non radioactive with no lead of phosphorous. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Extinguisher Composite Water - Photoluminescent 75 x 200mm",
+  "specifications": [
+    "Size: 75 x 200mm",
+    "Material: Rigid PVC",
+    "Photoluminescent (glows in the dark)",
+    "Self-adhesive",
+    "UV resistant inks",
+    "Exceeds PSPA Class 1 classification",
+    "Non-toxic and non-radioactive"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-extinguisher-composite-foam---photoluminescent-75-x-200mm.html|>
+## Scan Fire Extinguisher Composite Foam - Photoluminescent 75 x 200mm
+
+{
+  "price": "€7.12 inc VAT (€5.79 exc.vat)",
+  "description": "This Scan 'Fire extinguisher composite' safety sign is for foam extinguishers, and measures 75 x 200mm. It is printed on 1.3mm thick, rigid material with UV resistant inks to prevent fading. The sign is photoluminescent, which means that it will glow in the dark. The PVC sign is self-adhesive, making it easy to attach to any wall. It is perfect for alerting people to and providing guidance on the uses of foam fire extinguishers. The sign exceeds PSPA Class 1 classification. It is non toxic and non radioactive with no lead of phosphorous. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Extinguisher Composite Foam - Photoluminescent 75 x 200mm",
+  "specifications": [
+    "Size: 75 x 200mm",
+    "Material: Rigid PVC",
+    "Photoluminescent (glows in the dark)",
+    "Self-adhesive",
+    "UV resistant inks",
+    "Exceeds PSPA Class 1 classification",
+    "Non-toxic and non-radioactive"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-extinguisher-composite-co2---photoluminescent-75-x-200mm.html|>
+## Scan Fire Extinguisher Composite CO2 - Photoluminescent 75 x 200mm
+
+{
+  "price": "€7.12 inc VAT (€5.79 exc.vat)",
+  "description": "This Scan 'Fire extinguisher composite' safety sign is for Carbon Dioxide (CO2) extinguishers, and measures 75 x 200mm. It is printed on 1.3mm thick, rigid material with UV resistant inks to prevent fading. The sign is photoluminescent, which means that it will glow in the dark. The PVC sign is self-adhesive, making it easy to attach to any wall. It is perfect for alerting people to and providing guidance on the uses of CO2 fire extinguishers. The sign exceeds PSPA Class 1 classification. It is non toxic and non radioactive with no lead of phosphorous. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Extinguisher Composite CO2 - Photoluminescent 75 x 200mm",
+  "specifications": [
+    "Size: 75 x 200mm",
+    "Material: Rigid PVC",
+    "Thickness: 1.3mm",
+    "Photoluminescent: Glows in the dark",
+    "Self-adhesive",
+    "Complies with BS5499 and/or ISO7010"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-extinguisher-composite---dry-powder---photoluminescent-75-x-200mm.html|>
+## Scan Fire Extinguisher Composite - Dry Powder - Photoluminescent 75 x 200mm
+
+{
+  "price": "€7.61 inc VAT (€6.19 exc.vat)",
+  "description": "This Scan 'Fire extinguisher composite' safety sign is for dry powder extinguishers, and measures 75 x 200mm. It is printed on 1.3mm thick, rigid material with UV resistant inks to prevent fading. The sign is photoluminescent, which means that it will glow in the dark. The PVC sign is self-adhesive, making it easy to attach to any wall. It is perfect for alerting people to and providing guidance on the uses of dry powder fire extinguishers. The sign exceeds PSPA Class 1 classification. It is non toxic and non radioactive with no lead or phosphorous. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Extinguisher Composite - Dry Powder - Photoluminescent 75 x 200mm",
+  "specifications": [
+    "SCA1593",
+    "Photoluminescent",
+    "75 x 200mm",
+    "1.3mm thick, rigid material",
+    "UV resistant inks",
+    "Self-adhesive",
+    "Non toxic and non radioactive",
+    "Complies with BS5499 and/or ISO7010"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-caution-event-of-fire-do-not-use-lift---pvc-sign-200-x-300mm.html|>
+## Caution Event of Fire Do Not Use Lift - PVC Sign 200 x 300mm
+
+{
+  "price": "€12.71 inc VAT (€10.33 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Caution Event of Fire Do Not Use Lift - PVC Sign 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Caution In event of fire Do not use lift'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-alarm---pvc-sign-200-x-300mm.html|>
+## Scan Fire Alarm - PVC Sign 200 x 300mm
+
+{
+  "price": "€12.71 inc VAT (€10.33 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Alarm - PVC Sign 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire alarm'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-exit-man-running-left---pvc-sign-300-x-200mm.html|>
+## Fire Exit Man Running Left - PVC Sign 300 x 200mm
+
+{
+  "price": "€12.71 inc VAT (€10.33 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Fire Exit Man Running Left - PVC Sign 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire exit' with man running to the left."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-your-fire-assembly-point-is---pvc-sign-200-x-300mm.html|>
+## Scan Your Fire Assembly Point is - PVC Sign 200 x 300mm
+
+{
+  "price": "€12.71 inc VAT (€10.33 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Your Fire Assembly Point is - PVC Sign 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Your fire assembly point is' with a space to write the point of assembly."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-children-prohibited-from-entering-site---pvc-sign-600-x-400mm.html|>
+## Children Prohibited From Entering Site - PVC Sign 600 x 400mm
+
+{
+  "price": "€28.60 inc VAT (€23.25 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Children Prohibited From Entering Site - PVC Sign 600 x 400mm",
+  "specifications": [
+    "Size: 600 x 400mm",
+    "Message: 'Children are strictly prohibited from entering this site'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-exit-running-man-arrow-up---pvc-300-x-200mm.html|>
+## Scan Fire Exit Running Man Arrow Up - PVC 300 x 200mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1503 safety sign has the following specifications: Size: 200 x 300mm Message: 'Fire Exit'. Features an upwards pointing arrow.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Exit Running Man Arrow Up - PVC 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-exit-keep-clear---pvc-300-x-200mm-1.html|>
+## Scan Fire Exit Keep Clear - PVC 300 x 200mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. Its aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1513 safety sign has the following specifications: Size: 200 x 300mm Message: 'Fire exit Keep clear'.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Exit Keep Clear - PVC 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire exit Keep clear'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-arrow-symbol---pvc-300-x-200mm.html|>
+## Scan Arrow Symbol - PVC 300 x 200mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to see. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1521 safety sign has the following specifications: Size: 200 x 300mm Image: Arrow symbol.",
+  "availability": "In Stock",
+  "product_name": "Scan Arrow Symbol - PVC 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-push-bar-to-open---pvc-300-x-200mm.html|>
+## Scan Push Bar To Open - PVC 300 x 200mm
+
+{
+  "price": "€13.99 inc VAT (€11.37 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1523 sign has the following specifications: Size: 200 x 300mm Message: 'Push bar to open'.",
+  "availability": "In Stock",
+  "product_name": "Scan Push Bar To Open - PVC 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Push bar to open'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-first-aid---pvc-200-x-300mm.html|>
+## Scan First Aid - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1550 safety sign has the following specifications: Size: 200 x 300mm Message: 'First aid'.",
+  "availability": "In Stock",
+  "product_name": "Scan First Aid - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'First aid'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-first-aid-box--first-aid---pvc-300-x-200mm.html|>
+## First Aid Box / First Aid - PVC 300 x 200mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "These Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1553 safety signs have the following specifications: Individual size: 300 x 100mm, Sheet size: 200 x 300mm, Messages: 'First aid box' and 'First aid'.",
+  "availability": "In Stock",
+  "product_name": "First Aid Box / First Aid - PVC 300 x 200mm",
+  "specifications": [
+    "Individual size: 300 x 100mm",
+    "Sheet size: 200 x 300mm",
+    "Messages: 'First aid box' and 'First aid'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-exit-running-man-arrow-down---photoluminescent-300-x-200mm.html|>
+## Fire Exit Running Man Arrow Down - Photoluminescent 300 x 200mm
+
+{
+  "price": "€22.63 inc VAT (€18.40 exc.vat)",
+  "description": "This Scan high-intensity safety sign is made from 1.3mm thick, rigid material. It is printed using UV resistant inks, which resist fading. The background of this sign is photoluminescent, which means that is glows and can be seen in the dark. It is non-toxic, non-radioactive with no lead of phosphorous. The sign is easy to read with clear writing and illustration. Exceeds PSPA Class 1 classification. Complies with BS5499 and/or ISO 7010 design criteria where applicable.",
+  "availability": "In Stock",
+  "product_name": "Fire Exit Running Man Arrow Down - Photoluminescent 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire exit', featuring a downwards pointing arrow."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-exit-running-man-arrow-right---photoluminescent-300-x-200mm.html|>
+## Fire Exit Running Man Arrow Right - Photoluminescent 300 x 200mm
+
+{
+  "price": "€22.63 inc VAT (€18.40 exc.vat)",
+  "description": "This Scan high-intensity safety sign is made from 1.3mm thick, rigid material. It is printed using UV resistant inks, which resist fading. The background of this sign is photoluminescent, which means that is glows and can be seen in the dark. It is non-toxic, non-radioactive with no lead of phosphorous. The sign is easy to read with clear writing and illustration. Exceeds PSPA Class 1 classification. Complies with BS5499 and/or ISO 7010 design criteria where applicable.",
+  "availability": "In Stock",
+  "product_name": "Fire Exit Running Man Arrow Right - Photoluminescent 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire exit', featuring a right pointing arrow."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-exit-running-man-arrow-left---photoluminescent-300-x-200mm.html|>
+## Scan Fire Exit Running Man Arrow Left - Photoluminescent 300 x 200mm
+
+{
+  "price": "€22.63 inc VAT (€18.40 exc.vat)",
+  "description": "This Scan high-intensity safety sign is made from 1.3mm thick, rigid material. It is printed using UV resistant inks, which resist fading. The background of this sign is photoluminescent, which means that is glows and can be seen in the dark. It is non-toxic, non-radioactive with no lead of phosphorous. The sign is easy to read with clear writing and illustration. Exceeds PSPA Class 1 classification. Complies with BS5499 and/or ISO 7010 design criteria where applicable. The SCA1583 safety sign has the following specifications: Size: 200 x 300mm Message: 'Fire exit', featuring a left pointing arrow.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Exit Running Man Arrow Left - Photoluminescent 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Fire exit', featuring a left pointing arrow",
+    "Material: 1.3mm thick, rigid material",
+    "Printed using UV resistant inks",
+    "Photoluminescent background",
+    "Non-toxic, non-radioactive with no lead or phosphorous",
+    "Exceeds PSPA Class 1 classification",
+    "Complies with BS5499 and/or ISO 7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-push-bar-to-open---photoluminescent-300-x-200mm.html|>
+## Push Bar To Open - Photoluminescent 300 x 200mm
+
+{
+  "price": "€22.63 inc VAT (€18.40 exc.vat)",
+  "description": "This Scan high-intensity safety sign is made from 1.3mm thick, rigid material. It is printed using UV resistant inks, which resist fading. The background of this sign is photoluminescent, which means that is glows and can be seen in the dark. It is non-toxic, non-radioactive with no lead of phosphorous. The sign is easy to read with clear instruction and illustration. Exceeds PSPA Class 1 classification. Complies with BS5499 and/or ISO 7010 design criteria where applicable.",
+  "availability": "In Stock",
+  "product_name": "Push Bar To Open - Photoluminescent 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Push bar to open'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-running-man-arrow-right---pvc-200-x-50mm.html|>
+## Scan Running Man Arrow Right - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "These Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA5200 safety sign has the following specifications: Individual size: 200 x 50mm. Running Man Arrow Right.",
+  "availability": "In Stock",
+  "product_name": "Scan Running Man Arrow Right - PVC 200 x 50mm",
+  "specifications": [
+    "Individual size: 200 x 50mm",
+    "Material: Durable PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-running-man-arrow-left---pvc-200-x-50mm.html|>
+## Scan Running Man Arrow Left - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "These Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA5200 safety sign has the following specifications: Individual size: 200 x 50mm. Running Man Arrow Left.",
+  "availability": "In Stock",
+  "product_name": "Scan Running Man Arrow Left - PVC 200 x 50mm",
+  "specifications": [
+    "Individual size: 200 x 50mm",
+    "Material: 1mm thick durable PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-running-man-arrow-down---pvc-200-x-50mm.html|>
+## Scan Running Man Arrow Down - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "These Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA5200 safety sign has the following specifications: Individual size: 200 x 50mm. Running Man Arrow Down.",
+  "availability": "In Stock",
+  "product_name": "Scan Running Man Arrow Down - PVC 200 x 50mm",
+  "specifications": [
+    "Individual size: 200 x 50mm",
+    "Made from 1mm thick, durable PVC",
+    "Aggressive water-based adhesive",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-exit-text-only---pvc-200-x-50mm.html|>
+## Fire Exit Text Only - PVC 200 x 50mm
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "These Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA5204 safety sign has the following specifications: Individual size: 200 X 50mm. Message: Fire Exit.",
+  "availability": "In Stock",
+  "product_name": "Fire Exit Text Only - PVC 200 x 50mm",
+  "specifications": [
+    "Individual size: 200 X 50mm",
+    "Message: Fire Exit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-exit-keep-clear-text-only---pvc-200-x-50mm.html|>
+## Fire Exit Keep Clear text Only - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "These Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA5206 safety sign has the following specifications: Individual size: 200 X 50mm. Messages: 'Fire Exit' and 'Keep Clear'.",
+  "availability": "In Stock",
+  "product_name": "Fire Exit Keep Clear text Only - PVC 200 x 50mm",
+  "specifications": [
+    "Individual size: 200 X 50mm",
+    "Messages: 'Fire Exit' and 'Keep Clear'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-first-aid---pvc-200-x-50mm.html|>
+## Scan First Aid - PVC 200 x 50mm
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "These Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA5212 safety sign has the following specifications: Individual size: 200 X 50mm. Message: 'First Aid'.",
+  "availability": "In Stock",
+  "product_name": "Scan First Aid - PVC 200 x 50mm",
+  "specifications": [
+    "Individual size: 200 X 50mm",
+    "Message: 'First Aid'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-corrosive-8-sav---100-x-100mm.html|>
+## Corrosive 8 SAV - 100 x 100mm
+
+{
+  "price": "€2.23 inc VAT (€1.81 exc.vat)",
+  "description": "This Scan Hazard Diamond Sign is made from self-adhesive vinyl. It should be applied to clean, flat/smooth surfaces. Hazardous substance labels must be displayed to warn of hazardous material contained therein. Size: 100 x 100mm. Message: 'Corrosive 8'",
+  "availability": "In Stock",
+  "product_name": "Corrosive 8 SAV - 100 x 100mm",
+  "specifications": [
+    "Size: 100 x 100mm",
+    "Material: Self-adhesive vinyl",
+    "Message: 'Corrosive 8'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-notice-concealed-cctv-cameras-operate-on-these-premises---pvc-300-x-200mm.html|>
+## Notice Concealed CCTV Cameras Operate On These Premises - PVC 300 x 200mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. Its aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable.",
+  "availability": "In Stock",
+  "product_name": "Notice Concealed CCTV Cameras Operate On These Premises - PVC 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Notice Concealed CCTV cameras operate on these premises'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-private-property-keep-out---pvc-300-x-200mm.html|>
+## Scan Private Property Keep Out - PVC 300 x 200mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. Its aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing. Complies with BS5499 and/or ISO7010 design criteria where applicable. The SCA1652 safety sign has the following specifications: Size: 200 x 300mm Message: 'PRIVATE PROPERTY KEEP OUT'.",
+  "availability": "In Stock",
+  "product_name": "Scan Private Property Keep Out - PVC 300 x 200mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'PRIVATE PROPERTY KEEP OUT'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-non-flammable-compressed-gas-sav---100-x-100mm.html|>
+## Non Flammable Compressed Gas SAV - 100 x 100mm
+
+{
+  "price": "€2.23 inc VAT (€1.81 exc.vat)",
+  "description": "This Scan Hazard Diamond Sign is made from self-adhesive vinyl. It should be applied to clean, flat/smooth surfaces. Hazardous substance labels must be displayed to warn of hazardous material contained therein. Size: 100 x 100mm. Message: 'Non Flammable Compressed Gas'",
+  "availability": "In Stock",
+  "product_name": "Non Flammable Compressed Gas SAV - 100 x 100mm",
+  "specifications": [
+    "Size: 100 x 100mm",
+    "Material: Self-adhesive vinyl",
+    "Message: 'Non Flammable Compressed Gas'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-building-site-warning-to-public-and-parents---pvc-600-x-400mm.html|>
+## Scan Building Site Warning To Public And Parents - PVC 600 x 400mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4251 safety sign has the following specifications: Size: 400 x 600mm Message: This sign provides a warning to public and parents with regard to a builiding site. It reads: 'WARNING TO THE PUBLIC This building is a PRIVATE PROPERTY. NO unauthorised persons are allowed to enter. Liability will not be accepted for any injury caused to persons who are trespassing. IMPORTANT NOTICE TO PARENTS Please warn your children that this site is NOT a playground and can be dangerous. It is important that the risks and consequences of trespassing are made clear to children.'",
+  "availability": "In Stock",
+  "product_name": "Scan Building Site Warning To Public And Parents - PVC 600 x 400mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Material: 1mm thick durable PVC",
+    "Adhesive: Aggressive water-based adhesive",
+    "Printing: UV resistant inks",
+    "Compliance: BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-site-office---pvc-600-x-400mm.html|>
+## Scan Site Office - PVC 600 x 400mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4252 safety sign has the following specifications: Size: 400 x 600mm Message: 'Site Office'.",
+  "availability": "In Stock",
+  "product_name": "Scan Site Office - PVC 600 x 400mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'Site Office'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-rigid-backing-board---fmx-600-x-400mm.html|>
+## Scan Rigid Backing Board - FMX 600 x 400mm
+
+{
+  "price": "€13.67 inc VAT (€11.11 exc.vat)",
+  "description": "This Scan 3mm thick, white, foamed PVC board is both durable and rigid. It is designed for backing Scan's 'Jumbo' signs, and comes complete with tie wraps. Size: 600 x 400mm. Weight: 435g.",
+  "availability": "In Stock",
+  "product_name": "Scan Rigid Backing Board - FMX 600 x 400mm",
+  "specifications": [
+    "Size: 600 x 400mm",
+    "Weight: 435g",
+    "Material: 3mm thick white foamed PVC"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-warning-wet-floor-heavy-duty-a-board.html|>
+## Warning Wet Floor Heavy-Duty A Board
+
+{
+  "price": "€19.61 inc VAT (€15.94 exc.vat)",
+  "description": "This Scan safety folding A board sign is made from heavy-duty polypropylene for durability. It has a pre-printed message on both sides and folds flat for easy storage and transportation. It is easy to read with clear writing and illustration. Message: 'Warning Wet floor' Dimensions: 62cm (height) x 30cm (width).",
+  "availability": "In Stock",
+  "product_name": "Warning Wet Floor Heavy-Duty A Board",
+  "specifications": [
+    "SCA4702 : €19.61",
+    "Dimensions: 62cm (height) x 30cm (width)",
+    "Material: Heavy-duty polypropylene",
+    "Pre-printed message on both sides",
+    "Folds flat for easy storage and transportation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-caution-cleaning-in-progress-heavy-duty-a-board.html|>
+## Caution Cleaning In Progress Heavy-Duty A Board
+
+{
+  "price": "€16.16 inc VAT (€13.14 exc.vat)",
+  "description": "This Scan safety folding A board sign is made from heavy-duty polypropylene for durability. It has a pre-printed message on both sides and folds flat for easy storage and transportation. It is easy to read with clear writing and an illustration. Message: 'Caution Cleaning in progress' Dimensions: 62cm (height) x 30cm (width).",
+  "availability": "In Stock",
+  "product_name": "Caution Cleaning In Progress Heavy-Duty A Board",
+  "specifications": [
+    "SCA4703 : €16.16",
+    "Dimensions: 62cm (height) x 30cm (width)",
+    "Material: Heavy-duty polypropylene",
+    "Pre-printed message on both sides",
+    "Folds flat for easy storage and transportation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-signs-display---36-large-signs.html|>
+## Scan Signs Display - 36 Large Signs
+
+{
+  "price": "€999.33 inc VAT (€812.46 exc.vat)",
+  "description": "Scan floor standing sign merchandiser complete with 36 selected best selling signs (4 of each type). Unit contains 8 jumbo signs at 400 x 600mm (4 of each type) and 4 composite site signs at 800 x 600mm. Size (HxWxD): 1000 x 800 x 240mm. Merchandisers supplied free of charge on loan.",
+  "availability": "Out of Stock",
+  "product_name": "Scan Signs Display - 36 Large Signs",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Size (HxWxD): 1000 x 800 x 240mm",
+    "Includes 36 selected best selling signs (4 of each type)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-ev-recharging-point-only-rpvc-300x200mm.html|>
+## Ev Recharging Point Only Rpvc 300X200Mm
+
+{
+  "price": "€12.16 inc VAT (€9.89 exc.vat)",
+  "description": "This sign is made from 1mm durable RPVC plastic. Undrilled so can be located on any surface using the appropriate fixings. It is printed using UV resistant inks for durability. Size: 300 x 200mm",
+  "availability": "Out of Stock",
+  "product_name": "Ev Recharging Point Only Rpvc 300X200Mm",
+  "specifications": [
+    "Size: 300 x 200mm",
+    "Material: 1mm durable RPVC plastic",
+    "Undrilled for flexible mounting",
+    "Printed with UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-sound-horn----pvc-sign-200-x-300mm.html|>
+## Scan Sound Horn - PVC Sign 200 x 300mm
+
+{
+  "price": "€12.71 inc VAT (€10.33 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Sound Horn - PVC Sign 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Sound horn'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-emergency-eye-wash---pvc-sign-200-x-300mm.html|>
+## Scan Emergency Eye Wash - PVC Sign 200 x 300mm
+
+{
+  "price": "€12.71 inc VAT (€10.33 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Emergency Eye Wash - PVC Sign 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Emergency eye wash'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-high-visibility-jackets-must-be-worn-in-this-site---pvc-sign-200-x-300mm.html|>
+## Scan High Visibility Jackets Must Be Worn In This Site - PVC Sign 200 x 300mm
+
+{
+  "price": "€28.60 inc VAT (€23.25 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan High Visibility Jackets Must Be Worn In This Site - PVC Sign 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'High visibility clothing must be worn in this site'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-electric-shock-risk---pvc-200-x-300mm.html|>
+## Scan Danger Electric Shock Risk - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Electric Shock Risk - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Danger Electric shock risk'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-high-voltage---pvc-200-x-300mm.html|>
+## Scan Danger High Voltage - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA0761 safety sign has the following specifications: Size: 200 x 300mm Message: 'Danger High voltage'.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger High Voltage - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Danger High voltage'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-highly-flammable-material---pvc-200-x-300mm.html|>
+## Scan Danger Highly Flammable Material - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Highly Flammable Material - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Danger Highly flammable material'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-warning-construction-site---pvc-200-x-300mm.html|>
+## Scan Warning Construction Site - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. Its aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA0958 safety sign has the following specifications: Size: 200 x 300mm. Message: 'Warning Construction site'.",
+  "availability": "In Stock",
+  "product_name": "Scan Warning Construction Site - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-fragile-roof---pvc-200-x-300mm.html|>
+## Danger Fragile Roof - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 design criteria and helps limit company liability, should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Danger Fragile Roof - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Danger Fragile roof'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-mind-the-step---pvc-200-x-300mm.html|>
+## Scan Danger Mind the step - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. Its aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1105 safety sign has the following specifications: Size: 200 x 300mm Message: 'Danger Mind the step'.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Mind the step - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Danger Mind the step'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-warning-wet-floor---pvc-200-x-300mm.html|>
+## Warning Wet Floor - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Warning Wet Floor - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Warning Wet floor'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-caution-cleaning-in-progress---pvc-200-x-300mm.html|>
+## Caution Cleaning In Progress - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Caution Cleaning In Progress - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Caution Cleaning in progress'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-mind-your-head---pvc-200-x-300mm.html|>
+## Scan Danger Mind Your Head - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. Its aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1150 safety sign has the following specifications: Size: 200 x 300mm Message: 'Danger Mind your head'.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Mind Your Head - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Danger Mind your head'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger---pvc-200-x-300mm.html|>
+## Scan Danger - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Danger'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-caution-hot-water---pvc-200-x-300mm.html|>
+## Scan Caution Hot Water - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "These Scan Hazard signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA1309 safety signs have the following specifications: Individual size: 100 x 150mm, Sheet size: 200 x 300mm, Message: 'Caution Hot water'.",
+  "availability": "In Stock",
+  "product_name": "Scan Caution Hot Water - PVC 200 x 300mm",
+  "specifications": [
+    "Individual size: 100 x 150mm",
+    "Sheet size: 200 x 300mm",
+    "Message: 'Caution Hot water'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-warning-cctv-cameras-in-operation---pvc-200-x-300mm.html|>
+## Scan Warning CCTV Cameras In Operation - PVC 200 x 300mm
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Warning CCTV Cameras In Operation - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Warning CCTV cameras in operation'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-construction-site-pack-5-pack.html|>
+## Scan Construction Site Pack 5-Pack
+
+{
+  "price": "€187.02 inc VAT (€152.05 exc.vat)",
+  "description": "This Scan safety sign site pack contains 5 signs. The PVC signs aggressive waster-based adhesive enables them to easily stick on to and remain on any wall. All signs are printed using UV resistant inks, which resist fading. They are easy to read with clear instruction and illustration. Comply with BS5499 and/or ISO7010 design criteria and where applicable, help limit company liability should an accident occur. Pack comprises of: 2 x 800 x 600mm rigid Foamex Site Safety Boards, covering basic health and safety 1 x 600 x 600mm rigid PVC 'Site safety starts here' 1 x 600 x 450mm rigid PVC 'Safety helmets must be worn on this site' 1 x 600 x 450mm rigid PVC 'You are now entering a designated area'.",
+  "availability": "In Stock",
+  "product_name": "Scan Construction Site Pack 5-Pack",
+  "specifications": [
+    "Pack contains 5 signs",
+    "PVC signs with aggressive water-based adhesive",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria",
+    "Includes various sizes of safety signs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-contruction-site-keep-out---pvc-600-x-400mm.html|>
+## Scan Danger Contruction Site Keep Out - PVC 600 x 400mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Contruction Site Keep Out - PVC 600 x 400mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Messages: 'Danger Construction site' and 'Keep out'."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-moving-vehicles---pvc-400-x-600mm.html|>
+## Scan Danger Moving Vehicles - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4100 safety sign has the following specifications: Size: 400 x 600mm Message: 'Danger Moving vehicles'.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Moving Vehicles - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'Danger Moving vehicles'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-site-entrance---pvc-400-x-600mm.html|>
+## Scan Danger Site Entrance - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4102 safety sign has the following specifications: Size: 400 x 600mm Message: 'Danger Site entrance'.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Site Entrance - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-deep-excavation---pvc-400-x-600mm.html|>
+## Scan Danger Deep Excavation - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4103 safety sign has the following specifications: Size: 400 x 600mm Message: 'Danger Deep excavation'.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Deep Excavation - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-men-at-work---pvc-400-x-600mm.html|>
+## Scan Danger Men At Work - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4104 safety sign has the following specifications: Size: 400 x 600mm Message: 'Danger Men at work'.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Men At Work - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'Danger Men at work'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-danger-demolition-in-progress---pvc-400-x-600mm.html|>
+## Scan Danger Demolition In Progress - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Danger Demolition In Progress - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'Danger Demolition in progress'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-hazardous-area---pvc-400-x-600mm.html|>
+## Scan Hazardous Area - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Hazard sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Hazardous Area - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'Hazardous area'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-hazardous-area--no-unauthorized-access---pvc-sign-600-x-400mm.html|>
+## Scan Hazardous Area / No Unauthorized Access - PVC Sign 600 x 400mm
+
+{
+  "price": "€28.60 inc VAT (€23.25 exc.vat)",
+  "description": "This SCAN Safety Sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. Printed with UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO 7010 design criteria where applicable. Helps limit company liability should accident occur.",
+  "availability": "In Stock",
+  "product_name": "Scan Hazardous Area / No Unauthorized Access - PVC Sign 600 x 400mm",
+  "specifications": [
+    "Size: 600 x 400mm",
+    "Message: 'Hazardous area / No unauthorized access'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-eye-protection-must-be-worn---pvc-200-x-50mm.html|>
+## Scan Eye Protection Must Be Worn - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Mandatory Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Eye protection must be worn'.",
+  "availability": "In Stock",
+  "product_name": "Scan Eye Protection Must Be Worn - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-use-guards---pvc-200-x-50mm.html|>
+## Scan Use Guards - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Mandatory Sign is made from 1mm self adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Use guards'.",
+  "availability": "In Stock",
+  "product_name": "Scan Use Guards - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fire-door-keep-shut---pvc-200-x-50mm.html|>
+## Scan Fire Door Keep Shut - PVC 200 x 50mm
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "This Scan Mandatory Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Fire door Keep shut'.",
+  "availability": "In Stock",
+  "product_name": "Scan Fire Door Keep Shut - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-keep-locked---pvc-200-x-50mm.html|>
+## Scan Keep Locked - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Mandatory Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Keep locked'.",
+  "availability": "In Stock",
+  "product_name": "Scan Keep Locked - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-now-wash-your-hands---pvc-200-x-50mm.html|>
+## Now Wash Your Hands - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Mandatory Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Now wash your hands'.",
+  "availability": "In Stock",
+  "product_name": "Now Wash Your Hands - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-wear-ear-protection---pvc-200-x-50mm.html|>
+## Scan Wear Ear Protection - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Mandatory Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Wear ear protection'.",
+  "availability": "In Stock",
+  "product_name": "Scan Wear Ear Protection - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-smoking---pvc-200-x-50mm.html|>
+## Scan No Smoking - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. It should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'No Smoking'.",
+  "availability": "Out of Stock",
+  "product_name": "Scan No Smoking - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-not-drinking-water---pvc-200-x-50mm.html|>
+## Scan Not Drinking Water - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Safety Sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'Not Drinking Water'.",
+  "availability": "In Stock",
+  "product_name": "Scan Not Drinking Water - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-entry---pvc-200-x-50mm.html|>
+## No Entry - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. It should be applied to clean, flat/smooth surfaces. Complies with BS5499 design criteria. Size: 200 x 50mm. Message: 'No Entry'.",
+  "availability": "In Stock",
+  "product_name": "No Entry - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-parking---pvc-200-x-50mm.html|>
+## Scan No Parking - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm self-adhesive durable PVC and printed using UV resistant inks. It should be applied to clean, flat/smooth surfaces. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 50mm. Message: 'No Parking'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Parking - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-please-shut-the-gate---pvc-200-x-50mm.html|>
+## Scan Please Shut The Gate - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "Scan Mini Sign made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Size: 200 x 50mm. Message: 'PLEASE SHUT THE GATE'.",
+  "availability": "In Stock",
+  "product_name": "Scan Please Shut The Gate - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Message: 'PLEASE SHUT THE GATE'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-beware-of-the-dog---pvc-200-x-50mm.html|>
+## Scan Beware Of The Dog - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "Scan Mini Sign made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Size: 200 x 50mm. Message: 'BEWARE OF THE DOG'.",
+  "availability": "In Stock",
+  "product_name": "Scan Beware Of The Dog - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Message: 'BEWARE OF THE DOG'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-keep-driveway-clear---pvc-200-x-50mm.html|>
+## Scan Keep Driveway Clear - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "Scan Mini Sign made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Size: 200 x 50mm. Message: 'KEEP DRIVEWAY CLEAR'.",
+  "availability": "In Stock",
+  "product_name": "Scan Keep Driveway Clear - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Message: 'KEEP DRIVEWAY CLEAR'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-warning-concealed-cctv-cameras-operate-on-these-premises---pvc-200-x-50mm.html|>
+## Warning Concealed CCTV Cameras Operate On These Premises - PVC 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "Scan Mini Sign made from 1mm self-adhesive durable PVC and printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Size: 200 x 50mm. Message: 'WARNING Concealed CCTV cameras operate on these premises'.",
+  "availability": "In Stock",
+  "product_name": "Warning Concealed CCTV Cameras Operate On These Premises - PVC 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-tools-or-equipment-stored-in-this-vehicle-overnight---savclg-200-x-50mm.html|>
+## No Tools Or Equipment Stored In This Vehicle Overnight - SAV/CLG 200 x 50mm
+
+{
+  "price": "€4.49 inc VAT (€3.65 exc.vat)",
+  "description": "Scan Mini Sign printed using UV resistant inks. Should be applied to clean, flat/smooth surfaces. Size: 200 x 50mm. Message: 'NO TOOLS OR EQUIPMENT STORED IN THIS VEHICLE OVERNIGHT'. Supplied in a pack of 2. 1 Self-adhesive Vinyl. 1 Self Cling Vinyl Sign.",
+  "availability": "In Stock",
+  "product_name": "No Tools Or Equipment Stored In This Vehicle Overnight - SAV/CLG 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Supplied in a pack of 2",
+    "1 Self-adhesive Vinyl",
+    "1 Self Cling Vinyl Sign"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-smoking---polished-brass-effect-200-x-50mm.html|>
+## Scan No Smoking - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan No Smoking Sign with black text/graphic on a polished brass effect material. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'No Smoking'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Smoking - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Polished Brass Effect",
+    "Message: 'No Smoking'",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-thank-you-for-not-smoking---polished-brass-effect-200-x-50mm.html|>
+## Thank You For Not Smoking - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Thank You For Not Smoking'.",
+  "availability": "In Stock",
+  "product_name": "Thank You For Not Smoking - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Polished brass effect",
+    "Self-adhesive",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-disabled-toilet---polished-brass-effect-200-x-50mm.html|>
+## Scan Disabled Toilet - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive bathroom sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Toilet (with Disabled Symbol)'.",
+  "availability": "In Stock",
+  "product_name": "Scan Disabled Toilet - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Polished brass effect",
+    "Self-adhesive",
+    "UV resistant inks",
+    "Message: 'Toilet (with Disabled Symbol)'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-toilets---polished-brass-effect-200-x-50mm.html|>
+## Scan Toilets - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive bathroom sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Toilets'.",
+  "availability": "In Stock",
+  "product_name": "Scan Toilets - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Self-adhesive",
+    "Color: Polished Brass Effect",
+    "Message: 'Toilets'",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-office---polished-brass-effect-200-x-50mm.html|>
+## Scan Office - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Office'.",
+  "availability": "In Stock",
+  "product_name": "Scan Office - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Self-adhesive",
+    "Color: Polished Brass Effect",
+    "Message: 'Office'",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-private---polished-brass-effect-200-x-50mm.html|>
+## Scan Private - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Private'.",
+  "availability": "In Stock",
+  "product_name": "Scan Private - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Message: 'Private'",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-staff-only---polished-brass-effect-200-x-50mm.html|>
+## Scan Staff Only - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Staff Only'.",
+  "availability": "In Stock",
+  "product_name": "Scan Staff Only - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Polished brass effect",
+    "Self-adhesive",
+    "Printed using UV resistant inks",
+    "Message: 'Staff Only'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-please-keep-closed---polished-brass-effect-200-x-50mm.html|>
+## Scan Please Keep Closed - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Please keep closed'.",
+  "availability": "In Stock",
+  "product_name": "Scan Please Keep Closed - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Polished brass effect",
+    "Self-adhesive",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-mind-the-step---polished-brass-effect-200-x-50mm.html|>
+## Mind The Step - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Mind The Step'.",
+  "availability": "In Stock",
+  "product_name": "Mind The Step - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Self-adhesive",
+    "Message: 'Mind The Step'",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-mind-your-head---polished-brass-effect-200-x-50mm.html|>
+## Scan Mind Your Head - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Mind Your Head'.",
+  "availability": "In Stock",
+  "product_name": "Scan Mind Your Head - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Polished Brass Effect",
+    "Self-adhesive",
+    "UV resistant inks",
+    "Message: 'Mind Your Head'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-push---polished-brass-effect-200-x-50mm.html|>
+## Scan Push - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Push' (horizontal).",
+  "availability": "In Stock",
+  "product_name": "Scan Push - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Self-adhesive",
+    "Color: Polished Brass Effect",
+    "Message: 'Push' (horizontal)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-pull---polished-brass-effect-200-x-50mm.html|>
+## Scan Pull - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Pull' (horizontal).",
+  "availability": "In Stock",
+  "product_name": "Scan Pull - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Self-adhesive",
+    "Color: Polished Brass Effect",
+    "Message: 'Pull' (horizontal)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-beware-of-the-dog---polished-brass-effect-200-x-50mm.html|>
+## Scan Beware Of The Dog - Polished Brass Effect 200 x 50mm
+
+{
+  "price": "€5.18 inc VAT (€4.21 exc.vat)",
+  "description": "Scan polished brass effect self-adhesive sign with black text/graphic. Printed using UV resistant inks. Size: 200 x 50mm. Message: 'Beware Of The Dog'.",
+  "availability": "In Stock",
+  "product_name": "Scan Beware Of The Dog - Polished Brass Effect 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Material: Polished brass effect",
+    "Self-adhesive",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-ladies-bathroom-sign-200-x-50mm.html|>
+## Scan Ladies Bathroom Sign 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT",
+  "description": "Scan self-adhesive bathroom sign with black text/graphic. Printed using UV resistant inks. Available in a polished brass or polished chrome effect. Please note polished chrome effect signs are not recommended for exterior use. Size: 200 x 50mm. Message: 'Ladies'.",
+  "availability": "In Stock",
+  "product_name": "Scan Ladies Bathroom Sign 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Available in polished brass or polished chrome effect",
+    "Self-adhesive",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-gentlemen-bathroom-sign-200-x-50mm.html|>
+## Scan Gentlemen Bathroom Sign 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT",
+  "description": "Scan self-adhesive bathroom sign with black text/graphic. Printed using UV resistant inks. Available in a polished brass or polished chrome effect. Please note polished chrome effect signs are not recommended for exterior use. Size: 200 x 50mm. Message: 'Gentlemen'.",
+  "availability": "In Stock",
+  "product_name": "Scan Gentlemen Bathroom Sign 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Available in polished brass or polished chrome effect",
+    "Printed using UV resistant inks",
+    "Self-adhesive"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-push-vertical-sign-50-x-200mm.html|>
+## Scan Push Vertical Sign (50 x 200mm)
+
+{
+  "price": "€3.99 inc VAT",
+  "description": "Scan self-adhesive sign with black text/graphic. Printed using UV resistant inks. Available in a polished brass or polished chrome effect. Please note polished chrome effect signs are not recommended for exterior use. Size: 50 x 200mm.",
+  "availability": "In Stock",
+  "product_name": "Scan Push Vertical Sign (50 x 200mm)",
+  "specifications": [
+    "Available in polished brass or polished chrome effect",
+    "Size: 50 x 200mm",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-pull-vertical-sign-50-x-200mm.html|>
+## Scan Pull Vertical Sign (50 x 200mm)
+
+{
+  "price": "€3.99 inc VAT",
+  "description": "Scan self-adhesive sign with black text/graphic. Printed using UV resistant inks. Available in a polished brass or polished chrome effect. Please note polished chrome effect signs are not recommended for exterior use. Size: 50 x 200mm.",
+  "availability": "In Stock",
+  "product_name": "Scan Pull Vertical Sign (50 x 200mm)",
+  "specifications": [
+    "Available in polished brass or polished chrome effect",
+    "Size: 50 x 200mm",
+    "Printed using UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-bathroom-sign-200-x-50mm.html|>
+## Scan Bathroom Sign 200 x 50mm
+
+{
+  "price": "€4.83 inc VAT",
+  "description": "Scan self-adhesive bathroom sign with black text/graphic. Printed using UV resistant inks. Available in a polished brass or polished chrome effect. Please note polished chrome effect signs are not recommended for exterior use. Size: 200 x 50mm.",
+  "availability": "In Stock",
+  "product_name": "Scan Bathroom Sign 200 x 50mm",
+  "specifications": [
+    "Size: 200 x 50mm",
+    "Available in polished brass or polished chrome effect",
+    "Printed using UV resistant inks",
+    "Not recommended for exterior use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-smoking---pvc-200-x-300mm-1.html|>
+## Scan No Smoking - PVC 200 x 300mm
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "This Scan No Smoking sign is made from 1mm self-adhesive durable PVC, printed using UV resistant inks. Aggressive water-based adhesive. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. Size: 200 x 300mm. Message: 'No smoking'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Smoking - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Material: 1mm self-adhesive durable PVC",
+    "Printed using UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria",
+    "Aggressive water-based adhesive"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-smoking---pvc-200-x-300mm.html|>
+## Scan No Smoking - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "These 4 identical Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. They are is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA0552 safety signs have the following specifications: Size: 100 x 150mm Total sheet size: 200 x 300mm Message: 'No smoking'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Smoking - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 100 x 150mm",
+    "Total sheet size: 200 x 300mm",
+    "Message: 'No smoking'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-smoking-it-is-against-the-law-to-smoke-in-these-premises---pvc-200-x-300mm.html|>
+## Scan No Smoking It Is Against The Law To Smoke In These Premises - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA0567 safety sign has the following specifications: Size: 200 x 300mm Message: 'No smoking. It is against the law to smoke on these premises'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Smoking It Is Against The Law To Smoke In These Premises - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010 design criteria"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-smoking-in-these-premises-pvc-200-x-300mm.html|>
+## No Smoking In These Premises PVC 200 x 300mm
+
+{
+  "price": "€59.89 inc VAT (€48.69 exc.vat)",
+  "description": "These Scan Safety signs are made from 1mm thick, durable PVC. Their aggressive water-based adhesive enables the signs to easily stick on to and remain on any wall. They are printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA05675 safety sign has the following specifications: Size: 200 x 300mm Message: 'No Smoking It is against the law to smoke on these premises'.",
+  "availability": "In Stock",
+  "product_name": "No Smoking In These Premises PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'No Smoking It is against the law to smoke on these premises'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-smoking-english--welsh-pvc-200-x-300mm.html|>
+## Scan No Smoking English / Welsh PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. Its aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear writing and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA0578 safety sign has the following specifications: Size: 200 x 300mm Message: This sign has both English and Welsh translation for 'No Smoking. It is against the law to smoke in these premises'",
+  "availability": "In Stock",
+  "product_name": "Scan No Smoking English / Welsh PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: This sign has both English and Welsh translation for 'No Smoking. It is against the law to smoke in these premises'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-parking---pvc-200-x-300mm.html|>
+## No Parking - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA0605 safety sign has the following specifications: Size: 200 x 300mm Message: 'No parking'.",
+  "availability": "In Stock",
+  "product_name": "No Parking - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'No parking'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-strictly-no-admittance---pvc-200-x-300mm.html|>
+## Scan Strictly No Admittance - PVC 200 x 300mm
+
+{
+  "price": "€11.97 inc VAT (€9.73 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA0608 safety sign has the following specifications: Size: 200 x 300mm Message: 'Strictly no admittance'",
+  "availability": "In Stock",
+  "product_name": "Scan Strictly No Admittance - PVC 200 x 300mm",
+  "specifications": [
+    "Size: 200 x 300mm",
+    "Message: 'Strictly no admittance'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-smoking---pvc-400-x-600mm.html|>
+## No Smoking - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur.",
+  "availability": "In Stock",
+  "product_name": "No Smoking - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'No smoking'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-parking---pvc-400-x-600mm.html|>
+## Scan No Parking - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4051 safety sign has the following specifications: Size: 400 x 600mm Message: 'No parking'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Parking - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'No parking'"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-unauthorised-persons-beyond-this-point---pvc-400-x-600mm.html|>
+## Scan No Unauthorised Persons Beyond This Point - PVC 400 x 600mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Safety sign is made from 1mm thick, durable PVC. It's aggressive water-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4053 safety sign has the following specifications: Size: 400 x 600mm Message: 'No unauthorised persons beyond this point'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Unauthorised Persons Beyond This Point - PVC 400 x 600mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks",
+    "Complies with BS5499 and/or ISO7010"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-10sco-combinaton-smoke-and-carbon-monoxide-alarm-voice.html|>
+## Kidde 10SCO Combinaton Smoke & Carbon Monoxide Alarm (Voice)
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "The Kidde 10SCO is a battery-powered combination alarm that offers protection from the dual dangers of smoke and carbon monoxide (CO) in a single unit for convenience. Its voice alarm feature audibly announces which danger has been detected. The alarm has a peak level memory, which provides notification (voice and LED) when dangerous CO levels have been previously detected. Its front loading battery compartment makes changing the battery easy and convenient. The 10SCO has a Hush™ button to temporarily silence nuisance alarms. It also has a test/reset button to allow regular testing of the alarm function. Designed to be wall or ceiling mounted, this battery-powered unit is perfect for when space is limited but protection is paramount. It can be used in most locations throughout the home. BSI certified to EN14604:2005 (Smoke). BSI certified to EN50291-1:2010 (Carbon monoxide). CE tested and certified.",
+  "availability": "In Stock",
+  "product_name": "Kidde 10SCO Combinaton Smoke & Carbon Monoxide Alarm (Voice)",
+  "specifications": [
+    "Battery-powered combination alarm",
+    "Voice alarm feature",
+    "Peak level memory for CO detection",
+    "Front loading battery compartment",
+    "Hush™ button to silence nuisance alarms",
+    "Test/reset button for regular testing",
+    "Wall or ceiling mounted design",
+    "BSI certified to EN14604:2005 (Smoke)",
+    "BSI certified to EN50291-1:2010 (Carbon monoxide)",
+    "CE tested and certified"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-carbon-monoxide-alarm-7-year-sensor.html|>
+## Kidde Carbon Monoxide Alarm 7 Year Sensor
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The Kidde Lifesaver 5CO continuously monitors for the presence of deadly Carbon Monoxide (CO) in the home, providing a constant protection against the effects of this deadly gas. The 5CO features two LED's - The red LED illuminates when the alarm has detected CO in the atmosphere and the green LED confirms that DC power is present. The alarm can either be installed on a wall or just placed on a tabletop or shelf for added convenience. It is also ideal for use when on holiday and in rented accommodation. The Lifesaver 5CO features a 7 year sensor life with an end of life warning to replace the unit after seven years protection.",
+  "availability": "In Stock",
+  "product_name": "Kidde Carbon Monoxide Alarm 7 Year Sensor",
+  "specifications": [
+    "Model: KID5COLSB",
+    "Price: €29.99",
+    "Sensor Life: 7 years",
+    "LED Indicators: Red (CO detected), Green (Power present)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-carbon-monoxide-alarm-10-year-sensor.html|>
+## Kidde Carbon Monoxide Alarm 10 Year Sensor
+
+{
+  "price": "€32.02 inc VAT (€26.03 exc.vat)",
+  "description": "The Kidde KID7COC Carbon Monoxide Alarm continuously monitors for the presence of deadly Carbon Monoxide in the home, providing a constant protection against its effects. The 7CO features two LED's. Red illuminates when the alarm has detected CO in the atmosphere and green confirms that DC power is present. The alarm can either be installed on a wall or just placed on a tabletop or shelf for added convenience. It is also ideal for use when on holiday, in rented accommodation or for use in caravans and boats and complies with the very latest EN50291.2010 standards, Parts 1 & 2 (boats and caravans). The Kidde 7CO carbon monoxide alarm features an industry leading 10 year sensor life, meaning that it lasts 40% longer than any other CO alarm. The alarm has an end of life warning to replace the unit after ten years protection.",
+  "availability": "In Stock",
+  "product_name": "Kidde Carbon Monoxide Alarm 10 Year Sensor",
+  "specifications": [
+    "Model: 7CO",
+    "Sensor life: 10 years",
+    "BSI Certified to EN50291.2012",
+    "CE tested and certified",
+    "Temperature range: 0 to 40 and -20 to 60 degrees centigrade for storage or transport",
+    "Humidity range: 10%-9% relative humidity (RH) non-condensing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-carbon-monoxide-alarm-digital-10-year.html|>
+## Kidde Carbon Monoxide Alarm Digital 10 Year
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "The Kidde KID7DCOC continuously monitors for the presence of deadly Carbon Monoxide in the home providing a constant protection against its effects. As well as twin red and green LED's, the 7DCO features a digital display that continuously displays CO levels detected. The alarm can either be installed on a wall or just placed on a tabletop or shelf for added convenience. It is also ideal for use when on holiday, in rented accommodation, or for use in caravans and boats and complies with the very latest EN50291.2010 standards, Parts 1 & 2 (boats and caravans). The Kidde 7DCO Carbon Monoxide Alarm features an industry leading 10 year sensor life, meaning it lasts 40% longer than any other CO alarm. The alarm has an end of life warning to replace the unit after ten year's protection.",
+  "availability": "In Stock",
+  "product_name": "Kidde Carbon Monoxide Alarm Digital 10 Year",
+  "specifications": [
+    "Model: 7DCO",
+    "Sensor life: 10 years",
+    "Complies with EN50291.2012 standards, Parts 1 & 2 (boats and caravans)",
+    "CE tested and certified",
+    "Temperature range: 0 to 40 and -20 to 60 degrees centigrade for storage or transport",
+    "Humidity range: 10%-95% relative humidity (RH) non-condensing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-29d-optical-smoke-alarm-battery-powered.html|>
+## Kidde 29D Optical Smoke Alarm Battery Powered
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "The Kidde 29D Optical Smoke Alarm is battery operated and has a loud 85 dB alarm that will sound when smoke is detected. It also features a test button to allow for regular testing of the alarm function. The alarm can be easily installed in most locations within your home, particularly in bedrooms and living areas. The optical smoke sensing technology means that this alarm is highly effective at detecting slow-burning fires, and less susceptible to false activations caused by cooking fumes. Approved to EN 14604 and CE marked. It comes with a 5 year manufacturer's warranty. Supplied with a 9V Battery.",
+  "availability": "In Stock",
+  "product_name": "Kidde 29D Optical Smoke Alarm Battery Powered",
+  "specifications": [
+    "Battery operated",
+    "85 dB alarm",
+    "Test button for regular testing",
+    "Optical smoke sensing technology",
+    "Approved to EN 14604 and CE marked",
+    "5 year manufacturer's warranty",
+    "Supplied with a 9V Battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-29hd-optical-smoke-alarm-battery-powered.html|>
+## Kidde 29HD Optical Smoke Alarm Battery Powered
+
+{
+  "price": "€21.68 inc VAT (€17.63 exc.vat)",
+  "description": "The Kidde 29HD Optical Smoke Alarm is battery operated and has a loud 85dB alarm that will sound when smoke is detected. It also features a test button to allow for regular testing of the alarm function and a Hush™ button for temporarily silencing nuisance alarms. The alarm can be easily installed in most locations within your home, particularly in bedrooms and living areas. The optical smoke sensing technology means that this alarm is highly effective at detecting slow-burning fires, and less susceptible to false activations caused by cooking fumes. Approved to EN 14604 and CE marked. It comes with a 5 year manufacturer's warranty. Supplied with a 9V Battery.",
+  "availability": "In Stock",
+  "product_name": "Kidde 29HD Optical Smoke Alarm Battery Powered",
+  "specifications": [
+    "Battery operated",
+    "85dB alarm",
+    "Test button",
+    "Hush™ button",
+    "Optical smoke sensing technology",
+    "5 year manufacturer's warranty",
+    "Supplied with a 9V Battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kidde-10y29rb-10-year-optical-smoke-alarm.html|>
+## Kidde 10Y29RB 10-Year Optical Smoke Alarm
+
+{
+  "price": "€28.72 inc VAT (€23.35 exc.vat)",
+  "description": "The Kidde 10Y29RB 10-Year Optical Smoke Alarm has a test/hush button for regular testing of the smoke alarm function, it also allows nuisance alarms to be temporarily silenced. Easy to install and can be used in most locations in the home, particularly in bedrooms and living areas. Sealed-in lithium battery that never needs replacing. Approved to EN 14604, and has a 10-year warranty (including the battery).",
+  "availability": "In Stock",
+  "product_name": "Kidde 10Y29RB 10-Year Optical Smoke Alarm",
+  "specifications": [
+    "Test/hush button for regular testing",
+    "Sealed-in lithium battery",
+    "10-year warranty",
+    "Approved to EN 14604"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-letter-and-number-stencil-kit.html|>
+## Scan Letter & Number Stencil Kit
+
+{
+  "price": "€18.86 inc VAT",
+  "description": "Scan Letter Stencil Kit contains the letters A - Z. The stencils are manufactured from durable polyester, which is laser cut for accuracy and definition, meaning that the stencils create neat, legible signs. The stencils can be easily cleaned and re-used. The stencils have letters with identical heights, with varying widths per individual character. The spacer marks in the corners of the stencils allow the user to accurately line up the next character in sequence, ensuring neatness.",
+  "availability": "In Stock",
+  "product_name": "Scan Letter & Number Stencil Kit",
+  "specifications": [
+    "Includes letters A - Z",
+    "Manufactured from durable polyester",
+    "Laser cut for accuracy",
+    "Easily cleaned and re-used",
+    "Spacer marks for accurate alignment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stencils-zinc-stencils---numbers.html|>
+## Stencils Zinc Stencils - Numbers
+
+{
+  "price": "from €8.52 inc VAT",
+  "description": "Sets of non inter-locking zinc stencils. Useful for making signs and marking cartons and packing cases.",
+  "availability": "In Stock",
+  "product_name": "Stencils Zinc Stencils - Numbers",
+  "specifications": [
+    "Select Option: Figures 1.1/2in, Figures 1.in, Figures 1.in Wallet, Figures 2.1/2in, Figures 2.in, Figures 2.in Walleted, Figures 3.in, Figures 4.in, Figures 6.in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stencils-zinc-stencils---letters.html|>
+## Zinc Stencils - Letters
+
+{
+  "price": "€22.88 inc VAT",
+  "description": "Sets of non-interlocking zinc stencils in a range of sizes. Useful for making signs and marking cartons and packing cases.",
+  "availability": "In Stock",
+  "product_name": "Zinc Stencils - Letters",
+  "specifications": [
+    "Available sizes: 1.1/2in, 1in, 2.1/2in, 2in, 3in, 4in, 6in",
+    "Material: Zinc",
+    "Non-interlocking design"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stencils-brass-locking-stencils.html|>
+## Stencils Brass Locking Stencils
+
+{
+  "price": "from €12.93 inc VAT",
+  "description": "Sets of interlocking brass stencils. The interlocking facility ensures uniformity and neatness when marking out dates etc. Useful for making signs or marking cartons and packing cases.",
+  "availability": "In Stock",
+  "product_name": "Stencils Brass Locking Stencils",
+  "specifications": [
+    "Select Option: Figures 1in, Figures 2In, Letters 1in, Letters 2In",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+

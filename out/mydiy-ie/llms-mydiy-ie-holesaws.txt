@@ -1,0 +1,950 @@
+<|https://www.mydiy.ie/products/lenox-diamond-holesaw.html|>
+## LENOX DIAMOND™ Holesaw
+
+{
+  "price": "€61.43 inc VAT",
+  "description": "The LENOX® DIAMOND™ Holesaw has a robust design for greater durability in tough applications. With a long-lasting brazed diamond edge that drills more holes in even the hardest ceramic and stone materials. Its thin kerf enables fast and easy cutting. Round holes in the side of the holesaw make removing plugs faster and easier. Uses a standard or Snap-Back™ Arbor.",
+  "availability": "In Stock",
+  "product_name": "LENOX DIAMOND™ Holesaw",
+  "specifications": [
+    "Robust design for durability",
+    "Long-lasting brazed diamond edge",
+    "Thin kerf for fast cutting",
+    "Round holes for easy plug removal",
+    "Compatible with standard or Snap-Back™ Arbor"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krihsb102.html|>
+## Krino New Group for KRIHSB102
+
+{
+  "price": "€8.52",
+  "description": "Krino New Group for KRIHSB102",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIHSB102",
+  "specifications": [
+    "List: €11.76",
+    "You save €3.24",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-standard-bi-metal-holesaw.html|>
+## Makita Standard Bi-Metal Holesaw
+
+{
+  "price": "from €5.42 inc VAT",
+  "description": "Bi-metal with a a vari-pitch tooth design for cutting steel, aluminium, copper, brass, wood and plastic. Suitable for trunking, conduit, pipe, etc.",
+  "availability": "In Stock",
+  "product_name": "Makita Standard Bi-Metal Holesaw",
+  "specifications": [
+    "Select Option: 102mm, 108mm, 111mm, 114mm, 121mm, 127mm, 152mm, 16mm, 19mm, 20mm, 22mm, 25mm, 30mm, 32mm, 35mm, 38mm, 40mm, 41mm, 46mm, 51mm, 52mm, 57mm, 60mm, 64mm, 68mm, 70mm, 73mm, 76mm, 79mm, 83mm, 95mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-bi-metal-contractor-holesaw.html|>
+## Milwaukee Power Tools Bi-Metal Contractor Holesaw
+
+{
+  "price": "€12.95 inc VAT",
+  "description": "The Milwaukee Bi-Metal Contractor Holesaw with optimised variable 4-6 tooth geometry for faster cutting and universal use. Bi-metal teeth for best durability and increased wear resistance. For universal use: steel, non-ferrous metals, wood, drywall plasterboard and plastics.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools Bi-Metal Contractor Holesaw",
+  "specifications": [
+    "Optimised variable 4-6 tooth geometry for faster cutting",
+    "Bi-metal teeth for durability and wear resistance",
+    "Universal use for steel, non-ferrous metals, wood, drywall plasterboard, and plastics"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-fch0100-6-fast-cut-bi-metal-holesaw-25mm-bulk-pack-of-6.html|>
+## Starrett FCH0100-6 Fast Cut Bi-Metal Holesaw 25mm Bulk Pack of 6
+
+{
+  "price": "€71.22 inc VAT (€57.90 exc.vat)",
+  "description": "Bulk pack of 6 Starrett Fast Cut Bi-Metal Holesaws. They provide a smoother, faster cut on a wide range of materials, when compared to the previous constant pitch saw. Improved tooth material and 5.5 TPI/25mm tooth form for enhanced heat and wear resistance and greater product life. Specifically suited to cutting stainless and mild steel sheet, they will also cut through tubes with a wall thickness of up to 3mm (1/8in).",
+  "availability": "In Stock",
+  "product_name": "Starrett FCH0100-6 Fast Cut Bi-Metal Holesaw 25mm Bulk Pack of 6",
+  "specifications": [
+    "Size: 25mm",
+    "Cutting Depth: 41mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-fch0114-fast-cut-bi-metal-holesaw-32mm-bulk-pack-of-6.html|>
+## Starrett FCH0114 Fast Cut Bi-Metal Holesaw 32mm Bulk Pack of 6
+
+{
+  "price": "€82.77 inc VAT (€67.29 exc.vat)",
+  "description": "The Bulk pack of 6 Starrett Fast Cut Bi-Metal Holesaws. They provide a smoother, faster cut on a wide range of materials, when compared to the previous constant pitch saw. Improved tooth material and 5.5 TPI/25mm tooth form for enhanced heat and wear resistance and greater product life. Specifically suited to cutting stainless and mild steel sheet, they will also cut through tubes with a wall thickness of up to 3mm (1/8in).",
+  "availability": "In Stock",
+  "product_name": "Starrett FCH0114 Fast Cut Bi-Metal Holesaw 32mm Bulk Pack of 6",
+  "specifications": [
+    "Size: 32mm",
+    "Cutting Depth: 41mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-fch2532-fast-cut-bi-metal-holesaw-20mm-bulk-pack-of-6.html|>
+## Starrett FCH2532 Fast Cut Bi-Metal Holesaw 20mm Bulk Pack of 6
+
+{
+  "price": "€55.46 inc VAT (€45.09 exc.vat)",
+  "description": "Bulk pack of 6 Starrett Fast Cut Bi-Metal Holesaws. They provide a smoother, faster cut on a wide range of materials, when compared to the previous constant pitch saw. Improved tooth material and 5.5 TPI/25mm tooth form for enhanced heat and wear resistance and greater product life. Specifically suited to cutting stainless and mild steel sheet, they will also cut through tubes with a wall thickness of up to 3mm (1/8in).",
+  "availability": "In Stock",
+  "product_name": "Starrett FCH2532 Fast Cut Bi-Metal Holesaw 20mm Bulk Pack of 6",
+  "specifications": [
+    "Size: 20mm",
+    "Cutting Depth: 41mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-fast-cut-bi-metal-holesaw.html|>
+## Starrett Fast Cut Bi-Metal Holesaw
+
+{
+  "price": "from €10.27 inc VAT",
+  "description": "The Starrett Fast Cut Bi-Metal Holesaws provide a smoother, faster cut on a wide range of materials, when compared to the previous constant pitch saw. Improved tooth material and 5.5 TPI/25mm tooth form for enhanced heat and wear resistance and greater product life. Specifically suited to cutting stainless and mild steel sheet, they will also cut through tubes with a wall thickness of up to 3mm (1/8in).",
+  "availability": "In Stock",
+  "product_name": "Starrett Fast Cut Bi-Metal Holesaw",
+  "specifications": [
+    "Cutting Depth: 41mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-deep-carbide-tipped-holesaws.html|>
+## Starrett Deep Carbide Tipped Holesaws
+
+{
+  "price": "€67.10 inc VAT (€54.55 exc.vat)",
+  "description": "These Starrett Carbide Tipped Deep Cut Holesaws are the perfect solution for repeated intensive drilling in mild and stainless steel, cast iron, aluminium and copper of all thicknesses up to and including 25mm (1”). They feature three different angles ground onto the cutting face of each tooth on the saw. This 3-ply tooth grind delivers a fast cut and minimal snag when the saw begins the cut. They have efficient swarf removal minimising heat build-up to maximise saw life. Tungsten carbide tipped teeth have excellent heat and wear resistance, and a solid one-piece construction means no need for assembly. They can be used with fixed or portable drills, mains power or cordless, each is supplied with an ejector spring to aid ejection of the core from the saw.",
+  "availability": "Out of Stock",
+  "product_name": "Starrett Deep Carbide Tipped Holesaws",
+  "specifications": [
+    "Deepcut Carbide Tip Holesaw 50mm",
+    "STRCTD50 : €67.10",
+    "Suitable for drilling in mild and stainless steel, cast iron, aluminium, and copper up to 25mm thick",
+    "Features a 3-ply tooth grind for fast cutting and minimal snagging",
+    "Includes ejector spring for core ejection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-sds-plus-arbor.html|>
+## Starrett SDS Plus Arbor
+
+{
+  "price": "€24.45 inc VAT",
+  "description": "The Starrett SDS Plus Arbor comes with a high speed pilot drill. Allows the arbor to be used in SDS-Plus rotary hammer drills, with the hammer action turned off.",
+  "availability": "In Stock",
+  "product_name": "Starrett SDS Plus Arbor",
+  "specifications": [
+    "Fits holesaws 14-30mm",
+    "Fits holesaws 32-210mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-tct-stainless-steel-holesaws.html|>
+## Starrett TCT Stainless Steel Holesaws
+
+{
+  "price": "€20.39 inc VAT",
+  "description": "The Starrett TCT Stainless Steel Holesaws are ideal for cutting high alloy and stainless steels, non-ferrous light metals and reinforced fabrics at much faster speeds than is possible with a bi-metal holesaw. Tough tungsten carbide tipped teeth have a positive cutting angle which provides fast and efficient removal of chips and swarf. They have a solid one-piece construction, with complete assembly including arbor and pilot drill. A split-point drill bit allows for faster penetration and self-centring helping keep the drill on target and to prevent wandering. Fitted with ejector spring for easy core removal. Ideal for production cutting, and particularly suitable for use in drills with limited speed control. Recommended for cutting sheet metal up to 3mm (1/8in) thick.",
+  "availability": "In Stock",
+  "product_name": "Starrett TCT Stainless Steel Holesaws",
+  "specifications": [
+    "Ideal for cutting high alloy and stainless steels",
+    "Tough tungsten carbide tipped teeth",
+    "Solid one-piece construction",
+    "Includes arbor and pilot drill",
+    "Recommended for cutting sheet metal up to 3mm thick"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-bmkit1-diamond-dri-core-drill-set-5-piece.html|>
+## Starrett BMKIT1 Diamond Dri-Core Drill Set, 5 Piece
+
+{
+  "price": "€276.00 inc VAT (€224.39 exc.vat)",
+  "description": "This Starrett BMKIT1 Diamond Dri-Core Drill Set built for intensive dry cutting on brickwork and blockwork. Ideal for plumbers, electricians and other installation engineers. Dri-Core drills provide a faster rate of cut than Tungsten Carbide Tipped (TCT) alternatives, with less pressure required. Supplied in a handy carry case. Contains: 5 x Diamond Dri-Core Drill Bits: 38mm (1.1/2in), 52mm (2.1/16in), 65mm (2.9/16in), 117mm (4.9/32in), 127mm (5in). 1 x BMA1 Short Standard Hexagon Adaptor. 1 x BMA2 Short Standard SDS Adaptor. 1 x BMA1240 Hexagon Adaptor (240mm long). 1 x BMA2240 SDS Adaptor (240mm long). 1 x BMA3200 Pilot Drill 13 x 200mm. 1 x BMA5 Drift Key.",
+  "availability": "Out of Stock",
+  "product_name": "Starrett BMKIT1 Diamond Dri-Core Drill Set, 5 Piece",
+  "specifications": [
+    "5 x Diamond Dri-Core Drill Bits: 38mm (1.1/2in), 52mm (2.1/16in), 65mm (2.9/16in), 117mm (4.9/32in), 127mm (5in)",
+    "1 x BMA1 Short Standard Hexagon Adaptor",
+    "1 x BMA2 Short Standard SDS Adaptor",
+    "1 x BMA1240 Hexagon Adaptor (240mm long)",
+    "1 x BMA2240 SDS Adaptor (240mm long)",
+    "1 x BMA3200 Pilot Drill 13 x 200mm",
+    "1 x BMA5 Drift Key"
+  ]
+}
+
+<|https://www.mydiy.ie/products/mexco-bi-metal-holesaw-set.html|>
+## MEXCO Bi-Metal Holesaw Set
+
+{
+  "price": "from €62.64 inc VAT",
+  "description": "Set of Mexco Bi-Metal Holesaws all contained within a handy aluminium effect carry case. Contains common saw sizes to suit the Plumbing professional. Welded seams and heat treated bodies provide maximum strength. Recommended materials for cutting: Mild steel, Copper, Aluminium, Brass, Laminates, Plastics and Timber.",
+  "availability": "In Stock",
+  "product_name": "MEXCO Bi-Metal Holesaw Set",
+  "specifications": [
+    "6 Piece, 20-79mm",
+    "Bi-Metal Holesaw Set, 6 Piece (19-57mm)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-ka19-hole-enlargement-arbor.html|>
+## Starrett KA19 Hole Enlargement Arbor
+
+{
+  "price": "€19.75 inc VAT (€16.06 exc.vat)",
+  "description": "The Starrett KA19 Hole Enlargement Arbor allows diameters to be enlarged by attaching a saw of the same size to that of the existing hole. This saw then acts as the pilot for the larger diameter saw attached to the arbor.",
+  "availability": "Out of Stock",
+  "product_name": "Starrett KA19 Hole Enlargement Arbor",
+  "specifications": [
+    "Compatible Holesaws: FCH, DCH, TCT Multi Purpose, CT & Diamond.",
+    "Compatible Threads: 1/2in x 20 & 5/8in x 18.",
+    "Min. Hole Enlargement: 4.7mm (3/16in)."
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-3084712x-holesaw-arbor-extension-300mm-12in.html|>
+## LENOX 3084712X Holesaw Arbor Extension 300mm (12in)
+
+{
+  "price": "€25.85 inc VAT (€21.02 exc.vat)",
+  "description": "The LENOX® 3084712X Holesaw Arbor Extension is made from hardened carbon steel for increased strength and durability.",
+  "availability": "In Stock",
+  "product_name": "LENOX 3084712X Holesaw Arbor Extension 300mm (12in)",
+  "specifications": [
+    "Length: 300mm",
+    "Min. Chuck Size: 12.7mm",
+    "Arbour: SNAP-BACK® 2L; SOLID HEX 1L, 2L or 3L"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-1l-t2-arbor-with-pilot-drill.html|>
+## LENOX 1L T2 Arbor with Pilot Drill
+
+{
+  "price": "€22.72 inc VAT (€18.47 exc.vat)",
+  "description": "This LENOX® Standard Holesaw Arbor has an adjustable pilot drill. Made from hardened carbon steel for added strength and durability. Starts on contact, the split point pilot drill provides faster penetration and less walking.",
+  "availability": "In Stock",
+  "product_name": "LENOX 1L T2 Arbor with Pilot Drill",
+  "specifications": [
+    "Part Number: 1L",
+    "Fits Holesaws: 9L-19L",
+    "Holesaw Size: 14.3-30.2mm",
+    "Shank Type: Hollow Hex",
+    "Shank Size: 12.7mm (1/2in) & larger",
+    "Pilot Drill Length: 107mm (4.1/4in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-2l-t2-arbor-with-pilot-drill.html|>
+## LENOX 2L T2 Arbor with Pilot Drill
+
+{
+  "price": "€36.35 inc VAT (€29.55 exc.vat)",
+  "description": "This LENOX® Standard Holesaw Arbor can be used for enlarging holes. Made from hardened carbon steel for added strength and durability. Starts on contact, the split point pilot drill provides faster penetration and less walking.",
+  "availability": "In Stock",
+  "product_name": "LENOX 2L T2 Arbor with Pilot Drill",
+  "specifications": [
+    "Part Number: 2L",
+    "Fits Holesaws: 20L-96L",
+    "Holesaw Size: 31.8-152.4mm",
+    "Shank Type: Solid Hex",
+    "Shank Size: 12.7mm (1/2in) & larger"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-5l-t2-arbor-with-pilot-drill.html|>
+## LENOX 5L T2 Arbor with Pilot Drill
+
+{
+  "price": "€23.20 inc VAT (€18.86 exc.vat)",
+  "description": "This LENOX® Standard Holesaw Arbor is perfect for 9A-19A arbored holesaws. Made from hardened carbon steel for added strength and durability. Starts on contact, the split point pilot drill provides faster penetration and less walking.",
+  "availability": "Out of Stock",
+  "product_name": "LENOX 5L T2 Arbor with Pilot Drill",
+  "specifications": [
+    "Part Number: 5L",
+    "Fits Holesaws: 9A-19A",
+    "Holesaw Size: 14.3-30.2mm",
+    "Shank Type: Hex",
+    "Shank Size: 9.5mm (3/8in) & larger",
+    "Pilot Drill Length: 82.5mm (3.1/4in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-6l-t2-arbor-with-pilot-drill.html|>
+## LENOX 6L T2 Arbor with Pilot Drill
+
+{
+  "price": "€35.39 inc VAT (€28.77 exc.vat)",
+  "description": "This LENOX® Standard Holesaw Arbor is a quick-change arbor. Made from hardened carbon steel for added strength and durability. Starts on contact, the split point pilot drill provides faster penetration and less walking.",
+  "availability": "Out of Stock",
+  "product_name": "LENOX 6L T2 Arbor with Pilot Drill",
+  "specifications": [
+    "Part Number: 6L",
+    "Fits Holesaws: 20L-96L",
+    "Holesaw Size: 31.8-152.4mm",
+    "Shank Type: Hex",
+    "Shank Size: 9.5mm (3/8in) & larger",
+    "Pilot Drill Length: 82.5mm (3.1/4in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-65mm-x-80mm-pilot-drill.html|>
+## Krino 6.5Mm X 80Mm Pilot Drill
+
+{
+  "price": "€5.15 inc VAT (€4.19 exc.vat)",
+  "description": "6.5Mm X 80Mm Pilot Drill",
+  "availability": "In Stock",
+  "product_name": "Krino 6.5Mm X 80Mm Pilot Drill",
+  "specifications": [
+    "KRI21070201 : €5.15",
+    "List: €7.10",
+    "You save €1.95"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-635mm-arbor-14-30mm.html|>
+## Krino 6.35Mm Arbor 14-30Mm
+
+{
+  "price": "€9.95 inc VAT (€8.09 exc.vat)",
+  "description": "6.35Mm Arbor 14-30Mm",
+  "availability": "In Stock",
+  "product_name": "Krino 6.35Mm Arbor 14-30Mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-85mm-hex-shank-arbor-14-30mm.html|>
+## Krino 8.5Mm Hex Shank Arbor 14-30Mm
+
+{
+  "price": "€11.78 inc VAT (€9.58 exc.vat)",
+  "description": "8.5Mm Hex Shank Arbor 14-30Mm",
+  "availability": "In Stock",
+  "product_name": "Krino 8.5Mm Hex Shank Arbor 14-30Mm",
+  "specifications": [
+    "KRI210705519 : €11.78",
+    "List: €16.26",
+    "You save €4.48"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-11mm-hex-shank-arbor-32-210mm.html|>
+## Krino 11Mm Hex Shank Arbor 32-210Mm
+
+{
+  "price": "€13.75 inc VAT (€11.18 exc.vat)",
+  "description": "11Mm Hex Shank Arbor 32-210Mm",
+  "availability": "In Stock",
+  "product_name": "Krino 11Mm Hex Shank Arbor 32-210Mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-pilot-drill-centering-bit-71mm.html|>
+## Makita Pilot Drill Centering Bit 71mm
+
+{
+  "price": "€4.69 inc VAT (€3.81 exc.vat)",
+  "description": "Replacement pilot drill for holesaw arbor",
+  "availability": "In Stock",
+  "product_name": "Makita Pilot Drill Centering Bit 71mm",
+  "specifications": [
+    "Pilot Drill Centering Bit 71mm",
+    "Model: MAKD17192",
+    "Price: €4.69"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-hex-shank-adaptor.html|>
+## Makita Hex Shank Adaptor
+
+{
+  "price": "€6.73 inc VAT",
+  "description": "Hex arbor\n\nFunctional and economical\n\nStandard thread fitting",
+  "availability": "In Stock",
+  "product_name": "Makita Hex Shank Adaptor",
+  "specifications": [
+    "Select Option: 0.5 x 16-29mm, 11 x 30-152mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-85mm-hex-shank-arbor-32-210mm.html|>
+## Krino 8.5Mm Hex Shank Arbor 32-210Mm
+
+{
+  "price": "€21.33 inc VAT (€17.34 exc.vat)",
+  "description": "8.5Mm Hex Shank Arbor 32-210Mm",
+  "availability": "In Stock",
+  "product_name": "Krino 8.5Mm Hex Shank Arbor 32-210Mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-8x120mm-pilot-drill.html|>
+## Krino 8X120Mm Pilot Drill
+
+{
+  "price": "€5.56 inc VAT (€4.52 exc.vat)",
+  "description": "8X120Mm Pilot Drill",
+  "availability": "In Stock",
+  "product_name": "Krino 8X120Mm Pilot Drill",
+  "specifications": [
+    "KRIPD8120 : €5.56",
+    "List: €7.68",
+    "You save €2.12"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-30857aa1-arbor-adaptor.html|>
+## LENOX 30857AA1 Arbor Adaptor
+
+{
+  "price": "€5.90 inc VAT (€4.80 exc.vat)",
+  "description": "The LENOX® 30857AA1 Arbor Adaptor is easy and simple to use. Fits Arbor: SNAP-BACK™: 2L, Standard: 1L, 4L or 5L",
+  "availability": "In Stock",
+  "product_name": "LENOX 30857AA1 Arbor Adaptor",
+  "specifications": [
+    "Fits Arbor: SNAP-BACK™: 2L, Standard: 1L, 4L or 5L"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-a6-4-hss-drill-hex-pack-14-125mm.html|>
+## Starrett A6-4 HSS Drill Hex Pack 14-125mm
+
+{
+  "price": "€39.40 inc VAT (€32.03 exc.vat)",
+  "description": "Starrett A6-4 Kwik-Change Arbor Kit with High Speed Steel Drill. Offers fast, tool-free changes between different sizes and types of holesaws,. It also provides a simple method for core ejection and hole enlargement.",
+  "availability": "In Stock",
+  "product_name": "Starrett A6-4 HSS Drill Hex Pack 14-125mm",
+  "specifications": [
+    "Holesaw Diameters: 14-152mm",
+    "Chuck Size: 9.75mm (3/8in)",
+    "Hex Shank Size: 8.75mm (11/32in)",
+    "Screw Thread: 1/2in-20 UNF, 5/8in-18"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-holesaw-arbor.html|>
+## Milwaukee Power Tools Holesaw Arbor
+
+{
+  "price": "€11.69 inc VAT",
+  "description": "Milwaukee Holesaw Arbor with a durable, hardened steel construction. Shank Reception: 9.5mm.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools Holesaw Arbor",
+  "specifications": [
+    "Shank Reception: 9.5mm",
+    "Durable, hardened steel construction"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-drive-plate-and-pilot-drill.html|>
+## IRWIN® Drive Plate & Pilot Drill
+
+{
+  "price": "€28.33 inc VAT (€23.03 exc.vat)",
+  "description": "IRWIN® Drive Plate & Pilot Drill for attaching IRWIN® TCT masonry holesaws to an electric drill. Suitable for holesaws 33-83mm. Most masonry holesaws are supplied without an adaptor. You must purchase this separately in order to use your hole saw.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Drive Plate & Pilot Drill",
+  "specifications": [
+    "Suitable for holesaws 33-83mm",
+    "Adaptor required for most masonry holesaws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-pilot-countersink-bit.html|>
+## IRWIN® Pilot Countersink Bit
+
+{
+  "price": "€12.28 inc VAT",
+  "description": "IRWIN® Countersink Bit for drilling pilot holes and countersinking into wood. For use with drill/drivers.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Pilot Countersink Bit",
+  "specifications": [
+    "Select Option: 3 Piece Set: No 8,10,12, No 10, No 12, No 8",
+    "List Price: €15.38",
+    "You save: €3.10"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-pilot-drill.html|>
+## IRWIN Pilot Drill
+
+{
+  "price": "€5.92 inc VAT (€4.81 exc.vat)",
+  "description": "Irwin HSS pilot drill to suit Ultra and Irwin Mandrels SC1 & SC6. Size: 6mm (1/4in).",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN Pilot Drill",
+  "specifications": [
+    "IRW10504532 : €5.92",
+    "Size: 6mm (1/4in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-bi-metal-holesaw-kit-1200g.html|>
+## IRWIN Bi-Metal Holesaw Kit 1200G
+
+{
+  "price": "€209.57 inc VAT (€170.38 exc.vat)",
+  "description": "Irwin Bi-Metal Holesaw Kits are available in a unique attractive soft storage case that incorporates an unbreakable hinge and internal padding that protects its contents. The case has an integral handle and has a cardboard sleeve that contains important product information. The Bi-Metal holesaws cut through a variety of materials, including aluminium, copper, iron, stainless steel, wood and zinc. They have precision set teeth for faster penetration and the electron beam weld ensures stronger, longer lasting teeth. The Bi-Metal construction makes these holesaws tough and durable. This 17 piece set consists of the following: 12 x Holesaws: 16, 19, 22, 25, 29, 32, 35, 38, 44, 51, 64 and 76mm. 1 x 9.5mm Mandrel for holesaws 14 to 30mm. 1 x 13mm Mandrel for holesaws 32 to 210mm. 3 x Pilot Drills.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Bi-Metal Holesaw Kit 1200G",
+  "specifications": [
+    "17 piece set",
+    "Cuts through aluminium, copper, iron, stainless steel, wood, and zinc",
+    "Precision set teeth for faster penetration",
+    "Electron beam weld for stronger teeth",
+    "Includes 12 holesaws of various sizes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-bi-metal-holesaw-kit-1200-se.html|>
+## IRWIN Bi-Metal Holesaw Kit 1200 SE
+
+{
+  "price": "€209.57 inc VAT (€170.38 exc.vat)",
+  "description": "Irwin Bi-Metal Holesaw Kits are available in a unique attractive soft storage case that incorporates an unbreakable hinge and internal padding that protects its contents. The case has an integral handle and has a cardboard sleeve that contains important product information. The Bi-Metal holesaws cut through a variety of materials, including aluminium, copper, iron, stainless steel, wood and zinc. They have precision set teeth for faster penetration and the electron beam weld ensures stronger, longer lasting teeth. The Bi-Metal construction makes these holesaws tough and durable. This 17 piece set consists of the following: 12 x Holesaws: 16, 19, 22, 25, 29, 32, 35, 38, 44, 51, 65 and 76mm. 1 x 9.5mm Mandrel for holesaws 14 to 30mm. 1 x 13mm Mandrel for holesaws 32 to 210mm. 3 x Pilot Drills.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN Bi-Metal Holesaw Kit 1200 SE",
+  "specifications": [
+    "17 piece set",
+    "Cuts through aluminium, copper, iron, stainless steel, wood, and zinc",
+    "Includes 12 holesaws of various sizes",
+    "Comes with 2 mandrels and 3 pilot drills"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-bi-metal-high-speed-holesaws.html|>
+## IRWIN Bi-Metal High Speed Holesaws
+
+{
+  "price": "from €10.00 inc VAT",
+  "description": "The IRWIN bi-metal holesaws have been designed for the professional, and made to provide long lasting performance for use in general construction, electrical installation, plumbing, heating and ventilation, and remodelling applications. The sharp, variable tooth (4-6 pitch) design provides a faster cutting action and enhanced performance in a variety of materials and cutting applications. The bi-metal construction and the electron beam welded teeth give the user a stronger, longer lasting blade. The IRWIN holesaw range is available from sizes 14 mm (9/16 Inch) to 152 mm (6 Inch), with a line up of high quality arbors and a pilot drill to cover all application requirements. Cuts a variety of materials including: aluminium, copper, iron, stainless steel, wood and zinc.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Bi-Metal High Speed Holesaws",
+  "specifications": [
+    "Sizes available: 14 mm to 152 mm",
+    "Bi-metal construction for durability",
+    "Variable tooth design for faster cutting",
+    "Suitable for various materials including wood, metal, and more"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-mandrel.html|>
+## IRWIN Mandrel
+
+{
+  "price": "€14.94 inc VAT",
+  "description": "Irwin 9.5mm Shank Arbor/Mandrel with removable pilot drill for easy replacement. Available in multiple chuck sizes for toughness and long life and with a tough, durable construction.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Mandrel",
+  "specifications": [
+    "Select Option: 13 mm (14-30 mm), 13 mm (32-152 mm), 9.5 mm (32-152mm)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-extension-rod-for-holesaws-13---300mm.html|>
+## IRWIN Extension Rod For Holesaws 13 - 300mm
+
+{
+  "price": "€19.15 inc VAT (€15.57 exc.vat)",
+  "description": "Irwin extension rod for Bi-Metal holesaws 13mm - 300mm. Length: 300mm. Chuck size: 13mm.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Extension Rod For Holesaws 13 - 300mm",
+  "specifications": [
+    "Length: 300mm",
+    "Chuck size: 13mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-holesaws---bi-metal.html|>
+## Lenox Holesaws - Bi-Metal
+
+{
+  "price": "from €14.00 inc VAT",
+  "description": "Bi-Metal Holes Saws\n- TUFF TOOTH™ design is reinforced to cut stronger and last longer\n- Patented VARI-TOOTH® design resists tooth strippage\n- High speed steel teeth resist breaking and offer extended life\n-Thick backing plate with holes for drive pins resists damage due to high torque",
+  "availability": "In Stock",
+  "product_name": "Lenox Holesaws - Bi-Metal",
+  "specifications": [
+    "Select Option: 102mm, 105mm, 114mm, 117mm, 127mm, 133mm, 14mm, 177mm, 17mm, 210mm, 21mm, 22mm, 24mm, 25mm, 27mm, 29mm, 30mm, 37mm, 38mm, 40mm, 41mm, 43mm, 44mm, 46mm, 48mm, 51mm, 52mm, 54mm, 56mm, 57mm, 60mm, 62mm, 64mm, 65mm, 67mm, 68mm, 70mm, 73mm, 76mm, 79mm, 89mm, 92mm, 95mm, 98mm, Bi-Metal Holesaw 20mm LEN3009820MM"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-d-34855-bi-metal-holesaw-kit-5-piece.html|>
+## Makita D-34855 Bi-Metal Holesaw Kit, 5 Piece
+
+{
+  "price": "€23.10 inc VAT (€18.78 exc.vat)",
+  "description": "The Makita D-34855 Bi-Metal Holesaw Kit contains a selection of holesaws in the most popular sizes. These holesaws are designed to cut metal, mild steel, aluminium, PVC and wood. Suitable for drills with 10-13mm chuck diameters. All supplied in a handy carry case with the following: 4 x Holesaws: 20, 25, 32, 35mm, 1 x Arbor",
+  "availability": "In Stock",
+  "product_name": "Makita D-34855 Bi-Metal Holesaw Kit, 5 Piece",
+  "specifications": [
+    "4 x Holesaws: 20, 25, 32, 35mm",
+    "1 x Arbor",
+    "Suitable for drills with 10-13mm chuck diameters"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-ao14c-high-speed-steel-pilot-drill.html|>
+## Starrett AO14C High Speed Steel Pilot Drill
+
+{
+  "price": "€5.72 inc VAT (€4.65 exc.vat)",
+  "description": "Starrett 1/4in Pilot Drill to suit all Starrett Arbors.",
+  "availability": "In Stock",
+  "product_name": "Starrett AO14C High Speed Steel Pilot Drill",
+  "specifications": [
+    "High Speed Steel",
+    "1/4in Pilot Drill",
+    "Compatible with all Starrett Arbors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-kdc05021-deep-cut-bi-metal-electricians-holesaw-kit-7-piece.html|>
+## Starrett KDC05021 Deep Cut Bi Metal Electricians Holesaw Kit 7 Piece
+
+{
+  "price": "€110.42 inc VAT (€89.77 exc.vat)",
+  "description": "The Starrett KDC05021 Deep Cut Bi Metal Electricians Holesaw Kit is suitable for all tradesmen, installation engineers, industry generally and the DIY enthusiast, Starrett kits feature a range of saws with sizes selected specifically to suit the relevant application. Packed in a sturdy EVA carrying case, these kits will be an invaluable addition to any toolbox. Contains: 5 x Holesaws: 20, 25, 29, 44 & 51mm. 2 x Arbors: A1 and A10.",
+  "availability": "In Stock",
+  "product_name": "Starrett KDC05021 Deep Cut Bi Metal Electricians Holesaw Kit 7 Piece",
+  "specifications": [
+    "5 x Holesaws: 20, 25, 29, 44 & 51mm",
+    "2 x Arbors: A1 and A10"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-kdc10021-deep-cut-bi-metal-deluxe-electricians-holesaw-kit-12-piece.html|>
+## Starrett KDC10021 Deep Cut Bi Metal Deluxe Electricians Holesaw Kit 12 Piece
+
+{
+  "price": "€200.26 inc VAT (€162.81 exc.vat)",
+  "description": "The Starrett KDC10021 Deep Cut Bi Metal Deluxe Electricians Holesaw Kit is suitable for all tradesmen, installation engineers, industry generally and the DIY enthusiast, Starrett kits feature a range of saws with sizes selected specifically to suit the relevant application. Packed in a sturdy EVA carrying case, these kits will be an invaluable addition to any toolbox. Contains: 6 x Holesaws: 20, 22, 25, 29, 35, 44, 51, 64, 68 & 76mm. 2 x Arbors: A1 and A2.",
+  "availability": "In Stock",
+  "product_name": "Starrett KDC10021 Deep Cut Bi Metal Deluxe Electricians Holesaw Kit 12 Piece",
+  "specifications": [
+    "6 x Holesaws: 20, 22, 25, 29, 35, 44, 51, 64, 68 & 76mm",
+    "2 x Arbors: A1 and A2",
+    "Packed in a sturdy EVA carrying case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-kdc10022-deep-cut-bi-metal-deluxe-plumbers-holesaw-kit-12-piece.html|>
+## Starrett KDC10022 Deep Cut Bi Metal Deluxe Plumbers Holesaw Kit 12 Piece
+
+{
+  "price": "€201.78 inc VAT (€164.05 exc.vat)",
+  "description": "The Starrett KDC10022 Deep Cut Bi Metal Deluxe Plumbers Holesaw Kit is suitable for all tradesmen, installation engineers, industry generally and the DIY enthusiast, Starrett kits feature a range of saws with sizes selected specifically to suit the relevant application. Packed in a sturdy EVA carrying case, these kits will be an invaluable addition to any toolbox. Contains: 10 x Holesaws: 19, 22, 29, 35, 38, 44, 51, 57, 65 & 68mm. 2 x Arbors: A1 and A2.",
+  "availability": "In Stock",
+  "product_name": "Starrett KDC10022 Deep Cut Bi Metal Deluxe Plumbers Holesaw Kit 12 Piece",
+  "specifications": [
+    "10 x Holesaws: 19, 22, 29, 35, 38, 44, 51, 57, 65 & 68mm",
+    "2 x Arbors: A1 and A2",
+    "Packed in a sturdy EVA carrying case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-kdc13021-deep-cut-bi-metal-universal-holesaw-kit-15-piece.html|>
+## Starrett KDC13021 Deep Cut Bi Metal Universal Holesaw Kit 15 Piece
+
+{
+  "price": "€250.76 inc VAT (€203.87 exc.vat)",
+  "description": "The Starrett KDC13021 Deep Cut Bi Metal Universal Holesaw Kit is suitable for all tradesmen, installation engineers, industry generally and the DIY enthusiast, Starrett kits feature a range of saws with sizes selected specifically to suit the relevant application. Packed in a sturdy EVA carrying case, these kits will be an invaluable addition to any toolbox. Contains: 13 x Holesaws: 20, 22, 25, 29, 32, 35, 38, 44, 51, 57, 64, 68 & 76mm. 2 x Arbors: A1 and A2.",
+  "availability": "In Stock",
+  "product_name": "Starrett KDC13021 Deep Cut Bi Metal Universal Holesaw Kit 15 Piece",
+  "specifications": [
+    "13 x Holesaws: 20, 22, 25, 29, 32, 35, 38, 44, 51, 57, 64, 68 & 76mm",
+    "2 x Arbors: A1 and A2",
+    "Packed in a sturdy EVA carrying case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-kfc06023-bi-metal-fast-cut-general-purpose-holesaw-kit.html|>
+## Starrett KFC06023 Bi-Metal Fast Cut General Purpose Holesaw Kit
+
+{
+  "price": "€133.61 inc VAT (€108.63 exc.vat)",
+  "description": "The Starrett KFC06023 Bi-Metal Fast Cut General Purpose Holesaw Kit is suitable for all tradesmen, installation engineers, industry generally and the DIY enthusiast, Starrett kits feature a range of saws with sizes selected specifically to suit the relevant application. Packed in our new sturdy EVA carrying case, these kits will be an invaluable addition to any toolbox. Contains: 6 x Holesaws: 22, 29, 35, 44, 51 & 64mm. 2 x Arbors: A1 & A10.",
+  "availability": "In Stock",
+  "product_name": "Starrett KFC06023 Bi-Metal Fast Cut General Purpose Holesaw Kit",
+  "specifications": [
+    "6 x Holesaws: 22, 29, 35, 44, 51 & 64mm",
+    "2 x Arbors: A1 & A10"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-kfc14021-bi-metal-fast-cut-universal-holesaw-kit-1.html|>
+## Starrett KFC14021 Bi-Metal Fast Cut Universal Holesaw Kit 1
+
+{
+  "price": "€259.27 inc VAT (€210.79 exc.vat)",
+  "description": "The Starrett KFC14021 Bi-Metal Fast Cut Universal Holesaw Kit 1 is suitable for all tradesmen, installation engineers, industry generally and the DIY enthusiast, Starrett kits feature a range of saws with sizes selected specifically to suit the relevant application. Packed in our new sturdy EVA carrying case, these kits will be an invaluable addition to any toolbox. Contains: 14 x Holesaws: 16, 20, 22, 25, 29, 32, 35, 38, 44, 51, 57, 64, 68 & 76mm. 2 x Arbors: A1 & A2.",
+  "availability": "In Stock",
+  "product_name": "Starrett KFC14021 Bi-Metal Fast Cut Universal Holesaw Kit 1",
+  "specifications": [
+    "14 x Holesaws: 16, 20, 22, 25, 29, 32, 35, 38, 44, 51, 57, 64, 68 & 76mm",
+    "2 x Arbors: A1 & A2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-a1-arbor-to-suit-14mm-30mm-holesaws.html|>
+## Starrett A1 Arbor To Suit 14mm-30mm Holesaws
+
+{
+  "price": "€12.99 inc VAT",
+  "description": "Suitable for use with Holesaw sizes ranging from 14 mm - 30 mm dia. Fitted with a 6.5mm/1/4 in pilot drill, with set screw in the arbor body allowing easy replacement of the pilot drill. For use with FCW Holesaws. Shank size 8.75 mm",
+  "availability": "In Stock",
+  "product_name": "Starrett A1 Arbor To Suit 14mm-30mm Holesaws",
+  "specifications": [
+    "Holesaw sizes: 14 mm - 30 mm",
+    "Pilot drill size: 6.5mm/1/4 in",
+    "Shank size: 8.75 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-a10-arbor-to-suit-32mm-152mm-holesaws.html|>
+## Starrett A10 Arbor To Suit 32mm-152mm Holesaws
+
+{
+  "price": "€26.05 inc VAT",
+  "description": "A10 Arbor suitable for use with Holesaw sizes ranging from 32mm -210mm diameter. Fitted with a 6.5mm/1/4 in pilot drill, with a quick hitch mechanism that enables the user to instantly change holesaws without the use of tools and without removing the arbor from the chuck. Shank size 8.75mm hex shank suitable to fit 9.5mm capacity chuck. Suffix E denotes extra long pilot drill.",
+  "availability": "In Stock",
+  "product_name": "Starrett A10 Arbor To Suit 32mm-152mm Holesaws",
+  "specifications": [
+    "Suitable for Holesaw sizes: 32mm - 210mm diameter",
+    "Fitted with a 6.5mm/1/4 in pilot drill",
+    "Quick hitch mechanism for easy holesaw change",
+    "Shank size: 8.75mm hex shank",
+    "Suffix E denotes extra long pilot drill"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-a2-arbor-to-suit-32mm-210mm-holesaws.html|>
+## Starrett A2 Arbor To Suit 32mm-210mm Holesaws
+
+{
+  "price": "€26.05 inc VAT",
+  "description": "The Starrett A2 Arbor is suitable for use with holesaw sizes ranging from 32mm - 210mm diameter. Fitted with a 6.5mm/1/4 in pilot drill, with set screw in the arbor body allowing easy replacement of the pilot drill. For use with FCW Holesaws. Suffix E denotes extra long pilot drill. Shank Size: 7/16in Hex suitable to fit 1/2in capacity chuck.",
+  "availability": "In Stock",
+  "product_name": "Starrett A2 Arbor To Suit 32mm-210mm Holesaws",
+  "specifications": [
+    "Suitable for holesaw sizes from 32mm - 210mm",
+    "Fitted with a 6.5mm/1/4 in pilot drill",
+    "Set screw for easy replacement of pilot drill",
+    "Shank Size: 7/16in Hex suitable for 1/2in capacity chuck"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-smooth-cutting-holesaws-for-cordless-drills.html|>
+## Starrett Smooth Cutting Holesaws for Cordless Drills
+
+{
+  "price": "€25.92 inc VAT",
+  "description": "Starrett BI Metal Cordless Smooth Cutting Hole Saws (CSC Hole Saws) are constructed of hardened heat and abrasion resisting high speed steel teeth with a tough alloy body and cap, giving exceptional strength, durability and shatter resistance. Designed for use with battery operated power tools, our CSC Hole Saws will cut twice as many holes as the equivalent standard hole saw per battery charge.",
+  "availability": "In Stock",
+  "product_name": "Starrett Smooth Cutting Holesaws for Cordless Drills",
+  "specifications": [
+    "Constructed of hardened heat and abrasion resisting high speed steel teeth",
+    "Tough alloy body and cap for exceptional strength",
+    "Designed for use with battery operated power tools",
+    "Cuts twice as many holes per battery charge",
+    "Ideal for cutting stainless, tool and mild steel sheeting, plasterboard, wood, and thin plastics",
+    "Complete assembly with no need for a separate arbor and pilot drill",
+    "Constant pitch teeth for exceptionally smooth cuts",
+    "Safety stop at the base to prevent drilling beyond maximum cutting depth"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-deep-cut-bi-metal-holesaws.html|>
+## Starrett Deep Cut Bi Metal Holesaws
+
+{
+  "price": "from €10.27 inc VAT",
+  "description": "The Starrett Deep Cut Bi Metal Holesaws combine the tried and tested tooth form used on the previous Dual Pitch Holesaw, with a new tooth material for enhanced heat and wear resistance. The Deep Cut saw also features an increased hole saw depth of 51mm (2in), and is ideal for cutting metal of more than 3mm thickness, tubes with a wall thickness of greater than 3mm and wood up to 51mm (2in) thick.",
+  "availability": "In Stock",
+  "product_name": "Starrett Deep Cut Bi Metal Holesaws",
+  "specifications": [
+    "Cutting Depth: 51mm",
+    "Ideal for cutting metal of more than 3mm thickness",
+    "Suitable for tubes with a wall thickness of greater than 3mm",
+    "Can cut wood up to 51mm (2in) thick"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-fast-cut-bi-metal-holesaws.html|>
+## Starrett Fast Cut Bi-Metal Holesaws
+
+{
+  "price": "from €10.27 inc VAT",
+  "description": "The Starrett Fast Cut Bi-Metal Holesaws combine a new tooth material and a 5.5 TPI/25mm tooth form, with increased resistance to heat and wear. Providing a smoother, faster cut on a wide range of materials, when compared to the previous constant pitch saw. Specifically suited to cutting stainless and mild steel sheet, they will also cut through tubes with a wall thickness of up to 3mm (1/8in). Cutting Depth: 41mm.",
+  "availability": "In Stock",
+  "product_name": "Starrett Fast Cut Bi-Metal Holesaws",
+  "specifications": [
+    "Cutting Depth: 41mm",
+    "Material: Bi-Metal",
+    "Tooth Form: 5.5 TPI/25mm",
+    "Suitable for stainless and mild steel",
+    "Cuts through tubes with wall thickness up to 3mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-tct-fast-cut-multi-purpose-holesaws.html|>
+## Starrett TCT Fast Cut Multi Purpose Holesaws
+
+{
+  "price": "€11.92 inc VAT",
+  "description": "Starrett Tungsten Carbide Tipped Fast Cut Multi Purpose Holesaws are the perfect tool for users from construction and installation engineers to the diy enthusiast. Offering very fast cutting times, and outstanding life,these MPH saws will power through wood, MDF, plastics and ceramic wall tiles. Advantages: Carbide tipped teeth for outstanding cutting performance and product durability. Smooth cut, with minimal heat build up. Cutting depth 54 mm (2 1/8in), allowing use for cutting through strapping and joists. Suitable for use in mains and battery powered tools. Multiple uses - cutting wood, mdf, plastics, ceramic wall tiles and building bricks.",
+  "availability": "In Stock",
+  "product_name": "Starrett TCT Fast Cut Multi Purpose Holesaws",
+  "specifications": [
+    "Carbide tipped teeth for outstanding cutting performance",
+    "Smooth cut with minimal heat build up",
+    "Cutting depth of 54 mm (2 1/8in)",
+    "Suitable for mains and battery powered tools",
+    "Multiple uses including wood, MDF, plastics, ceramic wall tiles and building bricks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-int600p-plumbers-holesaw-kit-6-piece.html|>
+## LENOX INT600P Plumber's Holesaw Kit, 6 Piece
+
+{
+  "price": "€193.17 inc VAT (€157.05 exc.vat)",
+  "description": "The LENOX® INT600P Plumber's Holesaw Kit contains a selection of bi-metal SPEED SLOT® holesaws, selected for trade specific use. Supplied in a durable case that resists damage caused by drops and tough workplace environments. With metal latches and pin hinges that won’t break or tear. Contains the following: 6 x Holesaws: 19, 22, 29, 38, 44 & 68mm; 2 x Arbors: 2L & 5L; 1 x Arbor Adaptor.",
+  "availability": "In Stock",
+  "product_name": "LENOX INT600P Plumber's Holesaw Kit, 6 Piece",
+  "specifications": [
+    "6 x Holesaws: 19, 22, 29, 38, 44 & 68mm",
+    "2 x Arbors: 2L & 5L",
+    "1 x Arbor Adaptor"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-7-pce-holesaw-kit-for-wood-25mm-26-64.html|>
+## Krino 7 Pce Holesaw Kit For Wood 25Mm 26-64
+
+{
+  "price": "€9.40 inc VAT (€7.64 exc.vat)",
+  "description": "7 Pce Holesaw Kit For Wood 25Mm 26-64",
+  "availability": "In Stock",
+  "product_name": "Krino 7 Pce Holesaw Kit For Wood 25Mm 26-64",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
+    "Free delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-7-pce-holesaw-kit-for-wood-50mm-26-64.html|>
+## Krino 7 Pce Holesaw Kit For Wood 50Mm 26-64
+
+{
+  "price": "€11.27 inc VAT (€9.16 exc.vat)",
+  "description": "7 Pce Holesaw Kit For Wood 50Mm 26-64",
+  "availability": "In Stock",
+  "product_name": "Krino 7 Pce Holesaw Kit For Wood 50Mm 26-64",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
+    "Delivery Information: Fast & Reliable Shipping with DPD, FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-plumber-holesaw-kit-19-57mm.html|>
+## Krino Plumber Holesaw Kit 19-57Mm
+
+{
+  "price": "€101.55 inc VAT (€82.56 exc.vat)",
+  "description": "Plumber Holesaw Kit 19-57Mm",
+  "availability": "In Stock",
+  "product_name": "Krino Plumber Holesaw Kit 19-57Mm",
+  "specifications": [
+    "KRI21080204K : €101.55",
+    "List: €140.07",
+    "You save €38.52"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-cordless-smooth-cut-bi-metal-holesaw-kit-3-piece.html|>
+## Starrett Cordless Smooth Cut Bi-Metal Holesaw Kit, 3 Piece
+
+{
+  "price": "€79.62 inc VAT (€64.73 exc.vat)",
+  "description": "This Starrett Holesaw Kit is ideal for cutting stainless and mild steel sheeting, plasterboard, wood and thin plastics. The holesaws are constructed from heat-resistant, hardened steel with constant pitch teeth for exceptionally smooth cuts. Completely assembled ready for use. A safety stop collar at the base of the holesaw prevents travel beyond the holesaw depth. Supplied in a plastic carry case with the following sizes: 20, 25 and 32mm.",
+  "availability": "In Stock",
+  "product_name": "Starrett Cordless Smooth Cut Bi-Metal Holesaw Kit, 3 Piece",
+  "specifications": [
+    "Ideal for cutting stainless and mild steel sheeting, plasterboard, wood and thin plastics",
+    "Constructed from heat-resistant, hardened steel",
+    "Constant pitch teeth for exceptionally smooth cuts",
+    "Supplied in a plastic carry case with sizes: 20, 25 and 32mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-holesaw-set-7-piece.html|>
+## IRWIN® Holesaw Set, 7 Piece
+
+{
+  "price": "€28.33 inc VAT (€23.03 exc.vat)",
+  "description": "IRWIN® Holesaw Set for making holes with large diameters in wood and plasterboard. Includes aluminum adapter and centering drill which fits all common electric drills.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Holesaw Set, 7 Piece",
+  "specifications": [
+    "Sizes: 25, 32, 38, 45, 50, 56 and 62mm.",
+    "Max. Cutting Depth: Depth: 20mm."
+  ]
+}
+
+<|https://www.mydiy.ie/products/lenox-int700g-general-purpose-holesaw-set-7-piece.html|>
+## LENOX INT700G General Purpose Holesaw Set, 7 Piece
+
+{
+  "price": "€212.40 inc VAT (€172.68 exc.vat)",
+  "description": "The LENOX® INT700G General Purpose Holesaw Set contains a selection of bi-metal SPEED SLOT® holesaws. Supplied in a durable case which resists damage caused by drops and tough workplace environments. With metal latches and pin hinges which won’t break or tear. Contains the following: 7 x Holesaws: 22, 25, 32, 35, 38, 44 and 54mm. 2 x Arbors: 2L and 5L.",
+  "availability": "In Stock",
+  "product_name": "LENOX INT700G General Purpose Holesaw Set, 7 Piece",
+  "specifications": [
+    "7 x Holesaws: 22, 25, 32, 35, 38, 44 and 54mm",
+    "2 x Arbors: 2L and 5L"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-d-47307-universal-holesaw-set-16-piece.html|>
+## Makita D-47307 Universal Holesaw Set, 16 Piece
+
+{
+  "price": "€92.74 inc VAT (€75.40 exc.vat)",
+  "description": "The Makita D-47307 Universal Holesaw covers a wide range of applications, such as cutting steel, aluminium, copper, brass, wood and plastic. Supplied in a durable aluminium carry case, contains the following: 13 x Holesaws: 6, 19, 22, 25, 32, 35, 37, 44, 51, 57, 64, 68, 76mm; 2 x Arbors; 1 x Spring.",
+  "availability": "Out of Stock",
+  "product_name": "Makita D-47307 Universal Holesaw Set, 16 Piece",
+  "specifications": [
+    "13 x Holesaws: 6, 19, 22, 25, 32, 35, 37, 44, 51, 57, 64, 68, 76mm",
+    "2 x Arbors",
+    "1 x Spring"
+  ]
+}
+

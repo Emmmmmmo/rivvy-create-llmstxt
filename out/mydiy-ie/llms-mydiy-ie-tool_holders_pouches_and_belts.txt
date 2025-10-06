@@ -1,0 +1,799 @@
+<|https://www.mydiy.ie/products/faithfull-tool-roll---15-pocket.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/stanley-tools-tool-roll-12-pocket.html|>
+## Stanley Tools Tool Roll 12-Pocket
+
+{
+  "price": "€10.11 inc VAT (€8.22 exc.vat)",
+  "description": "Pocket roll made from 600 denier fabric with 12 pockets for convenience. Ties for convenient storage.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Tool Roll 12-Pocket",
+  "specifications": [
+    "12 Pocket Tool Roll 64 x 38.5cm",
+    "Model: STA193601"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-00-19-41-le-tool-roll.html|>
+## Knipex 00 19 41 LE Tool Roll
+
+{
+  "price": "€29.45 inc VAT (€23.94 exc.vat)",
+  "description": "The Knipex 00 19 41 LE Tool Roll is made of hard-wearing polyester fabric. Fitted with a practical, adjustable quick release fastener.",
+  "availability": "In Stock",
+  "product_name": "Knipex 00 19 41 LE Tool Roll",
+  "specifications": [
+    "Pockets: 13",
+    "Open Dimensions (L x H): 450 x 290mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-ltr-tool-roll.html|>
+## Hultafors LTR Tool Roll
+
+{
+  "price": "€36.95 inc VAT (€30.04 exc.vat)",
+  "description": "The Hultafors LTR Tool Roll stores and protect your favourite tools. It has 12 pockets which are riveted for extra durability. The layout makes it easy to get a good overview of your tools and to keep them organized. It can easily be rolled up and secured with a leather string, making it compact and easy to bring with you and to store away.",
+  "availability": "In Stock",
+  "product_name": "Hultafors LTR Tool Roll",
+  "specifications": [
+    "Pocket Size: 50 x 120mm",
+    "Open Size: 600 x 410mm",
+    "Rolled Size: 350mm x Ø 100mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-19427-oil-leather-construction-apron-12-pocket.html|>
+## Kuny's 19427 Oil Leather Construction Apron 12 Pocket
+
+{
+  "price": "€119.62 inc VAT (€97.25 exc.vat)",
+  "description": "This Kuny's Construction Apron is made from oiled top grain leather. It has 4 main reversed nail and tool pockets and 6 smaller pockets to fit pliers, nail sets, pencils, etc. In addition, it has a centre pocket which is ideal for tape, nails or other tools and a molded leather holder which fits a combination square, and a metal snap-in hammer loop. The apron has a 2 inch wide heavy-duty leather belt with a double tongue roller buckle. Fits waist sizes 29 - 46 inch.",
+  "availability": "Out of Stock",
+  "product_name": "Kuny's 19427 Oil Leather Construction Apron 12 Pocket",
+  "specifications": [
+    "Made from oiled top grain leather",
+    "4 main reversed nail and tool pockets",
+    "6 smaller pockets for pliers, nail sets, pencils, etc.",
+    "Centre pocket for tape, nails or other tools",
+    "Molded leather holder for combination square",
+    "Metal snap-in hammer loop",
+    "2 inch wide heavy-duty leather belt",
+    "Fits waist sizes 29 - 46 inch"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-ap-1300-carpenters-apron-5-pocket-suede-leather.html|>
+## Kuny's AP-1300 Carpenter's Apron 5 Pocket Suede Leather
+
+{
+  "price": "€38.29 inc VAT (€31.13 exc.vat)",
+  "description": "Kunys Carpenters Apron made from heavy-duty suede leather with a 50mm/2in wide heavy-duty nylon web belt with metal twist-lock buckle, metal hammer loops and reinforced at all stress points. With 3 reversed nail pockets for easy access, (2 large and 1 small) and a centre pocket for tape or tools and 2 small pockets for easy access tools. Fit waist sizes: 29in to 40in.",
+  "availability": "Out of Stock",
+  "product_name": "Kuny's AP-1300 Carpenter's Apron 5 Pocket Suede Leather",
+  "specifications": [
+    "Made from heavy-duty suede leather",
+    "50mm/2in wide heavy-duty nylon web belt",
+    "Metal twist-lock buckle",
+    "Metal hammer loops",
+    "Reinforced at all stress points",
+    "3 reversed nail pockets (2 large, 1 small)",
+    "Centre pocket for tape or tools",
+    "2 small pockets for easy access tools",
+    "Fits waist sizes: 29in to 40in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-ap-1429-sierra-12-pocket-apron.html|>
+## Kuny's AP-1429 Sierra 12 Pocket Apron
+
+{
+  "price": "€49.54 inc VAT (€40.28 exc.vat)",
+  "description": "The Kuny's 12 pocket Apron made of 600D polyester fabric and 1680D ballistic nylon binding. It has four main nail and tool pockets and seven smaller pockets for pliers, pencils, nail sets, etc. The 2 in wide web belt with steel buckle fits waists sizes 36 - 46in.",
+  "availability": "In Stock",
+  "product_name": "Kuny's AP-1429 Sierra 12 Pocket Apron",
+  "specifications": [
+    "Material: 600D polyester fabric and 1680D ballistic nylon binding",
+    "Four main nail and tool pockets",
+    "Seven smaller pockets for pliers, pencils, nail sets, etc.",
+    "2 in wide web belt with steel buckle fits waists sizes 36 - 46in."
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-ap-527x-heavy-duty-leather-work-apron-12-pocket.html|>
+## Kuny's AP-527X Heavy-Duty Leather Work Apron 12 Pocket
+
+{
+  "price": "€65.58 inc VAT (€53.32 exc.vat)",
+  "description": "The Kuny's AP-527X Heavy-Duty Leather Work Apron is made from heavy-duty suede leather. It has 12 pockets, including: four main nail and tool pockets, six smaller pockets (for pliers, nail sets, pencils etc), a centre pocket for tape measure, nails or other tools and a leather combination square holder. In addition, the apron features a hammer hook. Has double gussets which help to keep front pockets wide open for easy access. Its 2 inch wide polyweb belt has a roller buckle and fits waist sizes 29-49 inches.",
+  "availability": "In Stock",
+  "product_name": "Kuny's AP-527X Heavy-Duty Leather Work Apron 12 Pocket",
+  "specifications": [
+    "12 pockets including four main nail and tool pockets",
+    "Hammer hook",
+    "Double gussets for easy access",
+    "2 inch wide polyweb belt with roller buckle",
+    "Fits waist sizes 29-49 inches"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-ap-622a-carpenters-apron-14-pocket-split-grain-leather.html|>
+## Kuny's AP-622a Carpenter's Apron 14 Pocket Split Grain Leather
+
+{
+  "price": "€79.42 inc VAT (€64.57 exc.vat)",
+  "description": "Kunys AP-622a Carpenter's apron is made from durable split grain leather with contrasting black stitching, rivets and hammer holders. Its has carry handles allow easy handling/storage with a 2 inch wide heavy nylon belt with twist-loc buckle and double rivets at all stress points. - 5 Reversed nail pockets for easy access. - 2 Large and 3 Small. - Deep centre pocket for tape etc. - 2 Heavy Steel Hammer Holders. - 6 Utility pockets for pencils, markers etc.",
+  "availability": "Out of Stock",
+  "product_name": "Kuny's AP-622a Carpenter's Apron 14 Pocket Split Grain Leather",
+  "specifications": [
+    "Durable split grain leather",
+    "Contrasting black stitching",
+    "Rivets and hammer holders",
+    "Carry handles for easy handling/storage",
+    "2 inch wide heavy nylon belt with twist-loc buckle",
+    "Double rivets at all stress points",
+    "5 Reversed nail pockets",
+    "2 Large and 3 Small pockets",
+    "Deep centre pocket for tape",
+    "2 Heavy Steel Hammer Holders",
+    "6 Utility pockets for pencils, markers etc."
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-ap-661-split-grain-water-repellent-apron.html|>
+## Kuny's AP-661 Split Grain Water Repellent Apron
+
+{
+  "price": "€124.25 inc VAT (€101.02 exc.vat)",
+  "description": "The Kuny's AP661 Split Grain Water Repellent Apron is made from heavy water repellent split grain leather. Five reversed nail pockets for easy access (two large and three small). Deep centre pockets for tapes or other tools. Two heavy steel hammer holders with six smaller pockets for pencils, utility knife, markers etc. Heavy-duty belt with roller buckle and double riveted at all stress points.",
+  "availability": "In Stock",
+  "product_name": "Kuny's AP-661 Split Grain Water Repellent Apron",
+  "specifications": [
+    "Made from heavy water repellent split grain leather",
+    "Five reversed nail pockets (two large and three small)",
+    "Deep centre pockets for tapes or other tools",
+    "Two heavy steel hammer holders",
+    "Six smaller pockets for pencils, utility knife, markers etc.",
+    "Heavy-duty belt with roller buckle",
+    "Double riveted at all stress points"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-tool-apron.html|>
+## Stanley Tools Tool Apron
+
+{
+  "price": "€32.37 inc VAT (€26.32 exc.vat)",
+  "description": "The Stanley Tool Apron is made from hardwearing, strong and durable 600 x 600 denier fabric. It has multiple pockets and loops to provide maximum organisation. The size and structure of these pockets allows easy access. The tool belt comes complete with a tape pocket and an integrated hammer loop to keep these tools at convenient reach. In addition, it has ergonomic back padding for safety and comfort. Dimensions: 60 x 25.5 x 7.5cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Tool Apron",
+  "specifications": [
+    "Made from 600 x 600 denier fabric",
+    "Multiple pockets and loops for organization",
+    "Includes tape pocket and hammer loop",
+    "Ergonomic back padding for comfort",
+    "Dimensions: 60 x 25.5 x 7.5cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-carpenters-apron-full-grain-leather.html|>
+## Kuny's Carpenters Apron Full Grain Leather
+
+{
+  "price": "€141.27 inc VAT",
+  "description": "Kuny's Journeyman Carpenter's Apron made of full grain leather, with reinforced stress points. Heavy leather belt with roller buckle. Available with 9 or 13 pockets.",
+  "availability": "In Stock",
+  "product_name": "Kuny's Carpenters Apron Full Grain Leather",
+  "specifications": [
+    "Material: Full Grain Leather",
+    "Pockets: Available in 9 or 13 pockets",
+    "Belt: Heavy leather with roller buckle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-stst1-80117-hammer-holder.html|>
+## Stanley Tools STST1-80117 Hammer Holder
+
+{
+  "price": "€10.65 inc VAT (€8.66 exc.vat)",
+  "description": "The Stanley Tools Hammer Holder has a metal hammer loop that is comfortable to reach. Made from professional, high grade leather (suede) with rivet reinforced stress points and a wide belt slot.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools STST1-80117 Hammer Holder",
+  "specifications": [
+    "Metal hammer loop for easy access",
+    "Made from high grade leather (suede)",
+    "Rivet reinforced stress points",
+    "Wide belt slot"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-stst1-80118-leather-drillholster.html|>
+## Stanley Tools STST1-80118 Leather Drill Holster
+
+{
+  "price": "€22.87 inc VAT (€18.59 exc.vat)",
+  "description": "The Stanley Tools STST1-80118 Leather Drill Holster is suitable for left and right users. With specially designed pockets for bit and drill organisation. Made from professional, high grade leather (suede) with a leather strap that holds the drill securely in place. Fits on any generic belt.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools STST1-80118 Leather Drill Holster",
+  "specifications": [
+    "Suitable for left and right users",
+    "Specially designed pockets for bit and drill organisation",
+    "Made from professional, high grade leather (suede)",
+    "Leather strap holds the drill securely in place",
+    "Fits on any generic belt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-casedar200-carry-case-dar200.html|>
+## Trend Case/Dar/200 Carry Case Dar/200
+
+{
+  "price": "€14.71 inc VAT (€11.96 exc.vat)",
+  "description": "Case/Dar/200 Carry Case Dar/200",
+  "availability": "Out of Stock",
+  "product_name": "Trend Case/Dar/200 Carry Case Dar/200",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05284-ultimate-chisel-and-tool-holder.html|>
+## Makita E-05284 Ultimate Chisel & Tool Holder
+
+{
+  "price": "€18.91 inc VAT (€15.37 exc.vat)",
+  "description": "The Makita E-05284 Ultimate Chisel & Tool Holder keeps your chisels safe and secure. Constructed to be durable but lightweight. Its innovative interior is made from strong elastic polypropylene. Riveted for strength and durability. It has 3 pockets and stores tools vertically for easy identification and access.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05284 Ultimate Chisel & Tool Holder",
+  "specifications": [
+    "Durable and lightweight construction",
+    "Made from strong elastic polypropylene",
+    "Riveted for strength and durability",
+    "3 pockets for tool storage",
+    "Stores tools vertically for easy identification and access"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05228-ultimate-3-way-hammer-and-tool-holder.html|>
+## Makita E-05228 Ultimate 3-Way Hammer & Tool Holder
+
+{
+  "price": "€25.68 inc VAT (€20.88 exc.vat)",
+  "description": "Makita E-05228 Ultimate 3-Way Hammer & Tool Holder can be worn in 3-ways including attached to a belt. The holder swings to ensure that tools are always held in a vertical position and the intensity of the swing can be adjusted. Stainless steel hammer holder. Two real leather holders are ideal for the essentials whilst elastic loops on the front provide convenient and easy storage. Can be worn on any Makita tool belt or normal clothing belt.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05228 Ultimate 3-Way Hammer & Tool Holder",
+  "specifications": [
+    "Length: 185mm",
+    "Width: 85mm",
+    "Height: 205mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05234-side-gate-hammer-and-tool-holder.html|>
+## Makita E-05234 Side Gate Hammer & Tool Holder
+
+{
+  "price": "€16.95 inc VAT (€13.78 exc.vat)",
+  "description": "The Makita E-05234 Side Gate Hammer & Tool Holder is made from durable materials with three layers of polyester and foam (3-Layer Technology). Designed to be tough and weatherproof whilst providing enough cushioning for all-day work. Fitted with a stainless steel holder. The hammer is easily accessible but remains secure in the side gate. A swinging feature ensures that the hammer is kept at a comfortable angle. Can be worn on any Makita tool belt or normal clothing belt.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05234 Side Gate Hammer & Tool Holder",
+  "specifications": [
+    "Length: 110mm",
+    "Width: 70mm",
+    "Height: 165mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05103-pencil-driver-holster.html|>
+## Makita E-05103 Pencil Driver Holster
+
+{
+  "price": "€33.80 inc VAT (€27.48 exc.vat)",
+  "description": "The Makita E-05103 Pencil Driver Holster has a universal design, ideal for left or right-handed users. Anti-slip webbing with a rubbery top layer prevents the tool from falling out. The reverse side is made of polypropylene sheet. Fitted with a hook & loop strap for added security.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05103 Pencil Driver Holster",
+  "specifications": [
+    "Universal design for left or right-handed users",
+    "Anti-slip webbing with rubbery top layer",
+    "Polypropylene sheet on reverse side",
+    "Fitted with hook & loop strap for security"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05527-bucket-tote-tool-organiser.html|>
+## Makita E-05527 Bucket Tote Tool Organiser
+
+{
+  "price": "€30.32 inc VAT (€24.65 exc.vat)",
+  "description": "The Makita E-05527 Bucket Tote Tool Organiser has 10 internal pockets and 3 elasticated front pockets for great flexibility. With a universal size, meaning it will fit most sizes of bucket. Fully adjustable with quick-release buckles.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05527 Bucket Tote Tool Organiser",
+  "specifications": [
+    "Length: 470mm",
+    "Height: 320mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05636-work-vest.html|>
+## Makita E-05636 Work Vest
+
+{
+  "price": "€154.09 inc VAT (€125.28 exc.vat)",
+  "description": "The Makita E-05636 Work Vest is a smart alternative solution to the traditional tool bag. It frees up the hands for increased safety on ladders, roofs and scaffolding. Contains multiple pockets and sleeves for complete organisation. Elastic loops keep tools straight, safe and secure. Universal size, easily adjusted to fit. It has a lightweight construction for increased user comfort. Can be worn over a t-shirt, sweatshirt or jacket. Reflective stripes provide increased visibility in low or dark lighting. Breathable 3D mesh on the back of the vest increases comfort.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05636 Work Vest",
+  "specifications": [
+    "Universal size, easily adjusted to fit",
+    "Lightweight construction for increased user comfort",
+    "Reflective stripes for visibility in low light",
+    "Breathable 3D mesh on the back for comfort",
+    "Multiple pockets and sleeves for organization"
+  ]
+}
+
+<|https://www.mydiy.ie/products/komelon-quick-draw-universal-tape-holster.html|>
+## Komelon Quick-Draw Universal Tape Holster
+
+{
+  "price": "€8.08 inc VAT (€6.57 exc.vat)",
+  "description": "The Komelon Quick-Draw Universal Tape Holster is the perfect accessory for any tape measure that features a normal belt clip. Simply replace the belt clip on your current tape measure with one of the two fittings supplied. Attach the belt clip to your belt and you have the perfect quick-release holster. Safe, secure and no more struggling to release your tape measure from your belt.",
+  "availability": "In Stock",
+  "product_name": "Komelon Quick-Draw Universal Tape Holster",
+  "specifications": [
+    "Model: KOMQDHOLSTER",
+    "List Price: €11.13",
+    "You save: €3.05"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-sg-5021-impact-driver-holster.html|>
+## Kuny's SG-5021 Impact Driver Holster
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "The Kunys SG-5021 Impact Driver Holster made from Polyester fabric and designed to suit 10.8V to 18V Impact Guns. It has adjustable straps and quick release buckle and a hook and loop backing to keep the security strap out of the way when in use.",
+  "availability": "In Stock",
+  "product_name": "Kuny's SG-5021 Impact Driver Holster",
+  "specifications": [
+    "Made from Polyester fabric",
+    "Designed for 10.8V to 18V Impact Guns",
+    "Adjustable straps",
+    "Quick release buckle",
+    "Hook and loop backing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-sg-5023-cordless-drill-holster.html|>
+## Kuny's SG-5023 Cordless Drill Holster
+
+{
+  "price": "€28.23 inc VAT (€22.95 exc.vat)",
+  "description": "Cordless Drill Holster\n\nDouble layer of rugged lightweight fabric\n\nHolds most brands of T-handle cordless drills.\n\nMultiple outer pockets and sleeves for complete drill bit organisation\n\nSafety strap with quick-release buckle\n\nPLEASE NOTE DRILL / TOOLS NOT INCLUDED",
+  "availability": "In Stock",
+  "product_name": "Kuny's SG-5023 Cordless Drill Holster",
+  "specifications": [
+    "Double layer of rugged lightweight fabric",
+    "Holds most brands of T-handle cordless drills",
+    "Multiple outer pockets and sleeves for complete drill bit organisation",
+    "Safety strap with quick-release buckle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-sw-1105-5-pocket-phone-and-tool-holder.html|>
+## Kuny's SW-1105 5 Pocket Phone & Tool Holder
+
+{
+  "price": "€19.34 inc VAT (€15.72 exc.vat)",
+  "description": "5 Pocket Mobile Phone/Tool Holder. Made from polyester fabric and ballistic nylon. The mobile phone, tool and accessory holder you can HANG or STRAP or CLIP on work belts, web braces, trousers etc. Securely holds small tools and accessories like pliers, mini-flashlights etc. Versatile 3-way attachment feature.",
+  "availability": "In Stock",
+  "product_name": "Kuny's SW-1105 5 Pocket Phone & Tool Holder",
+  "specifications": [
+    "5 Pocket Mobile Phone/Tool Holder",
+    "Made from polyester fabric and ballistic nylon",
+    "Versatile 3-way attachment feature"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-sw-1504-carry-all-tool-pouch-9-pocket.html|>
+## Kuny's SW-1504 Carry All Tool Pouch 9 Pocket
+
+{
+  "price": "€30.96 inc VAT (€25.17 exc.vat)",
+  "description": "The Kuny's SW-1504 Carry All Tool Pouch is made from tough polyester fabric. It has 9 pockets in total - 7 internal pockets inside the zipped compartment and 2 external pockets. In addition, the tool pouch has 5 web loops for extra carrying capacity. Its carabiner is ideal for carrying keys, small tools etc.",
+  "availability": "Out of Stock",
+  "product_name": "Kuny's SW-1504 Carry All Tool Pouch 9 Pocket",
+  "specifications": [
+    "9 pockets in total",
+    "7 internal pockets",
+    "2 external pockets",
+    "5 web loops for extra carrying capacity",
+    "Made from tough polyester fabric"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-belt-loop.html|>
+## Makita Belt Loop
+
+{
+  "price": "€7.85 inc VAT",
+  "description": "The Makita Belt Loop lets you customise your work belt whilst keeping your pockets free. It can be worn on any tool belt or normal clothing belt. Made from strong polyester tape with a stainless steel D-ring. Ideal for use with tape measures, clip-on bags and anything with a carabiner.",
+  "availability": "In Stock",
+  "product_name": "Makita Belt Loop",
+  "specifications": [
+    "Select Option: Pack of 3, Pack of 6",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05119-impact-driver-holster.html|>
+## Makita E-05119 Impact Driver Holster
+
+{
+  "price": "€22.64 inc VAT (€18.41 exc.vat)",
+  "description": "The Makita E-05119 Impact Driver Holster has a universal design, making it suitable for left and right-handed users. Made from premium materials with three layers of polyester and foam (3-Layer Technology). Designed to be tough and weatherproof whilst providing enough cushioning for all-day work. It also features nickel rivets and washers for long life and durability. Anti-slip webbing and a rubbery top layer prevent the tool from falling out. It also features side loops that can hold a variety of tools and accessories. Can be worn on any Makita tool belt or normal clothing belt.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05119 Impact Driver Holster",
+  "specifications": [
+    "Length: 155mm",
+    "Width: 75mm",
+    "Height: 235mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05147-ultimate-3-pocket-fixings-pouch.html|>
+## Makita E-05147 Ultimate 3-Pocket Fixings Pouch
+
+{
+  "price": "€62.42 inc VAT (€50.75 exc.vat)",
+  "description": "The Makita E-05147 Ultimate 3-Pocket Fixings Pouch is made from premium materials with three layers of polyester and foam (3-Layer Technology). With strong industrial stitching for extra durability and protection. It has 3 large pockets that can hold a variety of tools and fixings. Elastic holders inside the pouch keep tools secure. There is also a stainless steel tape holder and a metal D-ring to hang tools and accessories. Can be worn on any Makita tool belt or normal clothing belt.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05147 Ultimate 3-Pocket Fixings Pouch",
+  "specifications": [
+    "Length: 320mm",
+    "Width: 145mm",
+    "Height: 270mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05153-roofergeneral-purpose-pouch.html|>
+## Makita E-05153 Roofer/General Purpose Pouch
+
+{
+  "price": "€69.56 inc VAT (€56.55 exc.vat)",
+  "description": "The Makita E-05153 Roofer/General Purpose Pouch is made from premium materials with three layers of polyester and foam (3-Layer Technology). Designed to be tough and weatherproof whilst providing enough cushioning for all-day work. It consists of a large pouch that holds a variety of hand tools securely and a front pocket that holds plenty of fixings. Other features include 3 x elastic tool holders, 3 x leather tool holders, 2 x metal D-rings and a stainless steel side-gate hammer holder to keep a hammer in a vertical position. Can be worn on any Makita tool belt or normal clothing belt.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05153 Roofer/General Purpose Pouch",
+  "specifications": [
+    "Length: 290mm",
+    "Width: 145mm",
+    "Height: 270mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05169-3-pouch-tool-belt-set.html|>
+## Makita E-05169 3-Pouch Tool Belt Set
+
+{
+  "price": "€121.28 inc VAT (€98.60 exc.vat)",
+  "description": "The Makita E-05169 3-Pouch Tool Belt Set is made from premium materials with three layers of polyester and foam (3-Layer Technology). This also helps pouches to retain their shape. It has 3 x pouches, 5 x pockets, 6 x leather holders and 10 x elastic loops for easy access to tools and additional screwdrivers outside the pockets. Keeps all your fixings and tools accessible. Supplied with 2 x removable Makita Belt Loops that can hang anything with a carabiner.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05169 3-Pouch Tool Belt Set",
+  "specifications": [
+    "3 x pouches",
+    "5 x pockets",
+    "6 x leather holders",
+    "10 x elastic loops",
+    "Made from premium materials with 3-Layer Technology"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05181-ultimate-electricians-pouch.html|>
+## Makita E-05181 Ultimate Electrician's Pouch
+
+{
+  "price": "€49.85 inc VAT (€40.53 exc.vat)",
+  "description": "The Makita E-05181 Ultimate Electrician's Pouch is made from premium materials with three layers of polyester and foam (3-Layer Technology). With strong industrial stitching for extra durability and protection. It has a large front pocket for tool storage, a tool wrap holder with a range of different-sized elastic bit loops, and a leather strap with a metal eyelet for additional clip-in accessories. Can be worn on any Makita tool belt or normal clothing belt.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05181 Ultimate Electrician's Pouch",
+  "specifications": [
+    "Length: 250mm",
+    "Width: 125mm",
+    "Height: 310mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05212-ultimate-4-way-electricians-holder.html|>
+## Makita E-05212 Ultimate 4-Way Electrician's Holder
+
+{
+  "price": "€25.68 inc VAT (€20.88 exc.vat)",
+  "description": "The Makita E-05212 Ultimate 4-Way Electrician's Holder has been specially designed to give electricians the compartments they need. It can be worn in 4-ways: traditionally, with the holder attached to a belt, or it can also be attached to the back trouser pocket, front trouser pocket or chest pocket. Holder swings ensure that tools are always held in a vertical position. Can be worn on any Makita tool belt or normal clothing belt.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05212 Ultimate 4-Way Electrician's Holder",
+  "specifications": [
+    "Length: 185mm",
+    "Width: 55mm",
+    "Height: 205mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-knife-holster-0-10-028.html|>
+## Stanley Tools FatMax® knife holster 0-10-028
+
+{
+  "price": "€12.12 inc VAT (€9.85 exc.vat)",
+  "description": "FatMax® knife holster 0-10-028",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools FatMax® knife holster 0-10-028",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
+    "No quibble returns: If you need to return something for any reason, whether it's not the right tool for the job or if it's faulty."
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-belt-pouch.html|>
+## Wiha Belt Pouch
+
+{
+  "price": "€51.29 inc VAT (€41.70 exc.vat)",
+  "description": "The Wiha Belt Pouch for e-screwdriver speedE® and 4 slimBits, has an eyelet at the bottom of the pouch allows for storage of the e-screwdriver with an inserted bit. The high quality clip is easy to use, simply hook onto work trousers or a belt.",
+  "availability": "In Stock",
+  "product_name": "Wiha Belt Pouch",
+  "specifications": [
+    "Model: WHA44367",
+    "Price: €51.29",
+    "List Price: €64.32",
+    "You save: €13.03",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05290-quick-release-beltshoulder-strap.html|>
+## Makita E-05290 Quick-Release Belt/Shoulder Strap
+
+{
+  "price": "€13.73 inc VAT (€11.16 exc.vat)",
+  "description": "The Makita E-05290 Quick-Release Belt/Shoulder Strap can be worn on the waist as a light-duty tool belt or used on a tool bag as a shoulder strap. It has quick-release buckles for easy clip-on and clip-off. Compatible with all tool pouches, holders, tool bags and cases.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05290 Quick-Release Belt/Shoulder Strap",
+  "specifications": [
+    "Length: 1300mm",
+    "Height: 38mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-stst1-80113-leather-tool-apron.html|>
+## Stanley Tools STST1-80113 Leather Tool Apron
+
+{
+  "price": "€60.98 inc VAT (€49.58 exc.vat)",
+  "description": "The Stanley Tools Leather Tool Apron has multiple pockets and holders for quick access on the job. The middle pocket is ideal for holding pocket tapes and there is also a steel hammer loop. Made from durable leather with rivet reinforced stress points. The apron has a sturdy, adjustable belt and a durable metal buckle. With an easy to use roller buckle. The belt is perforated to suit all waist sizes from 83-133cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools STST1-80113 Leather Tool Apron",
+  "specifications": [
+    "Multiple pockets and holders for quick access",
+    "Middle pocket for holding pocket tapes",
+    "Steel hammer loop",
+    "Made from durable leather",
+    "Rivet reinforced stress points",
+    "Sturdy adjustable belt with durable metal buckle",
+    "Belt perforated to suit waist sizes from 83-133cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-stst1-80114-leather-nail-and-hammer-pouch.html|>
+## Stanley Tools STST1-80114 Leather Nail & Hammer Pouch
+
+{
+  "price": "€33.53 inc VAT (€27.26 exc.vat)",
+  "description": "The Stanley Tools Leather Nail & Hammer Pouch has multiple, easy access pockets and holders for quick access on the job. Fitted with a metal hammer loop that is a comfortable reach. Made from professional, high grade leather (suede) with rivet reinforced stress points and a wide belt slot.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools STST1-80114 Leather Nail & Hammer Pouch",
+  "specifications": [
+    "Multiple easy access pockets",
+    "Fitted with a metal hammer loop",
+    "Made from professional high grade leather (suede)",
+    "Rivet reinforced stress points",
+    "Wide belt slot"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-stst1-80116-leather-double-nail-pocket-pouch.html|>
+## Stanley Tools STST1-80116 Leather Double Nail Pocket Pouch
+
+{
+  "price": "€33.53 inc VAT (€27.26 exc.vat)",
+  "description": "The Stanley Tools Leather Double Nail Pocket Pouch is perfect for nails and small tools. With easy access pockets, the size and structure of pockets enable easy access. There is also a metal, quick access tape holder. Made from professional, high grade leather (suede) with rivet reinforced stress points and a wide belt slot.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools STST1-80116 Leather Double Nail Pocket Pouch",
+  "specifications": [
+    "Made from professional, high grade leather (suede)",
+    "Rivet reinforced stress points",
+    "Wide belt slot",
+    "Easy access pockets",
+    "Metal quick access tape holder"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05583-ultimate-smartphone-holder.html|>
+## Makita E-05583 Ultimate Smartphone Holder
+
+{
+  "price": "€20.69 inc VAT (€16.82 exc.vat)",
+  "description": "The Makita E-05583 Ultimate Smartphone Holder has a universal design and fits most smartphones. There is also a handy front pocket for business cards, credit cards etc., a carabiner for keys, plus an elastic sleeve for a pen or pencil. Multiple lining layers of foam and air mesh provide protection from dirt and dust whilst on a building site.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05583 Ultimate Smartphone Holder",
+  "specifications": [
+    "Universal design fits most smartphones",
+    "Front pocket for business cards and credit cards",
+    "Carabiner for keys",
+    "Elastic sleeve for pen or pencil",
+    "Multiple lining layers of foam and air mesh for protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-electricians-tool-pouch.html|>
+## Hultafors Electrician’s Tool Pouch
+
+{
+  "price": "€76.88 inc VAT (€62.50 exc.vat)",
+  "description": "The Hultafors Electrician’s Tool Pouch offers flexibility on the job featuring both an adjustable, padded shoulder strap and loops which attach directly to your belt. It has 21 pockets and tool holders, including a handy tape strap, robust clip for measuring tape and hammer holder. There is also a zippered main compartment with fold-away lid. Made from extremely durable ballistic polyester, 1680 Denier.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Electrician’s Tool Pouch",
+  "specifications": [
+    "Adjustable, padded shoulder strap",
+    "21 pockets and tool holders",
+    "Zippered main compartment with fold-away lid",
+    "Made from durable ballistic polyester, 1680 Denier"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05599-thermal-flask-and-holder.html|>
+## Makita E-05599 Thermal Flask & Holder
+
+{
+  "price": "€73.65 inc VAT (€59.88 exc.vat)",
+  "description": "The Makita E-05599 Thermal Flask is made from lightweight yet durable stainless steel. Its lid can be used as a small cup. Supplied with a holder that can be adjusted to fit other flasks and bottles. Features the innovative Loop-Clip System on the back of the holder. There is an elastic loop for pen, pencil or screwdriver and an accessory carabiner for quick clip storage. Perfect for the building site, forest, garden, sporting events and more.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05599 Thermal Flask & Holder",
+  "specifications": [
+    "Flask Capacity: 300ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-hammer-and-tool-holder.html|>
+## Hultafors Hammer and Tool Holder
+
+{
+  "price": "€20.82 inc VAT (€16.93 exc.vat)",
+  "description": "The Hultafors Hammer and Tool Holder is made from extremely durable ballistic polyester, 1680 Denier, with heavy-duty rivets. It features a multipurpose tool pocket and hammer holder. Fits belts up to 50mm wide. Tested to withstand the most extreme conditions, including temperatures of up to -20⁰C.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Hammer and Tool Holder",
+  "specifications": [
+    "Durable ballistic polyester, 1680 Denier",
+    "Heavy-duty rivets",
+    "Multipurpose tool pocket",
+    "Hammer holder",
+    "Fits belts up to 50mm wide",
+    "Withstands temperatures up to -20⁰C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-leather-axe-holster.html|>
+## Hultafors Leather Axe Holster
+
+{
+  "price": "€17.52 inc VAT (€14.24 exc.vat)",
+  "description": "The Hultafors Leather Axe Holster. Made in Sweden with hides from Swedish cows, it is manufactured with the greatest care for the animals and the environment. The leather is vegetable tanned full grain leather for the best possible durability and the natural treatment means it will age beautifully when worn. Suitable for belt widths up to 50mm (2 inch). Fits Hultafors Premium axes: Ågelsjön, Hultån, Åby, Dvardala (with strikeguard) and Ekelund (without strike guard).",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors Leather Axe Holster",
+  "specifications": [
+    "Made in Sweden",
+    "Vegetable tanned full grain leather",
+    "Fits belt widths up to 50mm (2 inch)",
+    "Compatible with Hultafors Premium axes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-leather-axe-sling.html|>
+## Hultafors Leather Axe Sling
+
+{
+  "price": "€40.25 inc VAT (€32.72 exc.vat)",
+  "description": "The Hultafors Leather Axe Sling. Made in Sweden with hides from Swedish cows, it is manufactured with the greatest care for the animals and the environment. The leather is vegetable tanned full grain leather for the best possible durability and the natural treatment means it will age beautifully when worn. It's length adjustable to suit different axes and people. The sling is extra wide over the shoulder to distribute the weight and be comfortable to wear. It attaches to the axe with the carabiners at each end of the sling. One end attaches to the hole in the handle via an extra leather strap which is included, the other end is attached to the axe sheath. (There are only attachment holes on newer sheaths.)",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors Leather Axe Sling",
+  "specifications": [
+    "Length: 900-1100mm (36-43in)",
+    "Width: 25-45mm (1-2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-technicians-pouch.html|>
+## Hultafors Technician's Pouch
+
+{
+  "price": "€21.83 inc VAT (€17.75 exc.vat)",
+  "description": "Hultafors Technician's Pouch with 8 pockets and tool holders including an electrical tape strap. The large pocket is big enough to fit the most important tools for your day. Made of our durable 1680 Denier ballistic polyester. You can easily add it to your belt with a snap closure or slide the padded flap in your pocket and it will stay there securely.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors Technician's Pouch",
+  "specifications": [
+    "8 pockets and tool holders",
+    "Electrical tape strap",
+    "Durable 1680 Denier ballistic polyester",
+    "Snap closure for easy attachment to belt",
+    "Padded flap for secure pocket placement"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-maintenance-pouch.html|>
+## Hultafors Maintenance Pouch
+
+{
+  "price": "€24.97 inc VAT (€20.30 exc.vat)",
+  "description": "The Hultafors Maintenance Pouch with 14 pockets and tool holders. This pouch has room for it all, including tape sling and a sleeve which holds a flashlight or voltage tester for easy access. It’s a premium quality pouch made of durable 1680 Denier ballistic polyester fabric. It’s easy to attach to your belt and stays in place throughout your day. Have all your favorite tools close at hand with this smooth maintenance pouch. It will keep your tools organised.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors Maintenance Pouch",
+  "specifications": [
+    "14 pockets and tool holders",
+    "Durable 1680 Denier ballistic polyester fabric",
+    "Easy to attach to your belt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-ziptop-utility-pouch.html|>
+## Hultafors Ziptop Utility Pouch
+
+{
+  "price": "€37.61 inc VAT (€30.58 exc.vat)",
+  "description": "The Hultafors Ziptop Utility Pouch has a main compartment you can close with double-pull zippers. It secures your tools and prevent smaller pieces from falling out. Made in the durable 1680 Denier ballistic polyester fabric. It includes a tape measure clip and an electrical tape strap for easy access. When you are done for the day, you just close the zipper and detach the pouch, knowing everything is secure and will stay there.",
+  "availability": "Out of Stock",
+  "product_name": "Hultafors Ziptop Utility Pouch",
+  "specifications": [
+    "Main compartment with double-pull zippers",
+    "Made from durable 1680 Denier ballistic polyester",
+    "Includes tape measure clip and electrical tape strap"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05608-thermal-mug-and-holder.html|>
+## Makita E-05608 Thermal Mug & Holder
+
+{
+  "price": "€37.54 inc VAT (€30.52 exc.vat)",
+  "description": "Makita E-05608 Stainless Steel Thermal Mug with a flip-top closure ensures that drinks do not spill. Easy grab-and-go styling keeps your drink right at hand. Supplied with an elastic sleeve that will hold a pen or tool.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05608 Thermal Mug & Holder",
+  "specifications": [
+    "Stainless Steel",
+    "Flip-top closure",
+    "Elastic sleeve for pen/tool"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-pk-1836-5-pocket-framers-nail--tool-pouch.html|>
+## Kuny's PK-1836 5 Pocket Framers Nail / Tool Pouch
+
+{
+  "price": "€50.96 inc VAT (€41.43 exc.vat)",
+  "description": "The Kuny's 5 Pocket Framer's Nail and Tool Bag with Polyweb Belt, made from 600D Polyester fabric and 1680D ballistic nylon binding. With speed square holder, metal clip which holds all measuring tape sizes and steel hammer loop. Removable metal hook to carry cordless drill, nail guns or other power tools. Four pockets for nails, tools etc with 2in wide polyweb belt with quick release buckle which fits waists 29 to 46in.",
+  "availability": "In Stock",
+  "product_name": "Kuny's PK-1836 5 Pocket Framers Nail / Tool Pouch",
+  "specifications": [
+    "Material: 600D Polyester and 1680D ballistic nylon",
+    "Includes speed square holder and metal clip for measuring tape",
+    "Removable metal hook for carrying power tools",
+    "Four pockets for nails and tools",
+    "2in wide polyweb belt with quick release buckle",
+    "Fits waists 29 to 46in"
+  ]
+}
+

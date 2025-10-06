@@ -1,0 +1,11 @@
+<|https://www.mydiy.ie/products/fiskars-woodxpert-xa23-brush-hook.html|>
+## Fiskars WoodXpertâ„¢ XA23 Brush Hook
+
+{
+  "price": "€150",
+  "description": "The Fiskars WoodXpert™ XA23 Brush Hook is ideal for cutting larger branches from trees/logs and clearing saplings and brush. The ultra light and durable FiberComp™ handle minimises fatigue and make the tool virtually unbreakable. Its longer shaft provides better swing speeds and the power of a double handed grip. The optimal anti-shock surface structure ensures a comfortable firm grip. The hooked end of the handle prevents slipping. Specifications: Length: 943mm. Weight: 993g.",
+  "availability": "In Stock",
+  "product_name": "Fiskars WoodXpertâ„¢ XA23 Brush Hook",
+  "specifications": []
+}
+

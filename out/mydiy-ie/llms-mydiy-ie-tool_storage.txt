@@ -1,0 +1,448 @@
+<|https://www.mydiy.ie/products/bahco-hard-bottom-bag-24in.html|>
+## Bahco Hard Bottom Bag 24in
+
+{
+  "price": "€215.89 inc VAT (€175.52 exc.vat)",
+  "description": "This Bahco Bag has an ideal layout for storing a 22in handsaw, within the main compartment. The wide, open mouth design provides easy access to the main compartment. With pockets, mini-pockets, elastics and dividers both inside and outside the bag that fit a different variety of tools. The bag is made from a combination of denier 600 and 1680 polyester fabrics with a hardwearing, waterproof PP base. Fitted with over moulded PVC zips for easy actioning, even with gloved hands. Other features include a padded shoulder strap with clicking adjustment, adjustable spirit level holder, tape holder, card and phone holder section.",
+  "availability": "In Stock",
+  "product_name": "Bahco Hard Bottom Bag 24in",
+  "specifications": [
+    "Dimensions: 600 x 260 x 380mm"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bahco-orange-metal-cantilever-tool-box-21in.html|>
+## Bahco Orange Metal Cantilever Tool Box 21in
+
+{
+  "price": "€57.18 inc VAT (€46.49 exc.vat)",
+  "description": "Bahco Cantilever toolsteel tool box with an orange hammertone baked enamel finish. By pulling the handle the box opens up easily and gives immediate access to all the tool compartments. The handle can be folded for compact storage. Size: 530 x 200 x 200mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Orange Metal Cantilever Tool Box 21in",
+  "specifications": [
+    "Size: 530 x 200 x 200mm",
+    "Orange hammertone baked enamel finish",
+    "Cantilever design for easy access"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bahco-plastic-tool-box.html|>
+## Bahco Plastic Tool Box
+
+{
+  "price": "€56.40 inc VAT",
+  "description": "Heavy-duty box, made of virgin polypropylene with aluminium handle. Low and high temperatures resistance: -20°C/+50°C. Internal tray and external box dividers. Padlockable with metal latches and galvanised key components.",
+  "availability": "In Stock",
+  "product_name": "Bahco Plastic Tool Box",
+  "specifications": [
+    "Heavy-duty box made of virgin polypropylene",
+    "Aluminium handle",
+    "Temperature resistance: -20°C to +50°C",
+    "Internal tray and external box dividers",
+    "Padlockable with metal latches and galvanised key components"
+  ],
+  "product_category": "Tool Storage"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-hard-bottom-tool-bags.html|>
+## Faithfull Hard Bottom Tool Bags
+
+{
+  "price": "€30.96 inc VAT",
+  "description": "Made from heavy-duty polyester with a reinforced back and featuring a wide top opening and hard base. The bag has side pockets, is reinforced with a metal frame for stability and strength and features a heavy-duty zip.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Hard Bottom Tool Bags",
+  "specifications": [
+    "Available in 40cm (16in) and 61cm (24in) sizes",
+    "Heavy-duty polyester material",
+    "Reinforced back and metal frame for stability",
+    "Wide top opening",
+    "Hard base",
+    "Side pockets",
+    "Heavy-duty zip"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/faithfull-metal-cantilever-tool-boxes.html|>
+## Faithfull Metal Cantilever Tool Boxes
+
+{
+  "price": "€48.22 inc VAT",
+  "description": "This rigidly constructed 5-tray toolbox has the advantage of displaying their contents when open, while being extremely compact when in the closed position. A tubular steel carry handle opens and closes the box as it is lifted and lowered. The lid of the closed box can be secured by a padlock (not supplied) for added security.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Metal Cantilever Tool Boxes",
+  "specifications": [
+    "5-tray toolbox",
+    "Tubular steel carry handle",
+    "Compact design",
+    "Padlockable lid"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-102-l-boxx-carry-case.html|>
+## Bosch 102 L-BOXX Carry Case
+
+{
+  "price": "€57.86 inc VAT (€47.04 exc.vat)",
+  "description": "The Bosch 102 L-BOXX Carry Case offers an improved storage and transportation solution in line with the Bosch Mobility System. Stacked boxes can be easily and conveniently opened with the improved L-BOXX click mechanism. Extensive compatibility of the L-BOXX variants, tool inlays, and the Sortimo in-vehicle system provides full flexibility. It has a robust design, manufactured from durable ABS plastic. Fitted with securely closing latches and a top handle, making it easy to carry.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch 102 L-BOXX Carry Case",
+  "specifications": [
+    "External Dimensions (W x L x H): 442 x 357 x 117mm",
+    "Top Load Capacity: 100kg",
+    "In-box Load Capacity: 25kg",
+    "Tensile Strength: 50kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-136-l-boxx-carry-case.html|>
+## Bosch 136 L-BOXX Carry Case
+
+{
+  "price": "€66.47 inc VAT (€54.04 exc.vat)",
+  "description": "The Bosch 136 L-BOXX Carry Case offers an improved storage and transportation solution in line with the Bosch Mobility System. Stacked boxes can be easily and conveniently opened with the improved L-BOXX click mechanism. Extensive compatibility of the L-BOXX variants, tool inlays, and the Sortimo in-vehicle system provides full flexibility. It has a robust design, manufactured from durable ABS plastic. Fitted with securely closing latches and a top handle, making it easy to carry.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch 136 L-BOXX Carry Case",
+  "specifications": [
+    "External Dimensions (W x L x H): 442 x 357 x 151mm",
+    "Top Load Capacity: 100kg",
+    "In-box Load Capacity: 25kg",
+    "Weight: 1.9kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-gwt-20-professional-tote-bag.html|>
+## Bosch GWT 20 Professional Tote Bag
+
+{
+  "price": "€103.41 inc VAT (€84.07 exc.vat)",
+  "description": "The Bosch GWT 20 Professional Tote Bag for easy storage and convenient transport. Versatile compartments and pockets allow quick access and individual organisation of tools with additional integrated tapes for attaching the ProClick Holder and pouches. Made from durable 1000D polyester for a long lifetime. The impact-resistant moulded base makes the GWT 20 tool bag exceptionally robust and durable. Its ergonomic grip handle and padded shoulder strap provide maximum comfort. Compatible with the L-BOXX and Bosch Professional ProClick system, which enables an easy way to connect, change, and adjust ProClick belt pouches without taking the belt off.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GWT 20 Professional Tote Bag",
+  "specifications": [
+    "Dimensions: 430 x 230 x 340mm"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-i-boxx-53.html|>
+## Bosch i-BOXX 53
+
+{
+  "price": "€23.38 inc VAT (€19.01 exc.vat)",
+  "description": "The Bosch i-BOXX 53 has a transparent lid for a clear view of the items inside. Compatible with i-BOXX rack, LS-BOXX and i-BOXX inset box sets. There is also a lock-in function for the i-BOXX rack and LS-BOXX for secure transportation.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch i-BOXX 53",
+  "specifications": [
+    "Outer Dimensions (WxLxH): 367 x 316 x 53mm",
+    "Weight: 0.8kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-i-boxx-53-insert-box-set-12-piece.html|>
+## Bosch i-BOXX 53 Insert Box Set, 12 Piece
+
+{
+  "price": "€30.77 inc VAT (€25.02 exc.vat)",
+  "description": "The Bosch i-BOXX 53 Insert Box Set enables flexible storage within the Bosch Mobility System. Provides a clear overview due to 12 specially arranged coloured boxes for storing different items, e.g., small accessories or consumables. Fits the i-BOXX 53, offering the highest flexibility for storing.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch i-BOXX 53 Insert Box Set, 12 Piece",
+  "specifications": [
+    "12 specially arranged coloured boxes",
+    "Flexible storage within the Bosch Mobility System",
+    "Fits the i-BOXX 53"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-i-boxx-72.html|>
+## Bosch i-BOXX 72
+
+{
+  "price": "€23.38 inc VAT (€19.01 exc.vat)",
+  "description": "The Bosch i-BOXX 72 has a transparent lid for a clear view of the items inside. Compatible with i-BOXX rack, LS-BOXX and i-BOXX inset box sets. There is also a lock-in function for the i-BOXX rack and LS-BOXX for secure transportation.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch i-BOXX 72",
+  "specifications": [
+    "Outer Dimensions (WxLxH): 357 x 316 x 72mm",
+    "Weight: 0.9kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-l-boxx-374.html|>
+## Bosch L-BOXX 374
+
+{
+  "price": "€94.80 inc VAT (€77.07 exc.vat)",
+  "description": "The Bosch L-BOXX 374 offers an improved storage and transportation solution in line with the Bosch Mobility System. Stacked boxes can be easily and conveniently opened with the improved L-BOXX click mechanism. Extensive compatibility of the L-BOXX variants, tool inlays, and the Sortimo in-vehicle system provides full flexibility. It has a robust design, manufactured from durable ABS plastic. Fitted with securely closing latches and a top handle, making it easy to carry.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch L-BOXX 374",
+  "specifications": [
+    "External Dimensions (W x L x H): 442 x 357 x 389mm",
+    "Top Load Capacity: 100kg",
+    "In-box Load Capacity: 25kg",
+    "Tensile Strength: 50kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-ls-boxx-306.html|>
+## Bosch LS-BOXX 306
+
+{
+  "price": "€92.31 inc VAT (€75.05 exc.vat)",
+  "description": "The Bosch LS-BOXX 306 has a compact design for space-saving storage of tools, small items, and accessories inside one unit. This unit is a combination of a regular L-BOXX 136 with space for up to 2x i-BOXXes or 2x LS-Trays 72 for fast access to stored equipment. Compatible with L-BOXX variants, tool inlays, and the Sortimo in-vehicle system.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch LS-BOXX 306",
+  "specifications": [
+    "Outer Dimensions (WxLxH): 370 x 440 x 310mm",
+    "Inner Dimensions (WxLxH): 378 x 311 x 107mm",
+    "Weight: 0.6kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-lt-boxx-170.html|>
+## Bosch LT-BOXX 170
+
+{
+  "price": "€66.47 inc VAT (€54.04 exc.vat)",
+  "description": "The Bosch LT-BOXX 170 has a large spacious open compartment for fast access to any kind of equipment. Fitted with a large handle for comfortable handling and convenient carrying. There is also a lock-in function for the i-BOXX rack and LS-BOXX for secure transportation.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch LT-BOXX 170",
+  "specifications": [
+    "Inner Dimensions (W x L x H): 378 x 311 x 163mm",
+    "Outer Dimensions (W x L x H): 345 x 440 x 185mm"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-lt-boxx-272.html|>
+## Bosch LT-BOXX 272
+
+{
+  "price": "€82.48 inc VAT (€67.06 exc.vat)",
+  "description": "The Bosch LT-BOXX 272 has a large spacious open compartment for fast access to any kind of equipment. Fitted with a large handle for comfortable handling and convenient carrying. There is also a lock-in function for the i-BOXX rack and LS-BOXX for secure transportation.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch LT-BOXX 272",
+  "specifications": [
+    "Inner Dimensions (W x L x H): 378 x 306 x 265mm",
+    "Outer Dimensions (W x L x H): 345 x 442 x 285mm"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/bosch-xl-boxx.html|>
+## Bosch XL-BOXX
+
+{
+  "price": "€97.26 inc VAT (€79.07 exc.vat)",
+  "description": "Bosch XL-BOXX for the safe storage and transportation of large power tools or combo kits. Compatible with the L-BOXX/L-Case due to its slide-in function. For maximum flexibility, the XL-BOXX can be individually configured and the L-BOXX Micro can be attached to both sides of the XL-BOXX. The secure locking mechanism and robust design offer optimal protection for transportation and storage. Compatible with the L-BOXX, L-Case, Aluminium Caddy, and Sortimo in-vehicle system.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch XL-BOXX",
+  "specifications": [
+    "Top Load Capacity: 100kg",
+    "In-box Load Capacity: 25kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/dewalt-ds100-toughsystem-20-toolbox-with-clear-lid.html|>
+## DEWALT DS100 TOUGHSYSTEM™ 2.0 Toolbox with Clear Lid
+
+{
+  "price": "€141.59 inc VAT (€115.11 exc.vat)",
+  "description": "The DEWALT DS100 TOUGHSYSTEM™ 2.0 Toolbox features a high-performance IP65 lid seal which is dust-tight and waterjet resistant. It has 10 removeable deep cups (8 single and 2 double) and a clear polycarbonate lid that provides easy visibility to contents without having to open it. The toolbox is fitted with a strong, ergonomic handle and easy close, metal wire front latches for easy one-handed operation. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DS100 TOUGHSYSTEM™ 2.0 Toolbox with Clear Lid",
+  "specifications": [
+    "Size: 370 x 550 x 130mm",
+    "Weight: 1.2kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/dewalt-ds450-toughsystem-20-mobile-storage.html|>
+## DeWALT DS450 TOUGHSYSTEM™ 2.0 Mobile Storage
+
+{
+  "price": "€312.76 inc VAT (€254.28 exc.vat)",
+  "description": "DEWALT DS450 TOUGHSYSTEM™ 2.0 Mobile Storage with a detachable telescopic handle for easier storage and transportation. It also features durable 200mm (8in) PU wheels, ideal for use on difficult sites. The box lid has a high-performance seal, making it dust-tight and waterjet resistant (IP65) to withstand the most severe weather. With easy close, metal wire front latches for easy one-handed operation. A metal-reinforced padlock eye provides increased security. Fitted with strong, ergonomic handles for more comfortable transportation. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules. DEWALT Tracker compatible, an internal fixing point allows the DEWALT Tracker to be installed and the box tracked via the DEWALT Tool Connect App. There is also a handy name panel insert, this allows boxes to be labelled for easy identification.",
+  "availability": "Out of Stock",
+  "product_name": "DeWALT DS450 TOUGHSYSTEM™ 2.0 Mobile Storage",
+  "specifications": [
+    "Depth: 685mm",
+    "Width: 554mm"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dwst83529-1-toughsystem-20-drawer-unit.html|>
+## DEWALT DWST83529-1 TOUGHSYSTEM™ 2.0 Drawer Unit
+
+{
+  "price": "€305.96 inc VAT (€248.75 exc.vat)",
+  "description": "DEWALT DWST83529-1 TOUGHSYSTEM™ 2.0 Drawer Unit with ball bearing drawer sliders for smooth operation and durability. Name panel inserts allow the drawers to be labelled for easy identification of contents. Fitted with strong, ergonomic handles for more comfortable transportation. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules. It also offers half-module compatibility, half-width modules can be connected to the unit.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DWST83529-1 TOUGHSYSTEM™ 2.0 Drawer Unit",
+  "specifications": [
+    "Max. Load (per drawer) 10kg",
+    "Width: 535mm",
+    "Length: 330mm",
+    "Height: 305mm"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/dewalt-large-tough-case-empty-with-6-dividers.html|>
+## DEWALT Large Tough Case Empty (With 6 Dividers)
+
+{
+  "price": "€58.51 inc VAT (€47.57 exc.vat)",
+  "description": "The DeWalt DT70839-QZ Large Tough Case has a clear lid for quick and easy identification of the contents. Part of a connectable system.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Large Tough Case Empty (With 6 Dividers)",
+  "specifications": [
+    "Part of a connectable system",
+    "Clear lid for easy identification of contents"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/talatools-professional-universal-tote-50cm-20in.html|>
+## TALAtools Professional Universal Tote 50cm (20in)
+
+{
+  "price": "€37.40 inc VAT (€30.41 exc.vat)",
+  "description": "Multiple pockets inside and out, Rigid frame with padded handle, Adjustable shoulder strap, Top straps for securing a 2ft level",
+  "availability": "In Stock",
+  "product_name": "TALAtools Professional Universal Tote 50cm (20in)",
+  "specifications": [
+    "Multiple pockets inside and out",
+    "Rigid frame with padded handle",
+    "Adjustable shoulder strap",
+    "Top straps for securing a 2ft level"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/talatools-twin-side-organiser-400mm-16in.html|>
+## TALAtools Twin Side Organiser 400mm (16in)
+
+{
+  "price": "€15.36 inc VAT (€12.49 exc.vat)",
+  "description": "2 organisers connected with removable clips. Can be used as one organiser or 2 separate organisers. One organiser contains complete removable units. The other contains removable dividers for custom arrangement. Size: 400mm (16in).",
+  "availability": "Out of Stock",
+  "product_name": "TALAtools Twin Side Organiser 400mm (16in)",
+  "specifications": [
+    "Size: 400mm (16in)",
+    "Can be used as one organiser or 2 separate organisers",
+    "One organiser contains complete removable units",
+    "The other contains removable dividers for custom arrangement"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/facom-bst20pb-soft-tote-bag-51cm.html|>
+## Facom BS.T20PB Soft Tote Bag 51cm
+
+{
+  "price": "€133.20 inc VAT (€108.29 exc.vat)",
+  "description": "The Facom soft tote bag is constructed from extra tough fabric. It offers maximum tool protection thanks to its rigid and waterproof plastic bottom and reinforced stress points. A heavy-duty steel handle with leather grip makes lifting more secure and comfortable. The open structure makes for quick and easy tool access as it keeps everything in place, and large side pockets provide extra storage. Complete with a clip-on strap for easy carriage. The bag provides handy storage with vertical storage for instant access, an elastic tool holding strap, a side rack, many side pockets and a saw compartment.",
+  "availability": "Out of Stock",
+  "product_name": "Facom BS.T20PB Soft Tote Bag 51cm",
+  "specifications": [
+    "Storage capacity: 47 litres",
+    "Weight capacity: 15kg",
+    "Overall dimensions: 51 x 22 x 37cm",
+    "Weight: 2.797kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/faithfull-storage-bin-set-12-piece.html|>
+## Faithfull Storage Bin Set, 12 Piece
+
+{
+  "price": "€44.61 inc VAT (€36.27 exc.vat)",
+  "description": "The Faithfull Wall Storage Bin Starter Kit contains 9 storage bins manufactured from robust polypropylene. These bins are acid, oil and solvent resistant. The interlocking design allows the bins to be stacked if required and each bin has a moulded-in label holder for easy item identification. Supplied complete with 2 panels that allow the bins to be hung from a wall to create a versatile storage solution. Additional accessories with this kit include 10 hanging hooks and a spanner rack for tool storage. Ideal for workshop, garage or hobbies; this fixings kit offers a quick and easy way to organise small accessories with easy access.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Storage Bin Set, 12 Piece",
+  "specifications": [
+    "9 storage bins made from robust polypropylene",
+    "Acid, oil and solvent resistant",
+    "Interlocking design for stacking",
+    "Moulded-in label holder for easy identification",
+    "Includes 2 panels for wall hanging",
+    "Comes with 10 hanging hooks and a spanner rack"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/faithfull-toolbox-top-chest-cabinet-6-drawer.html|>
+## Faithfull Toolbox, Top Chest Cabinet 6 Drawer
+
+{
+  "price": "€415.56 inc VAT (€337.85 exc.vat)",
+  "description": "The Faithfull robust tool chest is made from heavy-gauge steel, with a durable powder coated finish and heavy-duty drop-side handles. This model is freestanding, lockable and is supplied with a removable tote tray. The fully extending drawers benefit from smooth action ball bearing slides, a 2mm thick protective drawer liner and fitted aluminium extrusion drawer pullers. It is designed for storing engineers' and mechanics' tools. Can be used in conjunction with FAITBRCAB3 and FAITBRCAB7 to build a bespoke mobile storage system.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Toolbox, Top Chest Cabinet 6 Drawer",
+  "specifications": [
+    "Overall Size: 668 x 316 x 386mm",
+    "Top Tray Area: 666 x 312 x 53mm",
+    "2 Drawers: 125 x 279 x 48mm",
+    "1 Drawer: 279.5 x 279 x 48mm",
+    "2 Drawers: 589 x 279 x 48mm",
+    "1 Drawer: 589 x 279 x 100.5mm",
+    "Weight: 21.5kg"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/faithfull-zip-top-holdall-61cm-24in-hard-bottom.html|>
+## Faithfull Zip Top Holdall 61cm (24in) Hard Bottom
+
+{
+  "price": "€43.81 inc VAT (€35.62 exc.vat)",
+  "description": "Made from heavy-duty polyester with a reinforced backing and heavy-duty zip fastener. Wide opening for easy access. The PVC hard bottom base is waterproof. Length: 610mm (24in)",
+  "availability": "In Stock",
+  "product_name": "Faithfull Zip Top Holdall 61cm (24in) Hard Bottom",
+  "specifications": [
+    "Length: 610mm (24in)",
+    "Material: Heavy-duty polyester",
+    "Reinforced backing",
+    "Heavy-duty zip fastener",
+    "Waterproof PVC hard bottom base"
+  ],
+  "product_category": "Tool Storage"
+}
+
+<|https://www.mydiy.ie/products/faithfull-zip-top-holdalls.html|>
+## Faithfull Zip Top Holdalls
+
+{
+  "price": "€27.39 inc VAT",
+  "description": "The Faithfull Zip Top Holdall is made from a strong durable canvas featuring reinforced handles, heavy-duty zip fastener and a studded fibreboard base, end pockets and a level holder. A good quality general-purpose holdall.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Zip Top Holdalls",
+  "specifications": [
+    "Available sizes: 45cm (18in), 61cm (24in), 75cm (30in)",
+    "Made from strong durable canvas",
+    "Reinforced handles",
+    "Heavy-duty zip fastener",
+    "Studded fibreboard base",
+    "End pockets and level holder"
+  ],
+  "product_category": "Tool Storage"
+}
+

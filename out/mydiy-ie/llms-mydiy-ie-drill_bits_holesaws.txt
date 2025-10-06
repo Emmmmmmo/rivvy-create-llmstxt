@@ -1,0 +1,44 @@
+<|https://www.mydiy.ie/products/flex-power-tools-cordless-orbital-polisher-xfe-15-150ec.html|>
+## Flex Power Tools Cordless Orbital Polisher Xfe 15 150Ec
+
+{
+  "price": "€150",
+  "description": "## WEEE Recycling",
+  "availability": "Out of Stock",
+  "product_name": "Flex Power Tools Cordless Orbital Polisher Xfe 15 150Ec",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-cordless-random-orbital-polisher-150mm-18v-2-x-50ah-li-ion.html|>
+## Flex Power Tools Cordless Random Orbital Polisher 150mm 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€150",
+  "description": "The FLEX Power Tools Random Orbital Polisher features an electronic management system (EMS), which protects the machine, extends the service life and increases efficiency.  It is fitted with a highly efficient brushless motor with a free-spinning drive and 15mm orbit for high efficiency.  Fitted with a continuous speed control trigger: for a gentle start and a lock-on for continuous operation.  Polishes with low speed and high torque, e.g. for heat-sensitive surfaces. The machine can be operated",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools Cordless Random Orbital Polisher 150mm 18V 2 x 5.0Ah Li-ion",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-dt-xf-12-pxe-random-orbital-adaptor.html|>
+## Flex Power Tools DT-XF 12 PXE Random Orbital Adaptor
+
+{
+  "price": "€150",
+  "description": "Flex Power Tools DT-XF 12 PXE Random Orbital Adaptor for correcting defects, removing holograms and for finishing. Can only be used with the PXE 80 10.8-EC Spot Polisher. Combined with: 30mm Velcro pad for polishing and the 75mm Velcro pad for polishing and grinding. Specification: Oscillation Diameter: 12mm",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools DT-XF 12 PXE Random Orbital Adaptor",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/flex-power-tools-dt-xf-3-pxe-random-orbital-adaptor.html|>
+## Flex Power Tools DT-XF 3 PXE Random Orbital Adaptor
+
+{
+  "price": "€150",
+  "description": "Flex Power Tools DT-XF 3 PXE Random Orbital Adaptor for spot disc grinding and very fine polishing work. Can only be used with the PXE 80 10.8-EC Spot Polisher. Combined with: 30mm Velcro pad for spot discs to be adhered, the Velcro pad for polishing and spot disc for grinding, as well as the 75mm Velcro pad for polishing and grinding. Specification: Oscillation Diameter: 3mm",
+  "availability": "In Stock",
+  "product_name": "Flex Power Tools DT-XF 3 PXE Random Orbital Adaptor",
+  "specifications": []
+}
+

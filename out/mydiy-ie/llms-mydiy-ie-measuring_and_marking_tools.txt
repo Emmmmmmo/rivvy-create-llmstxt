@@ -1,0 +1,34 @@
+<|https://www.mydiy.ie/products/faithfull-measuring-rule-matt-silver.html|>
+## Faithfull Measuring Rule, Matt Silver
+
+{
+  "price": "€3.37 inc VAT",
+  "description": "The Faithfull Measuring Rule is an essential tool for accurate measurements and is suitable for a wide range of applications. Manufactured from hardened stainless steel, this 15cm rule features a matt finish to reduce fingerprint marks and easy-to-read black and red engraved markings for maximum visibility.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Measuring Rule, Matt Silver",
+  "specifications": [
+    "Material: Hardened stainless steel",
+    "Length options: 1000mm, 150mm, 300mm, 600mm",
+    "Matt finish to reduce fingerprint marks",
+    "Easy-to-read black and red engraved markings"
+  ],
+  "product_category": "Measuring & Marking Tools"
+}
+
+<|https://www.mydiy.ie/products/faithfull-measuring-rules-matt-black-stainless-steel.html|>
+## Faithfull Measuring Rules, Matt Black Stainless Steel
+
+{
+  "price": "€3.37 inc VAT",
+  "description": "The Faithfull Measuring Rule is an essential tool for accurate measurements and is suitable for a wide range of applications. Manufactured from hardened stainless steel, this rule features a matt black finish to reduce fingerprint marks, as well as easy-to-read white and red engraved markings for maximum visibility.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Measuring Rules, Matt Black Stainless Steel",
+  "specifications": [
+    "Available lengths: 1000mm, 150mm, 300mm, 600mm",
+    "Manufactured from hardened stainless steel",
+    "Matt black finish to reduce fingerprint marks",
+    "Easy-to-read white and red engraved markings"
+  ],
+  "product_category": "Measuring & Marking Tools"
+}
+

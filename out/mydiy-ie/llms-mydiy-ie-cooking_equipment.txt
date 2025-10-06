@@ -1,0 +1,17 @@
+<|https://www.mydiy.ie/products/cast-iron-double-burner-gas-boiling-ring.html|>
+## Cast Iron Double Burner Gas Boiling Ring
+
+{
+  "price": "€149.99 inc VAT (€121.94 exc.vat)",
+  "description": "Double Burner Cast Iron Boiling Ring. Ideal for camping, fishing, Scout Groups and building sites etc. - Double burner boiling ring mounted in a solid cast iron frame. - Dimensions 535mm x 260mm x 110mm. - Variable flame control with a maximum 2.5kw output per burner. - Made to operate at low pressure with Butane or Propane",
+  "availability": "In Stock",
+  "product_name": "Cast Iron Double Burner Gas Boiling Ring",
+  "specifications": [
+    "Double burner boiling ring mounted in a solid cast iron frame",
+    "Dimensions 535mm x 260mm x 110mm",
+    "Variable flame control with a maximum 2.5kw output per burner",
+    "Made to operate at low pressure with Butane or Propane"
+  ],
+  "product_category": "Cooking Equipment"
+}
+

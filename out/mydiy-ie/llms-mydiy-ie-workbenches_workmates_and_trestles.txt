@@ -1,0 +1,155 @@
+<|https://www.mydiy.ie/products/roughneck-loggers-mate.html|>
+## Roughneck Logger's Mate
+
+{
+  "price": "€128.82 inc VAT (€104.73 exc.vat)",
+  "description": "The Roughneck Logger's Mate is a lightweight and easy to assemble sturdy saw bench that packs flat for easier storage and transportation. It can be erected and dismantled in seconds. It has a vice-like grip to hold logs and timber at the perfect height for cutting. Ideal for cutting logs, branches, timber, fence posts, beams etc. Holds logs and timber from 50mm to 240mm diameter and up to 4m long. Max Timber Weight: 150kg.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Logger's Mate",
+  "specifications": [
+    "ROU65690 : €128.82",
+    "Holds logs and timber from 50mm to 240mm diameter",
+    "Max Timber Weight: 150kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-folding-saw-horses-twin-pack.html|>
+## Stanley Tools Folding Saw Horses (Twin Pack)
+
+{
+  "price": "€68.61 inc VAT (€55.78 exc.vat)",
+  "description": "The Stanley 70-713 Folding Saw Horses with a robust polypropylene structure and integrated grooves to hold and clamp materials and top rubber pads /points to prevent materials slipping. They also feature a tool tray to hold power tools and hand tools and side cable hangers. Supplied as a Twin Pack. Max Load: 450kg per pair.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Folding Saw Horses (Twin Pack)",
+  "specifications": [
+    "Max Load: 450kg per pair",
+    "Robust polypropylene structure",
+    "Integrated grooves to hold and clamp materials",
+    "Top rubber pads to prevent slipping",
+    "Tool tray for power tools and hand tools",
+    "Side cable hangers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-telescopic-saw-horses-twin-pack.html|>
+## Stanley Tools FatMax Telescopic Saw Horses (Twin Pack)
+
+{
+  "price": "€157.67 inc VAT (€128.19 exc.vat)",
+  "description": "The Stanley FatMax 1-92-980 Telescopic Saw Horse features adjustable telescopic legs, that are ideal for use on difficult and uneven surfaces. The height is adjustable to a maximum of 125mm with up to 215mm extension on each leg. The heavy-duty metal legs allow a high load-bearing capacity of 1135kg (2500lbs per pair) and they only weigh 5.25kg each (12lbs) so they are light and easy to carry. The bi-material feet are made out of aluminium-polypropylene and they can be adjusted individually. Supplied as a Twin Pack.",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools FatMax Telescopic Saw Horses (Twin Pack)",
+  "specifications": [
+    "Adjustable telescopic legs",
+    "Height adjustable to a maximum of 125mm",
+    "215mm extension on each leg",
+    "High load-bearing capacity of 1135kg (2500lbs per pair)",
+    "Weight: 5.25kg each (12lbs)",
+    "Bi-material feet made of aluminium-polypropylene",
+    "Supplied as a Twin Pack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-folding-metal-leg-saw-horse-twin-pack.html|>
+## Stanley Tools Folding Metal Leg Saw Horse (Twin Pack)
+
+{
+  "price": "€123.61 inc VAT (€100.50 exc.vat)",
+  "description": "The Stanley Folding Saw Horses are easy-to-carry and store, they have strong robust Aluminium legs that fold in to the top for easy transportation. With a plastic top and non-slip rubber feet for added security and stability. Side latches are used to fasten two saw horses together for a wider work surface for door trimming, decking laying etc. Supplied as a Twin Pack. Max Load: 340kg per leg. Width: 97cm (37in).",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Folding Metal Leg Saw Horse (Twin Pack)",
+  "specifications": [
+    "Max Load: 340kg per leg",
+    "Width: 97cm (37in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-essential-metal-sawhorse-twinpack.html|>
+## Stanley Tools Essential Metal Sawhorse Twinpack
+
+{
+  "price": "€66.63 inc VAT (€54.17 exc.vat)",
+  "description": "The Stanley Tools Essential Metal Sawhorse has an all-metal construction that allows use with clamps. They are easy to open and close, they fold down into a compact size and both of the sawhorses can also be clipped together, making them extremely easy to transport. Fitted with rubber feet that create friction on the surface during cutting, for added security and stability. Supplied as a Twin Pack.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Essential Metal Sawhorse Twinpack",
+  "specifications": [
+    "Max. Load: 340kg (pair)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/evolution-metal-folding-sawhorse-stand-twin-pack-1.html|>
+## Evolution Metal Folding Sawhorse Stand (Twin Pack)
+
+{
+  "price": "€68.28 inc VAT (€55.51 exc.vat)",
+  "description": "The Evolution Metal Folding Sawhorse Stand is ideal for setting up a sturdy and reliable worktop. Each sawhorse boasts an incredible supporting weight of up to 500kg, giving you peace of mind when cutting. Whether it's logs or large sheet materials, simply space the horses accordingly to provide a flat platform every time. Go from cut to carry instantly with the foldable frame and integrated carry handles. This handy saw accessory is ideal for any DIY project. A perfect addition to your workshop arsenal. Supplied as a twin pack.",
+  "availability": "In Stock",
+  "product_name": "Evolution Metal Folding Sawhorse Stand (Twin Pack)",
+  "specifications": [
+    "Supports up to 500kg",
+    "Foldable frame for easy storage",
+    "Integrated carry handles",
+    "Supplied as a twin pack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-colt-600e-sawhorse.html|>
+## ROUGHNECK COLT 600E Sawhorse
+
+{
+  "price": "€95.05 inc VAT",
+  "description": "The ROUGHNECK® COLT 600E Sawhorse is a tough and stable. Its heavy-duty steel construction ensures strength and durability when it matters most. Each COLT 600E Sawhorse stands its ground with an impressive weight-bearing capacity of 589kg, a substantial 1178kg when used as a pair. Powder-coated for added resilience, these sawhorses boast a rugged exterior that stands up to the toughest environments. Independently height-adjustable legs, constructed from heavy gauge steel, for increased stability. Pivoting feet ensure a steadfast grip, rubber pads adding an extra layer of support and surface protection. Working height is customisable from 630-820mm, with stability ensured through secure locking at 28mm intervals. Unique to the COLT 600E the innovative Pipe-Prop feature conveniently holds 15mm and 22mm pipes, rods, and dowels ready for cutting. Sheet material support arms facilitating upright cutting with ease, accommodating larger pieces effortlessly with just one sawhorse. Extendable timber supports adjust to fit 2x4s or 4x4s. This transforms two sawhorses into a stable, sturdy worktable, providing a versatile platform ready for hard graft.",
+  "availability": "In Stock",
+  "product_name": "ROUGHNECK COLT 600E Sawhorse",
+  "specifications": [
+    "Max. Distributed Load: Single 589kg (1300 lbs), Pair 1,178kg (2,600 lbs)",
+    "Working Height: 630-820mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-colt-575s-sawhorse.html|>
+## Roughneck COLT 575S Sawhorse
+
+{
+  "price": "€69.09 inc VAT",
+  "description": "The ROUGHNECK® COLT 575S Sawhorse stands firm as a dependable partner on any jobsite. Offering rock solid reliability, the heavy-duty construction ensures strength and stability when you need it most. Each COLT 575S Sawhorse holds steady with a substantial weight-bearing capacity of 500kg, withstanding a tonne when used as a pair. Pivoting feet ensure a stable base with rubber pads adding an extra layer of grip and surface protection. The versatile extendable timber supports, adjust to fit 2x4s or 4x4s, enabling the transformation of two sawhorses into a sturdy worktable, ready for hard graft. For upright cutting, sheet material support arms can be used to easily accommodate large pieces with just one sawhorse. Powder-coated for added resilience, these sawhorses boast a rugged exterior to stand up to the toughest environments.",
+  "availability": "In Stock",
+  "product_name": "Roughneck COLT 575S Sawhorse",
+  "specifications": [
+    "Max. Distributed Load: Single 500kg (1,102 lbs), Pair 1,000kg (2,204 lbs)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-71691-smartholder-chainsaw-horse.html|>
+## Makita P-71691 Smartholder Chainsaw Horse
+
+{
+  "price": "€140.90 inc VAT (€114.55 exc.vat)",
+  "description": "The Makita P-71691 Smartholder Chainsaw Horse has been designed for use with chainsaws. To hold logs steady, enabling safer cutting conditions.",
+  "availability": "In Stock",
+  "product_name": "Makita P-71691 Smartholder Chainsaw Horse",
+  "specifications": [
+    "Model: P-71691",
+    "Price: €140.90 inc VAT",
+    "List Price: €245.02",
+    "You save: €104.12",
+    "Designed for use with chainsaws",
+    "Holds logs steady for safer cutting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-scissor-legstand-for-table-saws.html|>
+## DEWALT Scissor Legstand for Table Saws
+
+{
+  "price": "€152.11 inc VAT (€123.67 exc.vat)",
+  "description": "This DEWALT Scissor Legstand is compatible with the DCS7485 XR FlexVolt Cordless Table Saw (DEWDCS7485T2).",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Scissor Legstand for Table Saws",
+  "specifications": [
+    "Model: DEWDE7450",
+    "Price: €152.11",
+    "Compatibility: DCS7485 XR FlexVolt Cordless Table Saw"
+  ]
+}
+

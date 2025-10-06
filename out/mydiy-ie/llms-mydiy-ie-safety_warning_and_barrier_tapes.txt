@@ -1,0 +1,16 @@
+<|https://www.mydiy.ie/products/faithfull-economy-self-adhesive-hazardtape.html|>
+## Faithfull Economy Self-Adhesive Hazard Tape
+
+{
+  "price": "€4.24 inc VAT",
+  "description": "Faithfull Economy Self-Adhesive Hazard Tape is ideal for marking out or cordoning off areas. The highly contrasting coloured stripes serve as a clear visual warning. Suitable for a wide range of uses in various trades and services, including construction sites, factories, warehouses, emergency services and many other situations where safety of personnel is a priority.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Economy Self-Adhesive Hazard Tape",
+  "specifications": [
+    "Select Option: Red/White",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Safety, Warning & Barrier Tapes"
+}
+

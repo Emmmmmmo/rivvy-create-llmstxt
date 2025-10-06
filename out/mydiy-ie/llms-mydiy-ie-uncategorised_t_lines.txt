@@ -1,0 +1,60 @@
+<|https://www.mydiy.ie/products/trend-roundover-32mm-rad-x-95mm-cut.html|>
+## Trend Round/Over 3.2Mm Rad X 9.5Mm Cut
+
+{
+  "price": "€47.97 inc VAT (€39.00 exc.vat)",
+  "description": "Round/Over 3.2Mm Rad X 9.5Mm Cut",
+  "availability": "Out of Stock",
+  "product_name": "Trend Round/Over 3.2Mm Rad X 9.5Mm Cut",
+  "specifications": [
+    "TREC07414TC : €47.97",
+    "List: €54.66",
+    "You save €6.69"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-two-flute-12mm-dia-x-63mm--100mm-ol.html|>
+## Trend Two Flute 12Mm Dia X 63Mm 100Mm Ol
+
+{
+  "price": "€54.13 inc VAT (€44.01 exc.vat)",
+  "description": "Two Flute 12Mm Dia X 63Mm 100Mm Ol",
+  "availability": "Out of Stock",
+  "product_name": "Trend Two Flute 12Mm Dia X 63Mm 100Mm Ol",
+  "specifications": [
+    "TREC172M12TC : €54.13",
+    "List: €61.68",
+    "You save €7.55"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-door-lift-swivel-type.html|>
+## Trend Door Lift Swivel Type
+
+{
+  "price": "€41.70 inc VAT (€33.90 exc.vat)",
+  "description": "Door Lift Swivel Type",
+  "availability": "Out of Stock",
+  "product_name": "Trend Door Lift Swivel Type",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-snappy-25mm-bit-holder-58mm.html|>
+## Trend Snappy 25Mm Bit Holder 58Mm
+
+{
+  "price": "€11.49 inc VAT (€9.34 exc.vat)",
+  "description": "Snappy 25Mm Bit Holder 58Mm",
+  "availability": "Out of Stock",
+  "product_name": "Trend Snappy 25Mm Bit Holder 58Mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+

@@ -1,0 +1,3089 @@
+<|https://www.mydiy.ie/products/abus-mechanical-safety-earmuffs.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-atom-safety-goggles.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-cobra-clear-safety-spectacles-psi.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-contour-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-iris-safety-glasses-clear-bifocal.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-rush-foam-and-strap-kit.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-rush-platinum-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-rush-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-silium-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/boll-safety-silium-safety-spectacles.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-b200-b-clean-anti-fog-kit.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-baxter-platinum-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-bl30-b-line-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-goggle-faceguard.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-mercuro-platinum-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-ness-platinum-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-ness-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-screen-guard-for-volt.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-silex-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-universal-goggles.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/bolle-safety-volt-variable-electronic-welding-helmet.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-dpg17-bluetooth-hearing-protector.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-protector-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-respiration-ear-defenders-30snr-pair.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-respiration-full--mask-respirator-with-p3-filters.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-respiration-papr-face-seal-standard.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-respiration-papr-odour-nuisance-pre-filter-pack-of-50.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-respiration-papr-tear-off-visor-protectors-pack-of-10.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-respiration-powered-air-purifying-respirator-with-hard-hat.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-respiration-spark-arrestor.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/dewalt-router-smoke-safety-glasses.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/trend-air-stealth-half-mask-mediumlarge.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/trend-air-stealth-half-mask.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/trend-air-stealth-p3-filter-1-off-pair.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/trend-air-stealth-p3r-nuisance-filter-1-off-pair.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/trend-airpro-airshield-pro-powered-respirator.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/trend-airpro-max-ear-defenders.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/trend-airpro-max-thp3-filter.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/scan-moulded-disposable-masks-valved-ffp1-protection.html|>
+## Scan Moulded Disposable MaskS Valved FFP1 Protection
+
+{
+  "price": "€7.40 inc VAT",
+  "description": "These Scan FPP1 Premier valved disposable masks are designed to cover the nose, mouth and chin. The construction is made of the filter material itself, and the valve makes breathing easier. They are ideal for use with: Brick dust, Concrete and plaster, Hand sanding, Loft insulation. With a FPP1 protection level, these masks are suitable for protecting against particles bigger than 5 microns, such as dusts, fumes, aqueous mists and oil based mists. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and soft foam nose piece for custom fitting. The non-irritating inner face piece ensures added comfort. To be disposed of after each period of work or 8 hour shift. The masks conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Disposable MaskS Valved FFP1 Protection",
+  "specifications": [
+    "FPP1 protection level",
+    "Ideal for brick dust, concrete, plaster, hand sanding, loft insulation",
+    "Elasticated retaining straps",
+    "Adjustable nose clip and soft foam nose piece",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fold-flat-disposable-masks-ffp1.html|>
+## Scan Fold Flat Disposable Masks FFP1
+
+{
+  "price": "€5.34 inc VAT",
+  "description": "These Scan Fold Flat Disposable Masks have been designed for easy and convenient pocket storage. They provide a low breathing resistance and feature elasticated retaining straps and an adjustable nose clip with a soft foam nosepiece for an efficient seal. The inner face piece is non-irritating to ensure added user comfort. With an FPP1 protection level, these masks are suitable for protecting from particles larger than 5 microns. To be disposed of after each period of work or 8 hour shift. Mask conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Fold Flat Disposable Masks FFP1",
+  "specifications": [
+    "FPP1 protection level",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Soft foam nosepiece",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fold-flat-valved-disposable-masks-ffp1.html|>
+## Scan Fold Flat Valved Disposable Masks FFP1
+
+{
+  "price": "€6.79 inc VAT",
+  "description": "These Scan Fold Flat Valved Disposable Masks have been designed for easy and convenient pocket storage. They are fitted with an exhalation valve for improved breathing resistance and reduced heat build-up inside the respirator. Other features include elasticated retaining straps and an adjustable nose clip with a soft foam nosepiece for an efficient seal. The inner face piece is non-irritating to ensure added user comfort. With an FPP1 protection level, these masks are suitable for protecting from particles larger than 5 microns. To be disposed of after each period of work or 8 hour shift. Mask conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Fold Flat Valved Disposable Masks FFP1",
+  "specifications": [
+    "FPP1 protection level",
+    "Exhalation valve for improved breathing",
+    "Elasticated retaining straps",
+    "Adjustable nose clip with soft foam nosepiece",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-moulded-disposable-masks-ffp1.html|>
+## Scan Moulded Disposable Masks FFP1
+
+{
+  "price": "€5.72 inc VAT",
+  "description": "These Scan Moulded Disposable Masks provide a tight seal and enhanced user comfort over extended periods of use. They provide a low breathing resistance and feature elasticated retaining straps and an adjustable nose clip with a soft foam nosepiece for an efficient seal. The inner face piece is non-irritating to ensure added user comfort. With an FPP1 protection level, these masks are suitable for protecting from particles larger than 5 microns. To be disposed of after each period of work or 8 hour shift. Mask conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Disposable Masks FFP1",
+  "specifications": [
+    "FPP1 protection level",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Soft foam nosepiece",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-classic-ffp1-non-valved-mask-3-pack.html|>
+## Moldex Classic FFP1 Non-Valved Mask (3 Pack)
+
+{
+  "price": "€10.52 inc VAT (€8.55 exc.vat)",
+  "description": "Moldex Classic Series Masks are durable and comfortable. Ideally suited to most industrial applications, a loop strap makes it easy to put on and take off. The ActivForm seal automatically adjusts to different face shapes and sizes with no need for metal nose clips. FFP1 protection against non-toxic dusts, mists and fumes 4 x WEL (Workplace Exposure Limit). Tested and certified to EN 149:2001+A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Moldex Classic FFP1 Non-Valved Mask (3 Pack)",
+  "specifications": [
+    "MOL236012 : €10.52",
+    "FFP1 protection against non-toxic dusts, mists and fumes",
+    "Tested and certified to EN 149:2001+A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-premium-paint-and-odour-respirator-p1-pack-3.html|>
+## Vitrex Premium Paint & Odour Respirator P1 (Pack 3)
+
+{
+  "price": "€11.61 inc VAT (€9.44 exc.vat)",
+  "description": "The Vitrex Premium Paint & Odour Respirator protects the lungs against fine non-toxic particles. Fitted with a breathe-easy valve for extra comfort. A charcoal filter provides relief from household paints, odours and irritants. Suitable for brush and roller application of most domestic paints and varnishes. Ergonomically designed mask for an airtight seal whilst providing a secure and comfortable fit. Conforms to EN 149:2001 + A1:2009 FFP1 NR.",
+  "availability": "Out of Stock",
+  "product_name": "Vitrex Premium Paint & Odour Respirator P1 (Pack 3)",
+  "specifications": [
+    "Fitted with a breathe-easy valve",
+    "Charcoal filter for relief from household paints and odours",
+    "Ergonomically designed for a secure fit",
+    "Conforms to EN 149:2001 + A1:2009 FFP1 NR"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-fold-flat-respirator-p1.html|>
+## Vitrex Fold Flat Respirator P1
+
+{
+  "price": "€2.67 inc VAT",
+  "description": "The Vitrex Fold Flat Respirator protects the lungs against fine non-toxic particles, ideal for general-purpose use. Ergonomically designed mask for an airtight seal whilst providing a secure and comfortable fit. Suitable for working with loft insulation, sanding, softwood, brick dust, plastic and plaster. Conforms to EN 149:2001 + A1:2009 FFP1 NR.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Fold Flat Respirator P1",
+  "specifications": [
+    "Pack of 3",
+    "Conforms to EN 149:2001 + A1:2009 FFP1 NR",
+    "Ideal for general-purpose use",
+    "Ergonomically designed for a secure fit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-ffp2-disposable-respirator.html|>
+## DEWALT Respiration FFP2 Disposable Respirator
+
+{
+  "price": "€11.01 inc VAT",
+  "description": "DEWALT FFP2 Disposable Respirators built for protection against fine dust and liquid aerosols. They have a lightweight, cup shaped design which provides a secure and comfortable fit. 4 point adjustable head straps provide easy adjustment and better fit. The soft foam inner face seal improves user comfort. A preformed nose bridge removes the need for regular adjustment. The front exhalation valve reduces breathing resistance for greater comfort.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Respiration FFP2 Disposable Respirator",
+  "specifications": [
+    "Respirator Size: Adjustable",
+    "Filter Type: P2 Particulate",
+    "Filter Efficiency: 94% @ 0.3 Micron",
+    "Approval & Certification: EN 149:2001+A1 2009, CE 2797, UKCA 0086"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-ffp3-disposable-respirator.html|>
+## DEWALT Respiration FFP3 Disposable Respirator
+
+{
+  "price": "€13.30 inc VAT",
+  "description": "DEWALT FFP3 Disposable Respirators are for protection against fine dust and liquid aerosols. They have a lightweight, cup shaped design which provides a secure and comfortable fit. 4 point adjustable head straps provide easy adjustment and better fit. The soft foam inner face seal improves user comfort. A preformed nose bridge removes the need for regular adjustment. The front exhalation valve reduces breathing resistance for greater comfort.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Respiration FFP3 Disposable Respirator",
+  "specifications": [
+    "Respirator Size: Adjustable",
+    "Filter Type: P3 Particulate",
+    "Filter Efficiency: 99.99% @ 0.3 Micron",
+    "Approval & Certification: EN 149:2001+A1 2009, CE 2797, UKCA 0086"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-tri-fold-valved-disposable-mask-ffp2-pack-3.html|>
+## Scan Tri Fold Valved Disposable Mask FFP2 (Pack 3)
+
+{
+  "price": "€8.18 inc VAT (€6.65 exc.vat)",
+  "description": "The Scan Tri Fold Valved Disposable Masks with a FFP2 protection level, suitable for protecting against particles of between 2-5 microns. Designed to cover the nose, mouth and chin. The three panel system offers a high level of manoeuvrability allowing for a better seal. They are flat folding for easy pocket storage. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and soft foam nose piece for custom fitting. The exhalation valve makes breathing easier. To be disposed of after each period of work or 4 hour shift. They are ideal for use with: sanding of softwood, hand sanding MDF, ceramic tile dust and cutting slabs. Conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Tri Fold Valved Disposable Mask FFP2 (Pack 3)",
+  "specifications": [
+    "FFP2 protection level",
+    "Suitable for particles of 2-5 microns",
+    "Flat folding for easy storage",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Soft foam nose piece",
+    "Exhalation valve for easier breathing",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-tri-fold-valved-disposable-mask-ffp3-pack-3.html|>
+## Scan Tri Fold Valved Disposable Mask FFP3 (Pack 3)
+
+{
+  "price": "€13.83 inc VAT (€11.24 exc.vat)",
+  "description": "The Scan Tri Fold Valved Disposable Mask with a FFP3 protection level, these masks will protect lungs against very fine particles (less than 2 microns). Designed to cover the nose, mouth and chin. The three panel system offers a high level of manoeuvrability allowing for a better seal, and the exhalation valve makes breathing easier. They are flat folding for easy pocket storage. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and full PVC face seal for custom fitting. The non-irritating inner face piece ensures added comfort. To be disposed of after each period of work or 4 hour shift. They are ideal for use with: loft insulation, hardwood dust & cutting MDF, stone cutting and plastering. Conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Tri Fold Valved Disposable Mask FFP3 (Pack 3)",
+  "specifications": [
+    "FFP3 protection level",
+    "Flat folding for easy storage",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fold-flat-valved-disposable-masks-ffp2.html|>
+## Scan Fold Flat Valved Disposable Masks FFP2
+
+{
+  "price": "from €7.16 inc VAT",
+  "description": "The Scan FFP2 Fold Flat Valved Disposable Masks are suitable for protecting against particles of between 2-5 microns. Designed to cover the nose, mouth and chin. The construction is made of the filter material itself. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and soft foam nosepiece for custom fitting. To be disposed of after each period of work or 4 hour shift. They are ideal for use with: sanding of softwood, hand sanding MDF, ceramic tile dust and cutting slabs. Conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Fold Flat Valved Disposable Masks FFP2",
+  "specifications": [
+    "Pack of 10",
+    "Pack of 3",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-classic-series-ffp1-nr-d-valved-mask-pack-of-20.html|>
+## Moldex Classic Series FFP1 NR D Valved Mask (Pack of 20)
+
+{
+  "price": "€90.23 inc VAT (€73.36 exc.vat)",
+  "description": "The Moldex Classic Series FFP1 NR D Valved Masks are durable and comfortable. This dual-purpose mask is ideally suited to most industrial applications. The loop strap makes putting the mask on and taking it off very easy. The ActivForm seal automatically adjusts to different face shapes and sizes with no need for metal nose clips. FFP1 NR D for protection against non-toxic dusts, mists and fumes based on water and oil. 4 x Workplace exposure limit. EN149:2001 + A1:2009. Supplied as a Pack of 20.",
+  "availability": "In Stock",
+  "product_name": "Moldex Classic Series FFP1 NR D Valved Mask (Pack of 20)",
+  "specifications": [
+    "MOL2365 : €90.23",
+    "Pack of 20",
+    "FFP1 NR D for protection against non-toxic dusts, mists and fumes",
+    "4 x Workplace exposure limit",
+    "EN149:2001 + A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-smart-pocket-ffp2-nr-d-valved-mask.html|>
+## Moldex Smart Pocket FFP2 NR D Valved Mask
+
+{
+  "price": "€6.61 inc VAT (€5.37 exc.vat)",
+  "description": "The Moldex Smart Pocket FFP2 NR D Valved Masks have a foldable design with all the features of a traditional Moldex cup mask. DuraMesh® structure for optimum shape retention and durability. Ideally suited to lighter industries, where the mask is carried between use, or industries with hygiene implications. ActivForm® Seal automatically adjusts to different face shapes and the Ventex®-valve: reduces moisture and heat, keeping the mask as cool as possible. Masks are individually sealed. FFP2 NR D for protection against toxic dusts, mists and fumes based on water and oil, including harmful and carcinogenic dusts, fumes and aerosols. 10 x Workplace exposure limit. FFP2 NR D EN149:2001 + A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Moldex Smart Pocket FFP2 NR D Valved Mask",
+  "specifications": [
+    "Foldable design",
+    "DuraMesh® structure for optimum shape retention",
+    "ActivForm® Seal adjusts to different face shapes",
+    "Ventex®-valve reduces moisture and heat",
+    "Individually sealed masks",
+    "FFP2 NR D for protection against toxic dusts, mists and fumes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-smart-series-ffp2-nr-d-valved-mask-pack-of-20.html|>
+## Moldex Smart Series FFP2 NR D Valved Mask (Pack of 20)
+
+{
+  "price": "€129.57 inc VAT (€105.34 exc.vat)",
+  "description": "The Moldex Smart Series FFP2 NR D Valved Masks are suited to most industrial applications, this general-purpose mask is strong and durable. It has a DuraMesh® structure for optimum shape retention and durability. The ActivForm® seal automatically adjusts to different face shapes and movements, reducing the need for multiple mask sizes. The Ventex®-valve reduces heat and moisture, keeping the mask as cool as possible. It is fitted with a strap and clip, so you can hang the mask around the neck during breaks and it's blue clip means that it is suitable for the food industry. FFP2 NR D for protection against toxic dusts, mists and fumes based on water and oil, including harmful and carcinogenic dusts, fumes and aerosols. 10 x Workplace exposure limit. EN149:2001 + A1:2009. Supplied in a box of 20.",
+  "availability": "In Stock",
+  "product_name": "Moldex Smart Series FFP2 NR D Valved Mask (Pack of 20)",
+  "specifications": [
+    "MOL2485 : €129.57",
+    "Pack of 20",
+    "FFP2 NR D for protection against toxic dusts, mists and fumes",
+    "DuraMesh® structure for optimum shape retention",
+    "ActivForm® seal adjusts to different face shapes",
+    "Ventex®-valve reduces heat and moisture"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-smart-solo-ffp2-nr-d-valved-mask-pack-of-20.html|>
+## Moldex Smart Solo FFP2 NR D Valved Mask (Pack of 20)
+
+{
+  "price": "€132.62 inc VAT (€107.82 exc.vat)",
+  "description": "The Moldex Smart Solo Valved Masks, even when wearing large gloves, the single strap makes putting the mask on and taking it off, quick simple and safe. It has a DuraMesh® structure for optimum shape retention and durability with a ActivForm® Seal automatically adjusts to different face shapes, nose seal: increases fit and comfort. Ventex®-valve: reduces moisture and heat, keeping the mask as cool as possible. FFP2 NR D for protection against toxic dusts, mists and fumes based on water and oil. 10 x Workplace exposure limit. EN149:2001 + A1:2009. Supplied in a box of 20.",
+  "availability": "In Stock",
+  "product_name": "Moldex Smart Solo FFP2 NR D Valved Mask (Pack of 20)",
+  "specifications": [
+    "MOL2495 : €132.62",
+    "Pack of 20",
+    "FFP2 NR D for protection against toxic dusts, mists and fumes",
+    "DuraMesh® structure for optimum shape retention",
+    "ActivForm® Seal for comfort and fit",
+    "Ventex®-valve reduces moisture and heat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fold-flat-disposable-odour-mask-valved-ffp2-protection-pack-of-3.html|>
+## Scan Fold Flat Disposable Odour Mask Valved FFP2 Protection (Pack of 3)
+
+{
+  "price": "€8.36 inc VAT (€6.80 exc.vat)",
+  "description": "These Scan FFP2 Premier Valved Odour Disposable Masks have active carbon cover pre-filters, which protect lungs against organic vapour and gas below the Occupational Exposure Limits. Designed to cover the nose, mouth and chin. The construction is made of the filter material itself, and the exhalation valve allows for easy breathing. They are flat folding for easy pocket storage. Ideal for use with: Brick dust, Concrete and plaster, Paint/varnish odours, Welding, Masonry and metal working with power tools, Hand sanding, Wood and MDF (hand tools), Loft insulation. With a FPP2 protection level, these masks are suitable for protecting against particles of between 2-5 microns, such as fine dusts, fumes, aqueous mists and oil based mists. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and soft foam nose piece for custom fitting. The non-irritating inner face piece ensures added comfort. To be disposed of after each period of work or 8 hour shift. Conform to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Fold Flat Disposable Odour Mask Valved FFP2 Protection (Pack of 3)",
+  "specifications": [
+    "FPP2 protection level",
+    "Active carbon cover pre-filters",
+    "Flat folding for easy storage",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Soft foam nose piece",
+    "Conform to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-classic-disposable-masks-ffp2-d-ventex-valve.html|>
+## Moldex Classic Disposable Masks FFP2 D Ventex Valve
+
+{
+  "price": "€32.12 inc VAT",
+  "description": "The Moldex Classic Disposable Masks FFP2 are suited to most industrial applications and this general purpose mask is strong and durable. The mask is certified to FFP2 NR D for protection against toxic dusts, mists and fumes (based on water and oil). It also has respiratory protection for concentrations of organic vapours inorganic/acid gases and ammonia up to 10 x WEL. Other features include: - DuraMesh® structure for optimum shape retention and durability. - ActivForm® Seal automatically adjusts to different face shapes. - Ventex®-valve: reduces moisture and heat, keeping the mask as cool as possible.",
+  "availability": "In Stock",
+  "product_name": "Moldex Classic Disposable Masks FFP2 D Ventex Valve",
+  "specifications": [
+    "Pack of 20",
+    "Pack of 5",
+    "DuraMesh® structure for optimum shape retention and durability",
+    "ActivForm® Seal automatically adjusts to different face shapes",
+    "Ventex®-valve reduces moisture and heat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fold-flat-disposable-mask-ffp2-protection.html|>
+## Scan Fold Flat Disposable Mask FFP2 Protection
+
+{
+  "price": "€6.41 inc VAT",
+  "description": "These Scan FPP2 fold flat disposable masks are designed to cover the nose, mouth and chin. The construction is made of the filter material itself. They are ideal for use with: Brick dust, Concrete and Plaster, Hand sanding of wood and MDF, Masonry and metal working with power tools (not welding), Loft insulation. With a FPP2 protection level, these masks are suitable for protecting from particles between 2 and 5 microns, such as fine dusts, fumes, aqueous mists and oil based mists. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and soft foam nosepiece for custom fitting. The non-irritating inner face piece ensures added comfort. To be disposed of after each period of work or 8 hour shift. The masks conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Fold Flat Disposable Mask FFP2 Protection",
+  "specifications": [
+    "FPP2 protection level",
+    "Ideal for brick dust, concrete, plaster, hand sanding, masonry, and metal working",
+    "Elasticated retaining straps",
+    "Adjustable nose clip and soft foam nosepiece",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-moulded-disposable-masks-ffp2-protection.html|>
+## Scan Moulded Disposable Masks FFP2 Protection
+
+{
+  "price": "€7.12 inc VAT",
+  "description": "These Scan FPP2 moulded disposable masks are designed to cover the nose, mouth and chin. The construction is made of the filter material itself. They are ideal for use with: Brick dust, Concrete and Plaster, Hand sanding of wood and MDF, Masonry and metal working with power tools (not welding), Loft insulation. With a FPP2 protection level, these masks are suitable for protecting from particles between 2 and 5 microns, such as fine dusts, fumes, aqueous mists and oil based mists. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and soft foam nose piece for custom fitting. The non-irritating inner face piece ensures added comfort. To be disposed of after each period of work or 8 hour shift. The masks conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Disposable Masks FFP2 Protection",
+  "specifications": [
+    "FPP2 protection level",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Soft foam nose piece",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-moulded-disposable-masks-valved-ffp2-protection.html|>
+## Scan Moulded Disposable Masks Valved FFP2 Protection
+
+{
+  "price": "from €7.65 inc VAT",
+  "description": "These Scan FPP2 Premier valved disposable masks are designed to cover the nose, mouth and chin. The construction is made of the filter material itself, and the exhalation valve makes breathing easier. They are ideal for use with:\n\n- Brick dust\n- Concrete and plaster\n- Hand sanding of wood and MDF\n- Masonry and metal working with power tools (not welding)\n- Loft insulation\n\nWith a FPP2 protection level, these masks are suitable for protecting against particles of between 2-5 microns, such as fine dusts, fumes, aqueous mists and oil based mists. For a guide on protection levels, please see below.\n\nThe masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and soft foam nose piece for custom fitting. The non-irritating inner face piece ensures added comfort. To be disposed of after each period of work or 8 hour shift.\n\nThe masks conform to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Disposable Masks Valved FFP2 Protection",
+  "specifications": [
+    "FPP2 protection level",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Soft foam nose piece",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-moulded-duranet-disposable-mask-ffp2-pack-of-2.html|>
+## Scan Moulded Duranet Disposable Mask FFP2 (Pack of 2)
+
+{
+  "price": "€10.17 inc VAT (€8.27 exc.vat)",
+  "description": "The Scan Moulded Duranet Disposable Mask with a mesh support for increased durability and shape retention, providing a tight seal and enhanced user comfort over extended periods of use. These masks are fitted with an exhalation valve for improved breathing resistance and reduced heat build-up inside the respirator and feature elasticated retaining straps and an adjustable nose clip with a soft foam nosepiece for an efficient seal. The inner face piece is non-irritating to ensure added user comfort. With an FPP2 protection level, these masks are suitable for protecting from particles between 2 and 5 microns. To be disposed of after each period of work or 8 hour shift. Mask conforms to EN149:2001 and A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Duranet Disposable Mask FFP2 (Pack of 2)",
+  "specifications": [
+    "FPP2 protection level",
+    "Mesh support for durability",
+    "Exhalation valve for improved breathing",
+    "Elasticated retaining straps",
+    "Adjustable nose clip with soft foam nosepiece",
+    "Conforms to EN149:2001 and A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-ffpak-storage-bag-for-air-plus-and-ffp-masks.html|>
+## Moldex FFPAK Storage Bag for Air Plus & FFP Masks
+
+{
+  "price": "€30.89 inc VAT (€25.11 exc.vat)",
+  "description": "The Moldex FFPAK Storage Bag helps to prolong the life of reusable FFPs by keeping them hygienic and protected from dust between use. The contoured shape keeps the inside of the mask protected from dust whilst being stored. Allows you to store non-reusable FFP masks and keep them clean prior to use. The carabiner clip allows you to carry masks with you. Will fit the following Moldex masks: 1 x Air Plus ProValve FFP mask, or 1 x Air Plus FFP mask, or 2 x Air FFP masks, or 3 x Classic or Smart Series FFP masks.",
+  "availability": "In Stock",
+  "product_name": "Moldex FFPAK Storage Bag for Air Plus & FFP Masks",
+  "specifications": [
+    "MOL399401 : €30.89",
+    "Fits various Moldex masks",
+    "Carabiner clip for easy carrying"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-air-plus-provalve-mask-ffp2-rd-real-reusable.html|>
+## Moldex AIR Plus ProValve Mask FFP2 RD Real Reusable
+
+{
+  "price": "€14.81 inc VAT (€12.04 exc.vat)",
+  "description": "The Moldex AIR Plus ProValve Real Reusable FPP2 Mask has a washable full face seal and offers a secure fit, that is comparable to a half mask. The AirWave® Pleated Filter reduces breathing resistance, improves wearer comfort and minimises fatigue. Offers low breathing resistance even after hours of use. The built-in ProValve reduces condensation from exhaled air. Masks are individually packaged.",
+  "availability": "In Stock",
+  "product_name": "Moldex AIR Plus ProValve Mask FFP2 RD Real Reusable",
+  "specifications": [
+    "FFP2 for protection against non-toxic dusts, mists and fumes 10 x WEL (Workplace Exposure Limit)",
+    "Tested and certified to EN 149:2001+A1:2009",
+    "Washable full face seal",
+    "AirWave® Pleated Filter",
+    "Built-in ProValve reduces condensation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-power-tool-and-mdf-respirator-p2-pack-2.html|>
+## Vitrex Power Tool & MDF Respirator P2 (Pack 2)
+
+{
+  "price": "€3.85 inc VAT (€3.13 exc.vat)",
+  "description": "The Vitrex Power Tool & MDF Respirator protects the lungs against fine toxic particles. Suitable for use with most power tools: drills, saws, grinders, sanders, routers etc. Ergonomically designed mask for an airtight seal whilst providing a secure and comfortable fit. Ideal for working with MDF, softwood, hardwood, metal and concrete. Conforms to EN 149:2001 + A1:2009 FFP2 NR.",
+  "availability": "Out of Stock",
+  "product_name": "Vitrex Power Tool & MDF Respirator P2 (Pack 2)",
+  "specifications": [
+    "VITS40510 : €3.85",
+    "Ergonomically designed for a secure fit",
+    "Protects against fine toxic particles",
+    "Suitable for use with most power tools",
+    "Conforms to EN 149:2001 + A1:2009 FFP2 NR"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-premium-power-tool-and-mdf-respirator-p2.html|>
+## Vitrex Premium Power Tool & MDF Respirator P2
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "The Vitrex Premium Power Tool & MDF Respirator protects the lungs against fine toxic particles. Fitted with a breathe-easy valve for extra comfort. Suitable for use with most power tools: drills, saws, grinders, sanders, routers etc. Ergonomically designed mask for an airtight seal whilst providing a secure and comfortable fit. With a colour-coded nose clip for simple identification. Ideal for working with MDF, softwood, hardwood, metal and concrete. Conforms to EN 149:2001 + A1:2009 FFP2 NR.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Premium Power Tool & MDF Respirator P2",
+  "specifications": [
+    "Fitted with a breathe-easy valve for extra comfort",
+    "Suitable for use with most power tools",
+    "Ergonomically designed mask for an airtight seal",
+    "Colour-coded nose clip for simple identification",
+    "Ideal for working with MDF, softwood, hardwood, metal and concrete",
+    "Conforms to EN 149:2001 + A1:2009 FFP2 NR"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-ffp2-nr-fold-flat-mask-pack-10.html|>
+## Trend FFP2 NR Fold Flat Mask (Pack 10)
+
+{
+  "price": "€17.56 inc VAT (€14.28 exc.vat)",
+  "description": "Trend FFP2 NR Fold Flat Mask with HEPAC filtration for protection against fine, nuisance dust particles, such as softwood dust, sheet materials, (not MDF or hardwood) and fibreglass. With efficiency above 94% for increased respiratory protection. The entire surface area of the mask is the filter making it highly efficient whilst also making breathing easier. It provides day-long protection, up to 8 hours. Elasticated, adjustable straps help to provide a better fit and increased comfort. There is also an adjustable nose clip for increased comfort and a tighter nose seal. The fold-flat design allows it to easily slip into a pocket when not required. Pack Quantity: 10",
+  "availability": "In Stock",
+  "product_name": "Trend FFP2 NR Fold Flat Mask (Pack 10)",
+  "specifications": [
+    "Pack Quantity: 10",
+    "Efficiency above 94%",
+    "Day-long protection up to 8 hours",
+    "Elasticated, adjustable straps",
+    "Adjustable nose clip",
+    "Fold-flat design"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-smart-series-ffp3-nr-d-valved-new-generation-mask-pack-of-10.html|>
+## Moldex Smart Series FFP3 NR D Valved New Generation Mask (Pack of 10)
+
+{
+  "price": "€115.69 inc VAT (€94.06 exc.vat)",
+  "description": "The Moldex Moldex Smart Series FFP3 NR D Valved New Generation Masks are suited to most industrial applications with a general purpose mask that is strong and durable, DuraMesh® structure for optimum shape retention and durability. Blue clip makes it suitable for the food industry. Strap and Clip, for easy application. The user can hang the mask around the neck during breaks. The ActivForm® seal automatically adjusts to different face shapes and movements, reducing the need for multiple mask sizes. Ventex®-valve: reduces moisture and heat, keeping the mask as cool as possible. Pack of 10. FFP3 NR D for protection against harmful and carcinogenic dusts, fumes and aerosols based on water and oil, including radioactive particulates and airborne biological substances and enzymes. 20 x Workplace exposure limit. EN149:2001 + A1:2009",
+  "availability": "In Stock",
+  "product_name": "Moldex Smart Series FFP3 NR D Valved New Generation Mask (Pack of 10)",
+  "specifications": [
+    "Pack of 10",
+    "FFP3 NR D for protection against harmful and carcinogenic dusts",
+    "DuraMesh® structure for optimum shape retention",
+    "ActivForm® seal adjusts to different face shapes",
+    "Ventex®-valve reduces moisture and heat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-series-3000-reusable-mask-ffp3---d-ventex-valve-pack-of-5.html|>
+## Moldex Series 3000 Reusable Mask FFP3 - D Ventex Valve (Pack of 5)
+
+{
+  "price": "€79.95 inc VAT (€65.00 exc.vat)",
+  "description": "Moldex Series 3000 reusable mask range have a washable full face seal and the unique pleated filter technology provides the option of using the mask for more than one shift - ideally suited to heavy industries. The mask is certified to FFP3 R D for protection against all dusts, mists and fumes (based on water and oil). It provides respiratory protection for concentrations of organic vapours inorganic/acid gases and ammonia up to 20 x WEL. Other features include: -Pleated filter technology which reduces breathing resistance by up to 50%. -Washable face seal - wipes clean leaving the mask hygienic. -Strap and Clip, for easy application. The user can hang the mask around the neck during breaks. -DuraMesh® structure for optimum shape retention and durability. -ActivForm® Seal automatically adjusts to different face shapes. -Ventex®-valve: reduces moisture and heat, keeping the mask as cool as possible.",
+  "availability": "In Stock",
+  "product_name": "Moldex Series 3000 Reusable Mask FFP3 - D Ventex Valve (Pack of 5)",
+  "specifications": [
+    "Pack of 5",
+    "FFP3 R D certified",
+    "Washable full face seal",
+    "Pleated filter technology",
+    "DuraMesh® structure",
+    "ActivForm® Seal",
+    "Ventex®-valve"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fold-flat-disposable-valved-disposable-mask-ffp3-protection-pack-of-3.html|>
+## Scan Fold Flat Disposable Valved Disposable Mask FFP3 Protection (Pack of 3)
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "These Scan FPP3 Premier valved disposable masks are designed to cover the nose, mouth and chin. The construction is made of the filter material itself, and the exhalation valve makes breathing easier. These masks have passed the optional Dolomite clogging test, giving the user better breathing resistance for longer. They are flat folding for easy pocket storage. They are ideal for use with:\n\n- Brick dust\n- Toxic waste disposal\n- Casting metals\n- Smoke fumes\n- Paint and varnish fumes\n- Welding\n- Hand and power sanding of soft and hard wood and MDF dust\n- Masonry and concrete dust\n- Metalworking with power tools\n- Loft insulation/fibre glass\n- Mineral fibres\n- Silica\n\nConforms to EN149:2001 and A1:2009. With a FPP3 protection level, these masks will protect lungs against very fine particles (less than 2 microns), such as very fine dusts, fibres, aqueous mists and oil based mists. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and full PVC face seal for custom fitting. The non-irritating inner face piece ensures added comfort. To be disposed of after each period of work or 8 hour shift.",
+  "availability": "In Stock",
+  "product_name": "Scan Fold Flat Disposable Valved Disposable Mask FFP3 Protection (Pack of 3)",
+  "specifications": [
+    "FPP3 protection level",
+    "Flat folding for easy storage",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Non-irritating inner face piece",
+    "Conforms to EN149:2001 + A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-moulded-valved-masks-ffp3-with-mesh-pack-of-2.html|>
+## Scan Moulded Valved Masks FFP3 with Mesh (Pack of 2)
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "The Scan Moulded Valved Mask has been developed to improve the comfort of disposable respirators, whilst maintaining an excellent face fit. The mask's mesh shell helps to support the filter and helps to maintain its shape, preventing collapse onto the face. The mask has a high resistance to clogging for protection against very fine particles, fumes and mist, with an exhalation valve that makes breathing easier. It has an adjustable nose clip, soft foam nose piece, non-irritating inner face piece and elasticated retaining straps. The mask has passed the optional Dolomite clogging test, giving the user better breathing resistance for longer. Suitable for use with: Brick dust, Concrete and plaster, Soft and hard wood, MDF dust, Masonry / concrete dust, Metalworking with power tools, Loft insulation / fibreglass, Mineral fibres, Silica. Pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Valved Masks FFP3 with Mesh (Pack of 2)",
+  "specifications": [
+    "Pack of 2",
+    "High resistance to clogging",
+    "Exhalation valve for easier breathing",
+    "Adjustable nose clip",
+    "Soft foam nose piece",
+    "Non-irritating inner face piece",
+    "Elasticated retaining straps",
+    "Passed Dolomite clogging test"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-classic-series-ffp3-nr-d-valved-masks.html|>
+## Moldex Classic Series FFP3 NR D Valved Masks
+
+{
+  "price": "€50.31 inc VAT",
+  "description": "The Moldex Pack of 20 FFP3 NR D Classic Series Valved Masks, dual-purpose and ideally suited to most industrial applications. The loop strap makes it easy to put the mask on and take it off. The mask has DuraMesh® for optimum shape retention and durability. The ActivForm seal automatically adjusts to different face shapes and sizes with no need for metal nose clips. The Ventex®-valve reduces heat and moisture. FFP3 NR D for protection against harmful and carcinogenic dusts, fumes and aerosols based on water and oil, including radioactive particulates and airborne biological substances and enzymes. 20 x Workplace exposure limit. EN149:2001 + A1:2009",
+  "availability": "In Stock",
+  "product_name": "Moldex Classic Series FFP3 NR D Valved Masks",
+  "specifications": [
+    "Pack of 20",
+    "DuraMesh® for optimum shape retention",
+    "ActivForm seal for different face shapes",
+    "Ventex®-valve reduces heat and moisture",
+    "FFP3 NR D protection against harmful dusts and fumes",
+    "EN149:2001 + A1:2009 compliance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-moulded-disposable-masks-valved-ffp3-protection.html|>
+## Scan Moulded Disposable MaskS Valved FFP3 Protection
+
+{
+  "price": "from €8.99 inc VAT",
+  "description": "These Scan FPP3 Premier valved disposable masks are designed to cover the nose, mouth and chin. The construction is made of the filter material itself, and the exhalation valve makes breathing easier. These masks have passed the optional Dolomite clogging test, giving the user better breathing resistance for longer. They are ideal for use with: Toxic waste disposal, Casting metals, Smoke fumes, Paint and varnish fumes, Welding, Hand and power sanding of soft and hard wood and MDF dust, Masonry and concrete dust, Metalworking with power tools, Loft insulation/fibre glass, Mineral fibres, Silica. With a FPP3 protection level, these masks will protect lungs against very fine particles (less than 2 microns), such as very fine dusts, fibres, aqueous mists and oil based mists. The masks have elasticated retaining straps to keep them securely in place. In addition they have an adjustable nose clip and full PVC face seal for custom fitting. The non-irritating inner face piece ensures added comfort. To be disposed of after each period of work or 8 hour shift. The masks conform to EN149: 2001 + A1: 2009.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Disposable MaskS Valved FFP3 Protection",
+  "specifications": [
+    "FPP3 protection level",
+    "Elasticated retaining straps",
+    "Adjustable nose clip",
+    "Full PVC face seal",
+    "Non-irritating inner face piece",
+    "Conforms to EN149: 2001 + A1: 2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-air-plus-mask-ffp3-rd-valved-reusable.html|>
+## Moldex AIR Plus Mask FFP3 RD Valved Reusable
+
+{
+  "price": "€17.66 inc VAT (€14.36 exc.vat)",
+  "description": "The Moldex AIR Plus Series Reusable FFP3 RD Mask features a washable full face seal which can be used for longer than a shift. The AirWave® Pleated Filter reduces breathing resistance, improves wearer comfort and minimises fatigue. A Ventex® valve helps to reduce moisture and heat. The ActivForm seal automatically adjusts to different face shapes and sizes with no need for metal nose clips. There is also an adjustable strap and clip. FFP3 for protection against toxic dusts, mists and fumes 20 x WEL (Workplace Exposure Limit). Tested and certified to EN 149:2001+A1:2009.",
+  "availability": "In Stock",
+  "product_name": "Moldex AIR Plus Mask FFP3 RD Valved Reusable",
+  "specifications": [
+    "MOL340512",
+    "FFP3 protection against toxic dusts, mists and fumes",
+    "Washable full face seal",
+    "AirWave® Pleated Filter",
+    "Ventex® valve to reduce moisture and heat",
+    "ActivForm seal adjusts to different face shapes",
+    "Adjustable strap and clip",
+    "Tested and certified to EN 149:2001+A1:2009"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-air-plus-provalve-mask-ffp3-rd-real-reusable.html|>
+## Moldex AIR Plus ProValve Mask FFP3 RD Real Reusable
+
+{
+  "price": "€16.33 inc VAT (€13.28 exc.vat)",
+  "description": "The Moldex AIR Plus ProValve Real Reusable FFP3 Mask has a washable full face seal and offers a secure fit, that is comparable to a half mask. The AirWave® Pleated Filter reduces breathing resistance, improves wearer comfort and minimises fatigue. Offers low breathing resistance even after hours of use. The built-in ProValve reduces condensation from exhaled air. Masks are individually packaged.",
+  "availability": "In Stock",
+  "product_name": "Moldex AIR Plus ProValve Mask FFP3 RD Real Reusable",
+  "specifications": [
+    "FFP3 for protection against toxic dusts, mists and fumes 20 x WEL (Workplace Exposure Limit)",
+    "Tested and certified to EN 149:2001+A1:2009",
+    "Washable full face seal",
+    "AirWave® Pleated Filter",
+    "Built-in ProValve reduces condensation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-premium-multipurpose-respirator-p3.html|>
+## Vitrex Premium Multipurpose Respirator P3
+
+{
+  "price": "€8.29 inc VAT",
+  "description": "The Vitrex Premium Multipurpose Respirator protects the lungs against fine toxic particles, fitted with a breathe-easy valve for extra comfort. Provides suitable protection from welding and smoke fumes, paint removal and toxic waste disposal. Ergonomically designed for an airtight seal, whilst providing a secure and comfortable fit. With a colour-coded nose clip for simple identification. Ideal for use with MDF, hardwoods, fibreglass and most power tools. Conforms to EN 148:2001+A1:2009 FFP3 NR.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Premium Multipurpose Respirator P3",
+  "specifications": [
+    "Protects against fine toxic particles",
+    "Fitted with a breathe-easy valve",
+    "Ergonomically designed for an airtight seal",
+    "Ideal for use with MDF, hardwoods, fibreglass",
+    "Conforms to EN 148:2001+A1:2009 FFP3 NR"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-standard-ear-defender-snr26.html|>
+## Standard Ear Defender SNR26
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "This lightweight Scan ear defender with slimline ear cups is ideal for general purpose. The soft and wide PVC ear cushions, combined with the flexible headband with foam padding and adjustable cup height ensure a comfortable fit. It is effective in reducing noise levels whilst still allowing the wearer to continue hearing normal conversation. The ear defender has a Simplified Noise Level Reduction (SNR) of 26, meaning it will reduce noise by 26 decibels (db). Conform to EN352-1: 1993",
+  "availability": "In Stock",
+  "product_name": "Standard Ear Defender SNR26",
+  "specifications": [
+    "SNR: 26 dB",
+    "Lightweight design",
+    "Soft PVC ear cushions",
+    "Adjustable cup height",
+    "Conforms to EN352-1: 1993"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-tapered-foam-earplugs-6-pairs-snr29.html|>
+## Scan Tapered Foam Earplugs (6 Pairs) SNR29
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Scan Tapered Foam Ear Plugs - Made from soft energy absorbing polymer foam, which compresses and then expands for a perfect fit in the ear canal. Reduces sound levels to the ear drum while maintaining aural contact. SNR = 33dB (Simplified Noise Level Reduction (SNR) =the number of decibels reduced by the product). Easy insertion and removal. 6 pairs in 3 re-sealable containers each with 2 pairs of ear plugs. Conforms to EN352-2:2002.",
+  "availability": "In Stock",
+  "product_name": "Scan Tapered Foam Earplugs (6 Pairs) SNR29",
+  "specifications": [
+    "SNR = 33dB",
+    "Easy insertion and removal",
+    "6 pairs in 3 re-sealable containers",
+    "Conforms to EN352-2:2002"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-foam-earplugs--cord-6-pairs-snr29.html|>
+## Scan Foam Earplugs + Cord (6 Pairs) SNR29
+
+{
+  "price": "€4.91 inc VAT (€3.99 exc.vat)",
+  "description": "Scan Tapered Foam Ear Plugs - Made from soft energy absorbing polymer foam, which compresses and then expands for a perfect fit in the ear canal with the benefit of attached cords to avoid dropping or loss and are visible in use. Reduces sound levels to the ear drum while maintaining aural contact. SNR = 33dB (Simplified Noise Level Reduction (SNR) =the number of decibels reduced by the product). Easy insertion and removal. 6 pairs in 3 re-sealable containers each with 2 pairs of ear plugs. Conforms to EN352-2:2002.",
+  "availability": "In Stock",
+  "product_name": "Scan Foam Earplugs + Cord (6 Pairs) SNR29",
+  "specifications": [
+    "SNR = 33dB",
+    "6 pairs in 3 re-sealable containers",
+    "Conforms to EN352-2:2002"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-ear-protectors.html|>
+## Vitrex Ear Protectors
+
+{
+  "price": "€8.71 inc VAT (€7.08 exc.vat)",
+  "description": "The Vitrex 33 3100 Ear Protectors have a lightweight design with foam padded cups for extended use. Fully adjustable, contoured headband. Suitable for use with power tools, fibreglass and woodwork.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Ear Protectors",
+  "specifications": [
+    "Lightweight design",
+    "Foam padded cups",
+    "Fully adjustable headband",
+    "Suitable for power tools, fibreglass, and woodwork",
+    "EN352 Part 1 compliant"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-ear-caps-with-foldable-headband.html|>
+## Vitrex Ear Caps with Foldable Headband
+
+{
+  "price": "€7.50 inc VAT (€6.10 exc.vat)",
+  "description": "The Vitrex 33 3120 Ear Caps With Foldable Headband are multi-positional, meaning that they can be worn over the head, under the chin or behind the neck. The ear caps are suitable for most DIY and power tool applications and will fold small, for convenient pocket storage. Supplied complete with 2 pairs of replacement caps. Tested to European Standard EN352. Part 2. CE Approved. SNR Rating: 24db.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Ear Caps with Foldable Headband",
+  "specifications": [
+    "Multi-positional design",
+    "Suitable for DIY and power tool applications",
+    "Folds for convenient storage",
+    "Includes 2 pairs of replacement caps",
+    "Tested to European Standard EN352. Part 2",
+    "CE Approved",
+    "SNR Rating: 24db"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-tapered-disposable-earplugs-5-pairs.html|>
+## Vitrex Tapered Disposable Earplugs (5 Pairs)
+
+{
+  "price": "€3.58 inc VAT (€2.91 exc.vat)",
+  "description": "The Vitrex 33 3140 Tapered Disposable Ear Plugs are made from foam and shaped for easy insertion. Their smooth outer surface ensures better hygiene. Suitable for most DIY and power tool applications. Tested to European Standard EN352 Part 2. CE Approved. SNR Rating: 33db. Supplied as a pack of 5 pairs.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Tapered Disposable Earplugs (5 Pairs)",
+  "specifications": [
+    "Made from foam",
+    "Shaped for easy insertion",
+    "Smooth outer surface for better hygiene",
+    "SNR Rating: 33db",
+    "Supplied as a pack of 5 pairs",
+    "Tested to European Standard EN352 Part 2",
+    "CE Approved"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-mx-7-30mm-euro-slot-helmet-mounted-earmuffs-snr-31db.html|>
+## Moldex MX-7 30mm Euro Slot Helmet Mounted Earmuffs SNR 31dB
+
+{
+  "price": "€54.78 inc VAT (€44.54 exc.vat)",
+  "description": "The Moldex MX-7 Helmet Mounted Earmuffs fit helmets with 30mm Euro slots. They have a flexible, lightweight design with smooth sliding size adjustment. Fitted with viscoelastic foam cushions for improved pressure distribution and increased comfort. The larger cup openings are designed to fit most ear sizes. Has a single number rating (SNR) of 31dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex MX-7 30mm Euro Slot Helmet Mounted Earmuffs SNR 31dB",
+  "specifications": [
+    "Fits helmets with 30mm Euro slots",
+    "Flexible, lightweight design",
+    "Smooth sliding size adjustment",
+    "Viscoelastic foam cushions for comfort",
+    "Larger cup openings for most ear sizes",
+    "SNR rating of 31dB"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-corded-reusable-twisters-trio-earplugs-snr-33db.html|>
+## Moldex Corded Reusable Twisters Trio Earplugs SNR 33dB
+
+{
+  "price": "€3.21 inc VAT (€2.61 exc.vat)",
+  "description": "Moldex Corded reusable Twisters Trio Earplugs have a multi-curved stem that rotates, providing a custom fit. They have a soft, washable TPE pod, meaning that they are reusable, they can be use for several weeks before disposal. Fitted with a large handle for easy insertion and removal. They are supplied in a handy storage container to keep the plugs hygienic between use. Has a single number rating (SNR) of 33dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex Corded Reusable Twisters Trio Earplugs SNR 33dB",
+  "specifications": [
+    "SNR 33dB rating",
+    "Reusable TPE pod",
+    "Multi-curved stem for custom fit",
+    "Large handle for easy insertion and removal",
+    "Supplied in a storage container"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-corded-semi-reusable-twisters-earplugs-snr-34db.html|>
+## Moldex Corded Semi-Reusable Twisters Earplugs SNR 34dB
+
+{
+  "price": "€1.27 inc VAT (€1.03 exc.vat)",
+  "description": "Moldex Corded Semi-Reusable Twisters Earplugs have a multi-curved stem that rotates, providing a custom fit. Soft foam pods allow for a comfortable, snug seal. These plugs are semi-reusable, they can be use for several days before disposal. Fitted with a large handle for easy insertion and removal. The cord can be attached at any desired length, for universal adjustment. Has a single number rating (SNR) of 34dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex Corded Semi-Reusable Twisters Earplugs SNR 34dB",
+  "specifications": [
+    "SNR 34dB rating",
+    "Multi-curved stem for custom fit",
+    "Soft foam pods for comfort",
+    "Semi-reusable for several days",
+    "Large handle for easy insertion and removal",
+    "Cord adjustable to desired length"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-waveband-1k-banded-earplugs-snr-27db.html|>
+## Moldex WaveBand 1K Banded Earplugs SNR 27dB
+
+{
+  "price": "€7.26 inc VAT (€5.90 exc.vat)",
+  "description": "Moldex WaveBand 1K Banded Earplugs provide a cost effective and convenient option against intermittent noise throughout the day. Comfortably worn under the chin away from the body and clothing creating freedom of movement and eliminating the problem of noise transmission. They have an extremely light weight design, only 12g, with low band pressure so they can be worn for longer periods of time. Has a single number rating (SNR) of 27dB.",
+  "availability": "Out of Stock",
+  "product_name": "Moldex WaveBand 1K Banded Earplugs SNR 27dB",
+  "specifications": [
+    "SNR 27dB rating",
+    "Lightweight design (12g)",
+    "Comfortable under-chin wear"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-corded-pura-fit-disposable-earplugs-snr-35db.html|>
+## Moldex Corded Pura-Fit Disposable Earplugs SNR 35dB
+
+{
+  "price": "€0.66 inc VAT (€0.54 exc.vat)",
+  "description": "Moldex Corded Pura-Fit Disposable Earplugs are made from comfortable PU foam, this soft material is easy to insert. Ideal for protecting against long term exposure and higher noise levels. They are brightly coloured for easy compliance checks. Has a single number rating (SNR) of 35dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex Corded Pura-Fit Disposable Earplugs SNR 35dB",
+  "specifications": [
+    "SNR 35dB rating",
+    "Made from comfortable PU foam",
+    "Brightly coloured for easy compliance checks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-corded-reusable-rockets-earplugs.html|>
+## Moldex Corded Reusable Rockets® Earplugs
+
+{
+  "price": "€7.08 inc VAT",
+  "description": "Moldex Corded Reusable Rockets® Earplugs are suitable for protection against long-term exposure. These plugs can be cleaned and reused over longer periods. Dual material composition ensures easy insertion and maximum comfort. The cord is manufactured as an integral part of the plug. With an air bubble in the tip and soft material to provide a comfortable seal. They are supplied in a handy PocketPak storage container to keep the plugs hygienic between use. Has a signal to noise ratio (SNR) of 30dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex Corded Reusable Rockets® Earplugs",
+  "specifications": [
+    "SNR of 30dB",
+    "Reusable and washable",
+    "Includes PocketPak storage container"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-earplug-dispenser-250-pairs.html|>
+## Scan Earplug Dispenser (250 Pairs)
+
+{
+  "price": "€64.99 inc VAT (€52.84 exc.vat)",
+  "description": "Scan Earplugs are made from soft energy absorbing polymer foam, which compresses and then expands for a perfect fit in the ear canal. This reduces sound levels to the ear drum while maintaining aural contact. The dispenser contains 250 pairs of earplugs and can be wall mounted or free standing. This product has an industrial rating. Recommended shelf life of 3 years. SNR 34 dB noise reduction. Conforms to EN 352-2.",
+  "availability": "In Stock",
+  "product_name": "Scan Earplug Dispenser (250 Pairs)",
+  "specifications": [
+    "SNR 34 dB noise reduction",
+    "Conforms to EN 352-2",
+    "Recommended shelf life of 3 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-banded-foam-ear-bud-snr27.html|>
+## Scan Banded Foam Ear Bud SNR27
+
+{
+  "price": "€4.56 inc VAT (€3.71 exc.vat)",
+  "description": "The Scan Banded Foam Ear Bud is fitted with round earplugs that are made from a polymer foam and mounted onto a headband for an enhanced and secure fit. It has an SNR of 27 dB reduction. This will significantly reduce the ambient noise levels surrounding the user, offering additional protection. The protection level and lightweight construction makes them the ideal product to be worn for long periods of time. Recommended shelf life of 3 years. Conforms to EN 352-2.",
+  "availability": "In Stock",
+  "product_name": "Scan Banded Foam Ear Bud SNR27",
+  "specifications": [
+    "SNR of 27 dB reduction",
+    "Made from polymer foam",
+    "Mounted onto a headband",
+    "Recommended shelf life of 3 years",
+    "Conforms to EN 352-2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-pressure-reducing-silicone-earplugs-snr24-3-pairs.html|>
+## Scan Pressure-Reducing Silicone Earplugs SNR24 (3 Pairs)
+
+{
+  "price": "€9.75 inc VAT (€7.93 exc.vat)",
+  "description": "Scan Pressure-Reducing Earplugs are made from silicone, making them cleanable and reusable. They are a Class 4 product with an SNR 24 dB rating. Suitable for reducing ambient noise or reducing the effects of in-flight cabin pressure. Supplied in a resealable container. Recommended shelf life of 3 years. Conforms to EN 352-2.",
+  "availability": "In Stock",
+  "product_name": "Scan Pressure-Reducing Silicone Earplugs SNR24 (3 Pairs)",
+  "specifications": [
+    "SNR 24 dB rating",
+    "Made from silicone",
+    "Cleanable and reusable",
+    "Class 4 product",
+    "Supplied in a resealable container",
+    "Recommended shelf life of 3 years",
+    "Conforms to EN 352-2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-silicone-earplugs-snr32-3-pairs.html|>
+## Scan Silicone Earplugs SNR32 (3 Pairs)
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "These Scan Earplugs are made from silicone making them cleanable and reusable. They are a Class 4 product with an SNR 32 dB rating. Supplied in a resealable container. Recommended shelf life of 3 years. Conforms to EN352-2.",
+  "availability": "In Stock",
+  "product_name": "Scan Silicone Earplugs SNR32 (3 Pairs)",
+  "specifications": [
+    "SNR 32 dB rating",
+    "Made from silicone",
+    "Cleanable and reusable",
+    "Supplied in a resealable container",
+    "Recommended shelf life of 3 years",
+    "Conforms to EN352-2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-ep04-orange-corded-earplugs-pack-50.html|>
+## Portwest EP04 Orange Corded Earplugs (Pack 50)
+
+{
+  "price": "€51.33 inc VAT (€41.73 exc.vat)",
+  "description": "Reusable, corded earplugs. TPE (thermo plastic elastomer) material moulds to the ear canal. Noise blocking fins absorb more inner ear sound. Each pair comes hygienically wrapped with fitting instructions. SNR 21 dB. Conform EN 352-2.",
+  "availability": "In Stock",
+  "product_name": "Portwest EP04 Orange Corded Earplugs (Pack 50)",
+  "specifications": [
+    "Reusable",
+    "Corded",
+    "TPE material",
+    "Noise blocking fins",
+    "SNR 21 dB",
+    "Conform EN 352-2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-ps46-grey-premium-ear-muff.html|>
+## Portwest PS46 Grey Premium Ear Muff
+
+{
+  "price": "€25.12 inc VAT (€20.42 exc.vat)",
+  "description": "Lightweight and robust\n\nSNR 34 dB\n\nAdjustable dual pin system provides multiple positioning for better fit\n\nPadded headband for comfort\n\nConforms to EN 352-1",
+  "availability": "Out of Stock",
+  "product_name": "Portwest PS46 Grey Premium Ear Muff",
+  "specifications": [
+    "Lightweight and robust",
+    "SNR 34 dB",
+    "Adjustable dual pin system for better fit",
+    "Padded headband for comfort",
+    "Conforms to EN 352-1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw40-yellow-classic-ear-muffs.html|>
+## PW40 Yellow Classic Ear Muffs
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "Lightweight and robust. Multiple position headband with super soft ear cushions for all-day comfort. The ear cups are filled with sound absorbing foam that filters harmful noises out. Excellent attenuation SNR 27 dB. Conform to EN 352-1.",
+  "availability": "In Stock",
+  "product_name": "PW40 Yellow Classic Ear Muffs",
+  "specifications": [
+    "Lightweight and robust",
+    "Multiple position headband",
+    "Super soft ear cushions",
+    "Sound absorbing foam",
+    "Excellent attenuation SNR 27 dB",
+    "Conform to EN 352-1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw41-yellow-super-ear-muffs.html|>
+## Portwest PW41 Yellow Super Ear Muffs
+
+{
+  "price": "€11.30 inc VAT (€9.19 exc.vat)",
+  "description": "Ultra lightweight for prolonged usage. The large sound absorbing foam filled cups are constructed using high-impact polystyrene, SNR 28 dB. Adjustable dual pin mounting system provides multiple positioning for better fit. Folds to palm size preventing external contamination. Conform to EN 352-1.",
+  "availability": "Out of Stock",
+  "product_name": "Portwest PW41 Yellow Super Ear Muffs",
+  "specifications": [
+    "Ultra lightweight for prolonged usage",
+    "Large sound absorbing foam filled cups",
+    "Constructed using high-impact polystyrene",
+    "SNR 28 dB",
+    "Adjustable dual pin mounting system",
+    "Folds to palm size",
+    "Conform to EN 352-1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw42-yellow-clip-on-ear-muffs.html|>
+## Portwest PW42 Yellow Clip-On Ear Muffs
+
+{
+  "price": "€13.67 inc VAT (€11.11 exc.vat)",
+  "description": "Helmet mounted ear protectors assembled with large acoustic foam filled cups. Excellent attenuation to SNR 23 dB. The protectors can be put into the stand off position. This product is compatible with the helmet range. Conform to EN 352-3.",
+  "availability": "In Stock",
+  "product_name": "Portwest PW42 Yellow Clip-On Ear Muffs",
+  "specifications": [
+    "SNR 23 dB attenuation",
+    "Compatible with helmet range",
+    "Conforms to EN 352-3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-sy345c-padded-ear-defenders-snr-26-db.html|>
+## STANLEY® SY345C Padded Ear Defenders SNR 26 dB
+
+{
+  "price": "€10.26 inc VAT (€8.34 exc.vat)",
+  "description": "The Stanley SY345C Padded Ear Defenders have a lightweight construction and soft, foam-filled padded earcups that provide all-day comfort. The adjustable, padded headband provides added comfort. Excellent Single Number Rating (SNR) of 26 dB.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® SY345C Padded Ear Defenders SNR 26 dB",
+  "specifications": [
+    "SNR 26 dB",
+    "Lightweight construction",
+    "Soft, foam-filled padded earcups",
+    "Adjustable, padded headband"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-m4-earmuffs-snr-30db.html|>
+## Moldex M4 Earmuffs SNR 30dB
+
+{
+  "price": "€39.15 inc VAT (€31.83 exc.vat)",
+  "description": "The Moldex M4 Earmuffs are flexible and lightweight with an appealing, stylish design. Seamless workmanship make these earmuffs robust and durable with grip points for easy on-head adjustment. They also feature a smooth sliding mechanism for size adjustment. The extra soft foam air cushions and low contact pressure ensure the M-Series are extremely comfortable. Has a single number rating (SNR) of 30dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex M4 Earmuffs SNR 30dB",
+  "specifications": [
+    "SNR 30dB rating",
+    "Flexible and lightweight design",
+    "Seamless workmanship for durability",
+    "Easy on-head adjustment",
+    "Smooth sliding mechanism for size adjustment",
+    "Extra soft foam air cushions",
+    "Low contact pressure for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-m5-earmuffs-snr-34db.html|>
+## Moldex M5 Earmuffs SNR 34dB
+
+{
+  "price": "€44.82 inc VAT (€36.44 exc.vat)",
+  "description": "The Moldex M5 Earmuffs are flexible and lightweight with an appealing, stylish design. Seamless workmanship make these earmuffs robust and durable with grip points for easy on-head adjustment. They also feature a smooth sliding mechanism for size adjustment. The extra soft foam air cushions and low contact pressure ensure the M-Series are extremely comfortable. Has a single number rating (SNR) of 34dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex M5 Earmuffs SNR 34dB",
+  "specifications": [
+    "SNR 34dB rating",
+    "Flexible and lightweight design",
+    "Seamless workmanship for durability",
+    "Easy on-head adjustment",
+    "Smooth sliding mechanism for size adjustment",
+    "Extra soft foam air cushions",
+    "Low contact pressure for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-m6-earmuffs-snr-35db.html|>
+## Moldex M6 Earmuffs SNR 35dB
+
+{
+  "price": "€52.87 inc VAT (€42.98 exc.vat)",
+  "description": "The Moldex M6 Earmuffs are flexible and lightweight with an appealing, stylish design. Seamless workmanship make these earmuffs robust and durable with grip points for easy on-head adjustment. They also feature a smooth sliding mechanism for size adjustment. The extra soft foam air cushions and low contact pressure ensure the M-Series are extremely comfortable. Has a single number rating (SNR) of 35dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex M6 Earmuffs SNR 35dB",
+  "specifications": [
+    "SNR 35dB rating",
+    "Flexible and lightweight design",
+    "Seamless workmanship for durability",
+    "Easy on-head adjustment",
+    "Smooth sliding mechanism for size adjustment",
+    "Extra soft foam air cushions",
+    "Low contact pressure for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-reuseable-earplugs-rockets-snr-30db-1-pair.html|>
+## Moldex Reuseable Earplugs Rockets SNR 30dB (1 Pair)
+
+{
+  "price": "€2.78 inc VAT (€2.26 exc.vat)",
+  "description": "Suitable to protect against long-term exposure. Reusable plugs can be cleaned and reused over longer periods. -Dual material ensures easy insertion and maximum comfort. -Air bubble in the tip and soft material provides a comfortable seal. -Plugs come in the pocket pack storage container. -SNR 30",
+  "availability": "In Stock",
+  "product_name": "Moldex Reuseable Earplugs Rockets SNR 30dB (1 Pair)",
+  "specifications": [
+    "Dual material for comfort",
+    "Air bubble in the tip for a comfortable seal",
+    "Reusable and can be cleaned",
+    "Comes in a pocket pack storage container",
+    "SNR 30"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-rockets-corded-earplugs-snr30-pack-50-pairs.html|>
+## Moldex Rockets Corded Earplugs SNR30 (Pack 50 Pairs)
+
+{
+  "price": "€158.50 inc VAT (€128.86 exc.vat)",
+  "description": "The Moldex MOL6401 Rockets Corded Earplugs are made of soft material which is gentle on the skin. They are supplied in a handy storage container to keep the plugs hygienic between use. The plugs are easy to insert due to the solid handle and can be washed, enabling repeat use. The cord is manufactured as an integral part of the plug. This hearing protection has a single number rating (SNR) of 30 dB.",
+  "availability": "In Stock",
+  "product_name": "Moldex Rockets Corded Earplugs SNR30 (Pack 50 Pairs)",
+  "specifications": [
+    "SNR 30 dB rating",
+    "Pack of 50 pairs",
+    "Soft material for comfort",
+    "Washable and reusable",
+    "Includes storage container"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-banded-earplugs-jazz---band-snr-23db.html|>
+## Moldex Banded Earplugs Jazz - Band SNR 23dB
+
+{
+  "price": "€12.00 inc VAT (€9.76 exc.vat)",
+  "description": "The Moldex MOL6700 Banded Earplugs Jazz is the cost effective and convenient option against intermittent noise throughout the day. The dual material technology reduces noise transmission and the neck cord has a safety release mechanism. This hearing protection equipment has a single number rating (SNR) of 23. The Moldex MOL6700 Banded Earplugs Jazz has comfortable foam pods which are replaceable. Please note that the replacement foam pods come under product code 6750.",
+  "availability": "In Stock",
+  "product_name": "Moldex Banded Earplugs Jazz - Band SNR 23dB",
+  "specifications": [
+    "SNR 23dB rating",
+    "Dual material technology",
+    "Replaceable foam pods",
+    "Neck cord with safety release mechanism"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-replacement-pods-for-jazz-and-wave-bands.html|>
+## Moldex Replacement Pods for Jazz & Wave Bands
+
+{
+  "price": "€96.38 inc VAT (€78.36 exc.vat)",
+  "description": "Replacement pods for the Moldex Jazz Band and Wave Band hearing protectors. Made of soft foam for exceptional user comfort. Bright yellow/green. Contains 50 pairs.",
+  "availability": "In Stock",
+  "product_name": "Moldex Replacement Pods for Jazz & Wave Bands",
+  "specifications": [
+    "MOL6825 : €96.38",
+    "Contains 50 pairs",
+    "Made of soft foam for exceptional user comfort",
+    "Bright yellow/green"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-wall-mount-for-station.html|>
+## Moldex Wall Mount For Station
+
+{
+  "price": "€10.52 inc VAT (€8.55 exc.vat)",
+  "description": "The Moldex MOL7060 Wall mount for Moldex Stations. The Moldex Station is made of durable plastic and can be replaced in one easy step. Please note that the mounting bracket comes separately.",
+  "availability": "In Stock",
+  "product_name": "Moldex Wall Mount For Station",
+  "specifications": [
+    "MOL7060",
+    "Wall mount for Moldex Stations",
+    "Durable plastic construction",
+    "Mounting bracket sold separately"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-disposable-foam-earplugs-mellows-station-250-pairs-snr-22.html|>
+## Moldex Disposable Foam Earplugs Mellows Station 250 Pairs SNR 22
+
+{
+  "price": "€87.79 inc VAT (€71.37 exc.vat)",
+  "description": "The Moldex MOL7625 Disposable Foam Earplugs Mellows Station contains 250 pairs of mellow earplugs. The station is made from recyclable material and with only 2% wastage, the dispenser puts protection at the center of the workforce. The plugs remain hygienic as the dispenser mechanism is automatically replaced with every refill. The mellows are made from soft material that is easy to insert and offers protection against lower noise levels with a single number rating (SNR) of 22. The Disposable Foam Earplugs Mellows Station is designed to keep you in touch with your environment and aid communication.",
+  "availability": "In Stock",
+  "product_name": "Moldex Disposable Foam Earplugs Mellows Station 250 Pairs SNR 22",
+  "specifications": [
+    "250 pairs of earplugs",
+    "SNR 22 rating",
+    "Made from recyclable material",
+    "Hygienic dispenser mechanism"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-disposable-foam-earplugs-snr-35-5-pairs.html|>
+## Moldex Disposable Foam Earplugs SNR 35 (5 pairs)
+
+{
+  "price": "€5.14 inc VAT (€4.18 exc.vat)",
+  "description": "Comfortable PU foam earplugs to protect against long-term exposure. Made from soft material that is easy to insert. - Contoured shape. - Come with pocket pack storage container. - Five pairs of ear plugs and one pocket pack. - SNR 35",
+  "availability": "In Stock",
+  "product_name": "Moldex Disposable Foam Earplugs SNR 35 (5 pairs)",
+  "specifications": [
+    "Comfortable PU foam earplugs",
+    "Contoured shape",
+    "Pocket pack storage container",
+    "Five pairs of ear plugs",
+    "SNR 35"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-collapsible-ear-defender-snr25.html|>
+## Scan Collapsible Ear Defender SNR25
+
+{
+  "price": "€10.46 inc VAT (€8.50 exc.vat)",
+  "description": "This lightweight Scan ear defender is suitable general purpose. It is effective in reducing noise levels, whilst still allowing the wearer to hear normal conversation. The soft and wide PVC ear cushions enhance comfort, and the adjustable cup height is designed to fit the majority of wearers. The defender is foldable for easy storage. This ear defender has a Simplified Noise Level Reduction (SNR) of 25, meaning it will reduce noise by 25 decibels (db). Conforms to EN352-1:2002.",
+  "availability": "In Stock",
+  "product_name": "Scan Collapsible Ear Defender SNR25",
+  "specifications": [
+    "Lightweight design",
+    "Effective noise reduction",
+    "Adjustable cup height",
+    "Foldable for easy storage",
+    "SNR of 25 decibels",
+    "Conforms to EN352-1:2002"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fall-arrest-harness-2-point-anchorage.html|>
+## Fall Arrest Harness 2-Point Anchorage
+
+{
+  "price": "€51.93 inc VAT (€42.22 exc.vat)",
+  "description": "The Scan Fall arrest harness is a commonly used full body harness and comes with metal D-Ring attachment and leg straps. It is suitable for most work at height applications in the construction industry (scaffolders, steel erectors etc) and has fully adjustable leg, shoulder & chest straps. The rear dorsal plate slides upwards to keep the user upright after a fall and it has a robust metal front attachment point with polyester webbing and front and rear attachment. Conforms to EN 361 and comes in storage bag.",
+  "availability": "In Stock",
+  "product_name": "Fall Arrest Harness 2-Point Anchorage",
+  "specifications": [
+    "SCAFAHARN6 : €51.93",
+    "Fully adjustable leg, shoulder & chest straps",
+    "Metal D-Ring attachment",
+    "Suitable for work at height applications",
+    "Conforms to EN 361",
+    "Comes in storage bag"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fall-arrest-lanyard-195m-hook-and-connect.html|>
+## Scan Fall Arrest Lanyard 1.95m, Hook & Connect
+
+{
+  "price": "€51.93 inc VAT (€42.22 exc.vat)",
+  "description": "The Scan Fall Arrest Lanyard is a 1.95 metre Hook & Connect Lanyard. These are the connection between your harness and an anchor point. Made from 1.95m shock absorbing elasticated webbing, it has a 70mm gate opening lightweight scaffold hook, and an 18mm steel locking snap hook. Conforms to EN 355/354/362.",
+  "availability": "In Stock",
+  "product_name": "Scan Fall Arrest Lanyard 1.95m, Hook & Connect",
+  "specifications": [
+    "1.95 metre length",
+    "Shock absorbing elasticated webbing",
+    "70mm gate opening lightweight scaffold hook",
+    "18mm steel locking snap hook",
+    "Conforms to EN 355/354/362"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fall-arrest-pro-harness-5-point.html|>
+## Fall Arrest Pro Harness 5 Point
+
+{
+  "price": "€121.29 inc VAT (€98.61 exc.vat)",
+  "description": "The Scan Fall Arrest Pro Harness 5 Point is commonly used within the construction industry, by scaffolding and steel erectors plus any at height workman. It is made from 100% polyester and features: a dorsal attachment D-ring, 2 attachment webbing loops on the chest and thigh strap and 2 side D-rings on waist support belt, shoulder strap and thigh strap. It has a flexible, lightweight design that offers very little restriction to movement. Fitted with additional comfort features: a comfort pad within the waist support belt and an adjustable chest, waist and thigh strap. Supplied with a thick micron poly bag. Strength >23kN, manufactured and tested to EN 361.",
+  "availability": "In Stock",
+  "product_name": "Fall Arrest Pro Harness 5 Point",
+  "specifications": [
+    "Made from 100% polyester",
+    "Dorsal attachment D-ring",
+    "2 attachment webbing loops on chest and thigh strap",
+    "2 side D-rings on waist support belt",
+    "Flexible, lightweight design",
+    "Comfort pad within waist support belt",
+    "Adjustable chest, waist and thigh strap",
+    "Strength >23kN",
+    "Manufactured and tested to EN 361"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fall-arrest-rope-lanyard-128m.html|>
+## Scan Fall Arrest Rope Lanyard 1.28m
+
+{
+  "price": "€34.64 inc VAT (€28.16 exc.vat)",
+  "description": "The Scan Fall Arrest Rope Lanyard works with the user's safety harness. Light, comfortable and easy-to-use with little restriction to movement. Made from 100% polyester 3mm twist safety rope. Includes a large, forged snap hook carabiner. Supplied with a thick micron poly bag. Conforming to CE - EN 354, EN 358.",
+  "availability": "In Stock",
+  "product_name": "Scan Fall Arrest Rope Lanyard 1.28m",
+  "specifications": [
+    "Total Length: 1285-2000mm",
+    "Made from 100% polyester 3mm twist safety rope",
+    "Includes a large, forged snap hook carabiner",
+    "Conforming to CE - EN 354, EN 358"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-fall-arrest-twin-lanyard-18m.html|>
+## Scan Fall Arrest Twin Lanyard 1.8m
+
+{
+  "price": "€69.31 inc VAT (€56.35 exc.vat)",
+  "description": "The Scan Fall Arrest Twin Lanyard works with the user's safety harness. Light, comfortable and easy-to-use with little restriction to movement. The twin webbing is made from 100% polyester. Fitted with one integrated shock absorber carabiner and 2 large, forged hooks (strength >23kN).",
+  "availability": "In Stock",
+  "product_name": "Scan Fall Arrest Twin Lanyard 1.8m",
+  "specifications": [
+    "Webbing Width: 45mm",
+    "Webbing Length: 1825mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fp11-red-1-point-harness.html|>
+## Portwest FP11 Red 1-Point Harness
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "Entry level, lightweight full body harness\n\nDurable metal buckles with easy access\n\nLeg adjustment points\n\nRear D-ring for keys or ID cards\n\nContrasting webbing colours for easy inspection\n\nConforms to EN 361",
+  "availability": "Out of Stock",
+  "product_name": "Portwest FP11 Red 1-Point Harness",
+  "specifications": [
+    "Durable metal buckles with easy access",
+    "Leg adjustment points",
+    "Rear D-ring for keys or ID cards",
+    "Contrasting webbing colours for easy inspection",
+    "Conforms to EN 361"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fp15-2-point-fall-protection-harness.html|>
+## Portwest FP15 2-Point Fall Protection Harness
+
+{
+  "price": "€106.22 inc VAT (€86.36 exc.vat)",
+  "description": "Full body harness with breathable contoured backpad has quick-release connectors making it very easy to put on. Extended D-Ring shoulder strap arrangement for easy dorsal fittings. Nylon webbing. All points ensure even weight distribution and are adjustable for extra comfort. Conforms to EN 358 and EN 361.",
+  "availability": "In Stock",
+  "product_name": "Portwest FP15 2-Point Fall Protection Harness",
+  "specifications": [
+    "Full body harness with breathable contoured backpad",
+    "Quick-release connectors",
+    "Extended D-Ring shoulder strap arrangement",
+    "Nylon webbing",
+    "Adjustable for extra comfort",
+    "Conforms to EN 358 and EN 361"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fp21-white-single-lanyard.html|>
+## Portwest FP21 White Single Lanyard
+
+{
+  "price": "€39.31 inc VAT (€31.96 exc.vat)",
+  "description": "Made from 150cm polyester rope with scaffold hook and carabiner. Superior strength. Loops protected by abrasion resistant thimbles. Conforms to EN 354 and EN 358.",
+  "availability": "In Stock",
+  "product_name": "Portwest FP21 White Single Lanyard",
+  "specifications": [
+    "150cm polyester rope",
+    "Scaffold hook and carabiner",
+    "Superior strength",
+    "Loops protected by abrasion resistant thimbles",
+    "Conforms to EN 354 and EN 358"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fp51-double-lanyard-webbing-royal-blue.html|>
+## Portwest FP51 Double Lanyard Webbing Royal Blue
+
+{
+  "price": "€58.50 inc VAT (€47.56 exc.vat)",
+  "description": "Made from 180cm high-quality webbing. Double ended featuring hooks, carabiner and shock absorber. Conforms to EN 354, EN 355 and EN 362.",
+  "availability": "Out of Stock",
+  "product_name": "Portwest FP51 Double Lanyard Webbing Royal Blue",
+  "specifications": [
+    "Made from 180cm high-quality webbing",
+    "Double ended featuring hooks, carabiner and shock absorber",
+    "Conforms to EN 354, EN 355 and EN 362"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-wrist-tool-lanyard.html|>
+## Roughneck Wrist Tool Lanyard
+
+{
+  "price": "€9.56 inc VAT (€7.77 exc.vat)",
+  "description": "The Roughneck® Wrist Tool Lanyard has a wide elasticated cuff for security and comfort. The all-metal, heavy-duty snap-hook at the end of the webbing loop enables trouble-free attachment to the secure welded D-hook on either the wrist or tool lanyard. Its loop end with dual-channel barrel lock ensures tools are securely fastened. Designed to prevent accidents due to falling tools from height, tool lanyards also safeguard against the loss of equipment.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Wrist Tool Lanyard",
+  "specifications": [
+    "Overall Length: 350mm (13.75in)",
+    "Max. Tool Weight: 1.36kg (3 lb)",
+    "Webbing Loop Diameter: 250mm (10in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-single-tool-lanyard.html|>
+## Roughneck Single Tool Lanyard
+
+{
+  "price": "€14.44 inc VAT (€11.74 exc.vat)",
+  "description": "The Roughneck® Single Tool Lanyard has a strong, one-piece, internal shock cord with tight weave nylon webbing to prevent over-extension and snagging. Its loop end has a dual-channel barrel lock that ensures tools are securely fastened. Fitted with a stainless steel locking carabiner for durability and to prevent accidental disengagement. Multiple connection methods, including belt loop and carabiner, allow the flexibility to find the most suitable anchor point. Designed to prevent accidents due to falling tools from height, tool lanyards also safeguard against the loss of equipment.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Single Tool Lanyard",
+  "specifications": [
+    "Length: 900-1280mm (36-50in)",
+    "Max. Tool Weight: 3kg (6.6 lb)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-triple-connection-tool-lanyard.html|>
+## Roughneck Triple Connection Tool Lanyard
+
+{
+  "price": "€25.44 inc VAT (€20.68 exc.vat)",
+  "description": "The Roughneck® Triple Connection Tool Lanyard allows tools to be pre-loaded onto the 3 interchangeable loop ends. Tools are securely fastened with a dual-channel barrel lock. The lanyard has a strong, one-piece, internal shock cord with tight weave nylon webbing to prevent over-extension and snagging. Fitted with a stainless steel locking carabiner for durability and to prevent accidental disengagement. Multiple connection methods, including belt loop and carabiner, allow the flexibility to find the most suitable anchor point. Designed to prevent accidents due to falling tools from height, tool lanyards also safeguard against the loss of equipment. Supplied with 3 x Loop Ends with Dual-Channel Barrel Locks.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Triple Connection Tool Lanyard",
+  "specifications": [
+    "Length: 1000-1420mm (40-56in)",
+    "Max. Tool Weight: 3kg (6.6 lb) per end"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-tool-lanyard-attachments-3-piece.html|>
+## Scan Tool Lanyard Attachments (3 Piece)
+
+{
+  "price": "€13.15 inc VAT (€10.69 exc.vat)",
+  "description": "Scan Tool Lanyard Attachments are compatible with the Tool Lanyard (SCALYTOOL) and Tool Wrist Lanyard (SCALYWRIST), providing extra tethering points when using multiple tools. The lanyard ensures tools can be changed safely and quickly without the need to change the tethered tool. Attachments each feature a dual channel barrel lock and expand to 250mm in diameter.",
+  "availability": "In Stock",
+  "product_name": "Scan Tool Lanyard Attachments (3 Piece)",
+  "specifications": [
+    "Compatible with Tool Lanyard (SCALYTOOL)",
+    "Compatible with Tool Wrist Lanyard (SCALYWRIST)",
+    "Provides extra tethering points",
+    "Each attachment features a dual channel barrel lock",
+    "Expands to 250mm in diameter"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-tool-structure-lanyard.html|>
+## Tool Structure Lanyard
+
+{
+  "price": "€30.25 inc VAT (€24.59 exc.vat)",
+  "description": "The Scan Structure Lanyard is the perfect product when working at height with heavy hand or power tools, with a weight capacity of 15kg. This product offers security from accidental drops and slips protecting those below. Features include a closed eye, forged steel scaffold hook with a 50mm gate opening making it possible to attach to most structures and scaffold tubes.",
+  "availability": "In Stock",
+  "product_name": "Tool Structure Lanyard",
+  "specifications": [
+    "Overall Length: 1500 - 2500mm",
+    "Weight Capacity: 15kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-interchangeable-tool-lanyard.html|>
+## Interchangeable Tool Lanyard
+
+{
+  "price": "€16.42 inc VAT (€13.35 exc.vat)",
+  "description": "The Scan Interchangeable Tool Lanyard is the ideal product when working at height with heavy hand tools, with a weight capacity of 3kg. This product offers security from accidental drops and slips, protecting those below. Features include a closed eye, stainless-steel locking carabiner and one-piece internal shock cord. Compatible with Tool Lanyard Attachments (SCALYATT3) tool attachment pieces, offering the ability to add extra interchangeable tool attachments when multiple tools are required. Specification: Overall Length: 1000 - 1200mm.",
+  "availability": "In Stock",
+  "product_name": "Interchangeable Tool Lanyard",
+  "specifications": [
+    "Weight capacity: 3kg",
+    "Overall Length: 1000 - 1200mm",
+    "Compatible with Tool Lanyard Attachments (SCALYATT3)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-interchangeable-wrist-lanyard.html|>
+## Interchangeable Wrist Lanyard
+
+{
+  "price": "€10.70 inc VAT (€8.70 exc.vat)",
+  "description": "The Scan Interchangeable Wrist Lanyard for use when working at height with tools of a weight capacity of 1.36kg. This product offers security from accidental drops and slips, protecting those below, as well as keeping tools in close proximity while working. Features include an elasticated hook and loop wrist strap and stainless-steel D ring for easy tethering. Compatible with Tool Lanyard Attachments (SCALYATT3) tool attachment pieces, allowing the user to add extra interchangeable tool attachment for multiple tools.",
+  "availability": "In Stock",
+  "product_name": "Interchangeable Wrist Lanyard",
+  "specifications": [
+    "Weight capacity: 1.36kg",
+    "Elasticated hook and loop wrist strap",
+    "Stainless-steel D ring for easy tethering",
+    "Compatible with Tool Lanyard Attachments (SCALYATT3)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-00-50-05-t-bk-tethering-system-set-900mm.html|>
+## Knipex 00 50 05 T BK Tethering System Set 900mm
+
+{
+  "price": "€49.08 inc VAT (€39.90 exc.vat)",
+  "description": "The Knipex 00 50 05 T BK Tethering System Set is built for reliable tool protection. Reduces the risks of tool loss, injury to living beings and damage to objects. To meet regulations while working at heights, for example industrial climbing, arborists, rescue services, at sea, etc. The lanyard can be attached directly with the cord or the carabiner to climbing equipment or fixed points provided for this purpose, quick change of the belay from the tool bag to the tether. The roughly 90cm long gathered fabric strap tether stretches to a length of about 1.5m when weight is applied. Long lanyard for convenient working. Suitable for all KNIPEX pliers with a tether attachment point. Contains: 1 x Lanyard (00 50 01 T) with 1 x Carabiners (00 50 03 T).",
+  "availability": "In Stock",
+  "product_name": "Knipex 00 50 05 T BK Tethering System Set 900mm",
+  "specifications": [
+    "Max. Load: 1.5kg tool weight.",
+    "No PPE (personal protective equipment): not suitable for personal safety!"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-00-50-06-t-bk-tethering-system-set.html|>
+## Knipex 00 50 06 T BK Tethering System Set
+
+{
+  "price": "€64.02 inc VAT (€52.05 exc.vat)",
+  "description": "The Knipex 00 50 06 T BK Tethering System Set built for reliable tool protection. Reduces the risks of tool loss, injury to living beings and damage to objects. To meet regulations while working at heights, for example industrial climbing, arborists, rescue services, at sea, etc. The adapter strap can be attached directly with the cord or the carabiner to the climbing equipment or fixed points provided. Such as a quick change of the belay from the tool bag to the tether. Suitable for all KNIPEX pliers with a tether attachment point. Contains: 2 x Adapter Straps (00 50 01 T) with 2 x fixated Carabiners (00 50 03 T).",
+  "availability": "In Stock",
+  "product_name": "Knipex 00 50 06 T BK Tethering System Set",
+  "specifications": [
+    "Max. Load: 1.5kg tool weight.",
+    "No PPE (personal protective equipment): not suitable for personal safety!"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-00-50-04-t-bk-tethering-system-set-6-piece.html|>
+## Knipex 00 50 04 T BK Tethering System Set, 6 Piece
+
+{
+  "price": "€94.75 inc VAT (€77.03 exc.vat)",
+  "description": "This 6 Piece Knipex 00 50 04 T BK Tethering System Set built for reliable tool protection. Reduces the risks of tool loss, injury to living beings and damage to objects. To meet regulations while working at heights, for example industrial climbing, arborists, rescue services, at sea, etc. The combination of the separate parts produces a versatile system with a large number of attachment options. The roughly 90cm long gathered fabric strap tether stretches to a length of about 1.5m when weight is applied. Suitable for all KNIPEX pliers with a tether attachment point. Contains: 1 x Lanyard (00 50 01 T), 3 x Adapter Straps (00 50 02 T) and 2 x Carabiners (00 50 03 T).",
+  "availability": "In Stock",
+  "product_name": "Knipex 00 50 04 T BK Tethering System Set, 6 Piece",
+  "specifications": [
+    "Max. Load: 1.5kg tool weight.",
+    "No PPE (personal protective equipment): not suitable for personal safety!"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-wrist-lanyard-250mm-10in-11kg.html|>
+## Kuny's Wrist Lanyard 250mm (10in) 1.1kg
+
+{
+  "price": "€8.08 inc VAT (€6.57 exc.vat)",
+  "description": "This CLC premium quality Wrist Lanyard has a secure hook and loop closure. It has a 250mm webbing loop with a dual channel lock for secure tool attachment. Suitable for tools up to 1.1kg (2.5lb).",
+  "availability": "In Stock",
+  "product_name": "Kuny's Wrist Lanyard 250mm (10in) 1.1kg",
+  "specifications": [
+    "Wrist Lanyard 250mm (10in)",
+    "Weight capacity: 1.1kg (2.5lb)",
+    "Secure hook and loop closure",
+    "Dual channel lock for secure tool attachment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-tool-lanyard-78-110cm-31-44in-27kg.html|>
+## Kuny's Tool Lanyard 78-110cm (31-44in) 2.7kg
+
+{
+  "price": "€22.08 inc VAT (€17.95 exc.vat)",
+  "description": "This CLC superior quality Tool Lanyard is made of 12mm (1/2in) webbing with an internal shock cord and extends to 1.1m (44in). It includes a heavy-duty carabiner and a 250mm (10in) webbing loop with dual lock. Rated for tools up to 2.5kg (6lb).",
+  "availability": "In Stock",
+  "product_name": "Kuny's Tool Lanyard 78-110cm (31-44in) 2.7kg",
+  "specifications": [
+    "Length: 78-110cm (31-44in)",
+    "Weight Capacity: Up to 2.5kg (6lb)",
+    "Material: 12mm webbing with internal shock cord",
+    "Includes heavy-duty carabiner and webbing loop"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-triple-lanyard-100-140cm-41-56in-27kg.html|>
+## Kuny's Triple Lanyard 100-140cm 41-56in 2.7kg
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "This Kuny's premium quality Triple Lanyard comes with three interchangeable tool ends that have 25cm (10 inch) webbing loops with dual channel locks and HK clips for quick tool changes. The lanyard has a heavy-duty carabiner end and is rated for tools up to 2.7kg. It is made from 2cm webbing with an internal shock cord and extends from 100cm to 140cm (41 - 56 inches).",
+  "availability": "In Stock",
+  "product_name": "Kuny's Triple Lanyard 100-140cm 41-56in 2.7kg",
+  "specifications": [
+    "Length: 100-140cm (41-56in)",
+    "Weight Capacity: 2.7kg",
+    "Material: 2cm webbing with internal shock cord",
+    "Includes three interchangeable tool ends",
+    "Heavy-duty carabiner end"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-class-1-dual-hand-chainsaw-leather-gloves.html|>
+## Scan Class 1 Dual Hand Chainsaw Leather Gloves
+
+{
+  "price": "€33.79 inc VAT",
+  "description": "The Scan Class 1 Dual Hand Chainsaw Leather Gloves offer protection while operating chainsaws up to a maximum speed of 20m/s. The durable premium leather knuckle guard and palm protect the hand. 4-way spandex ensures a comfortable and snug fit whilst allowing for flexibility and ease of movement while working. The combination of these materials makes for a reliable and long-lasting piece of safety gear offering both functionality and comfort. This glove is ideal for forestry workers, arborists, and other professionals who work with chainsaws and is an essential accessory ensuring your hands are protected from harm while you work. Conforms to EN11393-4.",
+  "availability": "In Stock",
+  "product_name": "Scan Class 1 Dual Hand Chainsaw Leather Gloves",
+  "specifications": [
+    "Size Options: L (Size 9), XL (Size 10)",
+    "Maximum Speed: 20m/s",
+    "Material: Premium leather with 4-way spandex",
+    "Conforms to EN11393-4"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-powered-air-purifying-welding-respirator.html|>
+## DEWALT Respiration Powered Air Purifying Welding Respirator
+
+{
+  "price": "€2,571.73 inc VAT (€2,090.84 exc.vat)",
+  "description": "The DEWALT Welding Powered Air Purifying Respirator with Bump Cap and integrated Auto Darkening Filter (ADF) Lens revolutionises the welding safety landscape by offering welders an all-in-one solution for respiratory, eye, face and hearing protection. Engineered with innovative features and cutting-edge technology, this PAPR system ensures comprehensive protection without the need for multiple pieces of personal protective equipment or face fit testing. P3 filtration technology ensures superior protection against a wide range of airborne hazards commonly found in welding settings. Experience unmatched safety and efficiency with the DEWALT Welding PAPR. It’s the ultimate choice for welders who demand top-notch performance from their protective gear. Suitable for use in a range of welding applications, including: MIG, MAG, TIG, MMA, SMAW, Carbon Arc and Plasma Arc. Supplied in a TOUGHSYSTEM® toolbox for easy transportation.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Respiration Powered Air Purifying Welding Respirator",
+  "specifications": [
+    "Respirator Head Size: 53-63cm",
+    "Filter Type: P3 R Particulate",
+    "Filter Efficiency: 99.98% @0.3 Micron",
+    "Approvals and Certification: Respiratory Protection: EN 12941:1998+A2:2008; Head Protection: EN 397:2012+A1:2012; Eye/Face Protection: EN 379:2003+A1:2009, CE 2797, UKCA 0086"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-compactmask-maintenance-free-half-mask.html|>
+## Moldex CompactMask Maintenance Free Half Mask
+
+{
+  "price": "€48.72 inc VAT",
+  "description": "The Moldex CompactMasks are a maintenance free half mask with horizontally shaped integrated filters and a low profile design for excellent field of vision. It can be worn with other safety equipment, including face shields, welding helmets and goggles. The pleated filter technology reduces breathing resistance and increases the service life of the particulate filters, making this mask extremely comfortable, cost effective and durable. Conforms to EN405:2001+A1:2009 and provides protection against gas, vapour and dust.",
+  "availability": "In Stock",
+  "product_name": "Moldex CompactMask Maintenance Free Half Mask",
+  "specifications": [
+    "Protection level: FFA1P2 R D.",
+    "Protection level: FFA2P3 R D.",
+    "Protection level: FFABE1P3 R D.",
+    "Protection level: FFABEK1 P3 RD."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-moulded-comfort-masks.html|>
+## Scan Moulded Comfort Masks
+
+{
+  "price": "from €4.01 inc VAT",
+  "description": "Moulded comfort masks reduce discomfort caused by coarse particles. For garden, garage cleaning and other domestic jobs. Lightweight, disposable and comfortable to wear. Elasticated retaining straps. Non PPE respiratory item.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Comfort Masks",
+  "specifications": [
+    "Supplied as pack of 10 or box of 50",
+    "WARNING: This mask is NOT a respiratory protective device and SHOULD ONLY be used to reduce discomfort caused by exposure to coarse, non-toxic particles."
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-cup-masks.html|>
+## Vitrex Cup Masks
+
+{
+  "price": "from €3.33 inc VAT",
+  "description": "Vitrex Comfort Mask, providing relief from coarse non toxic particles. Suitable for nuisance dust and pollens. Can be worn with glasses or goggles. Lightweight and comfortable to wear. Disposable. DO NOT use these products where a device complying with European Directive 89/686 or 89/656 is required. Comfort masks should only be used to reduce discomfort caused by exposure to coarse, non-toxic particles, where the concentrations of these particles does not exceed the national permissable limits. These masks may be used to protect against the exhaled breath of the wearer.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Cup Masks",
+  "specifications": [
+    "Pack of 3",
+    "Pack of 50"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-disposable-protective-mask-box-of-50.html|>
+## Scan Disposable Protective Mask Box of 50
+
+{
+  "price": "€38.88 inc VAT (€31.61 exc.vat)",
+  "description": "Scan Disposable Protective Masks have a 3-ply non-woven design. Fitted with elasticated retaining straps to keep them securely in place and an adjustable nose clip. Designed to filter bacteria whilst covering the nose, mouth and chin. Not for use in dusty environments. EN 14683 GB/T32610-2016 certified.",
+  "availability": "In Stock",
+  "product_name": "Scan Disposable Protective Mask Box of 50",
+  "specifications": [
+    "Size: Universal",
+    "Pack Quantity: Box of 50"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-fold-flat-cup-respirator-3-pack.html|>
+## Vitrex Fold Flat Cup Respirator (3 Pack)
+
+{
+  "price": "€1.91 inc VAT (€1.55 exc.vat)",
+  "description": "Vitrex Fold Flat Cup Respirators provide relief from coarse, non-toxic particles. Suitable for nuisance dust and pollens. Lightweight and comfortable to wear, they can be worn with glasses or goggles.",
+  "availability": "Out of Stock",
+  "product_name": "Vitrex Fold Flat Cup Respirator (3 Pack)",
+  "specifications": [
+    "Model: VITS40110",
+    "Pack Size: 3",
+    "Lightweight and comfortable",
+    "Suitable for nuisance dust and pollens"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-33-1300-twin-filter-respirator.html|>
+## Vitrex 33 1300 Twin Filter Respirator
+
+{
+  "price": "€32.47 inc VAT (€26.40 exc.vat)",
+  "description": "The Vitrex Twin Filter Respirator is fitted with replaceable P2 filter cartridges. It has a thermoplastic facepiece for optimum comfort and a one-piece head harness with elasticated strap for easy and secure use. The respirator protects lungs against fine toxic particles and is ideal for use with MDF, hardwoods, fibreglass insulation and most power tools. EN140 1988, EN143:200 FFP2.",
+  "availability": "In Stock",
+  "product_name": "Vitrex 33 1300 Twin Filter Respirator",
+  "specifications": [
+    "Fitted with replaceable P2 filter cartridges",
+    "Thermoplastic facepiece for optimum comfort",
+    "One-piece head harness with elasticated strap",
+    "Protects against fine toxic particles",
+    "Ideal for use with MDF, hardwoods, fibreglass insulation and most power tools",
+    "Complies with EN140 1988, EN143:200 FFP2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-33-1305-a1-replacement-filters-pack-of-2.html|>
+## Vitrex 33 1305 A1 Replacement Filters (Pack of 2)
+
+{
+  "price": "€13.31 inc VAT (€10.82 exc.vat)",
+  "description": "Vitrex 331305 A1 Replacement Filters are used to protect lungs against organic vapours and gases with a boiling point above 65°C. A1 filters offer protection when spraying timber treatments, in areas of toxic dust, toxic fumes and toxic mists, and are suitable for most do-it-yourself spraying applications. Organic Vapour (examples): Alcohols, Benzene, Carbon, Tetrachloride, Glutaraldehyde, Methyl Ethyl Ketone (MEK), Octane, Phenol, Propanol, Styrene, Trichloroethane, Trichloromethane,Tetrachloroethylene, and Toluene. Suitable for use with the Twin Filter Respirator 331300. Supplied as a pack of 2. Conform to EN14387:2004 A1 standards.",
+  "availability": "In Stock",
+  "product_name": "Vitrex 33 1305 A1 Replacement Filters (Pack of 2)",
+  "specifications": [
+    "Pack of 2 filters",
+    "Protects against organic vapours and gases",
+    "Suitable for use with Twin Filter Respirator 331300",
+    "Conforms to EN14387:2004 A1 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-p2-replacement-filters-pack-of-2.html|>
+## Vitrex P2 Replacement Filters (Pack of 2)
+
+{
+  "price": "€15.09 inc VAT (€12.27 exc.vat)",
+  "description": "These Vitrex P2 Replacement Filters are designed to fit the Vitrex Twin Filter Respirator (VIT331300). The filters protect lungs against fine toxic particles and are ideal for use with MDF, hardwoods, fibreglass and most power tools. Conform to EN140 1988, EN143:2000 FFP2.",
+  "availability": "In Stock",
+  "product_name": "Vitrex P2 Replacement Filters (Pack of 2)",
+  "specifications": [
+    "Designed to fit Vitrex Twin Filter Respirator (VIT331300)",
+    "Protects against fine toxic particles",
+    "Ideal for use with MDF, hardwoods, fibreglass, and most power tools",
+    "Conforms to EN140 1988, EN143:2000 FFP2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-33-1315-p3-replacement-filters-pack-of-2.html|>
+## Vitrex 33 1315 P3 Replacement Filters (Pack of 2)
+
+{
+  "price": "€22.47 inc VAT (€18.27 exc.vat)",
+  "description": "Vitrex 331315 P3 Multi-Purpose Replacement Filters protect the lungs against very fine toxic particles. Suitable protection from welding and smoke fumes, paint removal and toxic waste disposal. Conform to EN143:2000 FFP3 standards. Suitable for use with the Twin Filter Respirator 331300. Supplied as a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Vitrex 33 1315 P3 Replacement Filters (Pack of 2)",
+  "specifications": [
+    "Pack of 2 filters",
+    "Protects against fine toxic particles",
+    "Conforms to EN143:2000 FFP3 standards",
+    "Suitable for use with Twin Filter Respirator 331300"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-bitrex-fit-testing-kit.html|>
+## Moldex Bitrex Fit Testing Kit
+
+{
+  "price": "€411.10 inc VAT (€334.23 exc.vat)",
+  "description": "Moldex Bitrex Fit Testing Kit. The Approved Code of Practices supporting COSHH, CAR and CLAW stipulate that tight-fitting RPE (respiratory protective equipment) MUST be fit tested as part of the selection process. This is to ensure that the selected RPE has the potential to provide adequate protection for the wearer. There are two main reasons for doing Bitrex testing. Firstly to make sure that the respirator itself is suited for the wearer's particular face shape. Secondly to make sure that the respirator is fitted correctly to get a tight seal and ensure safety against hazards in the workplace. It is important to remember it is the suitability of the respirator that is being tested. The Moldex MOL10301 Bitrex Fit testing kit contains: 2 x Nebulisers. 1 x Test Hood. 6 x 2.5ml Ampoules BitrexTM Sensitivity Solution. 6 x 2.5ml Ampoules BitrexTM Test Solution. 2 x Spare Parts For Nebulisers. 1 x Moldex Qualitative Fit Test CD.",
+  "availability": "In Stock",
+  "product_name": "Moldex Bitrex Fit Testing Kit",
+  "specifications": [
+    "2 x Nebulisers",
+    "1 x Test Hood",
+    "6 x 2.5ml Ampoules BitrexTM Sensitivity Solution",
+    "6 x 2.5ml Ampoules BitrexTM Test Solution",
+    "2 x Spare Parts For Nebulisers",
+    "1 x Moldex Qualitative Fit Test CD"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-ultra-light-series-7000-half-face-mask-medium.html|>
+## Moldex Ultra Light Series 7000 Half Face Mask (Medium)
+
+{
+  "price": "€37.05 inc VAT (€30.12 exc.vat)",
+  "description": "The Moldex Ultra Light Series 7000 Half Face Mask is extremely lightweight, the mask body is made from hypoallergenic material which is gentle on the skin. The low profile design offers excellent field of vision. Easily accessible components for cleaning and maintenance. Use with Moldex EASYLOCK Filters system that requires no additional clips or holders. Size: Medium. Filter cartridges NOT included.",
+  "availability": "In Stock",
+  "product_name": "Moldex Ultra Light Series 7000 Half Face Mask (Medium)",
+  "specifications": [
+    "MOL7002",
+    "Size: Medium",
+    "Lightweight and hypoallergenic material",
+    "Low profile design for excellent vision",
+    "Compatible with Moldex EASYLOCK Filters"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-ultra-light-comfort-series-9000-full-face-mask-medium.html|>
+## Moldex Ultra Light Comfort Series 9000 Full Face Mask (Medium)
+
+{
+  "price": "€222.81 inc VAT (€181.15 exc.vat)",
+  "description": "The Moldex Ultra Light Comfort Series 9000 Full Face Mask is extremely lightweight with excellent periphery vision. The lens is made from scratch resistant polycarbonate and is easy to clean thanks to the hydrophobic coating. Offering easy maintenance due to easily accessible components. Use with Moldex EASYLOCK Filter system that requires no additional clips or holders. Class 2, Size: Medium. Filter cartridges NOT included.",
+  "availability": "In Stock",
+  "product_name": "Moldex Ultra Light Comfort Series 9000 Full Face Mask (Medium)",
+  "specifications": [
+    "Ultra Light Comfort Series 9000 Full Face Mask",
+    "Size: Medium",
+    "Class 2",
+    "Lens made from scratch resistant polycarbonate",
+    "Easy to clean with hydrophobic coating",
+    "Compatible with Moldex EASYLOCK Filter system"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-p3-r-d-particulate-filter-pack-of-2.html|>
+## Moldex P3 R D Particulate Filter (Pack of 2)
+
+{
+  "price": "€16.30 inc VAT (€13.25 exc.vat)",
+  "description": "EASYLOCK Filters for Series 7000 & 9000 masks. No need for additional clips or holders, different gas and particulate filters can be combined. EasyLock® particulate filters can either be connected to the EasyLock® gas cartridge or directly to the mask body. adaptors or particulate pre-filters are not necessary.\n\nP3 R D for protection against harmful and carcinogenic dusts, fumes and aerosols based on water and oil, including radioactive particulates and airborne biological substances and enzymes.\n\n20 x Workplace exposure limit (half mask)\n\n40 x Workplace exposure limit (full face mask)",
+  "availability": "In Stock",
+  "product_name": "Moldex P3 R D Particulate Filter (Pack of 2)",
+  "specifications": [
+    "MOL9030 : €16.30",
+    "Pack of 2",
+    "EasyLock® design",
+    "Protection against harmful dusts, fumes, and aerosols",
+    "Compatible with Series 7000 & 9000 masks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-ultra-light-series-7000-half-face-mask.html|>
+## Moldex Ultra Light Series 7000 Half Face Mask
+
+{
+  "price": "€59.69 inc VAT",
+  "description": "The Moldex Ultra Light Series 7000 Half Face Mask is extremely lightweight, the mask body is made from hypoallergenic material which is gentle on the skin. The low profile design offers excellent field of vision. Easily accessible components for cleaning and maintenance. Use with the Moldex EasyLock®Filters system that requires no additional clips or holders. Size: Medium.",
+  "availability": "In Stock",
+  "product_name": "Moldex Ultra Light Series 7000 Half Face Mask",
+  "specifications": [
+    "Lightweight design",
+    "Hypoallergenic material",
+    "Excellent field of vision",
+    "Easy to clean and maintain",
+    "Compatible with Moldex EasyLock®Filters system"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-ultra-light-comfort-series-9000-full-face-mask.html|>
+## Moldex Ultra Light Comfort Series 9000 Full Face Mask
+
+{
+  "price": "€279.19 inc VAT",
+  "description": "The Moldex Ultra Light Comfort Series 9000 Full Face Mask is extremely lightweight with excellent periphery vision. The lens is made from scratch resistant polycarbonate and is easy to clean thanks to the hydrophobic coating. Offering easy maintenance due to easily accessible components. Use with Moldex EasyLock® Filter system that requires no additional clips or holders. Class 2, Size: Medium.",
+  "availability": "In Stock",
+  "product_name": "Moldex Ultra Light Comfort Series 9000 Full Face Mask",
+  "specifications": [
+    "Lightweight design",
+    "Excellent peripheral vision",
+    "Scratch resistant polycarbonate lens",
+    "Hydrophobic coating for easy cleaning",
+    "Easy maintenance with accessible components",
+    "Compatible with Moldex EasyLock® Filter system",
+    "Class 2, Size: Medium"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-series-70009000-easylock-a2p3-r-pre-assembled-filter-wrap-of-2.html|>
+## Moldex Series 7000/9000 EasyLock® A2P3 R Pre-assembled Filter (Wrap of 2)
+
+{
+  "price": "€48.23 inc VAT (€39.21 exc.vat)",
+  "description": "Moldex EasyLock® Filters for Series 7000 & 9000 masks. No need for additional clips or holders, different gas and particulate filters can be combined. EasyLock® particulate filters can either be connected to the EasyLock® gas cartridge or directly to the mask body. Adaptors or particulate pre-filters are not necessary.\n\nA2 for protection against organic gas [Bp>65°C], 5000ppm. P3 protection against harmful and toxic dusts, fumes and water/oil based mists/aerosols.\n\n10x Workplace Exposure Limit (Half Mask)\n\n20x Workplace Exposure Limit (Full Face Mask)\n\nOR 1000 ppm whichever is lower\n\nTested and certified to EN 14387:2004+A1:2008",
+  "availability": "In Stock",
+  "product_name": "Moldex Series 7000/9000 EasyLock® A2P3 R Pre-assembled Filter (Wrap of 2)",
+  "specifications": [
+    "EasyLock® Filters for Series 7000 & 9000 masks",
+    "No need for additional clips or holders",
+    "A2 for protection against organic gas [Bp>65°C], 5000ppm",
+    "P3 protection against harmful and toxic dusts, fumes and water/oil based mists/aerosols",
+    "Tested and certified to EN 14387:2004+A1:2008"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-series-70009000-easylock-abek1p3-r-pre-assembled-filter-wrap-of-2.html|>
+## Moldex Series 7000/9000 EasyLock® ABEK1P3 R Pre-assembled Filter (Wrap of 2)
+
+{
+  "price": "€54.92 inc VAT (€44.65 exc.vat)",
+  "description": "Moldex EasyLock® Filters for Series 7000 & 9000 masks. No need for additional clips or holders, different gas and particulate filters can be combined. EasyLock® particulate filters can either be connected to the EasyLock® gas cartridge or directly to the mask body. Adaptors or particulate pre-filters are not necessary.\n\nABEK1 for protection against organic, inorganic, ammonia and acid gases [Bp>65°C]. P3 protection against harmful and toxic dusts, fumes and water/oil based mists/aerosols.\n\n10x Workplace Exposure Limit (Half Mask)\n\n20x Workplace Exposure Limit (Full Face Mask)\n\nOR 1000 ppm whichever is lower\n\nTested and certified to EN 14387:2004+A1:2008",
+  "availability": "In Stock",
+  "product_name": "Moldex Series 7000/9000 EasyLock® ABEK1P3 R Pre-assembled Filter (Wrap of 2)",
+  "specifications": [
+    "ABEK1 for protection against organic, inorganic, ammonia and acid gases",
+    "P3 protection against harmful and toxic dusts, fumes and water/oil based mists/aerosols",
+    "Tested and certified to EN 14387:2004+A1:2008"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-p420-vancouver-half-mask.html|>
+## P420 Vancouver Half Mask
+
+{
+  "price": "€26.76 inc VAT (€21.76 exc.vat)",
+  "description": "Ergonomically designed for unrestricted movement, comfort and breathability. Adjustable strap fastening for flexible sizing. 4-point plastic suspension harness. Large inner space to help the user to breathe more easily.",
+  "availability": "In Stock",
+  "product_name": "P420 Vancouver Half Mask",
+  "specifications": [
+    "Ergonomically designed for unrestricted movement",
+    "Adjustable strap fastening for flexible sizing",
+    "4-point plastic suspension harness",
+    "Large inner space for easier breathing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-a1-gas-filter-bayonet-connection-pack-2.html|>
+## Portwest A1 Gas Filter Bayonet Connection (Pack 2)
+
+{
+  "price": "€13.68 inc VAT (€11.12 exc.vat)",
+  "description": "Protects against organic gases and vapours where the boiling point is higher than 65°C. Also protects against substances and solvents. Compatible with P500, P510 Full Face Masks and P420, P430 Half Masks.",
+  "availability": "Out of Stock",
+  "product_name": "Portwest A1 Gas Filter Bayonet Connection (Pack 2)",
+  "specifications": [
+    "Protects against organic gases and vapours with boiling point > 65°C",
+    "Compatible with P500, P510 Full Face Masks",
+    "Compatible with P420, P430 Half Masks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-abek1-p3-combination-filter-bayonet-connection-pack-2.html|>
+## ABEK1 P3 Combination Filter Bayonet Connection (Pack 2)
+
+{
+  "price": "€79.19 inc VAT (€64.38 exc.vat)",
+  "description": "Protects from organic and inorganic acid gases and vapours, sulphur dioxide, ammonia and its derivatives. Classified as a Class 1 filter for gases and Class 3 for particles. Compatible with P500 Full Face Mask and P420, P430 Half Masks.",
+  "availability": "In Stock",
+  "product_name": "ABEK1 P3 Combination Filter Bayonet Connection (Pack 2)",
+  "specifications": [
+    "Protects from organic and inorganic acid gases and vapours",
+    "Classified as a Class 1 filter for gases and Class 3 for particles",
+    "Compatible with P500 Full Face Mask and P420, P430 Half Masks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-p430grr-geneva-half-face-mask.html|>
+## Portwest P430GRR Geneva Half Face Mask
+
+{
+  "price": "€31.18 inc VAT (€25.35 exc.vat)",
+  "description": "The Portwest P430 Geneva Half Mask is manufactured from high-quality silicone for exceptional fit and comfort. The support harness is attached to the rigid body of the mask so as not to mark the user's face, it also ensures a more uniform fit. Filters are sold separately. Conforms to EN 140 standard.",
+  "availability": "In Stock",
+  "product_name": "Portwest P430GRR Geneva Half Face Mask",
+  "specifications": [
+    "Manufactured from high-quality silicone",
+    "Support harness for uniform fit",
+    "Filters sold separately",
+    "Conforms to EN 140 standard"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-p3-replacement-filters-pack-of-2.html|>
+## STANLEY® P3 Replacement Filters (Pack of 2)
+
+{
+  "price": "€12.13 inc VAT (€9.86 exc.vat)",
+  "description": "STANLEY® P3 Replacement Filters are for use with the Stanley Half Mask and Visor and Half Mask. Hepac® advanced filter technology offers maximum filtration removing up to 99.99% of all airborne particles whilst offering the lowest breathing resistance. Pre-filter as standard helps prevent clogging therefore extending the life of the filter. Supplied as a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® P3 Replacement Filters (Pack of 2)",
+  "specifications": [
+    "Pack of 2 filters",
+    "Hepac® advanced filter technology",
+    "Removes up to 99.99% of airborne particles",
+    "Lowest breathing resistance",
+    "Pre-filter to prevent clogging"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-ffp3-r-d-lite-pro-dust-mask-respirator.html|>
+## STANLEY® FFP3 R D Lite Pro Dust Mask Respirator
+
+{
+  "price": "€8.03 inc VAT (€6.53 exc.vat)",
+  "description": "The STANLEY® FFP3 R D Lite Pro Dust Mask Respirator offers protection from dust, metal fumes, oil, water mists and micro-organisms. It has a fully elasticated strap for the ultimate face seal that offers an ultra-low breathing resistance using Hepac-lite ® filter technology. The multi shift respirator has a downward facing exhalation valve to prevent fogging of glasses. Hypoallergenic, latex and silicon free. Made in the UK.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® FFP3 R D Lite Pro Dust Mask Respirator",
+  "specifications": [
+    "FFP3 R D Lite Pro Dust Mask Respirator",
+    "STMF021002 : €8.03",
+    "Hypoallergenic, latex and silicon free",
+    "Made in the UK"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-all-in-one-visor-and-dust-mask-respirator.html|>
+## STANLEY® All-In-One Visor & Dust Mask Respirator
+
+{
+  "price": "€55.18 inc VAT (€44.86 exc.vat)",
+  "description": "The STANLEY® All-In-One Visor & Dust Mask Respirator has a specifically angled grill design that protects 100% of the filter surface area from particulates directly clogging the filter. This ensures better filtration efficiency and breathing resistance. It provides protection from dust, metal fumes, oil, water mists and micro-organisms. Advanced Face-Fit-check™ technology allows face seal validation to ensure less inward leakage before use. A fully elasticated 2 point strap mechanism allows easy adjustment, and the head pad provides maximum comfort. Hypoallergenic, latex and silicon free. Fitted with a class 1.B.K.N medium impact, anti scratch and anti fog coated lens, all conforms to EN166. Comes complete with a pair of P3 replaceable filters, offers maximum filtration up to 99.99%.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® All-In-One Visor & Dust Mask Respirator",
+  "specifications": [
+    "Specifically angled grill design",
+    "Protects 100% of the filter surface area",
+    "Better filtration efficiency",
+    "Protection from dust, metal fumes, oil, water mists, and micro-organisms",
+    "Advanced Face-Fit-check™ technology",
+    "Fully elasticated 2 point strap mechanism",
+    "Hypoallergenic, latex and silicon free",
+    "Fitted with a class 1.B.K.N medium impact lens",
+    "Comes with a pair of P3 replaceable filters"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-p3-r-half-mask-respirator.html|>
+## STANLEY® P3 R Half Mask Respirator
+
+{
+  "price": "€33.10 inc VAT",
+  "description": "The STANLEY® P3 R Half Mask Respirator has a specifically angled grill design that protects 100% of the filter surface area from particulates directly clogging the filter. This ensures better filtration efficiency and breathing resistance. It offers protection from dust, metal fumes, oil, water mists and micro-organisms. Advanced Face-Fit-check™ technology allows face seal validation to ensure less inward leakage before use. A fully elasticated 2 point strap mechanism allows easy adjustment, and the head pad provides maximum comfort. Hypoallergenic, latex and silicon free. Comes complete with a pair of P3 replaceable filters, offers maximum filtration up to 99.99%. Made in the UK.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® P3 R Half Mask Respirator",
+  "specifications": [
+    "Specifically angled grill design",
+    "Protects 100% of the filter surface area",
+    "Offers protection from dust, metal fumes, oil, water mists, and micro-organisms",
+    "Advanced Face-Fit-check™ technology",
+    "Fully elasticated 2 point strap mechanism",
+    "Hypoallergenic, latex and silicon free",
+    "Comes with a pair of P3 replaceable filters"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-a2p3-r-d-combination-filters-pair.html|>
+## DEWALT Respiration A2P3 R D Combination Filters (Pair)
+
+{
+  "price": "€25.06 inc VAT (€20.37 exc.vat)",
+  "description": "Box of 2 Replacement DEWALT A2P3 R D Combination Filters. For use with DEWALT full and half respirators.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Respiration A2P3 R D Combination Filters (Pair)",
+  "specifications": [
+    "Approval & Certification: EN14387:2004+A1:2008, CE 2797, UKCA 0086"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-p3-r-d-particulate-filters-pair.html|>
+## DEWALT Respiration P3 R D Particulate Filters (Pair)
+
+{
+  "price": "€14.38 inc VAT (€11.69 exc.vat)",
+  "description": "Box of 2 Replacement DEWALT P3 R D Combination Filters. For use with DEWALT full and half respirators.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Respiration P3 R D Particulate Filters (Pair)",
+  "specifications": [
+    "Approval & Certification: EN143:2000"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-papr-p3-filter-hepa.html|>
+## DEWALT Respiration PAPR P3 Filter (HEPA)
+
+{
+  "price": "€51.70 inc VAT (€42.03 exc.vat)",
+  "description": "Replacement DEWALT P3 Filter (HEPA) for use with the DEWALT Powered Air Purifying Respirator (PAPR).",
+  "availability": "In Stock",
+  "product_name": "DEWALT Respiration PAPR P3 Filter (HEPA)",
+  "specifications": [
+    "Filter Efficiency: 99.98% @ 0.3 Micron.",
+    "Respiratory Protection: EN 12941:1998+A2:2008"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-full--mask-respirator-with-a2p3-filters.html|>
+## DEWALT Respiration Full Mask Respirator with A2P3 filters
+
+{
+  "price": "€221.23 inc VAT",
+  "description": "DEWALT Reusable Full Mask Respirator with A2P3 filters. Provides protection in workplaces which have high incidences of fine dust, lead, silica, MDF particles, or other forms of industrial pollutants in the air. Its lightweight design and low burden airflow system provides ultra-low breathing resistance and improved user comfort for longer periods. The high impact resistant polycarbonate visor provides an unobstructed field of view and protects users from projectile debris. A 5-point adjustable head harness helps users stay comfortable for longer. The twin-filter design provides even distribution of weight with minimal obstruction to field of vision. All parts of the respirator are fully replaceable making it easy to maintain. Available in two sizes; medium and large.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Respiration Full Mask Respirator with A2P3 filters",
+  "specifications": [
+    "Filter Type: A2P3 Combination",
+    "Filter Efficiency: 99.95% @ 0.3 Micron",
+    "Approval & Certification: Full Mask EN136:1998, A2P3 Filter EN14387:2004+A1:2008, CE 2797, UKCA 0086"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-half-mask-respirator-with-a2p3-filters.html|>
+## DEWALT Respiration Half Mask Respirator with A2P3 filters
+
+{
+  "price": "€59.11 inc VAT",
+  "description": "DEWALT Reusable Half Mask Respirator with A2P3 filters. Provides protection in workplaces which have high levels of fine dust, lead, silica, MDF particles, or other forms of industrial pollutants in the air. Its lightweight design and low burden airflow system provides ultra-low breathing resistance and improved user comfort for longer periods. The secure and easily adjustable elastomeric head cradle provides a secure fit and extra comfort. A dual mode harness enables users to doff their mask without removing head protection. The twin-filter design provides even distribution of weight with minimal obstruction to field of vision. Available in two sizes; medium and large.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Respiration Half Mask Respirator with A2P3 filters",
+  "specifications": [
+    "Filter Type: A2P3 Combination",
+    "Filter Efficiency: 99.95% @ 0.3 Micron",
+    "Approval & Certification: Half Mask EN140:1998, A2P3 Filter EN14387:2004+A1:2008, CE 2797, UKCA 0086"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-half-mask-respirator-with-p3-filters.html|>
+## DEWALT Respiration Half Mask Respirator with P3 filters
+
+{
+  "price": "€47.28 inc VAT",
+  "description": "DEWALT Reusable Half Mask Respirator with P3 filters. Provides protection in workplaces which have high levels of fine dust, lead, silica, MDF particles, or other forms of industrial pollutants in the air. Its lightweight design and low burden airflow system provides ultra-low breathing resistance and improved user comfort for longer periods. The secure and easily adjustable elastomeric head cradle provides a secure fit and extra comfort. A dual mode harness enables users to doff their mask without removing head protection. The twin-filter design provides even distribution of weight with minimal obstruction to field of vision. Available in two sizes; medium and large.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Respiration Half Mask Respirator with P3 filters",
+  "specifications": [
+    "Filter Type: P3 Particulate",
+    "Filter Efficiency: 99.95% @ 0.3 Micron",
+    "Approval & Certification: Half Mask EN140:1998, P3 Filter EN143:2000"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-respiration-face-seal-welding.html|>
+## DEWALT Respiration Face Seal (Welding)
+
+{
+  "price": "€82.71 inc VAT (€67.24 exc.vat)",
+  "description": "Replacement Face Seal for the DEWALT Welding Powered Air Purifying Respirator.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Respiration Face Seal (Welding)",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-direct-vent-safety-goggles.html|>
+## Scan Direct Vent Safety Goggles
+
+{
+  "price": "from €7.99 inc VAT",
+  "description": "Scan directly ventilated goggles that will withstand medium energy high-speed impacts up to 120m/s (270mph). Large size direct ventilation through frame. Compact lightweight construction, can be worn over spectacles. Tough polycarbonate UV resistant lens. Elasticated headstrap with soft vinyl flanges around the goggles ensure comfort and conformity to facial contour. Conform to EN166:1B.",
+  "availability": "In Stock",
+  "product_name": "Scan Direct Vent Safety Goggles",
+  "specifications": [
+    "Withstand medium energy high-speed impacts up to 120m/s (270mph)",
+    "Large size direct ventilation through frame",
+    "Compact lightweight construction",
+    "Can be worn over spectacles",
+    "Tough polycarbonate UV resistant lens",
+    "Elasticated headstrap with soft vinyl flanges for comfort",
+    "Conform to EN166:1B"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-indirect-vent-safety-goggles.html|>
+## Scan Indirect Vent Safety Goggles
+
+{
+  "price": "€7.92 inc VAT (€6.44 exc.vat)",
+  "description": "These Scan indirect ventilated goggles are ideal for use with power tools, particularly angle grinders and high-powered drills. With lenses made from tough polycarbonate, these goggles will withstand medium energy, high speed impacts of up to 120m/s (270mph). The lenses are clear and UV resistant. These goggles provide excellent protection from liquid droplets or splashes, large dust particles and molten metals. They can be worn over spectacles and the soft vinyl flanges around the goggles ensure comfort and conformity to facial contour. Conform to EN166:1B (3.4.9).",
+  "availability": "Out of Stock",
+  "product_name": "Scan Indirect Vent Safety Goggles",
+  "specifications": [
+    "Lenses made from tough polycarbonate",
+    "Withstand medium energy impacts up to 120m/s (270mph)",
+    "Clear and UV resistant lenses",
+    "Excellent protection from liquid droplets, dust particles, and molten metals",
+    "Can be worn over spectacles",
+    "Soft vinyl flanges for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-safety-goggles.html|>
+## Vitrex Safety Goggles
+
+{
+  "price": "€4.67 inc VAT (€3.80 exc.vat)",
+  "description": "These Vitrex 332102 Safety Goggles have an impact resistant, clear polycarbonate lens. They are suitable for woodwork, home renovation, painting and for use with most domestic power tools. Their indirect ventilation protects against dust and liquid splash, and they will fit over most prescription spectacles. Tested to EN166. CE Approved.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Safety Goggles",
+  "specifications": [
+    "Impact resistant, clear polycarbonate lens",
+    "Suitable for woodwork, home renovation, and painting",
+    "Indirect ventilation protects against dust and liquid splash",
+    "Fits over most prescription spectacles",
+    "Tested to EN166",
+    "CE Approved"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-premium-safety-goggles.html|>
+## Vitrex Premium Safety Goggles
+
+{
+  "price": "€10.97 inc VAT (€8.92 exc.vat)",
+  "description": "These Vitrex 332104 Premium Safety Goggles have a large frame with wide angle and an impact and abrasion resistant, clear polycarbonate lens. The goggles are suitable for woodwork, home renovation, painting and for use with most domestic power tools. Their unique indirect ventilation offers mist free vision, plus protection against dust and liquid splash. They will fit over most prescription spectacles. For a comfortable fit, the safety goggles have an adjustable, elasticated strap. Tested to EN166. CE Approved.",
+  "availability": "Out of Stock",
+  "product_name": "Vitrex Premium Safety Goggles",
+  "specifications": [
+    "Large frame with wide angle",
+    "Impact and abrasion resistant polycarbonate lens",
+    "Suitable for woodwork, home renovation, and painting",
+    "Unique indirect ventilation for mist-free vision",
+    "Fits over most prescription spectacles",
+    "Adjustable elasticated strap",
+    "Tested to EN166",
+    "CE Approved"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-moulded-valved-safety-goggles.html|>
+## Scan Moulded Valved Safety Goggles
+
+{
+  "price": "€12.25 inc VAT (€9.96 exc.vat)",
+  "description": "The Scan Moulded Valved Safety Goggles are lightweight but strong and cover most eye protection requirements. These goggles will withstand medium energy, high-speed impacts of up to 120m/s (270mph). They have a blue tinted PVC frame with a clear impact resistant lens that will protect against liquid splash, debris and flying particles. The valve caps are removable to allow use as either indirect or direct vent goggles. The adjustable elastic headband is attached with a ball joint. Conforms to EN 166:1B.",
+  "availability": "In Stock",
+  "product_name": "Scan Moulded Valved Safety Goggles",
+  "specifications": [
+    "Lightweight and strong",
+    "Withstands impacts up to 120m/s (270mph)",
+    "Blue tinted PVC frame",
+    "Clear impact resistant lens",
+    "Removable valve caps for venting",
+    "Adjustable elastic headband",
+    "Conforms to EN 166:1B"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw20-clear-direct-vent-goggles.html|>
+## Portwest Pw20 Clear Direct Vent Goggles
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "PW20 Clear Direct Vent Goggles",
+  "availability": "In Stock",
+  "product_name": "Portwest Pw20 Clear Direct Vent Goggles",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee",
+    "Free delivery for orders over €150 within Ireland",
+    "Orders under €150: €8.99 delivery fee",
+    "International delivery charges based on weight"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw60-bottle-green--welding-goggle--en166.html|>
+## Portwest Pw60 Bottle Green Welding Goggle En166
+
+{
+  "price": "€9.67 inc VAT (€7.86 exc.vat)",
+  "description": "Pw60 Bottle Green Welding Goggle En166",
+  "availability": "Out of Stock",
+  "product_name": "Portwest Pw60 Bottle Green Welding Goggle En166",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw26-slim-safety-goggles---clear.html|>
+## Portwest PW26 Slim Safety Goggles - Clear
+
+{
+  "price": "€10.49 inc VAT (€8.53 exc.vat)",
+  "description": "The Portwest PW26 Slim Safety Goggles are extremely lightweight premium goggles, manufactured from a high-tech material. The wrap-around design and effective seal around the eyes offer superior front and side face protection. An adjustable dual-pin system provides multiple positioning for a better fit. CE certified 99% UV protection with an anti-scratch coating for added durability and anti-fog for user comfort. Conform to EN 170 (2C-1.2).",
+  "availability": "Out of Stock",
+  "product_name": "Portwest PW26 Slim Safety Goggles - Clear",
+  "specifications": [
+    "CE certified 99% UV protection",
+    "Anti-scratch coating",
+    "Anti-fog for user comfort",
+    "Wrap-around design",
+    "Adjustable dual-pin system for better fit",
+    "Conform to EN 170 (2C-1.2)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-sy240-1d-vented-safety-goggles.html|>
+## STANLEY® SY240-1D Vented Safety Goggles
+
+{
+  "price": "€5.34 inc VAT (€4.34 exc.vat)",
+  "description": "Stanley SY240-1D Vented Safety Goggles with a one-piece polycarbonate lens that protects the wearer from dust and debris. An adjustable elastic head strap offers increased comfort. The polycarbonate lens meets EN 166 standards.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® SY240-1D Vented Safety Goggles",
+  "specifications": [
+    "One-piece polycarbonate lens",
+    "Adjustable elastic head strap",
+    "Meets EN 166 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-safety-helmets.html|>
+## Scan Safety Helmets
+
+{
+  "price": "€7.99",
+  "description": "This Scan Industrial Safety Helmet is manufactured from high density polyethylene to provide excellent head protection. Head protection is essential for site workers for protection from falling objects or striking against fixed obstacles. This helmet features a rain gutter to channel water away from the helmet and face. Easily adjustable to fit head size of between 530 and 630mm. Conforms to EN397:1995 + A1:2000. Helmet weight: 340g.",
+  "availability": "In Stock",
+  "product_name": "Scan Safety Helmets",
+  "specifications": [
+    "Manufactured from high density polyethylene",
+    "Adjustable to fit head size of 530 to 630mm",
+    "Conforms to EN397:1995 + A1:2000",
+    "Helmet weight: 340g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-de-luxe-safety-helmets.html|>
+## Scan De-Luxe Safety Helmets
+
+{
+  "price": "€10.91 inc VAT",
+  "description": "This Scan Deluxe Safety Helmet is a tough, functional and stylish helmet manufactured from high density polyethylene to ensure excellent head protection. Head protection is essential for site workers for protection from falling objects or striking against fixed obstacles. This helmet features a rain gutter to channel water away from the helmet and face. A sweatband provides enhanced user comfort. Easily adjustable ratchet headband with a six-point terylene harness which ranges from 530mm - 630mm. Conforms to EN397:1995 + A1:2000. Helmet weight: 380g.",
+  "availability": "In Stock",
+  "product_name": "Scan De-Luxe Safety Helmets",
+  "specifications": [
+    "Manufactured from high density polyethylene",
+    "Adjustable ratchet headband",
+    "Six-point terylene harness (530mm - 630mm)",
+    "Conforms to EN397:1995 + A1:2000",
+    "Helmet weight: 380g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-standard-safety-helmet-chin-strap.html|>
+## Standard Safety Helmet Chin Strap
+
+{
+  "price": "€4.08 inc VAT (€3.32 exc.vat)",
+  "description": "The Scan Standard Safety Helmet Chin Strap is designed to offer light-duty chin protection and keep the helmet securely fitted to the user's head. Adjustable length. It will fit the Scan standard safety helmet and ensures a safer working environment by minimising the risk of the helmet falling off.",
+  "availability": "In Stock",
+  "product_name": "Standard Safety Helmet Chin Strap",
+  "specifications": [
+    "Adjustable length",
+    "Fits Scan standard safety helmet",
+    "Minimizes risk of helmet falling off"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pc55-endurance-carbon-look-helmet---grey.html|>
+## PC55 Endurance Carbon Look Helmet - Grey
+
+{
+  "price": "€35.46 inc VAT (€28.83 exc.vat)",
+  "description": "Vented hard hat allows refreshing airflow around the head.\n\n6-point textile harness.\n\nLateral deformation.\n\nWheel ratchet size adjustment for easy fitting.",
+  "availability": "Out of Stock",
+  "product_name": "PC55 Endurance Carbon Look Helmet - Grey",
+  "specifications": [
+    "Vented hard hat allows refreshing airflow around the head",
+    "6-point textile harness",
+    "Lateral deformation",
+    "Wheel ratchet size adjustment for easy fitting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pv50-peak-view-vented-helmet.html|>
+## Portwest PV50 Peak View Vented Helmet
+
+{
+  "price": "€28.82 inc VAT",
+  "description": "Lightweight yet strong polycarbonate shell. See through peak allows the wearer to look upwards without tilting the head. 6-point nylon harness. UV 400 stabilised. Conforms to EN 397.",
+  "availability": "In Stock",
+  "product_name": "Portwest PV50 Peak View Vented Helmet",
+  "specifications": [
+    "Lightweight yet strong polycarbonate shell",
+    "See through peak allows the wearer to look upwards without tilting the head",
+    "6-point nylon harness",
+    "UV 400 stabilised",
+    "Conforms to EN 397"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw50-pp-endurance-helmet.html|>
+## Portwest PW50 PP Endurance Helmet
+
+{
+  "price": "from €7.99 inc VAT",
+  "description": "High-density polypropylene shell\n4-point plastic suspension harness\nLateral deformation\nBuckle size adjustment for easy fitting\nElectrical insulation up to 1000Vac or 1500Vdc (EN 50365)",
+  "availability": "In Stock",
+  "product_name": "Portwest PW50 PP Endurance Helmet",
+  "specifications": [
+    "High-density polypropylene shell",
+    "4-point plastic suspension harness",
+    "Lateral deformation",
+    "Buckle size adjustment for easy fitting",
+    "Electrical insulation up to 1000Vac or 1500Vdc (EN 50365)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw54-endurance-plus-helmet.html|>
+## Portwest PW54 Endurance Plus Helmet
+
+{
+  "price": "€24.01 inc VAT",
+  "description": "Constructed using a high-density ABS material, Retractable anti-scratch, anti-fog visor, 6-point textile harness, Wheel ratchet size adjustment for easy fitting, Also offers protection against molten metal.",
+  "availability": "In Stock",
+  "product_name": "Portwest PW54 Endurance Plus Helmet",
+  "specifications": [
+    "Constructed using a high-density ABS material",
+    "Retractable anti-scratch, anti-fog visor",
+    "6-point textile harness",
+    "Wheel ratchet size adjustment for easy fitting",
+    "Protection against molten metal"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-short-peak-safety-helmet.html|>
+## Scan Short Peak Safety Helmet
+
+{
+  "price": "€14.30 inc VAT",
+  "description": "The Scan Short Peak Safety Helmet is manufactured from high-density polyethylene (HDPE) with top vents and a short (15mm) peak for improved upward visibility. It has a 6-point fabric harness with a 4-point chin strap and push-button ratchet adjustment, 530-640mm. Head protection is essential for site workers for protection from falling objects or striking against fixed obstacles. Conforms to EN 397:2012 + A1:2012. The helmet manufacture date is marked on the inside and the expiration date is 5 years from manufacture.",
+  "availability": "In Stock",
+  "product_name": "Scan Short Peak Safety Helmet",
+  "specifications": [
+    "Manufactured from high-density polyethylene (HDPE)",
+    "Top vents for improved airflow",
+    "Short (15mm) peak for upward visibility",
+    "6-point fabric harness",
+    "4-point chin strap with push-button ratchet adjustment",
+    "Head size adjustment: 530-640mm",
+    "Conforms to EN 397:2012 + A1:2012",
+    "Expiration date: 5 years from manufacture"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-4-point-safety-helmet-chin-strap.html|>
+## Scan 4 Point Safety Helmet Chin Strap
+
+{
+  "price": "€6.37 inc VAT (€5.18 exc.vat)",
+  "description": "This Scan 4 Point Safety Helmet Chin Strap is designed to offer light-duty chin protection and keep the helmet secure. Suitable for working at height, ensures a safer working environment by minimising the risk of the helmet falling off. Its quick release clasp enables the helmet to be removed easily. Compatible with Scan Standard Safety Helmet and Deluxe Safety Helmet. Chin strap releases with forces between 150-250 Newtons as per EN 397 guidelines.",
+  "availability": "In Stock",
+  "product_name": "Scan 4 Point Safety Helmet Chin Strap",
+  "specifications": [
+    "Compatible with Scan Standard Safety Helmet and Deluxe Safety Helmet",
+    "Chin strap releases with forces between 150-250 Newtons as per EN 397 guidelines"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-standard-face-shield--visor.html|>
+## Scan Standard Face Shield + Visor
+
+{
+  "price": "€15.18 inc VAT (€12.34 exc.vat)",
+  "description": "This Scan face shield and visor is a good all-round lightweight brow guard with a polycarbonate face shield that offers unrestricted working vision and protection against medium energy flying particles and liquid splashes. It has an adjustable head harness to ensure comfortable fit over most head sizes. Its 'Flip-up' visor mechanism allows full adjustment of the visor. Conforms to EN166:1B(3) Size: Universal.",
+  "availability": "In Stock",
+  "product_name": "Scan Standard Face Shield + Visor",
+  "specifications": [
+    "Conforms to EN166:1B(3)",
+    "Size: Universal",
+    "Adjustable head harness",
+    "Flip-up visor mechanism"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-replacement-visor-for-scappevisor.html|>
+## Replacement Visor For SCAPPEVISOR
+
+{
+  "price": "€9.70 inc VAT (€7.89 exc.vat)",
+  "description": "This Scan replacement clear visor is suitable for the Standard Face Shield. It is made of Polycarbonate, offering unrestricted working vision and protection against medium energy flying particles and liquid splashes.",
+  "availability": "In Stock",
+  "product_name": "Replacement Visor For SCAPPEVISOR",
+  "specifications": [
+    "Made of Polycarbonate",
+    "Suitable for Standard Face Shield",
+    "Protection against medium energy flying particles",
+    "Protection against liquid splashes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-safety-shield.html|>
+## Vitrex Safety Shield
+
+{
+  "price": "€25.81 inc VAT (€20.98 exc.vat)",
+  "description": "The Vitrex 33 4100 Safety Shield has an impact resistant, clear polycarbonate visor. It is suitable for use with most domestic power tools, garden strimmers, hedge cutters, etc. Adjustable face shield can be locked in position, with convenient nod down facility, that is lightweight and comfortable to wear. Tested to BS2092 Grade 1. Conforms to EN166. CE Approved.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Safety Shield",
+  "specifications": [
+    "Impact resistant clear polycarbonate visor",
+    "Adjustable face shield",
+    "Lightweight and comfortable to wear",
+    "Tested to BS2092 Grade 1",
+    "Conforms to EN166",
+    "CE Approved"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-visor-combination-kit.html|>
+## Vitrex Visor Combination Kit
+
+{
+  "price": "€44.05 inc VAT (€35.81 exc.vat)",
+  "description": "The Vitrex 33 4150 Visor Combination Kit provides vital eye, ear and face protection. Suitable for use with most garden power tools including, hedge cutters, strimmers, garden vacuums, shredders. High performance ear muffs guard against excessive noise of outdoor power products. Impact resistant clear polycarbonate visor offers excellent flip-up facility. Lightweight and comfortable to wear. Tested to European Standard EN352 Part 1 and EN166. CE Approved.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Visor Combination Kit",
+  "specifications": [
+    "Model: VIT334150",
+    "Price: €44.05",
+    "Includes ear muffs and polycarbonate visor",
+    "Tested to European Standard EN352 Part 1 and EN166",
+    "CE Approved"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw91-clear-browguard-visor-kit.html|>
+## Portwest PW91 Clear Browguard Visor Kit
+
+{
+  "price": "€16.69 inc VAT (€13.57 exc.vat)",
+  "description": "PC visor with PP browguard, made from impact resistant polypropylene. Wheel ratchet size adjustment for easy fitting. Can be adapted to be used over prescription glasses. Soft foam sweat band included. Conforms to EN 166-3B and EN 166-1B.",
+  "availability": "Out of Stock",
+  "product_name": "Portwest PW91 Clear Browguard Visor Kit",
+  "specifications": [
+    "Impact resistant polypropylene",
+    "Wheel ratchet size adjustment",
+    "Adaptable for prescription glasses",
+    "Soft foam sweat band",
+    "Conforms to EN 166-3B and EN 166-1B"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-light-duty-face-shield-pack-10.html|>
+## Scan Light-Duty Face Shield (Pack 10)
+
+{
+  "price": "€37.11 inc VAT (€30.17 exc.vat)",
+  "description": "The Scan Light-Duty Face Shield protects against liquid splashes and light dust particles. Fitted with a soft sponge brow guard for increased comfort. An elasticated head strap provides an improved fit. Anti-fog visor to ensure visibility.",
+  "availability": "Out of Stock",
+  "product_name": "Scan Light-Duty Face Shield (Pack 10)",
+  "specifications": [
+    "Light-Duty Face Shield (Pack 10)",
+    "Model: SCAPPEVISL10",
+    "Price: €37.11",
+    "Out of Stock",
+    "Protects against liquid splashes and light dust particles",
+    "Fitted with a soft sponge brow guard for comfort",
+    "Elasticated head strap for improved fit",
+    "Anti-fog visor for visibility"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw92-replacement-visor---clear.html|>
+## Portwest PW92 Replacement Visor - Clear
+
+{
+  "price": "€6.97 inc VAT (€5.67 exc.vat)",
+  "description": "The Portwest Replacement Visor for PW90 and PW91. It also fits PW58 and PS58. CE certified. Conforms to EN 166 (1B).",
+  "availability": "Out of Stock",
+  "product_name": "Portwest PW92 Replacement Visor - Clear",
+  "specifications": [
+    "CE certified",
+    "Conforms to EN 166 (1B)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw96-face-shield-plus---clear.html|>
+## Portwest PW96 Face Shield Plus - Clear
+
+{
+  "price": "€23.46 inc VAT (€19.07 exc.vat)",
+  "description": "The Portwest PW96 Face Shield protects against molten metal splashes and hot solid projections. It consists of a brow guard and a clear polycarbonate visor with aluminium edge. Suitable for a wide range of applications, it offers superior front and side face protection. A wheel ratchet enables easy size adjustment for a comfortable fit. It can be adapted to be used over prescription glasses. A replacement visor is available (PW99). CE certified. Conforms to EN 166 (1BT 3 9).",
+  "availability": "In Stock",
+  "product_name": "Portwest PW96 Face Shield Plus - Clear",
+  "specifications": [
+    "CE certified",
+    "Conforms to EN 166 (1BT 3 9)",
+    "Protects against molten metal splashes",
+    "Clear polycarbonate visor",
+    "Adjustable wheel ratchet for size"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-visitor-safety-spectacles.html|>
+## Scan Visitor Safety Spectacles
+
+{
+  "price": "from €7.99 inc VAT",
+  "description": "Scan Visitor Safety Spectacles have a wrap-around eyeshield for protection against low energy high speed impacts. - Wrap-around panoramic vision for less distortion - Comfortable wide frame and integral brow shield gives improved all round protection - Ultra lightweight, can be worn over most prescription glasses - Clear polycarbonate UV resistant construction - Conforms to EN166:1F These spectacles will withstand low energy high speed impacts up to 45m/s (101mph)",
+  "availability": "In Stock",
+  "product_name": "Scan Visitor Safety Spectacles",
+  "specifications": [
+    "Wrap-around panoramic vision for less distortion",
+    "Comfortable wide frame and integral brow shield",
+    "Ultra lightweight, can be worn over most prescription glasses",
+    "Clear polycarbonate UV resistant construction",
+    "Conforms to EN166:1F",
+    "Withstands low energy high speed impacts up to 45m/s (101mph)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-reinforcer-glasses.html|>
+## DEWALT Reinforcer Glasses
+
+{
+  "price": "from €3.84 inc VAT",
+  "description": "The DEWALT Reinforcer glasses provide an ergonomically positioned handgrip pattern on the temple for a secure grip. These safety glasses also double as reading glasses and provide maximum comfort for all day wear. They also feature a soft rubber nose piece and cushioned rubber temple pads. DEWALT safety glasses offer 99.9% UV protection meeting the ANSI Z87.1 STANDARDS.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Reinforcer Glasses",
+  "specifications": [
+    "Ergonomically positioned handgrip pattern",
+    "Soft rubber nose piece",
+    "Cushioned rubber temple pads",
+    "99.9% UV protection",
+    "Meets ANSI Z87.1 STANDARDS"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-flexi-spectacles.html|>
+## Scan Flexi Spectacles
+
+{
+  "price": "from €6.99 inc VAT",
+  "description": "The Scan Flexi Spectacles have a sports style, designed for protection against low energy, high speed impacts of up to 45m/s (100mph). They are manufactured using a single piece, wraparound lens to provide maximum peripheral vision and side protection, the lens is scratch and impact resistant with an anti-fog coating and is UV resistant to EN170. The spectacles are user friendly, ultra-lightweight with super flexible arms and feature a soft nose bridge for added comfort. Coloured lens helps filter light to enhance your visibility from indoor low light to outdoors where bright light can be an issue. Selecting the correct shade (lens filter) will improve visibility in many applications by enhancing the contrast and protecting eyes from excessive glare. Conforming to EN166:1F and EN170 UV ray protection.",
+  "availability": "In Stock",
+  "product_name": "Scan Flexi Spectacles",
+  "specifications": [
+    "Sports style design",
+    "Protection against low energy, high speed impacts up to 45m/s (100mph)",
+    "Single piece, wraparound lens for maximum peripheral vision",
+    "Scratch and impact resistant lens with anti-fog coating",
+    "UV resistant to EN170",
+    "Ultra-lightweight with flexible arms",
+    "Soft nose bridge for added comfort",
+    "Coloured lens to enhance visibility and reduce glare",
+    "Conforms to EN166:1F and EN170 UV ray protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-flexi-spec-safety-glasses-twin-pack.html|>
+## Flexi-Spec Safety Glasses Twin Pack
+
+{
+  "price": "€17.64 inc VAT (€14.34 exc.vat)",
+  "description": "The Scan Flexi-Spec Safety Glasses Twin Pack provides protection against low energy, high-speed impacts. The wrap-around single piece lens design gives maximum peripheral vision. These ultra lightweight glasses have many great features, including super flexible arms and a soft nose bridge for user comfort and have a UV, scratch and impact resistant lens with an anti-fog coating. The pack contains one pair of clear lens glasses for general indoor applications and a smoke lens for outdoor protection against excessive glare. Conforms to EN 166:1F - withstands low energy, high-speed impacts up to 45m/s (100mph) and EN 170.",
+  "availability": "In Stock",
+  "product_name": "Flexi-Spec Safety Glasses Twin Pack",
+  "specifications": [
+    "Wrap-around single piece lens design",
+    "Ultra lightweight",
+    "Super flexible arms",
+    "Soft nose bridge for comfort",
+    "UV, scratch and impact resistant lens",
+    "Anti-fog coating",
+    "Includes clear and smoke lens"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-clear-visitor-spectacles.html|>
+## Portwest Clear Visitor Spectacles
+
+{
+  "price": "€2.61 inc VAT (€2.12 exc.vat)",
+  "description": "A moulded-in brow guard and vented side shields offer excellent protection and comfort. Made from tough impact resistant polycarbonate, metal free. Anti-scratch coating for added durability. Can be adapted to be used over prescription glasses. Conform to EN 170 2C-1.2 and EN 166 1F.",
+  "availability": "In Stock",
+  "product_name": "Portwest Clear Visitor Spectacles",
+  "specifications": [
+    "PWTPW30CL : €2.61",
+    "Anti-scratch coating for added durability",
+    "Conform to EN 170 2C-1.2 and EN 166 1F"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw39-lucent-spectacles.html|>
+## Portwest PW39 Lucent Spectacles
+
+{
+  "price": "€4.24 inc VAT",
+  "description": "Lightweight spectacle with outstanding optical quality. One-piece curved lens offers unobstructed vision. Comfortable nose bridge allows for extended use. Anti-scratch coating for added durability. Excellent side protection. Conform to: Clear EN 170 (2C-1.2), Smoke EN 172 (5-3.1)",
+  "availability": "In Stock",
+  "product_name": "Portwest PW39 Lucent Spectacles",
+  "specifications": [
+    "Lightweight design",
+    "Outstanding optical quality",
+    "One-piece curved lens",
+    "Comfortable nose bridge",
+    "Anti-scratch coating",
+    "Excellent side protection",
+    "Conforms to EN 170 and EN 172 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-ps11-tech-look-plus-spectacles---clear.html|>
+## Portwest PS11 Tech Look Plus Spectacles - Clear
+
+{
+  "price": "€10.07 inc VAT (€8.19 exc.vat)",
+  "description": "The Portwest PS11 Tech Look Plus Spectacles are dielectric safety spectacles with metal-free hinges. A tough and modern design, either wear with the classic side arms or with the wide elastic band. The wide elastic band ensures an improved fit and can be easily combined with helmets and ear defenders. The removable EVA foam gasket allows extra comfort and offers additional protection against shocks and dust. CE certified 99% UV protection with an anti-scratch coating for added durability and anti-fog for user comfort. Conform to EN 170 (2C-1.2).",
+  "availability": "In Stock",
+  "product_name": "Portwest PS11 Tech Look Plus Spectacles - Clear",
+  "specifications": [
+    "Dielectric safety spectacles",
+    "Metal-free hinges",
+    "Wide elastic band for improved fit",
+    "Removable EVA foam gasket for comfort",
+    "CE certified 99% UV protection",
+    "Anti-scratch coating",
+    "Anti-fog for user comfort",
+    "Conform to EN 170 (2C-1.2)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-ps32clr-wrap-around-plus-spectacles---clear.html|>
+## Portwest PS32CLR Wrap Around Plus Spectacles - Clear
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "The Portwest PS32 Wrap Around Spectacles are now available with additional edge protection, thanks to the removable gasket, which offers a super comfortable fit and optimal protection against dust and impacts. The lenses are treated with an anti-scratch and an anti-fog coating for improved performance. Conform to EN 170 (2C-1.2).",
+  "availability": "In Stock",
+  "product_name": "Portwest PS32CLR Wrap Around Plus Spectacles - Clear",
+  "specifications": [
+    "Removable gasket for additional edge protection",
+    "Anti-scratch and anti-fog coating on lenses",
+    "Conforms to EN 170 (2C-1.2)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw11-levo-spectacles---clear.html|>
+## Portwest PW11 Levo Spectacles - Clear
+
+{
+  "price": "€12.69 inc VAT (€10.32 exc.vat)",
+  "description": "The Portwest PW11 Levo Spectacles offer the comfort of a safety spectacle with the fit and seal of a goggle. The back foam gives added brow and cheek protection. The arms can be interchanged with the adjustable head-strap for a more fitted wear. Excellent ventilation through indirect vents in the back foam, which aids in preventing misting and fogging. 100% metal-free. CE certified 99% UV protection with an anti-scratch coating for added durability and anti-fog for user comfort. Conform to EN 170 (2C-1.2).",
+  "availability": "In Stock",
+  "product_name": "Portwest PW11 Levo Spectacles - Clear",
+  "specifications": [
+    "CE certified 99% UV protection",
+    "Anti-scratch coating",
+    "Anti-fog for user comfort",
+    "Conform to EN 170 (2C-1.2)",
+    "100% metal-free"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw14-lite-safety-spectacles---clear.html|>
+## Portwest PW14 Lite Safety Spectacles - Clear
+
+{
+  "price": "€5.51 inc VAT (€4.48 exc.vat)",
+  "description": "The Portwest PW14 Lite Safety Spectacles are made of durable polycarbonate and have a super lightweight, sleek design and 10 base curve lens. Larger fitting size for a perfect custom fit. CE certified 99% UV protection with an anti-scratch coating for added durability and anti-fog for user comfort. Conform to EN 170 (2C-1.2).",
+  "availability": "In Stock",
+  "product_name": "Portwest PW14 Lite Safety Spectacles - Clear",
+  "specifications": [
+    "Durable polycarbonate material",
+    "Lightweight and sleek design",
+    "10 base curve lens",
+    "Larger fitting size for custom fit",
+    "CE certified 99% UV protection",
+    "Anti-scratch coating",
+    "Anti-fog for user comfort",
+    "Conforms to EN 170 (2C-1.2)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw31-contoured-safety-spectacles---clear.html|>
+## Portwest PW31 Contoured Safety Spectacles - Clear
+
+{
+  "price": "€5.76 inc VAT (€4.68 exc.vat)",
+  "description": "The Portwest PW31 Contoured Safety Spectacles are made of ultra-light polycarbonate that moulds into the facial features, providing brow protection and cheek guard. Fully adjustable temple length and a five-point temple ratchet allow for a secure and comfortable fit. CE certified 99% UV protection with an anti-scratch coating for added durability. Conform to EN 166 (1F).",
+  "availability": "In Stock",
+  "product_name": "Portwest PW31 Contoured Safety Spectacles - Clear",
+  "specifications": [
+    "Ultra-light polycarbonate material",
+    "Adjustable temple length",
+    "Five-point temple ratchet",
+    "CE certified 99% UV protection",
+    "Anti-scratch coating",
+    "Conforms to EN 166 (1F)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw32-wrap-around-spectacles---clear.html|>
+## Portwest PW32 Wrap Around Spectacles - Clear
+
+{
+  "price": "€3.32 inc VAT (€2.70 exc.vat)",
+  "description": "The Portwest PW32 Wrap Around Spectacles feature a simple but winning design with ultra-light and flexible arms, which are virtually indestructible. One-piece lens contour design and a moulded nose-bridge that allows an excellent fit to all face shapes. Unisex. CE certified 99% UV protection with an anti-scratch coating for added durability. Conform to EN 170 (2C-1.2).",
+  "availability": "In Stock",
+  "product_name": "Portwest PW32 Wrap Around Spectacles - Clear",
+  "specifications": [
+    "Ultra-light and flexible arms",
+    "One-piece lens contour design",
+    "Moulded nose-bridge for excellent fit",
+    "CE certified 99% UV protection",
+    "Anti-scratch coating",
+    "Conform to EN 170 (2C-1.2)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw34-profile-safety-spectacles---clear.html|>
+## Portwest PW34 Profile Safety Spectacles - Clear
+
+{
+  "price": "€4.43 inc VAT (€3.60 exc.vat)",
+  "description": "The Portwest PW34 Profile Safety Spectacles are frameless safety glasses designed for safety, comfort and style. Wrap-around design with a moulded nose bridge and brow guard. CE certified 99% UV protection with an anti-scratch coating for added durability. Conform to EN 166 (1F).",
+  "availability": "In Stock",
+  "product_name": "Portwest PW34 Profile Safety Spectacles - Clear",
+  "specifications": [
+    "Frameless design",
+    "Wrap-around style",
+    "Moulded nose bridge",
+    "Brow guard",
+    "CE certified 99% UV protection",
+    "Anti-scratch coating",
+    "Conforms to EN 166 (1F)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-pw38-pan-view-spectacles---clear.html|>
+## Portwest PW38 Pan View Spectacles - Clear
+
+{
+  "price": "€3.64 inc VAT (€2.96 exc.vat)",
+  "description": "The Portwest PW38 Pan View Spectacles are sleek and sporty-style glasses designed for safety and comfort. The Pan View features lightweight construction and soft-touch temples. The single wrap-around lens offers protection from the sides and front. CE certified 99% UV protection with an anti-scratch coating for added durability and anti-fog for user comfort. Conform to EN 170 (2C-1.2).",
+  "availability": "In Stock",
+  "product_name": "Portwest PW38 Pan View Spectacles - Clear",
+  "specifications": [
+    "CE certified 99% UV protection",
+    "Anti-scratch coating",
+    "Anti-fog for user comfort",
+    "Lightweight construction",
+    "Soft-touch temples",
+    "Single wrap-around lens"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-sy120-safety-glasses.html|>
+## STANLEY® SY120 Safety Glasses
+
+{
+  "price": "from €3.48 inc VAT",
+  "description": "The Stanley SY120 Safety Glasses are fitted with polycarbonate lenses. They have a lightweight design with rubber-tipped temples and a soft rubber nosepiece for a secure, comfortable fit. Conform to EN 166 standards.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® SY120 Safety Glasses",
+  "specifications": [
+    "Polycarbonate lenses",
+    "Lightweight design",
+    "Rubber-tipped temples",
+    "Soft rubber nosepiece",
+    "Conform to EN 166 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-sy180-full-frame-protective-eyewear.html|>
+## STANLEY® SY180 Full Frame Protective Eyewear
+
+{
+  "price": "€8.39 inc VAT",
+  "description": "STANLEY® SY180 Full Frame Protective Eyewear with durable polycarbonate lens. Fitted with a soft rubber brow-pad and nosepiece. The temples are also rubber-tipped to further increase wearer comfort. 99.9% UVA protection.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® SY180 Full Frame Protective Eyewear",
+  "specifications": [
+    "Durable polycarbonate lens",
+    "Soft rubber brow-pad and nosepiece",
+    "Rubber-tipped temples for comfort",
+    "99.9% UVA protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-hand-tools-wrap-around-safety-glasses.html|>
+## STANLEY® Hand Tools Wrap Around Safety Glasses
+
+{
+  "price": "€4.05 inc VAT",
+  "description": "STANLEY® Safety Glasses with a wraparound one piece lens for full coverage protection. Bi moulded rubber templates and adjustable nosepieces provide a comfortable no slip fit.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Hand Tools Wrap Around Safety Glasses",
+  "specifications": [
+    "ClearSmoke option available",
+    "WEEE Recycling information provided",
+    "Delivery information available",
+    "Returns policy outlined"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-reinforcer-smoke-glasses.html|>
+## DEWALT Reinforcer Smoke Glasses
+
+{
+  "price": "€3.92 inc VAT (€3.19 exc.vat)",
+  "description": "DEWALT SGFRS are the reinforcer smoke are specially designed for preventing smoke entering the eyes. They have a soft rubber nose grip, and cushioned rubber temple pads. The handgrip patten on the temple provides secure grip and superior comfort. Meets ANSI Z87.1+Standards. = 99.9% UV Protection",
+  "availability": "In Stock",
+  "product_name": "DEWALT Reinforcer Smoke Glasses",
+  "specifications": [
+    "Soft rubber nose grip",
+    "Cushioned rubber temple pads",
+    "Handgrip pattern on the temple for secure grip",
+    "Meets ANSI Z87.1+ Standards",
+    "99.9% UV Protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-classic-spectacle-clear.html|>
+## Scan Classic Spectacle Clear
+
+{
+  "price": "€6.95 inc VAT (€5.65 exc.vat)",
+  "description": "These Scan classic spectacles offer protection against low energy, high speed impacts of up to 45m/s (100mph). They are wraparound with a one-piece, scratch resistant, clear polycarbonate lens that provides UV protection. The built-in side shields provide extra lateral protection. The spectacles are lightweight with adjustable ratchet arms, which give greater comfort and fit. Conforms to EN166:1F.",
+  "availability": "In Stock",
+  "product_name": "Scan Classic Spectacle Clear",
+  "specifications": [
+    "Protection against low energy, high speed impacts of up to 45m/s (100mph)",
+    "Wraparound design with scratch resistant clear polycarbonate lens",
+    "UV protection",
+    "Built-in side shields for extra lateral protection",
+    "Lightweight with adjustable ratchet arms",
+    "Conforms to EN166:1F"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-safety-spectacles.html|>
+## Vitrex Safety Spectacles
+
+{
+  "price": "€5.15 inc VAT (€4.19 exc.vat)",
+  "description": "The Vitrex 332100 Safety Spectacles are made of clear polycarbonate and have ventilated side-arms. They are both impact and abrasion resistant. Suitable for various applications including woodwork, home renovation and for use with most domestic power tools. The Safety Spectacles will fit over most prescription spectacles and Conform to EN166.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Safety Spectacles",
+  "specifications": [
+    "Model: VIT332100",
+    "Material: Clear Polycarbonate",
+    "Features: Impact and Abrasion Resistant, Ventilated Side-Arms",
+    "Compliance: Conform to EN166",
+    "Suitable for: Woodwork, Home Renovation, Domestic Power Tools"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-premium-safety-spectacles.html|>
+## Vitrex Premium Safety Spectacles
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "These Vitrex 332108 Premium Safety Spectacles have an impact and abrasion resistant, clear polycarbonate lens. The spectacles are suitable for various applications, including; Work with fibreglass. Use with domestic power tools. Woodwork. Home renovation. Mowing/trimming. Grinding. Car maintenance. Tested to EN166. CE Approved (CE 0194).",
+  "availability": "In Stock",
+  "product_name": "Vitrex Premium Safety Spectacles",
+  "specifications": [
+    "Impact and abrasion resistant",
+    "Clear polycarbonate lens",
+    "Suitable for various applications",
+    "Tested to EN166",
+    "CE Approved (CE 0194)"
+  ]
+}
+

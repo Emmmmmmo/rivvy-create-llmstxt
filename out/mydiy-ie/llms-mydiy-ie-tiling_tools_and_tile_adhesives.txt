@@ -1,0 +1,52 @@
+<|https://www.mydiy.ie/products/faithfull-tile-levelling-system.html|>
+## Faithfull Tile Levelling System
+
+{
+  "price": "€17.05 inc VAT (€13.86 exc.vat)",
+  "description": "The Faithfull Tile Levelling System is a simple and easy way to install tiles. The levellers are made from polypropylene plastic and nickel-plated steel making them sturdy and perfect to use again and again. The levelling system is easy to use, simply insert the T-pin between two tiles, rotate 90 degrees and tighten until the T-pin clamps onto the bottom of the tile. Then simply tighten further to adjust the level of the tiles. To remove rotate the T-pin 90 degrees and pull the levellers out before the tile adhesive has fully dried. This system can be used for floor or wall tiles in both the home and for professional use. This set comes complete with 100 tile levellers and two polypropylene spanners to assist in the tightening process.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tile Levelling System",
+  "specifications": [
+    "Made from polypropylene plastic and nickel-plated steel",
+    "Includes 100 tile levellers and two polypropylene spanners",
+    "Suitable for floor or wall tiles",
+    "Easy to use and reusable"
+  ],
+  "product_category": "Tiling Tools & Tile Adhesives"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tilecutter-300mm.html|>
+## Faithfull Tile Cutter 300mm
+
+{
+  "price": "€19.47 inc VAT (€15.83 exc.vat)",
+  "description": "This Faithfull dual rail, push-action Tile Cutter has a tungsten carbide cutting wheel, which is ideal for most types of tiles. It will cut tiles up to 300mm square, 210mm diagonal, and up to 10mm thick. This cutter features a solid chromed dual rail with a ball bearing sliding handle for a consistent and smooth cutting action, rubber bump stops, graduated angle guide, and rubber feet that provide a non-slip contact point.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tile Cutter 300mm",
+  "specifications": [
+    "Tile Capacity: 300mm",
+    "Diagonal: 210mm",
+    "Thickness: 10mm"
+  ],
+  "product_category": "Tiling Tools & Tile Adhesives"
+}
+
+<|https://www.mydiy.ie/products/faithfull-trade-tile-cutter.html|>
+## Faithfull Trade Tile Cutter
+
+{
+  "price": "€30.07 inc VAT",
+  "description": "Faithfull Trade Tile Cutter with a tungsten carbide cutting wheel, ideal for most types of tiles. It has a solid chromed dual rail with a ball bearing sliding handle for a consistent and smooth cutting action. Other features include rubber bump stops, graduated angle guide, and rubber feet provide a non-slip contact point.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Trade Tile Cutter",
+  "specifications": [
+    "Tungsten carbide cutting wheel",
+    "Solid chromed dual rail",
+    "Ball bearing sliding handle",
+    "Rubber bump stops",
+    "Graduated angle guide",
+    "Rubber feet for non-slip contact"
+  ],
+  "product_category": "Tiling Tools & Tile Adhesives"
+}
+

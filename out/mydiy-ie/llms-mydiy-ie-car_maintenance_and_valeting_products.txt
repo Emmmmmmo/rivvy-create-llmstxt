@@ -1,0 +1,1715 @@
+<|https://www.mydiy.ie/products/faithfull-tow-rope-expanding-4m-metal-hooks-3-tonnes.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-tread-depth-gauge-manual.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/silverhook-jump-leads.html|>
+## Silverhook Jump Leads
+
+{
+  "price": "from €18.27 inc VAT",
+  "description": "Few things are more dispiriting than turning the ignition key and hearing nothing. Just when you need your car to start, it plays dead. Worse still, it's probably your fault. Look at the lights switch - did you leave them on? Modern car batteries are very reliable, but leaving the lights on for a few hours will soon discharge them. Even a boot light or an interior light left on overnight can flatten a battery. And a car left standing for a month or so may discharge its battery just from the current drawn by the alarm.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Jump Leads",
+  "specifications": [
+    "Select Option: 2.5m - 200amp, 3.0m - 600amp",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/hozelock-2602-jet-brush.html|>
+## Hozelock 2602 Jet Brush
+
+{
+  "price": "€40.32 inc VAT (€32.78 exc.vat)",
+  "description": "This Hozelock Jet brush is specially designed for cleaning family size cars and motor bikes. It has a rinsing jet that can be turned on or off, and a flow control from 100% to zero. The brush is through flow, and clean water is constantly jetted through the brush bristles. Its Quick Connect feature allows rapid connection to the Hozelock system. It has an integral detergent tank with a selector from no soap to maximum soaping.",
+  "availability": "Out of Stock",
+  "product_name": "Hozelock 2602 Jet Brush",
+  "specifications": [
+    "Model: HOZ2602",
+    "Price: €40.32",
+    "List Price: €47.92",
+    "You save: €7.60",
+    "Integral detergent tank",
+    "Flow control from 100% to zero",
+    "Quick Connect feature"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-care-genuine-chamois-demister-pad.html|>
+## U-Care Genuine Chamois Demister Pad
+
+{
+  "price": "€2.66 inc VAT (€2.16 exc.vat)",
+  "description": "The Chamois de-mister pad is ideal for keeping in the glove box or door panel. Made from top quality chamois leather it provides a smear free finish on misted up windows.",
+  "availability": "Out of Stock",
+  "product_name": "U-Care Genuine Chamois Demister Pad",
+  "specifications": [
+    "Product Code: UCRDPAD",
+    "List Price: €3.05",
+    "You save: €0.39",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-care-super-absorbant-jumbo-sponge.html|>
+## U-Care Super Absorbant Jumbo Sponge
+
+{
+  "price": "€2.99 inc VAT (€2.43 exc.vat)",
+  "description": "High quality, long lasting, super absorbent jumbo sponge. Ideal for washing cars, vans, boats etc. Size: 22 x 12 x 6.7cm.",
+  "availability": "In Stock",
+  "product_name": "U-Care Super Absorbant Jumbo Sponge",
+  "specifications": [
+    "Size: 22 x 12 x 6.7cm",
+    "High quality and long lasting",
+    "Super absorbent"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-care-car-wash-brush.html|>
+## U-Care Car Wash Brush
+
+{
+  "price": "€11.13 inc VAT (€9.05 exc.vat)",
+  "description": "The U-Care Car Wash Brush is a flow-thru brush with scratch resistant bristles and flow regulator. It can also be used with shampoo sticks.",
+  "availability": "In Stock",
+  "product_name": "U-Care Car Wash Brush",
+  "specifications": [
+    "Model: UCRX201",
+    "Price: €11.13",
+    "List Price: €12.79",
+    "You save: €1.66",
+    "Flow-thru brush",
+    "Scratch resistant bristles",
+    "Flow regulator",
+    "Compatible with shampoo sticks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-care-high-reach-flow-thru-brush.html|>
+## U-Care High Reach Flow Thru Brush
+
+{
+  "price": "€29.48 inc VAT (€23.97 exc.vat)",
+  "description": "The U-Care High Reach Flow Thru Brush with flow regulator, which extends to over 5ft. A big 10 inch head of scratch resistant bristles makes this brush ideal for cars, 4X4s, vans and also conservatories.",
+  "availability": "Out of Stock",
+  "product_name": "U-Care High Reach Flow Thru Brush",
+  "specifications": [
+    "UCRX203",
+    "Extends to over 5ft",
+    "10 inch head of scratch resistant bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-care-pva-synthetic-chamois-64-x-43cm.html|>
+## U-Care PVA Synthetic Chamois 64 x 43cm
+
+{
+  "price": "€8.01 inc VAT (€6.51 exc.vat)",
+  "description": "PVA synthetic chamois. Super strong. High absorbency. Dries cars, glass and tiles. Resistant to grease, oil and detergents. Size : 64 x 43cm.",
+  "availability": "In Stock",
+  "product_name": "U-Care PVA Synthetic Chamois 64 x 43cm",
+  "specifications": [
+    "Size: 64 x 43cm",
+    "Material: PVA",
+    "High absorbency",
+    "Resistant to grease, oil, and detergents"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-care-chamois-leathers.html|>
+## U-Care Chamois Leathers
+
+{
+  "price": "€10.18 inc VAT",
+  "description": "100% Chamois leather. Made from soft leather with an even surface and finished on both sides. A highly absorbent, medium weight, general purpose chamois.",
+  "availability": "In Stock",
+  "product_name": "U-Care Chamois Leathers",
+  "specifications": [
+    "Large Chamois Leather 2.25ft CR721U1DT",
+    "Wholeskin Chamois Leather"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-care-cotton-polishing-cloths.html|>
+## U-Care Cotton Polishing Cloths
+
+{
+  "price": "€4.08 inc VAT",
+  "description": "Cotton stockinette is ideal for the application and removal of wax and polish. 100% pure ecru cotton for greater absorbency and softness.",
+  "availability": "In Stock",
+  "product_name": "U-Care Cotton Polishing Cloths",
+  "specifications": [
+    "Select Option: 200g, 400g",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/hozelock-2607-long-rotating-car-brush.html|>
+## Hozelock 2607 Long Rotating Car Brush
+
+{
+  "price": "€62.37 inc VAT (€50.71 exc.vat)",
+  "description": "2607 Long Rotating Car Brush",
+  "availability": "In Stock",
+  "product_name": "Hozelock 2607 Long Rotating Car Brush",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery",
+    "No quibble returns policy"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-cycling-chain-oil---ultra-100ml.html|>
+## MOTIPÂ® Cycling Chain Oil - Ultra 100ml
+
+{
+  "price": "€6.19 inc VAT (€5.03 exc.vat)",
+  "description": "MoTip Cycling Chain Oil Ultra is a highly viscous lubricant to treat chains and gear wheels of bikes. Its unique formula has excellent long-lasting lubricating properties and reduces the adhesion of dirt. With a very low friction factor and excellent adhesion to prevent wear. Resistant to weather influences and water-repellent.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Cycling Chain Oil - Ultra 100ml",
+  "specifications": [
+    "Highly viscous lubricant",
+    "Excellent long-lasting lubricating properties",
+    "Reduces adhesion of dirt",
+    "Very low friction factor",
+    "Weather resistant and water-repellent"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-cycling-chain-oil---sport-100ml.html|>
+## MOTIPÂ® Cycling Chain Oil - Sport 100ml
+
+{
+  "price": "€6.19 inc VAT (€5.03 exc.vat)",
+  "description": "MoTip Cycling Chain Oil Sport prevents wear and reduces the adhesion of dirt on chains and gear wheels of bikes. It has a very low friction factor for minimal resistance, maintaining outstanding lubricating properties, even at heavy load. Water-repellent and resistant to weather influences. Suitable for chains and gear wheels of racing, cross and mountain bikes. For heavy circumstances we advise to use MoTip Cycling Chain Oil Ultra.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Cycling Chain Oil - Sport 100ml",
+  "specifications": [
+    "Volume: 100ml",
+    "Prevents wear",
+    "Reduces dirt adhesion",
+    "Water-repellent",
+    "Suitable for racing, cross, and mountain bikes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-cycling-brake-cleaner-200ml.html|>
+## MOTIPÂ® Cycling Brake Cleaner 200ml
+
+{
+  "price": "€6.01 inc VAT (€4.89 exc.vat)",
+  "description": "MoTip Cycling Brake Cleaner has excellent dissolving properties to remove grease and dirt from disc brakes and brake pads.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Cycling Brake Cleaner 200ml",
+  "specifications": [
+    "200ml capacity",
+    "Excellent dissolving properties",
+    "Removes grease and dirt from disc brakes and brake pads"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-sport-cycling-chain-spray-lubricant-200ml.html|>
+## MOTIPÂ® Sport Cycling Chain Spray Lubricant 200ml
+
+{
+  "price": "€6.01 inc VAT (€4.89 exc.vat)",
+  "description": "MoTip Sport Cycling Chain Spray Lubricant with ceramic particles to treat chains and gear wheels of bikes. It has a very low friction factor for minimal resistance, maintaining the outstanding lubricating properties, even at heavy load. Prevents wear and reduces the adhesion of dirt. It is also water-repellent and resistant to weather influences. Extremely suitable for chains and gear wheels of racing, cross and mountain bikes. For heavy circumstances we advise to use MoTip Cycling Chain Spray Ultra.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Sport Cycling Chain Spray Lubricant 200ml",
+  "specifications": [
+    "200ml capacity",
+    "Ceramic particles for enhanced lubrication",
+    "Water-repellent and weather resistant",
+    "Suitable for racing, cross, and mountain bikes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wynns-brake-and-clutch-cleaner-500ml.html|>
+## Wynns Brake & Clutch Cleaner 500ml
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "Help get more out of your brakes with the Wynn's Brake and Clutch Cleaner. This cleaner is the perfect solution for cleaning and degreasing your brakes and clutch parts. Features & Benefits: - Leaves no residue - Powerful spray application - Eliminates dust from brake & clutch parts - Restores the friction of brake & clutch lining material - Also suitable for all mechanical & other parts of the car - Removes oil, brake fluid, grease & other dirt from metal parts - For use on clutch parts: clutch lining, pressure plate and all other clutch parts - For use on brake parts: drum & disc brakes, lining material, brake pads, block pads, springs, cylinders etc. - Does not contain: chloride, fluoride, PCB, lead or alu",
+  "availability": "In Stock",
+  "product_name": "Wynns Brake & Clutch Cleaner 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Powerful spray application",
+    "Leaves no residue",
+    "Suitable for all mechanical parts",
+    "Removes oil, brake fluid, grease & dirt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lumatic-fg12b-garage--tractor-funnel.html|>
+## Lumatic FG12/B Garage / Tractor Funnel
+
+{
+  "price": "€10.23 inc VAT (€8.32 exc.vat)",
+  "description": "Heavy-duty plastic garage or tractor funnel, with filter. Please Note: Colour may vary",
+  "availability": "Out of Stock",
+  "product_name": "Lumatic FG12/B Garage / Tractor Funnel",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-flexible-funnel-with-metal-gauze.html|>
+## Silverhook Flexible Funnel with Metal Gauze
+
+{
+  "price": "€4.72 inc VAT (€3.84 exc.vat)",
+  "description": "This 2-in-1 plastic funnel features a brass filter to prevent the ingress of unwanted matter and a 13in detachable flexible nylon spout.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Flexible Funnel with Metal Gauze",
+  "specifications": [
+    "D/ISSF005 : €4.72",
+    "Flexible Funnel with Metal Gauze",
+    "2-in-1 plastic funnel",
+    "Brass filter",
+    "13in detachable flexible nylon spout"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-petrol-can-and-spout-5-litre.html|>
+## Silverhook Petrol Can & Spout 5 Litre
+
+{
+  "price": "€9.08 inc VAT",
+  "description": "A colour co-ordinated plastic fuel can with external graduations moulded into the outer casing. Supplied with flexible pouring spout which mounts neatly on can top. The Petroleum Spirit (Motor Vehicles etc.) Regulations 1929 and the Petroleum Spirit (Plastic Containers) Regulations 1982 limit the amount of petrol that can be kept in a domestic garage or within six metres of a building (e.g. most domestic driveways). The limit is a maximum of two suitable metal containers each of a maximum capacity of ten litres and two plastic containers (which have to be of an approved design) each of a maximum capacity of five litres. These limits also apply to any containers kept in a vehicle parked in the garage or on the driveway (but not to the internal fuel tank of the vehicle). Under no circumstances should the petrol containers be stored in the home itself.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Petrol Can & Spout 5 Litre",
+  "specifications": [
+    "Select Option: Diesel 5 Litre, Leaded Red, Unleaded Green",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-petrol-treatment-325ml.html|>
+## Silverhook Petrol Treatment 325ml
+
+{
+  "price": "€5.26 inc VAT (€4.28 exc.vat)",
+  "description": "Silverhook Petrol Treatment helps prevent blocking deposits with each treatment. It restores lost power and increases fuel economy. Regular use of Silverhook Petrol Treatment helps to maintain engine and fuel system performance, and prevent the harmful build-up of deposits to injectors, carburettors and valves. Size: 325ml",
+  "availability": "In Stock",
+  "product_name": "Silverhook Petrol Treatment 325ml",
+  "specifications": [
+    "Size: 325ml",
+    "Helps prevent blocking deposits",
+    "Restores lost power",
+    "Increases fuel economy",
+    "Maintains engine and fuel system performance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-petrol-injector-treatment-325ml.html|>
+## Silverhook Petrol Injector Treatment 325ml
+
+{
+  "price": "€5.72 inc VAT (€4.65 exc.vat)",
+  "description": "Silverhook Petrol Injector Treatment is specially formulated to clear clogged injectors ensuring peak performance. It will smooth out rough idling and eliminate tough starting. The advanced corrosion protection prevents rust and fuel system blockage and reduces emissions. Will treat 50-70 litres of fuel.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Petrol Injector Treatment 325ml",
+  "specifications": [
+    "Volume: 325ml",
+    "Treats 50-70 litres of fuel",
+    "Advanced corrosion protection",
+    "Eliminates tough starting",
+    "Smooths out rough idling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-diesel-treatment-325ml.html|>
+## Silverhook Diesel Treatment 325ml
+
+{
+  "price": "€5.69 inc VAT (€4.63 exc.vat)",
+  "description": "Silverhook Diesel Treatment is a multifunctional treatment that combines strong detergents and lubricants. Cleans deposits and keeps injectors and pistons clean. Provides superior lubrication when used with low sulphur diesel fuels preventing wear and premature failure of injector pumps and injectors. Reduces diesel knock, smooths idling and eliminates tough starting, whilst reducing emissions, black smoke and soot. Helps to improve fuel economy. One bottle treats 50-70 litres of fuel.",
+  "availability": "Out of Stock",
+  "product_name": "Silverhook Diesel Treatment 325ml",
+  "specifications": [
+    "D/ISGA04 : €5.69",
+    "Qty: Sorry this item is out of stock"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-engine-flush-treatment-350ml.html|>
+## Silverhook Engine Flush Treatment 350ml
+
+{
+  "price": "€5.03 inc VAT (€4.09 exc.vat)",
+  "description": "Silverhook Engine Flush Treatment helps to neutralise acid, dissolve varnish and remove sludge in engine oils, that can build-up over time. It is designed for use prior to draining, to help clean the engine, remove harmful deposits and clean sticky valves, lifters and piston rings to improve oil circulation. Size: 350ml",
+  "availability": "In Stock",
+  "product_name": "Silverhook Engine Flush Treatment 350ml",
+  "specifications": [
+    "Size: 350ml",
+    "Helps to neutralise acid",
+    "Dissolves varnish",
+    "Removes sludge in engine oils",
+    "Cleans sticky valves, lifters, and piston rings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-engine-stop-leak-350ml.html|>
+## Silverhook Engine Stop Leak 350ml
+
+{
+  "price": "€7.15 inc VAT (€5.81 exc.vat)",
+  "description": "Silverhook Engine Stop Leak counteracts the effects of seal shrinkage. Older and higher mileage can develop consistent signs of engine oil loss. This can be caused by rubber seal shrinkage due to age, dryness and consistent temperature changes. Engine Stop Leak contains seal conditioner additives to help correct external rubber seal related engine oil leaks and can be left in the system offering long-term protection.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Engine Stop Leak 350ml",
+  "specifications": [
+    "D/ISGA09 : €7.15",
+    "List: €8.22",
+    "You save €1.07"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-oil-tonic-325ml.html|>
+## Silverhook Oil Tonic 325ml
+
+{
+  "price": "€6.35 inc VAT (€5.16 exc.vat)",
+  "description": "Silverhook Oil Tonic is formulated from an advanced blend of friction reducers, oil detergents and oil performance boosters, designed to enhance the lubrication, protection and cleaning properties of your existing oil. Oil Tonic has been developed to maintain engine cleanliness and effective oil circulation by preventing harmful deposits and corrosion build-up. Compatible with synthetic and mineral oils and safe for use with catalytic converters, turbos and soot converters.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Oil Tonic 325ml",
+  "specifications": [
+    "Formulated from an advanced blend of friction reducers, oil detergents, and oil performance boosters",
+    "Enhances lubrication, protection, and cleaning properties of existing oil",
+    "Maintains engine cleanliness and effective oil circulation",
+    "Prevents harmful deposits and corrosion build-up",
+    "Compatible with synthetic and mineral oils",
+    "Safe for use with catalytic converters, turbos, and soot converters"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-diesel-particulate-filter-cleaner-325ml.html|>
+## Silverhook Diesel Particulate Filter Cleaner 325ml
+
+{
+  "price": "€15.90 inc VAT (€12.93 exc.vat)",
+  "description": "Silverhook Diesel Particulate Filter Cleaner can be used in all diesel engines fitted with a diesel particulate filter. The cleaner lowers the ignition temperature of soot collected in the filter resulting in filter regeneration, preventing loss of performance caused by a clogged filter. Reduces particulate emissions and helps extend the life of the particulate filter. Simply add directly to the fuel tank. One bottle treats 50 litres.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Diesel Particulate Filter Cleaner 325ml",
+  "specifications": [
+    "D/ISGA17 : €15.90",
+    "QtyAdd to Basket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stadium-funnel.html|>
+## Stadium Funnel
+
+{
+  "price": "from €2.99 inc VAT",
+  "description": "Made from clear, non-toxic polythene with venting ribs and a hanging tab.",
+  "availability": "In Stock",
+  "product_name": "Stadium Funnel",
+  "specifications": [
+    "Select Option: 100mm (4in), 150mm (6in), 200mm (8in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-concentrated-antifreeze-oat-red.html|>
+## Silverhook Concentrated Antifreeze O.A.T Red
+
+{
+  "price": "€6.49 inc VAT",
+  "description": "Silverhook Concentrated Red Antifreeze and Summer Coolant provides all year round protection for up to 5 years. It is suitable for all types of engines, including aluminium. Featuring Organic Acid Technology (O.A.T.), the antifreeze prevents rust and corrosion and will also cool the engine. Freeze Protection: -36°C at 50% dilution. Summer protection: 130°C at 15 PSI and 50% dilution. Passes BS6580:2010.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Concentrated Antifreeze O.A.T Red",
+  "specifications": [
+    "1 Litre",
+    "4.5 Litres",
+    "Freeze Protection: -36°C at 50% dilution",
+    "Summer protection: 130°C at 15 PSI and 50% dilution",
+    "Passes BS6580:2010"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-concentrated-antifreezes.html|>
+## Silverhook Concentrated Antifreezes
+
+{
+  "price": "from €6.22 inc VAT",
+  "description": "Antifreeze coolant is one of the most vital fluids in your car's operation, since it protects the engine from corrosion, from boiling or freezing temperatures, and helps transfer heat from the engine to the radiator. While water could potentially serve the purpose of heat transferring, most coolants only contain 2-4 percent water, which is subject to freezing and boiling. The main ingredient of coolant is glycol; usually, ethylene glycol, and the rest are additives which protect your car's inner workings against corrosion, rust, and pitting caused by air bubbles imploding in the cooling system.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Concentrated Antifreezes",
+  "specifications": [
+    "Select Option: Blue 1ltr, Blue 4.54L",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-radiator-flush-350ml.html|>
+## Silverhook Radiator Flush 350ml
+
+{
+  "price": "€4.83 inc VAT (€3.93 exc.vat)",
+  "description": "Over time, the build-up of sludge and rust can impair the performance of cooling systems. This can lead to blocked coolant channels and subsequent overheating and increased pressure. Silverhook Radiator Flush effectively clears blockages and removes any sludge and rust accumulation. May be used with all radiator types and is harmless to rubber hoses and gaskets.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Radiator Flush 350ml",
+  "specifications": [
+    "Radiator Flush 350ml",
+    "D/ISGA14 : €4.83",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-radiator-stop-leak-325ml.html|>
+## Silverhook Radiator Stop Leak 325ml
+
+{
+  "price": "€4.78 inc VAT (€3.89 exc.vat)",
+  "description": "Silverhook Stop Leak for Radiators quickly finds and permanently seals radiator leaks.  It is formulated to inhibit the formation of rust and corrosion to help prevent further leaks.  It is made from a blend of surfactants, corrosion inhibitors and sealants. Stop Leak for Radiators may be used with antifreeze and is harmless to rubber hoses, gaskets and gasket cements.  It is suitable for petrol and diesel engines. Size: 325ml",
+  "availability": "In Stock",
+  "product_name": "Silverhook Radiator Stop Leak 325ml",
+  "specifications": [
+    "Size: 325ml",
+    "Suitable for petrol and diesel engines",
+    "Harmless to rubber hoses, gaskets and gasket cements",
+    "Inhibits rust and corrosion"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-isopon-leak-stop-250ml.html|>
+## U-POL ISOPON Leak Stop 250ml
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "ISOPON Leak Stop seals and repairs emergency leaks in petrol tanks, radiators and sumps using flexible, high adhesion technology. Oil, water, and fuel resistant, it also resists temperatures of up to 120°C. Cure Time: 30 minutes. Coverage: 1m² at a 2mm depth.",
+  "availability": "In Stock",
+  "product_name": "U-POL ISOPON Leak Stop 250ml",
+  "specifications": [
+    "Cure Time: 30 minutes",
+    "Coverage: 1m² at a 2mm depth"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-v-belt-spray-500ml.html|>
+## MOTIPÂ® Pro V-Belt Spray 500ml
+
+{
+  "price": "€5.95 inc VAT (€4.84 exc.vat)",
+  "description": "MoTip Pro V-Belt Spray has excellent adhesion to protect V-belts and prevent slipping. The spray is dilatant and user-friendly and gives lasting protection. MoTip Pro V-Belt Spray conditions and delays the wear of V-belts and is resistant to weather influences.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro V-Belt Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Excellent adhesion",
+    "Prevents slipping",
+    "User-friendly",
+    "Weather resistant"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-electro-protect-500ml.html|>
+## MOTIPÂ® Pro Electro Protect 500ml
+
+{
+  "price": "€4.82 inc VAT (€3.92 exc.vat)",
+  "description": "MoTip Pro Electro Protect is a high-quality electro preservative to prevent problems caused by water. It is pH-neutral, water and moisture repellent and resistant to salt, weak acids and bases. It has excellent adhesion and is ideal for preventing corrosion. Suitable for use on batteries, multiple sockets, cables, spark plugs, printed circuit board switches and any electric systems that should be protected from moisture.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Electro Protect 500ml",
+  "specifications": [
+    "500ml capacity",
+    "pH-neutral",
+    "Water and moisture repellent",
+    "Resistant to salt, weak acids, and bases",
+    "Excellent adhesion",
+    "Ideal for preventing corrosion"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-black-oil-spray-500ml.html|>
+## MOTIPÂ® Pro Black Oil Spray 500ml
+
+{
+  "price": "€6.15 inc VAT (€5.00 exc.vat)",
+  "description": "MoTip Pro Black Oil Spray is a grease with excellent adhesion to prevent wear and sticking of screwed connections which are liable to heavy workload. It also repels moisture, prevents rust and is resistant to weather influences, weak acids and bases. MoTip Black Oil has a directed jet spray and a 360° valve.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Black Oil Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Excellent adhesion",
+    "Repels moisture",
+    "Prevents rust",
+    "Resistant to weather influences",
+    "Weak acids and bases",
+    "Directed jet spray",
+    "360° valve"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-ceramic-grease-spray-500ml.html|>
+## MOTIPÂ® Pro Ceramic Grease Spray 500ml
+
+{
+  "price": "€5.24 inc VAT (€4.26 exc.vat)",
+  "description": "MoTip Pro Ceramic Grease Spray offers excellent adhesion, to treat parts which are liable to heavy workload and/or which are exposed to very high temperatures. Prevents wear and sticking. Protects against electrolytic corrosion and has high thermal stability. Ceramic grease is resistant to chemicals, weather influences, water, salt, weak acids and bases. Fitted with a directed jet spray. MoTip Pro Ceramic Grease is extremely suitable for mount ABS brake systems and lambda sensors.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Pro Ceramic Grease Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Excellent adhesion",
+    "High thermal stability",
+    "Resistant to chemicals and weather influences",
+    "Suitable for ABS brake systems and lambda sensors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-gasket-remover-spray-500ml.html|>
+## MOTIPÂ® Pro Gasket Remover Spray 500ml
+
+{
+  "price": "€5.24 inc VAT (€4.26 exc.vat)",
+  "description": "MoTip Pro Gasket Remover Spray provides fast and easy removal of dried adhesives and seals, as well as hardened sealing material from car and machine parts. It is non-conductive and non-corrosive. Fitted with a directed jet spray for ease of use.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Gasket Remover Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Non-conductive and non-corrosive",
+    "Directed jet spray for ease of use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-anti-welding-spray-500ml.html|>
+## MOTIPÂ® Pro Anti-Welding Spray 500ml
+
+{
+  "price": "€7.74 inc VAT (€6.29 exc.vat)",
+  "description": "MoTip Pro Anti-Welding Spray prevents adhesion of welding splatter on the welding mouth and the surroundings of the welding zone. It is non-flammable, silicone-free and non-corrosive. As a result of the unique formulation with pure nitrogen, high coverage is obtained. Anti-Welding Spray can be removed with water, it has a misty spray pattern and can be used in various positions.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Anti-Welding Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Non-flammable",
+    "Silicone-free",
+    "Non-corrosive",
+    "High coverage with pure nitrogen",
+    "Mist spray pattern",
+    "Removable with water"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-quick-start-spray-500ml.html|>
+## MOTIPÂ® Pro Quick Start Spray 500ml
+
+{
+  "price": "€5.24 inc VAT (€4.26 exc.vat)",
+  "description": "MoTip Pro Quick Start Spray helps to solve starting problems with internal combustion engines. Simply, inject the ether-based spray into the air inlet of the air filter for several seconds and then start the engine.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Quick Start Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Ether-based spray for internal combustion engines",
+    "Helps solve starting problems"
+  ]
+}
+
+<|https://www.mydiy.ie/products/j-b-weld-exhaustweld-wrap-5-x-183cm.html|>
+## J-B Weld ExhaustWeld™ Wrap 5 x 183cm
+
+{
+  "price": "€16.97 inc VAT (€13.80 exc.vat)",
+  "description": "J-B Weld ExhaustWeld™ Wrap is a high strength fibreglass wrap, impregnated with a specially formulated resin for high-temperature-resistant repairs. Works on any part of the exhaust from the engine block to the tailpipe. It can withstand temperatures up to 593ºC. Includes one 5 x 183cm repair wrap, a pair of gloves and aluminium tape.",
+  "availability": "In Stock",
+  "product_name": "J-B Weld ExhaustWeld™ Wrap 5 x 183cm",
+  "specifications": [
+    "High strength fibreglass wrap",
+    "Temperature resistant up to 593ºC",
+    "Includes gloves and aluminium tape",
+    "Dimensions: 5 x 183cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-fastglas-matting-055m2.html|>
+## U-Pol Fastglas Matting 0.55M2
+
+{
+  "price": "€12.73 inc VAT (€10.35 exc.vat)",
+  "description": "The U-Pol Fastglas Matting is a strong, high quality 0.55m² matting for construction of GRP. For use with the resin.",
+  "availability": "In Stock",
+  "product_name": "U-Pol Fastglas Matting 0.55M2",
+  "specifications": [
+    "Size: 0.55m²",
+    "Material: GRP matting",
+    "Usage: For construction with resin"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-fastglas-tissue-1m2.html|>
+## U-Pol Fastglas Tissue 1M2
+
+{
+  "price": "€8.36 inc VAT (€6.80 exc.vat)",
+  "description": "U-Pol FASTGLAS Tissue is a fine glass fibre 1 square metre tissue for creating a smoother finish. For use with the resin.",
+  "availability": "In Stock",
+  "product_name": "U-Pol Fastglas Tissue 1M2",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-onion-board-multi-layer-mixing-pallette-1-pack-100-sheets.html|>
+## U-Pol Onion Board Multi Layer Mixing Pallette 1 Pack (100 Sheets)
+
+{
+  "price": "€21.72 inc VAT (€17.66 exc.vat)",
+  "description": "U-Pol Onion Board multi layer mixing pallete is a clean solution for mixing 2-component pastes and materials, and reducing pinholing. The specially formulated paper avoids soaking up resins and solvents. Handy portable solution for mixing body filler, simply tear off and discard used sheet. 1 Pack = 100 Single Sheets.",
+  "availability": "In Stock",
+  "product_name": "U-Pol Onion Board Multi Layer Mixing Pallette 1 Pack (100 Sheets)",
+  "specifications": [
+    "1 Pack = 100 Single Sheets",
+    "Specially formulated paper avoids soaking up resins and solvents",
+    "Clean solution for mixing 2-component pastes and materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-aluminium-mesh-25cm-x-20cm-p38-p40.html|>
+## U-Pol Aluminium Mesh 25cm x 20cm (P38-P40)
+
+{
+  "price": "€4.62 inc VAT (€3.76 exc.vat)",
+  "description": "U-Pol Aluminium Mesh (25cm x 20cm) is ideal for repairs requiring reinforcement. Use together with body filler or bridging compound for a permanent repair.",
+  "availability": "In Stock",
+  "product_name": "U-Pol Aluminium Mesh 25cm x 20cm (P38-P40)",
+  "specifications": [
+    "Size: 25cm x 20cm",
+    "Ideal for repairs requiring reinforcement",
+    "Use with body filler or bridging compound for permanent repair"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-applicator.html|>
+## U-Pol Applicator
+
+{
+  "price": "from €2.07 inc VAT",
+  "description": "U-Pol plastic applicators with a flat leading edge to give a superior finish.",
+  "availability": "In Stock",
+  "product_name": "U-Pol Applicator",
+  "specifications": [
+    "Select Option: Pack of 3, Single pack",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-fastglas-resin-and-glass-fibre-kit.html|>
+## U-Pol Fastglas Resin & Glass Fibre Kit
+
+{
+  "price": "€23.74 inc VAT",
+  "description": "The U-Pol FASTGLAS is a polyester resin kit, containing resin, hardener, glass fibre, mixing cup, and plastic gloves. It has been developed for the repair of holes, splits, cracks and tears in most materials including metal, wood, hard plastic, bricks etc. Can also be used as a construction material to manufacture storage tanks etc. Offers perfect adhesion to most surfaces and is a solid base for most paint systems.",
+  "availability": "In Stock",
+  "product_name": "U-Pol Fastglas Resin & Glass Fibre Kit",
+  "specifications": [
+    "Includes resin, hardener, glass fibre, mixing cup, and plastic gloves",
+    "Developed for repair of holes, splits, cracks, and tears in various materials",
+    "Can be used as a construction material for storage tanks",
+    "Offers perfect adhesion to most surfaces",
+    "Solid base for most paint systems"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-hardener-for-p38p40.html|>
+## U-Pol Hardener For P38/P40
+
+{
+  "price": "€7.10 inc VAT",
+  "description": "U-Pol Hardener For P38/P40 is an additional BPO hardener for polyester body fillers. Can be used with all the U-POL and ISOPON polyester fillers.",
+  "availability": "In Stock",
+  "product_name": "U-Pol Hardener For P38/P40",
+  "specifications": [
+    "Select Option: 20G Sachet, 40G Sachet",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-p40-glass-fibre-repair-paste.html|>
+## U-Pol P40 Glass Fibre Repair Paste
+
+{
+  "price": "€25.67 inc VAT",
+  "description": "U-Pol Glass Fibre Repair Paste is a two-component bridging filler paste designed to repair damaged body panels on vehicles, steel and GRP. It forms a very hard durable surface and can be sanded and shaped if required. It is easily covered with standard polyester filler or can be overpainted directly.",
+  "availability": "In Stock",
+  "product_name": "U-Pol P40 Glass Fibre Repair Paste",
+  "specifications": [
+    "Available in 250ml and 600ml tins",
+    "Two-component bridging filler paste",
+    "Designed for repairing damaged body panels",
+    "Forms a hard durable surface",
+    "Can be sanded and shaped"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-fastglas-resin-tin.html|>
+## U-Pol Fastglas Resin Tin
+
+{
+  "price": "€14.39 inc VAT",
+  "description": "The U-Pol FASTGLAS Resin is a fast curing opaque polyester resin. Ideal for many DIY repair applications.",
+  "availability": "In Stock",
+  "product_name": "U-Pol Fastglas Resin Tin",
+  "specifications": [
+    "Select Option: 250ml, 500ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-p38-super-easy-sanding-body-filler.html|>
+## U-Pol P38 Super Easy Sanding Body Filler
+
+{
+  "price": "from €11.99 inc VAT",
+  "description": "U-POL P38 polyester filler is a two component chemical paste used for the filling of holes and imperfections in surfaces such as steel and GRP. Its special formula combines good filling and smooth spreading properties together with ease of sanding.",
+  "availability": "In Stock",
+  "product_name": "U-Pol P38 Super Easy Sanding Body Filler",
+  "specifications": [
+    "Available in multiple sizes: 1.2 Litre Tin, 2.25 Litre Tin, 250ml Tin, 3.5 Litre Tin, 600ml Tin",
+    "Can be used on bare steel, original paint surfaces (except thermoplastic acrylics), and GRP",
+    "Over-paintable with most paint systems including 2K",
+    "Recommended to use a full system including primer"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-high-performance-tack-cloths.html|>
+## U-Pol High Performance Tack Cloths
+
+{
+  "price": "€15.33 inc VAT",
+  "description": "U-Pol high performance synthetic cloth, individually sealed to stay soft and tacky. Excellent pick-up power and trapping of particles. Provides perfect surface with no marks or smears.",
+  "availability": "In Stock",
+  "product_name": "U-Pol High Performance Tack Cloths",
+  "specifications": [
+    "Pack of 10",
+    "Pack of 50"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-easy-1-body-filler-3-litre.html|>
+## U-POL Easy 1 Body Filler 3 litre
+
+{
+  "price": "€71.23 inc VAT (€57.91 exc.vat)",
+  "description": "U-POL Easy 1 is an easy-to-use, smooth textured, polyester filler for deep repairs. The non-sag formula is ideal for use on vertical or horizontal repairs and its lightweight formula bonds to multiple substrates including galvanised steel, metal and GRP.",
+  "availability": "In Stock",
+  "product_name": "U-POL Easy 1 Body Filler 3 litre",
+  "specifications": [
+    "3 litre capacity",
+    "Non-sag formula",
+    "Bonds to multiple substrates",
+    "Ideal for deep repairs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-cycle-puncture-repair-kit---standard.html|>
+## Silverhook Cycle Puncture Repair Kit - Standard
+
+{
+  "price": "€2.85 inc VAT (€2.32 exc.vat)",
+  "description": "Puncture repair kits including 10cc of solvent, scourer and 7 repair patches with the large kit, or 5 repair patches with the small. Suitable for pneumatic tyres with an inner tube such as cycles, wheelbarrows or sack trucks.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Cycle Puncture Repair Kit - Standard",
+  "specifications": [
+    "Includes 10cc of solvent",
+    "Scourer and 7 repair patches",
+    "Suitable for pneumatic tyres with an inner tube"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-cycle-puncture-repair-kit---large.html|>
+## Silverhook Cycle Puncture Repair Kit - Large
+
+{
+  "price": "€3.41 inc VAT (€2.77 exc.vat)",
+  "description": "Puncture repair kits including 10cc of solvent, scourer and 7 repair patches with the large kit, or 5 repair patches with the small.",
+  "availability": "Out of Stock",
+  "product_name": "Silverhook Cycle Puncture Repair Kit - Large",
+  "specifications": [
+    "D/ICY002 : €3.41",
+    "Includes 10cc of solvent",
+    "Includes scourer",
+    "Includes 7 repair patches"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-tyre-lever-600-x-32-x-11mm-24-x-1-14-x-34in.html|>
+## Roughneck Tyre Lever 600 x 32 x 11mm (24 x 1 1/4 x 3/4in)
+
+{
+  "price": "€15.38 inc VAT (€12.50 exc.vat)",
+  "description": "Roughneck Tyre Lever to aid the removal of pneumatic tyres. Made from drop forged alloy steel, that has been hardened and tempered. Size: 600 x 32 x 11mm (24 x 1 1/4 x 3/4in).",
+  "availability": "In Stock",
+  "product_name": "Roughneck Tyre Lever 600 x 32 x 11mm (24 x 1 1/4 x 3/4in)",
+  "specifications": [
+    "Size: 600 x 32 x 11mm (24 x 1 1/4 x 3/4in)",
+    "Material: Drop forged alloy steel, hardened and tempered"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-concentrated-all-seasons-screen-wash.html|>
+## Silverhook Concentrated All Seasons Screen Wash
+
+{
+  "price": "€3.57 inc VAT",
+  "description": "Silverhook All Seasons Screen Wash has a no smear formula that keeps windscreens spotless and free from road grime and bugs. The concentrated formula can be diluted with water for all year use. When used undiluted it is effective to -8°C.",
+  "availability": "In Stock",
+  "product_name": "Silverhook Concentrated All Seasons Screen Wash",
+  "specifications": [
+    "1 Litre",
+    "5 Litre",
+    "Dilution rates: Summer - 1 Part Screen Wash : 6 Parts Water, Winter - 1 Part Screen Wash : 2 Parts Water, Severe Conditions - Use Undiluted"
+  ]
+}
+
+<|https://www.mydiy.ie/products/silverhook-de-icer-trigger-spray-750ml.html|>
+## Silverhook De-icer Trigger Spray 750ml
+
+{
+  "price": "€4.21 inc VAT (€3.42 exc.vat)",
+  "description": "Silverhook De-icer is a fast-acting frost and ice remover. Effective down to -30°C and helps to prevent re-freezing. Supplied in a handy, easy-to-use trigger spray bottle.",
+  "availability": "Out of Stock",
+  "product_name": "Silverhook De-icer Trigger Spray 750ml",
+  "specifications": [
+    "750ml capacity",
+    "Effective down to -30°C",
+    "Fast-acting frost and ice remover",
+    "Easy-to-use trigger spray bottle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-car-windscreen-de-icer-500ml.html|>
+## HG Car Windscreen De-icer 500ml
+
+{
+  "price": "€9.64 inc VAT (€7.84 exc.vat)",
+  "description": "HG Car Windscreen De-icer removes snow and ice from windscreens easily, quickly and effectively. No more scraping. The de-icer spray is not harmful to the rubber, chrome or paintwork of your car. It also prevents rapid refreezing.",
+  "availability": "In Stock",
+  "product_name": "HG Car Windscreen De-icer 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Removes snow and ice quickly",
+    "Prevents rapid refreezing",
+    "Safe for rubber, chrome, and paintwork"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-collapsible-cones.html|>
+## Olympia Collapsible Cones
+
+{
+  "price": "€18.79 inc VAT",
+  "description": "These Olympia Collaspible Cones have many uses in the office, school, hospital, workshop, factory, at home etc. They are is ideal for: Reserving/allocating a parking space. Cordoning off areas. Hazard warning on minor roads. Sports aid for children. The cone packs flat for easy storage in a cupboard and takes very little space in the boot of a car.",
+  "availability": "In Stock",
+  "product_name": "Olympia Collapsible Cones",
+  "specifications": [
+    "410mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-speed-headlight-restoration-kit.html|>
+## Turtle Wax Speed Headlight Restoration Kit
+
+{
+  "price": "€20.61 inc VAT (€16.76 exc.vat)",
+  "description": "The Turtle Wax Speed Headlight Restoration Kit features a powerful compound that quickly removes oxidation and renews old, yellowing headlights to like-new condition without using a drill. It's a 3-in-1 solution to improve headlight clarity, visibility and brightness. The Ceramic Acrylic Wipes help seal the result for up to 12 months. Stay safe on the road by caring for your headlights regularly with this simple-to-use product. Contains Benzisothiazolinone, which may produce an allergic reaction. The Kit contains: 1 x Precision Polishing Pad, 1 x Headlight Lens Repair and Renew Compound, 2 x Ceramic Acrylic Wipes.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Speed Headlight Restoration Kit",
+  "specifications": [
+    "TWX53686 : €20.61",
+    "Contains Benzisothiazolinone",
+    "1 x Precision Polishing Pad",
+    "1 x Headlight Lens Repair and Renew Compound",
+    "2 x Ceramic Acrylic Wipes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-hybrid-solutions-pure-shine-misting-detailer-591ml.html|>
+## Turtle Wax Hybrid Solutions Pure Shine Misting Detailer 591ml
+
+{
+  "price": "€22.88 inc VAT (€18.60 exc.vat)",
+  "description": "This Turtle Wax Hybrid Solutions Pure Shine Misting Detailer is infused with patented graphene technology to create a Tighter Web of Protection™. This amazing fine-misting spray delivers a stunning boost of gloss and slickness, incredible hydrophobic protection from cross-linking acrylic polymers, and anti-static resistance helping to repel dust, keeping your vehicles surfaces cleaner longer. It easily layers on top of waxes or coatings for added gloss to base coats. Safe to use on wheels, exterior glass, rubber, and plastics. Multiple applications build additional layers of slickness and shine. For best results, paint should be free of oxidation and surface contaminants.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Hybrid Solutions Pure Shine Misting Detailer 591ml",
+  "specifications": [
+    "Infused with patented graphene technology",
+    "Delivers gloss and slickness",
+    "Hydrophobic protection from cross-linking acrylic polymers",
+    "Safe for wheels, exterior glass, rubber, and plastics",
+    "Multiple applications build additional layers of slickness and shine"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-tyre-foam-cleaner-500ml.html|>
+## MOTIPÂ® Pro Tyre Foam Cleaner 500ml
+
+{
+  "price": "€5.76 inc VAT (€4.68 exc.vat)",
+  "description": "MoTip Pro Tyre Foam Cleaner cleans and conditions tyres to give a glossy result and intensify the final colour. Protects against weather influences. Contains silicone and has a low solvent content. A user-friendly application that can even be applied to wet tyres.",
+  "availability": "In Stock",
+  "product_name": "MOTIPÂ® Pro Tyre Foam Cleaner 500ml",
+  "specifications": [
+    "500ml",
+    "Cleans and conditions tyres",
+    "Protects against weather influences",
+    "Contains silicone",
+    "Low solvent content",
+    "User-friendly application"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-hybrid-solutions-graphene-acrylic-trim-restorer-296ml.html|>
+## Turtle Wax Hybrid Solutions Graphene Acrylic Trim Restorer 296ml
+
+{
+  "price": "€15.68 inc VAT (€12.75 exc.vat)",
+  "description": "This Turtle Wax Hybrid Solutions Graphene Acrylic Trim Restorer has an advanced formula which restores and protects dull, faded exterior trim and plastic. The combination of Graphene and Acrylic polymers shines and blackens dull textured plastic, giving superior UV protection. This durable coating doesn’t wash off and will endure seasonal exposure. Dry to the touch within minutes of applying. Graphene Acrylic Trim Restorer works just as well on protecting new trim and plastic from fading due to the elements, car washing and road salts.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Hybrid Solutions Graphene Acrylic Trim Restorer 296ml",
+  "specifications": [
+    "TWX53850 : €15.68",
+    "Apply to cool, dry trim. Avoid application in direct sunlight.",
+    "Use a damp towel to wipe any areas accidentally treated with Trim Restorer immediately."
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-spot-clean-stain-and-odour-remover-500ml.html|>
+## Turtle Wax Spot Clean Stain & Odour Remover 500ml
+
+{
+  "price": "€9.19 inc VAT (€7.47 exc.vat)",
+  "description": "The Turtle Wax Spot Clean 500ml cleans, deodorises, and refreshes carpet and fabric. Pet messes, food and drink spills, stubborn dirt, whatever the mess on your carpet and upholstery, Turtle Wax Spot Clean has you covered in mere minutes. Odor-X Technology, it seeks and destroys odours at the source for weeks to come. With OXI HyperFoam action, Spot Clean produces incredible foam in a non-aerosol-based trigger, meaning it's free of propellant gases. This unique super-foaming trigger allows for targeted application, ensuring you properly coat the 'spot' to remove some of the toughest stains. You don't even need a brush! Simply apply, then work in and wipe away with microfiber towels.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Spot Clean Stain & Odour Remover 500ml",
+  "specifications": [
+    "TWX54049 : €9.19",
+    "QtyAdd to Basket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-hybrid-solutions-fabric-surface-cleaner-500ml.html|>
+## Turtle Wax Hybrid Solutions Fabric Surface Cleaner 500ml
+
+{
+  "price": "€13.99 inc VAT (€11.37 exc.vat)",
+  "description": "The Turtle Wax Hybrid Solutions Fabric Surface Cleaner 500ml is a high-performance cleaner for automotive fabrics inside and outside of the vehicle. Incorporates Cationic cleaning surfactants to remove dirt, greases, oils and general staining from automotive surfaces including Soft Top Roofs, Interior Upholstery, Carpets, Mats and Door Linings. On soft-top roofs, the cleaning performance is unrivalled and safe to use on all commonly found soft-top materials like mohair, canvas and modern fabrics. It will effectively remove green algae, moss, mildew and general road grime staining with ease. Use in conjunction with the Hybrid Solutions Fabric Protector to create a stain-repelling and durable hydrophobic barrier which lasts for months.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Hybrid Solutions Fabric Surface Cleaner 500ml",
+  "specifications": [
+    "TWX54052 : €13.99",
+    "500ml capacity",
+    "High-performance cleaner for automotive fabrics",
+    "Safe for soft-top materials like mohair and canvas",
+    "Removes dirt, greases, oils, and general staining"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-hybrid-solutions-fabric-protector-500ml.html|>
+## Turtle Wax Hybrid Solutions Fabric Protector 500ml
+
+{
+  "price": "€17.49 inc VAT (€14.22 exc.vat)",
+  "description": "The Turtle Wax Hybrid Solutions Fabric Protector 500ml is an easy-to-apply yet advanced hydrophobic stain-repelling coating for all automotive fabrics but specifically intended for soft top roofs, interior upholstery, carpets, mats and door linings. ‘Flex-Coat’ Technology incorporates Ceramic SiO2 ingredients which are easily absorbed into fabrics without causing any change to the appearance or texture. When applied to interior automotive fabrics the stain-repelling coating protects against common staining caused by drinks and food spillages, such as coffee, tea, fizzy drinks, chocolate and pastries. Its performance excels when used on soft-top roofs. It can be used on mohair, canvas and modern fabric roofs to create a durable hydrophobic barrier which actively repels water and oil-based road contaminants which cause unsightly staining and colour fading to your soft top roof over time. Your soft top will stay cleaner, more vibrant and resist staining for months.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Hybrid Solutions Fabric Protector 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Hydrophobic stain-repelling coating",
+    "Suitable for soft top roofs and interior fabrics",
+    "Contains Ceramic SiO2 ingredients",
+    "Protects against common stains from drinks and food"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-hybrid-solutions-ceramic--graphene-inside-job-500ml.html|>
+## Turtle Wax Hybrid Solutions Ceramic + Graphene Inside Job 500ml
+
+{
+  "price": "€12.47 inc VAT (€10.14 exc.vat)",
+  "description": "The Turtle Wax Hybrid Solutions Ceramic + Graphene Inside Job 500ml cleans and protects all the washable surfaces inside your car, including plastic, leather and rubber. Natural enzymes safely remove tough stains and grime. Odor-X chemistry eliminates unpleasant smells and odours and our tropical fragrance leaves behind a fresh, floral scent, all in one easy step. Advanced ceramic and graphene polymers in the formula repel dust and protect your car interior from harmful UV rays. This powerful combination boosts the clarity and shine of your interior and keeps your car looking showroom fresh for longer. Aloe vera and conditioning oils treat the plastic and leather surfaces which take a beating from exposure to harsh, UV rays, keeping these surfaces soft and supple, and adding a smooth, natural sheen.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Hybrid Solutions Ceramic + Graphene Inside Job 500ml",
+  "specifications": [
+    "Size: 500ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-interior-1-multi-purpose-wipes-pack-of-24.html|>
+## Turtle Wax Interior 1 Multi-Purpose Wipes (Pack of 24)
+
+{
+  "price": "€3.60 inc VAT (€2.93 exc.vat)",
+  "description": "The Turtle Wax Interior 1 Multi-Purpose Wipes provide quick and easy 1-step superior cleaning for all fabrics, carpets, vinyl, rubbers and plastics. Use to tackle dirt, dust and grime from all surfaces or use as a spot clean for stains caused by spills and accidents. Treated hard surfaces will dry to a natural matt finish. Supplied in a re-sealable flow wrap pack to maintain moisture. Contains 24 wipes.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Interior 1 Multi-Purpose Wipes (Pack of 24)",
+  "specifications": [
+    "Pack of 24 wipes",
+    "Quick and easy cleaning for various surfaces",
+    "Re-sealable flow wrap pack to maintain moisture",
+    "Suitable for fabrics, carpets, vinyl, rubbers, and plastics"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-fresh-shine-gloss-wipes-spring-fresh-pack-of-24.html|>
+## Turtle Wax Fresh Shine Gloss Wipes, Spring Fresh (Pack of 24)
+
+{
+  "price": "€3.60 inc VAT (€2.93 exc.vat)",
+  "description": "The Turtle Wax Shine Gloss Wipes come with a spring fresh scent. They provide quick and easy 1-step cleaning for all interior plastics. Use on hard surface areas like dashboards, instrument clusters, door linings, door sills and both hardback driver and passenger seats. Treated surfaces will dry to a gloss shine finish, with a long-lasting anti-static shield which repels dust and dirt. Supplied in a re-sealable flow wrap pack to maintain moisture. Contains 24 wipes.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Fresh Shine Gloss Wipes, Spring Fresh (Pack of 24)",
+  "specifications": [
+    "Pack of 24 wipes",
+    "Spring fresh scent",
+    "Quick and easy 1-step cleaning for all interior plastics",
+    "Long-lasting anti-static shield",
+    "Re-sealable flow wrap pack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-luxe-leather-cleaner-and-conditioner-wipes-pack-of-24.html|>
+## Turtle Wax Luxe Leather Cleaner & Conditioner Wipes (Pack of 24)
+
+{
+  "price": "€3.60 inc VAT (€2.93 exc.vat)",
+  "description": "The Turtle Wax Luxe Leather Wipes are the quick and easy 1-step solution to clean, condition and protect all interior leather, vinyl and rubbers. The non-greasy triple-action formula cleans by removing ingrained dirt and grime. It penetrates the leather to condition, and restore natural suppleness while natural oils condition and protect against fading, and drying out. Leaves a natural matt finish. Supplied in a re-sealable flow wrap pack to maintain moisture. Contains 24 wipes.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Luxe Leather Cleaner & Conditioner Wipes (Pack of 24)",
+  "specifications": [
+    "Pack of 24 wipes",
+    "Non-greasy triple-action formula",
+    "Cleans, conditions, and protects leather, vinyl, and rubbers",
+    "Leaves a natural matt finish",
+    "Re-sealable flow wrap pack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-clear-vue-glass-cleaner-wipes-pack-of-24.html|>
+## Turtle Wax Clear Vue Glass Cleaner Wipes (Pack of 24)
+
+{
+  "price": "€3.60 inc VAT (€2.93 exc.vat)",
+  "description": "The Turtle Wax Clear Vue Glass Cleaner Wipes provide a quick and easy streak-free clean to all glass and mirrored surfaces. The intense formula tackles general grime, finger marks and tobacco stains with ease. Use on objects found both inside and outside of the car, including side view mirrors, rear view mirrors and camera lenses for a clear view and added safety while on the roads. Supplied in a re-sealable flow wrap pack to maintain moisture. Contains 24 wipes.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Clear Vue Glass Cleaner Wipes (Pack of 24)",
+  "specifications": [
+    "TWX54073 : €3.60",
+    "Contains 24 wipes",
+    "Streak-free clean for glass and mirrored surfaces",
+    "Intense formula tackles grime, finger marks, and tobacco stains",
+    "Re-sealable flow wrap pack to maintain moisture"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-fresh-shine-matt-wipes-citrus-pack-of-24.html|>
+## Turtle Wax Fresh Shine Matt Wipes, Citrus (Pack of 24)
+
+{
+  "price": "€3.60 inc VAT (€2.93 exc.vat)",
+  "description": "The Turtle Wax Fresh Shine Matt Wipes come with an uplifting citrus scent. They provide quick and easy 1-step cleaning for all interior plastics. Use on hard surface areas like dashboards, instrument clusters, door linings, door sills and both hardback driver and passenger seats. Treated surfaces will dry to a natural matt finish, with a long-lasting anti-static shield which repels dust and dirt. Supplied in a re-sealable flow wrap pack to maintain moisture. Contains 24 wipes.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Fresh Shine Matt Wipes, Citrus (Pack of 24)",
+  "specifications": [
+    "Pack of 24 wipes",
+    "Citrus scent",
+    "Quick and easy cleaning for interior plastics",
+    "Natural matt finish",
+    "Long-lasting anti-static shield"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-tar-and-glue-remover-400ml.html|>
+## Turtle Wax Tar & Glue Remover 400ml
+
+{
+  "price": "€10.23 inc VAT (€8.32 exc.vat)",
+  "description": "Turtle Wax Tar & Glue Remover effectively removes road tar deposits and sticky glue residues. Its thick viscous gel formula clings to vertical surfaces ensuring long contact time for maximum formula performance. This easy application format is suited to all levels of car care experience. Compatible with most bodywork touch-up paint repairs and aftermarket wheel refurbishments.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Tar & Glue Remover 400ml",
+  "specifications": [
+    "TWX54046 : €10.23",
+    "List: €11.77",
+    "You save €1.54"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-zip-wax-2-car-wash-and-wax-double-concentrate-1-litre.html|>
+## Turtle Wax Zip Wax 2 Car Wash & Wax Double Concentrate 1 litre
+
+{
+  "price": "€8.19 inc VAT (€6.66 exc.vat)",
+  "description": "Turtle Wax Zip Wax 2 Car Wash & Wax has a unique, fast-acting formula which deep cleans, shines and adds Turtle Wax in one easy step for a gleaming streak-free finish every time. For ultimate convenience and value, Zip Wax is now Double Concentrated, so you need less for a fantastic finish!",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Zip Wax 2 Car Wash & Wax Double Concentrate 1 litre",
+  "specifications": [
+    "TWX54121 : €8.19",
+    "List: €9.41",
+    "You save €1.22"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-total-interior-shampoo-500ml.html|>
+## Turtle Wax Total Interior Shampoo 500ml
+
+{
+  "price": "€8.31 inc VAT (€6.76 exc.vat)",
+  "description": "Turtle Wax Total Interior Shampoo is an all-in-one interior cleaner for fabrics, carpets and vinyl. A concentrated blend of detergents and cleaners tackle fabric stains caused by coffee, tea, soft drinks, chocolate and ice creams. Odour-neutralizing ingredients remove commonly found automotive smells caused by food, drinks, pets and smoking while leaving behind a fresh linen fragrance. The silicone-free formula also ensures the finish is non-greasy across all plastics, vinyl and even tech screens on modern in-car infotainment systems. Turtle Wax Promise: Packaging is made from at least 33% recycled plastic and can be fully recycled, including the trigger, in many markets. The bottles themselves do not contain any added colourings to allow for easier recycling. Formulations are biodegradable and do not contain microplastics.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Total Interior Shampoo 500ml",
+  "specifications": [
+    "500ml",
+    "Odour-neutralizing ingredients",
+    "Silicone-free formula",
+    "Biodegradable",
+    "Packaging made from at least 33% recycled plastic"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-colour-shift-wheel-cleaner-750ml.html|>
+## Turtle Wax Colour Shift Wheel Cleaner 750ml
+
+{
+  "price": "€10.14 inc VAT (€8.24 exc.vat)",
+  "description": "Turtle Wax Colour Shift Wheel Cleaner is an all-round safe, yet highly effective color-changing wheel cleaner. It is packed with iron-removing ingredients to dissolve brake dust and advanced detergents to cut through grime and dirt to leave wheels clean, bright and contaminant-free. The pH-balanced formulation enables regular use on all wheel finishes, even those with damaged coating.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Colour Shift Wheel Cleaner 750ml",
+  "specifications": [
+    "TWX54124 : €10.14",
+    "Colour Shift Wheel Cleaner 750ml",
+    "Packed with iron-removing ingredients",
+    "Biodegradable formulation",
+    "Made from at least 33% recycled plastic"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-super-hard-shell-finish-original-spray-wax-500ml.html|>
+## Turtle Wax Super Hard Shell Finish Original Spray Wax 500ml
+
+{
+  "price": "€8.31 inc VAT (€6.76 exc.vat)",
+  "description": "Turtle Wax Super Hard Shell Finish Original Spray Wax is inspired by the legendary car wax which started it all. From a Chicago family bathtub in 1946 the Healy family created the world's best selling liquid wax. 3 generations later Super Hard Shell Finish Spray Wax delivers the renowned Hard Shell Finish in a quick and easy liquid spray format for the demands of a new generation of car care lovers! The hard shell finish provides increased durability, enriched with carnauba for a long-lasting finish​. Easy to use, no hard buffing, comes off super easy, will even work in direct sunlight or damp conditions​. Its beading super slick surface beads water for weeks​. Safe for all finishes, and leaves no powdery residue.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Super Hard Shell Finish Original Spray Wax 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Easy to use spray format",
+    "Enriched with carnauba",
+    "Biodegradable formulation",
+    "Packaging made from at least 33% recycled plastic"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-inside-and-out-plastic-shine-500ml.html|>
+## Turtle Wax Inside and Out Plastic Shine 500ml
+
+{
+  "price": "€8.31 inc VAT (€6.76 exc.vat)",
+  "description": "Turtle Wax Inside and Out Plastic Shine is a quick and easy, 1-step product which cleans, shines and protects all interior and exterior plastic, tyres and trim. The formulation contains UVA & UVB inhibitors to create a barrier which protects from the sun's rays, this prevents fading and cracking of both plastic and rubber surfaces. Its fast-drying formula allows depth of shine to be increased by applying additional layers. Unlike many multi-surface protectants, the finish is non-greasy and streak-free which means application is super easy and simple.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Inside and Out Plastic Shine 500ml",
+  "specifications": [
+    "500ml bottle",
+    "Cleans, shines, and protects plastic, tyres, and trim",
+    "Contains UVA & UVB inhibitors",
+    "Fast-drying formula",
+    "Non-greasy and streak-free finish",
+    "Packaging made from at least 33% recycled plastic",
+    "Biodegradable formulation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-stuck-stuff-adhesive-remover-200ml.html|>
+## Turtle Wax Stuck Stuff Adhesive Remover 200ml
+
+{
+  "price": "€6.78 inc VAT (€5.51 exc.vat)",
+  "description": "Turtle Wax Stuck Stuff Adhesive Remover contains a highly effective formulation quickly removing all kinds of sticky substances from many surfaces. It can be used to remove paper stickers, glue and tape residue, chewing gum, tree sap and lots more! Safe to use on fabrics, glass, metal and tiled surfaces. It is ideal to use in our homes, garages, workshops and for automotive cleaning tasks. The addition of specialist surfactants enables the formula to be rinsed with water for easy clean-ups from every surface. A citrus fragrance also delivers a pleasant in-use experience.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Stuck Stuff Adhesive Remover 200ml",
+  "specifications": [
+    "200ml capacity",
+    "Removes sticky substances",
+    "Safe for various surfaces",
+    "Citrus fragrance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-hybrid-solutions-pure-compound-500ml.html|>
+## Turtle Wax Hybrid Solutions Pure Compound 500ml
+
+{
+  "price": "€14.70 inc VAT (€11.95 exc.vat)",
+  "description": "Turtle Wax Hybrid Solutions Pure Compound contains powerful sub-micron abrasives for a safe even cut to remove scratches, swirls, water spots & more. This finish restorer with unique polishing oils provides long work time and zero dust. Apply by hand or machine.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Hybrid Solutions Pure Compound 500ml",
+  "specifications": [
+    "TWX54138 : €14.70",
+    "List: €16.90",
+    "You save €2.20"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-insect-remover-500ml-1.html|>
+## Turtle Wax Insect Remover 500ml
+
+{
+  "price": "€7.22 inc VAT (€5.87 exc.vat)",
+  "description": "This Turtle Wax Insect Remover contains highly active detergents to break down insect debris, bird droppings and sap​. Can be used as pre-wash before normal car wash or as a spot cleaner​. Its thixotropic formulation sprays like a liquid then gels on surface contact to increase dwell time​. Safe for use on metal, paint plastic and glass.",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Insect Remover 500ml",
+  "specifications": [
+    "TWX54125 : €7.22",
+    "500ml",
+    "Insect Remover"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-odor-x-whole-car-blast.html|>
+## Turtle Wax Odor-X Whole Car Blast
+
+{
+  "price": "€6.86 inc VAT",
+  "description": "Turtle Wax Odor-X Whole Car Blast is a deodorising fogger equipped with advanced, Odor-X technology. Removes and prevents common odours caused by coffee and food spills, pets and smoke. It also continues to deodorise your vehicle for the next 30 days. This quick and easy, one-step solution delivers extremely powerful results.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Odor-X Whole Car Blast",
+  "specifications": [
+    "Select Option: Berry Blast 100ml, Bubblegum 100ml, Cherry 100ml, Enchanted Lavender 100ml, Savage Ice 100ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-zip-wash-and-wax-5-litre.html|>
+## Turtle Wax Zip Wash & Wax 5 litre
+
+{
+  "price": "€17.86 inc VAT (€14.52 exc.vat)",
+  "description": "Turtle Wax Zip Wash & Wax envelops dirt and grime with its high-foaming formula and lifts them effortlessly from your clear coat for easy, scratch-free cleaning. Plus, as you wash, the dual-action formula coats your car in a layer of rich carnauba car wax for boosted protection and shine. Just wash, rinse and dry your vehicle for amazing results, made incredibly quick and easy.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Zip Wash & Wax 5 litre",
+  "specifications": [
+    "TWX54505 : €17.86",
+    "List: €21.25",
+    "You save €3.39"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-cockpit-cleaner-pad.html|>
+## Turtle Wax Cockpit Cleaner Pad
+
+{
+  "price": "€3.64 inc VAT (€2.96 exc.vat)",
+  "description": "Turtle Wax Cockpit Cleaner Pad offers 3-in-1 action for cleaning, restoring and protecting all interior surfaces. It is suitable for many materials including vinyl, plastic, leather and rubber. The protection lasts for months, while leaving a light lemon fragrance. The easy to hold pad ensures direct application to all areas with no unsightly overspray.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Cockpit Cleaner Pad",
+  "specifications": [
+    "TWX51680 : €3.64",
+    "3-in-1 action for cleaning, restoring and protecting",
+    "Suitable for vinyl, plastic, leather and rubber",
+    "Light lemon fragrance",
+    "Easy to hold pad for direct application"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-carnauba-car-wax-500ml.html|>
+## Turtle Wax Carnauba Car Wax 500ml
+
+{
+  "price": "€10.61 inc VAT (€8.63 exc.vat)",
+  "description": "Turtle Wax Carnauba Car Wax is an ultra durable wax which provides extended protection over standard waxes.  It contains micro-polishing agents which work to fill swirl marks and clean scuffs.  Nanotechnology silicones bond to paintwork to ensure a long-lasting even finish and solvent-based carriers ensure effortless application and minimal buffing. Size: 500ml.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Carnauba Car Wax 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Ultra durable wax",
+    "Contains micro-polishing agents",
+    "Nanotechnology silicones for long-lasting finish",
+    "Effortless application and minimal buffing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-clearvue-glass-clean-500ml.html|>
+## Turtle Wax Clearvue Glass Clean 500ml
+
+{
+  "price": "€6.86 inc VAT (€5.58 exc.vat)",
+  "description": "Turtle Wax Clearvue Glass Clean is a maximum strength glass cleaning formula for both interior and exterior glass and mirrored surfaces. The formulation contains vinegar and streak free detergents to give a clear finish. Clearvue Glass Clean is versatile enough to use on internal glass to remove tobacco stains, finger marks and grime, and is more powerful than standard household cleaners. Ideal for use on headlights to remove ingrained grime, traffic film to improve visibility. Size: 500ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Clearvue Glass Clean 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Maximum strength glass cleaning formula",
+    "Contains vinegar and streak-free detergents",
+    "Versatile for internal and external use",
+    "Ideal for headlights and mirrors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-dash-and-glass-interior-cleaner-500ml.html|>
+## Turtle Wax Dash & Glass Interior Cleaner 500ml
+
+{
+  "price": "€7.81 inc VAT (€6.35 exc.vat)",
+  "description": "Turtle Wax Dash & Glass Interior Cleaner is a unique 2-in-1 cleaner which is suitable for both plastics and glass. The polymer based cleaner traps dirt on first pass and its Clearvue technology ensures windows are left sparkling clean and streak free. The cleaner is safe to use on all interior surfaces, including tech screens. It leaves all dashboard areas dust-free, non-greasy and UV protected to prevent fading. Size: 500ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Dash & Glass Interior Cleaner 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "2-in-1 cleaner for plastics and glass",
+    "Clearvue technology for streak-free finish",
+    "Safe for all interior surfaces",
+    "UV protection to prevent fading"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-interior-1-multipurpose-cleaner-400ml.html|>
+## Turtle Wax Interior 1 Multipurpose Cleaner 400ml
+
+{
+  "price": "€10.93 inc VAT (€8.89 exc.vat)",
+  "description": "Turtle Wax Interior 1 Multipurpose Cleaner & Stain Remover is a complete solution for the cleaning of all automotive fabrics, carpets and vinyls.  It contains powerful stain removers and detergent that separates dirt from fabrics.  Its special fragrance neutralises bad odours. Interior 1 has a dry foam formula which will not sink into seats.  This ensures that they are dry to touch after application.  It has an integrated brush cap with semi-flexible bristles that are optimised for robust upholstery cleaning, without snagging upholstery fibres.  Designed to catch lint and pet hair while removing dirt.  Suitable for use for a full interior valet. Size: 400ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Interior 1 Multipurpose Cleaner 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Powerful stain removers",
+    "Dry foam formula",
+    "Integrated brush cap with semi-flexible bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-luxe-leather-cleaner-and-conditioner-500ml.html|>
+## Turtle Wax Luxe Leather Cleaner & Conditioner 500ml
+
+{
+  "price": "€9.91 inc VAT (€8.06 exc.vat)",
+  "description": "Turtle Wax Luxe Leather Cleaner & Conditioner is a 1-step product which cleans, conditions and protects leather, vinyl, rubber and more. The rich non-drip cream removes ingrained dirt and restores the surfaces' natural suppleness. The non-greasy formula is a pH balanced blend of cocoa butter, vitamin E and aloe vera which combine to restore lustre and softness to all leather upholstery. Added UV protectors block harmful sun rays to prevent colour fading, drying and cracking of leather. Size: 500ml",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Luxe Leather Cleaner & Conditioner 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Cleans, conditions and protects leather, vinyl, rubber",
+    "Non-greasy formula with cocoa butter, vitamin E, and aloe vera",
+    "UV protectors to prevent color fading and cracking"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-original-car-wax-500ml.html|>
+## Turtle Wax Original Car Wax 500ml
+
+{
+  "price": "€7.72 inc VAT (€6.28 exc.vat)",
+  "description": "Turtle Wax Original is the all-round car wax that offers easy-on, easy-off shine. Based upon the original 1950’s formula, it contains a unique blend of cleaners and waxes that remove ingrained dirt and light oxidation. Turtle Wax Original enhances the surface gloss level and provides long-lasting protection against the elements. Its balanced formulation contains no harsh abrasives. The gentle cleaners will not cause scratching and swirl marks. Size: 500ml",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Original Car Wax 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-wax-it-wet-spray-wax-500ml.html|>
+## Turtle Wax Wax It Wet Spray Wax 500ml
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Turtle Wax 'Wax it Wet' Spray Wax is formulated with minute wax shine technology for an extremely quick way to a smooth, slick finish. The unique formulation allows you to simply wax the car whilst drying. Wax it Wet actively prevents water spots from application. It contains water activated carnauba waxes and polymers, which, once dry, leave a deep shine and protect the surface. Size: 500ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Wax It Wet Spray Wax 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Formulated with minute wax shine technology",
+    "Prevents water spots from application",
+    "Contains water activated carnauba waxes and polymers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-wet-n-black-tyre-dressing-500ml.html|>
+## Turtle Wax Wet 'n' Black Tyre Dressing 500ml
+
+{
+  "price": "€12.73 inc VAT (€10.35 exc.vat)",
+  "description": "Turtle Wax Wet 'n' Black Tyre Dressing is a long-lasting deep black tyre shine with a 100% all silicone and solvent formulation (no water). It has a quick drying time, meaning that the vehicle is ready to drive right away with no tyre sling. Application is simple and targeted, simply spray on and walk away. Size: 500ml",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Wet 'n' Black Tyre Dressing 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "100% all silicone and solvent formulation",
+    "Quick drying time",
+    "Application: spray on and walk away"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-metallic-car-wax--ptfe-500ml.html|>
+## Turtle Wax Metallic Car Wax + PTFE 500ml
+
+{
+  "price": "€11.09 inc VAT (€9.02 exc.vat)",
+  "description": "Turtle Wax Metallic Car Wax + PTFE is the perfect wax for metallic finishes.  It contains ultra-fine polishing agents and waxes that clean and enhance paintwork and provide long-lasting protection against the elements.  Added fluro polymers (PTFE), increase durability and non-stick water-repellence. The wax enhances the surface gloss level and its easy-to-use formula requires no hard buffing to remove and leaves no smears or streaks. Size: 500ml.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Metallic Car Wax + PTFE 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Contains ultra-fine polishing agents",
+    "Provides long-lasting protection",
+    "Enhances surface gloss level",
+    "Easy-to-use formula"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-power-out-upholstery-cleaner-and-protector-400ml.html|>
+## Turtle Wax Power Out! Upholstery Cleaner & Protector 400ml
+
+{
+  "price": "€11.53 inc VAT (€9.37 exc.vat)",
+  "description": "Turtle Wax Power Out! Upholstery Cleaner & Protector deep cleans, deodorises and protects upholstery from coffee, juice, grease, food, oil, mud and dirt. The powerful foam lifts set-in stains and the fast-drying formula leaves seats soft without any dampness. Power Out! leaves a protective barrier to repel future spills and stains. Odor-X Technology seeks new odours for up to 30 days. Semi-flexible bristles optimised for robust upholstery cleaning, without snagging upholstery fibres. Designed to catch lint and pet hair while removing dirt. Size: 400ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Power Out! Upholstery Cleaner & Protector 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Deep cleans, deodorises and protects upholstery",
+    "Fast-drying formula",
+    "Protective barrier against future spills",
+    "Odor-X Technology for up to 30 days"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-power-out-carpet-and-mats-cleaner-400ml.html|>
+## Turtle Wax Power Out! Carpet & Mats Cleaner 400ml
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Turtle Wax Power Out! Carpet & Mats Cleaner is a heavy-duty foam cleaner developed specifically to clean deep into carpets, mats and rubber boot liners. It lifts set-in stains including pet soils, heavy-duty oil and grease. Its fast-drying formula leaves seats soft without any dampness. Power Out! Leaves a protective barrier to repel future spills and stains. Odor-X technology eliminates odours for up to 30 days. Semi-flexible brush bristles reach deep into carpet fibres and rubber mat crevices where wipes can’t, allowing robust cleaning without snagging. Size: 400ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Power Out! Carpet & Mats Cleaner 400ml",
+  "specifications": [
+    "Size: 400ml",
+    "Fast-drying formula",
+    "Eliminates odours for up to 30 days",
+    "Protective barrier against spills and stains"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-redline-wheel-cleaner-500ml.html|>
+## Turtle Wax Redline Wheel Cleaner 500ml
+
+{
+  "price": "€10.30 inc VAT (€8.37 exc.vat)",
+  "description": "Turtle Wax Redline Wheel Cleaner is a unique pH-neutral wheel cleaner with active sodium ingredients that turn red as they remove break dust quickly and safely. To use: spray, wait for colour change and then power wash to remove all contaminants. Redline Wheel Cleaner has a non-acidic formula which is safe for all alloys, decals and wheel nuts, and can be left for much longer than aggressive acidic or alkaline based cleaners. No hard brushing or agitation is required. Size: 500ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Redline Wheel Cleaner 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "pH-neutral formula",
+    "Non-acidic",
+    "Safe for all alloys",
+    "No hard brushing required"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-black-in-a-flash-trim-and-tyre-wax-300ml.html|>
+## Turtle Wax Black in a Flash Trim & Tyre Wax 300ml
+
+{
+  "price": "€7.69 inc VAT (€6.25 exc.vat)",
+  "description": "Turtle Wax Black in a Flash Trim and Tyre Wax contains rich silicones and waxes that bring faded plastics back to their original condition.  It is suitable for all exterior plastic, rubber, vinyl and tyres. Black in a Flash is water-resistant to provide excellent durability.  Its thick, non-drip gel gives a long-lasting deep gloss. Size: 300ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Black in a Flash Trim & Tyre Wax 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Water-resistant",
+    "Non-drip gel",
+    "Suitable for all exterior plastic, rubber, vinyl and tyres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-clearvue-rain-repellent-300ml.html|>
+## Turtle Wax Clearvue Rain Repellent 300ml
+
+{
+  "price": "€9.27 inc VAT (€7.54 exc.vat)",
+  "description": "Turtle Wax Clearvue Rain Repellent is a solvent-based glass treatment which will dramatically improve all-weather visibility, safety and ease of driving, especially in wet conditions. Clearvue Rain Repellent contains ultra clear silicones and solvents that leave a transparent film to repel rain, sleet and snow.  All water will bead on treated surfaces and wick away to improve driver visibility.  The anti-stick surface remains cleaner 3x longer than when untreated. Size: 300ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Clearvue Rain Repellent 300ml",
+  "specifications": [
+    "Size: 300ml",
+    "Solvent-based glass treatment",
+    "Improves all-weather visibility",
+    "Repels rain, sleet, and snow",
+    "Anti-stick surface remains cleaner 3x longer"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-big-orange-autoshampoo-5l.html|>
+## Turtle Wax Big Orange Autoshampoo 5L
+
+{
+  "price": "€11.22 inc VAT (€9.12 exc.vat)",
+  "description": "Turtle Wax Big Orange Autoshampoo is a quick action wash that rapidly lifts ingrained traffic film. It contains a combination of foaming detergents and orange oil, along with added rinse aids and waxes that ensure easy rinsing, and a glossy shine with no streaks. It is powerful enough to clean effectively, yet formulated to ensure no waxes are stripped. Suitable for all paintwork surfaces including Metallic and Clear coat finishes. Size: 5 Litre",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Big Orange Autoshampoo 5L",
+  "specifications": [
+    "Size: 5 Litre",
+    "Powerful cleaning action",
+    "Contains foaming detergents and orange oil",
+    "Suitable for all paintwork surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-scratch-remover-100ml.html|>
+## Turtle Wax Scratch Remover 100ml
+
+{
+  "price": "€6.53 inc VAT (€5.31 exc.vat)",
+  "description": "Turtle Wax Scratch Remover is an all-in-one, anti-swirl, premium grade compound that removes minor scratches and swirls to deliver a mirror-like shine.  It contains ultra-fine abrasive powders which are powerful enough to remove scuffs, scratches and paint transfer but will not cause micro-scratching or swirl marks.\n\nAdded solvents ensure easy application and removal, no hard buffing required.\n\nSafe for all paintwork types including clear coats and metallic.\n\nSize: 100ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Scratch Remover 100ml",
+  "specifications": [
+    "Size: 100ml",
+    "Anti-swirl compound",
+    "Removes minor scratches and swirls",
+    "Safe for all paintwork types"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-wheel-cleaner-500ml.html|>
+## Turtle Wax Wheel Cleaner 500ml
+
+{
+  "price": "€7.26 inc VAT (€5.90 exc.vat)",
+  "description": "Turtle Wax Wheel Cleaner rapidly lifts dirt off all wheels, for a like-new shine. Its acidic formulation works in minutes to remove burnt-on break dust, tar and road grime. It will not damage plastic rims, decals or tyre walls. Size: 500ml",
+  "availability": "Out of Stock",
+  "product_name": "Turtle Wax Wheel Cleaner 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Acidic formulation for quick cleaning",
+    "Safe for plastic rims and decals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-clean-and-shine-total-exterior-detailer-500ml-trigger.html|>
+## Turtle Wax Clean & Shine Total Exterior Detailer 500ml Trigger
+
+{
+  "price": "€8.77 inc VAT (€7.13 exc.vat)",
+  "description": "Turtle Wax Clean and Shine Total Exterior Detailer is a 2-in-1 formulation that cleans and waxes without the need for water. Its dirt-locking polymer technology encapsulates light dirt and grime for a scratch-free clean on multiple surfaces. The formula is wax enriched to produce a shiny, protective finish on all clear coats and metallic paintwork. Size: 500ml",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Clean & Shine Total Exterior Detailer 500ml Trigger",
+  "specifications": [
+    "Size: 500ml",
+    "2-in-1 formulation that cleans and waxes without water",
+    "Dirt-locking polymer technology for scratch-free clean",
+    "Wax enriched for shiny, protective finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-fresh-shine.html|>
+## Turtle Wax Fresh Shine
+
+{
+  "price": "€7.70",
+  "description": "Turtle Wax Fresh Shine Cockpit Shine is an interior plastic protectant with a long-lasting premium fragrance and adjustable level of shine. Fresh Shine cleans and restores shine to all interior plastics and provides a long-lasting anti-static shield that repels dust and dirt.  It allows varying shine levels, from super high gloss to satin/matt finish.  The high-quality fragrance, features slow release technology and lasts up to 8 days.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Fresh Shine",
+  "specifications": [
+    "Select Option: Citrus, New Car, Outdoor, Vanilla",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-zip-wax-car-wash-and-wax.html|>
+## Turtle Wax Zip Wax Car Wash & Wax
+
+{
+  "price": "€6.58 inc VAT",
+  "description": "Turtle Wax Zip Wax Car Wash and Wax is a super-concentrated formula that gently washes away dirt and road grime leaving cars sparkling clean. In just 1-step, it cleans oils and road grime from all exterior surfaces, and the added Carnauba wax leaves behind a water-repellent finish, to leave vehicles streak free.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Zip Wax Car Wash & Wax",
+  "specifications": [
+    "Available in 1 Litre, 2.5 litres, 5 Litre",
+    "Super-concentrated formula",
+    "Cleans oils and road grime",
+    "Leaves a water-repellent finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-original-super-hard-shell-paste-wax-397g.html|>
+## Turtle Wax Original Super Hard Shell® Paste Wax 397g
+
+{
+  "price": "€13.86 inc VAT (€11.27 exc.vat)",
+  "description": "Turtle Wax Original Super Hard Shell® Paste Wax is based upon the original 1950's formula. It provides up to 12 months of protection whilst providing maximum shine. It has an easy-to-use, cream formula and includes an applicator sponge.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Original Super Hard Shell® Paste Wax 397g",
+  "specifications": [
+    "Based on the original 1950's formula",
+    "Provides up to 12 months of protection",
+    "Easy-to-use cream formula",
+    "Includes applicator sponge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-hd-scratch-repair-and-renew-207ml.html|>
+## Turtle Wax HD Scratch Repair & Renew 207ml
+
+{
+  "price": "€11.17 inc VAT (€9.08 exc.vat)",
+  "description": "Turtle Wax HD Scratch Repair & Renew is the only scratch product with heal and seal technology, formulated with precision platelets to safely remove scratches, swirls, paint transfer, water spots and more. Seals in restored paint to provide long-lasting protection. Easy-to-use, it can be applied by hand or machine. Repairs years of damage in one use.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax HD Scratch Repair & Renew 207ml",
+  "specifications": [
+    "TWX50935 : €11.17",
+    "List: €12.83",
+    "You save €1.66"
+  ]
+}
+
+<|https://www.mydiy.ie/products/turtle-wax-sealant-hydrophobic-wax-500ml.html|>
+## Turtle Wax Sealant Hydrophobic Wax 500ml
+
+{
+  "price": "€13.44 inc VAT (€10.93 exc.vat)",
+  "description": "Turtle Wax Sealant Hydrophobic Wax contains proprietary hydrophobic sealants infused with natural carnauba waxes to create levels of shine and surface slickness. It produces a mirror-like shine. It can be applied to all exterior surfaces, so there is no worry about over spray or residue build-up.",
+  "availability": "In Stock",
+  "product_name": "Turtle Wax Sealant Hydrophobic Wax 500ml",
+  "specifications": [
+    "500ml bottle",
+    "Hydrophobic sealants",
+    "Natural carnauba waxes",
+    "Mirror-like shine",
+    "Can be applied to all exterior surfaces"
+  ]
+}
+

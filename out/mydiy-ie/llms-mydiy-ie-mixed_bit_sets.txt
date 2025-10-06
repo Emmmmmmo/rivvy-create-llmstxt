@@ -1,0 +1,74 @@
+<|https://www.mydiy.ie/products/makita-d-47173-mixed-drill-bit-set-18-piece.html|>
+## Makita D-47173 Mixed Drill Bit Set 18 Piece
+
+{
+  "price": "€41.84 inc VAT (€34.02 exc.vat)",
+  "description": "The Makita D-47173 Mixed Drill Bit Set is supplied in a metal storage box with a variety of drill bits to cover a wide range of applications. Contains the following: HSS Metal Bits: 4mm, 5mm, 6mm, 7mm, 8mm & 10mm. Wood Bits: 4mm, 5mm, 6mm, 7mm, 8mm & 10mm. Masonry Bits: 4mm, 5mm, 6mm, 7mm, 8mm & 10mm.",
+  "availability": "In Stock",
+  "product_name": "Makita D-47173 Mixed Drill Bit Set 18 Piece",
+  "specifications": [
+    "HSS Metal Bits: 4mm, 5mm, 6mm, 7mm, 8mm & 10mm",
+    "Wood Bits: 4mm, 5mm, 6mm, 7mm, 8mm & 10mm",
+    "Masonry Bits: 4mm, 5mm, 6mm, 7mm, 8mm & 10mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-b-53811-drill-and-screwdriver-bit-accessory-set-100-piece.html|>
+## Makita B-53811 Drill & Screwdriver Bit Accessory Set, 100 Piece
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The Makita B-53811 Drill & Screwdriver Bit Accessory Set includes a wide variety of the most commonly used power tool accessories within the building industry. It also includes a tic-tac container which can be removed from the case and carried in a pocket for added convenience. Contains: 25 x 25mm PZ2 Bits in a Tic-Tac Tub, 7 x 25mm Phillips Bits: PH1(2), PH2(3), PH3(2), 15 x Pozi Bits: PZ1(2), PZ2(11), PZ3(2), 4 x 25mm Slotted Bits: 4, 4.5, 5, 7mm, 6 x TORX Bits: TX10, TX15, TX20, TX25, TX30, TX40, 4 x Hex Bits: 4, 5, 6, 7mm, 5 x 50mm Phillips Bits: PH1, PH2(3), PH3, 5 x 50mm Pozi Bits: PZ1, PZ2(3), PZ3, 2 x 50mm TORX Bits: TX20, TX30, 1 x Magnetic Bit Holder, 1 x Countersink, 2 x Holesaws: 32, 38mm, 1 x Holesaw Arbor, 3 x Nut Drivers: 6, 8, 10mm, 2 x Flat Wood Bits: 12, 16mm, 6 x HSS drill Bits: 2, 3(2), 4, 5, 6mm, 7 x 3-Point Wood Drill Bits: 3(2), 4, 5(2), 6, 8mm, 4 x Masonry Drill Bits: 6(2), 7, 8mm.",
+  "availability": "In Stock",
+  "product_name": "Makita B-53811 Drill & Screwdriver Bit Accessory Set, 100 Piece",
+  "specifications": [
+    "100 pieces in total",
+    "Includes various types of bits",
+    "Tic-tac container for portability",
+    "Compatible with most power tools"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-p-23818-mixed-drill-bit-set-18-piece.html|>
+## Makita P-23818 Mixed Drill Bit Set, 18 Piece
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The Makita P-23818 Mixed Drill Bit Set contains a selection of the most useful sizes. Contains: 6 x Standard Masonry Bits: 3, 4, 5, 6, 8 and 10mm 6 x 3-Point Wood Bits: 3, 4, 5, 6, 8 and 10mm 6 x Groundpoint Bits: 3, 4, 5, 6, 8 and 10mm Covers the following applications: steel, cast iron, aluminium, brass, copper, non-ferrous, wood, engineering, automotive, masonry, brick, block, light concrete, fixings, wood, cabinet making, joinery and carpentry.",
+  "availability": "In Stock",
+  "product_name": "Makita P-23818 Mixed Drill Bit Set, 18 Piece",
+  "specifications": [
+    "6 x Standard Masonry Bits: 3, 4, 5, 6, 8 and 10mm",
+    "6 x 3-Point Wood Bits: 3, 4, 5, 6, 8 and 10mm",
+    "6 x Groundpoint Bits: 3, 4, 5, 6, 8 and 10mm",
+    "Covers applications: steel, cast iron, aluminium, brass, copper, non-ferrous, wood, engineering, automotive, masonry, brick, block, light concrete, fixings, wood, cabinet making, joinery and carpentry."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-15126-drill-and-bit-set-75-piece.html|>
+## Makita E-15126 Drill & Bit Set, 75 Piece
+
+{
+  "price": "€85.99 inc VAT (€69.91 exc.vat)",
+  "description": "The Makita E-15126 Drill & Bit Set contains all the essentials for carrying our professional and domestic drilling and screwdriving applications. Supplied in a handy, clear cover case. Contains: 10 x 25mm Phillips Screwdriver Bits: PH0(x2), PH1(x2), PH2(x4) and PH3(x2). 9 x 25mm Pozi Screwdriver Bits: PZ0, PZ1(x2), PZ2(x4) and PZ3(x2). 11 x 25mm TORX Screwdriver Bits: T10, T15, T20(x2), T25(x2), T27, T30(x2), T35 and T40. 4 x 25mm Slotted Screwdriver Bits: 0.5 x 3mm, 0.5 x 4mm, 0.6 x 5mm and 1.0 x 6mm. 6 x 25mm Hex Screwdriver Bits: 3mm, 4mm, 5mm(x2) and 6mm(x2). 3 x 50mm Phillips Screwdriver Bits: PH2(x2) and PH3. 3 x 50mm Pozidriv Screwdriver Bits: PZ2(x2) and PZ3. 2 x 50mm TORX Screwdriver Bits: T25 and T30. 9 x HSS-R Metal Drill Bits: 3.0, 3.2, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0 and 6.5mm. 5 x TCT Drill Bits: 3.0, 4.0, 5.0, 6.0 and 8.0mm. 5 x Wood Brad Point Drill Bits: 3.0, 4.0, 5.0, 6.0 and 8.0mm. 2 x Wood Flat Bits: 16, 22mm and 40 x 25mm. 4 x Nutsetters: 6, 8, 10 and 13mm. 1 x Countersink Bit 12.7mm. 1 x Magnetic Bit Holder 1/4in Hex Shank.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-15126 Drill & Bit Set, 75 Piece",
+  "specifications": [
+    "10 x 25mm Phillips Screwdriver Bits: PH0(x2), PH1(x2), PH2(x4) and PH3(x2)",
+    "9 x 25mm Pozi Screwdriver Bits: PZ0, PZ1(x2), PZ2(x4) and PZ3(x2)",
+    "11 x 25mm TORX Screwdriver Bits: T10, T15, T20(x2), T25(x2), T27, T30(x2), T35 and T40",
+    "4 x 25mm Slotted Screwdriver Bits: 0.5 x 3mm, 0.5 x 4mm, 0.6 x 5mm and 1.0 x 6mm",
+    "6 x 25mm Hex Screwdriver Bits: 3mm, 4mm, 5mm(x2) and 6mm(x2)",
+    "3 x 50mm Phillips Screwdriver Bits: PH2(x2) and PH3",
+    "3 x 50mm Pozidriv Screwdriver Bits: PZ2(x2) and PZ3",
+    "2 x 50mm TORX Screwdriver Bits: T25 and T30",
+    "9 x HSS-R Metal Drill Bits: 3.0, 3.2, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0 and 6.5mm",
+    "5 x TCT Drill Bits: 3.0, 4.0, 5.0, 6.0 and 8.0mm",
+    "5 x Wood Brad Point Drill Bits: 3.0, 4.0, 5.0, 6.0 and 8.0mm",
+    "2 x Wood Flat Bits: 16, 22mm and 40 x 25mm",
+    "4 x Nutsetters: 6, 8, 10 and 13mm",
+    "1 x Countersink Bit 12.7mm",
+    "1 x Magnetic Bit Holder 1/4in Hex Shank"
+  ]
+}
+

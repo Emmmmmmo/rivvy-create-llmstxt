@@ -1,0 +1,70 @@
+<|https://www.mydiy.ie/products/irwin-scorpion-wood-cut-saw-blade-224mm.html|>
+## IRWIN® Scorpion Wood Cut Saw Blade 224mm
+
+{
+  "price": "€17.12 inc VAT (€13.92 exc.vat)",
+  "description": "IRWIN® Scorpion Saw Blade for cutting in wood, chipboard, plastic and PVC up to 100mm. This blade fits the Black & Decker model RS890K.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Scorpion Wood Cut Saw Blade 224mm",
+  "specifications": [
+    "Overall Length: 224mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-scorpion-saw-blade-224mm.html|>
+## IRWIN® Scorpion Saw Blade 224mm
+
+{
+  "price": "€26.76 inc VAT (€21.76 exc.vat)",
+  "description": "IRWIN® Scorpion Saw Blade for cutting in wood, chipboard, plastic and PVC up to 100mm. This blade fits the following Black & Decker models: KS880EC and KS890EK.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Scorpion Saw Blade 224mm",
+  "specifications": [
+    "Overall Length: 224mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-scorpion-metal-cut-saw-blade-125mm.html|>
+## IRWIN® Scorpion Metal Cut Saw Blade 125mm
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "IRWIN® Scorpion Saw Blade for cutting in sheet steel, aluminum, copper pipes and most non-ferrous metals up to 3mm. This blade fits the Black & Decker models: KS880EC, KS890EK and RS890K.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Scorpion Metal Cut Saw Blade 125mm",
+  "specifications": [
+    "Overall Length: 125mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-scorpion-wood-jigsaw-blade.html|>
+## IRWIN® Scorpion Wood Jigsaw Blade
+
+{
+  "price": "€14.24 inc VAT (€11.58 exc.vat)",
+  "description": "This IRWIN® Scorpion Wood Jigsaw Blade is made for cutting in wood, chipboard and plywood. This blade fits the Black & Decker model RS890K.",
+  "availability": "Out of Stock",
+  "product_name": "IRWIN® Scorpion Wood Jigsaw Blade",
+  "specifications": [
+    "Model: IRWIW1018202",
+    "List Price: €18.91",
+    "You save: €4.67",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-bandsaw-blade-for-18v-machine.html|>
+## Milwaukee Bandsaw Blade for 18V machine
+
+{
+  "price": "€51.00 inc VAT",
+  "description": "Milwaukee Bandsaw Blades are made from high speed steel for exceptional durability. An alloy backing steel helps to extend the blade life. The teeth are precision-formed to create fast, straight, clean cuts. The blades are highly versatile and can cut through a variety of metal, including strut, conduit, angle iron, copper tube, threaded rod and pipe.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Bandsaw Blade for 18V machine",
+  "specifications": [
+    "Select Option: 14tpi, 18tpi, 25tpi",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+

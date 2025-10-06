@@ -1,0 +1,2191 @@
+<|https://www.mydiy.ie/products/bahco-11152-arbors---11mm-shank-32-210mm-holesaws.html|>
+## Bahco 11152 Arbors - 11mm Shank (32-210mm Holesaws)
+
+{
+  "price": "from €23.33 inc VAT",
+  "description": "The 3834 Series Arbors are available in a range of sizes suitable for different chuck capacities. Shank Size. 11.1 mm The design of the 11152 arbor makes it suitable for 32-210 mm holesaws, it eliminates play and increases the strength of the holesaw by redistributing the load from the thread to the solid cap. These are to be used with hand held machines and, when operating with high work load, in static machines.",
+  "availability": "In Stock",
+  "product_name": "Bahco 11152 Arbors - 11mm Shank (32-210mm Holesaws)",
+  "specifications": [
+    "Shank Size: 11.1 mm",
+    "Suitable for 32-210 mm holesaws",
+    "Eliminates play and increases strength of holesaw"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-1130-arbors---11mm-shank-14-30mm-holesaws.html|>
+## Bahco 1130 Arbors - 11mm Shank (14-30mm Holesaws)
+
+{
+  "price": "from €13.44 inc VAT",
+  "description": "Bahco 1130 Arbor 7/16inis suitable for 14-30mm holesaws, for use with hand held machines. All arbors are hardened for maximum strength. The 3834 Series Arbors are available in a range of sizes suitable for different chuck capacities. Shank size: 11.1mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco 1130 Arbors - 11mm Shank (14-30mm Holesaws)",
+  "specifications": [
+    "Shank size: 11.1mm",
+    "Suitable for 14-30mm holesaws",
+    "Hardened for maximum strength"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-630-arbors----64mm-shank-14-30mm-holesaws.html|>
+## Bahco 630 Arbors - 6.4mm Shank (14-30mm Holesaws)
+
+{
+  "price": "from €11.69 inc VAT",
+  "description": "Bahco 630 Arbor 1/4in is suitable for 14-30mm holesaws, for use with hand held machines. All arbors are hardened for maximum strength. The 3834 Series Arbors are available in a range of sizes suitable for different chuck capacities. Shank size: 6.4mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco 630 Arbors - 6.4mm Shank (14-30mm Holesaws)",
+  "specifications": [
+    "Shank size: 6.4mm",
+    "Suitable for 14-30mm holesaws",
+    "Hardened for maximum strength"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-730-arbors----64mm-tri-shank-14-30mm-holesaws.html|>
+## Bahco 730 Arbors - 6.4mm TRI Shank (14-30mm Holesaws)
+
+{
+  "price": "from €9.32 inc VAT",
+  "description": "730 Arbor is suitable for 14-30mm holesaws, for use with hand held machines. All arbors are hardened for maximum strength. The 3834 Series Arbors are available in a range of sizes suitable for different chuck capacities. Shank size: 6.4mm Triangular shank.",
+  "availability": "In Stock",
+  "product_name": "Bahco 730 Arbors - 6.4mm TRI Shank (14-30mm Holesaws)",
+  "specifications": [
+    "Shank size: 6.4mm Triangular shank",
+    "Suitable for 14-30mm holesaws",
+    "Hardened for maximum strength"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-9100-arbors---85mm-shank-32-100mm-holesaws.html|>
+## Bahco 9100 Arbors - 8.5mm Shank (32-100mm Holesaws)
+
+{
+  "price": "from €20.84 inc VAT",
+  "description": "Suitable for 32-100 mm holesaws. For use with with hand held machines. Shank size: 8.5 mm. All arbors are hardened for maximum strength.",
+  "availability": "In Stock",
+  "product_name": "Bahco 9100 Arbors - 8.5mm Shank (32-100mm Holesaws)",
+  "specifications": [
+    "Suitable for 32-100 mm holesaws",
+    "Shank size: 8.5 mm",
+    "Hardened for maximum strength"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-930-arbors----85mm-shank-14-30mm-holesaws.html|>
+## Bahco 930 Arbors - 8.5mm Shank (14-30mm Holesaws)
+
+{
+  "price": "€13.09 inc VAT",
+  "description": "Bahco 930 Arbor 3/8in is suitable for 14-30mm holesaws, for use with hand held machines. All arbors are hardened for maximum strength. The 3834 Series Arbors are available in a range of sizes suitable for different chuck capacities. Shank size: 8.5mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco 930 Arbors - 8.5mm Shank (14-30mm Holesaws)",
+  "specifications": [
+    "Shank size: 8.5mm",
+    "Suitable for 14-30mm holesaws",
+    "Hardened for maximum strength"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-9526-combination-wood-auger-bit-set-6-piece-10-25mm.html|>
+## Bahco 9526 Combination Wood Auger Bit Set 6 Piece 10-25mm
+
+{
+  "price": "€105.07 inc VAT (€85.42 exc.vat)",
+  "description": "Bahco 9526 Combination Auger Bit Set, contains six of the most popular sizes. These are dual-purpose and can be used in both electric power drills and hand braces. With a single cutting edge for easy regrinding, though the need for regrinding is reduced as it is made from hardened tool steel for a longer cutting life. The threaded tip moderates a self-feed when using a power drill, but still sufficient self-feed when used in a hand brace. For quick precision cutting with all types of wood. Supplied in a wallet case. Sizes: 10, 13, 16, 19, 22 and 25mm.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco 9526 Combination Wood Auger Bit Set 6 Piece 10-25mm",
+  "specifications": [
+    "Sizes: 10, 13, 16, 19, 22 and 25mm",
+    "Dual-purpose for electric power drills and hand braces",
+    "Made from hardened tool steel for longer cutting life",
+    "Single cutting edge for easy regrinding",
+    "Threaded tip for self-feed"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-9528-expansive-bits.html|>
+## Bahco 9528 Expansive Bits
+
+{
+  "price": "€51.41 inc VAT",
+  "description": "Bahco Expansive Bits are capable of drilling a wide range of shallow hole sizes in wood. The MD series have round shanks and are suitable for use with power tools. Made from a single-piece of drop forged steel. Head and adjustable cutters hardened and tempered. Locking screw zinc plated with hexagonal head with slot. With expansive bits it is possible to drill a full range of diameters with the same bit, in wood. Adjustable with screwdriver or wrench.",
+  "availability": "In Stock",
+  "product_name": "Bahco 9528 Expansive Bits",
+  "specifications": [
+    "15-45mm adjustable diameter",
+    "Made from drop forged steel",
+    "Suitable for power tools",
+    "Round shanks"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-9626-series-combination-auger-bit.html|>
+## Bahco 9626 Series Combination Auger Bit
+
+{
+  "price": "€16.40 inc VAT",
+  "description": "The Bahco 9626 Series Combination Auger Bit is made from hardened tool steel and lacquered for rust protection. Spirals with Levin pattern. Can be used in both electric power drills and hand braces. Part of the tang has a hexagonal shank (15mm long) for firm grip in the chuck, suitable for hand braces. The threaded tip moderates a self-feed when using a power drill, but still sufficient self-feed when used in a hand brace. For quick precision cutting with all types of wood.",
+  "availability": "In Stock",
+  "product_name": "Bahco 9626 Series Combination Auger Bit",
+  "specifications": [
+    "Made from hardened tool steel",
+    "Lacquered for rust protection",
+    "Spirals with Levin pattern",
+    "Hexagonal shank (15mm long) for firm grip",
+    "Suitable for electric power drills and hand braces",
+    "Threaded tip for self-feed",
+    "Quick precision cutting with all types of wood"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-9627-long-series-combination-auger-bit.html|>
+## Bahco 9627 Long Series Combination Auger Bit
+
+{
+  "price": "€19.75 inc VAT",
+  "description": "The Bahco 9627 Series Long Combination Auger Bit is longer than a standard auger bit, designed for long reach applications. Made from hardened tool steel, lacquered for rust protection. Spirals with Levin pattern. Can be used in both electric power drills and hand braces. The threaded tip moderates a self-feed when using a power drill, but still sufficient self-feed when used in a hand brace. For quick precision cutting with all types of wood.",
+  "availability": "In Stock",
+  "product_name": "Bahco 9627 Long Series Combination Auger Bit",
+  "specifications": [
+    "Length: Longer than standard auger bit",
+    "Material: Hardened tool steel",
+    "Rust protection: Lacquered",
+    "Spirals: Levin pattern",
+    "Usage: Compatible with electric power drills and hand braces",
+    "Self-feed: Threaded tip for power drill and hand brace"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-9629-series-flat-bit.html|>
+## Bahco 9629 Series Flat Bit
+
+{
+  "price": "€2.53 inc VAT",
+  "description": "The Bahco 9629 Series Flat Bit has a positive cutting angle which drills holes twice as fast and lasts three times longer than a conventional bit. Made from high-carbon steel and heat-treated all over. The hardened blade is forged directly from the round shaft. The winged shoulders enable the bit to first cut the wood and then remove the material from the centre section, ensuring a smooth finish and superior swarf clearance.",
+  "availability": "In Stock",
+  "product_name": "Bahco 9629 Series Flat Bit",
+  "specifications": [
+    "Size options: 8mm, 10mm, 12mm, 14mm, 16mm, 18mm, 20mm, 22mm, 24mm, 25mm, 26mm, 28mm, 32mm",
+    "Length: 152mm",
+    "Material: High-carbon steel, heat-treated"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-arbor-extensions.html|>
+## Bahco Arbor Extensions
+
+{
+  "price": "€21.91 inc VAT",
+  "description": "The Bahco Arbor Extension is a holesaw extension that gives extra reach in difficult to cut surroundings. Length: 330mm.",
+  "availability": "In Stock",
+  "product_name": "Bahco Arbor Extensions",
+  "specifications": [
+    "Fits 1130, 11152, and 11152QC",
+    "Fits 930 and 9100",
+    "Length: 330mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-bi-metal-holesaws.html|>
+## Bahco Bi-Metal Holesaws
+
+{
+  "price": "from €10.33 inc VAT",
+  "description": "Bahco Sandflex® holesaws are made for high precision cutting of holes from 14 mm to 152 mm diameter in all sawable materials up to 38 mm thick. Suitable for use in portable electric or pneumatic tools, and in a wide variety of drilling, boring, milling and other machine tools. All saws have varipitch (4-6tpi) blades. Cutting edges are in high speed steel for extra hardness, with welded seams for accuracy of cut, and heat-treated bodies for maximum strength.",
+  "availability": "In Stock",
+  "product_name": "Bahco Bi-Metal Holesaws",
+  "specifications": [
+    "High precision cutting of holes from 14 mm to 152 mm diameter",
+    "Suitable for portable electric or pneumatic tools",
+    "Varipitch (4-6tpi) blades",
+    "High speed steel cutting edges",
+    "Welded seams for accuracy of cut",
+    "Heat-treated bodies for maximum strength"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-contractors-bi-metal-holesaw-set-11-piece.html|>
+## Bahco Contractor's Bi-Metal Holesaw Set, 11 Piece
+
+{
+  "price": "€81.51 inc VAT (€66.27 exc.vat)",
+  "description": "The Bahco Contractor's Bi-Metal Holesaw Set contains Sandflex® bi-metal holesaws that are specifically designed for metal cutting but can also be used in most materials such as wood and plastics. Bi-metal construction with 8% cobalt. Supplied in a handy plastic case. This 11 Piece Set contains: 4 x 20mm Holesaws, 4 x 25mm Holesaws, 1 x Arbor*, 2 x Replacement Drill Bits. Specification: Max. Cutting Depth: 38mm. *Arbour requires a power drill with 10mm chuck.",
+  "availability": "In Stock",
+  "product_name": "Bahco Contractor's Bi-Metal Holesaw Set, 11 Piece",
+  "specifications": [
+    "Max. Cutting Depth: 38mm",
+    "Arbour requires a power drill with 10mm chuck"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-ejector-arbors-for-multi-construction-holesaws.html|>
+## Bahco Ejector Arbors for Multi Construction Holesaws
+
+{
+  "price": "€29.59 inc VAT",
+  "description": "Bahco Quick-Eject Arbors come with a carbide tipped drill. They release the core from the holesaw in one simple, fast and smart operation without burning your fingers on a hot saw or release adaptor. The arbors provide a stable drilling performance. Suitable for Multi-Construction Holesaws.",
+  "availability": "In Stock",
+  "product_name": "Bahco Ejector Arbors for Multi Construction Holesaws",
+  "specifications": [
+    "Select Option: 19-30mm, 32-159mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-electricians-bi-metal-holesaw-set-10-piece.html|>
+## Bahco Electrician's Bi-Metal Holesaw Set, 10 Piece
+
+{
+  "price": "€112.21 inc VAT (€91.23 exc.vat)",
+  "description": "The Bahco Electrician's Bi-Metal Holesaw Set contains Sandflex® Bi-Metal holesaws, specially designed for metal cutting: ferrous metals (steel, stainless steel, cast iron) and non-ferrous metals (aluminium, brass, copper). They can also be used in most materials such as wood and plastics. Bi-metal construction with 8% cobalt for increased wear resistance. This 10 Piece Kit contains: 8 x Holesaws: 20, 25, 30, 35, 44, 51, 64 and 76mm; 2 x Arbors.",
+  "availability": "In Stock",
+  "product_name": "Bahco Electrician's Bi-Metal Holesaw Set, 10 Piece",
+  "specifications": [
+    "8 x Holesaws: 20, 25, 30, 35, 44, 51, 64 and 76mm",
+    "2 x Arbors"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-professional-holesaw-set-3834-1651-sizes-16-51mm.html|>
+## Bahco Professional Holesaw Set 3834 16/51 Sizes: 16-51mm
+
+{
+  "price": "€126.71 inc VAT (€103.02 exc.vat)",
+  "description": "SANDFLEX® bi-metal holesaw set containing popular sizes for the engineering, water, sanitation and electrical installation industries. The holesaws work excellently in most materials, such as wood, plastics, non ferrous and ferrous steel including stainless steel. Their knockout holes allow easy removal of cores. Holesaws: 1 of each of 16mm (5/8in), 20mm (25/32in), 25mm (2in), 32mm (1.1/4in), 40mm (1.9/16in) and 51mm (2in). Arbors: 3834-ARBR-1130 - for holesaws 14-30mm, 3834-ARBR-11152 - for holesaws 32-210 mm. Also includes a pilot drill, hexagon key and chip brush.",
+  "availability": "Out of Stock",
+  "product_name": "Bahco Professional Holesaw Set 3834 16/51 Sizes: 16-51mm",
+  "specifications": [
+    "Sizes: 16mm, 20mm, 25mm, 32mm, 40mm, 51mm",
+    "Includes pilot drill, hexagon key, and chip brush",
+    "Works in wood, plastics, non-ferrous and ferrous steel"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-superior-multi-construction-holesaw-carded.html|>
+## Bahco Superior™ Multi Construction Holesaw Carded
+
+{
+  "price": "€19.98 inc VAT",
+  "description": "Bahco Superior™ Multi Construction Holesaws have carbide tips and are capable of cutting through brick and ceramic tiles, laminate, fibreglass and hardwood. The tooth tips consist of a carbide round rod which is fusion welded to the back material, the tip is then ground to its final shape with a 5° positive cutting angle. They have a low friction coating that minimises heat generation and wide gullets for effective chip removal. They fit all power drills, both stationary and portable.",
+  "availability": "In Stock",
+  "product_name": "Bahco Superior™ Multi Construction Holesaw Carded",
+  "specifications": [
+    "Carbide tips for cutting through various materials",
+    "Low friction coating to minimize heat generation",
+    "Wide gullets for effective chip removal",
+    "Fits all power drills, both stationary and portable"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bahco-variable-pitch-holesaws.html|>
+## Bahco Variable Pitch Holesaws
+
+{
+  "price": "from €9.83 inc VAT",
+  "description": "Bahco Sandflex® Variable Pitch Holesaw made for high precision cutting of holes from 14mm to 152mm diameter in all sawable materials up to 29mm thick. Suitable for use in portable electric or pneumatic tools, and in a wide variety of drilling, boring, milling and other machine tools. Cutting edges are in high speed steel for extra hardness, with welded seams for accuracy of cut, and heat-treated bodies for maximum strength. All saws have varipitch (4-6tpi) blades. Supplied in cardboard box.",
+  "availability": "In Stock",
+  "product_name": "Bahco Variable Pitch Holesaws",
+  "specifications": [
+    "High precision cutting of holes from 14mm to 152mm diameter",
+    "Suitable for portable electric or pneumatic tools",
+    "Cutting edges in high speed steel for extra hardness",
+    "Welded seams for accuracy of cut",
+    "Heat-treated bodies for maximum strength",
+    "Varipitch (4-6tpi) blades"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-arbor-extensions.html|>
+## Faithfull Arbor Extensions
+
+{
+  "price": "from €11.49 inc VAT",
+  "description": "The Faithfull Holesaw Arbor Extension to fit hex shank arbors. (Arbor clearance on small arbor FAI HSA1630 is 25mm)",
+  "availability": "In Stock",
+  "product_name": "Faithfull Arbor Extensions",
+  "specifications": [
+    "Select Option: 140mm, 300mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-blacksmiths-m2-hss-professional-drill-bits.html|>
+## Faithfull Blacksmiths M2 HSS Professional Drill Bits
+
+{
+  "price": "€15.19 inc VAT",
+  "description": "Faithfull HSS Professional Blacksmiths M2 Drill Bits are milled bits manufactured from M2 HSS with a bright finish and a reduced 12.7mm shank. Overall length 150mm. Ideal for general purpose use in metal and wood, for use in bench or hand held equipment with a 13mm chuck capacity. Suitable for use in: alloy steels, carbon steels, cast iron, hardened alloy steels and stainless steels.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Blacksmiths M2 HSS Professional Drill Bits",
+  "specifications": [
+    "Milled bits manufactured from M2 HSS",
+    "Bright finish",
+    "Reduced 12.7mm shank",
+    "Overall length 150mm",
+    "Ideal for general purpose use in metal and wood",
+    "Suitable for use in alloy steels, carbon steels, cast iron, hardened alloy steels and stainless steels"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-carbide-hard-tile-and-glass-drill-bit.html|>
+## Faithfull Carbide Hard Tile & Glass Drill Bit
+
+{
+  "price": "from €8.49 inc VAT",
+  "description": "The Faithfull Carbide Hard Tile & Glass Drill Bit is designed for drilling through glass and medium-wear tiles, making it a great choice for tasks like glass cutting, installing bathroom fixtures, mounting mirrors, and fastening screws in tiles. The drill bits come equipped with a high-quality carbide tip and reinforced head minimising stress and prevents cracking, leading to a longer lifespan. When used with a small amount of water, it can drill clean and precise holes up to 10 times in porcelain tiles with water cooling.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Carbide Hard Tile & Glass Drill Bit",
+  "specifications": [
+    "Available sizes: 5mm, 6mm, 7mm, 8mm",
+    "High-quality carbide tip",
+    "Reinforced head for durability",
+    "Designed for glass and medium-wear tiles",
+    "Can drill clean holes with water cooling"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-carbon-countersinks.html|>
+## Faithfull Carbon Countersinks
+
+{
+  "price": "from €7.38 inc VAT",
+  "description": "The Faithfull Carbon Steel Rosehead 60° included angle countersink. For countersinking screw holes in wood for the flush fitting of screw heads. Can be used in both hand and power drills.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Carbon Countersinks",
+  "specifications": [
+    "Available sizes: 13mm (1/2in), 16mm (5/8in)",
+    "Material: Carbon Steel",
+    "Included angle: 60°"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-combination-auger-bits-long-series.html|>
+## Faithfull Combination Auger Bits Long Series
+
+{
+  "price": "€15.50 inc VAT",
+  "description": "Faithfull Long Series Combination Auger Bits can be used in either a hand or power drill at low speeds. Machined from high quality carbon steel, they feature a pitched screw point for accurate starting with a wide flat spiral for improved stability, straight tracking and fast waste removal. Augers may be use in timber, plywood, MDF and blockwood and can be resharpened using a hand file. Extra long series for deep boring. Overall Length: 400mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Combination Auger Bits Long Series",
+  "specifications": [
+    "Overall Length: 400mm",
+    "Machined from high quality carbon steel",
+    "Pitched screw point for accurate starting",
+    "Wide flat spiral for improved stability",
+    "Suitable for timber, plywood, MDF, and blockwood",
+    "Can be resharpened using a hand file"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-combination-auger-bits-short-series.html|>
+## Faithfull Combination Auger Bits Short Series
+
+{
+  "price": "from €7.22 inc VAT",
+  "description": "Faithfull Combination Augers can be used in either a hand or power drill at low speeds. Machined from high quality carbon steel, they feature a pitched screw point for accurate starting with a wide flat spiral for improved stability, straight tracking and fast waste removal. Augers may be used in timber, plywood, MDF and blockwood and can be resharpened using a hand file. Short series or stubby auger bits are for use in confined spaces, such as between joists. Overall Length: 120mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Combination Auger Bits Short Series",
+  "specifications": [
+    "Overall Length: 120mm",
+    "Machined from high quality carbon steel",
+    "Pitched screw point for accurate starting",
+    "Wide flat spiral for improved stability",
+    "Can be resharpened using a hand file"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-combination-auger-bits-standard-series.html|>
+## Faithfull Combination Auger Bits Standard Series
+
+{
+  "price": "from €8.38 inc VAT",
+  "description": "Faithfull Combination Wood Auger Bits can be used in either a hand or power drill at low speeds. Machined from high quality carbon steel, they feature a pitched screw point for accurate starting with a wide flat spiral for improved stability, straight tracking and fast waste removal. Augers may be used in timber, plywood, MDF and blockwood and can be resharpened using a hand file. Standard series auger bits. Overall Length: 200mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Combination Auger Bits Standard Series",
+  "specifications": [
+    "Overall Length: 200mm",
+    "Machined from high quality carbon steel",
+    "Pitched screw point for accurate starting",
+    "Wide flat spiral for improved stability",
+    "Can be used in timber, plywood, MDF and blockwood",
+    "Resharpenable using a hand file"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-diamond-ceramic-mini-holesaw.html|>
+## Faithfull Diamond Ceramic Mini Holesaw
+
+{
+  "price": "from €17.53 inc VAT",
+  "description": "The Faithfull Diamond Ceramic Mini Holesaws have a tough braze bonded diamond edge and durable alloy body, this gives these holesaws an extremely long lifespan. The round shank is suitable for use with cordless power drills only. Ideal for tough drilling situations, they cut holes fast and cleanly. Easy to start, with no guide drill required. They will easily cut through porcelain tile, ceramic tile, granite, marble, slate, glass, cast iron, brick/block (lightweight), plasterboard, cement board, fibreglass, carbon fibre, composites and stucco. Minimal water cooling is needed, simply dip in water before starting cut. At full RPM, start drilling at a 45º angle to the tile, raise to 90º and oscillate during cutting. Dip in water every 5 seconds during cutting for optimal life.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Diamond Ceramic Mini Holesaw",
+  "specifications": [
+    "Tough braze bonded diamond edge",
+    "Durable alloy body",
+    "Suitable for cordless power drills",
+    "Cuts through various materials including porcelain, ceramic, granite, and glass",
+    "Minimal water cooling required"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-diamond-core-drill-kit-and-case-set-of-11.html|>
+## Faithfull Diamond Core Drill Kit & Case Set of 11
+
+{
+  "price": "€200.18 inc VAT (€162.75 exc.vat)",
+  "description": "The Faithfull FAIDCKIT11 11 Piece Diamond Core Drill Kit is suitable for brick and concrete blocks etc. They are ideal for plumbing, electrical, engineering installation and general building tasks. All cores are 1⁄2 inch. BSP threaded with 8mm turbo segments. Set contains: 5 x Diamond Cores with 8mm Turbo Segments, Sizes: 38mm, 52mm, 65mm, 117mm, 127mm. 1 x SDS Plus Extension Adaptor 10mm x 115mm. 1 x HEX Extension Adaptor 12mm x 88 mm. 1 x SDS Plus Extension Adaptor 10mm x 240mm. 1 x HEX Extension Adaptor 12mm x 240mm. 1 x A-Taper Pilot Drill 10 x 200mm. 1 x Extractor Drift Key. ROTARY USE ONLY – Must not be used on Percussion/Hammer mode. DO NOT USE DIAMOND CORES LARGER THAN 78mm IN DIAMETER WITH SDS PLUS DRILLS AS THIS MAY RESULT IN DAMAGE TO THE POWER TOOL OR SDS ADAPTOR. Diamond Cores give the best results when used with a purpose built core drilling machine",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Diamond Core Drill Kit & Case Set of 11",
+  "specifications": [
+    "11 Piece Diamond Core Drill Kit",
+    "Suitable for brick and concrete blocks",
+    "Ideal for plumbing, electrical, engineering installation",
+    "Includes various sizes of diamond cores",
+    "ROTARY USE ONLY – Must not be used on Percussion/Hammer mode"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-diamond-core-drill-kit-and-case-set-of-7.html|>
+## Faithfull Diamond Core Drill Kit & Case Set of 7
+
+{
+  "price": "€127.64 inc VAT (€103.77 exc.vat)",
+  "description": "The Faithfull FAIDCKIT7 7 Piece Diamond Core Drill Kit for cutting clean holes in brick and concrete blocks. They are ideal for plumbing, electrical, engineering installation and general building tasks. All cores are 1⁄2 inch. BSP threaded with 8mm turbo segments. Set contains: 3 x Diamond Cores with 8mm Turbo Segments: 38mm, 52mm, and 117mm. 1 x SDS Plus Extension Adaptor 10mm x 200mm. 1 x Hex Extension Adaptor 12mm x 200mm. 1 x A-Taper Pilot Drill 10mm x 200mm. 1 x Extractor Drift Key. 1 x Carry Case. ROTARY USE ONLY – Must not be used on Percussion/Hammer mode. DO NOT USE DIAMOND CORES LARGER THAN 78mm IN DIAMETER WITH SDS PLUS DRILLS AS THIS MAY RESULT IN DAMAGE TO THE POWER TOOL OR SDS ADAPTOR. Diamond Cores give the best results when used with a purpose built core drilling machine.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Diamond Core Drill Kit & Case Set of 7",
+  "specifications": [
+    "Set contains 3 x Diamond Cores with 8mm Turbo Segments: 38mm, 52mm, and 117mm",
+    "1 x SDS Plus Extension Adaptor 10mm x 200mm",
+    "1 x Hex Extension Adaptor 12mm x 200mm",
+    "1 x A-Taper Pilot Drill 10mm x 200mm",
+    "1 x Extractor Drift Key",
+    "1 x Carry Case",
+    "ROTARY USE ONLY – Must not be used on Percussion/Hammer mode",
+    "DO NOT USE DIAMOND CORES LARGER THAN 78mm IN DIAMETER WITH SDS PLUS DRILLS AS THIS MAY RESULT IN DAMAGE TO THE POWER TOOL OR SDS ADAPTOR"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-drift-pin-for-dchex-and-dcsds.html|>
+## Faithfull Drift Pin (for Dchex & DcSDS)
+
+{
+  "price": "€1.80 inc VAT (€1.46 exc.vat)",
+  "description": "A spare drift pin used for extracting a 200 mm taper wedge masonry drill from the Faithfull diamond dry core hex drive and 130 mm extension.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Drift Pin (for Dchex & DcSDS)",
+  "specifications": [
+    "FAIDCDP : €1.80",
+    "List: €2.30",
+    "You save €0.50"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-dry-diamond-core-bits.html|>
+## Faithfull Dry Diamond Core Bits
+
+{
+  "price": "from €46.46 inc VAT",
+  "description": "Faithfull Dry Diamond Core Bits combine a professional quality 1/2in BSP threaded core with premium 8mm fluted turbo cut diamond segments. They are manufactured to offer exceptional wear and speed of cut. The V-groove segments assist in clearing debris when in use. Ideal for use in plumbing, electrical and general building installations to cut clean holes in brick and concrete blocks. Suitable for rotary use ONLY! Must not be used on percussion/hammer mode. Do not use Diamond Cores larger than Ø78mm with SDS Plus drills as this may result in damage to the power tool or SDS adaptor. Diamond Cores give the best results when used with a purpose-built core drilling machine.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Dry Diamond Core Bits",
+  "specifications": [
+    "Sizes available: 107 x 150mm, 117 x 150mm, 127 x 150mm, 152 x 150mm, 157 x 150mm, 38 x 150mm, 52 x 150mm, 65 x 150mm",
+    "Professional quality 1/2in BSP threaded core",
+    "Premium 8mm fluted turbo cut diamond segments",
+    "V-groove segments for debris clearance",
+    "Ideal for plumbing, electrical, and general building installations"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-flat-bit-extension.html|>
+## Faithfull Flat Bit Extension
+
+{
+  "price": "€12.68 inc VAT (€10.31 exc.vat)",
+  "description": "The Faithfull 300mm extension complete with hexagonal locking key. Used with flat bits of between 16mm to 35mm it allows bits to bore deep or longer length holes through thick timber. May be used with all makes of flat bit featuring a 1/4in hex shank.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Flat Bit Extension",
+  "specifications": [
+    "300mm extension",
+    "Hexagonal locking key",
+    "Compatible with flat bits of 16mm to 35mm",
+    "Allows boring deep or longer length holes through thick timber",
+    "Compatible with all makes of flat bit featuring a 1/4in hex shank"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-flat-bits-1.html|>
+## Faithfull Flat Bits
+
+{
+  "price": "from €2.48 inc VAT",
+  "description": "Faithfull Flat Bits produce a clean cut at a fast and efficient rate. They will bore all types of timber and will perform just as well with or against the grain. These bits are also suitable for cutting MDF, plastics and plasterboard. The whole bit is forged from one piece of carbon steel and is heat-treated for extra strength and durability. All sizes feature a non-slip 1/4in hexagonal shank with a locking mechanism that is compatible with adaptors or chucks with a built-in quick-release feature. All sizes except for the 6mm and 8mm Flat Bits have a grooved tip and extended spurs to produce a clean cutting area and faster boring speed.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Flat Bits",
+  "specifications": [
+    "Available sizes: 10mm, 13mm, 14mm, 16mm, 19mm, 20mm, 22mm, 25mm, 28mm, 30mm, 32mm, 35mm, 38mm, 6mm, 8mm",
+    "Forged from one piece of carbon steel",
+    "Heat-treated for extra strength and durability",
+    "Non-slip 1/4in hexagonal shank",
+    "Compatible with adaptors or chucks with a built-in quick-release feature"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-forstner-bit-set-5-piece.html|>
+## Faithfull Forstner Bit Set, 5 Piece
+
+{
+  "price": "€45.47 inc VAT (€36.97 exc.vat)",
+  "description": "This Faithfull 5 piece Forstner Bit Set has been designed with durability, accuracy, and ease of use in mind. Manufactured from forged, hardened steel for increased longevity, they feature an ultra-sharp spur to provide accurate hole drilling without walking on the material. The steep, angled cutting edges produce smooth, flat holes and create chisel-like curls for fast, clean chip removal. The centre point aids in drilling straight, angled, and overlapping holes in softwood and hardwoods, veneered wood, and non-laminated chipboard. Compatible with all drill drivers and bench drills with a standard 8mm chuck. Supplied in a wooden storage box. Contains the following sizes: 15, 20, 25, 30, 35mm",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull Forstner Bit Set, 5 Piece",
+  "specifications": [
+    "Length: 90mm",
+    "Shank: 15-30mm bits 8mm, 35mm bit: 10mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-forstner-bits.html|>
+## Faithfull Forstner Bits
+
+{
+  "price": "from €5.56 inc VAT",
+  "description": "Faithfull Forstner Bits are designed with durability, accuracy, and ease of use in mind. Manufactured from forged, hardened steel for increased longevity, they feature an ultra-sharp spur to provide accurate hole drilling without walking on the material. The steep, angled cutting edges produce smooth, flat holes and create chisel-like curls for fast, clean chip removal. The centre point aids in drilling straight, angled, and overlapping holes in softwood and hardwoods, veneered wood, and non-laminated chipboard. Compatible with all drill drivers and bench drills with a standard 8mm chuck.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Forstner Bits",
+  "specifications": [
+    "Available sizes: 10mm, 12mm, 14mm, 15mm, 16mm, 18mm, 20mm, 22mm, 25mm, 26mm, 30mm, 35mm, 45mm",
+    "Manufactured from forged, hardened steel",
+    "Ultra-sharp spur for accurate hole drilling",
+    "Steep, angled cutting edges for smooth, flat holes",
+    "Centre point for drilling straight, angled, and overlapping holes"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hcs-hinge-bore.html|>
+## Faithfull HCS Hinge Bore
+
+{
+  "price": "€10.53 inc VAT",
+  "description": "The Faithfull The High Carbon Steel (HCS) Hinge Bore Bit is specially designed for drilling blind holes when fitting concealed (blum) hinges in kitchen, bedroom and bathroom cabinet doors. Available in 2 sizes. Suitable for use on all natural woods and man-made materials such as blockboard, melamine faced boards, chipboard and MDF.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HCS Hinge Bore",
+  "specifications": [
+    "High carbon steel (HCS) hinge bits are not recommended for repetitive work in man-made boards.",
+    "These bits should always be used with a stand-mounted drill.",
+    "Available in 2 sizes."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-high-speed-steel-countersink-13mm-12in---chubby.html|>
+## Faithfull High Speed Steel Countersink 13mm (1/2in) - Chubby
+
+{
+  "price": "€16.30 inc VAT (€13.25 exc.vat)",
+  "description": "The Faithfull High Speed Steel Rosehead Chubby 90° included angle Countersink. For countersinking screw holes for flush fitting of screw heads in mild steel, plastics and non-ferrous metals. Also suitable for working in wood, plywood, MDF and other man made boards. Can be used in both hand tools and power drills.",
+  "availability": "In Stock",
+  "product_name": "Faithfull High Speed Steel Countersink 13mm (1/2in) - Chubby",
+  "specifications": [
+    "Type: Rosehead - Chubby",
+    "Size: 13mm (1/2in)",
+    "Shank Diameter: 6mm (1/4in)"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-high-speed-steel-step-drills.html|>
+## Faithfull High Speed Steel Step Drills
+
+{
+  "price": "from €17.58 inc VAT",
+  "description": "Faithfull Step drills are used for cutting varying hole sizes in material up to 4 mm thick without changing the drill bit. Each drill cuts parallel holes within a specific size range, rising in 2 mm increments. The set of three is supplied in a metal storage case.",
+  "availability": "In Stock",
+  "product_name": "Faithfull High Speed Steel Step Drills",
+  "specifications": [
+    "Available sizes: 4 - 14mm, 6 - 20mm, 6 - 30mm, Set of 3",
+    "Cuts holes in material up to 4 mm thick",
+    "Supplied in a metal storage case"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-high-speed-steel-taper-drills.html|>
+## Faithfull High Speed Steel Taper Drills
+
+{
+  "price": "€13.31 inc VAT",
+  "description": "The Faithfull HSS taper drills are used for drilling sheet materials. They will drill a hole of any diameter between the stated sizes. Please note that use of a cutting fluid is advisable with this drill.",
+  "availability": "In Stock",
+  "product_name": "Faithfull High Speed Steel Taper Drills",
+  "specifications": [
+    "Available sizes: 4 - 12mm, 6 - 20mm, 6 - 30mm, Set of 3",
+    "Recommended use of cutting fluid"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-holesaw-arbor-32-210mm-quick-release.html|>
+## Faithfull Holesaw Arbor 32-210mm Quick Release
+
+{
+  "price": "€20.52 inc VAT (€16.68 exc.vat)",
+  "description": "Arbor for use with Faithfull holesaws and all other brands available in the UK. Suitable for use with Bi-metal and Tungsten carbide tipped holesaws. Quick release shank.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Holesaw Arbor 32-210mm Quick Release",
+  "specifications": [
+    "Quick release shank",
+    "Compatible with Bi-metal and Tungsten carbide tipped holesaws"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-holesaw-arbor-sds-plus-fitting-14-30mm.html|>
+## Faithfull Holesaw Arbor SDS Plus Fitting 14-30mm
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "The Faithfull FAIHSA1630S Holesaw arbor has an SDS fitting and will work with sizes 16-30 mm holesaws.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Holesaw Arbor SDS Plus Fitting 14-30mm",
+  "specifications": [
+    "SDS fitting",
+    "Compatible with sizes 16-30 mm holesaws"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-holesaw-arbor-sds-plus-fitting-32-210mm.html|>
+## Faithfull Holesaw Arbor SDS Plus Fitting 32-210mm
+
+{
+  "price": "€21.99 inc VAT (€17.88 exc.vat)",
+  "description": "The Faithfull FAIHSA32150S Holesaw arbor has an SDS fitting and will work with sizes 32-210 mm holesaws. Note: Always use the correct size arbor for the saw size selected, and make sure that arbors with drive pins have these fully engaged before use.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Holesaw Arbor SDS Plus Fitting 32-210mm",
+  "specifications": [
+    "SDS fitting",
+    "Compatible with sizes 32-210 mm holesaws"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-holesaw-arbors.html|>
+## Faithfull Holesaw Arbors
+
+{
+  "price": "from €11.99 inc VAT",
+  "description": "Arbor for use with Faithfull holesaws and all other brands available in the UK.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Holesaw Arbors",
+  "specifications": [
+    "Select Option: 16-30mm, 32-152mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-holesaw-pilot-drill-pack-of-2.html|>
+## Faithfull Holesaw Pilot Drill (Pack of 2)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "These Faithfull Holesaw Pilot Drills are manufactured from high speed steel for durability. They are suitable for use with Faithfull and most other holesaw arbors requiring the use of a 6.5 mm pilot drill. Fits both the following Faithfull arbors: FAI HSA1630 16-30 mm, FAI HSA32150 32-150 mm, FAI HSA32150QR 32-150 mm, FAI HSA1630S 16-30 mm, FAI HSA32150S 32-150 mm. Pack quantity: 2.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Holesaw Pilot Drill (Pack of 2)",
+  "specifications": [
+    "Manufactured from high speed steel",
+    "Suitable for use with Faithfull and most other holesaw arbors",
+    "Requires the use of a 6.5 mm pilot drill",
+    "Pack quantity: 2"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-holesaws-varipitch.html|>
+## Faithfull Holesaws Varipitch
+
+{
+  "price": "€4.99 inc VAT",
+  "description": "The Faithfull Varipitch Holesaws are manufactured from bi-metal material with hardened teeth made from high speed steel and a variable tooth pitch for fast smooth cutting. Bi-metal holesaws offer increased safety as they will not shatter under load. They are ideal for use on a wide variety of materials including wood, chipboard, plywood, non laminated plastics, plasterboard and non ferrous metals. Suitable for use in most variable speed power drills.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Holesaws Varipitch",
+  "specifications": [
+    "Manufactured from bi-metal material",
+    "Hardened teeth made from high speed steel",
+    "Variable tooth pitch for fast smooth cutting",
+    "Suitable for use on a wide variety of materials including wood, chipboard, plywood, non laminated plastics, plasterboard and non ferrous metals",
+    "Compatible with most variable speed power drills"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-countersinks.html|>
+## Faithfull HSS Countersinks
+
+{
+  "price": "€16.59 inc VAT",
+  "description": "The Faithfull High Speed Steel Rosehead 90° included angle countersink. For countersinking screw holes for flush fitting of screw heads in mild steel, plastics and non-ferrous metals. Also suitable for working in wood, plywood, MDF and other man made boards. Can be used in both hand tools and power drills.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Countersinks",
+  "specifications": [
+    "High Speed Steel",
+    "90° included angle",
+    "Suitable for mild steel, plastics, non-ferrous metals, wood, plywood, MDF",
+    "Compatible with hand tools and power drills"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-drill-set-in-plasic-cases.html|>
+## Faithfull HSS Drill Set in Plastic Cases
+
+{
+  "price": "€20.48 inc VAT",
+  "description": "The Faithfull Professional Metric Fully Ground HSS Twist Drill Bit Sets are manufactured from high quality M2 grade tool steel, to meet the requirements of the DIN 388 standard. Robust plastic storage cases protect the drills when stored. Suitable for use in: Alloy Steels, Carbon Steels, Cast Iron, Hardened Alloy Steels, Stainless Steels. 10 Piece SET10PRO: 10 Drills: 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10mm. 13 Piece SET13PRO: 13 Drills: 1.5, 2, 2.5, 3, 3.3, 3.5, 4, 4.2, 4.5, 5, 5.5, 6 and 6.5mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Drill Set in Plastic Cases",
+  "specifications": [
+    "Set of 10: 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10mm",
+    "Set of 13: 1.5, 2, 2.5, 3, 3.3, 3.5, 4, 4.2, 4.5, 5, 5.5, 6 and 6.5mm",
+    "Manufactured from high quality M2 grade tool steel",
+    "Robust plastic storage cases"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-drill-sets---imperial.html|>
+## Faithfull HSS Drill Sets - Imperial
+
+{
+  "price": "from €9.22 inc VAT",
+  "description": "The Faithfull Imperial HSS Drill Bit Sets are designed for cutting metal, however they are also suitable for drilling holes in timber, chipboard and plywood. The sets have an easy flip open action case with transparent front for easy checking of contents.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Drill Sets - Imperial",
+  "specifications": [
+    "7 Piece F7SET: 1/16, 3/32, 1/8, 5/32, 3/16, 7/32 and 1/4in.",
+    "13 Piece F13PSET: 1/16, 5/64, 3/32, 7/64, 1/8, 9/64, 5/32, 11/64, 3/16, 13/64, 7/32, 15/64 and 1/4in."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-drill-sets---metric.html|>
+## Faithfull HSS Drill Sets - Metric
+
+{
+  "price": "from €9.99 inc VAT",
+  "description": "The Faithfull Metric HSS Drill Bit Sets are designed for cutting metal, however they are also suitable for drilling holes in timber, chipboard and plywood. The sets have an easy flip open action case with transparent front for easy checking of contents.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Drill Sets - Metric",
+  "specifications": [
+    "Set of 13: 1.5, 2, 3, 4, 5, 5.5 and 6mm",
+    "Set of 7: 1.5, 2, 3, 4, 5, 5.5 and 6mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-jobber-drills-loose-metric.html|>
+## Faithfull HSS Jobber Drills Loose Metric
+
+{
+  "price": "from €0.46 inc VAT",
+  "description": "Faithfull extensive range of metric sizes for home user and DIY enthusiasts. These high speed steel (HSS) straight shank drills are suitable for use on both wood and metal and may be used in hand or power drills. A cutting lubricant is recommended when using these drills in metal. PLEASE NOTE: These drill bits are priced individually but supplied only in bulk packs. Sizes up to and including 10mm are supplied in 10's. Larger sizes are supplied in 5's.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Jobber Drills Loose Metric",
+  "specifications": [
+    "High speed steel (HSS)",
+    "Suitable for wood and metal",
+    "Available in various metric sizes",
+    "Supplied in bulk packs"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-jobber-drills-pre-pack-metric.html|>
+## Faithfull HSS Jobber Drills Pre Pack Metric
+
+{
+  "price": "from €2.32 inc VAT",
+  "description": "Faithfull Metric jobber drills that are ideal for DIY and professional use in hand and power drills. Robust design gives less breakage, easier hole start and improved penetration. For drilling steel, Iron and most metals. Packed in convenient re-usable plastic pouches.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Jobber Drills Pre Pack Metric",
+  "specifications": [
+    "Available sizes: 1.00mm, 1.50mm, 2.00mm, 2.50mm, 3.00mm, 3.30mm, 3.50mm, 4.00mm, 4.20mm, 4.50mm, 5.00mm, 5.50mm, 6.00mm, 6.50mm, 7.00mm, 7.50mm, 8.00mm, 8.50mm, 9.00mm, 9.50mm, 10.00mm, 10.50mm, 11.00mm, 12.00mm, 12.50mm, 13.00mm",
+    "Robust design for less breakage",
+    "Improved penetration for drilling steel, iron, and most metals",
+    "Packed in re-usable plastic pouches"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-jobber-professional-drill-bits-loose-metric.html|>
+## Faithfull HSS Jobber Professional Drill Bits Loose Metric
+
+{
+  "price": "€0.66 inc VAT",
+  "description": "The Faithfull Professional Metric HSS Jobber Drill Bits are designed to meet the requirements of the professional user. These drills are manufactured from M2 grade steel and are fully ground to meet the standard of DIN 388 and feature a 135 degree non slip split point. Suitable for use in: Alloy steels, carbon steels, cast iron, hardened alloy steels and stainless steels.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Jobber Professional Drill Bits Loose Metric",
+  "specifications": [
+    "Manufactured from M2 grade steel",
+    "Fully ground to meet DIN 388 standard",
+    "135 degree non slip split point",
+    "Suitable for alloy steels, carbon steels, cast iron, hardened alloy steels, and stainless steels"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-long-series-jobbers-drill---pre-packed.html|>
+## Faithfull HSS Long Series Jobbers Drill - Pre Packed
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "The Faithfull Professional Long Series HSS Jobber Drill Bits have a longer length for deeper drilling requirements. Designed to meet the requirement of the professional user, these drills are manufactured from M2 grade steel and are fully ground to meet the requirements of DIN 388 and feature a 135 degree non slip split point. Their robust design gives less breakage, easier hole start and improved penetration. Suitable for use in: Alloy Steels, Carbon Steels, Cast Iron, Hardened Alloy Steels, Stainless Steels.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Long Series Jobbers Drill - Pre Packed",
+  "specifications": [
+    "Manufactured from M2 grade steel",
+    "Fully ground to meet DIN 388",
+    "135 degree non slip split point",
+    "Suitable for Alloy Steels, Carbon Steels, Cast Iron, Hardened Alloy Steels, Stainless Steels"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-pro-drill-sets-in-metal-cases.html|>
+## Faithfull HSS PRO Drill Sets in Metal Cases
+
+{
+  "price": "€65.20 inc VAT",
+  "description": "Faithfull Professional high speed steel (HSS) drill bits are manufactured from high quality M2 grade tool steel, to meet the requirements of the DIN 388 standard. Each bit has a fully ground flute and cutting tip, featuring a 135 degree point angle and split point providing easy non-slip starting and precision drilling. All these great features help you to achieve superior performance in most materials. Suitable for use in: Alloy Steels, Carbon Steels, Cast Iron, Hardened Alloy Steels, Stainless Steels. Supplied in heavy gauge metal storage case. Display packed.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS PRO Drill Sets in Metal Cases",
+  "specifications": [
+    "Set of 19",
+    "Set of 25"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hss-professional-drill-bits-pre-pack-metric.html|>
+## Faithfull HSS Professional Drill Bits Pre Pack Metric
+
+{
+  "price": "€2.94 inc VAT",
+  "description": "The Faithfull Professional Pre Pack Metric HSS Jobber Drill Bits are designed to meet the requirements of the professional user, these pre-packed drills are manufactured from M2 grade steel and are fully ground to meet the standard of DIN 388 and feature a 135 degree non slip split point. Suitable for use in: Alloy steels, carbon steels, cast iron, hardened alloy steels, stainless steels.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSS Professional Drill Bits Pre Pack Metric",
+  "specifications": [
+    "Manufactured from M2 grade steel",
+    "Fully ground to meet DIN 388 standard",
+    "135 degree non slip split point",
+    "Suitable for use in alloy steels, carbon steels, cast iron, hardened alloy steels, stainless steels"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hsse-m35-cobalt-quick-change-impact-drill-bits.html|>
+## Faithfull HSSE M35 Cobalt Quick-Change Impact Drill Bits
+
+{
+  "price": "from €2.23 inc VAT",
+  "description": "Faithfull Cobalt Quick-Change Impact Drill Bits feature a revolutionary tip design that is far superior to any other drill bit in the industry. These innovative drill bits have 7 cutting edges and 3 peaks that offer several distinct competitive advantages: - Super-accurate self-centring - you can make a hole in a round-pipe with one hand. - Speed - twice as fast as split point drill bits. - Tool lifetime - up to 10 times longer life in mild steel. Manufactured from M35 HSSE grade steel with a 5% cobalt content for increased heat resistance. The cutting performance is fantastic, both on precision and degree of finish, leaving much less defects (burr) than other drill bits. Its protruding centre tip acts like a pilot drill, enabling super-accurate positioning and stops the drill from wandering. These bits are impact rated and have a 1/4in quick-change shank for use in impact drivers. Produced in accordance to DIN 338 and DIN 3126-E6.3, for high precision tolerances and geometric accuracy. Ideal for heavy-duty industrial work in alloy steels, carbon steels, cast iron, hardened alloy steels, stainless steels, high-temperature alloys, titanium alloy, high strength steel and carbon fibre composite materials.",
+  "availability": "In Stock",
+  "product_name": "Faithfull HSSE M35 Cobalt Quick-Change Impact Drill Bits",
+  "specifications": [
+    "5 Piece: 2, 3, 4, 5 & 6mm",
+    "2.5mm OL:73mm WL:30mm",
+    "3.0mm OL:77mm WL:33mm",
+    "4.0mm OL:91mm WL:43mm",
+    "5.0mm OL:102mm WL:52mm",
+    "6.0mm OL:109mm WL:57mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-lip-and-spur-wood-drill-bit-set-5-piece-4-10mm.html|>
+## Faithfull Lip & Spur Wood Drill Bit Set 5 Piece 4-10mm
+
+{
+  "price": "€13.03 inc VAT (€10.59 exc.vat)",
+  "description": "5 Piece Lip & Spur Wood Drill Bit Set, these are the preferred cutting tip design for drilling wood, these alloy steel drills have a steeper twist and a deeper flute than HSS bits, for rapid clearance of waste. They are ideal for use in dowelling jigs. Sizes: 4mm, 5mm, 6mm, 8mm, 10mm. 4mm: Working Length: 43mm, Overall Length: 75mm. 5mm: Working Length: 50mm, Overall Length: 85mm. 6mm: Working Length: 52mm, Overall Length: 92mm. 8mm: Working Length: 75mm, Overall Length: 120mm. 10mm: Working Length: 80mm, Overall Length: 130mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Lip & Spur Wood Drill Bit Set 5 Piece 4-10mm",
+  "specifications": [
+    "Sizes: 4mm, 5mm, 6mm, 8mm, 10mm",
+    "4mm: Working Length: 43mm, Overall Length: 75mm",
+    "5mm: Working Length: 50mm, Overall Length: 85mm",
+    "6mm: Working Length: 52mm, Overall Length: 92mm",
+    "8mm: Working Length: 75mm, Overall Length: 120mm",
+    "10mm: Working Length: 80mm, Overall Length: 130mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bluespot-tools-hss-step-drill-4-42mm.html|>
+## BlueSpot Tools HSS Step Drill 4-42mm
+
+{
+  "price": "€26.51 inc VAT (€21.55 exc.vat)",
+  "description": "The BlueSpot HSS Step Drill is manufactured from high-speed steel for increased durability and cutting power. With 2mm (4-6mm) and 3mm (9-42mm) step increments. Titanium coated to reduce friction and heat. Specially designed for precision drilling of holes in aluminium, brass, copper, plastic, steel and wood.",
+  "availability": "In Stock",
+  "product_name": "BlueSpot Tools HSS Step Drill 4-42mm",
+  "specifications": [
+    "Manufactured from high-speed steel",
+    "2mm (4-6mm) and 3mm (9-42mm) step increments",
+    "Titanium coated to reduce friction and heat",
+    "Designed for precision drilling in various materials"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bluespot-tools-masonry-drill-set-of-8-30-100mm.html|>
+## BlueSpot Tools Masonry Drill Set of 8 3.0-10.0mm
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "8 piece masonry drill bit set, zinc plated with carbide tips for longer life and designed to use with percussion drills. Sizes: 3, 4, 5, 6, 7, 8, 9 & 10mm.",
+  "availability": "In Stock",
+  "product_name": "BlueSpot Tools Masonry Drill Set of 8 3.0-10.0mm",
+  "specifications": [
+    "8 piece masonry drill bit set",
+    "Zinc plated with carbide tips",
+    "Designed for use with percussion drills",
+    "Sizes: 3, 4, 5, 6, 7, 8, 9 & 10mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bluespot-tools-sds-drill-bit-sets.html|>
+## BlueSpot Tools SDS Drill Bit Sets
+
+{
+  "price": "from €27.22 inc VAT",
+  "description": "3 piece SDS Plus masonry drill bit set, manufactured to a consistently high standard with a sandblasted finish and carbide tipped. For use on concrete, masonry, lightweight block and stone.",
+  "availability": "In Stock",
+  "product_name": "BlueSpot Tools SDS Drill Bit Sets",
+  "specifications": [
+    "3 piece SDS Plus masonry drill bit set",
+    "Manufactured to a consistently high standard",
+    "Sandblasted finish",
+    "Carbide tipped",
+    "For use on concrete, masonry, lightweight block and stone"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/boa-kitchen-and-bathroom-installer-kit-diamond-holesaw-set-6-piece.html|>
+## BOA Kitchen & Bathroom Installer Kit Diamond Holesaw Set 6 Piece
+
+{
+  "price": "€88.12 inc VAT (€71.64 exc.vat)",
+  "description": "The BOA 6 Piece Professional Quality Kitchen & Bathroom Installer Diamond Holesaw Kit is ideal for plumbers and electricians. The holesaws will cut slate, cast iron, marble, brick, ceramics, MDF and fibreglass. Kit Contains: 6 x Holesaws: 32, 38, 44, 57, 64 and 76mm, 1 x Arbor.",
+  "availability": "In Stock",
+  "product_name": "BOA Kitchen & Bathroom Installer Kit Diamond Holesaw Set 6 Piece",
+  "specifications": [
+    "6 x Holesaws: 32, 38, 44, 57, 64 and 76mm",
+    "1 x Arbor"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/boa-quick-change-diamond-tip-drill-bits.html|>
+## BOA Quick Change Diamond Tip Drill Bits
+
+{
+  "price": "€16.89 inc VAT",
+  "description": "Boa welded tip diamond drills are vacuum brazed for greater strength and endurance. Made in the U.K. they will cut Porcelain, Quarry, Terracotta, glazed Terracotta, glazed Terrazzo, Agglomerate, (concrete) Tiles and Glass.",
+  "availability": "In Stock",
+  "product_name": "BOA Quick Change Diamond Tip Drill Bits",
+  "specifications": [
+    "Available sizes: 10mm, 12mm, 15mm, 20mm, 25mm, 5mm, 6mm, 7mm, 8mm",
+    "Made in the U.K.",
+    "Vacuum brazed for strength and endurance",
+    "Cuts various materials including porcelain and glass"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bosch-powertool-accessories-cyl-3-drill-bit-65-x-350-x-400mm.html|>
+## Bosch Powertool Accessories CYL-3 Drill Bit 6.5 x 350 x 400mm
+
+{
+  "price": "€11.50 inc VAT (€9.35 exc.vat)",
+  "description": "The Bosch CYL-3 Drill Bit provides lasting performance when drilling in concrete. Its effective 2-flute U-shape design provides good dust removal, reducing friction and extending lifetime. Suitable for drilling holes for fixings in abrasive materials such as concrete and natural stones. PGM guarantee in compliance with tight tolerances, exactly drilled holes and firm hold of fixings. As proof of quality, the drill bit bears the test mark of the PGM Masonry Drill Bit Association Board, guaranteeing compliance with tight tolerances, exact drilling and the firm hold of fixings. Compatible with cylindrical shank systems for all corded or cordless impact drills.",
+  "availability": "In Stock",
+  "product_name": "Bosch Powertool Accessories CYL-3 Drill Bit 6.5 x 350 x 400mm",
+  "specifications": [
+    "Drill Bit Size: 6.5 x 350 x 400mm",
+    "2-flute U-shape design for effective dust removal",
+    "Suitable for concrete and natural stones",
+    "Compatible with cylindrical shank systems for all corded or cordless impact drills"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bosch-powertool-accessories-expert-hex-9-multi-construction-drill-bit.html|>
+## Bosch Powertool Accessories EXPERT HEX-9 Multi Construction Drill Bit
+
+{
+  "price": "€5.44 inc VAT",
+  "description": "Bosch EXPERT HEX-9 Multi Construction Drill Bits offer high precision drilling in multiple materials; soft concrete, masonry, brick, ceramics, tiles, wood, plastic, sheet metals and aluminium. Accurate drilling is easier with Bosch Centering Geometry. The specially designed centring tip allows you to start holes accurately. This high-performance carbide tip is manufactured by fine grinding. The optimised dust extraction channel allows for fast, efficient drilling. Its hex shank provides a strong connection and maximum torque transmission in three-jaw chucks and 1/4in internal hex tool holders. The Bosch EXPERT HEX-9 Multi Construction Drill Bit is the one drill bit which should always be in your toolbox: you'll never get stuck on a job or waste time looking for the right bit.",
+  "availability": "In Stock",
+  "product_name": "Bosch Powertool Accessories EXPERT HEX-9 Multi Construction Drill Bit",
+  "specifications": [
+    "Available in various sizes: Set, 5 Piece, Set, 8 Piece, 10 x 90 x 150mm, 3 x 45 x 90mm, 4 x 45 x 90mm, 5 x 50 x 100mm, 5.5 x 60 x 100mm, 6 x 60 x 100mm, 6 x 90 x 150mm, 7 x 50 x 100mm, 7 x 90 x 150mm, 8 x 50 x 100mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bosch-powertool-accessories-hss-twist-pointteq-drill-bit-1.html|>
+## Bosch Powertool Accessories HSS Twist PointTeQ Drill Bit
+
+{
+  "price": "from €1.33 inc VAT",
+  "description": "The Bosch HSS Twist PointTeQ Drill Bits enable fast drilling in metal due to PointTeQ tip design. This self-centering tip prevents wandering, making quick and easy drilling starts possible. Whilst the increased drilling rate generates less heat and wear. There is a low risk of breakage, especially for drill bits below 6mm in diameter as the bit is manufactured to have a highly elastic body. Its black-oxide coated flute provides fast chip removal. Manufactured to DIN 338. The drill bit is Type N (flute angle) with a tip of 135 degrees. It has a cylindrical shank system and is intended for use in drill stands and drill drivers.",
+  "availability": "In Stock",
+  "product_name": "Bosch Powertool Accessories HSS Twist PointTeQ Drill Bit",
+  "specifications": [
+    "PointTeQ tip design for fast drilling in metal",
+    "Self-centering tip prevents wandering",
+    "Low risk of breakage for bits below 6mm",
+    "Black-oxide coated flute for fast chip removal",
+    "Manufactured to DIN 338",
+    "Type N (flute angle) with a tip of 135 degrees",
+    "Cylindrical shank system for drill stands and drivers"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bosch-powertool-accessories-pro-metal-hss-g-twist-drill-bit.html|>
+## Bosch Powertool Accessories PRO Metal HSS-G Twist Drill Bit
+
+{
+  "price": "€11.02 inc VAT",
+  "description": "The Bosch PRO Metal HSS-G Twist Drill Bits are a great choice for construction workers and installers who need long-lasting metal drill bits to drill in alloyed and unalloyed steel, non-ferrous metals, cast iron, plastics, and wood. They are made from premium high-speed steel. Ground for strength, resistance to heat, and precision. The split-point tip for starting holes is exactly where you need them.",
+  "availability": "In Stock",
+  "product_name": "Bosch Powertool Accessories PRO Metal HSS-G Twist Drill Bit",
+  "specifications": [
+    "16 x 120 x 178mm",
+    "3.5 x 39 x 70mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/bosch-powertool-accessories-sds-plus-5-hammer-drill-bit.html|>
+## Bosch Powertool Accessories SDS plus-5 Hammer Drill Bit
+
+{
+  "price": "€23.09 inc VAT",
+  "description": "The Bosch SDS plus-5 Hammer Drill Bits are for effortless drilling in concrete. The Activeteq centring tip offers drill guidance for easy starts without jarring or wandering. AWB brazing and hardening technology reduces vibration and strain on the user. To achieve accurate results, the visibility of the wear mark indicates if the diameter of the hole is still in tolerance for metal anchor setting. As proof of quality, the drill bit bears the test mark of the PGM Masonry Drill Bit Association Board, guaranteeing compliance with tight tolerances, exact drilling and the firm hold of fixings. Compatible with SDS plus rotary hammers. Made in Germany.",
+  "availability": "In Stock",
+  "product_name": "Bosch Powertool Accessories SDS plus-5 Hammer Drill Bit",
+  "specifications": [
+    "10 x 950 x 1005mm",
+    "6 x 400 x 465mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/cintride-4530-adaptor-shank-for-core-drill-120mm.html|>
+## Cintride 4530 Adaptor Shank For Core Drill 120mm
+
+{
+  "price": "€25.31 inc VAT (€20.58 exc.vat)",
+  "description": "Heavy-duty adaptor shank for core drills",
+  "availability": "Out of Stock",
+  "product_name": "Cintride 4530 Adaptor Shank For Core Drill 120mm",
+  "specifications": [
+    "Adaptor Shank for Core Drill",
+    "Diameter: 120mm",
+    "Model: CIN4530"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/cintride-pilot-drill-for-all-core-drills.html|>
+## Cintride Pilot Drill For All Core Drills
+
+{
+  "price": "€10.71 inc VAT (€8.71 exc.vat)",
+  "description": "Pilot Drill For All Core Drills",
+  "availability": "In Stock",
+  "product_name": "Cintride Pilot Drill For All Core Drills",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/cintride-tungsten-carbide-core-drill.html|>
+## Cintride Tungsten Carbide Core Drill
+
+{
+  "price": "€95.23 inc VAT",
+  "description": "Cintride Tungsten Carbide Core Drill",
+  "availability": "In Stock",
+  "product_name": "Cintride Tungsten Carbide Core Drill",
+  "specifications": [
+    "Available sizes: 115mm, 50mm, 76mm",
+    "WEEE Recycling information available",
+    "Delivery information provided",
+    "Returns policy outlined"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/cintride-tungsten-carbide-core-drill-shell.html|>
+## Cintride Tungsten Carbide Core Drill Shell
+
+{
+  "price": "from €59.10 inc VAT",
+  "description": "Cintride Tungsten Carbide Core Drill Shell",
+  "availability": "In Stock",
+  "product_name": "Cintride Tungsten Carbide Core Drill Shell",
+  "specifications": [
+    "Select Option: 115mm, 125mm, 50mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-5pc-sds-drill-set.html|>
+## DEWALT 5Pc Sds+ Drill Set
+
+{
+  "price": "€18.97 inc VAT (€15.42 exc.vat)",
+  "description": "5Pc Sds+ Drill Set",
+  "availability": "In Stock",
+  "product_name": "DEWALT 5Pc Sds+ Drill Set",
+  "specifications": [
+    "DEWDT9399QZ : €18.97",
+    "List: €29.18",
+    "You save €10.21"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-blackandgold-hex-hss-g-drill-bits.html|>
+## DEWALT BLACK&GOLD Hex HSS-G Drill Bits
+
+{
+  "price": "€3.27 inc VAT",
+  "description": "DEWALT BLACK&GOLD Hex HSS-G Drill Bits made with a 1/4in hex shank, designed to withstand radial torque with percussion hammers and compatible with most power drills. The black and gold coating helps to prevent rust and wear. A 135° split point tip helps to reduce walking. Its strong, conical braided design provides extreme durability and resistance to breakage.",
+  "availability": "In Stock",
+  "product_name": "DEWALT BLACK&GOLD Hex HSS-G Drill Bits",
+  "specifications": [
+    "1/4in hex shank",
+    "135° split point tip",
+    "Black and gold coating to prevent rust and wear",
+    "Compatible with most power drills",
+    "Strong, conical braided design for durability"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-brad-point-drillbits.html|>
+## DEWALT Brad Point Drillbits
+
+{
+  "price": "from €2.12 inc VAT",
+  "description": "The DEWALT Brad Point Drill bits are manufactured from chrome vanadium alloyed steel. A centre location point and outer cutting spurs ensure clean accurate holes. For diameters 11mm and above, the shank is reduced to 9.5mm. Brad point drill bits are suitable for drilling hardboard, plywood, chipboard and all natural hard and softwood.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Brad Point Drillbits",
+  "specifications": [
+    "Manufactured from chrome vanadium alloyed steel",
+    "Centre location point and outer cutting spurs for clean accurate holes",
+    "Suitable for drilling hardboard, plywood, chipboard, and all natural hard and softwood"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dt20620-black-and-gold-hss-drill-set-10-piece.html|>
+## DEWALT DT20620 Black & Gold HSS Drill Set, 10 Piece
+
+{
+  "price": "€57.10 inc VAT (€46.42 exc.vat)",
+  "description": "DEWALT Black & Gold HSS Drill Bits have a speed tip and a tough core for increased durability. The bits also incorporate a no-spin shank eliminating the frustration of the bit spinning in the chuck. Supplied in a TOUGH CASE+, this is part of a connectable case system which is TSTAK™ compatible. Individual TOUGH CASES can be clipped together for easy transportation. This 10 Piece Set contains the following sizes: 3, 3.5, 4, 4.5, 5(x2), 6(x2) 8 and 10mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DT20620 Black & Gold HSS Drill Set, 10 Piece",
+  "specifications": [
+    "10 Piece Set",
+    "Sizes: 3, 3.5, 4, 4.5, 5(x2), 6(x2), 8, 10mm",
+    "Speed tip for increased durability",
+    "No-spin shank to prevent spinning in chuck",
+    "Supplied in a TOUGH CASE+",
+    "TSTAK™ compatible"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dt20620-black-and-gold-hss-drill-set-7-piece.html|>
+## DEWALT DT20620 Black & Gold HSS Drill Set, 7 Piece
+
+{
+  "price": "€46.25 inc VAT (€37.60 exc.vat)",
+  "description": "DEWALT Black & Gold HSS Drill Bits have a speed tip and a tough core for increased durability. The bits also incorporate a no-spin shank to eliminate the frustration of the bit spinning in the chuck. Supplied with a TOUGH CASE Bit Bar, this is part of the TOUGH CASE connectable system. This 7 Piece Set contains the following sizes: 3, 4, 5, 6, 8, 10 and 12mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DT20620 Black & Gold HSS Drill Set, 7 Piece",
+  "specifications": [
+    "7 Piece Set",
+    "Sizes: 3, 4, 5, 6, 8, 10 and 12mm",
+    "Speed tip for increased durability",
+    "No-spin shank to eliminate frustration",
+    "Supplied with TOUGH CASE Bit Bar"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dt60300-sds-drill-bit-set-8-piece.html|>
+## DEWALT DT60300 SDS Drill Bit Set, 8 Piece
+
+{
+  "price": "€17.06 inc VAT (€13.87 exc.vat)",
+  "description": "DEWALT SDS-Plus Drill Bits are suitable for fast drilling of plug, anchor or clearance holes in masonry, stone, concrete and brick/block work. The 2 flute helix has been specially developed for efficient removal of dust. There is also an optimised carbide tip drill head with 2 cutting edges. This 8 piece Set contains the following sizes: 6mm(x2), 7mm(x2), 8mm(x2), 10mm(x2)",
+  "availability": "In Stock",
+  "product_name": "DEWALT DT60300 SDS Drill Bit Set, 8 Piece",
+  "specifications": [
+    "Overall Length: 160mm",
+    "Working Length: 92mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dt70727-black-and-gold-hss-drill-set-14-piece.html|>
+## DEWALT DT70727 Black & Gold HSS Drill Set, 14 Piece
+
+{
+  "price": "€32.31 inc VAT (€26.27 exc.vat)",
+  "description": "DEWALT Black & Gold HSS Drill Bits have a speed tip and a tough core for increased durability. The bits also incorporate a no-spin shank that eliminates the frustration of the bit spinning in the chuck. Supplied in a TOUGH CASE+, this is part of a connectable case system that is TSTAK™ compatible. Individual TOUGH CASES can be clipped together for easy transportation. This 14 piece set contains the following sizes: 1, 1.5(x2), 2(x2), 2.5, 3(x2), 3.5, 4(x2), 5, 6 and 8mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT DT70727 Black & Gold HSS Drill Set, 14 Piece",
+  "specifications": [
+    "14 Piece Set",
+    "Speed Tip for Increased Durability",
+    "No-Spin Shank",
+    "TOUGH CASE+ Included",
+    "TSTAK™ Compatible"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dt70728-black-and-gold-hss-drill-set-19-piece.html|>
+## DeWALT DT70728 Black & Gold HSS Drill Set, 19 Piece
+
+{
+  "price": "€32.31 inc VAT (€26.27 exc.vat)",
+  "description": "DEWALT Black & Gold HSS Drill Bits have a speed tip and a tough core for increased durability. The bits also incorporate a no-spin shank that eliminates the frustration of the bit spinning in the chuck. Supplied in a TOUGH CASE+, this is part of a connectable case system that is TSTAK™ compatible. Individual TOUGH CASES can be clipped together for easy transportation. This 19 piece set contains the following sizes: 1, 1.5, 2(x2), 2.5(x2), 3(x2), 3.5(x2), 4(x2), 5(x2), 5.5, 6, 7, 8 and 10mm.",
+  "availability": "In Stock",
+  "product_name": "DeWALT DT70728 Black & Gold HSS Drill Set, 19 Piece",
+  "specifications": [
+    "19 piece set",
+    "Includes sizes: 1, 1.5, 2(x2), 2.5(x2), 3(x2), 3.5(x2), 4(x2), 5(x2), 5.5, 6, 7, 8 and 10mm",
+    "Speed tip and tough core for increased durability",
+    "No-spin shank to eliminate frustration",
+    "Supplied in a TOUGH CASE+ that is TSTAK™ compatible"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-dt70751-extreme-flat-wood-drill-bit-set-9-piece.html|>
+## DEWALT DT70751 Extreme Flat Wood Drill Bit Set, 9 Piece
+
+{
+  "price": "€41.84 inc VAT (€34.02 exc.vat)",
+  "description": "DEWALT Extreme Flat Wood Drill Bits have an extra thick robust steel shank for outstanding durability and chamfered outer cutting spurs for clean, very fast drilling and extended drilling life. The precision ground central point has an optimised design for faster material penetration and increased drilling speed. Ideal for the rapid drilling of holes in wood, for door locks, mortising, electrical and plumbing work. Suitable for natural hardwood and softwood, chipboard and other man-made materials. Supplied in a TOUGH CASE+, this is part of a connectable case system that is TSTAK™ compatible. Individual TOUGH CASES can be clipped together for easy transportation.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT DT70751 Extreme Flat Wood Drill Bit Set, 9 Piece",
+  "specifications": [
+    "9 Piece Set contains sizes: 12, 14, 16, 18, 20, 22, 25, 28, 32mm",
+    "Extra thick robust steel shank",
+    "Chamfered outer cutting spurs",
+    "Precision ground central point",
+    "TSTAK™ compatible TOUGH CASE+"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-elite-series-carbide-sds-7pc-drill-bit-set.html|>
+## DEWALT Elite Series Carbide SDS+ 7pc Drill Bit Set
+
+{
+  "price": "€90.56 inc VAT (€73.63 exc.vat)",
+  "description": "The DeWalt Elite Series Carbide SDS+ 7pc Drill Bit Set is ideal for drilling holes in concrete. High speed blasting strengthens the bit to reduce the risk of breakage. The 4 cutter carbide head provides maximum performance. Sizes: 5-12mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Elite Series Carbide SDS+ 7pc Drill Bit Set",
+  "specifications": [
+    "Sizes: 5-12mm",
+    "4 cutter carbide head for maximum performance",
+    "Ideal for drilling holes in concrete",
+    "High speed blasting strengthens the bit to reduce breakage"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-extreme-2-metal-drill-bit-set-of-29-1---13mm.html|>
+## DEWALT Extreme 2 Metal Drill Bit Set of 29 1 - 13mm
+
+{
+  "price": "€131.55 inc VAT (€106.95 exc.vat)",
+  "description": "The DEWALT 29 Piece Extreme 2 Metal Drill Bit Set have a specially designed tip which starts on contact for clean, accurate holes and reduces lock up on breakthrough. They also have a tapered web which provides greater durability to reduce breaking. Size markings are located above the shank to prevent wearing away and the bits also incorporate a no spin shank that eliminates the frustration of the bit spinning in the chuck. Contains: Sizes: 1, 1.5, 2, 2.5, 3, 3.2, 3.3, 3.5, 4, 4.2, 4.5, 4.8, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5 and 13mm.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Extreme 2 Metal Drill Bit Set of 29 1 - 13mm",
+  "specifications": [
+    "Sizes: 1, 1.5, 2, 2.5, 3, 3.2, 3.3, 3.5, 4, 4.2, 4.5, 4.8, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5 and 13mm."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-extreme-2-sds-plus-drill-bit-set-4-piece-55-10mm.html|>
+## DEWALT Extreme 2 SDS Plus Drill Bit Set 4 Piece 5.5-10mm
+
+{
+  "price": "€24.69 inc VAT (€20.07 exc.vat)",
+  "description": "The DEWALT 4 Piece Extreme 2 SDS Plus Drill Bit Set with superior carbide grade for long life and greater durability, optimised flute design for efficient debris removal and hardened body for extra strength and reduced breakage. The tip design ensures better bit penetration, longer life, faster drilling and greater durability. Sizes: 5.5, 7, 8 and 10mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Extreme 2 SDS Plus Drill Bit Set 4 Piece 5.5-10mm",
+  "specifications": [
+    "Sizes: 5.5, 7, 8 and 10mm",
+    "Superior carbide grade for long life",
+    "Optimised flute design for efficient debris removal",
+    "Hardened body for extra strength and reduced breakage",
+    "Tip design for better penetration and faster drilling"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-extreme-masonry-drill-bits.html|>
+## DEWALT Extreme Masonry Drill Bits
+
+{
+  "price": "€4.00 inc VAT",
+  "description": "The DEWALT Extreme Masonry Drill Bits offer excellent quality for all types of masonry work. They last up to 2 times longer and deliver up to 50% more holes per charge on a cordless drill than a standard masonry bit. Optimum carbide grade maximises durability. A unique tip design provides an efficient drilling action and reduced walking for greater accuracy. Optimised milled flute offers fast drilling and the special copper brazing withstands high temperatures. Applications: Typically used for drilling anchors, plastic plugs, fixings or pipework clearance holes. Suitable for masonry, brick, stone, tiles and light concrete.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Extreme Masonry Drill Bits",
+  "specifications": [
+    "Sizes include overall length.",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-extreme-masonry-drillbits.html|>
+## DEWALT Extreme Masonry Drillbits
+
+{
+  "price": "€5.51 inc VAT",
+  "description": "The DEWALT innovative Extreme masonry bit offers excellent quality for all types of masonry work. The drill bits last up to twice as long and delivers up to 50% more holes per charge than a standard masonry bit providing cleaner, more accurate holes for improved fixing. The drill bits feature the following: Unique Carbide Grade - optimum grade maximises durability. Innovative Tip Design - unique design provides an efficient drilling action and reduced walking for greater accuracy. Optimised milled flute - for fast drilling and special copper brazing to withstand high temperatures. Applications: Typically used for drilling anchors, plastic plugs, fixings or pipework clearance holes. Suitable for masonry, brick, stone, tiles and light concrete.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Extreme Masonry Drillbits",
+  "specifications": [
+    "6.50 x 100mm Set of 5",
+    "Unique Carbide Grade for durability",
+    "Innovative Tip Design for accuracy",
+    "Optimised milled flute for fast drilling"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-extreme-step-drill-bit.html|>
+## DEWALT Extreme Step Drill Bit
+
+{
+  "price": "€42.36 inc VAT",
+  "description": "The DEWALT Extreme Step Drill Bit is produced for drilling and enlarging holes in metal. Suitable for construction steel, ferrous and non-ferrous metals, plastic, and thin walled materials up to 3mm. Optimized geometry helps to penetrate material faster, achieving precise drilling without walking. The titanium coating provides increased wear resistance, corrosion resistance and up to 2x life (vs black oxide).",
+  "availability": "In Stock",
+  "product_name": "DEWALT Extreme Step Drill Bit",
+  "specifications": [
+    "Available sizes: 14-25mm, 20-34mm, 6-12mm, 8-18mm",
+    "Titanium coating for increased wear resistance",
+    "Suitable for drilling in metal, plastic, and thin walled materials up to 3mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-extreme-tri-flute-bit-3-piece-set-152mm.html|>
+## DEWALT EXTREME® Tri Flute Bit 3 Piece Set 152mm
+
+{
+  "price": "€41.35 inc VAT (€33.62 exc.vat)",
+  "description": "The DeWalt EXTREME® Tri Flute Bit 3 Piece Set is designed with 3 cutting edges to allow for up to 6x faster cutting, combined with tri-flute design for optimum chip removal. The 3 cutting spurs allow for cleaner, faster holes and extended drilling life, The full screw tip allows the bit to self-feed for ease of use and pull through. The quick-change shank fits standard Quick-Change extensions and 1/4\" / 6mm hex bit adaptors and also prevents spinning. Sizes: 16, 20 & 25mm.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT EXTREME® Tri Flute Bit 3 Piece Set 152mm",
+  "specifications": [
+    "Sizes: 16, 20 & 25mm",
+    "3 cutting edges for up to 6x faster cutting",
+    "Tri-flute design for optimum chip removal",
+    "Full screw tip for self-feeding",
+    "Quick-change shank fits standard extensions"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-hss-g-jobber-drill-bits.html|>
+## DEWALT HSS G Jobber Drill Bits
+
+{
+  "price": "€3.30 inc VAT",
+  "description": "The DEWALT HSS G Jobber Drill Bit is a precision ground twist drill bit for rapid drilling, long life and excellent concentricity. It has been manufactured from High Speed Steel that conforms to DIN338. The drill bit is ground from solid stock and has a right hand cutting, type N flute with a precision ground end at 118° point angle.",
+  "availability": "In Stock",
+  "product_name": "DEWALT HSS G Jobber Drill Bits",
+  "specifications": [
+    "Precision ground twist drill bit",
+    "Manufactured from High Speed Steel",
+    "Conforms to DIN338",
+    "Right hand cutting, type N flute",
+    "Precision ground end at 118° point angle"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-hss-r-jobber-drill-bit-set.html|>
+## DEWALT HSS-R Jobber Drill Bit Set
+
+{
+  "price": "€17.06 inc VAT",
+  "description": "DEWALT HSS Jobber Drill Bits are a general purpose metal drill bit. Manufactured from High Speed Steel to DIN338, using a hot roll forging process, with a steam tempered black finish. They have a cylindrical ground right hand cutting helix and a 118° point angle.",
+  "availability": "In Stock",
+  "product_name": "DEWALT HSS-R Jobber Drill Bit Set",
+  "specifications": [
+    "13 Piece: 1.5-6.5mm",
+    "Manufactured from High Speed Steel to DIN338",
+    "Cylindrical ground right hand cutting helix",
+    "118° point angle"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-impact-multi-material-drill-bit.html|>
+## DEWALT Impact Multi Material Drill Bit
+
+{
+  "price": "€6.94 inc VAT",
+  "description": "DEWALT Impact Multi Material Drill Bits for use in impact drivers. Its Carbide head design allows faster drilling and longer durability. Suitable for wood, plastics, concrete, brick, light building materials, multi-layer materials and masonry.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Impact Multi Material Drill Bit",
+  "specifications": [
+    "5.0mm",
+    "5.5mm",
+    "6.0mm",
+    "8.0mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-masonry-drill-set-5-piece-4-10mm.html|>
+## DEWALT Masonry Drill Set 5 Piece 4-10mm
+
+{
+  "price": "€10.01 inc VAT (€8.14 exc.vat)",
+  "description": "The DEWALT 5 Piece Masonry Drill Bit Set with 130° Douglas Form carbide tips. They are ideal for drilling anchor, plastic, fixing or pipework clearance holes. Suitable for drilling masonry, brick/blockwork and stone. Sizes: 4, 5, 6, 8 and 10mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Masonry Drill Set 5 Piece 4-10mm",
+  "specifications": [
+    "Sizes: 4, 5, 6, 8 and 10mm",
+    "130° Douglas Form carbide tips",
+    "Ideal for drilling anchor, plastic, fixing or pipework clearance holes",
+    "Suitable for masonry, brick/blockwork and stone"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-metal-drill-sets.html|>
+## DEWALT Metal Drill Sets
+
+{
+  "price": "from €28.50 inc VAT",
+  "description": "These DEWALT metal drillbit sets contain drillbits suitable for portable or stationary drilling of steel, alloyed and non alloyed up to 900N/mm. They are particularly suited to drilling sheet or thin materials where accurate burr free holes are required and very effective when working with wood and plastic materials. The patented split pilot point design eliminates walking/slipping on contact.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Metal Drill Sets",
+  "specifications": [
+    "Set of 10",
+    "Set of 19",
+    "Set of 29"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-multi-material-drill-bits.html|>
+## DEWALT Multi Material Drill Bits
+
+{
+  "price": "from €3.85 inc VAT",
+  "description": "These DEWALT multi-material drill bits can be used in wood, masonry and metal and are ideal when drilling near to corners and edges. The drill bits have a fully supported carbide head which gives faster drilling and a non slip shank which ensures maximum retention in chuck. They can be used in rotary or percussion drilling modes.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Multi Material Drill Bits",
+  "specifications": [
+    "10.0mm OL:200mm WL:170mm",
+    "10mm x 134mm",
+    "12mm x 153mm",
+    "13mm x 160mm",
+    "3.5mm x 80mm",
+    "3mm x 80mm",
+    "4mm x 103mm",
+    "5mm x 113mm",
+    "6.0mm OL:200mm WL:170mm",
+    "6.5mm OL:200mm WL:170mm",
+    "6.5mm x 123mm",
+    "6mm x 123mm",
+    "7mm x 123mm",
+    "8.0mm OL:200mm WL:170mm",
+    "8mm x 134mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-pilot-bit-and-4-cutter-countersink.html|>
+## DEWALT Pilot Bit & 4 Cutter Countersink
+
+{
+  "price": "from €10.22 inc VAT",
+  "description": "The DEWALT four cutter countersink provides a clean, professional finish. They are ideal for drilling pilot holes and countersinking in one action and can be used on hard and soft wood, composite board and MDF.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Pilot Bit & 4 Cutter Countersink",
+  "specifications": [
+    "12 Pilot Bit & 4 Cutter Countersink option available"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-pilot-drill-bits.html|>
+## DEWALT Pilot Drill Bits
+
+{
+  "price": "€12.20 inc VAT",
+  "description": "The DEWALT Pilot Drill Bits for use with the 4 cutter countersinks. The split point tip starts drilling on contact. A flat on the shank prevents the drill bit slipping in the countersink. For use in hard and soft wood, composite board and MDF.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Pilot Drill Bits",
+  "specifications": [
+    "No 8 Pilot Drill Bits (3)"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/dewalt-power-tools-elite-sds-full-head-carbide-4-cutter-drill-bit.html|>
+## DeWALT Power Tools ELITE SDS+ Full Head Carbide 4 Cutter Drill Bit
+
+{
+  "price": "€50.54 inc VAT",
+  "description": "DEWALT ELITE SDS+ Full Head Carbide 4 Cutter Drill Bits are ideal for drilling holes into reinforced concrete. Designed to resist breakage when striking rebar. The tapered core increases strength and resists flute breaks. DEWALT ELITE SERIES™ Drill Bits are ideal for drilling holes in concrete, and the high speed blasting strengthens the bit to reduce the risk of breakage. The 4 cutter carbide head provides maximum performance.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Power Tools ELITE SDS+ Full Head Carbide 4 Cutter Drill Bit",
+  "specifications": [
+    "16 x 250mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-auger-bit.html|>
+## TALAtools Auger Bit
+
+{
+  "price": "€7.77 inc VAT",
+  "description": "Professional quality\nSuitable for a variety of drilling jobs\nFlute design for rapid chip removal",
+  "availability": "In Stock",
+  "product_name": "TALAtools Auger Bit",
+  "specifications": [
+    "Select Option: 10 x 235mm, 12 x 235mm, 13 x 235mm, 16 x 235mm, 19 x 235mm, 22 x 235mm, 25 x 235mm, 32 x 235mm, 6 x 235mm, 8 x 235mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-combination-drill-bit-set-19-piece.html|>
+## TALAtools Combination Drill Bit Set, 19 Piece
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Supplied in a display box for ease of use. Contains: 6 x 25mm Screwdriver Bits, 5 x Titanium Drill Bits, 4 x Masonry Drill Bits, 3 x Wood Drill Bits, 1 x Magnetic Bit Holder",
+  "availability": "In Stock",
+  "product_name": "TALAtools Combination Drill Bit Set, 19 Piece",
+  "specifications": [
+    "6 x 25mm Screwdriver Bits",
+    "5 x Titanium Drill Bits",
+    "4 x Masonry Drill Bits",
+    "3 x Wood Drill Bits",
+    "1 x Magnetic Bit Holder"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-combination-drill-bit-set-250-piece.html|>
+## TALAtools Combination Drill Bit Set, 250 Piece
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "Combination drill bit set supplied in a display box for ease of use. Contains: 6 x 25mm Screwdriver Bits, 6 x Titanium Drill Bits, 5 x Masonry Drill Bits, 4 x Wood Drill Bits, 1 x Magnetic Bit Holder, 60 x Assorted Wood Screws, 168 x Assorted Wall Plugs.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Combination Drill Bit Set, 250 Piece",
+  "specifications": [
+    "6 x 25mm Screwdriver Bits",
+    "6 x Titanium Drill Bits",
+    "5 x Masonry Drill Bits",
+    "4 x Wood Drill Bits",
+    "1 x Magnetic Bit Holder",
+    "60 x Assorted Wood Screws",
+    "168 x Assorted Wall Plugs"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-diamond-holesaw-tiling-set.html|>
+## TALAtools Diamond Holesaw Tiling Set
+
+{
+  "price": "€53.49 inc VAT (€43.49 exc.vat)",
+  "description": "Diamond Holesaw Tiling Set",
+  "availability": "Out of Stock",
+  "product_name": "TALAtools Diamond Holesaw Tiling Set",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-glass-drill-bit.html|>
+## TALAtools Glass Drill Bit
+
+{
+  "price": "€2.57 inc VAT",
+  "description": "High-quality carbide tip\nCarbon steel shank\nSuitable for drilling in glass and tiles",
+  "availability": "In Stock",
+  "product_name": "TALAtools Glass Drill Bit",
+  "specifications": [
+    "5mm, 6mm, 8mm options available"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-masonry-and-hss-drill-bit-set-14-piece.html|>
+## TALAtools Masonry & HSS Drill Bit Set, 14 Piece
+
+{
+  "price": "€12.37 inc VAT (€10.06 exc.vat)",
+  "description": "Supplied in display box for ease of use. Contains: 7 x Titanium Drill Bits, 7 x Masonry Drill Bits",
+  "availability": "In Stock",
+  "product_name": "TALAtools Masonry & HSS Drill Bit Set, 14 Piece",
+  "specifications": [
+    "14 Piece Set",
+    "Includes 7 Titanium Drill Bits",
+    "Includes 7 Masonry Drill Bits"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-pilotcountersink-bit.html|>
+## TALAtools Pilot/Countersink Bit
+
+{
+  "price": "€14.26 inc VAT",
+  "description": "Fast countersinking and counterboring in one operation. Drills clean pilot holes in wood, plastic and composition board. Available sizes: 10, 12, 15mm.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Pilot/Countersink Bit",
+  "specifications": [
+    "Available sizes: 10mm, 12mm, 15mm",
+    "Fast countersinking and counterboring in one operation",
+    "Drills clean pilot holes in wood, plastic and composition board"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-professional-diamond-tile-drill-bit.html|>
+## TALAtools Professional Diamond Tile Drill Bit
+
+{
+  "price": "€7.24 inc VAT",
+  "description": "Diamond grit edged bit\nSlotted bit design for easy waste removal\nSuitable for use with most power drills\nMust be used with a water-based cooling system\nFor use on porcelain, granite, stone, terracotta and ceramic",
+  "availability": "In Stock",
+  "product_name": "TALAtools Professional Diamond Tile Drill Bit",
+  "specifications": [
+    "Diamond grit edged bit",
+    "Slotted bit design for easy waste removal",
+    "Suitable for use with most power drills",
+    "Must be used with a water-based cooling system",
+    "For use on porcelain, granite, stone, terracotta and ceramic"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-professional-hss-countersink-12mm.html|>
+## TALAtools Professional HSS Countersink 12mm
+
+{
+  "price": "€16.62 inc VAT (€13.51 exc.vat)",
+  "description": "Professional quality\nMade from (HSS) high-speed steel\nFor flush fitting of screw heads",
+  "availability": "In Stock",
+  "product_name": "TALAtools Professional HSS Countersink 12mm",
+  "specifications": [
+    "Professional quality",
+    "Made from (HSS) high-speed steel",
+    "For flush fitting of screw heads"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/talatools-professional-plug-cutter.html|>
+## TALAtools Professional Plug Cutter
+
+{
+  "price": "€29.40 inc VAT",
+  "description": "Professional quality\n\nSnug plug cutters cut at a slightly tapered plug\nFlares out at a 3° angle\nFour cutting flutes",
+  "availability": "In Stock",
+  "product_name": "TALAtools Professional Plug Cutter",
+  "specifications": [
+    "10mm, 12mm, 15mm options available",
+    "Professional quality",
+    "Snug plug cutters cut at a slightly tapered plug",
+    "Flares out at a 3° angle",
+    "Four cutting flutes"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-flat-bits.html|>
+## Faithfull Flat Bits
+
+{
+  "price": "€4.95 inc VAT",
+  "description": "Faithfull Flat bits are designed to perform fast, clean cuts, will bore all types of timber and are equally efficient when drilling with or against the grain. All bits have a precision ground point and cutting surfaces with extended spurs for faster cutting with a bright finish for rust protection. All sizes except the 6mm have a non-slip hexagonal shank with a locking mechanism compatible with adapters or chucks with a built-in  ‘quick-release’ feature. A 300mm extension shank is available for use with flat bits of 16mm and above, for deep drill applications. Ideal for use with both mains or cordless drills. Made to DIN 3126 quality with 1/4in hexagonal non-slip shaft.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Flat Bits",
+  "specifications": [
+    "Available sizes: 10mm, 13mm, 14mm, 15 x 152mm, 16mm, 18mm, 19mm, 20mm, 22mm, 24mm, 30mm, 32mm, 35mm, 38mm x 152mm, 6mm, 8mm, Flat Bit 25mm x 152mm, Flat Bit 28mm x 152mm",
+    "Precision ground point and cutting surfaces",
+    "Extended spurs for faster cutting",
+    "Non-slip hexagonal shank with locking mechanism",
+    "Compatible with adapters or chucks with quick-release feature",
+    "300mm extension shank available for deep drill applications"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-multi-construction-drill-bit.html|>
+## Faithfull Multi Construction Drill Bit
+
+{
+  "price": "€3.60 inc VAT",
+  "description": "Faithfull Multi Construction Drill Bits are suitable for use in most materials encountered in the building industry. They can be used on brick, tile, concrete, metal, aluminium, wood and plastic, and are ideal for multi-layer materials. The diamond-ground carbide tip has advanced performance cutting edges for a long working life and the flute is designed for fast debris removal. Perfect for use in cordless drills when used on both rotary or hammer modes, dependent on the material being drilled (4mm bit rotary only).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Multi Construction Drill Bit",
+  "specifications": [
+    "Suitable for use in brick, tile, concrete, metal, aluminium, wood, and plastic",
+    "Diamond-ground carbide tip for long working life",
+    "Flute designed for fast debris removal",
+    "Compatible with cordless drills in rotary or hammer modes"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-multi-holesaw-set-of-7-26-63mm.html|>
+## Faithfull Multi Holesaw Set of 7 26-63mm
+
+{
+  "price": "€11.60 inc VAT (€9.43 exc.vat)",
+  "description": "The Faithfull 7 Piece Multi Holesaw Set designed specifically for cutting a range of different diameter holes, can cut holes up to 42mm in depth. The multi-holesaw set can be used on a wide variety of materials, including wood, chipboard, plywoods, non-laminated plastics, plasterboard and non-ferrous metals except stainless steel. Suitable for use with most power drills, the set is supplied complete with a pilot drill. Sizes: 26, 32, 38, 45, 50, 56 and 63mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Multi Holesaw Set of 7 26-63mm",
+  "specifications": [
+    "Sizes: 26, 32, 38, 45, 50, 56 and 63mm",
+    "Can cut holes up to 42mm in depth",
+    "Suitable for wood, chipboard, plywoods, non-laminated plastics, plasterboard, and non-ferrous metals except stainless steel",
+    "Compatible with most power drills"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plug-cutters.html|>
+## Faithfull Plug Cutters
+
+{
+  "price": "€6.53 inc VAT",
+  "description": "Used in combination with screwsinks to prepare perfectly sized plugs to fill counterbored holes. For best performance power drill should be held in a stand. For a perfect grain match use an offcut from the timber being plugged. To ensure an accurate fit we suggest you use the same screwsink from the Faithfull brand. The set of 4 contains sizes No 6, 8, 10 and 12.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plug Cutters",
+  "specifications": [
+    "Sizes: No 6, 8, 10, 12",
+    "Used with screwsinks",
+    "Best performance with power drill in a stand",
+    "Perfect grain match with timber offcut"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-professional-cobalt-jobber-drill-bit-pre-packed.html|>
+## Faithfull Professional Cobalt Jobber Drill Bit Pre Packed
+
+{
+  "price": "€2.18 inc VAT",
+  "description": "These Faithfull Professional Cobalt Jobber Drill Bits are manufactured from M35 HSSE grade steel with a 5% cobalt content for increased heat resistance and cutting performance. All bits are fully ground and feature a 135° non slip split point for precise centring and are produced in accordance to DIN 388 for high precision tolerances and geometric accuracy. Cobalt bits cut faster and last longer and are suitable for heavy duty industrial work in: Alloy steels, carbon steels, cast iron, hardened alloy steels, stainless steels, high temperature alloys, Titanium alloy, high strength steel and carbon fibre composite materials.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Professional Cobalt Jobber Drill Bit Pre Packed",
+  "specifications": [
+    "Manufactured from M35 HSSE grade steel",
+    "5% cobalt content for increased heat resistance",
+    "135° non slip split point for precise centring",
+    "Produced in accordance to DIN 388 for high precision tolerances",
+    "Suitable for heavy duty industrial work in various materials"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-screwsinks.html|>
+## Faithfull Screwsinks
+
+{
+  "price": "€5.49 inc VAT",
+  "description": "These Faithfull Screwsinks can be used for drilling, countersinking and counter-boring in one operation. The countersinking part can be slid up and down the drill part of the tool by means of a hexagon key to suit the depth of hole being drilled. To ensure an accurate fit, it is suggested that the corresponding plug cutter is used from the Faithfull range. Each screwsink is supplied with a hexagon key.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Screwsinks",
+  "specifications": [
+    "Available sizes: no.10, no.12, No.6, No.8, Pilot Drill Set of 4, Screwsink Set of 4",
+    "Includes hexagon key for depth adjustment"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-sds-max-drill-bits.html|>
+## Faithfull SDS Max Drill Bits
+
+{
+  "price": "from €31.02 inc VAT",
+  "description": "The Faithfull SDS Max drills have a specially designed shank which enables them to fit into any machine with an SDS Max Chuck. These are generally large and powerful machines and the special SDS Max drill design ensures there is no slippage. All drill bits have a special L shaped flute profile for increased dust extraction and are also ideal for concrete and brick.",
+  "availability": "In Stock",
+  "product_name": "Faithfull SDS Max Drill Bits",
+  "specifications": [
+    "Available sizes: 14mm x 340 mm, 14mm x 540mm, 16mm x 340mm, 18mm x 340mm, 18mm x 540 mm, 20mm x 320mm, 20mm x 520mm, 22mm x 520mm, 25mm x 520mm, 28mm x 520mm, 30mm x 520mm, SDS Max Drill Bit 12mm x 340mm, SDS Max Drill Bit 32mm x 520mm",
+    "Special L shaped flute profile for increased dust extraction",
+    "Ideal for concrete and brick"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-sds-plus-chisel-set-3-piece.html|>
+## Faithfull SDS Plus Chisel Set, 3 Piece
+
+{
+  "price": "€13.76 inc VAT (€11.19 exc.vat)",
+  "description": "This Faithfull SDS Plus Chisel 3 Piece Set made for demolition and break-through tasks in concrete and masonry. Fast, tool-free chisel changing thanks to the SDS-plus system saving time and effort. Made from high quality heat treated alloy steel. Suitable for use with lightweight rotary and impact hammers with SDS-plus sockets from all power tool brands. This 3 piece set contains: 1 x Flat Chisel for concrete as well as demolition and break-through tasks in masonry. Width: 20mm. Depth: 14mm. Length: 250mm. 1 x Spade Chisel for removing plaster and lightweight demolition tasks in masonry, and breaking and loosening soil, screed and bitumen. Width: 40mm. Depth: 14mm. Length: 250mm. 1 x Pointed Chisel for demolition and corrective tasks in concrete and break-throughs in masonry. Width: 14mm. Length: 250mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull SDS Plus Chisel Set, 3 Piece",
+  "specifications": [
+    "1 x Flat Chisel: Width 20mm, Depth 14mm, Length 250mm",
+    "1 x Spade Chisel: Width 40mm, Depth 14mm, Length 250mm",
+    "1 x Pointed Chisel: Width 14mm, Length 250mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-sds-plus-drill-bit-sets.html|>
+## Faithfull SDS Plus Drill Bit Sets
+
+{
+  "price": "€14.99 inc VAT",
+  "description": "SDS Plus, ensures maximum power transmission due to its unique fluted shaft. This effectively removes situations where a perfectly serviceable cutting edge is rendered useless by a worn shank. The SDS Plus system also enables faster changing of drills using a quick release keyless chuck. Heavy-Duty. Tungsten Carbide tip.",
+  "availability": "In Stock",
+  "product_name": "Faithfull SDS Plus Drill Bit Sets",
+  "specifications": [
+    "11 Piece 5-20mm",
+    "4 Piece 5.5-8mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-sds-plus-drills.html|>
+## Faithfull SDS Plus Drills
+
+{
+  "price": "€3.11 inc VAT",
+  "description": "These high performance Faithfull Tungsten Carbide tipped drill bits fit into 'SDS Plus' chucks which provide a particularly secure non-slip grip that transmits maximum power for rotary percussion drilling, mainly into concrete. The SDS Plus bits ensure maximum power transmission due to their unique fluted shaft. This effectively removes situations where a perfectly serviceable cutting edge is rendered useless by a worn shank. The SDS Plus system also enables faster changing of drills using a quick release keyless chuck. The drill bits are suitable for use in bricks, blocks, concrete containing aggregates, marble and hard stone and other hard masonry materials.",
+  "availability": "In Stock",
+  "product_name": "Faithfull SDS Plus Drills",
+  "specifications": [
+    "High performance Tungsten Carbide tipped drill bits",
+    "Fits into 'SDS Plus' chucks",
+    "Secure non-slip grip",
+    "Maximum power transmission",
+    "Suitable for bricks, blocks, concrete, marble, and hard stone"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soffit-cutter-holesaw-70mm-one-piece.html|>
+## Faithfull Soffit Cutter Holesaw 70mm One Piece
+
+{
+  "price": "€24.38 inc VAT (€19.82 exc.vat)",
+  "description": "The Faithfull FAIHS70SOFIT Soffit Cutter Holesaw is a specially designed High Speed Steel variable pitch holesaw fitted with an integral arbor and replaceable pilot drill. Designed for cutting holes to fit the most popular sized 70mm soffit vents.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soffit Cutter Holesaw 70mm One Piece",
+  "specifications": [
+    "Size: 70mm",
+    "Uses: metal, wood, and plastic."
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-standard-masonry-drill-sets.html|>
+## Faithfull Standard Masonry Drill Sets
+
+{
+  "price": "€11.98 inc VAT",
+  "description": "Faithfull standard masonry bits are for use in chucks up to 13mm capacity and suitable for general purpose drilling including bricks, blocks and cement render when used in an impact or percussion drill. Roll formed and treated body with a heavy-duty Tungsten Carbide tip and fast spiral for quick waste removal.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Standard Masonry Drill Sets",
+  "specifications": [
+    "Set of 5: 5, 5.5, 6, 6.5 and 7mm",
+    "Set of 8: 4, 5, 5.5, 6, 6.5, 7, 8 and 10mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-stubby-combination-wood-auger-bit-set-6-piece-10-25mm.html|>
+## Faithfull Stubby Combination Wood Auger Bit Set 6 Piece 10-25mm
+
+{
+  "price": "€51.20 inc VAT (€41.63 exc.vat)",
+  "description": "The Faithfull 6 Piece Stubby Combination Wood Auger Bit Set has been designed for use in confined spaces, such as between joists. Can be used in a power drill or hand brace. Supplied in a rugged aluminium case. Sizes: 10mm, 13mm, 16mm, 19mm, 22mm, 25mm. Overall Length: 120mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Stubby Combination Wood Auger Bit Set 6 Piece 10-25mm",
+  "specifications": [
+    "Sizes: 10mm, 13mm, 16mm, 19mm, 22mm, 25mm",
+    "Overall Length: 120mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-taper-wedge-masonry-drill-200mm.html|>
+## Faithfull Taper Wedge Masonry Drill 200mm
+
+{
+  "price": "€14.72 inc VAT (€11.97 exc.vat)",
+  "description": "A Taper Wedge Masonry Drill Bit for use with Faithfull and other makes of dry Diamond core bit systems, requiring the use of an 'A' taper pilot drill bit. Length: 200mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Taper Wedge Masonry Drill 200mm",
+  "specifications": [
+    "Length: 200mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tct-hinge-boring-bits.html|>
+## Faithfull TCT Hinge Boring Bits
+
+{
+  "price": "€26.08 inc VAT",
+  "description": "The Faithfull Hinge Boring Bit with a Tungsten Carbide cutter is designed for repetitive drilling of blind holes when fitting concealed (blum) hinges in kitchen, bedroom and bathroom cabinet doors. They are suitable for use on all natural woods and man-made materials such as blockboard, melamine faced boards, chipboard and MDF and provide a long working life. These bits should always be used with a stand-mounted drill.",
+  "availability": "In Stock",
+  "product_name": "Faithfull TCT Hinge Boring Bits",
+  "specifications": [
+    "Solid carbide tipped centre point",
+    "Solid carbide main cutter",
+    "Relief angle to reduce drag",
+    "5/16in - 8 mm shank"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tile-and-glass-drill-bit-set-of-4-3-6mm.html|>
+## Faithfull Tile & Glass Drill Bit Set of 4 (3-6mm)
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Faithfull FAIGDSET4 is for drilling glass windows, mirrors, bottles and ceramics - for use in variable speed drills only. These drillbits have extremely hard tungsten carbide spear tips and should be used at low speeds whilst applying light pressure only. Note: Lubricate with water for best results. The Faithfull FAIGDSET4 is a set of 4 glass drills in a plastic case and comes in the following sizes: 3, 4, 5 and 6mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tile & Glass Drill Bit Set of 4 (3-6mm)",
+  "specifications": [
+    "Set of 4 drill bits",
+    "Sizes: 3mm, 4mm, 5mm, 6mm",
+    "Tungsten carbide spear tips",
+    "For use in variable speed drills",
+    "Lubricate with water for best results"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tile-and-glass-drillbits.html|>
+## Faithfull Tile & Glass Drillbits
+
+{
+  "price": "from €5.20 inc VAT",
+  "description": "These Faithfull Tile & Glass Drill Bits have extremely hard tungsten carbide spear tips and should be used at low speeds whilst applying light pressure only. They are ideal for drilling glass windows, mirrors, bottles and ceramics. Lubricate with water for best results. For use in variable speed drills only.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tile & Glass Drillbits",
+  "specifications": [
+    "Available sizes: 3mm, 4mm, 5mm, 6mm, 7mm, 8mm, 10mm",
+    "Ideal for drilling glass, mirrors, bottles, and ceramics",
+    "Requires lubrication with water for best results",
+    "For use in variable speed drills only"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tile-max-porcelain-drill-bits.html|>
+## Faithfull Tile Max Porcelain Drill Bits
+
+{
+  "price": "from €8.03 inc VAT",
+  "description": "The Faithfull tile max drill bits have a newly designed and unique P95 precision tip which has been diamond ground from the best quality tungsten. This enables the user to drill through a wide range of materials such as: PEl 5 class porcelain, ceramics, fine stoneware, marble, concrete, engineering brick and even granite. In addition, due to the tips unique self renewing design, after frequent use on the hardest materials, the tile drill can then be used on softer substrates. The asymmetric drill design reduces resistance by 25%, ensuring that there is no wandering on start of drilling. There is also less chance of cracking or chipping (dependent on tile type) which leads to a perfectly formed round hole. The low stress, high temperature brazing method used to attach the tip to the shank ensures that it remains attached under the most extreme drilling conditions. The ingenious triangular shaped shank guarantees no slip rotation in the drill chuck and the deep and wide fluting is able to cope with the maximum amount of spoil removal.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tile Max Porcelain Drill Bits",
+  "specifications": [
+    "10 x 120mm",
+    "5 x 85mm",
+    "5.5 x 100mm",
+    "6 x 100mm",
+    "6.5 x 100mm",
+    "7 x 100mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tri-point-speed-auger-bit.html|>
+## Faithfull Tri-Point Speed Auger Bit
+
+{
+  "price": "€9.30 inc VAT",
+  "description": "Faithfull Tri-Point Speed Auger Bits will drill fast and clean holes in all types of wood. The three spurs and cutting edges create perfectly round holes with less chance of binding in the workpiece. Three flutes offer efficient waste removal making them much faster than traditional bits. A self-feeding screw tip enables accurate centring and pulls the bit through the wood. Precision machined from high-quality carbon steel with ground and honed cutting edges. The quick-release 1/4in hex shank is impact rated for use in impact drivers as well as all other corded and cordless drills.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tri-Point Speed Auger Bit",
+  "specifications": [
+    "Overall Length: 159mm"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-tri-point-speed-auger-bit-stubby.html|>
+## Faithfull Tri-Point Speed Auger Bit, Stubby
+
+{
+  "price": "from €8.83 inc VAT",
+  "description": "Faithfull Tri-Point Speed Auger Bits will drill fast and clean holes in all types of wood. The three spurs and cutting edges create perfectly round holes with less chance of binding in the workpiece. Three flutes offer efficient waste removal making them much faster than traditional bits. A self-feeding screw tip enables accurate centring and pulls the bit through the wood. Precision machined from high quality carbon steel with ground and honed cutting edges. The quick release 1/4in hex shank is impact rated for use in impact drivers as well as all other corded and cordless drills. These stubby drill bits are 102mm (4in) long making them ideal for drilling through joists or in enclosed areas.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tri-Point Speed Auger Bit, Stubby",
+  "specifications": [
+    "Available Sizes: 16mm, 20mm, 22mm, 25mm",
+    "Length: 102mm (4in)",
+    "Material: High quality carbon steel",
+    "Hex shank: 1/4in, impact rated"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-universal-quick-release-holesaw-arbor-set.html|>
+## Faithfull Universal Quick Release Holesaw Arbor Set
+
+{
+  "price": "€23.67 inc VAT (€19.24 exc.vat)",
+  "description": "The Faithfull Universal Quick Release Arbor Set is an efficient way to attach and remove holesaws quickly and securely. Simply attach the locking nut to any brand of holesaw and use it with conjunction with the Quick Release Arbor. The quick-release arbor is made with heavy-duty materials and a spring-loaded mechanism enabling you to attach the holesaw with a simple push and twist. This easy fitment system eliminates the need for extra tools or time-consuming screwing and unscrewing. The set also comes with two locking nuts for the most common holesaws sizes (14-30mm and 32-100mm).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Universal Quick Release Holesaw Arbor Set",
+  "specifications": [
+    "Set includes: 1 x Universal Quick Release Arbor, 1 x Pilot Drill, 1 x Locking Nut 1- 14-30mm, 1 x Locking Nut 2- 32-210mm",
+    "Quick-release mechanism for easy attachment and removal",
+    "Compatible with any brand of holesaw"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-universal-varipitch-holesaw-electricians-kit-9-piece-16-51mm.html|>
+## Faithfull Universal Varipitch Holesaw Electricians Kit 9 Piece 16-51mm
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "The Faitfull 9 Piece Varipitch Universal Holesaw Electricians Kit manufactured from a bi-metal material with hardened teeth made from high speed steel and a variable tooth pitch for fast smooth cutting. They are ideal for use on a wide variety of materials including wood, chipboard, plywoods, plasterboard, non-laminated plastics, and non-ferrous metals. Suitable for use in most variable speed power drills. Supplied in a sturdy aluminium case, contains: 6 x Varipitch Holesaws: 16, 20, 25, 32, 40 and 51mm. 1 x 3/8in Hexagon Arbor for Holesaws 14-30mm. 1 x 7/16in Hexagon Arbor for Holesaws 32-152mm. 1 x Arbor Adaptor.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Universal Varipitch Holesaw Electricians Kit 9 Piece 16-51mm",
+  "specifications": [
+    "9 Piece Kit",
+    "Holesaw Sizes: 16, 20, 25, 32, 40, 51mm",
+    "Material: Bi-metal with hardened teeth",
+    "Suitable for wood, chipboard, plywood, plasterboard, non-laminated plastics, and non-ferrous metals",
+    "Includes 3/8in and 7/16in Hexagon Arbors",
+    "Supplied in a sturdy aluminium case"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-universal-varipitch-holesaw-kit-16-piece-16-76mm.html|>
+## Faithfull Universal Varipitch Holesaw Kit 16 Piece 16-76mm
+
+{
+  "price": "€137.67 inc VAT",
+  "description": "The Faithfull 16 Piece Varipitch Universal Holesaw Kit manufactured from a bi-metal material with hardened teeth made from high speed steel and a variable tooth pitch for fast smooth cutting. They are ideal for use on a wide variety of materials including wood, chipboard, plywoods, plasterboard, non-laminated plastics, and non-ferrous metals. Suitable for use in most variable speed power drills. Supplied in a sturdy aluminium case, contains: 12 x Varipitch Holesaws: 16, 20, 22, 25, 32, 35, 38, 44, 51, 64, 70, and 76mm. 1 x 3/8in Arbor (14-30mm). 1 x 7/16in arbor (32-152mm). 1 x Arbor Adaptor. 1 x 300mm Extension Bar. 1 x Aluminium Case.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Universal Varipitch Holesaw Kit 16 Piece 16-76mm",
+  "specifications": [
+    "12 x Varipitch Holesaws: 16, 20, 22, 25, 32, 35, 38, 44, 51, 64, 70, and 76mm",
+    "1 x 3/8in Arbor (14-30mm)",
+    "1 x 7/16in arbor (32-152mm)",
+    "1 x Arbor Adaptor",
+    "1 x 300mm Extension Bar",
+    "1 x Aluminium Case"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+
+<|https://www.mydiy.ie/products/faithfull-universal-varipitch-holesaw-plumbers-kit-9-piece-19-57mm.html|>
+## Faithfull Universal Varipitch Holesaw Plumbers Kit 9 Piece 19-57mm
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "This 9 Piece Varipitch Universal Holesaw Plumbers Kit, an indispensable toolset for any plumber's arsenal. Crafted from bi-metal material, these holesaws boast hardened teeth made from high-speed steel and feature a variable tooth pitch for swift, seamless cutting. Designed to tackle a diverse array of materials including wood, chipboard, plywoods, plasterboard, non-laminated plastics, and non-ferrous metals, these holesaws are compatible with most variable speed power drills, ensuring versatility and efficiency on the job. Housed in a robust aluminum case, the kit includes: 6 x Varipitch Holesaws: 19mm, 22mm, 29mm, 38mm, 44mm, and 57mm. 1 x 3/8in Hexagon Arbor for Holesaws ranging from 14mm to 30mm. 1 x 7/16in Hexagon Arbor for Holesaws ranging from 32mm to 152mm. 1 x Arbor Adaptor. 1 x Aluminum Case. This comprehensive kit offers reliability, durability, and convenience, empowering plumbers to tackle a wide range of tasks with precision and ease. Whether cutting through wood, plastics, or metals, the Varipitch Universal Holesaw Plumbers Kit delivers exceptional performance, making it an essential companion for professionals and DIY enthusiasts alike.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Universal Varipitch Holesaw Plumbers Kit 9 Piece 19-57mm",
+  "specifications": [
+    "9 Piece Kit",
+    "Holesaw Sizes: 19mm, 22mm, 29mm, 38mm, 44mm, 57mm",
+    "Material: Bi-metal",
+    "Includes 3/8in and 7/16in Hexagon Arbors",
+    "Aluminum Case Included"
+  ],
+  "product_category": "Drill Bits & Holesaws"
+}
+

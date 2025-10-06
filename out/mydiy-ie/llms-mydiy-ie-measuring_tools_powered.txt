@@ -1,0 +1,75 @@
+<|https://www.mydiy.ie/products/bosch-gcl-2-15-professional-combi-laser--rotating-mount.html|>
+## Bosch GCL 2-15 Professional Combi Laser + Rotating Mount
+
+{
+  "price": "€180.45 inc VAT (€146.71 exc.vat)",
+  "description": "The Bosch GCL 2-15 Professional Combi Laser is suitable for short-distance levelling applications. By projecting both horizontal and vertical laser lines and two centred plumb points, this combi laser supports completing levelling tasks quickly. Its plumb points make precise transfer applications easy and convenient. Aligning the laser lines around the plumb points is simple thanks to the RM 1 Professional Rotating Mount. Suitable for various applications, such as mounting shelves and windows, installing drainage pipes, and laying floors. It also offers point transfers for light mountings. Robust thanks to IP54 dust and splash water protection. When switching off the tool, the pendulum’s lock-mechanism allows for safe transportation.",
+  "availability": "In Stock",
+  "product_name": "Bosch GCL 2-15 Professional Combi Laser + Rotating Mount",
+  "specifications": [
+    "Accuracy: ± 0.3mm/m",
+    "Max. Working Range of Laser Points: 10m",
+    "Plumb Point Accuracy: ±0.7 mm/m",
+    "Self-levelling Range: ±4°",
+    "Working Range: 15m",
+    "Laser Diode: 630 – 650 nm, < 1mW",
+    "Laser Class: 2",
+    "Levelling Time: 4 Seconds",
+    "Power Supply: 3 x AA 1.5V LR6 Batteries (supplied)",
+    "Operating Temperature: -10-50°C",
+    "Storage Temperature: -20-70°C",
+    "Dust and Splash Protection: IP54",
+    "Tripod Thread: 1/4in, 5/8in",
+    "Weight: 0.49kg"
+  ],
+  "product_category": "Measuring Tools (Powered)"
+}
+
+<|https://www.mydiy.ie/products/bosch-gll-2-15-g-professional-line-laser--universal-mount-and-tripod.html|>
+## Bosch GLL 2-15 G Professional Line Laser + Universal Mount & Tripod
+
+{
+  "price": "€260.11 inc VAT (€211.47 exc.vat)",
+  "description": "The Bosch GLL 2-15 G Professional Line Laser is the simple way to achieve accurate results. A ON/OFF switch and one-button keypad make for ease of use. Vertical and horizontal green laser lines increase visibility in brighter environments. The durable design incorporates a rubberised housing for better protection of the recessed glasses. It's also dust and splash proof to IP64. This line laser is the perfect choice for applications with short working ranges, such as installing suspended drop ceilings, hanging shelves, laying drainage pipes, and aligning lights.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLL 2-15 G Professional Line Laser + Universal Mount & Tripod",
+  "specifications": [
+    "Accuracy: ± 0.3 mm/m",
+    "Self-levelling Range: ±4°",
+    "Working Range: 15m",
+    "Levelling Time: 4 Seconds",
+    "Power Supply: 4 x AA 1.5V LR6 Batteries (supplied)",
+    "Operating Temperature: -10-50°C",
+    "Storage Temperature: -20-70°C",
+    "Dust and Splash Protection: IP64",
+    "Tripod Thread: 1/4in",
+    "Weight: 0.57kg"
+  ],
+  "product_category": "Measuring Tools (Powered)"
+}
+
+
+
+<|https://www.mydiy.ie/products/bosch-gll-2-10-professional-line-laser.html|>
+## Bosch GLL 2-10 Professional Line Laser
+
+{
+  "price": "€112.84 inc VAT (€91.74 exc.vat)",
+  "description": "The Bosch GLL 2-10 Professional Line Laser projects horizontal and vertical laser lines, ideal for short-range applications. Its compact design and intuitive operation allow for easy handling. Robust thanks to IP54 dust and splash water protection. Supplied with: 3 x AA 1.5V LR6 Batteries. 1 x Protective Bag.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch GLL 2-10 Professional Line Laser",
+  "specifications": [
+    "Accuracy: ± 0.3 mm/m",
+    "Self-levelling Range: ±4°",
+    "Working Range: 10m",
+    "Levelling Time: 4 Seconds",
+    "Power Supply: 3 x AA 1.5V LR6 Batteries (supplied)",
+    "Operating Temperature: -10-50°C",
+    "Storage Temperature: -20-70°C",
+    "Dust and Splash Protection: IP54",
+    "Tripod Thread: 1/4in, 5/8in",
+    "Weight: 0.49kg"
+  ],
+  "product_category": "Measuring Tools (Powered)"
+}
+

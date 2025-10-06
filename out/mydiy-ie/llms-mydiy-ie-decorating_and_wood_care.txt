@@ -1,0 +1,1803 @@
+<|https://www.mydiy.ie/products/1ltr-rocktop-multi-surface-clearcoat-gloss.html|>
+## 1Ltr. Rocktop Multi-Surface Clearcoat Gloss
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "Rocktop Multi-Surface Clearcoat is a brush applied extremely durable waterbased clear lacquer that can be applied to a multitude of surfaces. These include high traffic domestic wooden floors, wooden doors, panelling, skirting, worktops, furniture. It can be used to overcoat all waterbased paints and is also used to seal bare stone walls and wallpaper. Recoatable after 2 hours Rocktop will cover 10-12m2/L/coat. A minimum of 2 coats are always recommended but for a domestic floor we would advise four.",
+  "availability": "In Stock",
+  "product_name": "1Ltr. Rocktop Multi-Surface Clearcoat Gloss",
+  "specifications": [
+    "1Ltr capacity",
+    "Water-based clear lacquer",
+    "Durable and suitable for high traffic areas",
+    "Recoatable after 2 hours",
+    "Covers 10-12m2/L/coat",
+    "Recommended minimum of 2 coats"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/bartoline-bartoline-boiled-linseed-oil-500-ml.html|>
+## Bartoline BARTOLINE BOILED LINSEED OIL 500 ML
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "Bartoline Boiled Linseed Oil is a high-quality, fast-drying wood treatment oil designed to enhance, protect, and nourish bare wood surfaces. This 500ml bottle contains specially treated linseed oil that penetrates deep into the wood grain, providing a durable and water-resistant finish. Unlike raw linseed oil, the boiled version dries faster, making it ideal for both interior and exterior woodwork.",
+  "availability": "In Stock",
+  "product_name": "Bartoline BARTOLINE BOILED LINSEED OIL 500 ML",
+  "specifications": [
+    "Enhances the natural beauty of wood",
+    "Provides a protective, water-resistant finish",
+    "Fast-drying compared to raw linseed oil",
+    "Ideal for interior and exterior wood surfaces",
+    "Easy to apply with a brush or cloth",
+    "Commonly used for treating cricket bats to maintain flexibility and durability."
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-3-gallon-14-litre-bucket---black.html|>
+## Faithfull 3 Gallon 14 Litre Bucket - Black
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Faithfull general purpose bucket with hundreds of uses around the worksite, home and garden. Fitted with a strong wire handle and plastic carry grip. Standard-duty black builders bucket manufactured using recycled materials. Graduated markings in gallons and litres.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 3 Gallon 14 Litre Bucket - Black",
+  "specifications": [
+    "3 Gallon capacity",
+    "14 Litre capacity",
+    "Made from recycled materials",
+    "Strong wire handle",
+    "Plastic carry grip",
+    "Graduated markings in gallons and litres"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-3-gallon-14-litre-bucket---yellow.html|>
+## Faithfull 3 Gallon 14 litre Bucket - Yellow
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Faithfull heavy-duty yellow bucket with reinforced base for extra durability. Hundreds of uses around the worksite, home and garden. Each bucket is fitted with a strong wire handle and plastic carry grip. Graduated markings in gallons and litres.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 3 Gallon 14 litre Bucket - Yellow",
+  "specifications": [
+    "3 Gallon capacity",
+    "14 litre capacity",
+    "Heavy-duty construction",
+    "Reinforced base for extra durability",
+    "Strong wire handle with plastic carry grip",
+    "Graduated markings in gallons and litres"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-5-gallon-25-litre-bucket---white.html|>
+## Faithfull 5 Gallon 25 litre Bucket - White
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "The Faithfull FAI5GBUCKET general purpose bucket has hundreds of uses around the worksite, home and garden. Each bucket has graduated markings in gallons and litres and is fitted with a strong wire handle and plastic carry grip. The Faithfull FAI5GBUCKET is a heavy-duty bucket which can also be used for mixing plaster, artex and fillers.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 5 Gallon 25 litre Bucket - White",
+  "specifications": [
+    "Colour: White",
+    "Capacity: 5 Gallon / 25 litre"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-builders-bucket-50-litre-10-gallon---white.html|>
+## Faithfull Builder's Bucket 50 litre (10 gallon) - White
+
+{
+  "price": "€25.94 inc VAT (€21.09 exc.vat)",
+  "description": "The Faithfull Builder's Bucket has hundreds of uses around the worksite, home and garden. With its strong construction and high sides, it is ideally suited for use with power tools using mixing paddles when mixing plaster, Artex and fillers. Made in the UK.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Builder's Bucket 50 litre (10 gallon) - White",
+  "specifications": [
+    "Capacity: 50 litre (10 gallon)",
+    "Internal Diameter (approx.): Bottom 320mm, Top 390mm",
+    "Internal Height: 470mm",
+    "Colour: White"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-carpet-protector-600mm-x-25m.html|>
+## Faithfull Carpet Protector 600mm x 25m
+
+{
+  "price": "€21.70 inc VAT (€17.64 exc.vat)",
+  "description": "The Faithfull low tack, adhesive carpet protector film, made of tough polythene and designed to protect carpets without creating a trip hazard. It must be renewed every four weeks (not suitable for thick pile carpets). It provides protection against decorating spills, high foot traffic when moving house and is suitable for stair carpets. Simple and fast installation and removal. Size: 600mm x 25m Roll.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Carpet Protector 600mm x 25m",
+  "specifications": [
+    "Size: 600mm x 25m Roll",
+    "Low tack adhesive",
+    "Made of tough polythene",
+    "Renew every four weeks",
+    "Suitable for stair carpets"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-cellulose-sponge.html|>
+## Faithfull Cellulose Sponge
+
+{
+  "price": "€9.09 inc VAT (€7.39 exc.vat)",
+  "description": "The Faithfull Cellulose Sponge is soft and absorbent. It is perfect for general household cleaning, clearing everyday spills, cleaning the car and many decorating and tiling applications. Pure Cellulose sponges are made from wood fibres and, although man-made, they are far more 'Green' than plastic ones since they biodegrade in landfills and the manufacturing process is far less toxic than plastic products. To be biodegradable, the sponge must be 100 per cent cellulose with no polyester filling. Size: 185 x 105 x 45mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Cellulose Sponge",
+  "specifications": [
+    "Size: 185 x 105 x 45mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-ceramic-tile-markers-black-and-red.html|>
+## Faithfull Ceramic Tile Markers (Black & Red)
+
+{
+  "price": "€3.16 inc VAT (€2.57 exc.vat)",
+  "description": "These Faithfull Tile Markers are suitable for marking ceramic surfaces prior to cutting and shaping. May also be used on glass, plastic and metal surfaces. The line can be easily rubbed off after use. The markers' easy-peel action means that no sharpening is required. However, these markers can be sharpened with a knife if a fine edge is required. WARNING: Always test the marker first on a spare tile as permanent marking may occur on certain natural or unglazed materials i.e. stone and porcelain. The pack contains one red and one black marker.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Ceramic Tile Markers (Black & Red)",
+  "specifications": [
+    "Pack contains one red and one black marker",
+    "Suitable for marking ceramic, glass, plastic, and metal surfaces",
+    "Easy-peel action, no sharpening required",
+    "Can be sharpened with a knife for a fine edge",
+    "Warning: Test on a spare tile first"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-combination-spreader.html|>
+## Faithfull Combination Spreader
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "This Faithfull Combination Spreader has a convenient dual purpose design. The notched edge allows fast adhesive application and the squeegee edge enables rapid grouting. Width: 125mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Combination Spreader",
+  "specifications": [
+    "Width: 125mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-contract-paint-brushes.html|>
+## Faithfull Contract Paint Brushes
+
+{
+  "price": "from €2.90 inc VAT",
+  "description": "A mix of synthetic and top quality pure natural bristle with a long bristle length and a wooden 'Beavertail' style handle, give these Faithfull Paint Brushes perfect balance and make them ideal for use by tradesmen or by the discerning home user. These brushes will provide a high quality finish with all paints. Faithfull paintbrushes are manufactured to the highest standard using the very best materials. The bristles are bonded using top quality resin to avoid any shedding. All the handles are made from natural wood from renewable sources. The stainless steel ferrules are rustproof.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Contract Paint Brushes",
+  "specifications": [
+    "Available sizes: 100mm (4in), 13mm (1/2in), 19mm (3/4in), 25mm (1in), 38mm (1.1/2in), 50mm (2in), 65mm (2.1/2in), 75mm (3in)",
+    "Made from a mix of synthetic and natural bristle",
+    "Wooden 'Beavertail' style handle",
+    "High quality finish with all paints",
+    "Rustproof stainless steel ferrules"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-cotton-twill-dust-sheets.html|>
+## Faithfull Cotton Twill Dust Sheets
+
+{
+  "price": "€17.99 inc VAT",
+  "description": "The Faithfull Dust Sheets are professional quality dust sheets for domestic use made from 100% cotton twill for long life. Absorbs paint splashes and is machine washable at low temperatures. Size: 3.5 x 2.6m (12 x 9ft approx).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Cotton Twill Dust Sheets",
+  "specifications": [
+    "Size: 3.5 x 2.6m (12 x 9ft approx)",
+    "Material: 100% cotton twill",
+    "Machine washable at low temperatures",
+    "Absorbs paint splashes"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-cotton-twill-polythene-backed-dust-sheet-12-x-8ft.html|>
+## Faithfull Cotton Twill Polythene Backed Dust Sheet 12 x 8ft
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Faithfull FAIDSPC128N is a high quality heavy-duty dust sheet for domestic use and made from 100% cotton twill for long life. The sheets are polythene backed to prevent paint penetration and are ideal to absorb paint splashes. The Faithfull FAIDSPC128N Sheet Cotton Twill Poly has the following dimensions: Size: 3.7 x 2.4m (12ft x 8ft approx).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Cotton Twill Polythene Backed Dust Sheet 12 x 8ft",
+  "specifications": [
+    "Size: 3.7 x 2.4m (12ft x 8ft approx)",
+    "Material: 100% cotton twill",
+    "Polythene backed to prevent paint penetration"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-decorating-roller-kit-11-piece.html|>
+## Faithfull Decorating Roller Kit, 11 Piece
+
+{
+  "price": "€20.10 inc VAT (€16.34 exc.vat)",
+  "description": "The Faithfull Decorating Roller Kit contains all the best selling items for interior work. Contents: 1 x Paint Roller Cage Frame 230mm (9in), 1 x Roller Refill 230mm (9in), 1 x Tray 230mm (9in), 1 x Paint Roller Frame 100mm (4in), 1 x Emulsion Roller Refill 100mm (4in), 1 x Gloss Roller Refill 100mm (4in), 1 x Tray 100mm (4in), 3 x Utility Paint Brushes: 12mm (1/2in), 25mm (1in) and 38mm (1.1/2in), 1 x Plastic Dust Sheet (12ft x 9ft)",
+  "availability": "In Stock",
+  "product_name": "Faithfull Decorating Roller Kit, 11 Piece",
+  "specifications": [
+    "1 x Paint Roller Cage Frame 230mm (9in)",
+    "1 x Roller Refill 230mm (9in)",
+    "1 x Tray 230mm (9in)",
+    "1 x Paint Roller Frame 100mm (4in)",
+    "1 x Emulsion Roller Refill 100mm (4in)",
+    "1 x Gloss Roller Refill 100mm (4in)",
+    "1 x Tray 100mm (4in)",
+    "3 x Utility Paint Brushes: 12mm (1/2in), 25mm (1in) and 38mm (1.1/2in)",
+    "1 x Plastic Dust Sheet (12ft x 9ft)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-door-dust-sealer.html|>
+## Faithfull Door Dust Sealer
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "The Faithfull Door Dust Sealer is a reusable dust screen door which isolates the working area and seals in dust and odour. It has a zipper on both sides and is supplied with mounting tape. Ideal for decorating.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Door Dust Sealer",
+  "specifications": [
+    "Overall size: 112 x 220cm",
+    "Opening: 68 x 190cm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-dual-purpose-plastic-spreader-large.html|>
+## Faithfull Dual Purpose Plastic Spreader Large
+
+{
+  "price": "€2.64 inc VAT (€2.15 exc.vat)",
+  "description": "The Faithfull Large Dual Purpose Plastic Spreader has a notched edge for fast adhesive application and a squeegee edge for rapid grouting. The spreader is manufactured from a durable, hardwearing plastic. This useful 2 in 1 tool provides a cost effective option for both spreading adhesive and grouting for most tiling projects. Width: 180mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Dual Purpose Plastic Spreader Large",
+  "specifications": [
+    "Width: 180mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-dusting-brush-100mm-4-in.html|>
+## Faithfull Dusting Brush 100mm (4 in)
+
+{
+  "price": "€14.91 inc VAT (€12.12 exc.vat)",
+  "description": "The Faithfull FAIPBDUST is a professional soft bristle brush with a wooden handle which is used to clear dust and dirt prior to painting. Size: 100 x 70 x 22 mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Dusting Brush 100mm (4 in)",
+  "specifications": [
+    "Size: 100 x 70 x 22 mm",
+    "Professional soft bristle brush",
+    "Wooden handle"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-edge-masking-tape.html|>
+## Faithfull Edge Masking Tape
+
+{
+  "price": "€5.99 inc VAT",
+  "description": "Faithfull Edge Masking Tape gives you clean, sharp line edges when used on most smooth surfaces. It is lower tack than normal masking tape and will withstand UV sunlight for up to 30 days. Can be used on cured painted walls and trim, glass, metal and many other surfaces. It will remove cleanly from most surfaces for up to 21 days after application. For use with emulsion and acrylic paints. Comes in a tub to keep the edges sharp.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Edge Masking Tape",
+  "specifications": [
+    "24mm x 41.1m",
+    "36mm x 41.1m"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-filler-and-spreader-set-of-4-stainless-steel.html|>
+## Faithfull Filler & Spreader Set of 4 Stainless Steel
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Faithfull selection of four flexible stainless steel filling and spreading knives, ideal for applying and finishing fillers. These versatile knives are suitable for both use in automotive repair work and decorating applications. The wide range of blade sizes makes these knives ideal for use on large areas and also in confined spaces. The wide handle style provides a firm grip and aids in applying an even pressure across the blade to provide a smooth even finish. Handle feature a soft grip coating for user comfort and handy hanging hole. Stainless steel blade sizes 50mm, 75mm, 100mm and 150mm all with solvent resistant plastic handles.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Filler & Spreader Set of 4 Stainless Steel",
+  "specifications": [
+    "Stainless steel blade sizes: 50mm, 75mm, 100mm, 150mm",
+    "Soft grip coating for user comfort",
+    "Ideal for automotive repair and decorating applications",
+    "Versatile for large areas and confined spaces"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-flock-foam-mini-roller-refill-pack-2.html|>
+## Faithfull Flock Foam Mini Roller Refill (Pack 2)
+
+{
+  "price": "€7.21 inc VAT (€5.86 exc.vat)",
+  "description": "Faithfull Flock Foam Mini Roller Refills for use oil/waterbased gloss paints on smooth surfaces. Provides professional results with a smooth even finish. For use with mini roller and radiator roller frames.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Flock Foam Mini Roller Refill (Pack 2)",
+  "specifications": [
+    "Size: 100mm (4in)",
+    "Pack qty: 2"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-grout-rake-with-2-carbide-blades.html|>
+## Faithfull Grout Rake with 2 Carbide Blades
+
+{
+  "price": "€10.11 inc VAT (€8.22 exc.vat)",
+  "description": "The Faithfull Grout Rake has a Tungsten Carbide grit edge for removing old and discoloured grout prior to replacement. The rake features a comfortable and robust Nylon handle, supplied complete with two Tungsten Carbide grit edge blades to provide a long working life.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Grout Rake with 2 Carbide Blades",
+  "specifications": [
+    "Blade length: 50mm",
+    "Includes two Tungsten Carbide grit edge blades"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-grout-scrubbing-brush-soft-grip-handle.html|>
+## Faithfull Grout Scrubbing Brush Soft-Grip Handle
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "The Faithfull heavy-duty narrow-headed Grout Scrubbing Brush is fitted with stiff nylon bristles and is suitable for use on all tiled surfaces. It is ideal for tackling stubborn grime, mildew and other forms of residue in hard to reach places and tight grout lines. A large soft grip handle provides extra user comfort. It may be used in conjunction with most tile and grout cleaning detergent.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Grout Scrubbing Brush Soft-Grip Handle",
+  "specifications": [
+    "Heavy-duty narrow-headed design",
+    "Fitted with stiff nylon bristles",
+    "Suitable for all tiled surfaces",
+    "Ideal for stubborn grime and mildew",
+    "Large soft grip handle for comfort"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hand-diy-tile-cutter-tct-tipped.html|>
+## Faithfull Hand DIY Tile Cutter TCT Tipped
+
+{
+  "price": "€4.12 inc VAT (€3.35 exc.vat)",
+  "description": "A Faithfull easy to use Tile Scribe fitted with a Tungsten Carbide Tipped blade that will provide a long working life. The scribe is suitable for scoring ceramic wall and floor tiles prior to snapping to size and features a contoured handle that provides a firm grip and helps maintain the correct blade angle when scribing.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Hand DIY Tile Cutter TCT Tipped",
+  "specifications": [
+    "Tungsten Carbide Tipped blade",
+    "Suitable for scoring ceramic wall and floor tiles",
+    "Contoured handle for firm grip"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hand-tile-cutter-tct-soft-grip-handle.html|>
+## Faithfull Hand Tile Cutter TCT Soft-Grip Handle
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "These Faithfull heavy-duty large blade cutters/nippers are fitted with tungsten carbide tipped jaws to provide a long working life. The pliers feature soft feel handles for extra grip and comfort and a spring return mechanism. This makes the pliers easy to use while carrying out repetitive actions, such as cutting or nibbling tiles to shape around pipes, switches, sills and other fittings. Use on ceramic tiles only.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Hand Tile Cutter TCT Soft-Grip Handle",
+  "specifications": [
+    "Tungsten carbide tipped jaws",
+    "Soft feel handles for extra grip and comfort",
+    "Spring return mechanism",
+    "Designed for cutting ceramic tiles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-hard-surface-protector-600mm-x-25m.html|>
+## Faithfull Hard Surface Protector 600mm x 25m
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "Faithfull Hard Surface Protector is a low tack, adhesive film made of tough polythene. Designed to protect floors and other hard surfaces without creating a trip hazard. Ideal for protection against decorating spills and protecting your floors against high foot traffic when moving house. Simple and fast installation and removal. For use on all hard surfaces such as timber, laminates, ceramic floors and worktops. Care should be taken when walking on this product. Not suitable for use on carpets. We recommend that the Hard Surface Protector is removed within 2 weeks of application to avoid the risk of adhesive residue.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Hard Surface Protector 600mm x 25m",
+  "specifications": [
+    "Low tack adhesive film",
+    "Made of tough polythene",
+    "Protects floors and hard surfaces",
+    "Ideal for high foot traffic",
+    "Simple installation and removal",
+    "Not suitable for carpets"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-plasticrollertray230mm-9in.html|>
+## Faithfull Heavy-Duty Plastic Roller Tray 230mm (9in)
+
+{
+  "price": "€10.17 inc VAT (€8.27 exc.vat)",
+  "description": "The Faithfull Heavy-Duty Plastic Roller Tray has a large capacity. It features brush storage trays and a secure location to lay the roller frame once done. This durable plastic tray is easy to clean.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Heavy-Duty Plastic Roller Tray 230mm (9in)",
+  "specifications": [
+    "Size: 230mm (9in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-polythene-dust-sheet-3-x-4m.html|>
+## Faithfull Heavy-Duty Polythene Dust Sheet 3 x 4m
+
+{
+  "price": "€8.34 inc VAT (€6.78 exc.vat)",
+  "description": "The Faithfull Heavy-Duty Polythene Dust Sheet is extra thick making it ideal for trade use. Protects against paint spills, dirt and dust. Waterproof and rotproof. Suitable for covering furniture, protecting floors and work surfaces.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Heavy-Duty Polythene Dust Sheet 3 x 4m",
+  "specifications": [
+    "Size: 3 x 4m",
+    "Thickness: 55 micron"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-heavy-duty-stainless-steel-scratch-brushes.html|>
+## Faithfull Heavy-Duty Stainless Steel Scratch Brushes
+
+{
+  "price": "€8.15 inc VAT",
+  "description": "Faithfull Stainless steel wire scratch brushes are used predominantly in stainless steel welding processes, where the use of an ordinary wire scratch brush would create the risk of contamination of the weld.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Heavy-Duty Stainless Steel Scratch Brushes",
+  "specifications": [
+    "Select Option: 2 Row, 4 Row",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-light-duty-polythene-dust-sheet-36-x-27m.html|>
+## Faithfull Light-Duty Polythene Dust Sheet 3.6 x 2.7m
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "The Faithfull Light-Duty Polythene Dust Sheet is ideal for DIY use, protecting against paint spills, dirt and dust. Waterproof and rotproof. Suitable for covering furniture, protecting floors and work surfaces.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Light-Duty Polythene Dust Sheet 3.6 x 2.7m",
+  "specifications": [
+    "Size: 3.6 x 2.7m",
+    "Thickness: 17 micron"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-long-woven-pile-roller-sleeve-228mm-9in.html|>
+## Faithfull Long Woven Pile Roller Sleeve 228mm (9in)
+
+{
+  "price": "€4.99 inc VAT",
+  "description": "This Faithfull Roller Sleeves is manufactured in Europe to demanding standards. These woven pile rollers offer the best paint holding properties and reduce any pile shedding to an absolute minimum. Woven long pile rollers are suitable for use with emulsion paints on textured and rough surfaces.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Long Woven Pile Roller Sleeve 228mm (9in)",
+  "specifications": [
+    "Select Option: 228 x 38mm (9in x 1.1/2in)",
+    "Select Option: 228 x 43mm (9 x 1.3/4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-low-tack-masking-tapes.html|>
+## Faithfull Low Tack Masking Tapes
+
+{
+  "price": "€4.58 inc VAT",
+  "description": "This Faithfull Low tack masking tape provides a useful alternative to the standard equivalent and is ideal for applying on delicate surfaces or if leaving in place for more than 24 hours.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Low Tack Masking Tapes",
+  "specifications": [
+    "Select Option: 25mm x 50m, 50mm x 50m",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-masking-tape---50-meter-rolls.html|>
+## Faithfull Masking Tape - 50 Meter Rolls
+
+{
+  "price": "€1.99 inc VAT",
+  "description": "A high quality grade paper masking tape suited to most painting applications by brush or spray. Easy to use and tear with good adhesion to most surfaces, leaving no adhesive deposit if removed within 24 hours.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Masking Tape - 50 Meter Rolls",
+  "specifications": [
+    "Available sizes: 19mm x 50m, 25mm x 50m, 38mm x 50m, 50mm x 50m, 75mm x 50m",
+    "High quality grade paper",
+    "Good adhesion to most surfaces",
+    "Leaves no adhesive deposit if removed within 24 hours"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-masonry-brush-100mm-4in.html|>
+## Faithfull Masonry Brush 100mm (4in)
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Suitable for use on smooth or rough surfaces, the Faithfull masonry brush can be used with all types of masonry paint. The brush is characterised by its long length, hard wearing synthetic and natural bristle mix and a yellow easy-clean plastic handle. The Faithfull FAIPBMAS masonry brush has the following dimensions: Size: 100 x 80 x 22 mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Masonry Brush 100mm (4in)",
+  "specifications": [
+    "Size: 100 x 80 x 22 mm",
+    "Long length",
+    "Hard wearing synthetic and natural bristle mix",
+    "Yellow easy-clean plastic handle"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-masonry-cage-roller-kit-230mm-9in.html|>
+## Faithfull Masonry Cage Roller Kit 230mm (9in)
+
+{
+  "price": "€12.84 inc VAT (€10.44 exc.vat)",
+  "description": "The Faithfull Masonry Cage Roller Kit is ideal for applying emulsion or masonry paints on rough, semi-rough and uneven surfaces. Contains: 1 x Woven Polyacrylic Masonry Roller Sleeve 230mm (9in), with a long-lasting, strong construction and good paint holding capacity. Ideal for brickwork, rendered masonry and other textured coatings. 1 x Roller Frame 230 x 43mm, with a tapered and threaded handle to fit the Faithfull roller extension poles (FAIRPOLEEXT & FAIRPOLEEXTL). 1 x Roller Tray.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Masonry Cage Roller Kit 230mm (9in)",
+  "specifications": [
+    "1 x Woven Polyacrylic Masonry Roller Sleeve 230mm (9in)",
+    "1 x Roller Frame 230 x 43mm",
+    "1 x Roller Tray"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-masonry-mini-roller-refill-pack-2.html|>
+## Faithfull Masonry Mini Roller Refill (Pack 2)
+
+{
+  "price": "€4.07 inc VAT (€3.31 exc.vat)",
+  "description": "Faithfull Masonry Mini Roller Refill for use with masonry paints on rough surfaces. Long-lasting, strong construction with a good paint holding capacity.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Masonry Mini Roller Refill (Pack 2)",
+  "specifications": [
+    "Size: 100mm (4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-masonry-roller-kit-230mm-9in.html|>
+## Faithfull Masonry Roller Kit 230mm (9in)
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "The Faithfull FAIRKITMAS contains a roller frame, roller tray and 230mm (9 inch) padded woven roller for use with emulsion or masonry paints on rough, semi-rough and uneven surfaces. The kit is ideal for brickwork, rendered masonry and other textured coatings. The tapered handle fits the Faithfull roller extension poles and replacement frames and roller sleeves are also available where necessary.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Masonry Roller Kit 230mm (9in)",
+  "specifications": [
+    "230mm (9 inch) padded woven roller",
+    "Includes roller frame and tray",
+    "Ideal for emulsion or masonry paints",
+    "Suitable for rough and uneven surfaces",
+    "Tapered handle fits Faithfull roller extension poles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-masonry-roller-padded-woven-230mm-9in.html|>
+## Faithfull Masonry Roller Padded Woven 230mm (9in)
+
+{
+  "price": "€8.57 inc VAT (€6.97 exc.vat)",
+  "description": "The Faithfull masonry roller refill is a high quality polyamide padded woven roller for use with emulsion or masonry paints on rough, semi-rough and uneven surfaces. It is ideal for brickwork, rendered masonry and other textured coatings. The Faithfull FAIRMAS230 woven masonry roller refill has the following dimensions: Size: 230mm (9 inch)",
+  "availability": "In Stock",
+  "product_name": "Faithfull Masonry Roller Padded Woven 230mm (9in)",
+  "specifications": [
+    "Size: 230mm (9 inch)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-masonry-roller-polyamide-woven-300mm-12in.html|>
+## Faithfull Masonry Roller Polyamide Woven 300mm (12in)
+
+{
+  "price": "€8.72 inc VAT (€7.09 exc.vat)",
+  "description": "The Faithfull masonry roller refill is a high quality polyamide padded woven roller for use with emulsion or masonry paints on rough, semi-rough and uneven surfaces. It is ideal for brickwork, rendered masonry and other textured coatings. The Faithfull FAIRMAS300 woven masonry roller refill has the following dimensions: Size: 300mm (12 inch)",
+  "availability": "In Stock",
+  "product_name": "Faithfull Masonry Roller Polyamide Woven 300mm (12in)",
+  "specifications": [
+    "Size: 300mm (12 inch)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-medium-pile-mini-rollers.html|>
+## Faithfull Medium Pile Mini Rollers
+
+{
+  "price": "from €3.06 inc VAT",
+  "description": "Medium pile rollers for use with gloss and emulsion paints on smooth and semi smooth (such as anaglypta wallpaper) surfaces. These refills are for use with both mini rollers and radiator rollers.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Medium Pile Mini Rollers",
+  "specifications": [
+    "Pack of 10",
+    "Pack of 2"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-medium-woven-pile-roller-sleeve-230mm-9in.html|>
+## Faithfull Medium Woven Pile Roller Sleeve 230mm (9in)
+
+{
+  "price": "€3.65 inc VAT",
+  "description": "This Faithfull Roller Sleeve is manufactured in Europe to demanding standards. The woven pile offers the best paint holding properties and reduces any pile shedding to an absolute minimum. Medium pile rollers are for use with emulsion paints on smooth surfaces.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Medium Woven Pile Roller Sleeve 230mm (9in)",
+  "specifications": [
+    "Select Option: 228 x 38mm (9in x 1.1/2in), 228 x 43mm (9 x 1.3/4in), 230 x 44mm (9 x 1.3/4in), Pack of 6",
+    "Woven pile for best paint holding properties",
+    "Manufactured in Europe"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-microfibre-mini-roller-refill-pack-2.html|>
+## Faithfull Microfibre Mini Roller Refill (Pack 2)
+
+{
+  "price": "€3.03 inc VAT (€2.46 exc.vat)",
+  "description": "The Faithfull Microfibre Mini Roller Refill provides even coverage and is easy to clean. It also allows for good pick up of thinner liquids. For use with primers and woodstains on smooth and semi-smooth surfaces.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Microfibre Mini Roller Refill (Pack 2)",
+  "specifications": [
+    "Size: 100mm (4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-microfibre-roller-refill.html|>
+## Faithfull Microfibre Roller Refill
+
+{
+  "price": "from €3.53 inc VAT",
+  "description": "Faithfull trade quality woven Microfibre Roller Sleeves offer excellent results when used with emulsions and woodstains. They pick up paint easily and apply an even coat on smooth or semi-smooth surfaces. Suitable for use with a vast range of coverings including thinner paints, woodstains and coatings.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Microfibre Roller Refill",
+  "specifications": [
+    "Select Option: 230 x 38mm (9 x 1.1/2in)",
+    "230 x 44mm (9 x 1.3/4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-mini-roller-frame-tray-and-2-refills.html|>
+## Faithfull Mini Roller Frame, Tray & 2 Refills
+
+{
+  "price": "€4.71 inc VAT (€3.83 exc.vat)",
+  "description": "A complete mini roller kit containing: 1 x Roller tray, 1 x Frame, 2 x 100mm (4in) roller refills: foam and medium pile. Suitable for use with gloss or emulsion paints and ideal for painting in awkward or restricted areas.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Mini Roller Frame, Tray & 2 Refills",
+  "specifications": [
+    "1 x Roller tray",
+    "1 x Frame",
+    "2 x 100mm (4in) roller refills: foam and medium pile",
+    "Suitable for gloss or emulsion paints",
+    "Ideal for painting in awkward or restricted areas"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-mini-roller-kit-frame-and-2-refills-100mm-4in.html|>
+## Faithfull Mini Roller Kit Frame & 2 Refills 100mm (4in)
+
+{
+  "price": "€3.65 inc VAT (€2.97 exc.vat)",
+  "description": "This Faithfull Mini Roller Kit contains the following: 1 x 250 mm (10 inch) long roller frame. 2 x 100 mm (4 inch) medium pile rollers. Suitable for use with gloss or emulsion paints. Ideal for painting small areas or in awkward places.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Mini Roller Kit Frame & 2 Refills 100mm (4in)",
+  "specifications": [
+    "1 x 250 mm (10 inch) long roller frame",
+    "2 x 100 mm (4 inch) medium pile rollers",
+    "Suitable for use with gloss or emulsion paints",
+    "Ideal for painting small areas or in awkward places"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/blockade-primer.html|>
+## Blockade primer
+
+{
+  "price": "€21.50 inc VAT",
+  "description": "Blockade, the ultimate solution for upcycling projects and one of the most sought-after items on Instagram. Blockade's quick-drying formula streamlines tasks that require multiple coats or prompt overcoating with emulsion. Its versatile application extends to covering glossy and challenging surfaces like tile, varnish, or gloss paints, eliminating the need for sanding. Crafted with a pure shellac base, Blockade permanently blocks stains and odors, effectively concealing even the darkest colors.",
+  "availability": "In Stock",
+  "product_name": "Blockade primer",
+  "specifications": [
+    "Blocks stains from nicotine, mold, smoke/fire, water, and more.",
+    "Seals tannins, wood knots, grease, and porous surfaces, including new plaster.",
+    "Neutralizes odors from cigarette smoke, other smoke smells, and dampness.",
+    "Effortlessly conceals dark paint colors, lipstick and crayon marks, rust, and ink.",
+    "Product Application: Brush, Roller, or Spray",
+    "Coverage: 12.5m2 per liter",
+    "Touch Dry: 15 minutes",
+    "Recoatable: 45 minutes",
+    "Thinning: Methylated Spirit",
+    "Surface: Interior Walls, Exterior Walls, Interior Wood, Exterior Wood, Metal"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/bluespot-tools-shed-and-fence-brush-120mm.html|>
+## BlueSpot Tools Shed and Fence Brush 120mm
+
+{
+  "price": "€5.94 inc VAT (€4.83 exc.vat)",
+  "description": "The BlueSpot Tool Shed and Fence Brush is suitable for use with all exterior paints and timber treatments. Provides great paint loading and even distribution. Its soft grip handle with steel ferrule provides durability and corrosion resistance. Quick and easy to clean.",
+  "availability": "Out of Stock",
+  "product_name": "BlueSpot Tools Shed and Fence Brush 120mm",
+  "specifications": [
+    "Size: 120mm (4.7in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/bluespot-tools-soft-grip-synthetic-paint-brush-set-3-piece.html|>
+## BlueSpot Tools Soft Grip Synthetic Paint Brush Set, 3 Piece
+
+{
+  "price": "€8.22 inc VAT (€6.68 exc.vat)",
+  "description": "The BlueSpot Soft Grip Synthetic Paint Brush Set is ideal for use with all paints. They enable great paint loading and even distribution. No bristle loss. Quick and easy to clean. A soft grip handle and stainless steel ferrule provide durability and corrosion resistance. This 3 piece set contains Paint Brush Sizes: 1, 1.1/2 and 2in",
+  "availability": "In Stock",
+  "product_name": "BlueSpot Tools Soft Grip Synthetic Paint Brush Set, 3 Piece",
+  "specifications": [
+    "3 piece set",
+    "Sizes: 1, 1.1/2 and 2in",
+    "Soft grip handle",
+    "Stainless steel ferrule",
+    "Quick and easy to clean"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/bluespot-tools-synthetic-paint-brush-set-3-piece.html|>
+## BlueSpot Tools Synthetic Paint Brush Set, 3 Piece
+
+{
+  "price": "€9.68 inc VAT (€7.87 exc.vat)",
+  "description": "The BlueSpot Synthetic Paint Brush Set is ideal for use with all paints. They enable great paint loading and even distribution. No bristle loss. Quick and easy to clean. An ergonomic FSC approved wooden handle with stainless steel ferrule provides durability and corrosion resistance. This 3 piece set contains Paint Brush Sizes: 1, 1.1/2 and 2in",
+  "availability": "In Stock",
+  "product_name": "BlueSpot Tools Synthetic Paint Brush Set, 3 Piece",
+  "specifications": [
+    "3 piece set",
+    "Sizes: 1, 1.1/2 and 2in",
+    "Ergonomic FSC approved wooden handle",
+    "Stainless steel ferrule",
+    "Quick and easy to clean"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/bluespot-tools-synthetic-workshop-paint-brush-set-10-piece.html|>
+## BlueSpot Tools Synthetic Workshop Paint Brush Set, 10 Piece
+
+{
+  "price": "€6.73 inc VAT (€5.47 exc.vat)",
+  "description": "This BlueSpot Tools Synthetic Workshop Paint Brush Set is for use when applying chemicals and paints, where the application does not require a fine finish. The tin coated ferrule provides durability and corrosion resistance. 10 Piece Set, contains: 2 x 1/2in Brushes, 3 x 1in Brushes, 3 x 1.1/2in Brushes and 2 x 2in Brushes.",
+  "availability": "Out of Stock",
+  "product_name": "BlueSpot Tools Synthetic Workshop Paint Brush Set, 10 Piece",
+  "specifications": [
+    "10 Piece Set",
+    "2 x 1/2in Brushes",
+    "3 x 1in Brushes",
+    "3 x 1.1/2in Brushes",
+    "2 x 2in Brushes"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/chrome-effect-gold-morris-400-ml.html|>
+## CHROME EFFECT GOLD, MORRIS 400 ML
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Morris 400 ML Color Spray with Chrome Effect Gold – a premium, quick-drying spray paint that brings a touch of glamour and sophistication to your creative projects. With its stunning metallic gloss finish, this spray paint is perfect for adding a luxurious touch to a variety of surfaces. Key Features: 1. Quick Drying: Morris Color Spray boasts a rapid drying formula, ensuring that your projects are completed efficiently and with minimal wait time. 2. Excellent Coverage: Achieve a flawless finish with excellent coverage that leaves surfaces looking vibrant and evenly coated. 3. Indoor Use: Ideal for indoor applications, this spray paint is formulated to enhance the aesthetics of your interior spaces. 4. Non-resistant to Abrasion and Weather Conditions: While it provides exceptional coverage, please note that Morris Color Spray, Chrome Effect Gold, is non-resistant to abrasion and weather conditions, making it best suited for indoor use. 5. Excellent Adhesion: Enjoy reliable adhesion to a variety of surfaces, including wood, metal, aluminum, glass, stone, and various types of plastic. 6. Heat Resistant up to 110℃: Morris Color Spray is designed to withstand temperatures up to 110℃, ensuring durability in applications that may involve exposure to heat. 7. Versatile Application: Suitable for a wide range of materials, including wood, metal, aluminum, glass, stone, and various types of plastic, providing versatility for your creative endeavors.",
+  "availability": "In Stock",
+  "product_name": "CHROME EFFECT GOLD, MORRIS 400 ML",
+  "specifications": [
+    "Quick Drying",
+    "Excellent Coverage",
+    "Indoor Use",
+    "Non-resistant to Abrasion and Weather Conditions",
+    "Excellent Adhesion",
+    "Heat Resistant up to 110℃",
+    "Versatile Application"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/collox-mix-30l-mixing-tub.html|>
+## Collox Mix 30L Mixing Tub
+
+{
+  "price": "€45.18 inc VAT (€36.73 exc.vat)",
+  "description": "30L Mixing Tub",
+  "availability": "Out of Stock",
+  "product_name": "Collox Mix 30L Mixing Tub",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/covers-up-stain-blocking-aerosol-400ml.html|>
+## Covers Up Stain Blocking Aerosol 400Ml
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "Zinsser Covers Up - Stain Sealing Ceiling Paint - Aerosol 400ml. Shellac-based primer with unparalleled adhesion to glossy surfaces. A low odour vertical aerosol that is a stain killer and ceiling touch-up paint in one. It seals water damaged ceilings and sprays vertically for ease of use. Perfect for touch up when you don’t want to repaint the entire ceiling due to spot damage. Offers a flat white finish that matches most new acoustical ceiling tiles and white ceiling paints.",
+  "availability": "In Stock",
+  "product_name": "Covers Up Stain Blocking Aerosol 400Ml",
+  "specifications": [
+    "Size: 400ml",
+    "Colour: White",
+    "Shellac-based primer",
+    "Odourless solvent based formula"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-adhesive-spreader-set-2-piece.html|>
+## TALAtools Adhesive Spreader Set, 2 Piece
+
+{
+  "price": "€2.21 inc VAT (€1.80 exc.vat)",
+  "description": "For spreading tile adhesive and grout. Made from durable plastic. Sizes: 130 x 90mm, 175 x 130mm",
+  "availability": "In Stock",
+  "product_name": "TALAtools Adhesive Spreader Set, 2 Piece",
+  "specifications": [
+    "Sizes: 130 x 90mm, 175 x 130mm",
+    "Made from durable plastic"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-heavy-duty-grout-rake.html|>
+## TALAtools Heavy-Duty Grout Rake
+
+{
+  "price": "€6.69 inc VAT (€5.44 exc.vat)",
+  "description": "For removing old grout between ceramic or flooring and quarry tiles. Supplied with 2 blades: Single blade for grout removal from ceramic tiles, Double blade for grout removal from flooring/quarry tiles.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Heavy-Duty Grout Rake",
+  "specifications": [
+    "Supplied with 2 blades",
+    "Single blade for grout removal from ceramic tiles",
+    "Double blade for grout removal from flooring/quarry tiles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-heavy-duty-tile-nipper.html|>
+## TALAtools Heavy-Duty Tile Nipper
+
+{
+  "price": "€12.93 inc VAT (€10.51 exc.vat)",
+  "description": "For use on wall and floor tiles up to 6mm (1/4in) thickness. Extra strong tungsten carbide blades for longer life. Dipped handles.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Heavy-Duty Tile Nipper",
+  "specifications": [
+    "For use on wall and floor tiles up to 6mm (1/4in) thickness",
+    "Extra strong tungsten carbide blades for longer life",
+    "Dipped handles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-heavy-duty-tile-plier-and-cutter.html|>
+## TALAtools Heavy-Duty Tile Plier and Cutter
+
+{
+  "price": "€10.54 inc VAT (€8.57 exc.vat)",
+  "description": "For neat and easy snapping of wall and floor tiles. Comfort grip handles. Includes cutting wheel.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Heavy-Duty Tile Plier and Cutter",
+  "specifications": [
+    "Heavy-Duty Tile Plier and Cutter",
+    "Model: TAL69524",
+    "Comfort grip handles",
+    "Includes cutting wheel"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-hydro-grouting-sponge-float-280mm-11in.html|>
+## TALAtools Hydro Grouting Sponge Float 280mm (11in)
+
+{
+  "price": "€11.27 inc VAT (€9.16 exc.vat)",
+  "description": "Lightweight float\nHigh-quality segmented foam sponge for fast removal of grout deposits\nIdeal for washing down grouted tiles on larger projects",
+  "availability": "In Stock",
+  "product_name": "TALAtools Hydro Grouting Sponge Float 280mm (11in)",
+  "specifications": [
+    "High-quality segmented foam sponge",
+    "Lightweight design",
+    "Ideal for washing down grouted tiles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-hydro-tiling-sponge-160-x-110-x-50mm.html|>
+## TALAtools Hydro Tiling Sponge 160 x 110 x 50mm
+
+{
+  "price": "€3.38 inc VAT (€2.75 exc.vat)",
+  "description": "For removing excess grout from tiles. Rounded edges help prevent accidental removal of fresh grout.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Hydro Tiling Sponge 160 x 110 x 50mm",
+  "specifications": [
+    "Dimensions: 160 x 110 x 50mm",
+    "Model: TAL69020",
+    "Price: €3.38"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-large-grouting-sponge.html|>
+## TALAtools Large Grouting Sponge
+
+{
+  "price": "€3.37 inc VAT (€2.74 exc.vat)",
+  "description": "Ideal for cleaning tiles after grouting",
+  "availability": "In Stock",
+  "product_name": "TALAtools Large Grouting Sponge",
+  "specifications": [
+    "Size: 240 x 170 x 100mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-long-handled-heavy-duty-scraper.html|>
+## TALAtools Long Handled Heavy-Duty Scraper
+
+{
+  "price": "€1.39 inc VAT",
+  "description": "Made from heavy-duty, die-cast aluminium. Rubber grip. Replacement blade available (TAL69908). Blade Size: 100mm (4in).",
+  "availability": "In Stock",
+  "product_name": "TALAtools Long Handled Heavy-Duty Scraper",
+  "specifications": [
+    "Made from heavy-duty, die-cast aluminium",
+    "Rubber grip",
+    "Replacement blade available (TAL69908)",
+    "Blade Size: 100mm (4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-paint-scraper.html|>
+## TALAtools Paint Scraper
+
+{
+  "price": "€3.49 inc VAT",
+  "description": "Professional quality\nStainless steel blade\nBi-material, soft grip handle\nAvailable Sizes: 38mm (1.1/2in), 50mm (2in), 75mm (3in), 100mm (4in)",
+  "availability": "In Stock",
+  "product_name": "TALAtools Paint Scraper",
+  "specifications": [
+    "Stainless steel blade",
+    "Bi-material, soft grip handle",
+    "Available Sizes: 38mm (1.1/2in), 50mm (2in), 75mm (3in), 100mm (4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-paint-scraper-1.html|>
+## TALAtools Paint Scraper
+
+{
+  "price": "€7.34 inc VAT",
+  "description": "Bi-material handle\nQuick-change, dual edged, tungsten carbide blade\nReplacement blade available (TAL69118)\nBlade Size: 63mm (2.5in)",
+  "availability": "In Stock",
+  "product_name": "TALAtools Paint Scraper",
+  "specifications": [
+    "Bi-material handle",
+    "Quick-change, dual edged, tungsten carbide blade",
+    "Replacement blade available (TAL69118)",
+    "Blade Size: 63mm (2.5in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-six-wheel-glasscutter.html|>
+## TALAtools Six Wheel Glasscutter
+
+{
+  "price": "€4.72 inc VAT (€3.84 exc.vat)",
+  "description": "Hardened carbide steel\nFitted with a wooden handle\nFive cutter settings",
+  "availability": "In Stock",
+  "product_name": "TALAtools Six Wheel Glasscutter",
+  "specifications": [
+    "Hardened carbide steel",
+    "Fitted with a wooden handle",
+    "Five cutter settings"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-tile-adhesive-spreader.html|>
+## TALAtools Tile Adhesive Spreader
+
+{
+  "price": "€2.29 inc VAT (€1.86 exc.vat)",
+  "description": "For spreading tile adhesive and grout. Includes metric and imperial rule. Fitted with a comfortable grip.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Tile Adhesive Spreader",
+  "specifications": [
+    "Model: TAL69521",
+    "Material: Plastic",
+    "Dimensions: Standard size for tile adhesive spreading"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-tile-cleaning-and-polishing-sponge.html|>
+## TALAtools Tile Cleaning and Polishing Sponge
+
+{
+  "price": "€2.55 inc VAT (€2.07 exc.vat)",
+  "description": "Yellow side for wiping off excess grout\nWhite side for polishing the tiles\nSize: 180 x 120 x 40mm",
+  "availability": "In Stock",
+  "product_name": "TALAtools Tile Cleaning and Polishing Sponge",
+  "specifications": [
+    "Size: 180 x 120 x 40mm",
+    "Yellow side for wiping off excess grout",
+    "White side for polishing the tiles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-tile-scriber.html|>
+## TALAtools Tile Scriber
+
+{
+  "price": "€2.89 inc VAT (€2.35 exc.vat)",
+  "description": "For scoring tiles prior to snapping to size. Durable tungsten carbide tip. Contoured handle for increased comfort and control.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Tile Scriber",
+  "specifications": [
+    "Durable tungsten carbide tip",
+    "Contoured handle for increased comfort and control"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-tile-spacers.html|>
+## TALAtools Tile Spacers
+
+{
+  "price": "from €3.52 inc VAT",
+  "description": "Set tiles faster and more precisely without special tools. Holds tiles in place while setting for uniform installation. Available sizes: 2mm, 2.5mm, 4mm, 5mm. Pack of 250.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Tile Spacers",
+  "specifications": [
+    "Available sizes: 2mm, 2.5mm, 4mm, 5mm",
+    "Pack of 250"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/talatools-window-and-glass-scraper-with-6-blades.html|>
+## TALAtools Window & Glass Scraper with 6 Blades
+
+{
+  "price": "€2.39 inc VAT (€1.94 exc.vat)",
+  "description": "Ideal for removing paint from windows and window frames. Comes with 6 heavy-duty trimming knife blades. Blade guard for added safety.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Window & Glass Scraper with 6 Blades",
+  "specifications": [
+    "6 heavy-duty trimming knife blades",
+    "Blade guard for added safety"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-lightweight-scratch-brushes.html|>
+## Faithfull Lightweight Scratch Brushes
+
+{
+  "price": "from €3.28 inc VAT",
+  "description": "Faithfull quality scratch brush with bristles made from hardened and tempered steel. For use in preparatory work, when removing rust, scale, old paintwork and grouting. The handles are drilled for hanging. The wire is 28 gauge and is hardened and tempered.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Lightweight Scratch Brushes",
+  "specifications": [
+    "3 Row",
+    "4 Row"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-non-woven-dust-sheet-12-x-9ft.html|>
+## Faithfull Non Woven Dust Sheet 12 x 9ft
+
+{
+  "price": "€7.86 inc VAT (€6.39 exc.vat)",
+  "description": "Lightweight tear resistant sheet is ideal for professional painters and decorators. Spills and dust will not go through. Size: 3.5 x 2.6m (12ft x 9ft approx).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Non Woven Dust Sheet 12 x 9ft",
+  "specifications": [
+    "Size: 3.5 x 2.6m (12ft x 9ft approx)",
+    "Lightweight and tear resistant",
+    "Ideal for professional painters and decorators"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-paint-scuttle-15-litres.html|>
+## Faithfull Paint Scuttle 15 Litres
+
+{
+  "price": "€11.46 inc VAT (€9.32 exc.vat)",
+  "description": "The Faithfull 15 litre plastic paint scuttle that can be used with all types of paint and wallpaper paste. Ribbed side assists in an even application on to the roller when used in painting applications. Strong wire handle. Size: 400 x 250mm. Capacity: 15 litres.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Paint Scuttle 15 Litres",
+  "specifications": [
+    "Size: 400 x 250mm",
+    "Capacity: 15 litres"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-paste-brush-140-x-30mm.html|>
+## Faithfull Paste Brush 140 x 30mm
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "The Faithfull wide synthetic bristle brush. For applying paste to wallpaper prior to hanging, fitted with a handy bucket clip. Size: 140 x 30mm (5 1/2 x 1 1/4in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Paste Brush 140 x 30mm",
+  "specifications": [
+    "Size: 140 x 30mm (5 1/2 x 1 1/4in)",
+    "Wide synthetic bristle brush",
+    "Fitted with a handy bucket clip"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plastic-handle-roller-frame-230-x-44mm-9-x-134in.html|>
+## Faithfull Plastic Handle Roller Frame 230 x 44mm (9 x 1.3/4in)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "This Faithfull Plastic Handled Roller Frame has a smooth rolling action and features a full frame roller support, allowing easy mounting of roller refills by simply pushing them on, or pulling them off the frame. The plastic handle is designed for user comfort and easy cleaning. It has an internal thread that allows the roller to be used with Faithfull and many other makes of roller extension pole. Size: 228mm x 43mm (9in x 1.3/4in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plastic Handle Roller Frame 230 x 44mm (9 x 1.3/4in)",
+  "specifications": [
+    "Size: 228mm x 43mm (9in x 1.3/4in)",
+    "Smooth rolling action",
+    "Full frame roller support",
+    "Designed for user comfort",
+    "Compatible with Faithfull and other roller extension poles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plastic-roller-kit-tray-230mm-9in.html|>
+## Faithfull Plastic Roller Kit Tray 230mm (9in)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "The Faithfull general purpose roller paint tray for 230mm (9in) rollers and perfect for use in most DIY and trade applications. Manufactured from 100% recycled plastic, these trays are tough and sturdy, with a deep paint reservoir and ribbed rolling area to assist an even application on to the roller.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plastic Roller Kit Tray 230mm (9in)",
+  "specifications": [
+    "230mm (9in) size",
+    "Manufactured from 100% recycled plastic",
+    "Deep paint reservoir",
+    "Ribbed rolling area for even application"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-pointed-brush-set-3-piece.html|>
+## Faithfull Pointed Brush Set, 3 Piece
+
+{
+  "price": "€11.53 inc VAT (€9.37 exc.vat)",
+  "description": "Faithfull Pointed Brushes are suitable for detailed work such as cutting in around light switches, sockets and window frames etc. The 100% synthetic filaments allow the brushes to be used to apply all paint types. Fitted with a comfortable, wooden handle. This 3 piece set contains one of each size: 15, 18 and 21mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Pointed Brush Set, 3 Piece",
+  "specifications": [
+    "3 piece set",
+    "Sizes: 15mm, 18mm, 21mm",
+    "100% synthetic filaments",
+    "Comfortable wooden handle"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-professional-filling-knives.html|>
+## Faithfull Professional Filling Knives
+
+{
+  "price": "from €5.99 inc VAT",
+  "description": "Faithfull Professional filling knife featuring a top quality stainless steel blade attached with brass rivets to a rosewood handle. The blade is through tanged for heavy-duty application.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Professional Filling Knives",
+  "specifications": [
+    "Available sizes: 100mm, 150mm, 25mm, 50mm, 75mm",
+    "Top quality stainless steel blade",
+    "Brass rivets",
+    "Rosewood handle",
+    "Heavy-duty application"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-professional-hydro-grouting-sponge.html|>
+## Faithfull Professional Hydro Grouting Sponge
+
+{
+  "price": "€3.68 inc VAT (€2.99 exc.vat)",
+  "description": "The Faithfull Professional Hydro Grouting Sponge combines a soft and absorbent top sponge and a coarse stiff bottom sponge. It is ideal for tough cleaning applications and is particularly suited to decorating and tiling projects requiring an absorbent sponge with a more aggressive cleaning surface. Size: 190 x 120 x 40mm",
+  "availability": "In Stock",
+  "product_name": "Faithfull Professional Hydro Grouting Sponge",
+  "specifications": [
+    "Size: 190 x 120 x 40mm",
+    "Soft and absorbent top sponge",
+    "Coarse stiff bottom sponge",
+    "Ideal for tough cleaning applications",
+    "Suitable for decorating and tiling projects"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-professional-tile-cutter.html|>
+## Faithfull Professional Tile Cutter
+
+{
+  "price": "from €173.28 inc VAT",
+  "description": "Faithfull Professional Tile Cutter with a tungsten carbide cutting wheel, ideal for cutting ceramic, quarry, wall and floor tiles. It has a robust steel base and folding steel extension arms to support large size tiles. The single guide system is highly resistant to impacts and the roller bearing technology provides a smooth scoring action. Fitted with a comfortable soft grip handle and lockable breaking device for improved visibility of the score line. Other features include an aluminium angle guide and a single deep guide rail system that will not flex when breaking the tile. Replacement wheel available (FAITLCPROFW).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Professional Tile Cutter",
+  "specifications": [
+    "Tungsten carbide cutting wheel",
+    "Robust steel base",
+    "Folding steel extension arms",
+    "Single guide system",
+    "Roller bearing technology",
+    "Comfortable soft grip handle",
+    "Lockable breaking device",
+    "Aluminium angle guide",
+    "Single deep guide rail system"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-professional-window-knife-quarter-moon-1.html|>
+## Faithfull Professional Window Knife Quarter Moon
+
+{
+  "price": "€10.59 inc VAT (€8.61 exc.vat)",
+  "description": "The Faithfull Moon Knife or 'Don Carlos' type knife, features a unique shaped blade that is widely used in the glazing and window industry, flooring and lead working trades. It features a 100mm stainless steel crescent shaped blade with a non-slip, soft grip handle for user comfort. The metal end cap can be used to knock back protruding nails. This knife is ideal for the removal of PVCu window beads without causing damage to the frame.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Professional Window Knife Quarter Moon",
+  "specifications": [
+    "100mm stainless steel crescent shaped blade",
+    "Non-slip, soft grip handle",
+    "Metal end cap for knocking back protruding nails"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-profile-gauge-plastic-250mm.html|>
+## Faithfull Profile Gauge Plastic 250mm
+
+{
+  "price": "€15.99 inc VAT (€13.00 exc.vat)",
+  "description": "The Faithfull Profile Gauge provides a quick and easy way to accurately cut around unevenly shaped surfaces that would otherwise prove difficult to tackle, helping to prevent costly mistakes. When pressed against a surface, the profile gauge will produce a copy of the shape of that surface. This shape can then be transferred to provide a drawn cutting line onto the material being fitted. The gauge is ideal for use when tiling, laying carpets, vinyl or laminate flooring and wallpapering applications. It features a metric and imperial scale, and is magnetic for hands-free working on steel surfaces. Width: 250mm (10in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Profile Gauge Plastic 250mm",
+  "specifications": [
+    "Width: 250mm (10in)",
+    "Metric and imperial scale",
+    "Magnetic for hands-free working"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-proflow-angled-paint-brush-50mm-2in.html|>
+## Faithfull Proflow Angled Paint Brush 50mm (2in)
+
+{
+  "price": "€5.26 inc VAT (€4.28 exc.vat)",
+  "description": "The Faithfull Proflow Angled Paint Brush is designed for both amateur decorators and professional painters. Made with a blend of high-quality synthetic filaments, it ensures excellent paint pick-up and a smooth, even release onto any surface. The carefully designed filament length and specially treated tips guarantee a professional finish every time, whether you’re using water-based or oil-based paints. The angled head is designed to give more control when cutting in.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Proflow Angled Paint Brush 50mm (2in)",
+  "specifications": [
+    "High-Quality Filaments: Suitable for both water-based and oil-based paints, providing excellent coverage and a flawless finish.",
+    "Durable Bonding: Filaments are securely bonded with epoxy resin, enhancing strength and reducing filament loss.",
+    "Stainless Steel Ferrule: Rust-resistant and durable, extending the life of the brush.",
+    "Comfortable Handle: The two-component soft grip handle is designed for comfort, reducing fatigue during extended use.",
+    "Versatile Range: Available in various sizes to meet all your decorating needs, including standard flat brushes for general painting and angled brushes for precise cutting around door and window frames.",
+    "Eco-Friendly Packaging: Packaged in recycled card, providing useful information and easy recyclability."
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-proflow-paint-brush.html|>
+## Faithfull Proflow Paint Brush
+
+{
+  "price": "from €1.89 inc VAT",
+  "description": "The Faithfull Proflow Paint Brush is designed for both amateur decorators and professional painters. Made with a blend of high-quality synthetic filaments, it ensures excellent paint pick-up and a smooth, even release onto any surface. The carefully designed filament length and specially treated tips guarantee a professional finish every time, whether you’re using water-based or oil-based paints.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Proflow Paint Brush",
+  "specifications": [
+    "High-Quality Filaments: Suitable for both water-based and oil-based paints, providing excellent coverage and a flawless finish.",
+    "Durable Bonding: Filaments are securely bonded with epoxy resin, enhancing strength and reducing filament loss.",
+    "Stainless Steel Ferrule: Rust-resistant and durable, extending the life of the brush.",
+    "Comfortable Handle: The two-component soft grip handle is designed for comfort, reducing fatigue during extended use.",
+    "Versatile Range: Available in various sizes to meet all your decorating needs, including standard flat brushes for general painting and angled brushes for precise cutting around door and window frames.",
+    "Eco-Friendly Packaging: Packaged in recycled card, providing useful information and easy recyclability."
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-radiator-brush-set-3-piece.html|>
+## Faithfull Radiator Brush Set, 3 Piece
+
+{
+  "price": "€5.04 inc VAT (€4.10 exc.vat)",
+  "description": "Faithfull Radiator Brushes have 300mm long plastic handles for painting behind radiators and hard to access areas. Suitable for applying all paint types. This 3 piece set contains one of each size: 25mm (1in), 38mm (1.1/2in) and 50mm (2in).",
+  "availability": "In Stock",
+  "product_name": "Faithfull Radiator Brush Set, 3 Piece",
+  "specifications": [
+    "300mm long plastic handles",
+    "Suitable for all paint types",
+    "Includes sizes: 25mm, 38mm, 50mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-razor-blade-scraper.html|>
+## Faithfull Razor Blade Scraper
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The handy Faithfull Razor Blade Scraper is ideal for removing paint, sticky labels, cleaning oven spills and tough stains from multi-fuel stove glass panels. The metal body has a soft grip outer edge for comfort in use and the blade is retractable for safety.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Razor Blade Scraper",
+  "specifications": [
+    "Blade Width: 38mm (1.1/2in)",
+    "Overall Length: 110mm (4.1/4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-replacement-carbide-blades-for-faitlgrousaw-grout-rake-pack-of-2.html|>
+## Faithfull Replacement Carbide Blades For FAITLGROUSAW Grout Rake (Pack of 2)
+
+{
+  "price": "€3.78 inc VAT (€3.07 exc.vat)",
+  "description": "Two replacement blades for the Faithfull FAITLGROUSAW Grout Rake with Tungsten Carbide grit. May also fit other brands.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Replacement Carbide Blades For FAITLGROUSAW Grout Rake (Pack of 2)",
+  "specifications": [
+    "Length: 50mm",
+    "Two hole fitting",
+    "Hole size: 5.3mm",
+    "Hole centre to centre: 15.5mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-roller-extension-poles.html|>
+## Faithfull Roller Extension Poles
+
+{
+  "price": "€26.04 inc VAT",
+  "description": "Top quality aluminium extension poles that can be adjusted to the required length. Fitted with a metal threaded roller attachment and an easy push-fit adaptor system that will accept all 180mm (7 inch), 230mm (9 inch) and 300mm (12 inch) roller frames on the UK market.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Roller Extension Poles",
+  "specifications": [
+    "Adjustable length from 1.6m to 3m",
+    "Fitted with a metal threaded roller attachment",
+    "Compatible with various roller frames"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-roller-kit-tray-frame-and-2-refills-230mm-9in.html|>
+## Faithfull Roller Kit Tray Frame & 2 Refills 230mm (9in)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Faithfull roller kit delivers exceptional value for money and is ideal for many painting tasks around the home. The simulated sheepskin roller sleeves are suitable for use on both smooth and rough surfaces. The paint roller kit contains: 2 x 228mm (9in) simulated sheepskin roller sleeves, 1 x 228mm (9in) roller frame, 1 x 228mm (9in) plastic tray.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Roller Kit Tray Frame & 2 Refills 230mm (9in)",
+  "specifications": [
+    "2 x 228mm (9in) simulated sheepskin roller sleeves",
+    "1 x 228mm (9in) roller frame",
+    "1 x 228mm (9in) plastic tray"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-rubber-edge-squeegee.html|>
+## Faithfull Rubber Edge Squeegee
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "The Faithfull Rubber Edge Squeegee is designed to apply grouting to wall and floor tiles after fixing. Its strong, flexible plastic blade allows the grout to be spread quickly helping make light work of big grouting projects. An easy-grip handle provides user comfort. Blade size: 190mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Rubber Edge Squeegee",
+  "specifications": [
+    "Blade size: 190mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-scouring-pad-holder--fine-medium-and-coarse-pads.html|>
+## Faithfull Scouring Pad Holder + Fine Medium & Coarse Pads
+
+{
+  "price": "€12.66 inc VAT (€10.29 exc.vat)",
+  "description": "This handy Faithfull kit contains all the essential components required to remove excess grout from tiled surfaces quickly and easy after grouting is completed. Contents: 1 x Scouring Pad Holder. 1 x White (Fine) nylon pad. 1 x Brown (Medium) nylon pad. 1 x Black (Coarse) nylon pad. The trowel (Scouring Pad Holder) is comfortable to use and fitted with a hook and loop fixing system, that provides a large flat working surface for the rapid removal of grout and for final polishing of tiled surfaces. Nylon pads may also be used for many cleaning applications around the home. The three grades of pads supplied provide added versatility for both tiling and cleaning tasks. For best results always use wet with water or the selected cleaning fluid. Pad size approx. 250 x 120 x 20mm. White – Fine: A non-abrasive pad for high gloss polishing or light clean up jobs on stone or tiled surfaces. Excellent for the removal of grease and soap scum, when used with a mild cleaner or detergent. This pad can also be used for obtaining a high gloss polished finish. The open texture allows for a smooth even finish. Brown – Medium: A general purpose abrasive pad for most cleaning and finishing requirements, excellent for cleaning or surface preparation. Removes fine grout haze and grout from tiled or stone surfaces and may be used with most solvents. Black – Coarse: A heavy-duty abrasive pad for the initial cleaning of newly tiled areas and for the removal of excess grout. Use with heavy-duty cleaners for best results. Open mesh texture can minimise the loading of liquids efficiently and make it easy to wash out after use.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Scouring Pad Holder + Fine Medium & Coarse Pads",
+  "specifications": [
+    "Pad size approx. 250 x 120 x 20mm",
+    "Includes 1 x Scouring Pad Holder, 1 x White (Fine) nylon pad, 1 x Brown (Medium) nylon pad, 1 x Black (Coarse) nylon pad",
+    "Comfortable to use with hook and loop fixing system",
+    "Versatile for both tiling and cleaning tasks"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-shed-and-fence-brush-100mm-4-in.html|>
+## Faithfull Shed & Fence Brush 100mm (4 in)
+
+{
+  "price": "€9.68 inc VAT (€7.87 exc.vat)",
+  "description": "The Faithfull traditional style, wood care paint brush with a long length synthetic and natural bristle mix that is hardwearing and suitable for use with all modern wood care finish products. Fitted with a blue easy-clean plastic handle. Size: 100 x 75 x 20 mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Shed & Fence Brush 100mm (4 in)",
+  "specifications": [
+    "Size: 100 x 75 x 20 mm",
+    "Material: Synthetic and natural bristle mix",
+    "Handle: Blue easy-clean plastic"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-single-wheel-glasscutter-tungsten-carbide.html|>
+## Faithfull Single Wheel Glasscutter Tungsten Carbide
+
+{
+  "price": "€5.92 inc VAT (€4.81 exc.vat)",
+  "description": "This Faithfull Single Wheel Glass Cutter has a tungsten carbide wheel and is ideal for the occasional user. The metal die-cast handle features various sized notches for nibbling away waste glass after cutting.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Single Wheel Glasscutter Tungsten Carbide",
+  "specifications": [
+    "Tungsten carbide wheel",
+    "Metal die-cast handle",
+    "Ideal for occasional users"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-six-wheel-glasscutter-tungsten-carbide---wood-handle.html|>
+## Faithfull Six Wheel Glasscutter Tungsten Carbide - Wood Handle
+
+{
+  "price": "€6.97 inc VAT (€5.67 exc.vat)",
+  "description": "This Faithfull Glasscutter features a revolving all-steel turret accommodating six tungsten carbide cutter wheels. A blunt cutter wheel can easily be replaced by rotating the numbered turret to install a fresh cutter wheel. It is fitted with a wooden handle and has various sized notches for nibbling away waste glass after cutting.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Six Wheel Glasscutter Tungsten Carbide - Wood Handle",
+  "specifications": [
+    "Six tungsten carbide cutter wheels",
+    "Revolving all-steel turret",
+    "Wooden handle",
+    "Various sized notches for nibbling waste glass"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-grip-combination-shave-hook.html|>
+## Faithfull Soft Grip Combination Shave Hook
+
+{
+  "price": "€5.99 inc VAT (€4.87 exc.vat)",
+  "description": "The Faithfull Combination Shave Hook features a stainless steel blade for long-life and resistance to corrosion. The soft grip handle provides greater comfort. Shave Hooks are used for stripping paint from surfaces such as window frames, mouldings, doors and furniture. The heart-shaped blade of the Combination Shave Hook aids the removal of paint from curved and difficult surfaces.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Grip Combination Shave Hook",
+  "specifications": [
+    "Blade Length: 100mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-grip-decorators-4-in-1-tool.html|>
+## Faithfull Soft Grip Decorator's 4-in-1 Tool
+
+{
+  "price": "€6.41 inc VAT (€5.21 exc.vat)",
+  "description": "Faithfull Soft Grip Decorator's 4-in-1 Tool is a multipurpose decorating tool with stainless steel blade for long-life and resistance to corrosion. The soft grip handle provides greater comfort. It features a metal end cap that can be used to knock back protruding nails. This versatile tool can be used as a flat scraper and features a scraper point for cleaning out cracks prior to filling. The curved blade is ideal for cleaning rollers. Blade Width: 60mm",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Grip Decorator's 4-in-1 Tool",
+  "specifications": [
+    "Blade Width: 60mm",
+    "Multipurpose decorating tool",
+    "Stainless steel blade for long-life",
+    "Soft grip handle for comfort",
+    "Metal end cap for knocking back protruding nails"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-grip-putty-knife.html|>
+## Faithfull Soft Grip Putty Knife
+
+{
+  "price": "€4.30 inc VAT (€3.50 exc.vat)",
+  "description": "The Faithfull Putty Knife features a stainless steel blade for long-life and resistance to corrosion. The soft grip handle provides greater comfort. It is fitted with a metal end cap that can be used to knock back protruding nails. Specially designed for applying putty and filler in cracks and corners, this putty knife features a 'clipt point' blade, shaped with one side curved and a straight edged side cut at an oblique angle.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Grip Putty Knife",
+  "specifications": [
+    "Blade Width: 38mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-grip-roller-frame.html|>
+## Faithfull Soft Grip Roller Frame
+
+{
+  "price": "€5.55 inc VAT",
+  "description": "The Faithfull Soft Grip Roller Frame has a comfortable soft grip handle making this roller ideal for lengthy painting sessions. With a cage mounting mechanism that produces a smooth rolling action, it also allows easy mounting of roller refills by simply pushing them on, or pulling them off the frame. The handle has an internal thread that allows the roller to be used with Faithfull Roller Extension Poles FAIREXPOLE & FAIREXPOLEL as well as other makes of roller extension pole.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Grip Roller Frame",
+  "specifications": [
+    "Soft grip handle for comfort",
+    "Cage mounting mechanism for smooth rolling",
+    "Compatible with Faithfull Roller Extension Poles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-grip-seam-roller---soft.html|>
+## Faithfull Soft Grip Seam Roller - Soft
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "The Faithfull Soft Seam Roller features a stainless steel frame for long-life and resistance to corrosion. The soft grip handle provides greater comfort. Soft rollers are ideal for smoothing seams on embossed wallpaper so that the pattern is not flattened. Roller Width: 40mm",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Grip Seam Roller - Soft",
+  "specifications": [
+    "Roller Width: 40mm",
+    "Stainless steel frame for long-life",
+    "Soft grip handle for comfort"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-grip-seam-roller---wooden.html|>
+## Faithfull Soft Grip Seam Roller - Wooden
+
+{
+  "price": "€6.97 inc VAT (€5.67 exc.vat)",
+  "description": "The Faithfull Wooden Seam Roller features a stainless steel frame for long-life and resistance to corrosion. The soft grip handle provides greater comfort. Wooden rollers are ideal for smoothing seams on thin or flat sheet wallpapers. Roller Width: 40mm",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Grip Seam Roller - Wooden",
+  "specifications": [
+    "Roller Width: 40mm",
+    "Stainless steel frame for long-life and resistance to corrosion",
+    "Soft grip handle for greater comfort"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-soft-grip-triangular-shave-hook.html|>
+## Faithfull Soft Grip Triangular Shave Hook
+
+{
+  "price": "€5.02 inc VAT (€4.08 exc.vat)",
+  "description": "The Faithfull Triangular Shave Hook features a stainless steel blade for long-life and resistance to corrosion. The soft grip handle provides greater comfort. Shave Hooks are used for stripping paint from surfaces such as window frames, mouldings, doors and furniture. Blade Length: 100mm",
+  "availability": "In Stock",
+  "product_name": "Faithfull Soft Grip Triangular Shave Hook",
+  "specifications": [
+    "Blade Length: 100mm",
+    "Stainless steel blade for long-life and resistance to corrosion",
+    "Soft grip handle for greater comfort"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-spare-scraper-blades.html|>
+## Faithfull Spare Scraper Blades
+
+{
+  "price": "from €3.15 inc VAT",
+  "description": "These Faithfull high-carbon steel replacement blades are designed to fit the Faithfull Heavy-Duty Long Handle Scrapers.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Spare Scraper Blades",
+  "specifications": [
+    "Available sizes: 100mm, 150mm",
+    "High-carbon steel replacement blades",
+    "Designed for Faithfull Heavy-Duty Long Handle Scrapers"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-stairway-cotton-twill-dust-sheet-24ft-x-3ft.html|>
+## Faithfull Stairway Cotton Twill Dust Sheet 24ft x 3ft
+
+{
+  "price": "€13.28 inc VAT (€10.80 exc.vat)",
+  "description": "Stair runner dust sheet especially for stairs, made from 100% cotton twill for long life. Professional quality for painters and decorators, absorbs paint splashes and is machine washable at low temperatures. Size: 7.0m x 0.9m (24ft x 3ft) approx.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Stairway Cotton Twill Dust Sheet 24ft x 3ft",
+  "specifications": [
+    "Size: 7.0m x 0.9m (24ft x 3ft) approx.",
+    "Material: 100% cotton twill",
+    "Machine washable at low temperatures",
+    "Absorbs paint splashes"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-utility-paint-brushes.html|>
+## Faithfull Utility Paint Brushes
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "These Faithfull Utility Paint Brushes are made from a mix of natural and synthetic bristles and are suitable for use with all types of paint. The brushes feature a rust-resistant ferrule and a contoured handle for greater user comfort.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Utility Paint Brushes",
+  "specifications": [
+    "Set of 10 pieces available in various sizes: 100mm (4in), 19mm (3/4in), 25mm (1in), 38mm (1.1/2in), 50mm (2in), 75mm (3in)",
+    "Made from a mix of natural and synthetic bristles",
+    "Rust-resistant ferrule",
+    "Contoured handle for comfort"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wall-brush-127mm-5in.html|>
+## Faithfull Wall Brush 127mm (5in)
+
+{
+  "price": "€21.64 inc VAT (€17.59 exc.vat)",
+  "description": "The Faithfull wide brush primarily used for painting walls but also widely used as a plasterer's splash brush.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Wall Brush 127mm (5in)",
+  "specifications": [
+    "Size: 127 x 100 x 27 mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wallpaper-brush-200mm-8-in.html|>
+## Faithfull Wallpaper Brush 200mm (8 in)
+
+{
+  "price": "€8.45 inc VAT (€6.87 exc.vat)",
+  "description": "The Faithfull FAIPBHANGDIY wallpaper brush is 200mm (8 inch) and can be used as an extra wide wallpaper hanging brush for positioning and smoothing out wallpaper. Ideal for the home user, the Faithfull FAIPBHANGDIY wallpaper brush has a wooden handle with 3 rows of long soft white PVC bristles. Size: 200 x 65 x 20mm",
+  "availability": "In Stock",
+  "product_name": "Faithfull Wallpaper Brush 200mm (8 in)",
+  "specifications": [
+    "Size: 200 x 65 x 20mm",
+    "Material: Wooden handle with soft PVC bristles"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-window-and-glass-scraper-170-x-60mm-blade.html|>
+## Faithfull Window & Glass Scraper 170 x 60mm Blade
+
+{
+  "price": "€2.46 inc VAT (€2.00 exc.vat)",
+  "description": "The Faithfull plastic window and glass scraper ideal for removing paint from window frames and windows. Utilises a heavy-duty trimming knife blade. Comes complete with blade and blade guard. With the blade guard attached, the scraper can be used to clear ice off windscreens.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Window & Glass Scraper 170 x 60mm Blade",
+  "specifications": [
+    "Blade width: 60mm",
+    "Spare blades: FAITKB10 or FAITKB10UK"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wood-care-paint-brush-and-roller-kit-6-piece.html|>
+## Faithfull Wood Care Paint Brush & Roller Kit, 6 Piece
+
+{
+  "price": "€23.54 inc VAT (€19.14 exc.vat)",
+  "description": "This Faithfull Paint Brush & Roller Kit is ideal for use in transforming exterior wooden surfaces. It includes all you need to treat your shed, fence and decking boards as well as other exterior wooden surfaces, rough or smooth.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Wood Care Paint Brush & Roller Kit, 6 Piece",
+  "specifications": [
+    "1 x Paint Roller 100mm (4in) with a soft grip handle",
+    "2 x Paint Roller Sleeves, heavy-duty microfibre with a medium pile",
+    "1 x Plastic Roller Tray",
+    "1 x Exterior Block Brush 120 x 40mm (5 x 1.1/2in)",
+    "1 x Traditional Style Wood Care Brush 100mm (4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wood-scraper-blade-4-sided-62mm.html|>
+## Faithfull Wood Scraper Blade 4-Sided 62mm
+
+{
+  "price": "€1.99 inc VAT (€1.62 exc.vat)",
+  "description": "The Faithfull 4-Sided 62mm replacement blade for use with the FAI WS624 wood scraper.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Wood Scraper Blade 4-Sided 62mm",
+  "specifications": [
+    "4-Sided design",
+    "62mm size",
+    "Replacement blade for FAI WS624 wood scraper"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-wood-scraper-soft-grip-4-sided-blade-62mm.html|>
+## Faithfull Wood Scraper Soft-Grip 4-Sided Blade 62mm
+
+{
+  "price": "€7.71 inc VAT (€6.27 exc.vat)",
+  "description": "Faithfull WS624 Soft grip scraper with a 4-sided 62 mm blade. Ideal for removing paint and varnish from wooden doors and window frames. The blade can be rotated when a scraping edge becomes blunt. Length: 285mm.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Wood Scraper Soft-Grip 4-Sided Blade 62mm",
+  "specifications": [
+    "4-sided 62 mm blade",
+    "Length: 285mm",
+    "Ideal for removing paint and varnish"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-woodcare-shed-and-fence-brush-120mm-4-34in.html|>
+## Faithfull Woodcare Shed & Fence Brush 120mm (4 3/4in)
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "The Faithfull wide brush is ideal for painting fences, sheds, garden furniture and all types of timber constructions. The synthetic bristles make it suitable for use with most outdoor wood care products.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Woodcare Shed & Fence Brush 120mm (4 3/4in)",
+  "specifications": [
+    "Size: 120 x 65 x 40 mm"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+
+<|https://www.mydiy.ie/products/faithfull-woven-polyacrylic-masonry-roller-sleeve-230-x-44mm-9-x-134in.html|>
+## Faithfull Woven Polyacrylic Masonry Roller Sleeve 230 x 44mm (9 x 1.3/4in)
+
+{
+  "price": "€8.57 inc VAT (€6.97 exc.vat)",
+  "description": "The Faithfull Masonry Roller, made from high-quality, woven polyacrylic, has a long-lasting, strong construction and good paint holding capacity. Suitable for cage-type frames and for use with emulsion or masonry paints on rough, semi-rough and uneven surfaces. It is ideal for brickwork, rendered masonry and other textured coatings.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Woven Polyacrylic Masonry Roller Sleeve 230 x 44mm (9 x 1.3/4in)",
+  "specifications": [
+    "Length: 230mm (9in)",
+    "Diameter: 44mm (1.3/4in)"
+  ],
+  "product_category": "Decorating & Wood Care"
+}
+

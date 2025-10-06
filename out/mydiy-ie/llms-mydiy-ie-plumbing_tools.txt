@@ -1,0 +1,53 @@
+<|https://www.mydiy.ie/products/butane-regulator-kit.html|>
+## Butane Regulator Kit
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "Butane Regulator Kit. All you’ll need to connect your gas appliance to a butane or propane gas cylinder. Kit includes: Gas regulator, one and a half metre of HP hose and two hose clips.",
+  "availability": "Out of Stock",
+  "product_name": "Butane Regulator Kit",
+  "specifications": [
+    "GASREGKIT : €19.99",
+    "Includes gas regulator, 1.5m HP hose, and 2 hose clips."
+  ],
+  "product_category": "Plumbing Tools"
+}
+
+
+
+<|https://www.mydiy.ie/products/talatools-14-turn-stopcock-key.html|>
+## TALAtools 1/4 Turn Stopcock Key
+
+{
+  "price": "€2.66 inc VAT (€2.16 exc.vat)",
+  "description": "Underground stopcock key. May be linked together. Suitable for water meters. Quarter turn.",
+  "availability": "Out of Stock",
+  "product_name": "TALAtools 1/4 Turn Stopcock Key",
+  "specifications": [
+    "1/4 Turn Stopcock Key",
+    "TAL69463 : €2.66",
+    "Underground stopcock key",
+    "May be linked together",
+    "Suitable for water meters",
+    "Quarter turn"
+  ],
+  "product_category": "Plumbing Tools"
+}
+
+<|https://www.mydiy.ie/products/talatools-double-end-basin-wrench.html|>
+## TALAtools Double End Basin Wrench
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "For working on 15mm and 22mm fittings. Ideal for use in awkward places such as backnuts fitted to taps behind sinks or baths.",
+  "availability": "In Stock",
+  "product_name": "TALAtools Double End Basin Wrench",
+  "specifications": [
+    "Model: TAL69432",
+    "Price: €12.99",
+    "Ideal for 15mm and 22mm fittings",
+    "Suitable for awkward places"
+  ],
+  "product_category": "Plumbing Tools"
+}
+

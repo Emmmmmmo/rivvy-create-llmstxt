@@ -1,0 +1,32 @@
+<|https://www.mydiy.ie/products/faithfull-carpenters-pencils-display.html|>
+## Faithfull Carpenter's Pencils Display
+
+{
+  "price": "€58.44 inc VAT",
+  "description": "The Faithfull Carpenter's Pencils lay down a clear visible line irrespective of surface or grain. With the exception of some metals and polished or glazed surfaces, almost any material can be marked out with these carpenter's pencils. The pencil has flat sides to prevent it from rolling away. There are 3 colour coded grades of hardness to cater for different surfaces. Supplied as a counter display unit of 80 loose pencils.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Carpenter's Pencils Display",
+  "specifications": [
+    "Available in Green / Hard (80) and Red / Medium (80)",
+    "Counter display unit of 80 loose pencils"
+  ],
+  "product_category": "Merchandising"
+}
+
+
+
+<|https://www.mydiy.ie/products/dewalt-pegmetal-stand-alone-stand.html|>
+## DEWALT Pegmetal Stand Alone Stand
+
+{
+  "price": "€57,195.00 inc VAT (€46,500.00 exc.vat)",
+  "description": "DEWALT Pegmetal Stand Alone Stand",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Pegmetal Stand Alone Stand",
+  "specifications": [
+    "DEWMP00631 : €57,195.00",
+    "1 x DEWALT Pegmetal Stand Alone Stand"
+  ],
+  "product_category": "Merchandising"
+}
+

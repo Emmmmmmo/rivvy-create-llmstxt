@@ -1076,7 +1076,7 @@ class AgnosticLLMsUpdater:
         normalized_url = entry.get("normalized_url")
         
         # Only add if not already in retry queue
-        if not self.retry_queue.contains(normalized_url):
+        if normalized_url not in self.retry_queue._index:
             self.retry_queue.enqueue_entry(entry)
             self.retry_queue.save()
             logger.info(f"Added to retry queue: {url}")

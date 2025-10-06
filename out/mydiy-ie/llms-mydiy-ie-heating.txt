@@ -1,0 +1,62 @@
+<|https://www.mydiy.ie/products/batavia-maxxheat-premium-4-in-1-multi-heater-2500w-240v.html|>
+## Batavia MAXXHEAT Premium 4-in-1 Multi Heater 2500W 240V
+
+{
+  "price": "€62.12 inc VAT (€50.50 exc.vat)",
+  "description": "The Batavia MAXXHEAT is safe and environmentally friendly. It has a unique rotatable handle that enables easy switching between functions. The Click&Go Pole enables use without bending, for fatigue-free working. Supplied with 5 different heads: - Weed Head; destroy weeds within 5 seconds (heating time). - Hot Air Gun Head and Scraper Head. - Barbecue Lighter Head; a safer and faster way of lighting barbecues. - Stainless Steel Heating Pin; for specific targeting of weeds underground. No brown spots in the lawn or collateral damage within the flowerbed or vegetable garden.",
+  "availability": "In Stock",
+  "product_name": "Batavia MAXXHEAT Premium 4-in-1 Multi Heater 2500W 240V",
+  "specifications": [
+    "Air Flow: 500 L/min",
+    "Temperature Settings: 50°C, 400°C, 600°C"
+  ],
+  "product_category": "Heating"
+}
+
+
+
+<|https://www.mydiy.ie/products/superser-radiant-gas-heater.html|>
+## Superser Radiant Gas Heater
+
+{
+  "price": "€149.99 inc VAT",
+  "description": "Introducing the Flogas Superser F180 Portable Gas Infrared Heater – your efficient and cost-effective solution for keeping your home warm and comfortable. Embrace the advantages of gas heating while enjoying the mobility and convenience of this exceptional heater.",
+  "availability": "In Stock",
+  "product_name": "Superser Radiant Gas Heater",
+  "specifications": [
+    "Powerful Heating: 4.2kw output",
+    "LPG Efficiency: Operates with LPG (liquefied petroleum gas) - butane cylinders",
+    "Radiant Cabinet Design: Provides focused and instant warmth",
+    "Mobility: Equipped with 4 rotary castor wheels",
+    "Fast Heat-Up Time: Quick heat-up even in cold weather",
+    "Adjustable Heat Settings: Three heat settings",
+    "Convenient Container: For standard butane cylinder",
+    "Complete Package: Supplied with hose, clips, and regulator",
+    "Compact Design: Dimensions 70cm (h), 31cm (d), 42cm (w)",
+    "Flame Failure Device: Cuts off gas supply if flame is extinguished",
+    "Oxygen Depletion System (ODS): Shuts down heater if oxygen level drops"
+  ],
+  "product_category": "Heating"
+}
+
+<|https://www.mydiy.ie/products/faithfull-power-plus-ceramic-fan-heater-2kw-240v.html|>
+## Faithfull Power Plus Ceramic Fan Heater 2kW 240V
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "The Faithfull Ceramic Fan Heater has been designed to provide a controlled instant heat source. Its small size makes it suitable for use in any room and is ideal for use in homes, garages, warehouses or workshops. This compact unit features a ceramic PTC heating element that is highly efficient, providing instant heat on start-up. Coupled with the powerful fan, it distributes the heat over a large area (20m²). Two preset heat settings make the heater extremely economical, as the maximum output can be set at either 1kW or 2kW. The required room temperature can be set using the internal thermostat, once selected the self-adjusting thermostat will maintain the room temperature and adjust the heater's output accordingly. For added safety, the heater has a self-resetting thermal cut-out and tip-over protection that switches the unit off if it's knocked over. The heater also features a fan-only setting that is especially useful on hot days by providing a cooling breeze. Complete with 1.5m power cable and fitted plug.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Power Plus Ceramic Fan Heater 2kW 240V",
+  "specifications": [
+    "Voltage: 220-240V~50Hz",
+    "Settings: 25W / 1050W / 2000W",
+    "Heating Area: 20m²",
+    "Air Output: 139m³/hr.",
+    "Self-resetting Thermostat: 65°",
+    "Dimensions: 210 x 130 x 260mm",
+    "IP Rating: IP20",
+    "Weight: 1.5kg"
+  ],
+  "product_category": "Heating"
+}
+

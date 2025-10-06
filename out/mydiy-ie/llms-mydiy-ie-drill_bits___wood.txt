@@ -1,0 +1,481 @@
+<|https://www.mydiy.ie/products/irwin-6x-blue-groove-wood-drill-bits.html|>
+## IRWIN 6X Blue Groove Wood Drill Bits
+
+{
+  "price": "from €11.93 inc VAT",
+  "description": "The Irwin Blue Groove 6x drill bits are ideal for drilling wood and offer 6x faster drilling penetration than a standard flat bit. Their 'Tri-Flute' design allows for faster chip ejection and their full screw tips ensure ease of use and pull through. The cutting spurs produce clean holes with minimal break out and the tampered flute reduces binding. The drill bits are also heat treated for extra durability.",
+  "availability": "In Stock",
+  "product_name": "IRWIN 6X Blue Groove Wood Drill Bits",
+  "specifications": [
+    "Available sizes: 14mm, 16mm, 18mm, 20mm, 22mm, 25mm, 28mm, 32mm, Set of 3",
+    "Tri-Flute design for faster chip ejection",
+    "Heat treated for extra durability",
+    "Cutting spurs for clean holes",
+    "Tampered flute reduces binding"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-wood-auger-drillbit.html|>
+## Milwaukee Wood Auger Drillbit
+
+{
+  "price": "€13.32 inc VAT",
+  "description": "Milwaukee Wood Auger Drill Bits are for heavy-duty, precision drilling in soft and hard wood. They can perform a variety of drilling jobs, such as large section beams, joists, floor boarding, chipboard, and plywood. The Lewis flute design allows for rapid chip removal and the Hex shank provides a secure chuck grip.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Wood Auger Drillbit",
+  "specifications": [
+    "Available sizes: 10mm x 230mm, 16 x 230mm, 20mm x 230mm, 26 x 230mm",
+    "Heavy-duty, precision drilling in soft and hard wood",
+    "Lewis flute design for rapid chip removal",
+    "Hex shank for secure chuck grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-auger-bit---long-series.html|>
+## IRWIN Auger Bit - Long Series
+
+{
+  "price": "€19.56 inc VAT",
+  "description": "The Irwin long auger wood drill bits have been designed for all general wood boring and offer a superior performance. The single spur cutting edge scribes the circumference of the hole for a smoother quality finish. The hexagon shank prevents slipping in a drill chuck or bit extension. The solid centre provides extra rigidity whilst boring, the self-feeding screw point provides faster boring in both soft and hard woods and the fully hardened body from tip to shank provides extra durability.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Auger Bit - Long Series",
+  "specifications": [
+    "Available sizes: 6mm, 8mm, 10mm, 12mm, 13mm, 14mm, 16mm, 18mm, 19mm, 20mm, 22mm, 24mm, 25mm, 26mm, 28mm, 30mm, 32mm, 35mm, 400mm length",
+    "Hexagon shank prevents slipping",
+    "Self-feeding screw point for faster boring",
+    "Fully hardened body for extra durability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-auger-drill-bit.html|>
+## IRWIN Auger Drill Bit
+
+{
+  "price": "from €12.72 inc VAT",
+  "description": "The Irwin auger wood drill bit has been designed for all general wood boring and offers a superior performance. The single spur cutting edge scribes the circumference of the hole for a smoother quality finish. The hexagon shank prevents slipping in a drill chuck or bit extension. The solid centre provides extra rigidity whilst boring, the self-feeding screw point provides faster boring in both soft and hard woods and the fully hardened body from tip to shank provides extra durability.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Auger Drill Bit",
+  "specifications": [
+    "Available sizes: 10mm x 191mm, 11mm x 191mm, 12mm x 191mm, 13mm x 191mm, 14mm x 191mm, 15mm x 191mm, 16mm x 191mm, 17mm x 191mm, 18mm x 191mm, 19mm x 191mm, 20mm x 191mm, 22mm x 191mm, 24mm x 191mm, 25mm x 191mm, 26mm x 191mm, 28mm x 240mm, 30mm x 240mm, 32mm x 240mm, 38mm x 240mm, 40mm x 240mm, 5mm X 150mm, 6mm x 191mm, 8mm x 191mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-auger-drill-bit-extensions.html|>
+## IRWIN Auger Drill Bit Extensions
+
+{
+  "price": "from €63.19 inc VAT",
+  "description": "Irwin extension bar for Auger drill bits to lengthen the reach of a drill. The hex shank prevents the extension slipping in the chuck.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Auger Drill Bit Extensions",
+  "specifications": [
+    "Select Option: 450mm 10-25mm",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-wood-auger-drill-bits.html|>
+## DEWALT Wood Auger Drill Bits
+
+{
+  "price": "from €15.57 inc VAT",
+  "description": "The DEWALT Wood Auger Drill Bits have a threaded centre point to aid accurate drilling. The outer cutting spur provides clean holes with less splintering and the drill bits feature a special Lewis spiral flute which allows for fast removal of debris and rapid drilling. This range of drill bits have the following specifications: Diameter 6 - 10mm cylindrical shank, Diameters 12 - 32mm hexagonal shank. Applications: Special wood bit for rapid, precise drilling. Typically used for boring clean precise holes through beams, joists, doors etc.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Wood Auger Drill Bits",
+  "specifications": [
+    "Diameter 6 - 10mm cylindrical shank",
+    "Diameters 12 - 32mm hexagonal shank",
+    "Special wood bit for rapid, precise drilling",
+    "Typically used for boring clean precise holes through beams, joists, doors etc."
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-6x-blue-groove-stubby-wood-bit.html|>
+## IRWIN 6X Blue Groove Stubby Wood Bit
+
+{
+  "price": "€10.57 inc VAT",
+  "description": "The Irwin Blue Groove 6x drill bits are ideal for drilling wood and offer 6x faster drilling penetration than a standard flat bit. Their 'Tri-Flute' design allows for faster chip ejection and their full screw tips ensure ease of use and pull through. The cutting spurs produce clean holes with minimal break out and the tampered flute reduces binding. The drill bits are also heat treated for extra durability. These stubby drill bits are 10cm (4in) long, making them ideal for drilling through joists or in enclosed areas. Suitable for holes up to 5cm (2in) deep.",
+  "availability": "In Stock",
+  "product_name": "IRWIN 6X Blue Groove Stubby Wood Bit",
+  "specifications": [
+    "6x faster drilling penetration than standard flat bit",
+    "Tri-Flute design for faster chip ejection",
+    "Full screw tips for ease of use",
+    "Heat treated for extra durability",
+    "10cm (4in) long, suitable for holes up to 5cm (2in) deep"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-6x-blue-groove-long-wood-bits.html|>
+## IRWIN 6X Blue Groove Long Wood Bits
+
+{
+  "price": "from €27.07 inc VAT",
+  "description": "The Irwin Blue Groove 6x drill bits are ideal for drilling wood and offer 6x faster drilling penetration than a standard flat bit. Their 'Tri-Flute' design allows for faster chip ejection and their full screw tips ensure ease of use and pull through. The cutting spurs produce clean holes with minimal break out and the tampered flute reduces binding. The drill bits are also heat treated for extra durability. These extra long bits are 40cm (16in) in length, making them ideal for drilling through walls, ceilings and floors.",
+  "availability": "In Stock",
+  "product_name": "IRWIN 6X Blue Groove Long Wood Bits",
+  "specifications": [
+    "6x faster drilling penetration than standard flat bits",
+    "Tri-Flute design for faster chip ejection",
+    "Full screw tips for ease of use",
+    "Cutting spurs for clean holes",
+    "Tampered flute reduces binding",
+    "Heat treated for extra durability",
+    "Length: 40cm (16in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-blue-groove-6x-wood-bit-set-6-piece.html|>
+## IRWIN® Blue Groove 6X Wood Bit Set, 6 Piece
+
+{
+  "price": "€80.87 inc VAT (€65.75 exc.vat)",
+  "description": "IRWIN® Blue Groove 6X Wood Bits are ideal for drilling wood and offer 6x faster drilling penetration than a standard flat bit. Their Tri-Flute design allows for faster chip ejection and their full screw tips ensure ease of use and pull through. The cutting spurs produce clean holes with minimal break out and the tapered flute reduces binding. The drill bits are also heat-treated for extra durability. This 6 Piece Set contains the following sizes: 16, 18, 20, 22, 25, 32mm.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Blue Groove 6X Wood Bit Set, 6 Piece",
+  "specifications": [
+    "6x faster drilling penetration than standard flat bit",
+    "Tri-Flute design for faster chip ejection",
+    "Full screw tips for ease of use",
+    "Cutting spurs for clean holes",
+    "Tapered flute reduces binding",
+    "Heat-treated for extra durability",
+    "Includes sizes: 16, 18, 20, 22, 25, 32mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-kriabh10235.html|>
+## Krino New Group for KRIABH10235
+
+{
+  "price": "€9.85",
+  "description": "Krino New Group for KRIABH10235",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIABH10235",
+  "specifications": [
+    "List: €12.72",
+    "You save €2.87",
+    "Option: Select One -"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-performance-stubby-auger-bit.html|>
+## Makita Performance Stubby Auger Bit
+
+{
+  "price": "€20.87 inc VAT",
+  "description": "Designed to be used in angle drills. Enables access into confined spaces. Excellent feed rate with low pressure required.",
+  "availability": "In Stock",
+  "product_name": "Makita Performance Stubby Auger Bit",
+  "specifications": [
+    "Select Option: 35 x 120mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-22-75mm-expansive-wood-bit.html|>
+## Krino 22-75Mm Expansive Wood Bit
+
+{
+  "price": "€40.73 inc VAT (€33.11 exc.vat)",
+  "description": "22-75Mm Expansive Wood Bit",
+  "availability": "Out of Stock",
+  "product_name": "Krino 22-75Mm Expansive Wood Bit",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-brad-point-drill-bits.html|>
+## IRWIN Brad Point Drill Bits
+
+{
+  "price": "from €2.52 inc VAT",
+  "description": "The Irwin Brad point drill bits are specially designed for precision wood drilling, ideal for furniture and cabinet making. The centre point is for easy start up and the spurred cutting head is designed to reduce splintering and ensure smooth clean holes. The body is fully hardened for maximum wear resistance. They also have wide flutes which provide a fast, continuous flow of chips.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Brad Point Drill Bits",
+  "specifications": [
+    "Available sizes: 3mm, 4mm, 5mm, 6mm, 8mm, 10mm, 12mm, 13mm, 16mm",
+    "Designed for precision wood drilling",
+    "Hardened body for maximum wear resistance",
+    "Wide flutes for fast chip flow"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-blue-groove-4x-flat-bits.html|>
+## IRWIN Blue Groove 4X Flat Bits
+
+{
+  "price": "from €8.15 inc VAT",
+  "description": "The Irwin 4X Blue Groove Flat Bits have a patented groove point, and cutting edge designed to cut and not scrape the timber 4 times faster than standard flat bits. The parabolic scoop optimises control and removal of wood chips. Increased relief angle from 12° to 17°. The shank is 157mm in length and 10% larger in diameter for added durability.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Blue Groove 4X Flat Bits",
+  "specifications": [
+    "Patented groove point for faster cutting",
+    "Parabolic scoop for wood chip removal",
+    "Increased relief angle from 12° to 17°",
+    "Shank length: 157mm",
+    "10% larger diameter for durability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-flat-wood-drill-bit.html|>
+## Milwaukee Flat Wood Drill Bit
+
+{
+  "price": "from €4.69 inc VAT",
+  "description": "Milwaukee Flat Wood Drill Bits provide fast drilling for larger diameters. They are suitable for drilling in natural hard and soft wood and chipboard. Ideal for door locks, morticing, electrical and plumbing work. With 1/4in Hex shank reception (DIN E 6.3) for direct insertion into the power tool or for secure chuck grip, a ground centre point for accurate positioning and sharp wings for improved cutting performance.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Flat Wood Drill Bit",
+  "specifications": [
+    "Select Option: 13mm x 160mm, 22mm x 160mm",
+    "1/4in Hex shank reception (DIN E 6.3)",
+    "Ground centre point for accurate positioning",
+    "Sharp wings for improved cutting performance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-4x-blue-groove-extensions.html|>
+## IRWIN 4X Blue Groove Extensions
+
+{
+  "price": "€19.68 inc VAT",
+  "description": "Quick change 4X Blue Groove Quick Change Extensions. They are used with 4X flat bits when extra drilling depth is required.",
+  "availability": "In Stock",
+  "product_name": "IRWIN 4X Blue Groove Extensions",
+  "specifications": [
+    "Select Option: 150mm, 300mm",
+    "List Price: €22.32",
+    "You save: €2.64"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-4x-blue-grove-flat-bits.html|>
+## IRWIN 4X Blue Grove Flat Bits
+
+{
+  "price": "€15.95 inc VAT",
+  "description": "The Irwin Long Series 4X Blue Groove Flat Bits have a patented groove point, and cutting edge designed to cut and not scrape the timber 4 times faster than standard flat bits. The parabolic scoop optimises control and removal of wood chips. Increased relief angle from 12° to 17°. The shank is 400mm in length and 10% larger in diameter for added durability.",
+  "availability": "In Stock",
+  "product_name": "IRWIN 4X Blue Grove Flat Bits",
+  "specifications": [
+    "Patented groove point",
+    "Cuts timber 4 times faster than standard flat bits",
+    "Parabolic scoop for wood chip removal",
+    "Increased relief angle from 12° to 17°",
+    "Shank length: 400mm",
+    "10% larger diameter for durability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-blue-groove-4x-flat-bit-set-8-piece.html|>
+## IRWIN® Blue Groove 4X Flat Bit Set, 8 Piece
+
+{
+  "price": "€63.48 inc VAT (€51.61 exc.vat)",
+  "description": "IRWIN® Blue Groove 4X Flat Bits have a patented groove point and cutting edge, designed to cut and not scrape the timber 4x faster than standard flat bits. The parabolic scoop optimises control and removal of wood chips. Increased relief angle from 12° to 17°. The shank is 152mm in length and 10% larger in diameter for added durability. This 8 Piece Set contains the following sizes: 12, 16, 18, 20, 22, 25, 28, 32mm.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Blue Groove 4X Flat Bit Set, 8 Piece",
+  "specifications": [
+    "Patented groove point and cutting edge",
+    "Cuts 4x faster than standard flat bits",
+    "Parabolic scoop for wood chip removal",
+    "Increased relief angle from 12° to 17°",
+    "Shank length: 152mm",
+    "10% larger diameter for durability",
+    "Includes sizes: 12, 16, 18, 20, 22, 25, 28, 32mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-300mm-spade-bit-extension.html|>
+## Krino 300Mm Spade Bit Extension
+
+{
+  "price": "€21.83 inc VAT (€17.75 exc.vat)",
+  "description": "300Mm Spade Bit Extension",
+  "availability": "Out of Stock",
+  "product_name": "Krino 300Mm Spade Bit Extension",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-6pce-wood-spade-bit-set-10-25.html|>
+## Krino 6Pce Wood Spade Bit Set 10-25
+
+{
+  "price": "€24.43 inc VAT (€19.86 exc.vat)",
+  "description": "6Pce Wood Spade Bit Set 10-25",
+  "availability": "In Stock",
+  "product_name": "Krino 6Pce Wood Spade Bit Set 10-25",
+  "specifications": [
+    "KRIFBSET6 : €24.43",
+    "List: €31.51",
+    "You save €7.08",
+    "Based on 1 customer reviews"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-flatwood-drill-bit-28mm-154mm.html|>
+## Stanley Tools Flatwood Drill Bit 28Mm 154Mm
+
+{
+  "price": "€6.24 inc VAT (€5.07 exc.vat)",
+  "description": "Flatwood Drill Bit 28Mm 154Mm",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Flatwood Drill Bit 28Mm 154Mm",
+  "specifications": [
+    "Model: STA52060Q",
+    "List Price: €6.70",
+    "You save: €0.46"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-flat-wood-drill-bits.html|>
+## Starrett Flat Wood Drill Bits
+
+{
+  "price": "from €5.44 inc VAT",
+  "description": "The Starrett Flat Wood Drill Bit is made with twin spurs for clean entry and exit of holes. A precision ground tip enables accurate, fast starting. The cutting head design helps to reduce heat, this combined with a specialised heat treatment helps to prolong tool life. Fitted with a 6.35mm (1/4in) hexagonal shank suitable for impact drills.",
+  "availability": "In Stock",
+  "product_name": "Starrett Flat Wood Drill Bits",
+  "specifications": [
+    "Select Option: 12mm, 20mm, 25mm, 32mm, 8 Piece Set",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krifb10p.html|>
+## Krino New Group for KRIFB10P
+
+{
+  "price": "€4.65 inc VAT",
+  "description": "Krino New Group for KRIFB10P",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIFB10P",
+  "specifications": [
+    "List: €6.00",
+    "You save €1.35",
+    "Option: Select One -"
+  ]
+}
+
+<|https://www.mydiy.ie/products/monument-1950p-flat-bit-set-6-piece.html|>
+## Monument 1950P Flat Bit Set 6 Piece
+
+{
+  "price": "€16.58 inc VAT (€13.48 exc.vat)",
+  "description": "These Monument Flat Bits are suitable for drilling holes in timber joists etc. This set of 6 Bits comprises the following sizes: 10mm, 12mm, 16mm, 18mm, 20mm, 25mm.",
+  "availability": "Out of Stock",
+  "product_name": "Monument 1950P Flat Bit Set 6 Piece",
+  "specifications": [
+    "Set of 6 Bits",
+    "Sizes: 10mm, 12mm, 16mm, 18mm, 20mm, 25mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-tct-hinge-boring-bit-35mm.html|>
+## DEWALT TCT Hinge Boring Bit 35mm
+
+{
+  "price": "€18.97 inc VAT (€15.42 exc.vat)",
+  "description": "The DEWALT Tungsten Carbide Tipped (TCT) Hinge Boring Bit for drilling cantilever hinges. TCT cutting edges for fast, clean, precise, countersink hinge drilling. Ideal for man made materials with abrasive resins. Hexagonal shank facilitates a firm chuck grip. Diameter: 35mm. Length: 65mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT TCT Hinge Boring Bit 35mm",
+  "specifications": [
+    "Diameter: 35mm",
+    "Length: 65mm",
+    "TCT cutting edges for fast, clean, precise drilling",
+    "Hexagonal shank for firm chuck grip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-cylindrical-cutter.html|>
+## IRWIN® Cylindrical Cutter
+
+{
+  "price": "€24.23 inc VAT",
+  "description": "This IRWIN® Cylindrical Cutter is built for quick and accurate drilling into wood. Made from high quality hardened steel. For use with drill drivers.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Cylindrical Cutter",
+  "specifications": [
+    "Select Option: 26mm, 35mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-forstner-drill-bit-set-of-5.html|>
+## Makita Forstner Drill Bit Set of 5
+
+{
+  "price": "€47.56 inc VAT (€38.67 exc.vat)",
+  "description": "Forstner Drill Bit Set of 5",
+  "availability": "In Stock",
+  "product_name": "Makita Forstner Drill Bit Set of 5",
+  "specifications": [
+    "MAKD47363 : €47.56",
+    "List: €56.10",
+    "You save €8.54"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-krifwb15.html|>
+## Krino New Group for KRIFWB15
+
+{
+  "price": "€11.08 inc VAT (€9.01 exc.vat)",
+  "description": "Krino New Group for KRIFWB15",
+  "availability": "Out of Stock",
+  "product_name": "Krino New Group for KRIFWB15",
+  "specifications": [
+    "Forstner Wood Center Bit 15Mm",
+    "List: €14.29",
+    "You save €3.21"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-5pce-wood-working-bit-set-4-5-6-8-10.html|>
+## Krino 5Pce Wood Working Bit Set 4-5-6-8-10
+
+{
+  "price": "€8.92 inc VAT (€7.25 exc.vat)",
+  "description": "5Pce Wood Working Bit Set 4-5-6-8-10",
+  "availability": "Out of Stock",
+  "product_name": "Krino 5Pce Wood Working Bit Set 4-5-6-8-10",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Orders under €150: €8.99 delivery fee",
+    "International delivery: Charges based on weight"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-new-group-for-kriwb4p.html|>
+## Krino New Group for KRIWB4P
+
+{
+  "price": "€1.88",
+  "description": "Krino New Group for KRIWB4P",
+  "availability": "In Stock",
+  "product_name": "Krino New Group for KRIWB4P",
+  "specifications": [
+    "List: €2.44",
+    "You save €0.56",
+    "Option: Select One -"
+  ]
+}
+

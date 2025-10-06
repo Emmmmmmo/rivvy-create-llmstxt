@@ -1,0 +1,2375 @@
+<|https://www.mydiy.ie/products/faithfull-metal-barn-tool-boxes.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-organiser-lid-toolbox-20in.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/stanley-tools-tool-tote--organiser-19in.html|>
+## Stanley Tools Tool Tote / Organiser 19in
+
+{
+  "price": "€49.64 inc VAT (€40.36 exc.vat)",
+  "description": "This Stanley 19 inch tote comes complete with removeable top organiser. The tote is ideal for storing and carrying larger tools, whereas the organiser is perfect for small parts and accessories, such as screws and fixings. The tote has a long metal carry handle, which locks in place for carrying and tilts down for storage. The organiser also has a integrated carry handle, allowing it to be used as a separate unit. Heavy-duty, rustproof metal latches provide extra strength and durability, and a front push-button enables simple detachment of the organiser from the tote. To allow for different sized tools and accessories, the organiser is supplied with removable dividers to alter the size of the compartments. Dimensions: Height: 25cm. Width: 56cm. Depth: 32cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Tool Tote / Organiser 19in",
+  "specifications": [
+    "Height: 25cm",
+    "Width: 56cm",
+    "Depth: 32cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-3-in-1-tool-organiser.html|>
+## Stanley Tools 3-In-1 Tool Organiser
+
+{
+  "price": "€66.25 inc VAT (€53.86 exc.vat)",
+  "description": "This Stanley 3-In-1 Tool Organiser is made from 2mm Polypropylene plastic so it is tough and durable. When closed the case has a robust structure that provides durability and security whilst transporting. The case has a 15kg weight limit. Other features include movable dividers that provide specific configuration for smaller parts and / or tools and power tools, and a central rigid tote that is perfect for hand tools. Each side is fitted with a polypropylene lid to keep everything in its place.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools 3-In-1 Tool Organiser",
+  "specifications": [
+    "Made from 2mm Polypropylene plastic",
+    "Robust structure for durability and security",
+    "15kg weight limit",
+    "Movable dividers for configuration",
+    "Central rigid tote for hand tools",
+    "Polypropylene lid to keep items in place"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-small-organiser.html|>
+## Stanley Tools FatMax Small Organiser
+
+{
+  "price": "€27.29 inc VAT (€22.19 exc.vat)",
+  "description": "The Stanley FatMax Small Organiser is made from durable Polycarbonate plastic with a water seal, meaning that it is suitable for outdoor use. It has 6 removable cups to allow flexible configurations and a transparent lid for easy viewing of stored parts. The organiser has side latches which allow stacking of up to 3 organisers, which can click together for easy, one-handed transportation. An integrated carry handle provides an easy grip. Dimensions: 26.1 x 11.5 x 35.9mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Small Organiser",
+  "specifications": [
+    "Made from durable Polycarbonate plastic",
+    "Water seal for outdoor use",
+    "6 removable cups for flexible configurations",
+    "Transparent lid for easy viewing",
+    "Side latches for stacking up to 3 organisers",
+    "Integrated carry handle",
+    "Dimensions: 26.1 x 11.5 x 35.9mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-sortmaster-multi-level-organiser.html|>
+## Stanley Tools Sortmaster Multi-Level Organiser
+
+{
+  "price": "€36.95 inc VAT (€30.04 exc.vat)",
+  "description": "The Stanley Sortmaster Multi-Level Organiser has a transparent lid which allows visibility of it contents. Its cantilever design ensures the ability to access each level independently. This organiser has a suitcase style carry handle for easy carrying. In addition, it can be securely stacked on top of the Junior Sortmaster to allow them to be carried together.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Sortmaster Multi-Level Organiser",
+  "specifications": [
+    "Transparent lid for visibility",
+    "Cantilever design for independent access",
+    "Suitcase style carry handle",
+    "Can be stacked with Junior Sortmaster"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-professional-deep-organiser.html|>
+## Stanley Tools Professional Deep Organiser
+
+{
+  "price": "€33.19 inc VAT (€26.98 exc.vat)",
+  "description": "The professional organiser has 8 deep compartments and a polycarbonate super clear lid to lock them all in place. Three sizes of conveniently removable compartments allow customisation. It also has a comfortable moulded grip handle. 6-years warranty. Dimensions approx: 42.3 cm x 33.4 cm x 9.8cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Professional Deep Organiser",
+  "specifications": [
+    "8 deep compartments",
+    "Polycarbonate super clear lid",
+    "Three sizes of removable compartments",
+    "Comfortable moulded grip handle",
+    "6-years warranty",
+    "Dimensions: 42.3 cm x 33.4 cm x 9.8 cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-stackable-sortmaster-junior-organiser.html|>
+## Stanley Tools Stackable Sortmaster Junior Organiser
+
+{
+  "price": "€14.91 inc VAT (€12.12 exc.vat)",
+  "description": "The Stanley Sortmaster Junior Organiser, offers 512 different configurations, it can be customised for storing different sized tools. Also ideal for stopping movement from one compartment to another during transport. Can be used also for small items and fixings. Dimensions: 375 x 292 x 67mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Stackable Sortmaster Junior Organiser",
+  "specifications": [
+    "Dimensions: 375 x 292 x 67mm",
+    "512 different configurations",
+    "Customizable for storing different sized tools",
+    "Ideal for stopping movement during transport"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-shallow-professional-organiser.html|>
+## Stanley Tools FatMax Shallow Professional Organiser
+
+{
+  "price": "€34.08 inc VAT (€27.71 exc.vat)",
+  "description": "FatMax Shallow Professional Organiser has 10 removable storage compartments, providing storage for small parts, components or accessories. It is made from transparent polypropylene, is virtually unbreakable lid and it allows the contents to be viewed easily. Features a waterproof seal that not only prevents water, but also rust and foreign particles from entering. It has metal catches. A plastic handle with textured grip allows the organiser to be moved comfortably. For added versatility, multiple organisers can be clipped together using the side latches for easy transportation. Dimensions: 44.6 x 35.7 x 7.4cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Shallow Professional Organiser",
+  "specifications": [
+    "10 removable storage compartments",
+    "Made from transparent polypropylene",
+    "Virtually unbreakable lid",
+    "Waterproof seal",
+    "Dimensions: 44.6 x 35.7 x 7.4cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-deep-professional-organiser.html|>
+## Stanley Tools FatMax Deep Professional Organiser
+
+{
+  "price": "€26.73 inc VAT (€21.73 exc.vat)",
+  "description": "The Stanley 197518 FatMax Deep Professional Organiser has 10 removable storage compartments, providing storage for small parts, components or accessories, which can also be stacked together for use outside the organiser. Made from polypropylene, the organiser has a virtually unbreakable lid allowing the contents to be viewed easily and features a waterproof seal that not only prevents water, but also rust and foreign particles from entering. A plastic handle with textured grip allows the organiser to be moved comfortably, while the organiser's lid has been specially designed to ensure that the compartments are held securely in place and fastens with two metal latches. For added versatility, multiple organisers can be clipped together using the side latches for easy transportation. Weight 2kg.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Deep Professional Organiser",
+  "specifications": [
+    "10 removable storage compartments",
+    "Made from polypropylene",
+    "Virtually unbreakable lid",
+    "Waterproof seal",
+    "Plastic handle with textured grip",
+    "Weight: 2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-professional-organiser.html|>
+## Stanley Tools FatMax Professional Organiser
+
+{
+  "price": "€25.36 inc VAT (€20.62 exc.vat)",
+  "description": "This Stanley FatMax Professional Organiser is ideal for storing and organising small parts and accessories, such as fixings, nuts, bolts etc. It is supplied with 10 removeable storage cups for easy access, allowing individual cups to be conveniently moved to where needed, without having to have the whole organiser near by - ideal for situations where space is limited. The transparent polycarbonate lid allows easy location of contents and locks components in position, to stop the cups sliding around. Side latches allow multiple organisers to be clipped together for easy transportation. It has plastic catches. Dimensions: Height: 7.4cm. Width: 35.7cm. Depth: 44.6cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Professional Organiser",
+  "specifications": [
+    "Height: 7.4cm",
+    "Width: 35.7cm",
+    "Depth: 44.6cm",
+    "Supplied with 10 removable storage cups",
+    "Transparent polycarbonate lid",
+    "Side latches for easy transportation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-sortmaster-organisers.html|>
+## Stanley Tools Sortmaster Organisers
+
+{
+  "price": "€22.99 inc VAT",
+  "description": "The Stanley Sortmaster organiser offers a great deal of storage flexibility. Removable dividers allow a combination of tools and small parts storage. It has a special lid structure where the upper ribs interlock with inner dividers keeping small parts in place and preventing movement from one compartment to another. A top lid lock keeps contents secure inside. Dimensions: 430 x 90 x 330mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Sortmaster Organisers",
+  "specifications": [
+    "Dimensions: 430 x 90 x 330mm",
+    "Removable dividers for flexible storage",
+    "Interlocking lid structure to prevent movement of small parts",
+    "Top lid lock for secure storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-stackable-sortmaster-junior-organiser-1.html|>
+## Stanley Tools Stackable Sortmaster Junior Organiser
+
+{
+  "price": "€44.78 inc VAT",
+  "description": "The Stanley Sortmaster Junior Organiser, offers 512 different configurations, it can be customised for storing different sized tools. Also ideal for stopping movement from one compartment to another during transport. Can be used also for small items and fixings. Dimensions: 375 x 292 x 67mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Stackable Sortmaster Junior Organiser",
+  "specifications": [
+    "Dimensions: 375 x 292 x 67mm",
+    "512 different configurations",
+    "Customizable for storing different sized tools",
+    "Ideal for stopping movement during transport"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-13-shallow-professional-organiser.html|>
+## Stanley Tools Fatmax 1/3 Shallow Professional Organiser
+
+{
+  "price": "€21.83 inc VAT (€17.75 exc.vat)",
+  "description": "The Stanley FatMax Shallow Professional Organiser has 8 removable storage compartments, providing storage for small parts, components or accessories. It is made from transparent polypropylene with a virtually unbreakable lid that allows the contents to be viewed easily. Featuring a waterproof seal that not only prevents water, but also dust and foreign particles from entering. It has strong metal catches. A plastic handle with textured grip allows the organiser to be moved comfortably. For added versatility, multiple organisers can be clipped together using the side latches for easy transportation. Dimensions: 16 x 44 x 75cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Fatmax 1/3 Shallow Professional Organiser",
+  "specifications": [
+    "8 removable storage compartments",
+    "Made from transparent polypropylene",
+    "Virtually unbreakable lid",
+    "Waterproof seal",
+    "Strong metal catches",
+    "Dimensions: 16 x 44 x 75cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-bonus-sortmaster-junior-organiser-x-2.html|>
+## Stanley Tools Bonus Sortmaster Junior Organiser x 2
+
+{
+  "price": "€28.43 inc VAT (€23.11 exc.vat)",
+  "description": "The Stanley stackable Sortmaster junior offers a great deal of storage flexibility. Removable dividers allow a combination of tools and small parts storage. It has a special lid structure where the upper ribs interlock with inner dividers keeping small parts in place and preventing movement from one compartment to another. A top lid lock keeps contents secure inside. Dimensions: 375 x 292 x 67mm.",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Bonus Sortmaster Junior Organiser x 2",
+  "specifications": [
+    "Dimensions: 375 x 292 x 67mm",
+    "Removable dividers for flexible storage",
+    "Top lid lock for secure contents"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-flip-bin-organiser.html|>
+## Stanley Tools FatMax® Flip Bin Organiser
+
+{
+  "price": "€60.02 inc VAT (€48.80 exc.vat)",
+  "description": "The Stanley Tools FatMax® Flip Bin Organiser has 12 removable, levered storage compartments, providing storage for small parts, components or accessories. Its lid is made from transparent polypropylene, making it virtually unbreakable whilst allowing a full view of the contents. A plastic handle with textured grip allows the organiser to be moved comfortably. For added versatility, multiple organisers can be clipped together using the side latches for easy transportation. Dimensions: 44.6 x 35.6 x 11.6cm",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax® Flip Bin Organiser",
+  "specifications": [
+    "12 removable, levered storage compartments",
+    "Transparent polypropylene lid",
+    "Dimensions: 44.6 x 35.6 x 11.6cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-sort-master-bonus-pack.html|>
+## STANLEY® Sort Master™ Bonus Pack
+
+{
+  "price": "€29.91 inc VAT (€24.32 exc.vat)",
+  "description": "This STANLEY® Sort Master™ Bonus Pack contains a STANLEY® Sort Master™ Organiser, ideal for storing a variety of items from hammers, angled tools or tape measures to small parts and accessories. Its unique corners have been designed to accommodate for angled tools such as hammers. Made from durable plastic, the see-through lid provides easy location of desired items. Side clips allow multiple units to be stacked together. Removable dividers can be re-arranged, depending on requirements. Easy to customise to your needs, with 1,024 possible configurations. The lid structure prevents movement of small parts from one compartment to another.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Sort Master™ Bonus Pack",
+  "specifications": [
+    "Dimensions (L x W x H): 430 x 90 x 330mm",
+    "The SORTMASTER™ Junior Stackable Organiser. Store hammers, angled tools or measure tapes comfortably together with the small parts in the other nearby compartments.",
+    "Dimensions: 375 x 292 x 67mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/keter-pro-gear-clear-organiser-1.html|>
+## Keter Pro Gear Clear Organiser
+
+{
+  "price": "€53.60 inc VAT (€43.58 exc.vat)",
+  "description": "The Keter Roc Pro Gear Clear Organiser suits both professionals and DIY enthusiasts alike. Great for organizing all of your small parts and accessories with 10 removable bin compartments, along with a hard wearing clear lid so you can access all contents with ease. The bins are locked in place once the lid closes, so no spilled contents. IP65 rated seals protect against water and dust. Comes with a 25 year warranty.",
+  "availability": "In Stock",
+  "product_name": "Keter Pro Gear Clear Organiser",
+  "specifications": [
+    "Volume: 13.7 litres",
+    "External Dimensions: 56 x 34.5 x 12.8cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-organiser-24in.html|>
+## Stanley Tools Organiser 24In
+
+{
+  "price": "€38.24 inc VAT (€31.09 exc.vat)",
+  "description": "Organiser 24In",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Organiser 24In",
+  "specifications": [
+    "Model: STA179203",
+    "List Price: €49.68",
+    "You save: €11.44"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-fatmax-pro-23-shallow-organiser.html|>
+## FatMax® Pro 2/3 Shallow Organiser
+
+{
+  "price": "€27.29 inc VAT (€22.19 exc.vat)",
+  "description": "Stanley FatMax® Pro 2/3 Shallow Organiser with 16 removable cups for organisation of small parts, components and accessories. The cups may be used integrally or stacked together for use outside the organiser. Its transparent lid is virtually unbreakable and provides clear visibility of contents, as well as being designed to lock the removable cups in place when closed. The IP53 waterseal provides resistance to dust and water spray. Side latches allow multiple similar STANLEY® FATMAX® Pro organisers to be clipped together.",
+  "availability": "In Stock",
+  "product_name": "FatMax® Pro 2/3 Shallow Organiser",
+  "specifications": [
+    "Dimensions: 43.2 x 6.4 x 26.7cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-organiser.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Organiser
+
+{
+  "price": "€39.94 inc VAT (€32.47 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Organiser features 10 removable cups and a strong, transparent, polycarbonate lid which provides clear and un-obstructed visibility of contents. Ideal for storing small parts, components and accessories. Complete with anti-rust metal latches for durability and a carry handle for easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Organiser",
+  "specifications": [
+    "Outer Dimensions: 44 x 33.7 x 11.9cm",
+    "Inner Dimensions: 42.1 x 28.5 x 6.5cm",
+    "Max. Capacity: 20kg",
+    "Max. Volume: 7.8 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-toughsystem-20-half-width-organiser.html|>
+## DEWALT Storage TOUGHSYSTEM™ 2.0 Half-Width Organiser
+
+{
+  "price": "€37.92 inc VAT (€30.83 exc.vat)",
+  "description": "The DEWALT DWST83392 TOUGHSYSTEM™ 2.0 Half-Width Organiser has 6 deep, removable cups that can be taken away from the organiser individually for ultimate flexibility. The virtually indestructible, polycarbonate lid, provides visibility of the contents without it having to be opened. It also incorporates an IP65 seal that provides protection from water and dust. Fitted with an ergonomic flip-up carry handle for comfortable transportation. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules. Easy close, metal wire, front latches provide added security but are easy to open, they can even be opened with one hand.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage TOUGHSYSTEM™ 2.0 Half-Width Organiser",
+  "specifications": [
+    "Max. Load: 10kg",
+    "Dimensions (WxLxH): 370 x 260 x 130mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05511-backpack-tool-organiser.html|>
+## Makita E-05511 Backpack Tool Organiser
+
+{
+  "price": "€129.15 inc VAT (€105.00 exc.vat)",
+  "description": "The Makita E-05511 Backpack Tool Organiser lets you organise your tools and easily transport them from site to site. A fantastic alternative to the traditional tool bag. It holds over 50 tools safely and securely thanks to its large number of pockets and slots. Riveted for truly unbreakable strength. It also features strong, industrial stitching and a waterproof plastic base for maximum tool protection.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05511 Backpack Tool Organiser",
+  "specifications": [
+    "Dimensions: 390 x 230 x 490mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05555-roll-top-all-weather-backpack.html|>
+## Makita E-05555 Roll-Top All-Weather Backpack
+
+{
+  "price": "€77.49 inc VAT (€63.00 exc.vat)",
+  "description": "The Makita E-05555 Roll-Top All-Weather Backpack has a modern design and functional roll-top closure with a central strap and quick-release clip. It provides ample storage - 3 outer pockets, 1 internal pocket and an elasticated, side water bottle holder. The back of the bag is made from a 3D mesh material that improves air circulation, keeping you cool on warmer days. It also has adjustable shoulder straps for a comfortable fit. Perfect for the building site, sporting events and more.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05555 Roll-Top All-Weather Backpack",
+  "specifications": [
+    "Modern design",
+    "Functional roll-top closure",
+    "3 outer pockets",
+    "1 internal pocket",
+    "Elasticated side water bottle holder",
+    "3D mesh material for air circulation",
+    "Adjustable shoulder straps"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-pro-round-top-bag.html|>
+## DEWALT Pro Round Top Bag
+
+{
+  "price": "€155.62 inc VAT (€126.52 exc.vat)",
+  "description": "DEWALT 1-79-211 Pro Round Top Bag is resistant against all weathers with a multi-layer strength, consisting of [1] steel bar, [2] p-board, [3] pvc backing - water resistant 600/1200 denier and [4] injected base. This makes this bag the perfect accessory for working inside and outside by professional or domestic users. Has a waterproof base and also features an inner divider, large capacity, quick insert and an ergonomic handle. Guaranteed to be tough, this bag is characterised by its huge capacity, combined with unique, easy access organisational solutions. The pro round top bag has the following dimensions: 50 x 33 x 31cm. Note: Tools and accessories are not included.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Pro Round Top Bag",
+  "specifications": [
+    "Dimensions: 50 x 33 x 31cm",
+    "Water resistant 600/1200 denier",
+    "Multi-layer strength with steel bar, p-board, and pvc backing",
+    "Waterproof base",
+    "Inner divider and large capacity",
+    "Ergonomic handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-wide-mouth-tool-bag.html|>
+## Roughneck Wide Mouth Tool Bag
+
+{
+  "price": "€53.74 inc VAT (€43.69 exc.vat)",
+  "description": "The Roughneck ROU90120 Wide Mouth Tool Bag is made of heavy-duty, PVC coated polyester fabric to make it hardwearing and durable. It has a reinforced base with rubber pads for additional protection. A reinforced rope handle and an adjustable shoulder strap allow easy carrying. The bag has a wide opening top with a heavy-duty zip, which provides easy access to its contents. 8 internal and 11 external pockets allow excellent organisation of tools and accessories. Dimensions: 40 x 25 x 25cm (16 x 10 x 10in).",
+  "availability": "In Stock",
+  "product_name": "Roughneck Wide Mouth Tool Bag",
+  "specifications": [
+    "Dimensions: 40 x 25 x 25cm (16 x 10 x 10in)",
+    "Material: Heavy-duty, PVC coated polyester fabric",
+    "Reinforced base with rubber pads",
+    "Reinforced rope handle and adjustable shoulder strap",
+    "Wide opening top with heavy-duty zip",
+    "8 internal and 11 external pockets for organization"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-double-sided-plumbers-bag.html|>
+## Stanley Tools FatMax Double-Sided Plumber's Bag
+
+{
+  "price": "€99.31 inc VAT (€80.74 exc.vat)",
+  "description": "The Stanley FatMax Double Sided Plumbers Bag conveniently opens up to a full workstation. Its double side opening enables separation of materials and tools. It offers ideal fit and protection for tools like pipe cutters, pipe benders, basin wrenches, making it perfect for plumbers. The bag features both external and internal pockets which enable maximum organisation, and its vertical storage pockets provide quick and easy access to all tools and small parts. The bag has anti-moisture, durable material on its sides and an injected polypropylene bottom to protect against wet and damp surfaces. Dimensions: 52 x 28 x 31cm",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Double-Sided Plumber's Bag",
+  "specifications": [
+    "Dimensions: 52 x 28 x 31cm",
+    "Double side opening for separation of materials and tools",
+    "External and internal pockets for maximum organization",
+    "Vertical storage pockets for quick access",
+    "Anti-moisture, durable material",
+    "Injected polypropylene bottom for protection against wet surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-round-top-rigid-tool-bag.html|>
+## Stanley Tools FatMax Round Top Rigid Tool Bag
+
+{
+  "price": "€96.57 inc VAT (€78.51 exc.vat)",
+  "description": "The Stanley FatMax Round Top Rigid Tool Bag has an outer made from 1200 denier ply fabric and has an inner, 600 denier polypropylene lining. This provides long lasting durability. The tool bag has a rigid and waterproof plastic base and its padded shoulder strap allows easier carrying of heavy loads. The bag has multiple compartments for many storage needs, with easy access pockets. The magnetic quick close operation of the '2 position' pockets allows tools to be secured while transporting and easily accessible when working. Dimensions: 51 x 25 x 22cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Round Top Rigid Tool Bag",
+  "specifications": [
+    "Outer material: 1200 denier ply fabric",
+    "Inner material: 600 denier polypropylene lining",
+    "Rigid and waterproof plastic base",
+    "Padded shoulder strap for easy carrying",
+    "Multiple compartments and easy access pockets",
+    "Magnetic quick close operation for pockets",
+    "Dimensions: 51 x 25 x 22cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-open-mouth-rigid-tool-bag-20in.html|>
+## Stanley Tools FatMax Open Mouth Rigid Tool Bag 20in
+
+{
+  "price": "€82.75 inc VAT (€67.28 exc.vat)",
+  "description": "The Stanley FatMax Open Mouth Tool Bag has an open mouth design which allows for easy access to tools, whilst the multiple internal and external pockets provide maximum organisation potential. The ergonomic design features a padded shoulder strap and a rubber grip handle for comfortable carrying. The injected polypropylene base protects the bag from moisture and dirt. The bag is made from 600 denier fabric that is hardwearing, strong and durable, which resists cuts and scratches. Length: 20in. Dimensions: 500 x 300 x 290mm",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Open Mouth Rigid Tool Bag 20in",
+  "specifications": [
+    "Length: 20in",
+    "Dimensions: 500 x 300 x 290mm",
+    "Made from 600 denier fabric",
+    "Injected polypropylene base for moisture protection",
+    "Padded shoulder strap and rubber grip handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-tool-bag-backpack-1-72-335.html|>
+## Stanley Tools Tool Bag Backpack 1-72-335
+
+{
+  "price": "€69.99 inc VAT (€56.90 exc.vat)",
+  "description": "The Stanley 1-72-335 backpack is designed for easy hands-free tool transport that spreads the weight of the tools instead of lifting in one hand. It contains a separate laptop or power tool compartment large enough for a 15.6in laptop, it has a padded back and adjustable padded straps for comfort as well as a removable internal divider system with storage pockets so you can take your tools to the job. Durable 600 x 600 denier fabric. Plastic feet to the base of the bag help to protect against moisture and dirt. 2 Side mesh pockets. Extra large rubber coated zip pull tabs for easy grip - even when wearing gloves. Dimensions: 12 x 7.25 x 18.5in 30.5 x 18.5 x 47cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Tool Bag Backpack 1-72-335",
+  "specifications": [
+    "Dimensions: 12 x 7.25 x 18.5in (30.5 x 18.5 x 47cm)",
+    "Durable 600 x 600 denier fabric",
+    "Separate laptop compartment for up to 15.6in laptop",
+    "Padded back and adjustable padded straps",
+    "Removable internal divider system with storage pockets",
+    "Plastic feet to protect against moisture and dirt",
+    "2 side mesh pockets",
+    "Extra large rubber coated zip pull tabs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-multi-access-bag.html|>
+## Stanley Tools FatMax Multi Access Bag
+
+{
+  "price": "€91.06 inc VAT (€74.03 exc.vat)",
+  "description": "The Stanley FatMax Multi Access Bag features dual side opening storage space, with two separate main wide opening compartments providing a large storage space for hand tools/power tools. It has a free-standing rigid structure with a reinforced plastic base to protect from water and dirt. There are multiple pockets for easy and convenient organisation of tools. Other features include a closed secure front pocket, padded shoulder strap and multiple internal and external pockets and loops. Dimensions: 43 x 28 x 30cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Multi Access Bag",
+  "specifications": [
+    "Dimensions: 43 x 28 x 30cm",
+    "Dual side opening storage space",
+    "Two separate main wide opening compartments",
+    "Free-standing rigid structure",
+    "Reinforced plastic base",
+    "Multiple pockets for organization",
+    "Closed secure front pocket",
+    "Padded shoulder strap"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-backpack-on-wheels.html|>
+## Stanley Tools FatMax Backpack on Wheels
+
+{
+  "price": "€99.31 inc VAT (€80.74 exc.vat)",
+  "description": "The Stanley 79-215 FaxMax backpack is made from heavy-duty 600 denier fabric for long-lasting durability and has an extendable metal handle for easy transportation. The backpack has removable internal divider with multiple pockets for a variety of tools, a laptop compartment and multiple loop and external pockets for additional storage. Dimensions: 36 x 23 x 54cm. TOOLS NOT INCLUDED.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Backpack on Wheels",
+  "specifications": [
+    "Dimensions: 36 x 23 x 54cm",
+    "Made from heavy-duty 600 denier fabric",
+    "Extendable metal handle for easy transportation",
+    "Removable internal divider with multiple pockets",
+    "Laptop compartment",
+    "Multiple loop and external pockets for additional storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-tool-organiser-bag.html|>
+## Stanley Tools FatMax Tool Organiser Bag
+
+{
+  "price": "€81.78 inc VAT (€66.49 exc.vat)",
+  "description": "Stanley have pulled out all the stops to bring you a state of the art portable organiser for safe and convenient transportation of tools. This Stanley 194231 is easily converted into a work station once opened (A-frame structure) and has the latest ergonomic features with, comfortable padded shoulder strap and rubber handle. The Stanley 194231 has a reinforced body and plastic sides that will protect your contents. The Stanley 194231 has plastic feet that gives protection from moisture and dirt, outer storage with outside pockets for storage of most frequently used tools, and on both sides the covers open outwards providing 100% visibility of your tools and they are organised in an upright position to enable easy access while on the job. Stanley know the needs of the day to day work load af tool organisers so they make them from durable materials that provide maximum protection against wear and tear. A state of the art portable organiser for safe and convenient transportation of tools which is easily converted into a work station once opened (A-Frame structure). High visibility of the tools on both sides as the cover opens outwards providing 100% visibility to contents. Tools are organised in an upright position to enable easy access while on the job. Dimensions: 39 x 25 x 44cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Tool Organiser Bag",
+  "specifications": [
+    "Dimensions: 39 x 25 x 44cm",
+    "Reinforced body and plastic sides",
+    "Comfortable padded shoulder strap",
+    "Rubber handle",
+    "Plastic feet for moisture and dirt protection",
+    "Outer storage with outside pockets",
+    "A-frame structure for easy access"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-tool-backpack.html|>
+## Stanley Tools FatMax Tool Backpack
+
+{
+  "price": "€81.78 inc VAT (€66.49 exc.vat)",
+  "description": "This Stanley 195611 backpack has a zip fastening design from top to bottom that allows the backpack to open in two halves. There are compartment pockets inside to hold tools securely and tidily. Stanley have used good top quality material in this backpack, that will withstand site working conditions and all weather conditions. There are two side pockets for larger items, plus a net back pocket that is ideal for plans, papers etc. The 195611 has a back support system and air mesh shoulder straps for ergonomic, convenient carriage. A waterproof plastic bottom protects against moisture and dirt. Dimensions: 36 x 46 x 27cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Tool Backpack",
+  "specifications": [
+    "Dimensions: 36 x 46 x 27cm",
+    "Zip fastening design",
+    "Compartment pockets for tools",
+    "Waterproof plastic bottom",
+    "Air mesh shoulder straps"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-196193-rigid-multi-purpose-tool-bag-16in.html|>
+## Stanley Tools 196193 Rigid Multi Purpose Tool Bag 16in
+
+{
+  "price": "€43.23 inc VAT (€35.15 exc.vat)",
+  "description": "The Stanley 1-96-193 is a 16-Inch rigid tool bag that is constructed from extra tough 600 x 600 denier fabric which will stand up to all worksite and weather conditions, giving the tool bag a longer life. This Stanley 1-96-193 offers maximum tool protection thanks to its waterproof plastic bottom. The reinforced stress points and industrial leather provide extra strength and carry comfort. The Tool bag has a zip top which makes for quick and easy tool access, as it keeps everything in place and at hand for quick access. A rubber pad on strap gives a soft cushioning when transporting around worksites etc. On the side of the tool bag there are large pockets for cables, wrenches etc, and there is a centre pocket with weather flap for mobile phone use etc.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools 196193 Rigid Multi Purpose Tool Bag 16in",
+  "specifications": [
+    "16-Inch rigid tool bag",
+    "Constructed from extra tough 600 x 600 denier fabric",
+    "Waterproof plastic bottom",
+    "Reinforced stress points and industrial leather",
+    "Zip top for quick access",
+    "Large side pockets for cables and wrenches",
+    "Centre pocket with weather flap for mobile phone"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-large-tool-bag.html|>
+## Starrett Large Tool Bag
+
+{
+  "price": "€47.77 inc VAT (€38.84 exc.vat)",
+  "description": "The Starrett Large Tool Bag has a hard-wearing, ABS plastic reinforced base with a rubber carry handle. Provides a large storage capacity and the design offers easy access to tools. It has 21 external, 6 internal pockets and 8 elasticated compartments. Comes with a removable, padded shoulder strap that is reinforced for increased durability.",
+  "availability": "In Stock",
+  "product_name": "Starrett Large Tool Bag",
+  "specifications": [
+    "Hard-wearing ABS plastic reinforced base",
+    "Rubber carry handle",
+    "Large storage capacity",
+    "21 external pockets",
+    "6 internal pockets",
+    "8 elasticated compartments",
+    "Removable padded shoulder strap"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-medium-tool-bag.html|>
+## Starrett Medium Tool Bag
+
+{
+  "price": "€38.22 inc VAT (€31.07 exc.vat)",
+  "description": "The Starrett Medium Tool Bag has a hard-wearing, ABS plastic reinforced base that is waterproof and durable. It has 7 external and 6 internal pockets in the main zipped compartment. The zipped compartment provides increased security and ease of storage. Comes with a removable, padded shoulder strap that is reinforced for increased durability.",
+  "availability": "In Stock",
+  "product_name": "Starrett Medium Tool Bag",
+  "specifications": [
+    "Hard-wearing, ABS plastic reinforced base",
+    "Waterproof and durable",
+    "7 external and 6 internal pockets",
+    "Zipped compartment for security",
+    "Removable, padded shoulder strap"
+  ]
+}
+
+<|https://www.mydiy.ie/products/starrett-small-tool-bag.html|>
+## Starrett Small Tool Bag
+
+{
+  "price": "€26.26 inc VAT (€21.35 exc.vat)",
+  "description": "The Starrett Small Tool Bag is compact and ideal for carrying tools for small jobs. It has 12 external and 6 internal pockets within the main zipped compartment. The zipped compartment provides increased security and ease of storage. Comes with a removable, padded shoulder strap that is reinforced for increased durability.",
+  "availability": "In Stock",
+  "product_name": "Starrett Small Tool Bag",
+  "specifications": [
+    "Compact design for small jobs",
+    "12 external and 6 internal pockets",
+    "Zipped compartment for security",
+    "Removable padded shoulder strap"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-quick-access-premium-backpack.html|>
+## Stanley Tools FatMax® Quick Access Premium Backpack
+
+{
+  "price": "€97.76 inc VAT (€79.48 exc.vat)",
+  "description": "The Stanley FatMax® Quick Access Premium Backpack has a practical, well laid out interior with multiple pockets, tool holders and a separate laptop compartment. For quick and easy identification of desired tools. The padded back provides comfort, even under high loads. Made from durable, 600 denier nylon for increased wear and resistance, even on the toughest of job sites. The rigid, water resistant base helps to protect the bag's contents.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax® Quick Access Premium Backpack",
+  "specifications": [
+    "Model: STA180144",
+    "Material: 600 denier nylon",
+    "Features: Multiple pockets, tool holders, separate laptop compartment, padded back, rigid water resistant base"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-quick-access-premium-tool-bag.html|>
+## Stanley Tools FatMax® Quick Access Premium Tool Bag
+
+{
+  "price": "€110.43 inc VAT (€89.78 exc.vat)",
+  "description": "The Stanley FatMax® Quick Access Premium Tool Bag has a large rigid open compartment for quick tool access. With 3 zipped compartments, 2 of them feature multiple tool holders. Made from 600 denier nylon with a water resistant base and padded shoulder straps for increased comfort during transport.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax® Quick Access Premium Tool Bag",
+  "specifications": [
+    "Large rigid open compartment for quick tool access",
+    "3 zipped compartments",
+    "2 compartments with multiple tool holders",
+    "Made from 600 denier nylon",
+    "Water resistant base",
+    "Padded shoulder straps for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-bag-on-wheels.html|>
+## Stanley Tools FatMax® Bag on Wheels
+
+{
+  "price": "€147.22 inc VAT (€119.69 exc.vat)",
+  "description": "This Stanley Tools FatMax® Bag has a heavy-duty telescopic handle and wheels for easy transportation and increased mobility. The FatMax® Laptop Bag (FMST1-80149) (NOT SUPPLIED) can be attached to the telescopic handle. The bag has a large capacity and wide top opening for easy access, meaning it will hold multiple power tools, hand tools and accessories. With multiple pockets inside and outside for maximum organisation. It is made from strong 600 denier fabric for increased protection from wear and tear. The wide front pockets feature internal organisation and can function as a work station.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax® Bag on Wheels",
+  "specifications": [
+    "Dimensions: 50 x 36 x 41cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-lxt400-heavy-duty-tool-bag.html|>
+## Makita LXT400 Heavy-Duty Tool Bag
+
+{
+  "price": "€106.67 inc VAT (€86.72 exc.vat)",
+  "description": "Hard-wearing nylon weave material. Multiple internal and external pockets. Padding throughout with plastic base.",
+  "availability": "Out of Stock",
+  "product_name": "Makita LXT400 Heavy-Duty Tool Bag",
+  "specifications": [
+    "MAK831278 : €106.67",
+    "Out of Stock",
+    "Hard-wearing nylon weave material",
+    "Multiple internal and external pockets",
+    "Padding throughout with plastic base"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-lxt600-heavy-duty-tool-bag.html|>
+## Makita LXT600 Heavy-Duty Tool Bag
+
+{
+  "price": "€142.85 inc VAT (€116.14 exc.vat)",
+  "description": "Hard-wearing nylon weave material. Multiple internal and external pockets. Padding throughout with plastic base.",
+  "availability": "Out of Stock",
+  "product_name": "Makita LXT600 Heavy-Duty Tool Bag",
+  "specifications": [
+    "Hard-wearing nylon weave material",
+    "Multiple internal and external pockets",
+    "Padding throughout with plastic base"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-360mm-14in-deep-covered-bag.html|>
+## Stanley Tools 360mm (14in) Deep Covered Bag
+
+{
+  "price": "€32.13 inc VAT (€26.12 exc.vat)",
+  "description": "Heavy-duty 600 denier fabric\nShoulder strap\n6 interior and 5 exterior pockets for versatility",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools 360mm (14in) Deep Covered Bag",
+  "specifications": [
+    "Heavy-duty 600 denier fabric",
+    "Shoulder strap",
+    "6 interior and 5 exterior pockets for versatility"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-wide-mouth-tool-bag.html|>
+## Makita Wide Mouth Tool Bag
+
+{
+  "price": "€25.14 inc VAT",
+  "description": "The Makita Wide Mouth Tool Bag is made from thick woven nylon material with a wide mouth for easy tool selection. It has a hi-vis strip on both sides and a padded base for rigidity and protection.",
+  "availability": "In Stock",
+  "product_name": "Makita Wide Mouth Tool Bag",
+  "specifications": [
+    "Made from thick woven nylon material",
+    "Wide mouth for easy tool selection",
+    "Hi-vis strip on both sides",
+    "Padded base for rigidity and protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05468-ultimate-wide-mouth-tool-bag.html|>
+## Makita E-05468 Ultimate Wide Mouth Tool Bag
+
+{
+  "price": "€60.27 inc VAT (€49.00 exc.vat)",
+  "description": "The Makita E-05468 Ultimate Wide Mouth Tool Bag has over 20 various-sized pockets for great organisation. Its square shape helps to keep the bag base stable. The wide-mouth design provides maximum access to all of your tools. Fitted with a strong carry handle and the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05468 Ultimate Wide Mouth Tool Bag",
+  "specifications": [
+    "Dimensions: 440 x 250 x 240mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05496-semi-rigid-tool-bag.html|>
+## Makita E-05496 Semi-Rigid Tool Bag
+
+{
+  "price": "€84.38 inc VAT (€68.60 exc.vat)",
+  "description": "The Makita E-05496 Semi-Rigid Tool Bag has a combination of pockets and large spaces to organise a variety of hand tools, power tools and accessories. With 6 outer pockets, 3 wide internal pockets, 7 elasticated internal tool holders, a front net pocket to store documentation and a wide front pocket for additional storage. All pockets feature anti-slip webbing. Fitted with two strong carry handles and the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05496 Semi-Rigid Tool Bag",
+  "specifications": [
+    "Dimensions: 520 x 250 x 270mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05505-technician-tool-and-laptop-bag.html|>
+## Makita E-05505 Technician Tool & Laptop Bag
+
+{
+  "price": "€136.04 inc VAT (€110.60 exc.vat)",
+  "description": "The Makita E-05505 Technician Tool & Laptop Bag is able to carry both your tools and your office equipment. It features a wide variety of pockets and holders; a business card holder, pockets to hold accessories (pens and paper), rubber loops to hold tools vertically and a soft-lined pocket for your laptop. The design includes reinforced sides for extra strength. Fitted with a strong carry handle and the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05505 Technician Tool & Laptop Bag",
+  "specifications": [
+    "Dimensions: 425 x 170 x 350mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05577-r-top-all-weather-duffel-bag.html|>
+## Makita E-05577 R-Top All-Weather Duffel Bag
+
+{
+  "price": "€79.21 inc VAT (€64.40 exc.vat)",
+  "description": "The Makita E-05577 R-Top All-Weather Duffel Bag is comfortable to carry, even when transporting heavy-duty work items. It has a large zippered front pocket for easy access to all your essentials. Fitted with two strong carry handles and the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end. Dimensions: 610 x 300 x 250mm",
+  "availability": "In Stock",
+  "product_name": "Makita E-05577 R-Top All-Weather Duffel Bag",
+  "specifications": [
+    "Dimensions: 610 x 300 x 250mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-large-open-mouth-bag-50cm-20in.html|>
+## IRWIN® Large Open Mouth Bag 50cm (20in)
+
+{
+  "price": "€80.09 inc VAT (€65.11 exc.vat)",
+  "description": "The IRWIN® Large Open Mouth Bag is made from strong, 600 denier fabric that resists wear and tear for lasting durability. Its open-mouth structure enables easy access to tools. With multiple internal and external pockets for maximum organisation. A hard-wearing plastic bottom provides maximum protection from moisture and dirt. It has padded handles and an adjustable shoulder strap for easy carriage of tools.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Large Open Mouth Bag 50cm (20in)",
+  "specifications": [
+    "Max. Load: 20kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05549-ultimate-chainsaw-bag.html|>
+## Makita E-05549 Ultimate Chainsaw Bag
+
+{
+  "price": "€157.91 inc VAT (€128.38 exc.vat)",
+  "description": "The Makita E-05549 Ultimate Chainsaw Bag keeps the chainsaw safe and secure during transportation and storage. Made from heavy-duty polyester that is wear-resistant and waterproof. There is an internal plastic tray to help keep the bag clean. Fitted with two strong carry handles and the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end. Suitable for most popular-sized chainsaws.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05549 Ultimate Chainsaw Bag",
+  "specifications": [
+    "Dimensions: 900 x 270 x 260mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05561-roll-top-all-weather-tube-bag.html|>
+## Makita E-05561 Roll-Top All Weather Tube Bag
+
+{
+  "price": "€128.42 inc VAT (€104.41 exc.vat)",
+  "description": "The Makita E-05561 Roll-Top All Weather Tube Bag is perfect for the jobsite as well as recreational activities. Provides enough room to transport tools, sporting equipment or weekend getaway essentials. There is also an external pocket with a zipper closure. Fitted with a rubber handle and the adjustable strap-belt system, with a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05561 Roll-Top All Weather Tube Bag",
+  "specifications": [
+    "Dimensions: 320 x 320 x 600mm",
+    "Capacity: 35 litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05614-lunch-bag.html|>
+## Makita E-05614 Lunch Bag
+
+{
+  "price": "€69.40 inc VAT (€56.42 exc.vat)",
+  "description": "The Makita E-05614 Lunch Bag protects contents from building site dirt and dust. This spacious bag accommodates your lunch and snacks for a full day's work. Heavy-duty construction with an easy-clean aluminium foil lining. Fitted with a comfortable ergonomically shaped handle. It also features an accessible net pocket on the front. Perfect for the building site, office or family picnic.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05614 Lunch Bag",
+  "specifications": [
+    "Dimensions: 330 x 180 x 210mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05620-ultimate-lunch-bag--adjustable-strap-belt-system.html|>
+## Makita E-05620 Ultimate Lunch Bag + Adjustable Strap-Belt System
+
+{
+  "price": "€103.57 inc VAT (€84.20 exc.vat)",
+  "description": "The Makita E-05620 Ultimate Lunch Bag protects contents from building site dirt and dust. This spacious bag accommodates your lunch and snacks for a full day's work. Heavy-duty construction with an easy-clean aluminium foil lining. Fitted with a comfortable ergonomically shaped handle. It also features an accessible net pocket on the front. Supplied with the adjustable strap-belt system and a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end. Perfect for the building site, office or family picnic.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05620 Ultimate Lunch Bag + Adjustable Strap-Belt System",
+  "specifications": [
+    "Dimensions: 330 x 180 x 210mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-large-contractors-bag-no-wheels.html|>
+## Milwaukee Power Tools Large Contractors Bag (No Wheels)
+
+{
+  "price": "€45.56 inc VAT (€37.04 exc.vat)",
+  "description": "The Milwaukee Contractors Bag is made from hard wearing materials. It has durable double-strap carry handles, as well as a shoulder strap for easy and more comfortable transportation. Ideal for storing large tools and equipment, as well as moving from site to site.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools Large Contractors Bag (No Wheels)",
+  "specifications": [
+    "Durable double-strap carry handles",
+    "Shoulder strap for easy transportation",
+    "Ideal for storing large tools and equipment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-fatmax-soft-tool-organiser.html|>
+## STANLEY® FatMax® Soft Tool Organiser
+
+{
+  "price": "€61.12 inc VAT (€49.69 exc.vat)",
+  "description": "The STANLEY® FatMax® Soft Tool Organiser features multiple pockets for maximum organisation and easy access to tools. Its rigid, waterproof plastic base enables the bag to stand on its own when placed on the floor and protects bag contents from dirt and moisture. Made from 600 denier fabric which provides resistance to wear and tear. Fitted with a padded shoulder strap and carry handle for added comfort. It also features a tape holder and hammer compartment. Compatible with STANLEY® FATMAX® Power Tool accessory cases. Can be stacked on these cases for easy transportation.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® FatMax® Soft Tool Organiser",
+  "specifications": [
+    "Load Capacity: 10kg",
+    "Dimensions: 23 x 16.5 x 35cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-tool-bucket-organiser.html|>
+## Hultafors Tool Bucket Organiser
+
+{
+  "price": "€31.38 inc VAT (€25.51 exc.vat)",
+  "description": "The Hultafors Tool Bucket Organizer for the Hultafors Tool Bucket. The inside is lined with small and mid-size pockets. On the outside you’ll find a holster for a cordless drill and larger pockets, with and without lids. It will help you to organize your tools along the sides of the bucket, preventing smaller things from ending up at the bottom and giving you a better overview of your equipment. Made from heavy-duty ballistic polyester fabric for increased durability. Easily inserted into the bucket and secured by straps for a perfect fit.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Tool Bucket Organiser",
+  "specifications": [
+    "HUL590102",
+    "Made from heavy-duty ballistic polyester fabric",
+    "Lined with small and mid-size pockets",
+    "Holster for cordless drill",
+    "Larger pockets with and without lids",
+    "Easily inserted into the bucket and secured by straps"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-4529-tool-bag-450mm.html|>
+## Einhell 45/29 Tool Bag 450mm
+
+{
+  "price": "€28.54 inc VAT (€23.20 exc.vat)",
+  "description": "The Einhell 45/29 Tool Bag for tools and accessories. The reinforced base gives the bag a high loading capacity and protects the contents. Everything is always clearly arranged thanks to various pockets and compartments. There is also additional internal pockets for storing PXC batteries. Easy to transport, thanks to the carry handle and padded shoulder strap.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell 45/29 Tool Bag 450mm",
+  "specifications": [
+    "Internal Dimensions: 420 x 200 x 270mm",
+    "External Dimensions: 450 x 220 x 290mm",
+    "Max. Load: 20kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-5629-bag.html|>
+## Einhell 56/29 Bag
+
+{
+  "price": "€41.54 inc VAT (€33.77 exc.vat)",
+  "description": "The Einhell 56/29 Bag is handy, stable and always at hand. Tools and accessories are safely stowed away. Even the Power X-Change battery and charger have their own place in the practical bag. Durable and robust construction with a reinforced base. A real advantage if you want to tackle tough tasks indoors or outdoors. This means that the high-quality devices are well protected against adverse influences on the construction site, in the workshop or in the garden. Everything is quickly transported to the desired location with a handle. The carrying strap and the carrying handle are extremely handy.",
+  "availability": "In Stock",
+  "product_name": "Einhell 56/29 Bag",
+  "specifications": [
+    "Internal Dimensions: 520 x 290 x 250mm",
+    "External Dimensions: 560 x 290 x 300mm",
+    "Max. Load: 25kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-ergonomic-tool-carrier.html|>
+## Hultafors Ergonomic Tool Carrier
+
+{
+  "price": "€118.78 inc VAT (€96.57 exc.vat)",
+  "description": "The Hultafors Ergonomic Tool Carrier has been specially designed with a curved back for easier carrying on and off-site. A higher back supports more tools, with a lower front for easy access with a clear overview of the contents. It features 25 pockets and tool holders, including a securely zippered pocket on the side and a clip for measuring tapes. Made from extremely durable ballistic polyester, 1680 Denier. A protective molded base provides a stable platform. The fold-away handle features an extra-long ergonomic rubber-clad grip, this ensures comfort and safety. There is also an easy to use rain and dust cover. Designed and tested in Sweden in extreme conditions of up to -20⁰C for unbeatable durability.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Ergonomic Tool Carrier",
+  "specifications": [
+    "Curved back for easier carrying",
+    "25 pockets and tool holders",
+    "Made from durable ballistic polyester",
+    "Protective molded base",
+    "Fold-away handle with ergonomic grip",
+    "Rain and dust cover",
+    "Tested in extreme conditions up to -20⁰C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-molded-base-tool-backpack.html|>
+## Hultafors Molded Base Tool Backpack
+
+{
+  "price": "€175.89 inc VAT (€143.00 exc.vat)",
+  "description": "The Hultafors Moulded Base Tool Backpack offers the ultimate combination of comfort and practicality. It has 42 pockets and tool holders, including a metal clip for measuring tapes and a water bottle pocket. There are also two main zippered compartments with additional laptop/tablet sleeve. Made from extremely durable ballistic polyester, 1680 Denier. Ergonomically designed 3D-shaped padded shoulder straps ensure maximum comfort. The protective moulded base provides a stable platform. Designed and tested in Sweden in extreme conditions of up to -20⁰C for unbeatable durability.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Molded Base Tool Backpack",
+  "specifications": [
+    "42 pockets and tool holders",
+    "Metal clip for measuring tapes",
+    "Water bottle pocket",
+    "Two main zippered compartments",
+    "Laptop/tablet sleeve",
+    "Made from 1680 Denier ballistic polyester",
+    "Ergonomically designed 3D-shaped padded shoulder straps",
+    "Protective moulded base",
+    "Tested in extreme conditions up to -20⁰C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-tool-backpack.html|>
+## Hultafors Tool Backpack
+
+{
+  "price": "€155.37 inc VAT (€126.32 exc.vat)",
+  "description": "The Hultafors Tool Backpack is designed for comfort and durability. It has 48 pockets and tool holders, including a metal clip for measuring tapes and a large outer pocket with a strap for securing cables. There are also two main zippered compartments with additional padded compartment for laptops/tablets. Made from extremely durable ballistic polyester, 1680 Denier. Ergonomically designed 3D-shaped padded shoulder straps ensure maximum comfort. Protective base pads help to protect the contents. Designed and tested to withstand the most extreme conditions – including temperatures of up to -20⁰C.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Tool Backpack",
+  "specifications": [
+    "48 pockets and tool holders",
+    "Metal clip for measuring tapes",
+    "Large outer pocket with strap for securing cables",
+    "Two main zippered compartments",
+    "Padded compartment for laptops/tablets",
+    "Made from 1680 Denier ballistic polyester",
+    "Ergonomically designed 3D-shaped padded shoulder straps",
+    "Protective base pads",
+    "Designed to withstand temperatures up to -20⁰C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-open-top-tool-carrier.html|>
+## Hultafors Open-Top Tool Carrier
+
+{
+  "price": "€100.60 inc VAT (€81.79 exc.vat)",
+  "description": "The Hultafors Open-Top Tool Carrier is designed for easy access to your tools without compromising comfort or durability. It is made from extremely durable ballistic polyester,1680 Denier. It has 35 pockets and tool holders, including a clip for measuring tapes, a tape strap and a holder for longer tools. The fold-away handle features an extra-long ergonomic rubber-clad grip. This ensures comfort and safety. There is also an adjustable padded shoulder strap with durable metal carabiners. Tested to withstand the most extreme conditions, including temperatures of up to -20⁰C.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Open-Top Tool Carrier",
+  "specifications": [
+    "Made from durable ballistic polyester, 1680 Denier",
+    "35 pockets and tool holders",
+    "Clip for measuring tapes and tape strap",
+    "Fold-away handle with ergonomic rubber-clad grip",
+    "Adjustable padded shoulder strap with metal carabiners",
+    "Tested for extreme conditions up to -20⁰C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-electricians-tool-bag.html|>
+## Hultafors Electrician’s Tool Bag
+
+{
+  "price": "€100.82 inc VAT (€81.97 exc.vat)",
+  "description": "The Hultafors Electrician’s Tool Bag features 34 individual pockets and tool holders, including a robust tape strap and clip for securing measuring tapes. Made from extremely durable ballistic polyester, 1680 Denier. The sturdy square footprint of the bag’s base ensures maximum stability on uneven surfaces. Easy to transport thanks to an adjustable padded shoulder strap with durable metal carabiners. Designed to specifically meet the needs of electricians on the job. Tested in extreme conditions of up to -20⁰C. Comes complete with an assortment box containing 12 compartments.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Electrician’s Tool Bag",
+  "specifications": [
+    "34 individual pockets and tool holders",
+    "Made from durable ballistic polyester, 1680 Denier",
+    "Sturdy square footprint for stability",
+    "Adjustable padded shoulder strap",
+    "Tested in extreme conditions up to -20⁰C",
+    "Includes an assortment box with 12 compartments"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-technicians-tool-bag.html|>
+## Hultafors Technician’s Tool Bag
+
+{
+  "price": "€118.78 inc VAT (€96.57 exc.vat)",
+  "description": "The Hultafors Technician’s Tool Bag is the perfect solution for your tool-carrying needs. It features 48 pockets, straps and tool holders, including a robust clip for measuring tapes. There are also 3 zippered compartments, one large in the center and a fold-out on each side. Made from extremely durable ballistic polyester, 1680 Denier. The clever handle and grip design ensure your comfort and safety. Easy to carry thanks to the adjustable padded shoulder strap with durable metal carabiners. Tested to withstand the most extreme conditions, including temperatures of up to -20⁰C.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Technician’s Tool Bag",
+  "specifications": [
+    "48 pockets",
+    "3 zippered compartments",
+    "Made from 1680 Denier ballistic polyester",
+    "Adjustable padded shoulder strap",
+    "Tested to withstand temperatures up to -20⁰C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-makpac-connector-case.html|>
+## Makita MAKPAC Connector Case
+
+{
+  "price": "from €81.29 inc VAT",
+  "description": "Stacking cases with connecting clips. Compatible with other makes of case systainer.",
+  "availability": "In Stock",
+  "product_name": "Makita MAKPAC Connector Case",
+  "specifications": [
+    "Select Option: 396 x 296 x 105mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-makpac-inlay.html|>
+## Makita MAKPAC Inlay
+
+{
+  "price": "€18.12 inc VAT",
+  "description": "Various MAKPAC Inlay Trays, suitable for a wide range of tools. Fits into any Makita MAKPAC Case.",
+  "availability": "In Stock",
+  "product_name": "Makita MAKPAC Inlay",
+  "specifications": [
+    "Option: Select One - \"837807-9, Type 4\" \"838175-3, Type 3\" Type 3 for DJV181RMJ",
+    "EMC (Environmental Management Cost) Included in the purchase price. Gas discharge lamps, LFLs and CFLs €0.15, LED lamps and luminaires €0.05, Large appliances €5.00",
+    "Delivery Information: Fast & Reliable Shipping with DPD, FREE delivery for orders over €150 within Ireland, Orders under €150: €8.99 delivery fee, International delivery: Charges based on weight."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05418-ultimate-adjustable-tool-case.html|>
+## Makita E-05418 Ultimate Adjustable Tool Case
+
+{
+  "price": "€94.71 inc VAT (€77.00 exc.vat)",
+  "description": "The Makita E-05418 Ultimate Adjustable Tool Case has a wide variety of pockets and holders - 17 plastic tool loops, 3 elastic holders, 2 side pockets, a front pocket to hold documentation, and 4 spacious, fully adjustable compartments with a rail guide system for flexible organisation within the case. Its waterproof, abrasion-resistant, moulded base helps to keep the case/contents clean and dry. Riveted construction for truly unbreakable strength. The case can be locked for greater security. Fitted with a strong carry handle and the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05418 Ultimate Adjustable Tool Case",
+  "specifications": [
+    "Dimensions: 510 x 310 x 300mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05424-reinforced-tool-case.html|>
+## Makita E-05424 Reinforced Tool Case
+
+{
+  "price": "€84.38 inc VAT (€68.60 exc.vat)",
+  "description": "The Makita E-05424 Reinforced Tool Case has a wide variety of pockets and holders - 20 plastic tool loops, 3 elastic holders, a front pocket to hold documentation, and 4 spacious, fully adjustable compartments with a rail guide system for flexible organisation within the case. It has a riveted construction for truly unbreakable strength. Aluminium edges help prevent the case from damage. The case can be locked for greater security. Fitted with a strong carry handle and the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying. The strap-belt system is also fitted with quick-release buckles at either end.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05424 Reinforced Tool Case",
+  "specifications": [
+    "Dimensions: 505 x 295 x 265mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/teng-8-series-6-drawer-top-box.html|>
+## Teng 8 Series 6 Drawer Top Box
+
+{
+  "price": "€687.43 inc VAT",
+  "description": "The Teng 8 Series 6 Drawer Top Box features drawers with ball bearing slides and a removable plastic top tray. The top has an aluminium handle and there are heavy-duty carrying handles at either end. For additional security there is a combination lock.",
+  "availability": "In Stock",
+  "product_name": "Teng 8 Series 6 Drawer Top Box",
+  "specifications": [
+    "3 Drawers (WxDxH): 172 x 270 x 50mm, Capacity: 20kg",
+    "2 Drawers (WxDxH): 572 x 270 x 50mm, Capacity: 20kg",
+    "1 Drawer (WxDxH): 572 x 270 x 75mm, Capacity 20kg",
+    "Overall Size (WxDxH): 660 x 305 x 380mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-galvanised-metal-toolboxes.html|>
+## Stanley Tools Galvanised Metal Toolboxes
+
+{
+  "price": "from €47.23 inc VAT",
+  "description": "These heavy-duty toolboxes are ideal for use on the worksite, garage or around the home. They have a centre galvanised finish, this gives the toolbox a sturdy durable construction and is also rust-resistant, as are the two heavy-duty metal latches. They have a removable plastic tray which is ideal for smaller tools like screwdrivers, spanners etc, or tapes and fixings that can be found at a glance. The lid incorporates a saw groove for holding pipes and timber for cutting when there is no work bench available. The lid on has a honeycomb design to give it extra strength and durability, and the soft grip handle folds flat in to the lid when not in use.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Galvanised Metal Toolboxes",
+  "specifications": [
+    "Available sizes: 50cm (20in), 59cm (23in), 66cm (26in)",
+    "Heavy-duty metal construction",
+    "Rust-resistant galvanised finish",
+    "Removable plastic tray for smaller tools",
+    "Saw groove in lid for cutting pipes and timber",
+    "Honeycomb design for extra strength",
+    "Soft grip handle folds flat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-3-in-1-mobile-work-centre.html|>
+## Stanley Tools 3-in-1 Mobile Work Centre
+
+{
+  "price": "€81.11 inc VAT (€65.94 exc.vat)",
+  "description": "Stanley 3-in-1 Mobile Work Centre has a detachable toolbox unit with small parts storage on top and a detachable mid-section for small parts and accessories. The bottom bin has large 7 inch wheels and the pull handle on top allows for easy convenient manoeuvrability. Large metal latches connecting the units, providing extra security whilst in transport. The 3-In-1 Mobile Work Has huge storage volume for power tools, hand tools small parts and accessories. Dimensions: 475 x 284 x 630mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools 3-in-1 Mobile Work Centre",
+  "specifications": [
+    "Detachable toolbox unit with small parts storage",
+    "Detachable mid-section for small parts and accessories",
+    "Large 7 inch wheels for easy maneuverability",
+    "Dimensions: 475 x 284 x 630mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-2-in-1-mobile-work-centre.html|>
+## Stanley Tools 2-in-1 Mobile Work Centre
+
+{
+  "price": "€68.19 inc VAT (€55.44 exc.vat)",
+  "description": "The Stanley 1-70-327 2-in-1 Mobile Work Centre is a detachable top toolbox unit with small parts storage on top. The bottom bin has large 7 inch wheels and the pull handle on top allows for easy convenient manoeuvrability. Large metal latches connecting the units, provide extra security whilst in transport. The mobile work centre has a huge storage volume for power tools, hand tools, small parts and accessories. Dimensions: 475 x 284 x 570mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools 2-in-1 Mobile Work Centre",
+  "specifications": [
+    "Detachable top toolbox unit",
+    "Small parts storage on top",
+    "Large 7 inch wheels",
+    "Pull handle for easy maneuverability",
+    "Large storage volume for tools and accessories",
+    "Dimensions: 475 x 284 x 570mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-tool-chest-240-litre.html|>
+## Stanley Tools FatMax Tool Chest 240 Litre
+
+{
+  "price": "€205.30 inc VAT (€166.91 exc.vat)",
+  "description": "This Stanley FatMax Tool Chest has an extra large capacity of 240 litres. It features innovative top aluminium rails, allowing materials to be strapped to the top of the chest. The tool chest has an IP65 rated water seal for protection against the elements and has heavy-duty metal latches and hinges for added durability. Its 7.5in rubber wheels allow easy manoeuvrability. Capacity: 240 litres.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Tool Chest 240 Litre",
+  "specifications": [
+    "Capacity: 240 litres",
+    "IP65 rated water seal",
+    "Heavy-duty metal latches and hinges",
+    "7.5in rubber wheels for easy manoeuvrability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-rolling-workshop.html|>
+## Stanley Tools Rolling Workshop
+
+{
+  "price": "€161.99 inc VAT (€131.70 exc.vat)",
+  "description": "The Stanley 79-206 Rolling Workshop has portable detachable containers with a handle on top allowing for customised storage options and to carry only the options you need. The top detachable tool box has a drawer and one hand operation latch, 2 drawer storage unit with shallow and deep drawer and bottom flip bin with back pocket for long tools storage (saw & level) - versatile organisation for various sizes of tools and small parts. The aluminium telescopic back handle for easy elevation. Handle can be lowered for storage. Heavy-duty ball bearing slides for the drawers, offering a quality drawer sliding system with better grips and locking mechanism. The heavy-duty 780mm wheels allow for easy on-site manoeuvrability. Dimensions: 86.6 x 48.8 x 34.8cm",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Rolling Workshop",
+  "specifications": [
+    "Portable detachable containers",
+    "Aluminium telescopic back handle",
+    "Heavy-duty ball bearing slides",
+    "Dimensions: 86.6 x 48.8 x 34.8cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-mobile-chest-109-litre.html|>
+## Stanley Tools Mobile Chest 109 Litre
+
+{
+  "price": "€116.14 inc VAT (€94.42 exc.vat)",
+  "description": "Maximum storage and easy transportation for larger tools, general equipment and workshop materials. Extra large rust-resistant metal latches which are durable and long-lasting with padlock eyes for security. The removable tote tray fits neatly into the telescopic handle which is made from steel with a soft grip handle, and is suitable for use with gloved hands. Heavy-duty road tested wheels. Dimensions: 759 x 473 x 486mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Mobile Chest 109 Litre",
+  "specifications": [
+    "Dimensions: 759 x 473 x 486mm",
+    "Extra large rust-resistant metal latches",
+    "Removable tote tray",
+    "Telescopic handle with soft grip",
+    "Heavy-duty road tested wheels"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-tool-chest-with-metal-latches-227-litre.html|>
+## Stanley Tools Tool Chest with Metal Latches 227 Litre
+
+{
+  "price": "€212.67 inc VAT (€172.90 exc.vat)",
+  "description": "This Stanley Tool Chest provides maximum storage and easy transportation for larger tools, general equipment and workshop materials. The chest has extra large, rust-resistant metal latches, which are durable and long lasting. For extra security, the chest has an integrated key lock and the latches have padlock eyes. The chest has a telescopic steel handle with soft grip for easier transportation, and it comes complete with a removable tote tray. It has wide, heavy-duty, rubber coated wheels for durabilty. The lid acts as a wide work surface, that includes two 2in x 4in saw grooves.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Tool Chest with Metal Latches 227 Litre",
+  "specifications": [
+    "227 Litre capacity",
+    "Rust-resistant metal latches",
+    "Integrated key lock",
+    "Telescopic steel handle with soft grip",
+    "Removable tote tray",
+    "Heavy-duty rubber coated wheels",
+    "Wide work surface with saw grooves"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-mobile-work-center.html|>
+## Stanley Tools Mobile Work Center
+
+{
+  "price": "€66.33 inc VAT (€53.93 exc.vat)",
+  "description": "Stanley have produced a 2 in 1 mobile work station that separates in seconds into 2 units. The Stanley 193968 has an extra large toolbox with removable tray that maximises volume utility and a giant bin capacity. This Stanley mobile tool chest has many features in store and gives the user a top quality all round winner in tool storage with its swivel front drawer (carousel) and lid organizers for small parts, large trucking wheels for rough on site conditions, new one piece strong plastic handle, all weather nickel plated toolbox and side latches and with a load capacity of 88lbs you get a good array of tools at your side. The Stanley 193968 conveniently fits into your car or van, and is durable and strong. It features an extra large toolbox with removable tray and a giant lower bin to store bulky items. A swivel front drawer (carousel), and lid organisers are ideal for storing small parts. Large wheels ensure smooth mobility on rough surfaces. The handle is of durable 1-piece plastic construction. It has a load capacity of 88lbs and features nickel plated toolbox and side latches. It is durable, strong and easy to operate. 47 x 29.7 x 62cm",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Mobile Work Center",
+  "specifications": [
+    "Model: STA193968",
+    "Dimensions: 47 x 29.7 x 62cm",
+    "Load Capacity: 88lbs",
+    "Features: 2 in 1 mobile work station, extra large toolbox, removable tray, swivel front drawer, lid organizers, large wheels for mobility, durable plastic handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-cantilever-rolling-workshop.html|>
+## Stanley Tools FatMax Cantilever Rolling Workshop
+
+{
+  "price": "€199.10 inc VAT (€161.87 exc.vat)",
+  "description": "The FatMax cantilever rolling workshop is the ideal solution for tradesmen who need to transport large amounts of equipment and materials to the worksite. It saves time and effort on repeated trips to the van. The telescopic handle provides easy manoeuvrability. It opens up easily into a 4-level workstation, with a giant lower bin, which is for bulky materials and equipment such as paint cans, large components and power tools. There is a toolbox with a lift out tray for smaller tools, which fits neatly in to the fold out lid, along with a large adjustable organiser for nails, screws and other small components. Dimensions: 549 x 733 x 413mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Cantilever Rolling Workshop",
+  "specifications": [
+    "Dimensions: 549 x 733 x 413mm",
+    "Telescopic handle for easy manoeuvrability",
+    "4-level workstation",
+    "Giant lower bin for bulky materials",
+    "Toolbox with lift out tray for smaller tools",
+    "Large adjustable organiser for nails and screws"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-mobile-chest.html|>
+## Stanley Tools FatMax Mobile Chest
+
+{
+  "price": "€192.81 inc VAT (€156.76 exc.vat)",
+  "description": "The Stanley 194850 is the new FatMax professional mobile job chest and has an impressive storage capacity of 113L/30 gallons enabling a good range of hand and power tools to be stored with ease. There is a lock mechanism in the lid with a weather proof cap to protect the lock. The lid will also hold a saw or spirit level and these are locked in place with a clamp to hold secure. Tools can also be stored vertically within the Stanley 194850 chest for quick and easy access. An all round water seal keeps valuable contents safe, and heavy-duty wheels give mobility on rough surfaces. There is a portable tray that is ideal for hand tools and small parts and sits neatly on the rim of the tool chest, and the lid has an integrated lock and keys to keep tools protected at all times. The Chest also has an integrated V-groove for any on-site sawing needs and the telescopic handle slides in for compactness when not in use. A back end handle enables convenient lifting into a vehicle for 2 people. Dimensions: 910 x 516 x 431mm. Please Note - Tools NOT included",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools FatMax Mobile Chest",
+  "specifications": [
+    "Storage capacity: 113L/30 gallons",
+    "Dimensions: 910 x 516 x 431mm",
+    "Lock mechanism with weather proof cap",
+    "Heavy-duty wheels for mobility",
+    "Integrated V-groove for sawing",
+    "Portable tray for hand tools"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-metal--plastic-rolling-workshop.html|>
+## Stanley Tools FatMax Metal / Plastic Rolling Workshop
+
+{
+  "price": "€258.72 inc VAT (€210.34 exc.vat)",
+  "description": "The Stanley 195622 mobile workshop is the complete mobile solution for large and small tools and accessories. It offers a large storage base which is ideal for power tools and club hammers etc. and comes with a slidable draw system for easy access to all tools on all levels of this mobile tool chest. This Stanley STA195622 mobile workshop is fitted with heavy-duty road tested wheels for durability and stability, while the extendable handle offers the user easy manoeuvrability. Stanley have fitted metal latches to the mobile workshop which are designed to provide a long working life. This mobile tool chest has the additional feature of a top section tool box with a plastic lift out tray for smaller tools. This fits neatly into the fold out lid. A good all-round storage system for home owners and tradesmen that will hold a comprehensive range of hand and power tools. Weight 4 kg. Width 570mm Height 900mm Depth 400mm",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Metal / Plastic Rolling Workshop",
+  "specifications": [
+    "Weight: 4 kg",
+    "Width: 570mm",
+    "Height: 900mm",
+    "Depth: 400mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-structural-foam-toolbox-with-telescopic-handle.html|>
+## Stanley Tools FatMax Structural Foam Toolbox With Telescopic Handle
+
+{
+  "price": "€75.72 inc VAT (€61.56 exc.vat)",
+  "description": "The Stanley Tools FatMax Structural Foam Toolbox is fitted with wheels and a soft grip telescopic handle, making it ideal for transporting heavier loads on the job. It is constructed of 4mm structural foam plastic for strength, durability and long life. With extra-large storage capacity, there is a portable tote tray that fits into the tool box for organising and carrying smaller tools and accessories. The toolbox offers a waterproof storage solution rated IP53 thanks to the all-round water seal for safe and dry storage. The lid has twin metal latches with padlock eyes for securing the toolbox with your own padlock. There is also a v-groove in the lid that can be used when cutting timber and pipework. This waterproof toolbox features a soft grip carry handle plus wheels and a telescopic handle that can be used when moving heavy loads.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Structural Foam Toolbox With Telescopic Handle",
+  "specifications": [
+    "Fitted with wheels and a soft grip telescopic handle",
+    "Constructed of 4mm structural foam plastic",
+    "Extra-large storage capacity with a portable tote tray",
+    "Waterproof storage solution rated IP53",
+    "Twin metal latches with padlock eyes",
+    "V-groove in the lid for cutting timber and pipework"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-rolling-work-centre-with-31cm-125in-essential-toolbox.html|>
+## Stanley Tools Rolling Work Centre with 31cm (12.5in) Essential Toolbox
+
+{
+  "price": "€67.80 inc VAT (€55.12 exc.vat)",
+  "description": "Set contains: Stanley Tools Mobile Work Centre, Stanley Tools 31cm (12.1/2in) Essential Plastic Latch Toolbox",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Rolling Work Centre with 31cm (12.5in) Essential Toolbox",
+  "specifications": [
+    "Model: STA175758",
+    "List Price: €88.04",
+    "You save: €20.24"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-modular-rolling-tool-box.html|>
+## Stanley Tools Modular Rolling Tool Box
+
+{
+  "price": "€175.16 inc VAT (€142.41 exc.vat)",
+  "description": "The Stanley Tools Modular Rolling Tool Box is a 3-in-1 portable workshop solution which separates into three tool boxes in a matter of seconds. Includes an extra-large deep bin for safe and convenient storage of power tools and hardware, a medium-sized tool box with removable tote tray ideal for storing hand tools and a shallow tool box for small parts and accessories. All the boxes feature an auto-lock front stacking latch for quick and easy connecting/releasing of the toolboxes, even with one hand. They are also fitted with strong, all-weather, easy-lock front metal wire latches. For easy transportation, the rolling tool box has heavy-duty 7-inch wheels and a 35mm wide telescopic handle for manoevrability, which can be folded down to conveniently fit into a car or van.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Modular Rolling Tool Box",
+  "specifications": [
+    "Max. Load Capacity: 45kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-essential-contractor-chest-50-litre.html|>
+## Stanley Tools Essential Contractor Chest 50 litre
+
+{
+  "price": "€66.25 inc VAT (€53.86 exc.vat)",
+  "description": "Heavy-duty metal latches\nLong telescopic handle and durable 7in wheels for easy manoeuvrability\nInnovative V-groove in the lid for cutting timber and pipework\nLarge 50L capacity ideal for large to medium sized power tools\nPortable tote tray and top organisers for small parts storage",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Essential Contractor Chest 50 litre",
+  "specifications": [
+    "Heavy-duty metal latches",
+    "Long telescopic handle",
+    "Durable 7in wheels for easy manoeuvrability",
+    "Innovative V-groove in the lid for cutting timber and pipework",
+    "Large 50L capacity",
+    "Portable tote tray and top organisers for small parts storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-classic-pro-mobile-tool-chest.html|>
+## STANLEY® Classic Pro-Mobile Tool Chest
+
+{
+  "price": "€71.45 inc VAT (€58.09 exc.vat)",
+  "description": "STANLEY® Classic Pro-Mobile Tool Chest with removable organiser in the lid, which is easy to remove and keeps all small parts organised and accessible. Made from durable polypropylene with a V-groove in the lid for cutting boards or pipes. Internally, there is a 2/3 size portable tray which allows for storage of larger/longer tools and a large bottom bin, ideal for storing power tools. Fitted with a telescopic metal handle and large wheels for easy transportation.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Classic Pro-Mobile Tool Chest",
+  "specifications": [
+    "Useful Volume : 53 litres (12 Gallons)",
+    "Dimensions: 60.3 x 37.5 x 43cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-robust45-move-tool-case.html|>
+## Knipex Robust45 Move Tool Case
+
+{
+  "price": "€749.50 inc VAT (€609.35 exc.vat)",
+  "description": "The Knipex Robust45 Move Tool Case is made from impact-resistant polypropylene. Designed for the toughest conditions: dust-tight, waterproof and temperature-resistant, - 30°C to +80° C. This fit-to-fly case also features an air pressure compensation valve. The case comes with a total of 147 inserting options and a document compartment. The tool boards are made from dirt-repelling, twin-wall PP sheet with tool pockets and tool straps. Fitted with an ergonomic dual-component handle and padlock eyelets.",
+  "availability": "In Stock",
+  "product_name": "Knipex Robust45 Move Tool Case",
+  "specifications": [
+    "Max. Load: 35kg",
+    "Exterior Dimensions (WxHxD): 609 x 263 x 428mm",
+    "Interior Dimensions (WxHxD): 540 x 229 x 364mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-one-touch-latch-mobile-job-chest-52-litre.html|>
+## STANLEY® One-Touch Latch Mobile Job Chest 52 litre
+
+{
+  "price": "€90.53 inc VAT (€73.60 exc.vat)",
+  "description": "The STANLEY® One-Touch Latch Mobile Job Chest has been designed for storing power tools and hand tools. It features a one-touch latch operation for quick access to tools. Rated to IP43 for resistance to dust and water spray. An integral pull-out tray allows you to organise smaller hand tools, parts and accessories. Fitted with durable wheels and a textured pull handle for easy transportation to and from site.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® One-Touch Latch Mobile Job Chest 52 litre",
+  "specifications": [
+    "Max. Load: 40kg",
+    "Dimensions: 620 x 400 x 420mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-e-case-l-with-wheels.html|>
+## Einhell E-Case L with Wheels
+
+{
+  "price": "€96.12 inc VAT (€78.15 exc.vat)",
+  "description": "The Einhell E-Case L is a member of Einhell's modular E-Case system and is ideally suited for storing and transporting machines, tools, accessories and other equipment. A practical locking system for connecting stacked cases ensures systematic order during storage and enables safe transport. The case is made of polypropylene and thus has a high rigidity, heat resistance and impact resistance. The sturdy construction allows a total load of up to 120kg. Machines and tools can be easily transported thanks to the extra wide telescopic handle and large, rubberised wheels (Ø 15cm). Thanks to the intelligent design, the case is splash-proof and can be transported in any weather. The foldable and ergonomic handle ensures optimal wearing comfort, for example when taking it out of a trunk. The E-Case L can be equipped with a padlock to secure it against theft. Included is a removable insert for hand tool and labelling sticker to label the contents.",
+  "availability": "In Stock",
+  "product_name": "Einhell E-Case L with Wheels",
+  "specifications": [
+    "Internal Dimensions: 320 x 415 x 273mm",
+    "External Dimensions: 355 x 444 x 406mm",
+    "Max. Load: 120kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/keter-pro-gear-28in-mobile-jobbox-1.html|>
+## Keter Pro Gear 28in Mobile JobBox
+
+{
+  "price": "€86.54 inc VAT (€70.36 exc.vat)",
+  "description": "The Keter Roc Pro Gear 28in Mobile JobBox is designed to make transporting over-sized power tools or spirit-levels hassle-free. Its heavy-duty construction keeps valuable equipment protected. IP65 rated seals protect against water and dust. The all terrain wheels make transportation incredibly easy even when fully-loaded. Compatible with the RIDGID and Pro Gear professional tool storage system. Comes with a 25 year warranty.",
+  "availability": "In Stock",
+  "product_name": "Keter Pro Gear 28in Mobile JobBox",
+  "specifications": [
+    "Load Capacity: 45kg",
+    "Volume: 45 litres",
+    "External Dimensions: 72.4 x 35 x 31.5cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-quick-access-job-chest.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Quick Access Job Chest
+
+{
+  "price": "€143.80 inc VAT (€116.91 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Job Chest is designed for storing large power tools and features a quick access lid, which enables half of the job chest to be opened to access tools. So you don't have to remove any other stacked PRO-STACK™ modules (NOT INCLUDED). It also provides a convenient workstation by stacking multiple PRO-STACK™ modules side by side. IP54 rated for resistance to dust and water spray. With anti-rust metal latches for durability and a padlock eye for safety. Both the main job chest and quick access lid are lockable. Fitted with heavy-duty wheels and a telescopic pull handle for easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Quick Access Job Chest",
+  "specifications": [
+    "Outer Dimensions: 66.6 x 45.8 x 34cm",
+    "Max. Capacity: 50kg",
+    "Max. Volume: 113 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-trolley.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Trolley
+
+{
+  "price": "€159.79 inc VAT (€129.91 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Trolley for manoeuvring PRO-STACK™ modules around the job site efficiently and safely. Complete with a foldable handle for easy storage in cars and vans, as well as robust, lockable castors for added safety and smooth mobility, even on rough surfaces. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Trolley",
+  "specifications": [
+    "Dimensions: 54.6 x 104.3 x 59cm",
+    "Max. Capacity: 100kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-mobile-storage-box.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Mobile Storage Box
+
+{
+  "price": "€95.87 inc VAT (€77.94 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Mobile Storage Box is ideal for storing larger power tools. It features an integral, removable storage tray, telescopic handle for easy manoeuvring, which can also be lowered for storage in cars and vans, as well as durable 7 inch wheels for safety and smooth mobility. Complete with anti-rust metal latches for durability, a carry handle for easy transportation and a padlock eye for security. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Mobile Storage Box",
+  "specifications": [
+    "Dimensions: Box 51.2 x 43.5 x 38cm, Handle Up 51.2 x 43.5 x 100cm, Handle Down 51.2 x 43.5 x 63.5cm",
+    "Max. Capacity: 50kg",
+    "Max. Volume: 55 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-mobile-bundle.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Mobile Bundle
+
+{
+  "price": "€159.79 inc VAT (€129.91 exc.vat)",
+  "description": "This STANLEY® FatMax® PRO-STACK™ Mobile Bundle contains the following: 1 x STANLEY® FatMax® PRO-STACK™ Organiser with 10 removable cups and a strong, transparent, polycarbonate lid which provides clear and un-obstructed visibility of contents. Ideal for storing small parts, components and accessories. Complete with anti-rust metal latches for durability and a carry handle for easy transportation. 1 x STANLEY® FatMax® PRO-STACK™ Shallow Box. Ideal for storing hand tools and smaller power tools. It features an integral foam insert which enables you to customise your tool storage to fit your power tools and accessories. Complete with anti-rust metal latches for durability, a padlock eye for security and two carry handles for easy transportation. 1 x STANLEY® FatMax® PRO-STACK™ Mobile Storage Box is ideal for storing larger power tools. It features an integral, removable storage tray, telescopic handle for easy manoeuvring, which can also be lowered for storage in cars and vans, as well as durable 7 inch wheels for safety and smooth mobility. Complete with anti-rust metal latches for durability, a carry handle for easy transportation and a padlock eye for security. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Mobile Bundle",
+  "specifications": [
+    "Dimensions: 44 x 33.7 x 11.9cm (Organiser), 44 x 17.6 x 33.17cm (Shallow Box) and 51.2 x 100 x 43.5cm (Mobile Storage Box)",
+    "Max. Capacity: 20kg (Organiser), 30kg (Shallow Box) and 50kg (Mobile Storage Box)",
+    "Max. Volume: 7.8 litres (Organiser), 13.5 litres (Shallow Box) and 55 litres (Mobile Storage Box)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-mobile-storage-tower.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Mobile Storage Tower
+
+{
+  "price": "€239.69 inc VAT (€194.87 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Tower contains the following: 1 x STANLEY® FatMax® PRO-STACK™ Organiser with 10 removable cups and a strong, transparent, polycarbonate lid which provides clear and un-obstructed visibility of contents. Ideal for storing small parts, components and accessories. Complete with anti-rust metal latches for durability and a carry handle for easy transportation. 1 x STANLEY® FatMax® PRO-STACK™ Deep Drawer with 4 small and 2 big removable cups. Ideal for storing small parts, components and accessories. Fitted with a carry handle for easy transportation. 1 x STANLEY® FatMax® PRO-STACK™ Shallow Box. Ideal for storing hand tools and smaller power tools. It features an integral foam insert which enables you to customise your tool storage to fit your power tools and accessories. Complete with anti-rust metal latches for durability, a padlock eye for security and two carry handles for easy transportation. 1 x STANLEY® FatMax® PRO-STACK™ Deep Box. Ideal for storing larger power tools and also features an integral, removable storage tray for hand tools and smaller items. Complete with anti-rust metal latches for durability, a padlock eye for security and a carry handle for easy transportation. 1 x STANLEY® FatMax® PRO-STACK™ Cart for manoeuvring PRO-STACK™ modules around the job site efficiently and safely. Complete with robust, lockable castors for added safety and smooth mobility, even on rough surfaces.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Mobile Storage Tower",
+  "specifications": [
+    "Dimensions: 44 x 33.7 x 11.9cm (Organiser), 44 x 17.6 x 31.42cm (Deep Drawer), 44 x 17.6 x 33.17cm (Shallow Box), 44 x 17.6 x 33.17cm (Deep Box), 48.6 x 18.1 x 43.6cm (Cart)",
+    "Max. Capacity: 20kg (Organiser), 7.5kg per drawer (Deep Drawer), 30kg (Shallow Box), 30kg (Deep Box)",
+    "Max. Volume: 14 litres (Organiser), 9.5 litres (Deep Drawer), 13.5 litres (Shallow Box), 22 litres (Deep Box)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-clipboard.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Clipboard
+
+{
+  "price": "€32.96 inc VAT (€26.80 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Clipboard provides an essential work surface for your site plans or other documents and features an integral soft pouch for storing personal belongings, as well as an LED work light for improved visibility in all working conditions. Complete with fitted rubber bumpers for long lasting durability. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Clipboard",
+  "specifications": [
+    "Integral soft pouch for storing personal belongings",
+    "LED work light for improved visibility",
+    "Fitted rubber bumpers for durability",
+    "Customisable, interlocking, stackable and portable storage system"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-one-touch-toolbox-with-drawer-48cm-19in.html|>
+## Stanley Tools One Touch Toolbox with Drawer 48cm (19in)
+
+{
+  "price": "€53.74 inc VAT (€43.69 exc.vat)",
+  "description": "The Stanley 1-70-316 One Touch Toolbox has a heavy-duty design and extra width soft grip handle on top for easy lifting. It has a one-touch latch for easy opening of the toolbox. It has a 2/3rd removable tote tray which allows enough space for large tools to be stored underneath and a deep drawer with ball bearing slides for versatile organisation of various sizes of tools and small parts. It has a V-groove in the lid, which is suitable for use when cutting timber or pipework and an integrated padlock eye for securing tools and contents. Dimensions: 48 x 28 x 29cm.",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools One Touch Toolbox with Drawer 48cm (19in)",
+  "specifications": [
+    "Dimensions: 48 x 28 x 29cm",
+    "Heavy-duty design",
+    "Extra width soft grip handle",
+    "One-touch latch for easy opening",
+    "2/3rd removable tote tray",
+    "Deep drawer with ball bearing slides",
+    "V-groove in the lid for cutting",
+    "Integrated padlock eye for security"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-metal-latch-toolbox-41cm-16in.html|>
+## Stanley Tools Metal Latch Toolbox 41cm (16in)
+
+{
+  "price": "€19.70 inc VAT (€16.02 exc.vat)",
+  "description": "This Stanley 16 inch toolbox has metal latches and hinges for durability and extra weight capacity. Top lid organisers for storing small parts such as screws and fixings and a removable tote tray. It has a soft grip handle for comfort.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Metal Latch Toolbox 41cm (16in)",
+  "specifications": [
+    "Metal latches and hinges for durability",
+    "Top lid organisers for small parts",
+    "Removable tote tray",
+    "Soft grip handle for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-toolbox-with-tote-tray-organiser-61cm-24in.html|>
+## Stanley Tools Toolbox with Tote Tray Organiser 61cm (24in)
+
+{
+  "price": "€57.95 inc VAT (€47.11 exc.vat)",
+  "description": "This Stanley 197514 is a good all round robust strong 24-Inch plastic toolbox that will ensure safe and dry storage for tools. The 197514 toolbox has tapered protection corners / stability feet, this adds for better stability, grip and a good safety feature. Constructed of strong weatherproof plastic for extra strength, the toolbox has clear storage compartments on the top lid with compartment trays with movable dividers that can be moved around to suit the users storage requirements. This is combined within the toolbox and is removable, allowing for extra storage capacity. The portable tote tray is designed to carry tools and small parts, yet enables large tool storage inside the toolbox. The tough ergonomic soft-grip handle allows heavy loads to be carried with ease and comfort and two large metal rust proof latches will secure closing. Dimensions: 610 x 323 x 251mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Toolbox with Tote Tray Organiser 61cm (24in)",
+  "specifications": [
+    "Dimensions: 610 x 323 x 251mm",
+    "Material: Weatherproof plastic",
+    "Includes portable tote tray",
+    "Ergonomic soft-grip handle",
+    "Two large metal rust proof latches"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-basic-toolbox-with-organiser-top.html|>
+## Stanley Tools Basic Toolbox With Organiser Top
+
+{
+  "price": "€12.84 inc VAT",
+  "description": "The Stanley Tool Basic Toolbox has an innovative design with an organiser lid for small parts storage. It is fitted with geometric lock latches that enable smooth closing and opening. The latches are made from metal and have an ergonomic design. The toolbox can be secured with a padlock (not supplied) for increased security.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Basic Toolbox With Organiser Top",
+  "specifications": [
+    "Dimensions: 320 x 188 x 132mm, 406 x 205 x 195mm, 482 x 254 x 250mm",
+    "Geometric lock latches for smooth closing and opening",
+    "Ergonomic design",
+    "Can be secured with a padlock (not supplied)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-one-touch-toolbox-diy.html|>
+## Stanley Tools One Touch Toolbox DIY
+
+{
+  "price": "€28.14 inc VAT",
+  "description": "The Stanley One Touch Toolbox has a robust, durable design. The latches are designed for one hand operation, allowing easy opening. The box has a large storage volume, and the removable tray allows extra space for larger tools to be stored underneath. In addition, the toolbox has organisers on the top of the lid for small parts. The extra wide, soft grip handle ensures comfort, and the padlock holes on the lid allow the box to be locked for added security.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools One Touch Toolbox DIY",
+  "specifications": [
+    "Select Option: 40cm (16in), 50cm (19in), 60cm (24in)",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-series-2-toolboxes.html|>
+## Stanley Tools Series 2 Toolboxes
+
+{
+  "price": "from €30.47 inc VAT",
+  "description": "This series 2 Stanley toolbox is made from a tough durable plastic and will store a great range of tools for easy transportation around the home or work site. There is a tote tray inside and two twin handy storage compartments on the lid for smaller tools or fixings. This Stanley tool box gives good accessibility to your tools. Equipped with a strong soft-grip handle that makes it comfortable to carry, and two metal catches. The toolbox can be locked with a small padlock for extra safety and to reduce the risk of theft. Ideal for transporting and storing multiple tools. 1 removable tote tray for storing small tools. Metal latches. 2 organiser for screwdriver bits etc. Easy soft grip handle.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Series 2 Toolboxes",
+  "specifications": [
+    "Made from tough durable plastic",
+    "Includes a removable tote tray",
+    "Two twin handy storage compartments",
+    "Strong soft-grip handle",
+    "Two metal catches",
+    "Can be locked with a small padlock"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-essential-toolbox-bonus-pack-32cm-and-48cm.html|>
+## Stanley Tools Essential Toolbox Bonus Pack 32cm & 48cm
+
+{
+  "price": "€38.99 inc VAT (€31.70 exc.vat)",
+  "description": "The Stanley Tools Essential Toolbox has an innovative design with an internal tool tray and small top organisers to enable small parts organisation. Fitted with ergonomic metal catches (2 on 48cm and 1 on 32cm Box) and geometric lock latches for smooth closing and opening. The toolbox can be locked with a small padlock for extra safety and to reduce the risk of theft. Includes: 1 x Stanley Tools Essential Toolbox 32cm. 1 x Stanley Tools Essential Toolbox 48cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Essential Toolbox Bonus Pack 32cm & 48cm",
+  "specifications": [
+    "Innovative design with internal tool tray",
+    "Small top organisers for parts organisation",
+    "Ergonomic metal catches",
+    "Geometric lock latches for smooth operation",
+    "Can be locked with a small padlock"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-waterproof-toolboxes.html|>
+## Stanley Tools Waterproof Toolboxes
+
+{
+  "price": "from €50.06 inc VAT",
+  "description": "The Stanley FatMax waterproof tool boxes features an all round water seal which ensures safe and dry storage. The box is constructed of structural foam for extra strength and has extra large storage capacity. The portable tote tray is designed to carry tools and small parts, yet enables large tool storage inside the toolbox as it is 3/4 length. An integrated V-groove on top of the lid enables sawing when needed and it is also suitable for working with pipes and lumber. The tough ergonomic soft grip handle allows heavy loads to be carried with ease and the large metal rustproof latches provide secure closing.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Waterproof Toolboxes",
+  "specifications": [
+    "Available sizes: 58cm (23in), 71cm (28in)",
+    "Waterproof design with all round water seal",
+    "Constructed of structural foam for extra strength",
+    "Large storage capacity",
+    "Portable tote tray for small parts",
+    "Integrated V-groove for sawing",
+    "Ergonomic soft grip handle",
+    "Large metal rustproof latches"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-metal-and-plastic-toolboxes.html|>
+## Stanley Tools Metal & Plastic Toolboxes
+
+{
+  "price": "from €66.17 inc VAT",
+  "description": "This toolbox combines metal walls with a protective plastic base and edges. The top has a V-groove to hold timber or pipes in place for cutting. It also has a fold flat, soft grip handle. Heavy-duty metal catches provide secure locking.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Metal & Plastic Toolboxes",
+  "specifications": [
+    "Available sizes: 51cm (20 in), 58cm (23 in), 66cm (26 in)",
+    "Metal walls with protective plastic base and edges",
+    "V-groove for holding timber or pipes",
+    "Fold flat, soft grip handle",
+    "Heavy-duty metal catches for secure locking"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-tool-bucket.html|>
+## Hultafors Tool Bucket
+
+{
+  "price": "€17.22 inc VAT (€14.00 exc.vat)",
+  "description": "The Hultafors Tool Bucket has an ergonomic design and is made from durable PP-plastic. The rear side has a curved shaped, making it easier to carry. Fitted with a robust handle for comfortable carrying. The tool bucket is stackable and equipped with a measuring scale on the inside. Max Load: 100kg. Volume: 15 Litres.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Tool Bucket",
+  "specifications": [
+    "Max Load: 100kg",
+    "Volume: 15 Litres",
+    "Ergonomic design",
+    "Durable PP-plastic",
+    "Stackable",
+    "Measuring scale on the inside"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-work-step-toolbox-64cm.html|>
+## Stanley Tools FatMax® Work Step Toolbox 64cm
+
+{
+  "price": "€111.02 inc VAT (€90.26 exc.vat)",
+  "description": "The Stanley Tools FatMax® Work Step Toolbox combines a toolbox and work step in one. It has a lightweight design with an ergonomic carry handle for easy carrying. The work step has stainless aluminium legs with non-slip feet to ensure optimum stability and longevity. For added safety the step has been fitted with safety lock buttons.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax® Work Step Toolbox 64cm",
+  "specifications": [
+    "External Dimensions: 64 x 29.6 x 28.7cm",
+    "Inner Dimensions: 56 x 26.5 x 20cm",
+    "Max. Load: 30kg",
+    "Max. Standing Load: 150kg",
+    "Weight: 6.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-essentials-cantilever-toolbox-49cm-19in.html|>
+## STANLEY® Essentials Cantilever Toolbox 49cm (19in)
+
+{
+  "price": "€45.81 inc VAT (€37.24 exc.vat)",
+  "description": "The STANLEY® Essentials Cantilever Toolbox features a 3 tier compartment system that unfolds as the box is opened, allowing for hassle-free access to contents. There are two organiser compartments built within the top of the lid that can be used to store small parts. Fitted with an ergonomic handle and secure metal front latches for easy opening and closing of the lid. A top padlock eye has been included to keep your items safe and secure. Designed for DIYers and anyone that would require customised storage around the home.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Essentials Cantilever Toolbox 49cm (19in)",
+  "specifications": [
+    "Dimensions: 49.0 x 28.5 x 25.5cm",
+    "Max. Load: 22kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-xxl-iii-electrician-tool-case--free-screwdriver-set.html|>
+## Wiha XXL III Electrician Tool Case + Free Screwdriver Set
+
+{
+  "price": "€1,119.08 inc VAT (€909.82 exc.vat)",
+  "description": "The Wiha XXL III Electrician Tool Case is made of robust polypropylene, fitted with gas-filled shock absorbers holding the lid in different positions, preventing it from closing accidentally and smashing fingers. Fitted with extra large wheels so its easy to pull the case along. The legs can be folded out, turning the case into a slip-proof step. In addition, the raised position allows the comfortable and strain-free removal of the tools. The V-shaped incision with a scale in the lid of the case facilitates the sawing of materials, such as cable ducts, at the construction site. Supplied with a FREE Screwdriver Set, comprises of: 2 x SoftFinish® electric Slotted Screwdrivers: 3.5 x 100mm & 5.5 x 125mm. 2 x SoftFinish® electric Phillips Screwdrivers: PH1 x 80mm & PH2 x 100mm. 2 x SoftFinish® electric PlusMinus/Pozidriv Screwdrivers: SL/PZ1 x 80mm & SL/PZ2 x 100mm. 1 x PicoFinish® slimVario® electric Fine Screwdriver. 1 x slimBit electric Slotted Bit 2.0 x 75mm. 1 x slimBit electric Phillips Bit PH0 x 75mm. 1 x slimBit electric Pozidriv Bit PZ0 x 75mm.",
+  "availability": "In Stock",
+  "product_name": "Wiha XXL III Electrician Tool Case + Free Screwdriver Set",
+  "specifications": [
+    "Made of robust polypropylene",
+    "Fitted with gas-filled shock absorbers",
+    "Extra large wheels for easy transport",
+    "Legs can be folded out for use as a step",
+    "V-shaped incision with scale for sawing materials",
+    "Includes a FREE Screwdriver Set"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-metal-latch-toolbox-32cm-1212in.html|>
+## Stanley Tools Metal Latch Toolbox 32cm (12.1/2in)
+
+{
+  "price": "€10.76 inc VAT (€8.75 exc.vat)",
+  "description": "Series 2000 with 2 built-in organisers, Metal latches, Removable tool tray",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Metal Latch Toolbox 32cm (12.1/2in)",
+  "specifications": [
+    "Series 2000 with 2 built-in organisers",
+    "Metal latches",
+    "Removable tool tray"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-e-case-m.html|>
+## Einhell E-Case M
+
+{
+  "price": "€68.83 inc VAT (€55.96 exc.vat)",
+  "description": "The Einhell E-Case M is a member of Einhell's modular E-Case system and is ideally suited for storing and transporting machines, tools, accessories and other equipment. A practical locking system for connecting stacked cases ensures systematic order during storage and enables safe transport. The case is made of polypropylene and thus has a high rigidity, heat resistance and impact resistance. Thanks to its internal height of 25cm, the E-Case M is suitable for storing large Einhell products such as hand-held circular saws, rotary hammers or cordless planers. In addition, the case is splash-proof thanks to its intelligent design. A foldable and ergonomic handle ensures optimal carrying comfort. The E-Case M case can be equipped with a padlock to secure it against theft. Included in the scope of delivery is also a removable insert for hand tools and stickers for labelling, so that you always know what is in the case.",
+  "availability": "In Stock",
+  "product_name": "Einhell E-Case M",
+  "specifications": [
+    "Internal Dimensions: 250 x 280 x 420mm",
+    "External Dimensions: 295 x 330 x 444mm",
+    "Max. Load: 90kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-shallow-box.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Shallow Box
+
+{
+  "price": "€39.94 inc VAT (€32.47 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Shallow Box is ideal for storing hand tools and smaller power tools. It features an integral foam insert which enables you to customise your tool storage to fit your power tools and accessories. Complete with anti-rust metal latches for durability, a padlock eye for security and two carry handles for easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Shallow Box",
+  "specifications": [
+    "Outer Dimensions: 44 x 17.6 x 33.1cm",
+    "Inner Dimensions: 36 x 27 x 10.4cm",
+    "Max. Capacity: 30kg",
+    "Max. Volume: 13.5 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-organiser-top-shallow-box.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Organiser Top Shallow Box
+
+{
+  "price": "€59.91 inc VAT (€48.71 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Organiser Top Shallow Box is ideal for storing hand tools and smaller power tools. The main section features an integral foam insert which enables you to customise your tool storage to fit your power tools and accessories. Whilst the integrated shallow organiser has 7 compartments making it ideal for storing small parts, etc. Complete with anti-rust metal latches for durability, a padlock eye for security and a large aluminium carry handle for easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Organiser Top Shallow Box",
+  "specifications": [
+    "Outer Dimensions: 44 x 18.3 x 33.3cm",
+    "Inner Dimensions: 36.5 x 27 x 10.5cm",
+    "Max. Capacity: 30kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-deep-drawer.html|>
+## FatMax® PRO-STACK™ Deep Drawer
+
+{
+  "price": "€56.69 inc VAT (€46.09 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Deep Drawer has 4 small and 2 big removable cups, making it ideal for storing small parts, components and accessories. Fitted with a carry handle for easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "FatMax® PRO-STACK™ Deep Drawer",
+  "specifications": [
+    "Outer Dimensions: 44 x 17.6 x 31.4cm",
+    "Inner Dimensions: 34.5 x 25.4 x 9.8cm",
+    "Max. Capacity: 7.5kg per drawer",
+    "Max. Volume: 9.5 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-2-shallow-drawers.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ 2 Shallow Drawers
+
+{
+  "price": "€39.56 inc VAT (€32.16 exc.vat)",
+  "description": "This STANLEY® FatMax® PRO-STACK™ Box has 2 shallow drawers, each drawer has dividers for customisable storage of small parts and accessories. Fitted with a carry handle for comfort and easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ 2 Shallow Drawers",
+  "specifications": [
+    "Outer Dimensions: 44 x 17.6 x 31.4cm",
+    "Inner Dimensions: 34.7 x 25.4 x 4.5cm (each drawer)",
+    "Max. Capacity: 7.5kg",
+    "Max. Volume: 8.1 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-deep-box.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Deep Box
+
+{
+  "price": "€29.96 inc VAT (€24.36 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Deep Box is ideal for storing larger power tools and also features an integral, removable storage tray for hand tools and smaller items. Complete with anti-rust metal latches for durability, a padlock eye for security and a carry handle for easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Deep Box",
+  "specifications": [
+    "Outer Dimensions: 44 x 30.2 x 33.1cm",
+    "Inner Dimensions: 42 x 27 x 24.7cm",
+    "Max. Capacity: 7.5kg",
+    "Max. Volume: 22.2 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-combo-kit.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Combo Kit
+
+{
+  "price": "€107.85 inc VAT (€87.68 exc.vat)",
+  "description": "This STANLEY® FatMax® PRO-STACK™ Combo Kit contains the following: 1 x STANLEY® FatMax® PRO-STACK™ Shallow Box. Ideal for storing hand tools and smaller power tools. It features an integral foam insert which enables you to customise your tool storage to fit your power tools and accessories. Complete with anti-rust metal latches for durability, a padlock eye for security and two carry handles for easy transportation. 1 x STANLEY® FatMax® PRO-STACK™ Box with 2 Shallow Drawers. Each drawer has dividers for customisable storage of small parts and accessories. Fitted with a carry handle for comfort and easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "In Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Combo Kit",
+  "specifications": [
+    "Outer Dimensions (Both Boxes): 44 x 32.6 x 33.1cm",
+    "Inner Dimensions: 36 x 27 x 10.4cm (Shallow Box) and 34.7 x 25.4 x 4.5cm (2 Drawers)",
+    "Max. Capacity: 30kg (Shallow Box) and 7.5kg (2 Drawers)",
+    "Max. Volume: 13.5 litres (Shallow Box) and 8.1 litres (2 Drawers)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-open-tote.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Open Tote
+
+{
+  "price": "€35.94 inc VAT (€29.22 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Open Tote has a wide opening, making it perfect to store larger power tools and longer items, such as spirit levels. Complete with a folding carry handle, enabling easy connectivity with other STANLEY® FATMAX® PRO-STACK™ modules. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Open Tote",
+  "specifications": [
+    "Outer Dimensions: 44 x 27.5 x 32cm",
+    "Inner Dimensions: 36.5 x 29 x 26.5cm",
+    "Max. Capacity: 10kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-organiser-top-deep-box.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Organiser Top Deep Box
+
+{
+  "price": "€71.89 inc VAT (€58.45 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Organiser Top Deep Box is ideal for storing larger power tools. The main section features an integral, removable storage tray for hand tools and smaller items. Whilst the integrated shallow organiser has 7 compartments making it ideal for storing small parts, etc. Complete with anti-rust metal latches for durability, a padlock eye for security and a large aluminium carry handle for easy transportation. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Organiser Top Deep Box",
+  "specifications": [
+    "Outer Dimensions: 44.2 x 32.3 x 33.8cm",
+    "Inner Dimensions: 42 x 27 x 24.7cm",
+    "Max. Capacity: 30kg",
+    "Max. Volume: 22.2 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-toughsystem-20-drawer-unit.html|>
+## DEWALT Storage TOUGHSYSTEM™ 2.0 Drawer Unit
+
+{
+  "price": "€175.74 inc VAT (€142.88 exc.vat)",
+  "description": "DEWALT DWST83529-1 TOUGHSYSTEM™ 2.0 Drawer Unit with ball bearing drawer sliders for smooth operation and durability. Name panel inserts allow the drawers to be labelled for easy identification of contents. Fitted with strong, ergonomic handles for more comfortable transportation. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules. It also offers half-module compatibility, half-width modules can be connected to the unit.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage TOUGHSYSTEM™ 2.0 Drawer Unit",
+  "specifications": [
+    "Outer Dimensions (W x L x H): 535 x 330 x 305mm",
+    "Max. Load: 10kg per drawer"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-toughsystem-20-task-box-and-adjustable-work-light-18v-bare-unit.html|>
+## DEWALT Storage TOUGHSYSTEM™ 2.0 Task Box & Adjustable Work Light 18V Bare Unit
+
+{
+  "price": "€323.83 inc VAT (€263.28 exc.vat)",
+  "description": "This DEWALT TOUGHSYSTEM™ 2.0 Combo lets you illuminate work areas and keep essential tools close-at-hand. Powered by 18V batteries, NOT SUPPLIED, this modular lighting solution features 2 pivoting LED heads providing up to 3 hours of runtime. Brighten dim spaces with up to 4,000 lumens (using both lights) of natural white light and 7 brightness levels. With ample storage space, an integrated folding handle, and durable design this TOUGHSYSTEM® compatible product delivers the versatility needed for demanding jobsites.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Storage TOUGHSYSTEM™ 2.0 Task Box & Adjustable Work Light 18V Bare Unit",
+  "specifications": [
+    "Bulb Type: LED",
+    "Power: 40W",
+    "Voltage: 18V",
+    "Dimensions (W x H x L): 30 x 36 x 40cm",
+    "Weight: 4.83kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-toughsystem-brackets-x-2.html|>
+## DEWALT Storage TOUGHSYSTEM™ Brackets x 2
+
+{
+  "price": "€27.88 inc VAT (€22.67 exc.vat)",
+  "description": "The DEWALT TOUGHSYSTEM™ Bracket Pair for securing stacked TOUGHSYSTEM™ cases. They are fully height adjustable and can carry up to 50kg per pair. The work site Tough system is waterproof and highly versatile.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage TOUGHSYSTEM™ Brackets x 2",
+  "specifications": [
+    "Pack Quantity: 2",
+    "Weight: 598g (1.32 Ib)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-tstak-tote.html|>
+## DEWALT Storage TSTAK™ Tote
+
+{
+  "price": "€39.94 inc VAT (€32.47 exc.vat)",
+  "description": "The DEWALT TSTAK™ Tote is a tough, durable tool case made from 3mm polypropylene plastic. With a large open interior for bulk storage and vertical tool storage for easy visibility access to frequently used tools. It also features nameplates for easy content identification and an ergonomic carry handle. The TSTAK­™ interlocking storage system allows toolboxes to be interconnected and configured to meet the user's needs.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage TSTAK™ Tote",
+  "specifications": [
+    "Outer Dimensions (W x L x H): 320 x 440 x 275mm",
+    "Capacity: 27 litre",
+    "Max. Load: 50kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-tstak-foam-inlay.html|>
+## DEWALT Storage TSTAK™ Foam Inlay
+
+{
+  "price": "€22.82 inc VAT (€18.55 exc.vat)",
+  "description": "The DEWALT TSTAK™ Foam Inlay is made from lightweight but strong materials helping to keep your equipment safe during transportation. Provides flexibility and can be customised by the user to suit a variety or tools and needs. Compatible with many TSTAK™ boxes.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage TSTAK™ Foam Inlay",
+  "specifications": [
+    "Dimensions (WxHxD): 430 x 300 x 70mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-ds400-toughsystem-20-toolbox.html|>
+## DEWALT Storage DS400 TOUGHSYSTEM™ 2.0 Toolbox
+
+{
+  "price": "€102.53 inc VAT (€83.36 exc.vat)",
+  "description": "The DEWALT DS400 TOUGHSYSTEM™ 2.0 Toolbox features a high-performance seal in the lid, this ensures they are dust-tight and waterjet resistant (IP65) to withstand the most severe weather. With easy close, metal wire front latches for easy one-handed operation. A metal-reinforced padlock eye provides increased security. Fitted with strong, ergonomic handles for more comfortable transportation. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules. DEWALT Tracker compatible, an internal fixing point allows the DEWALT Tracker to be installed and the box tracked via the DEWALT Tool Connect App. There is also a handy name panel insert, this allows boxes to be labelled for easy identification.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage DS400 TOUGHSYSTEM™ 2.0 Toolbox",
+  "specifications": [
+    "Outer Dimensions (W x L x H): 554 x 371 x 408mm",
+    "Capacity: 55 litre",
+    "Max. Load: 50kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-tstak-deep-toolbox-no-tote-tray.html|>
+## DEWALT Storage TSTAK™ Deep Toolbox (No Tote Tray)
+
+{
+  "price": "€98.10 inc VAT (€79.76 exc.vat)",
+  "description": "The DEWALT TSTAK™ Deep Toolbox has a large 23 litre volume, ideal for storing larger hand tools and power tools. Side latches enable easy carrying and safe stacking. There is also a wide handle for easy and stable portability. No Tote Tray included.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage TSTAK™ Deep Toolbox (No Tote Tray)",
+  "specifications": [
+    "Outer Dimensions (W x L x H): 440 x 335 x 305mm",
+    "Max. Load: 30kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-toughsystem-tote.html|>
+## 
+
+{
+  "price": "",
+  "description": "",
+  "availability": "",
+  "product_name": "",
+  "specifications": []
+}
+
+<|https://www.mydiy.ie/products/dewalt-toughsystem-20-toolbox.html|>
+## DEWALT TOUGHSYSTEM™ 2.0 Toolbox
+
+{
+  "price": "€71.80 inc VAT (€58.37 exc.vat)",
+  "description": "The DEWALT TOUGHSYSTEM™ 2.0 Toolboxes feature a high-performance seal in the lid, this ensures they are dust-tight and waterjet resistant (IP65) to withstand the most severe weather. With easy close, metal wire front latches for easy one-handed operation. A metal-reinforced padlock eye provides increased security. Fitted with strong, ergonomic handles for more comfortable transportation. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules. DEWALT Tracker compatible, an internal fixing point allows the DEWALT Tracker to be installed and the box tracked via the DEWALT Tool Connect App. There is also a handy name panel insert, this allows boxes to be labelled for easy identification.",
+  "availability": "In Stock",
+  "product_name": "DEWALT TOUGHSYSTEM™ 2.0 Toolbox",
+  "specifications": [
+    "Dust-tight and waterjet resistant (IP65)",
+    "Easy close, metal wire front latches",
+    "Metal-reinforced padlock eye for security",
+    "Strong, ergonomic handles",
+    "Auto Stacking Latches for module connection",
+    "DEWALT Tracker compatible"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-tstak-20-shallow-toolbox.html|>
+## DEWALT TSTAK™ 2.0 Shallow Toolbox
+
+{
+  "price": "€103.87 inc VAT (€84.45 exc.vat)",
+  "description": "The DEWALT TSTAK™ 2.0 Shallow Toolbox has front and top carry handles that allow the box to be carried in both orientations. The lid is fitted with a high-performance seal that provides water and dust protection (IP54) to power and hand tools in the box. Other features include a customisable foam insert that keeps power tools safe during transportation, heavy-duty metal front latches and a padlock eye for increased security. DEWALT Tracker compatible, an internal fixing point allows the DEWALT Tracker (not supplied) to be installed and the box tracked via the DEWALT Tool Connect App. There is also a handy name panel insert, this allows boxes to be labelled for easy identification. Can be stacked and clipped to other TSTAK™ toolboxes via durable, metal pin side latches. This allows numerous boxes to be stacked and held securely together for easier transport.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT TSTAK™ 2.0 Shallow Toolbox",
+  "specifications": [
+    "Dimensions (DxWxH): 330 x 440 x 165mm",
+    "Max. Load: 30kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-tstak-20-mobile-box-bundle.html|>
+## DeWALT TSTAK™ 2.0 Mobile Box Bundle
+
+{
+  "price": "€405.19 inc VAT (€329.42 exc.vat)",
+  "description": "The DEWALT TSTAK™ 2.0 Mobile Box Bundle has been designed for convenient and easy access to tools. Made up of the following cases: 1 x TSTAK™ 2.0 Mobile Storage Box with an ergonomic, telescopic handle and durable 177mm (7in) wheels for easy transportation of heavy tools. It has a removable, half-size, internal tote tray for easy access to key hand tools, fixings and power tool accessories. A high-performance seal in the lid provides water and dust protection (IP54) to power and hand tools in the box. DEWALT Tracker compatible, an internal fixing point allows the DEWALT Tracker (not supplied) to be installed and the box tracked via the DEWALT Tool Connect App. There is also a handy name panel insert, this allows boxes to be labelled for easy identification. 1 x TSTAK™ I Accessory Case made from 3mm polypropylene plastic. Its solid metal hinges and heavy-duty metal latches make it highly robust. In addition, it has a strong metal handle. It has 2 compartments to separate smaller and larger accessories for greater organisation. 1 x TSTAK™ V Clear Lid Organiser with 2 large and 5 small removable storage cups for storing small parts and accessories. Its unique, heavy-duty lid design locks all compartments in place for secure storage. A built-in wide handle allows easy and stable portability, whilst the clear and impact resistant lid allows full visibility for quick access. All can be stacked and clipped to other TSTAK™ toolboxes via durable, metal pin side latches. This allows numerous boxes to be stacked and held securely together for easier transport. Overall Dimensions (DxWxH): 335 x 515 x 710mm",
+  "availability": "Out of Stock",
+  "product_name": "DeWALT TSTAK™ 2.0 Mobile Box Bundle",
+  "specifications": [
+    "1 x TSTAK™ 2.0 Mobile Storage Box",
+    "1 x TSTAK™ I Accessory Case",
+    "1 x TSTAK™ V Clear Lid Organiser",
+    "Overall Dimensions (DxWxH): 335 x 515 x 710mm",
+    "Water and dust protection (IP54)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-toughsystem-20-tool-bag.html|>
+## DEWALT TOUGHSYSTEM™ 2.0 Tool Bag
+
+{
+  "price": "€0.00 inc VAT",
+  "description": "The DEWALT TOUGHSYSTEM™ 2.0 Tool Bag features over 50 pockets, and a top bungee cord allowing for vertical storage of large power tools, hand tools, and other jobsite necessities. It can be accessed from any side for maximum convenience. Constructed from durable 1680D fabric which is dirt-repellent. The bag is fitted with a waterproof base, making it ideal for any work environment, and can be stacked with any other TOUGHSYSTEM™ 2.0 product.",
+  "availability": "In Stock",
+  "product_name": "DEWALT TOUGHSYSTEM™ 2.0 Tool Bag",
+  "specifications": [
+    "Max Load: 34kg",
+    "Dimensions (L x H): 38 x 33cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-toughsystem-20-half-width-deep-toolbox.html|>
+## DEWALT TOUGHSYSTEM™ 2.0 Half Width Deep Toolbox
+
+{
+  "price": "€110.38 inc VAT (€89.74 exc.vat)",
+  "description": "The DEWALT TOUGHSYSTEM™ 2.0 Half Width Deep Toolbox is dust-tight and waterjet resistant (IP65) thanks to a high-performance seal in the lid, helping it to withstand the most severe weather. Protecting your tools in all conditions. Fitted with easy close, metal wire front latches for easy one-handed operation. Its strong, ergonomic handles makes transportation more comfortable. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules. Supplied with 4 dividers and 1 half-width internal tray.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT TOUGHSYSTEM™ 2.0 Half Width Deep Toolbox",
+  "specifications": [
+    "Dimensions (L x H x W): 254 x 350 x 389mm",
+    "Weight Capacity: 34kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-toughsystem-20-internal-tray.html|>
+## DEWALT TOUGHSYSTEM™ 2.0 Internal Tray
+
+{
+  "price": "€18.29 inc VAT",
+  "description": "DEWALT TOUGHSYSTEM™ 2.0 Internal Trays are designed to add space within TOUGHSYSTEM™ 2.0 toolboxes and provide customisable organisation to fit jobsite needs. Tray-positioning latches allow you to hang trays at the top of your toolbox so they don’t interfere with larger tools stored at the bottom. Optimise organisation by stacking trays inside to create customised storage modules within TOUGHSYSTEM™ 2.0 toolboxes. Easily connect, remove, and carry multiple TOUGHSYSTEM™ trays with double-function, side-carry handles. Combine the shallow and deep trays to customise your storage modules within all TOUGHSYSTEM™ 2.0 products.",
+  "availability": "In Stock",
+  "product_name": "DEWALT TOUGHSYSTEM™ 2.0 Internal Tray",
+  "specifications": [
+    "Designed for TOUGHSYSTEM™ 2.0 toolboxes",
+    "Customisable organisation",
+    "Tray-positioning latches",
+    "Double-function, side-carry handles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-toughsystem-20-task-box-and-light.html|>
+## DEWALT TOUGHSYSTEM™ 2.0 Task Box & Light
+
+{
+  "price": "€277.66 inc VAT (€225.74 exc.vat)",
+  "description": "This DEWALT TOUGHSYSTEM™ 2.0 Task Box comes with a 4,000 Lumen task light unit. Its two 360 ° adjustable LED panels feature 7 different illumination modes. The task light can be used in various ways; placed on the ground, tripod or staked on a box tower. It can also be hung for maximum usage. Strong, ergonomic handles makes transportation more comfortable. Connects to other half width boxes or full size TOUGHSYSTEM 2.0 Boxes. Auto Stacking Latches are intuitive and easy to use, allowing TOUGHSYSTEM™ modules to be connected together. These newer style latches are compatible with older TOUGHSYSTEM™ modules. Compatiable with 18V XR Li-ion batteries. Comes as a bare unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "DEWALT TOUGHSYSTEM™ 2.0 Task Box & Light",
+  "specifications": [
+    "4,000 Lumen task light unit",
+    "Two 360 ° adjustable LED panels",
+    "7 different illumination modes",
+    "Compatible with 18V XR Li-ion batteries",
+    "Ergonomic handles for comfortable transportation",
+    "Auto Stacking Latches for easy connection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-small-tough-case-empty.html|>
+## DEWALT Small Tough Case Empty
+
+{
+  "price": "€19.15 inc VAT (€15.57 exc.vat)",
+  "description": "The DeWalt DT70801-QZ Small Tough Case has a clear lid for quick and easy identification of the contents. Part of a connectable system.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Small Tough Case Empty",
+  "specifications": [
+    "Part of a connectable system",
+    "Clear lid for quick identification of contents"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-open-tote-tool-bag-with-rigid-base-50cm-20in.html|>
+## Stanley Tools Open Tote Tool Bag with Rigid Base 50cm (20in)
+
+{
+  "price": "€50.02 inc VAT (€40.67 exc.vat)",
+  "description": "This Stanley Open Tote Tool Bag has a secure, rigid and waterproof base. It comes with a variety of internal and external pockets, to protect valuables from dust and water spills which can easily happen on a job. Large open top allows for easy access as well as more space for larger tools. It has an easy carry handle, and is secure and accessible. Dimensions: 25 x 59 x 29cm",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Open Tote Tool Bag with Rigid Base 50cm (20in)",
+  "specifications": [
+    "Dimensions: 25 x 59 x 29cm",
+    "Secure, rigid and waterproof base",
+    "Variety of internal and external pockets",
+    "Easy carry handle",
+    "Large open top for easy access"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-open-tool-bag-31cm-125in.html|>
+## Stanley Tools Open Tool Bag 31cm (12.5in)
+
+{
+  "price": "€40.17 inc VAT (€32.66 exc.vat)",
+  "description": "The Stanley STST1-70718 Open Tool Bag is great for toting around a reasonable selection of everyday tools for most jobs, and is very well made. Plenty of pockets for smaller items. The open design allows for quick access to your hand tools. Vertical storage pockets and loops for maximum organisation and accessibility. Small organiser compartment for drill bits and small parts. It is fitted with a strong, adjustable shoulder strap. Size: 32 x 20 x 26cm (12.1/2 x 8 x 10.2/8in).",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Open Tool Bag 31cm (12.5in)",
+  "specifications": [
+    "Size: 32 x 20 x 26cm (12.1/2 x 8 x 10.2/8in)",
+    "Open design for quick access",
+    "Vertical storage pockets and loops",
+    "Small organiser compartment for drill bits",
+    "Fitted with a strong, adjustable shoulder strap"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-plastic-tote-tray.html|>
+## Stanley Tools Plastic Tote Tray
+
+{
+  "price": "€11.61 inc VAT (€9.44 exc.vat)",
+  "description": "This Stanley Tote Tray provides easy, portable storage. It features 2 deep compartments and is complete with screwdriver and chisel slots to keep tools well organised. Made from plastic. Dimensions: 49.6 x 33.5 x 19.5cm.",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Plastic Tote Tray",
+  "specifications": [
+    "Dimensions: 49.6 x 33.5 x 19.5cm",
+    "Material: Plastic",
+    "Features 2 deep compartments",
+    "Includes screwdriver and chisel slots"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-plastic-fabric-open-tote-with-cover-50cm-20in.html|>
+## Stanley Tools FatMax Plastic Fabric Open Tote with Cover 50cm (20in)
+
+{
+  "price": "€86.11 inc VAT (€70.01 exc.vat)",
+  "description": "This Stanley FatMax Plastic Fabric Open Tote has a strong injected polypropylene frame that gives the bag a strong and rigid structure. It is made from tough 600 Denier and ballistic nylon fabric and is hardwearing, strong and durable. The tote has multiple internal and external pockets that provide maximum organisation and storage space for a variety of tools. The open design of the tote provides easy access to tools and power tools. Covered front pockets provide secure storage of small parts or personal items. This model is supplied with a cover. Dimensions: 490 x 280 x 310mm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Plastic Fabric Open Tote with Cover 50cm (20in)",
+  "specifications": [
+    "Dimensions: 490 x 280 x 310mm",
+    "Material: 600 Denier and ballistic nylon fabric",
+    "Strong injected polypropylene frame",
+    "Multiple internal and external pockets",
+    "Open design for easy access",
+    "Covered front pockets for secure storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-tool-bag-46cm-18in.html|>
+## Stanley Tools FatMax Tool Bag 46cm (18in)
+
+{
+  "price": "€63.90 inc VAT (€51.95 exc.vat)",
+  "description": "The Stanley STA 1-93-950 FatMax Tool Bag offers maximum tool protection thanks to its rigid and waterproof plastic bottom. An ergonomic rubber grip carry handle and heavy-duty shoulder strap make lifting more comfortable. The open structure makes for quick and easy tool access and there is a removable divider with belt clip. The interior tool loops keep everything in place. The FatMax tool bag is made with heavy-duty 600 denier fabric with leather reinforcements for long lasting durability. Dimensions: 490 x 260 x 100mm. TOOLS NOT INCLUDED.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Tool Bag 46cm (18in)",
+  "specifications": [
+    "Dimensions: 490 x 260 x 100mm",
+    "Material: Heavy-duty 600 denier fabric with leather reinforcements",
+    "Rigid and waterproof plastic bottom",
+    "Ergonomic rubber grip carry handle",
+    "Heavy-duty shoulder strap",
+    "Open structure for quick tool access",
+    "Removable divider with belt clip",
+    "Interior tool loops for organization"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-open-tote-bag-46cm-18in.html|>
+## Stanley Tools FatMax Open Tote Bag 46cm (18in)
+
+{
+  "price": "€52.43 inc VAT (€42.63 exc.vat)",
+  "description": "The FatMax tote is constructed from extra tough 600 x 600 denier fabric. It offers maximum tool protection thanks to its rigid and waterproof plastic bottom, reinforced stress points and industrial leather provides extra strength and carry comfort. A heavy-duty steel handle with rubber grip makes lifting more secure and comfortable. The open structure makes for quick and easy tool access as it keeps everything in place; with non-slip rubber straps for spirit level storage and a large side pocket for cable. Internal tool loops, covered compartments (including one with a drill bit holder inside), durable saw storage pocket and a steel holder for a measuring tape. Dimensions: 48 x 25 x 33cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax Open Tote Bag 46cm (18in)",
+  "specifications": [
+    "Dimensions: 48 x 25 x 33cm",
+    "Material: 600 x 600 denier fabric",
+    "Rigid and waterproof plastic bottom",
+    "Heavy-duty steel handle with rubber grip",
+    "Open structure for quick tool access",
+    "Non-slip rubber straps for spirit level storage",
+    "Large side pocket for cable",
+    "Internal tool loops and covered compartments"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-technicians-tool-bag.html|>
+## FatMax Technician's Tool Bag
+
+{
+  "price": "€45.67 inc VAT (€37.13 exc.vat)",
+  "description": "The FatMax technician's bag has a rigid waterproof plastic bottom, and an ergonomic rubber grip handle. It has a removable divider and provides easy access to the tools. It is constructed from heavy-duty 600 denier nylon, and has a comfortable heavy-duty shoulder strap. Industrial leather reinforcements in key stress areas. It measures 28 x 29 x 38cm.",
+  "availability": "In Stock",
+  "product_name": "FatMax Technician's Tool Bag",
+  "specifications": [
+    "Rigid waterproof plastic bottom",
+    "Ergonomic rubber grip handle",
+    "Removable divider",
+    "Heavy-duty 600 denier nylon",
+    "Comfortable heavy-duty shoulder strap",
+    "Industrial leather reinforcements in key stress areas",
+    "Dimensions: 28 x 29 x 38cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-open-tote-tool-bag-41cm-16in-1.html|>
+## Stanley Tools Open Tote Tool Bag 41cm (16in)
+
+{
+  "price": "€40.04 inc VAT (€32.55 exc.vat)",
+  "description": "The Stanley 1-96-182 is a 16 inch tote tool bag that is constructed from extra tough 600 x 600 denier fabric so that it will stand up to all worksite and weather conditions, giving the tote bag a longer life. This Stanley 196182 offers maximum tool protection thanks to its waterproof plastic bottom. The reinforced stress points and industrial leather provide extra strength and carry comfort. There is a heavy-duty steel handle with rubber grip that makes lifting this tote bag more secure and comfortable. The open structure on the Stanley tote makes for quick and easy tool access as it keeps everything in place and to hand for quick access. A rubber pad on strap gives a soft cushioning when transporting around worksites etc. There are large pockets on the side of the tote bag for cables, wrenches etc, and a centre pocket with weather flap for mobile phones etc. Size : 16 inch.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Open Tote Tool Bag 41cm (16in)",
+  "specifications": [
+    "Size: 16 inch",
+    "Material: 600 x 600 denier fabric",
+    "Waterproof plastic bottom",
+    "Heavy-duty steel handle with rubber grip",
+    "Large side pockets for cables and wrenches",
+    "Centre pocket with weather flap for mobile phones"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-open-tote-tool-bag-41cm-16in.html|>
+## Stanley Tools Open Tote Tool Bag 41cm (16in)
+
+{
+  "price": "€36.00 inc VAT (€29.27 exc.vat)",
+  "description": "The Stanley 1-96-183 Open Tote Tool Bag is made from heavy-duty 600 denier fabric, with a reinforced plastic base for excellent strength and durability. The shoulder strap enables easy carrying of heavy loads and the multiple internal and external pockets allow excellent organisation of tools and accessories. Dimensions: 450 x 235 x 275mm.",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools Open Tote Tool Bag 41cm (16in)",
+  "specifications": [
+    "Made from heavy-duty 600 denier fabric",
+    "Reinforced plastic base for strength and durability",
+    "Shoulder strap for easy carrying",
+    "Multiple internal and external pockets for organization",
+    "Dimensions: 450 x 235 x 275mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-quick-access-premium-tote-bag.html|>
+## Stanley Tools FatMax® Quick Access Premium Tote Bag
+
+{
+  "price": "€106.00 inc VAT (€86.18 exc.vat)",
+  "description": "The Stanley FatMax® Quick Access Premium Tote Bag has a large, open compartment for quick access to tools. With 2 separate zipper compartments on either side and 2 pockets at each end, with various tool holders inside. The tote is highly flexible and durable. Made from 600 denier nylon with a water resistant base and padded shoulder straps for increased comfort during transport.",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools FatMax® Quick Access Premium Tote Bag",
+  "specifications": [
+    "Large open compartment for quick access to tools",
+    "2 separate zipper compartments on either side",
+    "2 pockets at each end",
+    "Various tool holders inside",
+    "Made from 600 denier nylon",
+    "Water resistant base",
+    "Padded shoulder straps for comfort"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05430-ultimate-open-tool-tote.html|>
+## Makita E-05430 Ultimate Open Tool Tote
+
+{
+  "price": "€77.49 inc VAT (€63.00 exc.vat)",
+  "description": "The Makita E-05430 Ultimate Open Tool Tote holds over 30 tools safely and securely. It has 9 external pockets, 2 elasticated side pockets, 8 elastic loops and holders, 6 elastic loops on the back exterior for longer-length tools and a front pocket for documentation. Its square shape provides extra stability, whilst the open design enables quick and easy tool location. Fitted with an ergonomically shaped steel and foam handle. Also supplied with the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying and quick-release buckles at either end.",
+  "availability": "Out of Stock",
+  "product_name": "Makita E-05430 Ultimate Open Tool Tote",
+  "specifications": [
+    "Dimensions: 490 x 310 x 355mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-large-open-tool-tote-50cm-20in.html|>
+## IRWIN® Large Open Tool Tote 50cm (20in)
+
+{
+  "price": "€85.63 inc VAT (€69.62 exc.vat)",
+  "description": "The IRWIN® Large Open Tool Tote is made from strong, 600 denier fabric that resists wear and tear for lasting durability. Its rigid open structure enables easy access to tools. With multiple internal and external pockets for maximum organisation. A hard-wearing plastic bottom provides maximum protection from moisture and dirt. It has a padded metal handle and an adjustable shoulder strap for easy carriage of tools.",
+  "availability": "In Stock",
+  "product_name": "IRWIN® Large Open Tool Tote 50cm (20in)",
+  "specifications": [
+    "Max. Load: 20kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05446-ultimate-covered-tool-tote.html|>
+## Makita E-05446 Ultimate Covered Tool Tote
+
+{
+  "price": "€84.38 inc VAT (€68.60 exc.vat)",
+  "description": "The Makita E-05446 Ultimate Covered Tool Tote holds over 30 tools safely and securely. It has 9 external pockets, 2 elasticated side pockets, 8 elastic loops and holders, a reinforced front handsaw pocket, 6 elastic loops on the back exterior for longer-length tools and a front pocket for documentation. Its square shape provides extra stability. Its cover can be stored in rolled position. Fitted with an ergonomically shaped steel and foam handle. Also supplied with the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying and quick-release buckles at either end.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05446 Ultimate Covered Tool Tote",
+  "specifications": [
+    "Dimensions: 490 x 310 x 360mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-e-05474-ultimate-3-way-tool-tote.html|>
+## Makita E-05474 Ultimate 3-Way Tool Tote
+
+{
+  "price": "€60.27 inc VAT (€49.00 exc.vat)",
+  "description": "The Makita E-05474 Ultimate 3-Way Tool Tote has a unique oval design that allows for quick and easy tool location. With multiple pockets for greater tool organisation, including 7 outer pockets in varying sizes and 11 elastic tool holders. It can be worn 3-ways: attached to a belt, over the shoulder, or carried by hand. Fitted with an ergonomic, anti-slip handle for comfortable carrying. Also supplied with the adjustable strap-belt system with a comfortable shoulder pad for ease when carrying and quick-release buckles at either end.",
+  "availability": "In Stock",
+  "product_name": "Makita E-05474 Ultimate 3-Way Tool Tote",
+  "specifications": [
+    "Dimensions: 350 x 175 x 225mm"
+  ]
+}
+

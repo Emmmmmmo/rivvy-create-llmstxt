@@ -1,0 +1,17 @@
+<|https://www.mydiy.ie/products/facom-probag---soft-rolling-tool-bag.html|>
+## Facom Probag - Soft Rolling Tool Bag
+
+{
+  "price": "€254.25 inc VAT (€206.71 exc.vat)",
+  "description": "The Facom Rolling Probag is made from 1200 x 1200 denier fabric which is strong and robust. It provides efficient tool storage and features 6 external pockets, a saw compartment and a storage pocket for A4 documents. It allows easy access to the bottom, for practical and comfortable tool storage. The bag has a shoulder strap, aluminium handle, telescopic handle and wheels to allow it to be transported in 3 ways.",
+  "availability": "Out of Stock",
+  "product_name": "Facom Probag - Soft Rolling Tool Bag",
+  "specifications": [
+    "Size: 55cm (21.5in)",
+    "Material: 1200 x 1200 denier fabric",
+    "Features: 6 external pockets, saw compartment, storage pocket for A4 documents",
+    "Transport: Shoulder strap, aluminium handle, telescopic handle, wheels"
+  ],
+  "product_category": "Tool Bags"
+}
+

@@ -1,0 +1,1203 @@
+<|https://www.mydiy.ie/products/black-and-decker-steam-mop-replacement-head.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-heavy-dutyblackrefusesacks10.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tec7-ca-clean--removes-limescale-rust-and-residues.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tec7-tec7-cleaner.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tec7-tec7-hp-clean--removes-natural-staining-or-soiling.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tec7-tec7-remove-all.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/minky-15m-retractable-clothes-line.html|>
+## Minky 15M Retractable Clothes Line
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "Minky 1 LINE 15M GREY RETRACTABLE WASHING LINE. Attaches to the wall with a special bracket, allowing removal of the reel when not in use. PVC-coated line for easy cleaning.",
+  "availability": "In Stock",
+  "product_name": "Minky 15M Retractable Clothes Line",
+  "specifications": [
+    "Plastic & Metal Construction",
+    "Total Drying Space: 15m",
+    "Max Load: 15kg",
+    "Weatherproof",
+    "Ideal For Gardens & Balconies",
+    "Detachable Bracket For Winter Storage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pegs-line.html|>
+## Peg's Line
+
+{
+  "price": "€34.99 inc VAT (€28.45 exc.vat)",
+  "description": "Complete Clothes Line System\n\n- 100% Irish made.\n\n- Quick and easy install.\n\n- Lightweight and super durable - winder and pulley system.\n\n- Easy lock system.\n\nPACKAGE CONTENTS: Clothes line winder, pulley, 50ft clothes line, fittings.\n\nCOLOUR: Silver",
+  "availability": "In Stock",
+  "product_name": "Peg's Line",
+  "specifications": [
+    "100% Irish made",
+    "Quick and easy install",
+    "Lightweight and super durable - winder and pulley system",
+    "Easy lock system",
+    "PACKAGE CONTENTS: Clothes line winder, pulley, 50ft clothes line, fittings",
+    "COLOUR: Silver"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-cordomatic-in--out-line-15m.html|>
+## Vileda Cordomatic In / Out Line 15m
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "The Vileda Cordomatic Retractable Washing Line (15m) is a space-saving and convenient solution for drying laundry both indoors and outdoors. Designed with durability and ease of use in mind, this extendable washing line can be locked at any length up to 15 meters, making it perfect for small spaces, gardens, patios, or laundry rooms. Housed in a strong plastic container with galvanized fittings, this washing line is built to withstand daily use and various weather conditions. Once laundry is dry, simply retract the line back into the casing to keep it neat, tangle-free, and protected from dirt and damage. Ideal for homes with limited space, the Vileda Cordomatic provides a practical, durable, and efficient drying solution for households of all sizes.",
+  "availability": "In Stock",
+  "product_name": "Vileda Cordomatic In / Out Line 15m",
+  "specifications": [
+    "15m retractable washing line – locks at any length",
+    "Strong plastic casing with durable galvanized fittings",
+    "Suitable for both indoor and outdoor use",
+    "Space-saving design – keeps washing line neat and tangle-free",
+    "Easy to use and store when not in use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-rotary-ground-spike-32mm-and-38mm.html|>
+## Vileda Rotary Ground Spike 32mm & 38mm
+
+{
+  "price": "€11.24 inc VAT (€9.14 exc.vat)",
+  "description": "Rotary Ground Spike with a removeable plastic insert to allow use with a 32mm or a 38mm pole.",
+  "availability": "Out of Stock",
+  "product_name": "Vileda Rotary Ground Spike 32mm & 38mm",
+  "specifications": [
+    "Rotary Ground Spike with removable plastic insert",
+    "Compatible with 32mm or 38mm pole"
+  ]
+}
+
+<|https://www.mydiy.ie/products/orange-poly-clothesline-30mtr-90-feet.html|>
+## Orange Poly Clothesline 30mTR (90 FEET)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Orange Poly Clothesline - 30m is premium quality, flexible, easy to handle and knots well. It is also twisted to provide extra strength.",
+  "availability": "In Stock",
+  "product_name": "Orange Poly Clothesline 30mTR (90 FEET)",
+  "specifications": [
+    "Polypropylene",
+    "3 Strand",
+    "Twisted & durable"
+  ]
+}
+
+<|https://www.mydiy.ie/products/holm-tie-steel-core-plastic-coated-clothes-line-30m.html|>
+## Holm Tie Steel Core Plastic Coated Clothes Line 30m
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Steel Core Plastic Coated Clothes Line from Holm Tie\n\n30 metre long steel core, plastic coated clothes line complete with a plastic tensioner.\n\n*Colour may vary*",
+  "availability": "In Stock",
+  "product_name": "Holm Tie Steel Core Plastic Coated Clothes Line 30m",
+  "specifications": [
+    "30 metre long steel core",
+    "Plastic coated",
+    "Complete with a plastic tensioner",
+    "Colour may vary"
+  ]
+}
+
+<|https://www.mydiy.ie/products/unibond-aero-360-moisture-absorber.html|>
+## Unibond Aero 360 Moisture Absorber
+
+{
+  "price": "€12.21 inc VAT",
+  "description": "The Unibond Optimum Moisture Absorbing System helps prevent condensation, damp and bad smells, as well as the development of mould and dust mites, which could cause allergies. Ideal for every room inside the home and caravans/boats. No noise and no electricity. Suitable for large rooms up to 20m².",
+  "availability": "In Stock",
+  "product_name": "Unibond Aero 360 Moisture Absorber",
+  "specifications": [
+    "Select Option: Absorber Device, Aromatherapy Lavender Refills Pack of 2, Refills Pack of 2, Waterfall Freshness (Pack 2), Wildflower Meadow (Pack 2)",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/unibond-aero-360-compact-moisture-absorber.html|>
+## UniBond AERO 360 Compact Moisture Absorber
+
+{
+  "price": "€17.86 inc VAT (€14.52 exc.vat)",
+  "description": "The UniBond AERO 360 Compact Moisture Absorber absorbs excess moisture and neutralises bad smells in your home. It is ideal for rooms up to 20m². The aerodynamic design promotes 360° air circulation for advanced efficiency. Made from 60% recycled plastic. Easy to use, a handy level indicator shows you when a new dehumidifier refill is required. AERO 360° refills last up to 3 months. The tabs are made of active moisture absorbing crystals and include patented anti-odour agents. The AERO 360° humidity absorber device functions without electricity and provides maximum safety thanks to its spill-prevention system. Supplied with 1 x Refill Tab.",
+  "availability": "Out of Stock",
+  "product_name": "UniBond AERO 360 Compact Moisture Absorber",
+  "specifications": [
+    "Absorbs excess moisture",
+    "Neutralises bad smells",
+    "Ideal for rooms up to 20m²",
+    "Aerodynamic design for 360° air circulation",
+    "Made from 60% recycled plastic",
+    "Easy to use with level indicator",
+    "Refills last up to 3 months",
+    "Functions without electricity",
+    "Includes 1 x Refill Tab"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pifco-60w-single-under-blanket-pe109.html|>
+## Pifco 60W Single Under Blanket PE109
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "Sleep easy with the 60W Pifco single heated under blanket. Featuring 2 heat settings and detachable control. With overheat protection for safety. Machine washable polyester. Blanket fits over the mattress below the bottom sheet.",
+  "availability": "In Stock",
+  "product_name": "Pifco 60W Single Under Blanket PE109",
+  "specifications": [
+    "Overheat protection",
+    "2 Heat settings",
+    "1 x Detachable controller",
+    "150 x 70cm",
+    "Machine washable",
+    "LED indicator - on/off",
+    "White polyester",
+    "Barcode: 5051107101096",
+    "Product Type: Single Electric Blanket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/warmlite-1200w-2-bar-heater.html|>
+## Warmlite 1200W 2 Bar Heater
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "This heater is great for around the home or office. Heat any room fast. Warmlite 1200W Bar Heater Keep warm with this fantastic bar heater. Coming equipped with a portable handle, anti-tip feature for safety, indicator light, and two heating settings.",
+  "availability": "In Stock",
+  "product_name": "Warmlite 1200W 2 Bar Heater",
+  "specifications": [
+    "1200W power",
+    "Portable handle",
+    "Anti-tip feature for safety",
+    "Indicator light",
+    "Two heating settings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/miss-exitex-p-strip-rubber-draught-seal-5m.html|>
+## MISS Exitex P Strip Rubber Draught Seal 5m
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "Exitex Draft Excluder\n\nP Strip Self Adhesive Foam\n\nColour:- White\n\nLength:- 5 meter\n\nFor Gaps 2 - 5mm\n\nNon Stretching Backing Tape\n\nFits All Windows & Doors\n\nCould Result In Energy Savings Up To 35%\n\nEffective Quick & Easy To Use",
+  "availability": "In Stock",
+  "product_name": "MISS Exitex P Strip Rubber Draught Seal 5m",
+  "specifications": [
+    "Colour: White",
+    "Length: 5 meter",
+    "For Gaps: 2 - 5mm",
+    "Non Stretching Backing Tape",
+    "Fits All Windows & Doors",
+    "Energy Savings Up To 35%"
+  ]
+}
+
+<|https://www.mydiy.ie/products/warmlite-flat-fan-heater.html|>
+## Warmlite Flat Fan Heater
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "This heater offers you a choice of 1000 W and 2000 W settings, as well as an adjustable thermostat that lets you easily find and set your perfect temperature. A selection of cool, warm and hot air options make this a practical and useful appliance all year round, giving it added versatility and making it a fantastic appliance for smaller homes or offices.",
+  "availability": "In Stock",
+  "product_name": "Warmlite Flat Fan Heater",
+  "specifications": [
+    "1000 W and 2000 W settings",
+    "Adjustable thermostat",
+    "Cool, warm, and hot air options"
+  ]
+}
+
+<|https://www.mydiy.ie/products/warmlite-15kw-oil-filled-radiator.html|>
+## WARMLITE 1.5KW OIL FILLED RADIATOR
+
+{
+  "price": "€44.99 inc VAT (€36.58 exc.vat)",
+  "description": "3 Heat Settings: 600W / 900W / 1500W\nAdjustable Thermostat\nOverheat protection system\nSwitch controls/Power indicator light\n7 Heated Fins\nEasy-glide castor wheels\nIdeal for homes caravans conservatories and office environments\nProduct Dimensions: H54.5cm W24cm D33cm.",
+  "availability": "In Stock",
+  "product_name": "WARMLITE 1.5KW OIL FILLED RADIATOR",
+  "specifications": [
+    "3 Heat Settings: 600W / 900W / 1500W",
+    "Adjustable Thermostat",
+    "Overheat protection system",
+    "Switch controls/Power indicator light",
+    "7 Heated Fins",
+    "Easy-glide castor wheels",
+    "Ideal for homes, caravans, conservatories, and office environments",
+    "Product Dimensions: H54.5cm W24cm D33cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/pifco-2000w-convection-heater-pe108.html|>
+## PIFCO 2000W CONVECTION HEATER PE108
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "3 Heat Settings: 750W / 1250W / 2000W\nAdjustable thermostat indicator lights\nRecessed carry handles\nOverheat protection\nThermal cut-off 2000W",
+  "availability": "In Stock",
+  "product_name": "PIFCO 2000W CONVECTION HEATER PE108",
+  "specifications": [
+    "3 Heat Settings: 750W / 1250W / 2000W",
+    "Adjustable thermostat indicator lights",
+    "Recessed carry handles",
+    "Overheat protection",
+    "Thermal cut-off 2000W"
+  ]
+}
+
+<|https://www.mydiy.ie/products/titan2kw-convector-heater--1311-26.html|>
+## Titan2Kw Convector Heater | 1311-26
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "Titan 2Kw Convector Heater | 1311-26 with 3 heat settings, thermostat for automatic temperature adjustment, built-in safety overheat protection, dimensions: H: 37.8cm W: 53cm D: 20cm, weight: 2.3kg.",
+  "availability": "In Stock",
+  "product_name": "Titan2Kw Convector Heater | 1311-26",
+  "specifications": [
+    "3 heat settings - 750W, 1.25Kw, and 2Kw",
+    "Thermostat for automatic temperature adjustment",
+    "Built-in safety overheat protection",
+    "Dimensions: H: 37.8cm W: 53cm D: 20cm",
+    "Weight: 2.3kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/warmlite-2kw-oil-filled-radiator-with-timer.html|>
+## WARMLITE 2KW OIL FILLED RADIATOR WITH TIMER
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "9 Fin Oil Radiator with timer. Overheat protection system. 3 Power output settings. Adjustable thermostat with timer. Castor wheels for easy movement. Max Power 2000W",
+  "availability": "In Stock",
+  "product_name": "WARMLITE 2KW OIL FILLED RADIATOR WITH TIMER",
+  "specifications": [
+    "ITEM CODE: 5056032999992",
+    "Max Power: 2000W",
+    "9 Fin Oil Radiator with timer",
+    "Overheat protection system",
+    "3 Power output settings",
+    "Adjustable thermostat with timer",
+    "Castor wheels for easy movement"
+  ]
+}
+
+<|https://www.mydiy.ie/products/phoenix-fire-pit-made-in-ireland.html|>
+## Phoenix Fire Pit Made in Ireland
+
+{
+  "price": "€109.99 inc VAT (€89.42 exc.vat)",
+  "description": "An amazing Fire pit with fantastic fire pattern display. Watch the video to see how different the flame effect is! Features and Benefits: - Wood fire pit – designed with a ‘Gravitational Afterburner System’ - Amazing fire pattern - Compact Design - H 360mm x W 300mm - Weight 3.6Kg Boxed - Minimal smoke - Burns clean - Produces minimal ash and requires little cleanup - Manufactured in Ireland Support Irish Jobs)",
+  "availability": "In Stock",
+  "product_name": "Phoenix Fire Pit Made in Ireland",
+  "specifications": [
+    "Wood fire pit – designed with a ‘Gravitational Afterburner System’",
+    "Amazing fire pattern",
+    "Compact Design",
+    "H 360mm x W 300mm",
+    "Weight 3.6Kg Boxed",
+    "Minimal smoke",
+    "Burns clean",
+    "Produces minimal ash and requires little cleanup"
+  ]
+}
+
+<|https://www.mydiy.ie/products/infrared-patio-heater-with-remote-control-wall-mounted.html|>
+## Infrared Patio Heater with Remote Control wall Mounted
+
+{
+  "price": "€79.99 inc VAT (€65.03 exc.vat)",
+  "description": "Keeps you toasty warm in the garden all year round. Wall-mounted, tilting design, safely out of reach. 3 heat levels offer adjustable comfort. Heats up to 20 square meters. Golden tube heating element delivers instant heat. A natural light creates lower UV levels and less glare. The remote control makes it easy to operate. Dimensions H 11 X W 68 X D 7cm. IP65.",
+  "availability": "In Stock",
+  "product_name": "Infrared Patio Heater with Remote Control wall Mounted",
+  "specifications": [
+    "Wall-mounted, tilting design",
+    "3 heat levels",
+    "Heats up to 20 square meters",
+    "Golden tube heating element",
+    "Dimensions H 11 X W 68 X D 7cm",
+    "IP65"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-cf-182200-li-power-x-change-fan-18v-bare-unit.html|>
+## Einhell GE-CF 18/2200 Li Power X-Change Fan 18V Bare Unit
+
+{
+  "price": "€67.54 inc VAT (€54.91 exc.vat)",
+  "description": "The Einhell GE-CF 18/2200 Li Power X-Change Fan can be used anywhere, ensuring ideal air supply or distribution of air flows. It has 3 levels for adjusting the air flow, allowing you to customise the output. The adjustment on the fan head is infinitely variable. Thanks to numerous fastening options, use is universal – whether on the terrace or balcony, in the study or kitchen, or in the workshop. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-CF 18/2200 Li Power X-Change Fan 18V Bare Unit",
+  "specifications": [
+    "Speed: 1,200/1,700/2,200/min.",
+    "Fan Wheel Diameter: 180mm.",
+    "Weight: 1.19kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dcf201zw-250mm-white-fan-body-only.html|>
+## Makita DCF201ZW 250mm White Fan (Body Only)
+
+{
+  "price": "€130.87 inc VAT (€106.40 exc.vat)",
+  "description": "Robust design suitable for jobsite use\n\nAngle adjustable\n\nDual power sources: AC adaptor (supplied) or Makita Li-ion batteries\n\nHigh/Low selectable wind speed\n\nAutomatic off timer, 3 stage adjustable: 1 hour, 2 hours, 4 hours",
+  "availability": "In Stock",
+  "product_name": "Makita DCF201ZW 250mm White Fan (Body Only)",
+  "specifications": [
+    "Robust design suitable for jobsite use",
+    "Angle adjustable",
+    "Dual power sources: AC adaptor (supplied) or Makita Li-ion batteries",
+    "High/Low selectable wind speed",
+    "Automatic off timer, 3 stage adjustable: 1 hour, 2 hours, 4 hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zebracier-silver-polish-100ml.html|>
+## Zebracier Silver Polish 100ml
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Give your cast iron and steel surfaces a brilliant, long-lasting shine with Zebracier Silver Polish. Specially designed for stove tops, hotplates, and pans, this \"Silver Shine\" Decor Cream restores, polishes, and protects in one easy step. Its durable formula ensures a lasting finish, keeping your items looking pristine for longer. Restores and protects: Brings back the original luster while guarding against wear and tear. Polishes beautifully: Leaves a sleek, polished finish for a professional look. Versatile use: Ideal for cast iron and steel surfaces. Convenient size: 100ml bottle, perfect for home use.",
+  "availability": "In Stock",
+  "product_name": "Zebracier Silver Polish 100ml",
+  "specifications": [
+    "100ml bottle",
+    "Restores and protects surfaces",
+    "Polishes for a professional look",
+    "Ideal for cast iron and steel surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zebraline-black-grate-polish-100ml.html|>
+## ZEBRALINE BLACK GRATE POLISH 100ML
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Revitalize and protect your steel, iron, and cast iron surfaces with Zebraline Black Grate Polish. This heat-resistant black paste cleans sustainably while adding a sleek, polished shine. Perfect for grills, stoves, fireplaces, stove panels, kettles, and more, it’s a must-have for maintaining and enhancing your metal surfaces.",
+  "availability": "In Stock",
+  "product_name": "ZEBRALINE BLACK GRATE POLISH 100ML",
+  "specifications": [
+    "Sustainable cleaning: Effectively removes dirt and grime while being environmentally friendly.",
+    "Restores shine: Leaves a smooth, polished finish with a bold black color.",
+    "Versatile application: Ideal for grills, stove panels, fireplaces, kettles, and other cast iron and steel surfaces.",
+    "Heat-resistant formula: Stands up to high temperatures for long-lasting results.",
+    "Convenient size: 100ml tub, perfect for household use."
+  ]
+}
+
+<|https://www.mydiy.ie/products/sc-johnson-professional-mr-muscle-window-and-glass-cleaner-750ml-1.html|>
+## Mr Muscle® Window & Glass Cleaner 750ml
+
+{
+  "price": "€6.20 inc VAT (€5.04 exc.vat)",
+  "description": "The SC Johnson Professional Mr Muscle® Window & Glass Cleaner cuts through grease and grime, cleaning all your glass, mirror and window surfaces to a streak-free shine.",
+  "availability": "In Stock",
+  "product_name": "Mr Muscle® Window & Glass Cleaner 750ml",
+  "specifications": [
+    "Product Code: SCJ354206",
+    "Volume: 750ml",
+    "Includes EMC (Environmental Management Cost)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/sc-johnson-professional-glade-clean-linen-15g.html|>
+## Glade® Clean Linen 15g
+
+{
+  "price": "€2.96 inc VAT (€2.41 exc.vat)",
+  "description": "Glade® Clean Linen is a perfumed gel, sealed into a subtle container and provides continuous fragrancing for up to a month.",
+  "availability": "In Stock",
+  "product_name": "Glade® Clean Linen 15g",
+  "specifications": [
+    "Product Code: SCJ358891",
+    "Weight: 15g",
+    "Continuous fragrancing for up to a month"
+  ]
+}
+
+<|https://www.mydiy.ie/products/sc-johnson-professional-janitol-original-25-litre.html|>
+## SC Johnson Professional Janitol® Original 25 litre
+
+{
+  "price": "€278.05 inc VAT (€226.06 exc.vat)",
+  "description": "The SC Johnson Professional Janitol® Original is a non-caustic, non-tainting, multi-purpose detergent for all general cleaning and degreasing applications.",
+  "availability": "Out of Stock",
+  "product_name": "SC Johnson Professional Janitol® Original 25 litre",
+  "specifications": [
+    "Non-caustic",
+    "Non-tainting",
+    "Multi-purpose detergent",
+    "Suitable for general cleaning and degreasing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/h-g-all-plastic-cleaner-500ml.html|>
+## H G All Plastic Cleaner 500ml
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "HG All Plastic Cleaner cleans and returns the shine to all types of dirty synthetic materials. Cleans intensively without the risk of dulling. Works quickly and safely to ensure dirt and grease are removed easily. A ready-to-use biodegradable spray suitable as a cleaner for plastic window frames, doors, cladding, plexiglass, polycarbonate, cladding such as Trespa®, kitchen cupboards, washable wallpaper, paint and other plastic surfaces. After cleaning the plastic, the plastic surface shines like new.",
+  "availability": "In Stock",
+  "product_name": "H G All Plastic Cleaner 500ml",
+  "specifications": [
+    "Product Code: H/G209050106",
+    "Volume: 500ml",
+    "Biodegradable",
+    "Suitable for various plastic surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/h-g-liquid-sander-for-painting-1-litre.html|>
+## H G Liquid Sander for Painting 1 litre
+
+{
+  "price": "€9.57 inc VAT (€7.78 exc.vat)",
+  "description": "The HG Liquid Sander for painting without sanding concentrate is a pre paint cleaner and paint degreaser removes all dirt and grease from paint and untreated surfaces before painting. This eliminates the need for sanding, so you can apply the new paint immediately. Also suitable for removing stains from dirty paintwork caused by nicotine or atmospheric dirt. This paint cleaner can be used both inside and outside.",
+  "availability": "In Stock",
+  "product_name": "H G Liquid Sander for Painting 1 litre",
+  "specifications": [
+    "1 litre capacity",
+    "Pre paint cleaner and degreaser",
+    "Removes dirt and grease",
+    "No sanding required",
+    "Suitable for indoor and outdoor use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/h-g-pet-hair-dissolver-500g.html|>
+## H G Pet Hair Dissolver 500g
+
+{
+  "price": "€19.94 inc VAT (€16.21 exc.vat)",
+  "description": "HG Pet Hair Dissolver is the ideal remover for pet hair in the washing machine. It's a detergent booster which removes pet hair effectively from all types of fabric. HG hair dissolver for pet hairs dissolves the hair during the normal washing cycle. The washing machine itself stays free from hair and it's completely safe for fabrics. Ideal for dog and cat baskets, pet blankets, cushions and clothes.",
+  "availability": "In Stock",
+  "product_name": "H G Pet Hair Dissolver 500g",
+  "specifications": [
+    "Detergent booster for pet hair removal",
+    "Effective on all types of fabric",
+    "Safe for washing machines",
+    "Ideal for pet baskets, blankets, and clothes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/h-g-stain-and-odour-away-dog.html|>
+## H G Stain & Odour Away Dog
+
+{
+  "price": "€10.34 inc VAT (€8.41 exc.vat)",
+  "description": "The HG Stain & Odour Away for dogs is enhanced with OXI action power. Effectively removes stubborn stains and smells. The special active oxygen formula cleans deep into the fibres of carpet or upholstery, so even ingrained stains and smells will be removed easily. HG Stain & odour away for dogs is suitable for almost all types of fabrics. Ideal for difficult stains caused by vomit, faeces, or urine.",
+  "availability": "In Stock",
+  "product_name": "H G Stain & Odour Away Dog",
+  "specifications": [
+    "1 x H G Stain & Odour Away Dog 500ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/h-g-mould-preventer-spray-500ml.html|>
+## H G Mould Preventer Spray 500ml
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "H G Mould Preventer Spray is a convenient spray which prevents mould from developing. This makes it ideal for the bathroom and other places where mould is quick to form. This anti-mould product effectively seals surfaces from moisture and air. Mould can no longer develop and your bathroom stays free of mould. Suitable for glossy and mat surfaces.",
+  "availability": "In Stock",
+  "product_name": "H G Mould Preventer Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Prevents mould development",
+    "Ideal for bathrooms",
+    "Seals surfaces from moisture and air",
+    "Suitable for glossy and mat surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/jeyes-drain-unblocker-1-litre.html|>
+## Jeyes Drain Unblocker 1 Litre
+
+{
+  "price": "€7.45 inc VAT (€6.06 exc.vat)",
+  "description": "Jeyes Drain Unblocker eliminates the toughest blockages including fully blocked drains. It has a powerful, thick clinging formula that works in 30 minutes. Dissolves grease, hair, soap scum, food and decaying leaves whilst cleaning and deodorising outdoor drains.",
+  "availability": "In Stock",
+  "product_name": "Jeyes Drain Unblocker 1 Litre",
+  "specifications": [
+    "Powerful thick clinging formula",
+    "Works in 30 minutes",
+    "Dissolves grease, hair, soap scum, food, and decaying leaves",
+    "Cleans and deodorises outdoor drains"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marigold-cleaning-me-softly-x-2-box-of-14.html|>
+## Marigold Cleaning Me Softly x 2 (Box of 14)
+
+{
+  "price": "€24.01 inc VAT (€19.52 exc.vat)",
+  "description": "The Marigold Cleaning Me Softly is a non-scratch scourer that has a foamed back with a hygienic easy to rinse surface. Ideal for removing tough dirt without scratching delicate surfaces. They have been Teflon® tested and approved. Pack of 2 Non-Scratch Scourer in a Box of 14 Packs.",
+  "availability": "In Stock",
+  "product_name": "Marigold Cleaning Me Softly x 2 (Box of 14)",
+  "specifications": [
+    "Non-scratch scourer",
+    "Foamed back",
+    "Hygienic and easy to rinse surface",
+    "Teflon® tested and approved",
+    "Pack of 2 in a box of 14 packs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-supermocio-bucket-and-torsion-wringer.html|>
+## Vileda SuperMocio Bucket & Torsion Wringer
+
+{
+  "price": "€15.50 inc VAT (€12.60 exc.vat)",
+  "description": "The Vileda SuperMocio Bucket has a torsion wringer that twists and squeezes the mop head with less effort. It has an extremely durable construction with a pouring spout and tipping hand hold to make emptying the bucket easier. The durable metal handle is fitted with a comfort grip.",
+  "availability": "Out of Stock",
+  "product_name": "Vileda SuperMocio Bucket & Torsion Wringer",
+  "specifications": [
+    "VIL152391 : €15.50",
+    "Durable construction",
+    "Torsion wringer for easy use",
+    "Comfort grip metal handle",
+    "Pouring spout for easy emptying"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marigold-extra-tough-outdoor-gloves.html|>
+## Marigold Extra Tough Outdoor Gloves
+
+{
+  "price": "€4.99 inc VAT",
+  "description": "The Marigold Extra Tough Outdoor Gloves are made from double layered latex with a comfy cotton lining, which keeps hands dry and makes them comfortable to wear. Designed to fit to the hand perfectly and are pinched in at the wrist to prevent water from getting in. With roll-top cuffs to help them stay in place and safe-hold pattern fingertips for increased grip. They are extremely heavy-duty, designed to protect your hands from harmful chemicals. Tested to EN Standards. WARNING This product contains natural latex which may cause an allergic reaction on a latex-sensitive individual.",
+  "availability": "In Stock",
+  "product_name": "Marigold Extra Tough Outdoor Gloves",
+  "specifications": [
+    "Size Options: Extra Large, Large, Medium",
+    "Double layered latex with cotton lining",
+    "Roll-top cuffs for secure fit",
+    "Safe-hold pattern fingertips for grip",
+    "Tested to EN Standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marigold-extra-life-kitchen-rubber-gloves.html|>
+## Marigold Extra-Life Kitchen Rubber Gloves
+
+{
+  "price": "€22.20 inc VAT",
+  "description": "The Marigold Extra-Life Kitchen Rubber Gloves are made from natural rubber latex with a comfy cotton lining, which makes them flexible and comfortable to wear. Designed to fit to the hand perfectly they are pinched in at the wrist to prevent water from getting in. With roll-top cuffs to help them stay in place and safe-hold pattern fingertips for increased grip. They are extremely tough and durable, unlike standard gloves that have one or two layers, these Marigold gloves are triple layered. With a higher resistance to tears, punctures and harsh kitchen and oven cleaners. Tested to EN Standards. WARNING This product contains natural latex which may cause an allergic reaction on a latex-sensitive individual.",
+  "availability": "In Stock",
+  "product_name": "Marigold Extra-Life Kitchen Rubber Gloves",
+  "specifications": [
+    "Size: Medium",
+    "Material: Natural rubber latex with cotton lining",
+    "Triple layered for durability",
+    "Roll-top cuffs",
+    "Safe-hold pattern fingertips",
+    "Tested to EN Standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-xl-supermocio-3-action-mop.html|>
+## Vileda XL SuperMocio 3 Action Mop
+
+{
+  "price": "€7.20 inc VAT",
+  "description": "The Vileda XL SuperMocio 3 Action Mop has a lemon shaped head, that reaches into tight corners, with revolutionary 3D smart fibre zones perfectly cleans your floors with ease. With three main cleaning actions: red non-scratch scourers for stubborn dirt, blue microfibre zone for removing greasy residue, 3D red dots for extra hair and particle pick up. The head is machine washable, wash at up to 60°C and the telescopic handle extends from 80-140cm. Ideal for floors with stubborn dirt, hair and particles such as floors in the kitchen, bathroom, hallways. Replacement Head Available.",
+  "availability": "In Stock",
+  "product_name": "Vileda XL SuperMocio 3 Action Mop",
+  "specifications": [
+    "Lemon shaped head for tight corners",
+    "3D smart fibre zones for effective cleaning",
+    "Red non-scratch scourers for stubborn dirt",
+    "Blue microfibre zone for greasy residue",
+    "Machine washable head up to 60°C",
+    "Telescopic handle extends from 80-140cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marigold-let-it-shine-microfibre-cloths-pack-4.html|>
+## Marigold Let It Shine! Microfibre Cloths (Pack 4)
+
+{
+  "price": "€4.78 inc VAT (€3.89 exc.vat)",
+  "description": "Marigold Let It Shine! Microfibre Cloths can be used wet or dry and are ideal for deep cleaning, wiping down surfaces and even dusting. Strong and absorbent, Let It Shine! Microfibre Cloths remove dirt, grease and dust with ease - without the need for chemicals. They come in a pack of 4 colours, so you can assign each cloth to a specific task or room and are even machine washable.",
+  "availability": "Out of Stock",
+  "product_name": "Marigold Let It Shine! Microfibre Cloths (Pack 4)",
+  "specifications": [
+    "Pack of 4 colours",
+    "Machine washable",
+    "Strong and absorbent",
+    "Ideal for deep cleaning and dusting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marigold-scrub-away-heavy-duty-scourer-x-1-box-of-20.html|>
+## Marigold Scrub Away Heavy-Duty Scourer x 1 (Box of 20)
+
+{
+  "price": "€1.65 inc VAT (€1.34 exc.vat)",
+  "description": "Marigold Scrub Away is a heavy-duty, extra-strong stainless steel flat scouring pad, which makes light work of cleaning tough burnt on food. This durable, long lasting scourer lasts 5x as long as a traditional spiral scourer and is easy to rinse clean.",
+  "availability": "In Stock",
+  "product_name": "Marigold Scrub Away Heavy-Duty Scourer x 1 (Box of 20)",
+  "specifications": [
+    "Heavy-duty stainless steel flat scouring pad",
+    "Lasts 5x longer than traditional spiral scourers",
+    "Easy to rinse clean"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-impregnation-spray-500ml.html|>
+## MOTIPÂ® Pro Impregnation Spray 500ml
+
+{
+  "price": "€5.76 inc VAT (€4.68 exc.vat)",
+  "description": "MoTip Pro Impregnation Spray protects textile and leather from moisture and the adhesion of dirt. Its unique formula forms an invisible, protecting film which is water-repellent whilst keeping the fabric's 'breathing' properties and effectively prevents renewed adhesion of dirt. MoTip Impregnation Spray gives lasting protection and is user-friendly.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Impregnation Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Water-repellent formula",
+    "Protects textile and leather",
+    "User-friendly application"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-chewing-gum-remover-500ml.html|>
+## MOTIPÂ® Pro Chewing Gum Remover 500ml
+
+{
+  "price": "€7.48 inc VAT (€6.08 exc.vat)",
+  "description": "MoTip Pro Chewing Gum Remover briefly decreases the temperature to -40°C, allowing the chewing gum to be removed. It removes chewing gum from carpets, upholstery and pavement. Fitted with a directed jet spray for ease of use.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Chewing Gum Remover 500ml",
+  "specifications": [
+    "Volume: 500ml",
+    "Temperature reduction to -40°C",
+    "Removes chewing gum from various surfaces",
+    "Directed jet spray for ease of use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/motip-pro-textile-cleaner-500ml.html|>
+## MOTIPÂ® Pro Textile Cleaner 500ml
+
+{
+  "price": "€5.56 inc VAT (€4.52 exc.vat)",
+  "description": "MoTip Pro Textile Cleaner is an effective, fast-drying foam with high dissolving properties to clean fabrics. It also neutralises unpleasant smells. User-friendly with a subtle scent.",
+  "availability": "Out of Stock",
+  "product_name": "MOTIPÂ® Pro Textile Cleaner 500ml",
+  "specifications": [
+    "500ml",
+    "Fast-drying foam",
+    "High dissolving properties",
+    "Neutralises unpleasant smells",
+    "User-friendly with a subtle scent"
+  ]
+}
+
+<|https://www.mydiy.ie/products/sc-johnson-professional-mr-muscle-multi-surface-cleaner-750ml.html|>
+## Mr Muscle® Multi-Surface Cleaner 750ml
+
+{
+  "price": "€5.24 inc VAT (€4.26 exc.vat)",
+  "description": "The SC Johnson Professional Mr Muscle® Multi-Surface Cleaner kills 99.99% of germs. Formulated to easily tackle tough grease and grime found in commercial and workplace kitchens. It also removes soap scum and stubborn grime from busy washrooms.",
+  "availability": "In Stock",
+  "product_name": "Mr Muscle® Multi-Surface Cleaner 750ml",
+  "specifications": [
+    "750ml capacity",
+    "Kills 99.99% of germs",
+    "Formulated for tough grease and grime",
+    "Removes soap scum and stubborn grime"
+  ]
+}
+
+<|https://www.mydiy.ie/products/sc-johnson-professional-mr-muscle-kitchen-cleaner-750ml.html|>
+## Mr Muscle® Kitchen Cleaner 750ml
+
+{
+  "price": "€6.19 inc VAT (€5.03 exc.vat)",
+  "description": "The SC Johnson Professional Mr Muscle® Kitchen Cleaner kills 99.99% of germs. Formulated to easily tackle tough kitchen grease and grime found in busy workplace kitchens.",
+  "availability": "In Stock",
+  "product_name": "Mr Muscle® Kitchen Cleaner 750ml",
+  "specifications": [
+    "Product Code: SCJ316525",
+    "Volume: 750ml",
+    "Kills 99.99% of germs",
+    "Formulated for tough kitchen grease and grime"
+  ]
+}
+
+<|https://www.mydiy.ie/products/sc-johnson-professional-mr-muscle-washroom-cleaner-750ml.html|>
+## Mr Muscle® Washroom Cleaner 750ml
+
+{
+  "price": "€6.19 inc VAT (€5.03 exc.vat)",
+  "description": "The SC Johnson Professional Mr Muscle® Washroom Cleaner kills 99.99% of germs. Formulated to easily remove soap scum and stubborn grime from busy commercial and workplace washrooms.",
+  "availability": "Out of Stock",
+  "product_name": "Mr Muscle® Washroom Cleaner 750ml",
+  "specifications": [
+    "Product Code: SCJ316526",
+    "Volume: 750ml",
+    "Kills 99.99% of germs",
+    "Removes soap scum and stubborn grime"
+  ]
+}
+
+<|https://www.mydiy.ie/products/sc-johnson-professional-duck-deep-action-gel-marine-750ml.html|>
+## SC Johnson Professional Duck® Deep Action Gel Marine 750ml
+
+{
+  "price": "€3.95 inc VAT (€3.21 exc.vat)",
+  "description": "The SC Johnson Professional Duck® Deep Action Gel Marine sanitises your toilet, killing 99.99% of bacteria. Its uniquely shaped neck allows you better reach versus other Toilet Bowl Cleaners*. Leaves your toilet clean, with a fresh, long-lasting fragrance.",
+  "availability": "In Stock",
+  "product_name": "SC Johnson Professional Duck® Deep Action Gel Marine 750ml",
+  "specifications": [
+    "750ml capacity",
+    "Kills 99.99% of bacteria",
+    "Uniquely shaped neck for better reach",
+    "Fresh, long-lasting fragrance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marigold-squeaky-clean-flexi-microfibre-cloth.html|>
+## Marigold Squeaky Clean Flexi Microfibre Cloth
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "The Marigold Squeaky Clean Microfibre Cloth combines the cleaning power of microfibre with a unique rubber effect coating, for extra absorbency and gleaming results. It leaves even the shiniest surfaces streak-free and sparkling.",
+  "availability": "In Stock",
+  "product_name": "Marigold Squeaky Clean Flexi Microfibre Cloth",
+  "specifications": [
+    "Product Code: MGD171817",
+    "Price: €3.99",
+    "Customer Reviews: Based on 1 customer reviews"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-grease-away-500ml.html|>
+## H/G Grease Away 500ml
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "HG Grease Away is a powerful heavy-duty degreaser designed to effortlessly remove stubborn grease, animal and vegetable fats, and food oils from various surfaces. Whether you're dealing with built-up kitchen grime, cooking residue, or oily deposits, this fast-acting formula cuts through grease with ease, restoring surfaces to their original shine. Safe for use on stainless steel, galvanized steel, enamel, and aluminum surfaces, this versatile degreaser is perfect for kitchens, appliances, and workspaces where grease buildup is common. Its easy-to-use formula makes cleaning quick and hassle-free, helping you maintain a hygienic and spotless environment. Whether you're tackling stubborn grease in the kitchen or cleaning professional surfaces, HG Grease Away is the ultimate solution for effortless degreasing.",
+  "availability": "In Stock",
+  "product_name": "H/G Grease Away 500ml",
+  "specifications": [
+    "Powerful heavy-duty degreaser for tough grease removal",
+    "Effectively dissolves animal & vegetable fats, food oils, and grime",
+    "Safe for use on stainless steel, galvanized steel, enamel, and aluminum",
+    "Ideal for kitchens, appliances, and professional workspaces",
+    "Fast-acting formula for quick and easy cleaning"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-tile-cleaner-1-litre.html|>
+## H/G Tile Cleaner 1 litre
+
+{
+  "price": "€10.99 inc VAT (€8.93 exc.vat)",
+  "description": "HG Tile Cleaner is a freshly scented, concentrated mopping solution designed for effective and effortless cleaning of all tile floors. Whether you have ceramic tiles, flagstones, non-calciferous natural stone, or decorative gravel flooring, this powerful yet gentle formula ensures a deep clean while preserving the natural beauty of your surfaces. With its highly concentrated formula, just 1 litre provides up to 40 washes, making it an economical and long-lasting choice for maintaining pristine and hygienic floors. Perfect for regular maintenance or deep cleaning, this easy-to-use cleaner keeps your floors looking fresh, streak-free, and beautifully maintained.",
+  "availability": "In Stock",
+  "product_name": "H/G Tile Cleaner 1 litre",
+  "specifications": [
+    "Freshly scented formula for a pleasant cleaning experience",
+    "Highly concentrated – 1 litre lasts up to 40 washes",
+    "Suitable for tiles, flagstones, natural stone & decorative gravel floors",
+    "Deep cleans while protecting and maintaining floor surfaces",
+    "Easy-to-use mopping cleaner for regular maintenance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-mould-spray-500ml.html|>
+## H/G Mould Spray 500ml
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "HG Mould Spray is a highly effective solution that effortlessly eliminates all mould and mildew from both indoor and outdoor surfaces. Whether you're tackling tiled walls, grouting, or outdoor facades, this powerful spray works quickly to remove stubborn grey and black mould spots, as well as green algae, all in just one application.",
+  "availability": "In Stock",
+  "product_name": "H/G Mould Spray 500ml",
+  "specifications": [
+    "Suitable for use on tiled walls, marble, grouting, and more",
+    "Effectively cleans bathroom, shower, toilet, kitchen, cellar, basement, sauna, swimming pool, garage, shed, and more",
+    "Works on facades, balconies, plant boxes, garden ornaments, and other outdoor areas",
+    "Delivers visible results in just 30 minutes",
+    "Bleaches and removes grey and black mould and green algae spots"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-limescale-remover-foam-spray-500ml.html|>
+## H/G Limescale Remover Foam Spray 500ml
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "HG Limescale Remover Foam Spray is a powerful and fast-acting cleaner designed to dissolve tough limescale deposits quickly and effectively. Its thick foam formula clings to surfaces for maximum cleaning power, making it perfect for removing water stains, soap scum, and mineral buildup while leaving surfaces spotless and streak-free. Ideal for bathrooms and kitchens, this easy-to-use spray is suitable for tiles, shower cubicles, plastic bathtubs, washbasins, taps, showerheads, and kitchen worktops. The foaming action ensures deep penetration, allowing for effortless cleaning and a brilliant shine with minimal scrubbing. Whether for routine cleaning or tackling stubborn scale, HG Limescale Remover Foam Spray is your go-to solution for a sparkling, limescale-free home.",
+  "availability": "In Stock",
+  "product_name": "H/G Limescale Remover Foam Spray 500ml",
+  "specifications": [
+    "Powerful and fast-acting cleaner",
+    "Thick foam formula clings to surfaces",
+    "Ideal for bathrooms and kitchens",
+    "Suitable for various surfaces",
+    "Leaves surfaces streak-free and sparkling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-duo-unblocker-1-litre.html|>
+## H/G Duo Unblocker 1 litre
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "HG Duo Unblocker is a powerful drain unblocker which can easily unblock kitchen and bathroom drains. With this drain unblocker you no longer need a plumber! Whether your blockage is due to oil, food or hair, it will effectively break down stubborn and persistent blockages, without damaging your pipes. Ready for use, no need to dilute. Does not splash or foam.",
+  "availability": "In Stock",
+  "product_name": "H/G Duo Unblocker 1 litre",
+  "specifications": [
+    "Powerful drain unblocker for kitchen and bathroom drains",
+    "Breaks down stubborn blockages without damaging pipes",
+    "Ready for use, no need to dilute",
+    "Does not splash or foam"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-grout-cleaner-500ml.html|>
+## H/G Grout Cleaner 500ml
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "HG Grout Cleaner is a powerful and effective solution designed to remove stubborn dirt, grease, and grime from grout lines between wall and floor tiles. Whether it's in the bathroom, kitchen, or any tiled area, this high-performance cleaner restores grout to its original color, bringing back a fresh and clean look to your surfaces. Formulated to penetrate deep into grout pores, HG Grout Cleaner effortlessly lifts dirt and discoloration, eliminating tough stains caused by soap scum, mildew, and grease. Suitable for ceramic, porcelain, and natural stone tiles, this easy-to-use grout cleaner makes maintenance simple, leaving your tiled areas hygienic, refreshed, and looking brand new.",
+  "availability": "In Stock",
+  "product_name": "H/G Grout Cleaner 500ml",
+  "specifications": [
+    "Deeply cleans and restores grout to its original color",
+    "Removes stubborn dirt, grease, and stains from grout lines",
+    "Ideal for use in kitchens, bathrooms, and tiled floors",
+    "Safe for use on ceramic, porcelain, and natural stone tiles",
+    "Easy-to-use formula for hassle-free application"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-drain-odour-remover-500g.html|>
+## H/G Drain Odour Remover 500g
+
+{
+  "price": "€10.99 inc VAT (€8.93 exc.vat)",
+  "description": "HG Drain Odour Remover is the ultimate solution for eliminating unpleasant smells from kitchen and bathroom drains. This powerful formula works by removing the deposits and residues that cause bad odours in sinks and drains, leaving them smelling fresh and clean. With its self-acting formula, HG Drain Odour Remover works quickly and efficiently, neutralizing unwanted smells in just 30 minutes. Ideal for regular use, this bottle provides enough solution for up to 10 treatments, helping you maintain a clean and fresh-smelling drain with minimal effort. Perfect for both kitchen sinks and bathroom drains, HG Drain Odour Remover ensures that your drains remain hygienic and free from odours, making it an essential product for any home.",
+  "availability": "In Stock",
+  "product_name": "H/G Drain Odour Remover 500g",
+  "specifications": [
+    "Removes deposits and residue causing unpleasant drain odours",
+    "Neutralizes bad smells in just 30 minutes",
+    "Self-acting formula for ease of use",
+    "Odour-free, leaving drains smelling fresh",
+    "Enough for up to 10 treatments"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-mould-remover-spray-500ml.html|>
+## Polycell Mould Remover Spray 500ml
+
+{
+  "price": "€9.85 inc VAT (€8.01 exc.vat)",
+  "description": "Polycell Mould Remover Spray contains a powerful fungicide which kills and removes mould. It totally prevents re-growth in one single application. Ideal for preparing mould prone areas before painting to give a better paint finish.",
+  "availability": "Out of Stock",
+  "product_name": "Polycell Mould Remover Spray 500ml",
+  "specifications": [
+    "500ml capacity",
+    "Powerful fungicide",
+    "Prevents mould re-growth",
+    "Ideal for painting preparation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/jeyes-4-in-1-patio-and-decking-cleaner.html|>
+## Jeyes 4-in-1 Patio & Decking Cleaner
+
+{
+  "price": "€14.80 inc VAT",
+  "description": "This Jeyes 4-in-1 Patio & Decking Cleaner is a specialist hard surface cleaner leaving your patio and decking spotless for longer thanks to its 4-in-1 complete clean action. Fights dirt, stains, limescale and algae. Whilst restoring the natural colour of hard surfaces. This ready to use formula is ideal for normal surface growth. Ideal for paths, patios, decking and fencing. Pressure washer compatible.",
+  "availability": "In Stock",
+  "product_name": "Jeyes 4-in-1 Patio & Decking Cleaner",
+  "specifications": [
+    "Available in 2 Litre and 4 Litre options",
+    "Fights dirt, stains, limescale, and algae",
+    "Restores natural color of hard surfaces",
+    "Pressure washer compatible",
+    "Ready to use formula"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-silicon-seal-remover-100ml.html|>
+## HG Silicon Seal Remover 100ml
+
+{
+  "price": "€17.32 inc VAT (€14.08 exc.vat)",
+  "description": "HG Silicon Seal Remover has been developed especially to remove silicone seal from various surfaces, including stainless steel, enamel, glass, various types of plastic, ceramic tiles, glazed tiles, natural stone and similar surfaces. Works within 15 minutes. Does not affect other materials. Includes brush and spatula.",
+  "availability": "In Stock",
+  "product_name": "HG Silicon Seal Remover 100ml",
+  "specifications": [
+    "Developed to remove silicone seal from various surfaces",
+    "Works within 15 minutes",
+    "Includes brush and spatula",
+    "Does not affect other materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-natural-stone-cleaner-extra-strong-1-litre.html|>
+## H/G Natural Stone Cleaner, Extra Strong 1 litre
+
+{
+  "price": "€10.54 inc VAT (€8.57 exc.vat)",
+  "description": "HG Natural Stone Cleaner, Extra Strong has been developed especially for the fast and easy removal of grease and caked-on dirt from marble and other types of calciferous natural stone. 1 litre of diluted natural stone cleaner is sufficient for approximately 25 - 50m².",
+  "availability": "In Stock",
+  "product_name": "H/G Natural Stone Cleaner, Extra Strong 1 litre",
+  "specifications": [
+    "1 litre of diluted natural stone cleaner is sufficient for approximately 25 - 50m²",
+    "Developed for fast and easy removal of grease and caked-on dirt from marble and other types of calciferous natural stone."
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-headstone-cleaner-500ml.html|>
+## H/G Headstone Cleaner 500ml
+
+{
+  "price": "€10.54 inc VAT (€8.57 exc.vat)",
+  "description": "The HG Headstone Cleaner 500ml removes deposits, dirt and stains caused by weather or bird droppings. Very effective with fast results. Suitable for granite, marble, bluestone and other natural stone headstones.",
+  "availability": "In Stock",
+  "product_name": "H/G Headstone Cleaner 500ml",
+  "specifications": [
+    "Volume: 500ml",
+    "Product Code: H/G215050106",
+    "List Price: €11.59",
+    "You save: €1.05"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-natural-stone-cleaner-shine-restorer-1-litre.html|>
+## HG Natural Stone Cleaner Shine Restorer 1 litre
+
+{
+  "price": "€13.83 inc VAT (€11.24 exc.vat)",
+  "description": "HG Natural Stone Cleaner Shine Restorer, 1 litre, is a freshly scented, concentrated mopping cleaner. Developed for regular cleaning of marble and all other types of calciferous natural stone. Cleaning the natural stone floor with this mopping cleaner also restores shine.",
+  "availability": "In Stock",
+  "product_name": "HG Natural Stone Cleaner Shine Restorer 1 litre",
+  "specifications": [
+    "H/G221100106",
+    "List: €15.19",
+    "You save €1.36",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-wall-and-floor-grout-protector-250ml.html|>
+## HG Wall and Floor Grout Protector 250ml
+
+{
+  "price": "€21.52 inc VAT (€17.50 exc.vat)",
+  "description": "HG Wall and Floor Grout Protector makes grout absolutely water, oil, grease and dirt repellent. With this special grout protector, all grouting is protected quickly and in the best possible way.",
+  "availability": "In Stock",
+  "product_name": "HG Wall and Floor Grout Protector 250ml",
+  "specifications": [
+    "H/G244025105 : €21.52",
+    "List: €23.65",
+    "You save €2.13"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-deep-clean-and-service-for-washing-machines-and-dishwashers-200g.html|>
+## HG Deep Clean & Service for Washing Machines & Dishwashers 200g
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "HG Deep Clean & Service prevents and solves faults in washing machines and dishwashers. The use of the machine cleaner prevents filters, floats, drain pipes and other inaccessible parts from malfunctioning due to deposits in the machine.",
+  "availability": "In Stock",
+  "product_name": "HG Deep Clean & Service for Washing Machines & Dishwashers 200g",
+  "specifications": [
+    "H/G248020106 : €11.99",
+    "List: €12.67 You save €0.68",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-wooden-furniture-cleaner-300ml.html|>
+## H/G Wooden Furniture Cleaner 300ml
+
+{
+  "price": "€7.63 inc VAT (€6.20 exc.vat)",
+  "description": "HG Wooden Furniture Cleaner makes light work of cleaning and maintaining wooden furniture. It removes dust, scratches and stains. The furniture cleaner stops stains and fingerprints. Finally, HG wooden furniture cleaner produces a beautiful shine at the same time. Surfaces coated with wax or oil are also nourished by the natural oils. Suitable for all solid or veneer wooden surfaces coated with varnish, oil, paint, wax or stain and for synthetic surfaces.",
+  "availability": "In Stock",
+  "product_name": "H/G Wooden Furniture Cleaner 300ml",
+  "specifications": [
+    "Product Code: H/G268030106",
+    "Volume: 300ml",
+    "Suitable for all solid or veneer wooden surfaces",
+    "Removes dust, scratches, and stains",
+    "Produces a beautiful shine"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-sanitary-area-cleaner-500ml.html|>
+## H/G Sanitary Area Cleaner 500ml
+
+{
+  "price": "€5.98 inc VAT (€4.86 exc.vat)",
+  "description": "HG Sanitary Area Cleaner 500ml is a quick-drying toilet spray with a fresh fragrance. For quick and easy daily hygienic cleaning of everything in the toilet area. Our toilet spray can be used on the toilet seat, the outside of the toilet pan, the cistern, the fountain, the tap and even the door handle.",
+  "availability": "In Stock",
+  "product_name": "H/G Sanitary Area Cleaner 500ml",
+  "specifications": [
+    "Quick-drying toilet spray",
+    "Fresh fragrance",
+    "Suitable for toilet seat, pan, cistern, fountain, tap, and door handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-toilet-cleaner-gel-super-power-500ml.html|>
+## HG Toilet Cleaner Gel Super Power 500ml
+
+{
+  "price": "€9.26 inc VAT (€7.53 exc.vat)",
+  "description": "HG Toilet Cleaner Gel Super Power removes dirt, germs and stains from your toilet bowl. Whether you have stubborn limescale or uric scale, HG will have your toilet looking and smelling as good as new. It can even reach and clean underneath the rim, which can be difficult to see but can still collect germs and release unpleasant odours.",
+  "availability": "In Stock",
+  "product_name": "HG Toilet Cleaner Gel Super Power 500ml",
+  "specifications": [
+    "Product Code: H/G322050106",
+    "Volume: 500ml",
+    "Removes dirt, germs, and stains",
+    "Effective against limescale and uric scale",
+    "Cleans underneath the rim"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-coffee-machine-descaler-500ml.html|>
+## HG Coffee Machine Descaler 500ml
+
+{
+  "price": "€5.73 inc VAT (€4.66 exc.vat)",
+  "description": "HG Coffee Machine Descaler is an espresso machine descaler based on citric acid removing scale from all types of espresso and pod-coffee machines. This espresso machine descaler works safely and quickly; it is odourless and fully biodegradable. One bottle contains enough for 6 treatments.",
+  "availability": "In Stock",
+  "product_name": "HG Coffee Machine Descaler 500ml",
+  "specifications": [
+    "H/G323050106 : €5.73",
+    "QtyAdd to Basket",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-hygienic-fridge-cleaner-500ml.html|>
+## H/G Hygienic Fridge Cleaner 500ml
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "HG Hygienic Fridge Cleaner is easy to apply and leaves you with a fresh-smelling, hygienic, clean refrigerator. No need to rinse. This unique cleaner removes stubborn grime from your fridge effectively and leaves no streaks.",
+  "availability": "In Stock",
+  "product_name": "H/G Hygienic Fridge Cleaner 500ml",
+  "specifications": [
+    "Product Code: H/G335050106",
+    "Volume: 500ml",
+    "Includes EMC (Environmental Management Cost)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hozelock-outdoor-solar-shower.html|>
+## Hozelock Outdoor Solar Shower
+
+{
+  "price": "€245.46 inc VAT (€199.56 exc.vat)",
+  "description": "The Hozelock Outdoor Solar Shower has a sleek modern design with an easy to use tap. Regulated up to a max. temp of 60°, with a temp adjustor. This shower doesn't require electricity and is ready to use after approximately 2 hours of sun exposure. It is fitted with a large 8 litre tank.",
+  "availability": "Out of Stock",
+  "product_name": "Hozelock Outdoor Solar Shower",
+  "specifications": [
+    "Model: HOZ100100213",
+    "Max Temperature: 60°",
+    "Tank Capacity: 8 litres",
+    "No electricity required",
+    "Ready to use after 2 hours of sun exposure"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-laminate-vinyl-and-pvc-protector-1-litre.html|>
+## HG Laminate, Vinyl & PVC Protector 1 litre
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "HG Laminate, Vinyl & PVC Protector is a unique and easy to apply polymer emulsion. Forms a wafer-thin glossy yet extremely protective coating when it dries. Protects against wear and tear, scratches and other damages. It also masks faded patches and existing damage. 1 litre is sufficient for approximately 60m² per layer.",
+  "availability": "In Stock",
+  "product_name": "HG Laminate, Vinyl & PVC Protector 1 litre",
+  "specifications": [
+    "1 litre is sufficient for approximately 60m² per layer",
+    "Protects against wear and tear, scratches and other damages",
+    "Masks faded patches and existing damage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-ps001gz-xgt-40vmax-scrubber-polisher-40v-bare-unit.html|>
+## Makita PS001GZ XGT® 40Vmax Scrubber Polisher 40V Bare Unit
+
+{
+  "price": "€1,136.47 inc VAT (€923.96 exc.vat)",
+  "description": "The Makita PS001GZ XGT® 40Vmax Scrubber Polisher can be used for a wide range of applications such as cleaning dirt and stains from floors and polishing wax on floors by changing the brush or pad attachment. It offers 3-speed options (Low / Medium / High) this allows the operator to match speed to application. Stable operation is ensured by constant speed control and an anti-wobble structure. Fitted with an adjustable and easy to grip handle. Comes as a bare unit, no battery or charger supplied.",
+  "availability": "Out of Stock",
+  "product_name": "Makita PS001GZ XGT® 40Vmax Scrubber Polisher 40V Bare Unit",
+  "specifications": [
+    "No Load Speed: 0-150/350/600/min.",
+    "Weight: 3.8kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/karcher-wv5-premium-window-vac.html|>
+## Karcher WV5 Premium Window Vac
+
+{
+  "price": "€89.00 inc VAT (€72.36 exc.vat)",
+  "description": "The New Karcher WV 5 Premium Window Vac is 10% shorter and lighter than the original window vac but now has a 35 minute run time, allowing you to clean up to 105m² per charge. The WV 5 also includes a handy LED battery level indicator. Thanks to its powerful vacuum there are no drips, leaving surfaces completely dry and streak free. It’s also perfect for removing liquid from mirrors, shower screens, tiles, condensation from windows and even spills from floors and worktops. Comes with: 100ml Dirty Water Tank, Built-In Lithium Ion Battery, Charger, Wide Vac Head (280mm), Narrow Vac Nozzle (170mm), Spray Bottle and 1 x Detergent Sachet.",
+  "availability": "Out of Stock",
+  "product_name": "Karcher WV5 Premium Window Vac",
+  "specifications": [
+    "Working Width: 280mm",
+    "Cleaning Area: 105m² (Per Charge)",
+    "Battery Run Time: 35 Minutes",
+    "Weight: 0.65kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-brillianto-power-x-change-cordless-window-cleaner-18v-bare-unit.html|>
+## Einhell BRILLIANTO Power X-Change Cordless Window Cleaner 18V Bare Unit
+
+{
+  "price": "€66.25 inc VAT (€53.86 exc.vat)",
+  "description": "The Einhell BRILLIANTO Power X-Change Window Cleaner provides streak-free windows in no time. Its suction nozzle features a one-piece silicone pull-off lip ensuring streak-free results, regardless of cleaning direction. Ideal for window cleaning, cleaning tiles, showers, glass tables, windows and windows in the car, large window fronts, etc. Up to 100ml of liquid can be collected in the wastewater tank. The tank can be completely removed from the device for easy emptying and cleaning. Thanks to its lightweight and compact design with special softgrip surfaces, the window cleaner sits comfortably in the hand without slipping. The on/off switch is equipped with a continuous running function for time-consuming cleaning work. Supplied with a Wall Bracket, 300ml Spray Bottle and Washable Microfibre Pad. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell BRILLIANTO Power X-Change Cordless Window Cleaner 18V Bare Unit",
+  "specifications": [
+    "Suction Nozzle Length: 28cm",
+    "Water Tank Volume: 100ml",
+    "Weight: 0.74kg"
+  ]
+}
+

@@ -1,0 +1,49 @@
+<|https://www.mydiy.ie/products/telesteps-ground-spikes-1-pair.html|>
+## Telesteps Ground Spikes (1 Pair)
+
+{
+  "price": "€32.42 inc VAT (€26.36 exc.vat)",
+  "description": "Telesteps Ground Spikes provide stability and safety, even in the toughest environments. For use with the Telesteps Adjustable Safety Feet. 1 pair supplied.",
+  "availability": "In Stock",
+  "product_name": "Telesteps Ground Spikes (1 Pair)",
+  "specifications": [
+    "Model: TEL9142101",
+    "Includes: 1 pair",
+    "Material: Durable construction for stability"
+  ],
+  "product_category": "Ladders & Other Access Equipment"
+}
+
+<|https://www.mydiy.ie/products/telesteps-prime-line-tool-tray.html|>
+## Telesteps Prime Line Tool Tray
+
+{
+  "price": "€30.61 inc VAT (€24.89 exc.vat)",
+  "description": "The Telesteps Prime Line Tool Tray allows you to store tools, screws, electrical instruments, etc. whilst working. This way you will have both hands free, making work easier and safer. It's easy to move the Tool Tray to any one of the top three rungs without any screws. The open side makes it easy to swipe away dust or any other debris before you close the ladder.",
+  "availability": "In Stock",
+  "product_name": "Telesteps Prime Line Tool Tray",
+  "specifications": [
+    "Product Code: TEL9202101",
+    "List Price: €34.46",
+    "You save: €3.85"
+  ],
+  "product_category": "Ladders & Other Access Equipment"
+}
+
+<|https://www.mydiy.ie/products/telesteps-safety-strap.html|>
+## Telesteps Safety Strap
+
+{
+  "price": "€17.72 inc VAT (€14.41 exc.vat)",
+  "description": "The Telesteps Safety Strap is a small and easy way to add safety when working on a leaning ladder. Simply use the strap to secure the ladder to a steady object like a beam or post. You can also use the Safety Strap and a peg to avoid the ladder from slipping on a slippery surface like grass. There is nothing more important than safety when it comes to ladders. We are always striving to make our products as safe as possible; this goes for our main products but also when creating accessories, we have our end-user’s safety in mind.",
+  "availability": "In Stock",
+  "product_name": "Telesteps Safety Strap",
+  "specifications": [
+    "Model: TEL9203101",
+    "Price: €17.72",
+    "List Price: €19.96",
+    "You save: €2.24"
+  ],
+  "product_category": "Ladders & Other Access Equipment"
+}
+

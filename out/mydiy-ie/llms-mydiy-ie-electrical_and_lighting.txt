@@ -1,0 +1,337 @@
+<|https://www.mydiy.ie/products/dewalt-telecoms-100w-reinforced-charging-cable.html|>
+## DEWALT Telecoms 100W Reinforced Charging Cable
+
+{
+  "price": "€30.21 inc VAT",
+  "description": "These DEWALT Reinforced Charging Cables support a max. output of 100W to charge devices as large as laptops up to 10x the speed of a standard cable (when paired with 100W or above chargers). Reinforced with Kevlar® to withstand repeated bending and flexing. These cables last longer than other charging cables thanks to the single-piece strain relief, which reduces pressure on the connector and increases the lifespan of the cable.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 100W Reinforced Charging Cable",
+  "specifications": [
+    "Max output of 100W",
+    "Reinforced with Kevlar®",
+    "Available in lengths: 1.2m (4ft), 1.8m (6ft)"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-2-port-mobile-usb-charger-24w.html|>
+## DEWALT Telecoms 2-Port Mobile USB Charger 24W
+
+{
+  "price": "€31.55 inc VAT (€25.65 exc.vat)",
+  "description": "DEWALT Mobile USB Charger with two, fast charging USB A ports. Delivers up to 2.4 amps to each connected device. Intelligent charging automatically delivers an optimised charge to each device. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 2-Port Mobile USB Charger 24W",
+  "specifications": [
+    "2-Port Mobile USB Charger 24W",
+    "DWT1419008 : €31.55",
+    "Delivers up to 2.4 amps to each connected device",
+    "Intelligent charging for optimized charge"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-2-port-pd-wall-charger.html|>
+## DEWALT Telecoms 2-Port PD Wall Charger
+
+{
+  "price": "€56.24 inc VAT",
+  "description": "DEWALT 2-Port PD Wall Charger with one USB C port and one Qualcomm® Quick Charge™ 3.0 USB A port. It offers 2.5x faster charging speed for powerful devices due to advanced Power Delivery technology. The ruggedized exterior is built to stand up to harsh jobsite conditions while the dual ports allow you to charge two devices simultaneously.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 2-Port PD Wall Charger",
+  "specifications": [
+    "One USB C port",
+    "One Qualcomm® Quick Charge™ 3.0 USB A port",
+    "2.5x faster charging speed",
+    "Ruggedized exterior for harsh conditions",
+    "Dual ports for simultaneous charging"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-2-port-powerbank-10000mah.html|>
+## DEWALT Telecoms 2-Port Powerbank 10,000mAh
+
+{
+  "price": "€116.44 inc VAT (€94.67 exc.vat)",
+  "description": "The DEWALT Powerbank has been engineered for long-lasting durability. It is dust proof and can be temporarily submerged up to one metre in water. IP67 rated to protect against dust and water when port cover is securely closed. Equipped with Power Delivery and Quick Charge ports which work simultaneously to ensure your devices are fully charged wherever you go. It features one charge 3.0 USB A port and one Type C in/out port. Supplied with a Kevlar® Reinforced Type C to USB Cable, designed to withstand repeated bending and flexing. A single-piece strain relief, which reduces pressure on the connector and increases the lifespan of the cable. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 2-Port Powerbank 10,000mAh",
+  "specifications": [
+    "2-Port Powerbank 10,000mAh",
+    "DWT2151643 : €116.44",
+    "IP67 rated",
+    "Power Delivery and Quick Charge ports",
+    "Kevlar® Reinforced Type C to USB Cable"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-2-port-pps-pd-car-charger-120w.html|>
+## DEWALT Telecoms 2-Port PPS PD Car Charger 120W
+
+{
+  "price": "€84.85 inc VAT (€68.98 exc.vat)",
+  "description": "The DEWALT 2-Port PPS PD Car Charger has two Type C ports delivering up to 120W of power to fast charge two devices simultaneously. Power Delivery technology ensures maximum charging efficiency for the on-the-go charging of devices. Advanced safety features provide protection against overvoltage and short-circuits. This heavy-duty charger’s durable design makes it perfect for jobsite professionals to use on and off the site.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 2-Port PPS PD Car Charger 120W",
+  "specifications": [
+    "2 Type C ports",
+    "Delivers up to 120W of power",
+    "Fast charges two devices simultaneously",
+    "Power Delivery technology",
+    "Advanced safety features against overvoltage and short-circuits",
+    "Durable design for jobsite professionals"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-3-in-1-retractable-cable-09m-3ft.html|>
+## DEWALT Telecoms 3-in-1 Retractable Cable 0.9m (3ft)
+
+{
+  "price": "€56.35 inc VAT (€45.81 exc.vat)",
+  "description": "The DEWALT 3-in-1 Retractable Cable offers USB A to USB C, Lightning® or USB-Micro. Experience convenient cable organization with the versatility to quickly power all your mobile devices. The cable is 0.9m (3ft) when fully extended.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Telecoms 3-in-1 Retractable Cable 0.9m (3ft)",
+  "specifications": [
+    "3-in-1 Retractable Cable",
+    "0.9m (3ft) length",
+    "USB A to USB C, Lightning® or USB-Micro compatibility"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-4-port-mobile-usb-pd-charger-60w.html|>
+## DEWALT Telecoms 4-Port Mobile USB PD Charger 60W
+
+{
+  "price": "€54.50 inc VAT (€44.31 exc.vat)",
+  "description": "The DEWALT 4-Port Mobile USB PD Charger with two, 2.4 fast charging USB A ports and 1 Qualcomm® Quick Charge™ 3.0 A USB port. Qualcomm® Quick Charge™ 3.0 technology helps to deliver optimised charging speeds for any connected USB device. The USB-C port will provide up to 18W for charging. DEWALT Mobile USB chargers are capable of charging phones and tablets up to 4 times faster than standard chargers. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 4-Port Mobile USB PD Charger 60W",
+  "specifications": [
+    "4-Port Mobile USB PD Charger",
+    "Two 2.4 fast charging USB A ports",
+    "One Qualcomm® Quick Charge™ 3.0 A USB port",
+    "USB-C port provides up to 18W for charging",
+    "Charges phones and tablets up to 4 times faster than standard chargers"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-5-port-front-and-back-seat-usb-charger.html|>
+## DEWALT Telecoms 5-Port Front and Back Seat USB Charger
+
+{
+  "price": "€69.47 inc VAT (€56.48 exc.vat)",
+  "description": "The DEWALT 5-Port Front and Back Seat USB Charger allows you to power multiple devices in your vehicle. The front plug features one USB C port and one Qualcomm® Quick Charge™ 3.0 USB A port. Whilst the rear piece features three 2.4 fast charging USB A ports. It also has a metal clip allowing it to attach the piece to a backseat. DEWALT Mobile USB chargers are capable of charging phones and tablets up to 4 times faster than standard chargers. The cable has been reinforced with Kevlar® to withstand repeated bending and flexing. A single-piece strain relief, which reduces pressure on the connector and increases the lifespan of the cable. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms 5-Port Front and Back Seat USB Charger",
+  "specifications": [
+    "5-Port USB Charger",
+    "One USB C port",
+    "One Qualcomm® Quick Charge™ 3.0 USB A port",
+    "Three 2.4 fast charging USB A ports",
+    "Metal clip for backseat attachment",
+    "Reinforced with Kevlar®",
+    "Single-piece strain relief"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-fast-wireless-charging-pad.html|>
+## DEWALT Telecoms Fast Wireless Charging Pad
+
+{
+  "price": "€66.56 inc VAT (€54.11 exc.vat)",
+  "description": "The DEWALT Fast Wireless Charging Pad can charge any Qi-compatible device. Its durable design incorporates a non-slip base and a Type C input. Perfect for jobsite professionals to use on and off the jobsite. Supplied with a Kevlar® reinforced cable, designed to withstand repeated bending and flexing. A single-piece strain relief, which reduces pressure on the connector and increases the lifespan of the cable. It also comes with a Quick Charge Power Adaptor, this enables this pad to rapidly recharge compatible devices. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Fast Wireless Charging Pad",
+  "specifications": [
+    "Qi-compatible",
+    "Non-slip base",
+    "Type C input",
+    "Kevlar® reinforced cable",
+    "Quick Charge Power Adaptor"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-jobsite-pro-max-neckband-earphones-with-built-in-speakers.html|>
+## DEWALT Telecoms Jobsite Pro Max Neckband Earphones with Built-in Speakers
+
+{
+  "price": "€161.35 inc VAT (€131.18 exc.vat)",
+  "description": "The DEWALT Jobsite Pro Max Neckband Earphones are equipped with Bluetooth® 5.1 technology, allowing you to stay connected on any jobsite. Seamlessly take calls, adjust volume, and control media playback using this flexible neckband’s intuitive 3-button controls and built-in microphone. Enter Speaker mode to use the integrated speakers which allow you to hear your surroundings while enjoying 9 hours of speaker time. Or switch to the 'perfect-fit' earphones for up to 60+ hours of music runtime. With a rugged exterior, adjustable cable stays, and a Type C connector for fast charging, these earphones are a workday essential. Durable and water-resistant. IPX6 sealed to withstand sweat and moisture. The flexible neckband rests comfortably behind your neck and features built-in volume, playback controls and adjustable cable stays. Its 9mm drivers provide exceptional audio quality.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Jobsite Pro Max Neckband Earphones with Built-in Speakers",
+  "specifications": [
+    "Bluetooth® 5.1 technology",
+    "9 hours of speaker time",
+    "60+ hours of music runtime",
+    "IPX6 water-resistant",
+    "9mm drivers for exceptional audio quality"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-jobsite-pro-wearable-speaker.html|>
+## DEWALT Telecoms Jobsite Pro Wearable Speaker
+
+{
+  "price": "€115.07 inc VAT (€93.55 exc.vat)",
+  "description": "The DEWALT Jobsite Pro Wearable Speaker is small but resilient. This ultra-compact lightweight speaker can attach to your apparel and gear with the sturdy 'Easy-Open' clip. It also features a detachable mounting magnet to affix everywhere else. With an IP56 rating for water, sweat, and dust resistance, this mini speaker can withstand the harsh conditions of any jobsite. Equipped with Bluetooth® 5.0 technology and noise suppression. Allows you to make and receive crystal clear calls, while the 10-hour battery life will keep you going all day.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Jobsite Pro Wearable Speaker",
+  "specifications": [
+    "Ultra-compact lightweight design",
+    "IP56 rating for water, sweat, and dust resistance",
+    "Bluetooth® 5.0 technology",
+    "Noise suppression",
+    "10-hour battery life"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-jobsite-pro-wireless-neckband-earphones.html|>
+## DEWALT Telecoms Jobsite Pro Wireless Neckband Earphones
+
+{
+  "price": "€116.92 inc VAT (€95.06 exc.vat)",
+  "description": "DEWALT Jobsite Pro Wireless Neckband Earphones are durable and water-resistant. IPX6 sealed to withstand sweat and moisture. The flexible neckband rests comfortably behind your neck and features built-in volume, playback controls and adjustable cable stays. Its 9mm drivers provide exceptional audio quality. Equipped with Bluetooth® 5.0 technology and a microphone so you can listen to music and take calls throughout the workday. Additional ear cushions and fins are included to further customize the fit to your preference. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Telecoms Jobsite Pro Wireless Neckband Earphones",
+  "specifications": [
+    "Bluetooth® 5.0 technology",
+    "IPX6 water-resistant",
+    "9mm drivers for audio quality",
+    "Flexible neckband with built-in controls",
+    "Includes additional ear cushions and fins"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-jobsite-pro-x1-true-wireless-earbuds-with-charging-case.html|>
+## DEWALT Telecoms Jobsite Pro-X1 True Wireless Earbuds with Charging Case
+
+{
+  "price": "€170.48 inc VAT (€138.60 exc.vat)",
+  "description": "DEWALT Jobsite Pro-X1 True Wireless Earbuds are equipped with Bluetooth® 5.0 technology, allowing you to stay connected on any jobsite. Durable and water-resistant, IPX6 sealed to withstand sweat and moisture. Long battery life and outstanding sound make these lightweight earbuds a jobsite must-have. The In-Ear Smart Sensor allows earbuds to sense when they are being worn, automatically pausing when removed and resuming play when replaced. Store and recharge the earbuds multiple times with the rugged charging case, and enjoy up to 30 hours of runtime. A USB C port allows for fast charging. Includes extra ear cushions and a Type C charging cable.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Telecoms Jobsite Pro-X1 True Wireless Earbuds with Charging Case",
+  "specifications": [
+    "Bluetooth® 5.0 technology",
+    "Durable and water-resistant (IPX6)",
+    "Long battery life",
+    "In-Ear Smart Sensor",
+    "Rugged charging case with USB C port"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-jobsite-wired-earphones.html|>
+## DEWALT Telecoms Jobsite Wired Earphones
+
+{
+  "price": "€36.81 inc VAT (€29.93 exc.vat)",
+  "description": "DEWALT Jobsite Wired Earphones are durable and water-resistant. IPX6 sealed to withstand sweat and moisture while maintaining peak audio performance. Its 9mm drivers provide exceptional audio quality. Equipped with built-in volume, playback controls and a 3.5mm input jack. Extra ear cushions and shirt clip included. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Jobsite Wired Earphones",
+  "specifications": [
+    "Durable and water-resistant",
+    "IPX6 sealed",
+    "9mm drivers for exceptional audio quality",
+    "Built-in volume and playback controls",
+    "3.5mm input jack",
+    "Extra ear cushions and shirt clip included"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-jobsite-wireless-earphones.html|>
+## DEWALT Telecoms Jobsite Wireless Earphones
+
+{
+  "price": "€66.72 inc VAT (€54.24 exc.vat)",
+  "description": "DEWALT Jobsite Wireless Earphones are durable and water-resistant. IPX6 sealed to withstand sweat and moisture while maintaining peak audio performance. Its 9mm drivers provide exceptional audio quality. Equipped with built-in volume, playback controls and Bluetooth® 5.0 technology so you can conveniently pair these earphones with a wide variety of devices. Extra ear cushions and shirt clip included. DEWALT Mobile Solutions are built with superior components so every workday is worry-free.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Jobsite Wireless Earphones",
+  "specifications": [
+    "Durable and water-resistant",
+    "IPX6 sealed",
+    "9mm drivers for exceptional audio quality",
+    "Built-in volume and playback controls",
+    "Bluetooth® 5.0 technology",
+    "Extra ear cushions and shirt clip included"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-reinforced-braided-3-in-1-combo-cable-18m-6ft.html|>
+## DEWALT Telecoms Reinforced Braided 3-in-1 Combo Cable 1.8m (6ft)
+
+{
+  "price": "€63.32 inc VAT (€51.48 exc.vat)",
+  "description": "The DEWALT Reinforced Braided 3-in-1 Combo Cable offers USB A to USB C, Lightning® or USB-Micro. Providing the ultimate charging solution to any device. The cable is reinforced with Kevlar® to withstand repeated bending and flexing. These cables last longer than other charging cables thanks to the single-piece strain relief, which reduces pressure on the connector and increases the lifespan of the cable.",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Reinforced Braided 3-in-1 Combo Cable 1.8m (6ft)",
+  "specifications": [
+    "Reinforced with Kevlar®",
+    "3-in-1 charging solution (USB A, USB C, Lightning®)",
+    "Length: 1.8m (6ft)"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/dewalt-telecoms-reinforced-charging-cable.html|>
+## DEWALT Telecoms Reinforced Charging Cable
+
+{
+  "price": "from €13.07 inc VAT",
+  "description": "DEWALT Charging Cables are reinforced with Kevlar® to withstand repeated bending and flexing. These cables last longer than other charging cables thanks to the single-piece strain relief, which reduces pressure on the connector and increases the lifespan of the cable. DEWALT Mobile Solutions are built with superior components so every workday is worry-free. 3 lengths available: 1.2m (4ft), 1.8m (6ft), 3m (10ft).",
+  "availability": "In Stock",
+  "product_name": "DEWALT Telecoms Reinforced Charging Cable",
+  "specifications": [
+    "Reinforced with Kevlar®",
+    "Available in 3 lengths: 1.2m (4ft), 1.8m (6ft), 3m (10ft)",
+    "Single-piece strain relief for increased lifespan"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/duracell-plus-power-100-batteries.html|>
+## Duracell Plus Power +100% Batteries
+
+{
+  "price": "€14.51 inc VAT (€11.80 exc.vat)",
+  "description": "Duracell Plus Power Batteries offer up to 100% extra life in high-drain applications. A superior nylon top closure helps prevent batteries from leaking. Recommended for wireless handheld video game controllers, motorised toys, TV/Audio remote controls, wireless computer mouse, etc.",
+  "availability": "Out of Stock",
+  "product_name": "Duracell Plus Power +100% Batteries",
+  "specifications": [
+    "D Cell +100% Plus Power Batteries (Pack 4)",
+    "DURD100PP4 : €14.51",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Electrical & Lighting"
+}
+
+<|https://www.mydiy.ie/products/energizer-s696n-universal-charger.html|>
+## Energizer® S696N Universal Charger
+
+{
+  "price": "€55.76 inc VAT (€45.33 exc.vat)",
+  "description": "The Energizer® S696N Universal Charger charges AA, AAA, C, D and 9V rechargeable batteries. It provides fast, safe charging thanks to the built-in safety timer that prevents overcharge. There is also reverse polarity protection. The LCD panel quickly indicates charging status as well as bad battery detection. It will charge AA or AAA batteries in 3 to 5 hours.",
+  "availability": "In Stock",
+  "product_name": "Energizer® S696N Universal Charger",
+  "specifications": [
+    "Charges AA, AAA, C, D and 9V rechargeable batteries",
+    "Built-in safety timer to prevent overcharge",
+    "Reverse polarity protection",
+    "LCD panel indicates charging status and bad battery detection",
+    "Charges AA or AAA batteries in 3 to 5 hours"
+  ],
+  "product_category": "Electrical & Lighting"
+}
+

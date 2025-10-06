@@ -1,0 +1,24 @@
+<|https://www.mydiy.ie/products/3-ply-earloop-disposable-medical-masks.html|>
+## 3 Ply Earloop Disposable Medical Masks
+
+{
+  "price": "€34.99 inc VAT (€28.45 exc.vat)",
+  "description": "These Type-1 3ply medical face masks come with a soft spandex round ear-loop with a soft, breathable inner-cover to ensure user comfort. Tested to EN-14683. High-quality hospital/medical grade mask, 3-ply protected, pleated mask, 95% BFE Protection / filtration rate, Filters dust 3 microns, odour, chemicals, water & blood, Highly CV/ Flu resistant, Excellent breathability, FDA approved, CE marked, Suitable for all hospital / medical staff, Suitable for civilians.",
+  "availability": "In Stock",
+  "product_name": "3 Ply Earloop Disposable Medical Masks",
+  "specifications": [
+    "3PLY : €34.99",
+    "High-quality hospital/medical grade mask",
+    "3-ply protected, pleated mask",
+    "95% BFE Protection / filtration rate",
+    "Filters dust 3 microns, odour, chemicals, water & blood",
+    "Highly CV/ Flu resistant",
+    "Excellent breathability",
+    "FDA approved",
+    "CE marked",
+    "Suitable for all hospital / medical staff",
+    "Suitable for civilians"
+  ],
+  "product_category": "Medical Supplies"
+}
+

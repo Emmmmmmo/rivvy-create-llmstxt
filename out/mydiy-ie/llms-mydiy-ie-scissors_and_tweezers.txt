@@ -1,0 +1,128 @@
+<|https://www.mydiy.ie/products/multi-sharp-multi-sharp-2-in-1-knife-and-scissor-sharpener.html|>
+## Multi-Sharp® Multi-Sharp® 2-in-1 Knife & Scissor Sharpener
+
+{
+  "price": "€14.16 inc VAT (€11.51 exc.vat)",
+  "description": "The Multi-Sharp® 2-in-1 Knife & Scissor Sharpener can be used to sharpen many different knife blades, including: kitchen, table and household knives, cleavers and mezzalunas. The Tungsten Carbide Sharpening Heads put a very sharp edge even on large, blunt kitchen knives, right up to the tip. It has a comfortable, ergonomic handle fully protects the user's hand and also sharpens left and right-handed scissors. Replaceable sharpening heads are available.",
+  "availability": "Out of Stock",
+  "product_name": "Multi-Sharp® Multi-Sharp® 2-in-1 Knife & Scissor Sharpener",
+  "specifications": [
+    "Model: ATT1901E",
+    "List Price: €16.29",
+    "You save: €2.13"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-garden-scissors.html|>
+## Kent & Stowe Garden Scissors
+
+{
+  "price": "€15.23 inc VAT (€12.38 exc.vat)",
+  "description": "The Kent & Stowe Garden Scissors are ideal for many applications around the garden, including cutting flowers, plants, herbs etc. They have precision-sharpened, stainless steel blades and comfort grip handles for improved control.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Garden Scissors",
+  "specifications": [
+    "K/S70100565 : €15.23",
+    "Precision-sharpened stainless steel blades",
+    "Comfort grip handles for improved control"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-stainless-steel-universal-needle-point-tweezers-120mm.html|>
+## Knipex Stainless Steel Universal Needle Point Tweezers 120mm
+
+{
+  "price": "€21.48 inc VAT (€17.46 exc.vat)",
+  "description": "These Knipex Universal Needle Point Tweezers are for demanding standard applications, and precision tasks. Manufactured from high quality matt finish stainless steel, the needle point tweezers are extremely tough while providing good corrosion resistance against a variety of atmospheric environments, and many corrosive materials.",
+  "availability": "Out of Stock",
+  "product_name": "Knipex Stainless Steel Universal Needle Point Tweezers 120mm",
+  "specifications": [
+    "KPX922206 : €21.48",
+    "List: €25.44",
+    "You save €3.96",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-plastic-precision-tweexers-129mm.html|>
+## Knipex Plastic Precision Tweexers 129mm
+
+{
+  "price": "€3.74 inc VAT (€3.04 exc.vat)",
+  "description": "The Knipex Plastic Precision Tweexers, for gripping, holding and moving small objects, are manufactured from 30% glass fiber reinforced plastic for high strength, and flexibility. They have both high temperature, and excellent chemical resistance. The Tweexers grooved handles ensure optimum safe handling, and precision; with internally serrated tips, and a particularly wide clamping area. They are suitable for the chemical, pharmaceutical or cosmetics sector, food industry, and also for scientific use. Specification; 129mm.",
+  "availability": "Out of Stock",
+  "product_name": "Knipex Plastic Precision Tweexers 129mm",
+  "specifications": [
+    "Length: 129mm",
+    "Material: 30% glass fiber reinforced plastic",
+    "High temperature and chemical resistance",
+    "Internally serrated tips",
+    "Wide clamping area"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-universal-bent-nose-tweezers-155mm.html|>
+## Knipex Universal Bent Nose Tweezers 155mm
+
+{
+  "price": "€17.20 inc VAT (€13.98 exc.vat)",
+  "description": "Knipex Universal Bent Nose Tweezers for demanding standard applications and precision tasks. The tweezers have a durable, black lacquered finish, and are suitable for the electronics industry, watchmakers, and jewellers.",
+  "availability": "Out of Stock",
+  "product_name": "Knipex Universal Bent Nose Tweezers 155mm",
+  "specifications": [
+    "KPX923437 : €17.20",
+    "Universal Bent Nose Tweezers 155mm",
+    "Durable black lacquered finish",
+    "Suitable for electronics, watchmakers, and jewellers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-stainless-steel-universal-blunt-nose-tweezers-120mm.html|>
+## Knipex Stainless Steel Universal Blunt Nose Tweezers 120mm
+
+{
+  "price": "€17.00 inc VAT (€13.82 exc.vat)",
+  "description": "Knipex Universal Blunt Nose Tweezers are suitable for demanding standard applications and precision tasks. Manufactured from high quality matt finish stainless steel. Extremely tough and provide good corrosion resistance against a variety of atmospheric environments and many corrosive materials.",
+  "availability": "In Stock",
+  "product_name": "Knipex Stainless Steel Universal Blunt Nose Tweezers 120mm",
+  "specifications": [
+    "Stainless Steel",
+    "Universal Blunt Nose",
+    "120mm",
+    "KPX926443"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wiha-professional-esd-smd-tweezer-set-4-piece.html|>
+## Wiha Professional ESD SMD Tweezer Set, 4 Piece
+
+{
+  "price": "€176.62 inc VAT (€143.59 exc.vat)",
+  "description": "This Wiha Professional ESD SMD Tweezer Set are for the most common applications. Electrostatically conductive tools protect electronic components from damage. Conforms to DIN EN 61340-5-1. Supplied in a handy storage box. Contains the following: 1 x Professional ESD Type AA Universal Tweezers 130mm. 1 x Professional ESD Type PSF Precision Tweezers 130mm. 1 x Professional ESD Type 13 SMD Tweezers 120mm. 1 x Professional ESD Type 59 SMD Tweezers 117mm.",
+  "availability": "In Stock",
+  "product_name": "Wiha Professional ESD SMD Tweezer Set, 4 Piece",
+  "specifications": [
+    "Professional ESD Type AA Universal Tweezers 130mm",
+    "Professional ESD Type PSF Precision Tweezers 130mm",
+    "Professional ESD Type 13 SMD Tweezers 120mm",
+    "Professional ESD Type 59 SMD Tweezers 117mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/knipex-insulated-universal-tweezers-set-5-piece.html|>
+## Knipex Insulated Universal Tweezers Set, 5 Piece
+
+{
+  "price": "€214.91 inc VAT (€174.72 exc.vat)",
+  "description": "The Knipex Insulated Universal Tweezers Set contains 5 stainless steel tweezers with VDE insulated handles for voltages up to 1000V. Suitable for a wide range of applications in the electronics industry. They have very good corrosion resistance to many corrosive materials. Supplied in a 5 compartment tool roll made of hard-wearing polyester fabric.",
+  "availability": "In Stock",
+  "product_name": "Knipex Insulated Universal Tweezers Set, 5 Piece",
+  "specifications": [
+    "5 stainless steel tweezers",
+    "VDE insulated handles for voltages up to 1000V",
+    "Corrosion resistant",
+    "Supplied in a 5 compartment tool roll",
+    "Includes various types of tweezers"
+  ]
+}
+

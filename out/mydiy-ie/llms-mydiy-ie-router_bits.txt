@@ -1,0 +1,1910 @@
+<|https://www.mydiy.ie/products/trend-countersinks.html|>
+## Trend Countersinks
+
+{
+  "price": "€51.01 inc VAT",
+  "description": "Shell style 90º countersink produced from the best grade carbon steel designed to leave a clean cut finish by virtue of their multi-tooth deep ground gullets. Not suitable for abrasive materials or metals.",
+  "availability": "In Stock",
+  "product_name": "Trend Countersinks",
+  "specifications": [
+    "Universal option available",
+    "Produced from high-grade carbon steel",
+    "Designed for clean cut finish",
+    "Not suitable for abrasive materials or metals"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-collet-sleeves.html|>
+## Trend Collet Sleeves
+
+{
+  "price": "€24.97 inc VAT",
+  "description": "Trend collet reduction sleeve, used to reduce the collet size to take cutters with smaller shanks. Should only be used as a stop-gap, as the correct size collet is recommended. Should not be used for extensive periods or heavy work.",
+  "availability": "In Stock",
+  "product_name": "Trend Collet Sleeves",
+  "specifications": [
+    "Select Option: 6.35mm to 12.7mm, 8mm to 12.7mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-guide-bushes.html|>
+## Trend Guide Bushes
+
+{
+  "price": "from €19.58 inc VAT",
+  "description": "Trend guide bushes can be attached to the base of the Router. They are designed to follow the contours of a template.",
+  "availability": "In Stock",
+  "product_name": "Trend Guide Bushes",
+  "specifications": [
+    "Select Option: 12mm, 16mm, 18mm, 30mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-3600b-95mm-template-guide.html|>
+## Makita 3600B 9.5Mm Template Guide
+
+{
+  "price": "€38.52 inc VAT (€31.32 exc.vat)",
+  "description": "MAK164379 : €38.52",
+  "availability": "Out of Stock",
+  "product_name": "Makita 3600B 9.5Mm Template Guide",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-20mm-template-guide.html|>
+## Makita 20Mm Template Guide
+
+{
+  "price": "€27.97 inc VAT (€22.74 exc.vat)",
+  "description": "20Mm Template Guide",
+  "availability": "Out of Stock",
+  "product_name": "Makita 20Mm Template Guide",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-303mm-template-guide.html|>
+## Makita 30.3Mm Template Guide
+
+{
+  "price": "€23.33 inc VAT (€18.97 exc.vat)",
+  "description": "30.3Mm Template Guide",
+  "availability": "Out of Stock",
+  "product_name": "Makita 30.3Mm Template Guide",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-6mm-collet-nut-3700b3906.html|>
+## Makita 6Mm Collet Nut 3700B/3906
+
+{
+  "price": "€4.86 inc VAT (€3.95 exc.vat)",
+  "description": "MAK763606 : €4.86",
+  "availability": "Out of Stock",
+  "product_name": "Makita 6Mm Collet Nut 3700B/3906",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-635mm-collet-cone-3700b.html|>
+## Makita 6.35Mm Collet Cone 3700B
+
+{
+  "price": "€6.90 inc VAT (€5.61 exc.vat)",
+  "description": "6.35Mm Collet Cone 3700B",
+  "availability": "Out of Stock",
+  "product_name": "Makita 6.35Mm Collet Cone 3700B",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-collet-nut-3608b.html|>
+## Makita Collet Nut 3608B
+
+{
+  "price": "€4.78 inc VAT (€3.89 exc.vat)",
+  "description": "Collet Nut 3608B",
+  "availability": "Out of Stock",
+  "product_name": "Makita Collet Nut 3608B",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-8mm-collet-cone-3620.html|>
+## Makita 8Mm Collet Cone 3620
+
+{
+  "price": "€5.82 inc VAT (€4.73 exc.vat)",
+  "description": "8Mm Collet Cone 3620",
+  "availability": "Out of Stock",
+  "product_name": "Makita 8Mm Collet Cone 3620",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-collet-cone-3608b.html|>
+## Makita Collet Cone 3608B
+
+{
+  "price": "€5.82 inc VAT (€4.73 exc.vat)",
+  "description": "Collet Cone 3608B",
+  "availability": "Out of Stock",
+  "product_name": "Makita Collet Cone 3608B",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-6mm-collet-cone-906.html|>
+## Makita 6Mm Collet Cone 906
+
+{
+  "price": "€33.71 inc VAT (€27.41 exc.vat)",
+  "description": "MAK763620 : €33.71",
+  "availability": "In Stock",
+  "product_name": "Makita 6Mm Collet Cone 906",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-127mm-collet-cone-3612br.html|>
+## Makita 12.7Mm Collet Cone 3612Br
+
+{
+  "price": "€45.85 inc VAT (€37.28 exc.vat)",
+  "description": "MAK763622 : €45.85",
+  "availability": "In Stock",
+  "product_name": "Makita 12.7Mm Collet Cone 3612Br",
+  "specifications": [
+    "12.7Mm Collet Cone 3612Br",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-635mm-collet-cone-906.html|>
+## Makita 6.35Mm Collet Cone 906
+
+{
+  "price": "€23.80 inc VAT (€19.35 exc.vat)",
+  "description": "6.35Mm Collet Cone 906",
+  "availability": "Out of Stock",
+  "product_name": "Makita 6.35Mm Collet Cone 906",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-12mm-collet-cone-3612br.html|>
+## Makita 12Mm Collet Cone 3612Br
+
+{
+  "price": "€45.85 inc VAT (€37.28 exc.vat)",
+  "description": "12Mm Collet Cone 3612Br",
+  "availability": "Out of Stock",
+  "product_name": "Makita 12Mm Collet Cone 3612Br",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-collet-nut-3612br.html|>
+## Makita Collet Nut 3612Br
+
+{
+  "price": "€14.48 inc VAT (€11.77 exc.vat)",
+  "description": "Collet Nut 3612Br",
+  "availability": "Out of Stock",
+  "product_name": "Makita Collet Nut 3612Br",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-14in-collet-cone-m362.html|>
+## Makita 1/4In Collet Cone M362
+
+{
+  "price": "€14.38 inc VAT (€11.69 exc.vat)",
+  "description": "1/4In Collet Cone M362",
+  "availability": "Out of Stock",
+  "product_name": "Makita 1/4In Collet Cone M362",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-collet-cone-635-dco180.html|>
+## Makita Collet Cone 6.35 Dco180
+
+{
+  "price": "€22.78 inc VAT (€18.52 exc.vat)",
+  "description": "Collet Cone 6.35 Dco180",
+  "availability": "Out of Stock",
+  "product_name": "Makita Collet Cone 6.35 Dco180",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-6mm-collet-sleeve-3612br.html|>
+## Makita 6Mm Collet Sleeve 3612Br
+
+{
+  "price": "€11.87 inc VAT (€9.65 exc.vat)",
+  "description": "6Mm Collet Sleeve 3612Br",
+  "availability": "Out of Stock",
+  "product_name": "Makita 6Mm Collet Sleeve 3612Br",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-14in-collet-sleeve-3600b01b.html|>
+## Makita 1/4In Collet Sleeve 3600B/01B
+
+{
+  "price": "€11.87 inc VAT (€9.65 exc.vat)",
+  "description": "1/4In Collet Sleeve 3600B/01B",
+  "availability": "In Stock",
+  "product_name": "Makita 1/4In Collet Sleeve 3600B/01B",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-8mm-collet-sleeve-3612br.html|>
+## Makita 8Mm Collet Sleeve 3612Br
+
+{
+  "price": "€11.50 inc VAT (€9.35 exc.vat)",
+  "description": "8Mm Collet Sleeve 3612Br",
+  "availability": "Out of Stock",
+  "product_name": "Makita 8Mm Collet Sleeve 3612Br",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-guide-bush.html|>
+## Trend Guide Bush
+
+{
+  "price": "€19.58 inc VAT",
+  "description": "Guide bush guides the router when using a template. Fits directly to Trend T3, T4, T5, T5 MK2, T9, T10 and T11, and some other light-duty routers. Will fit other makes when used with GB/5, GB/PLATE or UNIBASE Sub-base.",
+  "availability": "In Stock",
+  "product_name": "Trend Guide Bush",
+  "specifications": [
+    "Select Option: 16mm",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-csbbw15b-craft-bush-washer.html|>
+## Trend Csb/Bw15B Craft Bush Washer
+
+{
+  "price": "€5.55 inc VAT (€4.51 exc.vat)",
+  "description": "Csb/Bw15B Craft Bush Washer",
+  "availability": "In Stock",
+  "product_name": "Trend Csb/Bw15B Craft Bush Washer",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery",
+    "No quibble returns policy"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-bw45-bushing-washer.html|>
+## Trend Bw45 Bushing Washer
+
+{
+  "price": "€9.57 inc VAT (€7.78 exc.vat)",
+  "description": "Bw45 Bushing Washer",
+  "availability": "In Stock",
+  "product_name": "Trend Bw45 Bushing Washer",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-csbbw45b-craft-bush-washer.html|>
+## Trend Csb/Bw45B Craft Bush Washer
+
+{
+  "price": "€5.55 inc VAT (€4.51 exc.vat)",
+  "description": "Csb/Bw45B Craft Bush Washer",
+  "availability": "Out of Stock",
+  "product_name": "Trend Csb/Bw45B Craft Bush Washer",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-ce127127-collet-extension-12in-shank-12in.html|>
+## Trend CE/127/127 Collet Extension 1/2in Shank 1/2in
+
+{
+  "price": "€141.43 inc VAT (€114.98 exc.vat)",
+  "description": "Suitable for use with medium-duty routers (min. 850W)\nMax. speed: 18,000rpm, max. cutter diameter: 35mm\nIncreases spindle length by 41mm\nMaximum tool cut length 25mm\nRequires 12mm and 17mm A/F spanners",
+  "availability": "Out of Stock",
+  "product_name": "Trend CE/127/127 Collet Extension 1/2in Shank 1/2in",
+  "specifications": [
+    "Suitable for use with medium-duty routers (min. 850W)",
+    "Max. speed: 18,000rpm",
+    "Max. cutter diameter: 35mm",
+    "Increases spindle length by 41mm",
+    "Maximum tool cut length 25mm",
+    "Requires 12mm and 17mm A/F spanners"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-gb14-guide-bush-14mm-dia.html|>
+## Trend Gb14 Guide Bush 14Mm Dia
+
+{
+  "price": "€19.58 inc VAT (€15.92 exc.vat)",
+  "description": "Gb14 Guide Bush 14Mm Dia",
+  "availability": "Out of Stock",
+  "product_name": "Trend Gb14 Guide Bush 14Mm Dia",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-gb22-guide-bush-22mm-dia.html|>
+## Trend Gb22 Guide Bush 22Mm Dia
+
+{
+  "price": "€19.58 inc VAT (€15.92 exc.vat)",
+  "description": "Gb22 Guide Bush 22Mm Dia",
+  "availability": "Out of Stock",
+  "product_name": "Trend Gb22 Guide Bush 22Mm Dia",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-phcoll95-pocket-hole-drill-collar-95mm.html|>
+## Trend PH/COLL/95 Pocket Hole Drill Collar 9.5mm
+
+{
+  "price": "€10.47 inc VAT (€8.51 exc.vat)",
+  "description": "PH/COLL/95 Pocket Hole Drill Collar 9.5mm",
+  "availability": "In Stock",
+  "product_name": "Trend PH/COLL/95 Pocket Hole Drill Collar 9.5mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-template-guide.html|>
+## Makita Template Guide
+
+{
+  "price": "€18.38 inc VAT",
+  "description": "Template guide for all routers and trimmers. For accurate routing operations using a pattern.",
+  "availability": "In Stock",
+  "product_name": "Makita Template Guide",
+  "specifications": [
+    "Select Option: 20mm, 30mm, 3600B Template Guide 16mm, RP0810 Template Guide 16mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-door-clamp-55mm-capacity-ratchet-type-dclampa.html|>
+## Trend Door Clamp 55mm Capacity (Ratchet Type) D/CLAMP/A
+
+{
+  "price": "€51.16 inc VAT (€41.59 exc.vat)",
+  "description": "Holds door while drilling and fitting locks. No set-up time needed. No more searching and alternative door stops. Padded to prevent door and floor damage. For doors up to 55 mm thick.",
+  "availability": "Out of Stock",
+  "product_name": "Trend Door Clamp 55mm Capacity (Ratchet Type) D/CLAMP/A",
+  "specifications": [
+    "Capacity: 55mm",
+    "Type: Ratchet",
+    "Padded to prevent damage",
+    "Patent No. PCT/EP2006/006072"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-door-stand-32mm---55mm-dstanda.html|>
+## Trend Door Stand 32mm - 55mm D/STAND/A
+
+{
+  "price": "€77.40 inc VAT (€62.93 exc.vat)",
+  "description": "The Trend Door Stand holds door on its edge while routing hinge recess and mortice for locks. Holds door securely. Non-scratch base. Adjustable clamp for doors 32 to 55mm thick. Allows door to be tilted back to assist fitting into frame. Maximum door weight 50kg.",
+  "availability": "Out of Stock",
+  "product_name": "Trend Door Stand 32mm - 55mm D/STAND/A",
+  "specifications": [
+    "Adjustable clamp for doors 32 to 55mm thick",
+    "Non-scratch base",
+    "Maximum door weight 50kg",
+    "Holds door securely while routing hinge recess and mortice for locks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-hinge-jig.html|>
+## Trend Hinge Jig
+
+{
+  "price": "€377.12 inc VAT (€306.60 exc.vat)",
+  "description": "The Trend Hinge Jig is a portable template set designed for recessing hinges in wooden doors and frames. Used on-site and in joinery shops to increase productivity with excellent results. Four apertures for fire door requirements. No need for marking out in the conventional way. Quick and simple to set-up as the hinge is used as the pattern. Clean and accurate recesses are achieved every time. Suitable for timber based doors and square butt hinges. Use with a light duty router with 1/4inch collet. Long reach router cutter required, 12mm diameter with 70mm overall length. Angled position slots to prevent creep. Patent No. GB2285410. Includes: 4 x Apertures, 2 x Bradawls, 1 x 16mm Guide Bush, 1 x T-Handle Hex Key, 1 x 4mm Spacing Gauge and 1 x Plastic Storage Tube.",
+  "availability": "In Stock",
+  "product_name": "Trend Hinge Jig",
+  "specifications": [
+    "Hinge Sizes Possible: Length Min/Max: 67-127mm (2.5/8-5in)",
+    "Width Min/Max: 9.5-35mm (3/8-1.3/8in)",
+    "Door Sizes Possible: Height Min/Max: 1955-2032mm (6ft 5in - 6ft 10in)",
+    "Thickness Min/Max: 16-44mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-2-part-hinge-jig-hjiga.html|>
+## 2 Part Hinge Jig H/JIG/A
+
+{
+  "price": "€394.34 inc VAT (€320.60 exc.vat)",
+  "description": "A 2-part hinge jig, portable template set designed for recessing hinges in wooden doors and frames. It is easy-to-use with minimal setting-up time, completing the job both accurately and quickly. Used on-site and in joinery shops to increase productivity with excellent results. Four apertures for fire door requirements. No need for marking out in the conventional way. Quick and simple to set-up as the hinge is used as the pattern. Clean and accurate recesses are achieved every time. Suitable for timber based doors and square butt hinges. Use with a light-duty router with 1/4 inch collet. Long reach router cutter required, 12 mm diameter with 70 mm overall length. Angled position slots to prevent creep. Hinge sizes possible: Length min: 2 5/8 in (67 mm). Length max :5 in (127 mm). Width min :3/8 in (9.5 mm). Width max: 1 3/8 in (35 mm). Door sizes possible: Height min: 6 ft 5 in (1955 mm). Height max: 6 ft 10 in (2100 mm). Thickness min: 5/8 in (16 mm).",
+  "availability": "Out of Stock",
+  "product_name": "2 Part Hinge Jig H/JIG/A",
+  "specifications": [
+    "Portable template set for recessing hinges",
+    "Easy to use with minimal setup time",
+    "Suitable for timber based doors and square butt hinges",
+    "Requires a light-duty router with 1/4 inch collet",
+    "Hinge sizes: Length min 2 5/8 in (67 mm), max 5 in (127 mm)",
+    "Door sizes: Height min 6 ft 5 in (1955 mm), max 6 ft 10 in (2100 mm)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-hjigc-2-part-skeleton-hinge-jig.html|>
+## Trend HJIGC 2 Part Skeleton Hinge Jig
+
+{
+  "price": "€397.94 inc VAT (€323.53 exc.vat)",
+  "description": "The Trend Skeleton Hinge Jig is a 2-part, adjustable portable template set designed for recessing hinges in wooden doors and frames with a router. It is easy to use with minimal setting-up time, ensuring that the job can be completed accurately and quickly. It is ideal for use on-site and in joinery shops to increase productivity with excellent results. The jig has fully adjustable apertures for fire door requirements and renovation work. It is ideal for fitting a new door into an old frame, and is suitable for timber based doors and square butt hinges. The jig is supplied with a carry case, bradawls and a special 16mm guide bush.",
+  "availability": "Out of Stock",
+  "product_name": "Trend HJIGC 2 Part Skeleton Hinge Jig",
+  "specifications": [
+    "Preset hinge sizes: 20mm, 25mm and 30mm",
+    "Minimum length: 67mm (2.5/8in)",
+    "Maximum length: 127mm (5in)",
+    "Minimum width: 12.7mm (1/2in)",
+    "Maximum width: 35mm (1.3/8in)",
+    "Minimum height: 1,956mm (6ft5in)",
+    "Maximum height: 2,100mm (6ft10in)",
+    "Minimum thickness: 16mm (5/8in)",
+    "Maximum thickness: 51mm (2in)",
+    "Weight: 2.9kg",
+    "Overall length: 1,956mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-phjigbk-3-in-1-pocket-hole-jig.html|>
+## Trend PH/JIG/BK 3-in-1 Pocket Hole Jig
+
+{
+  "price": "€77.49 inc VAT (€63.00 exc.vat)",
+  "description": "Trend PH/JIG/BK 3-in-1 Pocket Hole Jig for fast and accurate joining of timber and plywood, giving strong instant joints. Multi-function design for twin hole or single hole pockets, perfect for wide or for narrow stock components. With reversible depth gauges, ideal for new projects and repair work. Hardened drilling sleeves for accurate, consistent pockets. Works with timber 12.7mm to 38mm thick. Portable and adaptable for multiple jointing styles and applications with tool-free, fast and easy set up. Build cabinets, furniture and small joinery projects with ease. Supplied with: 50 x Assorted Screws, 1 x HSS Drill Bit with Collar, 1 x 150mm Square Drive Bit, 1 x Adaptor Plate, 1 x Hex Key 3mm A/F and 1 x Carry Case.",
+  "availability": "In Stock",
+  "product_name": "Trend PH/JIG/BK 3-in-1 Pocket Hole Jig",
+  "specifications": [
+    "Timber Thicknesses: 12.7-38mm",
+    "Hole Pitch: 28-50mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-single-pocket-hole-jig.html|>
+## Trend Single Pocket Hole Jig
+
+{
+  "price": "€61.00 inc VAT (€49.59 exc.vat)",
+  "description": "The Trend PH/JIG/BS Single Pocket Hole Jig is for fast and accurate joining of solid timber and plywood giving strong instant joints in single or multiple fixing positions. It can help to build cabinets, furniture and small joinery projects with ease. The hardened drilling sleeves provide accurate, consistent pockets. There is also a handy built-in drill depth gauge that can be reversed for new or repair work. Works with timber thicknesses from 12mm to 38mm. Portable and adaptable. Supplied with: 1 x Pack of Assorted Screws, 1 x 150mm Square Drive Bit and 1 x HSS Drill Bit with Collar.",
+  "availability": "In Stock",
+  "product_name": "Trend Single Pocket Hole Jig",
+  "specifications": [
+    "Hardened drilling sleeves for accurate pockets",
+    "Built-in drill depth gauge",
+    "Works with timber thicknesses from 12mm to 38mm",
+    "Supplied with assorted screws, square drive bit, and HSS drill bit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-hjigb-hinge-jig-b-2-part-phenolic.html|>
+## H/JIG/B Hinge Jig B 2-Part Phenolic
+
+{
+  "price": "€359.90 inc VAT (€292.60 exc.vat)",
+  "description": "Use with a light-duty plunge router with 1/4in collet. 2-part, splits into 2 lengths with jointing plate. Made from 12mm hard-wearing CNC machined compact grade high pressure laminate. One set up for door and frame, no need to adjust for repeated doors. 4 adjustable apertures.",
+  "availability": "Out of Stock",
+  "product_name": "H/JIG/B Hinge Jig B 2-Part Phenolic",
+  "specifications": [
+    "Use with a light-duty plunge router with 1/4in collet",
+    "2-part, splits into 2 lengths with jointing plate",
+    "Made from 12mm hard-wearing CNC machined compact grade high pressure laminate",
+    "One set up for door and frame, no need to adjust for repeated doors",
+    "4 adjustable apertures"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-phjigc-twin-pocket-hole-jig.html|>
+## PH/JIG/C Twin Pocket Hole Jig
+
+{
+  "price": "€76.30 inc VAT (€62.03 exc.vat)",
+  "description": "Trend PH/JIG/C Twin Pocket Hole Jig for new projects, strengthening and repair work in materials from 12.7mm to 38mm thick. With hardened, full-length drill guides for precision pockets and a long life span. A magnetic clamp plate aids location of the jig when clamping. Fast setup with easy adjustments for different component sizes. It can be easily relocated across any material width for infinite pocket hole positioning. The quick set drill and timber setting sliding set up gauge easily set the correct drilling depth and jig position for different material thicknesses. Compact and portable, it fits easily into a pocket or tool pouch. Ideal for jointing in hard and softwoods and sheet materials. Trend Snappy chuck compatible. Supplied with a high-quality HSS stepped drill, No.2 Square Drive bit, both with quick-change hex shanks, and a selection of screws.",
+  "availability": "In Stock",
+  "product_name": "PH/JIG/C Twin Pocket Hole Jig",
+  "specifications": [
+    "Material thickness: 12.7mm to 38mm",
+    "Includes hardened drill guides",
+    "Magnetic clamp plate for easy location",
+    "Quick set drill and timber setting gauge",
+    "Compact and portable design",
+    "Compatible with Trend Snappy chuck"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-templuc57-template-set-letters-57mm-uppercase.html|>
+## TEMP/LUC/57 Template Set Letters 57mm Uppercase
+
+{
+  "price": "€107.61 inc VAT (€87.49 exc.vat)",
+  "description": "Clear plastic letter templates for use with a 13mm guide bush and 8mm diameter cutter. Uppercase 57mm high block characters in trend vogue typeface, comprising four templates covering the alphabet A-Z.",
+  "availability": "Out of Stock",
+  "product_name": "TEMP/LUC/57 Template Set Letters 57mm Uppercase",
+  "specifications": [
+    "For use with a 13mm guide bush and 8mm diameter cutter",
+    "Uppercase 57mm high block characters",
+    "Comprising four templates covering the alphabet A-Z"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-perfect-butt-worktop-scriber-tool-mpb01.html|>
+## Perfect Butt Worktop Scriber Tool M/PB01
+
+{
+  "price": "€49.97 inc VAT (€40.63 exc.vat)",
+  "description": "The world's fastest professional worktop scriber tool. It completes traditional scribing chores with precision, speed and ease. Quick and easy-to-use by remaining stable whilst scribing directly onto work-surfaces, flooring, shelves etc. It works by running a wheeled scribe unit along an irregular feature. The sprung pencil in its centre will accurately copy the profile directly onto the work-piece to be installed. It can then be cut and fitted to the surface resulting in a perfect butt! Four sizes of quick fit track wheels to cope with a variety of situations. Design Reg. No. 3014615. Includes: 1 x pencil, 1 x body, 1 x 29 mm wheel, 1 x 50 mm wheel, 1 x 70 mm wheel, 1 x 90 mm wheel.",
+  "availability": "In Stock",
+  "product_name": "Perfect Butt Worktop Scriber Tool M/PB01",
+  "specifications": [
+    "Includes: 1 x pencil, 1 x body, 1 x 29 mm wheel, 1 x 50 mm wheel, 1 x 70 mm wheel, 1 x 90 mm wheel",
+    "Design Reg. No. 3014615",
+    "Quick and easy-to-use",
+    "Stable while scribing directly onto surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-kitchen-worktop-jigs.html|>
+## Trend Kitchen Worktop Jigs
+
+{
+  "price": "from €18.38 inc VAT",
+  "description": "The Trend Kitchen Worktop Jig is a hard-wearing solid laminate, 12mm thick jig that cuts both parts of the joint in 15 minutes including setting up. The jig has the following features: Left and right hand corners, 400mm radius peninsular joint, 45° end cut with slight radius, 45° trade corner, 40mm radius corner, 35mm kitchen door hole and 3/4inch BSP hole for mixer taps. Engraved lines for 65mm bolts and worktop cross-cut. 6 x 10mm diameter ABS plastic pins with tapered shoulders for a tight fit and 3 point pin contact to ensure ease of setting up.",
+  "availability": "In Stock",
+  "product_name": "Trend Kitchen Worktop Jigs",
+  "specifications": [
+    "12mm thick solid laminate jig",
+    "Cuts both parts of the joint in 15 minutes",
+    "Left and right hand corners",
+    "400mm radius peninsular joint",
+    "45° end cut with slight radius",
+    "45° trade corner",
+    "40mm radius corner",
+    "35mm kitchen door hole",
+    "3/4inch BSP hole for mixer taps",
+    "Engraved lines for 65mm bolts and worktop cross-cut",
+    "6 x 10mm diameter ABS plastic pins with tapered shoulders"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-cdj30002-craft-dovetail-300mm-12-comb-box.html|>
+## CDJ300/02 Craft Dovetail 300mm 1/2 Comb Box
+
+{
+  "price": "€148.73 inc VAT (€120.92 exc.vat)",
+  "description": "Precision made laser cut zinc plated steel template comb\n\nA 12.7mm (1/2in) box joint\n\nIncludes 1 x template comb and 1 x 15.8mm guide bush",
+  "availability": "In Stock",
+  "product_name": "CDJ300/02 Craft Dovetail 300mm 1/2 Comb Box",
+  "specifications": [
+    "Precision made laser cut zinc plated steel template comb",
+    "A 12.7mm (1/2in) box joint",
+    "Includes 1 x template comb and 1 x 15.8mm guide bush"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-cdj30005-craft-dovetail-300mm-12-through.html|>
+## CDJ300/05 Craft Dovetail 300mm 1/2 Through
+
+{
+  "price": "€228.68 inc VAT (€185.92 exc.vat)",
+  "description": "Precision made laser cut zinc plated steel template comb\nA 12.7mm (1/2in) box joint\nIncludes 1 x template comb and 2 x guide bush (11.1 & 15.8mm)",
+  "availability": "Out of Stock",
+  "product_name": "CDJ300/05 Craft Dovetail 300mm 1/2 Through",
+  "specifications": [
+    "Precision made laser cut zinc plated steel template comb",
+    "A 12.7mm (1/2in) box joint",
+    "Includes 1 x template comb and 2 x guide bush (11.1 & 15.8mm)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-bench-sharpening-stone.html|>
+## Trend Craftpro Bench Sharpening Stone
+
+{
+  "price": "€76.97 inc VAT (€62.58 exc.vat)",
+  "description": "The Trend CR/DWS/B6/FC is a 6 inch x 2.3/8 inch double sided diamond bench stone with monocrystalline diamonds for fast, clean, stock removal which offers excellent sharpening performance. It is double sided for coarse sharpening and fine honing. Coarse 360 grit (nom. 40 microns) and fine 600 grit (nom. 25 microns). The Coarse is ideal for carpentry as it rapidly fixes or restores a damaged edge or blunt tools, including chisels and plane irons. The Fine is ideal for cabinet making for a fine finish and refines the cutting edges of chisels, small knives, etc - achieves a razor edge in seconds. With plastic base and non slip feet with and protective lid. Oval holes design on fine side to collect and hold metal residue. Fine side also has clear solid area for small tools. Ideal for site and workshop. Use with plane irons and chisels. Suitable for all hand tools. Recommended for use with Trend lapping fluid to prevent clogging or rusting and assist in keeping tools clean.",
+  "availability": "In Stock",
+  "product_name": "Trend Craftpro Bench Sharpening Stone",
+  "specifications": [
+    "6 inch x 2.3/8 inch double sided diamond bench stone",
+    "Coarse 360 grit and fine 600 grit",
+    "Plastic base with non-slip feet",
+    "Oval holes design on fine side to collect metal residue",
+    "Recommended for use with Trend lapping fluid"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-craftpro-credit-card-sharpening-stone.html|>
+## Trend Craftpro Credit Card Sharpening Stone
+
+{
+  "price": "€25.49 inc VAT (€20.72 exc.vat)",
+  "description": "The Trend CR/DWS/CC/FC is a double sided credit card size diamond stone. It has monocrystalline diamonds for fast, clean, stock removal and excellent sharpening performance. Double sided for coarse sharpening and fine honing. Coarse 360 grit (nom. 40 microns) and fine 600 grit (nom. 25 microns). Ideal for fluted, shaped and small router bits, carbide or HSS, turning tools, chisels, plane blades, carving tools and all general tooling. Recommended for use with Trend lapping fluid to prevent clogging or rusting and assist in keeping tools clean.",
+  "availability": "In Stock",
+  "product_name": "Trend Craftpro Credit Card Sharpening Stone",
+  "specifications": [
+    "Double sided diamond stone",
+    "Coarse 360 grit and fine 600 grit",
+    "Ideal for various tools including router bits and chisels",
+    "Recommended for use with Trend lapping fluid"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-dwslf100-lapping-fluid-100ml.html|>
+## DWS/LF/100 Lapping Fluid 100ml
+
+{
+  "price": "€18.72 inc VAT (€15.22 exc.vat)",
+  "description": "Trend Lapping Fluid is designed solely for the engineering industry. It is ideal for use with diamond abrasives, where other lubricants may be too thick. Use instead of water to reduce the risk of rusting by 95%. Supplied in a flip-top dispenser bottle. Size: 100ml.",
+  "availability": "In Stock",
+  "product_name": "DWS/LF/100 Lapping Fluid 100ml",
+  "specifications": [
+    "Size: 100ml",
+    "Designed for use with diamond abrasives",
+    "Reduces rusting risk by 95%"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-gauge1-depth-gauge.html|>
+## GAUGE/1 Depth Gauge
+
+{
+  "price": "€22.16 inc VAT (€18.02 exc.vat)",
+  "description": "A metal rule depth gauge to set the height of router cutters and saw blades accurately. Horizontal & vertical measuring. For hand routers, router tables and saw benches. 60 mm wide aperture & accurate to 0.5 mm. 80 mm measurement range. U section plastic injection moulding with unique cam lever lock. Steel rule dual metric & imperial scale. Self standing for setting cutter depth on router tables and low profile for backfence adjustment. Patent No. GB2386085. US Appl No. 10/784,780.",
+  "availability": "Out of Stock",
+  "product_name": "GAUGE/1 Depth Gauge",
+  "specifications": [
+    "Horizontal & vertical measuring",
+    "60 mm wide aperture & accurate to 0.5 mm",
+    "80 mm measurement range",
+    "U section plastic injection moulding with unique cam lever lock",
+    "Steel rule dual metric & imperial scale",
+    "Self standing for setting cutter depth on router tables"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-gauged60-digital-depth-gauge.html|>
+## GAUGE/D60 Digital Depth Gauge
+
+{
+  "price": "€34.35 inc VAT (€27.93 exc.vat)",
+  "description": "Trend GAUGE/D60 Digital depth gauge for router tables and saw benches. Horizontal and vertical measuring, ideal for hand routers, router tables and saw benches. It has an LCD readout for mm, imperial and fractions with auto shut off 5 mins. The removable pin allows hole depths to be measured, the pin can be parked on arm. Hole depth 50.8mm (2 inch).",
+  "availability": "Out of Stock",
+  "product_name": "GAUGE/D60 Digital Depth Gauge",
+  "specifications": [
+    "Horizontal and vertical measuring",
+    "LCD readout for mm, imperial and fractions",
+    "Auto shut off after 5 mins",
+    "Removable pin for measuring hole depths",
+    "Hole depth 50.8mm (2 inch)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-locblkpk1-loc-block-support-pack-anti-slip.html|>
+## Loc/blk/pk1 Loc Block Support Pack (Anti-Slip)
+
+{
+  "price": "€29.19 inc VAT (€23.73 exc.vat)",
+  "description": "The Trend Loc block workpiece is a pack of four interlocking gripping blocks that lock together to allow the workpiece to be held in place when sanding, drilling and finishing. No need to use clamps. Sets-up in seconds by gripping the workpiece and bench raising the workpiece from the bench, to allow complete access to every edge. Size when four blocks interlocked 173mm x 173mm.",
+  "availability": "In Stock",
+  "product_name": "Loc/blk/pk1 Loc Block Support Pack (Anti-Slip)",
+  "specifications": [
+    "TRELOCBLK : €29.19",
+    "Size when four blocks interlocked 173mm x 173mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-lubricant-wax-stick.html|>
+## Trend Lubricant Wax Stick
+
+{
+  "price": "€20.97 inc VAT (€17.05 exc.vat)",
+  "description": "The main reason for blade wear is overheating. When cutting metal and abrasive materials, Trend Wax Lubricant will extend sawblade life by keeping the blade cool at the cutting points. Simply use the Trendiwax lubricant stick at regular intervals, applying it directly onto the teeth of the stationary blade. Available in 400g tube.",
+  "availability": "Out of Stock",
+  "product_name": "Trend Lubricant Wax Stick",
+  "specifications": [
+    "400g tube",
+    "Extends sawblade life",
+    "Keeps blade cool at cutting points"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-corner-chisel.html|>
+## Trend Corner Chisel
+
+{
+  "price": "€38.31 inc VAT (€31.15 exc.vat)",
+  "description": "The Trend Corner Chisel is used to square up rounded corners on hinge and lock recesses. Fitted with a high speed steel (HSS) anvil. Use with a Hammer. The chisel can be resharpened. Ideal for use with hinge and lock jigs.",
+  "availability": "In Stock",
+  "product_name": "Trend Corner Chisel",
+  "specifications": [
+    "Model: TRECCHISEL",
+    "Material: High Speed Steel (HSS)",
+    "Usage: For squaring rounded corners on hinge and lock recesses",
+    "Resharpenable: Yes",
+    "Ideal for: Hinge and lock jigs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-router-non-slip-mat-610mm-x-1220mm.html|>
+## Trend Router Non Slip Mat 610Mm X 1220Mm
+
+{
+  "price": "€25.56 inc VAT (€20.78 exc.vat)",
+  "description": "Router Non Slip Mat 610Mm X 1220Mm",
+  "availability": "In Stock",
+  "product_name": "Trend Router Non Slip Mat 610Mm X 1220Mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-resin100-resin-cleaner-100ml.html|>
+## Trend Resin/100 Resin Cleaner 100Ml
+
+{
+  "price": "€25.56 inc VAT (€20.78 exc.vat)",
+  "description": "Resin/100 Resin Cleaner 100Ml",
+  "availability": "Out of Stock",
+  "product_name": "Trend Resin/100 Resin Cleaner 100Ml",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-t-square.html|>
+## Trend T-Square
+
+{
+  "price": "€67.63 inc VAT (€54.98 exc.vat)",
+  "description": "This robust T-Square in Tufnol provides an instant means of squaring off, marking out, setting up jigs etc. Can be hung up when not in use. Length: 680mm.",
+  "availability": "Out of Stock",
+  "product_name": "Trend T-Square",
+  "specifications": [
+    "Length: 680mm",
+    "Material: Tufnol",
+    "Usage: Squaring off, marking out, setting up jigs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-crtmk3-craftpro-router-table-240v.html|>
+## Trend CRT/MK3 CraftPro Router Table 240V
+
+{
+  "price": "€446.00 inc VAT (€362.60 exc.vat)",
+  "description": "The Trend CRT/MK3 CraftPro Router Table has a large, laminated MDF table and a quick-release aluminium extrusion back fence with sliding MDF cheeks. Its removable 6.35mm thick aluminium insert plate has a 98mm diameter aperture pre-drilled for Trend TBC routers, T11 and T14 routers. There is also a quick raiser and quick-release facility for the Trend T11 and T14 routers. The high back fence with a fully adjustable guard assembly and the no-volt release switch provide increased user safety. Other features include: fully adjustable side finger pressure, full perimeter leg stand with adjustable feet, lead on pin for bearing guided curved work and a mitre fence with zeroing and spelch block facility. Supplied with bench fixing brackets and cable management clips. Router not included. For UK & Eire sale only.",
+  "availability": "In Stock",
+  "product_name": "Trend CRT/MK3 CraftPro Router Table 240V",
+  "specifications": [
+    "Voltage: 240V",
+    "Table Top Size: 610 x 405 x 26mm",
+    "Bench Height: 410mm",
+    "Router Cutter Aperture: 98mm",
+    "Max. Cutter Ø: 80mm",
+    "Max. Cutter Height: 55mm",
+    "Max. Component Length: 590mm",
+    "Insert Ring Sizes: 20, 31.8/67.5, 35, 54, 68 and 83mm",
+    "Backfence Height: 68mm",
+    "Dust Spout Aperture: 57mm",
+    "Edge Planing: up to 1.4 and 2.4mm",
+    "Max. Material Thickness with pressures: 60mm",
+    "Max. Material Width with pressures: 120mm (cutter centre)",
+    "Weight: 13.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-universal-plunge-router-sub-base.html|>
+## Trend Universal Plunge Router Sub-Base
+
+{
+  "price": "€53.39 inc VAT",
+  "description": "The Trend Universal Plunge Router Sub-Base unlocks the potential of your router by providing improved concentricity and compatibility with Trend Guide Bushes. Made from reinforced nylon for a low-friction, precise routing surface. The Precision Centring System ensures perfect concentricity between cutter and guide bush for pinpoint accuracy with routing jigs. Reinforced threaded brass inserts provide secure mounting points for guide bushes. The Quick Pattern Finder makes locating the hole pattern for your router quick and easy. A screw pack helps you to find the right screws easily and keeps them neat when not in use.",
+  "availability": "In Stock",
+  "product_name": "Trend Universal Plunge Router Sub-Base",
+  "specifications": [
+    "180mm option available",
+    "Made from reinforced nylon",
+    "Precision Centring System for accuracy",
+    "Reinforced threaded brass inserts",
+    "Quick Pattern Finder for easy locating"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-temptrkx14-template-timber-repair-kit.html|>
+## Trend Temp/Trkx1/4 Template Timber Repair Kit
+
+{
+  "price": "€111.89 inc VAT (€90.97 exc.vat)",
+  "description": "Temp/Trkx1/4 Template Timber Repair Kit",
+  "availability": "In Stock",
+  "product_name": "Trend Temp/Trkx1/4 Template Timber Repair Kit",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-ss8tb-tct-14in-shank-starter-router-bit-set-12-piece.html|>
+## Trend SS8TB TCT 1/4in Shank Starter Router Bit Set, 12 Piece
+
+{
+  "price": "€60.27 inc VAT (€49.00 exc.vat)",
+  "description": "Trend 12 Piece Starter Cutter Set containing a range of the most widely used cutters for decorative woodworking. Made from tungsten carbide with 1/4in shanks and supplied in a plastic carry case.",
+  "availability": "In Stock",
+  "product_name": "Trend SS8TB TCT 1/4in Shank Starter Router Bit Set, 12 Piece",
+  "specifications": [
+    "1 x Straight 6.3mm x 16mm",
+    "1 x Straight 12.7mm x 19mm",
+    "1 x Dovetail 104° x 1/2in",
+    "2 x Guided Round Over radius: 6.35mm and 9.5mm",
+    "1 x Guided Chamfer 45°",
+    "1 x Guided Rebater 9.5mm",
+    "1 x Guided Trimmer 12.7mm",
+    "1 x Guided Cove 6.3mm",
+    "1 x 'V' Groove 45°",
+    "1 x Core Box radius 6.35mm",
+    "1 x Guided Ogee radius 4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-starter-cutter-set-24-piece.html|>
+## Trend Starter Cutter Set, 24 Piece
+
+{
+  "price": "€132.84 inc VAT (€108.00 exc.vat)",
+  "description": "24 piece router bit starter set with a range of popular TCT cutters for a variety of applications. Suitable for softwood, hardwood, chipboard, plywood and MDF. Supplied in a plastic carry case, contains: 4 x Straight Cutters: 6.3 x 19, 9.5 x 25, 12.7 x 25, 19 x 19mm, 1 x Keyhole Cutter 9.5mm, 1 x Pierce and Trim Cutter 6.3 x 18mm, 1 x 45° V Groove 12.7mm, 2 x Dovetail: 9.5, 12.7mm, 2 x Cove: R3.2, R6.35mm, 1 x Guided Trimmer 12.7 x 12.7mm, 1 x Guided 45° Chamfer 32mm, 4 x Guided Round Over: R3.2, R6.3, R9.5, R12.7mm, 1 x Staff Bead R4.8mm, 2 x Guided Cove: R6.3, R9.5mm, 1 x Guided Rebate 6.3 x 12.7mm, 1 x Hinge Recess Straight 12.7 x 12.7mm, 1 x Ovolo Panel 25.4mm, 1 x Guided Roman Ogee R4mm",
+  "availability": "Out of Stock",
+  "product_name": "Trend Starter Cutter Set, 24 Piece",
+  "specifications": [
+    "24 piece router bit starter set",
+    "Suitable for softwood, hardwood, chipboard, plywood and MDF",
+    "Supplied in a plastic carry case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-setss31x14tc-tct-router-cutter-set-30-piece.html|>
+## Trend SET/SS31X1/4TC TCT Router Cutter Set, 30 Piece
+
+{
+  "price": "€163.52 inc VAT (€132.94 exc.vat)",
+  "description": "The Trend SET/SS31X1/4TC Router Cutter Set contains a range of popular tungsten carbide tipped cutters for a variety of applications. Suitable for softwood, hardwood, chipboard, plywood and MDF. Supplied in an aluminium carry case.",
+  "availability": "Out of Stock",
+  "product_name": "Trend SET/SS31X1/4TC TCT Router Cutter Set, 30 Piece",
+  "specifications": [
+    "Contains 9 x Non-bearing Straight Cutters: 5 x 12mm, 6 x 20mm, 8 x 20mm, 10 x 20mm, 12 x 20mm, 14 x 20mm, 16 x 20mm, 18 x 20mm and 20 x 20mm",
+    "2 x Non-bearing Core Box Cutters: R3.2mm and R6.35mm",
+    "2 x Non-bearing 45° V-Groove Cutters: 9.5mm and 12.7mm",
+    "1 x Non-bearing Dovetail Cutter 9.5mm/13mm",
+    "1 x Non-bearing Classic Panel Cutter 12.7mm",
+    "4 x Guided Round Over Cutters: R3.2mm, R6.3mm, R7.9mm and R9.5mm",
+    "4 x Guided Ovolo Cutters: R3.2mm, R6.3mm, R7.9mm and R9.5mm",
+    "1 x Guided 45° Chamfer Cutter 31.5mm",
+    "1 x Guided 25° Chamfer Cutter 16mm",
+    "1 x Guided Trimmer 12.7 x 13mm",
+    "2 x Guided Cove Cutters: R6.3mm and 9.5mm",
+    "1 x Guided Rebate Cutter 9.5 x 28.6mm",
+    "1 x Guided Roman Ogee R4 x 25mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-setss35x12tc-tct-router-cutter-set-35-piece.html|>
+## Trend SET/SS35X1/2TC TCT Router Cutter Set, 35 Piece
+
+{
+  "price": "€183.95 inc VAT (€149.55 exc.vat)",
+  "description": "The Trend SET/SS35X1/2TC TCT Router Cutter Set contains a range of popular tungsten carbide tipped cutters for a variety of applications. Suitable for softwood, hardwood, chipboard, plywood and MDF. Supplied in aluminium carry case.",
+  "availability": "Out of Stock",
+  "product_name": "Trend SET/SS35X1/2TC TCT Router Cutter Set, 35 Piece",
+  "specifications": [
+    "1 x Single Flute Cutter 3.2 x 12.7mm",
+    "5 x Straight Cutters: 6.3 x 19mm, 9.5 x 25mm, 12.7 x 19mm, 12.7 x 25mm and 19 x 19mm",
+    "1 x Pierce and Trim Cutter 6.3 x 18mm",
+    "1 x 45° V-Groove Cutter 12.7mm",
+    "2 x Dovetail Cutters: 12.7mm and 14.3mm",
+    "2 x Cove Cutters: R3.2mm and R6.35mm",
+    "1 x Long Series Cove Cutter R6.35 x 18mm",
+    "5 x Guided Trimmers: 9.5 x 12.7mm, 9.5 x 25mm, 12.7 x 12.7mm, 12.7 x 25mm and 19 x 25mm",
+    "1 x Guided 45° Chamfer Cutter 30mm",
+    "3 x Guided Round Over Cutters: R6.3mm, R9.5mm and R12.7mm",
+    "1 x Guided Ovolo Cutter R12.7mm",
+    "1 x Guided Cavetto Cutter R7.9mm",
+    "2 x Guided Cove Cutters: R6.3mm and R9.5mm",
+    "3 x Guided Groovers: 6.35 x 9.5mm, 7.9 x 9.5mm and 9.5 x 9.5mm Deep",
+    "1 x Hinge Recess Straight 12.7 x 12.7mm",
+    "2 x Guided Roman Ogees: R4.7mm and R6.35mm",
+    "2 x Guided Cutters: R4mm and R6.3mm",
+    "1 x Guided Wavy Edge Cutter R4.7mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-12mm-router-bit-set-6-piece.html|>
+## Milwaukee Power Tools 12mm Router Bit Set, 6 Piece
+
+{
+  "price": "€296.18 inc VAT (€240.80 exc.vat)",
+  "description": "Milwaukee 6 Piece Router Bit Set. Each carbide bit features micro grain diamond ground construction. This design guarantees enhanced sharpness for a superior finish and minimizes chipping. The dimensions of the bit shanks are laser marked, allowing for effortless identification and convenient tool selection. Supplied in a PACKOUT Compatible Organiser Case. Contains the following: 6 x 12mm Shank Router Bits: 34.9 x 17.4mm, 35 x 16mm, 31.8 x 15mm, 12 x 25.4mm, 12 x 20mm, 6.0 x 16mm.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools 12mm Router Bit Set, 6 Piece",
+  "specifications": [
+    "6 x 12mm Shank Router Bits: 34.9 x 17.4mm",
+    "35 x 16mm",
+    "31.8 x 15mm",
+    "12 x 25.4mm",
+    "12 x 20mm",
+    "6.0 x 16mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-mortice-and-tenon-jig-mtjig.html|>
+## Trend Mortice & Tenon Jig MT/JIG
+
+{
+  "price": "€370.88 inc VAT (€301.53 exc.vat)",
+  "description": "The Trend Mortice & Tenon Jig MT/JIG enables mortice, tenons and dowel joints to be cut with a router, ideal for cabinets, chairs and table joints. There is a one set-up system for both mortice and tenon giving perfectly fitting joints and is fully adjustable for compound angle joints up to 45º. The reversible templates can be used to produce round and square end tenons and for accurate dowelling applications. It cuts mortice and tenon sizes of 1/4in (6.35mm) to 5/8in (15.9mm). A Unibase may be required for certain makes and models of router. All tenons are cut with a 5/8 inch diameter straight cutter (Ref. C026). The width of the tenon is adjusted by using different guide bush diameters. International PCT Appl N. CNC precision manufactured plates and body. Guide bushes are included but cutters are required.",
+  "availability": "In Stock",
+  "product_name": "Trend Mortice & Tenon Jig MT/JIG",
+  "specifications": [
+    "Material Thickness: 12 - 47mm",
+    "Tenon Thickness: 4.8 - 16mm",
+    "Angle Tilt Compound: -10º to 45º"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-pocket-hole-jig.html|>
+## Trend Pocket Hole Jig
+
+{
+  "price": "from €30.91 inc VAT",
+  "description": "The Trend PH/JIG Pocket Hole Jig is great for fast and accurate joining of timber and plywood, giving strong instant joints. Solid hardened bushes with variable pitch of 29mm to 63mm. Use on timber, MDF, plywood and blockboard. Allows a variety of joints to be created individually. Uses square drive self tapping screws. Workpiece can be handled immediately after gluing and screwing, creating time saving benefits. No clamps required.",
+  "availability": "In Stock",
+  "product_name": "Trend Pocket Hole Jig",
+  "specifications": [
+    "Fast and accurate joining of timber and plywood",
+    "Solid hardened bushes with variable pitch of 29mm to 63mm",
+    "Suitable for timber, MDF, plywood, and blockboard",
+    "Allows a variety of joints to be created individually",
+    "Uses square drive self-tapping screws",
+    "Workpiece can be handled immediately after gluing and screwing",
+    "No clamps required"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-pocket-hole-st-screw-sq-no7-x-30mm.html|>
+## Trend Pocket Hole S/T Screw Sq No7 x 30mm
+
+{
+  "price": "€30.32 inc VAT (€24.65 exc.vat)",
+  "description": "Pocket Hole S/T Screw Sq No7 x 30mm",
+  "availability": "In Stock",
+  "product_name": "Trend Pocket Hole S/T Screw Sq No7 x 30mm",
+  "specifications": [
+    "TREPH730500 : €30.32",
+    "QtyAdd to Basket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-ph7x30500c-pocket-hole-screw-no78-x-30mm-pack-500.html|>
+## PH/7X30/500C Pocket Hole Screw No.7/8 x 30mm (Pack 500)
+
+{
+  "price": "€41.32 inc VAT (€33.59 exc.vat)",
+  "description": "Coarse thread, square drive, self-tapping wood screws. Ideal for softer timbers, plywood and particle board. Self-tapping tip to drill own hole without splitting. Large dome head, zinc coated. Pack of 500.",
+  "availability": "In Stock",
+  "product_name": "PH/7X30/500C Pocket Hole Screw No.7/8 x 30mm (Pack 500)",
+  "specifications": [
+    "Coarse thread",
+    "Square drive",
+    "Self-tapping wood screws",
+    "Ideal for softer timbers, plywood and particle board",
+    "Self-tapping tip to drill own hole without splitting",
+    "Large dome head, zinc coated",
+    "Pack of 500"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-phdrill95q-pocket-hole-drill-95mm.html|>
+## PH/DRILL/95Q Pocket Hole Drill 9.5mm
+
+{
+  "price": "€42.09 inc VAT (€34.22 exc.vat)",
+  "description": "9.5mm diameter stepped high speed steel (HSS) drill for use with Pocket Hole Jigs. Supplied with depth setting collar. Can be fitted to the Quick Chuck or directly into the drill chuck.",
+  "availability": "In Stock",
+  "product_name": "PH/DRILL/95Q Pocket Hole Drill 9.5mm",
+  "specifications": [
+    "9.5mm diameter",
+    "Stepped high speed steel (HSS) drill",
+    "For use with Pocket Hole Jigs",
+    "Supplied with depth setting collar",
+    "Can be fitted to the Quick Chuck or directly into the drill chuck"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-1011-x-12-tct-v-groove-chamfer-45-190-x-38mm.html|>
+## Trend 10/11 x 1/2 TCT V Groove Chamfer 45° 19.0 x 38mm
+
+{
+  "price": "€69.99 inc VAT (€56.90 exc.vat)",
+  "description": "These type of cutters are used for edging, grooving, veining work and chamfer cutting on man made fibre boards, natural timbers and plastics. Tools are offered to produce various angles for engraving, chamfering and V grooving. Typical trade applications include sign making, freehand engraving, cabinet making and decorative joinery.",
+  "availability": "In Stock",
+  "product_name": "Trend 10/11 x 1/2 TCT V Groove Chamfer 45° 19.0 x 38mm",
+  "specifications": [
+    "TRE101112TC : €69.99",
+    "Shank 1/2in.",
+    "A = 45°",
+    "D = 38 mm",
+    "C1 = 19 mm",
+    "C2 = 26.5 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-10h1-x-14-tct-pin-guided-chamfer--bevel-45-10-0-x-140mm.html|>
+## Trend 10H/1 x 1/4 TCT Pin Guided Chamfer / Bevel 45° 10 .0 x 14.0mm
+
+{
+  "price": "€80.98 inc VAT (€65.84 exc.vat)",
+  "description": "These types of cutter are used for edging and chamfer cutting on man made fibre boards, natural timbers and plastics. Tools are offered to produce various angles for chamfering. Pin guarded cutters enable curved work to be undertaken, bearings running along the board edge or a template. Typical trade applications include sign making, freehand engraving, cabinet making and decorative joinery.",
+  "availability": "In Stock",
+  "product_name": "Trend 10H/1 x 1/4 TCT Pin Guided Chamfer / Bevel 45° 10 .0 x 14.0mm",
+  "specifications": [
+    "TRE10H114TC : €80.98",
+    "1/4in Shank",
+    "A = 45°",
+    "C1 = 10 mm",
+    "C2 = 14 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-337-x-12-tct-tongue-and-groove-set-635mm-x-100mm.html|>
+## Trend 337 x 1/2 TCT Tongue & Groove Set 6.35mm x 10.0mm
+
+{
+  "price": "€151.87 inc VAT (€123.47 exc.vat)",
+  "description": "A one-piece tongue and groove set. The parts are inter-changed on the arbor to alter the set up. Maximum timber thickness 22 mm. Minimum timber thickness 15 mm. Instructions for use are supplied. TCT. 1/2in Shank. Slot Sizes 3.35 mm - 10 mm. Max depth of slot 9.5 mm",
+  "availability": "In Stock",
+  "product_name": "Trend 337 x 1/2 TCT Tongue & Groove Set 6.35mm x 10.0mm",
+  "specifications": [
+    "TRE33712TC : €151.87",
+    "Maximum timber thickness 22 mm",
+    "Minimum timber thickness 15 mm",
+    "Slot Sizes 3.35 mm - 10 mm",
+    "Max depth of slot 9.5 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-46390-x-12-tct-bearing-guided-rebater-225mm-x-508mm.html|>
+## Trend 46/390 x 1/2 TCT Bearing Guided Rebater 22.5mm x 50.8mm
+
+{
+  "price": "€160.58 inc VAT (€130.55 exc.vat)",
+  "description": "Bearing guided rebate set for straight of curved work, this set is ideal for either stationary or portable routers. The standard rebate depth is 19.1 mm (when using 12.7 mm bearing) Available as extras are different size bearing which , when fitted, will give various rebate sizes. TCT 1/2in Shank. Diameter = 50.8 mm Ccuuting length = 22.5 mm Rebate = 19.1mm & 15.9mm",
+  "availability": "In Stock",
+  "product_name": "Trend 46/390 x 1/2 TCT Bearing Guided Rebater 22.5mm x 50.8mm",
+  "specifications": [
+    "Diameter = 50.8 mm",
+    "Cutting length = 22.5 mm",
+    "Rebate = 19.1mm & 15.9mm",
+    "TCT 1/2in Shank"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-4644-x-14-tct-bearing-guided-rebate-24mm-x-127mm.html|>
+## Trend 46/44 x 1/4 TCT Bearing Guided Rebate 24mm x 12.7mm
+
+{
+  "price": "€118.18 inc VAT (€96.08 exc.vat)",
+  "description": "Trend 46/44 rebate set which include different size bearings for a choice of rebates, they provides easy setting up and accurate depth of cut. Ideal for rebating straight and shaped work pieces particularly with delicate applications such as musical instrument production when a small rebate is required for insertion of purfling. Tooling TCT. 1/4in Shank. By changing the bearing the size of the rebate can be altered, Supplied with 3 bearings. 22.0 mm Bearing gives rebate of 1 mm. 19 mm Bearing gives rebate of 2.5 mm. 16 mm Bearing gives rebate of 4 mm. D = 24 mm C = 12.7 mm",
+  "availability": "In Stock",
+  "product_name": "Trend 46/44 x 1/4 TCT Bearing Guided Rebate 24mm x 12.7mm",
+  "specifications": [
+    "46/44 rebate set",
+    "Includes different size bearings",
+    "1/4in Shank",
+    "Supplied with 3 bearings",
+    "D = 24 mm",
+    "C = 12.7 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-474-x-14-tct-pierce-and-trim-cutter-63-x-18mm.html|>
+## Trend 47/4 x 1/4 TCT Pierce & Trim Cutter 6.3 x 18mm
+
+{
+  "price": "€42.40 inc VAT (€34.47 exc.vat)",
+  "description": "Combination pierce and trim cutters. These cutters pierce and cut out aperture in laminate worktops. The base of the cutter acts as a guide follower. Single Flute cutters. Cutting Length: 18mm, Diameter: 6.3mm. Shank. 1/4in.",
+  "availability": "In Stock",
+  "product_name": "Trend 47/4 x 1/4 TCT Pierce & Trim Cutter 6.3 x 18mm",
+  "specifications": [
+    "Cutting Length: 18mm",
+    "Diameter: 6.3mm",
+    "Shank: 1/4in",
+    "Single Flute cutters"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-51-x-14-tct-hinge-recessor-127-x-19mm.html|>
+## Trend 5/1 x 1/4 TCT Hinge Recessor 12.7 x 19mm
+
+{
+  "price": "€47.39 inc VAT (€38.53 exc.vat)",
+  "description": "Two flute TC cutter giving good chip clearance. Ideal for shallow lateral routing cuts such as recessing hinges. Corners will require final trimming square with a hand chisel or a corner chisel. Diameter = 12.7mm. Cutting length = 19mm.",
+  "availability": "Out of Stock",
+  "product_name": "Trend 5/1 x 1/4 TCT Hinge Recessor 12.7 x 19mm",
+  "specifications": [
+    "Diameter = 12.7mm",
+    "Cutting length = 19mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c040-x-14-tct-bearing-guided-rebater-350mm.html|>
+## Trend C040 x 1/4 TCT Bearing Guided Rebater 35.0mm
+
+{
+  "price": "€54.67 inc VAT (€44.45 exc.vat)",
+  "description": "This cutter is self guiding and can be used to produce rebates, lapjoints, tongues and rebated corners. Alternative bearings can be purchased to vary the rebate. Diameter . 35.0mm. C = 12.7mm. E = 11.1mm. B = 12.7mm. T.C.T. 1/4IN Shank.",
+  "availability": "In Stock",
+  "product_name": "Trend C040 x 1/4 TCT Bearing Guided Rebater 35.0mm",
+  "specifications": [
+    "Diameter: 35.0mm",
+    "C: 12.7mm",
+    "E: 11.1mm",
+    "B: 12.7mm",
+    "T.C.T.",
+    "1/4IN Shank"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c044-x-14-tct-chamfer-v-groove-45-60-x-127mm.html|>
+## Trend C044 x 1/4 TCT Chamfer V Groove 45° 6.0 x 12.7mm
+
+{
+  "price": "€31.25 inc VAT (€25.41 exc.vat)",
+  "description": "Chamfer & V Groove Cutters\n\nThese types of cutter are used for edging, grooving, veining work and chamfer cutting, on man-made fibre boards, natural timbers and plastics. Tools are offered to produce various angles for engraving, chamfering and V grooving. Ball bearing and pin guided cutters enable curved work to be undertaken, bearings running along the board edge or a template. Typical trade applications include sign making, freehand engraving, cabinet making and decorative joinery.\n\nThe size of V groove on this cutter is:-\n\nD = 12.7mm.\n\nC = 6.0mm.\n\nAngle = 45° .\n\nT.C.T.\n\nShank: 1/4in.",
+  "availability": "In Stock",
+  "product_name": "Trend C044 x 1/4 TCT Chamfer V Groove 45° 6.0 x 12.7mm",
+  "specifications": [
+    "D = 12.7mm",
+    "C = 6.0mm",
+    "Angle = 45°",
+    "T.C.T.",
+    "Shank: 1/4in."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c049-x-14-tct-bearing-guided-chamfer-45-127-x-32mm.html|>
+## Trend C049 x 1/4 TCT Bearing Guided Chamfer 45° 12.7 x 32mm
+
+{
+  "price": "€51.16 inc VAT (€41.59 exc.vat)",
+  "description": "Chamfer & V Groove Cutters\n\nThese types of cutter are used for edging and chamfer cutting, on man-made fibre boards, natural timbers and plastics. Tools are offered to produce various angles for engraving, chamfering and V grooving. Ball bearing and pin guided cutters enable curved work to be undertaken, bearings running along the board edge or a template. Typical trade applications include sign making, freehand engraving, cabinet making and decorative joinery.\n\nA range of valuable self-guiding chamfer/bevel cutters.\n\nBearing follows the board beneath.\n\nT.C.T.\n\nShank. = 1/4in.\n\nC = 12.7mm.\n\nB = 9.5mm.\n\nAngle = 45° .",
+  "availability": "In Stock",
+  "product_name": "Trend C049 x 1/4 TCT Bearing Guided Chamfer 45° 12.7 x 32mm",
+  "specifications": [
+    "T.C.T. Shank: 1/4in",
+    "C: 12.7mm",
+    "B: 9.5mm",
+    "Angle: 45°"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c076-x-14-tct-bearing-guided-ovolo-and-round-over-63mm-radius.html|>
+## Trend C076 x 1/4 TCT Bearing Guided Ovolo & Round Over 6.3mm Radius
+
+{
+  "price": "€61.09 inc VAT (€49.67 exc.vat)",
+  "description": "Trend CO76X1 Rounding over, self-guiding cutters for rounding over edges do not require a side fence with a 6.3 mm radius x 12.7 mm cut. Supplied with two bearings - use the larger bearing for a round-over. If the cutter is lowered, a top quirk can be produced. Bullnose mouldings can also be produced by taking a second pass from the opposite side of the workpiece.",
+  "availability": "In Stock",
+  "product_name": "Trend C076 x 1/4 TCT Bearing Guided Ovolo & Round Over 6.3mm Radius",
+  "specifications": [
+    "TREC07614TC : €61.09",
+    "Self-guiding cutters for rounding over edges",
+    "6.3 mm radius x 12.7 mm cut",
+    "Supplied with two bearings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c115-x-14-tct-90-bearing-guided-trimmer-cutter-95-x-127mm.html|>
+## Trend C115 x 1/4 TCT 90° Bearing Guided Trimmer Cutter 9.5 x 12.7mm
+
+{
+  "price": "€33.62 inc VAT (€27.33 exc.vat)",
+  "description": "Self-guided trimming bits. Used for trimming plastic or plywood overlays. Also for copy profiling with a template. Raise cutter in stages to spread wear of cutting edges. D = 9.5 mm, C = 12.7 mm",
+  "availability": "Out of Stock",
+  "product_name": "Trend C115 x 1/4 TCT 90° Bearing Guided Trimmer Cutter 9.5 x 12.7mm",
+  "specifications": [
+    "D = 9.5 mm",
+    "C = 12.7 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c121-x-14-tct-bearing-guided-template-profile-127-x-254mm.html|>
+## Trend C121 x 1/4 TCT Bearing Guided Template Profile 12.7 x 25.4mm
+
+{
+  "price": "€29.19 inc VAT (€23.73 exc.vat)",
+  "description": "These trimmers with shank mounted bearings are ideal for template guidance. Use for rebating and trimming edges. Extra care must be taken to avoid breakage of the cutter TCT. D = 12.7 mm. C = 25.4 mm.",
+  "availability": "In Stock",
+  "product_name": "Trend C121 x 1/4 TCT Bearing Guided Template Profile 12.7 x 25.4mm",
+  "specifications": [
+    "D = 12.7 mm",
+    "C = 25.4 mm",
+    "TCT cutter"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c130-x-14-tct-bearing-guided-corner-bead-48mm-radius.html|>
+## Trend C130 x 1/4 TCT Bearing Guided Corner Bead 4.8mm Radius
+
+{
+  "price": "€80.98 inc VAT (€65.84 exc.vat)",
+  "description": "Attractive edge moulds, a full corner bead can be produced by making a second pass at 90°. Used on all man-made boards such as medium density fibre board, chipboard, and also natural timbers and most plastics.",
+  "availability": "In Stock",
+  "product_name": "Trend C130 x 1/4 TCT Bearing Guided Corner Bead 4.8mm Radius",
+  "specifications": [
+    "T.C.T.",
+    "Shank = 1/4in.",
+    "R = 4.8 mm",
+    "D = 26 mm",
+    "d = 22 mm",
+    "C = 16 mm",
+    "B = 15.9 mm",
+    "Craft Range - They can be used on all man-made boards such as medium density fibre board, chipboard, and also natural timbers and most plastics"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c145-x-14-tct-bearing-guided-slotting-cutter-63mm.html|>
+## Trend C145 x 1/4 TCT Bearing Guided Slotting Cutter 6.3mm
+
+{
+  "price": "€47.39 inc VAT (€38.53 exc.vat)",
+  "description": "This two wing slotting cutter is ideal for grooving and rebating operations. A 1/2in diameter bearing is supplied with every cutter. Depth of cut can be changed by purchasing alternative bearing sizes. T.C.T. Shank = 1/4in. C = 6.3 mm (Slots) Depth with standard cutter = 3/8in.",
+  "availability": "Out of Stock",
+  "product_name": "Trend C145 x 1/4 TCT Bearing Guided Slotting Cutter 6.3mm",
+  "specifications": [
+    "TREC14514TC : €47.39",
+    "Shank = 1/4in",
+    "C = 6.3 mm (Slots)",
+    "Depth with standard cutter = 3/8in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c209-x-14-tct-intumescent-recesser-24-x-10mm.html|>
+## Trend C209 x 1/4 TCT Intumescent Recesser 24 x 10mm
+
+{
+  "price": "€34.35 inc VAT (€27.93 exc.vat)",
+  "description": "Trend Intumescent cutter set for either frame or door applications, with standard Intumescent Strip. It neatly cuts grooves on doors or frames to accept Intumescent Strip which enables the formation of effective barriers to both fire and smoke. By using alternative ball bearing diameters other seal thicknesses can be introduced. Alternative bearings can be purchased to suit other thicknesses. For 4.0 mm thick and 10.0 mm width intumescent strip. Diameter: 24 mm. Cutting depth: 10 mm. Bearing: 16 mm. Shank: 1/4in.",
+  "availability": "Out of Stock",
+  "product_name": "Trend C209 x 1/4 TCT Intumescent Recesser 24 x 10mm",
+  "specifications": [
+    "Diameter: 24 mm",
+    "Cutting depth: 10 mm",
+    "Bearing: 16 mm",
+    "Shank: 1/4in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-rt35-torx-replacement-screws.html|>
+## RT/3.5 Torx Replacement Screws
+
+{
+  "price": "€6.81 inc VAT (€5.54 exc.vat)",
+  "description": "Spare Torx Screws for replacement on Rotatip Cutters. Sizes. 04, 05, 06, 10, 11, 11m, 21, 12, 14, 7, 8, 15, 16, 17, 18, 19,23 & 24.",
+  "availability": "In Stock",
+  "product_name": "RT/3.5 Torx Replacement Screws",
+  "specifications": [
+    "Sizes: 04, 05, 06, 10, 11, 11m, 21, 12, 14, 7, 8, 15, 16, 17, 18, 19, 23 & 24"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-t42035-x-8mm-tct-hinge-sinking-35mm-diameter.html|>
+## Trend T420/35 x 8mm TCT Hinge Sinking 35mm Diameter
+
+{
+  "price": "€24.23 inc VAT (€19.70 exc.vat)",
+  "description": "Hinge Sinkers for drilling machines. TCT Hinge sinking cutter for pillar drills only. Designed for recessing holes in melamine covered chipboard to receive circular hinges. Diameter. 35mm. Shank. 8mm.",
+  "availability": "In Stock",
+  "product_name": "Trend T420/35 x 8mm TCT Hinge Sinking 35mm Diameter",
+  "specifications": [
+    "Diameter: 35mm",
+    "Shank: 8mm",
+    "TCT Hinge sinking cutter for pillar drills"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-t42135-x-14-tct-hinge-sinking-bit-35mm-diameter.html|>
+## Trend T421/35 x 1/4 TCT Hinge Sinking Bit 35mm Diameter
+
+{
+  "price": "€53.63 inc VAT (€43.60 exc.vat)",
+  "description": "T421/35 x 1/4 TCT Hinge Sinking Bit 35mm Diameter",
+  "availability": "In Stock",
+  "product_name": "Trend T421/35 x 1/4 TCT Hinge Sinking Bit 35mm Diameter",
+  "specifications": [
+    "Diameter: 35mm",
+    "Type: TCT Hinge Sinking Bit",
+    "Model: T421/35",
+    "VAT: Included"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-tr29-x-14-tct-shank-mounted-bearing-guided-profiler-127-x-254mm.html|>
+## Trend TR29 x 1/4 TCT Shank Mounted Bearing Guided Profiler 12.7 x 25.4mm
+
+{
+  "price": "€51.16 inc VAT (€41.59 exc.vat)",
+  "description": "Trend TR29 Trade range Shank mounted guided profiler with extra long shank ideal for trimming and profiling timber, man-made board. Features 2 mm micrograin tungsten carbide tips, for cutting the most abrasive materials to give extra long life. The cutter is PTFE coated, indicated by distinctive black colouring. The guide profiler can be used on hardwood and softwood, fibreboard, plywood and particle board and has the dimensions etched on the extra long 40 mm shanks, for quick identification.",
+  "availability": "In Stock",
+  "product_name": "Trend TR29 x 1/4 TCT Shank Mounted Bearing Guided Profiler 12.7 x 25.4mm",
+  "specifications": [
+    "Shank: 1/4in.",
+    "Cutting Diameter (D): 12.7mm",
+    "Cutting Length (C): 25.4mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-tr30-x-12-tct-shank-mounted-bearing-guided-profiler-191-x-50mm.html|>
+## Trend TR30 x 1/2 TCT Shank Mounted Bearing Guided Profiler 19.1 x 50mm
+
+{
+  "price": "€95.95 inc VAT (€78.01 exc.vat)",
+  "description": "Trend TR30 Trade Shank mounted guided profiler with extra long shank ideal for trimming and profiling timber, man-made board. Features 2mm micrograin tungsten carbide tips, for cutting the most abrasive materials to give extra long life. The cutter is PTFE coated, indicated by distinctive black colouring. The guide profiler can be used on hardwood and softwood, fibreboard, plywood and particle board and has the dimensions etched on the extra long 40mm shanks, for quick identification. Dimensions: Shank: 1/2 in. Cutting Diameter: 19.1mm. Cutting Length: 50.0mm.",
+  "availability": "In Stock",
+  "product_name": "Trend TR30 x 1/2 TCT Shank Mounted Bearing Guided Profiler 19.1 x 50mm",
+  "specifications": [
+    "Shank: 1/2 in.",
+    "Cutting Diameter: 19.1mm",
+    "Cutting Length: 50.0mm",
+    "2mm micrograin tungsten carbide tips",
+    "PTFE coated for extra long life"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-11-chamfer-v-groove-cutters.html|>
+## Trend 11/ Chamfer V Groove Cutters
+
+{
+  "price": "€56.14 inc VAT",
+  "description": "Chamfer V grooving cutters are used for bevelling, chamfering and producing motar grooves. Due to design an approx. 1.0 mm flat will be found on the nose. Typical trade applications include sign making, freehand engraving, cabinet making and decorative joinery.",
+  "availability": "In Stock",
+  "product_name": "Trend 11/ Chamfer V Groove Cutters",
+  "specifications": [
+    "1/2in shank 45° 9.2 x 19.1mm",
+    "1/4in shank 45° 9.2 x 19.1mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-24-plug-makers.html|>
+## Trend 24/ Plug Makers
+
+{
+  "price": "€93.28 inc VAT",
+  "description": "These plug cutters are designed to exactly fit the counterbored holes produced by group 62 and 63 Trend cutters. Recommended speed - 1,000-20,000 /min.",
+  "availability": "In Stock",
+  "product_name": "Trend 24/ Plug Makers",
+  "specifications": [
+    "Recommended speed: 1,000-20,000 /min"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-14in-two-flute-cutters-tct.html|>
+## Trend 1/4in Two Flute Cutters TCT
+
+{
+  "price": "from €26.85 inc VAT",
+  "description": "Two flute straight cutters produce a cleaner finish than the single flute cutters and are suitable for grooving, rebating, morticing and drilling. Use Tungsten Carbide tooling when working with abrasive materials such as chipboard, MDF, plywood and certain hardwoods. Two flutes give a clean finish to cut edges. 1/4in Shank.",
+  "availability": "In Stock",
+  "product_name": "Trend 1/4in Two Flute Cutters TCT",
+  "specifications": [
+    "Two flute straight cutters",
+    "Suitable for grooving, rebating, morticing and drilling",
+    "Use Tungsten Carbide tooling for abrasive materials",
+    "1/4in Shank"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-31-dovetail-cutters.html|>
+## Trend 31/ Dovetail Cutters
+
+{
+  "price": "from €32.47 inc VAT",
+  "description": "Trend dovetail cutters are designed for use with commercial dovetailing and stair housing jigs. Also cutters to produce sliding and lapped dovetails, through dovetails and end on dovetails. Suitable for use on natural timbers and man-made boards, they are used extensively in cabinet work, furniture making, stair trenching, dovetail jointing and carcass construction.",
+  "availability": "In Stock",
+  "product_name": "Trend 31/ Dovetail Cutters",
+  "specifications": [
+    "104° 12.7 x 12.7mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-14in-two-flute-cutters-dnamic-carbide.html|>
+## Trend 1/4in Two Flute Cutters Dnamic Carbide
+
+{
+  "price": "from €54.24 inc VAT",
+  "description": "Trend D-Namic two flute cutters with extra long shanks for deep grooving, rebating and morticing which are useful for template work when thickness of template restricts depth. Extra care must be taken to avoid breakage. Take more passes than usual and only cut up to half the diameter of the cutter in one pass.",
+  "availability": "In Stock",
+  "product_name": "Trend 1/4in Two Flute Cutters Dnamic Carbide",
+  "specifications": [
+    "Select Option: 12.0mm x 19mm",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-36-strip-recesser.html|>
+## Trend 36/ Strip Recesser
+
+{
+  "price": "€109.43 inc VAT",
+  "description": "These Cutters produce recesses with a lower rebate - double rebate. Designed to accept library/bookcase strip (Tonk Strip).",
+  "availability": "In Stock",
+  "product_name": "Trend 36/ Strip Recesser",
+  "specifications": [
+    "Select Option: - Select One - 13 x 19 x 10 x 6mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-46-bearing-guided-ovolo-and-round-over-cutters.html|>
+## Trend 46/ Bearing Guided Ovolo & Round Over Cutters
+
+{
+  "price": "€77.24 inc VAT",
+  "description": "Ovollo and rounding over bearing guided cutters are ideal for curved work, they can be used on natural timbers, man-made particles and fibre boards. Popular uses include edging window frames, glazing bars, cabinets, table tops, pencil rounds, trophies, shelves and fire surrounds. They can also be used to produce bullnose edge moulds. All cutters supplied with two bearings, larger bearing removes the quirk producing a round over profile.",
+  "availability": "In Stock",
+  "product_name": "Trend 46/ Bearing Guided Ovolo & Round Over Cutters",
+  "specifications": [
+    "Select Option: 1/2in 9.5mm Radius, 1/4in 1.6mm Radius, 1/4in 12.7mm Radius, 1/4in 3.2mm Radius, 1/4in 3mm Radius, 1/4in 4.8mm Radius, 1/4in 6.3mm Radius, 1/4in 9.5mm Radius"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-46-90-template-profiler.html|>
+## Trend 46/ 90° Template Profiler
+
+{
+  "price": "from €43.57 inc VAT",
+  "description": "Self guiding cutters with bearings mounted for trimming and bevelling timber, lippings and plastic laminate edges for cabinet making, countertop production or any shaping applications. Bearing guided cutters are suitable for both straight and curved work, bearings are normally fractionally larger than cutter diameter, to avoid surface scoring. Uses: Trimming plastic or plywood overlay. Copy profiling - use the bearing to follow a template or base edge of board. A 3 mm approximate overlap should be left before copy profiling, also when using plastic laminate always allow laminate adhesive to dry before trimming. This avoids clogging the guide bearing. Tooling Tungsten Carbide 1/2in Shank.",
+  "availability": "In Stock",
+  "product_name": "Trend 46/ 90° Template Profiler",
+  "specifications": [
+    "Self guiding cutters with bearings mounted",
+    "Suitable for trimming and bevelling timber",
+    "Tooling: Tungsten Carbide",
+    "1/2in Shank"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-46-45--bearing-guided-chamfer-cutters.html|>
+## Trend 46/ 45° Bearing Guided Chamfer Cutters
+
+{
+  "price": "€113.22 inc VAT",
+  "description": "These types of cutters are used for edging, work and chamfer cutting on man made fibre boards, natural timbers and plastics. Tools are offered to produce various angles for chamfering. Ball bearing and pin guarded cutters enable curved work to be undertaken with bearings running along the board edge or a template. Typical trade applications include sign making, freehand engraving, cabinet making and decorative joinery.",
+  "availability": "In Stock",
+  "product_name": "Trend 46/ 45° Bearing Guided Chamfer Cutters",
+  "specifications": [
+    "1/2in Shank 51.5 x 19mm",
+    "1/4in Shank 31.8 x 12mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-468-90-bearing-guided-triple-flute-cutter.html|>
+## Trend 46/8 90° Bearing Guided Triple Flute Cutter
+
+{
+  "price": "€57.34 inc VAT",
+  "description": "Self-guiding triple flute cutters provide a super fine finish and longer life. Suitable for laminate or plywood overlay.",
+  "availability": "In Stock",
+  "product_name": "Trend 46/8 90° Bearing Guided Triple Flute Cutter",
+  "specifications": [
+    "Size: 12.7 x 25.4mm",
+    "Self-guiding triple flute design",
+    "Suitable for laminate or plywood overlay"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-46-90-shank-mounted-template-profiler.html|>
+## Trend 46/ 90° Shank Mounted Template Profiler
+
+{
+  "price": "from €61.34 inc VAT",
+  "description": "Profilers with shank mounted bearings for guidance, for use with router mounted above or below a table when following a template. Bearing guided cutters are suitable for both straight and curved work. For profiling and rebating applications only. NOT for plunge, cutting or grooving. A 3 mm approximate overlap should be left before copy profiling, also when using plastic laminate always allow laminate adhesive to dry before trimming. This avoids clogging the guide bearing.",
+  "availability": "In Stock",
+  "product_name": "Trend 46/ 90° Shank Mounted Template Profiler",
+  "specifications": [
+    "Select Option: 12.7 x 25.4mm, 12.7 x 9.5mm, 19.1 x 50mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date for refund or replacement"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-12in-two-flute-cutters-tct.html|>
+## Trend 1/2in Two Flute Cutters TCT
+
+{
+  "price": "from €49.75 inc VAT",
+  "description": "Two flute straight cutters produce a cleaner finish than the single flute cutters and are suitable for grooving, rebating, morticing and drilling. Use Tungsten Carbide tooling when working with abrasive materials such as chipboard, MDF, plywood and certain hardwoods.",
+  "availability": "In Stock",
+  "product_name": "Trend 1/2in Two Flute Cutters TCT",
+  "specifications": [
+    "1/2in Shank",
+    "T.C.T. Tooling",
+    "Suitable for grooving, rebating, morticing and drilling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-helical-plunge-bits-hsse.html|>
+## Trend Helical Plunge Bits HSSE
+
+{
+  "price": "from €34.83 inc VAT",
+  "description": "Tooling for use on webbed aluminium and UPVC extrusions by window and door fabricators. Cutters are produced in special high speed steel (HSSE) to ensure a clean cut and resist the abrasive nature of anodised aluminium extrusions. Cutters are designed to plunge and machine or mill lateral slots.",
+  "availability": "In Stock",
+  "product_name": "Trend Helical Plunge Bits HSSE",
+  "specifications": [
+    "One Flute helical Plunge-slotting bit",
+    "HSSE material",
+    "Designed for webbed aluminium and UPVC extrusions"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-replacement-bearings.html|>
+## Trend Replacement Bearings
+
+{
+  "price": "€8.45 inc VAT",
+  "description": "Replacement bearing to suit all Trend bearing guided router cutters. The Bearings are shielded to prevent penetration of dust and grease packed for life and should not be cleaned with solvent or lubricated as this will dissolve the grease and cause premature bearing failure.",
+  "availability": "In Stock",
+  "product_name": "Trend Replacement Bearings",
+  "specifications": [
+    "1/2in x 1/4 bore",
+    "5/8in x 1/4 bore"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-two-flute-cutters-tct-craft.html|>
+## Trend Two Flute Cutters TCT Craft
+
+{
+  "price": "from €15.41 inc VAT",
+  "description": "Two fluted Tungsten Carbide Tipped straight cutters which are suitable for a wide range of applications such as engraving, grooving, rebating and shallow morticing. They can be used on a wide range of materials such as softwoods, hardwoods, MDF, plywood and chipboard. All cutters have a bottom cut feature. When deep cuts are required, more than one pass should be taken. Shank: 1/4in.",
+  "availability": "In Stock",
+  "product_name": "Trend Two Flute Cutters TCT Craft",
+  "specifications": [
+    "Two fluted Tungsten Carbide Tipped straight cutters",
+    "Suitable for engraving, grooving, rebating and shallow morticing",
+    "Can be used on softwoods, hardwoods, MDF, plywood and chipboard",
+    "Bottom cut feature",
+    "Shank: 1/4in."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c116-tct-90-bearing-guided-trimmer-cutter.html|>
+## Trend C116 TCT 90° Bearing Guided Trimmer Cutter
+
+{
+  "price": "€31.99 inc VAT",
+  "description": "Self-guided trimming bits. Used for trimming plastic or plywood overlays. Also for copy profiling with a template. Raise cutter in stages to spread wear of cutting edges. TCT. Diameter = 12.7 mm Citting Length = 25.4 mm",
+  "availability": "In Stock",
+  "product_name": "Trend C116 TCT 90° Bearing Guided Trimmer Cutter",
+  "specifications": [
+    "Diameter = 12.7 mm",
+    "Cutting Length = 25.4 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-biscuit-joiner-sets-tct.html|>
+## Trend Biscuit Joiner Sets TCT
+
+{
+  "price": "from €49.64 inc VAT",
+  "description": "This TCT two wing slotting cutter is ideal for biscuit jointing sizes. The set is supplied with 3 ball bearing guides to suit the three sizes of biscuits available. A slightly longer cut than the length of the biscuit is required for ease of alignment during assembly. Supplied with instructions.",
+  "availability": "In Stock",
+  "product_name": "Trend Biscuit Joiner Sets TCT",
+  "specifications": [
+    "No. 0 - 45 mm x 15 mm x 4 mm, Suitable for 8-12 mm boards, Use bearing B19A 9.05 mm depth",
+    "No. 10 - 53 mm x 19 mm x 4 mm, Suitable for 13-18 mm boards, Use bearing B16A 10.6 mm depth",
+    "No. 20 - 58 mm x 23 mm x 4 mm, Suitable for 19 mm + board, Use bearing B127A",
+    "Cut length 4 mm, B 12.7 mm, B2 16.0 mm, B3 19.0 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-12-in-two-flute-cutters-extra-long-shank.html|>
+## Trend 1/2 in Two Flute Cutters Extra Long Shank
+
+{
+  "price": "from €36.08 inc VAT",
+  "description": "Trend Trade range two flute router cutters have extra long shanks and are designed to meet the demanding needs of the professional trademen. They have a 2mm micrograin Tungsten Carbide tips for cutting the most abrasive materials to give extra long life. They have a PTFE coat, indicated by distinctive black colouring and produce a clean finish to abrasive timbers such as chipboard, MDF, plywood and certain hardwoods. The dimensions are etched on the extra long 40mm shanks for quick identification and are suitable for mortice and worktops applications.",
+  "availability": "In Stock",
+  "product_name": "Trend 1/2 in Two Flute Cutters Extra Long Shank",
+  "specifications": [
+    "Extra long shank",
+    "2mm micrograin Tungsten Carbide tips",
+    "PTFE coat for clean finish",
+    "Suitable for mortice and worktops applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-bearing-guided-template-profile-cutter.html|>
+## Trend Bearing Guided Template Profile Cutter
+
+{
+  "price": "€37.88 inc VAT",
+  "description": "Trend Bearing Guided Template Profile Cutter for rebating and trimming edges. Extra care must be taken to avoid breakage of the cutter. Two flute carbide TCT tips for clean, professional finish on timber lippings, plastic laminates and veneers. Specially designed PTFE coated bodies to minimise heat and resin build up and Micro-granular Tungsten Carbide tips ensure a premium finish in hard and soft woods and abrasive man made boards such as ply, MDF and chipboard to meet the needs of the woodworker and tradesman for quality and performance. All Trend router cutters also have a safety ‘K’ mark insertion indicator on each shank ensure a quick and easy set up whether for hand held or table work.",
+  "availability": "In Stock",
+  "product_name": "Trend Bearing Guided Template Profile Cutter",
+  "specifications": [
+    "12.7mm x 9.5mm",
+    "Two flute carbide TCT tips",
+    "PTFE coated bodies",
+    "Micro-granular Tungsten Carbide tips",
+    "Safety ‘K’ mark insertion indicator"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c078-x-14-tc-round-over-two-flute-cutter-95mm-x-159mm.html|>
+## Trend C078 x 1/4 TC Round Over Two Flute Cutter 9.5mm x 15.9mm
+
+{
+  "price": "€71.04 inc VAT (€57.76 exc.vat)",
+  "description": "The Trend Craft Pro Round Over Cutter is used for edge detailing on curved and straight work with additional bearing for quirked, Ovolo detail option. Its 9.5mm radius will cut a full bullnose profile for detailing work on 19mm stock. 1/4in shank for easy control in smaller routers with 'K' mark shank to ensure safe working practices. Specially designed PTFE coated bodies to minimise heat and resin build-up and Micro-granular Tungsten Carbide tips ensure a premium finish in hard and soft woods, and abrasive man-made boards such as ply, MDF and chipboard, to meet the needs of the woodworker and tradesman for quality and performance.",
+  "availability": "In Stock",
+  "product_name": "Trend C078 x 1/4 TC Round Over Two Flute Cutter 9.5mm x 15.9mm",
+  "specifications": [
+    "9.5mm radius",
+    "1/4in shank",
+    "PTFE coated bodies",
+    "Micro-granular Tungsten Carbide tips"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c168-x-14tc-guided-trimmer-635-x-254mm.html|>
+## Trend C168 x 1/4TC Guided Trimmer 6.35 x 25.4mm
+
+{
+  "price": "€29.83 inc VAT (€24.25 exc.vat)",
+  "description": "The Trend C168 x 1/4TC Guided Trimmer has two flute carbide TCT tips. Used for trimming plastic or plywood overlays. Its 6.3mm diameter allows it to follow more intricate curves. 25.4mm cutting depth for replication of thin components with templates. Fitted with a bottom bearing guide for following an edge to trim laminates and veneers for a professional finish. PTFE coating to minimise heat and resin build-up, for increased cutter performance and longevity. All Trend router cutters also have a safety ‘K’ mark insertion indicator on each shank to ensure a quick and easy set up, whether for handheld or table work.",
+  "availability": "In Stock",
+  "product_name": "Trend C168 x 1/4TC Guided Trimmer 6.35 x 25.4mm",
+  "specifications": [
+    "Two flute carbide TCT tips",
+    "6.3mm diameter for intricate curves",
+    "25.4mm cutting depth",
+    "Bottom bearing guide for edge trimming",
+    "PTFE coating to minimise heat and resin build-up"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-bearing-guided-intumescent-strip-cutter.html|>
+## Trend Bearing Guided Intumescent Strip Cutter
+
+{
+  "price": "€61.34 inc VAT",
+  "description": "Trend Craft Pro Intumescent Strip Cutter cuts the perfect sized slot into door edges and door frames for fast, perfectly flush fitting of intumescent strip. A bearing guide ensures the correct depth and width is always achieved to meet Fire Regulations. PTFE coating to minimise heat and resin build-up, for increased cutter performance and longevity. All Trend router cutters also have a safety ‘K’ mark insertion indicator on each shank to ensure a quick and easy set up, whether for handheld or table work.",
+  "availability": "In Stock",
+  "product_name": "Trend Bearing Guided Intumescent Strip Cutter",
+  "specifications": [
+    "Select Option: 15 x 24mm",
+    "List Price: €67.40",
+    "You save: €6.06"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-bearing-guided-ovolo-and-round-over.html|>
+## Trend Bearing Guided Ovolo & Round Over
+
+{
+  "price": "€69.86 inc VAT",
+  "description": "Trend Rounding over, self-guiding TCT cutter for rounding over edges. Do not require a side fence. Supplied with two bearings, use the larger bearing for a round-over. If the cutter is lowered, a top quirk can be produced. Bullnose mouldings can also be produced by taking a second pass from the opposite side of the workpiece. Shank: 1/4in",
+  "availability": "In Stock",
+  "product_name": "Trend Bearing Guided Ovolo & Round Over",
+  "specifications": [
+    "11.1mm radius",
+    "Shank: 1/4in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-two-flute-cutters-craft-pro-12in-shank.html|>
+## Trend Two Flute Cutters Craft Pro 1/2in Shank
+
+{
+  "price": "from €46.16 inc VAT",
+  "description": "Suitable for a wide range of applications such as engraving, grooving, rebating and shallow mortising. Use on softwoods, hardwoods, MDF, plywood and chipboard. All cutters have a bottom cut feature.",
+  "availability": "In Stock",
+  "product_name": "Trend Two Flute Cutters Craft Pro 1/2in Shank",
+  "specifications": [
+    "12mm diameter",
+    "19mm diameter"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-21---x-14-tc--one-flute-cutter-16mm.html|>
+## Trend 2/1 X 1/4 Tc One Flute Cutter 1.6Mm
+
+{
+  "price": "€53.52 inc VAT (€43.51 exc.vat)",
+  "description": "2/1 X 1/4 Tc One Flute Cutter 1.6Mm",
+  "availability": "Out of Stock",
+  "product_name": "Trend 2/1 X 1/4 Tc One Flute Cutter 1.6Mm",
+  "specifications": [
+    "TRE2114TC : €53.52",
+    "List: €58.81",
+    "You save €5.29"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-212x14tc-single-flute-cutter-27mm-dia.html|>
+## Trend 2/12X1/4Tc Single Flute Cutter 2.7Mm Dia
+
+{
+  "price": "€49.75 inc VAT (€40.45 exc.vat)",
+  "description": "2/12X1/4Tc Single Flute Cutter 2.7Mm Dia",
+  "availability": "In Stock",
+  "product_name": "Trend 2/12X1/4Tc Single Flute Cutter 2.7Mm Dia",
+  "specifications": [
+    "TRE21214TC : €49.75",
+    "List: €54.66",
+    "You save €4.91"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-3213x12tc-stair-trenching-cutter.html|>
+## Trend 32/13X1/2Tc Stair Trenching Cutter
+
+{
+  "price": "€107.06 inc VAT (€87.04 exc.vat)",
+  "description": "32/13X1/2Tc Stair Trenching Cutter",
+  "availability": "Out of Stock",
+  "product_name": "Trend 32/13X1/2Tc Stair Trenching Cutter",
+  "specifications": [
+    "TRE321312TC : €107.06",
+    "List: €117.65",
+    "You save €10.59"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-32-x-14-tc-two-flute-router-bit.html|>
+## Trend 3/2 x 1/4 TC Two Flute Router Bit
+
+{
+  "price": "€49.52 inc VAT (€40.26 exc.vat)",
+  "description": "3/2 x 1/4 TC Two Flute Router Bit",
+  "availability": "Out of Stock",
+  "product_name": "Trend 3/2 x 1/4 TC Two Flute Router Bit",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-361-x-14tc-two-flute-router-bit.html|>
+## Trend 3/61 x 1/4TC Two Flute Router Bit
+
+{
+  "price": "€48.56 inc VAT (€39.48 exc.vat)",
+  "description": "3/61 x 1/4TC Two Flute Router Bit",
+  "availability": "Out of Stock",
+  "product_name": "Trend 3/61 x 1/4TC Two Flute Router Bit",
+  "specifications": [
+    "TRE36114TC : €48.56",
+    "List: €53.37",
+    "You save €4.81"
+  ]
+}
+

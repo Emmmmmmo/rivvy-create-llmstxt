@@ -1,0 +1,17 @@
+<|https://www.mydiy.ie/products/faithfull-tile-spacer-long-leg.html|>
+## Faithfull Tile Spacer Long Leg
+
+{
+  "price": "from €4.75 inc VAT",
+  "description": "The Faithfull Long Leg Tile Spacers are ideal for most tiling applications. These versatile spacers can be easily snapped when ‘T’ joints are required and may be easily removed once the adhesive is set.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Tile Spacer Long Leg",
+  "specifications": [
+    "Available in various sizes: 2mm Bag of 250, 2mm Bag of 500, 2mm Tub of 1000, 3mm Bag of 250, 3mm Tub of 100, 5mm Bag of 250, 5mm Tub of 1000",
+    "Ideal for most tiling applications",
+    "Can be easily snapped for 'T' joints",
+    "Easily removable once adhesive is set"
+  ],
+  "product_category": "Tiling Tools"
+}
+

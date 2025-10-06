@@ -1,0 +1,17 @@
+<|https://www.mydiy.ie/products/j-b-weld-fiberweld-pipe-repair-cast-284g.html|>
+## J-B Weld FiberWeld™ Pipe Repair Cast 28.4g
+
+{
+  "price": "€15.98 inc VAT (€12.99 exc.vat)",
+  "description": "J-B Weld FiberWeld™ Pipe Repair Cast is a high-strength fibreglass wrap, impregnated with a specially formulated resin to repair pipes up to 1in diameter. When activated by water, the product forms a strong, waterproof bond. Sets in just 5-10 minutes and cures within 20 minutes. Can be used by DIY users to achieve professional results. Professionals can use the kit to make seamless repairs. Great for repairs on copper, cast iron, PVC, abs, galvanised steel, rubber and more! The kit includes an epoxy putty stick for additional sealing strength.",
+  "availability": "In Stock",
+  "product_name": "J-B Weld FiberWeld™ Pipe Repair Cast 28.4g",
+  "specifications": [
+    "High-strength fibreglass wrap",
+    "Repairs pipes up to 1in diameter",
+    "Water-activated for strong bond",
+    "Sets in 5-10 minutes, cures in 20 minutes",
+    "Includes epoxy putty stick for sealing"
+  ]
+}
+

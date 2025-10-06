@@ -1,0 +1,39 @@
+<|https://www.mydiy.ie/products/alm-manufacturing-ch015-chainsaw-safety-gloves---left-hand-protection.html|>
+## ALM Manufacturing CH015 Chainsaw Safety Gloves - Left Hand protection
+
+{
+  "price": "€24.92 inc VAT (€20.26 exc.vat)",
+  "description": "The ALM Manufacturing CH015 Chainsaw Safety Gloves are specially constructed for protective use with all electric and petrol chainsaws. They are made from high quality leather with protection built in to the left hand glove. Classification: Class 0, 16m/s. Confrom to: EN388 1994, EN420 1994, prEN381-4 1997, prEN381-7 1997, PP-89/686 EEC, 96/58 EEC, AFS1996-",
+  "availability": "In Stock",
+  "product_name": "ALM Manufacturing CH015 Chainsaw Safety Gloves - Left Hand protection",
+  "specifications": [
+    "Classification: Class 0, 16m/s",
+    "Confrom to: EN388 1994",
+    "Confrom to: EN420 1994",
+    "Confrom to: prEN381-4 1997",
+    "Confrom to: prEN381-7 1997",
+    "Confrom to: PP-89/686 EEC",
+    "Confrom to: 96/58 EEC",
+    "Confrom to: AFS1996-"
+  ],
+  "product_category": "Safety Gear"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-swift-over-the-glasses.html|>
+## Bolle Safety SWIFT Over-the-Glasses
+
+{
+  "price": "€6.81 inc VAT",
+  "description": "Bolle Safety SWIFT Over-the-Glasses are equipped with anti-fog and anti-scratch PLATINUM Lite coating, it ensures crystal-clear vision in all situations. Its wide, lightweight, and well-balanced frame fits comfortably over most prescription glasses while offering optimal upper, lower, and lateral protection. The sleek, contoured temples not only enhance comfort but also provide increased lateral coverage, suitable for various equipment needs. As part of our Go Green range, SWIFT OTG stands out for its commitment to sustainability. Crafted from 33% recycled polycarbonate, by weight, and entirely recyclable, thanks to its mono-material design without any metal parts, it exemplifies eco-friendly manufacturing without compromising quality or performance.",
+  "availability": "In Stock",
+  "product_name": "Bolle Safety SWIFT Over-the-Glasses",
+  "specifications": [
+    "Anti-fog and anti-scratch PLATINUM Lite coating",
+    "Fits comfortably over most prescription glasses",
+    "Crafted from 33% recycled polycarbonate",
+    "Entirely recyclable",
+    "Lightweight and well-balanced frame"
+  ],
+  "product_category": "Safety Gear"
+}
+

@@ -1,0 +1,1112 @@
+<|https://www.mydiy.ie/products/tetrion-fillers-all-purpose-ready-mix-fillers.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tetrion-fillers-easy-on-filling-and-jointing-compound-sack-5kg.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tetrion-fillers-powerfil-ready-mix-filler.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tetrion-fillers-tsf200-hard-as-rock-filler-2kg.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/everbuild-one-hour-caulk-white-125.html|>
+## Everbuild One Hour Caulk White 125
+
+{
+  "price": "from €4.13 inc VAT",
+  "description": "Everflex One Hour Caulk / Flexible Decorators Filler is a fast drying flexible decorators filler and sealant which can be overpainted with all paint types, or covered over with wallpaper. No sanding down is required.",
+  "availability": "In Stock",
+  "product_name": "Everbuild One Hour Caulk White 125",
+  "specifications": [
+    "Fast drying - can be overpainted in one hour",
+    "Permanently flexible",
+    "Easy water clean up",
+    "Excellent slump resistance",
+    "For sealing and filling cracks and gaps prior to decorating",
+    "For use around skirting boards, ceiling cornices, window and door frames, stair treads and risings and fixtures adjoining walls",
+    "Can be used to fill damage plaster"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-trade-decorators-caulk.html|>
+## Polycell Trade Decorators Caulk
+
+{
+  "price": "from €4.99 inc VAT",
+  "description": "The Polycell Trade Decorators Caulk is a simple to use acrylic sealant ideal for internal or external use around skirting, stairs, windows and doors where movement occurs. It gives a smooth finish that does not require sanding.",
+  "availability": "In Stock",
+  "product_name": "Polycell Trade Decorators Caulk",
+  "specifications": [
+    "Available in 290ml and 380ml options",
+    "Acrylic sealant for internal or external use",
+    "Smooth finish that does not require sanding"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-one-strike-fillers.html|>
+## Everbuild One Strike Fillers
+
+{
+  "price": "from €6.69 inc VAT",
+  "description": "Everbuild One Strike is a revolutionary ready-mixed lightweight filler for the preparation of numerous surfaces prior to painting or wallpapering. Based on high strength lightweight polymeric fillers, the product outperforms conventional fillers in most applications. Designed for professional and DIY use. One Strike fills in on go, there is no need to build up layers of filler - fills up to 75 mm deep in one application. It is easy to use with the lightweight paste being incredibly easy to apply. No sanding is required as it finishes to a smooth surface with no sagging as the lightweight properties of ONE STRIKE prevent sagging even on ceilings. It is quick drying allowing it to be ready to paint/paper in just 30 minutes and is overpaintable with most solvent based and emulsion paints and is overstainable. Suitable for internal or external use and dries brilliant white. Fills gaps and holes in: Plaster, Brick, Stone, Wood, Render.",
+  "availability": "In Stock",
+  "product_name": "Everbuild One Strike Fillers",
+  "specifications": [
+    "Available in 1 Litre, 2.5 Litre, 500ml",
+    "Quick drying, ready to paint in 30 minutes",
+    "Fills gaps and holes in various surfaces",
+    "No sanding required, smooth finish",
+    "Suitable for internal and external use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-all-purpose-ready-mixed-filler.html|>
+## Everbuild All Purpose Ready Mixed Filler
+
+{
+  "price": "from €6.99 inc VAT",
+  "description": "All Purpose Ready Mixed Filler is an easy-to-use, ready mixed filler suitable for both interior and exterior use. When applied as directed, the filler dries to a smooth but tough crack resistant sandable finish, which may be painted, papered or stained.",
+  "availability": "In Stock",
+  "product_name": "Everbuild All Purpose Ready Mixed Filler",
+  "specifications": [
+    "Heavy-duty tough filler - interior or exterior use",
+    "Ready mixed formula - apply straight from tub",
+    "Overpaintable with most solvent based and emulsion paints",
+    "Overstainable",
+    "Dries white",
+    "Fills gaps and holes in plaster, brick, stone, wood, render"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-all-purpose-powder-filler.html|>
+## Everbuild All Purpose Powder Filler
+
+{
+  "price": "from €12.02 inc VAT",
+  "description": "All Purpose Powder Filler is a high strength powder filler which is the ideal choice for most indoor repairs. When mixed with water, the filler is ready to apply in one minute and dries in about one hour to a smooth sandable finish. Due to the high levels of added PVA powder, this filler will not shrink or crack and is strong enough to accept nails and screws.",
+  "availability": "In Stock",
+  "product_name": "Everbuild All Purpose Powder Filler",
+  "specifications": [
+    "Heavy-duty tough filler - will accept nails or screws when dry.",
+    "Non Shrink.",
+    "Overpaintable with most solvent based and emulsion paints.",
+    "Overstainable.",
+    "Indoor/outdoor repairs to plaster, plasterboard, brick, render, wood, stone and most other building materials."
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-ready-mix-fill-once.html|>
+## Everbuild Ready Mix Fill Once
+
+{
+  "price": "from €11.34 inc VAT",
+  "description": "EVERBUILD FILL ONCE is a revolutionary ready mixed filler made with Expanded Micro-Sphere Technology (EMT) making it ideal for filling large or small holes in ONE application without the need for building up of layers, so jobs can be finished in over half the time! So APPLY ONCE – JOB DONE! Formulated to outperform conventional fillers, FILL ONCE provides a smooth, fine finish that won’t shrink back after setting and will only require minimal or no sanding. It is also quick drying. FILL ONCE will set hard so it can support nails or screws directly into solid substrates. FILL ONCE is ideal for repairs to plaster, wood, brick, stone and rendering.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Ready Mix Fill Once",
+  "specifications": [
+    "Available in 325ml and 650ml options",
+    "Quick drying",
+    "Supports nails or screws directly into solid substrates",
+    "Ideal for repairs to plaster, wood, brick, stone, and rendering"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-onetime-filler.html|>
+## Stanley Tools Onetime Filler
+
+{
+  "price": "from €14.50 inc VAT",
+  "description": "Red Devil Onetime Filler is a specially formulated, premium, lightweight filler which comes ready mixed. It spreads easily, is paintable within minutes and won't shrink or crack. No sanding is required. The filler is suitable for interior and exterior use and cleans up easily with water.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Onetime Filler",
+  "specifications": [
+    "1 Litre option available",
+    "Paintable within minutes",
+    "No sanding required",
+    "Suitable for interior and exterior use",
+    "Cleans up easily with water"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-smooth-finish-5-minute-fillers.html|>
+## Ronseal Smooth Finish 5 Minute Fillers
+
+{
+  "price": "from €7.40 inc VAT",
+  "description": "Next generation filler based on hollow glass microspheres, it has a ultalight highly structured paste with excellent application and drying properties. Need to make strong repairs to plaster, stone, concrete or wood? Ronseal Multi-Purpose Smooth Finish Filler is the ultimate, high performance interior filler. It gives excellent adhesion, fills gaps quick and easy whilst giving a long lasting repairs that won't shrink or crack. Macromolecular structure which gives virtually no shrinkage. Excellent for last minute repairs. For use in repairing plaster, stone, concrete or wood. Extremely smooth finish. Ronseal applicator included. Very good adhesion. Areas of use: Interior walls and ceilings. Application: Filling Knife. Surface dry in 5 minutes, ready to decorate in 15. Drying time approx: 2 hours. Protection level: High. Please Note : Will not accept drills, screws or nails.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Smooth Finish 5 Minute Fillers",
+  "specifications": [
+    "Tub 290 ml",
+    "Tub 600 ml",
+    "Surface dry in 5 minutes",
+    "Ready to decorate in 15 minutes",
+    "Drying time approx: 2 hours",
+    "Excellent adhesion",
+    "Very good adhesion",
+    "Macromolecular structure which gives virtually no shrinkage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-smooth-finish-exterior-ready-mix-fillers.html|>
+## Ronseal Smooth Finish Exterior Ready Mix Fillers
+
+{
+  "price": "from €5.85 inc VAT",
+  "description": "A general purpose filler based on water resistant Acrylic Polymer, fine Dolomite fillers and slow release active ingredients. Both For interior and exterior use. For use in repairing plaster, stone, concrete or wood. Long lasting repair. Extremely smooth finish. Ronseal Applicator included. Buttery texture. Easy to sand. Fills holes up to 20mm deep. Can be drilled once dried hard. Available in Tub or Tube format. Areas of use: Exterior surfaces. Application: Filling Knife. Drying time: 1 - 2 hours. Protection Level: High.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Smooth Finish Exterior Ready Mix Fillers",
+  "specifications": [
+    "Available in Tub or Tube format",
+    "Fills holes up to 20mm deep",
+    "Drying time: 1 - 2 hours",
+    "Application: Filling Knife",
+    "Protection Level: High"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-advanced-polyfilla.html|>
+## Polycell Advanced Polyfilla
+
+{
+  "price": "from €8.49 inc VAT",
+  "description": "Polycell Advanced Polyfilla is a high performance, lightweight filler for general interior repairs. The quick drying formulation will not shrink or sag and has been specially developed to allow the filling of holes of up to 50mm deep in one go. Advanced Polyfilla has a smooth texture, meaning that it does not have to be sanded and will not show once painted. Ideal for plaster, plasterboard, ceiling coving and mouldings.",
+  "availability": "In Stock",
+  "product_name": "Polycell Advanced Polyfilla",
+  "specifications": [
+    "High performance, lightweight filler",
+    "Quick drying formulation",
+    "Fills holes up to 50mm deep",
+    "Smooth texture, no sanding required",
+    "Ideal for plaster, plasterboard, ceiling coving and mouldings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-crack-free-ceilings.html|>
+## Polycell Crack Free Ceilings
+
+{
+  "price": "from €35.85 inc VAT",
+  "description": "Polycell Crack-Free Ceilings is a great way to restore cracked ceilings to a smooth, new-looking finish. Its flexible paint formulation uses Polyfilla technology to not only permanently cover cracks and stains, but prevent them from reappearing. For indoor use on plaster, plasterboard and masonry. Drying time: Surface dry in 2-3 hours (depending on conditions).",
+  "availability": "In Stock",
+  "product_name": "Polycell Crack Free Ceilings",
+  "specifications": [
+    "Select Option: Smooth Matt 2.5 Litre, Smooth Matt 5 Litre, Smooth Silk 2.5 Litre",
+    "Drying time: Surface dry in 2-3 hours (depending on conditions)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-fine-surface-filler.html|>
+## Polycell Fine Surface Filler
+
+{
+  "price": "from €7.70 inc VAT",
+  "description": "Polycell Fine Surface Polyfilla is an easy way to fill fine cracks of up to 2mm. It produces a professional, glass smooth surface, and is ideal for minor blemishes and wood grain. The Polyfilla is quick drying, and touch dry in 30-60 minutes (depending on conditions). Once dry, it can be painted over to produce a flawless finish. Suitable for indoor use on wood and plaster.",
+  "availability": "In Stock",
+  "product_name": "Polycell Fine Surface Filler",
+  "specifications": [
+    "Select Option: Tub 500 g, Tube 400 g",
+    "Quick drying, touch dry in 30-60 minutes",
+    "Ideal for indoor use on wood and plaster"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-smooth-finish-multi-purpose-powder-fillers.html|>
+## Ronseal Smooth Finish Multi-purpose Powder Fillers
+
+{
+  "price": "from €5.82 inc VAT",
+  "description": "Need to make strong repairs to plaster, stone, concrete or wood? Ronseal Multi-Purpose Powder Smooth Finish Filler is the ultimate, high performance filler. This filler gives excellent adhesion, fills gaps up to 40mm deep. A blend of superfine chalk and white plaster with added powdered polymer. Areas of use: Walls and ceilings. Application: Filling Knife. Drying time: 1-2 hour. Protection level: High. Can be drilled once dried hard. Comes in air tight bag. Easy to mix. Buttery texture when mixed. Extremely easy to sand. Various sizes available.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Smooth Finish Multi-purpose Powder Fillers",
+  "specifications": [
+    "Interior Wall Powder Filler 2 kg",
+    "Interior Wall Powder Filler 500 g",
+    "Interior Wall Powder Filler 5Kg",
+    "Wall Powder Filler 1Kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-multi-purpose-polyfilla-powder.html|>
+## Polycell Multi Purpose Polyfilla Powder
+
+{
+  "price": "from €5.99 inc VAT",
+  "description": "Polycell Multi Purpose Polyfilla mixes to a smooth, creamy consistency. Special binders give guaranteed adhesion and a fill which will not shrink or crack. It is the ideal versatile filler, which is suitable for a variety of jobs, even large areas. Very easy to use. Tools required: filling knife, mixing bowl and sand paper. Drying time: 1-2 hours. Suitable for indoor use only.",
+  "availability": "In Stock",
+  "product_name": "Polycell Multi Purpose Polyfilla Powder",
+  "specifications": [
+    "1.8 kg",
+    "450 g",
+    "900 g",
+    "Drying time: 1-2 hours",
+    "Suitable for indoor use only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-smooth-finish-multipurpose-ready-mix-fillers.html|>
+## Ronseal Smooth Finish Multipurpose Ready Mix Fillers
+
+{
+  "price": "from €4.92 inc VAT",
+  "description": "The Ronseal Multi Purpose Wall Filler is a general purpose filler, based on Acrylic Polymer and fine Dolomite fillers, for interior and exterior use,and Surface dry in 1 to 2 hours. Ronseal multi-purpose produces an extremely smooth finish and has excellent application properties coupled with strength and flexibility. Ideal for making repairs to plaster, stone, concrete or wood. It is easy to sand and gives excellent adhesion, also gives a long lasting repairs that won't shrink or crack. Available in Tub or Tube format. Ronseal applicator included. Can be drilled once dried hard. Areas of use: Interior walls and ceilings. Application: Filling Knife. Drying time approx: 2 hours. Protection level: High. Available in various sizes.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Smooth Finish Multipurpose Ready Mix Fillers",
+  "specifications": [
+    "Available in various sizes",
+    "Surface dry in 1 to 2 hours",
+    "Easy to sand",
+    "Excellent adhesion",
+    "Long lasting repairs that won't shrink or crack",
+    "Ideal for plaster, stone, concrete or wood repairs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-multi-purpose-polyfilla-ready-mixed.html|>
+## Polycell Multi Purpose Polyfilla Ready Mixed
+
+{
+  "price": "from €5.47 inc VAT",
+  "description": "Polycell Multi Purpose Polyfilla is ready mixed for a smooth, creamy consistency. Special binders give guaranteed adhesion and a fill which will not shrink or crack. Suitable for indoor or outdoor use on plaster, masonry, concrete and brickwork. Drying time: surface dry in 1-2 hours.",
+  "availability": "In Stock",
+  "product_name": "Polycell Multi Purpose Polyfilla Ready Mixed",
+  "specifications": [
+    "Available in multiple sizes: 1 kg, 330 g, 600 g, Ready Mixed 330g + 20% Free",
+    "Surface dry in 1-2 hours",
+    "Suitable for indoor or outdoor use on plaster, masonry, concrete and brickwork"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-plaster-repair-polyfilla.html|>
+## Polycell Plaster Repair Polyfilla
+
+{
+  "price": "from €4.99 inc VAT",
+  "description": "Polycell Plaster Repair Polyfilla is specially formulated to be much easier to apply than ordinary plaster. It is ready mixed with a light consistency which will not slump, shrink or crack and adheres strongly. It smooths out easily to a ready-to-decorate finish. For indoor use on plaster. Drying time: 24 hours +.",
+  "availability": "In Stock",
+  "product_name": "Polycell Plaster Repair Polyfilla",
+  "specifications": [
+    "450 g",
+    "Smooth",
+    "2.5 Litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-smooth-finish-quick-drying-fillers.html|>
+## Ronseal Smooth Finish Quick Drying Fillers
+
+{
+  "price": "from €4.92 inc VAT",
+  "description": "Ronseal Smooth Finish Quick Drying Multi Purpose Filler is ideal for quick, touch up repairs. Its quick drying formula means its ideal for small, last minute interior repairs. Can be used to repair plaster, stone, concrete and wood. Its touch dry in 30 minutes. Fills holes up to 10mm deep, and can be drilled once dried hard. Ronseal applicator included.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Smooth Finish Quick Drying Fillers",
+  "specifications": [
+    "Multi Purpose Filler 100 g",
+    "Multi Purpose Filler 330 g",
+    "Multi Purpose Filler 600 g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-multi-purpose-polyfilla-quick-drying.html|>
+## Polycell Multi Purpose Polyfilla Quick Drying
+
+{
+  "price": "from €5.82 inc VAT",
+  "description": "This Polycell multi-purpose Polyfilla has all the qualities of original Polyfilla in a quick drying format. It is especially handy for small, last-minute repairs. The filler is ready to paint in minutes, and is surface dry in as little 5 minutes (depending on conditions). Ideal for wood, plaster, masonry and stone. For indoor use.",
+  "availability": "In Stock",
+  "product_name": "Polycell Multi Purpose Polyfilla Quick Drying",
+  "specifications": [
+    "330 g",
+    "1 Kg",
+    "500 g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-smoothover-damaged--textured-walls.html|>
+## Polycell SmoothOver Damaged / Textured Walls
+
+{
+  "price": "from €54.65 inc VAT",
+  "description": "Polycell SmoothOver Polyfilla for Damaged & Textured Walls is the easy way to create a perfect foundation for a great finish. Its special self-levelling formula fills between ridges and bumps and covers cracks and large areas of damage, giving a smooth finish that’s ready to paint.",
+  "availability": "In Stock",
+  "product_name": "Polycell SmoothOver Damaged / Textured Walls",
+  "specifications": [
+    "Available in 2.5 Litre and 5 Litre options",
+    "Self-levelling formula",
+    "Fills between ridges and bumps",
+    "Covers cracks and large areas of damage",
+    "Ready to paint finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-smooth-finish-super-flexible-fillers.html|>
+## Ronseal Smooth Finish Super Flexible Fillers
+
+{
+  "price": "€6.56 inc VAT",
+  "description": "Ronseal Smooth Finish Super Flexible Filler provides flexible repairs between two surfaces. Ideal for interior door frames and skirting boards. The formula flexes and stretches where movement occurs with no cracking for long lasting repair. Fills gaps up to 6mm wide, and over paintable in 1 hour.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Smooth Finish Super Flexible Fillers",
+  "specifications": [
+    "Select Option: Cartridge 300 ml, Tube 330 g",
+    "Fills gaps up to 6mm wide",
+    "Over paintable in 1 hour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-weatherproof-polyfilla.html|>
+## Polycell Weatherproof Polyfilla
+
+{
+  "price": "from €7.31 inc VAT",
+  "description": "Polycell Weatherproof Polyfilla produces a tough exterior filler, and is suitable for general outdoor filling jobs. The formula sets in 60 minutes to a grey weatherproof finish. It will accept bolts and screws and will not shrink or crack.",
+  "availability": "In Stock",
+  "product_name": "Polycell Weatherproof Polyfilla",
+  "specifications": [
+    "1.75 kg",
+    "Tube 330 g",
+    "Sets in 60 minutes",
+    "Weatherproof finish",
+    "Accepts bolts and screws",
+    "Will not shrink or crack"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tetrion-fillers-all-purpose-powder-fillers.html|>
+## Tetrion Fillers All Purpose Powder Fillers
+
+{
+  "price": "from €4.37 inc VAT",
+  "description": "Tetrion All Purpose Powder Filler is the original all purpose filler for inside and outside use. It levels and fills many household materials, including plaster, wood, masonry, concrete and brickwork, giving a tough, smooth and permanent finish. For internal and external use, can be used on plaster, brick, wood, stone, concrete, render and plasterboard. Dry time to sand: 2 hours. Dry time to paint: 24 hours.",
+  "availability": "In Stock",
+  "product_name": "Tetrion Fillers All Purpose Powder Fillers",
+  "specifications": [
+    "Select Option: Sack 10 kg, Sack 5 kg, Standard 500 g",
+    "Dry time to sand: 2 hours",
+    "Dry time to paint: 24 hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-isopon-ultimate-filler-560ml.html|>
+## U-POL ISOPON Ultimate Filler 560ml
+
+{
+  "price": "€26.84 inc VAT (€21.82 exc.vat)",
+  "description": "This ISOPON Ultimate filler is a high quality 2-part universal filler. Ideal for filling, sealing and repairing a wide variety of interior and outdoor surfaces including wood, concrete, masonry and metal. Advance resin technology offers excellent adhesion, while exceptionally smooth and easy to sand.",
+  "availability": "In Stock",
+  "product_name": "U-POL ISOPON Ultimate Filler 560ml",
+  "specifications": [
+    "Coverage: 1,225cm² at a 3.5mm depth."
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-isopon-metal-fix-250ml.html|>
+## U-POL ISOPON Metal Fix 250ml
+
+{
+  "price": "€15.77 inc VAT (€12.82 exc.vat)",
+  "description": "ISOPON Metal Fix is an all-purpose filler, compatible with all metal surfaces including steel, aluminium, and alloys. This 2 part polyester paste contains aluminium for extra toughness and offers excellent adhesion. Metal Fix is water, oil and chemical resistant. Its also resistance to temperatures up to 120°C. Suitable for all metal surfaces, easy to shape and sand.",
+  "availability": "In Stock",
+  "product_name": "U-POL ISOPON Metal Fix 250ml",
+  "specifications": [
+    "Coverage: 560cm² at a 3.5mm depth."
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-pro-fill-500g.html|>
+## Everbuild Pro Fill 500g
+
+{
+  "price": "€18.86 inc VAT (€15.33 exc.vat)",
+  "description": "Everbuild Pro-Fill is a 2-part high performance filler for joinery, decorating and building applications. It is suitable for repairing most building materials including concrete, metal, wood and GRP. Pro-Fill has a rapid-cure, non-tack surface which is easy to sand. Colour: Light Grey. Size: 500g.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Pro Fill 500g",
+  "specifications": [
+    "2-part high performance filler",
+    "Suitable for concrete, metal, wood, and GRP",
+    "Rapid-cure, non-tack surface",
+    "Easy to sand",
+    "Colour: Light Grey",
+    "Size: 500g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-instant-filler-tube-white-330g.html|>
+## Everbuild Instant Filler Tube White 330g
+
+{
+  "price": "€5.30 inc VAT (€4.31 exc.vat)",
+  "description": "The Everbuild EVBREADYINST All Purpose Instant Filler is an easy to use ready mixed filler with quick drying properties, which makes the product ideal for instant repairs to minor surface imperfections in most porous surfaces e.g. plaster, wood, render etc. When applied as directed, the filler dries to a smooth but tough crack resistant sandable finish that may be painted, papered or stained. This filler is suitable for both internal and external use.",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild Instant Filler Tube White 330g",
+  "specifications": [
+    "Extremely quick drying formula",
+    "Interior or Exterior Use",
+    "Overpaintable with most solvent based and emulsion paints",
+    "Overstainable",
+    "Dries white",
+    "Fills gaps and holes in plaster, brick, stone, wood, render"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-fine-surface-filler-ready-mix-600g.html|>
+## Everbuild Fine Surface Filler Ready Mix 600g
+
+{
+  "price": "€6.10 inc VAT (€4.96 exc.vat)",
+  "description": "Everbuild Fine Surface Filler is an easy to use ready mixed filler for filling small holes and surface imperfections in most porous surfaces eg plaster, wood, render etc. When applied as directed, the filler dries to a smooth but tough crack resistant sandable finish that may be painted, papered or stained.",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild Fine Surface Filler Ready Mix 600g",
+  "specifications": [
+    "Interior or Exterior use",
+    "Ready mixed formula - apply straight from tub",
+    "Overpaintable with most solvent based and emulsion paints",
+    "Overstainable",
+    "Minor indoor or outdoor repairs to plaster, plasterboard, brick, render, wood, stone and most other building materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-filler-coat-5-litre.html|>
+## Everbuild Filler Coat 5 Litre
+
+{
+  "price": "€108.76 inc VAT (€88.42 exc.vat)",
+  "description": "Everbuild FILLCOAT5 Filler Coat is a thick base coat for use on imperfect surfaces like walls and ceilings etc, prior to painting. It will simply cover and seal in one application. FILLCOAT5 is supplied as 5 Litres in a plastic re-sealable tub for easy use and storage. This Everbuild FILLCOAT5 hides and obliterates areas that have been filled badly at some stage, as well as covering and preventing the reappearance of hairline cracks. This Everbuild product works like a roll-on filler, the thick formula completely covers strong colours and is ideal for use on walls and ceilings.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Filler Coat 5 Litre",
+  "specifications": [
+    "5 Litres",
+    "Thick base coat for imperfect surfaces",
+    "Covers and seals in one application",
+    "Hides and obliterates areas filled badly",
+    "Prevents reappearance of hairline cracks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-fill-and-skim-tub-5-litre.html|>
+## Everbuild Fill & Skim Tub 5 Litre
+
+{
+  "price": "€71.62 inc VAT (€58.23 exc.vat)",
+  "description": "Everbuild Fill & Skim is a revolutionary ready-mixed plaster substitute, formulated using lightweight polymer spheres to produce an easy-to-spread and smooth product which enables all tradesmen and DIY enthusiasts to produce a quality finish, normally only associated with a time served plasterer. Fill & Skim dries to a hard but flexible finish and is therefore suitable for wall or ceiling application. It will fill holes down to 25mm in one application. It is the ideal choice for covering textured paint surfaces and for restoring old pitted/uneven plastered walls/ceilings in just one quick application. Fill & Skim is also the ideal choice for electricians, plumbers, joiners and general builders as a one coat patching plaster for small repair jobs, e.g. over recessed cable trunking and around holes in walls where piping/sockets have been installed. Once dry, Fill & Skim will not shrink, sag or crack and is ready to paint or paper 24 hours after application and finishes smooth and requires little or no sanding. It can be used for internal repairs over plaster, wood, brick, stone and rendering.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Fill & Skim Tub 5 Litre",
+  "specifications": [
+    "Ready-mixed plaster substitute",
+    "Lightweight polymer spheres",
+    "Fills holes down to 25mm",
+    "Suitable for wall or ceiling application",
+    "Dries to a hard but flexible finish",
+    "Ready to paint or paper 24 hours after application"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-flexible-filler-squeezy-tube-275ml.html|>
+## Everbuild Flexible Filler Squeezy Tube 275ml
+
+{
+  "price": "€7.61 inc VAT (€6.19 exc.vat)",
+  "description": "Flexible Decorators Filler is a fast drying, acrylic based filler and sealant that remains permanently flexible. Can be overpainted with most paint types or covered over with wallpaper. No sanding down is required.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Flexible Filler Squeezy Tube 275ml",
+  "specifications": [
+    "Fast drying",
+    "Acrylic based filler and sealant",
+    "Permanently flexible",
+    "Can be overpainted",
+    "No sanding required"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-fix-and-grout-tube-330g.html|>
+## Polycell Fix & Grout Tube 330g
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "The Polycell PLCFNG330GS Fix & Grout is brilliant white, has a waterproof finish and can be used straight from the tube. It is ideal for tiling repairs such as loose or broken tiles, for grouting or tiling a small area.",
+  "availability": "In Stock",
+  "product_name": "Polycell Fix & Grout Tube 330g",
+  "specifications": [
+    "330g tube",
+    "Brilliant white",
+    "Waterproof finish",
+    "Ideal for tiling repairs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-smoothover-tool-set-roller-and-spreader.html|>
+## Polycell SmoothOver Tool Set Roller & Spreader
+
+{
+  "price": "€15.53 inc VAT (€12.63 exc.vat)",
+  "description": "The Polycell Smooth Over Tool Set comprises of a Roller & Spreader designed for use with Polycell Smooth Over range. The SmoothOver Roller is made from foam for easy loading and application. It ensures an even coverage and finish. The SmoothOver Smoothing Wiper has a comfortable soft-grip handle for easy-glide, and a flexible edge designed to smooth the surface without leaving tramlines, if there are any they can be easily sanded down once the product has dried.",
+  "availability": "In Stock",
+  "product_name": "Polycell SmoothOver Tool Set Roller & Spreader",
+  "specifications": [
+    "Product Code: PLCSOTS2",
+    "List Price: €18.47",
+    "You save: €2.94"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-trade-quick-dry-polyfilla-tube-330g.html|>
+## Polycell Trade Quick Dry Polyfilla Tube 330g
+
+{
+  "price": "€6.69 inc VAT (€5.44 exc.vat)",
+  "description": "Polycell Trade Quick Dry Polyfilla is an instant filler that is suitable for plaster, wood and masonry. It is ideal for small interior jobs and filling hairline cracks. It will not shrink or crack and sands easily.",
+  "availability": "In Stock",
+  "product_name": "Polycell Trade Quick Dry Polyfilla Tube 330g",
+  "specifications": [
+    "Instant filler suitable for plaster, wood, and masonry",
+    "Ideal for small interior jobs and filling hairline cracks",
+    "Will not shrink or crack",
+    "Sands easily"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-smooth-finish-big-hole-filler-12-litre.html|>
+## Ronseal Smooth Finish Big Hole Filler 1.2 Litre
+
+{
+  "price": "€16.45 inc VAT (€13.37 exc.vat)",
+  "description": "A next generation lightweight interior and exterior filler based on acrylic polymer and hollow ceramic microspheres. Robust macromolecular structure which gives virtually no shrinkage. Filling deep holes without sagging isn't easy but with Ronseal BHF12L Big Hole Smooth Finish Filler it is. Specially designed to fill any hole up to 50mm deep, it's a high performance filler that's easy to apply and gives a perfectly smooth finish. When dry, it can be drilled, screwed or nailed. For use in repairing plaster, stone concrete or wood. Long lasting tough repair. Extremely smooth finish. Ronseal applicator included. Very good adhesion. Easy to sand. Application: Filling Knife. Surface dry in 1 to 2 hours. Fills holes up to 50mm deep. Will accept drills, screws and nails when fully dry. Protection level: High. Size: 1.2 Litre",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Smooth Finish Big Hole Filler 1.2 Litre",
+  "specifications": [
+    "Size: 1.2 Litre",
+    "Fills holes up to 50mm deep",
+    "Surface dry in 1 to 2 hours",
+    "Application: Filling Knife",
+    "Long lasting tough repair",
+    "Very good adhesion",
+    "Easy to sand"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-p45-medium-duty-metal-foam-applicator.html|>
+## Everbuild P45 Medium Duty Metal Foam Applicator
+
+{
+  "price": "€56.70 inc VAT (€46.10 exc.vat)",
+  "description": "Everbuild P45 Foam Gun gives the user more control to apply the foam precisely in hard to reach places, saving unnecessary wastage. For both professional and DIY use.",
+  "availability": "In Stock",
+  "product_name": "Everbuild P45 Medium Duty Metal Foam Applicator",
+  "specifications": [
+    "Model: EVBGFAPP35",
+    "Price: €56.70",
+    "List Price: €58.65",
+    "You save: €1.95",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-p65-heavy-duty-foam-applicator.html|>
+## P65 Heavy-Duty Foam Applicator
+
+{
+  "price": "€86.72 inc VAT (€70.50 exc.vat)",
+  "description": "Everbuild P65 heavy-duty foam applicator gun. Trigger action. For use with suitable Polyurethane expanding foam cartridges.",
+  "availability": "In Stock",
+  "product_name": "P65 Heavy-Duty Foam Applicator",
+  "specifications": [
+    "Trigger action",
+    "For use with suitable Polyurethane expanding foam cartridges"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-professional-foam-gun.html|>
+## Roughneck Professional Foam Gun
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "This Roughneck Professional Foam Gun has a large, sturdy metal body with a comfortable soft grip, making it suitable for long working periods. The Foam Gun has a nickel-plated aluminium body, steel trigger, brass barrel and non-return PTFE ball. Its brass needle has a non-stick coating and an aluminium can holder adaptor. Ideal for filling gaps in brick, concrete, stone and plaster, around pipe work and duct work, and for insulating internally for exterior walls.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Professional Foam Gun",
+  "specifications": [
+    "ROU32310 : €29.99",
+    "Supplied complete with: 2 x long plastic extension tubes, 2 x plastic nozzles",
+    "Nickel-plated aluminium body",
+    "Steel trigger",
+    "Brass barrel and non-return PTFE ball",
+    "Brass needle with non-stick coating",
+    "Aluminium can holder adaptor"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-professional-foam-gun-deluxe.html|>
+## Roughneck Professional Foam Gun Deluxe
+
+{
+  "price": "€43.39 inc VAT (€35.28 exc.vat)",
+  "description": "This Roughneck Professional Foam Gun has a large, sturdy metal body with a comfortable soft grip, making it suitable for long working periods. The Foam Gun has a brass barrel, needle and nozzle with non-stick coating. The aluminium body is also coated with a non stick coating. With flow adjusting knob for greater control and can holder adaptor. Ideal for filling gaps in brick, concrete, stone and plaster, around pipe work and duct work, spaces around window frames and door frames, and deep joints before applying plaster or sealant. It is also suitable for insulating internally for exterior walls, soffits and barge boards. Supplied complete with 2 x long plastic extension tubes and 2 x plastic nozzles.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Professional Foam Gun Deluxe",
+  "specifications": [
+    "Large, sturdy metal body",
+    "Comfortable soft grip",
+    "Brass barrel, needle and nozzle with non-stick coating",
+    "Flow adjusting knob for greater control",
+    "Includes 2 x long plastic extension tubes and 2 x plastic nozzles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-gun-grade-expanding-foam-750ml.html|>
+## Everbuild Gun Grade Expanding Foam 750ml
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Everbuild brand is not only hugely popular with tradesmen and DIY'ers it's quite literally huge - the biggest range in the business, in addition to core manufactured products a wide range of ancillary items from sealant guns to dust sheets, line markers to masking tape make Everbuild the number one Range. The range of products we actually manufacture is extensive, from chemical blending for admixtures and water proofers through water based sealant manufacturing to the highly advanced polymer engineering undertaken in manufacturing silicone and hybrid sealants and adhesives and a wide range of powder products. This Everbuild EVBEVGF7 gun grade expanding foam is a quick setting polyurethane based foam which expands greatly on application and yields up to 50 times the original can contents. It can be cut, sawn, plastered and sealed over after approximately one hour and is ideal for all building applications, will fill irregular gaps, fixes framework, insulates and deadens sound. EVBEVGF7 is designed for regular and professional use in conjunction with Gun Foam Applicators. 750ml",
+  "availability": "In Stock",
+  "product_name": "Everbuild Gun Grade Expanding Foam 750ml",
+  "specifications": [
+    "750ml",
+    "Quick setting polyurethane based foam",
+    "Expands up to 50 times the original can contents",
+    "Can be cut, sawn, plastered and sealed over after approximately one hour",
+    "Ideal for all building applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/supadec-expanding-foam-750ml.html|>
+## SupaDec Expanding Foam 750ml
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "SupaDec Expanding Foam - 750ml\n\nFills big gaps, insulates and bonds.",
+  "availability": "In Stock",
+  "product_name": "SupaDec Expanding Foam 750ml",
+  "specifications": [
+    "750ml capacity",
+    "Fills big gaps",
+    "Insulates and bonds",
+    "WEEE Recycling Producer Registration Number:12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gorilla-glue-heavy-duty-expanding-foam-353ml.html|>
+## Gorilla Glue Heavy-Duty Expanding Foam 353ml
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Gorilla® Heavy-Duty Expanding Foam is a fast-curing, multi-purpose foam designed to fill, seal, and insulate with precision and strength. Whether you're tackling a home renovation or sealing up cracks and gaps, this expanding foam gets the job done neatly and efficiently. The included precision straw applicator ensures controlled expansion to minimize mess and provide a clean, professional finish. Engineered to block out air, moisture, and pests, this foam is perfect for use in attics, basements, walls, windows, doors, crawlspaces, plumbing, masonry, and more. It forms a strong bond with materials like PVC, brick, concrete, plaster, wood, metal, plastic, and insulation—making it an essential product for DIYers and professionals alike.",
+  "availability": "In Stock",
+  "product_name": "Gorilla Glue Heavy-Duty Expanding Foam 353ml",
+  "specifications": [
+    "Fast Curing Formula – Expands quickly to seal and insulate gaps and cracks.",
+    "Precision Application – Built-in straw for controlled, minimal overflow and neater results.",
+    "Weather & Pest Resistant – Seals out air, moisture, and even small pests.",
+    "Versatile Use – Ideal for doors, windows, walls, vents, skylights, and plumbing.",
+    "Strong Bonding Power – Adheres to a wide range of materials: PVC, concrete, wood, metal, plaster, and more."
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-no-waste-expanding-foam-750ml.html|>
+## Everbuild No Waste Expanding Foam 750ml
+
+{
+  "price": "€24.70 inc VAT (€20.08 exc.vat)",
+  "description": "The Everbuild brand is not only hugely popular with tradesmen and DIY'ers it's quite literally huge - the biggest range in the business, in addition to core manufactured products a wide range of ancillary items from sealant guns to dust sheets, line markers to masking tape make Everbuild the number one Range. The range of products we actually manufacture is extensive, from chemical blending for admixtures and water proofers through water based sealant manufacturing to the highly advanced polymer engineering undertaken in manufacturing silicone and hybrid sealants and adhesives and a wide range of powder products. Everbuild EVBNOWASTEHH no waste foam is the first hand held foam that allows part used cans to be saved and used again. It has a shelf life of 24 months, its unique safety valve will not clog or leak. This Everbuild EVBNOWASTEHH is ideal for use on irregular gaps in stone, brick, concrete or plaster, gaps around pipe entries through walls, gaps around window frames, door frames etc, electrical wire chasing prior to plastering and deep joints prior to applying sealant or plaster.",
+  "availability": "In Stock",
+  "product_name": "Everbuild No Waste Expanding Foam 750ml",
+  "specifications": [
+    "750ml",
+    "Ideal for use on irregular gaps in stone, brick, concrete or plaster",
+    "Shelf life of 24 months",
+    "Unique safety valve prevents clogging or leaking"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-fire-foam-b2-hand-grade-aerosol-750ml.html|>
+## Everbuild Fire Foam B2 Hand Grade Aerosol 750ml
+
+{
+  "price": "€19.41 inc VAT (€15.78 exc.vat)",
+  "description": "Everbuild EVBB2FIREHAN firefoam B2 is a quick setting one part polyurethane foam with fire resistant properties. The foam expands on application to up to 50 times its original volume and meets the requirements of DIN 4102 Part 1 for Construction Materials; Class B2. Once cured, the foam can be cut, sawn or plastered over after only one hour providing the working temperatures (can and surfaces) are between +5 to +25oC, ideally 20oC. High degree of fire rating: slows down the passage of flames and smoke in comparison to standard B3 grades. Quick setting - can be cut, sawn or plastered in 1-hour is economical in use as it will expand up to 50 times its original volume. Everbuild EVBB2FIREHAN is hand operated and is ideal for filling:- Gaps around pipe entries through fire rated walls, to provide a fire rated seal around window and door frames, electrical wire chasing prior to plastering, where a fire rating is required, deep joints prior to applying sealant or plaster also irregular gaps in stone, brick, concrete or plaster. Everbuild EVBB2FIREHAN is ideal for fixing:- door frames, timber structures, windowsills and thresholds and window frames. Also for insulating:- behind cladding to exterior walls, behind sofit and barge boards and even in automotive applications. 750ml",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild Fire Foam B2 Hand Grade Aerosol 750ml",
+  "specifications": [
+    "750ml",
+    "Quick setting polyurethane foam",
+    "Fire resistant properties",
+    "Expands up to 50 times its original volume",
+    "Ideal for filling gaps and insulating"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-fire-foam-b1-hand-grade-aerosol-750ml.html|>
+## Everbuild Fire Foam B1 Hand Grade Aerosol 750ml
+
+{
+  "price": "€23.99 inc VAT (€19.50 exc.vat)",
+  "description": "Everbuild EVBEVFIRE firefoam B1 is a quick setting one-part polyurethane foam with fire retardant properties. The foam expands on application to up to 50 times its original volume and meets the extremely stringent requirements of DIN 4102 Part 1 for Construction Materials; Class B and BS476 Part 20 (1987) where fire ratings of 30 mins to 3.5 hours are achievable. Once cured, the foam can be cut, sawn or plastered over after only one hour providing the working temperatures (can and surfaces) are between +5 to +25oC, ideally 20oC. High degree of fire rating: slows down the passage of flames and smoke in comparison to standard B3 grades. Quick setting - can be cut, sawn or plastered in 1-hour is economical in use as it will expand up to 50 times its original volume. Everbuild EVBEVFIRE is gun operated and is ideal for filling:- Gaps around pipe entries through fire rated walls, to provide a fire rated seal around window and door frames, electrical wire chasing prior to plastering, where a fire rating is required, deep joints prior to applying sealant or plaster also irregular gaps in stone, brick, concrete or plaster. Everbuild EVBEVFIRE is ideal for fixing:- door frames, timber structures, windowsills and thresholds and window frames. Also for insulating:- behind cladding to exterior walls, behind sofit and barge boards and even in automotive applications. 750ml",
+  "availability": "In Stock",
+  "product_name": "Everbuild Fire Foam B1 Hand Grade Aerosol 750ml",
+  "specifications": [
+    "750ml",
+    "Quick setting one-part polyurethane foam",
+    "Fire retardant properties",
+    "Expands up to 50 times its original volume",
+    "Meets DIN 4102 Part 1 and BS476 Part 20 standards",
+    "Can be cut, sawn or plastered over after 1 hour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-thermofoam-insulation-foam-750ml.html|>
+## Everbuild Thermofoam Insulation Foam 750ml
+
+{
+  "price": "€28.43 inc VAT (€23.11 exc.vat)",
+  "description": "The Everbuild Thermofoam Insulation Foam is a specially formulated, highly flexible PU foam that absorbs component movement thereby giving an air tight seal to reduce heat loss and improve energy efficiency in buildings. It adheres to all common building materials including concrete, brickwork, wood, plaster, plastic, stone, metal etc. Thermofoam has been tested to the latest standard and is not only air permeability tested to EN12114:200-03 but also acoustic rated to EN ISO 717-1 up to 64Db, temperature resistant (-40 to 80°C) and finally fire rated to ISO 13501 Class E.",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild Thermofoam Insulation Foam 750ml",
+  "specifications": [
+    "Colour: Off White",
+    "Size: 750ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-dual-purpose-foam-cleaner-500ml.html|>
+## Everbuild Dual Purpose Foam Cleaner 500ml
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "The Everbuild EVBGFSC5 dual purpose foam cleaner is used to remove wet / uncured foam from brick, upvc, plaster etc. This EVBGFSC5 simply attaches to Everbuild gun foam applicator for purging through, also includes spray nozzle for use without applicator to remove wet foam from outside of the gun and from most building substrates. Easy to use with some simple steps: Pull the trigger on the gun to release the solvent into the gun barrel and discharge the solvent into a suitable container for disposal. Only stop discharging the cleaner when the solution being ejected from the gun is completely clear. Leave the gun foam cleanse attached to the gun for 5 minutes to allow the solvent in the gun to work on the residues inside. Pull the trigger once again until only clear solvent emerges. Leave for a further 5 minutes and repeat this process 2 or 3 times until the gun is completely clear.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Dual Purpose Foam Cleaner 500ml",
+  "specifications": [
+    "500ml",
+    "Used to remove wet / uncured foam from various surfaces",
+    "Attaches to Everbuild gun foam applicator",
+    "Includes spray nozzle for use without applicator",
+    "Easy to use with simple steps"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-fill-and-fix-expanding-foam.html|>
+## Everbuild Fill & Fix Expanding Foam
+
+{
+  "price": "from €9.99 inc VAT",
+  "description": "Fill and Fix Expanding Foam is a quick setting one part polyurethane foam in aerosol form. The Fill and Fix version is supplied with attachable nozzles and Gun Grade is supplied for use with our range of applicator guns. The foam expands on application to up to 50 times its original volume and expands on application by 150%. Once cured, the foam can be cut, sawn or plastered over after only an hour providing the working temperatures (can and surfaces) are between +5 to +25° C, ideally 20° C.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Fill & Fix Expanding Foam",
+  "specifications": [
+    "Quick setting - can be cut, sawn or plastered in 1 hour",
+    "Economical in use - expands up to 50 times its original volume",
+    "Fills irregular and broad gaps where most conventional fillers would fail",
+    "Possesses insulating and sound deadening properties."
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-expanding-foam.html|>
+## Ronseal Expanding Foam
+
+{
+  "price": "from €7.76 inc VAT",
+  "description": "Ronseal Quick Drying and Expanding Foam Filler is ideal for filling large and awkward size gaps & cavities on interior and exterior surfaces. The quick drying formula can be used on wood, metal, glass or masonry, yielding up to 2.5 times its initial volume to fill any size repair. The simple to use trigger applicator ensures smooth consistent filling of the hole minimising any overfill, whilst the advanced liquid foam can be used to provide insulation against heat, sound and moisture. Quick drying - dries in 1 hour. Fills large holes - foam expands to 2.5 times its size. Will not shrink or crack. Easy to cut or sand. Can be overpainted. For interior and exterior use",
+  "availability": "In Stock",
+  "product_name": "Ronseal Expanding Foam",
+  "specifications": [
+    "Quick drying - dries in 1 hour",
+    "Fills large holes - foam expands to 2.5 times its size",
+    "Will not shrink or crack",
+    "Easy to cut or sand",
+    "Can be overpainted",
+    "For interior and exterior use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-expanding-foam-filler.html|>
+## Polycell Expanding Foam Filler
+
+{
+  "price": "€12.45 inc VAT",
+  "description": "Polycell Expanding Foam Polyfilla is ideal for filling and sealing awkward gaps, hollows and cavities. It shoots liquid foam deep into cavities, creating a long lasting seal, which insulates against heat, sound and moisture. Suitable for internal or external use, it can be easily trimmed and sanded ready to be painted, filled or plastered. Contains a CFC - free propellant.",
+  "availability": "In Stock",
+  "product_name": "Polycell Expanding Foam Filler",
+  "specifications": [
+    "Available in 300 ml, 500 ml, 825 ml",
+    "CFC-free propellant",
+    "Ideal for filling and sealing gaps",
+    "Suitable for internal and external use",
+    "Can be trimmed and sanded"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-wet-rot-wood-hardener-250ml.html|>
+## Everbuild Wet Rot Wood Hardener 250ml
+
+{
+  "price": "€27.00 inc VAT (€21.95 exc.vat)",
+  "description": "Everbuild Wet Rot Wood Hardener is a highly penetrative solution of selected resins in solvent which soaks deep into the fibres of decaying wood and dries to leave the wood hard and resistant to further moisture penetration. The resin-modified wood then becomes an ideal base for repair with High Performance Wood Filler. The Wet Rot Wood Hardener solution is dry in 6 hours and is suitable for interior and exterior use providing a cost-effective alternative to replacing joinery affected by wet rot.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Wet Rot Wood Hardener 250ml",
+  "specifications": [
+    "Size: 250 ml",
+    "Activity: 25± 1% w/w",
+    "Drying Time: 6 Hours",
+    "Specific Gravity: ca. 0.9",
+    "Flash Point: -17°C",
+    "Base: Organic Resin In Acetone/Solvent Blend",
+    "Consistency: Water Thin Clear/Opaque Solution"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-wood-filler-hardener--catalyst-40g.html|>
+## Everbuild Wood Filler Hardener / Catalyst 40g
+
+{
+  "price": "€6.03 inc VAT (€4.90 exc.vat)",
+  "description": "Everbuild Wood Filler Hardener/Catalyst is a Benzoyl Peroxide catalyst paste for use with two part styrene based wood filler systems. Size: 40g.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Wood Filler Hardener / Catalyst 40g",
+  "specifications": [
+    "Size: 40g",
+    "Benzoyl Peroxide catalyst paste for use with two part styrene based wood filler systems"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-wood-filler-high-performance-2-part.html|>
+## Everbuild Wood Filler High Performance 2 Part
+
+{
+  "price": "from €19.99 inc VAT",
+  "description": "Everbuild 2 Part High Performance Wood Filler is a fast drying, exterior and interior wood filler. It is easy to mix and apply and is completely weatherproof. Once mixed, the filler sets hard to a shatterproof finish in approximately 30 minutes and may be drilled, carved or planed once dry. Available in 2 sizes, 500g or 1.4kg, and a variety of colours.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Wood Filler High Performance 2 Part",
+  "specifications": [
+    "Fast drying",
+    "Exterior and interior use",
+    "Weatherproof",
+    "Sets hard in approximately 30 minutes",
+    "Available in 500g and 1.4kg sizes",
+    "Variety of colours available"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-multipurpose-wood-filler.html|>
+## Everbuild Multipurpose Wood Filler
+
+{
+  "price": "€6.25 inc VAT",
+  "description": "Everbuild Multi Purpose Premium Joiners Grade Wood Filler is an easy to use ready mixed filler which is ideal for filling small imperfections (Max 5mm depth) in wood. Once dry, the filler leaves a sandable surface, which can be stained, painted, varnished or dyed, even with microporous stains. The filler is waterproof when dry and is suitable for exterior as well as interior applications. It is also non flammable and has a low odour.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Multipurpose Wood Filler",
+  "specifications": [
+    "Available in 100ml Easi Squirt or 250ml tub.",
+    "Filling small holes, splits, surface imperfections and damaged areas in wood.",
+    "Covering the recesses left by nails and screws."
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-wax-filler-stick-50g.html|>
+## Liberon Wax Filler Stick 50g
+
+{
+  "price": "€9.07 inc VAT",
+  "description": "The Liberon Wax Filler Sticks repair cracks, splits and small to medium sized holes without sanding or having to strip the finish. You can apply without a heat source and no shrinkage make them ideal for use on finished furniture and other articles. Wide range of colours available, all of which are intermixable. For interior use only. Available in singles or boxes of 16.",
+  "availability": "In Stock",
+  "product_name": "Liberon Wax Filler Stick 50g",
+  "specifications": [
+    "Available in singles or boxes of 16",
+    "Wide range of colours available",
+    "Ideal for use on finished furniture",
+    "No shrinkage"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-grain-filler.html|>
+## Rustins Grain Filler
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "Rustins Grain Filler is supplied as a paste which is thinned with white spirit for use. It is applied to wood before finishing to fill the pores, preventing sinking of the finish. Available in mahogany, natural, oak and teak. The natural shade can be thinned with Rustins Wood Dye so that filling and staining can be carried out in one operation.",
+  "availability": "In Stock",
+  "product_name": "Rustins Grain Filler",
+  "specifications": [
+    "Available in mahogany, natural, oak, and teak",
+    "Thinned with white spirit for use",
+    "Fills wood pores before finishing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-plastic-wood.html|>
+## Rustins Plastic Wood
+
+{
+  "price": "€4.54 inc VAT",
+  "description": "Rustins Plastic Wood Tube is waterproof for inside and outside use. Can be cut, filed, drilled, sanded and planed. It can be painted, stained or varnished and when dry will take screws and nails. Many uses in and around the home.",
+  "availability": "In Stock",
+  "product_name": "Rustins Plastic Wood",
+  "specifications": [
+    "Waterproof for inside and outside use",
+    "Can be cut, filed, drilled, sanded and planed",
+    "Can be painted, stained or varnished",
+    "Takes screws and nails when dry",
+    "Many uses in and around the home"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-polyfilla-for-wood-general-repairs-tube.html|>
+## Polycell Polyfilla For Wood General Repairs Tube
+
+{
+  "price": "€5.90 inc VAT",
+  "description": "Polycell Polyfilla for Wood is a ready to use, low odour, multi purpose wood filler for general and minor repairs to interior and exterior wood. The formulation is quick drying, giving a tough and durable fill that flexes with the natural movement of wood. Can be painted, stained or varnished in 2 hours (depending on conditions) and fills holes up to 10mm deep in one application. The filler will not shrink or crack, and can be nailed or screwed. It is water resistant, and can be used for interior and exterior use.",
+  "availability": "In Stock",
+  "product_name": "Polycell Polyfilla For Wood General Repairs Tube",
+  "specifications": [
+    "Available in various sizes: Dark 330g, Dark 75g, Light 330g, Light 75g, Medium 330g, Medium 75g, White 75g",
+    "Quick drying formulation",
+    "Can be painted, stained or varnished in 2 hours",
+    "Fills holes up to 10mm deep in one application",
+    "Water resistant",
+    "Suitable for interior and exterior use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-polyfill-for-wood-general-repairs.html|>
+## Polycell Polyfill For Wood General Repairs
+
+{
+  "price": "from €10.23 inc VAT",
+  "description": "Polycell Polyfilla for Wood General Repairs is a ready to use multi-purpose wood filler for general and minor repairs to interior and exterior wood. The formulation is quick drying, giving a tough and durable fill that flexes with the natural movement of wood.",
+  "availability": "In Stock",
+  "product_name": "Polycell Polyfill For Wood General Repairs",
+  "specifications": [
+    "Fills up to 10mm deep in one application.",
+    "It can be painted, stained or varnished in 2 hours.",
+    "Will not shrink or crack.",
+    "Can be nailed or screwed.",
+    "Ready to use.",
+    "Low Odour Formulation.",
+    "Quick drying, easy to sand.",
+    "Water resistant."
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-high-performance-wood-filler.html|>
+## Ronseal High Performance Wood Filler
+
+{
+  "price": "from €2.85 inc VAT",
+  "description": "Few things are beyond repair with Ronseal High Performance Wood filler. It is a chemically bonded filler and catalyst that provides extremely tough repairs to virtually any wood damage without shrinking or cracking. Fills to any depth and can be drilled, screwed or planed. Ideal for use in interior or exterior wood repairs more than 5mm deep. Typical areas include window frames, sills, doors and door frames. For minor and surface wood repairs use Ronseal Multi Purpose Wood Filler. Areas of use: Interior / Exterior wood. Application: Filling Knife. Drying time approx: 30 mins. Protection level: Very High. Available in Various Sizes. Available in: Natural, Dark or White.",
+  "availability": "In Stock",
+  "product_name": "Ronseal High Performance Wood Filler",
+  "specifications": [
+    "Available in Various Sizes",
+    "Available in: Natural, Dark or White",
+    "Drying time approx: 30 mins",
+    "Protection level: Very High",
+    "Ideal for interior or exterior wood repairs more than 5mm deep"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-multi-purpose-wood-filler-tube.html|>
+## Ronseal Multi Purpose Wood Filler Tube
+
+{
+  "price": "€6.21 inc VAT",
+  "description": "Ronseal Multi Purpose Wood filler can be applied straight from the pack and gives professional, long lasting, tough and durable repairs. The flexible formula resists shrinking and cracking and it can be stained, varnished or painted. For interior and exterior use, Once dry, simply sand then stain, varnish or paint over. Ronseal Multi-Purpose Wood Filler is ideal for use on doors, window frames, screw/nail holes, cracks, gaps, skirting boards, floors and other wood surfaces. Areas of use: Interior / Exterior wood. Application: Filling Knife. Drying time Approx: 2 hours. Protection level: High. Available in various Shades and Sizes.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Multi Purpose Wood Filler Tube",
+  "specifications": [
+    "Flexible formula resists shrinking and cracking",
+    "Can be stained, varnished or painted",
+    "Ideal for interior and exterior use",
+    "Drying time: Approx 2 hours",
+    "Available in various shades and sizes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-multi-purpose-wood-filler-tub.html|>
+## Ronseal Multi Purpose Wood Filler Tub
+
+{
+  "price": "€8.81 inc VAT",
+  "description": "Ronseal Multi Purpose Woodfiller can be applied straight from the pack and gives professional, long lasting, tough and durable repairs. The flexible formula resists shrinking and cracking and it can be stained, varnished or painted. For interior and exterior use. Ronseal Multi-Purpose Wood Filler is ideal for use on doors, window frames, screw/nail holes, cracks, gaps, skirting boards, floors and other wood surfaces.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Multi Purpose Wood Filler Tub",
+  "specifications": [
+    "Available in various sizes: 930g Natural, 465g Dark, 465g Light, 465g Medium, 465g Natural, 465g White, Dark 250g, Light 250g, Medium 250g, Natural 250g, Oak 250g, White 250g",
+    "Flexible formula resists shrinking and cracking",
+    "Can be stained, varnished or painted",
+    "Ideal for interior and exterior use",
+    "Suitable for doors, window frames, screw/nail holes, cracks, gaps, skirting boards, floors and other wood surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-wet-rot-wood-hardener.html|>
+## Ronseal Wet Rot Wood Hardener
+
+{
+  "price": "€13.60 inc VAT",
+  "description": "Ronseal Wet Rot Wood Hardener penetrates deep binding and hardening decaying wood to provide a solid base for wood filling.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Wet Rot Wood Hardener",
+  "specifications": [
+    "Available in 250ml and 500ml options",
+    "Penetrates deep to bind and harden decaying wood",
+    "Provides a solid base for wood filling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-retouch-crayons.html|>
+## Liberon Retouch Crayons
+
+{
+  "price": "€8.99 inc VAT",
+  "description": "Liberon Retouch Crayons can be used to fill and mask superficial scratches on finished wooden surfaces and furniture, such as nail holes and worm holes. Applied with an easy rub on and buff off application, they expand and contract with the wood, do not shrink or drop out, and are available in a wide range of colours. For interior use only.",
+  "availability": "In Stock",
+  "product_name": "Liberon Retouch Crayons",
+  "specifications": [
+    "Select Option: Oak (3 Pack), Pine (3 Pack)",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-wax-filler-sticks.html|>
+## Liberon Wax Filler Sticks
+
+{
+  "price": "€10.99 inc VAT",
+  "description": "Liberon Wax Filler Sticks repair cracks, splits and small to medium sized holes without sanding or having to strip the finish. You can apply without a heat source and no shrinkage make them ideal for use on finished furniture and other articles. For interior use only. Available in a wide range of intermixable wood colours.",
+  "availability": "In Stock",
+  "product_name": "Liberon Wax Filler Sticks",
+  "specifications": [
+    "Available in 02 Light Oak 50g and 10 Dark Oak 50g options",
+    "Ideal for repairing cracks and holes in finished furniture",
+    "No sanding or stripping required for application",
+    "For interior use only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-wood-filler-1.html|>
+## Liberon Wood Filler
+
+{
+  "price": "from €7.92 inc VAT",
+  "description": "Liberon Wood Filler is used to fill and repair surface damage to wood and wood flooring. Its water based formula is shrink resistant, crack resistant, flexible and stainable. It can be sanded, screwed, nailed, stained, varnished, waxed or painted. Suitable for both interior and exterior use. Available in natural and a selection of wood shades, and may also be coloured with earth pigments.",
+  "availability": "In Stock",
+  "product_name": "Liberon Wood Filler",
+  "specifications": [
+    "Location: Interior and Exterior",
+    "Dry Time: 2 hours min. (depending on depth)",
+    "Application: Painter's Knife",
+    "Tool Cleaning: Water"
+  ]
+}
+

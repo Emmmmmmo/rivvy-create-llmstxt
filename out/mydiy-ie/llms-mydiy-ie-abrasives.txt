@@ -1,0 +1,174 @@
+<|https://www.mydiy.ie/products/faithfull-115mm-red-aluminium-oxide-paper-rolls.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-115mm-yellow-aluminium-oxide-paper-rolls.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-contour-sanding-pads-assorted-grades-120-x-100-x-13mm-3.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-rubber-sanding-block-70-x-125mm.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-steel-wool-packs.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-wet-and-dry-paper-sheets-230-x-280mm.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/oakey-between-coats-sheets-230-x-280mm.html|>
+## Oakey Between Coats Sheets 230 x 280mm
+
+{
+  "price": "€10.95 inc VAT",
+  "description": "Oakey Between coats Silicon Carbide sheets have high performance ceramic SG® abrasive technology, combined with flexible fibre reinforced backing and an anti-clogging No-Fil® layer. They provide excellent results and improved resistance when sanding and smoothing paint, plaster and filler. Can be used by hand, with a block or on a clip fixing machine. Size: 230 x 280mm.",
+  "availability": "In Stock",
+  "product_name": "Oakey Between Coats Sheets 230 x 280mm",
+  "specifications": [
+    "Size: 230 x 280mm",
+    "High performance ceramic SG® abrasive technology",
+    "Flexible fibre reinforced backing",
+    "Anti-clogging No-Fil® layer"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-abrasive-sanding-roll-1.html|>
+## Makita Abrasive Sanding Roll
+
+{
+  "price": "€73.25 inc VAT (€59.55 exc.vat)",
+  "description": "Aluminium oxide grit bonded to hard-wearing paper. Good sanding performance for professional use. Can be used for hand sanding or cut to length for 1/2 sheet sanders. Available Sizes: 5m and 50m rolls.",
+  "availability": "Out of Stock",
+  "product_name": "Makita Abrasive Sanding Roll",
+  "specifications": [
+    "Option: Select One - 115mm x 5m 40G",
+    "120mm x 5m 100G",
+    "120mm x 5m 120G",
+    "120mm x 5m 180G",
+    "120mm x 5m 240G",
+    "120mm x 5m 400G",
+    "120mm x 5m 60G",
+    "120mm x 5m 80G"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flexipads-world-class-hand-sanding-block-shaped-black-70-x-125mm.html|>
+## Flexipads World Class Hand Sanding Block Shaped Black 70 x 125mm
+
+{
+  "price": "€9.04 inc VAT (€7.35 exc.vat)",
+  "description": "Flexipads Shaped neoprene VELCRO® brand handblock with flexible design. Ideal for convex and concave surfaces. Size: 70 x 125mm. Made in Great Britain",
+  "availability": "In Stock",
+  "product_name": "Flexipads World Class Hand Sanding Block Shaped Black 70 x 125mm",
+  "specifications": [
+    "Size: 70 x 125mm",
+    "Made in Great Britain",
+    "Ideal for convex and concave surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flexipads-world-class-hand-sanding-block-shaped-white-pur-velcro-brand-70-x-125mm.html|>
+## Flexipads World Class Hand Sanding Block Shaped White PUR VELCRO® Brand 70 x 125mm
+
+{
+  "price": "€9.40 inc VAT (€7.64 exc.vat)",
+  "description": "Flexipads shaped white PUR handblock with VELCRO® brand fastening and a flexible design. Ideal for convex and concave surfaces. Size: 70 x 125mm. Made in Great Britain",
+  "availability": "In Stock",
+  "product_name": "Flexipads World Class Hand Sanding Block Shaped White PUR VELCRO® Brand 70 x 125mm",
+  "specifications": [
+    "Size: 70 x 125mm",
+    "Made in Great Britain",
+    "Ideal for convex and concave surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flexipads-world-class-hand-pads.html|>
+## Flexipads World Class Hand Pads
+
+{
+  "price": "€14.22 inc VAT",
+  "description": "Non-woven hand pads for general sanding and preparation applications. Ideal for contoured or shaped surfaces. Made in Great Britain.",
+  "availability": "In Stock",
+  "product_name": "Flexipads World Class Hand Pads",
+  "specifications": [
+    "Select Option: Green General Purpose, Grey Very Fine, Maroon Standard Very Fine",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/flexipads-world-class-hand-sanding-pads-for-discs.html|>
+## Flexipads World Class Hand Sanding Pads for Discs
+
+{
+  "price": "€12.77 inc VAT",
+  "description": "Profiled professional hand sanders made from durable Polyurethane foam. Perfectly designed for a comfortable hand grip, these most versatile blocks are also ideal for convex and concave surfaces. Simply wrap your abrasive disc from your orbital tool around the block and up its sides. With VELCRO® Brand fastening. Made in Great Britain",
+  "availability": "In Stock",
+  "product_name": "Flexipads World Class Hand Sanding Pads for Discs",
+  "specifications": [
+    "Select Option: 125mm, 150mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/flexipads-world-class-hand-sanding-block-70-x-125mm-double-sided.html|>
+## Flexipads World Class Hand Sanding Block 70 x 125mm Double Sided
+
+{
+  "price": "€8.87 inc VAT",
+  "description": "Flexipads Dual density, double sided VELCRO® sanding handblock. Size: 70 x 125mm. Made in Great Britain",
+  "availability": "In Stock",
+  "product_name": "Flexipads World Class Hand Sanding Block 70 x 125mm Double Sided",
+  "specifications": [
+    "56005: Medium/Soft",
+    "56006: Medium/Hard",
+    "Size: 70 x 125mm",
+    "Made in Great Britain"
+  ]
+}
+
+<|https://www.mydiy.ie/products/flexipads-world-class-hand-sanding-holder-disc.html|>
+## Flexipads World Class Hand Sanding Holder Disc
+
+{
+  "price": "from €5.93 inc VAT",
+  "description": "Flexipads Flexible hand sanding holder which can be used with foam and abrasive discs. Perfect for curved surfaces.",
+  "availability": "In Stock",
+  "product_name": "Flexipads World Class Hand Sanding Holder Disc",
+  "specifications": [
+    "Select Option: 125mm, 150mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-steel-wool-1.html|>
+## Liberon Steel Wool
+
+{
+  "price": "from €4.12 inc VAT",
+  "description": "The Liberon Steel Wool is made from high-quality steel to create crumble and dust resistant wool virtually oil free. Can be used on a range of materials to include wood, metal, porcelain and glass. Available in several grades, the choice of steel wool depends upon the planned usage.",
+  "availability": "In Stock",
+  "product_name": "Liberon Steel Wool",
+  "specifications": [
+    "Available in several grades: Grade 0 Fine 1kg, Grade 0000 Ultra Fine 4 x 7g, Grade 2 Medium 1kg",
+    "Made from high-quality steel",
+    "Crumble and dust resistant",
+    "Virtually oil free",
+    "Can be used on wood, metal, porcelain, and glass"
+  ]
+}
+

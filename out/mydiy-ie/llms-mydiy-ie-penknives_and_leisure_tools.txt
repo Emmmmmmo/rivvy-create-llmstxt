@@ -1,0 +1,636 @@
+<|https://www.mydiy.ie/products/landmann-13-piece-bbq-stainless-steel-tool-set.html|>
+## Landmann 13 Piece BBQ Stainless Steel Tool Set
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "Introducing the ultimate grilling companion, the 13-piece tool set that will make your outdoor cooking experience a breeze. Whether you are a novice or a seasoned grill master, this set is sure to impress with its high-quality stainless steel construction and stylish aluminium case. Let's take a closer look at what this tool set has to offer. First and foremost, the set includes 13 pieces, providing you with all the essential tools needed to cook up a storm on the grill. The tongs and turner will help you handle even the most delicate of meats, while the corn holders will keep your hands safe when enjoying delicious corn on the cob. Additionally, the grill and basting brush will help you add that perfect touch of flavor to your meats and veggies. This set truly has it all. The tools themselves are made of high-quality stainless steel, ensuring durability and longevity even with frequent use. Stainless steel is also known for its resistance to rust and corrosion, making it the ideal material for outdoor cooking equipment. You can rest assured that these tools will stand the test of time, no matter how many grilling sessions they endure. To top it all off, the tools come neatly packaged in a stylish aluminium case, which not only looks great but also keeps your tools organized and easily accessible. The case is a convenient size of H8, W18, D44cm, making it easy to transport to your next barbecue or to store when not in use. You'll never have to worry about losing a tool or having to dig through a messy drawer to find what you need. Finally, the manufacturer offers a 1-year guarantee on this product, giving you peace of mind knowing that your investment is protected. This level of customer service is a testament to the quality of this product and the manufacturer's commitment to customer satisfaction. In conclusion, the 13-piece tool set with tongs, turner, corn holders, grill and basting brush is a must-have for any grilling enthusiast. With its high-quality stainless steel construction, stylish aluminium case, and comprehensive set of tools, you'll be the envy of all your friends at your next barbecue. Plus, with the added bonus of a 1-year guarantee, you can purchase with confidence knowing that you're making a smart investment in your outdoor cooking arsenal. Don't wait any longer, order your set today and take your grilling game to the next level.",
+  "availability": "In Stock",
+  "product_name": "Landmann 13 Piece BBQ Stainless Steel Tool Set",
+  "specifications": [
+    "Includes 13 essential grilling tools",
+    "High-quality stainless steel construction",
+    "Stylish aluminium case for storage",
+    "Durable and rust-resistant",
+    "1-year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-mw001gz-xgt-40vmax-microwave-oven-40v-bare-unit.html|>
+## Makita MW001GZ XGT 40Vmax Microwave Oven 40V Bare Unit
+
+{
+  "price": "€1,401.18 inc VAT (€1,139.17 exc.vat)",
+  "description": "The Makita MW001G XGT 40Vmax Microwave Oven is powered by two in parallel or one 40Vmax XGT Li-ion battery, or a makita portable power pack. It can heat food at 500W*, as well as a corded domestic microwave. Fitted with a large carrying handle provides excellent portability.",
+  "availability": "Out of Stock",
+  "product_name": "Makita MW001GZ XGT 40Vmax Microwave Oven 40V Bare Unit",
+  "specifications": [
+    "Max. Output Power: 350/500W",
+    "Product Dimensions (L x W x H): 412 x 343 x 338mm",
+    "Weight: 8.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-stainless-steel-multi-plier-600---needlenose.html|>
+## Gerber Stainless Steel Multi-Plier 600 - Needlenose
+
+{
+  "price": "€138.51 inc VAT (€112.61 exc.vat)",
+  "description": "The Gerber Multi-Plier 600 with one hand opening needlenose pliers. With the simple flick of your wrist, the pliers snap into place, ready for action. This patented technology is the cornerstone of many of our most popular tools. Offering profound versatility and fail safe performance, with a solid design and stainless steel construction. Components: Needlenose Pliers, Wire Cutter, Fine Edge Knife, Serrated Knife, Cross Point Screwdriver, Small/Medium/Large Flat Blade Screwdriver, Lanyard, Ring Can Opener, Bottle Opener, File and Ruler. Supplied with a Ballistic Nylon Sheath.",
+  "availability": "In Stock",
+  "product_name": "Gerber Stainless Steel Multi-Plier 600 - Needlenose",
+  "specifications": [
+    "Overall Length: 16.8cm",
+    "Closed Length: 12.8cm",
+    "Weight: 257g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-suspension-multi-tool.html|>
+## Gerber Suspension Multi-Tool
+
+{
+  "price": "€77.61 inc VAT (€63.10 exc.vat)",
+  "description": "These highly versatile Gerber Suspension Multi-Pliers are spring-loaded with an open frame design for your convenience. They are engineered from high quality, durable stainless steel and Ballistic Nylon. They also incorporate both the popular Gerber one handed opening plier and patented Saf.T Plus locking system making them the ideal companion for any tool kit. This item also includes lifetime limited warranty. Components: Needlenose pliers, wire cutter, fine edge knife, saw, scissors, cross point screwdriver, small and medium flat blade screwdrivers, can opener, bottle opener, lanyard hole.",
+  "availability": "In Stock",
+  "product_name": "Gerber Suspension Multi-Tool",
+  "specifications": [
+    "Overall Length: 15.24cm",
+    "Closed Length: 8.89cm",
+    "Weight: 255g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-16-piece-multi-tool.html|>
+## Stanley Tools FatMax 16 Piece Multi-Tool
+
+{
+  "price": "€25.95 inc VAT (€21.10 exc.vat)",
+  "description": "This Stanley 16 Piece Multi-Tool is easy open and allows easy tool access. It has a soft grip for optimum comfort and a durable tough body which withstands extreme use.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax 16 Piece Multi-Tool",
+  "specifications": [
+    "16 Piece Multi-Tool",
+    "Soft grip for optimum comfort",
+    "Durable tough body for extreme use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-12-piece-multi-tool.html|>
+## Stanley Tools 12 Piece Multi-Tool
+
+{
+  "price": "€21.56 inc VAT (€17.53 exc.vat)",
+  "description": "This Stanley 12-in-1 Multi-Tool is ideal for everyday use within industry, automotive and construction, or at home. The tool has a modern, sleek polished look and is hardened and tempered for long life. Tools included: Universal pliers with serrated noses, Wire cutter, Saw, Small and Large Knife, Bottle opener, Curve jaw plier, 3mm, 6mm and 8mm flared screwdrivers, Phillips 1 point screwdriver and mini file. Supplied with a Stanley branded pouch with a belt clip for convenient carriage.",
+  "availability": "Out of Stock",
+  "product_name": "Stanley Tools 12 Piece Multi-Tool",
+  "specifications": [
+    "12-in-1 Multi-Tool",
+    "Includes universal pliers, wire cutter, saw, small and large knife, bottle opener, curve jaw plier, screwdrivers, and mini file",
+    "Supplied with a Stanley branded pouch with a belt clip"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-bladeless-multi-plier-600.html|>
+## Gerber Bladeless Multi-Plier 600
+
+{
+  "price": "€155.21 inc VAT (€126.19 exc.vat)",
+  "description": "The Gerber Multi-Plier 600 is constructed of tough stainless steel and has been designed expressly for the unique needs of industrial facilities, hospitals, and other similar institutions that limit the kinds of items people carry on their bodies. This do-it-all tool helps ensure safety in the workplace, while still giving you the benefit of this industrial-strength MP's muscular multitude of tools. Its needle nose pliers work when you require a precise point that can grab fine elements in small spaces, while its one-handed open greatly simplifies a wide array of tasks. It contains rotatable, replaceable Tungsten Carbide wire cutters for use in snipping a variety of stubborn wires. It also holds a brawny, removable RemGrit saw, so you can take it along or simply take it out, giving you maximum flexibility with the tool in just about any situation.",
+  "availability": "In Stock",
+  "product_name": "Gerber Bladeless Multi-Plier 600",
+  "specifications": [
+    "Material: 420HC steel",
+    "Overall Length: 236mm",
+    "Closed Length: 129mm",
+    "Weight: 255g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-vise-pocket-tool.html|>
+## Gerber Vise Pocket Tool
+
+{
+  "price": "€26.27 inc VAT (€21.36 exc.vat)",
+  "description": "The Gerber Vise Pocket Tool is fitted with lightweight, anodised aluminum handles with a surgical stainless steel blade. These pocket-sized pliers pack multiple functions into a tiny package that fits on a keychain. The Vise gives you more than plier capabilities thanks to a variety of handy tools. Components: Mini Pliers, Medium & Large Flat Screwdriver, Phillips Screwdriver, File (Coarse & Fine), Bottle Opener, Fine Blade, Serrated Blade and Lanyard Ring.",
+  "availability": "In Stock",
+  "product_name": "Gerber Vise Pocket Tool",
+  "specifications": [
+    "Overall Length: 102mm",
+    "Closed Length: 61mm",
+    "Blade Length: 38mm",
+    "Weight: 57g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-dime-multi-tool-black.html|>
+## Gerber Dime Multi Tool, Black
+
+{
+  "price": "€32.36 inc VAT (€26.31 exc.vat)",
+  "description": "The Gerber Dime Multi Tool is compact and sturdy, perfect for your pocket or on your keys as an everyday tool. It has a durable stainless steel construction. This butterfly open tool fits on your keychain and features 11 tools: pliers, scissors, fine blade, Phillips screwdriver, medium flat screwdriver, wire cutters, retail package opener, bottle opener, tweezers, file and lanyard ring.",
+  "availability": "In Stock",
+  "product_name": "Gerber Dime Multi Tool, Black",
+  "specifications": [
+    "Overall Length: 108mm",
+    "Closed Length: 70mm",
+    "Blade Length: 2.5cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-dual-force-multi-tool.html|>
+## Gerber Dual Force Multi Tool
+
+{
+  "price": "€114.33 inc VAT (€92.95 exc.vat)",
+  "description": "The Gerber Dual Force Multi Tool has a layered construction to provide 3x the jaw strength and 2x the force to manhandle any task put in front of it. It features 13 tools: small fastener pliers, regular pliers, adjustable, two-size slip joint jaw, wire cutter, wire stripper, 3.25in plain edge blade, 3.35in center-drive axis tech, saw, fine/coarse file, chisel edge, #1 and #2 cross drive, medium flathead driver, 8in/20cm ruler and lanyard hole. The adjustable 2-position slip joint jaw and extra-large teeth grasp firmly onto a variety of fasteners and apply unparalleled control.",
+  "availability": "In Stock",
+  "product_name": "Gerber Dual Force Multi Tool",
+  "specifications": [
+    "Closed Length: 118mm",
+    "Blade Length: 8.2/8.5cm",
+    "Weight: 340g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-eab-pocket-knife-lite.html|>
+## Gerber EAB Pocket Knife Lite
+
+{
+  "price": "€23.89 inc VAT (€19.42 exc.vat)",
+  "description": "The Gerber Exchange-A-Blade pocket knives use contractor grade or standard size utility blades that can be easily replaced. The E.A.B. Lite also features deep finger grooves that provide a secure grip in a lighter knife. It has a stainless steel handle that also doubles as a pocket or money clip.",
+  "availability": "In Stock",
+  "product_name": "Gerber EAB Pocket Knife Lite",
+  "specifications": [
+    "Open length: 129mm",
+    "Blade length: 38mm",
+    "Closed length: 72mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-paraframe-mini-ss-folding-clip-knife-1.html|>
+## Gerber Paraframe Mini SS Folding Clip Knife
+
+{
+  "price": "€20.31 inc VAT",
+  "description": "The Gerber Paraframe Mini SS Folding Clip Knife is a simple open frame knife with a carbon steel blade that is lightweight, easy to clean and opens effortlessly. Built with a smooth stainless steel handle and a clip for secure travel. Available with a Serrated or Fine Knife Edge. Overall Length: 15.2cm. Blade Length: 5.6cm. Closed Length: 7.7cm. Weight: 39g.",
+  "availability": "In Stock",
+  "product_name": "Gerber Paraframe Mini SS Folding Clip Knife",
+  "specifications": [
+    "Overall Length: 15.2cm",
+    "Blade Length: 5.6cm",
+    "Closed Length: 7.7cm",
+    "Weight: 39g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-outdoor-knives.html|>
+## Hultafors Outdoor Knives
+
+{
+  "price": "€30.23 inc VAT",
+  "description": "The Hultafors OK1/OK4 Outdoor Knives have a scandi grind and are made from Japanese knife steel 3.0mm carbon steel that has been hardened to 58–60 HRC. It has a rust protective, electrophoretic deposition coating to withstand corrosion. The ground spine of the blade is designed for starting a fire with a fire starter and there is scale engraved on blade for optimised outdoor usage. It is fitted with a larger handle made from super-durable PP plastic. Supplied in a holster with a hard wearing, textile belt loop for belts up to 80mm wide. The holster can be attached around a button on your work clothes so that it does not come loose whilst still being easy to remove.",
+  "availability": "In Stock",
+  "product_name": "Hultafors Outdoor Knives",
+  "specifications": [
+    "Overall Length: 209mm (OK4)",
+    "Overall Length: 255mm (OK1)",
+    "Made from Japanese knife steel 3.0mm carbon steel",
+    "Hardened to 58–60 HRC",
+    "Rust protective electrophoretic deposition coating",
+    "Ground spine designed for starting a fire",
+    "Larger handle made from super-durable PP plastic",
+    "Supplied in a holster with a hard wearing textile belt loop"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-okr-gh-rescue-knife.html|>
+## Hultafors OKR GH Rescue Knife
+
+{
+  "price": "€20.97 inc VAT",
+  "description": "The Hultafors OKR GH Rescue Knife is fitted with a friction grip and serrated blade, made from 2.0mm stainless steel that has been hardened to 57–59 HRC. It has been optimised for cutting through hard or tough surfaces as well as ropes and strapping band especially where tension to the material is applied. It's cutting edge has been sharpened in several stages, 60mm of the blade is serrated to increase cutting power and the tip is blunt to minimise sharps injuries. The handle is made from super-durable PP plastic and fitted with a Santoprene friction grip. Supplied with a holster that can be attached around a button on your work clothes so that it does not come loose whilst still being easy to remove.",
+  "availability": "In Stock",
+  "product_name": "Hultafors OKR GH Rescue Knife",
+  "specifications": [
+    "Friction grip and serrated blade",
+    "Made from 2.0mm stainless steel",
+    "Hardened to 57–59 HRC",
+    "Optimised for cutting tough surfaces and ropes",
+    "60mm serrated blade for increased cutting power",
+    "Blunt tip to minimise sharp injuries",
+    "Handle made from super-durable PP plastic",
+    "Fitted with Santoprene friction grip",
+    "Supplied with a holster for easy attachment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-explorer-army-knife-red-blister-pack.html|>
+## Victorinox Explorer Army Knife Red Blister Pack
+
+{
+  "price": "€63.82 inc VAT (€51.89 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensable for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Explorer Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small 3 mm screwdriver, a bottle opener with a 6 mm screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick, scissors, a multi-purpose hook, a Phillips screwdriver and a magnifying glass. Colour: Red. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Explorer Army Knife Red Blister Pack",
+  "specifications": [
+    "Multi-functional Swiss Army Knife",
+    "Made from first class stainless steel",
+    "Includes large and small blades, corkscrew, can opener, bottle opener, reamer/punch tool, keyring, tweezers, toothpick, scissors, multi-purpose hook, Phillips screwdriver, and magnifying glass",
+    "Colour: Red",
+    "Size: 91mm (3.1/2in) long"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-farmer-swiss-army-knife-0824126.html|>
+## Victorinox Farmer Swiss Army Knife 0824126
+
+{
+  "price": "€50.85 inc VAT (€41.34 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Farmer Swiss Army Knife has a large blade, reamer, can opener with small screwdriver, a bottle opener with screwdriver, wire stripper, wood saw and a keyring. Colour: Silver Ribbed Alox. Size: 93mm (3.2/3in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Farmer Swiss Army Knife 0824126",
+  "specifications": [
+    "Large blade",
+    "Reamer",
+    "Can opener with small screwdriver",
+    "Bottle opener with screwdriver",
+    "Wire stripper",
+    "Wood saw",
+    "Keyring",
+    "Colour: Silver Ribbed Alox",
+    "Size: 93mm (3.2/3in) long"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-fisherman-swiss-army-knife-red-1473372.html|>
+## Victorinox Fisherman Swiss Army Knife Red 1473372
+
+{
+  "price": "€48.70 inc VAT (€39.59 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Fisherman Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small 3 mm screwdriver, a bottle opener with a 6 mm screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick, a fish scaler with hook disgorger and ruler, and pliers with wire cutters and a wire crimping tool. Colour: Red. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Fisherman Swiss Army Knife Red 1473372",
+  "specifications": [
+    "Large and small blades",
+    "Corkscrew",
+    "Can opener with small screwdriver",
+    "Bottle opener with screwdriver and wire stripper",
+    "Reamer/punch tool",
+    "Keyring",
+    "Tweezers",
+    "Toothpick",
+    "Fish scaler with hook disgorger and ruler",
+    "Pliers with wire cutters and crimping tool",
+    "Colour: Red",
+    "Size: 91mm (3.1/2in) long"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-forester-swiss-army-knife-black-083633.html|>
+## Victorinox Forester Swiss Army Knife Black 083633
+
+{
+  "price": "€59.51 inc VAT (€48.38 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Forester Swiss Army Knife has a large locking blade, a corkscrew, a can opener with a small 3 mm screwdriver, a bottle opener with an automatic locking screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick and a woodsaw. These locking knives are extremely robust and lightweight, and are specially developed for the police, fire service and army. The lockable screwdriver is particularly sturdy and well-suited to opening containers etc. The corkscrew is also suitable for loosening knots and storing the mini screwdriver. Colour: Black. Size: 111mm (4.3/8in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Forester Swiss Army Knife Black 083633",
+  "specifications": [
+    "Large locking blade",
+    "Corkscrew",
+    "Can opener with small screwdriver",
+    "Bottle opener with automatic locking screwdriver",
+    "Wire stripper",
+    "Reamer/punch tool",
+    "Keyring",
+    "Tweezers",
+    "Toothpick",
+    "Woodsaw",
+    "Colour: Black",
+    "Size: 111mm (4.3/8in) long"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-handyman-swiss-army-knife-red-1377300.html|>
+## Victorinox Handyman Swiss Army Knife Red 1377300
+
+{
+  "price": "€85.47 inc VAT (€69.49 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Handyman Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small 3 mm screwdriver, a bottle opener with a 6 mm screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick, scissors, a multi-purpose hook, a wood saw, a chisel, a nailfile with a metal file, a nail cleaner and a metal saw, a fine screwdriver and pliers with wire cutters and a wire crimping tool. Colour: Red. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Handyman Swiss Army Knife Red 1377300",
+  "specifications": [
+    "Multi-functional tool",
+    "Made from first class stainless steel",
+    "Size: 91mm (3.1/2in) long",
+    "Color: Red",
+    "Includes various tools such as blades, corkscrew, can opener, bottle opener, scissors, and more."
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-hiker-swiss-army-knife-red-1461300.html|>
+## Victorinox Hiker Swiss Army Knife Red 1461300
+
+{
+  "price": "€37.86 inc VAT (€30.78 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Hiker Swiss Army Knife has a large blade and a small blade, a Phillips screwdriver, can opener with small screwdriver, bottle opener with screwdriver and wire stripper, reamer/punch, keyring, tweezers, toothpick and a woodsaw. Colour: Red. Size: 91mm (3.1/2in) long",
+  "availability": "In Stock",
+  "product_name": "Victorinox Hiker Swiss Army Knife Red 1461300",
+  "specifications": [
+    "Large blade",
+    "Small blade",
+    "Phillips screwdriver",
+    "Can opener with small screwdriver",
+    "Bottle opener with screwdriver and wire stripper",
+    "Reamer/punch",
+    "Keyring",
+    "Tweezers",
+    "Toothpick",
+    "Woodsaw",
+    "Colour: Red",
+    "Size: 91mm (3.1/2in) long"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-mini-champ-swiss-army-knife-red-06385np.html|>
+## Victorinox Mini Champ Swiss Army Knife Red 06385NP
+
+{
+  "price": "€50.85 inc VAT (€41.34 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensable for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Mini Champ Swiss Army Knife has a blade, scissors, a nail file and nail cleaner, cuticle pusher, screwdriver with ruler, a blade/letter opener, an orange peeler with scraper, a bottle opener with magnet, Phillips screwdriver and wire stripper, key ring, tweezers, toothpick and a pressurised ballpoint pen. Length: 58mm. Colour: Red.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Mini Champ Swiss Army Knife Red 06385NP",
+  "specifications": [
+    "Length: 58mm",
+    "Colour: Red",
+    "Multi-functional tool with various features including blade, scissors, nail file, screwdriver, bottle opener, and more."
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-mountaineer-swiss-army-knife-red-1374300.html|>
+## Victorinox Mountaineer Swiss Army Knife Red 1374300
+
+{
+  "price": "€50.85 inc VAT (€41.34 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Mountaineer Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small 3mm screwdriver, a bottle opener with a 6mm screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick, scissors, a multi-purpose hook and a nailfile with a metal file, a nail cleaner and a metal saw. Colour: Red. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Mountaineer Swiss Army Knife Red 1374300",
+  "specifications": [
+    "Large and small blades",
+    "Corkscrew",
+    "Can opener with small screwdriver",
+    "Bottle opener with screwdriver and wire stripper",
+    "Reamer/punch tool",
+    "Keyring",
+    "Tweezers",
+    "Toothpick",
+    "Scissors",
+    "Multi-purpose hook",
+    "Nailfile with metal file and cleaner",
+    "Metal saw",
+    "Colour: Red",
+    "Size: 91mm (3.1/2in) long"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-ranger-swiss-army-knife-red-blister-pack.html|>
+## Victorinox Ranger Swiss Army Knife Red Blister Pack
+
+{
+  "price": "€70.33 inc VAT (€57.18 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensable for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Ranger Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small 3mm screwdriver, a bottle opener with a 6mm screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick, scissors, a multi-purpose hook, a woodsaw, a chisel, a nail file with a metal file, a nail cleaner and a metal saw and a fine screwdriver. Colour: Red. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Ranger Swiss Army Knife Red Blister Pack",
+  "specifications": [
+    "Size: 91mm (3.1/2in) long",
+    "Colour: Red",
+    "Multi-functional with various tools including blades, corkscrew, can opener, bottle opener, scissors, and more."
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-sportsman-swiss-army-knife-red-blister-pack.html|>
+## Victorinox Sportsman Swiss Army Knife Red Blister Pack
+
+{
+  "price": "€29.21 inc VAT (€23.75 exc.vat)",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Sportsman Swiss Army Knife has a large blade, a nail file with nail cleaner, a corkscrew, a can opener with a small screwdriver, a bottle opener with a screwdriver and wire stripper, a reamer/punch tool, tweezers and a toothpick. Supplied in a blister pack. Colour: Red. Size: 84mm (3.1/4in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Sportsman Swiss Army Knife Red Blister Pack",
+  "specifications": [
+    "Large blade",
+    "Nail file with nail cleaner",
+    "Corkscrew",
+    "Can opener with small screwdriver",
+    "Bottle opener with screwdriver and wire stripper",
+    "Reamer/punch tool",
+    "Tweezers",
+    "Toothpick",
+    "Colour: Red",
+    "Size: 84mm (3.1/4in) long"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-climber-swiss-army-knives.html|>
+## Victorinox Climber Swiss Army Knives
+
+{
+  "price": "€42.21 inc VAT",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of lifes situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Climber Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small 3 mm screwdriver, a bottle opener with a 6 mm screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick, scissors and a multi-purpose hook. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Climber Swiss Army Knives",
+  "specifications": [
+    "Size: 91mm (3.1/2in) long",
+    "Multi-functionality",
+    "Made from first class stainless steel",
+    "Includes large and small blades, corkscrew, can opener, bottle opener, wire stripper, reamer/punch tool, keyring, tweezers, toothpick, scissors, multi-purpose hook"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-huntsman---swiss-army-knives.html|>
+## Victorinox Huntsman - Swiss Army Knives
+
+{
+  "price": "€48.70 inc VAT",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of lifes situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Huntsman Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small 3 mm screwdriver, a bottle opener with a 6 mm screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick, scissors, a multi-purpose hook and a woodsaw. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Huntsman - Swiss Army Knives",
+  "specifications": [
+    "Multi-functionality",
+    "Made from first class stainless steel",
+    "Size: 91mm (3.1/2in) long",
+    "Includes large and small blades, corkscrew, can opener, bottle opener, wire stripper, reamer/punch tool, keyring, tweezers, toothpick, scissors, multi-purpose hook, woodsaw"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-spartan---swiss-army-knives.html|>
+## Victorinox Spartan - Swiss Army Knives
+
+{
+  "price": "from €29.21 inc VAT",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensable for many of lifes situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Spartan Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small 3mm screwdriver, a bottle opener with a 6mm screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers and a toothpick. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Spartan - Swiss Army Knives",
+  "specifications": [
+    "Size: 91mm (3.1/2in) long",
+    "Multi-functional tool with various features including blades, corkscrew, can opener, bottle opener, and more."
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-swiss-champ---swiss-army-knives.html|>
+## Victorinox Swiss Champ - Swiss Army Knives
+
+{
+  "price": "€107.11 inc VAT",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensable for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Swiss Champ Swiss Army Knife has large and small blades, a corkscrew, a can opener with a small screwdriver, a bottle opener with a screwdriver and wire stripper, a reamer/punch tool, a keyring, tweezers, a toothpick, scissors, a multi-purpose hook, a wood saw, a fish scaler with hook disgorger and a ruler, a nail file with a metal file, a nail cleaner and a metal saw, a fine screwdriver, a chisel, pliers with wire cutters and a wire crimping tool, a Phillips screwdriver, a magnifying glass, a pressurised ballpoint pen, a stainless steel pin, a mini-screwdriver and a sewing eye. Size: 91mm (3.1/2in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Swiss Champ - Swiss Army Knives",
+  "specifications": [
+    "Multi-functional tool",
+    "Made from first class stainless steel",
+    "Size: 91mm (3.1/2in) long",
+    "Includes various tools such as blades, screwdrivers, scissors, and more"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-waiter-swiss-army-knife.html|>
+## Victorinox Waiter Swiss Army Knife
+
+{
+  "price": "€19.47 inc VAT",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensable for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Waiter Swiss Army Knife has large blade, combination tool with bottle opener, can opener, screwdriver and wire stripper, a corkscrew, a keyring, tweezers and a toothpick. Colour: Red. Size: 84mm (3.1/4in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Waiter Swiss Army Knife",
+  "specifications": [
+    "Colour: Red",
+    "Size: 84mm (3.1/4in) long",
+    "Multi-functional tool with large blade, bottle opener, can opener, screwdriver, wire stripper, corkscrew, keyring, tweezers, and toothpick"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-leather-pouches.html|>
+## Victorinox Leather Pouches
+
+{
+  "price": "€27.07 inc VAT",
+  "description": "Every Victorinox belt pouch is designed and built to be worthy of the SwissTool or big Swiss Army Knife inside. That means rugged construction and elegant design. They're built to last, yet they go unnoticed until its crunch time. It also means that whichever one you choose, you can count on it to help you stay ready for anything, always.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Leather Pouches",
+  "specifications": [
+    "Select Option: 2-4 Layer, 5-8 Layer",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-black-fabric-pouches.html|>
+## Victorinox Black Fabric Pouches
+
+{
+  "price": "€24.90 inc VAT",
+  "description": "Every Victorinox belt pouch is designed and built to be worthy of the SwissTool or big Swiss Army Knife inside. That means rugged construction and elegant design. They're built to last, yet they go unnoticed until its crunch time. And it also means that whichever one you choose, you can count on it to help you stay ready for anything, always. The Black Fabric Pouch is made from waterproof synthetic fabric with hook and loop closure and space for flashlight.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Black Fabric Pouches",
+  "specifications": [
+    "Select Option: 2-3 Layer, 2-4 Layer, 4-6 Layer, 5-8 Layer",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-classic-sd---swiss-army-knives.html|>
+## Victorinox Classic SD - Swiss Army Knives
+
+{
+  "price": "€27.07 inc VAT",
+  "description": "A Victorinox Swiss Army Knife is a combination of solid hand tool and inventive creativity. A characteristic feature of the Victorinox Swiss Army Knife is its multi-functionality, which makes it indispensible for many of life's situations. All Victorinox Swiss Army Knives are made from first class stainless steel and are guaranteed against any defects in material and workmanship. The Classic SD Swiss Army Knife has a small blade, a nail file with squared tip to use as a small screwdriver, scissors, a toothpick and some tweezers. Size: 58mm (2.1/4in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Classic SD - Swiss Army Knives",
+  "specifications": [
+    "Size: 58mm (2.1/4in) long",
+    "Multi-functional tool",
+    "Made from first class stainless steel",
+    "Includes small blade, nail file, scissors, toothpick, and tweezers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-swiss-cards---translucent.html|>
+## Victorinox Swiss Cards - Translucent
+
+{
+  "price": "€37.88 inc VAT",
+  "description": "Victorinox designs provide the combination of solid hand tool and inventive creativity. A characteristic feature of the all Victorinox products are there multi-functionality, which makes it indispensable for many of life's situations. All Victorinox items are guaranteed against any defects in material and workmanship. You'll be amazed at how many tools we've packed into the Swiss Card and you'll be surprised at how often you need one of those tools tucked away inside. With its clever, award-winning design and incredible functionality, you'll enjoy each time you need to take it out. Just don't be too surprised if all the other items in your wallet get a little jealous. The Swiss Card has a letter opener blade, scissors, a stainless steel pin, and nail file with screwdriver, tweezers, a toothpick, a pressurised ballpoint pen and rulers in Cm and inches. Size: 56mm (2.1/4in) long.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Swiss Cards - Translucent",
+  "specifications": [
+    "Size: 56mm (2.1/4in) long",
+    "Multi-functional tools including letter opener, scissors, nail file, screwdriver, tweezers, toothpick, ballpoint pen, rulers in cm and inches"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-swiss-cards---lite.html|>
+## Victorinox Swiss Cards - Lite
+
+{
+  "price": "from €39.99 inc VAT",
+  "description": "You'll be amazed at how many tools we've packed into the Swiss Card and you'll be surprised at how often you need one of those tools tucked away inside. With its clever, award-winning design and incredible functionality, you'll enjoy each time you need to take it out. Featuring a bright LED, the SwissCard is always ready to shed some light on your everyday (and night) adventures. The Swiss Card Lite has a letter opener/blade, small scissors, stainless steel pin, tweezers, pressurised ballpoint pen, ruler in Cm and inches, magnifying glass, 3mm screwdriver, 5mm screwdriver, Phillips screwdriver 00-0, Phillips screwdriver 1-2 and an LED light. Length: 82mm (2.1/4in).",
+  "availability": "In Stock",
+  "product_name": "Victorinox Swiss Cards - Lite",
+  "specifications": [
+    "Length: 82mm (2.1/4in)",
+    "Includes LED light",
+    "Features multiple tools: letter opener, scissors, tweezers, ballpoint pen, ruler, magnifying glass, screwdrivers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-swiss-tools.html|>
+## Victorinox Swiss Tools
+
+{
+  "price": "€247.73 inc VAT",
+  "description": "The Victorinox SwissTool originates from the same workshop which has crafted the world famous MultiTool, the original Swiss Army Knife for more than 100 years. The SwissTool has the same qualities as the MultiTool. It is versatile, multi-functional and extremely user-friendly.",
+  "availability": "In Stock",
+  "product_name": "Victorinox Swiss Tools",
+  "specifications": [
+    "Select Option: CS Plus with Corkscrew",
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/victorinox-swisstools.html|>
+## Victorinox SwissTools
+
+{
+  "price": "€182.81 inc VAT",
+  "description": "The sturdy SwissTool has been well received since its launch in 1999, as it is particularly functional, versatile and very easy-to-use. Victorinox Swiss Army tools are a combination of solid hand tools and inventive creativity. A characteristic feature of the Victorinox SwissTool is its multi-functionality, which makes it indispensible for many of lifes situations. All Victorinox SwissTools are made from first class materials and are guaranteed against any defects in material and workmanship. The SwissTool features the following tools: pliers, wire cutters (for wire up to 40HRc), an electrical crimper, metal saw, screwdrivers (2, 3, 5 and 7.5mm), Phillips screwdrivers (1 and 2), a reamer/punch tool, a wood saw, a chisel/scraper, can opener, wire scraper, bottle opener, wire bender, wire strippers, strong crate opener, large knife blade, 230mm/9in ruler, lanyard attachment and lock release. Supplied with a leather pouch.",
+  "availability": "In Stock",
+  "product_name": "Victorinox SwissTools",
+  "specifications": [
+    "Multi Tool",
+    "Includes pliers, wire cutters, electrical crimper, metal saw, screwdrivers, Phillips screwdrivers, reamer/punch tool, wood saw, chisel/scraper, can opener, wire scraper, bottle opener, wire bender, wire strippers, strong crate opener, large knife blade, 230mm/9in ruler, lanyard attachment, lock release",
+    "Supplied with a leather pouch"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gerber-gdc-zip-blade-knife.html|>
+## Gerber GDC Zip Blade Knife
+
+{
+  "price": "€23.89 inc VAT (€19.42 exc.vat)",
+  "description": "The Gerber Daily Carry Zip Knife is small enough to fit in the palm of your hand, whilst still being strong enough to strip wire, cut cardboard, and slice through the toughest of clamshell packaging. An ever ready blade that has a quick-release clip that lets you remove this tool with one hand, leaving your other one free to steady a load or keep things aligned. When open, a frame lock keeps the compact 0.68-inch fine edge blade secure, so there’s no wobble when you’re powering through a cut. A built-in fob lets you attach it to the zipper of your jacket or bag, so it’s close at hand when you need it.",
+  "availability": "In Stock",
+  "product_name": "Gerber GDC Zip Blade Knife",
+  "specifications": [
+    "Overall Length: 5.7cm",
+    "Blade Length: 1.7cm",
+    "Closed Length: 4.3cm",
+    "Steel Type: 7Cr17",
+    "Handle Material: 3Cr13"
+  ]
+}
+

@@ -1,0 +1,128 @@
+<|https://www.mydiy.ie/products/faithfull-12-plastic-storage-bins-with-wall-mounting-rails.html|>
+## Faithfull 12 Plastic Storage Bins with Wall Mounting Rails
+
+{
+  "price": "€29.24 inc VAT (€23.77 exc.vat)",
+  "description": "The Faithfull FAIPAN12 is 12 plastic storage bins with mounting rails ideal for workshop, garage or hobbies. The storage bin system is a quick and easy way to organise small accessories with easy access. This achieves clearly laid out storage for small parts such as nails, wall plugs, screws etc. The bins are manufactured from shockproof polymer which is resistant to mild acids, solvents and oils. They have high thermal stability and resist damage from extremes of temperature. The plastic mounting rails can be configured in 1 row of 12, 2 rows of 6 or 4 rows of 3. The Faithfull FAIPAN12 contains the following: 12 Small Bins (Red): 160 x 100 x 75 mm. 4 Plastic Wall Mounting Rails. Mounting Screws and Wall Plugs.",
+  "availability": "In Stock",
+  "product_name": "Faithfull 12 Plastic Storage Bins with Wall Mounting Rails",
+  "specifications": [
+    "12 Small Bins (Red): 160 x 100 x 75 mm",
+    "4 Plastic Wall Mounting Rails",
+    "Mounting Screws and Wall Plugs"
+  ],
+  "product_category": "Storage & Access"
+}
+
+<|https://www.mydiy.ie/products/faithfull-1tonnebulkwoven-bag135gm2.html|>
+## Faithfull 1 Tonne Bulk Woven Bag 135G/M2
+
+{
+  "price": "€10.68 inc VAT (€8.68 exc.vat)",
+  "description": "A large builder’s one tonne bulk storage bag manufactured from a woven polypropylene for superior strength and tear resistance and fitted with four corner loops for easy lifting. Storage Bags are officially called ‘Flexible Intermediate Bulk Containers’, but are commonly known as a bulk bags, tonne bags or tote bags. Because of their flexibility, bags are much easier to transport than rigid containers and are best used for the storage of dry, flowing products including sand, gravel, soil and stones but can also be used for waste collection and transportation. One tonne bulk bags are large enough for storing a significant amount of industrial products and are ideal for the building, landscaping, construction and agricultural industries, offering an alternative to metal skips or rigid storage containers. The open top allows easy access to the contents, and a flat base will remain stable when placed on any flat surface. These bags are both strong and robust and intended for single-use in heavy-duty applications, but can be reused for lighter duty work. Each bag has four 30cm lifting loops which can be used to manually move the bag or looped on to a crane or forklift for transporting across the work site or warehouse. Maximum loading weight: 1,000kg (single use only at maximum weight). Size: 900 x 900 x 800cm",
+  "availability": "In Stock",
+  "product_name": "Faithfull 1 Tonne Bulk Woven Bag 135G/M2",
+  "specifications": [
+    "Size: 900 x 900 x 800cm",
+    "Maximum loading weight: 1,000kg (single use only at maximum weight)",
+    "Manufactured from woven polypropylene for superior strength and tear resistance",
+    "Fitted with four corner loops for easy lifting"
+  ],
+  "product_category": "Storage & Access"
+}
+
+<|https://www.mydiy.ie/products/faithfull-24-plastic-storage-bins-with-metal-wall-panel.html|>
+## Faithfull 24 Plastic Storage Bins with Metal Wall Panel
+
+{
+  "price": "€55.07 inc VAT (€44.77 exc.vat)",
+  "description": "This set of Faithfull 24 plastic storage bins with a metal wall panel is ideal for workshop, garage or hobbies. It offers a quick and easy way to organise small accessories with easy access. Clearly laid out storage for small parts such as nails, wall plugs, screws etc, and is manufactured from shock-proof polymer which is resistant to mild acids, solvents and oils. The bins have a high thermal stability and resist damage from extremes of temperature and they are supplied with a heavy-duty steel back panel that can be wall-mounted or fitted in to a van. Contents: 12 Small Bins (Red): 110 x 100 x 75 mm. 6 Medium Bins (Blue): 165 x 100 x 75 mm. 6 Large Bins (Blue): 210 x 100 x 75 mm. Metal Slot Wall Panel: 660 x 380 x 0.85 mm. Mounting screws and wall plugs.",
+  "availability": "Out of Stock",
+  "product_name": "Faithfull 24 Plastic Storage Bins with Metal Wall Panel",
+  "specifications": [
+    "12 Small Bins (Red): 110 x 100 x 75 mm",
+    "6 Medium Bins (Blue): 165 x 100 x 75 mm",
+    "6 Large Bins (Blue): 210 x 100 x 75 mm",
+    "Metal Slot Wall Panel: 660 x 380 x 0.85 mm",
+    "Manufactured from shock-proof polymer",
+    "Resistant to mild acids, solvents, and oils",
+    "High thermal stability",
+    "Heavy-duty steel back panel for wall mounting"
+  ],
+  "product_category": "Storage & Access"
+}
+
+
+
+<|https://www.mydiy.ie/products/bosch-i-boxx-53-organiser-case.html|>
+## Bosch i-BOXX 53 Organiser Case
+
+{
+  "price": "€50.28 inc VAT (€40.88 exc.vat)",
+  "description": "The Bosch i-BOXX 53 has a transparent lid for a clear view of the items inside. Its 12 specially arranged, coloured boxes allow you to store various items such as small accessories or consumables. Compatible with the i-BOXX rack and the LS-BOXX for full flexibility in storage.",
+  "availability": "Out of Stock",
+  "product_name": "Bosch i-BOXX 53 Organiser Case",
+  "specifications": [
+    "Outer Dimensions (WxLxH): 311 x 367 x 57mm",
+    "Weight: 0.8kg"
+  ],
+  "product_category": "Storage & Access"
+}
+
+<|https://www.mydiy.ie/products/faithfull-new-group-for-faitbbin1.html|>
+## Faithfull New Group for FAITBBIN1
+
+{
+  "price": "€1.65 inc VAT",
+  "description": "Available in six sizes and manufactured from robust polypropylene these sturdy interlocking storage bins can be stacked to provide a versatile storage solution for a variety of both small and large parts, a wall mounting panel suitable for use with these bins is also available - Part number: FAITBPANEL",
+  "availability": "In Stock",
+  "product_name": "Faithfull New Group for FAITBBIN1",
+  "specifications": [
+    "Available in six sizes",
+    "Manufactured from robust polypropylene",
+    "Interlocking storage bins",
+    "Can be stacked",
+    "Wall mounting panel available (Part number: FAITBPANEL)"
+  ],
+  "product_category": "Storage & Access"
+}
+
+<|https://www.mydiy.ie/products/faithfull-plastic-louvre-board-for-ergobox-bins.html|>
+## Faithfull Plastic Louvre Board For Ergobox Bins
+
+{
+  "price": "€10.34 inc VAT (€8.41 exc.vat)",
+  "description": "Plastic slatted wall panel allowing various combinations of Ergobox parts boxes to be wall mounted. Boards can be linked together. Ideal for use in both professional workshops or for home storage.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Plastic Louvre Board For Ergobox Bins",
+  "specifications": [
+    "Plastic slatted wall panel",
+    "Allows various combinations of Ergobox parts boxes to be wall mounted",
+    "Boards can be linked together",
+    "Ideal for use in professional workshops or home storage"
+  ],
+  "product_category": "Storage & Access"
+}
+
+<|https://www.mydiy.ie/products/faithfull-storage-bin-set-with-wall-panels-43-piece.html|>
+## Faithfull Storage Bin Set with Wall Panels 43-Piece
+
+{
+  "price": "€45.02 inc VAT (€36.60 exc.vat)",
+  "description": "This Faithfull 43-piece wall mounted storage system is a quick and easy way to organise tools, fixings and accessories with easy access. The set comprises two sturdy wall panels with 28 plastic bins for small parts such as nails, anchors and screws, and various tool holders that will accommodate screwdrivers, drill bits, combination spanners and many more items. Ideal for use in the workshop, garage or for hobby use.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Storage Bin Set with Wall Panels 43-Piece",
+  "specifications": [
+    "2 x Plastic Wall Panels (approx. 420 x 590mm each) – Grey",
+    "16 x Small Bins (approx. 115 x 100 x 73mm each) - Red, Blue",
+    "8 x Medium Bins (approx. 165 x 100 x 73mm each) – Blue",
+    "4 x Large Bins (approx. 215 x 100 x 73mm each) – Yellow",
+    "10 x Hooks (approx. 50mm each) – Blue",
+    "1 x Bit and Drill Holder for various drill sizes (approx. 165 x 50mm) – Blue",
+    "1 x Tool Holder (approx. 210 x 95mm) – Blue",
+    "1 x Combination Spanner Holder (approx. 218 x 68mm) – Blue",
+    "Mounting Hardware"
+  ],
+  "product_category": "Storage & Access"
+}
+

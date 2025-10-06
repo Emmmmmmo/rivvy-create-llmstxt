@@ -1,0 +1,100 @@
+<|https://www.mydiy.ie/products/arctic-hayes-carbon-monoxide-alarm-tester-spray-520ml.html|>
+## Arctic Hayes Carbon Monoxide Alarm Tester Spray 520ml
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The Arctic Hayes Carbon Monoxide Alarm Tester Spray is simple and easy to use. Designed to test the sensor all carbon monoxide alarms and flue gas analysers, as recommended by the fire brigade. Offers up to 7 tests per can.",
+  "availability": "In Stock",
+  "product_name": "Arctic Hayes Carbon Monoxide Alarm Tester Spray 520ml",
+  "specifications": [
+    "520ml capacity",
+    "Tests carbon monoxide alarms and flue gas analysers",
+    "Up to 7 tests per can"
+  ],
+  "product_category": "Safety"
+}
+
+
+
+<|https://www.mydiy.ie/products/faithfull-barrier-tapes.html|>
+## Faithfull Barrier Tapes
+
+{
+  "price": "from €12.96 inc VAT",
+  "description": "A strong, durable non-adhesive PVC tape used for marking out of cordoning off areas. The highly contrasting coloured stripes serve as a clear visual warning and also present a barrier to areas that require to be sectioned off. Suitable for a wide range of uses in various trades and services that include, construction sites, factories, warehouses, emergency services and many other situations where safety of personnel is a priority.",
+  "availability": "In Stock",
+  "product_name": "Faithfull Barrier Tapes",
+  "specifications": [
+    "Non-adhesive PVC tape",
+    "Highly contrasting coloured stripes",
+    "Suitable for construction sites, factories, warehouses, emergency services"
+  ],
+  "product_category": "Safety"
+}
+
+<|https://www.mydiy.ie/products/black-spur-fire-blanket-1m-x-1m-kitchen-home-caravan.html|>
+## black spur Fire Blanket 1M x 1M Kitchen Home Caravan
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "BLACKSPUR FIRE BLANKET 1M X 1M Manufactured to BS EN 1869 1997 The fire blanket is ideal for most small kitchen, and is especially good for homes and caravans Protective outer bag with hanging key hole Ref FB101",
+  "availability": "In Stock",
+  "product_name": "black spur Fire Blanket 1M x 1M Kitchen Home Caravan",
+  "specifications": [
+    "Manufactured to BS EN 1869 1997",
+    "Ideal for small kitchens, homes, and caravans",
+    "Protective outer bag with hanging key hole",
+    "Ref FB101"
+  ],
+  "product_category": "Safety"
+}
+
+<|https://www.mydiy.ie/products/bod-underground-warning-tape.html|>
+## BOD Underground Warning Tape
+
+{
+  "price": "€33.73 inc VAT",
+  "description": "Utilitape™ underground warning tape (UWT) for marking underground buried services. Coloured polyethylene with a printed warning message. Economy 50 micron grade.",
+  "availability": "In Stock",
+  "product_name": "BOD Underground Warning Tape",
+  "specifications": [
+    "Select Option: Electric Cable, Gas Below, Sewer, Telephone Cable, Water Pipe Below",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Safety"
+}
+
+<|https://www.mydiy.ie/products/bolle-safety-b-clean-cleaning-tissues-dispenser.html|>
+## Bolle Safety b Clean Cleaning Tissues Dispenser
+
+{
+  "price": "€15.22 inc VAT",
+  "description": "The Bollé Safety b Clean Cleaning Tissues Dispenser contains lint-free wipes that are also alcohol and silicone-free and suitable for all Bollé Safety lens coatings.",
+  "availability": "In Stock",
+  "product_name": "Bolle Safety b Clean Cleaning Tissues Dispenser",
+  "specifications": [
+    "Lint-free wipes",
+    "Alcohol and silicone-free",
+    "Suitable for all Bollé Safety lens coatings"
+  ],
+  "product_category": "Safety"
+}
+
+<|https://www.mydiy.ie/products/first-alert-carbon-monoxide-alarm.html|>
+## First Alert Carbon Monoxide Alarm
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The First Alert CO400 Carbon Monoxide Alarm utilises an electrochemical carbon monoxide sensor to detect carbon monoxide. This carbon monoxide detector is battery operated, making it portable and easy to use, even in the event of a power outage. When carbon monoxide levels become elevated, a loud 85-decibel alarm alerts you to the threat. Detector features a single test/silence button for efficient testing. Battery-operated detector works almost anywhere. Loud 85-decibel alarm sounds when CO levels are detected. CO detector alerts you to carbon monoxide.",
+  "availability": "In Stock",
+  "product_name": "First Alert Carbon Monoxide Alarm",
+  "specifications": [
+    "Electrochemical carbon monoxide sensor",
+    "Battery operated",
+    "85-decibel alarm",
+    "Single test/silence button"
+  ],
+  "product_category": "Safety"
+}
+

@@ -1,0 +1,302 @@
+<|https://www.mydiy.ie/products/roughneck-mini-wire-brush-set-of-3.html|>
+## Roughneck Mini Wire Brush Set of 3
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Roughneck Mini Wire Brush Set contains one each of nylon, stainless steel and brass bristles. Each brush has a TPR soft grip handle and they are suitable for general cleaning, the preparation of most types of small surfaces and also cleaning small parts such as contacts on spark plugs. This wire brush is ideal for cleaning patios, decking and barbeques. It can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Mini Wire Brush Set of 3",
+  "specifications": [
+    "Contains one each of nylon, stainless steel and brass bristles",
+    "TPR soft grip handle",
+    "Suitable for general cleaning and preparation of small surfaces",
+    "Ideal for cleaning patios, decking, and barbeques",
+    "Can clean paint, rust, and damp patches from various materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-narrow-brush-set-of-3.html|>
+## Roughneck Narrow Brush Set of 3
+
+{
+  "price": "€11.41 inc VAT (€9.28 exc.vat)",
+  "description": "Roughneck Narrow Brush Set contains one each of nylon, stainless steel and brass bristles. Each brush has a TPR soft grip handle and they are suitable for general cleaning, the preparation of most types of small surfaces and also cleaning small parts such as contacts on spark plugs. This wire brush is ideal for cleaning patios, decking and barbeques. It can also be used for cleaning paint, rust, damp patches from brickwork, workwork, metalwork etc. Each brush is 7 inch with 3 rows of 10 sets of bristles.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Narrow Brush Set of 3",
+  "specifications": [
+    "Contains one each of nylon, stainless steel and brass bristles",
+    "TPR soft grip handle",
+    "Suitable for general cleaning and preparation of small surfaces",
+    "Ideal for cleaning patios, decking, and barbeques",
+    "Each brush is 7 inch with 3 rows of 10 sets of bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-wide-brush-set-of-3.html|>
+## Roughneck Wide Brush Set of 3
+
+{
+  "price": "€15.18 inc VAT (€12.34 exc.vat)",
+  "description": "Roughneck Wide Brush Set contains one each of nylon, stainless steel and brass bristles with integral scrapers. Each brush has a TPR soft grip handle and they are suitable for general cleaning, the preparation of most types of large surfaces and also cleaning small parts such as contacts on spark plugs. This wire brush is ideal for cleaning patios, decking and barbeques. It can also be used for cleaning paint, rust, damp patches from brickwork, workwork, metalwork etc. Each brush is 7 inch with 5 rows of 11 sets of bristles.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Wide Brush Set of 3",
+  "specifications": [
+    "Wire Brush Set of 3",
+    "ROU52012 : €15.18",
+    "Each brush is 7 inch with 5 rows of 11 sets of bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-block-wire-brush.html|>
+## Roughneck Block Wire Brush
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Roughneck Block Wire Brush is a 5 row block wire brush which is a 165mm (6.5 inch) brush with 18 sets of anodised carbon steel bristles and a TPR Soft Grip handle. The palm type design with tapered end is suitable for working into corners. The wire brush can be used for cleaning patios and barbeques and cleaning small parts such as contacts on spark plugs. It can also be used for cleaning paint, rust, damp patches from brickwork, workwork, metalwork etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Block Wire Brush",
+  "specifications": [
+    "5 row block wire brush",
+    "165mm (6.5 inch)",
+    "18 sets of anodised carbon steel bristles",
+    "TPR Soft Grip handle",
+    "Suitable for cleaning patios, barbeques, and small parts"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-two-handed-wire-brush-soft-grip.html|>
+## Roughneck Two Handed Wire Brush Soft-Grip
+
+{
+  "price": "€15.18 inc VAT (€12.34 exc.vat)",
+  "description": "Roughneck Two Handed Wire Brush is a 5 row 2 handed wire brush is 250mm (10 inch), with 32 sets of anodised carbon steel bristles and a TPR soft-grip handle. The two handed operation offers a more comfortable grip when using on large areas and it is ideal for cleaning patios, BBQ's and paint and rust from hard surfaces.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Two Handed Wire Brush Soft-Grip",
+  "specifications": [
+    "5 row 2 handed wire brush",
+    "250mm (10 inch)",
+    "32 sets of anodised carbon steel bristles",
+    "TPR soft-grip handle",
+    "Ideal for cleaning patios, BBQ's, and paint and rust from hard surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-universal-hand-brushes.html|>
+## Lessmann Universal Hand Brushes
+
+{
+  "price": "from €9.02 inc VAT",
+  "description": "The Lessmann Universal Hand Brushes have been designed for the DIY enthusiast and are useful for many cleaning operations. Size: 260 x 28mm. 056.301: 0.3 Crimped Steel Wire. 056.501: 0.3 Stainless Steel Wire. 056.701: 0.3 Brass Wire.",
+  "availability": "In Stock",
+  "product_name": "Lessmann Universal Hand Brushes",
+  "specifications": [
+    "Size: 260 x 28mm",
+    "Available in 0.3 Crimped Steel Wire, 0.3 Stainless Steel Wire, 0.3 Brass Wire"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-rivet-brush.html|>
+## Lessmann Rivet Brush
+
+{
+  "price": "€11.97 inc VAT",
+  "description": "Lessmann Rivet Brush with V-shaped filling material that enables the removal of slag and scale from normally hard to reach welds and fillet welds. Wooden Handle: 290 x 35mm Filament: 3 x 15 rows",
+  "availability": "In Stock",
+  "product_name": "Lessmann Rivet Brush",
+  "specifications": [
+    "Wooden Handle: 290 x 35mm",
+    "Filament: 3 x 15 rows"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-spark-plug-brush.html|>
+## Lessmann Spark Plug Brush
+
+{
+  "price": "from €2.39 inc VAT",
+  "description": "Lessmann Spark Plug Brush with a beech wood handle. Suitable for all fine brushwork that requires a thin wire.",
+  "availability": "In Stock",
+  "product_name": "Lessmann Spark Plug Brush",
+  "specifications": [
+    "Select Option: 2 Row Brass Wire, 3 Row Brass Wire, 3 Row Stainless Steel Wire"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-low-spark-spark-plug-brush.html|>
+## Lessmann Low Spark Spark Plug Brush
+
+{
+  "price": "from €4.27 inc VAT",
+  "description": "The Lessmann Spark Plug Brush built for manually removing dirt and buildup on soft and delicate surfaces such as sparkplugs and is suitable for fine brushing work. The brush's body is made out of PEFC certified beech wood. The high-grade 'Made in Germany' quality is often used in craft businesses and repair shops.",
+  "availability": "In Stock",
+  "product_name": "Lessmann Low Spark Spark Plug Brush",
+  "specifications": [
+    "Select Option: 3 Row, 4 Row",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-heavy-duty-wire-brush-set-3pc.html|>
+## Roughneck Heavy Duty Wire Brush Set (3pc)
+
+{
+  "price": "€18.01 inc VAT (€14.64 exc.vat)",
+  "description": "These brushes are ideal for cleaning patios, barbeques, paint and rust from hard surfaces and cleaning small parts such as contacts on spark plugs, and can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc. This set consists: The Carbon Steel Wire Brush which is a 4 row general purpose wire brush, it is a 300mm (12in) brush with 11 sets of anodised carbon steel bristles and a TPR soft-grip handle. Like all in the trio this wire brush is ideal for cleaning patios, barbeques, paint and rust from hard surfaces and cleaning small parts such as contacts on spark plugs. It can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc. 1 x Roughneck ROU52042 Carbon Steel Wire Brush Soft Grip with Scraper 300mm (12in). The Heavy Duty Tapered Block Wire Brush which is ideal for cleaning corners. It has 18 sets of large carbon steel bristles and is suitable for general purpose use and soft grip for comfort. It is also ideal for cleaning patios, BBQ's, paint, rust, damp patches from brick work, woodwork, metal work and much more. 1 x Roughneck ROU52050 Block Wire Brush with Handle, overall length 165mm (6½in). The Heavy-Duty Two-Handed Wire Brush is ideal for applying extra force and features two soft grips for comfort in use. It has 32 sets of large carbon steel bristles and is suitable for general purpose use. It is also ideal for larger areas, cleaning patios, BBQ's, paint, rust, damp patches from brick work, woodwork, metal work and more.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Heavy Duty Wire Brush Set (3pc)",
+  "specifications": [
+    "Carbon Steel Wire Brush - 300mm (12in) with 11 sets of anodised carbon steel bristles",
+    "Heavy Duty Tapered Block Wire Brush - 165mm (6½in) with 18 sets of large carbon steel bristles",
+    "Heavy-Duty Two-Handed Wire Brush with 32 sets of large carbon steel bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-abrasive-brush-set-3-assorted.html|>
+## Stanley Tools Abrasive Brush Set (3 Assorted)
+
+{
+  "price": "€4.64 inc VAT (€3.77 exc.vat)",
+  "description": "An assorted abrasive brush set with nylon, brass and wire filling. Suitable for a multitude of cleaning jobs.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Abrasive Brush Set (3 Assorted)",
+  "specifications": [
+    "Assorted abrasive brush set",
+    "Includes nylon, brass, and wire filling",
+    "Suitable for various cleaning jobs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-wire-brush-soft-grip.html|>
+## Roughneck Wire Brush Soft Grip
+
+{
+  "price": "€4.87 inc VAT",
+  "description": "Roughneck Wire Brush with 3 rows of large wires. It is 350mm (14 inch) long and has 19 sets of bristles, an integrated hardened steel scraper and a TPR soft grip handle. This wire brush is ideal for cleaning patios, decking and barbeques, cleaning small parts such as contacts on spark plugs and removing paint and rust from hard surfaces. Comes in: Carbon, Stainless, or Brass Wire Bristles.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Wire Brush Soft Grip",
+  "specifications": [
+    "Length: 350mm (14 inch)",
+    "3 rows of large wires",
+    "19 sets of bristles",
+    "Integrated hardened steel scraper",
+    "TPR soft grip handle",
+    "Available in Carbon, Stainless, or Brass Wire Bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-carbon-steel-wire-brush-soft-grip-300mm-12in.html|>
+## Roughneck Carbon Steel Wire Brush Soft-Grip 300mm (12in)
+
+{
+  "price": "€7.55 inc VAT (€6.14 exc.vat)",
+  "description": "Roughneck Carbon Steel Wire Brush is a 4 row general purpose wire brush is a 300mm (12 inch) brush with 11 sets of anodised carbon steel bristles and a TPR soft-grip handle. This wire brush is ideal for cleaning patios, barbeques, paint and rust from hard surfaces and cleaning small parts such as contacts on spark plugs. It can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Carbon Steel Wire Brush Soft-Grip 300mm (12in)",
+  "specifications": [
+    "Carbon Steel Wire Brush",
+    "4 row general purpose",
+    "300mm (12 inch)",
+    "11 sets of anodised carbon steel bristles",
+    "TPR soft-grip handle"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-carbon-steel-wire-brush-soft-grip-with-scraper-300mm-12in.html|>
+## Roughneck Carbon Steel Wire Brush Soft-Grip with Scraper 300mm (12in)
+
+{
+  "price": "€7.55 inc VAT (€6.14 exc.vat)",
+  "description": "Roughneck Carbon Steel Wire Brush is a 4 row general purpose wire brush is a 300mm (12 inch) brush with 11 sets of anodised carbon steel bristles, TPR soft-grip handle and an integrated hardened steel scraper. This wire brush is ideal for cleaning patios, barbeques, paint and rust from hard surfaces and cleaning small parts such as contacts on spark plugs. It can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Carbon Steel Wire Brush Soft-Grip with Scraper 300mm (12in)",
+  "specifications": [
+    "Carbon Steel Wire Brush",
+    "4 row general purpose",
+    "300mm (12 inch)",
+    "11 sets of anodised carbon steel bristles",
+    "TPR soft-grip handle",
+    "Integrated hardened steel scraper"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-shoe-handle-wire-brush-soft-grip-250mm-10in.html|>
+## Roughneck Shoe Handle Wire Brush Soft-Grip 250mm (10in)
+
+{
+  "price": "€7.55 inc VAT (€6.14 exc.vat)",
+  "description": "Roughneck Shoe Handle Wire Brush is a 4 row shoe handle wire brush is 250mm (10 inch), with 16 sets of anodised carbon steel bristles and a TPR soft-grip handle. It is a medium size brush for general DIY and professional use. The wire brush can be used for cleaning patios and barbeques and cleaning small parts such as contacts on spark plugs. It can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Shoe Handle Wire Brush Soft-Grip 250mm (10in)",
+  "specifications": [
+    "4 row shoe handle wire brush",
+    "250mm (10 inch)",
+    "16 sets of anodised carbon steel bristles",
+    "TPR soft-grip handle",
+    "Medium size brush for general DIY and professional use"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-heavy-duty-scrub-brush-soft-grip-200mm-8in-no-handle.html|>
+## Roughneck Heavy-Duty Scrub Brush Soft-Grip 200mm (8in) NO Handle
+
+{
+  "price": "€9.91 inc VAT (€8.06 exc.vat)",
+  "description": "Roughneck Heavy-Duty Scrub Brush is a 6 row heavy-duty scrubbing brush, 200mm (8 inch), with 19 sets of anodised carbon steel bristles. It can be used as a hand brush or with handle (ROU52080). The brush is perfect for scrubbing decking prior to re-painting or patio slabs and general block and concrete surfaces.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Heavy-Duty Scrub Brush Soft-Grip 200mm (8in) NO Handle",
+  "specifications": [
+    "200mm (8 inch) size",
+    "6 row heavy-duty scrubbing brush",
+    "19 sets of anodised carbon steel bristles",
+    "Can be used as a hand brush or with handle (ROU52080)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-1200mm-metal-handle-for-52-060-and-52-070.html|>
+## Roughneck 1200mm metal handle for 52-060 & 52-070
+
+{
+  "price": "€6.86 inc VAT (€5.58 exc.vat)",
+  "description": "1200mm Metal Handle to fit the Roughneck ROU52060 Heavy-Duty Scrub Brush and the ROU52070 Plastic Deck Wire Brush.",
+  "availability": "In Stock",
+  "product_name": "Roughneck 1200mm metal handle for 52-060 & 52-070",
+  "specifications": [
+    "ROU52080 : €6.86",
+    "List: €8.86",
+    "You save €2.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-short-handled-wire-brush-11in.html|>
+## Purdy® Short Handled Wire Brush 11in
+
+{
+  "price": "€11.64 inc VAT (€9.46 exc.vat)",
+  "description": "The Purdy® Short Handled Wire Brush comes with rust proof Stainless Steel bristles in a patented 'criss cross' design. Removes paint twice as quickly than a standard wire brush. Fitted with a slip resistant cushion grip handle for increased comfort.",
+  "availability": "In Stock",
+  "product_name": "Purdy® Short Handled Wire Brush 11in",
+  "specifications": [
+    "Size: 279mm (11in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-broom-heads.html|>
+## Lessmann Broom Heads
+
+{
+  "price": "€15.08 inc VAT",
+  "description": "Lessmann Broom Heads",
+  "availability": "In Stock",
+  "product_name": "Lessmann Broom Heads",
+  "specifications": [
+    "Select Option: 220mm x 60mm, 300mm x 70mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+

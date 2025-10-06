@@ -1,0 +1,115 @@
+<|https://www.mydiy.ie/products/carlube-2-stroke-motorcycle-oil-1-litre.html|>
+## Carlube 2 Stroke Motorcycle Oil 1 Litre
+
+{
+  "price": "€11.84 inc VAT (€9.63 exc.vat)",
+  "description": "Carlube 2 Stroke Motorcycle Oil has been manufactured for high powered and off road motorcycle engines. Suitable for both european and japanese models.",
+  "availability": "Out of Stock",
+  "product_name": "Carlube 2 Stroke Motorcycle Oil 1 Litre",
+  "specifications": [
+    "API TC+",
+    "JASO FC",
+    "ISO-EGD"
+  ],
+  "product_category": "Automotive Care"
+}
+
+<|https://www.mydiy.ie/products/carlube-triple-r-15w40-high-mile-oil-1-litre.html|>
+## Carlube Triple R 15W40 High Mile Oil 1 Litre
+
+{
+  "price": "€12.45 inc VAT (€10.12 exc.vat)",
+  "description": "Triple R 15W40 High Mile Oil is suitable for use in petrol and diesel engines that consistently travel for longer, high mileage journeys. Can also be used in Classic Cars.",
+  "availability": "In Stock",
+  "product_name": "Carlube Triple R 15W40 High Mile Oil 1 Litre",
+  "specifications": [
+    "1 Litre",
+    "Suitable for petrol and diesel engines",
+    "Can be used in Classic Cars"
+  ],
+  "product_category": "Automotive Care"
+}
+
+<|https://www.mydiy.ie/products/carlube-triple-r-5w30-fully-synthetic-ford-oil-1-litre.html|>
+## Carlube Triple R 5W30 Fully Synthetic Ford Oil 1 Litre
+
+{
+  "price": "€17.55 inc VAT (€14.27 exc.vat)",
+  "description": "Triple R 5W30 Fully Synthetic Ford Oil is suitable for use in the latest generation of Ford petrol and diesel engines. Including Duratec, Duratorq and Zetec offering the exacting fuel economy requirements of both Acea 2012 and Ford.",
+  "availability": "In Stock",
+  "product_name": "Carlube Triple R 5W30 Fully Synthetic Ford Oil 1 Litre",
+  "specifications": [
+    "ACEA A5/B5",
+    "FORD WSS-M2C913-D/913-C"
+  ],
+  "product_category": "Automotive Care"
+}
+
+<|https://www.mydiy.ie/products/carlube-triple-r-5w30-fully-synthetic-oil-1-litre.html|>
+## Carlube Triple R 5W30 Fully Synthetic Oil 1 Litre
+
+{
+  "price": "€16.59 inc VAT (€13.49 exc.vat)",
+  "description": "Triple R 5W30 Fully Synthetic Oil is suitable for the latest generation of petrol and diesel engines that are on fixed and variable service intervals and that also require a low saps/ash engine oil.",
+  "availability": "In Stock",
+  "product_name": "Carlube Triple R 5W30 Fully Synthetic Oil 1 Litre",
+  "specifications": [
+    "API SN/CF",
+    "ACEA C3"
+  ],
+  "product_category": "Automotive Care"
+}
+
+<|https://www.mydiy.ie/products/carlube-triple-r-5w30-fully-synthetic-vw-oil-1-litre.html|>
+## Carlube Triple R 5W30 Fully Synthetic VW Oil 1 Litre
+
+{
+  "price": "€23.79 inc VAT (€19.34 exc.vat)",
+  "description": "Triple R 5W30 Fully Synthetic VW Oil is suitable for use in the latest Volkswagen, Audi, Skoda, Seat, BMW and Mercedes-Benz petrol and diesel engines.",
+  "availability": "In Stock",
+  "product_name": "Carlube Triple R 5W30 Fully Synthetic VW Oil 1 Litre",
+  "specifications": [
+    "PORCHE C30",
+    "ACEA C3",
+    "BMW LONGLIFE LL-04",
+    "VW 504 00/507 00",
+    "MB 229 31/229 51"
+  ],
+  "product_category": "Automotive Care"
+}
+
+<|https://www.mydiy.ie/products/carpride-magnetic-l-plates.html|>
+## CarPride Magnetic L Plates
+
+{
+  "price": "€3.99 inc VAT (€3.24 exc.vat)",
+  "description": "Easy to fit and remove.",
+  "availability": "In Stock",
+  "product_name": "CarPride Magnetic L Plates",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ],
+  "product_category": "Automotive Care"
+}
+
+
+
+<|https://www.mydiy.ie/products/carlube-triple-r-10w40-semi-synthetic-oil-1-litre.html|>
+## Carlube Triple R 10W40 Semi Synthetic Oil 1 Litre
+
+{
+  "price": "€12.36 inc VAT (€10.05 exc.vat)",
+  "description": "Triple R 10W40 Semi Synthetic Oil has been specially developed to meet the exacting requirements of Europe's leading vehicle engine manufacturers. Suitable for use in a wide range of modern petrol and diesel engines.",
+  "availability": "In Stock",
+  "product_name": "Carlube Triple R 10W40 Semi Synthetic Oil 1 Litre",
+  "specifications": [
+    "API SN/CF",
+    "ACEA A3/B3",
+    "A3/B4",
+    "MB 229.1",
+    "VW 502.00/505.00"
+  ],
+  "product_category": "Automotive Care"
+}
+

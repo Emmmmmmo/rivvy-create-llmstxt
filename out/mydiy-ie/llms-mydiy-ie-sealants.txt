@@ -1,0 +1,1063 @@
+<|https://www.mydiy.ie/products/dowsil-firestop-400-acrylic-sealant-white-380ml.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/everbuild-fire-mate-sealants.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/everbuild-heat-mate-sealant.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tec7-tec7-sealants.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/ronseal-window-and-door-frame-sealant-310ml.html|>
+## Ronseal Window & Door Frame Sealant 310ml
+
+{
+  "price": "€8.04 inc VAT (€6.54 exc.vat)",
+  "description": "Thompson's Window & Door Frame Sealant provides a long lasting, durable repair and can be used in both wet and dry conditions. It has a highly flexible formula that won't crack or peel. Immediately weatherproof. Suitable for use on: wood, brick, metal, UPVC, plastic, tiles and terracotta.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Window & Door Frame Sealant 310ml",
+  "specifications": [
+    "310ml size",
+    "Flexible formula",
+    "Weatherproof",
+    "Suitable for various materials (wood, brick, metal, UPVC, plastic, tiles, terracotta)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-791-silicone-sealant.html|>
+## Dowsil 791 Silicone Sealant
+
+{
+  "price": "€14.70 inc VAT",
+  "description": "Dowsil™ 791 is a one-part neutral silicone for weather sealing. It is used for both commercial and domestic applications and provides excellent adhesion to most exterior substrates. It has excellent weathering characteristics, including resistance to ozone, UV radiation and temperature extremes. It has a 20-30 minutes working time and it is tack-free in 30 minutes. Conforms to ISO 11600-25LM and also meets ISO speciﬁcation 9047 class 50. Highly flexible with a joint movement capacity ± 50% and an application temperature range -25 to +50°C.",
+  "availability": "In Stock",
+  "product_name": "Dowsil 791 Silicone Sealant",
+  "specifications": [
+    "One-part neutral silicone for weather sealing",
+    "Excellent adhesion to most exterior substrates",
+    "Resistance to ozone, UV radiation and temperature extremes",
+    "20-30 minutes working time",
+    "Tack-free in 30 minutes",
+    "Conforms to ISO 11600-25LM",
+    "Meets ISO specification 9047 class 50",
+    "Joint movement capacity ± 50%",
+    "Application temperature range -25 to +50°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-contractors-lma-silicone-sealants-200.html|>
+## Everbuild Contractors LMA Silicone Sealants 200
+
+{
+  "price": "€4.99 inc VAT",
+  "description": "Silicone 200 Contractors is a cost effective acetoxy cure sealant that adheres to most smooth and non-porous materials. This product contains an anti-fungal compound to prevent mould growth in areas of high humidity. SILICONE 200 is mid to low modulus in nature. Conforms to BS5889.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Contractors LMA Silicone Sealants 200",
+  "specifications": [
+    "Permanently flexible.",
+    "Anti-fungal formula - prevents mold growth.",
+    "Quick curing - low dirt pick up.",
+    "Low viscosity for fast application.",
+    "Areas for Use: Sealing glass to glass, Sealing glass to aluminium and metal sealing, Sealing around baths, showers, basins and other sanitary ware, As an adhesive for fixing PVCu trims, cladding and panels, Sealing around worktops and laminates, Cap glazing to metal, timber and PVCu window frames, and pointing around window and doorframes, For aluminium gutter sealing, General draughtproofing."
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-industrial-and-glazing-silicone-sealants-225.html|>
+## Everbuild Industrial & Glazing Silicone Sealants 225
+
+{
+  "price": "€10.42 inc VAT",
+  "description": "Silicone 225 is an acetoxy cure silicone sealant that cures quickly to provide a permanently flexible, high strength waterproof seal. It is specifically designed for most glazing and industrial applications.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Industrial & Glazing Silicone Sealants 225",
+  "specifications": [
+    "Permanently flexible",
+    "Quick curing - low dirt pick up",
+    "Temperature resistant to 200° C",
+    "Waterproof seal",
+    "Sealing glass to glass",
+    "Sealing glass to aluminium and metal sealing",
+    "Butt and channel glazing",
+    "As an adhesive for fixing PVCu trims and cladding",
+    "Sealing around worktops and laminated panels",
+    "Cap glazing to metal, timber and PVCu window frames",
+    "For aluminium gutter sealing",
+    "Industrial uses, such as gasket sealing",
+    "Refrigeration and hygiene seal"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-pvcu-and-roofing-silicone-sealants-700t.html|>
+## Everbuild PVCu & Roofing Silicone Sealants 700T
+
+{
+  "price": "€10.31 inc VAT",
+  "description": "The Everbuild Range of Everflex Silicone 700 sealants are 310ml sized cartridges that are available in 3 colours - white, translucent and brown. All these colours will fit most common mastic or sealant guns. The Everbuild 700 range of silicone sealants are a cost effective low modulus, oxime cure RTV silicone sealant that adheres to a wide range of both porous and non-porous surfaces without the need for priming. Conforms to BS5889 Type A, except clause 9. SILICONE 700T is formulated as a high viscosity grade to give excellent tooling properties. Cures quickly to provide a permanently flexible, high strength waterproof seal. The sealant remains permanently flexible, forming a tight rubber-like seal, and has a faster curing time than conventional low mod sealants with an extremely low dirt pick up. It is also flexible and waterproof giving a good sound seal for a professional finish. The Everbuild 700 is ideal for perimeter pointing internally and externally around PVCu / wood and all other window frames, sealing and as an adhesive onto PVCu, plastic trims and components. It is suitable as an expansion joint sealant or weather sealing and is also ideal for joint sealing to pre-formed panels, sealing soft metals such as lead, copper and zinc, general glazing sealing, draught proofing, including repair work over existing sealant, glass to glass and glass to aluminium sealing and roof weather sealing applications.",
+  "availability": "In Stock",
+  "product_name": "Everbuild PVCu & Roofing Silicone Sealants 700T",
+  "specifications": [
+    "310ml cartridge",
+    "Available in 3 colors: white, translucent, brown",
+    "Low modulus, oxime cure RTV silicone sealant",
+    "Excellent adhesion to various surfaces",
+    "Permanently flexible and waterproof seal",
+    "Fast curing time",
+    "Suitable for various sealing applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-weather-mate-sealant.html|>
+## Everbuild Weather Mate Sealant
+
+{
+  "price": "€20.42 inc VAT",
+  "description": "Ideal for perimeter pointing to all window and door frames and all external weather sealing applications and for sealing between metal, composite roof, wall panels and for remedial sealing over all other sealant, old putties, mastics and industrial metal panel sealing. Not for use in aquarium manufacture. Not for internal use. Not for use in food preparation areas. Not for use on joints likely to exceed 25% movement. Paintable only when cured.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Weather Mate Sealant",
+  "specifications": [
+    "Select Option: Black C3 310ml, Clear C3 310ml, White C3 310ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-799-silicone-sealant.html|>
+## Dowsil 799 Silicone Sealant
+
+{
+  "price": "€14.91 inc VAT",
+  "description": "Dowsil™ 799 is a one-part plastic and glass silicone, which provides a clear or bright white finish on most plastics, including PVCu and polycarbonate profiles and panels. It contains a fungicide for use in areas of high humidity where mould growth is. It is highly flexible with a 5 minute working time and tack-free in 2 hours. Conforms to ISO 11600-F&G-25LM. It has excellent weathering characteristics, including resistance to ozone, UV radiation and temperature extremes and an application temperature range +5 to +40°C.",
+  "availability": "In Stock",
+  "product_name": "Dowsil 799 Silicone Sealant",
+  "specifications": [
+    "One-part plastic and glass silicone",
+    "Clear or bright white finish",
+    "Contains fungicide for high humidity",
+    "Highly flexible with 5 minute working time",
+    "Tack-free in 2 hours",
+    "Conforms to ISO 11600-F&G-25LM",
+    "Excellent weathering characteristics",
+    "Application temperature range +5 to +40°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-784-glazing-sealant.html|>
+## Dowsil 784 Glazing Sealant
+
+{
+  "price": "€13.91 inc VAT",
+  "description": "Dowsil™ 784 Glazing Sealant is a one-part, silicone sealant. It has good adhesion to glass, aluminium and other non-porous construction substrates. It contains a fungicide, making it ideal for use in areas where mould growth can occur. Conforms to ISO 11600-G-20LM. It has excellent weathering characteristics, including resistance to ozone, UV radiation and temperature extremes, and has an application temperature range +5 to +40°C.",
+  "availability": "In Stock",
+  "product_name": "Dowsil 784 Glazing Sealant",
+  "specifications": [
+    "One-part silicone sealant",
+    "Good adhesion to glass and aluminium",
+    "Contains fungicide",
+    "Conforms to ISO 11600-G-20LM",
+    "Application temperature range +5 to +40°C",
+    "Excellent weathering characteristics"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-everflex-700t-lmn-silicone.html|>
+## Everbuild EVERFLEX 700T LMN Silicone
+
+{
+  "price": "€10.31 inc VAT",
+  "description": "Everbuild EVERFLEX 700T LMN Silicone is a fast, neutral cure, low modulus silicone sealant specially formulated for the PVCu and roofline industry. It has been specifically formulated to a high viscosity to give excellent tooling properties without the need for priming. Formulated to resist mould and bacterial attack. Suitable for perimeter pointing window and door frames, sealing plastic roofline areas and general weather sealing.",
+  "availability": "In Stock",
+  "product_name": "Everbuild EVERFLEX 700T LMN Silicone",
+  "specifications": [
+    "Fast, neutral cure, low modulus silicone sealant",
+    "High viscosity for excellent tooling properties",
+    "Resists mould and bacterial attack",
+    "Suitable for sealing window and door frames",
+    "Ideal for general weather sealing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-bath-and-kitchen-seal-white-easi-squeeze-200ml.html|>
+## Everbuild Bath & Kitchen Seal White Easi Squeeze 200ml
+
+{
+  "price": "€7.61 inc VAT (€6.19 exc.vat)",
+  "description": "Bath and Kitchen Sealant is an acrylic sealant, suitable for general sealing in and around the kitchen and bathroom. The product contains a powerful anti-fungicide to prevent mould growth and can be overpainted. BENEFITS - Permanently flexible. - Adheres to most surfaces. - Mould resistant. - Overpaintable. - Easy clean up - wipe with wet cloth. AREAS FOR USE - Sealing around kitchen worktops etc. - Internal sealing around timber and metal window and door frames. - Internal sealing around PVCu windows and door frames. - Sealing around baths, sanitary ware, basins and ceramics.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Bath & Kitchen Seal White Easi Squeeze 200ml",
+  "specifications": [
+    "EVBEASIBATHW : €7.61",
+    "QtyAdd to Basket",
+    "Based on 1 customer reviews"
+  ]
+}
+
+<|https://www.mydiy.ie/products/unibond-silicone-sealant-re-new.html|>
+## Unibond Silicone Sealant Re-New
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Unibond Silicone Sealant Re-New will make your old sealant look like new. Easy to apply, there is no need to remove the existing sealant - simply cover over. It has triple protect mould resistance & thanks to its perfect adhesion, it will cover cracks and the extra white colour ensures the old discoloured sealant won't show through. Its special formula covers and stops existing mould and prevents future growth, it is suitable for both vertical & horizontal joints in any area including kitchens, bathrooms even showers. Coverage is approx 5-7m",
+  "availability": "In Stock",
+  "product_name": "Unibond Silicone Sealant Re-New",
+  "specifications": [
+    "Easy to apply, no need to remove existing sealant",
+    "Triple protect mould resistance",
+    "Perfect adhesion covers cracks",
+    "Extra white colour prevents old sealant from showing through",
+    "Suitable for vertical & horizontal joints",
+    "Coverage approx 5-7m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-forever-white-sealant-295ml-box-of-12-promo.html|>
+## Everbuild Forever White Sealant 295ml BOX OF 12 PROMO
+
+{
+  "price": "€170.97 inc VAT (€139.00 exc.vat)",
+  "description": "Forever Sealant is a superior silicone sealant that is permanently waterproof and flexible and ideal for sealing shower bases and cubicles, wetrooms, around baths, sinks and basins. It is also ideal for use in kitchens and utility rooms and for sealing around window and door frames. With SteriTouch, an anti-bacterial solution integrated into the manufacturing process, Forever Sealant is guaranteed to stop black mould growth for 10-years.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Forever White Sealant 295ml BOX OF 12 PROMO",
+  "specifications": [
+    "PROMO BOX OF 12",
+    "SteriTouch anti-bacterial solution",
+    "Permanently waterproof and flexible",
+    "Ideal for sealing shower bases, wetrooms, baths, sinks, and basins",
+    "Stops black mould growth for 10 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-showerproof-bathroom-silicones.html|>
+## Everbuild Showerproof Bathroom Silicones
+
+{
+  "price": "€8.19 inc VAT",
+  "description": "Showerproof Bathroom Silicone is a mid modulus sanitary and shower silicone sealant that adheres to most smooth and non-porous materials. Contains a powerful anti-fungal compound to prevent mould growth in areas of high humidity. Forms a permanently flexible rubber seal. Showerproof Bathroom Silicone is ideal for sanitary and bathroom applications, such as around baths, showers and basins. It can also be used for sealing around worktops and laminates in the bathroom. Size: C3.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Showerproof Bathroom Silicones",
+  "specifications": [
+    "Translucent option available",
+    "Contains anti-fungal compound",
+    "Ideal for sanitary and bathroom applications",
+    "Size: C3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-bath-and-sanitary-silicone-sealants-500.html|>
+## Everbuild Bath & Sanitary Silicone Sealants 500
+
+{
+  "price": "€9.38 inc VAT",
+  "description": "The Everbuild Range of Everflex Silicone 500 sanitary sealants are 310ml sized cartridges, that are available in a range of colours. All these colours will fit most common mastic or sealant guns. Everbuild 500 range of silicone sealants cure quickly to provide a permanently flexible, high strength waterproof seal. Specifically designed for sanitary applications, they contain a powerful fungicide to prevent mould growth. They remain permanently flexible, forming a tight rubber-like seal, and have a faster curing time than conventional low mod sealants. With an extremely low dirt pick up, they are also flexible and waterproof giving a good sound seal for a professional finish. Everflex Silicone 500 Sanitary is an acetoxy cure silicone sealant that cures quickly and, with the specially designed fungicidal formula that will not discolour on age or in humid/damp conditions, will stay looking as new. These silicone sealants have many uses around the home or work place in areas of high humidity or which are subject to condensation such as sealing around baths, showers, basins and sanitary ware. Also ideal for sealing around work tops, laminates, metal, timber and PVCu window frames or as an adhesive for fixing PVCu trims, panels or just general weatherproofing applications.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Bath & Sanitary Silicone Sealants 500",
+  "specifications": [
+    "310ml cartridge size",
+    "Fungicidal formula",
+    "Permanently flexible",
+    "Quick curing",
+    "Waterproof seal",
+    "Ideal for high humidity areas"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-forever-white-sealants.html|>
+## Everbuild Forever White Sealants
+
+{
+  "price": "from €14.99 inc VAT",
+  "description": "Forever Sealant is a superior silicone sealant that is permanently waterproof and flexible and ideal for sealing shower bases and cubicles, wetrooms, around baths, sinks and basins. It is also ideal for use in kitchens and utility rooms and for sealing around window and door frames. With SteriTouch, an anti-bacterial solution integrated into the manufacturing process, Forever Sealant is guaranteed to stop black mould growth for 10-years.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Forever White Sealants",
+  "specifications": [
+    "Available in Grey, Ivory, White",
+    "310ml size",
+    "Permanently waterproof and flexible",
+    "Ideal for sealing shower bases, baths, sinks, and basins",
+    "Contains SteriTouch to prevent black mould growth for 10 years"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polycell-seal-strips-bathrooms---kitchens.html|>
+## Polycell Seal Strips Bathrooms - Kitchens
+
+{
+  "price": "from €11.11 inc VAT",
+  "description": "Polycell Sealant Strip Bathroom / Kitchen is a great way to cover imperfections. The strip is flexible, can easily be wiped clean and is a perfect alternative to gun and tube sealants. It is easy to use and produces a neat, watertight result. Suitable for: Ceramic tiles, enamel and plastic baths and sinks, porcelain, stainless steel, laminate worktops, painted or varnished wood, gloss and emulsion painted surfaces and glass. Colour: white.",
+  "availability": "In Stock",
+  "product_name": "Polycell Seal Strips Bathrooms - Kitchens",
+  "specifications": [
+    "Flexible and easy to clean",
+    "Alternative to gun and tube sealants",
+    "Produces a neat, watertight result",
+    "Suitable for various surfaces including ceramic tiles, enamel, plastic, porcelain, stainless steel, laminate worktops, painted wood, and glass",
+    "Colour: white"
+  ]
+}
+
+<|https://www.mydiy.ie/products/unibond-anti-mould-kitchen-and-bathroom-sealant.html|>
+## Unibond Anti-Mould Kitchen & Bathroom Sealant
+
+{
+  "price": "from €6.99 inc VAT",
+  "description": "UniBond Anti-Mould Sealant is a waterproof, anti-mould silicone sealant that is suitable for most sanitary sealing tasks around your home. This ultimate shower and bathroom sealant uses the latest in silicone technology to give waterproof protection with fantastic flexibility. The mould protect system makes it suitable for power showers and wet rooms and the lifetime guarantee makes Unibond Anti Mould Sealant the first choice to finish off bathroom projects. Suitable for interior use on showers, baths, toilets, power showers, wet rooms, sinks and basins, worktops, tiled areas and fixing sealant strips. NOT suitable for exterior use or dado rails, coving, PVCu windows and wooden frames.",
+  "availability": "In Stock",
+  "product_name": "Unibond Anti-Mould Kitchen & Bathroom Sealant",
+  "specifications": [
+    "Available in different options: Cartridge Translucent 274g, Cartridge White 274g, Tube White 147g",
+    "Waterproof and anti-mould",
+    "Lifetime guarantee",
+    "Suitable for interior use only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-785-silicone-sealant.html|>
+## Dowsil 785 Silicone Sealant
+
+{
+  "price": "€12.96 inc VAT",
+  "description": "Dowsil™ 785+ is a one-part bacteria resistant silicone that provides strong adhesion to most non-porous surfaces, including ceramics and porcelain. Suitable for use on domestic and commercial sanitary fittings, kitchen sink units and clean rooms. It contains a fungicide to resist mould growth and protects against bacteria growth, MRSA, E. coli and Salmonella. Quick working time of just 5-10 minutes and tack-free in one hour. Joint movement capability ± 20% Conforms to ISO 22196:2007 and ISO 11600-F-20LM.",
+  "availability": "In Stock",
+  "product_name": "Dowsil 785 Silicone Sealant",
+  "specifications": [
+    "One-part bacteria resistant silicone",
+    "Strong adhesion to non-porous surfaces",
+    "Fungicide to resist mould growth",
+    "Quick working time of 5-10 minutes",
+    "Tack-free in one hour",
+    "Joint movement capability ± 20%",
+    "Conforms to ISO 22196:2007 and ISO 11600-F-20LM"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-785n-silicone-sealant.html|>
+## Dowsil 785N Silicone Sealant
+
+{
+  "price": "€16.65 inc VAT",
+  "description": "Dowsil™ 785N is a one-part neutral curing silicone sealant with fungicide.  It provides excellent adhesion to a range of porous and non-porous substrates. As a neutral silicone, it is very low odour and is also suitable for application to various metallic surfaces such as aluminium, copper, brass and stainless steel.  785N can also be used on natural porous surfaces such as marble, granite and limestone.  When using sealant products on natural porous surfaces, stain testing is recommended prior to application. It is designed for the sealing of sanitary fittings, including baths, showers, sinks, urinals and ceramic tile joints in commercial and domestic environments.  It has excellent adhesion to all common sanitary surfaces and is non-corrosive to metal. It has a fast cure and tack-free time and remains permanently flexible with lasting performance and low shrinkage. Conforms to ISO 11600-F&G-25LM.",
+  "availability": "In Stock",
+  "product_name": "Dowsil 785N Silicone Sealant",
+  "specifications": [
+    "One-part neutral curing silicone sealant",
+    "Contains fungicide",
+    "Excellent adhesion to porous and non-porous substrates",
+    "Low odour",
+    "Suitable for metallic surfaces",
+    "Fast cure and tack-free time",
+    "Permanently flexible",
+    "Conforms to ISO 11600-F&G-25LM"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-145-butyl-rubber-sealant-c3-310ml.html|>
+## Everbuild 145 Butyl Rubber Sealant C3 310ml
+
+{
+  "price": "€6.33 inc VAT (€5.15 exc.vat)",
+  "description": "Everbuild 145 Butyl Sealant is a traditional one component sealant based on polybutene that provides an effective weatherproof seal in a variety of exterior and interior applications. It forms a skin in 24 hours but remains permanently plastic underneath. The sealant accommodates joint movement of ± 5%, is overpaintable and exhibits good UV and chemical resistance. Areas for use include single glazing of metal, concrete and wooden frames, sealing metal roof panels, pointing around soft and hardwood timber, sealing metal panels in car bodies and containers, sealing pre-cast concrete panels, sealing timber sections to brick, stone and concrete, and sealing gaps and cracks in brickwork and stone. Size: 310ml.",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild 145 Butyl Rubber Sealant C3 310ml",
+  "specifications": [
+    "Size: 310ml",
+    "Weatherproof seal",
+    "Accommodates joint movement of ± 5%",
+    "Overpaintable",
+    "Good UV and chemical resistance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-195-siliconised-acrylic-white-c3-310ml.html|>
+## Everbuild 195 Siliconised Acrylic White C3 310ml
+
+{
+  "price": "€6.22 inc VAT (€5.06 exc.vat)",
+  "description": "Everbuild 195 Siliconised Acrylic is a high quality sealant that remains highly flexible and can be used on a wide variety of sealing applications both internally and externally. Formulated from an advanced polymer, it is easier to apply than silicone sealants, is solvent free and contains a powerful fungicide to prevent mould growth in areas of high humidity. Areas for use include single glazing of metal, concrete and wooden frames, sealing metal roof panels, pointing around soft and hardwood timber, sealing gaps and cracks in brickwork and stone.",
+  "availability": "In Stock",
+  "product_name": "Everbuild 195 Siliconised Acrylic White C3 310ml",
+  "specifications": [
+    "Size: 310ml",
+    "Solvent free",
+    "Contains fungicide",
+    "Flexible sealant for various applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-general-purpose-silicone.html|>
+## Everbuild General Purpose Silicone
+
+{
+  "price": "€6.95 inc VAT",
+  "description": "Everbuild General Purpose Silicone is a Multi-Purpose acetoxy cure silicone sealant that cures quickly to provide a permanently flexible, high strength waterproof seal. It contains a powerful anti-fungicide to prevent mould growth",
+  "availability": "In Stock",
+  "product_name": "Everbuild General Purpose Silicone",
+  "specifications": [
+    "Permanently flexible",
+    "Anti-fungal formula - prevents mould growth",
+    "Quick curing - low dirt pick up",
+    "Low viscosity for fast application",
+    "Sealing glass to glass",
+    "Sealing glass to aluminium and metal sealing",
+    "Sealing around baths, showers, basins and other sanitary ware",
+    "As an adhesive for fixing PVCu trims, cladding and panels",
+    "Sealing around worktops and laminates",
+    "Cap glazing to metal, timber and PVCu window frames, and pointing round window and door frames",
+    "For aluminium gutter sealing",
+    "General draught proofing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-general-purpose-building-mastic-115.html|>
+## Everbuild General Purpose Building Mastic 115
+
+{
+  "price": "€5.92 inc VAT",
+  "description": "Everflex 115 GP building mastic is an oil based compound intended for general pointing and sealing of many joints in traditional forms of construction. The sealant is rapidly and simply applied by extrusion from a cartridge gun. The product has good adhesion to most clean, dry surfaces.",
+  "availability": "In Stock",
+  "product_name": "Everbuild General Purpose Building Mastic 115",
+  "specifications": [
+    "Overpaintable",
+    "Adheres to most common surfaces",
+    "Semi drying - remains permanently plastic beneath surface skin",
+    "High solids formulation - excellent gap filling properties without shrinkage",
+    "Good external weathering properties",
+    "C3 cartridge size"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-universal-acrylic-sealants-175.html|>
+## Everbuild Universal Acrylic Sealants 175
+
+{
+  "price": "€4.69 inc VAT",
+  "description": "EVERFLEX 175 UNIVERSAL ACRYLIC SEALANT is an acrylic Sealant, suitable for internal and external use, that provides a permanently flexible long lasting seal that adheres to virtually all materials. It contains a powerful anti-fungicide to prevent mould growth, and can be overpainted.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Universal Acrylic Sealants 175",
+  "specifications": [
+    "Permanently flexible",
+    "Adheres to most surfaces",
+    "Mould resistant",
+    "Overpaintable",
+    "Easy clean up",
+    "Internal and external sealing around timber and metal window and door frames",
+    "PVCu profile, trim and cladding",
+    "Internal sealing around PVCu window and door frames",
+    "Sealing cracks and gaps in brickwork, stone and concrete",
+    "An adhesive for bonding polystyrene coving and tiles",
+    "An adhesive for bonding cork tiles and wood block flooring",
+    "Gap and crack filler prior to decorating",
+    "Sealing around baths and basins"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-construction-silicone-sealants-335.html|>
+## Everbuild Construction Silicone Sealants 335
+
+{
+  "price": "from €9.35 inc VAT",
+  "description": "The Everbuild Range of EVERFLEX SILICONE 335 Construction sealants are 310ml sized cartridges, that are available in 5 colours, brown, white, transparent, grey and black. All these colours will fit most common mastic or sealant guns. 355 is a low modulus, reactive curing silicone sealant that cures quickly to reduce dirt pick up. EVERFLEX SILICONE 335 remains permanently flexible, forming a weather tight rubber-like seal. Tested to ISO8339 and ISO10590 / 10563 and has a faster curing time than conventional low mod sealants with an extremely low dirt pick up. It is also flexible and waterproof giving a good sound seal for a professional finish. Everbuild 355 contains a powerful anti fungal compound to prevent mould growth and will cover a great range of applications like:-Sealing around PVCu profile, trim and cladding, perimeter pointing to PVCu, timber and metal window and door frames, weather sealing to pre-formed panels and formwork, glass to glass and glass to aluminium weather sealing, cap glazing and remedial glazing sealing and also general draught proofing.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Construction Silicone Sealants 335",
+  "specifications": [
+    "310ml sized cartridges",
+    "Available in 5 colours: brown, white, transparent, grey, black",
+    "Low modulus, reactive curing silicone sealant",
+    "Cures quickly to reduce dirt pick up",
+    "Permanently flexible, forming a weather tight rubber-like seal",
+    "Contains a powerful anti fungal compound to prevent mould growth",
+    "Accommodates movement of ± 35% of the joint width"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-builders-silicone-seal-sealants-450.html|>
+## Everbuild Builders Silicone Seal Sealants 450
+
+{
+  "price": "€10.65 inc VAT",
+  "description": "The Everbuild Range of Everflex 450 premium builders silicone sealants are 310ml sized cartridges that are available in 7 colours - white, brown, clear, black, buff, grey and oak. All these colours will fit most common mastic or sealant guns. Everbuild 450 range of silicone sealants are cost effective low modulus, oxime cure RTV silicone sealants that adhere to a wide range of both porous and non-porous surfaces without the need for priming. Conforms to BS5889. SILICONE 450 is formulated as a high viscosity grade to give excellent tooling properties. Cures quickly to provide a permanently flexible, high strength waterproof seal. These sealants remain permanently flexible, forming a tight rubber-like seal, and have a faster curing time than conventional low mod sealants with an extremely low dirt pick up. They are also flexible and waterproof giving a good sound seal for a professional finish. The Everbuild 450 is ideal for perimeter pointing internally and externally around PVCu / wood and all other window frames, sealing and as an adhesive onto PVCu, plastic trims and components. Suitable as an expansion joint sealant or weather sealing and ideal for joint sealing to pre-formed panels, sealing soft metals such as lead, copper and zinc, general glazing sealing, draught proofing, including repair work over existing sealant, glass to glass and glass to aluminium sealing and roof weather sealing applications.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Builders Silicone Seal Sealants 450",
+  "specifications": [
+    "Available in 7 colors: white, brown, clear, black, buff, grey, oak",
+    "310ml cartridge size",
+    "Low modulus, oxime cure RTV silicone",
+    "Adheres to porous and non-porous surfaces",
+    "Permanently flexible and waterproof seal",
+    "High viscosity grade for excellent tooling properties",
+    "Fast curing time",
+    "Suitable for various sealing applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-781-silicone-sealant.html|>
+## Dowsil 781 Silicone Sealant
+
+{
+  "price": "from €12.99 inc VAT",
+  "description": "Dowsil 781 Silicone Sealant – High Performance Acetoxy Cure. Dowsil 781 is a professional-grade, one-part acetoxy silicone sealant designed for glazing, weatherproofing, and general-purpose sealing applications. This high-performance sealant cures quickly to form a durable, flexible seal that adheres exceptionally well to glass, glazed ceramics, tiles, and other non-porous materials. Its UV and weather resistance makes it suitable for both interior and exterior use, ensuring long-lasting performance in even the toughest conditions. Whether you're working on windows, doors, conservatories, or kitchen fittings, Dowsil 781 delivers a clean finish with reliable sealing properties.",
+  "availability": "In Stock",
+  "product_name": "Dowsil 781 Silicone Sealant",
+  "specifications": [
+    "High-performance acetoxy cure silicone",
+    "Strong adhesion to non-porous surfaces",
+    "UV, moisture & weather resistant",
+    "Fast curing with excellent flexibility",
+    "Ideal for internal and external use",
+    "Available in white, clear, and black"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-eb25-hybrid-sealant-adhesive.html|>
+## Everbuild EB25 Hybrid Sealant Adhesive
+
+{
+  "price": "€23.55 inc VAT",
+  "description": "Everbuild EB25 Hybrid Sealant Adhesive uses a unique polymer blend and cutting-edge technology to bring superior flexibility and an incredible bond strength. Suitable for use both indoors and outdoors, EB25 can be used on virtually any material in most weather conditions and can even be used underwater. It also has the added benefit of being certified for use in sanitary and food preparation areas. Once cured it is resistant to mould, temperature extremes, chemicals and more. Not only does this product cater to a multitude of application needs, but it also carries the EMICODE® EC1PLUS badge for very low emissions meaning it is also environmentally friendly.",
+  "availability": "In Stock",
+  "product_name": "Everbuild EB25 Hybrid Sealant Adhesive",
+  "specifications": [
+    "300ml option available",
+    "Certified for use in sanitary and food preparation areas",
+    "Resistant to mould, temperature extremes, and chemicals",
+    "Environmentally friendly with low emissions"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ob1-hybrid-sealant-and-adhesive.html|>
+## OB1® Hybrid Sealant & Adhesive
+
+{
+  "price": "€13.99 inc VAT",
+  "description": "Bostik OB1® Hybrid Sealant & Adhesive has a user-friendly, hybrid polymer formulation. An alternative to mastics, wood and PU adhesives, silicones, acrylics and butyl rubber sealants. Contains no solvents so will never crack or shrink. Can be applied on wet surfaces, painted or moulded. Very high bond strength with resistance to fungal and bacterial growth.",
+  "availability": "In Stock",
+  "product_name": "OB1® Hybrid Sealant & Adhesive",
+  "specifications": [
+    "Select Option: Black 290ml, Clear 290ml, Grey 290ml, White 290ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/j-b-weld-hi-temp-silicone-gasket-maker-and-sealant-red-85g.html|>
+## J-B Weld Hi-Temp Silicone Gasket Maker & Sealant Red 85g
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "J-B Weld Hi-Temp Silicone Gasket Maker & Sealant Red, 85g, is a RTV (Room Temperature Vulcanized) Silicone gasketing material. Designed for use in mechanical assemblies where the existence of higher, continuous temperatures up to 287°C (550ºF) or 343°C (650ºF) intermittent might exist. Upon curing, which occurs when the product is exposed to the moisture in the air, the silicone forms a tough, waterproof seal on most surfaces. It will not shrink or crack, resists weathering, is sensor safe and is great for many automotive applications.",
+  "availability": "In Stock",
+  "product_name": "J-B Weld Hi-Temp Silicone Gasket Maker & Sealant Red 85g",
+  "specifications": [
+    "RTV (Room Temperature Vulcanized) Silicone",
+    "Temperature resistance up to 287°C (550ºF) continuous",
+    "Temperature resistance up to 343°C (650ºF) intermittent",
+    "Forms a tough, waterproof seal",
+    "Resists weathering",
+    "Sensor safe"
+  ]
+}
+
+<|https://www.mydiy.ie/products/j-b-weld-silicone-sealant-and-adhesive.html|>
+## J-B Weld Silicone Sealant & Adhesive
+
+{
+  "price": "from €9.37 inc VAT",
+  "description": "J-B Weld Silicone Sealant & Adhesive is a general purpose sealant adhesive, RTV (Room Temperature Vulcanized) Silicone designed for use in household or mechanical assembly applications. Upon curing, which occurs when the product is exposed to the moisture in the air, the silicone forms a tough, waterproof, mildew and mold resistant seal on most surfaces. It will not shrink or crack, resists weathering, is sensor safe and is great for many household and automotive applications.",
+  "availability": "In Stock",
+  "product_name": "J-B Weld Silicone Sealant & Adhesive",
+  "specifications": [
+    "General purpose sealant adhesive",
+    "RTV (Room Temperature Vulcanized) Silicone",
+    "Waterproof, mildew and mold resistant seal",
+    "Resists weathering",
+    "Sensor safe",
+    "Suitable for household and automotive applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/j-b-weld-silicone-gasket-maker-and-sealant.html|>
+## J-B Weld Silicone Gasket Maker & Sealant
+
+{
+  "price": "from €9.99 inc VAT",
+  "description": "J-B Weld Silicone Gasket Maker & Sealant is a RTV (Room Temperature Vulcanized) Silicone gasketing material designed for use in mechanical assemblies, sealing and bonding uneven surfaces. Upon curing, which occurs when the product is exposed to the moisture in the air, the silicone forms a tough, waterproof seal on most surfaces. It will not shrink or crack, resists weathering, is sensor safe and is great for many automotive applications.",
+  "availability": "In Stock",
+  "product_name": "J-B Weld Silicone Gasket Maker & Sealant",
+  "specifications": [
+    "Available in Black, Blue, Grey (85g)",
+    "RTV Silicone gasketing material",
+    "Forms a tough, waterproof seal",
+    "Resists weathering",
+    "Sensor safe",
+    "Great for automotive applications"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-sealant-strip-out-tool.html|>
+## Everbuild Sealant Strip-Out Tool
+
+{
+  "price": "€12.79 inc VAT (€10.40 exc.vat)",
+  "description": "Everbuild Sealant Strip-Out Tool is a unique patented tool which works on any type of sealant and is the ideal partner for use before applying silicone sealant. The Strip-Out Tool is incredibly simple and its design and shape provides a really quick way to strip all types of sealant out of any 90° angle joint. The Strip-Out Tool won the silver award for the Best New Hand Tool at the London DIY show in 2006.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Sealant Strip-Out Tool",
+  "specifications": [
+    "EVBSTRIPOUT : €12.79",
+    "List: €13.22",
+    "You save €0.43",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-sealant-repair-kit.html|>
+## Roughneck Sealant Repair Kit
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "The fastest and easiest way to repair old sealant and grout joints. Kit contains: 1 x soft-grip brush with stiff bristles and special metal scraper. 3 x flexible applicators offering 9 profiles for removing excess sealant.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Sealant Repair Kit",
+  "specifications": [
+    "ROU52100 : €11.99",
+    "QtyAdd to Basket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-sealant-smoother.html|>
+## Vitrex Sealant Smoother
+
+{
+  "price": "€2.62 inc VAT (€2.13 exc.vat)",
+  "description": "The Vitrex 10 2283 Sealant Smoother has a moulded plastic handle with flexible insert. Provides a professional finish to most household sealant applications. Ideal for baths, basins, sinks, worktops, window frames etc.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Sealant Smoother",
+  "specifications": [
+    "Model: VIT102283",
+    "Price: €2.62",
+    "List Price: €5.63",
+    "You save: €3.01",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-silicon-remover-and-finisher-kit.html|>
+## Vitrex Silicon Remover & Finisher Kit
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The Vitrex SRF005 Silicon Remover & Finisher Kit is a multi-functional, all-in-one kit for a professional looking finish to most household sealants, silicone, fillers and grout, etc. It is quick, easy and clean to use. The finisher has a choice of 5 easy-change finishing profiles (3R, 6R, 10R, 13R and 17R). The silicon remover has a small cleaning tip for detailed and precision work.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Silicon Remover & Finisher Kit",
+  "specifications": [
+    "Model: VITSRF005",
+    "Price: €14.99",
+    "Includes: 5 easy-change finishing profiles",
+    "Usage: For household sealants, silicone, fillers, and grout"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-sealant-smooth-out-tool.html|>
+## Everbuild Sealant Smooth Out Tool
+
+{
+  "price": "€12.79 inc VAT (€10.40 exc.vat)",
+  "description": "Everbuild Sealant Smooth Out Tool is a unique tool that is ideal for smoothing out all sealant after application as it creates a perfect seal every time. Even better, you will have no edge marks and no mess.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Sealant Smooth Out Tool",
+  "specifications": [
+    "Model: EVBSMOOTHOUT",
+    "List Price: €13.22",
+    "You save: €0.43",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-seal-rite-strip--smooth-out-tool-twinpack.html|>
+## Everbuild Seal Rite Strip / Smooth Out Tool Twinpack
+
+{
+  "price": "€22.67 inc VAT (€18.43 exc.vat)",
+  "description": "A twin pack with Strip-Out Tool a unique patented tool which works on any type of sealant and is the ideal partner for use before applying Forever White silicone sealant. The Strip-Out Tool is incredibly simple and its design and shape provides a really quick way to strip all types of sealant out of any 90° angle joint. for easy sealant removal. The pack also contains a Smooth-Out tool a unique tool that is ideal for smoothing out all sealant (especially Forever White) after application – it creates a perfect seal every time. Even better you will have no edge marks and no mess! This tool is really remarkable, once someone has used it they will never seal again without it to create the perfect seal. Ideal for use with Everbuild Silicone Sealants.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Seal Rite Strip / Smooth Out Tool Twinpack",
+  "specifications": [
+    "Twin pack with Strip-Out Tool and Smooth-Out Tool",
+    "Works on any type of sealant",
+    "Ideal for use with Forever White silicone sealant",
+    "Creates a perfect seal without edge marks",
+    "Easy sealant removal from 90° angle joints"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-jumbo-sealant-gun-900ml.html|>
+## Everbuild Jumbo Sealant Gun 900ml
+
+{
+  "price": "€59.41 inc VAT (€48.30 exc.vat)",
+  "description": "The Everbuild brand is not only hugely popular with tradesmen and DIY'ers. It's quite literally huge - the biggest range in the business. In addition to core manufactured products the Everbuild range includes a wide range of ancillary items from sealant guns to dust sheets, line markers to masking tape. The range of products Everbuild actually manufacture is extensive, from chemical blending for admixtures and water proofers through water based sealant manufacturing to the highly advanced polymer engineering undertaken in manufacturing silicone and hybrid sealants, as well as adhesives and a wide range of powder products. This Everbuild SG9 Sealant Gun has a swivel action and an extra heavy-duty push rod mechanism to cope with stiff acoustic sealants. For all 900ml cartridges. Size : 900 ml.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Jumbo Sealant Gun 900ml",
+  "specifications": [
+    "Size: 900 ml",
+    "Swivel action",
+    "Extra heavy-duty push rod mechanism"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-foil-pack-applicator-gun-600ml.html|>
+## Everbuild Foil Pack Applicator Gun 600ml
+
+{
+  "price": "€75.12 inc VAT (€61.07 exc.vat)",
+  "description": "The Everbuild Foil Pack Applicator Gun is designed for use with foil packs of sealants and adhesives. The enclosed aluminium barrel can also be used for standard cartridges. Cartridge size: 600ml.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Foil Pack Applicator Gun 600ml",
+  "specifications": [
+    "Cartridge size: 600ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-power-pro-sealant-gun-400ml.html|>
+## Everbuild Power Pro Sealant Gun 400ml
+
+{
+  "price": "€32.99 inc VAT (€26.82 exc.vat)",
+  "description": "The Everbuild EVBSGNPOWER is the ultimate heavy-duty sealant gun with extra pull trigger, hook end and swivel action barrel for both 310ml and 400ml cartridges and is ideal for all sealant applications.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Power Pro Sealant Gun 400ml",
+  "specifications": [
+    "Heavy-duty sealant gun",
+    "Extra pull trigger",
+    "Hook end",
+    "Swivel action barrel",
+    "Compatible with 310ml and 400ml cartridges"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-superflow-sealant-gun-c3.html|>
+## Everbuild Superflow Sealant Gun C3
+
+{
+  "price": "€51.73 inc VAT (€42.06 exc.vat)",
+  "description": "The Everbuild Superflow Sealant Gun is a high quality, robust gun which can handle the toughest of conditions. It has a rotating barrel, smooth action trigger with high pull ratio, soft-grip handle and is non-drip.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Superflow Sealant Gun C3",
+  "specifications": [
+    "High quality and robust design",
+    "Rotating barrel",
+    "Smooth action trigger with high pull ratio",
+    "Soft-grip handle",
+    "Non-drip feature"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-flooring-and-adhesive-gun.html|>
+## Roughneck Flooring & Adhesive Gun
+
+{
+  "price": "€27.99 inc VAT (€22.76 exc.vat)",
+  "description": "The ROU32102 Roughneck Flooring and adhesive gun has a high quality ratchet mechanism, 2 plungers and 2 nozzles. Ideal for use with standard foil packed adhesive, for fixing all types of wooden floors, carpet tiles, linoleum tiles etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Flooring & Adhesive Gun",
+  "specifications": [
+    "Aluminium tube 380mm (15in)",
+    "Professional quality ratchet mechanism",
+    "2 x Plungers",
+    "2 x Nozzles",
+    "Instruction leaflet"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-skeleton-type-caulking-gun-230mm-9-inch.html|>
+## Roughneck Skeleton Type Caulking Gun 230mm (9 inch)
+
+{
+  "price": "€5.95 inc VAT (€4.84 exc.vat)",
+  "description": "Roughneck Skeleton Type Caulking Gun is a lightweight and economical skeleton type caulking gun with a solid frame, ratchet action and an end hook. The 230mm (9 inch) gun for 310ml cartridges has a quick release trigger and built-in nozzle cleaner.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Skeleton Type Caulking Gun 230mm (9 inch)",
+  "specifications": [
+    "230mm (9 inch) size",
+    "Lightweight and economical",
+    "Solid frame with ratchet action",
+    "End hook for easy storage",
+    "Quick release trigger",
+    "Built-in nozzle cleaner"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-skeleton-type-caulking-gun-280mm-11in.html|>
+## Roughneck Skeleton Type Caulking Gun 280mm (11in)
+
+{
+  "price": "€7.45 inc VAT (€6.06 exc.vat)",
+  "description": "Roughneck Skeleton Type Caulking Gun is a lightweight and economical skeleton type caulking gun with a solid frame, ratchet action and an end hook. The 280mm (11in) gun can accommodate up to 400ml cartridges and has a quick release trigger and built-in nozzle cleaner.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Skeleton Type Caulking Gun 280mm (11in)",
+  "specifications": [
+    "280mm (11in) length",
+    "Accommodates up to 400ml cartridges",
+    "Lightweight and economical design",
+    "Solid frame with ratchet action",
+    "Quick release trigger",
+    "Built-in nozzle cleaner"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-semi-barrel-professional-caulking-gun-267mm-1012in.html|>
+## Roughneck Semi Barrel Professional Caulking Gun 267mm (10.1/2in)
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "Roughneck Semi Barrel Professional Caulking Gun is a heavy-duty push rod and ratchet action type caulking gun which has a robust frame, ergonomic grip and a hook end. The 267mm (10.1/2in gun can accommodate up to 400ml cartridges, has a quick release trigger and built-in nozzle cleaner.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Semi Barrel Professional Caulking Gun 267mm (10.1/2in)",
+  "specifications": [
+    "Heavy-duty push rod and ratchet action",
+    "Robust frame",
+    "Ergonomic grip",
+    "Hook end",
+    "Accommodates up to 400ml cartridges",
+    "Quick release trigger",
+    "Built-in nozzle cleaner"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-non-drip-heavy-duty-adhesive-gun-280mm-11in.html|>
+## Roughneck Non-Drip Heavy-Duty Adhesive Gun 280mm (11in)
+
+{
+  "price": "€24.86 inc VAT (€20.21 exc.vat)",
+  "description": "The Roughneck® Non-Drip Heavy-Duty Adhesive Gun is ideal for use with instant grab adhesives and silicone sealants, where both power and flow control are required. It provides a powerful 18:1 thrust ratio. The non-drip feature is ideal for working indoors or at height to avoid spillage. The rotating barrel and comfortable rounded grip ensure maximum control and reduce fatigue. Quick-release mechanism and hook end for easy cartridge change. Suitable for cartridges up to 400ml.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Non-Drip Heavy-Duty Adhesive Gun 280mm (11in)",
+  "specifications": [
+    "Non-Drip Heavy-Duty Adhesive Gun",
+    "280mm (11in)",
+    "Powerful 18:1 thrust ratio",
+    "Suitable for cartridges up to 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-vari-flow-heavy-duty-sealant-gun-280mm-11in.html|>
+## Roughneck Vari-Flow Heavy-Duty Sealant Gun 280mm (11in)
+
+{
+  "price": "€34.10 inc VAT (€27.72 exc.vat)",
+  "description": "The Roughneck® Vari-Flow Heavy-Duty Sealant Gun easily switches between a thrust ratio of 12:1 and 25:1 for exceptional power with minimum force. The non-drip selector is ideal when working indoors or at height to avoid spillage. The rotating barrel and comfortable rounded grip ensure maximum control and reduce fatigue. Quick-release mechanism and hook end for easy cartridge change. Suitable for cartridges up to 400ml.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Vari-Flow Heavy-Duty Sealant Gun 280mm (11in)",
+  "specifications": [
+    "Thrust ratio of 12:1 and 25:1",
+    "Non-drip selector",
+    "Rotating barrel",
+    "Comfortable rounded grip",
+    "Quick-release mechanism",
+    "Suitable for cartridges up to 400ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-817-silicone-mirror-adhesive-310ml.html|>
+## Dowsil 817 Silicone Mirror Adhesive 310ml
+
+{
+  "price": "€18.82 inc VAT (€15.30 exc.vat)",
+  "description": "Dowsil™ 817 is a one-part silicone mirror adhesive, which reacts with air moisture to give excellent adhesion to most glasses, metals and mirror coatings. It is a non-corrosive and odourless adhesive with outstanding resistance to heat and humidity. Application Temperature Range +5 to +40°C",
+  "availability": "In Stock",
+  "product_name": "Dowsil 817 Silicone Mirror Adhesive 310ml",
+  "specifications": [
+    "One-part silicone mirror adhesive",
+    "Excellent adhesion to glasses, metals, and mirror coatings",
+    "Non-corrosive and odourless",
+    "Outstanding resistance to heat and humidity",
+    "Application temperature range: +5 to +40°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-786-food-grade-sealant.html|>
+## Dowsil 786 Food Grade Sealant
+
+{
+  "price": "€18.82 inc VAT",
+  "description": "Dowsil™ 786 is a one-part mildew resistant silicone, which contains a food-grade fungicide and offers excellent adhesion to a variety of non-porous surfaces, including ceramics and aluminium. Used for sealing in refrigeration units in domestic and commercial kitchens and other areas of common food contact. It conforms to BS 5889 Type B. It also meets US food and drugs administration regulation Number 21CFR177.2600. It is a high modulus - acetoxy cure type and is safe for repeated food contact. Application temperature range +5 to +40°C",
+  "availability": "In Stock",
+  "product_name": "Dowsil 786 Food Grade Sealant",
+  "specifications": [
+    "One-part mildew resistant silicone",
+    "Contains food-grade fungicide",
+    "Excellent adhesion to non-porous surfaces",
+    "Application temperature range +5 to +40°C",
+    "Conforms to BS 5889 Type B",
+    "Meets US FDA regulation Number 21CFR177.2600"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-heat-resistant-silicone-c3-310ml.html|>
+## Everbuild Heat Resistant Silicone C3 310ml
+
+{
+  "price": "€35.51 inc VAT (€28.87 exc.vat)",
+  "description": "Everbuild Heat Resistant Silicone is a high temperature resistant, fast cure silicone, which is heat stable up to 300˚C. It is a permantently flexible, high modulus sealant. It is ideal for joints and assemblies which must be resistant to high temperatures in ducting, metal chimneys, industrial/domestic ovens and heating appliances. Heat resistant silicone has excellent adhesion to most non-porous surfaces. Size: 310ml.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Heat Resistant Silicone C3 310ml",
+  "specifications": [
+    "Heat stable up to 300˚C",
+    "Permanently flexible",
+    "High modulus sealant",
+    "Excellent adhesion to most non-porous surfaces",
+    "Size: 310ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-pyro-mate-firesil-white-c3.html|>
+## Pyro Mate Firesil White C3
+
+{
+  "price": "€22.08 inc VAT (€17.95 exc.vat)",
+  "description": "Pyro Mate Silicone is a neutral cure elastic silicone sealant which conforms to BS 476 Part 20/EN1366-4 (2006) for fire retardancy and has a fire rating of up to 4 hours in certain joint configurations. Acoustic rated to BS EN ISO 140/3 standards. Tested for air permeability to EN13141-1 standards. Performance tested for components/products that are suitable for residential ventilation.",
+  "availability": "In Stock",
+  "product_name": "Pyro Mate Firesil White C3",
+  "specifications": [
+    "Neutral cure elastic silicone sealant",
+    "Conforms to BS 476 Part 20/EN1366-4 (2006) for fire retardancy",
+    "Fire rating of up to 4 hours",
+    "Acoustic rated to BS EN ISO 140/3 standards",
+    "Tested for air permeability to EN13141-1 standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-intumescent-acoustic-sealant-900ml-ac95.html|>
+## Everbuild Intumescent Acoustic Sealant 900ml AC95
+
+{
+  "price": "€17.72 inc VAT (€14.41 exc.vat)",
+  "description": "Everbuild AC95 is a high strength, permanently flexible acoustic/intumescent sealant and adhesive specifically formulated for sealing and bonding plasterboard and other kraft lined insulation boards where a fire rated seal of up to 5-hours is required. It is a water based, solvent free formula which is easy-to-use and clean up and which adheres to just about all building substrates. This Everbuild product is permanently flexible with high grab and will adhere to most surfaces whilst being mould resistant and Non flammable. When cured, it can be overpaintable and is easy to clean up. AC95 will form an acoustic and intumescent barrier by sealing gaps between plasterboard walls, floors and ceilings and dry lining applications. As an adhesive Everbuild AC95 bonds plasterboard to plasterboard, wood and metal studding and direct to block work. It is also ideal for sealing and bonding most other kraft lined insulation boards.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Intumescent Acoustic Sealant 900ml AC95",
+  "specifications": [
+    "Size: 900 ml",
+    "High strength, permanently flexible",
+    "Water based, solvent free formula",
+    "Mould resistant and Non flammable",
+    "Bonds plasterboard to plasterboard, wood, and metal studding"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-galva-mate-sealant-grey-c3.html|>
+## Everbuild Galva Mate Sealant Grey C3
+
+{
+  "price": "€7.49 inc VAT (€6.09 exc.vat)",
+  "description": "Galva Mate Sealant is a high performance solvent free adhesive and sealant specifically designed for sealing high velocity duct work in heating and ventilation systems. It has a strong adhesion to galvanised and stainless steel surfaces.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Galva Mate Sealant Grey C3",
+  "specifications": [
+    "High performance solvent free adhesive and sealant",
+    "Designed for sealing high velocity duct work",
+    "Strong adhesion to galvanised and stainless steel surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-heat-mate-silicone-red-c3.html|>
+## Everbuild Heat Mate Silicone Red C3
+
+{
+  "price": "€23.31 inc VAT (€18.95 exc.vat)",
+  "description": "The Everbuild EVBHEAT Everflex Heat Mate Silicone is a high modulus, reactive curing silicone sealant specifically designed for high temperature applications. EVBHEAT cures quickly to reduce dirt pick up. It remains permanently flexible, forming a weather-tight rubber-like seal and it conforms to the performance requirements of BS 5889 Type B. Everbuild EVBHEAT has a good range of applications from a gasket sealant, for joints and assemblies, which must be resistant to high temperatures in ducting, metal chimneys, industrial / domestic ovens, heating appliances.",
+  "availability": "Out of Stock",
+  "product_name": "Everbuild Heat Mate Silicone Red C3",
+  "specifications": [
+    "Excellent temperature resistance - remains flexible from -50 - +300oC.",
+    "Extremely low dirt pick up as it is tack free in 1 hour.",
+    "Orange/Red colour for easy installation identification.",
+    "Excellent adhesion to non-porous surfaces.",
+    "Waterproof seal.",
+    "Size: C3."
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-industrial-polyurethane-25-sealant-c3.html|>
+## Everbuild Industrial Polyurethane 25 Sealant C3
+
+{
+  "price": "€19.50 inc VAT",
+  "description": "Everbuild Puraflex 25 is a one part low modulus building sealant based on polyurethane technology. It is suitable for most construction expansion and dilation joints and adheres to most building surfaces such as concrete, ceramics, wood, metal, uPVC etc. Is solvent free and odourless. Recommended for: Most construction, expansion and dilation joints in brickwork, stone and concrete structures, vertical and horizontal. Pointing and perimeter joints around timber window and door frames. Capping to beaded glazing systems. Sealing and pointing in roofline applications and to composite panels, metal panels and steel structures. Sealing and pointing pre-cast concrete panels. Light traffic floor joints. Conforms to the following: - EN 15651-1 type FEXT-INT CC Class F25LM. - ISO11600 F25LM. - ASTM C920, Class 100/50. - ISO 16938-1 non staining on marble. - ASTM C 1248 non staining on marble . Available in Black, Brown, and White.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Industrial Polyurethane 25 Sealant C3",
+  "specifications": [
+    "One part low modulus building sealant",
+    "Based on polyurethane technology",
+    "Solvent free and odourless",
+    "Suitable for construction expansion and dilation joints",
+    "Adheres to concrete, ceramics, wood, metal, uPVC",
+    "Available in Black, Brown, and White"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-everbuild-industrial-polyurethane-40-sealant-c3.html|>
+## Everbuild Everbuild Industrial Polyurethane 40 Sealant C3
+
+{
+  "price": "€22.83 inc VAT",
+  "description": "Everbuild Industrial Polyurethane 40 Sealant is a high modulus, one-component PU sealant and adhesive which adheres strongly to most substrates. Provides excellent mechanical resistance (shore A 35), resistance to most common chemicals and can be overpainted when cured. Suitable for metal and container sealing, marine applications, expansion joints, automotive and engineering uses. Is solvent free (EMICODE EC 1PLUSR Very Low Emissions).",
+  "availability": "In Stock",
+  "product_name": "Everbuild Everbuild Industrial Polyurethane 40 Sealant C3",
+  "specifications": [
+    "High modulus, one-component PU sealant and adhesive",
+    "Excellent mechanical resistance (shore A 35)",
+    "Resistance to most common chemicals",
+    "Can be overpainted when cured",
+    "Suitable for metal and container sealing",
+    "Marine applications, expansion joints, automotive and engineering uses",
+    "Solvent free (EMICODE EC 1PLUSR Very Low Emissions)",
+    "Available in Black, Grey, or White"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-timber-and-laminate-sealant.html|>
+## Everbuild Timber & Laminate Sealant
+
+{
+  "price": "€7.10 inc VAT",
+  "description": "Everbuild Timber & Laminate Sealant is a polymer rich, permanently flexible sealant and gap filler designed for sealing around laminate flooring, fitted furniture and kitchen worktops. Formulated using high clarity lightfast colour pigments, the four colour range offers a near or exact match to many popular laminate floors and melamine board finishes. Timber & Laminate Sealant is silicone and solvent free. However, unlike conventional matt finish water-based sealants, it leaves a satin finish which will not pick up dirt and can be easily cleaned with normal household cleaners. If desired, the product can be painted, varnished or woodstained. Also contains a fungicide to prevent mould growth. Size: C3.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Timber & Laminate Sealant",
+  "specifications": [
+    "Size: C3",
+    "Silicone and solvent free",
+    "Permanently flexible sealant",
+    "Fungicide to prevent mould growth"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-acoustic-sealant-and-adhesives-ac50.html|>
+## Everbuild Acoustic Sealant & Adhesives AC50
+
+{
+  "price": "€16.10 inc VAT",
+  "description": "The Everbuild brand is not only hugely popular with tradesmen and DIY'ers. It's quite literally huge - the biggest range in the business. In addition to core manufactured products the Everbuild range includes a wide range of ancillary items from sealant guns to dust sheets, line markers to masking tape.\n\nThe range of products Everbuild actually manufacture is extensive, from chemical blending for admixtures and water proofers through water based sealant manufacturing to the highly advanced polymer engineering undertaken in manufacturing silicone and hybrid sealants, as well as adhesives and a wide range of powder products.\n\nEverbuild AC50 is permanently flexible with high grab will adheres to most surfaces whilst being mould resistant and Non flammable. When cured it can be overpaintable and is easy to clean up. AC50 will form an acoustic and intumescent barrier by sealing gaps between plasterboard walls, floors and ceilings and dry lining applications.\n\nAs an adhesive, Everbuild AC50 bonds plasterboard to plasterboard, wood, metal studding and direct to block work. It is also ideal for sealing and bonding most other kraft lined insulation boards.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Acoustic Sealant & Adhesives AC50",
+  "specifications": [
+    "900ml",
+    "Permanently flexible",
+    "High grab",
+    "Mould resistant",
+    "Non flammable",
+    "Overpaintable",
+    "Easy to clean up",
+    "Forms acoustic and intumescent barrier"
+  ]
+}
+

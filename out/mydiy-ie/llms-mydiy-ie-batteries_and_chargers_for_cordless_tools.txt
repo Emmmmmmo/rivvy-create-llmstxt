@@ -1,0 +1,708 @@
+<|https://www.mydiy.ie/products/energizer-compact-charger--4-x-aa-1300-mah-batteries.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/makita-decadp05-lxt-charging-adaptor.html|>
+## Makita DECADP05 LXT Charging Adaptor
+
+{
+  "price": "€29.05 inc VAT (€23.62 exc.vat)",
+  "description": "The Makita DECADP05 LXT Charging Adaptor provides 2 USB charging ports, each with an output of 2.1A. Suitable for phones, tablets or any device that can be charged from a USB port. A handy built in belt clip allows total portability whilst charging. Compatible with all Makita 18V LXT Li-ion batteries.",
+  "availability": "In Stock",
+  "product_name": "Makita DECADP05 LXT Charging Adaptor",
+  "specifications": [
+    "2 USB charging ports",
+    "Output of 2.1A",
+    "Compatible with all Makita 18V LXT Li-ion batteries",
+    "Built-in belt clip for portability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-change-battery-and-charger-starter-kit-18v-2-x-40ah-li-ion.html|>
+## Einhell Power X-Change Battery & Charger Starter Kit 18V 2 x 4.0Ah Li-ion
+
+{
+  "price": "€102.98 inc VAT (€83.72 exc.vat)",
+  "description": "This Einhell Power-X-Change Starter Kit contains the following: 2 x 18V 4.0Ah Power X-Change Li-ion Batteries. They features a 7-in-1 ABS: Active Battery Management System and a 3-Step LED battery control. The microprocessor controls key parameters like temperature and voltage, and even a deeply discharged battery can be charged in repair mode, which offers a long working battery life. The high-quality Li-ion battery cells provide nearly no self-discharge and the rubber-coated housing gives high impact protection and a high grip. It also has a recessed grip which ensures good ergonomic handling. 1 x 18V PXC Power-X Twincharger charges two 18V Li-ion batteries at the same time and can be used universally for all 18V Power X-Change batteries. Intelligent charging management provides maximum safety and optimum charging. Charging cycles are adjusted to the specific situation, so the batteries have a longer service life. The 6-stage charging system provides the user with up-to-the-moment battery status information. Integrated suspension eyelets for easy wall mounting.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell Power X-Change Battery & Charger Starter Kit 18V 2 x 4.0Ah Li-ion",
+  "specifications": [
+    "2 x 18V 4.0Ah Power X-Change Li-ion Batteries",
+    "7-in-1 ABS: Active Battery Management System",
+    "3-Step LED battery control",
+    "Microprocessor controls key parameters",
+    "High-quality Li-ion battery cells",
+    "Rubber-coated housing for impact protection",
+    "18V PXC Power-X Twincharger charges two batteries simultaneously",
+    "Intelligent charging management",
+    "6-stage charging system"
+  ]
+}
+
+<|https://www.mydiy.ie/products/edma-battery-pack-set-36v-15ah-li-ion.html|>
+## Edma Battery Pack Set 36V 1.5Ah Li-ion
+
+{
+  "price": "€304.88 inc VAT (€247.87 exc.vat)",
+  "description": "Edma Replacement Battery Pack Set. Compatible with the foldable hot wire cutting table ref. 367155, the professional hot wire cutting table ref. 266555 and the simplified hot wire cutting machine ref. 260155. Composed of a Li-ion battery (36V - 1.5Ah) and its charger + a battery rack to connect to the machine. Battery Charger Time: 70 minutes approx.",
+  "availability": "Out of Stock",
+  "product_name": "Edma Battery Pack Set 36V 1.5Ah Li-ion",
+  "specifications": [
+    "Battery Charger Time: 70 minutes approx."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-change-boostcharger-starter-kit-18v-1-x-40-60ah-li-on.html|>
+## Einhell Power-X-Change Boostcharger Starter Kit 18V 1 x 4.0-6.0Ah Li-on
+
+{
+  "price": "€104.86 inc VAT (€85.25 exc.vat)",
+  "description": "This Einhell Power-X-Change Boostcharger Starter Kit contains the following: 1 x Power X-Boostcharger 6A can be used to charge all Power X-Change rechargeable batteries. Its selectable boost mode can be used to significantly reduce the charging times, up to 50%. In addition, intelligent charging management provides extra safety: For optimum charging, the battery is permanently monitored while charging is in progress. Refresh mode allows deeply discharged batteries to be reactivated. The 6-stage status LED display keeps users informed on battery status. For user-friendly wall-mounting there are integrated suspension eyelets. Output Voltage: 18V. Output Current: 6A. Weight: 0.83kg. 1 x Power X-Change Multi-Ah Battery 18V 4.0-6.0Ah Li-ion. Features high-quality Li-ion cells with no memory effect, low self-discharge and high, constant power. This cell technology delivers 100% more power for maximum performance. With Multi-Ah technology: 6Ah for maximum charge level or 4Ah to protect the battery for 3x longer total lifetime. The charge level is precisely indicated as a % on the digital display. PLUS-technology provides increased power for intensive operation.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell Power-X-Change Boostcharger Starter Kit 18V 1 x 4.0-6.0Ah Li-on",
+  "specifications": [
+    "Output Voltage: 18V",
+    "Output Current: 6A",
+    "Weight: 0.83kg",
+    "Compatible with all Power X-Change chargers and machines"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-car-charger-3a.html|>
+## Einhell Power X-Car Charger 3A
+
+{
+  "price": "€47.15 inc VAT (€38.33 exc.vat)",
+  "description": "The Einhell Power X-Car Charger can be used universally for all Power X-Change batteries. The 12V plug enables charging in the car, van, etc. Existing 2-stage protection electronics for the car battery ensure the car can be started at any time via indicator lights. With the help of the hanging loops, the charger can be easily mounted on the wall and requires little space. 3A fast charging technology makes charging times even shorter, and the battery is constantly monitored by the smart charging management system for optimal charging and top safety. Thanks to the refresh mode, it is possible to reactivate deeply discharged batteries. All current information is provided via the 7-stage LED status indicator.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell Power X-Car Charger 3A",
+  "specifications": [
+    "Universal for all Power X-Change batteries",
+    "12V plug for car charging",
+    "2-stage protection electronics",
+    "3A fast charging technology",
+    "7-stage LED status indicator"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-usb-c-powerstack-starter-kit-18v-2-x-50ah-li-ion.html|>
+## DEWALT USB-C POWERSTACK™ Starter Kit 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€396.13 inc VAT (€322.06 exc.vat)",
+  "description": "The DEWALT USB-C POWERSTACK™ Starter Kit contains the following; 1 x DCB094K USB Power Delivery Charging Kit. The DEWALT DCB094K USB Power Delivery Charging Kit charges all DEWALT 18V XR and FlexVolt batteries. It has a USB-C port and output power to charge your other personal devices up to 100W. There is also a USB-A port acting as an adaptor, allowing you to charge devices up to 12W using traditional USB cords. Fitted with a belt hook for on-the-go stowing. Includes 1 x 100W USB Cord and 1 x 65W Plug. 2 x DCBP518 POWERSTACK™ Slide Batteries 18V 5.0Ah Li-ion. The DEWALT XR POWERSTACK™ Slide Battery features stacked pouch cell battery technology providing a low impedance construction, the rate of flow of electrons is much higher thanks to the innovative internal pouch battery connectors, and electrodes. The XR Slide Battery provides a greater surface area versus a traditional cylindrical battery cell type, and it also benefits from superior thermal performance, versus cylindrical batteries. This increases battery durability, and improves the cycle life and results. Works with the complete line of 18V XR tools and chargers, bringing a new lease of life and power to existing power tools.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT USB-C POWERSTACK™ Starter Kit 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "1 x DCB094K USB Power Delivery Charging Kit",
+    "2 x DCBP518 POWERSTACK™ Slide Batteries 18V 5.0Ah Li-ion",
+    "USB-C port for charging devices up to 100W",
+    "USB-A port for charging devices up to 12W",
+    "Includes 1 x 100W USB Cord and 1 x 65W Plug"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-xr-flexvolt-slide-battery-1854-volt-60ah-li-ion.html|>
+## DEWALT XR FlexVolt Slide Battery 18/54 Volt 6.0Ah Li-Ion
+
+{
+  "price": "€125.64 inc VAT (€102.15 exc.vat)",
+  "description": "The DEWALT XR FlexVolt Slide Li-Ion Batteries stand at the forefront of cordless technology. They are the world’s first convertible 18/54 Volt batteries, offering unprecedented levels of power. Provides the unique ability to power heavy-duty construction power tools whilst still being compatible with existing DEWALT XR 18 Volt products and offering increased runtime. It offers users increased runtime, over any of the 18 Volt XR 4.0Ah or 5.0Ah Li-Ion batteries. Battery Capacity: 6.0Ah. Battery Chemistry: Li-Ion. Voltage: 18/54 Volt.",
+  "availability": "In Stock",
+  "product_name": "DEWALT XR FlexVolt Slide Battery 18/54 Volt 6.0Ah Li-Ion",
+  "specifications": [
+    "Battery Capacity: 6.0Ah",
+    "Battery Chemistry: Li-Ion",
+    "Voltage: 18/54 Volt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-xr-battery-pack-108-volt-li-ion.html|>
+## DEWALT XR Battery Pack 10.8 Volt Li-Ion
+
+{
+  "price": "€148.44 inc VAT",
+  "description": "The DEWALT DCB XR Li-Ion Battery has a compact, lightweight, slide pack design that offers longer life and is compatible with all DEWALT 10.8 Volt tools. No memory effect and virtually no self-discharge for maximum productivity and less downtime.",
+  "availability": "In Stock",
+  "product_name": "DEWALT XR Battery Pack 10.8 Volt Li-Ion",
+  "specifications": [
+    "2.0Ah option available",
+    "Compatible with all DEWALT 10.8 Volt tools",
+    "No memory effect",
+    "Virtually no self-discharge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-fastcharger-4a.html|>
+## Einhell Power X-Fastcharger 4A
+
+{
+  "price": "€31.41 inc VAT (€25.54 exc.vat)",
+  "description": "The Einhell Power X-Fastcharger charges all batteries from the Einhell Power X-Change system. 4 amp fast-charging technology ensures shorter charging times. For optimum charging and maximum safety, the battery is permanently monitored by an intelligent charging management system. There is a refresh mode for reactivating exhaustively discharged batteries. All up-to-the-moment information is provided by the 6-stage charging level LED indicator. The body features integrated suspension eyelets to easily hang on the wall.",
+  "availability": "In Stock",
+  "product_name": "Einhell Power X-Fastcharger 4A",
+  "specifications": [
+    "Mains Supply: 200-250V / 50-60Hz",
+    "Output Voltage: 21V",
+    "Output Current: 4000mA",
+    "Weight: 0.46kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-change-battery-and-charger-starter-kit-18v-1-x-25ah-li-ion.html|>
+## Einhell Power X-Change Battery & Charger Starter Kit 18V 1 x 2.5Ah Li-ion
+
+{
+  "price": "€32.47 inc VAT (€26.40 exc.vat)",
+  "description": "This Einhell Power-X-Change Starter Kit contains the following: 1 x 18V 2.5Ah Power X-Change Li-ion Battery that features a 7-in-1 ABS: Active Battery Management System and a 3-Step LED battery control. The microprocessor controls key parameters like temperature and voltage, and even a deeply discharged battery can be charged in repair mode, which offers a long working battery life. The high-quality Li-ion battery cells provide nearly no self-discharge and the rubber-coated housing gives high impact protection and a high grip. It also has a recessed grip that ensures good ergonomic handling. 1 x Power X-Fastcharger. Charges all batteries from the Einhell Power X-Change system. 4 amp fast-charging technology ensures shorter charging times. For optimum charging and maximum safety, the battery is permanently monitored by an intelligent charging management system. A refresh mode reactivates exhaustively discharged batteries. All up-to-the-moment information is provided by the 6-stage charging level LED indicator. The body features integrated suspension eyelets to easily hang on the wall.",
+  "availability": "In Stock",
+  "product_name": "Einhell Power X-Change Battery & Charger Starter Kit 18V 1 x 2.5Ah Li-ion",
+  "specifications": [
+    "1 x 18V 2.5Ah Power X-Change Li-ion Battery",
+    "7-in-1 ABS: Active Battery Management System",
+    "3-Step LED battery control",
+    "4 amp fast-charging technology",
+    "Intelligent charging management system"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-change-battery-and-charger-starter-kit-18v-1-x-40ah-li-ion.html|>
+## Einhell Power X-Change Battery & Charger Starter Kit 18V 1 x 4.0Ah Li-ion
+
+{
+  "price": "€42.96 inc VAT (€34.93 exc.vat)",
+  "description": "This Einhell Power-X-Change Starter Kit contains the following: 1 x 18V 4.0Ah Power X-Change Li-ion Battery features a 7-in-1 ABS: Active Battery Management System and a 3-Step LED battery control. The microprocessor controls key parameters like temperature and voltage, and even a deeply discharged battery can be charged in repair mode, which offers a long working battery life. The high-quality Li-ion battery cells provide nearly no self-discharge and the rubber-coated housing gives high impact protection and a high grip. It also has a recessed grip that ensures good ergonomic handling. 1 x Power X-Fastcharger. Charges all batteries from the Einhell Power X-Change system. 4 amp fast-charging technology ensures shorter charging times. For optimum charging and maximum safety, the battery is permanently monitored by an intelligent charging management system. A refresh mode reactivates exhaustively discharged batteries. All up-to-the-moment information is provided by the 6-stage charging level LED indicator. The body features integrated suspension eyelets to easily hang on the wall.",
+  "availability": "In Stock",
+  "product_name": "Einhell Power X-Change Battery & Charger Starter Kit 18V 1 x 4.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V 4.0Ah Power X-Change Li-ion Battery",
+    "7-in-1 ABS: Active Battery Management System",
+    "3-Step LED battery control",
+    "Microprocessor controls key parameters",
+    "High-quality Li-ion battery cells",
+    "Rubber-coated housing for impact protection",
+    "Integrated suspension eyelets for easy hanging"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-change-battery-and-charger-starter-kit-18v-1-x-52ah-li-ion.html|>
+## Einhell Power X-Change Battery & Charger Starter Kit 18V 1 x 5.2Ah Li-ion
+
+{
+  "price": "€91.20 inc VAT (€74.15 exc.vat)",
+  "description": "This Einhell Power-X-Change Starter Kit contains the following: 1 x 18V 5.2Ah Power X-Change Li-ion Battery featuring a 7-in-1 ABS: Active Battery Management System and a 3-Step LED battery control. The microprocessor controls key parameters like temperature and voltage, and even a deeply discharged battery can be charged in repair mode, which offers a long working battery life. The high-quality Li-ion battery cells provide nearly no self-discharge and the rubber-coated housing gives high impact protection and a high grip. It also has a recessed grip ensuring good ergonomic handling. 1 x Power X-Fastcharger 4A. Charges all batteries from the Einhell Power X-Change system. 4 amp fast-charging technology ensures shorter charging times. For optimum charging and maximum safety, the battery is permanently monitored by an intelligent charging management system. There is a refresh mode for reactivating exhaustively discharged batteries. All up-to-the-moment information is provided by the 6-stage charging level LED indicator. The body features integrated suspension eyelets to easily hang on the wall.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell Power X-Change Battery & Charger Starter Kit 18V 1 x 5.2Ah Li-ion",
+  "specifications": [
+    "Mains Supply: 200-250V / 50-60Hz",
+    "Output Voltage: 21V",
+    "Output Current: 4000mA",
+    "Weight: 0.46kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-multi-ah-power-x-change-battery-18v-50-80ah-li-ion.html|>
+## Einhell Multi-Ah Power X-Change Battery 18V 5.0-8.0Ah Li-ion
+
+{
+  "price": "€128.97 inc VAT (€104.85 exc.vat)",
+  "description": "The Einhell Multi-Ah Power X-Change Battery can be operated as an 8.0Ah battery for maximum runtime or as a 5.0Ah battery for a 3x longer total service life. The latest generation of lithium-ion cells provides 100% more power for maximum performance in all applications, with a 13% more compact design and 12% weight reduction. PLUS technology also means extra power for intensive work. In addition, the high-quality battery resists the memory effect and the self-discharge that usually occurs in batteries for constant, high power. The process-driven ABS active battery management system continuously monitors the battery settings using the integrated microprocessor. This ensures maximum safety, optimal device performance, maximum runtime and maximum service life. You can check the current charge status via the 3-stage LED indicator. The housing is resistant to dust, corrosion and mechanical influences thanks to its construction. The rubber coating gives the battery high impact protection and a good grip. Thanks to the recessed grip, it can be easily removed from all units. A member of the multifunctional and completely interchangeable Power X-Change rechargeable battery system from Einhell. The Power X-Change rechargeable batteries can be used universally for supplying power and endurance to every cordless tool from the entire garden and workshop product family.",
+  "availability": "In Stock",
+  "product_name": "Einhell Multi-Ah Power X-Change Battery 18V 5.0-8.0Ah Li-ion",
+  "specifications": [
+    "Battery Capacity: 5.0-8.0Ah",
+    "Battery Chemistry: Li-ion",
+    "Voltage: 18V",
+    "Weight: 1.05kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-boostcharger-6a.html|>
+## Einhell Power X-Boostcharger 6A
+
+{
+  "price": "€52.40 inc VAT (€42.60 exc.vat)",
+  "description": "The Einhell Power X-Boostcharger 6A can be used to charge all Power X-Change rechargeable batteries. Its selectable boost mode can be used to significantly reduce the charging times, up to 50%. In addition, intelligent charging management provides extra safety: For optimum charging, the battery is permanently monitored while charging is in progress. Refresh mode allows deeply discharged batteries to be reactivated. The 6-stage status LED display keeps users informed on battery status. For user-friendly wall-mounting there are integrated suspension eyelets.",
+  "availability": "In Stock",
+  "product_name": "Einhell Power X-Boostcharger 6A",
+  "specifications": [
+    "Output Voltage: 18V",
+    "Output Current: 6A",
+    "Weight: 0.83kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-boostcharger-8a.html|>
+## Einhell Power X-Boostcharger 8A
+
+{
+  "price": "€68.13 inc VAT (€55.39 exc.vat)",
+  "description": "The Einhell Power X-Boostcharger 8A can be used to charge all Power X-Change rechargeable batteries. Its selectable boost mode can be used to significantly reduce the charging times, up to 62%. In addition, intelligent charging management provides extra safety: For optimum charging, the battery is permanently monitored while charging is in progress. Refresh mode allows deeply discharged batteries to be reactivated. The 6-stage status LED display keeps users informed on battery status. For user-friendly wall-mounting there are integrated suspension eyelets.",
+  "availability": "In Stock",
+  "product_name": "Einhell Power X-Boostcharger 8A",
+  "specifications": [
+    "Output Voltage: 18V",
+    "Output Current: 8A"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-sealed-power-x-change-plus-battery.html|>
+## Einhell SEALED Power X-Change PLUS Battery
+
+{
+  "price": "€75.47 inc VAT (€61.36 exc.vat)",
+  "description": "The Einhell SEALED Power X-Change PLUS Battery is waterproof and dustproof in accordance with protection class IP57. Thanks to the integrated short-circuit protection via an extra contact on the battery receptacle, the sensor system detects contact with water and switches off the electronics. This ensures even if the battery has been completely immersed in water, it can continue to be used once it is dry. It provides 100% more power for maximum performance in all applications, along with a 13% more compact design and 10% reduction in weight. In addition, our PLUS technology delivers extra power for intensive tasks. Furthermore, the high-quality battery does not suffer from the memory or self-discharge effects most batteries do, meaning it can deliver consistent, high power. The process-controlled ABS active battery management system continuously monitors the battery parameters using its integrated microprocessor. This ensures maximum safety, optimal device performance, maximum runtime and maximum service life. You can check the current charge status via the 3-stage LED indicator. The design of the housing makes it resistant to corrosion and mechanical impact. Its rubber coating gives the battery high impact protection and ensures a good grip. Thanks to the recessed grip, it can be easily removed from all units. Part of the multifunctional and infinitely combinable Power X-Change battery system from Einhell. Provides power and endurance for all cordless power tools across the entire product family covering the garden and workshop sector.",
+  "availability": "In Stock",
+  "product_name": "Einhell SEALED Power X-Change PLUS Battery",
+  "specifications": [
+    "18V 4.0Ah Li-ion",
+    "Waterproof and dustproof (IP57)",
+    "Integrated short-circuit protection",
+    "13% more compact design",
+    "10% reduction in weight",
+    "3-stage LED charge indicator",
+    "Part of the Power X-Change battery system"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-2x2-power-x-quattrocharger-4a.html|>
+## Einhell 2x2 Power X-Quattrocharger 4A
+
+{
+  "price": "€96.46 inc VAT (€78.42 exc.vat)",
+  "description": "The Einhell 2x2 Power X-Quattrocharger can be used to charge all Power X-Change rechargeable batteries. Provides continuous, simultaneous charging of two batteries, one battery per side, saves space and ensures not only fast and high availability but also uninterrupted work. Once two batteries are fully charged on each side, the next two are automatically charged. Thanks to the 4A fast charging technology, charging times are even shorter, and the battery is constantly monitored by the smart charging management system for optimal charging and top safety. Thanks to the refresh mode, it is possible to reactivate deeply discharged batteries. All current information is provided via a 6-stage LED status indicator for each battery. A carry handle allows easy and effortless transport of 4 batteries. Thanks to its low weight, the Quattrocharger is ideally suited for mobile use.",
+  "availability": "In Stock",
+  "product_name": "Einhell 2x2 Power X-Quattrocharger 4A",
+  "specifications": [
+    "Continuous, simultaneous charging of two batteries",
+    "4A fast charging technology",
+    "6-stage LED status indicator for each battery",
+    "Lightweight and portable design",
+    "Refresh mode for deeply discharged batteries"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-change-plus-slimline-battery.html|>
+## Einhell Power X-Change Plus Slimline Battery
+
+{
+  "price": "€48.22 inc VAT",
+  "description": "Einhell Power X-Change Plus Slimline Batteries feature the latest generation of lithium-ion cells provides 100% more power for maximum performance in all applications, with a 13% more compact design and 12% weight reduction. PLUS technology also means extra power for intensive work. In addition, the high-quality battery resists the memory effect and the self-discharge that usually occurs in batteries for constant, high power. The process-driven ABS active battery management system continuously monitors the battery settings using the integrated microprocessor. This ensures maximum safety, optimal device performance, maximum runtime and maximum service life. You can check the current charge status via the 3-stage LED indicator. The housing is resistant to dust, corrosion and mechanical influences thanks to its construction. The rubber coating gives the battery high impact protection and a good grip. Thanks to the recessed grip, it can be easily removed from all units. A member of the multifunctional and completely interchangeable Power X-Change rechargeable battery system from Einhell. The Power X-Change rechargeable batteries can be used universally for supplying power and endurance to every cordless tool from the entire garden and workshop product family.",
+  "availability": "In Stock",
+  "product_name": "Einhell Power X-Change Plus Slimline Battery",
+  "specifications": [
+    "3.0Ah",
+    "4.0Ah"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dc18rd-twin-port-multi-voltage-charger.html|>
+## Makita DC18RD Twin Port Multi Voltage Charger
+
+{
+  "price": "€119.53 inc VAT (€97.18 exc.vat)",
+  "description": "Can charge 2 Makita slide style Li-ion batteries at the same time, as fast as DC18RC charges one battery. USB port on front of unit for charging smaller items. Full charge sound alert and LED charging display. Electronic current limiter provides overload protection.",
+  "availability": "In Stock",
+  "product_name": "Makita DC18RD Twin Port Multi Voltage Charger",
+  "specifications": [
+    "Charges 2 Makita slide style Li-ion batteries simultaneously",
+    "USB port for charging smaller items",
+    "Full charge sound alert",
+    "LED charging display",
+    "Electronic current limiter for overload protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dc18wa-g-series-144-18v-li-ion-charger.html|>
+## Makita DC18WA G Series 14.4-18V Li-ion Charger
+
+{
+  "price": "€51.50 inc VAT (€41.87 exc.vat)",
+  "description": "DC18WA G Series 14.4-18V Li-ion Charger",
+  "availability": "Out of Stock",
+  "product_name": "Makita DC18WA G Series 14.4-18V Li-ion Charger",
+  "specifications": [
+    "Model: MAKDC18WA",
+    "Price: €51.50",
+    "List Price: €70.11",
+    "You save: €18.61",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Free delivery for orders over €150 within Ireland",
+    "Delivery charges for orders under €150: €8.99",
+    "International delivery charges based on weight"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-18v-li-ion-batteries.html|>
+## Makita 18V Li-ion Batteries
+
+{
+  "price": "from €71.45 inc VAT",
+  "description": "The Makita 18V Li-Ion Batteries provide the ultimate power to weight ratio thanks to its lightweight and shock-absorbing design. The Li-ion range delivers 430% more working capacity during the lifetime of the battery compared to Ni-Cad and is 40% lighter than NiMH. The Li-ion has minimal depletion of power during use or in storage over it's lifetime. Features: Foam cell technology. Slide on battery, firm holding with multi contacts and shock absorbing pack. It will not puncture and remains cool even in heavy use. Makita have a comprehensive range of professional Lithium-ion tools available on the market, so what ever your trade, you will be confident that you have made the best choice.",
+  "availability": "In Stock",
+  "product_name": "Makita 18V Li-ion Batteries",
+  "specifications": [
+    "3.0Ah Li-ion Battery (Loose)",
+    "5.0Ah Li-Ion Battery",
+    "BL1840B 18V 4.0Ah Li-ion Battery MAKBL1840"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-bl1815g-18v-15ah-g-series-li-ion-battery.html|>
+## Makita BL1815G 18V 1.5Ah G Series Li-ion Battery
+
+{
+  "price": "€142.09 inc VAT (€115.52 exc.vat)",
+  "description": "BL1815G 18V 1.5Ah G Series Li-ion Battery",
+  "availability": "Out of Stock",
+  "product_name": "Makita BL1815G 18V 1.5Ah G Series Li-ion Battery",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-bl1415g-144v-15ah-g-series-li-ion-battery.html|>
+## Makita BL1415G 14.4V 1.5Ah G Series Li-ion Battery
+
+{
+  "price": "€125.96 inc VAT (€102.41 exc.vat)",
+  "description": "G-Series batteries are not compatible with the Makita LXT range of cordless tools. Slide on battery, firm holding with multi contacts and shock absorbing pack. Lightweight and shock-absorbing.",
+  "availability": "In Stock",
+  "product_name": "Makita BL1415G 14.4V 1.5Ah G Series Li-ion Battery",
+  "specifications": [
+    "MAK198192 : €125.96",
+    "List: €131.14",
+    "You save €5.18",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-72-18v-li-ion-charger.html|>
+## Makita 7.2-18V Li-ion Charger
+
+{
+  "price": "€50.97 inc VAT",
+  "description": "The Makita DC18RC 7.2-18V Li-ion Charger has a built-in cooling fan system that blows cool air into the battery, keeping the battery cool during the charging process. This helps to extend the overall battery life and accelerate the charging process. With 3 active charging colours to help identify when the battery is charged, and to what level. When it is used in conjunction with the charging adaptor ADP0, this charger offers also the possibility of charging NiMH slide on batteries of 9.6-24V batteries. Or when used with charging adaptor ADP04, this charger offers the possibility to charge NiCad and NiMH rod and block batteries of 7.2-18V batteries. The DC18RC is compatible with the following battery models: BL1830, BL1430, BL3626, BL3622, BL1415, BL1013, and BL0710.",
+  "availability": "In Stock",
+  "product_name": "Makita 7.2-18V Li-ion Charger",
+  "specifications": [
+    "Built-in cooling fan system",
+    "Compatible with various battery models",
+    "3 active charging colours for battery status"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dc10wd-12vmax-standard-li-ion-charger-108-12v.html|>
+## Makita DC10WD 12Vmax Standard Li-ion Charger 10.8-12V
+
+{
+  "price": "€90.54 inc VAT (€73.61 exc.vat)",
+  "description": "Makita DC10WD 12Vmax Standard Li-ion Charger with a compact, lightweight design with a multi-contact slide-type terminal. Charges all 10.8-12V Makita slide-on type Li-ion batteries. A charging status indicator provides easy battery diagnostics. The charger is also wall mountable.",
+  "availability": "In Stock",
+  "product_name": "Makita DC10WD 12Vmax Standard Li-ion Charger 10.8-12V",
+  "specifications": [
+    "Charges all 10.8-12V Makita slide-on type Li-ion batteries",
+    "Compact and lightweight design",
+    "Multi-contact slide-type terminal",
+    "Charging status indicator",
+    "Wall mountable"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-bl1021b-12v-cxt-battery-20ah-li-ion.html|>
+## Makita BL1021B 12V CXT Battery 2.0Ah Li-ion
+
+{
+  "price": "€139.21 inc VAT (€113.18 exc.vat)",
+  "description": "Makita 12V CXT Battery with a battery fuel gauge, 4-stage LED. Individual cell monitoring, battery protection circuit and low-temperature performance for increased performance and durability over time.",
+  "availability": "In Stock",
+  "product_name": "Makita BL1021B 12V CXT Battery 2.0Ah Li-ion",
+  "specifications": [
+    "Battery fuel gauge",
+    "4-stage LED",
+    "Individual cell monitoring",
+    "Battery protection circuit",
+    "Low-temperature performance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dc18rdsd-twin-port-multi-voltage-charger-144-18v.html|>
+## Makita DC18RDSD Twin Port Multi Voltage Charger 14.4-18V
+
+{
+  "price": "€211.03 inc VAT (€171.57 exc.vat)",
+  "description": "The Makita DC18RD Twin Port Charger is able to charge two Makita slide style Li-ion and Ni-MH batteries (with adapter) at the same time, this is as fast as the DC18RC charges one battery. The DC18RD has full charge sound alert, an LED charging display, and electronic current limiter which provides overload protection. The Twin Port charge times are: 2 x 18 Volt 3.0ah Batteries: 22 mins, 2 x 18 Volt 4.0ah Batteries: 36 mins, and 2 x 18 Volt 5.0ah Batteries: 45 mins.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DC18RDSD Twin Port Multi Voltage Charger 14.4-18V",
+  "specifications": [
+    "Charges two Makita slide style Li-ion and Ni-MH batteries simultaneously",
+    "Full charge sound alert",
+    "LED charging display",
+    "Electronic current limiter for overload protection",
+    "Charge times: 22 mins for 2 x 18V 3.0ah, 36 mins for 2 x 18V 4.0ah, 45 mins for 2 x 18V 5.0ah"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-deaadp001g-xgt-usb-adaptor.html|>
+## Makita DEAADP001G XGT USB Adaptor
+
+{
+  "price": "€45.90 inc VAT (€37.32 exc.vat)",
+  "description": "The Makita DEAADP001G XGT USB Adaptor lets you charge mobile devices, smartphones and tablets. Easy to use, simply push the button on-off switch. A green LED indicator lets you know if your device is charging. For use with any Makita 40V Max XGT Battery.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DEAADP001G XGT USB Adaptor",
+  "specifications": [
+    "For use with any Makita 40V Max XGT Battery",
+    "Easy to use with on-off switch",
+    "Green LED indicator for charging status"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-adp10-xgt-to-lxt-charger-adaptor.html|>
+## Makita ADP10 XGT® to LXT® Charger Adaptor
+
+{
+  "price": "€61.18 inc VAT (€49.74 exc.vat)",
+  "description": "Makita ADP10 XGT® to LXT® Charger Adaptor. Lets you charge your LXT® batteries in a XGT® charger. Developed specially for charging 14.4V / 18V LXT® batteries (Not compatible with BL1430A).",
+  "availability": "Out of Stock",
+  "product_name": "Makita ADP10 XGT® to LXT® Charger Adaptor",
+  "specifications": [
+    "Model: MAK191C107",
+    "Price: €61.18",
+    "List Price: €100.05",
+    "You save: €38.87",
+    "WEEE Recycling Producer Registration Number: 12889"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-xgt-40vmax-li-ion-battery.html|>
+## Makita XGT 40Vmax Li-ion Battery
+
+{
+  "price": "€252.62 inc VAT",
+  "description": "The Makita XGT 40Vmax Li-ion Battery has been built to withstand harsh environmental conditions. It has a robust construction, protected against dust with a splash-proof design and an integrated cooling system for maximum durability. Equipped with an LED indicator which shows the remaining capacity of the battery. The XGT 40Vmax range is equipped with special electronics providing digital communication between tool, battery and charger. This allows the charger to provide the optimal charge to the battery depending on the status of the battery, whilst the tool can respond to the status of the battery by optimising performance to the battery level.",
+  "availability": "In Stock",
+  "product_name": "Makita XGT 40Vmax Li-ion Battery",
+  "specifications": [
+    "Select Option: 2.5Ah, 4.0Ah",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dc40ra-xgt-fast-li-ion-charger.html|>
+## Makita DC40RA XGT® Fast Li-ion Charger
+
+{
+  "price": "€168.82 inc VAT",
+  "description": "The Makita DC40RA Fast Li-ion Charger has been developed for charging Makita XGT 40Vmax Li-ion batteries. Use the ADP10 interchangeable adaptor to charge LXT Li-ion batteries. Equipped with two cooling fans: one for the battery and the other for the charging circuit; enabling it to charge consecutive batteries at the optimum charge time. It has an improved charging indicator status, raised and enlarged for clearer indication. You can also select the full charge melody notification sound. The XGT 40Vmax range is equipped with special electronics providing digital communication between tool, battery and charger. This allows the charger to provide the optimal charge to the battery depending on the status of the battery, whilst the tool can respond to the status of the battery by optimising performance to the battery level.",
+  "availability": "In Stock",
+  "product_name": "Makita DC40RA XGT® Fast Li-ion Charger",
+  "specifications": [
+    "Battery Range: 40V",
+    "Battery Type: Li-ion",
+    "Average Charging Time: 2.0Ah 22min., 2.5Ah 28min., 4.0Ah 45 min., 5.0Ah 50min.",
+    "Power Supply Cord: 2m",
+    "Dimensions (L x W x H): 156 x 210 x 84mm",
+    "Weight: 1.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dc40ra-xgt-two-port-fast-charger.html|>
+## Makita DC40RA XGT® Two Port Fast Charger
+
+{
+  "price": "€310.83 inc VAT",
+  "description": "The Makita DC40RA XGT® Two Port Charger is able to charge two XGT Li-ion batteries at a time, as fast as the DC40RA charges one battery. Use the ADP10 interchangeable adaptor to charge LXT Li-ion batteries. Equipped with two cooling fans: one for the battery and the other for the charging circuit; enabling it to perform consecutive fast charging of batteries. It has an improved charging indicator status, raised and enlarged for clearer indication. You can also select the full charge melody notification sound. The XGT 40Vmax range is equipped with special electronics providing digital communication between tool, battery and charger. This allows the charger to provide the optimal charge to the battery depending on the status of the battery, whilst the tool can respond to the status of the battery by optimising performance to the battery level.",
+  "availability": "In Stock",
+  "product_name": "Makita DC40RA XGT® Two Port Fast Charger",
+  "specifications": [
+    "Battery Range: 40V",
+    "Battery Type: Li-ion",
+    "Average Charging Time: 2.0Ah 22min., 2.5Ah 28min., 4.0Ah 45 min., 5.0Ah 50min.",
+    "Power Supply Cord: 2m",
+    "Dimensions (L x W x H): 176 x 353 x 100mm",
+    "Weight: 2.0kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-redlithium-ion-battery-packs-12-volt.html|>
+## Milwaukee M12 REDLITHIUM-ION™ Battery Packs 12 Volt
+
+{
+  "price": "€34.75 inc VAT",
+  "description": "The Milwaukee M12 B REDLITHIUM-ION™ Battery Packs are fitted with sophisticated electronics (REDLINK™ Intelligence) and overload protection which prevents the user from damaging their cordless power tool investment in abusive situations. It has a temperature Management System which keeps the battery in ideal temperature range to provide maximum life. With individual Cell Monitoring which ensures optimal charge and discharge for maximum life and discharge protection which prevents cell damage from over-discharge. They offer up to twice the run time, 20% more power and up to twice the recharges compared to other Lithium-Ion technologies and or with previous Milwaukee® battery technology. Results dependant on voltage, tool and application.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 REDLITHIUM-ION™ Battery Packs 12 Volt",
+  "specifications": [
+    "Available Options: 2.0Ah, 3.0Ah, 4.0Ah",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "Free delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m14---m18-multibay-multi-voltage-charger.html|>
+## Milwaukee M14™ - M18™ Multibay Multi Voltage Charger
+
+{
+  "price": "€179.30 inc VAT",
+  "description": "The Milwaukee M14™ - M18™ Multibay Multi Voltage Charger charges up to 6 batteries sequentially. By using by-pass mode, you can select the battery bay that gets charged first. It has a compact design, integrated hang holes for vertical mounting, a pass through plug to conserve outlet space and a convenient carrying handle. With this new six pack charger, users can reduce the amount of time spent changing out batteries, increasing productivity on the jobsite.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M14™ - M18™ Multibay Multi Voltage Charger",
+  "specifications": [
+    "Battery Pack Capacity: 2.0, 4.0 & 5.0Ah",
+    "Charging Time: 40/80 Minutes",
+    "System: M14™ & M18™"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m18-b-redlithium-ion-slide-battery-packs-18-volt.html|>
+## Milwaukee M18 B REDLITHIUM-ION™ Slide Battery Packs 18 Volt
+
+{
+  "price": "€87.56 inc VAT",
+  "description": "The Milwaukee M18 B REDLITHIUM-ION™ Slide Battery Packs are fitted with sophisticated electronics (REDLINK™ Intelligence) and overload protection which prevents the user from damaging their cordless power tool investment in abusive situations. It has a temperature Management System which keeps the battery in ideal temperature range to provide maximum life. With individual Cell Monitoring which ensures optimal charge and discharge for maximum life and discharge protection which prevents cell damage from over-discharge. They offer up to twice the run time, 20% more power and up to twice the recharges compared to other Lithium-Ion technologies and or with previous Milwaukee® battery technology. Results dependant on voltage, tool and application.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M18 B REDLITHIUM-ION™ Slide Battery Packs 18 Volt",
+  "specifications": [
+    "Available Options: 4.0Ah, 5.0Ah",
+    "List Price: €128.62",
+    "You save: €41.06",
+    "Based on 1 customer reviews"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-nrg-201-energy-kit-12-volt-1-x-20ah-li-ion.html|>
+## Milwaukee M12 NRG-201 Energy Kit 12 Volt 1 x 2.0Ah Li-Ion
+
+{
+  "price": "€72.25 inc VAT (€58.74 exc.vat)",
+  "description": "The Milwaukee M12 NRG-201 Energy Kit, contains the following: 1 x 12 Volt M12 C12C Li-Ion Charger, with a compact and lightweight design that gives you more runtime and power, enabling you to work longer after charging. Cutting edge electronics eliminate memory effect, the battery can be charged at any time without reducing the charging capacity. Constant fade free power throughout the discharge cycle. REDLITHIUM-ION™ 2.0Ah battery packs recharge in 40 minutes or less. 1 x 12 Volt M12 B2 REDLITHIUM-ION™ Battery Pack, fitted with sophisticated electronics (REDLINK™ Intelligence) and overload protection which prevents the user from damaging their cordless power tool investment in abusive situations. They have a temperature Management System which keeps the battery in ideal temperature range to provide maximum life.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 NRG-201 Energy Kit 12 Volt 1 x 2.0Ah Li-Ion",
+  "specifications": [
+    "1 x 12 Volt M12 C12C Li-Ion Charger",
+    "1 x 12 Volt M12 B2 REDLITHIUM-ION™ Battery Pack",
+    "REDLINK™ Intelligence",
+    "Overload protection",
+    "Temperature Management System"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-b6-redlithium-ion-battery-pack-12-volt-60ah-li-ion.html|>
+## Milwaukee M12 B6 REDLITHIUM-ION™ Battery Pack 12 Volt 6.0Ah Li-Ion
+
+{
+  "price": "€84.78 inc VAT (€68.93 exc.vat)",
+  "description": "The Milwaukee M12 B6 REDLITHIUM-ION™ Battery Pack is fitted with REDLINK™ Intelligence and overload protection, which prevents the user from damaging their tools. It has a temperature control cell frame that keeps the battery at an ideal temperature range to provide maximum life. There is a waterproof protection barrier, a rubber overmould and shock responsive separators to protect the battery from damage. With individual Cell Monitoring which ensures optimal charge and discharge for maximum life and discharge protection which prevents cell damage from over-discharge. They offer up to twice the run time, 20% more power and up to twice the recharges compared to other Lithium-Ion technologies or with previous Milwaukee® battery technology. Results dependant on voltage, tool and application. Battery Capacity: 6.0Ah. Battery Chemistry: Li-Ion. Voltage: 12 Volt.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 B6 REDLITHIUM-ION™ Battery Pack 12 Volt 6.0Ah Li-Ion",
+  "specifications": [
+    "Battery Capacity: 6.0Ah",
+    "Battery Chemistry: Li-Ion",
+    "Voltage: 12 Volt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-x20s-fast-charger.html|>
+## Olympia Power Tools X20S™ Fast Charger
+
+{
+  "price": "€22.03 inc VAT (€17.91 exc.vat)",
+  "description": "The Olympia Tools® X20S™ Fast Charger has a compact design and 2 LED indicators. Charges a 2.0Ah Li-ion battery in one hour and a 4.0Ah Li-ion battery in 2 hours.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools X20S™ Fast Charger",
+  "specifications": [
+    "Input: 220-240V, 50-60Hz, 65W",
+    "Battery Rated Voltage: 20V",
+    "Weight: 0.43kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-x20s-li-ion-battery.html|>
+## Olympia Power Tools X20S™ Li-ion Battery
+
+{
+  "price": "from €33.05 inc VAT",
+  "description": "The Olympia Tools® X20S™ Li-ion Battery has a digital charge level indicator with minimal self-discharge. X20S™ batteries and chargers are 100% compatible with all tools in the X20S™ 20V range.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools X20S™ Li-ion Battery",
+  "specifications": [
+    "Charge Time with X20S™ Fast Charger: 2.0Ah = 1 hour, 4.0Ah = 2 hours",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-connect-power-supply.html|>
+## SCANGRIP® CONNECT Power Supply
+
+{
+  "price": "€85.08 inc VAT (€69.17 exc.vat)",
+  "description": "The SCANGRIP® CONNECT Power Supply converts any of the CONNECT Work Lights to a corded model.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® CONNECT Power Supply",
+  "specifications": [
+    "Model: SCG036123CUK",
+    "List Price: €100.38",
+    "You save: €15.30"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scangrip-smart-connector-connector.html|>
+## SCANGRIP® Smart CONNECTOR Connector
+
+{
+  "price": "€18.88 inc VAT",
+  "description": "The SCANGRIP® CONNECT Smart CONNECTOR enable the use of 18V battery packs on the SCANGRIP® CONNECT work lights. Whichever power tool brand such as Milwaukee tools, dewalt tools or makita tools you prefer, SCANGRIP® has developed a unique CONNECTOR for each individual brand which fits 18V battery packs. Simply mount the CONNECTOR to the work light, attach your battery and you are ready to work. A BATTERY SAFETY SYSTEM protects the battery pack and makes it safe to use. Automatic discharge protection, overload protection and temperature surveillance means you can use your 18V battery pack again and again without it being damaged. Approved by TÜV Rheinland. Each CONNECTOR is sold under separate item numbers and individually designed to fit each power tool brand.",
+  "availability": "In Stock",
+  "product_name": "SCANGRIP® Smart CONNECTOR Connector",
+  "specifications": [
+    "Compatible with 18V battery packs",
+    "Safety system with automatic discharge protection",
+    "Designed for various power tool brands"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stabila-li-power-cas-battery-12v-20ah.html|>
+## Stabila LI Power CAS Battery 12V 2.0Ah
+
+{
+  "price": "€64.92 inc VAT (€52.78 exc.vat)",
+  "description": "The Stabila LI Power CAS Battery is suitable for use with all Stabila Lasers and CAS Chargers. They have a long service life, thanks to permanent electronic individual cell monitoring when charging. With continual battery temperature monitoring for extra safety, the CAS Battery can be stored for a long time with almost no self-discharge. There is also a capacity display for a continual checking of the charge level.",
+  "availability": "In Stock",
+  "product_name": "Stabila LI Power CAS Battery 12V 2.0Ah",
+  "specifications": [
+    "STB19625 : €64.92",
+    "List: €78.71",
+    "You save €13.79",
+    "Capacity display for charge level",
+    "Long service life with electronic monitoring",
+    "Continual battery temperature monitoring"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stabila-sc30-cas-system-charger-12-18v.html|>
+## Stabila SC30 CAS System Charger 12-18V
+
+{
+  "price": "€64.92 inc VAT (€52.78 exc.vat)",
+  "description": "The Stabila SC30 Charger has a high charging current for quick battery charging. It charges all CAS Li-ion and LiHD slide in battery packs (12-18V).",
+  "availability": "In Stock",
+  "product_name": "Stabila SC30 CAS System Charger 12-18V",
+  "specifications": [
+    "High charging current for quick battery charging",
+    "Compatible with all CAS Li-ion and LiHD slide in battery packs (12-18V)"
+  ]
+}
+

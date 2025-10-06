@@ -1,0 +1,521 @@
+<|https://www.mydiy.ie/products/henry-squire-push-button-key-safe.html|>
+## Henry Squire Push Button Key Safe
+
+{
+  "price": "€38.35 inc VAT (€31.18 exc.vat)",
+  "description": "The Henry Squire Push Button Key Safe has a durable construction and weather resistant cover to keep spare keys safe and secure. It has a recodable push button lock and is easy to fit. The key safe is suitable for external and internal use and ideal for offices, holiday lets and the home for easy access.",
+  "availability": "In Stock",
+  "product_name": "Henry Squire Push Button Key Safe",
+  "specifications": [
+    "Durable construction",
+    "Weather resistant cover",
+    "Recodable push button lock",
+    "Suitable for external and internal use",
+    "Ideal for offices, holiday lets, and home"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5400e-portable-shackled-combination-key-lock-box-up-to-3-keys.html|>
+## Master Lock 5400E Portable Shackled Combination Key Lock Box (Up To 3 Keys)
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "The Master Lock 5400E Key Lock Box can easily hold up to 3 keys (house or car) in a convenient location for regular use or can be portable. Lock in place over the door knob or handle for convenience. Set-your-own 4-digit tumbler combination for convenience and quick access. The key storage door pivots open smoothly and remains attached to the lock body for convenient operation while the moulded body and vinyl coated shackle prevents scratching. The 5400E has a reinforced body that will withstand hammering and sawing, whilst the hardened steel shackle will resist cutting. It is also well protected from the weather, its cover protects the combination dials from dirt and grime. All Master Lock products with a locking mechanism have a Lifetime Warranty against mechanical failure. External Dimensions: 90 x 110 x 40mm. Internal Dimensions: 68 x 78 x 34mm. Shackle Diameter: 10mm. Shackle Clearance: 36mm. Shackle Width: 47mm.",
+  "availability": "In Stock",
+  "product_name": "Master Lock 5400E Portable Shackled Combination Key Lock Box (Up To 3 Keys)",
+  "specifications": [
+    "External Dimensions: 90 x 110 x 40mm",
+    "Internal Dimensions: 68 x 78 x 34mm",
+    "Shackle Diameter: 10mm",
+    "Shackle Clearance: 36mm",
+    "Shackle Width: 47mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5414e-portable-shackled-combination-reinforced-security-key-lock-box.html|>
+## Master Lock 5414E Portable Shackled Combination Reinforced Security Key Lock Box
+
+{
+  "price": "€66.33 inc VAT (€53.93 exc.vat)",
+  "description": "The Master Lock 5414E Portable Shackled Reinforced Security Key Lock Box has a solid zinc body with dual locking levers. It can easily hold keys in a convenient location for regular use or can be portable. Lock in place over the door knob or handle for convenience. Set-your-own 4-digit tumbler combination for convenience and quick access. The 5415E can be used both inside and outside the home, office, worksite or anywhere that restricted or safe access is required. You can safely leave keys for children to get in after school so you don't have to be there to let them in. For an elderly family member you need to visit on a regular basis, or for just storing keys safely just in case you lose them on your travels. All Master Lock products with a locking mechanism have a Lifetime Warranty against mechanical failure.",
+  "availability": "In Stock",
+  "product_name": "Master Lock 5414E Portable Shackled Combination Reinforced Security Key Lock Box",
+  "specifications": [
+    "External Dimensions: 131 x 190 x 53mm",
+    "Internal Dimensions: 65 x 96 x 35mm",
+    "Shackle Diameter: 10mm",
+    "Shackle Clearance: 36mm",
+    "Shackle Width: 47mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5415e-wall-mounted-reinforced-key-lock-box.html|>
+## Master Lock 5415E Wall-Mounted Reinforced Key Lock Box
+
+{
+  "price": "€63.78 inc VAT (€51.85 exc.vat)",
+  "description": "The Master Lock 5415E Wall-Mounted Reinforced Key Lock Box has a solid zinc body with dual locking levers. Has a 4-digit resettable combination. Provides storage for keys, credit cards and more. Weather resistant, and has a strong resistance to hammering and sawing attacks. Can be used both inside and outside the home, office, worksite or anywhere that restricted or safe access is required. Masterlock have now taken this to the next level with the 5415E in which you can safely leave keys for children to get in after school, so you don't have to be there to let them in, for an elderly family member you need to visit on a regular basis, or for just storing keys safely just in case you lose them on your travels. All Master Lock products with a locking mechanism have a Lifetime Warranty against mechanical failure. External Dimensions: 135 x 105 x 46mm. Internal Dimensions: 65 x 96 x 35mm.",
+  "availability": "In Stock",
+  "product_name": "Master Lock 5415E Wall-Mounted Reinforced Key Lock Box",
+  "specifications": [
+    "Solid zinc body",
+    "Dual locking levers",
+    "4-digit resettable combination",
+    "Weather resistant",
+    "Strong resistance to hammering and sawing attacks",
+    "External Dimensions: 135 x 105 x 46mm",
+    "Internal Dimensions: 65 x 96 x 35mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-medium-cash-box-with-keyed-lock.html|>
+## Master Lock Medium Cash Box with Keyed Lock
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "This Master Lock medium-sized Cash Box has a convenient fold-away handle and removable tray for ease of use. It provides versatile storage and organisation for both home and business. Its steel construction provides added security. Contents not included.",
+  "availability": "In Stock",
+  "product_name": "Master Lock Medium Cash Box with Keyed Lock",
+  "specifications": [
+    "Exterior dimensions: 9.3 x 30 x 23.5cm",
+    "Interior dimensions: 8.7 x 29.7 x 22.9cm",
+    "Interior volume: 5.91 Litre",
+    "Weight: 2.1kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-combination-key-cabinet.html|>
+## Yale Locks Combination Key Cabinet
+
+{
+  "price": "€38.47 inc VAT (€31.28 exc.vat)",
+  "description": "Yale Combination Key Cabinet can be used for organising and securing keys. Uses a combination lock and can fit up to 20 keys. Whilst number tags and labels provided help to identify keys and keep them organised. Size: 200 x 160 x 80mm",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Combination Key Cabinet",
+  "specifications": [
+    "Combination lock",
+    "Fits up to 20 keys",
+    "Size: 200 x 160 x 80mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-wall-mounted-key-safe.html|>
+## Master Lock Wall Mounted Key Safe
+
+{
+  "price": "from €39.99 inc VAT",
+  "description": "The Master Lock 540 Wall Mounted Key Lock Box enables the safe storage of house keys or even cash. Door keys can be safely left for children to get in after school, for an elderly family member you need to visit on a regular basis, or for just storing keys safely. The 5401 is packed with high quality features and it is fitted with an easy-to-set 4 digit combination security lock with hundreds of multiple code options. A tough metal body provides the ability to store larger items and not just keys. Can be used both inside and outside the home, office, worksite or anywhere that restricted or safe access is required. All Master Lock products with a locking mechanism have a Lifetime Warranty against mechanical failure.",
+  "availability": "In Stock",
+  "product_name": "Master Lock Wall Mounted Key Safe",
+  "specifications": [
+    "Holds Up to 3 Keys (Standard Key Box)",
+    "Holds Up to 5 Keys (Large Key Box)",
+    "Easy-to-set 4 digit combination security lock",
+    "Tough metal body for larger items",
+    "Lifetime Warranty against mechanical failure"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5425e-light-up-dial-select-access-wall-mounted-key-box.html|>
+## Master Lock 5425E Light Up Dial Select Access® Wall Mounted Key Box
+
+{
+  "price": "€64.58 inc VAT (€52.50 exc.vat)",
+  "description": "The Master Lock 5425E Light Up Dial Select Access® Wall Mounted Key Box is packed with high quality features and it is fitted with an easy-to-set 4 digit combination security lock with a large easy to grip release lever, and 10,000 possible combination options. Light up back lit dials allows use in low light situations. Plastic full front weather cover protects the Select Access from the elements and offers more discretion. Enables the safe storage of house keys or even cash. Door keys can be safely left for children to get in after school, for an elderly family member you need to visit on a regular basis, or for just storing keys safely. Lifetime Warranty against mechanical failure. 1 x CR2032 Battery Included.",
+  "availability": "In Stock",
+  "product_name": "Master Lock 5425E Light Up Dial Select Access® Wall Mounted Key Box",
+  "specifications": [
+    "Easy-to-set 4 digit combination security lock",
+    "Large easy to grip release lever",
+    "10,000 possible combination options",
+    "Light up back lit dials for low light use",
+    "Plastic full front weather cover",
+    "Lifetime Warranty against mechanical failure",
+    "1 x CR2032 Battery Included"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-small-cash-box-with-keyed-lock.html|>
+## Master Lock Small Cash Box with Keyed Lock
+
+{
+  "price": "€38.45 inc VAT (€31.26 exc.vat)",
+  "description": "The Master Lock CB-10ML Small Cash Box is ideal for managing coins. Comes with a removable tray that helps to keep the contents organised. It has a steel construction with a built-in carrying handle, making it easy to transport. The key lock offers added security and privacy.",
+  "availability": "In Stock",
+  "product_name": "Master Lock Small Cash Box with Keyed Lock",
+  "specifications": [
+    "Dimensions (HxWxD): External: 8.3 x 25 x 18.8cm",
+    "Internal: 7.6 x 24.6 x 17.8cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-select-access-smart-bluetooth-key-box---large.html|>
+## Select Access SMART™ Bluetooth Key Box - Large
+
+{
+  "price": "€234.08 inc VAT (€190.31 exc.vat)",
+  "description": "The Master Lock Select Access SMART™ Bluetooth Large Key Box can be used inside or out. It is unlocked via a Bluetooth® connection using a smartphone or tablet. Download the free app from the Apple Store or Google play. This lets you share access with others one time or permanently. Keeps a record of all the access history, and has a low battery reminder for peace of mind. There is also a backup numeric keypad for access if a bluetooth connection isn't available. Comes with a CR123 battery.",
+  "availability": "In Stock",
+  "product_name": "Select Access SMART™ Bluetooth Key Box - Large",
+  "specifications": [
+    "MLK5441E : €234.08",
+    "Unlocked via Bluetooth connection",
+    "Backup numeric keypad for access",
+    "Includes CR123 battery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-key-storage-lock-box-for-25-keys.html|>
+## Master Lock Key Storage Lock Box for 25 Keys
+
+{
+  "price": "€49.99 inc VAT (€40.64 exc.vat)",
+  "description": "The Master Lock KB-25ML Small Key Box provides organisation and security for up to 25 keys, in the home or office. It has a steel construction. Colour-coded tags and labels make finding and returning keys quick and easy. Mounting hardware included.",
+  "availability": "In Stock",
+  "product_name": "Master Lock Key Storage Lock Box for 25 Keys",
+  "specifications": [
+    "Dimensions (HxWxD): External: 25 x 18.8 x 8.5cm",
+    "Internal: 24.3 x 15.5 x 4.4cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5426-sold-securesbd-key-lock-box.html|>
+## Master Lock 5426 Sold Secure/SBD Key Lock Box
+
+{
+  "price": "€156.58 inc VAT (€127.30 exc.vat)",
+  "description": "The Master Lock 5426E Wall Mounted Key Box has a zinc body for durability and strength. With a full front, BS weather cover that protects the Select Access from the elements and offers more discretion. It is Sold Secure Bronze and Secured By Design accredited. The 14 push button key lock box is resettable to allow you to set your own personal combination and has 16,000 possible combination options. Enables the safe storage of house keys, cards or even cash. Door keys can be safely left for children to get in after school, for an elderly family member you need to visit on a regular basis, or for just storing keys safely. Lifetime Warranty against mechanical failure. Comes with fixings. We recommend installing it in a discreet location for extra security.",
+  "availability": "In Stock",
+  "product_name": "Master Lock 5426 Sold Secure/SBD Key Lock Box",
+  "specifications": [
+    "Zinc body for durability",
+    "14 push button key lock box",
+    "Resettable personal combination",
+    "16,000 possible combination options",
+    "Lifetime warranty against mechanical failure"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5423e-push-button-select-access-key-safe.html|>
+## Master Lock 5423E Push Button Select Access® Key Safe
+
+{
+  "price": "€61.92 inc VAT (€50.34 exc.vat)",
+  "description": "The Master Lock 5423E Push Button Select Access® Key Safe has an easy-to-use push button mechanism. It has a very strong, solid zinc body that has good resistance to hammering and sawing. Resettable to allow you to choose a memorable combination. Includes all relevant fixings.",
+  "availability": "In Stock",
+  "product_name": "Master Lock 5423E Push Button Select Access® Key Safe",
+  "specifications": [
+    "External Dimensions: 117 x 79 x 52mm",
+    "Internal Dimensions: 85 x 61 x 12mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5481eurd-large-select-access-key-lock-box.html|>
+## Master Lock 5481EURD Large Select Access® Key Lock Box
+
+{
+  "price": "€48.87 inc VAT (€39.73 exc.vat)",
+  "description": "The Master Lock 5481EURD Large Select Access® Key Lock Box has a solid aluminium body providing better resistance to attacks. Its 4-dial combination lock features large dials which are easy to read, grip and turn. Fitted with a durable weather resistant cover protecting the body and lock from the elements. It offers a large storage capacity, with space for up to 10 keys (key fobs, cards and large keys). The integrated bin neatly secures items to prevent jamming when closing the door. Ideal for storing and sharing keys from home, rental properties, home care services, cars, industrial sites. A Limited Lifetime Warranty provides peace of mind from a brand you can trust. Mounting kit included.",
+  "availability": "Out of Stock",
+  "product_name": "Master Lock 5481EURD Large Select Access® Key Lock Box",
+  "specifications": [
+    "External Dimensions (HxWxD): 13.6 x 7.6 x 5.6cm",
+    "Internal Dimensions (HxWxD): 8.7 x 6.1 x 4.3cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5482eurd-select-access-flexible-shackle-key-lock-box.html|>
+## Master Lock 5482EURD Select Access® Flexible Shackle Key Lock Box
+
+{
+  "price": "€53.55 inc VAT (€43.54 exc.vat)",
+  "description": "The Master Lock 5482EURD Select Access® Flexible Shackle Key Lock Box reimagines how you secure your property by offering unmatched installation flexibility. Its metal body provides better resistance to attacks. Its 4-dial combination lock features large dials which are easy to read, grip and turn. Fitted with a durable weather resistant cover protecting the body and lock from the elements. The flexible cable (34cm x 8mm Ø) allows for easy placement in a wide range of locations, cable is easy to attach everywhere. For added security, install in a discreet location. It offers a large storage capacity, with space for up to 10 keys (key fobs, cards and large keys). The integrated bin neatly secures items to prevent jamming when closing the door. A Limited Lifetime Warranty provides peace of mind from a brand you can trust.",
+  "availability": "Out of Stock",
+  "product_name": "Master Lock 5482EURD Select Access® Flexible Shackle Key Lock Box",
+  "specifications": [
+    "External Dimensions (HxWxD): 283 x 76 x 56cm",
+    "Internal Dimensions (HxWxD): 8.7 x 6.1 x 4.3cm",
+    "Flexible Shackle Diameter: 8mm",
+    "Flexible Shackle Height: 14.4cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-4-dial-combination-key-safe.html|>
+## Scan 4 Dial Combination Key Safe
+
+{
+  "price": "€19.38 inc VAT (€15.76 exc.vat)",
+  "description": "The Scan Keysafe, tailored to meet the needs of stay-at-home healthcare providers seeking secure access to homes. The Scan Keysafe sets the standard for safe storage of house, car, and padlock keys, ensuring peace of mind and convenience. Crafted with utmost precision, its 4-digit combination system provides over 10,000 possible codes, enhancing both convenience and security. A durable plastic shutter door shields the combination dials from the elements, safeguarding against dirt and grit infiltration, thus ensuring long-lasting functionality. Versatile in application, the Scan Keysafe can be effortlessly wall-mounted indoors or outdoors using the provided fixings, making it suitable for a variety of settings including homes, offices, workshops, and beyond. Whether for emergency situations or routine access needs, this innovative solution delivers reliability and ease of use.",
+  "availability": "In Stock",
+  "product_name": "Scan 4 Dial Combination Key Safe",
+  "specifications": [
+    "Width: 90mm",
+    "Height: 119mm",
+    "Depth: 49mm",
+    "Security Rating: 6"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-4-wheel-combination-keysafe-with-removable-shackle.html|>
+## Scan 4 Wheel Combination Keysafe with Removable Shackle
+
+{
+  "price": "€20.45 inc VAT (€16.63 exc.vat)",
+  "description": "The Scan Keysafe with removable shackle is the ideal safe storage of house, car and padlock keys. Its 4-digit combination allows for 10,000 different codes for added convenience and improved security. An ABS plastic shutter door protects the combination dials from the elements ensuring no dirt or grit gets into the mechanism. The removable shackle is the ideal solution for temporary portable storage as it can be shackled to an anchor point and then removed when not required and can then be stored in the keysafe body. It can be mounted either inside and outside and is suitable for the home, office, workshop, or anywhere where keys are required in an emergency. Supplied with 2 rubber bungs to prevent water ingress when the shackle is not being used. Can be wall mounted using the supplied fixings (check substrate for correct fixings).",
+  "availability": "In Stock",
+  "product_name": "Scan 4 Wheel Combination Keysafe with Removable Shackle",
+  "specifications": [
+    "4-digit combination allows for 10,000 different codes",
+    "ABS plastic shutter door protects combination dials",
+    "Removable shackle for temporary portable storage",
+    "Suitable for home, office, workshop",
+    "Includes 2 rubber bungs to prevent water ingress"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-value-safes.html|>
+## Yale Locks Value Safes
+
+{
+  "price": "€89.29 inc VAT",
+  "description": "The Yale value safe range uses digital keypad code entry with key back-up. These safes offer 10,000 possible combinations using a 3-8 digit programmable code, plus a time lock feature which operates after 3 incorrect entries (20 secs) and 6 incorrect entries (6 minutes). 16mm locking bolts are retracted by the handle once the correct code has been entered or back-up key is used. LED light indicators - green to open, red for error and Low battery warning. Each safe is supplied with fixings, batteries and 2 keys. This safe also comes with pre drilled holes making it floor fixable.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Value Safes",
+  "specifications": [
+    "Digital keypad code entry",
+    "10,000 possible combinations",
+    "3-8 digit programmable code",
+    "Time lock feature after incorrect entries",
+    "16mm locking bolts",
+    "LED light indicators",
+    "Includes fixings, batteries, and 2 keys",
+    "Pre-drilled holes for floor fixing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-small-key-locking-fire-and-water-chest.html|>
+## Master Lock Small Key Locking Fire & Water Chest
+
+{
+  "price": "€91.36 inc VAT (€74.28 exc.vat)",
+  "description": "The Master Lock H0100 Small Key Locking Chest is waterproof and fire-resistant. It has a sleek design with a flush mounted faceplate and rugged look. It conforms to various classifications: UL Classified to fire endurance (1/2 hour at 843°C), to ensure the protection of documents, records and valuables in the event of a fire and to explosion hazard test: Subjected to a flash fire in a 1093°C furnace for 20 minutes, the unit will not explode or rupture. ETL Verified for 1/2 hour fire protection of digital media up to 843°C in the event of a fire and for water submersion to protect valuable items and documents from flood damage. Specification: Dimensions (HxWxD): External: 15.6 x 36.2 x 33cm Internal: 8.9 x 30.5 x 18.8cm",
+  "availability": "In Stock",
+  "product_name": "Master Lock Small Key Locking Fire & Water Chest",
+  "specifications": [
+    "External Dimensions: 15.6 x 36.2 x 33 cm",
+    "Internal Dimensions: 8.9 x 30.5 x 18.8 cm",
+    "Waterproof and fire-resistant",
+    "UL Classified for fire endurance (1/2 hour at 843°C)",
+    "ETL Verified for fire protection of digital media up to 843°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-large-key-locking-fire-and-water-chest.html|>
+## Master Lock Large Key Locking Fire & Water Chest
+
+{
+  "price": "€146.71 inc VAT (€119.28 exc.vat)",
+  "description": "The Master Lock LCFW30100 Large Key Locking Chest is waterproof and fire-resistant. It has a sleek design with a flush mounted faceplate and rugged look. It conforms to various classifications: UL Classified to fire endurance (1 hour at 927°C), to ensure the protection of documents, records and valuables in the event of a fire and to explosion hazard test: Subjected to a flash fire in a 1093°C furnace for 20 minutes, the unit will not explode or rupture. ETL Verified for 1 hour fire protection of digital media up to 927°C in the event of a fire and for water submersion to protect valuable items and documents from flood damage. Specification: Dimensions (HxWxD): External: 19.3 x 41.9 x 37.5cm, Internal: 13.6 x 32.1 x 23.2cm",
+  "availability": "In Stock",
+  "product_name": "Master Lock Large Key Locking Fire & Water Chest",
+  "specifications": [
+    "Dimensions (HxWxD): External: 19.3 x 41.9 x 37.5cm",
+    "Internal: 13.6 x 32.1 x 23.2cm",
+    "Waterproof and fire-resistant",
+    "UL Classified to fire endurance (1 hour at 927°C)",
+    "ETL Verified for 1 hour fire protection of digital media up to 927°C"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-large-fire-and-waterproof-security-chest.html|>
+## Master Lock Large Fire & Waterproof Security Chest
+
+{
+  "price": "€222.77 inc VAT (€181.11 exc.vat)",
+  "description": "The Master Lock Large Fire & Waterproof Security Chest protects your family’s most important documents (fits A4 paper size), media and valuables from fire and flood damage. Fire and water-resistant construction. UL/ETL verified 30 minutes fire protection for documents, official papers, as well as digital items (CD, USB sticks) up to 843°C. ETL verified for water submersion to protect documents and other valuable items from flood damage. The digital lock keeps documents and valuables away from prying eyes and prevents the lid from opening in the event of a fire. It has a programmable digital combination: 1 resettable combination + 1 Master combination (non programmable).",
+  "availability": "In Stock",
+  "product_name": "Master Lock Large Fire & Waterproof Security Chest",
+  "specifications": [
+    "Exterior Dimensions (H x W x D): 35.9 x 42.1 x 35.1cm",
+    "Interior Dimensions (H x W x D): 29.5 x 30.5 x 20.6cm",
+    "Interior Volume: 18.5L",
+    "Power: 1 x 9V Battery (not included)",
+    "Weight: 19.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-5408eurd-portable-mini-safe.html|>
+## Master Lock 5408Eurd Portable Mini Safe
+
+{
+  "price": "€11.78 inc VAT (€9.58 exc.vat)",
+  "description": "Master Lock 5408Eurd Portable Mini Safe",
+  "availability": "Out of Stock",
+  "product_name": "Master Lock 5408Eurd Portable Mini Safe",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-large-biometric-safe.html|>
+## Master Lock Large Biometric Safe
+
+{
+  "price": "€355.94 inc VAT (€289.38 exc.vat)",
+  "description": "The Master Lock Large Biometric Security Safe is ideal for protecting precious valuables and electronics against theft. It has a solid steel construction, 2 steel live-locking bolts and a concealed hinge for more protection against attacks and prying attempts. The biometric lock allows you to store up up to 30 fingerprints, so that no memorisation is required. A battery jump kit and the override key make sure you can always access your safe, even in the case of flat batteries. Inside the safe there is an interior light and carpeted floor that keeps the contents protected from scratches during storage. Supplied with bolt down hardware and 2 x override keys. Requires 4 AA alkaline batteries (not included).",
+  "availability": "In Stock",
+  "product_name": "Master Lock Large Biometric Safe",
+  "specifications": [
+    "Exterior Dimensions (HxWxD): 19.5 x 43 x 37cm",
+    "Interior Dimensions (HxWxD): 19.2 x 42.7 x 31cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-fpw082ftcml-next-generation-fire-safe.html|>
+## Master Lock FPW082FTCML Next Generation Fire Safe
+
+{
+  "price": "€479.22 inc VAT (€389.61 exc.vat)",
+  "description": "The Master Lock FPW082FTCML Next Generation Fire Safe is the first of its kind to leverage 'Master Lock Security, Built In' technology. Its advanced, multi-point protection system effectively resists physical attacks and lock manipulation. Ideal for protecting documents and irreplaceable valuables. It has a sleek, modern design; textured herringbone exterior, angled corners and an integrated metal handle offers secure yet simple access. Powered by Lithium batteries, these batteries are pre installed and provide extended battery life. Supplied with a Fire and Water Bolt-Down Kit. This ensures thieves cannot easily remove the safe, while maintaining fire and water protection. Fire Protection: 1-hour UL-certified fire resistance at 927°C and 1-hour fire protection for digital media up to 927°C. The FPW Safe also guarantees water protection in up to 12cm of water for up to 24 hours.",
+  "availability": "Out of Stock",
+  "product_name": "Master Lock FPW082FTCML Next Generation Fire Safe",
+  "specifications": [
+    "External Dimensions (H x D x L): 34.8 x 47.8 x 41.7cm",
+    "Internal Dimensions (H x D x L): 32 x 29.2 x 32cm",
+    "Capacity: 22 litres"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-compact-biometric-safe.html|>
+## Master Lock Compact Biometric Safe
+
+{
+  "price": "€440.04 inc VAT (€357.76 exc.vat)",
+  "description": "The Master Lock Compact Biometric Safe offers protection as unique as your fingerprint. It offers 3 ways to access your safe: fingerprint, key and combination. Making it ideal for reliable shared access. The reader can be set with two programmed fingerprints and allows quick single-handed access. The safe is reinforced with heavy-duty 12 gauge solid steel construction. Specifically designed with a pry-resistant door that helps prevent unauthorised access to your valuables.",
+  "availability": "In Stock",
+  "product_name": "Master Lock Compact Biometric Safe",
+  "specifications": [
+    "3 ways to access: fingerprint, key, combination",
+    "Reinforced with heavy-duty 12 gauge solid steel",
+    "Pry-resistant door",
+    "Can set with two programmed fingerprints"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-portable-digital-safe-with-cable.html|>
+## Master Lock Portable Digital Safe with Cable
+
+{
+  "price": "€75.69 inc VAT (€61.54 exc.vat)",
+  "description": "The Master Lock Compact Safe is the perfect solution for 'on-the-go' security. It is ideal for cars, trucks, dorms, campers and boats, or trips to the beach. It is designed to secure cell phones, wallets, keys, iPods, GPS units and other compact but expensive items that are especially vulnerable to theft. The safe has a programmable digital lock which comes with an override key, making entry into the safe secure yet simple. For added safety, it has an all-steel construction and a steel tethering cable. The soft interior lining protects contents from scratching and damage. Requires 4 x AA batteries (not included).",
+  "availability": "In Stock",
+  "product_name": "Master Lock Portable Digital Safe with Cable",
+  "specifications": [
+    "Exterior dimensions: 7.4 x 25.4 x 20.1cm",
+    "Interior dimensions: 4.8 x 24.9 x 18cm",
+    "Interior volume: 2.17L",
+    "Weight: 1.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-medium-digital-safe.html|>
+## Master Lock Medium Digital Safe
+
+{
+  "price": "€170.39 inc VAT (€138.53 exc.vat)",
+  "description": "The Masterlock Medium Digital Safe gives you a pry resistant solid steel door and body. It provides a safe place to store your important and irreplaceable items. This product is best placed on a sturdy shelf, on the floor, or on a desk. The electronic lock allows you to choose your own combination, whilst the additional included bolt down kit offers extra security, preventing prying eyes from removing your valuables. Two Live locking bolts offer peace of mind in preventing unwanted and unauthorised access. It comes with 2 override keys, which makes entry into the safe secure yet simple should you forget your electronic combination. A foam interior prevents the contents of the safe from becoming scratched, scuffed or damaged when being placed or removed from storage. 11.6 litre interior space is ideal for securing smaller valuables such as cash, paperwork and small electronic devices. Dimensions: - Internal - 19 x 28.6 x 21.3cm External - 19.4 x 29 x 26.4cm 4 x AA Batts (Not Included)",
+  "availability": "In Stock",
+  "product_name": "Master Lock Medium Digital Safe",
+  "specifications": [
+    "Pry resistant solid steel door and body",
+    "Electronic lock with customizable combination",
+    "Includes bolt down kit for extra security",
+    "Two live locking bolts",
+    "Foam interior to prevent damage",
+    "11.6 litre interior space",
+    "Internal dimensions: 19 x 28.6 x 21.3 cm",
+    "External dimensions: 19.4 x 29 x 26.4 cm",
+    "Requires 4 x AA batteries (not included)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-large-digital-safe.html|>
+## Master Lock Large Digital Safe
+
+{
+  "price": "€229.79 inc VAT (€186.82 exc.vat)",
+  "description": "The Masterlock large digital safe has a pry resistant solid steel door and body. It provides a safe place to store your important and irreplaceable items. This product is best placed on the floor. The electronic lock allows you to choose your own combination, whilst the additional included bolt down kit offers extra security, preventing prying eyes from removing your valuables. Two Live locking bolts offer peace of mind in preventing unwanted and unauthorised access. Comes with 2 override keys, which makes entry into the safe secure yet simple should you forget your electronic combination. Dimensions: - Internal - 17.6 x 42.6 x 29.4cm External - 18 x 43 x 37cm 4 x AA Batts Required (Not Included)",
+  "availability": "In Stock",
+  "product_name": "Master Lock Large Digital Safe",
+  "specifications": [
+    "Pry resistant solid steel door and body",
+    "Electronic lock with customizable combination",
+    "Includes bolt down kit for extra security",
+    "Two live locking bolts",
+    "Comes with 2 override keys",
+    "Internal dimensions: 17.6 x 42.6 x 29.4 cm",
+    "External dimensions: 18 x 43 x 37 cm",
+    "Requires 4 x AA batteries (not included)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-floor-safe.html|>
+## Yale Locks Floor Safe
+
+{
+  "price": "€96.19 inc VAT (€78.20 exc.vat)",
+  "description": "The Yale YALYFS floor safe is compact and discrete with pre-drilled holes and fixing bolts allow fixing to joists under floorboards. It is easy-to-use with a high security mechanical key. Steel construction with black finish. In addition, the base is lined with soft material to prevent damage to contents. Cash rating £1,000 or valuables £10,000. Supplied with two keys. External Sizes: 130 x 390 x 210mm. Internal Dimensions: 80 x 325 x 170mm. Weight: 7.5kg.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Floor Safe",
+  "specifications": [
+    "External Sizes: 130 x 390 x 210mm",
+    "Internal Dimensions: 80 x 325 x 170mm",
+    "Weight: 7.5kg",
+    "Cash rating £1,000 or valuables £10,000",
+    "Supplied with two keys"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-medium-digital-safe-25cm.html|>
+## Yale Locks Medium Digital Safe 25cm
+
+{
+  "price": "€125.05 inc VAT (€101.67 exc.vat)",
+  "description": "The Yale YMS Digital safe is a medium size solid steel construction safe which is Ideal for keeping passports, jewellery and cash safe. Its size allows for discreet subtle placement in the home. The interior base is lined with soft material to prevent damage to contents. The programmable digitial keypad is simple to operate and the pre-drilled holes and fixing bolts allow permanent mounting to most suitable surfaces. The YALE YALYMS has an easily set combination code of 4 digits and is supplied with 2 manual override keys and red LCD display which can be programmed with 2 unique codes. 4 x 'AA' (1.5v/R06) batteries supplied. The Yale YALYMS Medium digital safe has the following external Dimensions: Length:25cm. Width:35cm. Height:25cm. Weight: 11Kg approx.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Medium Digital Safe 25cm",
+  "specifications": [
+    "Length: 25cm",
+    "Width: 35cm",
+    "Height: 25cm",
+    "Weight: 11Kg approx.",
+    "Solid steel construction",
+    "Programmable digital keypad",
+    "Includes 2 manual override keys",
+    "Interior lined with soft material"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-small-digital-safe---20cm.html|>
+## Yale Locks Small Digital Safe - 20cm
+
+{
+  "price": "€96.19 inc VAT (€78.20 exc.vat)",
+  "description": "The Yale YSS Digital safe is a small size solid steel construction safe which is ideal for keeping passports, jewellery and cash safe. Its size allows for discreet subtle placement in the home. The interior base is lined with soft material to prevent damage to contents. The programmable digital keypad is simple to operate and the pre-drilled holes and fixing bolts allow permanent mounting to most suitable surfaces. The YALE YALYSS has an easily set combination code of 4 digits which are displayed on the LCD screen during entry and is supplied with 2 manual override keys. 4 x 'AA' (1.5v/R06) batteries supplied. The Yale small digital safe has the following external dimensions: Height: 20cm. Width: 31cm. Depth: 20cm. Weight: 7kgs",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Small Digital Safe - 20cm",
+  "specifications": [
+    "Height: 20cm",
+    "Width: 31cm",
+    "Depth: 20cm",
+    "Weight: 7kgs",
+    "Solid steel construction",
+    "Programmable digital keypad",
+    "Includes 2 manual override keys",
+    "Interior lined with soft material"
+  ]
+}
+

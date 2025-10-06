@@ -1,0 +1,212 @@
+<|https://www.mydiy.ie/products/batavia-stand-off-and-tool-tray.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/faithfull-fold-away-step-up-aluminium-l100-x-h52-x-w30cm.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-adjustable-safety-feet-1-pair.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-combi-line-telescopic-ladder.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-combi-line-wall-mount.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-eco-line-telescopic-ladder-3m.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-key-lock-for-prime-line-wall-mount.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-loft-line-telescopic-ladder.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-maintenance-kit.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-prime-ladder-wall-mount.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-prime-line-carry-bag.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-prime-line-telescopic-ladder-stabiliser-bar.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-prime-line-telescopic-ladder-stabilisers.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-prime-line-telescopic-ladder.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-rescue-line-maintenance-kit.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-rescue-line-telescopic-ladder.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-slide-protector-bracket.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-solid-line-working-platform.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/telesteps-top-support.html|>
+## Product
+
+
+
+<|https://www.mydiy.ie/products/zarges-soft-close-telescopic-ladder-29m.html|>
+## Zarges Soft Close Telescopic Ladder 2.9m
+
+{
+  "price": "€261.29 inc VAT (€212.43 exc.vat)",
+  "description": "The Zarges Soft Close Telescopic Ladder offers rung by rung height adjustment. Treads lock automatically during extension. Soft close retraction system safely lowers the ladder when retracting. It has a closed length of just 0.77m, meaning it can easily fit into a boot or cupboard. Has a 2 year warranty. Conforms to EN131-6, 150kg (23.6 stone) weight rating.",
+  "availability": "In Stock",
+  "product_name": "Zarges Soft Close Telescopic Ladder 2.9m",
+  "specifications": [
+    "Rung by rung height adjustment",
+    "Treads lock automatically during extension",
+    "Soft close retraction system",
+    "Closed length of 0.77m",
+    "2 year warranty",
+    "Conforms to EN131-6",
+    "150kg (23.6 stone) weight rating"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zarges-compactstep-ladder-with-stabiliser-bar-38m.html|>
+## Zarges Compactstep Ladder with Stabiliser Bar 3.8m
+
+{
+  "price": "€394.13 inc VAT (€320.43 exc.vat)",
+  "description": "The Zarges Compactstep Ladder has an extremely small format for transport, fits into any car boot when fully retracted. With wide rungs for comfortable ascent and descent. The anodised stiles are wear-resistant. The ladder can be adjusted to different heights, as a result, it can be always be at the suitable height. Supplied with a stabiliser bar for added safety. Conforms to EN 131 standards, 150kg rating.",
+  "availability": "In Stock",
+  "product_name": "Zarges Compactstep Ladder with Stabiliser Bar 3.8m",
+  "specifications": [
+    "External Width: 500mm",
+    "Number of Rungs: 13",
+    "Overall Length: Extended: 3.8m, Retracted: 0.88mm",
+    "Transport Dimensions: 880 x 500 x 100mm",
+    "Weight: 14kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zarges-ladder-stay.html|>
+## Zarges Ladder Stay
+
+{
+  "price": "€104.55 inc VAT (€85.00 exc.vat)",
+  "description": "This Aluminium Stand-off provides extra working space by positioning the ladder away from wall, flat packed with full instruction for use. Quick and easy to hook onto your ladder. With a 'V' shaped cut-out for positioning around small obstacles such as drain pipes. Stand-off: 300mm (12in).",
+  "availability": "In Stock",
+  "product_name": "Zarges Ladder Stay",
+  "specifications": [
+    "Ladder Stay",
+    "ZAR40500 : €104.55",
+    "Stand-off: 300mm (12in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zarges-roof-hooks-with-wheels-1-pair.html|>
+## Zarges Roof Hooks with wheels (1 pair)
+
+{
+  "price": "€107.90 inc VAT (€87.72 exc.vat)",
+  "description": "This pair of aluminium roof hooks, supplied by Zarges, with wheels have universal retro-fit hooks that make them quick and easy to fit. Simply attach to any extension ladder. The wheels help to move the ladder into position, then simply flip the ladder over to hook over. Supplied with easy to follow instructions and complete with fixing kit.",
+  "availability": "In Stock",
+  "product_name": "Zarges Roof Hooks with wheels (1 pair)",
+  "specifications": [
+    "Universal retro-fit hooks",
+    "Aluminium construction",
+    "Includes wheels for easy positioning",
+    "Complete with fixing kit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zarges-roof-rack-clamps-cw-2-padlocks---1-pair.html|>
+## Zarges Roof Rack Clamps C/W 2 Padlocks - 1 Pair
+
+{
+  "price": "€53.32 inc VAT (€43.35 exc.vat)",
+  "description": "The Zarges Roof Rack Clamps firmly secure ladders and steps to the roof rack of any car or van. They are quick and easy to fit, detachable and come complete with padlocks. Supplied as a pair.",
+  "availability": "In Stock",
+  "product_name": "Zarges Roof Rack Clamps C/W 2 Padlocks - 1 Pair",
+  "specifications": [
+    "Model: ZAR40980B",
+    "List Price: €80.06",
+    "You save: €26.74",
+    "Includes 2 Padlocks",
+    "Quick and easy to fit",
+    "Detachable"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zarges-roof-rack-clamps-display-5-pairs.html|>
+## Zarges Roof Rack Clamps Display (5 Pairs)
+
+{
+  "price": "€266.74 inc VAT (€216.86 exc.vat)",
+  "description": "The Zarges Roof Rack Clamps firmly secure ladders and steps to the roof rack of any car or van. They are quick and easy to fit, detachable and come complete with padlocks. Display of 5 pairs.",
+  "availability": "In Stock",
+  "product_name": "Zarges Roof Rack Clamps Display (5 Pairs)",
+  "specifications": [
+    "Model: ZAR40980PDIS",
+    "Includes: 5 pairs of clamps",
+    "Material: Durable construction",
+    "Usage: Secures ladders and steps to roof racks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zarges-loftmaster-telescopic-ladder.html|>
+## Zarges Loftmaster Telescopic Ladder
+
+{
+  "price": "from €359.00 inc VAT",
+  "description": "The Zarges Loftmaster Telescopic Ladder is very easy to operate and use, ideal for homes with limited vertical and horizontal clearance in the loft. Manufactured from anodised aluminium with steel fixing brackets and fitments. Fitted with rubber feet for safety and protection of the floor. It closes down to a compact size and fits into the smallest of spaces. There are two models each adjustable to three lengths for optimum usability. The loft hatch MUST be converted so that the door opens downwards. Permanently fitted in the loft, allows the loft hatch to close when stowed away.",
+  "availability": "In Stock",
+  "product_name": "Zarges Loftmaster Telescopic Ladder",
+  "specifications": [
+    "Minimum Hatch Size (WxL): 51 x 60cm",
+    "Overhang (Distance Behind Joist): 23.5cm",
+    "ZARTELOFT260: Ceiling to Floor Heights: 2.17-2.61m",
+    "ZARTELOFT288: Ceiling to Floor Heights: 2.43-2.88m"
+  ]
+}
+

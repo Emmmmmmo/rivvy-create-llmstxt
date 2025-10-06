@@ -1,0 +1,15 @@
+<|https://www.mydiy.ie/products/boll-safety-cobra-safety-glasses.html|>
+## Bollé Safety Cobra Safety Glasses
+
+{
+  "price": "from €16.68 inc VAT",
+  "description": "Bolle Cobra Safety Glasses are ultra-purpose glasses with a panoramic visual field. Enveloping and without any visual interference, the Cobra offers 180° panoramic visual field with perfect optical quality. The glasses have removable temples to allow easy transformation into safety goggles by attaching a foam and strap kit (BOLKITCOBRA). This means that Cobra is an ultra versatile model. The Cobra adapts to all risks and has a versatile, modern design combined with quality and precision.",
+  "availability": "In Stock",
+  "product_name": "Bollé Safety Cobra Safety Glasses",
+  "specifications": [
+    "ClearHD Lens",
+    "Smoke Lens"
+  ],
+  "product_category": "Safety Glasses"
+}
+

@@ -1,0 +1,846 @@
+<|https://www.mydiy.ie/products/ronseal-colron-knotting-solution-125ml.html|>
+## Ronseal Colron Knotting Solution 125ml
+
+{
+  "price": "€11.81 inc VAT (€9.60 exc.vat)",
+  "description": "Ronseal liquid solution, seals weeping knots preventing discolouration. In pack brush for no mess application. 125ml Application: Brush Drying time: 6-8 hours Protection level: Very High",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Colron Knotting Solution 125ml",
+  "specifications": [
+    "125ml",
+    "Application: Brush",
+    "Drying time: 6-8 hours",
+    "Protection level: Very High"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-knotting.html|>
+## Rustins Knotting
+
+{
+  "price": "from €6.03 inc VAT",
+  "description": "Rustins Knotting is used for sealing knots in wood and on resinous and creosoted timber to prevent bleeding through paint film. It is fast drying and prevents discolouration of paints. Suitable for interior and exterior use.",
+  "availability": "In Stock",
+  "product_name": "Rustins Knotting",
+  "specifications": [
+    "125 ml",
+    "300 ml",
+    "White 125 ml",
+    "Knotting 300 ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-danish-oil.html|>
+## Rustins Danish Oil
+
+{
+  "price": "from €11.99 inc VAT",
+  "description": "Rustins Danish oil gives an oil finish, suitable for all types of wood. It differs from Teak Oil in that it contains special ingredients, which prevent it drying to a gloss. It is an easy to use wipe on finish, which brings out the beauty of the timber and gives a natural, open grained, soft lustrous finish. Ideal for all woods and is excellent on turned woodwork. Conforms to The Articles in Contact with Food Regulations. Also Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3, which makes it ideal to use on children's toys. Danish Oil is a unique formulation developed by Rustins.",
+  "availability": "In Stock",
+  "product_name": "Rustins Danish Oil",
+  "specifications": [
+    "Available in 1 Litre, 250 ml, 500 ml",
+    "Wipe on finish",
+    "Suitable for all types of wood",
+    "Conforms to safety regulations for food contact and children's toys"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-floor-oils.html|>
+## Rustins Floor Oils
+
+{
+  "price": "from €19.25 inc VAT",
+  "description": "Rustins Floor Oil is a mixture of natural vegetable oils and resins which improve the colour of bare wood. Allow 4-8 hours between coats. Can be applied to all types of interior wooden floors including parquet, woodblock and floorboards.",
+  "availability": "In Stock",
+  "product_name": "Rustins Floor Oils",
+  "specifications": [
+    "Available in 1 Litre and 5 Litre options",
+    "Improves the color of bare wood",
+    "Suitable for all types of interior wooden floors",
+    "Allow 4-8 hours between coats"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-linseed-oil.html|>
+## Rustins Linseed Oil
+
+{
+  "price": "from €4.74 inc VAT",
+  "description": "Rustin Boiled Linseed Oil is used for finishing most bare timber and is suitable for replacing the natural sheen that wood can lose after long periods drying in the sun. Boiled linseed oil contains special additives which speed the drying process. Will also waterproof ground sheets and tarpaulins.",
+  "availability": "In Stock",
+  "product_name": "Rustins Linseed Oil",
+  "specifications": [
+    "Available in 300ml, 125ml, and 500ml options",
+    "Contains special additives for faster drying",
+    "Waterproofs ground sheets and tarpaulins"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-linseed-oil-raw.html|>
+## Rustins Linseed Oil Raw
+
+{
+  "price": "from €5.71 inc VAT",
+  "description": "Rustins Raw Linseed Oil is a natural nourishing treatment for wood, including cricket bats, and also a lubricant for french polishing. Also used for softening putty that has become stiff.",
+  "availability": "In Stock",
+  "product_name": "Rustins Linseed Oil Raw",
+  "specifications": [
+    "Available Sizes: 125 ml, 300 ml, 500 ml",
+    "Natural nourishing treatment for wood",
+    "Lubricant for french polishing",
+    "Softens stiff putty"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-teak-oil.html|>
+## Rustins Teak Oil
+
+{
+  "price": "from €9.99 inc VAT",
+  "description": "Rustins Teak Oil is based on special vegetable oils and resins to give a quick drying penetrating seal to teak, cedar and all bare wood. Easily applied with a brush or cloth. Gives an attractive sheen on interior and exterior surfaces. Conforms to The Articles in Contact with Food Regulations. Also Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3.",
+  "availability": "In Stock",
+  "product_name": "Rustins Teak Oil",
+  "specifications": [
+    "Available in multiple sizes: 1 Litre, 2.5 Litre, 250 ml, 5 Litre, 500 ml",
+    "Quick drying penetrating seal",
+    "Suitable for teak, cedar, and all bare wood",
+    "Easily applied with a brush or cloth",
+    "Conforms to food safety regulations"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-teak-oil.html|>
+## Ronseal Teak Oil
+
+{
+  "price": "from €8.87 inc VAT",
+  "description": "Ronseal Teak Oil naturally nourishes, protects and enhances all types of hardwood garden furniture. By deeply penetrating the wood to replace oils lost through weathering, Ronseal Teak Oil restores old garden furniture as well as protecting and maintaining the appearance of new hardwood garden furniture. Ronseal Teak Oil is ideal for use on all types of hardwood garden furniture including Teak.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Teak Oil",
+  "specifications": [
+    "Available in 1 Litre, 500 ml, 500 ml Aero",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "Free delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-ultimate-protection-hardwood-garden-furniture-oil.html|>
+## Ronseal Ultimate Protection Hardwood Garden Furniture Oil
+
+{
+  "price": "from €11.54 inc VAT",
+  "description": "The Ronseal Ultimate Protection Hardwood Garden Furniture Oil penetrates the wood to revive colour and replaces the natural oils lost through weathering, making it look like new. It nourishes the wood from the inside out and has a rapid dry time of 2 hours meaning your garden furniture is back in use in no time. Our Hardwood Oil keeps your garden furniture looking great and you’ll only have to use it once a year.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Ultimate Protection Hardwood Garden Furniture Oil",
+  "specifications": [
+    "Coverage: 6m² per Litre",
+    "Dry Time: Rainproof in 2 hours, 4 hours between coats"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-teak-oil-with-uv.html|>
+## Liberon Teak Oil With UV
+
+{
+  "price": "€15.66 inc VAT",
+  "description": "The Liberon Teak Oil is a blend of pure tung oil and linseed oil which nourishes and enhances the natural beauty of hard/exotic woods, including teak and iroko. With added UV filters for protection against fading from sunlight Teak Oil is suitable for interior and exterior use. Achieving the traditional cabinet makers finish on hard woods,Teak Oil products a hard wearing satin finish.",
+  "availability": "In Stock",
+  "product_name": "Liberon Teak Oil With UV",
+  "specifications": [
+    "Coverage: 10-12m² Per Litre",
+    "Drying Time: 24 Hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-finishing-oil-1.html|>
+## Liberon Finishing Oil
+
+{
+  "price": "from €9.77 inc VAT",
+  "description": "Liberon Finishing Oil is a blend of high quality oils for use on all interior wood and turned woodwork. Used to nourish and enhance the colour of the wood. Water, heat, alcohol and food acid resistant, it gives a matt, satin or gloss finish depending upon the number of coats applied. Ideal for surfaces requiring hard wearing and water-resistant finishes. Suitable for use on kitchen tables and bathroom furniture, and can also be applied to cork, stone and terracotta.",
+  "availability": "In Stock",
+  "product_name": "Liberon Finishing Oil",
+  "specifications": [
+    "Dry Time: 5 hours min.",
+    "Coverage: 10-12m².",
+    "Location: Interior.",
+    "Application: Brush or Cloth.",
+    "Tool Cleaning: White Spirit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-pure-tung-oil-1.html|>
+## Liberon Pure Tung Oil
+
+{
+  "price": "from €12.84 inc VAT",
+  "description": "Liberon Pure Tung Oil is a premium, pure and natural oil for woodcare. Providing a hard wearing matt finish, it is ideal for surfaces such as tables and all high quality interior wood. Suitable for interior and exterior use, it is highly resistant to water, alcohol and food acids. Recommended for use on external oak, it contains no added dryers, and is safe to use on toys.",
+  "availability": "In Stock",
+  "product_name": "Liberon Pure Tung Oil",
+  "specifications": [
+    "Coverage: 10-12m² per litre.",
+    "Location: Interior and Exterior.",
+    "Dry Time: 24 hours between coats, 4 days final.",
+    "Application: Brush or Cloth.",
+    "Tool Cleaning: White Spirit."
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-boiled-linseed-oil-clear-500ml.html|>
+## Liberon Boiled Linseed Oil Clear 500ml
+
+{
+  "price": "€13.95 inc VAT (€11.34 exc.vat)",
+  "description": "Liberon Boiled Linseed Oil is used to give a mellow, patinated finish to new or stripped bare interior wood. This superior quality oil, similar to Raw Linseed, has had hot air passed through it to improve drying times. Suitable for use on all types of wood, except exterior oak. It can also be used as a traditional sealer for terracotta tiles, stone floors and other porous surfaces before waxing.",
+  "availability": "Out of Stock",
+  "product_name": "Liberon Boiled Linseed Oil Clear 500ml",
+  "specifications": [
+    "Dry Time: 24 hours",
+    "Coverage: 8-10m²",
+    "Location: Interior",
+    "Application: Brush or Cloth",
+    "Tool Cleaning: White Spirit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-superior-decking-oil.html|>
+## Liberon Superior Decking Oil
+
+{
+  "price": "€40.59 inc VAT",
+  "description": "The Liberon Superior Decking Oil feeds, protects and enhances most types of timber decking. It's highly water resistant, UV enhanced formula protects against stains and grease marks.",
+  "availability": "In Stock",
+  "product_name": "Liberon Superior Decking Oil",
+  "specifications": [
+    "Select Option: Clear 5 Litre, Teak 2.5 Litre, Teak 5 Litre",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-honing-oil-250ml-1.html|>
+## Liberon Honing Oil 250ml
+
+{
+  "price": "€11.44 inc VAT (€9.30 exc.vat)",
+  "description": "Liberon Honing Oil is ideal for cleaning oil stones which have become dirty or clogged with greasy oil or metal particles. It also aids tool sharpening while cleaning and protecting the oil stone by acting as a lubricant.",
+  "availability": "Out of Stock",
+  "product_name": "Liberon Honing Oil 250ml",
+  "specifications": [
+    "Coverage: 8-12m² per litre",
+    "Location: Interior",
+    "Dry Time: 3-4 hours",
+    "Application: Brush",
+    "Tool Cleaning: Methylated Spirits"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-quick-drying-tung-oil-250ml.html|>
+## Liberon Quick Drying Tung Oil 250ml
+
+{
+  "price": "€16.80 inc VAT (€13.66 exc.vat)",
+  "description": "Liberon Quick Drying Tung Oil is a high quality natural oil for protecting interior and exterior wood. It provides a hard-wearing finish, and is ideal for surfaces such as tables and furniture. A quicker drying version of Liberon Pure Tung Oil, each coat dries in approximately four hours, and is highly resistant to water, alcohol and food acids. Being a penetrating oil it allows the wood to age gracefully and develop a natural patina. It provides a long-lasting matt finish.",
+  "availability": "Out of Stock",
+  "product_name": "Liberon Quick Drying Tung Oil 250ml",
+  "specifications": [
+    "Coverage: 10-12m² per litre.",
+    "Location: Interior and Exterior.",
+    "Dry Time: 4 hours between coats, 24 hours final.",
+    "Application: Brush or Cloth.",
+    "Tool Cleaning: White Spirit."
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-superior-danish-oil-1.html|>
+## Liberon Superior Danish Oil
+
+{
+  "price": "€10.59 inc VAT",
+  "description": "Liberon Superior Danish Oil is a blend of pure, high quality Tung oil and natural oils which feed, enhance and protect hard and soft woods. It is a penetrating oil, which brings out the natural grain of the timber and provides a satin to gloss sheen. With added UV filters to help prevent discolouration from the sun, and water, heat and alcohol resistant, it is suitable for both interior and exterior use.",
+  "availability": "In Stock",
+  "product_name": "Liberon Superior Danish Oil",
+  "specifications": [
+    "Coverage: 10-12m² per litre",
+    "Location: Interior and Exterior",
+    "Dry Time: 5 hours min",
+    "Application: Brush or Cloth",
+    "Tool Cleaning: White Spirit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-teak-oil.html|>
+## Liberon Teak Oil
+
+{
+  "price": "€10.48 inc VAT",
+  "description": "Liberon Teak Oil is a blend of pure, high quality tung oil and linseed oil. It nourishes, protects and enhances the natural beauty of hard, exotic and oily woods, including teak, rosewood and iroko. It produces a hard wearing, satin finish. With added UV filters for protection against fading from sunlight. Suitable for interior and exterior use.",
+  "availability": "In Stock",
+  "product_name": "Liberon Teak Oil",
+  "specifications": [
+    "Coverage: 10-12m² per litre",
+    "Location: Interior and Exterior",
+    "Dry Time: 24 hours",
+    "Application: Brush or Cloth",
+    "Tool Cleaning: White Spirit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-raw-linseed-oil-500ml.html|>
+## Everbuild Raw Linseed Oil 500ml
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "Everbuild Raw Linseed Oil is a traditional wood treatment for use on cricket bats, oak beams etc. and as a lubricant in the French polishing industry. Size: 500ml.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Raw Linseed Oil 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Traditional wood treatment",
+    "Used on cricket bats, oak beams",
+    "Lubricant in French polishing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-teak-oil-500ml.html|>
+## Everbuild Teak Oil 500ml
+
+{
+  "price": "€13.99 inc VAT (€11.37 exc.vat)",
+  "description": "Everbuild Teak Oil is a traditional wood treatment used to replace the natural oils lost through ageing or weathering and brings out the natural colour of wood. It is suitable for interior or exterior use on unpolished timbers. Solvent based. Suitable for internal or external use. Gives wood a natural finish. Works on most types of unpolished timbers. Size: 500ml.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Teak Oil 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Solvent based",
+    "Suitable for internal or external use",
+    "Gives wood a natural finish",
+    "Works on most types of unpolished timbers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-colron-refined-danish-oil-500ml.html|>
+## Ronseal Colron Refined Danish Oil 500ml
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "Colron Refined Danish Oil is a superior blend of natural oils that penetrate the wood to provide an extremely tough, durable waterproof finish, while enriching the wood grain to provide a beautiful low sheen lustre. It enriches the wood's natural patina while providing protection from the inside out, making it ideal for use on both interior and exterior wood. 500ml.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Colron Refined Danish Oil 500ml",
+  "specifications": [
+    "500ml",
+    "Waterproof finish",
+    "Suitable for interior and exterior wood",
+    "Enriches wood grain",
+    "Low sheen lustre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-colron-refined-teak-oil-500ml.html|>
+## Ronseal Colron Refined Teak Oil 500ml
+
+{
+  "price": "€15.30 inc VAT (€12.44 exc.vat)",
+  "description": "Colron Refined Teak Oil is a high quality blend of natural resins and oils, which penetrate deeper into the wood grain than standard teak oils replacing essential oils that prevent the wood from drying, warping and splitting. It enriches the wood's natural patina while providing protection from the inside out, making it ideal for use on both interior and exterior wood. Size: 500ml.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Colron Refined Teak Oil 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "High quality blend of natural resins and oils",
+    "Penetrates deeper into wood grain",
+    "Prevents drying, warping, and splitting",
+    "Ideal for interior and exterior wood"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-plastic-coating-burnishing-paste-small.html|>
+## Rustins Plastic Coating Burnishing Paste Small
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Rustins Plastic Coating Burnishing Paste achieves a mirror like finish and final polished surface. Can be used 24 hours after applying the Rustins Plastic Coating. To apply make sure the surface is smooth and hardened. Once hardened rub the surface with very fine wet and dry paper until all imperfections are removed. If surface becomes scratched rub down until marks disappear and burnish. If an electric buffing machine is used add water to the cream to prevent from drying too quickly.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Plastic Coating Burnishing Paste Small",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
+    "No quibble returns: If you need to return something for any reason, whether it's not the right tool for the job or if it's faulty."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-ring-remover-125ml.html|>
+## Rustins Ring Remover 125ml
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "Rustins Ring Remover is a mixture of fine abrasives that will remove water and heat mark damage from a range of polished surfaces such as lacquers, varnishes and French Polish. Ring Remover will also restore the gloss and remove minor defects from finishes. Size: 125ml.",
+  "availability": "In Stock",
+  "product_name": "Rustins Ring Remover 125ml",
+  "specifications": [
+    "Size: 125ml",
+    "Removes water and heat mark damage",
+    "Restores gloss",
+    "Removes minor defects from finishes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-surface-cleaner-125ml.html|>
+## Rustins Surface Cleaner 125ml
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Rustins Surface Cleaner is a blend of powerful solvents formulated to remove grime and wax. Intended Use Ideal for use on antique and old furniture where wax and dirt has accumulated. It will not destroy attractive patina that has been acquired due to age. Apply the cleaner with a soft cloth, or if the wood is very dirty, with 000 steel wool. If the wood is open grained use a coarser grade of steel wool. Wipe the surface with a clean rag or kitchen towel whilst the surface is still wet otherwise the cleaner will evaporate redepositing the wax and dirt on the furniture. If after cleaning, the surface is dull but intact, the gloss may be restored with Rustins Finish Reviver which will also remove minor defects. Size: 125ml.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Surface Cleaner 125ml",
+  "specifications": [
+    "Size: 125ml",
+    "Ideal for antique and old furniture",
+    "Removes grime and wax",
+    "Does not destroy patina"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-french-polishes.html|>
+## Rustins French Polishes
+
+{
+  "price": "€5.82 inc VAT",
+  "description": "Rustins French Polish is made from flake shellac dissolved in alcohol. Suitable for French polishing all dark and light coloured woods, when a light to medium brown tone is required. Also suitable for sealing wood before waxing. When applied correctly, it will produce a high gloss finish. Alcohol evaporates rapidly leaving a film of shellac on the surface of the timber. Wood should be clean and smooth. If grain is open, fill with Rustins Grainfiller. Furniture that is to be renovated should be cleaned with White Spirit and fine wire wool to ensure that it is free from grease and wax. Apply as many coats as required to build a sufficient layer of shellac. For sealing wood before waxing, apply 2 liberal coats.",
+  "availability": "In Stock",
+  "product_name": "Rustins French Polishes",
+  "specifications": [
+    "Available in 300ml, 500ml, and Amateur 125ml options",
+    "High gloss finish",
+    "Suitable for dark and light woods",
+    "Seals wood before waxing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-scratch-cover.html|>
+## Rustins Scratch Cover
+
+{
+  "price": "€4.99 inc VAT",
+  "description": "The Rustins Scratch Cover is designed to mask unsightly surface scratches on wooden furniture and is manufactured in three shades, light, medium and dark to suit different wood colours. Scratch Cover is made from a blend of beeswax, carnauba and paraffin wax. It is suitable for old and new furniture and is ideal for antique restoration.",
+  "availability": "In Stock",
+  "product_name": "Rustins Scratch Cover",
+  "specifications": [
+    "Available in three shades: Dark 125ml, Light 125ml, Light 300ml, Medium 125ml",
+    "Made from a blend of beeswax, carnauba and paraffin wax",
+    "Suitable for old and new furniture",
+    "Ideal for antique restoration"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-burnishing-cream-1.html|>
+## Liberon Burnishing Cream
+
+{
+  "price": "€23.95 inc VAT",
+  "description": "Liberon Burnishing Cream is designed to clean, revive and rejuvenate highly polished interior surfaces such as French Polish, lacquers and varnishes. This cream can also be used to remove haze and bloom from most modern finishes, as well as cover superficial scratches. Suitable for antique and modern furniture, it will clean ivory, tortoise shell, mother of pearl, papier-mâché, brass inlays and fittings.",
+  "availability": "In Stock",
+  "product_name": "Liberon Burnishing Cream",
+  "specifications": [
+    "Dry Time: 5 minutes min.",
+    "Coverage: 8-12m².",
+    "Location: Interior.",
+    "Application: Cloth.",
+    "Tool Cleaning: White Spirit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-metal-shine-125ml.html|>
+## Rustins Metal Shine 125ml
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Rustins Metal Shine cleans and shines most metals. Apply with a soft cloth, polish off with a clean stockinette, soft cloth or duster. Ideal for cleaning brass and chrome. Size: 125ml.",
+  "availability": "In Stock",
+  "product_name": "Rustins Metal Shine 125ml",
+  "specifications": [
+    "Size: 125ml",
+    "Cleans and shines most metals",
+    "Ideal for cleaning brass and chrome"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-lead-mate-patination-oil.html|>
+## Everbuild Lead Mate Patination Oil
+
+{
+  "price": "from €20.52 inc VAT",
+  "description": "The Everbuild Lead Mate Patination Oil has been specially formulated to provide a protective coating for newly installed leadwork that helps to prevent the white carbonate staining that affects new lead and surrounding tiles, brickwork, stonework etc. Just one coat of Patination Oil also helps to provide a uniform, attractive appearance to newly installed lead. It is particularly important to treat areas of newly installed lead that are subject to water flowing over the surface onto surrounding areas as staining of tile and brick will be more severe in such circumstances. The no spill pack means no more spills or drips to clean up, and easier application.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Lead Mate Patination Oil",
+  "specifications": [
+    "Select Option: 1 Litre, 500ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-wood-bleacher-1.html|>
+## Liberon Wood Bleacher
+
+{
+  "price": "€19.99 inc VAT",
+  "description": "Liberon Wood Bleacher removes dark stains caused by rust, alcohol, damp, ink, ring marks and fruit. It can also be used to lighten naturally dark wood or natural wood which has darkened through alkali stripping, staining or weathering. It does not harm the wood.",
+  "availability": "In Stock",
+  "product_name": "Liberon Wood Bleacher",
+  "specifications": [
+    "Location: Interior and Exterior",
+    "Dry Time: 10-30 minutes",
+    "Application: Brush",
+    "Tool Cleaning: Water"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-fine-wood-stripper-500ml-1.html|>
+## Liberon Fine Wood Stripper 500ml
+
+{
+  "price": "€15.39 inc VAT (€12.51 exc.vat)",
+  "description": "Liberon Fine Wood Stripper removes old paint and varnish finishes from wood and metal. It is kind to wood and fragile surfaces as no heavy scraping is required, but tough on paint and varnish. The easy to use, non-drip gel methylene chloride-free formulation clings to the surface making it ideal for vertical surfaces. It has a fast working time of around five to 30 minutes.",
+  "availability": "In Stock",
+  "product_name": "Liberon Fine Wood Stripper 500ml",
+  "specifications": [
+    "Coverage: 2-5m² per litre",
+    "Location: Interior",
+    "Working Time: 5-30 minutes",
+    "Application: Brush",
+    "Tool Cleaning: Water"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-quick-dry-wood-varnishes.html|>
+## Everbuild Quick Dry Wood Varnishes
+
+{
+  "price": "from €19.04 inc VAT",
+  "description": "Everbuild Quick Drying Clear Varnish is a professional, low solvent clear varnish that enhances the natural qualities of wood, and provides long-lasting protection. It has been developed specifically to give an ultra-hard, scratch resistant and heatproof, non-yellowing finish. It is ideal for use on interior wood such as tables, chairs, doors, skirtings, furniture etc. Touch dry in 30 minutes, overcoat after 1 hour. Long lasting protection. Clear finish, no discoloration.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Quick Dry Wood Varnishes",
+  "specifications": [
+    "Select Option: Satin 250ml, Satin 750ml",
+    "Touch dry in 30 minutes",
+    "Overcoat after 1 hour",
+    "Long lasting protection",
+    "Clear finish, no discoloration"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-exterior-varnish.html|>
+## Rustins Exterior Varnish
+
+{
+  "price": "from €14.99 inc VAT",
+  "description": "Rustins Exterior Varnish is a quick drying, durable, clear coating available in gloss and satin. It gives long-lasting protection to all external wood, is Eco Friendly and has UV inhibitors. It is touch dry in 30 mins, re-coatable in 4 hours. Clean brushes in water. Available in sizes 250ml, 500ml, 1 litre and 2.5 litres.",
+  "availability": "In Stock",
+  "product_name": "Rustins Exterior Varnish",
+  "specifications": [
+    "Available in sizes: 250ml, 500ml, 1 litre and 2.5 litres",
+    "Quick drying and durable",
+    "Eco Friendly with UV inhibitors",
+    "Touch dry in 30 mins, re-coatable in 4 hours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-flexterior-varnish.html|>
+## Rustins Flexterior Varnish
+
+{
+  "price": "from €12.88 inc VAT",
+  "description": "Rustin Flexterior Varnish is a flexible exterior satin wood finish, with ultraviolet and fungicide protection. Ideal for use on new, planed and sawn soft and hard woods. Flexterior will not peel, crack or blister when applied correctly.",
+  "availability": "In Stock",
+  "product_name": "Rustins Flexterior Varnish",
+  "specifications": [
+    "Available in Clear 1 Litre, Clear 2.5 Litre, Clear 500 ml, Dark Oak 500 ml, Mahogany 500 ml",
+    "Flexible exterior satin wood finish",
+    "Ultraviolet and fungicide protection",
+    "Ideal for new, planed and sawn soft and hard woods",
+    "Will not peel, crack or blister when applied correctly"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-polyurethane-varnish-and-stain.html|>
+## Rustins Polyurethane Varnish & Stain
+
+{
+  "price": "€6.75 inc VAT",
+  "description": "Rustins Polyurethane Varnish & Stain Gloss is an extra tough polyurethane varnish stain for all interior woodwork. Enhances the beauty of wood and resists alcohol and boiling water. Stains and varnishes all in one. Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3.",
+  "availability": "In Stock",
+  "product_name": "Rustins Polyurethane Varnish & Stain",
+  "specifications": [
+    "Available in various colors: Antique Pine, Dark Oak, Mahogany, Oak, Gloss Mahogany, Satin Mahogany, Walnut",
+    "Volume options: 250 ml, 500 ml",
+    "Extra tough polyurethane varnish stain for interior woodwork",
+    "Enhances beauty of wood and resists alcohol and boiling water",
+    "Conforms to Toys (Safety) Regulations 1995, BS:EN71 Part 3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-polyurethane-varnish.html|>
+## Rustins Polyurethane Varnish
+
+{
+  "price": "€6.75 inc VAT",
+  "description": "Rustins Polyurethane Varnish is an extra tough Polyurethane clear for all interior woodwork. It enhances the beauty of wood, and can resist alcohol and boiling water. Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3. Available in: Satin, Gloss, and Matt.",
+  "availability": "In Stock",
+  "product_name": "Rustins Polyurethane Varnish",
+  "specifications": [
+    "Available in various sizes: 1 Litre, 2.5 Litre, 250ml, 5 Litre, 500ml",
+    "Finish options: Satin, Gloss, Matt",
+    "Resistant to alcohol and boiling water",
+    "Conforms to Toys (Safety) Regulations 1995, BS:EN71 Part 3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-interior-varnishes.html|>
+## Ronseal Interior Varnishes
+
+{
+  "price": "from €9.68 inc VAT",
+  "description": "Ronseal Interior Varnish is a quick drying varnish with Diamond Hard protection. It delivers superior protection against heat, scratches and water. Quick drying, touch dry in 20 minutes. Re-coat after 2 hours. Protects all interior wood with a beautiful fade resistant finish. Available in Satin, Gloss and Matt.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Interior Varnishes",
+  "specifications": [
+    "Quick drying varnish",
+    "Diamond Hard protection",
+    "Touch dry in 20 minutes",
+    "Re-coat after 2 hours",
+    "Available in Satin, Gloss and Matt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-ultra-tough-internal-varnish.html|>
+## Ronseal Ultra Tough Internal Varnish
+
+{
+  "price": "from €10.71 inc VAT",
+  "description": "The Ronseal Ultra Tough clear varnish range is an ultra-tough polyurethane varnish which provides a rich, clear, mellow finish to interior wood that is ideal for use over wood dyes. The varnish is heat, water and scratch-resistant with long-lasting protection against knocks, and most household chemicals in the home. This product provides long hard wearing protection on wood and is suitable for any bare or previously treated wood. Application: Brush. Drying time: 2-4 hours. Coverage: 24 square metres covered per litre. Protection Level: Very High. Areas of use: Wooden interior furniture and trim including doors, shelving, skirting boards, cork, hardboard or chipboard.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Ultra Tough Internal Varnish",
+  "specifications": [
+    "Application: Brush",
+    "Drying time: 2-4 hours",
+    "Coverage: 24 square metres per litre",
+    "Protection Level: Very High",
+    "Areas of use: Wooden interior furniture and trim"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-exterior-yacht-varnish.html|>
+## Ronseal Exterior Yacht Varnish
+
+{
+  "price": "from €11.48 inc VAT",
+  "description": "Ronseal Yacht Varnish is a professional high quality solvent-based varnish that provides superior, long lasting protection for exterior wood. The weatherproofing formula protects the wood from damaging UV rays, it contains a flexible resin that allows the varnish to move with the wood as it expands and contracts,so helping to prevent cracking, peeling and blistering. This unique formula is also highly water repellent to keep your wood drier. Areas of use: Exterior: Approx coverage: 16 m2 covered per litre. Approx number of coats: 3. Application: Brush. Drying time Approx: 6 hours. Protection level: High. Available in Satin or Gloss Finish with different size tins available.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Exterior Yacht Varnish",
+  "specifications": [
+    "Available in Gloss and Satin finishes",
+    "Multiple sizes: 1 Litre, 500 ml, 2.5 Litre, 250 ml",
+    "Approx coverage: 16 m2 per litre",
+    "Approx number of coats: 3",
+    "Application method: Brush",
+    "Drying time: Approx 6 hours",
+    "High protection level"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-foam-brush-set-123-and-4in.html|>
+## Rustins Foam Brush Set (1,2,3 & 4in)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Rustins Foam Brush Set is an alternative to bristle brushes, the poly brush is ideal for paint, wood dye, oils and varnish. Quick and easy to use and clean, they leave no brush marks or bristles, and are suitable for both water and oil based products. Sizes included: 1,2,3 and 4 in.",
+  "availability": "Out of Stock",
+  "product_name": "Rustins Foam Brush Set (1,2,3 & 4in)",
+  "specifications": [
+    "Sizes included: 1, 2, 3, and 4 in."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-lint-free-cloths-pack-of-3.html|>
+## Rustins Lint Free Cloths (Pack of 3)
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "Rustins Lint-free cloths are perfect for the application of danish oil, teak oil, furniture oil, wax polish, wood dye and French polish. Supplied in a pack of 3.",
+  "availability": "In Stock",
+  "product_name": "Rustins Lint Free Cloths (Pack of 3)",
+  "specifications": [
+    "Pack of 3",
+    "Perfect for applying danish oil, teak oil, furniture oil, wax polish, wood dye, and French polish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-colron-refined-finishing-wax-clear-325g.html|>
+## Ronseal Colron Refined Finishing Wax Clear 325g
+
+{
+  "price": "€24.12 inc VAT (€19.61 exc.vat)",
+  "description": "Colron CRFW325 is a superior blend of natural waxes that provide a deep lustre to fine interior wood, enhancing the natural sheen of the wood and providing long-lasting beauty and protection. Dries to a clear finish. Size: 325g.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Colron Refined Finishing Wax Clear 325g",
+  "specifications": [
+    "Size: 325g",
+    "Dries to a clear finish",
+    "Superior blend of natural waxes",
+    "Enhances natural sheen of wood",
+    "Provides long-lasting beauty and protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-colron-wax-remover-500ml.html|>
+## Ronseal Colron Wax Remover 500ml
+
+{
+  "price": "€14.85 inc VAT (€12.07 exc.vat)",
+  "description": "Colron Wax Remover removes most soft finishes: wax, lacquer, shellac and traditional natural varnishes. Easy to apply and the mild solution will not damage the sheen of the wood. Size: 500ml.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Colron Wax Remover 500ml",
+  "specifications": [
+    "Size: 500ml",
+    "Removes wax, lacquer, shellac, and traditional natural varnishes",
+    "Mild solution that does not damage wood sheen"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-colron-wax-sticks-pack-of-3.html|>
+## Ronseal Colron Wax Sticks (Pack of 3)
+
+{
+  "price": "€12.03 inc VAT (€9.78 exc.vat)",
+  "description": "Ronseal Colron Wax Sticks fill and conceal scratches, cracks and nail holes in interior wooden furniture. These can be mixed together to match the colour of the wood. For interior use only. Pack of 3.",
+  "availability": "Out of Stock",
+  "product_name": "Ronseal Colron Wax Sticks (Pack of 3)",
+  "specifications": [
+    "Pack of 3",
+    "Fills and conceals scratches, cracks, and nail holes",
+    "Can be mixed to match wood color",
+    "For interior use only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-interior-wax-750ml.html|>
+## Ronseal Interior Wax 750ml
+
+{
+  "price": "€23.27 inc VAT",
+  "description": "Ronseal Interior Wood Wax gives 'Diamond Hard' protection; this means it will protect wood against knocks, scuffs and scratches. Interior Wood Wax is lightly tinted and comes in a matt finish. Unlike other waxes, it can be applied using a brush, without the need of buffing between coats. Ronseal Interior Wax Protects like a varnish, with the natural feel of a wax. It is suitable for use on interior furniture and doors. Drying time: 20 minutes. Re-coat: 1 hour. Coverage: 20.0m² per litre.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Interior Wax 750ml",
+  "specifications": [
+    "Drying time: 20 minutes",
+    "Re-coat: 1 hour",
+    "Coverage: 20.0m² per litre"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-beeswax-paste-1.html|>
+## Liberon Beeswax Paste
+
+{
+  "price": "from €11.03 inc VAT",
+  "description": "Liberon Beeswax Paste nourishes wood and gives an authentic finish to furniture. It is ideal for small surfaces, and is suitable for soft and hardwoods, especially pine and oak.",
+  "availability": "In Stock",
+  "product_name": "Liberon Beeswax Paste",
+  "specifications": [
+    "Dry Time: 6 hour min.",
+    "Coverage: 10-12m².",
+    "Location: Interior.",
+    "Application: Cloth or Steel Wool.",
+    "Tool Cleaning: White Spirit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-purified-beeswax-1.html|>
+## Liberon Purified Beeswax
+
+{
+  "price": "€14.92 inc VAT",
+  "description": "Liberon Purified Beeswax is made from 100% pure beeswax. Ideal for use as a furniture polish or for lubricating drawer runners. Also suitable to be used as a traditional wood filler.",
+  "availability": "In Stock",
+  "product_name": "Liberon Purified Beeswax",
+  "specifications": [
+    "1kg or 200g options available",
+    "100% pure beeswax",
+    "Ideal for furniture polish",
+    "Suitable as a traditional wood filler"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-lubricating-wax-500ml-1.html|>
+## Liberon Lubricating Wax 500ml
+
+{
+  "price": "€17.69 inc VAT (€14.38 exc.vat)",
+  "description": "Liberon Lubricating Wax is specially formulated to lubricate and clean interior tools and machinery to increase their efficiency and keep working parts moving freely. Silicone-free, making it suitable for use on saw blades, cutter blades, machine tables, lathes and planers to increase longevity, and help to reduce rust and corrosion on all bare metal surfaces. Its special properties will also assist in the quick cleaning and easy removal of glue from veneer presses and G-clamps, as well as help to reduce resin build-up from softwood.",
+  "availability": "In Stock",
+  "product_name": "Liberon Lubricating Wax 500ml",
+  "specifications": [
+    "LIBLUBW500N : €17.69",
+    "Silicone-free",
+    "Suitable for saw blades, cutter blades, machine tables, lathes, and planers",
+    "Helps reduce rust and corrosion",
+    "Assists in cleaning glue from veneer presses and G-clamps"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-liming-wax-1.html|>
+## Liberon Liming Wax
+
+{
+  "price": "€16.64 inc VAT",
+  "description": "Liberon Liming Wax is a white wax used to create a limed effect on oak and other interior hardwoods.",
+  "availability": "In Stock",
+  "product_name": "Liberon Liming Wax",
+  "specifications": [
+    "Coverage: 12-16m² per litre.",
+    "Location: Interior.",
+    "Dry Time: 5 minutes min.",
+    "Application: Steel Wool.",
+    "Tool Cleaning: White Spirit."
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-black-bison-wax-paste.html|>
+## Liberon Black Bison Wax Paste
+
+{
+  "price": "€15.93 inc VAT",
+  "description": "Liberon Black Bison Wax Paste is ideal for nourishing and protecting all types of wood, including lacquers and French polishes. Made from a blend of waxes, including high quality carnauba wax, it provides good resistance to finger and water marks, and is ideal for small surfaces. Well-known for its quality and pleasant, distinctive aroma, it feeds, polishes and helps to prevent wood drying out, and has traditionally been used on antiques. Provides a highly lustrous and hardwearing finish, as well as helping to cover marks and scratches, it will enhance the natural beauty of new wood, and is safe to use on toys and is silicone-free.",
+  "availability": "In Stock",
+  "product_name": "Liberon Black Bison Wax Paste",
+  "specifications": [
+    "Dry Time: 20 minutes min.",
+    "Coverage: 10-12m².",
+    "Location: Interior.",
+    "Application: Brush, Cloth or Steel Wool.",
+    "Tool Cleaning: White Spirit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/liberon-liquid-beeswax.html|>
+## Liberon Liquid Beeswax
+
+{
+  "price": "€21.97 inc VAT",
+  "description": "The Liberon Liquid Beeswax nourishes wood and protects against dryness. Ideal for use on large surfaces such as doors, panelling and beams.",
+  "availability": "In Stock",
+  "product_name": "Liberon Liquid Beeswax",
+  "specifications": [
+    "Dry Time: 1 hour min.",
+    "Coverage: 10-12m².",
+    "Location: Interior.",
+    "Application: Brush, Cloth or Spray.",
+    "Tool Cleaning: White Spirit"
+  ]
+}
+
