@@ -1,30 +1,8 @@
 <|https://www.mydiy.ie/products/-chime-wireless-video-doorbell.html|>
 ## Chime Wireless Video Doorbell
 
-<|https://www.mydiy.ie/products/-chime-wireless-video-doorbell.html|>
-## Chime Wireless Video Doorbell
-
-{
-  "price": "€24.99 inc VAT (€20.32 exc.vat)",
-  "description": "A stunning wireless chime video doorbell with 18 melodious ringtones. Easy to pair with your video doorbell by plugging into the socket",
-  "availability": "Out of Stock",
-  "product_name": "Chime Wireless Video Doorbell",
-  "specifications": [
-    "Wireless chime video doorbell",
-    "18 melodious ringtones",
-    "Easy to pair with video doorbell"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/abus-mechanical-100-dg-series-hinged-hasp-and-staples.html|>
 ## ABUS Mechanical 100 DG Series Hinged Hasp & Staples
-
-<|https://www.mydiy.ie/products/abus-mechanical-100-dg-series-hinged-hasp-and-staples.html|>
-## ABUS Mechanical 100 DG Series Hinged Hasp & Staples
-
-<|https://www.mydiy.ie/products/abus-mechanical-100-series-hasp-and-staples.html|>
-## ABUS Mechanical 100 Series Hasp & Staples
 
 <|https://www.mydiy.ie/products/abus-mechanical-100-series-hasp-and-staples.html|>
 ## ABUS Mechanical 100 Series Hasp & Staples
@@ -32,17 +10,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-110-series-hasp-and-staples.html|>
 ## ABUS Mechanical 110 Series Hasp & Staples
 
-<|https://www.mydiy.ie/products/abus-mechanical-110-series-hasp-and-staples.html|>
-## ABUS Mechanical 110 Series Hasp & Staples
-
 <|https://www.mydiy.ie/products/abus-mechanical-12ks120-loop-security-chain---120cm.html|>
 ## ABUS Mechanical 12KS/120 Loop Security Chain - 120cm
-
-<|https://www.mydiy.ie/products/abus-mechanical-12ks120-loop-security-chain---120cm.html|>
-## ABUS Mechanical 12KS/120 Loop Security Chain - 120cm
-
-<|https://www.mydiy.ie/products/abus-mechanical-140-series-diskus-hasp-and-staples.html|>
-## ABUS Mechanical 140 Series Diskus Hasp & Staples
 
 <|https://www.mydiy.ie/products/abus-mechanical-140-series-diskus-hasp-and-staples.html|>
 ## ABUS Mechanical 140 Series Diskus Hasp & Staples
@@ -50,17 +19,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-142-series-sliding-door-van-lock-and-2370mm-diskus-padlock.html|>
 ## ABUS Mechanical 142 Series Sliding Door Van Lock & 23/70mm Diskus® Padlock
 
-<|https://www.mydiy.ie/products/abus-mechanical-142-series-sliding-door-van-lock-and-2370mm-diskus-padlock.html|>
-## ABUS Mechanical 142 Series Sliding Door Van Lock & 23/70mm Diskus® Padlock
-
 <|https://www.mydiy.ie/products/abus-mechanical-142-series-sliding-door-van-lock-and-2670mm-diskus-padlock.html|>
 ## ABUS Mechanical 142 Series Sliding Door Van Lock & 26/70mm Diskus® Padlock
-
-<|https://www.mydiy.ie/products/abus-mechanical-142-series-sliding-door-van-lock-and-2670mm-diskus-padlock.html|>
-## ABUS Mechanical 142 Series Sliding Door Van Lock & 26/70mm Diskus® Padlock
-
-<|https://www.mydiy.ie/products/abus-mechanical-145-series-aluminium-combination-padlocks.html|>
-## ABUS Mechanical 145 Series Aluminium Combination Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-145-series-aluminium-combination-padlocks.html|>
 ## ABUS Mechanical 145 Series Aluminium Combination Padlocks
@@ -68,17 +28,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-147-tsa-30mm-combination-luggage-padlock.html|>
 ## ABUS Mechanical 147 TSA 30mm Combination Luggage Padlock
 
-<|https://www.mydiy.ie/products/abus-mechanical-147-tsa-30mm-combination-luggage-padlock.html|>
-## ABUS Mechanical 147 TSA 30mm Combination Luggage Padlock
-
 <|https://www.mydiy.ie/products/abus-mechanical-148-tsa-30mm-combination-cable-luggage-lock.html|>
 ## ABUS Mechanical 148 TSA 30mm Combination Cable Luggage Lock
-
-<|https://www.mydiy.ie/products/abus-mechanical-148-tsa-30mm-combination-cable-luggage-lock.html|>
-## ABUS Mechanical 148 TSA 30mm Combination Cable Luggage Lock
-
-<|https://www.mydiy.ie/products/abus-mechanical-155-series-combination-padlocks.html|>
-## ABUS Mechanical 155 Series Combination Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-155-series-combination-padlocks.html|>
 ## ABUS Mechanical 155 Series Combination Padlocks
@@ -86,17 +37,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-158-closed-shackle-combination-padlocks.html|>
 ## ABUS Mechanical 158 Closed Shackle Combination Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-158-closed-shackle-combination-padlocks.html|>
-## ABUS Mechanical 158 Closed Shackle Combination Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-158-combination-padlocks.html|>
 ## ABUS Mechanical 158 Combination Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-158-combination-padlocks.html|>
-## ABUS Mechanical 158 Combination Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-158kc45mm-combination-padlock-with-key-override.html|>
-## ABUS Mechanical 158KC/45mm Combination Padlock with Key Override
 
 <|https://www.mydiy.ie/products/abus-mechanical-158kc45mm-combination-padlock-with-key-override.html|>
 ## ABUS Mechanical 158KC/45mm Combination Padlock with Key Override
@@ -104,17 +46,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-160-series-combination-padlocks.html|>
 ## ABUS Mechanical 160 Series Combination Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-160-series-combination-padlocks.html|>
-## ABUS Mechanical 160 Series Combination Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-165-series-brass-combination-padlocks.html|>
 ## ABUS Mechanical 165 Series Brass Combination Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-165-series-brass-combination-padlocks.html|>
-## ABUS Mechanical 165 Series Brass Combination Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-180ib50-brass-combination-padlocks.html|>
-## ABUS Mechanical 180IB/50 Brass Combination Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-180ib50-brass-combination-padlocks.html|>
 ## ABUS Mechanical 180IB/50 Brass Combination Padlocks
@@ -122,17 +55,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-200-series-hasp-and-staples.html|>
 ## ABUS Mechanical 200 Series Hasp & Staples
 
-<|https://www.mydiy.ie/products/abus-mechanical-200-series-hasp-and-staples.html|>
-## ABUS Mechanical 200 Series Hasp & Staples
-
 <|https://www.mydiy.ie/products/abus-mechanical-2070-70mm-diskus-plus-padlocks.html|>
 ## ABUS Mechanical 20/70 70mm Diskus Plus Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-2070-70mm-diskus-plus-padlocks.html|>
-## ABUS Mechanical 20/70 70mm Diskus Plus Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-2080-80mm-diskus-plus-padlocks.html|>
-## ABUS Mechanical 20/80 80mm Diskus Plus Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-2080-80mm-diskus-plus-padlocks.html|>
 ## ABUS Mechanical 20/80 80mm Diskus Plus Padlocks
@@ -140,17 +64,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-215100-container-lock--37rk70-hb100.html|>
 ## ABUS Mechanical 215/100 Container Lock + 37RK/70 HB100
 
-<|https://www.mydiy.ie/products/abus-mechanical-215100-container-lock--37rk70-hb100.html|>
-## ABUS Mechanical 215/100 Container Lock + 37RK/70 HB100
-
 <|https://www.mydiy.ie/products/abus-mechanical-24-26-28-right-hand-45-key-blank.html|>
 ## ABUS Mechanical 24-26-28 Right Hand 4/5 Key Blank
-
-<|https://www.mydiy.ie/products/abus-mechanical-24-26-28-right-hand-45-key-blank.html|>
-## ABUS Mechanical 24-26-28 Right Hand 4/5 Key Blank
-
-<|https://www.mydiy.ie/products/abus-mechanical-24-41-885-right-hand-4-pin-key-blank.html|>
-## ABUS Mechanical 24-41-885 Right Hand 4 Pin Key Blank
 
 <|https://www.mydiy.ie/products/abus-mechanical-24-41-885-right-hand-4-pin-key-blank.html|>
 ## ABUS Mechanical 24-41-885 Right Hand 4 Pin Key Blank
@@ -158,17 +73,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-2470-8263-9265-key-blank-00906.html|>
 ## ABUS Mechanical 24/70-82/63-92/65 Key Blank 00906
 
-<|https://www.mydiy.ie/products/abus-mechanical-2470-8263-9265-key-blank-00906.html|>
-## ABUS Mechanical 24/70-82/63-92/65 Key Blank 00906
-
 <|https://www.mydiy.ie/products/abus-mechanical-24ib60-60mm-diskus-padlocks-stainless-steel.html|>
 ## ABUS Mechanical 24IB/60 60mm Diskus Padlocks Stainless Steel
-
-<|https://www.mydiy.ie/products/abus-mechanical-24ib60-60mm-diskus-padlocks-stainless-steel.html|>
-## ABUS Mechanical 24IB/60 60mm Diskus Padlocks Stainless Steel
-
-<|https://www.mydiy.ie/products/abus-mechanical-24ib70-70mm-diskus-padlocks-stainless-steel.html|>
-## ABUS Mechanical 24IB/70 70mm Diskus Padlocks Stainless Steel
 
 <|https://www.mydiy.ie/products/abus-mechanical-24ib70-70mm-diskus-padlocks-stainless-steel.html|>
 ## ABUS Mechanical 24IB/70 70mm Diskus Padlocks Stainless Steel
@@ -176,17 +82,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-2670-70mm-diskus-padlocks.html|>
 ## ABUS Mechanical 26/70 70mm Diskus Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-2670-70mm-diskus-padlocks.html|>
-## ABUS Mechanical 26/70 70mm Diskus Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-2680-80mm-diskus-padlocks.html|>
 ## ABUS Mechanical 26/80 80mm Diskus Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-2680-80mm-diskus-padlocks.html|>
-## ABUS Mechanical 26/80 80mm Diskus Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-2690-90mm-diskus-padlock.html|>
-## ABUS Mechanical 26/90 90mm Diskus Padlock
 
 <|https://www.mydiy.ie/products/abus-mechanical-2690-90mm-diskus-padlock.html|>
 ## ABUS Mechanical 26/90 90mm Diskus Padlock
@@ -194,17 +91,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-300-series-locking-bolts.html|>
 ## ABUS Mechanical 300 Series Locking Bolts
 
-<|https://www.mydiy.ie/products/abus-mechanical-300-series-locking-bolts.html|>
-## ABUS Mechanical 300 Series Locking Bolts
-
 <|https://www.mydiy.ie/products/abus-mechanical-34-right-hand-6-pin-key-blank.html|>
 ## ABUS Mechanical 34 Right Hand 6 Pin Key Blank
-
-<|https://www.mydiy.ie/products/abus-mechanical-34-right-hand-6-pin-key-blank.html|>
-## ABUS Mechanical 34 Right Hand 6 Pin Key Blank
-
-<|https://www.mydiy.ie/products/abus-mechanical-3655-55mm-right-hand-key-blank.html|>
-## ABUS Mechanical 36/55 55mm Right Hand Key Blank
 
 <|https://www.mydiy.ie/products/abus-mechanical-3655-55mm-right-hand-key-blank.html|>
 ## ABUS Mechanical 36/55 55mm Right Hand Key Blank
@@ -212,17 +100,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-3755mm-granit-plus-padlocks.html|>
 ## ABUS Mechanical 37/55mm Granit Plus Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-3755mm-granit-plus-padlocks.html|>
-## ABUS Mechanical 37/55mm Granit Plus Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-3760mm-granit-plus-closed-shackle-padlocks.html|>
 ## ABUS Mechanical 37/60mm Granit Plus Closed Shackle Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-3760mm-granit-plus-closed-shackle-padlocks.html|>
-## ABUS Mechanical 37/60mm Granit Plus Closed Shackle Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-37rk70mm-granit-plus-padlocks.html|>
-## ABUS Mechanical 37RK/70mm Granit Plus Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-37rk70mm-granit-plus-padlocks.html|>
 ## ABUS Mechanical 37RK/70mm Granit Plus Padlocks
@@ -230,17 +109,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-37rk80mm-granit-plus-closed-shackle-padlocks.html|>
 ## ABUS Mechanical 37RK/80mm Granit Plus Closed Shackle Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-37rk80mm-granit-plus-closed-shackle-padlocks.html|>
-## ABUS Mechanical 37RK/80mm Granit Plus Closed Shackle Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-4130-30mm-laminated-padlocks.html|>
 ## ABUS Mechanical 41/30 30mm Laminated Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-4130-30mm-laminated-padlocks.html|>
-## ABUS Mechanical 41/30 30mm Laminated Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-4140-40mm-laminated-padlocks.html|>
-## ABUS Mechanical 41/40 40mm Laminated Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-4140-40mm-laminated-padlocks.html|>
 ## ABUS Mechanical 41/40 40mm Laminated Padlocks
@@ -248,17 +118,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-4145-45mm-eterna-laminated-padlock-carded.html|>
 ## ABUS Mechanical 41/45 45mm Eterna Laminated Padlock Carded
 
-<|https://www.mydiy.ie/products/abus-mechanical-4145-45mm-eterna-laminated-padlock-carded.html|>
-## ABUS Mechanical 41/45 45mm Eterna Laminated Padlock Carded
-
 <|https://www.mydiy.ie/products/abus-mechanical-4150-50mm-laminated-padlocks.html|>
 ## ABUS Mechanical 41/50 50mm Laminated Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-4150-50mm-laminated-padlocks.html|>
-## ABUS Mechanical 41/50 50mm Laminated Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-54ti-40mm-titalium-padlocks.html|>
-## ABUS Mechanical 54TI 40mm Titalium Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-54ti-40mm-titalium-padlocks.html|>
 ## ABUS Mechanical 54TI 40mm Titalium Padlocks
@@ -266,17 +127,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-55-series-key-blanks.html|>
 ## ABUS Mechanical 55 Series Key Blanks
 
-<|https://www.mydiy.ie/products/abus-mechanical-55-series-key-blanks.html|>
-## ABUS Mechanical 55 Series Key Blanks
-
 <|https://www.mydiy.ie/products/abus-mechanical-5525-25mm-brass-padlocks.html|>
 ## ABUS Mechanical 55/25 25mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-5525-25mm-brass-padlocks.html|>
-## ABUS Mechanical 55/25 25mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-5530-30mm-brass-padlocks.html|>
-## ABUS Mechanical 55/30 30mm Brass Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-5530-30mm-brass-padlocks.html|>
 ## ABUS Mechanical 55/30 30mm Brass Padlocks
@@ -284,17 +136,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-5540-40mm-brass-padlocks.html|>
 ## ABUS Mechanical 55/40 40mm Brass Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-5540-40mm-brass-padlocks.html|>
-## ABUS Mechanical 55/40 40mm Brass Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-5550-50mm-brass-padlocks.html|>
 ## ABUS Mechanical 55/50 50mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-5550-50mm-brass-padlocks.html|>
-## ABUS Mechanical 55/50 50mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-5560-60mm-brass-padlocks.html|>
-## ABUS Mechanical 55/60 60mm Brass Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-5560-60mm-brass-padlocks.html|>
 ## ABUS Mechanical 55/60 60mm Brass Padlocks
@@ -302,17 +145,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-57-touch-padlock.html|>
 ## ABUS Mechanical 57 Touch™ Padlock
 
-<|https://www.mydiy.ie/products/abus-mechanical-57-touch-padlock.html|>
-## ABUS Mechanical 57 Touch™ Padlock
-
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-20mm-titalium-padlocks.html|>
 ## ABUS Mechanical 64ti 20mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-20mm-titalium-padlocks.html|>
-## ABUS Mechanical 64ti 20mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-25mm-titalium-padlocks.html|>
-## ABUS Mechanical 64ti 25mm Titalium Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-25mm-titalium-padlocks.html|>
 ## ABUS Mechanical 64ti 25mm Titalium Padlocks
@@ -320,17 +154,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-30mm-long-shackle-titalium-padlocks.html|>
 ## ABUS Mechanical 64TI 30mm Long Shackle Titalium Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-30mm-long-shackle-titalium-padlocks.html|>
-## ABUS Mechanical 64TI 30mm Long Shackle Titalium Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-30mm-titalium-padlocks.html|>
 ## ABUS Mechanical 64ti 30mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-30mm-titalium-padlocks.html|>
-## ABUS Mechanical 64ti 30mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-35mm-titalium-padlocks.html|>
-## ABUS Mechanical 64ti 35mm Titalium Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-35mm-titalium-padlocks.html|>
 ## ABUS Mechanical 64ti 35mm Titalium Padlocks
@@ -338,17 +163,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-40mm-long-shackle-titalium-padlocks.html|>
 ## ABUS Mechanical 64TI 40mm Long Shackle Titalium Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-40mm-long-shackle-titalium-padlocks.html|>
-## ABUS Mechanical 64TI 40mm Long Shackle Titalium Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-40mm-titalium-padlocks.html|>
 ## ABUS Mechanical 64TI 40mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-40mm-titalium-padlocks.html|>
-## ABUS Mechanical 64TI 40mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-45mm-titalium-padlocks.html|>
-## ABUS Mechanical 64TI 45mm Titalium Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-45mm-titalium-padlocks.html|>
 ## ABUS Mechanical 64TI 45mm Titalium Padlocks
@@ -356,17 +172,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-50mm-long-shackle-titalium-padlocks.html|>
 ## ABUS Mechanical 64TI 50mm Long Shackle Titalium Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-50mm-long-shackle-titalium-padlocks.html|>
-## ABUS Mechanical 64TI 50mm Long Shackle Titalium Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-64ti-60mm-titalium-padlocks.html|>
 ## ABUS Mechanical 64TI 60mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-64ti-60mm-titalium-padlocks.html|>
-## ABUS Mechanical 64TI 60mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-64v-50mm-titalium-padlocks.html|>
-## ABUS Mechanical 64v 50mm Titalium Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-64v-50mm-titalium-padlocks.html|>
 ## ABUS Mechanical 64v 50mm Titalium Padlocks
@@ -374,17 +181,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-65-series-close-shackle-padlocks.html|>
 ## ABUS Mechanical 65 Series Close Shackle Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-65-series-close-shackle-padlocks.html|>
-## ABUS Mechanical 65 Series Close Shackle Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-65-series-key-blanks.html|>
 ## ABUS Mechanical 65 Series Key Blanks
-
-<|https://www.mydiy.ie/products/abus-mechanical-65-series-key-blanks.html|>
-## ABUS Mechanical 65 Series Key Blanks
-
-<|https://www.mydiy.ie/products/abus-mechanical-65-series-master-keyed-padlocks.html|>
-## ABUS Mechanical 65 Series Master Keyed Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-65-series-master-keyed-padlocks.html|>
 ## ABUS Mechanical 65 Series Master Keyed Padlocks
@@ -392,17 +190,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-6520-20mm-brass-padlocks.html|>
 ## ABUS Mechanical 65/20 20mm Brass Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-6520-20mm-brass-padlocks.html|>
-## ABUS Mechanical 65/20 20mm Brass Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-6525-25mm-brass-padlocks.html|>
 ## ABUS Mechanical 65/25 25mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-6525-25mm-brass-padlocks.html|>
-## ABUS Mechanical 65/25 25mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-6530-30mm-brass-padlocks.html|>
-## ABUS Mechanical 65/30 30mm Brass Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-6530-30mm-brass-padlocks.html|>
 ## ABUS Mechanical 65/30 30mm Brass Padlocks
@@ -410,17 +199,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-6530-hb-brass-padlocks-long-shackle.html|>
 ## ABUS Mechanical 65/30 HB Brass Padlocks Long Shackle
 
-<|https://www.mydiy.ie/products/abus-mechanical-6530-hb-brass-padlocks-long-shackle.html|>
-## ABUS Mechanical 65/30 HB Brass Padlocks Long Shackle
-
 <|https://www.mydiy.ie/products/abus-mechanical-6535-35mm-brass-padlocks.html|>
 ## ABUS Mechanical 65/35 35mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-6535-35mm-brass-padlocks.html|>
-## ABUS Mechanical 65/35 35mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-6540-40mm-brass-padlocks.html|>
-## ABUS Mechanical 65/40 40mm Brass Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-6540-40mm-brass-padlocks.html|>
 ## ABUS Mechanical 65/40 40mm Brass Padlocks
@@ -428,17 +208,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-6540-hb-brass-padlocks-long-shackle.html|>
 ## ABUS Mechanical 65/40 HB Brass Padlocks Long Shackle
 
-<|https://www.mydiy.ie/products/abus-mechanical-6540-hb-brass-padlocks-long-shackle.html|>
-## ABUS Mechanical 65/40 HB Brass Padlocks Long Shackle
-
 <|https://www.mydiy.ie/products/abus-mechanical-6545-45mm-brass-padlocks.html|>
 ## ABUS Mechanical 65/45 45mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-6545-45mm-brass-padlocks.html|>
-## ABUS Mechanical 65/45 45mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-6550-50mm-brass-padlocks.html|>
-## ABUS Mechanical 65/50 50mm Brass Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-6550-50mm-brass-padlocks.html|>
 ## ABUS Mechanical 65/50 50mm Brass Padlocks
@@ -446,17 +217,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-6550-hb-brass-padlocks-long-shackle.html|>
 ## ABUS Mechanical 65/50 HB Brass Padlocks Long Shackle
 
-<|https://www.mydiy.ie/products/abus-mechanical-6550-hb-brass-padlocks-long-shackle.html|>
-## ABUS Mechanical 65/50 HB Brass Padlocks Long Shackle
-
 <|https://www.mydiy.ie/products/abus-mechanical-6560-60mm-brass-padlocks.html|>
 ## ABUS Mechanical 65/60 60mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-6560-60mm-brass-padlocks.html|>
-## ABUS Mechanical 65/60 60mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-65ib30-brass-padlocks-stainless-steel-shackle.html|>
-## ABUS Mechanical 65IB/30 Brass Padlocks Stainless Steel Shackle
 
 <|https://www.mydiy.ie/products/abus-mechanical-65ib30-brass-padlocks-stainless-steel-shackle.html|>
 ## ABUS Mechanical 65IB/30 Brass Padlocks Stainless Steel Shackle
@@ -464,17 +226,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-65ib40-brass-padlocks-stainless-steel-shackle.html|>
 ## ABUS Mechanical 65IB/40 Brass Padlocks Stainless Steel Shackle
 
-<|https://www.mydiy.ie/products/abus-mechanical-65ib40-brass-padlocks-stainless-steel-shackle.html|>
-## ABUS Mechanical 65IB/40 Brass Padlocks Stainless Steel Shackle
-
 <|https://www.mydiy.ie/products/abus-mechanical-65ib50-brass-padlocks-stainless-steel-shackle.html|>
 ## ABUS Mechanical 65IB/50 Brass Padlocks Stainless Steel Shackle
-
-<|https://www.mydiy.ie/products/abus-mechanical-65ib50-brass-padlocks-stainless-steel-shackle.html|>
-## ABUS Mechanical 65IB/50 Brass Padlocks Stainless Steel Shackle
-
-<|https://www.mydiy.ie/products/abus-mechanical-65mb-brass-padlocks-and-shackle.html|>
-## ABUS Mechanical 65MB Brass Padlocks & Shackle
 
 <|https://www.mydiy.ie/products/abus-mechanical-65mb-brass-padlocks-and-shackle.html|>
 ## ABUS Mechanical 65MB Brass Padlocks & Shackle
@@ -482,17 +235,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-700-series-lock-off-hasps.html|>
 ## ABUS Mechanical 700 Series Lock Off Hasps
 
-<|https://www.mydiy.ie/products/abus-mechanical-700-series-lock-off-hasps.html|>
-## ABUS Mechanical 700 Series Lock Off Hasps
-
 <|https://www.mydiy.ie/products/abus-mechanical-702-lock-off-hasp-15in.html|>
 ## ABUS Mechanical 702 Lock Off Hasp 1.5in
-
-<|https://www.mydiy.ie/products/abus-mechanical-702-lock-off-hasp-15in.html|>
-## ABUS Mechanical 702 Lock Off Hasp 1.5in
-
-<|https://www.mydiy.ie/products/abus-mechanical-70al-series-aluminium-padlocks.html|>
-## ABUS Mechanical 70AL Series Aluminium Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-70al-series-aluminium-padlocks.html|>
 ## ABUS Mechanical 70AL Series Aluminium Padlocks
@@ -500,17 +244,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-70ib-series-aquasafe-all-weather-padlocks.html|>
 ## ABUS Mechanical 70IB Series Aquasafe All Weather Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-70ib-series-aquasafe-all-weather-padlocks.html|>
-## ABUS Mechanical 70IB Series Aquasafe All Weather Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-72-series-aluminium-padlock-long-shackle.html|>
 ## ABUS Mechanical 72 Series Aluminium Padlock Long Shackle
-
-<|https://www.mydiy.ie/products/abus-mechanical-72-series-aluminium-padlock-long-shackle.html|>
-## ABUS Mechanical 72 Series Aluminium Padlock Long Shackle
-
-<|https://www.mydiy.ie/products/abus-mechanical-72-series-aluminium-padlock.html|>
-## ABUS Mechanical 72 Series Aluminium Padlock
 
 <|https://www.mydiy.ie/products/abus-mechanical-72-series-aluminium-padlock.html|>
 ## ABUS Mechanical 72 Series Aluminium Padlock
@@ -518,17 +253,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-752-aluminium-lockout-hasp-big-38mm-15in.html|>
 ## ABUS Mechanical 752 Aluminium Lockout Hasp Big 38mm (1.5in)
 
-<|https://www.mydiy.ie/products/abus-mechanical-752-aluminium-lockout-hasp-big-38mm-15in.html|>
-## ABUS Mechanical 752 Aluminium Lockout Hasp Big 38mm (1.5in)
-
 <|https://www.mydiy.ie/products/abus-mechanical-78-series-combination-padlocks.html|>
 ## ABUS Mechanical 78 Series Combination Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-78-series-combination-padlocks.html|>
-## ABUS Mechanical 78 Series Combination Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-787-big-led-wall-mounted-keygarage.html|>
-## ABUS Mechanical 787 BIG LED Wall-Mounted KeyGarage™
 
 <|https://www.mydiy.ie/products/abus-mechanical-787-big-led-wall-mounted-keygarage.html|>
 ## ABUS Mechanical 787 BIG LED Wall-Mounted KeyGarage™
@@ -536,17 +262,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-787-led-wall-mounted-keygarage.html|>
 ## ABUS Mechanical 787 LED Wall-Mounted KeyGarage™
 
-<|https://www.mydiy.ie/products/abus-mechanical-787-led-wall-mounted-keygarage.html|>
-## ABUS Mechanical 787 LED Wall-Mounted KeyGarage™
-
 <|https://www.mydiy.ie/products/abus-mechanical-787-wall-mounted-key-garage-46331.html|>
 ## ABUS Mechanical 787 Wall-Mounted Key Garage 46331
-
-<|https://www.mydiy.ie/products/abus-mechanical-787-wall-mounted-key-garage-46331.html|>
-## ABUS Mechanical 787 Wall-Mounted Key Garage 46331
-
-<|https://www.mydiy.ie/products/abus-mechanical-80ti-40mm-long-shackle-titalium-padlocks.html|>
-## ABUS Mechanical 80TI 40mm Long Shackle Titalium Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-80ti-40mm-long-shackle-titalium-padlocks.html|>
 ## ABUS Mechanical 80TI 40mm Long Shackle Titalium Padlocks
@@ -554,17 +271,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-80ti-40mm-titalium-padlocks.html|>
 ## ABUS Mechanical 80TI 40mm Titalium Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-80ti-40mm-titalium-padlocks.html|>
-## ABUS Mechanical 80TI 40mm Titalium Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-80ti-50mm-titalium-padlocks.html|>
 ## ABUS Mechanical 80TI 50mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-80ti-50mm-titalium-padlocks.html|>
-## ABUS Mechanical 80TI 50mm Titalium Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-80ti-60mm-titalium-padlocks.html|>
-## ABUS Mechanical 80TI 60mm Titalium Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-80ti-60mm-titalium-padlocks.html|>
 ## ABUS Mechanical 80TI 60mm Titalium Padlocks
@@ -572,17 +280,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-80ti40455060-key-blank-57862.html|>
 ## ABUS Mechanical 80TI/40+45+50+60 Key Blank 57862
 
-<|https://www.mydiy.ie/products/abus-mechanical-80ti40455060-key-blank-57862.html|>
-## ABUS Mechanical 80TI/40+45+50+60 Key Blank 57862
-
 <|https://www.mydiy.ie/products/abus-mechanical-80ti45-titalium-padlock-45mm-carded.html|>
 ## ABUS Mechanical 80TI/45 Titalium Padlock 45mm Carded
-
-<|https://www.mydiy.ie/products/abus-mechanical-80ti45-titalium-padlock-45mm-carded.html|>
-## ABUS Mechanical 80TI/45 Titalium Padlock 45mm Carded
-
-<|https://www.mydiy.ie/products/abus-mechanical-8263-monoblock-shutter-padlocks.html|>
-## ABUS Mechanical 82/63 Monoblock Shutter Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-8263-monoblock-shutter-padlocks.html|>
 ## ABUS Mechanical 82/63 Monoblock Shutter Padlocks
@@ -590,17 +289,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-8270-monoblock-shutter-padlocks.html|>
 ## ABUS Mechanical 82/70 Monoblock Shutter Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-8270-monoblock-shutter-padlocks.html|>
-## ABUS Mechanical 82/70 Monoblock Shutter Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-8290-monoblock-shutter-padlocks.html|>
 ## ABUS Mechanical 82/90 Monoblock Shutter Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-8290-monoblock-shutter-padlocks.html|>
-## ABUS Mechanical 82/90 Monoblock Shutter Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-82ti70-titalium-shutter-lock.html|>
-## ABUS Mechanical 82Ti/70 Titalium Shutter Lock
 
 <|https://www.mydiy.ie/products/abus-mechanical-82ti70-titalium-shutter-lock.html|>
 ## ABUS Mechanical 82Ti/70 Titalium Shutter Lock
@@ -608,17 +298,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-83-series-brass-body-padlocks.html|>
 ## ABUS Mechanical 83 Series Brass Body Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-83-series-brass-body-padlocks.html|>
-## ABUS Mechanical 83 Series Brass Body Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-8350-chrome-plated-brass-padlock-open-shackle.html|>
 ## ABUS Mechanical 83/50 Chrome Plated Brass Padlock Open Shackle
-
-<|https://www.mydiy.ie/products/abus-mechanical-8350-chrome-plated-brass-padlock-open-shackle.html|>
-## ABUS Mechanical 83/50 Chrome Plated Brass Padlock Open Shackle
-
-<|https://www.mydiy.ie/products/abus-mechanical-8355-rock-through-hardened-steel-padlock-closed-shackle.html|>
-## ABUS Mechanical 83/55 Rock Through Hardened Steel Padlock Closed Shackle
 
 <|https://www.mydiy.ie/products/abus-mechanical-8355-rock-through-hardened-steel-padlock-closed-shackle.html|>
 ## ABUS Mechanical 83/55 Rock Through Hardened Steel Padlock Closed Shackle
@@ -626,17 +307,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-8355-rock-through-hardened-steel-padlock-open-shackle.html|>
 ## ABUS Mechanical 83/55 Rock Through Hardened Steel Padlock Open Shackle
 
-<|https://www.mydiy.ie/products/abus-mechanical-8355-rock-through-hardened-steel-padlock-open-shackle.html|>
-## ABUS Mechanical 83/55 Rock Through Hardened Steel Padlock Open Shackle
-
 <|https://www.mydiy.ie/products/abus-mechanical-83wp-extreme-weatherproof-padlocks-closed-shackle.html|>
 ## ABUS Mechanical 83WP Extreme Weatherproof Padlocks Closed Shackle
-
-<|https://www.mydiy.ie/products/abus-mechanical-83wp-extreme-weatherproof-padlocks-closed-shackle.html|>
-## ABUS Mechanical 83WP Extreme Weatherproof Padlocks Closed Shackle
-
-<|https://www.mydiy.ie/products/abus-mechanical-83wp-extreme-weatherproof-padlocks-open-shackle.html|>
-## ABUS Mechanical 83WP Extreme Weatherproof Padlocks Open Shackle
 
 <|https://www.mydiy.ie/products/abus-mechanical-83wp-extreme-weatherproof-padlocks-open-shackle.html|>
 ## ABUS Mechanical 83WP Extreme Weatherproof Padlocks Open Shackle
@@ -644,17 +316,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-83wp-ib-submariner-brass-body-stainless-steel-shackle-padlock.html|>
 ## ABUS Mechanical 83WP IB Submariner Brass Body Stainless Steel Shackle Padlock
 
-<|https://www.mydiy.ie/products/abus-mechanical-83wp-ib-submariner-brass-body-stainless-steel-shackle-padlock.html|>
-## ABUS Mechanical 83WP IB Submariner Brass Body Stainless Steel Shackle Padlock
-
 <|https://www.mydiy.ie/products/abus-mechanical-8440-40mm-r-key-blank.html|>
 ## ABUS Mechanical 84/40 40mm R Key Blank
-
-<|https://www.mydiy.ie/products/abus-mechanical-8440-40mm-r-key-blank.html|>
-## ABUS Mechanical 84/40 40mm R Key Blank
-
-<|https://www.mydiy.ie/products/abus-mechanical-85-series-key-blanks.html|>
-## ABUS Mechanical 85 Series Key Blanks
 
 <|https://www.mydiy.ie/products/abus-mechanical-85-series-key-blanks.html|>
 ## ABUS Mechanical 85 Series Key Blanks
@@ -662,17 +325,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-8530-30mm-brass-padlock-carded.html|>
 ## ABUS Mechanical 85/30 30mm Brass Padlock Carded
 
-<|https://www.mydiy.ie/products/abus-mechanical-8530-30mm-brass-padlock-carded.html|>
-## ABUS Mechanical 85/30 30mm Brass Padlock Carded
-
 <|https://www.mydiy.ie/products/abus-mechanical-8540-40mm-brass-padlocks.html|>
 ## ABUS Mechanical 85/40 40mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-8540-40mm-brass-padlocks.html|>
-## ABUS Mechanical 85/40 40mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-8550-50mm-brass-padlocks.html|>
-## ABUS Mechanical 85/50 50mm Brass Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-8550-50mm-brass-padlocks.html|>
 ## ABUS Mechanical 85/50 50mm Brass Padlocks
@@ -680,17 +334,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-8560-60mm-brass-padlocks.html|>
 ## ABUS Mechanical 85/60 60mm Brass Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-8560-60mm-brass-padlocks.html|>
-## ABUS Mechanical 85/60 60mm Brass Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-8570-70mm-brass-padlocks.html|>
 ## ABUS Mechanical 85/70 70mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-8570-70mm-brass-padlocks.html|>
-## ABUS Mechanical 85/70 70mm Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-86642-van-lock-set.html|>
-## ABUS Mechanical 86642 Van Lock Set
 
 <|https://www.mydiy.ie/products/abus-mechanical-86642-van-lock-set.html|>
 ## ABUS Mechanical 86642 Van Lock Set
@@ -698,17 +343,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-86ti-padlocks.html|>
 ## ABUS Mechanical 86TI Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-86ti-padlocks.html|>
-## ABUS Mechanical 86TI Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-88-series-brass-padlocks.html|>
 ## ABUS Mechanical 88 Series Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-88-series-brass-padlocks.html|>
-## ABUS Mechanical 88 Series Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-900-34hb-u72-w72-key-blank-26436.html|>
-## ABUS Mechanical 900-34hb U72-w72 Key Blank 26436
 
 <|https://www.mydiy.ie/products/abus-mechanical-900-34hb-u72-w72-key-blank-26436.html|>
 ## ABUS Mechanical 900-34hb U72-w72 Key Blank 26436
@@ -716,17 +352,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-90rk-titalium-padlocks.html|>
 ## ABUS Mechanical 90RK Titalium Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-90rk-titalium-padlocks.html|>
-## ABUS Mechanical 90RK Titalium Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-90rk50-key-blank-6-pin.html|>
 ## ABUS Mechanical 90RK/50 Key Blank (6 Pin)
-
-<|https://www.mydiy.ie/products/abus-mechanical-90rk50-key-blank-6-pin.html|>
-## ABUS Mechanical 90RK/50 Key Blank (6 Pin)
-
-<|https://www.mydiy.ie/products/abus-mechanical-9280-monoblock-shutter-padlocks.html|>
-## ABUS Mechanical 92/80 Monoblock Shutter Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-9280-monoblock-shutter-padlocks.html|>
 ## ABUS Mechanical 92/80 Monoblock Shutter Padlocks
@@ -734,17 +361,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-950100-steel-o-flex-cable-lock-25mm-x-100cm.html|>
 ## ABUS Mechanical 950/100 Steel-O-Flex Cable Lock 25mm x 100cm
 
-<|https://www.mydiy.ie/products/abus-mechanical-950100-steel-o-flex-cable-lock-25mm-x-100cm.html|>
-## ABUS Mechanical 950/100 Steel-O-Flex Cable Lock 25mm x 100cm
-
 <|https://www.mydiy.ie/products/abus-mechanical-ac4223-overhead-door-closer-silver.html|>
 ## ABUS Mechanical AC4223 Overhead Door Closer Silver
-
-<|https://www.mydiy.ie/products/abus-mechanical-ac4223-overhead-door-closer-silver.html|>
-## ABUS Mechanical AC4223 Overhead Door Closer Silver
-
-<|https://www.mydiy.ie/products/abus-mechanical-ac7023-overhead-door-closer-silver.html|>
-## ABUS Mechanical AC7023 Overhead Door Closer Silver
 
 <|https://www.mydiy.ie/products/abus-mechanical-ac7023-overhead-door-closer-silver.html|>
 ## ABUS Mechanical AC7023 Overhead Door Closer Silver
@@ -752,17 +370,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-ac7124-overhead-door-closer-silver.html|>
 ## ABUS Mechanical AC7124 Overhead Door Closer Silver
 
-<|https://www.mydiy.ie/products/abus-mechanical-ac7124-overhead-door-closer-silver.html|>
-## ABUS Mechanical AC7124 Overhead Door Closer Silver
-
 <|https://www.mydiy.ie/products/abus-mechanical-ac7303-overhead-door-closer-silver.html|>
 ## ABUS Mechanical AC7303 Overhead Door Closer Silver
-
-<|https://www.mydiy.ie/products/abus-mechanical-ac7303-overhead-door-closer-silver.html|>
-## ABUS Mechanical AC7303 Overhead Door Closer Silver
-
-<|https://www.mydiy.ie/products/abus-mechanical-chain-attachment-set-for-30-50-mm-padlock.html|>
-## ABUS Mechanical Chain Attachment Set For 30-50 mm Padlock
 
 <|https://www.mydiy.ie/products/abus-mechanical-chain-attachment-set-for-30-50-mm-padlock.html|>
 ## ABUS Mechanical Chain Attachment Set For 30-50 mm Padlock
@@ -770,17 +379,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-cobra-loop-cables.html|>
 ## ABUS Mechanical Cobra Loop Cables
 
-<|https://www.mydiy.ie/products/abus-mechanical-cobra-loop-cables.html|>
-## ABUS Mechanical Cobra Loop Cables
-
 <|https://www.mydiy.ie/products/abus-mechanical-e60-key-blank.html|>
 ## ABUS Mechanical E60 Key Blank
-
-<|https://www.mydiy.ie/products/abus-mechanical-e60-key-blank.html|>
-## ABUS Mechanical E60 Key Blank
-
-<|https://www.mydiy.ie/products/abus-mechanical-e60np-euro-profile-double-cylinder.html|>
-## ABUS Mechanical E60NP Euro Profile Double Cylinder
 
 <|https://www.mydiy.ie/products/abus-mechanical-e60np-euro-profile-double-cylinder.html|>
 ## ABUS Mechanical E60NP Euro Profile Double Cylinder
@@ -788,17 +388,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-e60np-euro-profile-half-cylinders.html|>
 ## ABUS Mechanical E60NP Euro Profile Half Cylinders
 
-<|https://www.mydiy.ie/products/abus-mechanical-e60np-euro-profile-half-cylinders.html|>
-## ABUS Mechanical E60NP Euro Profile Half Cylinders
-
 <|https://www.mydiy.ie/products/abus-mechanical-integral-van-lock-white-141200--2370-with-70mm-series-23-diskus-padlock.html|>
 ## ABUS Mechanical Integral Van Lock White 141/200 + 23/70 with 70mm Series 23 Diskus Padlock
-
-<|https://www.mydiy.ie/products/abus-mechanical-integral-van-lock-white-141200--2370-with-70mm-series-23-diskus-padlock.html|>
-## ABUS Mechanical Integral Van Lock White 141/200 + 23/70 with 70mm Series 23 Diskus Padlock
-
-<|https://www.mydiy.ie/products/abus-mechanical-ke60np-euro-profile-thumbturn-cylinder.html|>
-## ABUS Mechanical KE60NP Euro Profile Thumbturn Cylinder
 
 <|https://www.mydiy.ie/products/abus-mechanical-ke60np-euro-profile-thumbturn-cylinder.html|>
 ## ABUS Mechanical KE60NP Euro Profile Thumbturn Cylinder
@@ -806,17 +397,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-key-blank-x-plus-led-------------35754.html|>
 ## ABUS Mechanical Key Blank X-Plus (Led) 35754
 
-<|https://www.mydiy.ie/products/abus-mechanical-key-blank-x-plus-led-------------35754.html|>
-## ABUS Mechanical Key Blank X-Plus (Led) 35754
-
 <|https://www.mydiy.ie/products/abus-mechanical-keygarage-707.html|>
 ## ABUS Mechanical KeyGarage™ 707
-
-<|https://www.mydiy.ie/products/abus-mechanical-keygarage-707.html|>
-## ABUS Mechanical KeyGarage™ 707
-
-<|https://www.mydiy.ie/products/abus-mechanical-master-key-only-for-158kc45-ap050-combination-padlock.html|>
-## ABUS Mechanical Master Key Only For 158KC/45 AP050 Combination Padlock
 
 <|https://www.mydiy.ie/products/abus-mechanical-master-key-only-for-158kc45-ap050-combination-padlock.html|>
 ## ABUS Mechanical Master Key Only For 158KC/45 AP050 Combination Padlock
@@ -824,17 +406,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-plus-key-blank.html|>
 ## ABUS Mechanical Plus Key Blank
 
-<|https://www.mydiy.ie/products/abus-mechanical-plus-key-blank.html|>
-## ABUS Mechanical Plus Key Blank
-
 <|https://www.mydiy.ie/products/abus-mechanical-silver-rock-5-padlock.html|>
 ## ABUS Mechanical Silver Rock™ 5 Padlock
-
-<|https://www.mydiy.ie/products/abus-mechanical-silver-rock-5-padlock.html|>
-## ABUS Mechanical Silver Rock™ 5 Padlock
-
-<|https://www.mydiy.ie/products/abus-mechanical-standard-cable-lockout.html|>
-## ABUS Mechanical Standard Cable Lockout
 
 <|https://www.mydiy.ie/products/abus-mechanical-standard-cable-lockout.html|>
 ## ABUS Mechanical Standard Cable Lockout
@@ -842,17 +415,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-t65al-series-aluminium-coloured-padlocks.html|>
 ## ABUS Mechanical T65AL Series Aluminium Coloured Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-t65al-series-aluminium-coloured-padlocks.html|>
-## ABUS Mechanical T65AL Series Aluminium Coloured Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-t8440-40mm-left-hand-key-blank-08682.html|>
 ## ABUS Mechanical T84/40 40mm Left Hand Key Blank 08682
-
-<|https://www.mydiy.ie/products/abus-mechanical-t8440-40mm-left-hand-key-blank-08682.html|>
-## ABUS Mechanical T84/40 40mm Left Hand Key Blank 08682
-
-<|https://www.mydiy.ie/products/abus-mechanical-t84mb20-rustproof-brass-padlocks.html|>
-## ABUS Mechanical T84MB/20 Rustproof Brass Padlocks
 
 <|https://www.mydiy.ie/products/abus-mechanical-t84mb20-rustproof-brass-padlocks.html|>
 ## ABUS Mechanical T84MB/20 Rustproof Brass Padlocks
@@ -860,17 +424,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-t84mb30-rustproof-brass-padlocks.html|>
 ## ABUS Mechanical T84MB/30 Rustproof Brass Padlocks
 
-<|https://www.mydiy.ie/products/abus-mechanical-t84mb30-rustproof-brass-padlocks.html|>
-## ABUS Mechanical T84MB/30 Rustproof Brass Padlocks
-
 <|https://www.mydiy.ie/products/abus-mechanical-t84mb40-rustproof-brass-padlocks.html|>
 ## ABUS Mechanical T84MB/40 Rustproof Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-t84mb40-rustproof-brass-padlocks.html|>
-## ABUS Mechanical T84MB/40 Rustproof Brass Padlocks
-
-<|https://www.mydiy.ie/products/abus-mechanical-wba-100-granit-wall-anchor-carded.html|>
-## ABUS Mechanical WBA 100 Granit Wall Anchor Carded
 
 <|https://www.mydiy.ie/products/abus-mechanical-wba-100-granit-wall-anchor-carded.html|>
 ## ABUS Mechanical WBA 100 Granit Wall Anchor Carded
@@ -878,17 +433,8 @@
 <|https://www.mydiy.ie/products/abus-mechanical-wba75-granit-wallfloor-anchor.html|>
 ## ABUS Mechanical WBA75 GRANIT™ Wall/Floor Anchor
 
-<|https://www.mydiy.ie/products/abus-mechanical-wba75-granit-wallfloor-anchor.html|>
-## ABUS Mechanical WBA75 GRANIT™ Wall/Floor Anchor
-
 <|https://www.mydiy.ie/products/abus-mechanical-x-plus-key-blank-23211.html|>
 ## ABUS Mechanical X Plus Key Blank 23211
-
-<|https://www.mydiy.ie/products/abus-mechanical-x-plus-key-blank-23211.html|>
-## ABUS Mechanical X Plus Key Blank 23211
-
-<|https://www.mydiy.ie/products/arctic-hayes-smoke-alarm-tester-spray-140ml.html|>
-## Arctic Hayes Smoke Alarm Tester Spray 140ml
 
 <|https://www.mydiy.ie/products/arctic-hayes-smoke-alarm-tester-spray-140ml.html|>
 ## Arctic Hayes Smoke Alarm Tester Spray 140ml
@@ -896,17 +442,8 @@
 <|https://www.mydiy.ie/products/armd-guard-smart-van-alarm-and-tracker.html|>
 ## ARMD GUARD Smart Van Alarm & Tracker
 
-<|https://www.mydiy.ie/products/armd-guard-smart-van-alarm-and-tracker.html|>
-## ARMD GUARD Smart Van Alarm & Tracker
-
 <|https://www.mydiy.ie/products/basta-63-mm-internal-sash-lock-brass.html|>
 ## BASTA 63 MM INTERNAL SASH LOCK BRASS
-
-<|https://www.mydiy.ie/products/basta-63-mm-internal-sash-lock-brass.html|>
-## BASTA 63 MM INTERNAL SASH LOCK BRASS
-
-<|https://www.mydiy.ie/products/basta-belair-sashlock-furniture-chrome.html|>
-## BASTA BELAIR SASHLOCK FURNITURE CHROME
 
 <|https://www.mydiy.ie/products/basta-belair-sashlock-furniture-chrome.html|>
 ## BASTA BELAIR SASHLOCK FURNITURE CHROME
@@ -914,341 +451,50 @@
 <|https://www.mydiy.ie/products/bicycle-cable-lock-25-x-1000mm.html|>
 ## Bicycle cable lock 25 x 1000mm
 
-<|https://www.mydiy.ie/products/bicycle-cable-lock-25-x-1000mm.html|>
-## Bicycle cable lock 25 x 1000mm
-
-{
-  "price": "€19.99 inc VAT (€16.25 exc.vat)",
-  "description": "This is a German Made Bike Lock\n\n- Universally applicable for bicycles, motorcycles, gates etc.\n- With 2 high quality keys\n- Very strong metal wire\n\n\\* Flexible & durable\n\n\\* weather resistant\n\n- Colors: black, red, blue (mix)\n\nStrength of the wire: 25mm\nLength of the cable: 1000mm\nThis is a German Made Bike Lock.",
-  "availability": "In Stock",
-  "product_name": "Bicycle cable lock 25 x 1000mm",
-  "specifications": [
-    "Universally applicable for bicycles, motorcycles, gates etc.",
-    "With 2 high quality keys",
-    "Very strong metal wire",
-    "Flexible & durable",
-    "Weather resistant",
-    "Colors: black, red, blue (mix)",
-    "Strength of the wire: 25mm",
-    "Length of the cable: 1000mm"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/bluespot-tools-square-link-chain.html|>
 ## BlueSpot Tools Square Link Chain
-
-<|https://www.mydiy.ie/products/bluespot-tools-square-link-chain.html|>
-## BlueSpot Tools Square Link Chain
-
-{
-  "price": "€11.97 inc VAT",
-  "description": "The BlueSpot Square Link Chains are manufactured from hardened steel with a nylon sheath for protection and increased durability. Suitable for domestic and industrial use, the square profile also makes it harder to use bolt cutters on the chain itself.",
-  "availability": "In Stock",
-  "product_name": "BlueSpot Tools Square Link Chain",
-  "specifications": [
-    "Manufactured from hardened steel",
-    "Nylon sheath for protection",
-    "Suitable for domestic and industrial use",
-    "Square profile makes it harder to cut with bolt cutters"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/bod-barrier-fencing-1m-x-50m-orange.html|>
 ## BOD Barrier Fencing 1m x 50m Orange
 
-<|https://www.mydiy.ie/products/bod-barrier-fencing-1m-x-50m-orange.html|>
-## BOD Barrier Fencing 1m x 50m Orange
-
-{
-  "price": "€42.72 inc VAT (€34.73 exc.vat)",
-  "description": "Suitable for temporary fencing. Ideal for use on construction sites, outdoor events etc. Highly visible.",
-  "availability": "In Stock",
-  "product_name": "BOD Barrier Fencing 1m x 50m Orange",
-  "specifications": [
-    "Size: 1m x 50m",
-    "Color: Orange",
-    "Material: Plastic"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/cigarette-bin.html|>
 ## Cigarette bin
-
-<|https://www.mydiy.ie/products/cigarette-bin.html|>
-## Cigarette bin
-
-{
-  "price": "€39.99 inc VAT (€32.51 exc.vat)",
-  "description": "Wall mounting, Removable collection box, Powder coated galvanised steel",
-  "availability": "In Stock",
-  "product_name": "Cigarette bin",
-  "specifications": [
-    "Finish: Black",
-    "Height: 320mm",
-    "Width: 255mm",
-    "Depth: 75mm"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/defender-all-terrain-weatherseal-padlocks.html|>
 ## DEFENDER All Terrain Weatherseal Padlocks
 
-<|https://www.mydiy.ie/products/defender-all-terrain-weatherseal-padlocks.html|>
-## DEFENDER All Terrain Weatherseal Padlocks
-
-{
-  "price": "€10.17 inc VAT",
-  "description": "The DEFENDER range of Covered Laminated Padlocks provide both security and weather protection. The padlocks use a 5-pin cylinder to provide extra key security, plus a hardened steel shackle, utilising a double locking mechanism, to provide extra resistance to physical attack. The all-weather covering is designed to be provide protection in areas where the elements are particularly aggressive. Ideal for Sheds and Garages. Currently available in 2 sizes to meet most needs, with option to have Keyed Alike suites for extra convenience. Comes complete with 2 keys and a 2 year guarantee.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER All Terrain Weatherseal Padlocks",
-  "specifications": [
-    "Available in 40mm and 50mm sizes",
-    "5-pin cylinder for extra key security",
-    "Hardened steel shackle",
-    "Double locking mechanism",
-    "All-weather covering for protection",
-    "Includes 2 keys",
-    "2 year guarantee"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/defender-aluminium-padlocks.html|>
 ## DEFENDER Aluminium Padlocks
-
-<|https://www.mydiy.ie/products/defender-aluminium-padlocks.html|>
-## DEFENDER Aluminium Padlocks
-
-{
-  "price": "€4.01 inc VAT",
-  "description": "DEFENDER by SQUIRE Aluminium Padlocks with a hardened steel shackle. Comes with a 2 year guarantee.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER Aluminium Padlocks",
-  "specifications": [
-    "Keyed Alike Long Shackle 40mm",
-    "Keyed Alike Quad Pack Standard Shackle 40mm",
-    "Keyed Alike Standard Shackle 50mm",
-    "Keyed Alike Twin Pack Standard Shackle 40mm",
-    "Long Shackle 40mm",
-    "Standard Shackle 30mm",
-    "Standard Shackle 40mm",
-    "Standard Shackle 50mm",
-    "Standard Shackle Keyed Alike 30mm",
-    "Standard Shackle Keyed Alike 40mm"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/defender-armoured-warehouse-block-padlocks.html|>
 ## DEFENDER Armoured Warehouse Block Padlocks
 
-<|https://www.mydiy.ie/products/defender-armoured-warehouse-block-padlocks.html|>
-## DEFENDER Armoured Warehouse Block Padlocks
-
-{
-  "price": "€28.91 inc VAT",
-  "description": "The DEFENDER Armoured Warehouse padlocks provide extra protection by restricting the amount of shackle exposed and therefore not allowing the use of bolt croppers. The shackles are hardened to provide extra reassurance. The padlocks use a 5-pin cylinder to provide extra key security. Designed for use with Roller Shutters, but can also be used on standard hasps and staples. Currently available in 2 sizes to meet most needs, with option to have Keyed Alike suites for extra convenience. Comes complete with 2 keys and a 2 year guarantee.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER Armoured Warehouse Block Padlocks",
-  "specifications": [
-    "Available in 60mm and 80mm sizes",
-    "5-pin cylinder for extra key security",
-    "Hardened shackles for extra protection",
-    "Includes 2 keys",
-    "2 year guarantee"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/defender-brass-padlocks.html|>
 ## DEFENDER Brass Padlocks
-
-<|https://www.mydiy.ie/products/defender-brass-padlocks.html|>
-## DEFENDER Brass Padlocks
-
-{
-  "price": "€9.99 inc VAT (€8.12 exc.vat)",
-  "description": "The DEFENDER range of Brass Padlocks give protection against an opportunist attack. The range includes sizes from 20mm to 60mm with standard clearance shackles and a 40mm long shackle version. 30mm and upwards have Double Locking Hardened Steel Shackles. 40mm and upwards have 5-pin Cylinders. All sizes are available with a Keyed Alike option for extra convenience. Comes complete with 2 keys and a 2 year guarantee.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER Brass Padlocks",
-  "specifications": [
-    "Sizes available: 20mm to 60mm",
-    "Double Locking Hardened Steel Shackles for 30mm and upwards",
-    "5-pin Cylinders for 40mm and upwards",
-    "Keyed Alike option available",
-    "Comes with 2 keys",
-    "2 year guarantee"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/defender-discus-padlock.html|>
 ## DEFENDER Discus Padlock
 
-<|https://www.mydiy.ie/products/defender-discus-padlock.html|>
-## DEFENDER Discus Padlock
-
-{
-  "price": "€12.63 inc VAT",
-  "description": "The DEFENDER Discus Padlocks provide extra protection by restricting the amount of shackle exposed and therefore not allowing the use of bolt croppers. The shackles are hardened to provide extra reassurance. The padlocks use a 5-pin cylinder to provide extra key security. Can be used with standard hasps and staples and designed for use on Sheds and Garages where extra piece of mind is required. Currently available in 2 sizes to meet most needs, with option to have Keyed Alike suites for extra convenience. Comes complete with 2 keys and a 2 year guarantee.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER Discus Padlock",
-  "specifications": [
-    "70mm size",
-    "Keyed Alike option available",
-    "5-pin cylinder for extra key security",
-    "Hardened shackles for extra protection",
-    "Includes 2 keys",
-    "2 year guarantee"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/defender-diskus-combination-padlock-70mm.html|>
 ## DEFENDER Diskus Combination Padlock 70mm
-
-<|https://www.mydiy.ie/products/defender-diskus-combination-padlock-70mm.html|>
-## DEFENDER Diskus Combination Padlock 70mm
-
-{
-  "price": "€9.09 inc VAT (€7.39 exc.vat)",
-  "description": "The DEFENDER Diskus Combination Padlock has a stainless steel body and a hardened steel shackle. The design provide extra protection by restricting the amount of shackle exposed and therefore not allowing the use of bolt croppers. Combinations are resettable and allow protection without the need to carry a key, so overcome the issue of lost keys. Utilises a 4-wheel mechanism which provides 10,000 possible combinations. Comes complete with a 5 year guarantee.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER Diskus Combination Padlock 70mm",
-  "specifications": [
-    "Stainless steel body",
-    "Hardened steel shackle",
-    "Resettable combinations",
-    "4-wheel mechanism with 10,000 combinations",
-    "5 year guarantee"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/defender-hasp-and-staple-120mm.html|>
 ## DEFENDER Hasp & Staple 120mm
 
-<|https://www.mydiy.ie/products/defender-hasp-and-staple-120mm.html|>
-## DEFENDER Hasp & Staple 120mm
-
-{
-  "price": "€4.83 inc VAT (€3.93 exc.vat)",
-  "description": "The DEFENDER Hasp & Staple has been designed specifically for use with any DEFENDER padlock. Made of steel with an anti-corrosion black finish. It offers a cost-effective security solution for sheds, gates and outdoor applications. Length: 120mm.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER Hasp & Staple 120mm",
-  "specifications": [
-    "Length: 120mm",
-    "Material: Steel",
-    "Finish: Anti-corrosion black"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/defender-laminated-steel-padlocks.html|>
 ## DEFENDER Laminated Steel Padlocks
-
-<|https://www.mydiy.ie/products/defender-laminated-steel-padlocks.html|>
-## DEFENDER Laminated Steel Padlocks
-
-{
-  "price": "€6.85 inc VAT",
-  "description": "The DEFENDER range of Laminated Steel Padlocks provide a higher level of protection than a brass padlock. The padlocks use a 5-pin cylinder to provide extra key security, plus a hardened steel shackle, utilising a double locking mechanism, to provide extra resistance to physical attack. Designed to be used with standard hasps and staples on Sheds and Garages. Currently available in 2 sizes to meet most needs, with option to have Keyed Alike suites for extra convenience. Comes complete with 2 keys and a 2 year guarantee.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER Laminated Steel Padlocks",
-  "specifications": [
-    "Available in 40mm and 50mm sizes",
-    "5-pin cylinder for extra key security",
-    "Hardened steel shackle",
-    "Double locking mechanism",
-    "Includes 2 keys",
-    "2 year guarantee"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/defender-tsa-combination-padlock-30mm.html|>
 ## DEFENDER TSA Combination Padlock 30mm
 
-<|https://www.mydiy.ie/products/defender-tsa-combination-padlock-30mm.html|>
-## DEFENDER TSA Combination Padlock 30mm
-
-{
-  "price": "€6.61 inc VAT (€5.37 exc.vat)",
-  "description": "DEFENDER TSA approved die-cast padlocks, designed for use in airports to aid Transport Security Administration (TSA) screeners. For security reasons they may open and inspect luggage and will forcibly remove locks that are not TSA compliant. At USA airports the use is effectively compulsory if you want your luggage to remain secure. Uses a 3-wheel combination mechanism for convenience and offers 1,000 differs.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER TSA Combination Padlock 30mm",
-  "specifications": [
-    "TSA approved die-cast padlock",
-    "3-wheel combination mechanism",
-    "1,000 differs"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/defender-tsa-padlock-twinpack-20mm.html|>
 ## DEFENDER TSA Padlock Twinpack 20mm
-
-<|https://www.mydiy.ie/products/defender-tsa-padlock-twinpack-20mm.html|>
-## DEFENDER TSA Padlock Twinpack 20mm
-
-{
-  "price": "€7.64 inc VAT (€6.21 exc.vat)",
-  "description": "DEFENDER TSA approved die-cast padlocks, designed for use in airports to aid Transport Security Administration (TSA) screeners. For security reasons they may open and inspect luggage and will forcibly remove locks that are not TSA compliant. At USA airports the use is effectively compulsory if you want your luggage to remain secure. Comes with 2 padlocks and 2 keys and are Keyed Alike for convenience.",
-  "availability": "In Stock",
-  "product_name": "DEFENDER TSA Padlock Twinpack 20mm",
-  "specifications": [
-    "TSA approved",
-    "Die-cast material",
-    "Includes 2 padlocks and 2 keys",
-    "Keyed Alike for convenience"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/deta-vimark-bell-push-with-black-and-white-covers.html|>
 ## Deta Vimark Bell Push with Black and White Covers
 
-<|https://www.mydiy.ie/products/deta-vimark-bell-push-with-black-and-white-covers.html|>
-## Deta Vimark Bell Push with Black and White Covers
-
-{
-  "price": "€12.08 inc VAT (€9.82 exc.vat)",
-  "description": "Deta Vimark Bell Push is supplied with two covers, 1 x black and 1 x white, offering flexibility to suit the installation. For use with a wired 240V mains voltage door chime.",
-  "availability": "In Stock",
-  "product_name": "Deta Vimark Bell Push with Black and White Covers",
-  "specifications": [
-    "Supplied with two covers (black and white)",
-    "For use with wired 240V mains voltage door chime"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/deta-vimark-wired-door-bell-chime-and-push-kit.html|>
 ## Deta Vimark Wired Door Bell Chime and Push Kit
-
-<|https://www.mydiy.ie/products/deta-vimark-wired-door-bell-chime-and-push-kit.html|>
-## Deta Vimark Wired Door Bell Chime and Push Kit
-
-{
-  "price": "€30.53 inc VAT (€24.82 exc.vat)",
-  "description": "Deta Vimark Wired Door Bell Chime and Push Kit with a mechanical two tone sounder. The bell push is supplied with two covers, 1 x black and 1 x white, offering flexibility to suit the installation. Suitable for 240V mains voltage. Comes with a 2-year guarantee.",
-  "availability": "In Stock",
-  "product_name": "Deta Vimark Wired Door Bell Chime and Push Kit",
-  "specifications": [
-    "Mechanical two tone sounder",
-    "Supplied with two covers (black and white)",
-    "Suitable for 240V mains voltage",
-    "2-year guarantee"
-  ],
-  "product_category": "Security"
-}
-
-<|https://www.mydiy.ie/products/faithfull-1-metre-chain-and-padlock.html|>
-## Faithfull 1 Metre Chain & Padlock
 
 <|https://www.mydiy.ie/products/faithfull-1-metre-chain-and-padlock.html|>
 ## Faithfull 1 Metre Chain & Padlock
@@ -1256,17 +502,8 @@
 <|https://www.mydiy.ie/products/faithfull-brass-combination-padlock.html|>
 ## Faithfull Brass Combination Padlock
 
-<|https://www.mydiy.ie/products/faithfull-brass-combination-padlock.html|>
-## Faithfull Brass Combination Padlock
-
 <|https://www.mydiy.ie/products/faithfull-brass-padlocks.html|>
 ## Faithfull Brass Padlocks
-
-<|https://www.mydiy.ie/products/faithfull-brass-padlocks.html|>
-## Faithfull Brass Padlocks
-
-<|https://www.mydiy.ie/products/faithfull-laminated-padlock-steels.html|>
-## Faithfull Laminated Padlock Steels
 
 <|https://www.mydiy.ie/products/faithfull-laminated-padlock-steels.html|>
 ## Faithfull Laminated Padlock Steels
@@ -1274,163 +511,26 @@
 <|https://www.mydiy.ie/products/faithfull-orange-barrier-fencing-1m-x-50m.html|>
 ## Faithfull Orange Barrier Fencing 1m x 50m
 
-<|https://www.mydiy.ie/products/faithfull-orange-barrier-fencing-1m-x-50m.html|>
-## Faithfull Orange Barrier Fencing 1m x 50m
-
-{
-  "price": "€56.67 inc VAT (€46.07 exc.vat)",
-  "description": "Faithfull Barrier Fencing is a temporary, flexible fencing for fast erection and visibility. Made from durable polypropylene. Its bright orange colour is highly visible. Used widely on construction sites and anywhere that requires demarcation areas.",
-  "availability": "In Stock",
-  "product_name": "Faithfull Orange Barrier Fencing 1m x 50m",
-  "specifications": [
-    "Width: 1m",
-    "Length: 50m"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/faithfull-portable-water-leak-alarm-80db.html|>
 ## Faithfull Portable Water Leak Alarm (80db)
-
-<|https://www.mydiy.ie/products/faithfull-portable-water-leak-alarm-80db.html|>
-## Faithfull Portable Water Leak Alarm (80db)
-
-{
-  "price": "€4.99 inc VAT (€4.06 exc.vat)",
-  "description": "Water leaks can cause serious damage to your home and belongings, proving expensive and time consuming to replace or repair. This Faithfull portable alarm can be used to protect your house and can be placed anywhere in the home where a water leak presents a potential risk; near to sinks, baths, toilets, washing machines, dishwashers, water heaters, refrigerators, aquariums, tanks, sump pumps and in garages and basements or low areas were water may gather with the potential of causing damage. A loud 80 decibel alarm will sound when this unit is in contact with water, providing an audible warning that a leak has begun and alerting the homeowner, so that preventative measures can be taken to protect their home and belongings. Features: Portable and easy to set up and use. Loud 80 decibel alarm. No wiring required. 1 x 12V 23A alkaline battery included. Placement: Place the unit in a desired position with its buzzer hole facing upwards, otherwise water may enter into the unit. When a water leak is detected by the sensor, the unit's alarm will sound.",
-  "availability": "In Stock",
-  "product_name": "Faithfull Portable Water Leak Alarm (80db)",
-  "specifications": [
-    "Portable and easy to set up and use",
-    "Loud 80 decibel alarm",
-    "No wiring required",
-    "1 x 12V 23A alkaline battery included"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/faithfull-power-plus-pir-securitylights-240v.html|>
 ## Faithfull Power Plus PIR Security Lights 240V
 
-<|https://www.mydiy.ie/products/faithfull-power-plus-pir-securitylights-240v.html|>
-## Faithfull Power Plus PIR Security Lights 240V
-
-{
-  "price": "€18.43 inc VAT",
-  "description": "These Faithfull Power Plus Security Lights are suitable for mounting on exterior walls. They are ideal as an intruder deterrent or welcoming light. The PIR sensor, with a range of 9m, is adjustable from 6 seconds to approximately 12 minutes. The IP65 rated slim style lamp head has an impact resistant lens. Each lamp has a sturdy mounting bracket with a 'tilt and lock' facility.",
-  "availability": "In Stock",
-  "product_name": "Faithfull Power Plus PIR Security Lights 240V",
-  "specifications": [
-    "10W 800 Lumen",
-    "30W 2400 Lumen"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/faithfull-pvc-coated-brass-padlock-50mm.html|>
 ## Faithfull PVC Coated Brass Padlock 50mm
-
-<|https://www.mydiy.ie/products/faithfull-pvc-coated-brass-padlock-50mm.html|>
-## Faithfull PVC Coated Brass Padlock 50mm
-
-{
-  "price": "€24.17 inc VAT (€19.65 exc.vat)",
-  "description": "The Faithfull PVC Coated Brass Padlock has a brass body with a weatherproof PVC coating. The shackle is made from hardened steel. The padlock has an 8 pin tumbler lock mechanism, is double locking and has a self locking action. Supplied complete with 3 keys. More than 10,000 key differs.",
-  "availability": "In Stock",
-  "product_name": "Faithfull PVC Coated Brass Padlock 50mm",
-  "specifications": [
-    "Size: 50mm",
-    "Internal Width: 21.5mm",
-    "Internal Height: 21.5mm",
-    "Shackle Diameter: 8.8mm",
-    "Security Level: 7"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/faithfull-shutter-padlock-brass.html|>
 ## Faithfull Shutter Padlock Brass
 
-<|https://www.mydiy.ie/products/faithfull-shutter-padlock-brass.html|>
-## Faithfull Shutter Padlock Brass
-
-{
-  "price": "from €15.42 inc VAT",
-  "description": "The Faithfull Brass Shutter Padlocks can be used in a variety of situations and are ideal for security shutters, gates and bollards. The padlock has a brass body with stainless steel armoured casing. Its rotating shackle is made from hardened steel and is self-locking. It has a 6-pin security cylinder. Supplied complete with 3 keys.",
-  "availability": "In Stock",
-  "product_name": "Faithfull Shutter Padlock Brass",
-  "specifications": [
-    "Available sizes: 60mm, 80mm",
-    "Brass body with stainless steel armoured casing",
-    "Hardened steel rotating shackle",
-    "Self-locking mechanism",
-    "6-pin security cylinder",
-    "Supplied with 3 keys"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/faithfull-stainless-steel-discus-padlock-70mm.html|>
 ## Faithfull Stainless Steel Discus Padlock 70mm
-
-<|https://www.mydiy.ie/products/faithfull-stainless-steel-discus-padlock-70mm.html|>
-## Faithfull Stainless Steel Discus Padlock 70mm
-
-{
-  "price": "€12.80 inc VAT (€10.41 exc.vat)",
-  "description": "This Faithfull Discus Padlock has a waterproof, anti-corrosion stainless body and a hardened steel shackle. It has a 5 pin brass tumbler lock mechanism and is supplied complete with 3 keys.",
-  "availability": "In Stock",
-  "product_name": "Faithfull Stainless Steel Discus Padlock 70mm",
-  "specifications": [
-    "Size: 70mm",
-    "Internal Width: 21mm",
-    "Internal Height: 16mm",
-    "Shackle Diameter: 10mm",
-    "Security Level: 9"
-  ],
-  "product_category": "Security"
-}
-
-
 
 <|https://www.mydiy.ie/products/talatools-heavy-duty-brass-padlock.html|>
 ## TALAtools Heavy-Duty Brass Padlock
 
-<|https://www.mydiy.ie/products/talatools-heavy-duty-brass-padlock.html|>
-## TALAtools Heavy-Duty Brass Padlock
-
-{
-  "price": "€4.44 inc VAT",
-  "description": "Solid brass body, Hardened shackle, Multi-pin tumbler, Supplied with 3 zinc-coated brass keys",
-  "availability": "In Stock",
-  "product_name": "TALAtools Heavy-Duty Brass Padlock",
-  "specifications": [
-    "30mm",
-    "40mm",
-    "50mm"
-  ],
-  "product_category": "Security"
-}
-
 <|https://www.mydiy.ie/products/talatools-laminated-padlock-50mm.html|>
 ## TALAtools Laminated Padlock 50mm
-
-<|https://www.mydiy.ie/products/talatools-laminated-padlock-50mm.html|>
-## TALAtools Laminated Padlock 50mm
-
-{
-  "price": "€5.28 inc VAT (€4.29 exc.vat)",
-  "description": "Laminated steel body, Hardened steel shackle, Protective bumper, Provides a high level of security",
-  "availability": "In Stock",
-  "product_name": "TALAtools Laminated Padlock 50mm",
-  "specifications": [
-    "Laminated steel body",
-    "Hardened steel shackle",
-    "Protective bumper",
-    "Provides a high level of security"
-  ],
-  "product_category": "Security"
-}
 
 <|https://www.mydiy.ie/products/flexovit-hook-and-loop-sanding-block-kit-assorted-70-x-125mm-3.html|>
 ## Flexovit Hook & Loop Sanding Block Kit Assorted 70 x 125mm (3)

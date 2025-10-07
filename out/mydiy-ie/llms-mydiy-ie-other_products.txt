@@ -1,37 +1,8 @@
 <|https://www.mydiy.ie/products/britool-expert-socket-and-accessory-set-of-22-metric-12in-drive.html|>
 ## Britool Expert Socket & Accessory Set of 22 Metric 1/2in Drive
 
-<|https://www.mydiy.ie/products/britool-expert-socket-and-accessory-set-of-22-metric-12in-drive.html|>
-## Britool Expert Socket & Accessory Set of 22 Metric 1/2in Drive
-
 <|https://www.mydiy.ie/products/dewalt-dck2050e2t-xr-bl-powerstack-twin-kit-18v.html|>
 ## DEWALT DCK2050E2T XR BL POWERSTACK™ Twin Kit 18V
-
-<|https://www.mydiy.ie/products/dewalt-dck2050e2t-xr-bl-powerstack-twin-kit-18v.html|>
-## DEWALT DCK2050E2T XR BL POWERSTACK™ Twin Kit 18V
-
-{
-  "price": "€480.73 inc VAT (€390.84 exc.vat)",
-  "description": "The DEWALT DCK2050E2T XR Brushless POWERSTACK™ Twin Kit contains the following: 1 x 18V DCD805E2T XR Brushless G3 Combi with an ultra-compact, lightweight design for use in confined spaces. An enhanced pivoting LED positioned on the foot offers greater visibility in dark and confined spaces. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint and work with all DEWALT 18V XR tools. Chuck: 13mm No Load Speed: 0-650/2,000/min. Impact Rate: 34,000/bpm Max. Torque: 90Nm Capacity: Steel 13mm, Masonry 13mm, Wood 55mm Weight: 1.3kg 1 x DCF850 XR Brushless Impact Driver with a 3 mode switch for enhanced control. POWERSTACK™ batteries deliver 50% more power with a 25% smaller footprint and work with all DEWALT 18V XR tools. Bit Holder: 6.35mm (1/4in) No Load Speed: 0-1,000/2,800/3,250/min. Impact Rate: 3,800/bpm Max. Torque: 205Nm Weight: 0.9kg 2 x 18V 2.0Ah Li-ion XR POWERSTACK™ Slide Batteries. 25% smaller and 15% lighter than the DEWALT DCB183 18V XR 2.0Ah battery, making it easier to use in tight workspaces. Stacked pouch cell battery technology provides a low impedance construction, meaning that the rate of flow of electrons is much higher thanks to the innovative internal pouch battery connectors and electrodes, providing a greater surface area vs a traditional cylindrical battery cell type. It also benefits from superior thermal performance vs cylindrical batteries. This increases battery durability, improves the cycle life and results. Also comes with 1 x TSTAK™ Kitbox.",
-  "availability": "In Stock",
-  "product_name": "DEWALT DCK2050E2T XR BL POWERSTACK™ Twin Kit 18V",
-  "specifications": [
-    "Chuck: 13mm",
-    "No Load Speed: 0-650/2,000/min.",
-    "Impact Rate: 34,000/bpm",
-    "Max. Torque: 90Nm",
-    "Capacity: Steel 13mm, Masonry 13mm, Wood 55mm",
-    "Weight: 1.3kg",
-    "Bit Holder: 6.35mm (1/4in)",
-    "No Load Speed: 0-1,000/2,800/3,250/min.",
-    "Impact Rate: 3,800/bpm",
-    "Max. Torque: 205Nm",
-    "Weight: 0.9kg",
-    "2 x 18V 2.0Ah Li-ion XR POWERSTACK™ Slide Batteries"
-  ]
-}
-
-
 
 <|https://www.mydiy.ie/products/fiskars-solid-telescopic-loppers.html|>
 ## Fiskars Solidâ„¢ Telescopic Loppers
