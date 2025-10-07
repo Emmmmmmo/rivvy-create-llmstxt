@@ -1,0 +1,708 @@
+<|https://www.mydiy.ie/products/tillex-double-plug-clips.html|>
+## tillex® Double Plug Clips
+
+{
+  "price": "€18.82 inc VAT",
+  "description": "tillex® Double Plug Clips for installing round lead on flat surfaces. Quick and easy fixing drill a hole with 5.5-6mm drill bit, mount plugs clip and hit the nail in. Suitable for brick and concrete. Plastmaterial: Impact resistant, UV-stabilized polypropylene, halogen free. Nail: hardened steel, mechanically zinc plated (10 µm). Corrosion Class C4 provides a high level of outdoor protection.",
+  "availability": "In Stock",
+  "product_name": "tillex® Double Plug Clips",
+  "specifications": [
+    "Select Option: 14-18 Grey 2.5 x 40mm Box",
+    "6014-18 White 2.5 x 40mm Box",
+    "6018-22 Grey 2.5 x 45mm Box",
+    "4018-22 White 2.5 x 45mm Box"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-drill-clips-round.html|>
+## tillex® Drill Clips, Round
+
+{
+  "price": "€23.49 inc VAT",
+  "description": "tillex® Drill Clips with screw for round lead. Its screw has a drill shaped tip that allows it to mount directly in sheet metal, max. 2.0mm, without having to drill a pilot hole. Plastmaterial: High impact elastic polypropylene. Halogen free and UV-stabilized. Screw: Corrosion Class C4 provides a high level of outdoor protection. Can be installed both indoors and outdoors. Recommended Speed: 1500-2500/rpm.",
+  "availability": "In Stock",
+  "product_name": "tillex® Drill Clips, Round",
+  "specifications": [
+    "Plastmaterial: High impact elastic polypropylene",
+    "Halogen free and UV-stabilized",
+    "Screw: Corrosion Class C4",
+    "Recommended Speed: 1500-2500/rpm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-flat-cable-clips.html|>
+## tillex® Flat Cable Clips
+
+{
+  "price": "from €5.44 inc VAT",
+  "description": "tillex® Cable Clips for installing flat leads. Suitable for use in most materials. Use with tillex® plugs for cable clips when working in concrete, lightweight concrete and brick use it together. Plastmaterial: Impact resistant, UV-stabilised polypropylene. Halogen free. Nail: hardened steel, mechanically zinc plated (10 µm) Corrosion Class C4 provides a high level of outdoor protection.",
+  "availability": "In Stock",
+  "product_name": "tillex® Flat Cable Clips",
+  "specifications": [
+    "Select Option: 11x22 White 2.5 x 30mm Box 100",
+    "14x28 White 2.5 x 40mm Box 50",
+    "2x4 Clear 1.2 x 16mm Box 100",
+    "4x6 Clear 1.2 x 20mm Box 100",
+    "5x8 White 2.0 x 25mm Box 100",
+    "6x10 Grey 2.0 x 25mm Box 100",
+    "6x10 White 2.0 x 25mm Box 100",
+    "7x14 Grey 2.0 x 25mm Box 100",
+    "7x14 White 2.0 x 25mm Box 100",
+    "9x18 Grey 2.0 x 30mm Box 100",
+    "9x18 White 2.0 x 30mm Box 100"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-groove-clips-grey-20mm-box-80.html|>
+## tillex® Groove Clips Grey 20mm Box 80
+
+{
+  "price": "€15.29 inc VAT (€12.43 exc.vat)",
+  "description": "tillex® Groove Clips for round leads and flexible conduits. They are made of impact resistant, UV-stabilized polypropylene, halogen free. For fast and easy mounting of cables and flexible conduits into walls, without use of any tools. Easy to remove, leaves no damage in the wall. No rust through the wall as plastic does not rust! Suitable for 20mm flexible conduits and pipes.",
+  "availability": "In Stock",
+  "product_name": "tillex® Groove Clips Grey 20mm Box 80",
+  "specifications": [
+    "Made of impact resistant, UV-stabilized polypropylene",
+    "Halogen free",
+    "Suitable for 20mm flexible conduits and pipes",
+    "Easy to mount without tools",
+    "Leaves no damage in the wall"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-plug-clips.html|>
+## tillex® Plug Clips
+
+{
+  "price": "€15.15 inc VAT",
+  "description": "tillex® Plug Clips for installing round lead on flat surfaces. Quick and easy fixing drill a hole with 5.5-6mm drill bit, mount plugs clip and hit the nail in. Suitable for brick and concrete. Plastmaterial: Impact resistant, UV-stabilised polypropylene. Halogen free. Nail: hardened steel, mechanically zinc plated (10 µm). Corrosion Class C4 provides a high level of outdoor protection.",
+  "availability": "In Stock",
+  "product_name": "tillex® Plug Clips",
+  "specifications": [
+    "Select Option: 10-14 White 2.0 x 35mm Box",
+    "18-22 White 2.5 x 40mm Box",
+    "508-12 White 2.0 x 35mm Box 100"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-plugs-for-cable-clips.html|>
+## tillex® Plugs for Cable Clips
+
+{
+  "price": "€5.30 inc VAT",
+  "description": "tillex® Plugs for installation of cable clips in concrete, stone, light-weight concrete, solid bricks and plasterboard. The plug expands when driving a nail in. Perfect for installing tillex® cable clips.",
+  "availability": "In Stock",
+  "product_name": "tillex® Plugs for Cable Clips",
+  "specifications": [
+    "Material: Polystyren",
+    "Impact resistant",
+    "Halogen free"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-round-cable-clips.html|>
+## tillex® Round Cable Clips
+
+{
+  "price": "from €4.10 inc VAT",
+  "description": "tillex® Cable clips for round lead are suitable for use in most materials. Use with tillex® plugs for cable clips when working in concrete, lightweight concrete and brick use it together. Plastmaterial: Impact resistant, UV-stabilised polypropylene. Halogen free. Nail: hardened steel, mechanically zinc plated (10 µm) Corrosion Class C4 provides a high level of outdoor protection.",
+  "availability": "In Stock",
+  "product_name": "tillex® Round Cable Clips",
+  "specifications": [
+    "Available in various sizes and colors",
+    "Impact resistant, UV-stabilised polypropylene",
+    "Hardened steel nail, mechanically zinc plated",
+    "Corrosion Class C4 for outdoor protection"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-screws-for-metal-clamps-ph2-x-33mm-box-100.html|>
+## tillex® Screws for Metal Clamps PH2 x 33mm Box 100
+
+{
+  "price": "€14.54 inc VAT (€11.82 exc.vat)",
+  "description": "tillex® Screws are made from durable steel. Corrosion Class C4. Use of plug is NOT needed. Mount the screw directly into concrete or brick in a pre-drilled 4 mm hole. The screw can also be mounted in double layer plasterboard. If screw against expectation 'goes over', mount using yellow plug (KP yellow) in the created hole. Can be installed both indoors and outdoors.",
+  "availability": "In Stock",
+  "product_name": "tillex® Screws for Metal Clamps PH2 x 33mm Box 100",
+  "specifications": [
+    "Size: PH2 x 33mm",
+    "Head Type: Pan",
+    "Pack Size: 100"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-stella-plugs.html|>
+## tillex® Stella Plugs
+
+{
+  "price": "€10.31 inc VAT",
+  "description": "tillex® Stella Plugs for fixing of heavy objects in plasterboard, chipboard, fibre boards and other boards used in cavity walls. Can withstand temperatures from –40ºC to +80ºC. Equally effective for insulated cavities. Will not damage the plasterboard. Fitted with an encapsulated metal nut for high strength. High load capacity. Easy fixing, requires no special tools. Only to be fixed with a torque controlled screwdriver or by hand. Material: High-quality recycled nylon. The screws are 4.8 steel, zinc-plated min. 5 µm. These screw plugs are protected by EU Design No 778.345.",
+  "availability": "In Stock",
+  "product_name": "tillex® Stella Plugs",
+  "specifications": [
+    "Can withstand temperatures from –40ºC to +80ºC",
+    "High load capacity",
+    "Easy fixing, requires no special tools",
+    "Material: High-quality recycled nylon",
+    "Screws are 4.8 steel, zinc-plated min. 5 µm",
+    "Protected by EU Design No 778.345"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-universal-collar-plugs.html|>
+## tillex® Universal Collar Plugs
+
+{
+  "price": "from €4.29 inc VAT",
+  "description": "tillex® Universal Collar Plugs are suitable for nearly all buildings materials. The collar prevents plug disappearing in the drill hole. This special design prevents rotation in the drill hole. Adapted for wood, self-tapping and chipboard screws. Material: 100% recycled Polyethylen (HDPE) Halogen-free.",
+  "availability": "In Stock",
+  "product_name": "tillex® Universal Collar Plugs",
+  "specifications": [
+    "Select Option: 10 x 60mm, Box 100; 5 x 30mm, Box 100; 6 x 35mm, Box 100; 8 x 50mm, Box 100",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/tillex-white-clamp-14-20mm-box-100.html|>
+## tillex® White Clamp 14-20mm Box 100
+
+{
+  "price": "€13.35 inc VAT (€10.85 exc.vat)",
+  "description": "tillex® White Clamps for round lead. When fastening to wood, use wood screws and for fastening to concrete and brick, use Tillex KP plugs and wood screws.",
+  "availability": "In Stock",
+  "product_name": "tillex® White Clamp 14-20mm Box 100",
+  "specifications": [
+    "TIL400130 : €13.35",
+    "QtyAdd to Basket",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/tracer-tracer-6pc-replacement-pencil-leads.html|>
+## TRACER TRACER 6PC REPLACEMENT PENCIL LEADS
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Replacement leads for the ADP2 Deep Hole Construction Pencil. Includes 4x 2B graphics leads for marking clear, dark lines, and 2x yellow wax leads for marking on darker surfaces. Supplied with a site holster for storing your spare leads as you work.",
+  "availability": "In Stock",
+  "product_name": "TRACER TRACER 6PC REPLACEMENT PENCIL LEADS",
+  "specifications": [
+    "Lead Length: 120 mm",
+    "Pack Quantity: x6 Pcs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/tracer-tracer-deep-hole-construction-pencil.html|>
+## TRACER TRACER DEEP HOLE CONSTRUCTION PENCIL
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "All-purpose, deep hole construction pencil with fully extendable lead. Marks up to 100mm deep in a 3mm width hole and up to 145mm deep in a 6mm width hole. Suitable for marking wood, plastic, ceramics, metal and most common materials. Includes Tracer site holster with inbuilt sharpener for maintaining precision.",
+  "availability": "In Stock",
+  "product_name": "TRACER TRACER DEEP HOLE CONSTRUCTION PENCIL",
+  "specifications": [
+    "Extendable Lead",
+    "Tracer Site Holster",
+    "Inbuilt Pencil Sharpener"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-12tc-profiler-191mm-dia-x191mm-cut.html|>
+## Trend 1/2Tc Profiler 19.1Mm Dia X19.1Mm Cut
+
+{
+  "price": "€48.56 inc VAT (€39.48 exc.vat)",
+  "description": "1/2Tc Profiler 19.1Mm Dia X19.1Mm Cut",
+  "availability": "In Stock",
+  "product_name": "Trend 1/2Tc Profiler 19.1Mm Dia X19.1Mm Cut",
+  "specifications": [
+    "TREC16512TC : €48.56",
+    "List: €53.37",
+    "You save €4.81"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-12tc-rounding-over-254mm-rad-x-32mm.html|>
+## Trend 1/2Tc Rounding Over 25.4Mm Rad X 32Mm
+
+{
+  "price": "€142.32 inc VAT (€115.71 exc.vat)",
+  "description": "1/2Tc Rounding Over 25.4Mm Rad X 32Mm",
+  "availability": "Out of Stock",
+  "product_name": "Trend 1/2Tc Rounding Over 25.4Mm Rad X 32Mm",
+  "specifications": [
+    "TREC079B12TC : €142.32",
+    "List: €156.39",
+    "You save €14.07"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-14tc-dovetail-127mm-diax104-deg-guide.html|>
+## Trend 1/4Tc Dovetail 12.7Mm Diax104 Deg Guide
+
+{
+  "price": "€32.47 inc VAT (€26.40 exc.vat)",
+  "description": "1/4Tc Dovetail 12.7Mm Diax104 Deg Guide",
+  "availability": "Out of Stock",
+  "product_name": "Trend 1/4Tc Dovetail 12.7Mm Diax104 Deg Guide",
+  "specifications": [
+    "TREC16214TC : €32.47",
+    "List: €35.68",
+    "You save €3.21"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-14tc-straight-127mm-dia-x-127mm-cut.html|>
+## Trend 1/4Tc Straight 12.7Mm Dia X 12.7Mm Cut
+
+{
+  "price": "€21.32 inc VAT (€17.33 exc.vat)",
+  "description": "1/4Tc Straight 12.7Mm Dia X 12.7Mm Cut",
+  "availability": "In Stock",
+  "product_name": "Trend 1/4Tc Straight 12.7Mm Dia X 12.7Mm Cut",
+  "specifications": [
+    "TREC12414TC : €21.32",
+    "List: €23.43",
+    "You save €2.11"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-375-x-12tc-router-bit.html|>
+## Trend 3/75 x 1/2TC Router Bit
+
+{
+  "price": "€80.98 inc VAT (€65.84 exc.vat)",
+  "description": "3/75 x 1/2TC Router Bit",
+  "availability": "Out of Stock",
+  "product_name": "Trend 3/75 x 1/2TC Router Bit",
+  "specifications": [
+    "TRE37512TC : €80.98",
+    "List: €89.00",
+    "You save €8.02"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-46103x12tc-bevel-cutter.html|>
+## Trend 46/103X1/2Tc Bevel Cutter
+
+{
+  "price": "€135.71 inc VAT (€110.33 exc.vat)",
+  "description": "46/103X1/2Tc Bevel Cutter",
+  "availability": "Out of Stock",
+  "product_name": "Trend 46/103X1/2Tc Bevel Cutter",
+  "specifications": [
+    "TRE4610312TC : €135.71",
+    "List: €149.14",
+    "You save €13.43"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-bearing-guided-3-undercut-router-bit.html|>
+## Trend Bearing Guided 3° Undercut Router Bit
+
+{
+  "price": "€126.95 inc VAT (€103.21 exc.vat)",
+  "description": "The Trend Craft Pro Bearing Guided 3° Undercut Router Bit has a shank-mounted bearing guide for routing a leading edge on doors to allow a tight fit against the jamb.",
+  "availability": "Out of Stock",
+  "product_name": "Trend Bearing Guided 3° Undercut Router Bit",
+  "specifications": [
+    "Cut Depth: 50mm",
+    "Overall Length: 100mm",
+    "Shank: 1/2in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-br01-12in-50mm-kitchen-worktop-cutter-display-30-cutters.html|>
+## Trend BR01 1/2in 50mm Kitchen Worktop Cutter Display (30 Cutters)
+
+{
+  "price": "€804.76 inc VAT (€654.28 exc.vat)",
+  "description": "The Trend Kitchen Worktop Cutter Display contains: 30 x BR01 1/2in 50mm Kitchen Worktop Cutters. Ideal for general purpose trimming & mortising. For use with Trend Worktop Jigs for cutting worktop joints, bolt recesses and sink/hob apertures in laminated chipboard and solid timber. Tungsten Carbide tipped 1.5mm micro-granular tips provide long cutter life. The ground tip face has been polished to 400-grit ensures accurate cutting. It also features ground bottom clearance for optimum waste removal. Safety K-Mark indicates the correct cutter shank position for maximum collet grip to prevent accidental cutter ejection. EN Shank Markings are etched on the shank for easily readable cutter and safety information.",
+  "availability": "In Stock",
+  "product_name": "Trend BR01 1/2in 50mm Kitchen Worktop Cutter Display (30 Cutters)",
+  "specifications": [
+    "30 x BR01 1/2in 50mm Kitchen Worktop Cutters",
+    "Tungsten Carbide tipped 1.5mm micro-granular tips",
+    "Ground tip face polished to 400-grit",
+    "Ground bottom clearance for optimum waste removal",
+    "Safety K-Mark for cutter shank position"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c001a-x-14-tc-two-flute-30mm-x-95mm.html|>
+## Trend C001A x 1/4 TC Two Flute 3.0mm x 9.5mm
+
+{
+  "price": "€22.52 inc VAT (€18.31 exc.vat)",
+  "description": "C001A x 1/4 TC Two Flute 3.0mm x 9.5mm",
+  "availability": "In Stock",
+  "product_name": "Trend C001A x 1/4 TC Two Flute 3.0mm x 9.5mm",
+  "specifications": [
+    "TREC001A14TC : €22.52",
+    "List: €24.76",
+    "You save €2.24"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c004-x-14-tc-two-flute-router-cutter.html|>
+## Trend C004 x 1/4 Tc Two Flute Router Cutter
+
+{
+  "price": "€28.40 inc VAT (€23.09 exc.vat)",
+  "description": "C004 x 1/4 Tc Two Flute Router Cutter",
+  "availability": "Out of Stock",
+  "product_name": "Trend C004 x 1/4 Tc Two Flute Router Cutter",
+  "specifications": [
+    "TREC00414TC : €28.40",
+    "List: €31.21",
+    "You save €2.81"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c011-x-14-tc-two-flute-router-cutter.html|>
+## Trend C011 x 1/4 Tc Two Flute Router Cutter
+
+{
+  "price": "€21.32 inc VAT (€17.33 exc.vat)",
+  "description": "C011 x 1/4 Tc Two Flute Router Cutter",
+  "availability": "In Stock",
+  "product_name": "Trend C011 x 1/4 Tc Two Flute Router Cutter",
+  "specifications": [
+    "TREC01114TC : €21.32",
+    "List: €23.43",
+    "You save €2.11"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c016cx14tc-two-flute-cutter-10mm-dia.html|>
+## Trend C016Cx1/4Tc Two Flute Cutter 10Mm Dia
+
+{
+  "price": "€31.99 inc VAT (€26.01 exc.vat)",
+  "description": "C016Cx1/4Tc Two Flute Cutter 10Mm Dia",
+  "availability": "In Stock",
+  "product_name": "Trend C016Cx1/4Tc Two Flute Cutter 10Mm Dia",
+  "specifications": [
+    "TREC016C14TC : €31.99",
+    "List: €35.15",
+    "You save €3.16"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c020-x-14-tc-two-flute-127mm.html|>
+## Trend C020 x 1/4 Tc Two Flute 12.7mm
+
+{
+  "price": "€27.48 inc VAT (€22.34 exc.vat)",
+  "description": "C020 x 1/4 Tc Two Flute 12.7mm",
+  "availability": "In Stock",
+  "product_name": "Trend C020 x 1/4 Tc Two Flute 12.7mm",
+  "specifications": [
+    "TREC02014TC : €27.48",
+    "List: €30.20",
+    "You save €2.72"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c021ax14tc-two-flute-cutter-1255mm-dia.html|>
+## Trend C021Ax1/4Tc Two Flute Cutter 12.55Mm Dia
+
+{
+  "price": "€28.71 inc VAT (€23.34 exc.vat)",
+  "description": "C021Ax1/4Tc Two Flute Cutter 12.55Mm Dia",
+  "availability": "In Stock",
+  "product_name": "Trend C021Ax1/4Tc Two Flute Cutter 12.55Mm Dia",
+  "specifications": [
+    "TREC021A14TC : €28.71",
+    "List: €31.54",
+    "You save €2.83"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c021x14tc-two-flute-cutter-127mm-dia.html|>
+## Trend C021X1/4Tc Two Flute Cutter 12.7Mm Dia
+
+{
+  "price": "€29.83 inc VAT (€24.25 exc.vat)",
+  "description": "C021X1/4Tc Two Flute Cutter 12.7Mm Dia",
+  "availability": "Out of Stock",
+  "product_name": "Trend C021X1/4Tc Two Flute Cutter 12.7Mm Dia",
+  "specifications": [
+    "TREC02114TC : €29.83",
+    "List: €32.78",
+    "You save €2.95"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c025-x-14-tc-two-flute-159mm-x-191mm.html|>
+## Trend C025 x 1/4 Tc Two Flute 15.9mm x 19.1mm
+
+{
+  "price": "€32.47 inc VAT (€26.40 exc.vat)",
+  "description": "C025 x 1/4 Tc Two Flute 15.9mm x 19.1mm",
+  "availability": "In Stock",
+  "product_name": "Trend C025 x 1/4 Tc Two Flute 15.9mm x 19.1mm",
+  "specifications": [
+    "TREC02514TC : €32.47",
+    "List: €35.68",
+    "You save €3.21"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c028a-x-14-tc-two-flute-180mm-x-25mm.html|>
+## Trend C028A x 1/4 TC Two Flute 18.0mm x 25mm
+
+{
+  "price": "€32.47 inc VAT (€26.40 exc.vat)",
+  "description": "C028A x 1/4 TC Two Flute 18.0mm x 25mm",
+  "availability": "Out of Stock",
+  "product_name": "Trend C028A x 1/4 TC Two Flute 18.0mm x 25mm",
+  "specifications": [
+    "TREC028A14TC : €32.47",
+    "List: €35.68",
+    "You save €3.21"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c056a-x-12-tc-radius-95mm-x-32mm.html|>
+## Trend C056A x 1/2 TC Radius 9.5mm x 32mm
+
+{
+  "price": "€61.09 inc VAT (€49.67 exc.vat)",
+  "description": "C056A x 1/2 TC Radius 9.5mm x 32mm",
+  "availability": "Out of Stock",
+  "product_name": "Trend C056A x 1/2 TC Radius 9.5mm x 32mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-c1533-kitchen-worktop-cutter-3-pack.html|>
+## Trend C153/3 Kitchen Worktop Cutter (3 Pack)
+
+{
+  "price": "€83.68 inc VAT (€68.03 exc.vat)",
+  "description": "The Trend C153/3 CraftPro Kitchen Worktop Cutter is suitable for a wide range of applications such as engraving, grooving, rebating and shallow morticing. Ideal for kitchen fitting, 50mm cutting length for worktops up to 40mm thick. With a 'K' marked shank for correct insertion depth, providing safer routing. It has premium Tungsten Carbide cutting edges, ideal for use in solid timber and abrasive chipboard core worktops. With a bottom cut feature for plunge cut, slotting and morticing applications. The two flutes have highly ground tip faces, for a superior cutting performance and chip clearance. Its PTFE coated body reduces friction, heat and resin build-up for a longer lifespan.",
+  "availability": "Out of Stock",
+  "product_name": "Trend C153/3 Kitchen Worktop Cutter (3 Pack)",
+  "specifications": [
+    "Diameter: 12.7mm",
+    "Cutting Depth: 50mm",
+    "Shank: 1/2in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-door-lift-swivel-type.html|>
+## Trend Door Lift Swivel Type
+
+{
+  "price": "€41.70 inc VAT (€33.90 exc.vat)",
+  "description": "Door Lift Swivel Type",
+  "availability": "Out of Stock",
+  "product_name": "Trend Door Lift Swivel Type",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-replacement-filtres-and-bags-for-t31a.html|>
+## Trend Replacement Filtres & Bags For T31A
+
+{
+  "price": "€50.57 inc VAT",
+  "description": "Replacement Filtres & Bags for the T31A Wet & Dry Vacuum.",
+  "availability": "In Stock",
+  "product_name": "Trend Replacement Filtres & Bags For T31A",
+  "specifications": [
+    "Select One - Cartridge Filter HEPA For T31A Vacuum"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-roundover-32mm-rad-x-95mm-cut.html|>
+## Trend Round/Over 3.2Mm Rad X 9.5Mm Cut
+
+{
+  "price": "€47.97 inc VAT (€39.00 exc.vat)",
+  "description": "Round/Over 3.2Mm Rad X 9.5Mm Cut",
+  "availability": "Out of Stock",
+  "product_name": "Trend Round/Over 3.2Mm Rad X 9.5Mm Cut",
+  "specifications": [
+    "TREC07414TC : €47.97",
+    "List: €54.66",
+    "You save €6.69"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-snappy-25mm-bit-holder-58mm.html|>
+## Trend Snappy 25Mm Bit Holder 58Mm
+
+{
+  "price": "€11.49 inc VAT (€9.34 exc.vat)",
+  "description": "Snappy 25Mm Bit Holder 58Mm",
+  "availability": "Out of Stock",
+  "product_name": "Trend Snappy 25Mm Bit Holder 58Mm",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-t18sms184s2-mitre-saw-18v-2-x-50ah-li-ion.html|>
+## Trend T18S/MS184S2 Mitre Saw 18V 2 x 5.0Ah Li-ion
+
+{
+  "price": "€554.57 inc VAT (€450.87 exc.vat)",
+  "description": "The Trend T18S/MS184S2 Mitre Saw has a high-performance motor, built for power and endurance. Ideal for carcassing and second fix work, perfect for studwork, floor joists, skirting and architraves. Fitted with a front-mounted laser that allows for accurate, quick alignment for faster cutting. Indented mitre positions, with pre-sets at 0, 15, 22.5 and 45° for fast, accurate mitring. There is also a trenching function for quick set trench stop for grooves and slots. Its compact, lightweight design makes it easily transportable from job to job. A deep fence provides maximum support for the workpiece, increasing safety. Slot-in extension bars support longer work on the infeed and outfeed. Supplied with: 1 x 48 Tooth TCT Blade, 2 x 18V 5.0Ah Li-ion Batteries and 1 x Fast Charger.",
+  "availability": "In Stock",
+  "product_name": "Trend T18S/MS184S2 Mitre Saw 18V 2 x 5.0Ah Li-ion",
+  "specifications": [
+    "No Load Speed: 3,600/min.",
+    "Saw Blade: 184 x 16mm bore x 48T",
+    "Mitre Angle: 47° to +47°",
+    "Bevel Angle: 1° to +46°",
+    "Capacity: 0/0°: 210 x 51mm, 45/0°: 155 x 51mm, 0/45°: 210 x 35mm, 45/45°: 155 x 35mm",
+    "Dust Spout Size: 35mm",
+    "Weight: 9.5kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-t32-micro-filter-bags-pack-5.html|>
+## Trend T32 Micro Filter Bags (Pack 5)
+
+{
+  "price": "€30.50 inc VAT (€24.80 exc.vat)",
+  "description": "Trend T32 Micro Filter Bag has multiple inner layers that collect coarse dust and dirt particles whilst protecting the outer layer from clogging. The bag material has a greater air-permeable structure when compared to paper filter bags, providing increased suction. For dry use only. Supplied as a pack of 5.",
+  "availability": "In Stock",
+  "product_name": "Trend T32 Micro Filter Bags (Pack 5)",
+  "specifications": [
+    "TRE32LFILTP5 : €30.50",
+    "Pack of 5",
+    "For dry use only",
+    "Increased suction compared to paper filter bags"
+  ]
+}
+
+<|https://www.mydiy.ie/products/trend-two-flute-12mm-dia-x-63mm--100mm-ol.html|>
+## Trend Two Flute 12Mm Dia X 63Mm 100Mm Ol
+
+{
+  "price": "€54.13 inc VAT (€44.01 exc.vat)",
+  "description": "Two Flute 12Mm Dia X 63Mm 100Mm Ol",
+  "availability": "Out of Stock",
+  "product_name": "Trend Two Flute 12Mm Dia X 63Mm 100Mm Ol",
+  "specifications": [
+    "TREC172M12TC : €54.13",
+    "List: €61.68",
+    "You save €7.55"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-industrial-power-mixer.html|>
+## Vitrex Industrial Power Mixer
+
+{
+  "price": "€216.85 inc VAT",
+  "description": "The Vitrex Power Mixer is ideal for mixing many substances, such as cement, plaster, grout, adhesives, fillers, paint and other mortars for construction. The mixer has a powerful high torque motor for efficient mixing and has variable speed for greater control. It features a safety on/off switch with lock-on function for continuous running. In addition, it has thermal overload protection for increased safety. The mixer has an ergonomic handle to minimise fatigue. It is supplied with a robust carry case for ease of transportation.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Industrial Power Mixer",
+  "specifications": [
+    "Mixing Paddle: 140mm, M14 Thread",
+    "Input Power: 240V: 1,600 Watt, 110V: 1,400 Watt",
+    "No Load Speed: 180-460/75-300/min",
+    "Mixing Capacity: 120 Litre",
+    "Weight: 7.25kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-lrs700-long-reach-drywall-sander-600-watt.html|>
+## Vitrex LRS700 Long Reach Drywall Sander 600 Watt
+
+{
+  "price": "€256.38 inc VAT",
+  "description": "The Vitrex LRS700 Long Reach Drywall Sander has a powerful motor that ensures efficient power is transferred to the sanding pad for smooth operation. It uses variable speed to ensure constant, even control. The extendable arm allows it to be used in a variety of locations. 110cm short reach for confined spaces and 165cm full working length for sanding walls and ceilings. It's robust drive system ensures a long service life and the brush segment easily detaches so the adjacent edges can be accessed. The double dust extraction system, brush outer ring and eight hole interval dust extraction, help keep the work area clean and free from debris. Also prevents clogging of the abrasive surface. Connect to a vacuum cleaner for full dust extraction. Folds easily into a storage case for easy transportation.",
+  "availability": "In Stock",
+  "product_name": "Vitrex LRS700 Long Reach Drywall Sander 600 Watt",
+  "specifications": [
+    "Input Power: 600 Watt",
+    "No Load Speed: 600-1,500/min",
+    "Length: 110-165cm",
+    "Pad Size: 225mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-power-mixer-1400-watts.html|>
+## Vitrex Power Mixer 1400 Watts
+
+{
+  "price": "€128.97 inc VAT",
+  "description": "The Vitrex MIX1400 Power Mixer is ideal for mixing cement, plaster, grout, adhesives, fillers, paint plus other mortars for construction. The mixer is lightweight for comfortable handling and carrying, and has 2 gears for high performance. The speed is electronically controlled, and is lockable for continuous operation.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Power Mixer 1400 Watts",
+  "specifications": [
+    "Mixing Paddle: 140mm, M14 Thread",
+    "Input Power: 1,400 Watt",
+    "No Load Speed: 300-700/min",
+    "Weight: 7.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-power-mixer-850-watts.html|>
+## Vitrex Power Mixer 850 Watts
+
+{
+  "price": "€107.86 inc VAT",
+  "description": "This Vitrex power mixer is ideal for mixing cement, plaster, grout and adhesives, fillers, paint plus other mortars for construction. The mixer is lightweight for comfortable handling and carrying, and has adjustable and lockable speed control for continuous operation. The metal handle acts as a rest when placing the mixer down, thus protecting the mixer head.",
+  "availability": "In Stock",
+  "product_name": "Vitrex Power Mixer 850 Watts",
+  "specifications": [
+    "Mixing Paddle: 120mm, M14 Thread",
+    "Input Power: 850 Watt",
+    "No Load Speed: 0–550/min",
+    "Weight: 3.9kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-control-pro-350-m-airless-sprayer-600w-240v.html|>
+## Wagner Control Pro 350 M Airless Sprayer 600W 240V
+
+{
+  "price": "€1,021.93 inc VAT (€830.84 exc.vat)",
+  "description": "Wagner Control Pro 350 M Airless Sprayer for all painting jobs, including medium to large objects. Equipped with high-efficiency airless technology, utilising reduced pressure and a new innovative nozzle, the Control Pro 350 M guarantees streak-free, perfect paint coverage. Suitable for all solvent and water-based paints, varnishes and wood preservatives, as well as emulsion and latex paints. Can be used, with up to 55% less over-spray compared with conventional Airless spraying. The high-quality airless gun is fitted with a two-finger trigger and 15m ultra-flexible hose for maximum operating comfort. Comes with a telescopic handle cart that saves space during transportation and storage, it's also easy to move around the workplace.",
+  "availability": "In Stock",
+  "product_name": "Wagner Control Pro 350 M Airless Sprayer 600W 240V",
+  "specifications": [
+    "Input Power: 600W",
+    "Max. Spraying Pressure: 110 bar",
+    "Surface Coverage: 15m² per 2 min.",
+    "Paint Delivery Rate: 1.5 L/min.",
+    "Tank Capacity: Direct Connection",
+    "Air Hose Length: 15m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/wagner-w-690-flexio-universal-sprayer-630w-240v.html|>
+## Wagner W 690 FLEXiO Universal Sprayer 630W 240V
+
+{
+  "price": "€225.40 inc VAT (€183.25 exc.vat)",
+  "description": "The Wagner W 690 FLEXiO Universal Sprayer uses FLEXiO technology and an X-Boost, high-powered turbine to provide complete paint coverage with a single coat. Enables standard paints to be sprayed without diluting. Supplied with a detachable gun, making it quick and easy to change the attachment, paint, refill or clean the gun. Patented I-SPRAY nozzle for extra-fine atomisation even with high-viscosity thick paints. Variable air flow and fully adjustable paint flow for precision painting.",
+  "availability": "In Stock",
+  "product_name": "Wagner W 690 FLEXiO Universal Sprayer 630W 240V",
+  "specifications": [
+    "Input Power: 630W",
+    "Atomisation Power: 200W",
+    "Paint Delivery Rate: 0-400ml/min.",
+    "Performance: 15m² in 6 min.",
+    "Air Hose Length: 3.5m"
+  ]
+}
+

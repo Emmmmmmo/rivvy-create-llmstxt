@@ -1025,46 +1025,140 @@ class AgnosticLLMsUpdater:
             logger.warning(f"   ⚠️  URL NOT FOUND in url_index!")
     
     def _write_shard_file(self, shard_key: str, urls: List[str]) -> List[str]:
-        """Write shard file with content from URLs."""
+        """Write shard file with content from URLs, automatically splitting if too large."""
         if not urls:
             return []
         
-        # Collect content for this shard
-        shard_content = []
-        total_chars = 0
+        # Read existing products from all shard files for this key (including splits)
+        existing_products = {}
+        base_pattern = f"llms-{self.site_name}-{shard_key}"
         
+        # Check for main file and any split files
+        import glob
+        shard_files = glob.glob(os.path.join(self.site_output_dir, f"{base_pattern}*.txt"))
+        
+        for filepath in shard_files:
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                # Parse existing products by URL marker
+                current_url = None
+                current_content = []
+                
+                for line in content.split('\n'):
+                    if line.startswith('<|') and line.endswith('|>'):
+                        # Save previous product if exists
+                        if current_url and current_content:
+                            existing_products[current_url] = '\n'.join(current_content)
+                        
+                        # Start new product
+                        current_url = line.strip()[2:-2]  # Extract URL from <|URL|>
+                        current_content = [line]
+                    elif current_url is not None:
+                        current_content.append(line)
+                
+                # Save last product
+                if current_url and current_content:
+                    existing_products[current_url] = '\n'.join(current_content)
+                
+            except Exception as e:
+                logger.warning(f"Failed to read existing shard file {filepath}: {e}")
+        
+        if existing_products:
+            logger.debug(f"Loaded {len(existing_products)} existing products from {len(shard_files)} file(s)")
+        
+        # Collect all products for this shard (existing + new from urls list)
+        all_products = {}
+        
+        # First, add all existing products
+        for url, content in existing_products.items():
+            all_products[url] = content
+        
+        # Then add/update products from the manifest URLs
         for url in urls:
             if url in self.url_index:
                 try:
                     content = self.url_index[url].get("markdown", "")
                     title = self.url_index[url].get("title", "Product")
                     
-                    # Add content with header
+                    # Build content with header
                     header = f"<|{url}|>\n## {title}\n\n"
-                    content_with_header = header + content + "\n\n"
+                    content_with_header = header + content
+                    
+                    all_products[url] = content_with_header
                 except KeyError as e:
                     logger.warning(f"Missing field in URL index for {url}: {e}")
                     continue
-                
-                # Check character limit
-                if total_chars + len(content_with_header) > self.max_characters:
-                    break
-                
-                shard_content.append(content_with_header)
-                total_chars += len(content_with_header)
         
-        if not shard_content:
+        if not all_products:
             return []
         
-        # Write to file
-        filename = f"llms-{self.site_name}-{shard_key}.txt"
-        filepath = os.path.join(self.site_output_dir, filename)
+        # Split products into chunks that fit within max_characters
+        chunks = []
+        current_chunk = []
+        current_chars = 0
         
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(''.join(shard_content))
+        for url in sorted(all_products.keys()):  # Sort for consistency
+            product_content = all_products[url]
+            if not product_content.endswith('\n\n'):
+                product_content += '\n\n'
+            
+            product_size = len(product_content)
+            
+            # If adding this product would exceed limit, start new chunk
+            if current_chars + product_size > self.max_characters and current_chunk:
+                chunks.append(current_chunk)
+                current_chunk = [product_content]
+                current_chars = product_size
+            else:
+                current_chunk.append(product_content)
+                current_chars += product_size
         
-        logger.info(f"Wrote shard file: {filename} ({total_chars} characters)")
-        return [filepath]
+        # Add final chunk
+        if current_chunk:
+            chunks.append(current_chunk)
+        
+        # Delete old shard files before writing new ones
+        for old_file in shard_files:
+            try:
+                os.remove(old_file)
+                logger.debug(f"Removed old shard file: {os.path.basename(old_file)}")
+            except Exception as e:
+                logger.warning(f"Failed to remove old file {old_file}: {e}")
+        
+        # Write chunks to files
+        written_files = []
+        
+        if len(chunks) == 1:
+            # Single file, no split needed
+            filename = f"llms-{self.site_name}-{shard_key}.txt"
+            filepath = os.path.join(self.site_output_dir, filename)
+            
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(''.join(chunks[0]))
+            
+            product_count = len(chunks[0])
+            char_count = sum(len(p) for p in chunks[0])
+            logger.info(f"Wrote shard file: {filename} ({product_count} products, {char_count} characters)")
+            written_files.append(filepath)
+        else:
+            # Multiple files needed
+            logger.info(f"Splitting shard '{shard_key}' into {len(chunks)} files ({len(all_products)} total products)")
+            
+            for i, chunk in enumerate(chunks, 1):
+                filename = f"llms-{self.site_name}-{shard_key}_{i}.txt"
+                filepath = os.path.join(self.site_output_dir, filename)
+                
+                with open(filepath, 'w', encoding='utf-8') as f:
+                    f.write(''.join(chunk))
+                
+                product_count = len(chunk)
+                char_count = sum(len(p) for p in chunk)
+                logger.info(f"  Wrote {filename} ({product_count} products, {char_count} characters)")
+                written_files.append(filepath)
+        
+        return written_files
 
     def _should_skip_existing(self, normalized_url: str) -> bool:
         """Return True if URL already scraped and refresh not forced."""
