@@ -1,11 +1,297 @@
 <|https://www.mydiy.ie/products/flex-power-tools-bp-msr-d30-cushioned-special-adhesive-pad-30mm.html|>
-## Flex Power Tools BP-M/SR D30 Cushioned Special Adhesive Pad 30mm
+## Product
+
+
+
+<|https://www.mydiy.ie/products/tillex-screws-for-metal-clamps-ph2-x-33mm-box-100.html|>
+## tillex® Screws for Metal Clamps PH2 x 33mm Box 100
 
 {
-  "price": "€150",
-  "description": "The Flex Power Tools BP-M/SR D30 Cushioned Special Adhesive Pad for spot disc grinding is soft with 5mm foam rubber. Due to the special pad mount, it can only be used with the PXE 80 10.8-EC Spot Polisher.",
+  "price": "€14.54 inc VAT (€11.82 exc.vat)",
+  "description": "tillex® Screws are made from durable steel. Corrosion Class C4. Use of plug is NOT needed. Mount the screw directly into concrete or brick in a pre-drilled 4 mm hole. The screw can also be mounted in double layer plasterboard. If screw against expectation 'goes over', mount using yellow plug (KP yellow) in the created hole. Can be installed both indoors and outdoors.",
   "availability": "In Stock",
-  "product_name": "Flex Power Tools BP-M/SR D30 Cushioned Special Adhesive Pad 30mm",
-  "specifications": []
+  "product_name": "tillex® Screws for Metal Clamps PH2 x 33mm Box 100",
+  "specifications": [
+    "Size: PH2 x 33mm",
+    "Head Type: Pan",
+    "Pack Size: 100"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rawlplug-rawlbolt-loose-bolt.html|>
+## Rawlplug Rawlbolt® Loose Bolt
+
+{
+  "price": "€10.10 inc VAT",
+  "description": "The Rawlplug Rawlbolt® Loose Bolt is suitable for use in cracked and non-cracked concrete (ETA option 1), hollowcore slabs, flooring blocks and ceramics. Recommended for applications requiring fire resistance. With a three-piece expanding sleeve of maximum expansion to provide optimal load and safety of use in any substrate. The world's most popular all-purpose expanding shield anchor, loose bolt version.",
+  "availability": "In Stock",
+  "product_name": "Rawlplug Rawlbolt® Loose Bolt",
+  "specifications": [
+    "Select Option: Rawlbolt M6/10L, Bag of 5",
+    "M10/10L Bag of 5",
+    "M10/25L Bag of 5",
+    "M10/75L Bag of 5",
+    "M8/25L Bag of 5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rawlplug-rawlbolt-eye-bolt.html|>
+## Rawlplug Rawlbolt® Eye Bolt
+
+{
+  "price": "€13.09 inc VAT",
+  "description": "The Rawlplug Rawlbolt® Eye Bolt has been designed and manufactured for maximum performance. With pressed steel segments for consistent dimensional accuracy and a forged eye for strength and safety in use. Suitable for securing guy ropes, stays, cables etc. The world's most popular all-purpose expanding shield anchor, eye bolt version.",
+  "availability": "In Stock",
+  "product_name": "Rawlplug Rawlbolt® Eye Bolt",
+  "specifications": [
+    "M12, Bag of 2",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/monument-173-stiffnuts-pro-kit-10-piece.html|>
+## Monument 173 Stiffnuts Pro Kit (10 Piece)
+
+{
+  "price": "€157.55 inc VAT (€128.09 exc.vat)",
+  "description": "Monument 173 has been especially designed for removing stiff backnuts from awkward placed taps and to make tap installation a more rapid process, this tool is for 1/2-inch. BSP and 3/4-inch. BSP taps. The Monument 170 tool stays in position on the tap tail so can be used with one hand and uses mechanical advantage of the thread of the tap tail to remove stiff nuts. Ideal for 1/2-inch and 3/4-inch BSP 25 mm 27 mm nuts 29 mm ribbed 32 mm nuts. The MON173 is complete with 3/8-inch cordless drill adaptor, 1/2-inch square drive, extension tube and full user instructions.",
+  "availability": "In Stock",
+  "product_name": "Monument 173 Stiffnuts Pro Kit (10 Piece)",
+  "specifications": [
+    "Designed for removing stiff backnuts from awkward placed taps",
+    "Ideal for 1/2-inch and 3/4-inch BSP taps",
+    "Includes 3/8-inch cordless drill adaptor",
+    "Includes 1/2-inch square drive and extension tube",
+    "Complete with full user instructions"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p124-door-push-bolts.html|>
+## Yale Locks P124 Door Push Bolts
+
+{
+  "price": "€24.26 inc VAT",
+  "description": "The Yale P124 door push bolts offer greater security and added protection to your home, they are surface fixed bolts suitable for both aluminium sliding doors and flush wooden doors, this lock offers additional security to internal and external doors.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P124 Door Push Bolts",
+  "specifications": [
+    "Brass Finish",
+    "VisiChrome Finish",
+    "VisiWhite Finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-non-slip-tile-adhesive-701.html|>
+## Everbuild Non Slip Tile Adhesive 701
+
+{
+  "price": "€15.55 inc VAT",
+  "description": "Everbuild Super Plus non-slip tile adhesive is a ready mixed buff adhesive paste for securing ceramic wall tiles and mosaics to most interior wall surfaces. The product is a blend of limestone fillers, clays and acrylic polymers with minor additives.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Non Slip Tile Adhesive 701",
+  "specifications": [
+    "Ready mixed formula - no missing, no mess. Apply straight from the tub.",
+    "Easier to apply than most competitive adhesives",
+    "Acrylic based - Excellent non-slip characteristics - no movement on a 300 x 200 standard large format wall tile",
+    "Extended open time",
+    "Extremely high bond strength - nearly 3 x the British Standard minimum requirement.",
+    "Areas for use: Kitchen/Bathroom walls, Shower areas when used in conjunction with Everbuild Powdered Wall Tile Grout"
+  ]
+}
+
+<|https://www.mydiy.ie/products/forgefix-forgefast-torx-compatible-elite-performance-wood-screws-tubs.html|>
+## Forgefix ForgeFast Torx® Compatible Elite Performance Wood Screws Tubs
+
+{
+  "price": "€19.99 inc VAT",
+  "description": "ForgeFast Pozi Elite Performance Woodscrew - YouTube\nForgeFix - Your Fixing Specialist\nForgeFast Wood Screws have a universally accepted, Torx® compatible drive. Their recessed ribs provide improved countersinking and reduced surface dust, and their reinforced countersunk necks improve holding power. The screws have a patented drill and drive thread for reduced splitting of the timber, reduced 'jacking' and spinning of joined timber, increased pull-out and a firmer fix. A sharp point provides faster bite and is capable of piercing 0.8mm steel. The screws have an 'Elementech 400' coating providing an anti-corrosive metal finish, which lasts up to 6 times longer than standard zinc coatings. The coating is environmentally friendly and does not contain Cr6+. It is Salt Spray tested to 400 hours. The screws are suitable for interior use. Every tub is supplied with a Torx® compatible bit.",
+  "availability": "In Stock",
+  "product_name": "Forgefix ForgeFast Torx® Compatible Elite Performance Wood Screws Tubs",
+  "specifications": [
+    "Available sizes: 4.0 x 30mm, 4.0 x 40mm, 4.0 x 50mm, 4.0 x 70mm, 5.0 x 100mm, 5.0 x 50mm, 5.0 x 60mm, 5.0 x 70mm, 5.0 x 80mm, 5.0 x 90mm",
+    "Torx® compatible drive",
+    "Elementech 400 anti-corrosive coating",
+    "Suitable for interior use",
+    "Includes Torx® compatible bit in every tub"
+  ]
+}
+
+<|https://www.mydiy.ie/products/krino-screw-extractor-set-5-piece.html|>
+## Krino Screw Extractor Set, 5 Piece
+
+{
+  "price": "€13.04 inc VAT (€10.60 exc.vat)",
+  "description": "Set of 5 Krino screw extractors for the extraction of screws with worn screwheads. Simply drill a pilot hole in the broken fixing and screw in the LH-threaded extractor for easy removal of broken screws and bolts. The set contains the following sizes: No. 2 (6-8mm), No.3 (8-11mm), No.4 (11-14mm), No.5 (14-18mm) and No.6 (18-24mm).",
+  "availability": "In Stock",
+  "product_name": "Krino Screw Extractor Set, 5 Piece",
+  "specifications": [
+    "Set of 5 screw extractors",
+    "Sizes: No. 2 (6-8mm), No.3 (8-11mm), No.4 (11-14mm), No.5 (14-18mm), No.6 (18-24mm)",
+    "LH-threaded extractor for easy removal of broken screws and bolts"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-pozi-torsion-double-ended-screw-bit-pz2-85mm-pack-of-3.html|>
+## Makita POZI Torsion Double Ended Screw Bit PZ2 85mm Pack of 3
+
+{
+  "price": "€9.88 inc VAT (€8.03 exc.vat)",
+  "description": "Steel construction\n\nFor continuous high torque fastening with impact drivers\n\nShock absorbing\n\nIdeal for self-drilling and long wood screws",
+  "availability": "In Stock",
+  "product_name": "Makita POZI Torsion Double Ended Screw Bit PZ2 85mm Pack of 3",
+  "specifications": [
+    "MAKB12790 : €9.88",
+    "QtyAdd to Basket"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasplugs-plasterboard-fixings-regular-duty.html|>
+## Plasplugs Plasterboard Fixings Regular Duty
+
+{
+  "price": "from €2.42 inc VAT",
+  "description": "Plasplug regular-duty, easy to use Plasterboard Fixings for general use in plasterboard. Typical applications: Plasterboard fixings, Curtain tie-backs, Lightweight wall hooks, Smoke alarms.",
+  "availability": "In Stock",
+  "product_name": "Plasplugs Plasterboard Fixings Regular Duty",
+  "specifications": [
+    "Drill size: 7mm",
+    "Screw size: No.8 (4.5mm)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/teng-se05-screw-extractor-set-5-piece.html|>
+## Teng SE05 Screw Extractor Set 5 Piece
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "This 5 piece set of Screw Extractors is supplied in a handy storage case. The extractors allow quick and easy extraction of broken screws, pipes and stud bolts. To fit drill sizes: 7/64 inch, 9/64 inch, 5/32 inch, 1/4 inch and 19/64in.",
+  "availability": "In Stock",
+  "product_name": "Teng SE05 Screw Extractor Set 5 Piece",
+  "specifications": [
+    "5 piece set",
+    "Includes handy storage case",
+    "Fits drill sizes: 7/64 inch, 9/64 inch, 5/32 inch, 1/4 inch and 19/64 inch"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p125-hinge-bolts.html|>
+## Yale Locks P125 Hinge Bolts
+
+{
+  "price": "€21.01 inc VAT",
+  "description": "The Yale P125 hinge bolts can not be seen from inside or outside so giving maximum security to your home and are ideal for outward opening doors. Automatically engage and disengage when opening and closing the door. Hinge bolts will resist hacksawing and attempts to remove the door from its frame and can be fitted in minutes, simply place x 2 per door just below hinges to secure the door from being removed.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P125 Hinge Bolts",
+  "specifications": [
+    "Select Option: Brass, Zinc",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: 16 days of delivery date",
+    "No quibble returns: Unwanted products must be unopened and in original condition"
+  ]
+}
+
+<|https://www.mydiy.ie/products/polyvine-cascamite-one-shot-adhesive.html|>
+## Polyvine Cascamite One Shot Adhesive
+
+{
+  "price": "from €7.24 inc VAT",
+  "description": "Cascamite is specially formulated for exterior joinery exposed to the weather. The powder system enables extremely good gap filling properties ensuring water does not enter the joint and produces the strongest bond. It attains bond strength very fast, enabling it to be used for load bearing and laminating. Use internally and externally where high bond strength/gap filling/water resistance is required. Ideal to use for: • exterior joinery • windows • doors • gates • garden furniture • boats • shopfitting • interior joinery • kitchens • worktops • bathrooms • veneering • laminating. Unique Qualities • clear glue line • non staining • gap filling • does not discolour hardwood • load bearing • makes 50% more when mixed • fast bond build up • mould resistant.",
+  "availability": "In Stock",
+  "product_name": "Polyvine Cascamite One Shot Adhesive",
+  "specifications": [
+    "Available in multiple sizes: 1.5Kg, 125g, 250g, 3Kg, 500g Tub",
+    "Fast bond build up",
+    "Mould resistant",
+    "Clear glue line",
+    "Non staining",
+    "Gap filling"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-pm444-door-security-bolts.html|>
+## Yale Locks PM444 Door Security Bolts
+
+{
+  "price": "from €7.99 inc VAT",
+  "description": "The Yale PM444 series security door bolts are concealed (mortice fixed) into the door with a bolt which throws into the door frame. Operated by using the key supplied giving added security and extra protection to your home.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks PM444 Door Security Bolts",
+  "specifications": [
+    "Brass Finish",
+    "Polished Chrome Finish",
+    "White Finish",
+    "Pack of 2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/j-b-weld-kwikweld-epoxy-adhesive-2-x-30ml.html|>
+## J-B Weld KwikWeld™ Epoxy Adhesive 2 x 30ml
+
+{
+  "price": "€8.99 inc VAT (€7.31 exc.vat)",
+  "description": "J-B Weld KwikWeld™ Epoxy Adhesive provides strong, lasting repairs to metal and multiple other surface types. Sets within minutes and cures within just a couple of hours. Cures consistently, no shrinkage or foaming. After curing it can be shaped, tapped, filed, sanded and drilled. Resistant to water, chemicals and heat.",
+  "availability": "In Stock",
+  "product_name": "J-B Weld KwikWeld™ Epoxy Adhesive 2 x 30ml",
+  "specifications": [
+    "Bonding Strength: 3,127 PSI",
+    "Temperature Resistant: up to 148°C (300°F)",
+    "Set Time: 6 Minutes",
+    "Cure Time: 4-6 Hours",
+    "Colour When Dry: Dark Grey",
+    "Size: 2 x 30ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-overlap-and-border-adhesives.html|>
+## Everbuild Overlap & Border Adhesives
+
+{
+  "price": "from €5.71 inc VAT",
+  "description": "Everbuild Overlap and Border adhesive, is a high strength, ready mixed paste suitable for hanging all types of borders (including vinyl). Overlap and Border adhesive may also be used for adhering overlaps and carrying out repairs to damaged paper sections. Overlap and Border adhesive will stick to all common papers as well as gloss and emulsioned walls.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Overlap & Border Adhesives",
+  "specifications": [
+    "High initial tack for quick bonding.",
+    "Allows time for repositioning.",
+    "Contains a powerful fungicide to prevent mould growth whist the paste fully cures."
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-polyure-wood-adhesives.html|>
+## Everbuild Polyure Wood Adhesives
+
+{
+  "price": "from €18.11 inc VAT",
+  "description": "Everbuild 30min Polyure Wood Adhesive comes in gel or liquid form. As well as bonding all common wood types (hard, soft, exotic, painted), Everbuild Polyure Wood Adhesives will also bond Formica, polystyrene, PU foam, metal, glass, wool and various plastics (including PVC) even to porous surfaces. These products also adhere to stone, concrete, brick and masonry, are fast setting 30 minute or 5 minute set (Typical PVA based wood glue 8-12 hours) and when cured give exceptional bond strength to wood and most common building surfaces. The gel or liquid can be used internal and external and have excellent weathering and ageing properties, while being fully water proof to EN204 D4, including seawater. Everbuild Polyure Wood Adhesive foams slightly on application to fill small gaps and increase overall bond strength on a range of job applications including general wood jointing, construction, window and door frame etc.. The product is used by door manufacturers, furniture manufacturers, for the construction of staircases and ladders, and even right down to boat building and as a high quality insulation adhesive for foam/glass wool/fibre boarding. Available in: Size: 310ml Gel. Size: 750g Liquid.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Polyure Wood Adhesives",
+  "specifications": [
+    "Available in gel or liquid form",
+    "Bonds various materials including wood, metal, glass, and plastics",
+    "Fast setting time of 30 minutes or 5 minutes",
+    "Waterproof to EN204 D4",
+    "Used for general wood jointing, construction, and more"
+  ]
+}
+
+<|https://www.mydiy.ie/products/teng-9203n-wheel-nut-socket-set-3-piece.html|>
+## Teng 9203N Wheel Nut Socket Set, 3 Piece
+
+{
+  "price": "€69.64 inc VAT (€56.62 exc.vat)",
+  "description": "The Teng 9203N Wheel Nut Socket Set contains a selection of 1/2in drive, 6-point deep metric impact sockets, made from chrome molybdenum with a black finish and protective inserts. To be used for wheel nuts, ideal for use on aluminium wheels. Supplied as a set of 3: 17, 19 & 21mm.",
+  "availability": "In Stock",
+  "product_name": "Teng 9203N Wheel Nut Socket Set, 3 Piece",
+  "specifications": [
+    "1/2in drive",
+    "6-point deep metric impact sockets",
+    "Made from chrome molybdenum",
+    "Black finish",
+    "Protective inserts",
+    "Set includes 17mm, 19mm, and 21mm sockets"
+  ]
 }
 

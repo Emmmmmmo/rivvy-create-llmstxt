@@ -1,11 +1,452 @@
 <|https://www.mydiy.ie/products/fiskars-woodxpert-xa23-brush-hook.html|>
-## Fiskars WoodXpertâ„¢ XA23 Brush Hook
+## Product
+
+
+
+<|https://www.mydiy.ie/products/h-g-stain-and-odour-away-dog.html|>
+## H G Stain & Odour Away Dog
 
 {
-  "price": "€150",
-  "description": "The Fiskars WoodXpert™ XA23 Brush Hook is ideal for cutting larger branches from trees/logs and clearing saplings and brush. The ultra light and durable FiberComp™ handle minimises fatigue and make the tool virtually unbreakable. Its longer shaft provides better swing speeds and the power of a double handed grip. The optimal anti-shock surface structure ensures a comfortable firm grip. The hooked end of the handle prevents slipping. Specifications: Length: 943mm. Weight: 993g.",
+  "price": "€10.34 inc VAT (€8.41 exc.vat)",
+  "description": "The HG Stain & Odour Away for dogs is enhanced with OXI action power. Effectively removes stubborn stains and smells. The special active oxygen formula cleans deep into the fibres of carpet or upholstery, so even ingrained stains and smells will be removed easily. HG Stain & odour away for dogs is suitable for almost all types of fabrics. Ideal for difficult stains caused by vomit, faeces, or urine.",
   "availability": "In Stock",
-  "product_name": "Fiskars WoodXpertâ„¢ XA23 Brush Hook",
-  "specifications": []
+  "product_name": "H G Stain & Odour Away Dog",
+  "specifications": [
+    "1 x H G Stain & Odour Away Dog 500ml"
+  ]
+}
+
+<|https://www.mydiy.ie/products/purdy-monarch-elite-and-pro-extra-monarch-brush-set-5-piece.html|>
+## Purdy® Monarch™ Elite™ & Pro-Extra® Monarch™ Brush Set, 5 Piece
+
+{
+  "price": "€94.92 inc VAT (€77.17 exc.vat)",
+  "description": "This Purdy® Box Set contains: 3 x Monarch™ Elite™ Brushes. Recommended for use with emulsion paint. Its thicker filaments will pick up and lay off more paint for better productivity on the job. Designed by UK professionals specifically for the UK market, ensuring it's Purdy's most versatile and trusted brush. One of each size: 1.1/2in, 2in and 3in. 2 x Pro-Extra® Monarch™ Brushes. Delivers 30% more paint onto walls and ceilings than any other Purdy® brush. Its thicker filaments maximise paint pick-up of higher viscosity paints. Ideal when working with thick oil based paints. One of each size: 1.1/2in and 2in.",
+  "availability": "Out of Stock",
+  "product_name": "Purdy® Monarch™ Elite™ & Pro-Extra® Monarch™ Brush Set, 5 Piece",
+  "specifications": [
+    "3 x Monarch™ Elite™ Brushes",
+    "2 x Pro-Extra® Monarch™ Brushes",
+    "Sizes: 1.1/2in, 2in, 3in"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-diy-cup-brush-with-shank.html|>
+## Lessmann DIY Cup Brush With Shank
+
+{
+  "price": "€12.57 inc VAT",
+  "description": "The Lessmann DIY Cup Brush is fitted with 6mm shank. It has been designed for working on large surfaces, generally for the removal of rust, paint, dirt or scale, and for polishing.",
+  "availability": "In Stock",
+  "product_name": "Lessmann DIY Cup Brush With Shank",
+  "specifications": [
+    "Wire: 0.35 Steel, Diameter: 50mm",
+    "Wire: 0.35 Steel, Diameter: 75mm",
+    "Wire: 0.25 Brass, Diameter: 50mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-tile-cleaner-1-litre.html|>
+## H/G Tile Cleaner 1 litre
+
+{
+  "price": "€10.99 inc VAT (€8.93 exc.vat)",
+  "description": "HG Tile Cleaner is a freshly scented, concentrated mopping solution designed for effective and effortless cleaning of all tile floors. Whether you have ceramic tiles, flagstones, non-calciferous natural stone, or decorative gravel flooring, this powerful yet gentle formula ensures a deep clean while preserving the natural beauty of your surfaces. With its highly concentrated formula, just 1 litre provides up to 40 washes, making it an economical and long-lasting choice for maintaining pristine and hygienic floors. Perfect for regular maintenance or deep cleaning, this easy-to-use cleaner keeps your floors looking fresh, streak-free, and beautifully maintained.",
+  "availability": "In Stock",
+  "product_name": "H/G Tile Cleaner 1 litre",
+  "specifications": [
+    "Freshly scented formula for a pleasant cleaning experience",
+    "Highly concentrated – 1 litre lasts up to 40 washes",
+    "Suitable for tiles, flagstones, natural stone & decorative gravel floors",
+    "Deep cleans while protecting and maintaining floor surfaces",
+    "Easy-to-use mopping cleaner for regular maintenance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hultafors-x7-s-stainless-steel-rule.html|>
+## Hultafors X7-S Stainless Steel Rule
+
+{
+  "price": "€12.20 inc VAT",
+  "description": "The Hultafors X7-S Stainless Steel Rule is made from tempered stainless steel for extra durability. The surface is matt chrome-plated for anti-glare and more accurate reading. Double sided, graduated in millimetres on one side and inches on the reverse.",
+  "availability": "In Stock",
+  "product_name": "Hultafors X7-S Stainless Steel Rule",
+  "specifications": [
+    "610mm/24in",
+    "Tempered stainless steel",
+    "Double sided",
+    "Graduated in millimetres and inches"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-proseries-stainless-steel-4-digit-padlock-57mm.html|>
+## Master Lock ProSeries Stainless Steel 4 Digit Padlock 57mm
+
+{
+  "price": "€77.92 inc VAT (€63.35 exc.vat)",
+  "description": "The Master Lock 1174D ProSeries Stainless Steel 4 Digit Padlock is made from high quality stainless steel across the body and shackle for increased protection against corrosion, making it suitable for outdoor use. The resettable 4-digit lock has the possibility of over 10,000 combinations and the Deadlocking Mechanism protects against prying, shimming and rap attacks. The combination dials are extremely easy to use thanks to Master Lock's unique blind system, they're easy to turn even when you're using gloves or when light is poor. The lock is extremely sturdy thanks to the shackle seal and combination dial dust cover to protect internal integrity and protect against dirt and debris. The 1174D ProSeries Padlock provides superior protection for gates, machinery and anywhere else that needs protection.",
+  "availability": "In Stock",
+  "product_name": "Master Lock ProSeries Stainless Steel 4 Digit Padlock 57mm",
+  "specifications": [
+    "Body W x H: 57 x 50mm",
+    "Body Thickness: 31mm",
+    "Shackle W x H: 25 x 28mm",
+    "Shackle Thickness: 8mm",
+    "Weight: 0.37kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-polyurethane-varnish-and-stain.html|>
+## Rustins Polyurethane Varnish & Stain
+
+{
+  "price": "€6.75",
+  "description": "Rustins Polyurethane Varnish & Stain Gloss is an extra tough polyurethane varnish stain for all interior woodwork. Enhances the beauty of wood and resists alcohol and boiling water. Stains and varnishes all in one. Conforms to the Toys (Safety) Regulations 1995, BS:EN71 Part 3.",
+  "availability": "In Stock",
+  "product_name": "Rustins Polyurethane Varnish & Stain",
+  "specifications": [
+    "Available in various colors: Antique Pine, Dark Oak, Mahogany, Oak, Gloss Mahogany, Satin Mahogany, Walnut",
+    "Volume options: 250 ml, 500 ml",
+    "Extra tough polyurethane varnish stain for interior woodwork",
+    "Enhances beauty of wood and resists alcohol and boiling water",
+    "Conforms to Toys (Safety) Regulations 1995, BS:EN71 Part 3"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-polyurethane-varnish-spray.html|>
+## Plasti-kote Polyurethane Varnish Spray
+
+{
+  "price": "€11.91 inc VAT",
+  "description": "Available in Gloss and Satin finishes, Polyurethane Varnish provides a tough and durable coating to bare wooden surfaces that protects against scratches and stains. The formula is non-yellowing. Suitable for bare wood only. Coverage: approximately 2.23m² per pack. Drying time: Thoroughly dry in 1 hour.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Polyurethane Varnish Spray",
+  "specifications": [
+    "Available in Gloss and Satin finishes",
+    "Non-yellowing formula",
+    "Coverage: approximately 2.23m² per pack",
+    "Drying time: Thoroughly dry in 1 hour"
+  ]
+}
+
+<|https://www.mydiy.ie/products/monument-3014j-1-boiler-flue-brushes-pack-3.html|>
+## Monument 3014J-1 Boiler Flue Brushes (Pack 3)
+
+{
+  "price": "€23.16 inc VAT (€18.83 exc.vat)",
+  "description": "Pack of 3 Monument Boiler Flue Brushes. Sizes: 16mm, 50mm and 50mmx16mm. Made in Great Britain.",
+  "availability": "In Stock",
+  "product_name": "Monument 3014J-1 Boiler Flue Brushes (Pack 3)",
+  "specifications": [
+    "Sizes: 16mm, 50mm and 50mmx16mm",
+    "Made in Great Britain"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marshalltown-m192ss-cement-edger-stainless-steel-durasoft-handle-10in-x-4in.html|>
+## Marshalltown M192SS Cement Edger Stainless Steel Durasoft® Handle 10in x 4in
+
+{
+  "price": "€30.77 inc VAT (€25.02 exc.vat)",
+  "description": "Marshalltown M192 cement edger designed to give a good finish on steps and verges. Stainless steel blade with sturdy mountings. Light and easy to handle with comfortable DuraSoft® handle. Size: 250 x 100mm (10 x 4in). Straight Ends with 10mm (3/8 in) Radius.",
+  "availability": "In Stock",
+  "product_name": "Marshalltown M192SS Cement Edger Stainless Steel Durasoft® Handle 10in x 4in",
+  "specifications": [
+    "Stainless steel blade",
+    "DuraSoft® handle",
+    "Size: 250 x 100mm (10 x 4in)",
+    "Straight Ends with 10mm (3/8 in) Radius"
+  ]
+}
+
+<|https://www.mydiy.ie/products/two-fussy-blokes-roller-sleeves-semi-smooth-10-pack.html|>
+## Two Fussy Blokes Roller Sleeve's Semi Smooth (10 PACK)
+
+{
+  "price": "€17.99 inc VAT",
+  "description": "Premium microfibre paint roller sleeve, designed to deliver smooth finish. Size: 100mm, NAP: 10mm, Use on: Weatherboards, Brick Walls, Fences, Plaster Walls, Soffits, Rough Surfaces, Paint: Water based and oil based",
+  "availability": "In Stock",
+  "product_name": "Two Fussy Blokes Roller Sleeve's Semi Smooth (10 PACK)",
+  "specifications": [
+    "Size: 100mm",
+    "NAP: 10mm",
+    "Use on: Weatherboards, Brick Walls, Fences, Plaster Walls, Soffits, Rough Surfaces",
+    "Paint: Water based and oil based"
+  ]
+}
+
+<|https://www.mydiy.ie/products/hg-tile-cleaner-extra-strong-product-20-1-litre.html|>
+## HG Tile Cleaner Extra Strong (Product 20) 1 litre
+
+{
+  "price": "€15.28 inc VAT (€12.42 exc.vat)",
+  "description": "HG Tile Cleaner Extra Strong is a professional and extremely powerful tile cleaning product for removing problem dirt or (old) wax, polish and other protective coatings which are very difficult to remove. 1 litre is sufficient for approximately 35m² to 70m² of floor surface, depending on the amount of dirt.",
+  "availability": "In Stock",
+  "product_name": "HG Tile Cleaner Extra Strong (Product 20) 1 litre",
+  "specifications": [
+    "1 litre is sufficient for approximately 35m² to 70m² of floor surface",
+    "Professional and extremely powerful tile cleaning product",
+    "Removes problem dirt, old wax, polish, and other protective coatings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-gc-gr-57-garden-roller.html|>
+## Einhell GC-GR 57 Garden Roller
+
+{
+  "price": "€88.34 inc VAT (€71.82 exc.vat)",
+  "description": "The Einhell GC-GR 57 Garden Roller is designed for rolling surfaces and freshly sown seed to ensure that the seed is perfectly inserted in the soil as a prerequisite for constant, attractive growth. The roller can also be used after scarifying or manuring. Made from durable coated metal. There is also a side filler (for water and sand) with cap and a dirt wiper which can be adjusted on both sides produces a neat result.",
+  "availability": "In Stock",
+  "product_name": "Einhell GC-GR 57 Garden Roller",
+  "specifications": [
+    "Durable coated metal construction",
+    "Side filler for water and sand",
+    "Adjustable dirt wiper for neat results"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-6-year-anti-mould-paint.html|>
+## Ronseal 6 Year Anti Mould Paint
+
+{
+  "price": "€25.72 inc VAT",
+  "description": "The Ronseal Anti Mould Paint protects walls and ceilings from mould growth for up to 6 Years. The paint's advanced encapsulated biocide technology is specifically designed to actively prevent all common types of mould (including black mould) from building up on the paint surface in areas of high condensation and humidity such as kitchens and bathrooms.",
+  "availability": "In Stock",
+  "product_name": "Ronseal 6 Year Anti Mould Paint",
+  "specifications": [
+    "Areas of use: Interior walls.",
+    "Coverage: 13m2 covered per litre.",
+    "Number of coats: 2.",
+    "Drying time: 2 hours."
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-flexterior-varnish.html|>
+## Rustins Flexterior Varnish
+
+{
+  "price": "from €12.88 inc VAT",
+  "description": "Rustin Flexterior Varnish is a flexible exterior satin wood finish, with ultraviolet and fungicide protection. Ideal for use on new, planed and sawn soft and hard woods. Flexterior will not peel, crack or blister when applied correctly.",
+  "availability": "In Stock",
+  "product_name": "Rustins Flexterior Varnish",
+  "specifications": [
+    "Available in Clear 1 Litre, Clear 2.5 Litre, Clear 500 ml, Dark Oak 500 ml, Mahogany 500 ml",
+    "Flexible exterior satin wood finish",
+    "Ultraviolet and fungicide protection",
+    "Ideal for new, planed and sawn soft and hard woods",
+    "Will not peel, crack or blister when applied correctly"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-mini-wire-brush-set-of-3.html|>
+## Roughneck Mini Wire Brush Set of 3
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "Roughneck Mini Wire Brush Set contains one each of nylon, stainless steel and brass bristles. Each brush has a TPR soft grip handle and they are suitable for general cleaning, the preparation of most types of small surfaces and also cleaning small parts such as contacts on spark plugs. This wire brush is ideal for cleaning patios, decking and barbeques. It can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Mini Wire Brush Set of 3",
+  "specifications": [
+    "Contains one each of nylon, stainless steel and brass bristles",
+    "TPR soft grip handle",
+    "Suitable for general cleaning and preparation of small surfaces",
+    "Ideal for cleaning patios, decking, and barbeques",
+    "Can clean paint, rust, and damp patches from various surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/master-lock-500ml-yellow-metal-and-machinery-paint.html|>
+## Master Lock 500Ml Yellow Metal And Machinery Paint
+
+{
+  "price": "€6.49 inc VAT (€5.28 exc.vat)",
+  "description": "500Ml Yellow Metal And Machinery Paint",
+  "availability": "Out of Stock",
+  "product_name": "Master Lock 500Ml Yellow Metal And Machinery Paint",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
+  ]
+}
+
+<|https://www.mydiy.ie/products/two-fussy-blokes-roller-sleeves-smooth-3-pack.html|>
+## Two Fussy Blokes Roller Sleeve's Smooth (3 PACK)
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "Premium microfibre paint roller sleeve, designed to deliver smooth finish. Size: 100mm, NAP: 5mm, Use on: Doors, Trims & Cupboards, Paint: Water based and oil based",
+  "availability": "In Stock",
+  "product_name": "Two Fussy Blokes Roller Sleeve's Smooth (3 PACK)",
+  "specifications": [
+    "Size: 100mm",
+    "NAP: 5mm",
+    "Use on: Doors, Trims & Cupboards",
+    "Paint: Water based and oil based"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-stainless-steel-garden-life-hand-trowel-fsc.html|>
+## Kent & Stowe Stainless Steel Garden Life Hand Trowel, FSC®
+
+{
+  "price": "€8.84 inc VAT (€7.19 exc.vat)",
+  "description": "The Kent & Stowe Garden Life Hand Trowel is ideal for use on borders and raised beds. It is suitable for planting bulbs, seedlings and bedding plants. It has been hand crafted and offers traditional quality. The head is made from stainless steel and this product is 40% lighter than K&S original stainless steel Hand Trowel. It offers excellent corrosion resistance and long-lasting performance. The handle is made from FSC® approved ash wood and is contoured for the perfect comfortable grip, efficient cultivation with minimal soil adhesion.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Stainless Steel Garden Life Hand Trowel, FSC®",
+  "specifications": [
+    "Length: 250mm",
+    "Weight: 0.196kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-stainless-steel-capability-digging-spade.html|>
+## Kent & Stowe Stainless Steel Capability Digging Spade
+
+{
+  "price": "€54.51 inc VAT (€44.32 exc.vat)",
+  "description": "The Kent & Stowe Stainless Steel Capability Digging Spade has been designed to tackle even the most challenging gardening tasks with unrivalled strength and durability. The Capability Spade boasts a breaking strain of 130kg setting a new standard in garden tools, with the current UK standard being 55kg (an increase of 136% strength). Perfect for digging up and breaking soil in large areas to improve drainage as well as edging garden beds. It is also the ideal for soil preparation, creating trenches and mixing in soil improvers. Made from stainless steel for supreme rust resistance with a beautiful FSC® certified ash wood handle. The spade has an internal hardened stainless steel bar for load strength and extended shank for improved leverage. It also features a larger tread edge and smoothed rivets for added digging comfort. Comes with a 20 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Stainless Steel Capability Digging Spade",
+  "specifications": [
+    "Breaking strain of 130kg",
+    "Made from stainless steel",
+    "FSC® certified ash wood handle",
+    "Internal hardened stainless steel bar for load strength",
+    "Extended shank for improved leverage",
+    "Larger tread edge and smoothed rivets for comfort",
+    "20 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/plasti-kote-twist-and-spray-wood-stove-paint-black-400ml.html|>
+## Plasti-kote Twist & Spray Wood Stove Paint Black 400ml
+
+{
+  "price": "€13.99 inc VAT (€11.37 exc.vat)",
+  "description": "The Plasti-kote Twist & Spray Wood Stove Paint offers a beautiful satin sheen that is exceptionally durable, and provides resistance against fading. It preserves the life of the metal and is abrasion resistant. The new easy spray technology provides added control to make spray painting easier, faster and cleaner than ever before. The can's large, comfortable finger pad requires 35% less finger pressure than other spray paint cans, and the Twist and lock mechanism means there is no separate top to remove or replace after use. The cap and button design shields fingers from paint for a cleaner spray-painting process. Coverage: approximately 2.23m². Pack size: 400ml. Colour: Black. Suitable for metal only.",
+  "availability": "In Stock",
+  "product_name": "Plasti-kote Twist & Spray Wood Stove Paint Black 400ml",
+  "specifications": [
+    "Pack size: 400ml",
+    "Coverage: approximately 2.23m²",
+    "Colour: Black",
+    "Suitable for metal only"
+  ]
+}
+
+<|https://www.mydiy.ie/products/j-b-weld-superweld-brush-on-6g.html|>
+## J-B Weld SuperWeld™ Brush On 6g
+
+{
+  "price": "€5.30 inc VAT (€4.31 exc.vat)",
+  "description": "J-B Weld SuperWeld™ Brush On is a specially formulated cyanoacrylate Super Glue providing a strong, instant bond in just seconds. It works on multiple and hard to bond surfaces. The formula allows for precision control and no running. Can be used on vertical and horizontal surfaces. Sets in just 10 seconds allowing delicate awkward repairs to be easily completed. Its exceptionally high strength provides a permanent repair to almost anything. Ideal for a wide variety of applications; auto accessories, rubber, plastic, vinyl, leather, cloth, etc.",
+  "availability": "In Stock",
+  "product_name": "J-B Weld SuperWeld™ Brush On 6g",
+  "specifications": [
+    "Strength: 3500 PSI",
+    "Set Time: 10 Seconds",
+    "Cure Time: 24 Hours",
+    "Colour When Dry: Clear"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gorilla-glue-gorilla-super-glue-brush-and-nozzle-12g.html|>
+## Gorilla Super Glue Brush & Nozzle 12g
+
+{
+  "price": "€12.05 inc VAT (€9.80 exc.vat)",
+  "description": "Gorilla Super Glue has a fine bristled brush for controlled coverage with less mess. Precision tip nozzle for quick, easy dispensing. Its high strength and quick set-time make it the go-to for a variety of household projects. Developed for long-lasting repairs in an instant, dries in 10–30 seconds and is Impact-Tough® reinforced with rubber for increased impact resistance. It has an anti-clog cap with a metal pin inside to ensure an airtight seal for maximum reusability.",
+  "availability": "In Stock",
+  "product_name": "Gorilla Super Glue Brush & Nozzle 12g",
+  "specifications": [
+    "12g size",
+    "Fine bristled brush for controlled coverage",
+    "Precision tip nozzle for easy dispensing",
+    "Dries in 10–30 seconds",
+    "Impact-Tough® reinforced with rubber",
+    "Anti-clog cap for maximum reusability"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-2-in-1-dustpan-and-brush.html|>
+## Vileda 2 In 1 Dustpan and Brush
+
+{
+  "price": "€8.03 inc VAT (€6.53 exc.vat)",
+  "description": "The Vileda 2 In 1 Dustpan and Brush set combines a small practical dustpan with a small collecting brush. The brush has hard red fibres on the tips for corners, edges and joints and ultra thick black fibres for fine dust. The slightly curved rubber lip on the dustpan sticks to the floor when pressure is applied to pick up dust and dirt effectively.",
+  "availability": "Out of Stock",
+  "product_name": "Vileda 2 In 1 Dustpan and Brush",
+  "specifications": [
+    "Product Code: VIL141752",
+    "List Price: €8.79",
+    "You save: €0.76"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-end-brush-with-shank.html|>
+## Lessmann End Brush With Shank
+
+{
+  "price": "€6.75 inc VAT",
+  "description": "The Lessmann End Brushes are fitted with a 6mm shank for cleaning and de-burring in hard to reach areas. They are ideal for the removal of paint and the cleaning of moulds and castings. Also for working on edges and recesses and the inside of bores etc.",
+  "availability": "In Stock",
+  "product_name": "Lessmann End Brush With Shank",
+  "specifications": [
+    "Select Option: 12 x 120mm 0.30 Steel Wire",
+    "Select Option: 12 x 20mm 0.30 Steel Wire",
+    "Select Option: 23/22 x 25mm 0.30 Steel Wire"
+  ]
+}
+
+<|https://www.mydiy.ie/products/lessmann-diy-wheel-brushes.html|>
+## Lessmann DIY Wheel Brushes
+
+{
+  "price": "from €7.37 inc VAT",
+  "description": "The Lessmann DIY Wheel Brushes are fitted with a 6mm shank and are generally used for the removal of rust, paint or dirt and for roughening, de-burring, stripping or polishing. Available in Steel, Brass and Nylon.",
+  "availability": "In Stock",
+  "product_name": "Lessmann DIY Wheel Brushes",
+  "specifications": [
+    "Available in Steel, Brass and Nylon",
+    "Fitted with a 6mm shank",
+    "Used for removal of rust, paint or dirt",
+    "Suitable for roughening, de-burring, stripping or polishing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rustins-strypit-paint-and-varnish-stripper-new-formulation.html|>
+## Rustins Strypit Paint & Varnish Stripper New Formulation
+
+{
+  "price": "from €14.99 inc VAT",
+  "description": "Rustins new formula Strypit is a non-caustic dichloromethane-free gel suitable for removing multiple coats of paints and varnishes applied to wood, metal, glass, stone and masonry surfaces. New formula Strypit works best when applied liberally and allowed to penetrate after two applications. The gel consistency allows effective use on vertical surfaces.",
+  "availability": "In Stock",
+  "product_name": "Rustins Strypit Paint & Varnish Stripper New Formulation",
+  "specifications": [
+    "Available in multiple sizes: 1 Litre, 250ml, 4 Litre, 500ml",
+    "Non-caustic and dichloromethane-free",
+    "Effective on wood, metal, glass, stone, and masonry surfaces",
+    "Gel consistency for vertical surfaces"
+  ]
+}
+
+<|https://www.mydiy.ie/products/marshalltown-pro-tile-cutter-630mm.html|>
+## Marshalltown Pro Tile Cutter 630mm
+
+{
+  "price": "€373.59 inc VAT (€303.73 exc.vat)",
+  "description": "The Marshalltown Pro Tile Cutter is suitable for ceramic, porcelain, and mosaic tile up to 630mm (24.3/4in) long. Its titanium-coated tungsten carbide scoring wheel is height adjustable, allowing tiles up to 16mm (5/8in) thick to be cut. This professional tiling tool also has a rigid steel monorail sliding system and a protractor gauge, ensuring precise angled or straight cuts, even when scoring hard porcelain.",
+  "availability": "In Stock",
+  "product_name": "Marshalltown Pro Tile Cutter 630mm",
+  "specifications": [
+    "Suitable for ceramic, porcelain, and mosaic tile up to 630mm long",
+    "Titanium-coated tungsten carbide scoring wheel",
+    "Height adjustable for tiles up to 16mm thick",
+    "Rigid steel monorail sliding system",
+    "Protractor gauge for precise cuts"
+  ]
 }
 

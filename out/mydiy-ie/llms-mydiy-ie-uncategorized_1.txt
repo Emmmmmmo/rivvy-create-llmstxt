@@ -1,3 +1,22 @@
+<|https://www.mydiy.ie/products/-128.html|>
+## Pro Open Tote 18In 1-79-208
+
+{
+  "price": "€103.92 inc VAT (€84.49 exc.vat)",
+  "description": "The DEWALT 1-79-208 Pro Open Tote Bag is resistant against all weathers with a multi-layer strength, consisting of a steel bar, a p-board and a pvc backing. It is made of water-resistant material (600/1200 denier) and has an injected base, this makes this bag the perfect accessory for working inside and outside by professional or domestic users. It has a waterproof base and also features a level holder, tool loops, an inner divider, and charger/battery storage. Guaranteed to be tough, this bag is characterised by its easy access to hand and power tools. Specification: Dimensions: 50 x 30 x 36cm (20 x 11.8 x 14.17in).",
+  "availability": "Out of Stock",
+  "product_name": "Pro Open Tote 18In 1-79-208",
+  "specifications": [
+    "Dimensions: 50 x 30 x 36cm (20 x 11.8 x 14.17in)",
+    "Water-resistant material (600/1200 denier)",
+    "Injected base",
+    "Level holder",
+    "Tool loops",
+    "Inner divider",
+    "Charger/battery storage"
+  ]
+}
+
 <|https://www.mydiy.ie/products/-double-switched-socket.html|>
 ## DOUBLE SWITCHED SOCKET
 
@@ -85,6 +104,261 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/-hoover-steam-iron-2-ltr-2500-w.html|>
+## HOOVER STEAM IRON 2 LTR 2500 W
+
+{
+  "price": "€69.99 inc VAT (€56.90 exc.vat)",
+  "description": "An ideal results on every kind of fabrics thanks to its three levels of temperature, 2 Litre capacity, Six bar pressure, Cord storage, Eco mode.",
+  "availability": "Out of Stock",
+  "product_name": "HOOVER STEAM IRON 2 LTR 2500 W",
+  "specifications": [
+    "2 Litre capacity",
+    "Six bar pressure",
+    "Cord storage",
+    "Eco mode"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-karcher-k2-compact-pressure-washer.html|>
+## Karcher K2 Compact Pressure Washer
+
+{
+  "price": "€89.99 inc VAT (€73.16 exc.vat)",
+  "description": "The Kärcher K2 Compact Pressure Washer is the ideal entry-level tool for tackling a wide range of outdoor cleaning tasks. Its lightweight and compact design makes it highly practical and easy to use, perfect for any household. Whether you're gently washing delicate car bodywork, blasting away tough grime from garden furniture, or restoring tools to their original shine, the K2 Compact delivers outstanding performance with convenience in mind.",
+  "availability": "In Stock",
+  "product_name": "Karcher K2 Compact Pressure Washer",
+  "specifications": [
+    "Motor: 1400W Universal Motor",
+    "Pressure: 110 Bar",
+    "Flow Rate: 360 Litres Per Hour",
+    "Hose Length: 4 Metres",
+    "Accessories: One-Way Spray Lance, Dirtblaster Lance"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-m10-x-45-din-1481-roll-pins-black-box-of-100.html|>
+## M10 X 45 Din 1481 Roll pins Black Box of 100
+
+{
+  "price": "€6.15 inc VAT (€5.00 exc.vat)",
+  "description": "M10 X 45 Din 1481 Roll pins Black Box of 100",
+  "availability": "In Stock",
+  "product_name": "M10 X 45 Din 1481 Roll pins Black Box of 100",
+  "specifications": [
+    "M10X45ROLLPINWIGIG : €6.15",
+    "List: €55.35",
+    "You save €49.20"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-m16-x-200-high-tensile-bolt-grade-88-bright-zinc-plated-din-931.html|>
+## M16 X 200 HIGH TENSILE BOLT GRADE 8.8 BRIGHT ZINC PLATED, DIN 931
+
+{
+  "price": "€19.99 inc VAT (€16.25 exc.vat)",
+  "description": "Hexagon head with a smooth shoulder beyond the thread. - Hexagon head - Part Threaded - Grade 8.8 - Bright zinc plated - DIN 931 - BOX OF 40",
+  "availability": "In Stock",
+  "product_name": "M16 X 200 HIGH TENSILE BOLT GRADE 8.8 BRIGHT ZINC PLATED, DIN 931",
+  "specifications": [
+    "Hexagon head",
+    "Part Threaded",
+    "Grade 8.8",
+    "Bright zinc plated",
+    "DIN 931",
+    "BOX OF 40"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-m16-x-45-nut-bolt-with-washer-grade-88-box-50.html|>
+## M16 X 45 Nut Bolt With Washer Grade 8.8 Box 50
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "M16 x 45 Bolts with Nuts and Washer. Box Qty. 50",
+  "availability": "In Stock",
+  "product_name": "M16 X 45 Nut Bolt With Washer Grade 8.8 Box 50",
+  "specifications": [
+    "M16X45BNWWIGIG : €4.99",
+    "Box Qty. 50"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-m16-x-60mm-a2-stainless-steel-hex-socket-cap-screw-din-912.html|>
+## M16 x 60mm A2 Stainless Steel Hex Socket Cap Screw DIN 912
+
+{
+  "price": "€36.89 inc VAT (€29.99 exc.vat)",
+  "description": "M16 X 60 A2 Stainless Steel Hexagon Socket Head Screws Metric Thread Box 50",
+  "availability": "In Stock",
+  "product_name": "M16 x 60mm A2 Stainless Steel Hex Socket Cap Screw DIN 912",
+  "specifications": [
+    "M16 x 60",
+    "A2 Stainless Steel",
+    "Hexagon Socket Head",
+    "Metric Thread",
+    "Box of 50"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-m8-x-100-concrete-screw-bolts-box-of-50.html|>
+## M8 X 100 Concrete Screw Bolts Box of 50
+
+{
+  "price": "€12.00 inc VAT (€9.76 exc.vat)",
+  "description": "Heavy duty concrete screws that provide a strong, secure hold for high load applications and small edge distance. Quick and easy to install making them an ideal choice for a fast, reliable installation into a variety of substrates. One-piece design for easy installation with ratchet teeth on the head flange for increased hold. Dust relief thread for low torque. Fully threaded with Hex head. Suitable applications include racking, shelving, scaffolding, temporary supports, fencing, railings, and fastening steel and metal base plates to concrete. Removable and reusable.",
+  "availability": "In Stock",
+  "product_name": "M8 X 100 Concrete Screw Bolts Box of 50",
+  "specifications": [
+    "8X100WIGIG : €12.00",
+    "QtyAdd to Basket",
+    "Dust relief thread for low torque",
+    "Fully threaded with Hex head",
+    "Suitable applications include racking, shelving, scaffolding, temporary supports, fencing, railings, and fastening steel and metal base plates to concrete."
+  ]
+}
+
+<|https://www.mydiy.ie/products/-natural-french-chalk-sticks-pack-of-36.html|>
+## Natural French Chalk Sticks (pack of 36)
+
+{
+  "price": "€3.69 inc VAT (€3.00 exc.vat)",
+  "description": "French chalk (magnesium silicate) is wonderful stuff to have around the workshop with a wide range of uses. Also known as welders chalk, tailors chalk or soapstone we supply it either as a powder or as convenient sticks sawn from natural rock. It can be used: - for marking up dark coloured timber and metal surfaces. - as a welding flux. - for marking up fabric. - as a lubricant for moving wooden parts (drawer runners or sliding cupboard doors for example) - as a stropping compound. - in tongue and groove floorboard joints to reduce squeaking",
+  "availability": "In Stock",
+  "product_name": "Natural French Chalk Sticks (pack of 36)",
+  "specifications": [
+    "Pack of 36 sticks",
+    "Made from natural rock",
+    "Multi-purpose use in workshops"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-premier-40-pce-nylon-curtain-hooks.html|>
+## PREMIER 40 PCE NYLON CURTAIN HOOKS
+
+{
+  "price": "€2.99 inc VAT (€2.43 exc.vat)",
+  "description": "Swish Curtain Hooks White - Pack of 40 Colour: White Material: Plastic Includes: 40 Curtain Hooks Washing Instructions: Wipe Clean",
+  "availability": "In Stock",
+  "product_name": "PREMIER 40 PCE NYLON CURTAIN HOOKS",
+  "specifications": [
+    "Colour: White",
+    "Material: Plastic",
+    "Includes: 40 Curtain Hooks",
+    "Washing Instructions: Wipe Clean"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-silicone-gun.html|>
+## Silicone Gun
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "To suit all building sealant cartridges. - 400ml Metal mastic gun",
+  "availability": "In Stock",
+  "product_name": "Silicone Gun",
+  "specifications": [
+    "400ml Metal mastic gun"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-special-order.html|>
+## Special Order
+
+{
+  "price": "€99.98 inc VAT (€81.28 exc.vat)",
+  "description": "Rigid Tools 35615 35620",
+  "availability": "Out of Stock",
+  "product_name": "Special Order",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Free delivery for orders over €150 within Ireland",
+    "Orders under €150: €8.99 delivery fee",
+    "International delivery: Charges based on weight",
+    "Money Back Guarantee within 16 days of delivery",
+    "No quibble returns policy"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-stuk-2-mtr-silver-reflective-tape.html|>
+## STUK 2 MTR SILVER REFLECTIVE TAPE
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "Stuk Light Reflecting Tape - 25mm x 2m\n- Self-adhesive tape\n- Light reflecting\n- Colour: silver\n- Size: 25mm x 2m",
+  "availability": "In Stock",
+  "product_name": "STUK 2 MTR SILVER REFLECTIVE TAPE",
+  "specifications": [
+    "Self-adhesive tape",
+    "Light reflecting",
+    "Colour: silver",
+    "Size: 25mm x 2m"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-supacool-oscillating-desk-fan-12.html|>
+## SupaCool Oscillating Desk Fan 12"
+
+{
+  "price": "€34.99 inc VAT (€28.45 exc.vat)",
+  "description": "SupaCool Oscillating Desk Fan 12\" with 3 speed settings, 75 degree oscillation, easy to assemble, stylish modern design, 6m cable, includes moulded plug, finger safe mesh, and a 3 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "SupaCool Oscillating Desk Fan 12\"",
+  "specifications": [
+    "Boxed Dimensions: W: 34.5cm H: 37.0cm D: 19.5cm",
+    "Weight: 2.0kg",
+    "3 speed settings",
+    "75 degree oscillation",
+    "Easy to assemble",
+    "Stylish modern design",
+    "6m cable",
+    "Includes moulded plug",
+    "Finger safe mesh",
+    "3 year guarantee",
+    "Barcode: 5017193424358"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-supacool-oscillating-stand-fan-16.html|>
+## SupaCool Oscillating Stand Fan 16"
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "SupaCool Oscillating Stand Fan 16\" with 3 speed settings, oscillating function, easy to assemble, stable 60cm base, adjustable telescopic stand, extends from 1m to 1.3m, 1.6m cable, includes moulded plug, finger safe mesh, 3 year guarantee.",
+  "availability": "Out of Stock",
+  "product_name": "SupaCool Oscillating Stand Fan 16\"",
+  "specifications": [
+    "Boxed Dimensions: W: 84.0cm H: 69.5cm D: 19.5cm",
+    "Weight: 2.9kg",
+    "3 speed settings",
+    "Oscillating function",
+    "Easy to assemble",
+    "Stable 60cm base",
+    "Adjustable telescopic stand (extends from 1m to 1.3m)",
+    "1.6m cable",
+    "Includes moulded plug",
+    "Finger safe mesh",
+    "3 year guarantee",
+    "Barcode: 5017193518958"
+  ]
+}
+
+<|https://www.mydiy.ie/products/-wd40-duck-tape-offer.html|>
+## WD40 Duck Tape Offer
+
+{
+  "price": "€6.99 inc VAT (€5.68 exc.vat)",
+  "description": "WD-40 and Duck Tape OFFER. Faithfull Gaffa Tape is an extremely strong, heavy-duty and versatile cloth tape, which is easy to tear and apply. The 0.17mm thick tape adheres to a variety of surfaces including metal, wood, concrete, glass, paper, plastic, fabric and carpet tiles. Ideally suited for general use in DIY and construction; such as packing, repairing, joining, sealing, protecting and reinforcing.",
+  "availability": "In Stock",
+  "product_name": "WD40 Duck Tape Offer",
+  "specifications": [
+    "Width: 50mm",
+    "Length: 50M",
+    "Colour: Silver",
+    "1 x WD-40® Multi-Use Maintenance Aerosol 100ml"
+  ]
+}
+
 <|https://www.mydiy.ie/products/arctic-hayes-centramag-nylon-filter-22mm.html|>
 ## 
 
@@ -168,6 +442,35 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dewalt-hand-tools-corner-clamps-with-table-clamps.html|>
+## DeWALT Hand Tools Corner Clamps with Table Clamps
+
+{
+  "price": "€45.60 inc VAT (€37.07 exc.vat)",
+  "description": "DEWALT 90 Degree Corner Clamp with Table Clamps. A must-have around the house for smaller corner-clamping projects like building a book shelf. Easily work on household projects by mounting this clamp directly to your workbench. Includes 2 table clamps for easy mounting to work surfaces. Clamping Force: 113kg (250 lbs).",
+  "availability": "Out of Stock",
+  "product_name": "DeWALT Hand Tools Corner Clamps with Table Clamps",
+  "specifications": [
+    "Clamping Force: 113kg (250 lbs)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-demolition-diagonal-pliers-200mm.html|>
+## DeWALT Hand Tools Demolition Diagonal Pliers 200mm
+
+{
+  "price": "€25.30 inc VAT (€20.57 exc.vat)",
+  "description": "DEWALT Demolition Diagonal Pliers have a low profile head making them a great choice for prying nails and staples in tight spaces. These pliers stay sharp with their induction hardened blades and have a low cutting edge for a near flush cut. The near flush cut design reduces cut nail height by 75%. Fitted with ergonomic soft grip handles, the flush grip design won’t catch on pockets or tool pouches.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Demolition Diagonal Pliers 200mm",
+  "specifications": [
+    "Low profile head for tight spaces",
+    "Induction hardened blades",
+    "Near flush cut design reduces cut nail height by 75%",
+    "Ergonomic soft grip handles"
+  ]
+}
+
 <|https://www.mydiy.ie/products/dewalt-hand-tools-diagonal-cutting-pliers-160mm.html|>
 ## DeWALT Hand Tools Diagonal Cutting Pliers 160mm
 
@@ -180,6 +483,19 @@
     "Model: DHT082796",
     "Length: 160mm",
     "Price: €23.95"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-drop-point-folding-pocket-knife.html|>
+## DeWALT Hand Tools Drop Point Folding Pocket Knife
+
+{
+  "price": "€25.30 inc VAT (€20.57 exc.vat)",
+  "description": "The DEWALT Drop Point Folding Pocket Knife has an extra long blade, 3.3 inches, making it ideal for more demanding jobs. This knife features smooth, flip-to-open operation. Engineered with a slim metal handle for durability and comfort, this knife delivers high-performance for a variety of demanding tasks. A secure liner lock helps avoid accidents. It has a reversible deep carry wire pocket clip and an integrated tether hole, ideal when working at height.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Drop Point Folding Pocket Knife",
+  "specifications": [
+    "Blade Length: 8.3cm (3.3in)"
   ]
 }
 
@@ -212,6 +528,22 @@
     "Model: DHT070273",
     "Material: Chrome Vanadium Steel",
     "Functions: Hammer, staple removal, wire stretching, wire splicing, wire cutting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-fixed-blade-tradesman-knife.html|>
+## DeWALT Hand Tools Fixed Blade Tradesman Knife
+
+{
+  "price": "€19.96 inc VAT (€16.23 exc.vat)",
+  "description": "The DEWALT Fixed Blade Tradesman Knife features a durable 90mm stainless steel blade. Fitted with a rubber molded handle for improved comfort and additional grip. There is also a tethered loop hole for added security. Supplied with a plastic sheath cover for safe storage and transportation.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Fixed Blade Tradesman Knife",
+  "specifications": [
+    "90mm stainless steel blade",
+    "Rubber molded handle for comfort",
+    "Tethered loop hole for security",
+    "Plastic sheath cover for storage"
   ]
 }
 
@@ -286,6 +618,23 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dewalt-hand-tools-full-fit-telescoping-multi-bit-ratcheting-screwdriver--10-bits.html|>
+## DeWALT Hand Tools Full Fit Telescoping Multi-bit Ratcheting Screwdriver + 10 Bits
+
+{
+  "price": "€39.94 inc VAT (€32.47 exc.vat)",
+  "description": "The DEWALT Full Fit Telescoping Multi-bit Ratcheting Screwdriver is designed for maximum fit in fasteners and reduces the potential for stripped screws. The telescoping bar provides the right amount of length when needed and retracts for storage. Its 45-Tooth premium ratcheting mechanism allows for smooth and consistent movement. Fitted with an ergonomic quad-lobe, bi-material handle for comfort and maximum torque. It also features a magnetic screw lock system, keeping fasteners secure during horizontal or vertical usage. Supplied with: 5 x 25mm Bits: PH1, PH2, SL4, SL6 & SQ2. 5 x 50mm Bits: PH1, PH2, SL4, SL6 & SQ2.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Full Fit Telescoping Multi-bit Ratcheting Screwdriver + 10 Bits",
+  "specifications": [
+    "45-Tooth premium ratcheting mechanism",
+    "Telescoping bar for adjustable length",
+    "Ergonomic quad-lobe, bi-material handle",
+    "Magnetic screw lock system",
+    "Includes 10 bits (5 x 25mm and 5 x 50mm)"
+  ]
+}
+
 <|https://www.mydiy.ie/products/dewalt-hand-tools-heavy-duty-staple-and-brad-tacker.html|>
 ## DeWALT Hand Tools Heavy-Duty Staple and Brad Tacker
 
@@ -327,6 +676,37 @@
     "WEEE Recycling Producer Registration Number:12889",
     "Money Back Guarantee: If you aren't happy with it for whatever reason within 16 days of delivery date, we'll refund or replace it for you (excluding shipping costs).",
     "Free delivery for orders over €150 within Ireland."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-max-fit-screwdriver-set-8-piece.html|>
+## DeWALT Hand Tools MAX FIT® Screwdriver Set, 8 Piece
+
+{
+  "price": "€39.94 inc VAT (€32.47 exc.vat)",
+  "description": "DEWALT MAX FIT® Screwdrivers feature CNC machined tips. The MAX FIT® Tip design ensures a maximum fit in fasteners and eliminates stripped screws. The bar and tips are made from tool-grade S2 for high strength and durability. Hex shaped bars provide additional torque and leverage when using with a wrench. The yellow torsion zone flexes to reduce cam-out. A magnetic screw lock system securely holds screws for one-handed fitment. Fitted with an ergonomic quad-lobe, bi-material handle for comfort and maximum torque. This 8 Piece Set contains: 4 x Slotted Screwdrivers: 4, 5.5, 6.5, 8mm. 2 x Phillips Screwdrivers: PH1, PH2. 2 x Pozi Screwdrivers: PZ1, PZ2.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools MAX FIT® Screwdriver Set, 8 Piece",
+  "specifications": [
+    "4 x Slotted Screwdrivers: 4, 5.5, 6.5, 8mm",
+    "2 x Phillips Screwdrivers: PH1, PH2",
+    "2 x Pozi Screwdrivers: PZ1, PZ2"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-hand-tools-metric-folding--locking-hex-key-set-8-piece.html|>
+## DeWALT Hand Tools Metric Folding / Locking Hex Key Set, 8 Piece
+
+{
+  "price": "€19.96 inc VAT (€16.23 exc.vat)",
+  "description": "DEWALT Metric Folding / Locking Hex Key Set includes a push-button locking feature that protects fingers and improves productivity. 3 locking positions enable you to manoeuvre into awkward spaces and reduce slipping during use. The keys are made from soil steel side plate for added strength and torque. Includes 8 of the most commonly used hex key sizes: 1.5-8mm.",
+  "availability": "In Stock",
+  "product_name": "DeWALT Hand Tools Metric Folding / Locking Hex Key Set, 8 Piece",
+  "specifications": [
+    "Includes 8 commonly used hex key sizes: 1.5-8mm",
+    "Push-button locking feature",
+    "3 locking positions for maneuverability",
+    "Made from soil steel side plate for strength and torque"
   ]
 }
 
@@ -406,6 +786,20 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dewalt-sds-max-steel-clay-spade-110mm-length-400mm.html|>
+## DEWALT SDS Max Steel Clay Spade 110mm Length 400mm
+
+{
+  "price": "€166.22 inc VAT (€135.14 exc.vat)",
+  "description": "The SDS Max chisels are ideal for heavy-duty chiselling, channelling, and demolition tasks in concrete, stone (medium hardness), floor and wall tiles, general masonry and mortar. This SDS max steel clay spade is made from specially toughened steel which ensures tough bits and micro-processor controlled heat treatment providing for consistently tough, long life chisels.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT SDS Max Steel Clay Spade 110mm Length 400mm",
+  "specifications": [
+    "Width: 110mm",
+    "Length: 400mm"
+  ]
+}
+
 <|https://www.mydiy.ie/products/dewalt-sds-max-steel-points.html|>
 ## DEWALT SDS Max Steel Points
 
@@ -418,6 +812,20 @@
     "Toughened steel for durability",
     "Micro-processor controlled heat treatment",
     "Sharp pointed end for precision"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-max-steel-tile-chisel-80mm-length-300mm.html|>
+## DEWALT SDS Max Steel Tile Chisel 80mm Length 300mm
+
+{
+  "price": "€87.83 inc VAT (€71.41 exc.vat)",
+  "description": "The SDS Max Steel tile chisel is ideal for heavy-duty chiselling, channelling and demolition tasks in concrete, stone (medium hardness), floor and wall tiles, general masonry and mortar. This tile chisel features specially toughened steel and micro-processor controlled heat treatment which ensures consistent tough bits with long life.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT SDS Max Steel Tile Chisel 80mm Length 300mm",
+  "specifications": [
+    "Width: 80mm",
+    "Length: 300mm"
   ]
 }
 
@@ -435,6 +843,20 @@
     "Model: DEWDT6802QZ",
     "List Price: €30.85",
     "You save: €9.25"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-sds-plus-steel-gougehollow-22mm-length-240mm.html|>
+## DEWALT SDS Plus Steel Gouge/Hollow 22mm Length 240mm
+
+{
+  "price": "€39.94 inc VAT (€32.47 exc.vat)",
+  "description": "DEWALT SDS Plus Steel Gouge/Hollow. Made from specially toughened steel and with micro-processor controlled heat treatment to ensure that it is tough with a long life. Width: 22mm. Length: 240mm.",
+  "availability": "In Stock",
+  "product_name": "DEWALT SDS Plus Steel Gouge/Hollow 22mm Length 240mm",
+  "specifications": [
+    "Width: 22mm",
+    "Length: 240mm"
   ]
 }
 
@@ -479,6 +901,19 @@
   "specifications": [
     "Width: 40mm",
     "Length: 200mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-security-clip-and-wire.html|>
+## Security Clip & Wire
+
+{
+  "price": "€0.00",
+  "description": "1 x DEWALT Security Clip & Wire",
+  "availability": "In Stock",
+  "product_name": "Security Clip & Wire",
+  "specifications": [
+    "DEWMP00665 : €0.00"
   ]
 }
 
@@ -637,6 +1072,21 @@
     "DEWDT70568T : €11.25",
     "List: €16.68",
     "You save €5.43"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-tx25-85mm-ir-torsion-bit-pk2.html|>
+## DEWALT Tx25 85Mm Ir Torsion Bit Pk2
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "Tx25 85Mm Ir Torsion Bit Pk2",
+  "availability": "In Stock",
+  "product_name": "DEWALT Tx25 85Mm Ir Torsion Bit Pk2",
+  "specifications": [
+    "DEWDT70569T : €12.99",
+    "List: €16.68",
+    "You save €3.69"
   ]
 }
 
@@ -945,6 +1395,23 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dmt-f70-mini-sharp-diamond-whetstones-140mm.html|>
+## DMT F70 Mini Sharp Diamond Whetstones 140mm
+
+{
+  "price": "€32.85 inc VAT",
+  "description": "The DMT F70 Diamond Whetstone that travels with you. It has a flip open lid/handle and a swivel ring for key chain. 140 mm when open, this is the perfect pocket knife accessory. Effective on the hardest stainless steel blades, tools and sporting goods. Handle folds easily for protected storage.",
+  "availability": "In Stock",
+  "product_name": "DMT F70 Mini Sharp Diamond Whetstones 140mm",
+  "specifications": [
+    "Select Option: Black 220 Grit - Extra Coarse, Blue 325 Grit - Coarse, Green 1200 Grit - Extra Fine, Red 600 Grit - Fine",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
 <|https://www.mydiy.ie/products/dmt-fc-diamond-chainsaw-files.html|>
 ## DMT FC Diamond Chainsaw Files
 
@@ -1022,6 +1489,22 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dmt-w6-diamond-whetstones-150mm.html|>
+## DMT W6 Diamond Whetstones 150mm
+
+{
+  "price": "from €130.74 inc VAT",
+  "description": "The 150mm (6in) W6 Diamond Whetstones are ideal for kitchen use and for the honing of smaller workshop tools. They have a large, wider diamond surface for sharpening a variety of knives and edges. Supplied in a plastic case fitted with non-skid rubber feet or wooden box, the base of the plastic case may be screw mounted to a bench.",
+  "availability": "In Stock",
+  "product_name": "DMT W6 Diamond Whetstones 150mm",
+  "specifications": [
+    "Black: Extra Coarse Grade 220, 60 micron.",
+    "Blue: Coarse Grade 325, 45 micron.",
+    "Red: Fine Grade 600, 25 micron.",
+    "Green: Extra Fine Grade 1200, 9 micron."
+  ]
+}
+
 <|https://www.mydiy.ie/products/dmt-w7-mini-diamond-whetstones-70mm-x-25mm.html|>
 ## DMT W7 Mini Diamond Whetstones 70mm x 25mm
 
@@ -1051,6 +1534,21 @@
     "Green 1200 Grit Extra Fine",
     "Red 600 Grit Fine",
     "Black Extra Coarse Grade 220, 60 micron"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dmt-w8-double-sided-diamond-whetstone-8in.html|>
+## DMT W8 Double Sided Diamond Whetstone 8in
+
+{
+  "price": "€298.80 inc VAT",
+  "description": "W8 double sided (combination) diamond whetstones will not break, chip, crack, hollow or groove. These ultra precision whetstones are lightweight and have a totally rigid construction. Use water for lubrication - no oil, smell or mess and can hone ALL hard materials: carbide, steel. The grits are denoted by a dual coloured circle which is set into one end. Black: Extra Coarse Grade 220, 60 micron. Blue: Coarse Grade 325, 45 micron. Red: Fine Grade 600, 25 micron. Green: Extra Fine Grade 1200, 9 micron.",
+  "availability": "In Stock",
+  "product_name": "DMT W8 Double Sided Diamond Whetstone 8in",
+  "specifications": [
+    "200mm Extra Fine / Coarse",
+    "200mm Extra Fine / Fine",
+    "200mm Fine / Coarse"
   ]
 }
 
@@ -1107,6 +1605,37 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dormer-hss-duo-tap--a002-drill-bit.html|>
+## Dormer HSS Duo Tap + A002 Drill Bit
+
+{
+  "price": "€23.95 inc VAT",
+  "description": "These Dormer 2 piece sets each feature a tap and its corresponding pre-hole drill in one convenient package, helping to save time and error. The packs contain an A002 split-point jobber drill and a straight flute tap. The taps are suitable for threading up to 1.5x their diameter in most materials (ISO Standard). Two tap options are available: 2nd tap for through drilling, or a plug tap for blind holes.",
+  "availability": "In Stock",
+  "product_name": "Dormer HSS Duo Tap + A002 Drill Bit",
+  "specifications": [
+    "Includes A002 split-point jobber drill and straight flute tap",
+    "Suitable for threading up to 1.5x diameter in most materials",
+    "Two tap options: 2nd tap for through drilling or plug tap for blind holes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-hss-metric-coarse-combination-drill-and-spiral-flute-tap.html|>
+## Dormer HSS Metric Coarse Combination Drill & Spiral Flute Tap
+
+{
+  "price": "€86.49 inc VAT",
+  "description": "These Dormer Metric Coarse Combination Drill & Spiral Flute Taps allow drilling/threading holes in one single operation.  They are made from High Speed Steel and are suitable for use on most materials.  They can be used in reversible, variable speed power tools. Manufactured to ISO Standards.",
+  "availability": "In Stock",
+  "product_name": "Dormer HSS Metric Coarse Combination Drill & Spiral Flute Tap",
+  "specifications": [
+    "Select Option: M5, M6, M8",
+    "High Speed Steel",
+    "Suitable for use on most materials",
+    "Manufactured to ISO Standards"
+  ]
+}
+
 <|https://www.mydiy.ie/products/dormer-m100-carbon-steel-screw-extractors.html|>
 ## Dormer M100 Carbon Steel Screw Extractors
 
@@ -1121,6 +1650,21 @@
     "Fast & Reliable Shipping with DPD",
     "FREE delivery for orders over €150 within Ireland",
     "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dormer-m900-screw-extractor.html|>
+## Dormer M900 Screw Extractor
+
+{
+  "price": "€6.70 inc VAT",
+  "description": "The Dormer M900 Screw Extractors can be used counter-clockwise to remove broken right-handed bolts & screws from threaded holes without damaging threads. It’s necessary to drill a guide hole of proper size before using the extractor.",
+  "availability": "In Stock",
+  "product_name": "Dormer M900 Screw Extractor",
+  "specifications": [
+    "Select Option: M12-M14, M14-M20, M20-M30, M30-M42, M42-M45, M45-M50, M5-M6, M6-M8, M8-M12",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
 
@@ -1171,6 +1715,23 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dormer-p803-solid-carbide-bright-rotary-burr---cylinder-with-endcut.html|>
+## Dormer P803 Solid Carbide Bright Rotary Burr - Cylinder With Endcut
+
+{
+  "price": "€11.40 inc VAT",
+  "description": "The Dormer P803 Solid Carbide Bright Rotary Burrs have cylinders with end cuts and produce double cuts. The first choice for general machining, improves ease of control, increased metal removal rate and breaks swarf into manageable pieces. They have toughened and hardened steel shanks that provide rigidity and strength. This prevents bending and reduces vibrations for an improved tool life. Ground to h6 (Carbide) and h7 (Steel). Excellent impact strength that is able to withstand high forces and to withstand higher temperature without failing. Special brazing elements provide excellent braze strength.",
+  "availability": "In Stock",
+  "product_name": "Dormer P803 Solid Carbide Bright Rotary Burr - Cylinder With Endcut",
+  "specifications": [
+    "Select Option: 16mm x 6mm, 3mm x 3mm, 6.3mm x 6mm, 6mm x 6mm, 8mm x 6mm, 9.6mm x 6mm, Solid Carbide Burr Bright - Cylinder With Endcut 12.70mm x 6mm",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
 <|https://www.mydiy.ie/products/dormer-p805-solid-carbide-rotary-bright-burr-ball-nosed-cylinder.html|>
 ## Dormer P805 Solid Carbide Rotary Bright Burr Ball Nosed Cylinder
 
@@ -1205,6 +1766,23 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dormer-p809-solid-carbide-rotary-bright-burr-oval.html|>
+## Dormer P809 Solid Carbide Rotary Bright Burr Oval
+
+{
+  "price": "€10.38 inc VAT",
+  "description": "The Dormer P809 Solid Carbide Bright Rotary Burr with oval ball nose geometry for skip flute grinding and increased strength at the centre. With a reduced chance of swarf congestion and improved cutting action closer to the centre. Produces double cuts, making it first choice for general machining. With an improved ease of control, increased metal removal rate and breaks swarf into manageable pieces. They have toughened and hardened steel shanks that provide rigidity and strength. This prevents bending and reduces vibrations for an improved tool life. Ground to h6 (Carbide) and h7 (Steel). Excellent impact strength that is able to withstand high forces and to withstand higher temperature without failing. Special brazing elements provide excellent braze strength.",
+  "availability": "In Stock",
+  "product_name": "Dormer P809 Solid Carbide Rotary Bright Burr Oval",
+  "specifications": [
+    "Oval ball nose geometry",
+    "Double cuts for general machining",
+    "Toughened and hardened steel shanks",
+    "Ground to h6 (Carbide) and h7 (Steel)",
+    "Excellent impact strength"
+  ]
+}
+
 <|https://www.mydiy.ie/products/dormer-p813-solid-carbide-bright-rotary-burr-pointed-tree.html|>
 ## Dormer P813 Solid Carbide Bright Rotary Burr Pointed Tree
 
@@ -1222,6 +1800,24 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/dormer-solid-carbide-rotary-burr-cylindrical-set-5-piece.html|>
+## Dormer Solid Carbide Rotary Burr Cylindrical Set 5 Piece
+
+{
+  "price": "€143.54 inc VAT (€116.70 exc.vat)",
+  "description": "The Dormer P88001 Solid Carbide Rotary Burr Cylindrical Set contains a variety of rotary burrs. They all feature toughened and hardened steel shanks that provide rigidity and strength. This prevents bending and reduces vibrations for an improved tool life. Ground to h6 (Carbide) and h7 (Steel). Excellent impact strength that is able to withstand high forces and to withstand higher temperature without failing. Special brazing elements provide excellent braze strength. The Dormer 813 Solid Carbide Rotary Burr Bright with pointed tree ball nose geometry for skip flute grinding and increased strength at the centre. With a reduced chance of swarf congestion and improved cutting action closer to the centre. Produces double cuts, making it first choice for general machining. With an improved ease of control, increased metal removal rate and breaks swarf into manageable pieces. Contents: 1 x P8039.6X6.0 Rotary Burr - Cylinder With Endcut 9.6mm x 6mm. 1 x P8059.6X6.0 Rotary Burr Ball Nosed Cylinder 9.6mm x 6mm. 1 x P8079.6X6.0 Rotary Burr - Ball 9.6mm x 6mm. 1 x P8099.6X6.0 Rotary Burr - Oval 9.6mm x 6mm. 1 x P8139.6X6.0 Rotary Burr - Pointed Tree 9.6mm x 6mm.",
+  "availability": "Out of Stock",
+  "product_name": "Dormer Solid Carbide Rotary Burr Cylindrical Set 5 Piece",
+  "specifications": [
+    "Solid Carbide Rotary Burr Cylindrical Set",
+    "Includes 5 different rotary burrs",
+    "Toughened and hardened steel shanks",
+    "Ground to h6 (Carbide) and h7 (Steel)",
+    "Excellent impact strength",
+    "Special brazing elements for strength"
+  ]
+}
+
 <|https://www.mydiy.ie/products/drain-unblocker-98-sulphuric-acid.html|>
 ## Drain Unblocker 98% Sulphuric Acid
 
@@ -1236,6 +1832,22 @@
     "Does not damage pipes if instructions are followed",
     "Acts instantly",
     "Extremely strong"
+  ]
+}
+
+<|https://www.mydiy.ie/products/draper-venom-double-ground-first-fix-handsaw-500mm.html|>
+## Draper Venom Double Ground First Fix Handsaw 500mm
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "Saw blades manufactured from high quality 1mm SK5 carbon steel, that’s been correctly hardened, tempered, straightened and stress relieved to ensure the blades strength and straightness.",
+  "availability": "In Stock",
+  "product_name": "Draper Venom Double Ground First Fix Handsaw 500mm",
+  "specifications": [
+    "Blade length: 500mm",
+    "Material: 1mm SK5 carbon steel",
+    "Hardened and tempered for strength",
+    "Straightened and stress relieved"
   ]
 }
 
@@ -1314,6 +1926,19 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/ecl-cold-chisel.html|>
+## ECL Cold Chisel
+
+{
+  "price": "from €2.98 inc VAT",
+  "description": "Flat chisel. Made from chrome vanadium. For general cutting and chipping of metals, and for shaping, facing and cutting of stone work.",
+  "availability": "In Stock",
+  "product_name": "ECL Cold Chisel",
+  "specifications": [
+    "Select Option: 175 x 16mm (7 x 5/8in)"
+  ]
+}
+
 <|https://www.mydiy.ie/products/ecl-e222-scriber-190mm-712in.html|>
 ## ECL E222 Scriber 190mm (7.1/2in)
 
@@ -1389,6 +2014,26 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/edma-3101005-mat-slate-and-punch-cutter.html|>
+## 310/1005 Mat Slate & Punch Cutter
+
+{
+  "price": "€93.95 inc VAT (€76.38 exc.vat)",
+  "description": "Plier action roof slate tile cutter with spring loaded handles. This model also has a slate hole punch which operates by closing the handles. Approx length: 300 mm /12in. Features: Replaceable blade and punch. Punch diameter: 3.2 mm (1/8in). Cutting length: 35 mm per single pressure. Cutting width: 2.8 mm (0.109in).",
+  "availability": "In Stock",
+  "product_name": "310/1005 Mat Slate & Punch Cutter",
+  "specifications": [
+    "Plier action roof slate tile cutter",
+    "Spring loaded handles",
+    "Slate hole punch",
+    "Approx length: 300 mm / 12in",
+    "Replaceable blade and punch",
+    "Punch diameter: 3.2 mm (1/8in)",
+    "Cutting length: 35 mm per single pressure",
+    "Cutting width: 2.8 mm (0.109in)"
+  ]
+}
+
 <|https://www.mydiy.ie/products/edma-3201005a-mat-coup-slate-cutter.html|>
 ## 320/1005a Mat Coup Slate Cutter
 
@@ -1422,6 +2067,27 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/edma-baby-graf-1620-hog-ring-pliers.html|>
+## Edma Baby Graf 16/20 Hog Ring Pliers
+
+{
+  "price": "€27.37 inc VAT (€22.25 exc.vat)",
+  "description": "Includes a stop guide for a stronger hold on the hog ring. Built-in wire cutter. Compatible with Omega 16, Omega 20, Delta 18 and Delta 22 staples. Length 180mm. Weight 236g. Special features: 2 wire cutters. Patented ergonomic handles. Stainless steel coiled spring. Anti-rust coating.",
+  "availability": "In Stock",
+  "product_name": "Edma Baby Graf 16/20 Hog Ring Pliers",
+  "specifications": [
+    "Length 180mm",
+    "Weight 236g",
+    "Includes a stop guide for a stronger hold",
+    "Built-in wire cutter",
+    "Compatible with Omega 16, Omega 20, Delta 18 and Delta 22 staples",
+    "2 wire cutters",
+    "Patented ergonomic handles",
+    "Stainless steel coiled spring",
+    "Anti-rust coating"
+  ]
+}
+
 <|https://www.mydiy.ie/products/edma-board-lifter.html|>
 ## Edma Board Lifter
 
@@ -1435,6 +2101,23 @@
     "Fast & Reliable Shipping with DPD",
     "FREE delivery for orders over €150 within Ireland",
     "Money Back Guarantee within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/edma-die---only-for-0320-and-0310.html|>
+## Edma Die - Only For 0320 & 0310
+
+{
+  "price": "€16.32 inc VAT (€13.27 exc.vat)",
+  "description": "Die - only for 0310 and 0320 slate cutters.",
+  "availability": "In Stock",
+  "product_name": "Edma Die - Only For 0320 & 0310",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price.",
+    "Gas discharge lamps, LFLs and CFLs €0.15",
+    "LED lamps and luminaires €0.05",
+    "Large appliances €5.00"
   ]
 }
 
@@ -1464,6 +2147,19 @@
     "Available sizes: 100cm, 45cm, 60cm, 80cm",
     "Made from 0.3mm stainless steel",
     "Rounded edges"
+  ]
+}
+
+<|https://www.mydiy.ie/products/edma-edmafoam-hot-knife-320w-240v.html|>
+## Edma EDMAFOAM Hot Knife 320W 240V
+
+{
+  "price": "€291.58 inc VAT (€237.06 exc.vat)",
+  "description": "Edma EDMAFOAM Hot Knife for faster, cleaner and effortless cutting for styrofoam (E.P.S./X.P.S.). With no dust. An integrated air-cooling system enables the hot knife to be continuously operated. CE certified. Delivered in a plastic case including: 1 x 200mm Blade, 1 x 250mm Blade, 1 x 30mm Groove Cutter, 1 x Metallic Brush and1 x  Blade Fixing Key",
+  "availability": "Out of Stock",
+  "product_name": "Edma EDMAFOAM Hot Knife 320W 240V",
+  "specifications": [
+    "Power: 320W"
   ]
 }
 
@@ -1648,6 +2344,41 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/edma-maxi-ret-swaging-tool-5-blade.html|>
+## Edma Maxi Ret Swaging Tool 5 Blade
+
+{
+  "price": "€103.91 inc VAT (€84.48 exc.vat)",
+  "description": "Designed for the progressive reduction of the pipe diameter. For stainless steel pipe up to 0.8 mm / 1/32in. Length: 265 mm. Weight: 554g. Special features: Ergonomic design with special soft-grip handles. Swaging up to 52 mm.",
+  "availability": "In Stock",
+  "product_name": "Edma Maxi Ret Swaging Tool 5 Blade",
+  "specifications": [
+    "Designed for the progressive reduction of the pipe diameter",
+    "For stainless steel pipe up to 0.8 mm / 1/32in",
+    "Length: 265 mm",
+    "Weight: 554g",
+    "Ergonomic design with special soft-grip handles",
+    "Swaging up to 52 mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/edma-monodex-nibbler-shears.html|>
+## Edma Monodex Nibbler Shears
+
+{
+  "price": "€61.44 inc VAT (€49.95 exc.vat)",
+  "description": "Monodex Nibbler Shears are easier to use in many applications than conventional tinsnips. The upward cutting action of the blade cuts through mild steel up to 20 gauge and most non-ferrous metals up to 18 gauge thickness. Cuts without distorting the sheet. Cutting Capacities: Stainless steel: 0.6mm (22ga; 0.023in). Galvanised steel, zinc, sheet metal: 1.2mm (16ga; 0.047in). Copper, brass: 1.5mm (15ga; 0.059in). PVC, vinyl flooring, aluminium: 2mm (12ga; 0.078in). Polycarbonate: 2.5mm (10ga; 0.098in). Perfect for cutting rails and studs. Replaceable stainless steel blade. No shear strain. Nibbling width: 2.7 mm.",
+  "availability": "In Stock",
+  "product_name": "Edma Monodex Nibbler Shears",
+  "specifications": [
+    "Cuts through mild steel up to 20 gauge",
+    "Cuts through non-ferrous metals up to 18 gauge",
+    "Cutting capacities for various materials",
+    "Nibbling width: 2.7 mm",
+    "Replaceable stainless steel blade"
+  ]
+}
+
 <|https://www.mydiy.ie/products/edma-multicoup-extra-universal-cutting-tool.html|>
 ## Edma Multicoup Extra Universal Cutting Tool
 
@@ -1694,6 +2425,21 @@
     "Vibration Frequency: 1500 times/min",
     "Max. Cutting Height: 650mm",
     "Max. Cutting Thickness: 270mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/edma-pro-mat-coup-slate-guillotine-machine.html|>
+## Pro Mat Coup Slate Guillotine Machine
+
+{
+  "price": "€87.60 inc VAT (€71.22 exc.vat)",
+  "description": "Guillotine type heavy-duty roof slate tile cutter of 210mm (8.1/4in) capacity. Designed to cut slates up to 7mm (9.3/2in) thick. The frame is fitted with a mounting hook for fixing to lathes or a bench.",
+  "availability": "In Stock",
+  "product_name": "Pro Mat Coup Slate Guillotine Machine",
+  "specifications": [
+    "Model: EDM0330",
+    "Cutting Capacity: 210mm (8.1/4in)",
+    "Slate Thickness: Up to 7mm (9.3/2in)"
   ]
 }
 
@@ -1890,6 +2636,22 @@
   "product_name": "Einhell Aluminium Guide Rails 1000mm",
   "specifications": [
     "Rail Length: 1000mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-axxio-36230-q-power-x-change-grinder-230mm-36v-bare-unit.html|>
+## Einhell AXXIO 36/230 Q Power X-Change Grinder 230mm 36V Bare Unit
+
+{
+  "price": "€187.75 inc VAT (€152.64 exc.vat)",
+  "description": "Einhell AXXIO 36/230 Q Power X-Change Grinder with TWIN-PACK technology and brushless motor for more power and a longer running time. Thanks to its powerful motor, this angle grinder delivers the same power as a corresponding corded device with 2200W. A quick-release nut ensures quick, tool-free disc change. The slim design with ergonomic softgrip enables comfortable use. Its additional handle can be mounted in 3 positions. The rotating main handle offers maximum flexibility, while the disc guard with quick adjustment allows flexible working. An anti-vibration function ensures low-vibration work. Softstart and restart protection ensure increased user safety, while battery protection protects against flying sparks and dust. The robust aluminium gearbox housing and the overload protection guarantee durability. Comes as a Bare Unit, NO battery or charger. This grinder needs 2 x 18V batteries to run, a 3.0Ah battery or above is strongly recommended for best results. Cutting discs also not included.",
+  "availability": "In Stock",
+  "product_name": "Einhell AXXIO 36/230 Q Power X-Change Grinder 230mm 36V Bare Unit",
+  "specifications": [
+    "No Load Speed: 6,600/min.",
+    "Max. Disc Diameter: 230mm.",
+    "Max. Cutting Depth: 70mm.",
+    "Weight: 4.21kg."
   ]
 }
 
@@ -2251,6 +3013,57 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/einhell-ge-cm-1830-li-solo-power-x-change-lawn-mower-18v-bare-unit.html|>
+## Einhell GE-CM 18/30 Li-Solo Power X-Change Lawn Mower 18V Bare Unit
+
+{
+  "price": "€117.07 inc VAT (€95.18 exc.vat)",
+  "description": "The Einhell GE-CM 18/30 Li-Solo Power X-Change Lawn Mower is recommended for lawns of up to 150m² in size. The brushless motor offers more power and a longer running time than conventional carbon brush motors. After registering online, the brushless motor comes with a 10-year warranty. For practical mowing there is a 3-level axial cutting height adjustment facility. Its housing is made with high-quality impact-resistant plastic. A folding long handle enables storage in minimum space. For easy transportation there is an integrated carry handle. The grass catch basket has a capacity of 25 liters. The large wheels put less stress on the lawn while mowing. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-CM 18/30 Li-Solo Power X-Change Lawn Mower 18V Bare Unit",
+  "specifications": [
+    "Cutting Width: 30cm",
+    "Cutting Height Adjustment: 3 Stages: 30-70mm",
+    "Grass Box Capacity: 25 litre",
+    "Max. Recommended Lawn Area: 150m²",
+    "Weight: 8.87kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-cm-3633-li-power-x-change-lawn-mower-36v-2-x-25ah-li-ion.html|>
+## Einhell GE-CM 36/33 Li Power X-Change Lawn Mower 36V 2 x 2.5Ah Li-ion
+
+{
+  "price": "€321.83 inc VAT (€261.65 exc.vat)",
+  "description": "The Einhell GE-CM 36/33 Li Power X-Change Lawn Mower is recommended for lawns up to 250m². Five-stage central cutting height adjustment permits the simple, individual adjustment of the cutting height. The long-lasting housing consists of high-quality, impact-resistant plastics. Equipped with a foldable push handle with high-speed clamping levers and can be adjusted in height. Its large-area wheels additionally preserve the lawn. The large grass box is equipped with a filling level display, so it can be seen immediately, if emptying is necessary. A practical carry handle provides a simple transport. Supplied with: 2 x 18V 2.5Ah Batteries and 2 x High-speed Chargers.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-CM 36/33 Li Power X-Change Lawn Mower 36V 2 x 2.5Ah Li-ion",
+  "specifications": [
+    "Cutting Width: 33cm",
+    "Cutting Height Adjustment: 5 Stages: 25-65mm",
+    "Grass Box Capacity: 30 litre",
+    "Max. Recommended Lawn Area: 250m²",
+    "Weight: 11.55kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-cm-3637-li-solo-power-x-change-lawn-mower-36v-bare-unit.html|>
+## Einhell GE-CM 36/37 Li-Solo Power X-Change Lawn Mower 36V Bare Unit
+
+{
+  "price": "€211.99 inc VAT (€172.35 exc.vat)",
+  "description": "The Einhell GE-CM 36/37 Li-Solo Power X-Change Lawn Mower is recommended for lawns of up to 400m² in size. Six-level cutting height adjustment from 25 to 75mm and a cutting width of up to 37cm provide you with everything you need to shape your lawn just how you like it. In the process, the integrated grass comb allows you to cut the grass right up to the edges. The ergonomically shaped handles ensure that you don't get tired while working, and the height-adjustable long handle can be individually adapted to each user. It is very sturdy and features a lightweight long handle made of aluminum. The integrated carry handle makes the unit easy to transport. The long handle can be folded down for space-saving storage of the lawn mower. The grass basket has a capacity of 45 liters and comes with a filling level indicator. The high wheeler has wide wheels that protect the lawn. Comes as a Bare Unit, NO battery or charger. This lawn mower needs 2 x 18V batteries to run, a 2.5Ah battery or above is strongly recommended for best results.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-CM 36/37 Li-Solo Power X-Change Lawn Mower 36V Bare Unit",
+  "specifications": [
+    "Cutting Width: 37cm",
+    "Cutting Height Adjustment: 6 Stages: 25-75mm",
+    "Grass Box Capacity: 45 litre",
+    "Max. Recommended Lawn Area: 400m²",
+    "Weight: 13.45kg"
+  ]
+}
+
 <|https://www.mydiy.ie/products/einhell-ge-cr-1820-li-e---solo-tiller-18v-bare-unit.html|>
 ## Einhell GE-CR 18/20 Li E - Solo Tiller 18V Bare Unit
 
@@ -2280,6 +3093,52 @@
     "Line Cutting Speed: 8,500/min.",
     "Cutting Width: 24cm.",
     "Weight: 1.75kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-ct-1830-li-solo-power-x-change-grass-trimmer-18v-bare-unit.html|>
+## Einhell GE-CT 18/30 Li-Solo Power X-Change Grass Trimmer 18V Bare Unit
+
+{
+  "price": "€83.75 inc VAT (€68.09 exc.vat)",
+  "description": "The Einhell GE-CT 18/30 Li-Solo Power X-Change Grass Trimmer ensures the perfect lawn. Whether edges, surfaces, corners or sides: Nothing is a problem for the cordless garden helper. The motor head is rotatable by 90° for vertical surfaces and lawn edges. Including the guide wheel, so precise edge cutting is possible. In addition, it has three tilt positions and ensures flexible working under bushes or other obstacles. The simple, quick and convenient telescopic guide bar is a real help. Its adjustable additional handle ensures comfortable handling, while the softgrip offers perfect comfort. A flowerguard protects plants and trees from damage. The automatic jogging system ensures the practical tracking of the thread as required. Supplied with a thread spool (5m). Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-CT 18/30 Li-Solo Power X-Change Grass Trimmer 18V Bare Unit",
+  "specifications": [
+    "Line Cutting Speed: 8,500/min.",
+    "Cutting Width: 30cm.",
+    "Weight: 2.1kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-ct-1833-li-e-solo-power-x-change-lawn-trimmer-18v-bare-unit.html|>
+## Einhell GE-CT 18/33 Li E-Solo Power X-Change Lawn Trimmer 18V Bare Unit
+
+{
+  "price": "€125.16 inc VAT (€101.76 exc.vat)",
+  "description": "The Einhell GE-CT 18/33 Li E-Solo Power X-Change Lawn Trimmer handles any gardening challenge around lawn edges, narrow spots and borders. The spool of the trimmer holds an 8m long, 2mm thick line, and is driven by a powerful motor with an idling speed of up to 7,000 revolutions per minute. The two speed settings can be used to adapt the speed of the motor to the type of grass being cut. This means even tall grasses are no problem. Thanks to the automatic feed system, the trimmer can be adjusted quickly and easily without the need for manual feeding. With its lightweight aluminium handle pole, auxiliary handle and padded carrying strap, this cordless trimmer offers maximum comfort and stability as you work. The slight curvature at one end of the main pole put the motor head and cutter in the optimal position to achieve perfect cutting results. The main handle is also slightly angled, ensuring the ideal wrist position and preventing fatigue. Other features include a flowerguard, battery protection (sturdy steel frame) and a removable main pole saves space when storing the trimmer. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-CT 18/33 Li E-Solo Power X-Change Lawn Trimmer 18V Bare Unit",
+  "specifications": [
+    "Line Cutting Speed: 7,000/min.",
+    "Cutting Width: 33cm.",
+    "Weight: 2.65kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-ct-3630-li-solo-power-x-change-grass-trimmer-36v-bare-unit.html|>
+## Einhell GE-CT 36/30 Li-Solo Power X-Change Grass Trimmer 36V Bare Unit
+
+{
+  "price": "€115.05 inc VAT (€93.54 exc.vat)",
+  "description": "The Einhell GE-CT 36/30 Li-Solo Power X-Change Grass Trimmer is a powerful and cordless tool which provides unlimited freedom when working in the garden. Powered by two 18V batteries (NOT SUPPLIED). Whether trimming edge strips or getting the lawn into shape, the powerful cordless grass trimmer goes about its work briskly thanks to the electronic speed control. Its single line spool with bump feed system offers a cutting width of up to 30 centimeters. The shaped long aluminum handle takes the fatigue out of working and its split shaft design makes it easy to transport and store. Its adjustable additional handle is fitted with a quick-release lock. A Flower Guard always ensures the necessary safe distance from flowers and ornamental plants, preserving the beauty of the garden. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-CT 36/30 Li-Solo Power X-Change Grass Trimmer 36V Bare Unit",
+  "specifications": [
+    "Line Cutting Speed: 9,000/min.",
+    "Cutting Width: 30cm",
+    "Line Length x Ø: 8m x 2mm",
+    "Weight: 3.11kg"
   ]
 }
 
@@ -2379,6 +3238,44 @@
     "Number of Drive Links: 33",
     "Oil Tank Content: 125ml",
     "Weight: 3.96kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-le-18190-li-solo-power-x-change-lawn-edge-trimmer-18v-bare-unit.html|>
+## Einhell GE-LE 18/190 Li-Solo Power X-Change Lawn Edge Trimmer 18V Bare Unit
+
+{
+  "price": "€130.20 inc VAT (€105.85 exc.vat)",
+  "description": "Einhell GE-LE 18/190 Li-Solo Power X-Change Lawn Edge Trimmer. The 3-stage depth adjustment ensures precise results from 36.5mm to 45mm. Its double-sided cutting blade provides accurate edge cuts, while the rollers at the front and rear enable precise work progress. A protective mechanism for use is integrated with the knife protection cap. Softgrip guarantees optimum handling and ergonomics. In addition, the adjustable additional handle ensures precise and safe guidance of the cordless lawn edge cutter. The split shaft offers easy transport and space-saving storage. Offers wireless freedom as a member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell GE-LE 18/190 Li-Solo Power X-Change Lawn Edge Trimmer 18V Bare Unit",
+  "specifications": [
+    "Cutting Depth: 36.5-45mm",
+    "Weight: 3.05kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-lm-364in1-li-solo-multifunctional-tool-36v-2-x-18v-bare-unit.html|>
+## Einhell GE-LM 36/4in1 Li-Solo Multifunctional Tool 36V (2 x 18V) Bare Unit
+
+{
+  "price": "€323.06 inc VAT (€262.65 exc.vat)",
+  "description": "The Einhell GE-LM 36/4in1 Li-Solo Multifunctional Tool is driven by a powerful, long-lasting brushless energy motor. Comes with 4 different attachments; 1 x Hedge Trimmer with 7 tilt settings and a laser-cut and diamond-ground steel blade. 1 x Brushcutter Attachment, this 3-tooth blade is made from laser-cut and diamond-ground steel. 1 x Pole Saw Attachment with a high-quality OREGON cutter rail and chain. An oil tank ensures automatic lubrication of the chain. 1 x Line Trimmer Spool Attachment with automatic jog feed. Its also supplied with an extension pole for high hedges and branches, as well as an adjustable additional handle and harness. Member of the Power X-Change family. Powered by 2 x 18V Power X-Change Batteries (NOT supplied).",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-LM 36/4in1 Li-Solo Multifunctional Tool 36V (2 x 18V) Bare Unit",
+  "specifications": [
+    "Chainsaw Bar Length: 200mm",
+    "Chain Cutting Speed: 10 m/s",
+    "Oil Tank Capacity: 100ml",
+    "Hedge Trimmer Max. Cutting Length: 450mm",
+    "Spacing between Teeth: 24mm",
+    "Strokes at No Load: 2,400/min",
+    "Brushcutter Knife Type: 3 tooth",
+    "Cutting Width: 25.5cm",
+    "Spool Type: Single Line",
+    "Cutting Width: 33cm",
+    "Thread Length x Diameter: 800cm x 2mm",
+    "Weight: 4.5kg"
   ]
 }
 
@@ -2544,6 +3441,20 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/einhell-power-x-change-li-ion-batteries-18-volt.html|>
+## Einhell Power X-Change Li-Ion Batteries 18 Volt
+
+{
+  "price": "from €73.87 inc VAT",
+  "description": "The Einhell Power X-Change Li-Ion Batteries are controlled by a micro-processor, which monitors its key parameters such as temperature, voltage and current strength. This provides effective protection against overheating and ensures the right balance for optimum operating conditions. The battery can be charged irrespective of its charge level. An automatic check establishes conditions on which the charging process depends. In normal conditions, for example, the high-speed charging process is started directly. In other conditions, e.g. extreme cold or exhaustive discharge, gentle charging is performed at reduced current strength. This charging method protects the battery and is essential for ensuring a long service life. The intelligent charge control system controls each battery cell individually, ensuring that each cell is fully charged. This produces maximum supply of power. Overcharging is not possible, because even a charged battery can remain in the charger. The battery has a 3-stage LED indicator which indicates not only the battery charge, but also extreme temperature conditions. It also has a triple shell design for optimum protection against damage.",
+  "availability": "In Stock",
+  "product_name": "Einhell Power X-Change Li-Ion Batteries 18 Volt",
+  "specifications": [
+    "2 x 18V 4.0Ah Power X-Change Li-ion Batteries",
+    "2 x 18V 5.2Ah Power X-Change Li-ion Batteries"
+  ]
+}
+
 <|https://www.mydiy.ie/products/einhell-rasarro-3638-power-x-change-mower-36v-2-x-40ah-li-ion.html|>
 ## Einhell RASARRO 36/38 Power X-Change Mower 36V 2 x 4.0Ah Li-ion
 
@@ -2558,6 +3469,23 @@
     "Cutting Adjustment: Central",
     "Grass Box Capacity: 45 litre",
     "Weight: 15.5kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-rasarro-3642-power-x-change-mower-36v-2-x-52ah-li-ion.html|>
+## Einhell RASARRO 36/42 Power X-Change Mower 36V 2 x 5.2Ah Li-ion
+
+{
+  "price": "€454.19 inc VAT (€369.26 exc.vat)",
+  "description": "The Einhell RASARRO 36/42 Power X-Change Mower ensures a green, even lawn for your home garden. Recommended for lawns up to 725m². The six-stage central cutting height adjustment allows easy, individual adjustment of the cutting height from 25 to 75mm. Its robust housing is made of high-quality, impact-resistant plastic and an integrated lawn comb enables a particularly uniform mowing pattern and facilitates near-edge mowing. The large grass collection bucket can hold up to 50 litres of cut material and is equipped with a practical fill level indicator. In addition, a mulching wedge enables the fine comminution of the mowed crop, which is then uniformly distributed on the lawn and also fertilises the lawn. The RASARRO 36/42 is equipped with a height-adjustable, telescopic and foldable guide bar. This allows it to be perfectly adapted to any height and stowed away in a space-saving way. As a high wheeler, the cordless mower has raised rear wheels that make it easier to work in difficult terrain. Its large wheels also protect the lawn. Offers wireless freedom as a member of the Power X-Change family. Powered by the 36V twin pack technology, which combines the power of two powerful 18V batteries for extended use without annoying power cables. Supplied with: 2 x 18V 5.2Ah Li-ion Batteries and 1 x Power X-Change Twin Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell RASARRO 36/42 Power X-Change Mower 36V 2 x 5.2Ah Li-ion",
+  "specifications": [
+    "Cutting Width: 42cm",
+    "Cutting Height Adjustment: 6 Stages, 25-75mm",
+    "Cutting Adjustment: Central",
+    "Grass Box Capacity: 50 litre",
+    "Weight: 17.23kg"
   ]
 }
 
@@ -2769,6 +3697,21 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/einhell-tc-ra-18-li-bt---solo-cordless-radio-18v-bare-unit.html|>
+## Einhell TC-RA 18 Li BT - Solo Cordless Radio 18V Bare Unit
+
+{
+  "price": "€61.29 inc VAT (€49.83 exc.vat)",
+  "description": "The Einhell TC-RA 18 Li BT - Solo Cordless Radio is handy and robust, it receives both on AM and FM frequency, 10 memory slots are available for each. Using Bluetooth, the cordless radio can easily be paired with the smart phone, which can also be safely stored on the back of the device. The intuitive operating options are located around the high-quality LCD display with time display. Its foldable antenna ensures space-saving storage and easy transport by means of a carrying handle. In addition, the radio has the option of wall mounting. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This radio comes as a Bare Unit, NO battery or charger.",
+  "availability": "In Stock",
+  "product_name": "Einhell TC-RA 18 Li BT - Solo Cordless Radio 18V Bare Unit",
+  "specifications": [
+    "Frequency Range: AM 522 - 1620 kHz, FM 87.5 - 108 mHz",
+    "Number of Station Presets: 10",
+    "Weight: 0.7kg"
+  ]
+}
+
 <|https://www.mydiy.ie/products/einhell-tc-rh-620-4f-sds-rotary-hammer-620w-240v.html|>
 ## None
 
@@ -2894,6 +3837,22 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/einhell-te-ap-1813-li-solo-power-x-change-all-purpose-saw-18v-bare-unit.html|>
+## Einhell TE-AP 18/13 Li-Solo Power X-Change All Purpose Saw 18V Bare Unit
+
+{
+  "price": "€65.57 inc VAT (€53.31 exc.vat)",
+  "description": "The Einhell TE-AP 18/13 Li-Solo Power X-Change All Purpose Saw is a particularly lightweight and handy saw for uncomplicated use - irrespective of whether in the home or garden. Due to its low weight and ergonomic, compact design, the reciprocating saw is also suitable for one-handed operation. Thanks to special soft-grip surface area, it lies securely in your hand. It can be optimally adapted to different materials and the respective application using speed electronics. The saw blade can be exchanged quickly and without tools and inserted into the 0.6-1.6mm saw blade holder. For optimal use of the saw blade, the saw shoe can be adjusted exactly using the hexagon socket wrench which is stored and supplied in the housing. The switch-on lock and the soft start, which additionally protects the saw motor, increase user safety. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Comes as a Bare Unit - No Battery or Charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-AP 18/13 Li-Solo Power X-Change All Purpose Saw 18V Bare Unit",
+  "specifications": [
+    "Strokes at No Load: 3,000/min.",
+    "Stroke Length: 13mm.",
+    "Capacity: Wood 50mm, Steel 4mm.",
+    "Weight: 1.13kg"
+  ]
+}
+
 <|https://www.mydiy.ie/products/einhell-te-ap-18li-power-x-change-cordless-universal-saw-18-volt-bare-unit.html|>
 ## Einhell TE-AP 18LI Power X-Change Cordless Universal Saw 18 Volt Bare Unit
 
@@ -2924,6 +3883,21 @@
     "Grip Diameter: 40mm",
     "Suction Connection: Ø 35mm",
     "Weight: 1.13kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-cb-18180-li-solo-blower-18v-bare-unit.html|>
+## Einhell TE-CB 18/180 Li-Solo Blower 18V Bare Unit
+
+{
+  "price": "€38.31 inc VAT (€31.15 exc.vat)",
+  "description": "The Einhell TE-CB 18/180 Li-Solo Blower has a multitude of use on the construction site and in the workshop. Tripping hazards caused by electric cables are a thing of the past thanks to its cordless design. A powerful airflow of up to 180 km/h blows away disruptive dust and chips. Its soft grip handle reduces user fatigue and is pleasant to hold. The 2 speed levels ensure application-oriented work. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This blower comes as a Bare Unit, NO battery or charger. Supplied with three different inflation adapters that allow for a wide range of applications.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-CB 18/180 Li-Solo Blower 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 11,500/15,500/min.",
+    "Blow Velocity: 130/180 km/h.",
+    "Weight: 0.9kg."
   ]
 }
 
@@ -3058,6 +4032,22 @@
     "Cutting Depth: @90° 54mm, @45° 35mm.",
     "Saw Blade: Ø165 x 20mm bore.",
     "Weight 2.6kg (without battery)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-cs-18190-li-bl---solo-circular-saw-18v-bare-unit.html|>
+## Einhell TE-CS 18/190 Li BL - Solo Circular Saw 18V Bare Unit
+
+{
+  "price": "€156.46 inc VAT (€127.20 exc.vat)",
+  "description": "The Einhell TE-CS 18/190 Li BL - Solo Circular Saw delivers more power and longer running times. Its high-quality base plate is made of aluminum. Easy to operate, with tool-free adjustment (cutting depth, tilt angle) and easy saw blade changes thanks to the spindle lock. Fitted with a large handle helps prevent fatigue when working. The splitter adapts to the cutting depth, while the parallel stop enables precise cuts. LED lighting ensures optimum illumination of the working area. Its also equipped with a dust extraction adaptor. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This circular saw comes as a Bare Unit, NO battery or charger. 2.5Ah batteries or higher are recommended for best results. Supplied with: 1 x Carbide Saw Blade 190 x 20mm x 24T.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-CS 18/190 Li BL - Solo Circular Saw 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 3,800/min.",
+    "Max. Cutting Depth: @90° 65mm, @45° 45mm.",
+    "Blade: 190 x 20mm Bore.",
+    "Weight: 3.23kg."
   ]
 }
 
@@ -3257,6 +4247,43 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/einhell-te-rh-32-4f-kit-rotary-hammer-1250w-240v.html|>
+## Einhell TE-RH 32 4F Kit Rotary Hammer 1250W 240V
+
+{
+  "price": "€136.33 inc VAT (€110.84 exc.vat)",
+  "description": "Einhell TE-RH 32 4F Kit Rotary Hammer with four basic functions for renovation work: drilling, hammer drilling and chiselling with and without fixing. Suitable for demolition work as well as for tearing or breaking away hard material such as concrete, brick or stone. Equipped with a robust, universal SDS-plus tool adapter with semi-automatic operation. Speed electronics ensure material-and application-appropriate work. The rotary hammer transfers up to 5 Joules to the tool and creates propulsion with the pneumatic impact mechanism for up to 32mm of drilling capacity in concrete. The robust aluminum gear head increases the durability and longevity of the rotary hammer, which show LEDs indicating the status: Readiness for use or the need for service due to brush wear. The press control serves to visualise the optimum contact pressure. Large softgrip surfaces and the additional handle, which is securely fixed by ribbing, offer a firm hold and secure handling. The vibration-damped handle minimises vibrations in use. An overload slip clutch ensures increased user safety. Supplied with three drills (Ø 8, 10, 12mm) as well as pointed and flat chisels is in the transport and storage case E-Box.",
+  "availability": "In Stock",
+  "product_name": "Einhell TE-RH 32 4F Kit Rotary Hammer 1250W 240V",
+  "specifications": [
+    "Input Power: 1250W",
+    "No Load Speed: 0-850/min",
+    "Impact Rate: 0-4,100/bpm",
+    "Impact Power: 5 Joules",
+    "Drilling Capacity: Concrete 32mm",
+    "Weight: 5.05kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-rh261f-sds-plus-rotary-hammer-800w-240v.html|>
+## Einhell TE-RH26/1F SDS-Plus Rotary Hammer 800W 240V
+
+{
+  "price": "€131.75 inc VAT (€107.11 exc.vat)",
+  "description": "The Einhell TE-RH26/1F SDS-Plus Rotary Hammer combines four functions in one: drilling, impact drilling and chiseling with or without lock. Its pneumatic impact mechanism provides very good forward traction. There is a single position switch for selecting all functions. Its ergonomic soft grip provides exceptionally easy handling and a firm, secure grip. For comfortable and user-friendly operation there is a continuous operation lock. Changing tools is quick and easy thanks to the robust SDS-plus tool chuck with automatic slip-in-function. There is also an adjustable drilling depth stop. Supplied with a carry case.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-RH26/1F SDS-Plus Rotary Hammer 800W 240V",
+  "specifications": [
+    "Tool Holder: SDS-Plus",
+    "Input Power: 800W",
+    "No Load Speed: 0-930/min",
+    "Impact Rate: 0-4,500/bpm",
+    "Impact Power: 2.6 Joules",
+    "Drilling Capacity: Concrete: 26mm",
+    "Weight: 3.18kg"
+  ]
+}
+
 <|https://www.mydiy.ie/products/einhell-te-sg-1810-li-solo-power-x-change-caulking-gun-18v-bare-unit.html|>
 ## Einhell TE-SG 18/10 Li-Solo Power X-Change Caulking Gun 18V Bare Unit
 
@@ -3320,6 +4347,25 @@
     "Paint Container Volume: 1200ml.",
     "Air Hose Length: 1.8m.",
     "Weight: 2.66kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-te-tc-18115-li-solo-tile-cutter-18v-bare-unit.html|>
+## Einhell TE-TC 18/115 Li-Solo Tile Cutter 18V Bare Unit
+
+{
+  "price": "€134.69 inc VAT (€109.50 exc.vat)",
+  "description": "The Einhell TE-TC 18/115 Li-Solo Cordless Tile Cutter can be used anywhere, thanks to its battery power source (NOT supplied) and low weight design. The table can be tilted from 0° to 45°. It also features a parallel stop with angle scale for exact straight cuts and an adjustable angle stop with settings from -45° to +45° for mitre cuts. An integrated water container provides cooling for the cutting disc, and for safety there is a cutting wheel guard. Non-slip, low-vibration feet ensure a secure and steady standing position, and a carrying option for easy transport. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This tile cutter comes as a Bare Unit, NO battery or charger. Supplied with: 1 x Diamond Cutting Disc & 1 x Blade Change Tool.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell TE-TC 18/115 Li-Solo Tile Cutter 18V Bare Unit",
+  "specifications": [
+    "No Load Speed: 3,800/min.",
+    "Cutting Height: @45° 16mm, @90° 24mm.",
+    "Cutting Disc: Ø 115 x 22.2mm Bore.",
+    "Table Tilt: 0-45°.",
+    "Working Table Size: 305 x 335mm.",
+    "IP Class: IPX0.",
+    "Weight: 3.5kg."
   ]
 }
 
@@ -3414,6 +4460,25 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/einhell-tp-18v-power-x-change-twin-pack-bl-18v-2-x-20ah-li-ion.html|>
+## Einhell TP-18V Power X-Change Twin Pack BL 18V 2 x 2.0Ah Li-ion
+
+{
+  "price": "€200.53 inc VAT (€163.03 exc.vat)",
+  "description": "The Einhell TP-18V Power X-Change Twin Pack contains: 1 x 18V TP-CI 18 Li BL Power X-Change Impact Driver. Powered by a PurePOWER Brushless motor, comes with 10 years motor warranty after registration. Ideal for effortless tightening of large/long screws. A special impact mechanism protects the wrist from torsional forces. The finely adjustable electronic speed control can be precisely adjusted to your requirements for the material you wish to work on, so neither the material nor the impact driver are overstrained. Bit Holder: 6.35mm (1/4in). No Load Speed: 0-2,900/min. Max. Torque: 180Nm. Weight: 1.07kg. 1 x 18V TP-CD 18/50 Li-i BL Power X-Change Impact Drill. Powered by a PurePOWER Brushless motor, comes with 10 years motor warranty after registration. Delivers power with pinpoint accuracy exactly where it is needed: for drilling in harder materials like stone and brick in restoration and renovation jobs. Bit Holder: 13mm Single Sleeve. Impact Rate: 0-8,000/0-28,800/bpm. Max. Torque: 50Nm. Torque Settings: 20 +1 +1. Weight: 1.19kg. Also supplied with: 2 x 18V 2.0Ah Power X-Change Li-ion Batteries, 1 x Power X-Change Fast Charger and 1 x Tool Bag.",
+  "availability": "In Stock",
+  "product_name": "Einhell TP-18V Power X-Change Twin Pack BL 18V 2 x 2.0Ah Li-ion",
+  "specifications": [
+    "1 x 18V TP-CI 18 Li BL Power X-Change Impact Driver",
+    "1 x 18V TP-CD 18/50 Li-i BL Power X-Change Impact Drill",
+    "2 x 18V 2.0Ah Power X-Change Li-ion Batteries",
+    "1 x Power X-Change Fast Charger",
+    "1 x Tool Bag",
+    "Max Torque: 180Nm (Impact Driver), 50Nm (Impact Drill)",
+    "Weight: 1.07kg (Impact Driver), 1.19kg (Impact Drill)"
+  ]
+}
+
 <|https://www.mydiy.ie/products/einhell-tp-ag-18125-ce-q-li-solo-pro-angle-grinder-18v-bare-unit.html|>
 ## Einhell TP-AG 18/125 CE Q Li-Solo Pro Angle Grinder 18V Bare Unit
 
@@ -3426,6 +4491,22 @@
     "No Load Speed: 3,000-10,500min.",
     "Disc Diameter: 125mm.",
     "Weight: 1.7kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-tp-ap-1828-li-bl---solo-brushless-reciprocating-saw-18v-bare-unit.html|>
+## Einhell TP-AP 18/28 Li BL - Solo Brushless Reciprocating Saw 18V Bare Unit
+
+{
+  "price": "€106.99 inc VAT (€86.98 exc.vat)",
+  "description": "The Einhell TP-AP 18/28 Li BL - Solo Brushless Reciprocating Saw offers more power and runs for longer. Its anti-vibration function ensures low vibration while working. A soft grip handle and gripping surfaces make the saw easy and comfortable to handle. An adjustable soleplate enables optimal use of the blade, and tool-less blade changes keep things simple. Part of the Power X-Change series, powered by Lithium-ion rechargeable batteries with a battery management system for a long-life. This reciprocating saw comes as a Bare Unit, NO battery or charger. 2.5Ah batteries or higher are recommended for best results. Supplied with: 1 x KWB Wood Blade.",
+  "availability": "In Stock",
+  "product_name": "Einhell TP-AP 18/28 Li BL - Solo Brushless Reciprocating Saw 18V Bare Unit",
+  "specifications": [
+    "Strokes at No Load: 0-2,500/min.",
+    "Stroke Length: 28mm.",
+    "Cutting Depth: Wood 200mm, Plastic 20mm, Steel 12mm.",
+    "Weight: 2.06kg"
   ]
 }
 
@@ -3586,1183 +4667,6 @@
     "Impact Energy: 2.6 Joules.",
     "Max. Drilling Diameter: Concrete 26mm, Steel 13mm.",
     "Weight: 3.04kg."
-  ]
-}
-
-<|https://www.mydiy.ie/products/einhell-tp-js-18135-li-bl-solo-power-x-change-jigsaw-18v-bare-unit.html|>
-## Einhell TP-JS 18/135 Li BL-Solo Power X-Change Jigsaw 18V Bare Unit
-
-{
-  "price": "€124.13 inc VAT (€100.92 exc.vat)",
-  "description": "The Einhell TP-JS 18/135 Li BL-Solo Power X-Change Jigsaw is the perfect tool for ambitious DIYers who need the perfect cut in a whole host of different materials. Powered by the Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. After registering online, the brushless motor comes with a 10-year warranty. The integrated soft start ensures high safety and protects the motor, and the stable aluminium base plate dampens the vibrations of the saw. It also features a convenient cutting line indicator and an LED light for illuminating the cutting area. Thanks to speed electronics, it is possible to work perfectly matched to the material and application. The tool-free blade holder cuts down on unnecessary movements and allows quick and easy blade replacement. The integrated plastic glide insert protects particularly delicate workpieces, while the anti-splinter guard ensures tear-free cuts. Optimum visibility while working is ensured by the dust blower function or, alternatively, the included extraction adapter, which allows a wet/dry vacuum cleaner to be connected. Member of the Power X-Change family. Comes as a Bare Unit, NO battery or charger supplied. Includes one jigsaw blade for wood.",
-  "availability": "Out of Stock",
-  "product_name": "Einhell TP-JS 18/135 Li BL-Solo Power X-Change Jigsaw 18V Bare Unit",
-  "specifications": [
-    "Strokes at No Load: 0-3,500/min.",
-    "Stroke Length: 26mm.",
-    "Bevel Capacity: 45°.",
-    "Capacity: Steel 10mm, Wood 135mm, Plastic 20mm.",
-    "Weight: 2.19kg."
-  ]
-}
-
-<|https://www.mydiy.ie/products/einhell-tp-jst-18135-li-bl-solo-power-x-change-jigsaw-18v-bare-unit.html|>
-## Einhell TP-JST 18/135 Li BL-Solo Power X-Change Jigsaw 18V Bare Unit
-
-{
-  "price": "€131.22 inc VAT (€106.68 exc.vat)",
-  "description": "The Einhell TP-JST 18/135 Li BL-Solo Power X-Change Jigsaw is perfect for ambitious DIYers and crafters who need the perfect cut in a whole host of different materials. Powered by the Einhell PurePOWER brushless motor. This brushless motor offers more power and longer running time than conventional carbon brush motors. After online registration, there is a 10-year warranty on the brushless motor. The integrated softstart ensures high levels of safety and protects the motor. Equipped with speed electronics, making it possible to work perfectly matched to the material and application. Thanks to its high running smoothness, the cordless jigsaw ensures precise cuts. For fast cuts, the pendulum stroke can be switched on. The sturdy aluminium base plate ensures exact cutting angles. A plastic sliding insert protects particularly sensitive workpieces and the anti-splintering protection ensures tear-free cuts. Fitted with a T-style handle ensures optimum guidance of the saw even overhead, for example along the underside of a wooden plate. The tool-free saw blade holder saves unnecessary handles and allows a quick and easy change of the saw blade. Equipped with a practical cutting line indicator and an LED light for illuminating the cutting area. It also features a dust blow-off function that helps to keep the cutting line free from debris. Alternatively you can attach the supplied suction adapter this allows you to connect the jigsaw directly to a Einhell wet/dry vacuum cleaner. Delivery includes three jigsaw blades for wood. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Comes as a Bare Unit - No Battery or Charger supplied.",
-  "availability": "In Stock",
-  "product_name": "Einhell TP-JST 18/135 Li BL-Solo Power X-Change Jigsaw 18V Bare Unit",
-  "specifications": [
-    "Strokes at No Load: 0-3,500/min.",
-    "Stroke Height: 26mm.",
-    "Max. Bevel Cuts: 45°.",
-    "Cutting Depth: Wood 135mm, Plastic 20mm, Steel 10mm.",
-    "Weight: 1.96kg."
-  ]
-}
-
-<|https://www.mydiy.ie/products/einhell-tp-ma-3630-li-bl---solo-wall-chaser-36v-2-x-18v-bare-unit.html|>
-## Einhell TP-MA 36/30 Li BL - Solo Wall Chaser 36V (2 x 18V) Bare Unit
-
-{
-  "price": "€272.56 inc VAT (€221.59 exc.vat)",
-  "description": "The Einhell TP-MA 36/30 Li BL Wall Chaser cuts horizontal and vertical grooves and channels for pipes, conduits, etc. into masonry – free from the hassle of cables. Powered by an Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. Once you register online, the brushless motor has a 10-year warranty. The soft start and pull cut ensure safe operation. Whilst overload protection helps ensure the durability of the tool, while the cutting disc guard protects the user. For ease of use it features stepless adjustable groove depth adjustment and the individually adjustable cutting width up to a maximum of 30mm offering impressive flexibility to create narrow or wide grooves. The guide roller and the auxiliary handle improve handling comfort by providing a firm, secure grip. A mark showing the position of the cutting discs allows the tool to be precisely positioned to ensure dimensionally accurate cuts. The wall chaser also features a spindle lock, which makes it easy to change the disc using a hexagon socket wrench. The extraction adaptor is compatible with Einhell wet/dry vacuum cleaners. It comes with a storage pouch for clean and safe transport, as well as four diamond cutting discs so that you can start your project right away. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Requires 2 x 18V Power X-Change system batteries. Comes as a Bare Unit - No Battery or Charger supplied.",
-  "availability": "Out of Stock",
-  "product_name": "Einhell TP-MA 36/30 Li BL - Solo Wall Chaser 36V (2 x 18V) Bare Unit",
-  "specifications": [
-    "Cutting Disc Diameter: 125mm",
-    "Cutting Disc Holder Diameter: 22.2mm",
-    "Groove Depth Max.: 30mm",
-    "Groove Width Max.: 30mm",
-    "Suction Connection Diameter: 35mm",
-    "Weight: 4.19kg"
-  ]
-}
-
-<|https://www.mydiy.ie/products/einhell-tp-mg-18-li-bl-solo-power-x-change-multifunctional-tool-18v-bare-unit.html|>
-## Einhell TP-MG 18 Li BL-Solo Power X-Change Multifunctional Tool 18V Bare Unit
-
-{
-  "price": "€121.11 inc VAT (€98.46 exc.vat)",
-  "description": "The Einhell TP-MG 18 Li BL-Solo Power X-Change Multifunctional Tool is a versatile and high-quality device for construction and renovation work. Thanks to its extensive equipment, tasks such as sawing, sanding or scraping can be carried out effortlessly. Powered by a Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. Once you register online, the brushless motor has a 10-year warranty. Speed electronics ensure precise and material-friendly working. The multitool works with an oscillation angle of 3.2°, which enables precise use. A switch with locking function facilitates time-intensive work. The innovative, vibration-decoupled device head enables vibration-free application. Whilst softgrip surfaces ensure safe and comfortable working. The tool-free accessory change is made possible by the quick-release lock. Thanks to the magnetic tool adapter, accessories can be changed quickly and easily. The 12-pin tool adapter allows flexible positioning of accessories. It also features an LED light that ensures that the working area is perfectly lit. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Comes as a Bare Unit - No Battery or Charger supplied. Supplied with: 1 x Delta Sanding Shoe with Velcro Fastener, 1 x Diamond Segment Saw Blade for tile joints, 1 x Segment HSS Saw Blade for wood, plastic and soft metal, 1 x BIM Plunge Cut Saw Blade for metal and 1 x HCS Plunge Cut Saw Blade for wood and plastic.",
-  "availability": "In Stock",
-  "product_name": "Einhell TP-MG 18 Li BL-Solo Power X-Change Multifunctional Tool 18V Bare Unit",
-  "specifications": [
-    "Oscillating Speed: 22,000 - 40,000/min.",
-    "No Load Speed: 11,000 - 20,000/min.",
-    "Angle of Oscillation: 3.2°",
-    "Sandpaper Size: 93 x 93 x 93mm",
-    "Weight: 1.08kg"
-  ]
-}
-
-<|https://www.mydiy.ie/products/einhell-tp-rs-1832-li-bl---solo-power-x-change-rotating-sander-18v-bare-unit.html|>
-## Einhell TP-RS 18/32 Li BL - Solo Power X-Change Rotating Sander 18V Bare Unit
-
-{
-  "price": "€90.81 inc VAT (€73.83 exc.vat)",
-  "description": "The Einhell TP-RS 18/32 Li BL - Solo Power X-Change Rotating Sander is powered by an Einhell PurePOWER brushless motor. This brushless motor offers more power and a longer running time than conventional carbon brush motors. Once you register online, the brushless motor has a 10-year warranty. Eccentric oscillation ensures the smoothest finish with high grinding performance and high material removal rates. The power can be matched to the material and job at hand by means of speed control electronics. The low-profile design of the random orbital sander ensures optimal handling, thanks to which the tool can be held close to the workpiece. For optimal control over the tool, the ergonomically shaped grinder has softgrip surfaces and a removable auxiliary handle. The Ø 125mm grinding disc of the cordless random orbital sander oscillates in a 3.2 mm-diameter circle. The abrasive paper attaches securely to the grinding plate by means of a micro hook-and-loop system, and is easy to exchange. For professional use without mess, the sander has an internal dust extraction system with dust collector and removable pleated filter. Alternatively, an external suction system, for example an Einhell wet/dry vacuum cleaner, can also be attached to the extraction connection. The on/off switch is dust-proof. Part of the Power X-Change family. Powered by Lithium-ion rechargeable batteries with a battery management system for a long life. Comes as a Bare Unit - No Battery or Charger supplied. Included in the scope of delivery: 3 pieces of abrasive paper, one of each grit size P60, P80 and P120.",
-  "availability": "In Stock",
-  "product_name": "Einhell TP-RS 18/32 Li BL - Solo Power X-Change Rotating Sander 18V Bare Unit",
-  "specifications": [
-    "Oscillating Speed: 6,000/24,000/min.",
-    "Oscillating Diameter: 3.2mm",
-    "Sanding Pad Diameter: 125mm",
-    "Suction Connection Diameter: 35mm",
-    "Weight: 1.11kg"
-  ]
-}
-
-<|https://www.mydiy.ie/products/eklind-rek10507-metric-long-handle-hex-l-key-set-7-piece.html|>
-## Eklind REK10507 Metric Long Handle Hex L-Key Set, 7 Piece
-
-{
-  "price": "€8.60 inc VAT (€6.99 exc.vat)",
-  "description": "The Eklind REK10507 Metric Long Handle Hex L-Key Set comes in a plastic holder which firmly retains each key in a size marked hole. American made using Eklind Alloy Steel to exceed ANSI standards. This 7 Piece includes the following sizes: 1.5, 2.0, 2.5, 3.0, 4.0, 5.0, 6.0mm.",
-  "availability": "Out of Stock",
-  "product_name": "Eklind REK10507 Metric Long Handle Hex L-Key Set, 7 Piece",
-  "specifications": [
-    "7 Piece set",
-    "Sizes: 1.5, 2.0, 2.5, 3.0, 4.0, 5.0, 6.0mm",
-    "Made from Eklind Alloy Steel",
-    "Comes in a plastic holder"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-led-5w-50w-370-lumen-gu10-lamp-cool-white.html|>
-## ENERGIZER LED 5W (50W) 370 LUMEN GU10 LAMP COOL WHITE
-
-{
-  "price": "€4.99 inc VAT (€4.06 exc.vat)",
-  "description": "The Energizer LED 5W (50W) GU10 Spot Cool White Light Bulb is a high-quality and energy-efficient lighting solution. It features a LED bulb type and a spot shape, making it suitable for a range of lighting needs. The cap type is GU10, a standard size that is commonly used in lighting fixtures. The bulb has a wattage of 5W (equivalent to 50W), making it an energy-saving option compared to traditional light bulbs. It produces 370 lumens of cool white light and is non-dimmable. With a life time of 15 years and an efficiency rating of A+, this LED bulb is a cost-effective and long-lasting option. Please contact us to ensure the item is on display before visiting. Item code: 5050028073857.",
-  "availability": "In Stock",
-  "product_name": "ENERGIZER LED 5W (50W) 370 LUMEN GU10 LAMP COOL WHITE",
-  "specifications": [
-    "LED bulb type",
-    "Spot shape",
-    "Cap type: GU10",
-    "Wattage: 5W (equivalent to 50W)",
-    "Produces 370 lumens of cool white light",
-    "Non-dimmable",
-    "Lifetime: 15 years",
-    "Efficiency rating: A+"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-led-gu10-36-non-dimmable-bulb.html|>
-## Energizer® LED GU10 36° Non-Dimmable Bulb
-
-{
-  "price": "€1.91 inc VAT",
-  "description": "These Energizer® LED GU10 36° Non-Dimmable Bulbs replicate traditional halogen bulbs in appearance and output, whilst offering an 85% energy saving versus their halogen equivalent. The bulbs are a true retro fit design, provide instant, flicker-free light and have an average rated life of 15,000 hours.",
-  "availability": "In Stock",
-  "product_name": "Energizer® LED GU10 36° Non-Dimmable Bulb",
-  "specifications": [
-    "Cool White 370 lm 5W",
-    "85% energy saving compared to halogen",
-    "Average rated life of 15,000 hours",
-    "Instant, flicker-free light"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-4w-led-ese27-gls-filament-non-dim-light-bulb.html|>
-## Energizer Lighting 4W LED ES/E27 GLS Filament Non-Dim Light Bulb
-
-{
-  "price": "€8.99 inc VAT (€7.31 exc.vat)",
-  "description": "4.3 watt ES-E27mm FILAMENT GLS LED Light Bulb. This Energizer LED bulb uses 4.3W of power but provides the same level of light as a 40W incandescent bulb. This makes BC LED GLS bulbs a more energy efficient option. The LED bulb is long-lasting and saves 80% of energy for reduced lighting costs. A perfect replacement for traditional household 60 watt GLS light bulbs. Energy A+ rated. Not dimmable - perfect for domestic, commercial and retail lighting applications.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting 4W LED ES/E27 GLS Filament Non-Dim Light Bulb",
-  "specifications": [
-    "Lamp Cap/Base: ES - E27mm",
-    "Colours: Warm White",
-    "Volts: 240 v",
-    "Watts: 4.3 w",
-    "Length: 110 mm",
-    "Lumens: 470",
-    "Width: 60 mm",
-    "Average Life: 15000 hours",
-    "Diameter: 60 mm",
-    "Bulb/Lamp Type: GLS LED",
-    "Beam Angle: 230 °",
-    "Height: 110 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 210g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-62w-60w-led-filament-gls-bc--b22-s9025.html|>
-## Energizer Lighting 6.2W (60W) LED FILAMENT GLS BC B22 (S9025)
-
-{
-  "price": "€8.99 inc VAT (€7.31 exc.vat)",
-  "description": "6.2 watt BC-B22mm FILAMENT GLS LED Light Bulb. This Energizer LED bulb uses 6.2W of power but provides the same level of light as a 60W incandescent bulb. This makes BC LED GLS bulbs a more energy efficient option. The LED bulb is long-lasting and saves 80% of energy for reduced lighting costs. A perfect replacement for traditional household 60 watt GLS light bulbs. Energy A+ rated. Not dimmable - perfect for domestic, commercial and retail lighting applications.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting 6.2W (60W) LED FILAMENT GLS BC B22 (S9025)",
-  "specifications": [
-    "Lamp Cap/Base: BC-B22mm",
-    "Colours: Warm White",
-    "Volts: 240 v",
-    "Watts: 6.2 w",
-    "Length: 110 mm",
-    "Lumens: 806",
-    "Width: 60 mm",
-    "Average Life: 15000 hours",
-    "Diameter: 60 mm",
-    "Bulb/Lamp Type: GLS LED",
-    "Beam Angle: 230 °",
-    "Height: 110 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 210g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-antique-filament-light-bulb-globe-vintage-squirrel-cage-decorative-es-e27-edison-screw-cap.html|>
-## Energizer Lighting Antique Filament Light Bulb Globe Vintage Squirrel Cage Decorative ES (e27) Edison Screw Cap
-
-{
-  "price": "€9.99 inc VAT (€8.12 exc.vat)",
-  "description": "Energizer 5 watt G1 25 - E27mm Antique Warm LED Glob Bulb. Manufactured from the latest LED technology and components to ensure superior light output and to offer excellent energy savings when compared to halogen or incandescent equivalent products. 5 watt retro-fit Integral LED Glob with a super warm glow finish and ES-E27mm screw cap - Delivers a super warm light and brightness, similar to a old Antique 40 watt filament bulb. Ideal for living rooms, dining rooms, bedrooms and hotels, in classic or modern wall or floor/table lamp fittings and chandeliers.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Antique Filament Light Bulb Globe Vintage Squirrel Cage Decorative ES (e27) Edison Screw Cap",
-  "specifications": [
-    "Lamp Cap/Base: E27mm",
-    "Colours: Super Warm",
-    "Volts: 240 v",
-    "Watts: 5 w",
-    "Length: 178 mm",
-    "Lumens: 470",
-    "Width: 125 mm",
-    "Average Life: 15,000 hours",
-    "Bulb/Lamp Type: LED Glob",
-    "Beam Angle: 240 °",
-    "Height: 178 mm",
-    "Colour Temperature: 2200k",
-    "Weight: 85g",
-    "Technology: LED",
-    "NON - DIMMABLE"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-b22-warm-white-blister-pack-gls-56w.html|>
-## Energizer Lighting B22 Warm White Blister Pack Gls 5.6w
-
-{
-  "price": "€4.99 inc VAT (€4.06 exc.vat)",
-  "description": "5.6 watt BC-B22mm Traditional GLS LED Light Bulb (Warm White) A perfect replacement for traditional household 40 watt GLS light bulbs. Offers fantastic light output from just 5.6 watts. Energy A+ rated. Not dimmable - perfect for domestic, commercial and retail lighting applications. Lamp Cap/Base: BC-B22mm Colours: Opal / Warm White Volts: 240 v Watts: 11.6 w Length: 110 mm Lumens: 470 Width: 60 mm Average Life: 15000 hours Diameter: 60 mm Bulb/Lamp Type: GLS LED Beam Angle: 230 ° Height: 110 mm Colour Temperature: 2700k Weight: 210g Technology: LED",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting B22 Warm White Blister Pack Gls 5.6w",
-  "specifications": [
-    "Lamp Cap/Base: BC-B22mm",
-    "Colours: Opal / Warm White",
-    "Volts: 240 v",
-    "Watts: 11.6 w",
-    "Length: 110 mm",
-    "Lumens: 470",
-    "Width: 60 mm",
-    "Average Life: 15000 hours",
-    "Diameter: 60 mm",
-    "Bulb/Lamp Type: GLS LED",
-    "Beam Angle: 230 °",
-    "Height: 110 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 210g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-b22-warm-white-blister-pack-gls-92w.html|>
-## Energizer Lighting B22 Warm White Blister Pack Gls 9.2w
-
-{
-  "price": "€4.99 inc VAT (€4.06 exc.vat)",
-  "description": "9.2 watt BC-B22mm Traditional GLS LED Light Bulb (Warm White)\nA perfect replacement for traditional household 60 watt GLS light bulbs. Offers fantastic light output from just 9.2 watts. Energy A+ rated. Not dimmable - perfect for domestic, commercial and retail lighting applications.\nLamp Cap/Base: BC-B22mm\nColours: Opal / Warm White\nVolts: 240 v\nWatts: 9.2 w\nLength: 110 mm\nLumens: 806\nWidth: 60 mm\nAverage Life: 15000 hours\nDiameter: 60 mm\nBulb/Lamp Type: GLS LED\nBeam Angle: 230 °\nHeight: 110 mm\nColour Temperature: 2700k\nWeight: 210g\nTechnology: LED",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting B22 Warm White Blister Pack Gls 9.2w",
-  "specifications": [
-    "Lamp Cap/Base: BC-B22mm",
-    "Colours: Opal / Warm White",
-    "Volts: 240 v",
-    "Watts: 9.2 w",
-    "Length: 110 mm",
-    "Lumens: 806",
-    "Width: 60 mm",
-    "Average Life: 15000 hours",
-    "Diameter: 60 mm",
-    "Bulb/Lamp Type: GLS LED",
-    "Beam Angle: 230 °",
-    "Height: 110 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 210g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-b22-warm-white-blister-pack-gls-bc-116w.html|>
-## Energizer Lighting B22 Warm White Blister Pack GLS BC 11.6w
-
-{
-  "price": "€6.99 inc VAT (€5.68 exc.vat)",
-  "description": "11.6 watt BC-B22mm Traditional GLS LED Light Bulb (Warm White)\nA perfect replacement for traditional household 75 watt GLS light bulbs. Offers fantastic light output from just 11.6 watts. Energy A+ rated. Not dimmable - perfect for domestic, commercial and retail lighting applications.\nLamp Cap/Base: BC-B22mm\nColours: Opal / Warm White\nVolts: 240 v\nWatts: 11.6 w\nLength: 110 mm\nLumens: 1060\nWidth: 60 mm\nAverage Life: 15000 hours\nDiameter: 60 mm\nBulb/Lamp Type: GLS LED\nBeam Angle: 230 °\nHeight: 110 mm\nColour Temperature: 2700k\nWeight: 210g\nTechnology: LED",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting B22 Warm White Blister Pack GLS BC 11.6w",
-  "specifications": [
-    "Lamp Cap/Base: BC-B22mm",
-    "Colours: Opal / Warm White",
-    "Volts: 240 v",
-    "Watts: 11.6 w",
-    "Length: 110 mm",
-    "Lumens: 1060",
-    "Width: 60 mm",
-    "Average Life: 15000 hours",
-    "Diameter: 60 mm",
-    "Bulb/Lamp Type: GLS LED",
-    "Beam Angle: 230 °",
-    "Height: 110 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 210g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-e27-warm-white-blister-pack-gls-es-116w.html|>
-## Energizer Lighting E27 Warm White Blister Pack GLS ES 11.6w
-
-{
-  "price": "€6.99 inc VAT (€5.68 exc.vat)",
-  "description": "11.6 watt ES-E27mm Traditional GLS LED Light Bulb (Warm White)\nA perfect replacement for traditional household 75 watt GLS light bulbs. Offers fantastic light output from just 11.6 watts. Energy A+ rated. Not dimmable - perfect for domestic, commercial and retail lighting applications.\nLamp Cap/Base: ES-E27mm\nColours: Opal / Warm White\nVolts: 240 v\nWatts: 11.6 w\nLength: 110 mm\nLumens: 1060\nWidth: 60 mm\nAverage Life: 15000 hours\nDiameter: 60 mm\nBulb/Lamp Type: GLS LED\nBeam Angle: 230 °\nHeight: 110 mm\nColour Temperature: 2700k\nWeight: 210g\nTechnology: LED",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting E27 Warm White Blister Pack GLS ES 11.6w",
-  "specifications": [
-    "Lamp Cap/Base: ES-E27mm",
-    "Colours: Opal / Warm White",
-    "Volts: 240 v",
-    "Watts: 11.6 w",
-    "Length: 110 mm",
-    "Lumens: 1060",
-    "Width: 60 mm",
-    "Average Life: 15000 hours",
-    "Diameter: 60 mm",
-    "Bulb/Lamp Type: GLS LED",
-    "Beam Angle: 230 °",
-    "Height: 110 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 210g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-65w-60w-e27-smart-led-filament-gls.html|>
-## Energizer Lighting ENERGIZER 6.5W (60W) E27 SMART LED FILAMENT GLS
-
-{
-  "price": "€11.99 inc VAT (€9.75 exc.vat)",
-  "description": "Smart E27 (ES) GLS Filament - Boxed\n6.5W / 60W Replacement\nGroup Control\nVariable White - CCT\nRemote Access & Voice Control\nPowered by Tuya. Works with Hey Google, Amazon Alexa and Siri",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting ENERGIZER 6.5W (60W) E27 SMART LED FILAMENT GLS",
-  "specifications": [
-    "Smart E27 (ES) GLS Filament - Boxed",
-    "6.5W / 60W Replacement",
-    "Group Control",
-    "Variable White - CCT",
-    "Remote Access & Voice Control",
-    "Powered by Tuya. Works with Hey Google, Amazon Alexa and Siri"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-b15-warm-white-blister-pack-candle-59w.html|>
-## Energizer Lighting Energizer B15 Warm White Blister Pack Candle 5.9w
-
-{
-  "price": "€5.99 inc VAT (€4.87 exc.vat)",
-  "description": "Energizer 5.9 watt Frosted LED candle bulb with a small SBC-B15mm bayonet cap. These bulbs combine traditional decorative lighting with modern efficient long-life technology. Designed to replace 40 watt candle bulbs these lamps use just 5.9 watts of power and will last a staggering 15,000 hours - That's about 15 years. 2700k warm white light.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Energizer B15 Warm White Blister Pack Candle 5.9w",
-  "specifications": [
-    "Lamp Cap/Base: SBC-B15mm",
-    "Colours: Frosted / Warm White",
-    "Volts: 240 v",
-    "Watts: 5.9 w",
-    "Length: 108 mm",
-    "Lumens: 470",
-    "Width: 38 mm",
-    "Average Life: 15,000 hours",
-    "Diameter: 38 mm",
-    "Bulb/Lamp Type: LED Candle",
-    "Beam Angle: 280 °",
-    "Height: 108 mm",
-    "Weight: 42g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-e14-warm-white-blister-candle-ses-62w--40w-dimmable.html|>
-## Energizer Lighting Energizer E14 Warm White Blister Candle SES 6.2w- 40w Dimmable
-
-{
-  "price": "€6.99 inc VAT (€5.68 exc.vat)",
-  "description": "Energizer 6.2 watt - 40w SES-E14mm Clear Dimmable LED Candle - Warm White. Ideal for living rooms, dining rooms, bedrooms and hotels, in classic or modern wall or floor/table lamp fittings and chandeliers - Energizer 6.2w - 40w LED candles provide superior light output and offer excellent energy savings when compared to halogen or incandescent equivalent products. Delivers a crisp warm white light and brightness, similar to a standard 40 watt filament bulb.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Energizer E14 Warm White Blister Candle SES 6.2w- 40w Dimmable",
-  "specifications": [
-    "Lamp Cap/Base: SES-E14mm",
-    "Colours: Warm White 2700K",
-    "Volts: 240 v",
-    "Watts: 6.2 w",
-    "Length: 102 mm",
-    "Lumens: 250",
-    "Width: 37 mm",
-    "Average Life: 25,000 hours",
-    "Diameter: 37 mm",
-    "Bulb/Lamp Type: LED Candle Clear",
-    "Height: 102 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 90g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-e14-warm-white-blister-pack-candle-34w.html|>
-## Energizer Lighting Energizer E14 Warm White Blister Pack Candle 3.4w
-
-{
-  "price": "€5.99 inc VAT (€4.87 exc.vat)",
-  "description": "Energizer 3.4 watt Frosted LED candle bulb with a small SES-E14mm screw cap. These bulbs combine traditional decorative lighting with modern efficient long-life technology. Designed to replace 25 watt candle bulbs these lamps use just 3.4 watts of power and will last a staggering 15,000 hours - That's about 15 years.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Energizer E14 Warm White Blister Pack Candle 3.4w",
-  "specifications": [
-    "Lamp Cap/Base: SES-E14mm",
-    "Colours: Warm White 2700k",
-    "Volts: 240 v",
-    "Watts: 3.5 w",
-    "Length: 102 mm",
-    "Lumens: 250",
-    "Width: 35 mm",
-    "Average Life: 25,000 hours",
-    "Diameter: 35 mm",
-    "Bulb/Lamp Type: LED Candle",
-    "Beam Angle: 280 °",
-    "Height: 102 mm",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-e14-warm-white-blister-pack-golf-34w.html|>
-## Energizer Lighting Energizer E14 Warm White Blister Pack Golf 3.4w
-
-{
-  "price": "€3.99 inc VAT (€3.24 exc.vat)",
-  "description": "Energizer 3.4 watt SES-E14mm Frosted LED Golfball Light Bulb. Ideal for use all around the home where a 14mm small screw cap bulb is in use - commonly bedside lamps - 15,000 hours of life. 250 lumens, designed to replace 25 watt incandescent bulbs. Non-dimmable.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Energizer E14 Warm White Blister Pack Golf 3.4w",
-  "specifications": [
-    "Lamp Cap/Base: SES-E14mm",
-    "Colours: 2700K Warm White",
-    "Volts: 240 v",
-    "Watts: 3.4 w",
-    "Length: 80 mm",
-    "Lumens: 250",
-    "Width: 45 mm",
-    "Average Life: 15,000 hours",
-    "Diameter: 45 mm",
-    "Bulb/Lamp Type: LED Golfball",
-    "Height: 80 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 50g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-e14-warm-white-blister-pack-golf-59w.html|>
-## Energizer Lighting Energizer E14 Warm White Blister Pack Golf 5.9w
-
-{
-  "price": "€5.99 inc VAT (€4.87 exc.vat)",
-  "description": "5.9 watt SES-E14mm Frosted LED Golfball Light Bulb. Ideal for use all around the home where a 14mm small screw cap bulb is in use - commonly bedside lamps - 15,000 hours of life. 470 lumens, designed to replace 40 watt incandescent bulbs. Non-dimmable.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Energizer E14 Warm White Blister Pack Golf 5.9w",
-  "specifications": [
-    "Lamp Cap/Base: SES-E14mm",
-    "Colours: 2700K Warm White",
-    "Volts: 240 v",
-    "Watts: 5.9 w",
-    "Length: 80 mm",
-    "Lumens: 470",
-    "Width: 45 mm",
-    "Average Life: 15,000 hours",
-    "Diameter: 45 mm",
-    "Bulb/Lamp Type: LED Golfball",
-    "Height: 80 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 50g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-filament-led-250lm-e14-warm-white-ses-24w.html|>
-## Energizer Lighting Energizer Filament LED 250lm E14 Warm White SES 2.4w
-
-{
-  "price": "€4.99 inc VAT (€4.06 exc.vat)",
-  "description": "2.4 watt SES-E14mm Clear LED Filament Candle Bulb. This clear LED candle has filament strands designed to replicate the vintage look of a decorative incandescent lamp. Creates a warm pleasing atmosphere, ideal for chandeliers and clear glass fittings where the lamp and the light it creates is central to the look and mood of the room you are lighting. This 2.4w LED candle gives the equivalent light output as a 25w incandescent lamp.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Energizer Filament LED 250lm E14 Warm White SES 2.4w",
-  "specifications": [
-    "Lamp Cap/Base: SES-E14mm",
-    "Colours: Clear / Warm White",
-    "Volts: 240 v",
-    "Watts: 2.4 w",
-    "Length: 93 mm",
-    "Lumens: 250",
-    "Width: 35 mm",
-    "Average Life: 15,000 hours",
-    "Diameter: 35 mm",
-    "Bulb/Lamp Type: LED Candle",
-    "Beam Angle: 360 °",
-    "Height: 93 mm",
-    "Weight: 30g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-gu10-warm-white-blister-pack-36w---35w.html|>
-## Energizer Lighting Energizer GU10 Warm White Blister Pack 3.6w - 35w
-
-{
-  "price": "€5.99 inc VAT (€4.87 exc.vat)",
-  "description": "Energizer 3.6 watt LED GU10 bulb. With a similar appearance to the original halogen GU10 bulbs, this is the perfect energy saving retrofit replacement. 3000k Warm White, perfect for kitchens or a modern feel in any room. Non dimmable with an impressive 25,000 hour life. Easy to install, Energiser quality giving excellent optical design and consistency in colour of light. 250 lumen output.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Energizer GU10 Warm White Blister Pack 3.6w - 35w",
-  "specifications": [
-    "Lamp Cap/Base: GU10",
-    "Colours: 3000K",
-    "Volts: 240 v",
-    "Watts: 3.6 w",
-    "Length: 54 mm",
-    "Lumens: 250",
-    "Width: 50 mm",
-    "Average Life: 25,000 hours",
-    "Diameter: 50 mm",
-    "Bulb/Lamp Type: LED GU10",
-    "Beam Angle: 360 °",
-    "Height: 54 mm",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-led-249w-200w-3452-lumens-e27-opal-gls-lamp-daylight-6500k.html|>
-## Energizer LED 24.9W (200W) 3452 LUMENS E27 OPAL GLS LAMP DAYLIGHT 6500K
-
-{
-  "price": "€12.99 inc VAT (€10.56 exc.vat)",
-  "description": "Brighten your home or workspace with the Energizer LED GLS Bulb, a top choice for powerful and energy-efficient lighting. Delivering an exceptional 3452 lumens output, this 24.9W LED bulb is an ideal replacement for traditional 200W incandescent bulbs, providing up to 87% energy savings. Its crisp 6500K daylight color temperature ensures intense, clear illumination, perfect for areas requiring maximum visibility, such as kitchens, workspaces, or garages. Designed with a durable ES/E27 fitting, this GLS (General Lighting Service) bulb boasts an impressive lifespan of up to 15 years, ensuring long-term reliability and cost savings. While it’s not dimmable, the bulb’s robust performance and low energy consumption make it a smart choice for eco-conscious consumers.",
-  "availability": "In Stock",
-  "product_name": "Energizer LED 24.9W (200W) 3452 LUMENS E27 OPAL GLS LAMP DAYLIGHT 6500K",
-  "specifications": [
-    "Energy Efficiency: 24.9W LED (200W equivalent) for significant power savings.",
-    "High Brightness: Produces a powerful 3452 lumens.",
-    "Daylight Clarity: 6500K color temperature for bright, natural lighting.",
-    "Durable Design: Long-lasting with a lifespan of up to 15 years.",
-    "Universal Fit: Standard ES/E27 fitting compatible with most fixtures."
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-energizer-led-strip-tube-warm-white-55w.html|>
-## Energizer Lighting Energizer LED Strip Tube Warm White 5.5w
-
-{
-  "price": "€8.99 inc VAT (€7.31 exc.vat)",
-  "description": "5.5 watt (50 watt Replacement) 284mm - Frosted S15 LED Striplight Light Bulb. Designed to replace 284mm 50 watt incandescent striplight lights, this LED alternative uses a fraction of the power (5.5 watts) and will last for 15,000 hours rather than 2,000. Commonly used in under-cabinet light fittings and picture lights.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Energizer LED Strip Tube Warm White 5.5w",
-  "specifications": [
-    "Lamp Cap/Base: S15",
-    "Colours: Warmwhite",
-    "Volts: 240 v",
-    "Watts: 5.5 w",
-    "Length: 284 mm",
-    "Lumens: 550",
-    "Width: 26 mm",
-    "Average Life: 15,000 hours",
-    "Diameter: 26 mm",
-    "Bulb/Lamp Type: LED Striplight",
-    "Colour Temperature: 2700k",
-    "Weight: 54g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-filament-led-gls-470lm-b22-warm-white-bc-43w.html|>
-## Energizer Lighting Filament LED GLS 470lm B22 Warm White BC 4.3w
-
-{
-  "price": "€8.99 inc VAT (€7.31 exc.vat)",
-  "description": "4.3 watt BC-B22mm FILAMENT GLS LED Light Bulb. This Energizer LED bulb uses 4.3W of power but provides the same level of light as a 40W incandescent bulb. This makes BC LED GLS bulbs a more energy efficient option. The LED bulb is long-lasting and saves 80% of energy for reduced lighting costs. A perfect replacement for traditional household 60 watt GLS light bulbs. Energy A+ rated. Not dimmable - perfect for domestic, commercial and retail lighting applications.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting Filament LED GLS 470lm B22 Warm White BC 4.3w",
-  "specifications": [
-    "Lamp Cap/Base: BC-B22mm",
-    "Colours: Warm White",
-    "Volts: 240 v",
-    "Watts: 4.3 w",
-    "Length: 110 mm",
-    "Lumens: 470",
-    "Width: 60 mm",
-    "Average Life: 15000 hours",
-    "Diameter: 60 mm",
-    "Bulb/Lamp Type: GLS LED",
-    "Beam Angle: 230 °",
-    "Height: 110 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 210g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-high-tech-led-e27-warm-white-es-12w.html|>
-## Energizer Lighting High Tech LED E27 Warm White ES 12w
-
-{
-  "price": "€11.99 inc VAT (€9.75 exc.vat)",
-  "description": "Energizer 11 watt ES-E27mm R80 LED Reflector Light Bulb\n\nDesigned to replace 60 watt R80 reflector bulbs, this lamp uses just 11 watts of power. Ideal for domestic and commercial light fittings, these R80 LEDs are extremely long life and energy efficient. Shock and vibration proof.\n\nLamp Cap/Base: ES-E27mm\nColours: 4000K\nVolts: 240 v\nWatts: 11 w\nLength: 114 mm\nLumens: 250\nWidth: 80 mm\nAverage Life: 25,000 hours\nDiameter:80 mm\nBulb/Lamp Type: LED Reflector\nBeam Angle: 120 °\nHeight: 114 mm\nColour Temperature: 4000\nWeight: 46g\nTechnology:LED",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting High Tech LED E27 Warm White ES 12w",
-  "specifications": [
-    "Lamp Cap/Base: ES-E27mm",
-    "Colours: 4000K",
-    "Volts: 240 v",
-    "Watts: 11 w",
-    "Length: 114 mm",
-    "Lumens: 250",
-    "Width: 80 mm",
-    "Average Life: 25,000 hours",
-    "Diameter: 80 mm",
-    "Bulb/Lamp Type: LED Reflector",
-    "Beam Angle: 120 °",
-    "Height: 114 mm",
-    "Colour Temperature: 4000",
-    "Weight: 46g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-high-tech-led-e27-warm-white-es-95w.html|>
-## Energizer Lighting High Tech LED E27 Warm White ES 9.5w
-
-{
-  "price": "€9.99 inc VAT (€8.12 exc.vat)",
-  "description": "Energizer 9.5 watt ES-E27mm R63 LED Reflector Bulb - Warm White\n\n9.5 watt LED R64 Reflector light bulb - These LEDs use 9.5 watts of power, yet are comparable to a standard 50 watt reflector. Reduce electricity costs by over 85%. Provides an ambient warm light with virtually no heat. 25,000 hours. Same size as standard incandescent R64 Reflectors.\n\nLamp Cap/Base: ES-E27mm\nColours: Warmwhite\nVolts: 240 v\nWatts: 9.5 w\nLength: 103 mm\nLumens:600\nWidth: 63 mm\nAverage Life: 25,000 hours\nDiameter: 63 mm\nBulb/Lamp Type: LED Reflector\nBeam Angle: 110 °\nHeight: 103 mm\nColour Temperature: 2700k\nWeight: 60g\nTechnology: LED",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting High Tech LED E27 Warm White ES 9.5w",
-  "specifications": [
-    "Lamp Cap/Base: ES-E27mm",
-    "Colours: Warmwhite",
-    "Volts: 240 v",
-    "Watts: 9.5 w",
-    "Length: 103 mm",
-    "Lumens: 600",
-    "Width: 63 mm",
-    "Average Life: 25,000 hours",
-    "Diameter: 63 mm",
-    "Bulb/Lamp Type: LED Reflector",
-    "Beam Angle: 110 °",
-    "Height: 103 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 60g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-high-tech-led-g4-warm-white-130lm.html|>
-## Energizer Lighting High Tech LED G4 Warm White 130lm
-
-{
-  "price": "€4.99 inc VAT (€4.06 exc.vat)",
-  "description": "Energizer 2.2 watt (20 watt) Low Voltage G4 LED Capsule Lamp. 2.2 watt high powered G4 LED capsule light bulb. Designed to replace 20 watt low voltage halogens, commonly used in display lighting fittings in homes and shops. 200 Lumens, 25,000 hours of life.",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting High Tech LED G4 Warm White 130lm",
-  "specifications": [
-    "Lamp Cap/Base: G9",
-    "Colours: Warmwhite",
-    "Volts: 12 v",
-    "Watts: 2.2",
-    "Length: 30 mm",
-    "Lumens: 200",
-    "Width: 9 mm",
-    "Average Life: 25,000 hours",
-    "Diameter: 9 mm",
-    "Bulb/Lamp Type: LED Capsule",
-    "Height: 30 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 10g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-high-tech-led-g9-warm-white-180lm.html|>
-## Energizer Lighting High Tech LED G9 Warm White 180lm
-
-{
-  "price": "€5.99 inc VAT (€4.87 exc.vat)",
-  "description": "2 watt G9 LED Capsule Light Bulb - Warm White\nDirectly replaces 18 / 20 watt G9 halogen capsule bulbs in all areas of the home.  Warm white 2 watt G9 LED uses over 80% less energy than a halogen equivalent. 18 watt replacement.\nLamp Cap/Base: G9\nColours: 3000K Warm White\nVolts: 240 v\nWatts: 2 w\nLength: 47 mm\nLumens: 180\nWidth: 15 mm\nAverage Life: 25,000 hours\nDiameter: 15 mm\nBulb/Lamp Type: G9 LED\nBeam Angle: 145 °\nHeight: 47 mm\nColour Temperature: 3000k\nWeight: 15g\nTechnology: LED",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting High Tech LED G9 Warm White 180lm",
-  "specifications": [
-    "Lamp Cap/Base: G9",
-    "Colours: 3000K Warm White",
-    "Volts: 240 v",
-    "Watts: 2 w",
-    "Length: 47 mm",
-    "Lumens: 180",
-    "Width: 15 mm",
-    "Average Life: 25,000 hours",
-    "Diameter: 15 mm",
-    "Bulb/Lamp Type: G9 LED",
-    "Beam Angle: 145 °",
-    "Height: 47 mm",
-    "Colour Temperature: 3000k",
-    "Weight: 15g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/energizer-lighting-led-gls-1521lm-b22-warm-white-bc-125w.html|>
-## Energizer Lighting LED GLS 1521lm B22 Warm White BC 12.5w
-
-{
-  "price": "€6.99 inc VAT (€5.68 exc.vat)",
-  "description": "12.5 watt BC-B22mm Traditional GLS LED Light Bulb (Warm White)\nA perfect replacement for traditional household 60 watt GLS light bulbs. Offers fantastic light output from just 12.5 watts. Energy A+ rated. Not dimmable - perfect for domestic, commercial and retail lighting applications.\nLamp Cap/Base: BC-B22mm\nColours: Opal / Warm White\nVolts: 240 v\nWatts: 12.5 w\nLength: 110 mm\nLumens: 1521\nWidth: 60 mm\nAverage Life: 15,000 hours\nDiameter: 60 mm\nBulb/Lamp Type: GLS LED\nBeam Angle: 230 °\nHeight: 110 mm\nColour Temperature: 2700k\nWeight: 210g\nTechnology: LED",
-  "availability": "In Stock",
-  "product_name": "Energizer Lighting LED GLS 1521lm B22 Warm White BC 12.5w",
-  "specifications": [
-    "Lamp Cap/Base: BC-B22mm",
-    "Colours: Opal / Warm White",
-    "Volts: 240 v",
-    "Watts: 12.5 w",
-    "Length: 110 mm",
-    "Lumens: 1521",
-    "Width: 60 mm",
-    "Average Life: 15,000 hours",
-    "Diameter: 60 mm",
-    "Bulb/Lamp Type: GLS LED",
-    "Beam Angle: 230 °",
-    "Height: 110 mm",
-    "Colour Temperature: 2700k",
-    "Weight: 210g",
-    "Technology: LED"
-  ]
-}
-
-<|https://www.mydiy.ie/products/era-sash-window-stop-restrictor-stopper-lock-brass.html|>
-## ERA SASH WINDOW STOP RESTRICTOR STOPPER LOCK BRASS
-
-{
-  "price": "€3.99 inc VAT",
-  "description": "Sash Stops with Key Lock. Our high-quality sash stops are easy to install and offer excellent value. Designed to limit the full opening of your sash window, these stops provide both security and controlled ventilation. For full window opening, simply use the included key to remove the stop. They’re typically installed about 10cm above the lower sash, allowing you to ventilate your space without needing to unlock the stop. Material: Durable steel construction. Fixings: Supplied with all necessary screws. Dimensions: 20mm projection, 50mm x 17mm backplate. Availability: Always in stock. Compliance: Meets most British insurance standards. Additional Info: Sold individually, each with its own key. Enhance your window security without sacrificing ventilation.",
-  "availability": "In Stock",
-  "product_name": "ERA SASH WINDOW STOP RESTRICTOR STOPPER LOCK BRASS",
-  "specifications": [
-    "Material: Durable steel construction",
-    "Dimensions: 20mm projection, 50mm x 17mm backplate",
-    "Compliance: Meets most British insurance standards",
-    "Sold individually, each with its own key"
-  ]
-}
-
-<|https://www.mydiy.ie/products/estwing-ehb15-handy-bar-375mm-15in.html|>
-## Estwing EHB/15 Handy Bar 375mm (15in)
-
-{
-  "price": "€26.19 inc VAT (€21.29 exc.vat)",
-  "description": "The Estwing EHB/15 Handy Bar is forged half round for added strength and less weight. It has a wide, thin blade for easy prying. Ideal for carpenters and mechanics. Length: 375mm (15in). Weight: 500g (18oz).",
-  "availability": "In Stock",
-  "product_name": "Estwing EHB/15 Handy Bar 375mm (15in)",
-  "specifications": [
-    "Length: 375mm (15in)",
-    "Weight: 500g (18oz)",
-    "Forged half round for added strength",
-    "Wide, thin blade for easy prying"
-  ]
-}
-
-<|https://www.mydiy.ie/products/estwing-emrwt-surestrike-tack-hammer-140g-5oz.html|>
-## Estwing EMRWT Surestrike Tack Hammer 140g (5oz)
-
-{
-  "price": "€18.93 inc VAT (€15.39 exc.vat)",
-  "description": "The Estwing EMRWT Surestrike tack hammer has a hickory shaft. Small 5oz (140g) head for striking tacks.",
-  "availability": "In Stock",
-  "product_name": "Estwing EMRWT Surestrike Tack Hammer 140g (5oz)",
-  "specifications": [
-    "Hickory shaft",
-    "5oz (140g) head for striking tacks"
-  ]
-}
-
-<|https://www.mydiy.ie/products/estwing-epb18-pry-bar-460mm-18in.html|>
-## Estwing EPB/18 Pry Bar 460mm (18in)
-
-{
-  "price": "€40.57 inc VAT (€32.98 exc.vat)",
-  "description": "The Estwing EPB/18 Pry Bar is a lightweight but incredibly strong forged I beam construction pry bar that is ideal for carpenters, mechanics and general use.",
-  "availability": "In Stock",
-  "product_name": "Estwing EPB/18 Pry Bar 460mm (18in)",
-  "specifications": [
-    "Size 460mm (18 in)",
-    "Weight 620g (1 lb 6oz)"
-  ]
-}
-
-<|https://www.mydiy.ie/products/estwing-handy-claw-bar-250mm-10in.html|>
-## Estwing Handy Claw Bar 250mm (10in)
-
-{
-  "price": "€22.55 inc VAT (€18.33 exc.vat)",
-  "description": "The ideal tool for getting under and removing nails. Fitted with a comfortable, vinyl grip.",
-  "availability": "In Stock",
-  "product_name": "Estwing Handy Claw Bar 250mm (10in)",
-  "specifications": [
-    "Model: ESTEWHC10",
-    "Length: 250mm (10in)",
-    "Price: €22.55",
-    "List Price: €32.19",
-    "You save: €9.64"
-  ]
-}
-
-<|https://www.mydiy.ie/products/estwing-pro-claw-nail-puller.html|>
-## Estwing Pro-Claw Nail Puller
-
-{
-  "price": "€25.90 inc VAT",
-  "description": "The Estwing Pro-Claw Nail Puller is made with fine tool steel, drop forged and tempered for extra durability. Both nail puller claws are precise and sharp to remove embedded or headless nails with ease and minimal wood damage. The head is slightly rounded to give you improved leverage and the precision thin claw design enables you to get into hard to reach places. Fitted with a comfortable, durable vinyl grip for a strong hold in all conditions.",
-  "availability": "In Stock",
-  "product_name": "Estwing Pro-Claw Nail Puller",
-  "specifications": [
-    "Available Sizes: 250mm (10in), 300mm (12in), 380mm (15in)",
-    "Material: Fine tool steel, drop forged and tempered",
-    "Features: Sharp claws for easy nail removal, comfortable vinyl grip"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-404-fungicidal-wash.html|>
-## Everbuild 404 Fungicidal Wash
-
-{
-  "price": "€9.13 inc VAT",
-  "description": "Everbuild 404 Fungicidal Wash is a powerful, fungicidal wash for the removal of lichens, fungi and algae on all mineral surfaces such as walls, paths, roofs, drives etc. It is effective on most surfaces and also leaves a residual surface to help prevent further infestation.",
-  "availability": "In Stock",
-  "product_name": "Everbuild 404 Fungicidal Wash",
-  "specifications": [
-    "Internal and external use.",
-    "Fast acting.",
-    "Leaves a residual surface to prevent future infestation.",
-    "Powerful formulae. Registered with HSE under Control of Pesticides Regulations; 1986 (HSE 7183).",
-    "Kills mould caused by damp on internal and external floors and walls.",
-    "Kills mould growth on roofs prior to coating with bituminous coatings.",
-    "Removes algae from patios/drives."
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-502-all-purpose-weatherproof-wood-adhesive.html|>
-## Everbuild 502 All Purpose Weatherproof Wood Adhesive
-
-{
-  "price": "from €4.99 inc VAT",
-  "description": "The Everbuild 502 series All Purpose Weatherproof Wood Adhesive is a high quality, resin based wood adhesive for all wood bonding. It can be used internally and externally and provides a high strength , impact resistant bond that is usually stronger than the wood itself. Ideal for all general woodworking and joinery uses, furniture assembly and household DIY use. Conforms to international standard EN 204 (D3) and BS 14256 for creep resistance.",
-  "availability": "In Stock",
-  "product_name": "Everbuild 502 All Purpose Weatherproof Wood Adhesive",
-  "specifications": [
-    "Available in multiple sizes: 1 Litre, 250ml, 5 Litre, 500ml, 75ml",
-    "High strength, impact resistant bond",
-    "Suitable for internal and external use",
-    "Conforms to EN 204 (D3) and BS 14256 standards"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-503-sbr-bond.html|>
-## Everbuild 503 SBR Bond
-
-{
-  "price": "€30.31 inc VAT",
-  "description": "The Everbuild SBR Bond is a latex based, water-resistant bonding agent and admixture for use in areas subject to humidity, dampness and continuous water contact. Improves water resistance of cement mixtures by forming a reinforcing polymer that increases long-term durability and flexibility of the mix on renderings and floor screeds. Polymer Emulsions of this type have been used extensively over the last 20 years by the building industry as an admixture for cement and concrete applications, including repair and renovation, surfacing of floors and bonding generally. It contains anti-foam to control the density of cementitous mixes and is also freeze thaw stable, with improved frost resistance. It offers greatly improved adhesion to a wide range of substrates including dense concrete, steel, tiles etc.",
-  "availability": "In Stock",
-  "product_name": "Everbuild 503 SBR Bond",
-  "specifications": [
-    "2.5 Litre option available",
-    "Latex based, water-resistant bonding agent",
-    "Improves water resistance of cement mixtures",
-    "Contains anti-foam to control density",
-    "Freeze thaw stable with improved frost resistance",
-    "Greatly improved adhesion to various substrates"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-507-rendagrip-bonding-agent-10-litre.html|>
-## Everbuild 507 Rendagrip Bonding Agent 10 Litre
-
-{
-  "price": "€146.48 inc VAT (€119.09 exc.vat)",
-  "description": "Everbuild 507 Rendagrip is an extra grip render bonding agent that contains a fine aggregate to provide an improved key before applying render on external surfaces e.g. concrete, lightweight blockwork, brick etc. The fine aggregates are suspended in a unique waterproof polymer to ensure easy application by roller or brush and an even spread of aggregate avoiding any weak spots in the key coat and preventing the aggregate particles coming loose during application. Rendagrip reduces the porosity/suction of the base substrate and provides a mechanical key from the fine aggregate suspended within the product. Size: 10 litres.",
-  "availability": "In Stock",
-  "product_name": "Everbuild 507 Rendagrip Bonding Agent 10 Litre",
-  "specifications": [
-    "Size: 10 litres",
-    "WEEE Recycling Producer Registration Number:12889"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-550-flooring-adhesive-300ml.html|>
-## Everbuild 550 Flooring Adhesive 300ml
-
-{
-  "price": "€10.95 inc VAT (€8.90 exc.vat)",
-  "description": "Everbuild Lumberjack 550 Floor Adhesive is a high specification, hybrid polymer, cartridge applied adhesive specially designed for fixing all types of wooden floors directly onto all common substrates. It is a 100% active solvent and water free, and therefore will not cause warpage of wood. Has rapid setting properties and remains permanently flexible. It is also suitable for use with underfloor heating, and has excellent acoustic properties. Colour: Buff. Size: 300ml.",
-  "availability": "In Stock",
-  "product_name": "Everbuild 550 Flooring Adhesive 300ml",
-  "specifications": [
-    "High specification hybrid polymer adhesive",
-    "100% active solvent and water free",
-    "Rapid setting properties",
-    "Permanently flexible",
-    "Suitable for underfloor heating",
-    "Excellent acoustic properties",
-    "Colour: Buff",
-    "Size: 300ml"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-aluminium-tape.html|>
-## Everbuild Aluminium Tape
-
-{
-  "price": "€13.47 inc VAT",
-  "description": "The Everbuild Aluminium Tape is made from heat and light reflective Aluminium Foil. It is heat resistant to 180°C and flame retardant to Class O. It has excellent moisture resistance, and is ideal for use as a vapour barrier between foil faced insulation panels in roof and wall applications, duct sealing on all types of air conditioning and ventilation and protecting wires and pipes from heat. Available in 3 sizes.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Aluminium Tape",
-  "specifications": [
-    "Sizes available: 100mm x 45m, 50mm x 45m, 75mm x 45m",
-    "Heat resistant to 180°C",
-    "Flame retardant to Class O",
-    "Excellent moisture resistance",
-    "Ideal for vapour barrier applications",
-    "Duct sealing for air conditioning and ventilation",
-    "Protects wires and pipes from heat"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-american-duct-tape-orange-50mm-x-25m.html|>
-## Everbuild American Duct Tape Orange 50mm x 25m
-
-{
-  "price": "€18.19 inc VAT (€14.79 exc.vat)",
-  "description": "Everbuild American Duct Tape has a multitude of uses including waterproofing and windproofing scaffolding, windows, doors and exposed roofing. It can also be used on vertical and overhead applications due to its unique hold strength. American Duct Tape can also be used to temporarily hold DPM, timber, guttering, sheet material or any other building material that needs to be held in place without the need to clamp. It will stick to most surfaces and substrates and can be used internally as well as externally. Colour: Orange. Size: 50mm x 25m.",
-  "availability": "Out of Stock",
-  "product_name": "Everbuild American Duct Tape Orange 50mm x 25m",
-  "specifications": [
-    "Colour: Orange",
-    "Size: 50mm x 25m"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-anchorset-spare-mixer-nozzle.html|>
-## Everbuild Anchorset Spare Mixer Nozzle
-
-{
-  "price": "€2.35 inc VAT (€1.91 exc.vat)",
-  "description": "Nozzle No. 4 - Standard mixer nozzle, 215 mm length for use with Anchorset 380P, 150 and 300.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Anchorset Spare Mixer Nozzle",
-  "specifications": [
-    "Nozzle No. 4",
-    "Standard mixer nozzle",
-    "215 mm length",
-    "Compatible with Anchorset 380P, 150 and 300"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-aquaseal-waterproof-tanking-membrane-5-litre.html|>
-## Everbuild Aquaseal Waterproof Tanking Membrane 5 Litre
-
-{
-  "price": "€89.05 inc VAT (€72.40 exc.vat)",
-  "description": "Aquaseal Waterproof Tanking Membrane is a ready to use liquid waterproofing compound that is applied in a 2 coat system by brush. It provides a permanently flexible watertight membrane on floors and walls prior to tiling in shower areas, wet rooms and wet zones and other areas subject to water exposure such as balconies and partially covered external areas. Non-hazardous and solvent free. It is quick drying and tiling can commence after 12 hours.",
-  "availability": "Out of Stock",
-  "product_name": "Everbuild Aquaseal Waterproof Tanking Membrane 5 Litre",
-  "specifications": [
-    "5 Litre Tub",
-    "Can be used on most common building surfaces.",
-    "Ready to use, no diluting necessary.",
-    "Easy to apply by brush.",
-    "Non-hazardous, solvent free.",
-    "Can be tiled over after 12 hours."
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-aquaseal-wet-room-system-kit.html|>
-## Everbuild Aquaseal Wet Room System Kit
-
-{
-  "price": "€131.38 inc VAT",
-  "description": "Waterproof Tanking Kit containing:- Waterproof Tanking Primer for use before applying Tanking Membrane and Tanking Tape. Waterproof Tanking Membrane which forms a permanently flexible watertight membrane, applied by brush, two coats. Waterproof Tanking tape, a self adhesive joint and corner sealing tape. Waterproof Tanking Drain Mat, a self adhesive butyl backed fleece, capable of coping with movement around the drain outlet.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Aquaseal Wet Room System Kit",
-  "specifications": [
-    "Select Option: 4.5sq Metre, 7.5sq Metre",
-    "WEEE Recycling Producer Registration Number:12889",
-    "Fast & Reliable Shipping with DPD",
-    "FREE delivery for orders over €150 within Ireland",
-    "Money Back Guarantee within 16 days of delivery"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-black-jack-903-bitumen-trowel-mastic.html|>
-## Everbuild Black Jack® 903 Bitumen Trowel Mastic
-
-{
-  "price": "€21.39 inc VAT",
-  "description": "Everbuild Black Jack® 903 Bitumen Trowel Mastic is a black, heavily filled bituminous compound with added fibres for reinforcement, that is applied by trowel. It is used primarily for patching holes in roofs and bituminous coatings. The product forms a surface skin, but the mass below remains soft to allow for moderate movement.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Black Jack® 903 Bitumen Trowel Mastic",
-  "specifications": [
-    "Available in 1 Litre and 5 Litre options",
-    "Used for patching holes in roofs",
-    "Forms a surface skin while remaining soft below"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-black-jack-904-bitumen-roof-felt-adhesive.html|>
-## Everbuild Black Jack® 904 Bitumen Roof Felt Adhesive
-
-{
-  "price": "€20.14 inc VAT",
-  "description": "Everbuild Black Jack® 904 Bitumen Roof Felt Adhesive is a cold applied, black oxidised bitumen based adhesive, used to bond roofing felt to itself, concrete, asphalt, metal, wood and similar surfaces. Also suitable for use as a cold gritting solution.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Black Jack® 904 Bitumen Roof Felt Adhesive",
-  "specifications": [
-    "Available in 1 Litre and 5 Litre options",
-    "Cold applied, black oxidised bitumen based adhesive",
-    "Suitable for bonding roofing felt to various surfaces",
-    "WEEE Recycling information available"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-black-jack-905-all-weather-roof-coating-5-litre.html|>
-## Everbuild Black Jack® 905 All Weather Roof Coating 5 litre
-
-{
-  "price": "€61.19 inc VAT (€49.75 exc.vat)",
-  "description": "Everbuild Black Jack® 905 All Weather Roof Coating is a solvent based, full bodied, black, brushable compound with added fibres for reinforcement. It is specifically designed for overcoating leaking roofs. Dries to a tough, black coating.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Black Jack® 905 All Weather Roof Coating 5 litre",
-  "specifications": [
-    "5 litre capacity",
-    "Solvent based",
-    "Brushable compound",
-    "Reinforced with added fibres",
-    "Designed for overcoating leaking roofs",
-    "Dries to a tough, black coating"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-black-jack-flashing-tape-diy.html|>
-## Everbuild Black Jack® Flashing Tape, DIY
-
-{
-  "price": "€22.91 inc VAT",
-  "description": "Everbuild Black Jack® Flashing Tape DIY is a strong, self-adhesive flashing tape that comprises of an aluminium foil and a bitumen rubber adhesive. The adhesive forms a strong waterproof seal simply by pressing the tape into place by hand. Each roll contains a 250ml Tin of Primer.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Black Jack® Flashing Tape, DIY",
-  "specifications": [
-    "Select Option: 100mm x 3m, 150mm x 3m",
-    "WEEE Recycling Producer Registration Number: 12889",
-    "Fast & Reliable Shipping with DPD",
-    "FREE delivery for orders over €150 within Ireland",
-    "Money Back Guarantee within 16 days of delivery"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-black-jack-flashing-tape-trade.html|>
-## Everbuild Black Jack® Flashing Tape, Trade
-
-{
-  "price": "€23.47 inc VAT",
-  "description": "Everbuild Black Jack® Flashing Tape Trade is a strong, self-adhesive flashing tape that comprises of an aluminium foil and a bitumen rubber adhesive. The adhesive forms a strong waterproof seal simply by pressing the tape into place by hand. Available in various sizes.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Black Jack® Flashing Tape, Trade",
-  "specifications": [
-    "Available in various sizes: 100mm x 10m, 150mm x 10m, 225mm x 10m, 300mm x 10m, 450mm x 10m, 75mm x 10m"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-d4-wood-adhesive-1-litre.html|>
-## Everbuild D4 Wood Adhesive 1 litre
-
-{
-  "price": "€27.68 inc VAT (€22.50 exc.vat)",
-  "description": "Everbuild D4 Wood Adhesive is a solvent-free industrial grade adhesive based upon the latest hybrid resin technology. It is suitable for both interior and exterior use and has excellent bond strength. The waterproof formula is suitable for constant water immersion. It is temperature resistant up to 50°C and environmentally friendly. Dries clear and has low timber staining characteristics. Ideal for: General woodworking / joinery, General assembly line work, RF/HF cure systems, Wood on wood laminating, Furniture assembly, Household DIY.",
-  "availability": "In Stock",
-  "product_name": "Everbuild D4 Wood Adhesive 1 litre",
-  "specifications": [
-    "Solvent-free industrial grade adhesive",
-    "Suitable for interior and exterior use",
-    "Excellent bond strength",
-    "Waterproof formula for constant water immersion",
-    "Temperature resistant up to 50°C",
-    "Environmentally friendly",
-    "Dries clear with low timber staining characteristics"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-double-sided-tape-display.html|>
-## Everbuild Double Sided Tape Display
-
-{
-  "price": "€87.99 inc VAT",
-  "description": "The Everbuild Double Sided Tape in these displays, is a high tack, multipurpose tape, which bonds to most smooth surfaces and is ideal for securing many items to smooth surfaces, vertically and horizontally. Size: 50mm x 10m",
-  "availability": "In Stock",
-  "product_name": "Everbuild Double Sided Tape Display",
-  "specifications": [
-    "Size: 50mm x 10m",
-    "High tack, multipurpose tape",
-    "Bonds to most smooth surfaces"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-evercryl-emergency-roof-repair.html|>
-## Everbuild EVERCRYL® Emergency Roof Repair
-
-{
-  "price": "from €17.88 inc VAT",
-  "description": "Everbuild EVERCRYL® Emergency Roof Repair is a resin based, fibre reinforced, roof repair compound. It is effective on all common roofing surfaces and types, giving an instant roof repair even in the rain and on wet surfaces. May also be applied in frosty conditions down to –5°C. It is instantly waterproof when applied, so there is no fear of wash off. Emergency leaks can be tackled immediately, as there is no need to wait for the rain to stop. Cartridge applied, it dries to form a flexible membrane that resists algae and fungal growth. It has a high level of fibre reinforcement, meaning that it will bridge small cracks and holes up to 5mm, requires only one application to give instant and total water protection, even in areas subject to ponding. Requires no primer on sound non-porous surfaces.",
-  "availability": "In Stock",
-  "product_name": "Everbuild EVERCRYL® Emergency Roof Repair",
-  "specifications": [
-    "Resin based, fibre reinforced",
-    "Effective on all common roofing surfaces",
-    "Instant roof repair even in rain",
-    "Can be applied in frosty conditions down to –5°C",
-    "Instantly waterproof when applied",
-    "Dries to form a flexible membrane",
-    "Resists algae and fungal growth",
-    "Bridges small cracks and holes up to 5mm",
-    "Requires no primer on sound non-porous surfaces"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-evercryl-one-coat-1.html|>
-## Everbuild EVERCRYL® One Coat
-
-{
-  "price": "from €31.99 inc VAT",
-  "description": "Everbuild EVERCRYL® One Coat is a resin based, fibre reinforced, roof repair compound. It is effective on all common roofing surfaces and types, giving an instant roof repair even in the rain and on wet surfaces. May also be applied in frosty conditions down to –5°C. It is instantly waterproof when applied, so there is no fear of wash off. Emergency leaks can be tackled immediately, as there is no need to wait for the rain to stop. Brush applied, it dries to a smooth, seamless, flexible membrane that resists algae and fungal growth. It has a high level of fibre reinforcement, meaning that it will bridge small cracks and requires only a one-coat brush application to give instant and total water protection, even in areas subject to ponding. Requires no primer on sound non-porous surfaces.",
-  "availability": "In Stock",
-  "product_name": "Everbuild EVERCRYL® One Coat",
-  "specifications": [
-    "Resin based, fibre reinforced",
-    "Instant waterproof application",
-    "Effective on all common roofing surfaces",
-    "Can be applied in frosty conditions down to –5°C",
-    "Brush applied, dries to a smooth, seamless, flexible membrane",
-    "High level of fibre reinforcement"
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-evercryl-one-coat.html|>
-## Everbuild Evercryl One Coat
-
-{
-  "price": "from €113.82 inc VAT",
-  "description": "Everbuild Evercryl is a resin based, fibre reinforced roof repair compound which is effective on all common roofing surfaces and types, giving an instant roof repair even in the wet and on wet surfaces. Evercryl may also be applied in frosty conditions down to -5° C. Evercryl One Coat is instantly waterproof when applied, so there is no fear of washoff. Emergency leaks can be tackled immediately as there is no need to wait for the rain to stop. Evercryl One Coat is brush applied and dries to a smooth seamless flexible membrane which resists algae and fungal growth. Because of the high level of fibre re-enforcement, Evercryl One Coat will bridge small cracks and requires only a one-coat brush application to give instant and total water protection, even in areas subject to ponding. Evercryl One Coat requires no primer on sound non-porous surfaces.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Evercryl One Coat",
-  "specifications": [
-    "May be applied in damp and wet conditions.",
-    "Formulated from lightfast acrylic polymers to withstand sunlight for longer periods than traditional bitumen coatings.",
-    "Fibre re-enforced to bridge small cracks.",
-    "Primerless adhesion to most bituminous and non-porous surfaces.",
-    "General sealing, maintenance, repair and waterproofing of most common roofs in wet or dry conditions."
-  ]
-}
-
-<|https://www.mydiy.ie/products/everbuild-evermix-3-in-1-5-litre.html|>
-## Everbuild Evermix 3 in 1 5 Litre
-
-{
-  "price": "€14.51 inc VAT (€11.80 exc.vat)",
-  "description": "EVERBUILD Evermix 3 in 1 is a air entraining chloride free liquid admixture for waterproofing, plasticising and retarding the setting time of render mixes. Conforms to BS4887 (air entraining properties) -The combination of an air entrainer and retarder allows larger areas to be covered in one application -Improves workability/trowelability.. -Significantly reduces water penetration. -Chloride free (chloride ion content < 0.1%). -Reduces bleeding/segregation. -Improves durability -Inhibits efflorescence. -Reduces shrinkage (cracking and crazing reduced). -Enhances insulation properties. As an admixture for exterior/interior cementicious render finishes such as roughcast, harling and dashing. May also be used internally after installation of a DPC system.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Evermix 3 in 1 5 Litre",
-  "specifications": [
-    "Air entraining and retarding properties",
-    "Chloride free",
-    "Improves workability",
-    "Reduces water penetration",
-    "Enhances insulation properties"
   ]
 }
 

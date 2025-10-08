@@ -2217,3 +2217,163 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/hozelock-3-in-1-watering-starter-set.html|>
+## Hozelock 3-in-1 Watering Starter Set
+
+{
+  "price": "€23.03 inc VAT (€18.72 exc.vat)",
+  "description": "The Hozelock 3-in-1 Watering Starter Set is for hoses with a diameter of 12.5mm and 15mm. Contains the following: 1 x 3-in-1 Nozzle has an ergonomic design with a soft touch grip and instruction arrows. It produces 3 different sprays: jet, cone and fine rose. Compatible with all other connectors. Made in the UK. 1 x Soft Touch Hose End Connector. Guaranteed secure, up to 10 bar, thanks to a triple locking system. All the internal parts are made from ultra tough engineering plastic, for a long leak free life. With a soft touch for added grip and comfort. 1 x Soft Touch AquaStop Connector. An internal valve stops the water flow when an accessory (e.g. a spray gun) is disconnected, avoiding the need to return to the tap to turn the water off when you are switching between accessories. It also helps to reduce water wastage. With a soft touch for added grip and comfort. 1 x Threaded Tap Connector 3/4in BSP for use with 95% of all outdoor taps. Includes a 1/2in adaptor for older taps. The connector securely attaches to the outdoor tap, and converts it to the Hozelock quick connect system.",
+  "availability": "In Stock",
+  "product_name": "Hozelock 3-in-1 Watering Starter Set",
+  "specifications": [
+    "For hoses with a diameter of 12.5mm and 15mm",
+    "3-in-1 Nozzle with ergonomic design",
+    "Soft Touch Hose End Connector",
+    "Soft Touch AquaStop Connector",
+    "Threaded Tap Connector 3/4in BSP"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-xt-pro-hedge-shears-635mm.html|>
+## Roughneck XT Pro Hedge Shears 635mm
+
+{
+  "price": "€36.99 inc VAT (€30.07 exc.vat)",
+  "description": "The Roughneck® XT Pro Hedge Shears are drop forged for extra toughness. Blades are made from carbon steel for outstanding toughness and durability, and their wavy edges help to grip hedge branches. The heavy-duty steel handles offer maximum strength and feature ergonomically designed air cushion grips for maximum comfort. The XT Pro hedge shears have a 25 Year Guarantee.",
+  "availability": "In Stock",
+  "product_name": "Roughneck XT Pro Hedge Shears 635mm",
+  "specifications": [
+    "Drop forged for extra toughness",
+    "Blades made from carbon steel",
+    "Wavy edges for better grip",
+    "Heavy-duty steel handles",
+    "Ergonomically designed air cushion grips",
+    "25 Year Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-ch-3665-li-solo-power-x-change-hedge-trimmer-36v-bare-unit.html|>
+## Einhell GE-CH 36/65 Li-Solo Power X-Change Hedge Trimmer 36V Bare Unit
+
+{
+  "price": "€150.08 inc VAT (€122.02 exc.vat)",
+  "description": "The Einhell GE-CH 36/65 Li-Solo Power X-Change Hedge Trimmer is a powerful and cordless tool which provides unlimited freedom when working in the garden. Powered by two 18V batteries (NOT SUPPLIED). Its cutters are made of laser-cut and diamond-ground steel and, just like the metal gear unit, are designed for a long life. Fitted with a rotating handle, ergonomic slimline front handle and microswitch that make it comfortable to work with. It has an aluminium cover for the cutters, and an impact guard with holder for wall hanging and a sturdy cutter guard for storage and transport are also included. There is a practical cuttings collector. Comes as a Bare Unit, NO battery or charger supplied.",
+  "availability": "In Stock",
+  "product_name": "Einhell GE-CH 36/65 Li-Solo Power X-Change Hedge Trimmer 36V Bare Unit",
+  "specifications": [
+    "Strokes at No Load: 2,700/min.",
+    "Blade Length: 72cm, 30mm Gap",
+    "Cutting Length: 65cm",
+    "Weight: 4kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/roughneck-sharp-edge-round-shovel-long-handle.html|>
+## Roughneck Sharp Edge Round Shovel, Long Handle
+
+{
+  "price": "€23.98 inc VAT (€19.50 exc.vat)",
+  "description": "This Roughneck® Round Shovel has a sharp serrated edge, ideal for digging in compacted ground, slicing through roots and opening bulk bags or bags of cement. The long fibreglass handle is fitted with a contoured grip, it offers increased leverage and power, allowing for a more comfortable, upright position to be maintained whilst digging. Perfect for deeper holes and trenches. Built to last, it is manufactured from heavy-duty, carbon steel with a corrosion-resistant, tumble lacquered finish. Treads on the blade allow for increased pressure to be applied with reduced risk of slippage. The Power Ring socket, steel-reinforced plug, provides a stronger blade to handle connection.",
+  "availability": "In Stock",
+  "product_name": "Roughneck Sharp Edge Round Shovel, Long Handle",
+  "specifications": [
+    "Blade Width: 225mm",
+    "Overall Length: 1460mm (57.1/2in)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-stainless-steel-hand-border-rake-fsc.html|>
+## Kent & Stowe Stainless Steel Hand Border Rake, FSC®
+
+{
+  "price": "€16.63 inc VAT (€13.52 exc.vat)",
+  "description": "The Kent & Stowe Hand Border Rake is ideal for raised beds, hard to reach areas such as the back of borders and between shrubs. It has flat tines that easily collect leaves and debris. The rake has been hand crafted and offers traditional quality. The head is made from stainless steel which offers excellent corrosion resistance and long-lasting performance. The handle is made from beautiful FSC® approved ash wood, contoured for a perfect comfortable grip at any length.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Stainless Steel Hand Border Rake, FSC®",
+  "specifications": [
+    "K/S70100187 : €16.63",
+    "Hand crafted",
+    "Stainless steel head",
+    "FSC® approved ash wood handle",
+    "Ideal for raised beds and hard to reach areas"
+  ]
+}
+
+<|https://www.mydiy.ie/products/gorilla-tubs-one-piece-plastic-shovel---yellow.html|>
+## Gorilla Tubs One Piece Plastic Shovel - Yellow
+
+{
+  "price": "€29.06 inc VAT (€23.63 exc.vat)",
+  "description": "The Gorilla Shovel™ is a solid, single piece plastic shovel made from a very thick, high quality plastic. As such, it will not rust and is non-sparking. The shovel is designed for builders and can withstand any task in any weather. It is supplied in high-vis yellow. Length: 101cm. Blade width: 31cm.",
+  "availability": "In Stock",
+  "product_name": "Gorilla Tubs One Piece Plastic Shovel - Yellow",
+  "specifications": [
+    "Length: 101cm",
+    "Blade width: 31cm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-ge-ch-18551-li-power-x-change-hedge-trimmer-18v-1-x-25ah-li-ion.html|>
+## Einhell GE-CH 1855/1 Li Power X-Change Hedge Trimmer 18V 1 x 2.5Ah Li-ion
+
+{
+  "price": "€128.51 inc VAT (€104.48 exc.vat)",
+  "description": "The Einhell GE-CH 1855/1 Li Power X-Change Hedge Trimmer with metal gearing for long service life. Its blades are made from laser-cut and diamond-ground steel for clean-cutting results. Fitted with a swivel handle and an additional adjustable handle for increased comfort and reduced fatigue. A two-hand switch increases user safety. Supplied with a sturdy cutter guard for storage and transportation, 1 x 2.5Ah Li-ion Battery and 1 x Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Einhell GE-CH 1855/1 Li Power X-Change Hedge Trimmer 18V 1 x 2.5Ah Li-ion",
+  "specifications": [
+    "Strokes at No Load: 2,200/min.",
+    "Cutting Length: 550mm",
+    "Blade Length: 620mm",
+    "Spacing Between Teeth: 18mm",
+    "Weight: 2.6kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/makita-dun461wrt-lxt-pole-hedgetrimmer-18v-1-x-50ah-li-ion.html|>
+## Makita DUN461WRT LXT Pole Hedgetrimmer 18V 1 x 5.0Ah Li-ion
+
+{
+  "price": "€298.83 inc VAT (€242.95 exc.vat)",
+  "description": "The Makita DUN461 LXT Pole Hedgetrimmer offers high cutting speed for smooth and efficient trimming. With optional lock-off function, the hedgetrimmer is ideal on longer jobs. A reverse rotation system frees the blade when it is jammed by thick branches. The head angle is adjustable for maximum efficiency; 60° tilt-up to 75° tilt-down from the horizontal position. With 10 preset angle settings, the angle of hedge trimmer head can be changed simply by pushing a button. Its slide-type front grip position is adjustable for personal fit, and comfort, to maximise work efficiency in different working postures. With a telescopic pipe for shaft length adjustment and a lock lever allows for tool-less easy adjustment of the pole extension. Supplied with: 1 x Blade Cover, 1 x 18V 5.0Ah Li-ion Battery and 1 x DC18RC Compact Charger.",
+  "availability": "Out of Stock",
+  "product_name": "Makita DUN461WRT LXT Pole Hedgetrimmer 18V 1 x 5.0Ah Li-ion",
+  "specifications": [
+    "Strokes at No Load: 3,600/min.",
+    "Blade Length: 46cm, 10mm gap.",
+    "Overall Length: 1,889 - 2,511mm.",
+    "Weight: 3.3kg."
+  ]
+}
+
+<|https://www.mydiy.ie/products/irwin-mortar-rake-cutters.html|>
+## IRWIN Mortar Rake Cutters
+
+{
+  "price": "from €17.29 inc VAT",
+  "description": "The Irwin carbide tipped mortar rake cutters are ideal for the fast and efficient removal of mortar and cement joints in brickwork repointing applications and for chasing out channels for the installation of cable,pipes and switchboxes. They can be used with the Irwin mortar raker sole plate and small angle grinders.",
+  "availability": "In Stock",
+  "product_name": "IRWIN Mortar Rake Cutters",
+  "specifications": [
+    "Select Option: 10mm x 20/40mm 3 cutter",
+    "Select Option: 10mm x 20/40mm 4 cutter"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kent-and-stowe-stainless-steel-garden-life-soil-rake-fsc.html|>
+## Kent & Stowe Stainless Steel Garden Life Soil Rake, FSC®
+
+{
+  "price": "€32.95 inc VAT (€26.79 exc.vat)",
+  "description": "The Kent & Stowe Garden Life Soil Rake is ideal for use in all soil areas, for cultivating surface soil and levelling off for final preparation. The rake has been hand crafted and the head is made from stainless steel. This product is 40% lighter than K&S original stainless steel Soil Rake. It offers excellent corrosion resistance and long-lasting performance. Practical and easy-to-use, with increased manoeuvrability. The handle is made from beautiful FSC® approved ash wood that has been tapered for comfort.",
+  "availability": "In Stock",
+  "product_name": "Kent & Stowe Stainless Steel Garden Life Soil Rake, FSC®",
+  "specifications": [
+    "Handle Diameter: 28mm, tapered",
+    "Head Size: 270 x 309mm",
+    "Length: 1300mm",
+    "Number of Tines: 12",
+    "Weight: 0.96kg"
+  ]
+}
+

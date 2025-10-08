@@ -1,0 +1,388 @@
+<|https://www.mydiy.ie/products/dewalt-storage-tstak-foam-inlay.html|>
+## DEWALT Storage TSTAK™ Foam Inlay
+
+{
+  "price": "€22.82 inc VAT (€18.55 exc.vat)",
+  "description": "The DEWALT TSTAK™ Foam Inlay is made from lightweight but strong materials helping to keep your equipment safe during transportation. Provides flexibility and can be customised by the user to suit a variety or tools and needs. Compatible with many TSTAK™ boxes.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage TSTAK™ Foam Inlay",
+  "specifications": [
+    "Dimensions (WxHxD): 430 x 300 x 70mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-breathable-microfoam-nitrile-gloves-size-9-l.html|>
+## Scan Breathable Microfoam Nitrile Gloves Size 9 (L)
+
+{
+  "price": "€5.31 inc VAT (€4.32 exc.vat)",
+  "description": "The Scan Breathable Microfoam Nitrile Gloves are manufactured from a knitted grey spandex liner with a microfoam nitrile palm coating. These gloves are suitable for use in many processes involving the handling of small metal or plastic parts, or any situation where high dexterity is required. Extremely light and breathable, the special microfoam coating offers a secure grip in both wet and dry applications, with no sticky side effect and is oil and grease resistant. Conform to EN420 and EN388 4 = Abrasion, Performance Index 0-4 1 = Blade Cut, Performance Index 0-5 3 = Tear, Performance Index 0-4 1 = Puncture, Performance Index 0-4 Size: 9 (Large)",
+  "availability": "In Stock",
+  "product_name": "Scan Breathable Microfoam Nitrile Gloves Size 9 (L)",
+  "specifications": [
+    "Size: 9 (Large)",
+    "Conform to EN420 and EN388",
+    "Abrasion Performance Index: 4",
+    "Blade Cut Performance Index: 1",
+    "Tear Performance Index: 3",
+    "Puncture Performance Index: 1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/town-and-country-weed-master-plus-mens-gloves.html|>
+## Town & Country Weed Master Plus Mens Gloves
+
+{
+  "price": "€7.77 inc VAT",
+  "description": "Town & Country Weed Master Plus Mens Gloves are made from polyester with a protective nitrile coating on the palm and fingers and they also have a stretch, breathable back. A Hook & Loop fastening ensures a close fit. These light and comfortable gloves offer excellent protection, making them perfect for weeding and other delicate gardening jobs.",
+  "availability": "In Stock",
+  "product_name": "Town & Country Weed Master Plus Mens Gloves",
+  "specifications": [
+    "Made from polyester with a protective nitrile coating",
+    "Stretch, breathable back",
+    "Hook & Loop fastening for a close fit",
+    "Light and comfortable",
+    "Excellent protection for weeding and delicate gardening jobs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-black-pu-coated-gloves.html|>
+## Scan Black PU Coated Gloves
+
+{
+  "price": "€18.75 inc VAT",
+  "description": "These Scan Black PU Coated Gloves are made from knitted nylon with a seamless finish and a fine polyurethane coating over the palm and fingers. The back of the glove is uncoated to provide ventilation to the hand, avoiding perspiration and clamminess. These gloves are suited to work where a high level of dexterity is needed along with a good protection factor. Typical applications include packing, inspection and fine component assembly operations. Conforms to EN388 and EN420 4 = Abrasion, Performance Index 1-4 1 = Blade Cut, Performance Index 1-5 3 = Tear, Performance Index 1-4 1 = Puncture, Performance Index 1-4",
+  "availability": "In Stock",
+  "product_name": "Scan Black PU Coated Gloves",
+  "specifications": [
+    "Made from knitted nylon",
+    "Seamless finish",
+    "Fine polyurethane coating over palm and fingers",
+    "Uncoated back for ventilation",
+    "Conforms to EN388 and EN420",
+    "Typical applications: packing, inspection, fine component assembly"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-galvanised-metal-toolboxes.html|>
+## Stanley Tools Galvanised Metal Toolboxes
+
+{
+  "price": "from €47.23 inc VAT",
+  "description": "These heavy-duty toolboxes are ideal for use on the worksite, garage or around the home. They have a centre galvanised finish, this gives the toolbox a sturdy durable construction and is also rust-resistant, as are the two heavy-duty metal latches. They have a removable plastic tray which is ideal for smaller tools like screwdrivers, spanners etc, or tapes and fixings that can be found at a glance. The lid incorporates a saw groove for holding pipes and timber for cutting when there is no work bench available. The lid on has a honeycomb design to give it extra strength and durability, and the soft grip handle folds flat in to the lid when not in use.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Galvanised Metal Toolboxes",
+  "specifications": [
+    "Available sizes: 50cm (20in), 59cm (23in), 66cm (26in)",
+    "Heavy-duty metal latches",
+    "Removable plastic tray for smaller tools",
+    "Saw groove in lid for cutting",
+    "Honeycomb design for extra strength",
+    "Soft grip handle folds flat"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-thermal-latex-coated-glove-size-9.html|>
+## Scan Thermal Latex Coated Glove Size 9
+
+{
+  "price": "€19.99 inc VAT",
+  "description": "Scan Orange/Black Knitshell Thermal Gloves are high visibility gloves with black latex wrinkle finish coating to palm and fingers. They give excellent grip in both wet and dry conditions. Ideal for the construction, automotive and handling industries. With palm and finger coated latex and high visibility seamless acrylic knitted thermal liner. Conform to EN388 and EN420.",
+  "availability": "In Stock",
+  "product_name": "Scan Thermal Latex Coated Glove Size 9",
+  "specifications": [
+    "Size: 9 (Large)",
+    "3 = Abrasion: Performance Index 0-4",
+    "1 = Blade Cut: Performance Index 0-5",
+    "3 = Tear: Performance Index 0-4",
+    "2 = Puncture: Performance Index 0-4"
+  ]
+}
+
+<|https://www.mydiy.ie/products/town-and-country-ladies-master-gardener-gloves.html|>
+## Town and Country Ladies Master Gardener Gloves
+
+{
+  "price": "€7.80 inc VAT",
+  "description": "The Master Gardener is the UKs best selling glove. It offers protection against thorns and other sharp objects and has an excellent grip in both wet and dry conditions. The outstanding fit, snug knit wrist included, means there is no loss of dexterity.",
+  "availability": "In Stock",
+  "product_name": "Town and Country Ladies Master Gardener Gloves",
+  "specifications": [
+    "Select Option: Medium",
+    "List Price: €8.97",
+    "You save: €1.17"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vitrex-decorators-gloves.html|>
+## Vitrex Decorators' Gloves
+
+{
+  "price": "€2.42 inc VAT (€1.97 exc.vat)",
+  "description": "The Vitrex 33 7150 Decorators Gloves are lightweight and comfortable. They are made from unbleached cotton, which keeps hands clean when painting or decorating. The gloves are ideal for painting and sanding down in areas where there is no risk of skin exposure to toxic substances. They are hardwearing and non-allergenic. Conform to EN388.",
+  "availability": "Out of Stock",
+  "product_name": "Vitrex Decorators' Gloves",
+  "specifications": [
+    "VIT337150 : €2.42",
+    "Lightweight and comfortable",
+    "Made from unbleached cotton",
+    "Ideal for painting and sanding",
+    "Hardwearing and non-allergenic",
+    "Conform to EN388"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-no-hat-no-boots-no-job---pvc-600-x-400mm.html|>
+## Scan No Hat, No Boots, No Job - PVC 600 x 400mm
+
+{
+  "price": "€26.95 inc VAT (€21.91 exc.vat)",
+  "description": "This Scan Mandatory sign is made from 1mm thick, durable PVC. It's aggressive waster-based adhesive enables the sign to easily stick on to and remain on any wall. It is printed using UV resistant inks, which resist fading. It is easy to read with clear instruction and illustration. Complies with BS5499 and/or ISO7010 design criteria where applicable. Helps limit company liability should an accident occur. The SCA4009 safety sign has the following specifications: Size: 400 x 600mm Message: 'No hat, No boots, No Job!'.",
+  "availability": "In Stock",
+  "product_name": "Scan No Hat, No Boots, No Job - PVC 600 x 400mm",
+  "specifications": [
+    "Size: 400 x 600mm",
+    "Message: 'No hat, No boots, No Job!'",
+    "Material: 1mm thick PVC",
+    "Adhesive: Aggressive water-based",
+    "UV resistant inks"
+  ]
+}
+
+<|https://www.mydiy.ie/products/moldex-ffpak-storage-bag-for-air-plus-and-ffp-masks.html|>
+## Moldex FFPAK Storage Bag for Air Plus & FFP Masks
+
+{
+  "price": "€30.89 inc VAT (€25.11 exc.vat)",
+  "description": "The Moldex FFPAK Storage Bag helps to prolong the life of reusable FFPs by keeping them hygienic and protected from dust between use. The contoured shape keeps the inside of the mask protected from dust whilst being stored. Allows you to store non-reusable FFP masks and keep them clean prior to use. The carabiner clip allows you to carry masks with you. Will fit the following Moldex masks: 1 x Air Plus ProValve FFP mask, or 1 x Air Plus FFP mask, or 2 x Air FFP masks, or 3 x Classic or Smart Series FFP masks.",
+  "availability": "In Stock",
+  "product_name": "Moldex FFPAK Storage Bag for Air Plus & FFP Masks",
+  "specifications": [
+    "MOL399401 : €30.89",
+    "Fits various Moldex masks",
+    "Carabiner clip for easy carrying"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-a700-black-general-utility-gloves---large-size-9.html|>
+## Portwest A700 Black General Utility Gloves - Large (Size 9)
+
+{
+  "price": "€12.13 inc VAT (€9.86 exc.vat)",
+  "description": "Lightweight design with added wrist support. Low linting construction for minimal contamination. Reinforced stitching on the thumb for extra strength. Multipurpose and suitable for any job.",
+  "availability": "In Stock",
+  "product_name": "Portwest A700 Black General Utility Gloves - Large (Size 9)",
+  "specifications": [
+    "Lightweight design with added wrist support",
+    "Low linting construction for minimal contamination",
+    "Reinforced stitching on the thumb for extra strength",
+    "Multipurpose and suitable for any job"
+  ]
+}
+
+<|https://www.mydiy.ie/products/kunys-handyman-flexgrip-gloves.html|>
+## Kuny's Handyman Flexgrip Gloves
+
+{
+  "price": "€30.43 inc VAT",
+  "description": "The CLC 125 Handyman Gloves have an ergonomic design and are made from Clarino synthetic leather which resists shrinking, stretching and hardening. They have concealed internal stitching to prevent snagging and provides flexibility and better fit. The adjustable elastic cuff helps to keep out debris, the padded palms offer comfort and the lycra panels helping to provide dexterity. Other features include: Reinforced fingertips - for added durability. Padded knuckle - for further protection. Suitable for Carpentry, Automotive, Plumbing etc.",
+  "availability": "In Stock",
+  "product_name": "Kuny's Handyman Flexgrip Gloves",
+  "specifications": [
+    "Size options: L (Size 10), M (Size 9), XL (Size 11)",
+    "Ergonomic design",
+    "Made from Clarino synthetic leather",
+    "Concealed internal stitching",
+    "Adjustable elastic cuff",
+    "Padded palms for comfort",
+    "Reinforced fingertips",
+    "Padded knuckle for protection",
+    "Suitable for Carpentry, Automotive, Plumbing"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-thermal-waterproof-latex-coated-gloves.html|>
+## Scan Thermal Waterproof Latex Coated Gloves
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "These Scan Thermal Waterproof Gloves have a latex coated palm for excellent abrasion resistance and grip, ideal for the construction industry. They have a brushed acrylic thermal liner and an elasticated cuff for work in cold and wet conditions. The elasticated cuffs ensure comfort and a secure fit. Conforms to EN 388:2016, EN ISO 21420, and EN511(X2X).",
+  "availability": "In Stock",
+  "product_name": "Scan Thermal Waterproof Latex Coated Gloves",
+  "specifications": [
+    "Size options: L (Size 9), M (Size 8), XL (Size 10), XXL (Size 11)",
+    "Latex coated palm for abrasion resistance",
+    "Brushed acrylic thermal liner",
+    "Elasticated cuff for comfort and secure fit",
+    "Conforms to EN 388:2016, EN ISO 21420, and EN511(X2X)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-storage-fatmax-pro-stack-open-tote.html|>
+## STANLEY® Storage FatMax® PRO-STACK™ Open Tote
+
+{
+  "price": "€35.94 inc VAT (€29.22 exc.vat)",
+  "description": "The STANLEY® FatMax® PRO-STACK™ Open Tote has a wide opening, making it perfect to store larger power tools and longer items, such as spirit levels. Complete with a folding carry handle, enabling easy connectivity with other STANLEY® FATMAX® PRO-STACK™ modules. Part of the STANLEY® FATMAX® PRO-STACK™ range which is a customisable, interlocking, stackable and portable storage system that's bespoke to you and your trade with multiple module and transport options.",
+  "availability": "Out of Stock",
+  "product_name": "STANLEY® Storage FatMax® PRO-STACK™ Open Tote",
+  "specifications": [
+    "Outer Dimensions: 44 x 27.5 x 32cm",
+    "Inner Dimensions: 36.5 x 29 x 26.5cm",
+    "Max. Capacity: 10kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-essential-toolbox-bonus-pack-32cm-and-48cm.html|>
+## Stanley Tools Essential Toolbox Bonus Pack 32cm & 48cm
+
+{
+  "price": "€38.99 inc VAT (€31.70 exc.vat)",
+  "description": "The Stanley Tools Essential Toolbox has an innovative design with an internal tool tray and small top organisers to enable small parts organisation. Fitted with ergonomic metal catches (2 on 48cm and 1 on 32cm Box) and geometric lock latches for smooth closing and opening. The toolbox can be locked with a small padlock for extra safety and to reduce the risk of theft. Includes: 1 x Stanley Tools Essential Toolbox 32cm. 1 x Stanley Tools Essential Toolbox 48cm.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools Essential Toolbox Bonus Pack 32cm & 48cm",
+  "specifications": [
+    "Innovative design with internal tool tray",
+    "Ergonomic metal catches",
+    "Geometric lock latches",
+    "Includes 32cm and 48cm toolboxes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-a620-lr-cut-pu-palm-glove-grey-size-xl.html|>
+## Portwest A620 Lr Cut Pu Palm Glove Grey Size Xl
+
+{
+  "price": "€5.39 inc VAT (€4.38 exc.vat)",
+  "description": "A620 Lr Cut Pu Palm Glove Grey Size Xl",
+  "availability": "In Stock",
+  "product_name": "Portwest A620 Lr Cut Pu Palm Glove Grey Size Xl",
+  "specifications": [
+    "WEEE Recycling Producer Registration Number:12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-vibration-resistant-latex-foam-gloves.html|>
+## Scan Vibration Resistant Latex Foam Gloves
+
+{
+  "price": "€4.33 inc VAT",
+  "description": "Scan Vibration Resistant Latex Foam Gloves have a 7 gauge polyester outer with a cotton liner, meaning this mixed shell glove not only absorbs the wet well, but is also durable under all conditions. The latex foam padding on the palm absorbs vibration, and the fingertip seams are glued for added resistance. Ideal for use with power tools and other equipment within industrial, agricultural or commercial environments. Conform to EN 420 and EN 388 Standards. Abrasion Performance Index (1-4): 1 Blade Cut Performance Index (1-5): 1 Tear Performance Index (1-4): 2 Puncture Performance Index (1-4): X (not tested)",
+  "availability": "In Stock",
+  "product_name": "Scan Vibration Resistant Latex Foam Gloves",
+  "specifications": [
+    "Size options: 10 Extra Large, 11 Extra Extra Large, 8 Medium",
+    "Conform to EN 420 and EN 388 Standards",
+    "Abrasion Performance Index: 1",
+    "Blade Cut Performance Index: 1",
+    "Tear Performance Index: 2",
+    "Puncture Performance Index: Not tested"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-fw51-steelite-dealer-boots.html|>
+## Portwest FW51 Steelite Dealer Boots
+
+{
+  "price": "€79.89 inc VAT",
+  "description": "Waxy full grain buffalo leather uppers\n\nSteel toecap and midsole\n\nSlip Rating: SRA\n\nAnti-static, fuel and oil resistant outsole\n\nDual density sole unit",
+  "availability": "In Stock",
+  "product_name": "Portwest FW51 Steelite Dealer Boots",
+  "specifications": [
+    "Waxy full grain buffalo leather uppers",
+    "Steel toecap and midsole",
+    "Slip Rating: SRA",
+    "Anti-static, fuel and oil resistant outsole",
+    "Dual density sole unit"
+  ]
+}
+
+<|https://www.mydiy.ie/products/portwest-a625-orangeblack-cut-resistant-gloves---large-size-9.html|>
+## Portwest A625 Orange/Black Cut Resistant Gloves - Large (Size 9)
+
+{
+  "price": "€8.41 inc VAT (€6.84 exc.vat)",
+  "description": "Providing level 5 cut resistance with PU dipping for excellent abrasion resistance. The flexible, hi-vis lining offers optimum protection and comfort. Conform to EN 420 and EN 388 4.5.4",
+  "availability": "In Stock",
+  "product_name": "Portwest A625 Orange/Black Cut Resistant Gloves - Large (Size 9)",
+  "specifications": [
+    "Level 5 cut resistance",
+    "PU dipping for abrasion resistance",
+    "Hi-vis lining for protection and comfort",
+    "Conforms to EN 420 and EN 388 4.5.4"
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-storage-tstak-tote.html|>
+## DEWALT Storage TSTAK™ Tote
+
+{
+  "price": "€39.94 inc VAT (€32.47 exc.vat)",
+  "description": "The DEWALT TSTAK™ Tote is a tough, durable tool case made from 3mm polypropylene plastic. With a large open interior for bulk storage and vertical tool storage for easy visibility access to frequently used tools. It also features nameplates for easy content identification and an ergonomic carry handle. The TSTAK­™ interlocking storage system allows toolboxes to be interconnected and configured to meet the user's needs.",
+  "availability": "Out of Stock",
+  "product_name": "DEWALT Storage TSTAK™ Tote",
+  "specifications": [
+    "Outer Dimensions (W x L x H): 320 x 440 x 275mm",
+    "Capacity: 27 litre",
+    "Max. Load: 50kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/stanley-tools-fatmax-work-step-toolbox-64cm.html|>
+## Stanley Tools FatMax® Work Step Toolbox 64cm
+
+{
+  "price": "€111.02 inc VAT (€90.26 exc.vat)",
+  "description": "The Stanley Tools FatMax® Work Step Toolbox combines a toolbox and work step in one. It has a lightweight design with an ergonomic carry handle for easy carrying. The work step has stainless aluminium legs with non-slip feet to ensure optimum stability and longevity. For added safety the step has been fitted with safety lock buttons.",
+  "availability": "In Stock",
+  "product_name": "Stanley Tools FatMax® Work Step Toolbox 64cm",
+  "specifications": [
+    "External Dimensions: 64 x 29.6 x 28.7cm",
+    "Inner Dimensions: 56 x 26.5 x 20cm",
+    "Max. Load: 30kg",
+    "Max. Standing Load: 150kg",
+    "Weight: 6.2kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-nitrile-palm-cut-f-gloves.html|>
+## Scan Nitrile Palm Cut F Gloves
+
+{
+  "price": "€13.31 inc VAT",
+  "description": "The Scan Safety Cut F Gloves provides a high level of protection while maintaining the dexterity needed for day-to-day tasks. The 13g liner offers Cut F level protection, suitable for the majority of high risk tasks involving blades as well as handling glass and heavy metals. Unlike gloves with steel fibres, these gloves are more dexterous and lightweight. 19% of the technical liner includes recycled polyester, reducing the use of virgin plastics in manufacturing. The sandy foam nitrile-dipped palms are resistant to oil and greases, making them suitable for use in both wet and dry conditions. An additional reinforced nitrile patch between the finger and thumb enhances grip, especially when using hand and power tools. These gloves are also compatible with touch screen electronic devices.",
+  "availability": "In Stock",
+  "product_name": "Scan Nitrile Palm Cut F Gloves",
+  "specifications": [
+    "Size Options: L (Size 9), M (Size 8), XL (Size 10), XXL (Size 11)",
+    "Cut F level protection",
+    "13g liner",
+    "19% recycled polyester",
+    "Nitrile-dipped palms resistant to oil and greases",
+    "Compatible with touch screen devices"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-power-tools-m12-heated-puffer-vest.html|>
+## Milwaukee Power Tools M12™ Heated Puffer Vest
+
+{
+  "price": "€248.25 inc VAT",
+  "description": "The Milwaukee M12™ Heated Puffer Vest has 3 sewn in carbon fibre heating elements that create and distribute heat to core body areas. Made from lightweight and highly durable ripstop polyester. This provides a slim design that can be worn as an outer-shell or a mid-layer (100% Polyester outer and inner shell). Reinforced high-wear zones protect from abrasion and tears. The easy one-touch heat controller has 3 heat settings: High, Medium, Low. Meaning its simple to use. Provides comfort and durability in harsh, rainy or windy environments. This jacket is machine washable and dryable. Powered by a M12™ battery (NOT supplied). When using a M12™ REDLITHIUM™ 3.0 Ah battery pack you can get up to 11 hours of heat on a single charge. Flexible battery system: works with all MILWAUKEE® M12™ batteries.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee Power Tools M12™ Heated Puffer Vest",
+  "specifications": [
+    "3 sewn in carbon fibre heating elements",
+    "Lightweight and durable ripstop polyester",
+    "Slim design for outer-shell or mid-layer",
+    "Reinforced high-wear zones",
+    "Easy one-touch heat controller with 3 settings",
+    "Machine washable and dryable",
+    "Powered by M12™ battery (not supplied)",
+    "Up to 11 hours of heat on a single charge"
+  ]
+}
+

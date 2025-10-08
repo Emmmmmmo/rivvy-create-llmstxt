@@ -1,0 +1,153 @@
+<|https://www.mydiy.ie/products/unibond-anti-mould-kitchen-and-bathroom-sealant.html|>
+## Unibond Anti-Mould Kitchen & Bathroom Sealant
+
+{
+  "price": "€6.99 inc VAT",
+  "description": "UniBond Anti-Mould Sealant is a waterproof, anti-mould silicone sealant that is suitable for most sanitary sealing tasks around your home. This ultimate shower and bathroom sealant uses the latest in silicone technology to give waterproof protection with fantastic flexibility. The mould protect system makes it suitable for power showers and wet rooms and the lifetime guarantee makes Unibond Anti Mould Sealant the first choice to finish off bathroom projects. Suitable for interior use on showers, baths, toilets, power showers, wet rooms, sinks and basins, worktops, tiled areas and fixing sealant strips. NOT suitable for exterior use or dado rails, coving, PVCu windows and wooden frames.",
+  "availability": "In Stock",
+  "product_name": "Unibond Anti-Mould Kitchen & Bathroom Sealant",
+  "specifications": [
+    "Cartridge Translucent 274g",
+    "Cartridge White 274g",
+    "Tube White 147g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-everbuild-industrial-polyurethane-40-sealant-c3.html|>
+## Everbuild Everbuild Industrial Polyurethane 40 Sealant C3
+
+{
+  "price": "€22.83 inc VAT",
+  "description": "Everbuild Industrial Polyurethane 40 Sealant is a high modulus, one-component PU sealant and adhesive which adheres strongly to most substrates. Provides excellent mechanical resistance (shore A 35), resistance to most common chemicals and can be overpainted when cured. Suitable for metal and container sealing, marine applications, expansion joints, automotive and engineering uses. Is solvent free (EMICODE EC 1PLUSR Very Low Emissions).",
+  "availability": "In Stock",
+  "product_name": "Everbuild Everbuild Industrial Polyurethane 40 Sealant C3",
+  "specifications": [
+    "High modulus, one-component PU sealant and adhesive",
+    "Excellent mechanical resistance (shore A 35)",
+    "Resistance to most common chemicals",
+    "Can be overpainted when cured",
+    "Suitable for metal and container sealing",
+    "Marine applications, expansion joints, automotive and engineering uses",
+    "Solvent free (EMICODE EC 1PLUSR Very Low Emissions)",
+    "Available in Black, Grey, or White"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-all-purpose-powder-filler.html|>
+## Everbuild All Purpose Powder Filler
+
+{
+  "price": "from €12.02 inc VAT",
+  "description": "All Purpose Powder Filler is a high strength powder filler which is the ideal choice for most indoor repairs. When mixed with water, the filler is ready to apply in one minute and dries in about one hour to a smooth sandable finish. Due to the high levels of added PVA powder, this filler will not shrink or crack and is strong enough to accept nails and screws.",
+  "availability": "In Stock",
+  "product_name": "Everbuild All Purpose Powder Filler",
+  "specifications": [
+    "Heavy-duty tough filler - will accept nails or screws when dry.",
+    "Non Shrink.",
+    "Overpaintable with most solvent based and emulsion paints.",
+    "Overstainable.",
+    "Indoor/outdoor repairs to plaster, plasterboard, brick, render, wood, stone and most other building materials."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dowsil-785n-silicone-sealant.html|>
+## Dowsil 785N Silicone Sealant
+
+{
+  "price": "€16.65 inc VAT",
+  "description": "Dowsil™ 785N is a one-part neutral curing silicone sealant with fungicide.  It provides excellent adhesion to a range of porous and non-porous substrates. As a neutral silicone, it is very low odour and is also suitable for application to various metallic surfaces such as aluminium, copper, brass and stainless steel. 785N can also be used on natural porous surfaces such as marble, granite and limestone. When using sealant products on natural porous surfaces, stain testing is recommended prior to application. It is designed for the sealing of sanitary fittings, including baths, showers, sinks, urinals and ceramic tile joints in commercial and domestic environments.  It has excellent adhesion to all common sanitary surfaces and is non-corrosive to metal. It has a fast cure and tack-free time and remains permanently flexible with lasting performance and low shrinkage. Conforms to ISO 11600-F&G-25LM.",
+  "availability": "In Stock",
+  "product_name": "Dowsil 785N Silicone Sealant",
+  "specifications": [
+    "One-part neutral curing silicone sealant",
+    "Excellent adhesion to porous and non-porous substrates",
+    "Low odour",
+    "Suitable for metallic surfaces",
+    "Fast cure and tack-free time",
+    "Permanently flexible with low shrinkage",
+    "Conforms to ISO 11600-F&G-25LM"
+  ]
+}
+
+<|https://www.mydiy.ie/products/everbuild-weather-mate-sealant.html|>
+## Everbuild Weather Mate Sealant
+
+{
+  "price": "€20.42 inc VAT",
+  "description": "Ideal for perimeter pointing to all window and door frames and all external weather sealing applications and for sealing between metal, composite roof, wall panels and for remedial sealing over all other sealant, old putties, mastics and industrial metal panel sealing. Not for use in aquarium manufacture. Not for internal use. Not for use in food preparation areas. Not for use on joints likely to exceed 25% movement. Paintable only when cured.",
+  "availability": "In Stock",
+  "product_name": "Everbuild Weather Mate Sealant",
+  "specifications": [
+    "Select Option: Black C3 310ml, Clear C3 310ml, White C3 310ml",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-p38-super-easy-sanding-body-filler.html|>
+## U-Pol P38 Super Easy Sanding Body Filler
+
+{
+  "price": "€11.99 inc VAT",
+  "description": "U-POL P38 polyester filler is a two component chemical paste used for the filling of holes and imperfections in surfaces such as steel and GRP. Its special formula combines good filling and smooth spreading properties together with ease of sanding.",
+  "availability": "In Stock",
+  "product_name": "U-Pol P38 Super Easy Sanding Body Filler",
+  "specifications": [
+    "Available in multiple sizes: 1.2 Litre Tin, 2.25 Litre Tin, 250ml Tin, 3.5 Litre Tin, 600ml Tin",
+    "Can be used on bare steel, original paint surfaces (except thermoplastic acrylics), and GRP",
+    "Over-paintable with most paint systems including 2K",
+    "Recommended to use a full system including primer"
+  ]
+}
+
+<|https://www.mydiy.ie/products/ronseal-smooth-finish-exterior-ready-mix-fillers.html|>
+## Ronseal Smooth Finish Exterior Ready Mix Fillers
+
+{
+  "price": "from €5.85 inc VAT",
+  "description": "A general purpose filler based on water resistant Acrylic Polymer, fine Dolomite fillers and slow release active ingredients. Both For interior and exterior use. For use in repairing plaster, stone, concrete or wood. Long lasting repair. Extremely smooth finish. Ronseal Applicator included. Buttery texture. Easy to sand. Fills holes up to 20mm deep. Can be drilled once dried hard. Available in Tub or Tube format. Areas of use: Exterior surfaces. Application: Filling Knife. Drying time: 1 - 2 hours. Protection Level: High.",
+  "availability": "In Stock",
+  "product_name": "Ronseal Smooth Finish Exterior Ready Mix Fillers",
+  "specifications": [
+    "Available in Tub or Tube format",
+    "Fills holes up to 20mm deep",
+    "Drying time: 1 - 2 hours",
+    "Application: Filling Knife",
+    "Protection Level: High"
+  ]
+}
+
+<|https://www.mydiy.ie/products/u-pol-easy-1-body-filler-3-litre.html|>
+## U-POL Easy 1 Body Filler 3 litre
+
+{
+  "price": "€71.23 inc VAT (€57.91 exc.vat)",
+  "description": "U-POL Easy 1 is an easy-to-use, smooth textured, polyester filler for deep repairs. The non-sag formula is ideal for use on vertical or horizontal repairs and its lightweight formula bonds to multiple substrates including galvanised steel, metal and GRP.",
+  "availability": "In Stock",
+  "product_name": "U-POL Easy 1 Body Filler 3 litre",
+  "specifications": [
+    "Easy to use",
+    "Smooth textured",
+    "Non-sag formula",
+    "Bonds to multiple substrates",
+    "Lightweight formula"
+  ]
+}
+
+<|https://www.mydiy.ie/products/rocol-gasseal-non-setting-sealant-300g.html|>
+## ROCOL Gasseal Non Setting Sealant 300g
+
+{
+  "price": "€32.75 inc VAT (€26.63 exc.vat)",
+  "description": "Rocol Gasseal is an off-white, non-setting sealant for use on metallic threaded joints including aluminium, copper, steel and zinc. Vibration resistant and compatible with low pressure LPG and natural oils. Independently tested to BSEN 751-2:1997 part 2 Class B. Temperature range -20° C to + 125° C. Size: 300g.",
+  "availability": "In Stock",
+  "product_name": "ROCOL Gasseal Non Setting Sealant 300g",
+  "specifications": [
+    "Size: 300g",
+    "Temperature range: -20° C to + 125° C",
+    "Vibration resistant",
+    "Compatible with low pressure LPG and natural oils",
+    "Independently tested to BSEN 751-2:1997 part 2 Class B"
+  ]
+}
+

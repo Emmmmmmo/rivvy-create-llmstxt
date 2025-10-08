@@ -1,11 +1,190 @@
 <|https://www.mydiy.ie/products/flex-power-tools-ap-18050-battery-pack-18v-50ah-li-ion.html|>
-## Flex Power Tools AP 18.0/5.0 Battery Pack 18V 5.0Ah Li-ion
+## Product
+
+
+
+<|https://www.mydiy.ie/products/red-gorilla-complete-gorilla-broom-soft-bristle.html|>
+## Red Gorilla Complete Gorilla Broom®, Soft Bristle
 
 {
-  "price": "€150",
-  "description": "The Flex AP 18.0/5.0 Li-ion Battery Pack has integrated charge and discharge protection. The electronic management system (EMS) protects the battery pack, extends service life and increases efficiency. It also features a handy battery charge indicator.",
+  "price": "€30.36 inc VAT",
+  "description": "The Complete Soft Bristle Gorilla Broom® is designed to make your job easier. Built with unique features such as an integrated scraper blade, making removing ‘stuck bits’ even easier as well as; an anti-clog channel which cuts down flying dust for a clean sweeping action. The broom's extra-wide head means you can shift more with minimal effort. Performs well in a wet environment, as the non-porous polymer head and bristles soak 0% fluid.",
+  "availability": "In Stock",
+  "product_name": "Red Gorilla Complete Gorilla Broom®, Soft Bristle",
+  "specifications": [
+    "Integrated scraper blade",
+    "Anti-clog channel",
+    "Extra-wide head",
+    "Non-porous polymer head and bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-supermocio-soft-mops.html|>
+## Vileda Supermocio Soft Mops
+
+{
+  "price": "from €6.69 inc VAT",
+  "description": "The SuperMocio Soft Head Mop cleans delicate surfaces easily and quickly. It is perfect for laminate and wooden floors as you can use it slightly damp. It has a dual cleaning action: On the outer layer the fluffy Collectex fibres give you highly efficient particle and hair pick-up. The inner stripes are made from super absorbent materials that leave your floors to dry quickly and streak-free. With the specially designed lemon shape of the mop head you can clean those hard to reach corners easily. The SuperMocio mop head is machine washable.",
+  "availability": "In Stock",
+  "product_name": "Vileda Supermocio Soft Mops",
+  "specifications": [
+    "Soft Head Mop",
+    "Cleans delicate surfaces",
+    "Perfect for laminate and wooden floors",
+    "Machine washable mop head",
+    "Dual cleaning action with Collectex fibres and absorbent materials"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-redlithium-ion-battery-packs-12-volt.html|>
+## Milwaukee M12 REDLITHIUM-ION™ Battery Packs 12 Volt
+
+{
+  "price": "€34.75 inc VAT",
+  "description": "The Milwaukee M12 B REDLITHIUM-ION™ Battery Packs are fitted with sophisticated electronics (REDLINK™ Intelligence) and overload protection which prevents the user from damaging their cordless power tool investment in abusive situations. It has a temperature Management System which keeps the battery in ideal temperature range to provide maximum life. With individual Cell Monitoring which ensures optimal charge and discharge for maximum life and discharge protection which prevents cell damage from over-discharge. They offer up to twice the run time, 20% more power and up to twice the recharges compared to other Lithium-Ion technologies and or with previous Milwaukee® battery technology. Results dependant on voltage, tool and application.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 REDLITHIUM-ION™ Battery Packs 12 Volt",
+  "specifications": [
+    "Available Options: 2.0Ah, 3.0Ah, 4.0Ah",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "Free delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/milwaukee-m12-b6-redlithium-ion-battery-pack-12-volt-60ah-li-ion.html|>
+## Milwaukee M12 B6 REDLITHIUM-ION™ Battery Pack 12 Volt 6.0Ah Li-Ion
+
+{
+  "price": "€84.78 inc VAT (€68.93 exc.vat)",
+  "description": "The Milwaukee M12 B6 REDLITHIUM-ION™ Battery Pack is fitted with REDLINK™ Intelligence and overload protection, which prevents the user from damaging their tools. It has a temperature control cell frame that keeps the battery at an ideal temperature range to provide maximum life. There is a waterproof protection barrier, a rubber overmould and shock responsive separators to protect the battery from damage. With individual Cell Monitoring which ensures optimal charge and discharge for maximum life and discharge protection which prevents cell damage from over-discharge. They offer up to twice the run time, 20% more power and up to twice the recharges compared to other Lithium-Ion technologies or with previous Milwaukee® battery technology. Results dependant on voltage, tool and application. Battery Capacity: 6.0Ah. Battery Chemistry: Li-Ion. Voltage: 12 Volt.",
+  "availability": "In Stock",
+  "product_name": "Milwaukee M12 B6 REDLITHIUM-ION™ Battery Pack 12 Volt 6.0Ah Li-Ion",
+  "specifications": [
+    "Battery Capacity: 6.0Ah",
+    "Battery Chemistry: Li-Ion",
+    "Voltage: 12 Volt"
+  ]
+}
+
+<|https://www.mydiy.ie/products/einhell-power-x-change-battery-and-charger-starter-kit-18v-2-x-40ah-li-ion.html|>
+## Einhell Power X-Change Battery & Charger Starter Kit 18V 2 x 4.0Ah Li-ion
+
+{
+  "price": "€102.98 inc VAT (€83.72 exc.vat)",
+  "description": "This Einhell Power-X-Change Starter Kit contains the following: 2 x 18V 4.0Ah Power X-Change Li-ion Batteries. They features a 7-in-1 ABS: Active Battery Management System and a 3-Step LED battery control. The microprocessor controls key parameters like temperature and voltage, and even a deeply discharged battery can be charged in repair mode, which offers a long working battery life. The high-quality Li-ion battery cells provide nearly no self-discharge and the rubber-coated housing gives high impact protection and a high grip. It also has a recessed grip which ensures good ergonomic handling. 1 x 18V PXC Power-X Twincharger charges two 18V Li-ion batteries at the same time and can be used universally for all 18V Power X-Change batteries. Intelligent charging management provides maximum safety and optimum charging. Charging cycles are adjusted to the specific situation, so the batteries have a longer service life. The 6-stage charging system provides the user with up-to-the-moment battery status information. Integrated suspension eyelets for easy wall mounting.",
   "availability": "Out of Stock",
-  "product_name": "Flex Power Tools AP 18.0/5.0 Battery Pack 18V 5.0Ah Li-ion",
-  "specifications": []
+  "product_name": "Einhell Power X-Change Battery & Charger Starter Kit 18V 2 x 4.0Ah Li-ion",
+  "specifications": [
+    "2 x 18V 4.0Ah Power X-Change Li-ion Batteries",
+    "1 x 18V PXC Power-X Twincharger",
+    "7-in-1 ABS: Active Battery Management System",
+    "3-Step LED battery control",
+    "Microprocessor controls key parameters",
+    "High-quality Li-ion battery cells",
+    "Rubber-coated housing for impact protection",
+    "Integrated suspension eyelets for easy wall mounting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/scan-caution-cleaning-in-progress-heavy-duty-a-board.html|>
+## Caution Cleaning In Progress Heavy-Duty A Board
+
+{
+  "price": "€16.16 inc VAT (€13.14 exc.vat)",
+  "description": "This Scan safety folding A board sign is made from heavy-duty polypropylene for durability. It has a pre-printed message on both sides and folds flat for easy storage and transportation. It is easy to read with clear writing and an illustration. Message: 'Caution Cleaning in progress' Dimensions: 62cm (height) x 30cm (width).",
+  "availability": "In Stock",
+  "product_name": "Caution Cleaning In Progress Heavy-Duty A Board",
+  "specifications": [
+    "SCA4703 : €16.16",
+    "Dimensions: 62cm (height) x 30cm (width)",
+    "Material: Heavy-duty polypropylene",
+    "Pre-printed message on both sides",
+    "Folds flat for easy storage and transportation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/olympia-power-tools-x20s-li-ion-battery.html|>
+## Olympia Power Tools X20S™ Li-ion Battery
+
+{
+  "price": "from €33.05 inc VAT",
+  "description": "The Olympia Tools® X20S™ Li-ion Battery has a digital charge level indicator with minimal self-discharge. X20S™ batteries and chargers are 100% compatible with all tools in the X20S™ 20V range.",
+  "availability": "In Stock",
+  "product_name": "Olympia Power Tools X20S™ Li-ion Battery",
+  "specifications": [
+    "Charge Time with X20S™ Fast Charger: 2.0Ah = 1 hour, 4.0Ah = 2 hours",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/dewalt-xr-battery-pack-108-volt-li-ion.html|>
+## DEWALT XR Battery Pack 10.8 Volt Li-Ion
+
+{
+  "price": "€148.44 inc VAT",
+  "description": "The DEWALT DCB XR Li-Ion Battery has a compact, lightweight, slide pack design that offers longer life and is compatible with all DEWALT 10.8 Volt tools. No memory effect and virtually no self-discharge for maximum productivity and less downtime.",
+  "availability": "In Stock",
+  "product_name": "DEWALT XR Battery Pack 10.8 Volt Li-Ion",
+  "specifications": [
+    "2.0Ah option available",
+    "Compatible with all DEWALT 10.8 Volt tools",
+    "No memory effect",
+    "Virtually no self-discharge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/vileda-3-action-broom-and-handle.html|>
+## Vileda 3 Action Broom & Handle
+
+{
+  "price": "€11.29 inc VAT (€9.18 exc.vat)",
+  "description": "The Vileda 3 Action Broom cleans all dirt effectively in one sweep, even in difficult places such as edges and corners. This is because it does not only have normal fibres for picking up hair and particles, but it also has ultra thin fibres on one side and reinforced longer fibres on the extremes. The ultra thin fibres are developed for optimal dust pickup and the longer fibres reach deep into edges and corners.",
+  "availability": "Out of Stock",
+  "product_name": "Vileda 3 Action Broom & Handle",
+  "specifications": [
+    "Model: VIL142864",
+    "Price: €11.29",
+    "List Price: €12.35",
+    "You save: €1.06"
+  ]
+}
+
+<|https://www.mydiy.ie/products/energizer-lr1-electronic-battery-single.html|>
+## Energizer LR1 Electronic Battery Single
+
+{
+  "price": "€2.94 inc VAT (€2.39 exc.vat)",
+  "description": "Energizer LR1 Alkaline battery, 30.2mm height, 12mm diameter and weighs 9.2g and has a capacity of 1000.0mAh. Suitable for most digital cameras, calculators and car alarms. Lasts up to 7 times longer than normal batteries. Replaces: 4001, 910A, AM5, E90, KN, LADY, LR1, MN9100, MN9100/N, N, UM-5, UM5.",
+  "availability": "In Stock",
+  "product_name": "Energizer LR1 Electronic Battery Single",
+  "specifications": [
+    "Height: 30.2mm",
+    "Diameter: 12mm",
+    "Weight: 9.2g",
+    "Capacity: 1000.0mAh",
+    "Suitable for digital cameras, calculators, and car alarms",
+    "Lasts up to 7 times longer than normal batteries",
+    "Replaces: 4001, 910A, AM5, E90, KN, LADY, LR1, MN9100, MN9100/N, N, UM-5, UM5"
+  ]
+}
+
+<|https://www.mydiy.ie/products/monument-copperkey-pipe-cleaning-tools.html|>
+## Monument Copperkey Pipe Cleaning Tools
+
+{
+  "price": "from €30.73 inc VAT",
+  "description": "Monument pipe cleaning tool is the very best and safest way to prepare copper pipe and copper fittings and comes in 15mm and 22mm cutting sizes. Long lasting double stemmed brushes clean quickly. Quick thorough tubing prep with patented tungsten carbide abrasive technology, they work 3 times faster and last 4 times longer than conventional tools. Patented ratchet handle makes jobs possible in tight spaces. Eliminates the risk of scrapes or flux burns.",
+  "availability": "In Stock",
+  "product_name": "Monument Copperkey Pipe Cleaning Tools",
+  "specifications": [
+    "Available in 15mm and 22mm cutting sizes",
+    "Long lasting double stemmed brushes",
+    "Patented tungsten carbide abrasive technology",
+    "Works 3 times faster and lasts 4 times longer than conventional tools",
+    "Patented ratchet handle for tight spaces"
+  ]
 }
 

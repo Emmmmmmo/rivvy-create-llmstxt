@@ -417,6 +417,578 @@
         "last_error": "No data returned at 2025-10-06T23:10:46.915203"
       },
       "discovered_at": "2025-10-06T08:08:31.966123"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/estwing-nail-puller-228mm-9in.html",
+      "normalized_url": "https://www.mydiy.ie/products/estwing-nail-puller-228mm-9in.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-07T23:12:25.332280"
+      },
+      "discovered_at": "2025-10-06T08:08:31.967793"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/bahco-59s31-1-bit-set-31-piece-phpztxsl-and-hex.html",
+      "normalized_url": "https://www.mydiy.ie/products/bahco-59s31-1-bit-set-31-piece-phpztxsl-and-hex.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-07T23:27:00.809779"
+      },
+      "discovered_at": "2025-10-06T08:08:31.968336"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/bahco-bahcofit-coloured-handle-screwdriver-set-10-piece-slphpztx.html",
+      "normalized_url": "https://www.mydiy.ie/products/bahco-bahcofit-coloured-handle-screwdriver-set-10-piece-slphpztx.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-07T23:27:13.610214"
+      },
+      "discovered_at": "2025-10-06T08:08:31.968337"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/bahco-mixed-insulated-ergo-screwdriver-set-6-piece-slphpz.html",
+      "normalized_url": "https://www.mydiy.ie/products/bahco-mixed-insulated-ergo-screwdriver-set-6-piece-slphpz.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-07T23:27:21.243426"
+      },
+      "discovered_at": "2025-10-06T08:08:31.968338"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/kent-and-stowe-indoor-watering-can.html",
+      "normalized_url": "https://www.mydiy.ie/products/kent-and-stowe-indoor-watering-can.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T00:51:31.189702"
+      },
+      "discovered_at": "2025-10-06T08:08:31.968986"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/knipex-universal-grip-pliers-250mm-10in.html",
+      "normalized_url": "https://www.mydiy.ie/products/knipex-universal-grip-pliers-250mm-10in.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T01:26:26.056120"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969214"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/komelon-unigrip-long-steel-tape-50m--165ft-width-13mm.html",
+      "normalized_url": "https://www.mydiy.ie/products/komelon-unigrip-long-steel-tape-50m--165ft-width-13mm.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T01:32:28.200756"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969262"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/kunys-pl-99-multi-pocket-tool--phone-holder.html",
+      "normalized_url": "https://www.mydiy.ie/products/kunys-pl-99-multi-pocket-tool--phone-holder.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T01:34:24.726779"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969284"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/makita-dbn900zk-lxt-framing-nailer-18v-bare-unit.html",
+      "normalized_url": "https://www.mydiy.ie/products/makita-dbn900zk-lxt-framing-nailer-18v-bare-unit.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T01:48:25.650902"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969412"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-omat-soldering-matt.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-omat-soldering-matt.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:14.404871"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969990"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-pipe-cutter.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-pipe-cutter.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:15.578686"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969991"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-pipe-cutter-no-0-264y.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-pipe-cutter-no-0-264y.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:16.748239"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969992"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-plastic-pipe-cutters.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-plastic-pipe-cutters.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:17.918624"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969992"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-plumbers-drain-down-hose-15m.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-plumbers-drain-down-hose-15m.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:19.091995"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969993"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-plungers.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-plungers.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:20.266654"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969994"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-pro-air-bag-100mm-4in.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-pro-air-bag-100mm-4in.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:21.435058"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969995"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-radiator-spanners-twin-pack.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-radiator-spanners-twin-pack.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:22.609897"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969996"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-ratchet-handles-to-suit-autocuts.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-ratchet-handles-to-suit-autocuts.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:23.779921"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969997"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-setting-in-stick.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-setting-in-stick.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:24.951407"
+      },
+      "discovered_at": "2025-10-06T08:08:31.969998"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-socket-forming-tools.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-socket-forming-tools.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:26.121271"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970000"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-soldering-and-brazing-pads.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-soldering-and-brazing-pads.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:27.293667"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970000"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-spare-blades-for-ac4p-pack-5.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-spare-blades-for-ac4p-pack-5.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:28.480169"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970001"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-spare-tap-reseater-cutters.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-spare-tap-reseater-cutters.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:29.647157"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970002"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-spare-wheels.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-spare-wheels.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:30.819107"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970003"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-spark-lighterstriker-gas.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-spark-lighterstriker-gas.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:31.985891"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970004"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-spin-thru-drain-cleaner.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-spin-thru-drain-cleaner.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:33.154174"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970005"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-steel-plumb-bobs.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-steel-plumb-bobs.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:34.310940"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970006"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-thin-jaw-adjustable-wrench.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-thin-jaw-adjustable-wrench.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:35.478508"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970007"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-trade-copper-pipe-cutter.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-trade-copper-pipe-cutter.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:36.651182"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970007"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-tube-bender-guides.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-tube-bender-guides.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:37.822413"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970008"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-varipitch-one-piece-holesaws.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-varipitch-one-piece-holesaws.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:39.004250"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970009"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-waste-cleaners.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-waste-cleaners.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:44.665440"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970010"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-white-tallow.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-white-tallow.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:45.836594"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970011"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/monument-wide-jaw-adjustable-wrench.html",
+      "normalized_url": "https://www.mydiy.ie/products/monument-wide-jaw-adjustable-wrench.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:47.011491"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970012"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/moore-and-wright-420-series-dial-test-indicator.html",
+      "normalized_url": "https://www.mydiy.ie/products/moore-and-wright-420-series-dial-test-indicator.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:48.198825"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970013"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/moore-and-wright-56r-spring-joint-jenny-caliper-150mm-6in.html",
+      "normalized_url": "https://www.mydiy.ie/products/moore-and-wright-56r-spring-joint-jenny-caliper-150mm-6in.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:49.420059"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970014"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/moore-and-wright-900-series-internal-micrometer.html",
+      "normalized_url": "https://www.mydiy.ie/products/moore-and-wright-900-series-internal-micrometer.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:50.639838"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970014"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/moore-and-wright-966-series-traditional-external-micrometer.html",
+      "normalized_url": "https://www.mydiy.ie/products/moore-and-wright-966-series-traditional-external-micrometer.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:56.389200"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970015"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/moore-and-wright-adjustable-depth-micrometer.html",
+      "normalized_url": "https://www.mydiy.ie/products/moore-and-wright-adjustable-depth-micrometer.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:57.540775"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970016"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/moore-and-wright-blue-textured-finish-traditional-external-micrometer.html",
+      "normalized_url": "https://www.mydiy.ie/products/moore-and-wright-blue-textured-finish-traditional-external-micrometer.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:24:58.714858"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970017"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/rawlplug-nylon-self-drill-plasterboard-fixings.html",
+      "normalized_url": "https://www.mydiy.ie/products/rawlplug-nylon-self-drill-plasterboard-fixings.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T04:59:09.953209"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970292"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/ridgid-hm-100-micro-humidity-and-temperature-meter-37438.html",
+      "normalized_url": "https://www.mydiy.ie/products/ridgid-hm-100-micro-humidity-and-temperature-meter-37438.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T05:08:14.473023"
+      },
+      "discovered_at": "2025-10-06T08:08:31.970371"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/stanley-tools-fatmax-long-tape-20m-width-10mm.html",
+      "normalized_url": "https://www.mydiy.ie/products/stanley-tools-fatmax-long-tape-20m-width-10mm.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T06:41:07.780932"
+      },
+      "discovered_at": "2025-10-06T08:08:31.971210"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/stanley-tools-hi-vis-tape-8m26ft.html",
+      "normalized_url": "https://www.mydiy.ie/products/stanley-tools-hi-vis-tape-8m26ft.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T07:02:44.716931"
+      },
+      "discovered_at": "2025-10-06T08:08:31.971375"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/stanley-tools-torx-key-folding-set-of-8-t9-t40.html",
+      "normalized_url": "https://www.mydiy.ie/products/stanley-tools-torx-key-folding-set-of-8-t9-t40.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T07:26:48.130993"
+      },
+      "discovered_at": "2025-10-06T08:08:31.971546"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/stanley-hand-tools-heavy-duty-staple-gun.html",
+      "normalized_url": "https://www.mydiy.ie/products/stanley-hand-tools-heavy-duty-staple-gun.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T07:36:35.374313"
+      },
+      "discovered_at": "2025-10-06T08:08:31.971606"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/starrett-bi-metal-unique-safe-flex-hacksaw-blades.html",
+      "normalized_url": "https://www.mydiy.ie/products/starrett-bi-metal-unique-safe-flex-hacksaw-blades.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T07:41:25.791826"
+      },
+      "discovered_at": "2025-10-06T08:08:31.971649"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/vitrex-grout-clean-up-and-polishing-kit.html",
+      "normalized_url": "https://www.mydiy.ie/products/vitrex-grout-clean-up-and-polishing-kit.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T08:11:06.831033"
+      },
+      "discovered_at": "2025-10-06T08:08:31.971821"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/wiha-double-open-end-spanner-set-12-piece.html",
+      "normalized_url": "https://www.mydiy.ie/products/wiha-double-open-end-spanner-set-12-piece.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T08:39:01.903251"
+      },
+      "discovered_at": "2025-10-06T08:08:31.972057"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/wiha-electric-liftup-bit-magazine-slphpzs-screwdriver-set-6-piece.html",
+      "normalized_url": "https://www.mydiy.ie/products/wiha-electric-liftup-bit-magazine-slphpzs-screwdriver-set-6-piece.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T08:40:29.647480"
+      },
+      "discovered_at": "2025-10-06T08:08:31.972061"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/wiha-industrial-electric-heavy-duty-diagonal-cutters.html",
+      "normalized_url": "https://www.mydiy.ie/products/wiha-industrial-electric-heavy-duty-diagonal-cutters.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T08:46:32.242470"
+      },
+      "discovered_at": "2025-10-06T08:08:31.972088"
+    },
+    {
+      "url": "https://www.mydiy.ie/products/wiha-softfinish-electric-slphpzs-screwdriver-set-6-piece.html",
+      "normalized_url": "https://www.mydiy.ie/products/wiha-softfinish-electric-slphpzs-screwdriver-set-6-piece.html",
+      "metadata": {
+        "attempts": 1,
+        "category_shard_key": "uncategorized",
+        "source_category": "site_map_discovery",
+        "last_error": "No data returned at 2025-10-08T09:00:42.921170"
+      },
+      "discovered_at": "2025-10-06T08:08:31.972151"
     }
   ]
 }

@@ -1,0 +1,1444 @@
+<|https://www.mydiy.ie/products/xms-dewalt-18v-combi-and-impact-drill-twin-pack.html|>
+## XMS DEWALT 18V Combi & Impact Drill Twin Pack
+
+{
+  "price": "€299.98 inc VAT (€243.89 exc.vat)",
+  "description": "This Exclusive XMS 18V Combi & Impact Driver Twin Pack, comes with 2 x 5Ah Li-Ion Batteries, all manufactured by DeWALT, an excellent pack for you at a great XMS Real Deal price. The DeWALT 18V Combi Drill comes with a max torque of 65Nm, and a 2 speed with variable speed on the Trigger,  Forward and Reverse. Max capacity in Wood 30mm, Metal 13mm and Concrete 13mm. And, on hammer action at high speed 28050bpm. Then, there is the DeWALT 18V Impact Driver with a Max torque of 190Nm, once again with Forward and Reverse, and has variable speed on the Trigger, the impact driver takes 1/4in Hex drive bits. This excellent value DeWALT kit comes complete with 2 x 5Ah XR Batteries, a Universal Charger and strong, sturdy TSTAK Carry Case.",
+  "availability": "In Stock",
+  "product_name": "XMS DEWALT 18V Combi & Impact Drill Twin Pack",
+  "specifications": [
+    "Max torque of 65Nm for Combi Drill",
+    "Max torque of 190Nm for Impact Driver",
+    "2 x 5Ah Li-Ion Batteries included",
+    "Universal Charger included",
+    "TSTAK Carry Case included",
+    "Max capacity in Wood 30mm, Metal 13mm, Concrete 13mm",
+    "Hammer action at high speed 28050bpm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-dewalt-25-piece-pz2-flextorq-impact-bit-set.html|>
+## XMS DeWalt 25 Piece PZ2 FlexTorq Impact Bit Set
+
+{
+  "price": "€17.99 inc VAT (€14.63 exc.vat)",
+  "description": "These XMS Extreme Impact Torsion Pozidriv Bits, made by DEWALT FLEXTORQ™, offer much more than just a great price. They have a 15° torsion zone allowing the screwdriver bit to flex rather than break, and the full fit head prevents rounding of the screw head and 'cam out' (bit head slipping out of the screw head due to the turning force). The magnetic screw lock enables tasks to be completed quicker and easier, reducing instances of dropped or lost screws. Supplied in a TOUGH CASE+, this is part of a connectable case system which is TSTAK™ compatible. Individual TOUGH CASES can be clipped together for easy transportation. This 25 piece Flextorq Impact Bit Set contains: 20 x 25mm PZ2 Extreme Impact Bits. 5 x 57mm PZ2 Extreme Impact Bits. Supplied with a magnetic, Impact Ready Bit Holder.",
+  "availability": "In Stock",
+  "product_name": "XMS DeWalt 25 Piece PZ2 FlexTorq Impact Bit Set",
+  "specifications": [
+    "15° torsion zone for flexibility",
+    "Full fit head to prevent rounding",
+    "Magnetic screw lock for easy use",
+    "Supplied in a TOUGH CASE+",
+    "Includes 20 x 25mm PZ2 bits and 5 x 57mm PZ2 bits"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-dewalt-extreme-safety-boots.html|>
+## XMS DEWALT Extreme Safety Boots
+
+{
+  "price": "€62.99 inc VAT",
+  "description": "The XMS Wheat Extreme Safety Boots by DeWALT, Size 7, provide the comfort and safety features you need. The boots have a lightweight construction with full grain leather uppers - they look the part too. This is an XMS Exclusive you surely cannot miss! The sole is oil and slip resistant, and how about this - they are heat-resistant to 300°C and the steel toecaps can withstand up to 200 Joules of pressure. Always thinking of you, the wearer, a moulded midsole helps support your foot, whilst dual density removable insoles ensure the boots are comfortable to wear. EN Test: CE EN ISO 20345-2011. Safety Rating: SBP. Slip Rating: SRC.",
+  "availability": "In Stock",
+  "product_name": "XMS DEWALT Extreme Safety Boots",
+  "specifications": [
+    "Size options: 7, 8, 9, 10, 11",
+    "Heat-resistant to 300°C",
+    "Steel toecaps withstand up to 200 Joules",
+    "Oil and slip resistant sole",
+    "Moulded midsole for foot support",
+    "Dual density removable insoles",
+    "EN Test: CE EN ISO 20345-2011",
+    "Safety Rating: SBP",
+    "Slip Rating: SRC"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-duracell-9v-battery-pack-twin-pack.html|>
+## XMS Duracell 9V Battery Pack (Twin Pack)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "This New XMS 9V Battery Twin Pack - an XMS Duracell Special Offer. which around with typically great XMS timing, and what a price too. What can you never have enough of at this time of year, and we are not talking about turkey or Christmas pudding, but quality, lasting batteries. These Duracell Plus Power Batteries offer up to 100% extra life in high-drain applications, while a superior nylon top closure helps prevent them from leaking. If it fits then Duracell Plus has the answer. 1 Twin Pack of Duracell 9V Plus Power +100% Batteries.",
+  "availability": "In Stock",
+  "product_name": "XMS Duracell 9V Battery Pack (Twin Pack)",
+  "specifications": [
+    "1 Twin Pack of Duracell 9V Plus Power +100% Batteries",
+    "Offers up to 100% extra life in high-drain applications",
+    "Superior nylon top closure prevents leaking"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-duracell-aa-battery-pack-8-pack.html|>
+## XMS Duracell AA Battery Pack (8 Pack)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "This New XMS AA Battery 8 Pack - an XMS Duracell Special Offer, which comes at a perfect time, when you need every quality battery you can find, and you never have enough. These Duracell Plus Power Batteries offer up to 100% extra life in high-drain applications. A superior nylon top closure helps prevent batteries from leaking. Recommended for wireless handheld video game controllers, motorised toys, TV/Audio remote controls, wireless computer mouse, etc. Pack of 8 Duracell AA Cell Plus Power +100% Batteries.",
+  "availability": "In Stock",
+  "product_name": "XMS Duracell AA Battery Pack (8 Pack)",
+  "specifications": [
+    "Pack of 8 Duracell AA Cell Plus Power +100% Batteries",
+    "Offers up to 100% extra life in high-drain applications",
+    "Recommended for wireless handheld video game controllers, motorised toys, TV/Audio remote controls, wireless computer mouse, etc."
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-duracell-aaa-battery-pack-8-pack.html|>
+## XMS Duracell AAA Battery Pack (8 Pack)
+
+{
+  "price": "€7.99 inc VAT (€6.50 exc.vat)",
+  "description": "This New XMS AAA Battery 8 Pack - an XMS Duracell Special Offer, arrives for you at a perfect time, when you never seem to have enough AAA batteries with Christmas coming. These Duracell Plus Power Batteries offer up to 100% extra life in your everyday devices, and safety wise, a superior nylon top closure helps prevent batteries from leaking. Duracell technology keeps the energy of your unused batteries for up to 10 years in their packaging (ambient storage). 98% of our paper-based packs are made from recycled paper. Pack of 8 Duracell AAA Cell Plus Power +100% Batteries.",
+  "availability": "In Stock",
+  "product_name": "XMS Duracell AAA Battery Pack (8 Pack)",
+  "specifications": [
+    "Pack of 8 Duracell AAA Cell Plus Power +100% Batteries",
+    "Up to 100% extra life in everyday devices",
+    "Superior nylon top closure to prevent leaking",
+    "Keeps energy for up to 10 years in packaging",
+    "98% of packaging made from recycled paper"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-faithfull-20m-cable-reel.html|>
+## XMS Faithfull 20m Cable Reel
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "The XMS Open Drum 20M Cable Reel by Faithfull is a reliable and versatile power extension solution, ideal for home, workshop, and site use. Equipped with twin 230V sockets, this 20-metre cable reel provides ample reach for powering multiple devices at once. The heavy-duty plastic drum, mounted on a sturdy steel frame, ensures durability and stability, while the textured grip handle offers comfortable and easy handling. Designed with safety in mind, this cable reel features a built-in thermal overload protection system, preventing overheating and cable damage. The 1.25mm² cable is fitted with a standard 240V plug, and the reel complies with BS EN 61242 safety standards, ensuring safe and efficient performance. Whether you're working on DIY projects, powering tools on-site, or need a reliable power extension for outdoor tasks, the XMS Open Drum 20M Cable Reel is the perfect heavy-duty solution.",
+  "availability": "In Stock",
+  "product_name": "XMS Faithfull 20m Cable Reel",
+  "specifications": [
+    "Cable Length: 20m",
+    "Twin 230V sockets for multiple connections",
+    "Heavy-duty plastic drum with sturdy steel frame",
+    "Thermal overload protection for added safety",
+    "1.25mm² cable with standard 240V plug",
+    "Max Load Unwound: 3,120W (13A)",
+    "Max Load Fully Wound: 960W (4A)",
+    "Complies with BS EN 61242 safety standards"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-faithfull-45w-sitelight-and-tripod-240v.html|>
+## XMS Faithfull 45W Sitelight & Tripod (240V)
+
+{
+  "price": "from €0.00 inc VAT",
+  "description": "The XMS 45W Tripod & Safety Sitelight, 230V, is designed by Faithfull for both commercial or domestic use, and features the latest SMD LED lighting technology. It shines a light wherever you need it, a great XMS deal saving. Combining a high light output with the added advantage of a low power consumption and cool running temperature, the LED site light avoids the burn hazards commonly associated with halogen lighting. Unlike conventional halogen tubes, SMD LEDs are maintenance free and more resilient to damage, yet another best seller to feast your eyes over. Another point to note in its favour, this light benefits from dual power. In the event of a mains failure, the back up battery will power the light, ensuring site safety at all times. It can be powered by mains or via the built-in lithium battery which allows for 50 minutes of 900 lumen lighting. The battery is automatically charged when the light is plugged into the mains. The slim and lightweight die-cast aluminium lamp head is IP54 rated for water and dust ingress protection – while the impact resistant glass lens makes these site lights a durable solution. It's also fully adjustable and mounted on a sturdy floor stand – so can either be used as a pod light or mounted directly on to the telescopic tripod. Two twist grip locks enable the tripod height to be quickly adjusted between 1010mm and 2000mm.",
+  "availability": "In Stock",
+  "product_name": "XMS Faithfull 45W Sitelight & Tripod (240V)",
+  "specifications": [
+    "Mains Voltage: 230V",
+    "Battery Voltage: 3.7V",
+    "Power (Mains/Battery): 45W 10W",
+    "Light Source: SMD",
+    "Lumens (Mains/Battery): 4500±10% / 900LM±10%",
+    "Color Temperature: 6500K",
+    "CRI: ≥80",
+    "Beam Angle: 120°",
+    "Battery Charging Time: 3-4 hours",
+    "Working Time in Battery Mode: Max. 50 minutes"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-faithfull-7-piece-multi-tool-blade-set.html|>
+## XMS Faithfull 7 Piece Multi-Tool Blade Set
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "This XMS 7 piece Multi-Function Tool Blade Set, from Faithfull, is one you must not miss, again the XMS price is right. This Faithfull Set contains a selection of the most popular blades for cutting wood, man-made boards and metal, and removing grout. Compatible with many multi-function oscillating power tools. The set comprises of: 3 x Multi-Function Tool CrV Flush Cut Wood Blades Side Set, 2 x 34mm and 68mm. This fast-cutting saw blade has a broad range of applications with ground, side set hardened teeth. Quick cutting performance in softwood, plastics, plasterboard, plastic pipes and similar materials. 2 x Multi-Function Tool Bi-Metal Flush Cut Wood/Metal Blade 22mm. The HSS wavy set teeth on this bi-metal blade make it ideal for sawing wood, copper and aluminium pipes, sheet metal, plastics and profiles. Ideal for many flush cutting applications and plunge cutting in plasterboard. 1 x Multi-Function Tool Bi-Metal Radial Blade Wood/Metal 87mm. The HSS wavy set teeth on this bi-metal blade make it ideal for sawing wood, copper and aluminium pipes, sheet metal, plastics and profiles. Ideal for cutting veneered and laminated boards as well as parquet in flooring and partition wall applications. 1 x Multi-Function Tool Radial Carbide Grit Blade 65mm. Ideal for a broad range of applications with carbide grit edge. Cuts tiles, plaster, porous concrete and similar construction materials. Suitable for cutting out a damaged tile joint and for cutting grooves in plaster, porous concrete and similar construction materials.",
+  "availability": "In Stock",
+  "product_name": "XMS Faithfull 7 Piece Multi-Tool Blade Set",
+  "specifications": [
+    "3 x Multi-Function Tool CrV Flush Cut Wood Blades Side Set, 2 x 34mm and 68mm",
+    "2 x Multi-Function Tool Bi-Metal Flush Cut Wood/Metal Blade 22mm",
+    "1 x Multi-Function Tool Bi-Metal Radial Blade Wood/Metal 87mm",
+    "1 x Multi-Function Tool Radial Carbide Grit Blade 65mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-faithfull-hi-vis-folding-utility-knife.html|>
+## XMS Faithfull Hi-Vis Folding Utility Knife
+
+{
+  "price": "€11.99 inc VAT (€9.75 exc.vat)",
+  "description": "The New and Exclusive XMS Hi-Vis Folding Utility Knife, made by Faithfull, is just what you need on the job this time of year, safety is built into these highly visible folding knives, and what better time to purchase, this XMS deal is great value. The Faithfull folding utility knife is ideal for all users who need to carry in a pocket in order to perform their job. Whether it be a tradesperson who is climbing up and down ladders, a service engineer or a store man undoing strapping bands and boxes, a knife in a pocket is potentially dangerous. This knife locks the blade securely into the body when it is not being used. While the oval shape (when closed) prevents any sharp edges snagging or digging in to you when you are moving around. The design also features a blade locking system to lock the knife securely when it is open and ready for use. There is also a quick-change blade mechanism. Simply depress the release lever at the top of the blade holding section, and then slide the blade out and replace. Available in: Hi-vis green, hi-vis yellow and hi-vis blue.",
+  "availability": "In Stock",
+  "product_name": "XMS Faithfull Hi-Vis Folding Utility Knife",
+  "specifications": [
+    "Blade locking system",
+    "Quick-change blade mechanism",
+    "Available in Hi-vis green, yellow, and blue"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-faithfull-no4-and-no-60-12-plane-set.html|>
+## Faithfull No.4 & No 60. 1/2 Plane Set
+
+{
+  "price": "€39.99 inc VAT (€32.51 exc.vat)",
+  "description": "Faithfull No. 4 & No. 60.1/2 Plane Set – Precision Woodworking Tools in Protective Carry Bags. Upgrade your woodworking toolkit with the Faithfull No. 4 & No. 60.1/2 Plane Set, designed for precision planing, smoothing, and shaping. Supplied in two durable zip-up canvas carry bags, these high-quality hand planes are protected against damage during storage and transport, ensuring long-lasting performance. Perfect for Professional & DIY Woodworkers. Whether you're a carpenter, cabinet maker, or DIY enthusiast, this premium hand plane set provides the essential tools you need for smoothing surfaces, trimming end grain, and refining intricate woodworking projects.",
+  "availability": "In Stock",
+  "product_name": "Faithfull No.4 & No 60. 1/2 Plane Set",
+  "specifications": [
+    "No. 4 Smoothing Plane – Cutter Width: 50mm, Overall Length: 250mm",
+    "No. 60.1/2 Block Plane – Cutter Width: 35mm, Overall Length: 160mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-gorilla-glue-60ml-original.html|>
+## XMS Gorilla Glue 60ml Original
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "The XMS Glue Original, created by the world famous Gorilla company, comes in a 60Ml dispenser and once again at a great XMS price. Gorilla Glue is a polyurethane glue. When exposed to moisture, the adhesive reacts and creates a foaming action to fill whilst it sticks. It has an open working time of 20 minutes. The glue is brown in colour, but dries a tan colour, and is totally waterproof. Gorilla Glue is incredibly strong, bonding all types of wood, including pressure treated wood. It also bonds stone, metal, ceramics, foam, glass, leather and more. Once dried the product is sandable, stainable, paintable and can also take a varnish. Due to its foaming action the glue gives greater coverage - up to 3 times the coverage of other glues. This glue is unaffected by extreme hot and cold and will not break down when exposed to rain and snow. The Gorilla Glue formula bonds materials which typical all-purpose adhesives will not hold and even bonds dissimilar materials. It is waterproof and temperature resistant, which means it can be used for indoor and outdoor projects and repairs. Originally used as a commercial adhesive for hard-to-glue materials. Once something is glued it will not come undone - it is set to survive years after the repair.",
+  "availability": "In Stock",
+  "product_name": "XMS Gorilla Glue 60ml Original",
+  "specifications": [
+    "60ml dispenser",
+    "Polyurethane glue",
+    "Open working time of 20 minutes",
+    "Brown in color, dries tan",
+    "Waterproof and temperature resistant",
+    "Bonds wood, stone, metal, ceramics, foam, glass, leather",
+    "Sandable, stainable, paintable",
+    "Greater coverage due to foaming action"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-lighthouse-aa-battery-pack-24-pack.html|>
+## XMS Lighthouse AA Battery Pack (24 Pack)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "These XMS Deal high-performance Alkaline Batteries, made by Lighthouse, have been designed to offer a high capacity for energy-hungry devices. They also offer a long storage life of up to 5 years. Sure to be a popular deal, a superb XMS saving! Alkaline batteries last longer when used with higher current devices and can, in some cases, outperform zinc-carbon products by up to 6 times, they also have less risk of leaking. These Super alkaline batteries are both Mercury and Cadmium free.",
+  "availability": "In Stock",
+  "product_name": "XMS Lighthouse AA Battery Pack (24 Pack)",
+  "specifications": [
+    "High-performance Alkaline Batteries",
+    "Long storage life of up to 5 years",
+    "Mercury and Cadmium free",
+    "Outperform zinc-carbon products by up to 6 times"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-lighthouse-aaa-battery-pack-24-pack.html|>
+## XMS Lighthouse AAA Battery Pack (24 Pack)
+
+{
+  "price": "€9.99 inc VAT (€8.12 exc.vat)",
+  "description": "These XMS high-performance Alkaline Batteries AAA-LR6, 24 Pack, from Lighthouse, have been designed to offer a high capacity for energy-hungry devices. They also offer a long storage life of up to 5 years. Take a good look at this XMS savings, sure to be a best seller. Alkaline batteries last longer when used with higher current devices and can, in some cases, outperform zinc-carbon products by up to 6 times, they also have less risk of leaking. They are mercury and cadmium free.",
+  "availability": "In Stock",
+  "product_name": "XMS Lighthouse AAA Battery Pack (24 Pack)",
+  "specifications": [
+    "High-performance Alkaline Batteries AAA-LR6",
+    "24 Pack",
+    "Long storage life of up to 5 years",
+    "Mercury and cadmium free",
+    "Designed for energy-hungry devices"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-lighthouse-cob-swivel-inspection-light.html|>
+## XMS Lighthouse COB Swivel Inspection Light
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "Ever popular XMS 3W Cob Led Swivel Inspection Light, from Lighthouse, is once again sure to be a strong seller, especially with this XMS saving. The Lighthouse 3W light provides users with a multitude of features and benefits. Whether you use a torch at work, for a trade application or at home and for leisure and hobby activities. It has the latest technology COB (Chip on Board) LED work light panel on the side of the body, and also a traditional spotlight torch at the end, along with a red flashing hazard light on the back of the body. This enables you to use it in a number of ways to suit the task or environment you are working in. Delivers an outstanding 220 lumens of light whilst the spotlight torch delivers an impressive 120 lumens, making this an extremely versatile and useful light. Attached to the main body is a ratcheting base which allows the torch to be angled, enabling you to direct light where you need it. The base is also magnetic, so it can be attached to a radiator or car and shine light where you need it most. Ideal if you have to deal with a leak or change a wheel in the dark. A fold-out hook allows you to hang the torch if needed. It is ideal to have in a glove box, toolbox, kitchen drawer and can be used anywhere, whether it be camping, fishing, working in the garage, loft, plumbing a bath or working on machinery where there is little or no light available.",
+  "availability": "In Stock",
+  "product_name": "XMS Lighthouse COB Swivel Inspection Light",
+  "specifications": [
+    "Output: 120/220 lumens",
+    "Colour Temperature: 6500-7000K/7000-9000K",
+    "Run Time: 6-8 hours",
+    "Batteries: (supplied)",
+    "Dimensions: 215 x 50 x 50mm",
+    "Weight: 170g"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-plasplugs-all-in-one-plasterboard-fixings-52.html|>
+## Plasplugs All-in-One Plasterboard Fixings (52)
+
+{
+  "price": "€2.99 inc VAT (€2.43 exc.vat)",
+  "description": "The XMS All-In-One Plasterboard Fixings in an assorted pack of 52, produced by Plasplugs, for use in plasterboard, solid wall and concrete. The plugs have an expanding barrel, barbed jaws and anti-rotate ribs for a secure fix. Look at your XMS saving. Supplied with a handy screw and drill gauge. Assorted pack of 52 containing the following sizes: 8 x 5mm, 20 x 6.5mm, 16 x 8mm and 8 x 10mm.",
+  "availability": "In Stock",
+  "product_name": "Plasplugs All-in-One Plasterboard Fixings (52)",
+  "specifications": [
+    "Assorted pack of 52",
+    "Sizes: 8 x 5mm, 20 x 6.5mm, 16 x 8mm, 8 x 10mm",
+    "Produced by Plasplugs",
+    "For use in plasterboard, solid wall and concrete",
+    "Includes a handy screw and drill gauge"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-plasplugs-heavy-duty-plasterboard-fixings-30.html|>
+## Plasplugs Heavy Duty Plasterboard Fixings (30)
+
+{
+  "price": "€5.49 inc VAT (€4.46 exc.vat)",
+  "description": "These XMS Heavy Duty Plasterboard Fixings in pack's of 30, produced by Plasplugs, are the original heavy-duty, easy to use Plasterboard Fixings ideal for securing medium to heavyweight items in plasterboard. The multi-thread technology offers superior holding power. With an expanding barrel and contracting fixing with integral screw thread. Typical applications: shelving units, wooden battens, wall lights, small mirrors. Drill Size: 10mm. Screw Size: No 8 (4.5mm). Pack: 30.",
+  "availability": "In Stock",
+  "product_name": "Plasplugs Heavy Duty Plasterboard Fixings (30)",
+  "specifications": [
+    "Pack of 30",
+    "Drill Size: 10mm",
+    "Screw Size: No 8 (4.5mm)",
+    "Ideal for medium to heavyweight items"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-plasplugs-multi-size-plasterboard-fixings-50.html|>
+## XMS Plasplugs Multi-Size Plasterboard Fixings (50)
+
+{
+  "price": "€5.49 inc VAT (€4.46 exc.vat)",
+  "description": "The XMS Multi-Size Plasterboard Fixings in a mixed pack of 50, they are produced by Plasplugs, each pack features a range of regular duty plasterboard fixings for different wall thicknesses. It also includes a depth gauge for measuring the wall to select the correct size fixing. Great XMS value. Contains: 6 x fixings for 7mm walls. 6 x fixings for 12mm walls. 24 x standard fixings for 15mm walls. 8 x fixings for 17mm walls. 6 x fixings for 22mm walls.",
+  "availability": "In Stock",
+  "product_name": "XMS Plasplugs Multi-Size Plasterboard Fixings (50)",
+  "specifications": [
+    "Mixed pack of 50 fixings",
+    "Includes fixings for various wall thicknesses",
+    "Depth gauge for measuring wall thickness"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-plasplugs-original-heavy-duty-fixings-50.html|>
+## XMS Plasplugs Original Heavy Duty Fixings (50)
+
+{
+  "price": "€3.49 inc VAT (€2.84 exc.vat)",
+  "description": "The XMS Original Heavy Duty Fixings in a clip pack of 50, produced by Plasplugs, are yet another XMS deal. These Originals™ SBJP551 Fixings are designed for making larger or heavier fixings into brick or blockwork and masonry. Suitable for concrete, brick, breeze block and stone. The plugs feature multi-action grips, expanding barrels, barbed jaws and anti-rotate ribs. Typical applications: shelving, curtain poles, lighting, hooks and brackets, pictures and mirrors. Colour: Brown. Screw Type: No.8-14 (4.5-7mm). Drill Bit: 7mm. These Plasplugs SBJP551 Originals™ Heavy-Duty Fixings are supplied in a clip pack of 50 plugs.",
+  "availability": "In Stock",
+  "product_name": "XMS Plasplugs Original Heavy Duty Fixings (50)",
+  "specifications": [
+    "Colour: Brown",
+    "Screw Type: No.8-14 (4.5-7mm)",
+    "Drill Bit: 7mm",
+    "Pack of 50 plugs"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-plasplugs-original-plasterboard-fixings-50.html|>
+## XMS Plasplugs Original Plasterboard Fixings (50)
+
+{
+  "price": "€4.99 inc VAT (€4.06 exc.vat)",
+  "description": "These XMS Original Plasterboard Fixings in a pack of 50, produced by Plasplugs, are regular-duty, easy to use fixings for general use in plasterboard. They have a longer grip barrel giving a longer expanding grip. Typical applications include- plasterboard fixings, curtain tiebacks, lightweight wall hooks, smoke alarms and switches.",
+  "availability": "In Stock",
+  "product_name": "XMS Plasplugs Original Plasterboard Fixings (50)",
+  "specifications": [
+    "Drill Size: 7mm",
+    "Screw Size: No.8 (4.5mm)",
+    "Pack Quantity: 50"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-plasplugs-super-toggle-cavity-anchors-20.html|>
+## XMS Plasplugs Super Toggle Cavity Anchors (20)
+
+{
+  "price": "€7.49 inc VAT (€6.09 exc.vat)",
+  "description": "These XMS Super Toggle Cavity Anchors in pack of 20, produced by Plasplugs, come with expanding wings, which spread load over a wide area. Ideal for overhead applications, especially for lathe, plaster and plasterboard. Typical applications: wall clocks, shelving units, wall cabinets, bathroom cabinets. Adjusts to grip different wall thicknesses from 10 to 15mm.",
+  "availability": "In Stock",
+  "product_name": "XMS Plasplugs Super Toggle Cavity Anchors (20)",
+  "specifications": [
+    "Screw Size: No.8 (4.5mm)",
+    "Drill Size: 10mm",
+    "Pack of 20 Plasplugs® Super Toggle Fixings"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-roughneck-3-piece-heavy-duty-wire-brush-set.html|>
+## XMS Roughneck 3 Piece Heavy Duty Wire Brush Set
+
+{
+  "price": "€18.49 inc VAT (€15.03 exc.vat)",
+  "description": "This New and Exclusive XMS 3 Piece Heavy Duty Wire Brush Set, from Roughneck, is just what you need for those tougher general purpose tasks, and what a price this XMS deal offers you. The Roughneck-made trio are ideal for cleaning patios, barbeques, paint and rust from hard surfaces and cleaning small parts such as contacts on spark plugs, and can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc. This Roughneck set consists: The Carbon Steel Wire Brush which is a 4 row general purpose wire brush, it is a 300mm (12in) brush with 11 sets of anodised carbon steel bristles and a TPR soft-grip handle. Like all in the trio this wire brush is ideal for cleaning patios, barbeques, paint and rust from hard surfaces and cleaning small parts such as contacts on spark plugs. It can also be used for cleaning paint, rust, damp patches from brickwork, woodwork, metalwork etc. 1 x Roughneck ROU52042 Carbon Steel Wire Brush Soft Grip with Scraper 300mm (12in). The Heavy Duty Tapered Block Wire Brush which is ideal for cleaning corners. It has 18 sets of large carbon steel bristles and is suitable for general purpose use and soft grip for comfort. It is also ideal for cleaning patios, BBQ's, paint, rust, damp patches from brick work, woodwork, metal work and much more. 1 x Roughneck ROU52050 Block Wire Brush with Handle, overall length 165mm (6½in). The Heavy-Duty Two-Handed Wire Brush is ideal for applying extra force and features two soft grips for comfort in use. It has 32 sets of large carbon steel bristles and is suitable for general purpose use. It is also ideal for larger areas, cleaning patios, BBQ's, paint, rust, damp patches from brick work, woodwork, metal work and more. 1 x Roughneck ROU52052 Two Handed Wire Brush Soft Grip, overall length 250mm (10in).",
+  "availability": "In Stock",
+  "product_name": "XMS Roughneck 3 Piece Heavy Duty Wire Brush Set",
+  "specifications": [
+    "Carbon Steel Wire Brush: 300mm (12in) with 11 sets of anodised carbon steel bristles",
+    "Heavy Duty Tapered Block Wire Brush: 165mm (6½in) with 18 sets of large carbon steel bristles",
+    "Heavy-Duty Two-Handed Wire Brush: 250mm (10in) with 32 sets of large carbon steel bristles"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-roughneck-gorilla-pro-grip-utility-bar-twin-pack.html|>
+## XMS Roughneck Gorilla Pro-Grip Utility Bar Twin Pack
+
+{
+  "price": "€24.99 inc VAT (€20.32 exc.vat)",
+  "description": "NEW, the XMS Gorilla Pro-Grip Utility Bars Twin Pack, 380 & 180mm, are manufactured by Roughneck, an excellent value XMS savings. These are an exclusive carded twin pack combination featuring 15\"\" and 7\"\" versions of Roughneck's popular Gorilla Pro-Grip Bar, and should not be overlooked. They have a number of features, as you would expect, including being drop forged, heat treated and powder coated. They each have 3 nail removers and have the I-beam profile and come with a high-grip design, basically everything you may need to get the job done.",
+  "availability": "In Stock",
+  "product_name": "XMS Roughneck Gorilla Pro-Grip Utility Bar Twin Pack",
+  "specifications": [
+    "380mm and 180mm lengths",
+    "Drop forged",
+    "Heat treated",
+    "Powder coated",
+    "3 nail removers",
+    "I-beam profile",
+    "High-grip design"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-scan-dual-purpose-key-safe.html|>
+## XMS Scan Dual Purpose Key Safe
+
+{
+  "price": "€18.49 inc VAT (€15.03 exc.vat)",
+  "description": "This New and Exclusive XMS Keysafe - Dual Action Wall And Shackle, a well thought out dual purpose key safe by Scan, at an incredible XMS introductory price. To be used on site or for your leisure. Just look at this 4 wheel combination key safe with removable shackle, with a sliding cover to protect the wheels from weather. This Scan key safe even comes supplied with rubber bungs to prevent water ingress if the shackle is removed. Other features include a sprung lever release to access keys, this really is the ideal key security for you. Dimensions: 63 x 55 x 32mm internal capacity.",
+  "availability": "In Stock",
+  "product_name": "XMS Scan Dual Purpose Key Safe",
+  "specifications": [
+    "Dimensions: 63 x 55 x 32mm internal capacity",
+    "4 wheel combination key safe",
+    "Removable shackle",
+    "Sliding cover to protect wheels from weather",
+    "Supplied with rubber bungs to prevent water ingress",
+    "Sprung lever release to access keys"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-scan-viper-safety-boots.html|>
+## XMS Scan Viper Safety Boots
+
+{
+  "price": "€38.99 inc VAT",
+  "description": "The XMS Viper SBP-rated Safety Boots, Sizes, 7 - 11, by Scan, have a full grain leather upper, 200-joule steel toecap and penetration resistant steel midsole, again what great value during this XMS campaign, sure to sell well. Fitted with a dual-density PU outsole, this cushioned sole ensures high levels of comfort. There is also an energy-absorbing heel maintaining comfort over long periods of work. The fuel and oil-resistant, SRC-rated slip-resistant sole increases wear safety, making these boots ideal for tradesmen. Conforms to EN ISO 20345. Safety Rating: SBP. Slip Rating: SRC.",
+  "availability": "In Stock",
+  "product_name": "XMS Scan Viper Safety Boots",
+  "specifications": [
+    "Sizes: 7 - 11",
+    "Material: Full grain leather upper",
+    "Safety Rating: SBP",
+    "Slip Rating: SRC",
+    "200-joule steel toecap",
+    "Penetration resistant steel midsole",
+    "Dual-density PU outsole",
+    "Energy-absorbing heel",
+    "Fuel and oil-resistant sole"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-stanley-fatmax-8m-26ft-extreme-tape.html|>
+## Stanley FatMax 8m (26ft) Extreme Tape
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "The New XMS 8m Fatmax Extreme Tape Measure, produced by STANLEY FATMAX, has everything you would want from this brand in a tape measure, and then the XMS price makes it even more enticing. The intergrated finger brake gives the holder improved blade control and ergonomics, with a double-sided print for vertical & overhead measuring. The 5m (16ft) maximum reach comes with a straighter and stronger blade for improved efficiency. This Fatmax Extreme tape has a Bi-Material slide lock for improved grip and enhanced durability and an oversized beast hook for a better grab on materials. Size: 8m/26ft.",
+  "availability": "In Stock",
+  "product_name": "Stanley FatMax 8m (26ft) Extreme Tape",
+  "specifications": [
+    "Integrated finger brake for improved blade control",
+    "Double-sided print for vertical & overhead measuring",
+    "5m (16ft) maximum reach",
+    "Bi-Material slide lock for improved grip",
+    "Oversized beast hook for better grab on materials",
+    "Size: 8m/26ft"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-stanley-fatmax-replacement-trimming-knife-blades.html|>
+## XMS Stanley FatMax Replacement Trimming Knife Blades
+
+{
+  "price": "€12.99 inc VAT (€10.56 exc.vat)",
+  "description": "The 100 XMS Utility Blades, in a smart dispenser, produced by STANLEY® FatMax® are their first ever induction hardened blade, so what an XMS deal they are, no wonder they sell well.. The FatMax® Utility Blades are 20% stronger, 75% sharper and offer twice more life than a traditional Stanley blade, and being the first ever induction hardened blade, with a new blade geometry which provides more blade edge. They are resistant up to 35kg. So stronger, sharper and longer lasting!",
+  "availability": "In Stock",
+  "product_name": "XMS Stanley FatMax Replacement Trimming Knife Blades",
+  "specifications": [
+    "100 XMS Utility Blades in a smart dispenser",
+    "Induction hardened blade",
+    "20% stronger and 75% sharper than traditional blades",
+    "Twice the life of traditional Stanley blades",
+    "Resistant up to 35kg"
+  ]
+}
+
+<|https://www.mydiy.ie/products/xms-stanley-fatmax-trade-knife-in-holster.html|>
+## XMS Stanley FatMax Trade Knife in Holster
+
+{
+  "price": "€14.99 inc VAT (€12.19 exc.vat)",
+  "description": "The New and Exclusive XMS Fixed Blade Trade Knife In Holster is produced by STANLEY FATMAX, its quality should sell itself, but then take a look at this XMS saving! This trade knife has a Linear design - Linear ergonomic design guarantees maximum blade contact for efficient and clean cuts. While the hardened steel blade holder - durable blade holder will not wear, giving ultimate blade retention and accuracy. It also has a blade retention magnet - the blade will not fall out for quick and easy blade change. There is more, this FATMAX knife has a coarse thread thumb wheel - an all metal thumb wheel and shoulder screw for fast locking and unlocking. Trade specific design - Ergonomics for one and two handed cutting, supplied in two colours with a durable knife holster.",
+  "availability": "In Stock",
+  "product_name": "XMS Stanley FatMax Trade Knife in Holster",
+  "specifications": [
+    "Linear ergonomic design for efficient cuts",
+    "Hardened steel blade holder for durability",
+    "Blade retention magnet for easy blade change",
+    "Coarse thread thumb wheel for fast locking",
+    "Ergonomic design for one and two handed cutting"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-2-lever-bathroom-sashlocks---pm236.html|>
+## Yale Locks 2 Lever Bathroom Sashlocks - PM236
+
+{
+  "price": "€19.05 inc VAT",
+  "description": "The Yale PM236 2 lever bathroom mortice sashlock offers a standard level of security and are suitable for use on internal timber doors. The deadbolt is locked or unlocked NOT by key but using a separate handle set (not supplied) from either side. These sashlocks also have a 12.5mm deadbolt, and are suitable for use on bathroom doors or other internal doors where privacy is required. A deadlock has a single deadbolt which is locked or unlocked and locked by means of a key from either side, whereas, a sashlock has both a deadbolt and a latch which is operated from either side by a lever handles. The security level of mortice deadlocks or sashlocks ranges from 2-5 levers. The higher the number of levers the more secure the lock is.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 2 Lever Bathroom Sashlocks - PM236",
+  "specifications": [
+    "Select Option: 67mm 2.5in Polished Brass",
+    "67mm 2.5in Polished Chrome",
+    "WEEE Recycling Producer Registration Number:12889",
+    "EMC (Environmental Management Cost) Included in the purchase price."
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-2-lever-internal-sashlocks---pm246.html|>
+## Yale Locks 2 Lever Internal Sashlocks - PM246
+
+{
+  "price": "€17.99 inc VAT",
+  "description": "The Yale PM246 2 lever mortice sashlocks offers a standard level of security and are suitable for use on internal timber doors. The deadbolt is locked or unlocked by key from either side. These sashlocks also have a 12.5mm deadbolt, and are suitable for use on internal doors where privacy is required. A deadlock has a single deadbolt which is unlocked and locked by means of a key from either side, whereas, a sashlock has both a deadbolt and a latch which is operated from either side by a lever handles. The security level of mortice deadlocks or sashlocks ranges from 2-5 levers. The higher the number of levers the more secure the lock is.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 2 Lever Internal Sashlocks - PM246",
+  "specifications": [
+    "Available Options: 67mm 2.5in Polished Brass, 67mm 2.5in Polished Chrome, 80mm 3in Polished Brass, 80mm 3in Polished Chrome",
+    "12.5mm deadbolt",
+    "Suitable for internal timber doors",
+    "Standard level of security"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-3-lever-mortice-deadlocks---pm322.html|>
+## Yale Locks 3 Lever Mortice Deadlocks - PM322
+
+{
+  "price": "€20.80 inc VAT",
+  "description": "The Yale PM322 3 lever mortice deadlocks offer a standard level of security and are suitable for use on internal timber doors. The deadbolt is locked or unlocked by key from either side. These deadlocks also have a 13mm anti-saw deadbolt and have a 10 year guarantee. A deadlock has a single deadbolt which is locked or unlocked and locked by means of a key from either side, whereas, a sashlock has both a deadbolt and a latch which is operated from either side by a lever handles. The security level of mortice deadlocks or sashlocks ranges from 2-5 levers. The higher the number of levers the more secure the lock is.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 3 Lever Mortice Deadlocks - PM322",
+  "specifications": [
+    "Available in 67mm and 80mm sizes",
+    "Polished Brass and Chrome finishes",
+    "13mm anti-saw deadbolt",
+    "10 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-3-lever-mortice-sashlocks---pm320.html|>
+## Yale Locks 3 Lever Mortice Sashlocks - PM320
+
+{
+  "price": "from €22.52 inc VAT",
+  "description": "The Yale PM320 3 Lever mortice sashlocks offer a standard level of security and are suitable for use on internal timber doors. The deadbolt is locked or unlocked by key from either side. These sashlocks also have a 13mm anti-saw deadbolt, and has been designed for use with door furniture. A deadlock has a single deadbolt which is locked or unlocked and locked by means of a key from either side, whereas, a sashlock has both a deadbolt and a latch which is operated from either side by a lever handles. The security level of mortice deadlocks or sashlocks ranges from 2-5 levers. The higher the number of levers the more secure the lock is.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 3 Lever Mortice Sashlocks - PM320",
+  "specifications": [
+    "Available Options: 67mm 2.5in Polished Brass, 67mm 2.5in Polished Chrome, 80mm 3in Polished Brass, 80mm 3in Polished Chrome",
+    "13mm anti-saw deadbolt",
+    "Suitable for internal timber doors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-5-level-mortice-deadlocks---pm552.html|>
+## Yale Locks 5 Level Mortice Deadlocks - PM552
+
+{
+  "price": "from €39.99 inc VAT",
+  "description": "The Yale PM552 5 lever mortice deadlocks offers a high level of security and are suitable for use on external timber doors. The deadbolt on the lock is locked or unlocked by key from either side. These deadlocks also have a 14mm anti-saw deadbolt and are recommended for use on a front door in conjunction with a Yale BS nightlatch. A deadlock has a single deadbolt which is locked or unlocked and locked by means of a key from either side, whereas, a sashlock has both a deadbolt and a latch which is operated from either side by a lever handles. The security level of mortice deadlocks or sashlocks ranges from 2-5 levers. The higher the number of levers the more secure the lock is.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 5 Level Mortice Deadlocks - PM552",
+  "specifications": [
+    "Available Options: 67mm 2.5in Polished Brass, 80mm 3in Polished Brass",
+    "14mm anti-saw deadbolt",
+    "Suitable for external timber doors",
+    "Locked/unlocked by key from either side",
+    "Security level ranges from 2-5 levers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-5-level-mortice-deadlocks---pm562.html|>
+## Yale Locks 5 Level Mortice Deadlocks - PM562
+
+{
+  "price": "from €41.59 inc VAT",
+  "description": "The Yale PM562 British Standard 5 lever mortice deadlocks offer a very high level of security and are suitable for use on external timber doors. The deadbolt is locked or unlocked by key from either side. The PM562 series lock are recommended by insurance companies, kitemarked to BS3621: 2007 and has been approved by the police Secured by Design initiative. These deadlocks also have a 20mm anti-saw deadbolt, an anti-drill case and have a 15 year guarantee. A deadlock has a single deadbolt which is locked or unlocked and locked by means of a key from either side, whereas, a sashlock has both a deadbolt and a latch which is operated from either side by a lever handles. The security level of mortice deadlocks or sashlocks ranges from 2-5 levers. The higher the number of levers the more secure the lock is.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 5 Level Mortice Deadlocks - PM562",
+  "specifications": [
+    "Available Options: 67mm 2.5in Polish Brass, 67mm 2.5in Polish Chrome, 80mm 3in Polish Brass, 80mm 3in Polish Chrome",
+    "20mm anti-saw deadbolt",
+    "Anti-drill case",
+    "15 year guarantee",
+    "Kitemarked to BS3621: 2007",
+    "Approved by police Secured by Design initiative"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-706-traditional-nightlatch-40mm-backset-enb-finish-box.html|>
+## Yale Locks 706 Traditional Nightlatch 40mm Backset ENB Finish Box
+
+{
+  "price": "€40.38 inc VAT (€32.83 exc.vat)",
+  "description": "The Yale 706 nightlatch is a traditional style nightlatch with classic styling. The deadlocking snib function enables the latch to be held back or deadlocked internally. The nightlatch is key operated from the outside and has a knob handle for operation from inside. The 706 nightlatch has a 40mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door. Case Finish: Electro Nickle Brass. Cylinder Finish: Polished Brass. Supplied with 1109 external cylinder.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 706 Traditional Nightlatch 40mm Backset ENB Finish Box",
+  "specifications": [
+    "40mm backset",
+    "Electro Nickle Brass case finish",
+    "Polished Brass cylinder finish",
+    "Key operated from outside",
+    "Knob handle for inside operation"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-723-deadlatch-40mm-backset-enb-finish-box.html|>
+## Yale Locks 723 Deadlatch 40mm Backset ENB Finish Box
+
+{
+  "price": "€40.38 inc VAT (€32.83 exc.vat)",
+  "description": "Yale 723 Traditional Nightlatch with narrow style and a snib function which enables the latch to be held back or deadlocked internally. Inside handle can be deadlocked by a reverse turn of the key in the outside cylinder after closing the door. Supplied with 1109 external cylinder. Backset: 40mm.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 723 Deadlatch 40mm Backset ENB Finish Box",
+  "specifications": [
+    "Backset: 40mm",
+    "Supplied with 1109 external cylinder"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-77-traditional-nightlatches-60mm-backset.html|>
+## Yale Locks 77 Traditional Nightlatches 60mm Backset
+
+{
+  "price": "€34.67 inc VAT",
+  "description": "The Yale 77 series traditional nightlatches are the The Original Yale Lock with classic styling. The deadlocking snib function enables the latch to be held back or deadlocked internally. The nightlatch is key operated from the outside and has a knob handle for operation from inside. The 77 series nightlatches have a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Supplied with 1109 external cylinder.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 77 Traditional Nightlatches 60mm Backset",
+  "specifications": [
+    "60mm backset",
+    "Key operated from outside",
+    "Knob handle for inside operation",
+    "Deadlocking snib function"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-81-rollerbolt-nightlatch-60mm-backset-dmg-finish-box.html|>
+## Yale Locks 81 Rollerbolt Nightlatch 60mm Backset DMG Finish Box
+
+{
+  "price": "€112.20 inc VAT (€91.22 exc.vat)",
+  "description": "The Yale 81 rollerbolt nightlatch front door lock has a rollerbolt for push/pull action making it ideal to prevent accidental lock out. Ideal for communal or flat entrance doors. It is opened by a key from the outside and a turn handle operation from inside. The 81 rollerbolt nightlatch has a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door. 10 Year Guarantee. Case Finish: Dark Metallic Grey. Cylinder Finish: Polished Brass. Backset 60mm Supplied with 2 x keys Security Rating: Standard.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 81 Rollerbolt Nightlatch 60mm Backset DMG Finish Box",
+  "specifications": [
+    "Backset 60mm",
+    "Case Finish: Dark Metallic Grey",
+    "Cylinder Finish: Polished Brass",
+    "Supplied with 2 x keys",
+    "Security Rating: Standard"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-82-deadbolt-nightlatch-60mm-backset-dmg-finish-box.html|>
+## Yale Locks 82 Deadbolt Nightlatch 60mm Backset DMG Finish Box
+
+{
+  "price": "€71.81 inc VAT (€58.38 exc.vat)",
+  "description": "The Yale 82 deadbolt nightlatch front door lock has a deadbolt operation only with no intermediate latching action and it is opened by a key from the outside and a turn handle operation from inside. The 82 deadbolt nightlatch has a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass. This Yale 82DMGPB has a hardened Case Finish in Dark Metallic Grey and the Cylinder is finished in Polished Brass. The lock is covered by a 2 Year Guarantee and has a standard Security Rating.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 82 Deadbolt Nightlatch 60mm Backset DMG Finish Box",
+  "specifications": [
+    "Deadbolt operation only",
+    "60mm backset",
+    "Hardened Case Finish in Dark Metallic Grey",
+    "Cylinder finished in Polished Brass",
+    "2 Year Guarantee",
+    "Standard Security Rating"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-84-standard-nightlatches-40mm-backset.html|>
+## Yale Locks 84 Standard Nightlatches 40mm Backset
+
+{
+  "price": "€53.85 inc VAT",
+  "description": "The Yale 84 standard nightlatch security lock is key operated from the outside and lever handle operated from the inside. The latch automatically deadlocks on closing the door and the snib function (bolt hold back button) enables the latch to be held back. Supplied with 1109 Cylinder in brass. The 84 series security nightlatches have a 40mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 84 Standard Nightlatches 40mm Backset",
+  "specifications": [
+    "40mm backset",
+    "Key operated from outside",
+    "Lever handle operated from inside",
+    "Automatically deadlocks on closing",
+    "Snib function (bolt hold back button)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-85-deadlocking-nightlatches-40mm-backset.html|>
+## Yale Locks 85 Deadlocking Nightlatches 40mm Backset
+
+{
+  "price": "€43.32 inc VAT",
+  "description": "The Yale 85 series deadlocking standard nightlatch security locks are some of the most widely-used front door latches. They are key operated from the outside and lever handle operated from the inside. The latch automatically deadlocks on closing the door and the snib function (bolt hold back button) enables the latch to be held back. The inside handle can also be deadlocked by a reverse turn of the key in the cylinder giving additional security (when deadlocked in this manner the latch cannot be opened from the inside only from the outside with the key). Supplied with 1109 Cylinder. The 85 series security nightlatches have a 40mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 85 Deadlocking Nightlatches 40mm Backset",
+  "specifications": [
+    "40mm backset",
+    "Key operated from outside",
+    "Lever handle operated from inside",
+    "Automatically deadlocks on closing",
+    "Snib function (bolt hold back button)",
+    "Supplied with 1109 Cylinder"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-88-standard-nightlatches-60mm-backset.html|>
+## Yale Locks 88 Standard Nightlatches 60mm Backset
+
+{
+  "price": "€45.07 inc VAT",
+  "description": "The Yale 88 Standard nightlatch security lock is key operated from the outside and lever handle operated from the inside. The latch automatically deadlocks on closing the door and the snib function (bolt hold back button) enables the latch to be held back. Supplied with 1109 Cylinder in brass or chrome finish. The 88 series security nightlatches have a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 88 Standard Nightlatches 60mm Backset",
+  "specifications": [
+    "Brass Cylinder 60mm Backset Box",
+    "Satin Chrome Cylinder 60mm Backset Box",
+    "Key operated from outside",
+    "Lever handle operated from inside",
+    "Automatically deadlocks on closing",
+    "Snib function (bolt hold back button)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-89-deadlocking-nightlatches-60mm-backset.html|>
+## Yale Locks 89 Deadlocking Nightlatches 60mm Backset
+
+{
+  "price": "€46.78 inc VAT",
+  "description": "The Yale 89 series deadlocking standard nightlatch security locks are some of the most widely-used front door latches. They are key operated from the outside and lever handle operated from the inside. The latch automatically deadlocks on closing the door and the snib function (bolt hold back button) enables the latch to be held back. The inside handle can also be deadlocked by a reverse turn of the key in the cylinder giving additional security (when deadlocked in this manner the latch cannot be opened from the inside, only from the outside with the key). Supplied with 1109 Cylinder. The 89 series security nightlatches have a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 89 Deadlocking Nightlatches 60mm Backset",
+  "specifications": [
+    "60mm backset",
+    "Key operated from outside",
+    "Lever handle operated from inside",
+    "Automatically deadlocks on closing",
+    "Snib function for holding latch back",
+    "Reverse turn key deadlock feature"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-91-basic-nightlatch-60mm-backset-dmg-finish-box.html|>
+## Yale Locks 91 Basic Nightlatch 60mm Backset DMG Finish Box
+
+{
+  "price": "€65.07 inc VAT (€52.90 exc.vat)",
+  "description": "The Yale 91 basic nightlatch security lock is key operated from the outside and lever handle operated from the inside. On closing the door the snib function (bolt hold back button) enables the latch to be held back. This lock is non deadlocking and is ideal for use in hotels. Supplied with 1109 Cylinder. The 91 basic nightlatch has a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door. This Yale 91DMGPB has a hardened Case Finish in Dark Metallic Grey and the Cylinder is Finished in Polish Brass. The lock is covered by a 2 Year Guarantee and has a Standard Security Rating. Pack: Boxed.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks 91 Basic Nightlatch 60mm Backset DMG Finish Box",
+  "specifications": [
+    "Key operated from the outside",
+    "Lever handle operated from the inside",
+    "Snib function (bolt hold back button)",
+    "Non deadlocking",
+    "Ideal for use in hotels",
+    "Supplied with 1109 Cylinder",
+    "60mm backset measurement",
+    "Hardened Case Finish in Dark Metallic Grey",
+    "Cylinder Finished in Polish Brass",
+    "Covered by a 2 Year Guarantee",
+    "Standard Security Rating"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-bs1-british-standard-security-nightlatches-60mm-backset.html|>
+## Yale Locks BS1 British Standard Security Nightlatches 60mm Backset
+
+{
+  "price": "€160.98 inc VAT",
+  "description": "Yale's maximum security BS1 nightlatches are British Standard approved to ensure the highest level of security for timber external doors. They are Kitemarked to BS 3621:2007 and are recommended by insurance companies. These security nightlatches have been approved by the Police Secured by Design initiative. The Yale lock is key operated from the outside and both key and lever handle operation from the inside with the internal handle being lockable for increased security. The latch automatically deadlocks on closing the door and the snib function enables the latch to be held back. The lock uses a 6 pin high performance cylinder, and has a 20mm bolt which is anti-carding. It also has a 15 year guarantee. The BS1 nightlatches have a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a glass panelled door. Case Width: 90mm Case Height: 90mm Case Depth: 33mm",
+  "availability": "In Stock",
+  "product_name": "Yale Locks BS1 British Standard Security Nightlatches 60mm Backset",
+  "specifications": [
+    "60mm backset",
+    "Case Width: 90mm",
+    "Case Height: 90mm",
+    "Case Depth: 33mm",
+    "15 year guarantee",
+    "Kitemarked to BS 3621:2007"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-bs2-british-standard-security-nightlatches-40mm-backset.html|>
+## Yale Locks BS2 British Standard Security Nightlatches 40mm Backset
+
+{
+  "price": "€151.23 inc VAT",
+  "description": "Yale's maximum security BS2 nightlatches are British Standard approved to ensure the highest level of security for timber external doors. They are Kitemarked to BS 3621:2007 and are recommended by insurance companies. These security nightlatches have been approved by the Police Secured by Design initiative. The lock is key operated from the outside and both key and lever handle operation from the inside with the internal handle being lockable for increased security. The latch automatically deadlocks on closing the door and the snib function enables the latch to be held back. The lock uses a 6 pin high performance cylinder, and has a 20mm bolt which is anti-carding. It also has a 10 year guarantee. The BS2 nightlatches have a 40mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a glass panelled door. Case Width: 89mm Case Height: 90mm Case Depth: 33mm.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks BS2 British Standard Security Nightlatches 40mm Backset",
+  "specifications": [
+    "40mm backset",
+    "Case Width: 89mm",
+    "Case Height: 90mm",
+    "Case Depth: 33mm",
+    "Kitemarked to BS 3621:2007",
+    "10 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-doormaster-multi-point-adjustable-replacement-pvcu-lock-ydm-adj-pvcu-35.html|>
+## Yale Locks Doormaster Multi-Point Adjustable Replacement PVCu Lock YDM-ADJ-PVCu-35
+
+{
+  "price": "€152.51 inc VAT (€123.99 exc.vat)",
+  "description": "Yale Doormaster™ Adjustable is a high-security lock designed to replace up to 90% of PVCu door locks with top and bottom hooks or bolts, a 35mm backset, and a 16mm faceplate. Its adjustable design utilises the latest patented technology from Yale to ensure the lock is installer friendly, making it the ideal choice where a higher level of security on a PVCu door is required. 3 hooks ensure high security and anti-separation. Adjustable rollers create a weather tight seal to protect the interior of a house from the elements. The Yale Doormaster™ Adjustable is supplied with pre-assembled keeps using the patented 'Uni-packer' system for fast, easy, and reliable installation. Tested to Police Approved Secured By Design standard and PAS 24 door set capable. 10 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Doormaster Multi-Point Adjustable Replacement PVCu Lock YDM-ADJ-PVCu-35",
+  "specifications": [
+    "High-security lock",
+    "Replaces up to 90% of PVCu door locks",
+    "35mm backset",
+    "16mm faceplate",
+    "3 hooks for high security",
+    "Adjustable rollers for weather tight seal",
+    "Supplied with pre-assembled keeps",
+    "Tested to Police Approved Secured By Design standard",
+    "10 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-doormaster-professional-replacement-upvc-lock.html|>
+## Yale Locks Doormaster Professional Replacement uPVC Lock
+
+{
+  "price": "€152.51 inc VAT",
+  "description": "Yale Doormaster™ Professional is a High Security PVCu replacement lock designed to replace 100% of locks. With three hooks and two rollers, the Doormaster™ Professional has been tested to the Police Approved Secured By Design standard and is PAS 24 door set capable. Designed with the professional installer in mind, this lock includes Crop and Mate technology to maximise the scope of installation. Several patented features plus a choice of faceplate widths makes the Professional Lock the ideal choice where a higher level of security is required - regardless of door material.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Doormaster Professional Replacement uPVC Lock",
+  "specifications": [
+    "Supplied with pre-assembled door keeps which use the patented 'Uni-packer' system for fast, easy, and reliable installation.",
+    "Fixing tabs for easy and secure fitting.",
+    "Rounded ends for safe installation.",
+    "10 year guarantee.",
+    "Length: 92mm."
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-letter-plates.html|>
+## Yale Locks Letter Plates
+
+{
+  "price": "€22.00 inc VAT",
+  "description": "This universal-fit letterplate from Yale provides an excellent external weather seal and an internal draught seal to protect the home from the outside elements. Internal brushes reduce heat loss and an external foam seal prevents weather ingress. Its sleeve width of 254mm ensures that it can take full A4 size post without bending - a common problem for other letterplates. Internal and external thumb handles make it easy to open the flaps and it's fully sprung flaps have high endurance (tested to 40,000 cycles). The external flap is designed to open 147° for generous posting access. Supplied with a 40/40 adjustable sleeve set for door thicknesses of 38-78mm. Suitable for Timber, PVCu and Composite doors. Available in six different colours",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Letter Plates",
+  "specifications": [
+    "Universal-fit letterplate",
+    "Excellent external weather seal",
+    "Internal draught seal",
+    "Sleeve width of 254mm for A4 size post",
+    "Fully sprung flaps tested to 40,000 cycles",
+    "External flap opens 147°",
+    "Supplied with 40/40 adjustable sleeve set for door thicknesses of 38-78mm",
+    "Suitable for Timber, PVCu and Composite doors",
+    "Available in six different colours"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-m888-tubular-mortice-latches.html|>
+## Yale Locks M888 Tubular Mortice Latches
+
+{
+  "price": "from €8.65 inc VAT",
+  "description": "The Yale M888 tubular mortice latches are suitable for internal doors where no locking is required. The latch bolt is withdrawn by spring lever handle from either side, but they are not suitable for unsprung lever handles.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks M888 Tubular Mortice Latches",
+  "specifications": [
+    "Select Option: 64mm 2.5in Chrome Finish Pack of 3",
+    "64mm 2.5in Polished Brass Pack of 3",
+    "64mm 2.5in Polished Brass Visi of 1",
+    "64mm 2.5in Zinc Plated Visi of 1",
+    "76mm 3in Polished Brass Finish Pack of 1",
+    "76mm 3in Zinc Plated Finish Pack of 1"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p-ycjdc-concealed-door-closer-electro-brass-finish.html|>
+## Yale Locks P-YCJDC Concealed Door Closer Electro Brass Finish
+
+{
+  "price": "€13.86 inc VAT (€11.27 exc.vat)",
+  "description": "The Yale PYCJDC concealed door closer fits into the hinge side of the door, providing automatic closure of light - medium weight internal doors weighing up to 50kg. This door closer is suitable for left and right hand fitting and supplied with all fixings, the closer has been included in successful fire test to BS EN 1634-1 and is suitable for 1/2 hour fire doors. Finish: Electro Brassed. 2 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P-YCJDC Concealed Door Closer Electro Brass Finish",
+  "specifications": [
+    "Fits into the hinge side of the door",
+    "Automatic closure for doors up to 50kg",
+    "Suitable for left and right hand fitting",
+    "Included in successful fire test to BS EN 1634-1",
+    "Suitable for 1/2 hour fire doors",
+    "Finish: Electro Brassed",
+    "2 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p-ysmdc-surface-mounted-door-closers.html|>
+## Yale Locks P-YSMDC Surface Mounted Door Closers
+
+{
+  "price": "€34.99 inc VAT",
+  "description": "The Yale PYSMDC series of spring loaded door closer have an adjustable tensioner to suit your doors to the required door closed setting, they give automatic closure of light to medium weight internal doors weighing up to 50kg. The PYSMDC series are easy to fit and suitable for left and right hand fitting, they have been included in successful fire test to BS EN 1634-1 and are suitable for 1/2 hour fire doors.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P-YSMDC Surface Mounted Door Closers",
+  "specifications": [
+    "Adjustable tensioner for door closure",
+    "Suitable for doors weighing up to 50kg",
+    "Easy to fit for left and right hand fitting",
+    "Included in fire test to BS EN 1634-1",
+    "Suitable for 1/2 hour fire doors"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p1-double-security-nightlatches-60mm-backset.html|>
+## Yale Locks P1 Double Security Nightlatches 60mm Backset
+
+{
+  "price": "€115.39 inc VAT",
+  "description": "Yale's High Security P1 Double Nightlatches are suitable for timber external doors and are ideal for glass panelled doors. The lock is key operated from the outside and both key and lever handle operation from the inside. The internal handle is lockable for increased security. The latch automatically deadlocks on closing the door and the snib function (bolt hold back button) enables the latch to be held back. The lock uses a 6 pin high performance cylinder, and has a 20mm bolt which is anti-carding. It also has a 2 year guarantee. The P1 double security nightlatches have a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P1 Double Security Nightlatches 60mm Backset",
+  "specifications": [
+    "Case Width: 60mm",
+    "Case Height: 88mm",
+    "Case Depth: 30mm",
+    "60mm backset"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p110-cylinder-pulls.html|>
+## Yale Locks P110 Cylinder Pulls
+
+{
+  "price": "from €19.99 inc VAT",
+  "description": "Cylinder pull for use with all Yale cylinder rim locks except for PBS1/PBS2.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P110 Cylinder Pulls",
+  "specifications": [
+    "Brass finish",
+    "Chrome finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p2-double-security-nightlatches-40mm-backset.html|>
+## Yale Locks P2 Double Security Nightlatches 40mm Backset
+
+{
+  "price": "from €110.59 inc VAT",
+  "description": "Yale's high security P2 double security nightlatches are suitable for timber external doors and are ideal for glass panelled doors. The lock is key operated from the outside and both key and lever handle operation from the inside. The internal handle is lockable for increased security. The latch automatically deadlocks on closing the door and the snib function (bolt hold back button) enables the latch to be held back. The lock uses a 6 pin high performance cylinder, and has a 20mm bolt which is anti-carding. It also has a 2 year guarantee. The P2 double security nightlatches have a 40mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P2 Double Security Nightlatches 40mm Backset",
+  "specifications": [
+    "Case Width: 60mm",
+    "Case Height: 88mm",
+    "Case Depth: 30mm",
+    "40mm backset"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p2002-standard-door-closer-silver.html|>
+## Yale Locks P2002 Standard Door Closer Silver
+
+{
+  "price": "€86.68 inc VAT (€70.47 exc.vat)",
+  "description": "Yale door closers are mainly used in commercial and public buildings but may also be used around the home where circumstances make their use desirable. They have a variety of uses and applications one of the main ones being to keep a door closed to limit the spread of fire and draught throughout a building. There are many different types of door closer available ranging from the simplest gate spring up to the more industrial floor springs. This Yale YALP2002 size 3 is a surface mounted door closer, suitable for right or left hand doors, with separate adjustments for closing and latching speeds for a comfortable close, the YALP2002 has an adjustable arm so you obtain the correct pressure. Finish: Silver. Size 3: Recommended door width 950mm-60Kg. 2 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P2002 Standard Door Closer Silver",
+  "specifications": [
+    "Size 3: Recommended door width 950mm-60Kg",
+    "Finish: Silver",
+    "2 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p334-rim-locks-156-x-104mm.html|>
+## Yale Locks P334 Rim Locks 156 x 104mm
+
+{
+  "price": "€26.00 inc VAT",
+  "description": "The Yale 334 traditional rim locks provide basic security and should only be used where a high level of security is not required. Rim locks are ideal for internal doors or gates and outbuildings. These rim locks are held on by three screws and the keep by two screws; anyone with a simple screwdriver can remove the lock internally and open the door. It is operated by using the key and handle from either side of the door. One turn of the key deadlocks the bolt. For use with rim lock knob handles.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P334 Rim Locks 156 x 104mm",
+  "specifications": [
+    "Select Option: Black Finish, Brass finish, Chrome finish, Grey Finish",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p401-rim-locks-138-x-76mm.html|>
+## Yale Locks P401 Rim Locks 138 x 76mm
+
+{
+  "price": "from €26.00 inc VAT",
+  "description": "The Yale 401 traditional rim locks provide basic security and should only be used where a high level of security is not required. Rim locks are ideal for internal doors or gates and outbuildings. These rim locks are held on by three screws and the keep by two screws; anyone with a simple screwdriver can remove the lock internally and open the door. It is operated by using the key and handle from either side of the door. One turn of the key deadlocks the bolt. For use with rim lock knob handles. Case Size: 138mm x 76mm. Backset: 42mm.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P401 Rim Locks 138 x 76mm",
+  "specifications": [
+    "Case Size: 138mm x 76mm",
+    "Backset: 42mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p402-rim-locks-102-x-76mm.html|>
+## Yale Locks P402 Rim Locks 102 x 76mm
+
+{
+  "price": "from €24.99 inc VAT",
+  "description": "The Yale 402 traditional rim locks provide basic security and should only be used where a high level of security is not required. Rim locks are ideal for internal doors or gates and outbuildings. These rim locks are held on by three screws and the keep by two screws; anyone with a simple screwdriver can remove the lock internally and open the door. It is operated by using the key and handle from either side of the door. One turn of the key deadlocks the bolt. For use with rim lock knob handles. Case Size: 102mm x 76mm.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P402 Rim Locks 102 x 76mm",
+  "specifications": [
+    "Case Size: 102mm x 76mm",
+    "Operated by key and handle from either side",
+    "Ideal for internal doors or gates",
+    "Basic security level"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p405-rimknobs.html|>
+## Yale Locks P405 Rimknobs
+
+{
+  "price": "from €8.65 inc VAT",
+  "description": "These Yale P405 Rim knobs 43mm handles and bar are for use with the Yale 334, 401 and 402 style rim locks. Rim locks are not for high security and should not be used in this manner, they are ideal to use on sheds or internal doors where there is an external door with high security locks fitted. Rimknobs are covered by a 2 Year Guarantee and have a Standard Security Rating.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P405 Rimknobs",
+  "specifications": [
+    "Available finishes: Black Finish, Chrome finish, Polished Brass Finish",
+    "43mm handles and bar",
+    "Ideal for sheds or internal doors",
+    "2 Year Guarantee",
+    "Standard Security Rating"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-p5211-security-deadbolt-polished-brass.html|>
+## Yale Locks P5211 Security Deadbolt Polished Brass
+
+{
+  "price": "€60.65 inc VAT (€49.31 exc.vat)",
+  "description": "A cylinder operated mortice deadbolt for additional security. Thumbturn operation on the inside throws the deadbolt. Key operated from the outside.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks P5211 Security Deadbolt Polished Brass",
+  "specifications": [
+    "YALP5211PB : €60.65",
+    "List: €69.73",
+    "You save €9.08",
+    "Thumbturn operation",
+    "Key operated from outside"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-pdl02sc-push-button-door-lock-chrome-finish.html|>
+## Yale Locks PDL02SC Push Button Door Lock Chrome Finish
+
+{
+  "price": "€121.35 inc VAT (€98.66 exc.vat)",
+  "description": "Keyless programmable door lock with over 8,000 code combinations between 4 and 6 digits. Suitable for left and right handed doors. Hold open Feature. Finish: Satin Chrome",
+  "availability": "In Stock",
+  "product_name": "Yale Locks PDL02SC Push Button Door Lock Chrome Finish",
+  "specifications": [
+    "Keyless programmable door lock",
+    "Over 8,000 code combinations",
+    "Suitable for left and right handed doors",
+    "Hold open feature",
+    "Finish: Satin Chrome"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-pvc-replacement-handles.html|>
+## Yale Locks PVC Replacement Handles
+
+{
+  "price": "€34.67 inc VAT",
+  "description": "These stylish and contemporary replacement door handles from Yale are ideal for fitting onto doors with Multi-point locks that have 92mm lock centres. They are weather resistant, smooth and have a durable sprung lever action. They are suitable for use on both left or right handed doors and can be used on uPVC and composite furniture. Multiple fixing positions ensure that these locks are suitable for most brands of locks. They are easy to fit and come with a 2 year Guarantee.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks PVC Replacement Handles",
+  "specifications": [
+    "Weather resistant",
+    "Durable sprung lever action",
+    "Suitable for left or right handed doors",
+    "Compatible with uPVC and composite furniture",
+    "Multiple fixing positions",
+    "2 year Guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-pvcu-retro-door-handles.html|>
+## Yale Locks PVCu Retro Door Handles
+
+{
+  "price": "from €63.10 inc VAT",
+  "description": "Replacement door handles for multi-point locks with 92mm lock centres, which can be used on uPVC, composite and wooden doors. Multiple fixing hole positions to cover most brands of locks. Spindles and fixing screws provided to fit different door widths. Smooth and durable handle operation. Durable finish and easy to fit.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks PVCu Retro Door Handles",
+  "specifications": [
+    "Polished Chrome Finish",
+    "Polished PVD Gold Finish",
+    "White Finish"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-replacement-rim-cylinders-1109.html|>
+## Yale Locks Replacement Rim Cylinders 1109
+
+{
+  "price": "€17.80 inc VAT",
+  "description": "The Yale 1109 series replacement rim cylinders are for use with surface mounted locks, such as nightlatches, operating from a tailbar. They are used to provide key access from one side of a door and are suitable for doors 38mm to 57mm in thickness. The tailbar can be cut to suit the thickness of the door.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Replacement Rim Cylinders 1109",
+  "specifications": [
+    "Select Option: 2 Keys Brass, 2 Keys Chrome, 2 Keys Satin Chrome, 4 Keys Polished Brass, 6 Keys Polished Brass, Chrome Box, Polished Brass Box, Satin Chrome Brass Box",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: Refund or replace within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-replacement-universal-locks-for-upvc-doors.html|>
+## Yale Locks Replacement Universal Locks for uPVC Doors
+
+{
+  "price": "€118.60 inc VAT",
+  "description": "Yale Doormaster™ Universal lock uses the latest patented technology from Yale to ensure security and simplicity of installation. It is designed to replace 100% of PVCu door locks with a 35mm or 45mm backset and a 16mm faceplate. The revolutionary new range means that if a multipoint lock is broken, the lock - rather than the whole door - can be replaced. The one-piece mushroom rollers ensure smooth operation and help prevent separation. These easily adjustable rollers create a weather-tight seal to protect the interior of homes against the elements and help to keep warmth in. The centre hook protects against attack, and helps in preventing separation. Doormaster™ is supplied with a fully assembled one-piece keep, which includes the patented Uni-packer™ system for fast, easy and reliable installation. Fixing tabs make fitting easy and more secure. Doormaster™ locks are suitable for most PVCu, Composite or Timber doors. They are available for doors with a single hook or bolt in the centre of the door, and also for locks with additional hooks or bolts at the top and bottom of the door. 10 year guarantee.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Replacement Universal Locks for uPVC Doors",
+  "specifications": [
+    "35mm backset 16mm faceplate",
+    "45mm backset 20mm faceplate",
+    "10 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-shed-and-garage-alarm.html|>
+## Yale Locks Shed & Garage Alarm
+
+{
+  "price": "€21.21 inc VAT (€17.24 exc.vat)",
+  "description": "The Yale Shed & Garage Alarm comes with motion detection, the alarm will sound 10 seconds after motion is detected if PIN code is not entered. You can set your own 4 digit PIN code. Its 100dB siren is loud enough to alert you when motion is detected. There is also a low battery indicator, a red light warns you when batteries are running low. Ideal for securing buildings outside of the main home. Simple to install, it can be wall-mounted or freestanding. A great wireless security solution for sheds, garages, outbuildings and caravans. Only fixings included. Comes with a 2 year guarantee.",
+  "availability": "Out of Stock",
+  "product_name": "Yale Locks Shed & Garage Alarm",
+  "specifications": [
+    "Motion detection",
+    "100dB siren",
+    "4 digit PIN code",
+    "Low battery indicator",
+    "Wall-mounted or freestanding installation",
+    "2 year guarantee"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yale-locks-y3-nighlatches-60mm-backset.html|>
+## Yale Locks Y3 Nighlatches 60mm Backset
+
+{
+  "price": "€67.31 inc VAT",
+  "description": "The Yale Y3 standard security nightlatch has been developed to offer customers a stylish contemporary lock combined with the performance and quality expected from Yale. It has a modern design and can be fitted as a replacement for the P77 traditional nightlatches with no additional chiselling required. The latch can be deadlocked by the snib button internally and the snib function enables the latch to be held back. This nightlatch is suitable for both left and right handed, inward opening doors and is supplied with the Yale 1109 cylinder and 2 Keys supplied (Key blank: B-KEY-1109) The Y3 nightlatches have a 60mm backset, this is the measurement from the edge of the door to the centre of the keyhole. Locks with a 40mm backset are normally used where there is restricted space, such as on a narrow glass panelled door. Supplied with 1109 external cylinder.",
+  "availability": "In Stock",
+  "product_name": "Yale Locks Y3 Nighlatches 60mm Backset",
+  "specifications": [
+    "60mm backset",
+    "Supplied with Yale 1109 cylinder",
+    "Includes 2 keys",
+    "Suitable for left and right handed doors",
+    "Modern design",
+    "Can replace P77 traditional nightlatches"
+  ]
+}
+
+<|https://www.mydiy.ie/products/yellowstone-portable-gas-stove.html|>
+## YellowStone Portable Gas Stove
+
+{
+  "price": "€29.99 inc VAT (€24.38 exc.vat)",
+  "description": "Single burner, self-contained burner stove perfect for small camping trips. Supplied with its own carry case, this single burner stove operates from a click in bayonet cartridge.",
+  "availability": "In Stock",
+  "product_name": "YellowStone Portable Gas Stove",
+  "specifications": [
+    "Steel/Brass/Tin",
+    "Piezo auto-start ignition system",
+    "Extended feet on the pan support",
+    "Serrated pan supports for non-slip use",
+    "For use with pans no more than 18cm in diameter",
+    "Cartridge safety locking system",
+    "Fuelled by a “click in” Go System bayonet gas cartridge",
+    "G2220 Bayonet gas cartridge",
+    "2300 watts",
+    "162g of gas consumed per hour",
+    "Continuous burn time of 1 hour 30 mins per 220g cartridge",
+    "Will boil 1 litre of water in 3 mins 45 seconds",
+    "Supplied with carrying case"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-abramax-polishing-bars-pack-of-2---grey.html|>
+## Zenith Profin Abramax Polishing Bars (Pack of 2) - Grey
+
+{
+  "price": "€7.91 inc VAT (€6.43 exc.vat)",
+  "description": "Zenith Abramax Polishing Bar is used for the first stage polishing of steels and stainless steels to remove metal imperfections. Use with stitched cotton or sisal string mops. Colour: Grey. Individual Size (L x H x W): 102 x 20 x 35mm. Supplied in a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Abramax Polishing Bars (Pack of 2) - Grey",
+  "specifications": [
+    "Pack of 2",
+    "Size: 102 x 20 x 35mm",
+    "Colour: Grey",
+    "Used for polishing steels and stainless steels"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-blumax-polishing-bars-pack-of-2---blue.html|>
+## Zenith Profin Blumax Polishing Bars (Pack of 2) - Blue
+
+{
+  "price": "€7.91 inc VAT (€6.43 exc.vat)",
+  "description": "Zenith Blumax Polishing Bar is used as the final glossing compound for brass, copper and aluminium. Use with unstitched calico mops. Colour: Blue. Individual Size (L x H x W): 102 x 20 x 35mm. Supplied in a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Blumax Polishing Bars (Pack of 2) - Blue",
+  "specifications": [
+    "Pack of 2",
+    "Used for final glossing of brass, copper, and aluminium",
+    "Size: 102 x 20 x 35mm",
+    "Colour: Blue"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-chromax-polishing-bars-pack-of-2---pink.html|>
+## Zenith Profin Chromax Polishing Bars (Pack of 2) - Pink
+
+{
+  "price": "€7.91 inc VAT (€6.43 exc.vat)",
+  "description": "Zenith Chromax Polishing Bar is used as a very fine glossing compound for chrome plated components. Use with unstitched calico mops. Colour: Pink. Individual Size (L x H x W): 102 x 20 x 35mm. Supplied in a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Chromax Polishing Bars (Pack of 2) - Pink",
+  "specifications": [
+    "Pack of 2",
+    "Colour: Pink",
+    "Size: 102 x 20 x 35mm",
+    "Used for chrome plated components"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-plastimax-polishing-bars-pack-of-2---buff.html|>
+## Zenith Profin Plastimax Polishing Bars (Pack of 2) - Buff
+
+{
+  "price": "€7.91 inc VAT (€6.43 exc.vat)",
+  "description": "Zenith Plastimax Polishing Bar is used as a glossing compound for polishing plastics and veneers. Use with unstitched calico mops for best results. Colour: Buff. Individual Size (L x H x W): 102 x 20 x 35mm. Supplied in a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Plastimax Polishing Bars (Pack of 2) - Buff",
+  "specifications": [
+    "Pack of 2",
+    "Size: 102 x 20 x 35mm",
+    "Colour: Buff",
+    "Used for polishing plastics and veneers"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-polishing-bars-pack-6-assorted.html|>
+## Zenith Profin Polishing Bars (Pack 6 Assorted)
+
+{
+  "price": "€17.01 inc VAT (€13.83 exc.vat)",
+  "description": "Zenith polishing bars multi pack contains a selection of 6 polish compounds for various uses. Contains the following: 1 x Tripomax polishing bar can be used on brass, copper, aluminium or plastics for the first polishing stage. (Use with stitched cotton mops). 1 x Abramax polishing bar can be used on steels and stainless steels for the first polishing stage.(Use with stitched cotton or sisal string mops). 1 x Blumax polishing bar can be used on brass, copper and aluminium as a final gloss. (Use with unstiched calico mops). 1 x Chromax polishing bar can be used on chrome plated components for very fine glossing. (Use with unstiched calico mops). 1 x Plastimax polishing bar can be used on plastics and veneers as a glossing compound.(use with unstiched calico mops). 1x Jewellers rouge for a high gloss finish on soft metals such as sliver and gold. (Use with unstiched calico mops). Individual Size (L x H x W): 100 x 15 x 35mm.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Polishing Bars (Pack 6 Assorted)",
+  "specifications": [
+    "Pack of 6 assorted polishing bars",
+    "Includes Tripomax, Abramax, Blumax, Chromax, Plastimax, and Jewellers rouge",
+    "Individual Size: 100 x 15 x 35mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-polishing-kit---non-ferrous-metal---brown-and-blue.html|>
+## Zenith Profin Polishing Kit - Non Ferrous Metal - Brown & Blue
+
+{
+  "price": "€61.20 inc VAT (€49.76 exc.vat)",
+  "description": "The Zenith polishing kit is for use with Non Ferrous Metals and contains the following:\n\n1 x GBT/72 Brown Polishing Compound Bar for the first stage polishing of Brass, Copper and Aluminium.\n\n1 x GBA 12B Blue Polishing Compound Bar for the final glossing of above ferrous metals.\n\n1 x 4 x 1in Stitched Calico Buff for use with GBT/72 Brown Polishing Compound Bar.\n\n1 x 4 x 1in Loosefold (Unstitched) Buff for use with GBA 12B Blue Polishing Compound Bar.\n\n1 x Pigtail.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Polishing Kit - Non Ferrous Metal - Brown & Blue",
+  "specifications": [
+    "1 x GBT/72 Brown Polishing Compound Bar",
+    "1 x GBA 12B Blue Polishing Compound Bar",
+    "1 x 4 x 1in Stitched Calico Buff",
+    "1 x 4 x 1in Loosefold (Unstitched) Buff",
+    "1 x Pigtail"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-polishing-kit-ferrous-metal---grey-and-pink.html|>
+## Zenith Profin Polishing Kit Ferrous Metal - Grey & Pink
+
+{
+  "price": "€61.20 inc VAT (€49.76 exc.vat)",
+  "description": "The Zenith polishing kit is for use with Ferrous Metals and contains the following: 1 x GBF/64 Grey Polishing Compound Bar for first stage polishing of steels and stainless steels to remove metal imperfections. 1 x GBA Pink Polishing Compound Bar is for very fine glossing of stainless steel and chrome plated components. 1 x 4 x 1in Stitched Sisal/String Buff for use with GBF/64 Grey Polishing Compound Bar. 1 x 4 x 1in Loosefold (Unstitched) Buff for use with GBA Pink Polishing Compound Bar. 1 x Pigtail.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Polishing Kit Ferrous Metal - Grey & Pink",
+  "specifications": [
+    "1 x GBF/64 Grey Polishing Compound Bar",
+    "1 x GBA Pink Polishing Compound Bar",
+    "1 x 4 x 1in Stitched Sisal/String Buff",
+    "1 x 4 x 1in Loosefold (Unstitched) Buff",
+    "1 x Pigtail"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-satin-mop.html|>
+## Zenith Profin Satin Mop
+
+{
+  "price": "€16.49 inc VAT",
+  "description": "The Zenith Satin Mop is suitable for satin finishing work. It gives a satin or brushed finish to all metals.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Satin Mop",
+  "specifications": [
+    "Select Option: 6in x 2in Lap Coarse",
+    "Select Option: 6in x 2in Lap Fine",
+    "Select Option: 6in x 2in Lap Medium"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-sisal-mops.html|>
+## Zenith Profin Sisal Mops
+
+{
+  "price": "€21.43 inc VAT",
+  "description": "Zenith Sisal mop for use with polishing compounds, e.g. grey GBF/264 compound.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Sisal Mops",
+  "specifications": [
+    "Select Option: 4in x 2 section, 6 in x 2 section",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Fast & Reliable Shipping with DPD",
+    "FREE delivery for orders over €150 within Ireland",
+    "Money Back Guarantee within 16 days of delivery"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-starmax-polishing-bars-pack-of-2---maroon.html|>
+## Zenith Profin Starmax Polishing Bars (Pack of 2) - Maroon
+
+{
+  "price": "€7.91 inc VAT (€6.43 exc.vat)",
+  "description": "Zenith Starmax Polishing Bar is a special jewellers rouge for high gloss finishing on soft metals, ie. Brass, copper, silver and gold. Only use with unstitched calico mops. Colour: Maroon. Individual Size (L x H x W): 102 x 20 x 35mm. Supplied in a pack of 2.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Starmax Polishing Bars (Pack of 2) - Maroon",
+  "specifications": [
+    "Individual Size (L x H x W): 102 x 20 x 35mm",
+    "Supplied in a pack of 2",
+    "Colour: Maroon"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-stitched-calico-mop.html|>
+## Zenith Profin Stitched Calico Mop
+
+{
+  "price": "from €11.22 inc VAT",
+  "description": "Zenith stitched calico mop for use with polishing compounds, e.g. grey BGF/264 compound, and brown GBT/272 compound.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Stitched Calico Mop",
+  "specifications": [
+    "Select Option: 4in x 1 Section, 6in x 1 Section, 6in x 2 Section",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "Delivery Information: Fast & Reliable Shipping with DPD",
+    "Money Back Guarantee: Refund or replace within 16 days of delivery date"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-taper-spindles.html|>
+## Zenith Profin Taper Spindles
+
+{
+  "price": "€12.39 inc VAT",
+  "description": "Zenith False noses can be used on bench grinders to convert them for use with all types of polishing mops. Available for machines with 6mm, 12 mm or 16 mm spindles.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Taper Spindles",
+  "specifications": [
+    "Available for machines with 6mm, 12 mm or 16 mm spindles."
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-tripomax-polishing-bar---brown.html|>
+## Zenith Profin Tripomax Polishing Bar - Brown
+
+{
+  "price": "€8.01 inc VAT (€6.51 exc.vat)",
+  "description": "Zenith Tripomax Polishing Bar is used for first stage polishing of brass, copper, aluminium or plastics. Use with stitched cotton mops. Colour: Brown. Supplied in a pack of 1. Individual Size (L x H x W): 210 x 45 x 55mm.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Tripomax Polishing Bar - Brown",
+  "specifications": [
+    "Used for first stage polishing of brass, copper, aluminium or plastics",
+    "Use with stitched cotton mops",
+    "Colour: Brown",
+    "Supplied in a pack of 1",
+    "Individual Size (L x H x W): 210 x 45 x 55mm"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-tripomax-polishing-bars-pack-of-2---brown.html|>
+## Zenith Profin Tripomax Polishing Bars (Pack of 2) - Brown
+
+{
+  "price": "€7.91 inc VAT (€6.43 exc.vat)",
+  "description": "Zenith Tripomax Polishing Bar is used for the first stage polishing of brass, copper, aluminium or plastics. Use with stitched cotton mops. Colour: Brown. Supplied in a pack of 2. Size (L x H x W): 102 x 20 x 35mm.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Tripomax Polishing Bars (Pack of 2) - Brown",
+  "specifications": [
+    "Size: 102 x 20 x 35mm",
+    "Colour: Brown",
+    "Pack of 2",
+    "Used for polishing brass, copper, aluminium or plastics"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zenith-profin-unstitched-calico-mops.html|>
+## Zenith Profin Unstitched Calico Mops
+
+{
+  "price": "from €8.99 inc VAT",
+  "description": "Zenith unstitched mop for use with polishing compounds, eg. pink GBA/90WP compound or blue GBA/12B compound.",
+  "availability": "In Stock",
+  "product_name": "Zenith Profin Unstitched Calico Mops",
+  "specifications": [
+    "Available sizes: 3in x 50 fold, 4in x 50 fold, 6in x 50 fold",
+    "WEEE Recycling Producer Registration Number: 12889",
+    "EMC (Environmental Management Cost) included in the purchase price"
+  ]
+}
+
+<|https://www.mydiy.ie/products/zero-gravity-recliner-relaxer-chair.html|>
+## Zero Gravity Recliner Relaxer Chair
+
+{
+  "price": "€59.99 inc VAT (€48.77 exc.vat)",
+  "description": "Zero Gravity Recliner Relaxer Chair - (Sun Lounger) | Fc114g\n- Contemporary design\n- Zero gravity effect\n- Lightweight and durable\n- Weather-resistant frame\n- Multifunctional garden lounger\n- Indoor or Outdoor use\n- Powder-coated steel resists rust",
+  "availability": "In Stock",
+  "product_name": "Zero Gravity Recliner Relaxer Chair",
+  "specifications": [
+    "Contemporary design",
+    "Zero gravity effect",
+    "Lightweight and durable",
+    "Weather-resistant frame",
+    "Multifunctional garden lounger",
+    "Indoor or Outdoor use",
+    "Powder-coated steel resists rust"
+  ]
+}
+

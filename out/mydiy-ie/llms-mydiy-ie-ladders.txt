@@ -210,3 +210,72 @@
   ]
 }
 
+<|https://www.mydiy.ie/products/priory-615-scaffold-speed-head-ratchet-spanner-21mm.html|>
+## 615 Scaffold Speed Head Ratchet Spanner 21mm
+
+{
+  "price": "€51.88 inc VAT (€42.18 exc.vat)",
+  "description": "Super head combination spanner 21mm (7/16 W). The speed head ratchet allows the spanner to be turned without the head leaving the nut. Manufactured from quality plated steel, it is ideal for use in very confined spaces.",
+  "availability": "In Stock",
+  "product_name": "615 Scaffold Speed Head Ratchet Spanner 21mm",
+  "specifications": [
+    "Manufactured from quality plated steel",
+    "Ideal for use in very confined spaces",
+    "Speed head ratchet allows turning without head leaving the nut"
+  ]
+}
+
+<|https://www.mydiy.ie/products/priory-605al-reversible-scaffold-ratchet-podger-21-x-23mm.html|>
+## Priory 605Al Reversible Scaffold Ratchet Podger 21 x 23mm
+
+{
+  "price": "€107.01 inc VAT (€87.00 exc.vat)",
+  "description": "Short bent aluminium reversible ratchet podger made of super-light, super-strong aircraft aluminium. It weighs only 140g (5oz)- half the weight of the same spanner in steel, and has a hole for attaching a lanyard. It has a flush box for use when space is restricted, and a flick switch for quickly changing the direction of the head. Reversible box-type socket, 23mm (1/2 W) on one side for use on older/overseas scaffold fittings, and a 21mm (7/16 W) on the other. Length: 240mm (9.1/2in).",
+  "availability": "In Stock",
+  "product_name": "Priory 605Al Reversible Scaffold Ratchet Podger 21 x 23mm",
+  "specifications": [
+    "Weight: 140g (5oz)",
+    "Length: 240mm (9.1/2in)",
+    "Reversible box-type socket: 23mm (1/2 W) and 21mm (7/16 W)"
+  ]
+}
+
+<|https://www.mydiy.ie/products/priory-604-reversible-scaffold-ratchet-spanner-19-x-21mm-steel.html|>
+## Priory 604 Reversible Scaffold Ratchet Spanner 19 x 21mm Steel
+
+{
+  "price": "€77.27 inc VAT (€62.82 exc.vat)",
+  "description": "Short bent reversible ratchet podger with a hole for attaching a lanyard. It has a flush box for use when space is restricted and is made of high quality steel. Flick switch for quickly changing the direction of the head. Reversible box type socket, 19mm on one side for use on aluminium beam bolts and 21mm (7/16 W) on the other. Length: 240mm (9.1/2in).",
+  "availability": "In Stock",
+  "product_name": "Priory 604 Reversible Scaffold Ratchet Spanner 19 x 21mm Steel",
+  "specifications": [
+    "Material: Steel",
+    "Length: 240mm (9.1/2in)",
+    "Reversible box type socket: 19mm and 21mm",
+    "Flick switch for direction change",
+    "Includes hole for lanyard attachment"
+  ]
+}
+
+<|https://www.mydiy.ie/products/professional-aluminium-multi-function-ladder---12-ft.html|>
+## Professional Aluminium Multi Function Ladder - 12 ft
+
+{
+  "price": "€139.99 inc VAT (€113.81 exc.vat)",
+  "description": "This Multi Purpose Ladder can be used in 4 different ways and also be configured as a handy workbench. This 4 section hinged folding ladder is lightweight and compact and, Maximum safe working height in stepladder mode 2.50m, in extension ladder mode 4.03m, based on 1.75m as the average reach height of a person.",
+  "availability": "In Stock",
+  "product_name": "Professional Aluminium Multi Function Ladder - 12 ft",
+  "specifications": [
+    "Maximum Load: 150 kg",
+    "Maximum Reach Height: 4.03 m",
+    "Maximum Height: 3.7 m",
+    "Closed Height: 1.02 m",
+    "Material: Aluminium",
+    "Weight: 13.20 kg",
+    "Type: Combination Ladders",
+    "Certifications Met: EN131",
+    "Manufacturer Model No: FE4X3P",
+    "Brand Name: SafeLine"
+  ]
+}
+
