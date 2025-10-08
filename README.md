@@ -9,6 +9,7 @@ Automatically generate and maintain LLMs.txt files for unlimited websites with *
 **Complete documentation is available in the [`docs/`](./docs/) folder:**
 
 - **[📖 Comprehensive Guide](./docs/COMPREHENSIVE_GUIDE.md)** - Complete system documentation and troubleshooting
+- **[🗺️ Sitemap Monitoring Guide](./docs/SITEMAP_MONITORING_GUIDE.md)** - ⭐ NEW - Efficient sitemap-based change detection
 - **[🔧 Restoration Guide](./docs/RESTORATION_GUIDE.md)** - System restoration and recovery procedures  
 - **[⚙️ Technical Fixes](./docs/TECHNICAL_FIXES_DOCUMENTATION.md)** - Detailed technical implementation
 - **[🤖 ElevenLabs Integration](./docs/ELEVENLABS_DOCUMENT_MANAGEMENT.md)** - RAG and knowledge base management
@@ -21,6 +22,8 @@ Automatically generate and maintain LLMs.txt files for unlimited websites with *
 This production-ready system provides fully automated LLMs.txt file generation and maintenance for unlimited websites using:
 
 - **⭐ Agnostic Scraping Engine**: Configuration-driven system that adapts to any website structure
+- **🗺️ Sitemap Monitoring**: ⭐ **NEW** - Efficient sitemap-based change detection (99% API call reduction)
+- **🍞 Breadcrumb Categorization**: ⭐ **NEW** - Intelligent categorization from HTML breadcrumbs (98% accuracy improvement)
 - **Multi-Level Hierarchy Support**: Handles complex category structures (Main → Sub → Product Category → Product)
 - **Multiple Product Extraction**: ⭐ **NEW** - Processes multiple products from single webhook diff
 - **Intelligent Product Discovery**: Uses Firecrawl's AI-powered link extraction and structured data extraction

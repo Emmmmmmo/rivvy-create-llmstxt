@@ -847,6 +847,95 @@ class AgnosticLLMsUpdater:
         logger.debug(f"EUR currency URL: {url} -> {eur_url}")
         return eur_url
     
+    def _extract_breadcrumbs_from_html(self, html: str) -> List[Dict[str, str]]:
+        """
+        Extract breadcrumb trail from HTML.
+        Returns list of dicts with 'text' and 'url' keys.
+        Handles MyDIY.ie breadcrumb format: <div class="breadcrumb">
+        """
+        import re
+        import html as html_module
+        
+        breadcrumbs = []
+        
+        try:
+            # Find breadcrumb div - MyDIY.ie uses <div class="breadcrumb">
+            breadcrumb_match = re.search(
+                r'<div class="breadcrumb">(.*?)</div>', 
+                html, 
+                re.DOTALL | re.IGNORECASE
+            )
+            
+            if not breadcrumb_match:
+                return breadcrumbs
+            
+            breadcrumb_html = breadcrumb_match.group(1)
+            
+            # Extract all links from breadcrumb
+            links = re.findall(
+                r'<a href="([^"]+)">([^<]+)</a>', 
+                breadcrumb_html
+            )
+            
+            # Build breadcrumb list
+            for url, text in links:
+                breadcrumbs.append({
+                    'text': html_module.unescape(text.strip()),  # Handle &amp; etc.
+                    'url': url
+                })
+            
+            logger.debug(f"Extracted {len(breadcrumbs)} breadcrumb items")
+            
+        except Exception as e:
+            logger.warning(f"Failed to extract breadcrumbs: {e}")
+        
+        return breadcrumbs
+    
+    def _determine_shard_from_breadcrumbs(self, breadcrumbs: List[Dict[str, str]]) -> str:
+        """
+        Determine shard name from breadcrumb trail.
+        Uses most specific category (last item before product).
+        Returns cleaned shard name or "other_products".
+        """
+        import re
+        
+        if not breadcrumbs or len(breadcrumbs) <= 1:
+            # Only "Home" or empty
+            return "other_products"
+        
+        # Determine which category to use
+        if len(breadcrumbs) == 2:
+            # Home > Main Category
+            category = breadcrumbs[1]['text']
+        else:
+            # Home > Main > Sub > Leaf
+            # Use the most specific (last) category
+            category = breadcrumbs[-1]['text']
+        
+        # Clean category name for shard
+        shard_name = category.lower()
+        shard_name = shard_name.replace(' ', '_')
+        shard_name = shard_name.replace(',', '')
+        shard_name = shard_name.replace('&', 'and')
+        shard_name = shard_name.replace('-', '_')
+        shard_name = shard_name.replace('(', '')
+        shard_name = shard_name.replace(')', '')
+        # Remove any remaining non-alphanumeric characters except underscore
+        shard_name = re.sub(r'[^a-z0-9_]', '', shard_name)
+        
+        # Remove multiple underscores
+        shard_name = re.sub(r'_+', '_', shard_name)
+        
+        # Remove leading/trailing underscores
+        shard_name = shard_name.strip('_')
+        
+        if not shard_name:
+            return "other_products"
+        
+        logger.debug(f"Determined shard from breadcrumbs: {shard_name} (from '{category}')")
+        
+        return shard_name
+    
     def _extract_product_data(self, url: str) -> Optional[Dict[str, Any]]:
         """Extract structured product data using Firecrawl scrape endpoint with JSON format."""
         try:
@@ -856,43 +945,54 @@ class AgnosticLLMsUpdater:
             # Ensure EUR currency for proper pricing
             eur_url = self._ensure_eur_currency(url)
             
+            # Check if breadcrumbs are enabled for this site
+            use_breadcrumbs = self.site_config.get('shard_extraction', {}).get('use_breadcrumbs', False)
+            
             def make_request():
                 try:
+                    # Request both JSON and HTML formats if breadcrumbs enabled
+                    formats = [{
+                        "type": "json",
+                        "schema": {
+                            "type": "object",
+                            "properties": {
+                                "product_name": {
+                                    "type": "string",
+                                    "description": "The name/title of the product"
+                                },
+                                "description": {
+                                    "type": "string", 
+                                    "description": "The main product description"
+                                },
+                                "price": {
+                                    "type": "string",
+                                    "description": "The current price of the product (including currency symbol)"
+                                },
+                                "availability": {
+                                    "type": "string",
+                                    "description": "Product availability status (e.g., 'In Stock', 'Out of Stock')"
+                                },
+                                "specifications": {
+                                    "type": "array",
+                                    "items": {"type": "string"},
+                                    "description": "Key product specifications or features"
+                                }
+                            },
+                            "required": ["product_name", "description", "price"]
+                        }
+                    }]
+                    
+                    # Add HTML format if breadcrumbs enabled
+                    if use_breadcrumbs:
+                        formats.append("html")
+                    
                     response = requests.post(
                         f"{self.firecrawl_base_url}/scrape",
                         headers=self.headers,
                         json={
                             "url": eur_url,
-                            "formats": [{
-                                "type": "json",
-                                "schema": {
-                                    "type": "object",
-                                    "properties": {
-                                        "product_name": {
-                                            "type": "string",
-                                            "description": "The name/title of the product"
-                                        },
-                                        "description": {
-                                            "type": "string", 
-                                            "description": "The main product description"
-                                        },
-                                        "price": {
-                                            "type": "string",
-                                            "description": "The current price of the product (including currency symbol)"
-                                        },
-                                        "availability": {
-                                            "type": "string",
-                                            "description": "Product availability status (e.g., 'In Stock', 'Out of Stock')"
-                                        },
-                                        "specifications": {
-                                            "type": "array",
-                                            "items": {"type": "string"},
-                                            "description": "Key product specifications or features"
-                                        }
-                                    },
-                                    "required": ["product_name", "description", "price"]
-                                }
-                            }]
+                            "formats": formats,
+                            "onlyMainContent": False  # Need full page for breadcrumbs
                         },
                         timeout=60  # Increased timeout from 30 to 60 seconds
                     )
@@ -916,17 +1016,26 @@ class AgnosticLLMsUpdater:
                     response_data = data["data"]
                     extracted_data = response_data.get("json", {})
                     
+                    # Extract HTML if available (for breadcrumbs)
+                    html_content = response_data.get("html", "")
+                    
                     if extracted_data:
                         # Use the extracted data directly as JSON content
                         import json
                         content = json.dumps(extracted_data, indent=2, ensure_ascii=False)
                         
-                        return {
+                        result = {
                             "url": eur_url,  # Use EUR URL for indexing
                             "content": content,
                             "title": extracted_data.get("product_name", ""),
                             "scraped_at": datetime.now().isoformat()
                         }
+                        
+                        # Add HTML if breadcrumbs enabled
+                        if use_breadcrumbs and html_content:
+                            result["html"] = html_content
+                        
+                        return result
                     else:
                         # Fallback: try to get content from other fields if JSON extraction failed
                         logger.warning(f"JSON extraction failed for {url}, trying fallback methods")
@@ -950,12 +1059,18 @@ class AgnosticLLMsUpdater:
                             else:
                                 title = "Product"
                             
-                            return {
+                            result = {
                                 "url": eur_url,
                                 "content": content,
                                 "title": title,
                                 "scraped_at": datetime.now().isoformat()
                             }
+                            
+                            # Add HTML if breadcrumbs enabled
+                            if use_breadcrumbs and html_content:
+                                result["html"] = html_content
+                            
+                            return result
             
         except KeyError as e:
             logger.error(f"Missing expected field in Firecrawl response for {url}: {e}")
@@ -966,9 +1081,25 @@ class AgnosticLLMsUpdater:
         return None
     
     def _update_url_data(self, url: str, scraped_data: Dict[str, Any]) -> str:
-        """Update URL data in index and return shard key."""
+        """Update URL data in index and return shard key with breadcrumb fallback."""
         normalized_url = self._normalize_url(url)
+        
+        # Try URL path extraction first
         shard_key = self._get_shard_key(url)
+        
+        # If breadcrumbs enabled and URL extraction gave generic result, try breadcrumbs
+        use_breadcrumbs = self.site_config.get('shard_extraction', {}).get('use_breadcrumbs', False)
+        breadcrumb_fallback = self.site_config.get('shard_extraction', {}).get('breadcrumb_fallback', True)
+        
+        if use_breadcrumbs and breadcrumb_fallback and shard_key == "other_products":
+            # Try to extract from breadcrumbs
+            if "html" in scraped_data and scraped_data["html"]:
+                breadcrumbs = self._extract_breadcrumbs_from_html(scraped_data["html"])
+                if breadcrumbs:
+                    breadcrumb_shard = self._determine_shard_from_breadcrumbs(breadcrumbs)
+                    if breadcrumb_shard != "other_products":
+                        logger.info(f"Using breadcrumb-derived shard '{breadcrumb_shard}' for {url}")
+                        shard_key = breadcrumb_shard
         
         # Update URL index
         self.url_index[normalized_url] = {

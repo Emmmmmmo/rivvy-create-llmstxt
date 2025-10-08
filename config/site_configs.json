@@ -125,6 +125,8 @@
       "shard_extraction": {
         "method": "path_segment",
         "segment_index": 1,
+        "use_breadcrumbs": true,
+        "breadcrumb_fallback": true,
         "fallback_method": "product_categorization"
       },
       "url_filters": {
