@@ -3,8 +3,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/dewalt-dck2050e2t-xr-bl-powerstack-twin-kit-18v.html|>
 ## Product
+
 
 
 
@@ -13,8 +15,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/fiskars-solid-weed-fork-1.html|>
 ## Product
+
 
 
 
@@ -23,8 +27,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/fiskars-woodxpert-xa22-sappie-log-tool-785mm.html|>
 ## Product
+
 
 
 
@@ -33,8 +39,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/fiskars-xact-weed-puller.html|>
 ## Product
+
 
 
 
@@ -43,8 +51,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/fiskars-xxs-x5-chopping-axe.html|>
 ## Product
+
 
 
 
@@ -53,8 +63,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flex-power-tools-406716-coupling-sleeve.html|>
 ## Product
+
 
 
 
@@ -63,8 +75,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flex-power-tools-cordless-rotary-polisher-150mm-18v-2-x-50ah-li-ion.html|>
 ## Product
+
 
 
 
@@ -73,8 +87,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flex-power-tools-exs-m14-rotary-polisher-extension-set.html|>
 ## Product
+
 
 
 
@@ -83,8 +99,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flex-power-tools-fs-f-vce33-44-lm-ve5-filter-bags-pack-5.html|>
 ## Product
+
 
 
 
@@ -93,8 +111,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flex-power-tools-hook-and-loop-sanding-paper-perforated.html|>
 ## Product
+
 
 
 
@@ -103,8 +123,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flex-power-tools-mh-r-d225-rotary-sanding-head-225mm.html|>
 ## Product
+
 
 
 
@@ -113,8 +135,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flex-power-tools-mh-x-d225-excentric-sanding-head-225mm.html|>
 ## Product
+
 
 
 
@@ -123,8 +147,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flex-power-tools-pe-142150-polisher.html|>
 ## Product
+
 
 
 
@@ -133,8 +159,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flexipads-world-class-wool-bonnet.html|>
 ## Product
+
 
 
 
@@ -143,8 +171,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flexovit-115mm-x-10m-high-performance-sanding-rolls.html|>
 ## Product
+
 
 
 
@@ -153,8 +183,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flexovit-115mm-x-5m-general-purpose-sanding-rolls.html|>
 ## Product
+
 
 
 
@@ -163,8 +195,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flexovit-delta-hook-and-loop-sheets-94-mm.html|>
 ## Product
+
 
 
 
@@ -173,8 +207,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flexovit-glasspaper-sheets-230-x-280mm.html|>
 ## Product
+
 
 
 
@@ -183,8 +219,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flexovit-silicon-carbide-finishing-sheets-230-x-280mm.html|>
 ## Product
+
 
 
 
@@ -193,8 +231,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flopro-adjustable-jet-spray-gun.html|>
 ## Product
+
 
 
 
@@ -203,8 +243,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flopro-cobra-expanding-hose.html|>
 ## Product
+
 
 
 
@@ -213,8 +255,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flopro-everyday-hose.html|>
 ## Product
+
 
 
 
@@ -223,8 +267,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flopro-everyday-hose-connection-set.html|>
 ## Product
+
 
 
 
@@ -233,8 +279,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flopro-everyday-hose-starter-set-15m.html|>
 ## Product
+
 
 
 
@@ -243,8 +291,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flopro-garden-multi-spray-gun-set.html|>
 ## Product
+
 
 
 
@@ -253,8 +303,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/flopro-metal-multi-spray-gun.html|>
 ## Product
+
 
 
 
@@ -263,8 +315,10 @@
 
 
 
+
 <|https://www.mydiy.ie/products/fluxite-tin-soldering-paste.html|>
 ## Product
+
 
 
 
@@ -273,13 +327,16 @@
 
 
 
+
 <|https://www.mydiy.ie/products/footprint-241-square-scraper-set.html|>
 ## Product
 
 
 
+
 <|https://www.mydiy.ie/products/footprint-242-shaped-scraper-set.html|>
 ## Product
+
 
 
 
@@ -298,6 +355,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/sievert-handyjet-multi-purpose-blowtorch.html|>
 ## Sievert Handyjet Multi-Purpose Blowtorch
 
@@ -314,6 +372,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/nicholson-nicholson-horse-rasps.html|>
 ## Nicholson Horse Rasps
 
@@ -328,6 +387,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/rocol-foodlube-universal-bearing-grease-nlgi-2-380g.html|>
 ## ROCOL FOODLUBE® Universal Bearing Grease NLGI 2 380g
@@ -348,6 +408,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/kidde-fb1-fire-blanket-11-x-11m.html|>
 ## Kidde FB1 Fire Blanket 1.1 x 1.1m
 
@@ -361,6 +422,7 @@
     "5 Year Cloth Guarantee"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/teng-imperial-combination-spanners.html|>
 ## Teng Imperial Combination Spanners
@@ -377,6 +439,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-196861-5-dust-extractor-attachment-set.html|>
 ## Makita 196861-5 Dust Extractor Attachment Set
 
@@ -391,6 +454,7 @@
     "Includes: 1 x dust cover, 2 x dust cover extensions, 2 x plastic couplings, 2 x bellow connectors, 1 x hose connector, 1 x hose holder, 1 x depth stop, 1 x depth gauge extension"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/steinel-hl1821s-hot-air-gun-2200w-240v.html|>
 ## Steinel HL1821S Hot Air Gun 2200W 240V
@@ -408,6 +472,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/sievert-promatic-large-field-burner-600mm-102kw.html|>
 ## Promatic Large Field Burner 600mm 102kW
 
@@ -423,6 +488,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/milwaukee-m18-bms20-0-20mm-plate-shears-18-volt-bare-unit.html|>
 ## Milwaukee M18 BMS20-0 2.0mm Plate Shears 18 Volt Bare Unit
 
@@ -437,6 +503,7 @@
     "Minimum Cutting Radius: 180mm."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-warning-construction-site---pvc-200-x-300mm.html|>
 ## Scan Warning Construction Site - PVC 200 x 300mm
@@ -455,6 +522,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rocol-ultracut-evo-250-cutting-fluid-5-litre.html|>
 ## ROCOL Ultracut EVO 250 Cutting Fluid 5 Litre
 
@@ -470,6 +538,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-dux18rt-lxt-splitshaft-motor-unit-18v-1-x-50ah-li-ion.html|>
 ## Makita DUX18RT LXT Splitshaft Motor Unit 18V 1 x 5.0Ah Li-ion
 
@@ -483,6 +552,7 @@
     "Weight: 2.8kg (with battery)"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/everbuild-pinkgrip-dry-fix-applicator-gun.html|>
 ## Everbuild Pinkgrip Dry Fix Applicator Gun
@@ -499,6 +569,7 @@
     "Money Back Guarantee within 16 days of delivery date"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/kew-nilfisk-alto-clickandclean-super-foam-sprayer.html|>
 ## Kew Nilfisk Alto Click&Clean Super Foam Sprayer
@@ -517,6 +588,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-adaptor-34in-female--12in-male-34in-drive.html|>
 ## Teng Adaptor 3/4in Female > 1/2in Male 3/4in Drive
 
@@ -532,6 +604,7 @@
     "Satin finish"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/teng-m1213tx-socket-clip-rail-set-of-9-internal-torx-12in-drive.html|>
 ## Teng M1213TX Socket Clip Rail Set of 9 Internal Torx 1/2in Drive
@@ -550,6 +623,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-tx23-grey-l-contrast-sweater.html|>
 ## Portwest Tx23 Grey L Contrast Sweater
 
@@ -566,6 +640,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/kent-and-stowe-surecut-hardwood-anvil-ratchet-secateurs.html|>
 ## Kent & Stowe SureCut Hardwood Anvil Ratchet Secateurs
 
@@ -578,6 +653,7 @@
     "Cutting Diameter: 22mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/einhell-gc-dp-7035-ll-2-in-1-combi-pump-700w-240v.html|>
 ## Einhell GC-DP 7035 LL 2-in-1 Combi Pump 700W 240V
@@ -599,6 +675,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/everbuild-dual-purpose-foam-cleaner-500ml.html|>
 ## Everbuild Dual Purpose Foam Cleaner 500ml
 
@@ -615,6 +692,7 @@
     "Easy to use with simple steps"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/footprint-35-bolsters-and-chisels-stand-with-stock.html|>
 ## Footprint 35 Bolsters and Chisels Stand with Stock
@@ -641,6 +719,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/hultafors-tool-bucket-organiser.html|>
 ## Hultafors Tool Bucket Organiser
 
@@ -659,6 +738,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/pest-stop-systems-pest-repeller-for-one-room.html|>
 ## Pest-Stop Systems Pest-Repeller For One Room
 
@@ -675,6 +755,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/moore-and-wright-spring-joint-internal-calipers.html|>
 ## Moore & Wright Spring Joint Internal Calipers
 
@@ -689,6 +770,7 @@
     "Conforms to BS3123 standards"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/milwaukee-power-tools-m18-hcct-force-logic-hydraulic-cable-crimper.html|>
 ## Milwaukee Power Tools M18 HCCT FORCE LOGIC™ Hydraulic Cable Crimper
@@ -705,6 +787,7 @@
     "Weight: 3.7kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/titan2kw-convector-heater--1311-26.html|>
 ## Titan2Kw Convector Heater | 1311-26
@@ -723,6 +806,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/monument-295q-trac-pipe-gas-pipe-cutter.html|>
 ## Monument 295Q Trac Pipe Gas Pipe Cutter
 
@@ -738,6 +822,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/einhell-power-x-boostcharger-8a.html|>
 ## Einhell Power X-Boostcharger 8A
 
@@ -751,6 +836,7 @@
     "Output Current: 8A"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/gorilla-glue-gorilla-waterproofing-fsdu.html|>
 ## Gorilla® Waterproofing FSDU
@@ -767,6 +853,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/edma-insulation-cutter-300mm-12in.html|>
 ## Edma Insulation Cutter 300mm (12in)
 
@@ -782,6 +869,7 @@
     "Supplied with a holster"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/loctite-all-plastics-super-glue-tube-4ml--pen-2g.html|>
 ## Loctite All Plastics Super Glue, Tube 4ml + Pen 2g
@@ -800,6 +888,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/dewalt-sdb-hex-10-50mm.html|>
 ## DEWALT Sdb Hex 10 50Mm
 
@@ -814,6 +903,7 @@
     "You save €9.73"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-hw101-compact-power-washer-100-bar-240v.html|>
 ## Makita HW101 Compact Power Washer 100 bar 240V
@@ -832,6 +922,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-l440-essentials-2-piece-rain-suit.html|>
 ## Portwest L440 Essentials 2-Piece Rain Suit
 
@@ -848,6 +939,7 @@
     "Money Back Guarantee within 16 days of delivery"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/plasti-kote-high-visibility-spray.html|>
 ## Plasti-kote High Visibility Spray
@@ -866,6 +958,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/knipex-modular-x18-tool-backpack.html|>
 ## Knipex Modular X18 Tool Backpack
 
@@ -880,6 +973,7 @@
     "Load Capacity: 15kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/hg-wooden-furniture-cleaner-300ml.html|>
 ## H/G Wooden Furniture Cleaner 300ml
@@ -899,6 +993,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/kunys-el-1503-electricians-pouch-9-pocket.html|>
 ## Kuny's EL-1503 Electrician's Pouch 9 Pocket
 
@@ -915,6 +1010,7 @@
     "Handy sling for carrying electrical tape"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/monument-174z-air-testing-u-gauge-kit.html|>
 ## Monument 174Z Air Testing U Gauge Kit
@@ -934,6 +1030,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-ps001gz-xgt-40vmax-scrubber-polisher-40v-bare-unit.html|>
 ## Makita PS001GZ XGT® 40Vmax Scrubber Polisher 40V Bare Unit
 
@@ -947,6 +1044,7 @@
     "Weight: 3.8kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/sievert-pro-8688-brass-neck-tube.html|>
 ## Sievert Pro 86/88 Brass Neck Tube
@@ -965,6 +1063,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/monument-1730x-orange-hose-for-gas-test-gauges-2m.html|>
 ## Monument 1730X Orange Hose for Gas Test Gauges 2m
 
@@ -979,6 +1078,7 @@
     "Colour: Orange"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/red-gorilla-tidee-companion-set-1.html|>
 ## Red Gorilla Tidee™ Companion Set
@@ -997,6 +1097,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/monument-ac4p-autocut-plastic-pipe-cutter.html|>
 ## Monument AC4P Autocut® Plastic Pipe Cutter
 
@@ -1014,6 +1115,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-9237cb-polisher.html|>
 ## Makita 9237CB Polisher
 
@@ -1029,6 +1131,7 @@
     "Weight: 3.4kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/hultafors-109-td-wrecking-bar-640mm-25in.html|>
 ## Hultafors 109 TD Wrecking Bar 640mm (25in)
@@ -1046,6 +1149,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-universal-joint-38in-drive.html|>
 ## Teng Universal Joint 3/8in Drive
 
@@ -1061,6 +1165,7 @@
     "Length: 50mm (2in)"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/stanley-trucks-sxwtd-ft582-folding-hand-truck.html|>
 ## SXWTD-FT582 Folding Hand Truck
@@ -1078,6 +1183,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/stanley-classic-pro-mobile-tool-chest.html|>
 ## STANLEY® Classic Pro-Mobile Tool Chest
 
@@ -1091,6 +1197,7 @@
     "Dimensions: 60.3 x 37.5 x 43cm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/u-pol-hardener-for-p38p40.html|>
 ## U-Pol Hardener For P38/P40
@@ -1109,6 +1216,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/starrett-medium-tool-bag.html|>
 ## Starrett Medium Tool Bag
 
@@ -1125,6 +1233,7 @@
     "Removable, padded shoulder strap"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/turtle-wax-luxe-leather-cleaner-and-conditioner-wipes-pack-of-24.html|>
 ## Turtle Wax Luxe Leather Cleaner & Conditioner Wipes (Pack of 24)
@@ -1143,6 +1252,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/stanley-tools-fatmax-16-piece-multi-tool.html|>
 ## Stanley Tools FatMax 16 Piece Multi-Tool
 
@@ -1157,6 +1267,7 @@
     "Durable tough body for extreme use"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/sievert-pro-86-handle-s3486.html|>
 ## Sievert Pro 86 Handle S3486
@@ -1176,6 +1287,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/knipex-stripping-tool-for-flatround-cable.html|>
 ## Knipex Stripping Tool for Flat/Round Cable
 
@@ -1190,6 +1302,7 @@
     "Overall Length: 125mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/portwest-t400-hi-vis-yellowblack-winter-jacket.html|>
 ## Portwest T400 Hi-Vis Yellow/Black Winter Jacket
@@ -1208,6 +1321,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/mexco-hex-adaptor-pack-250mm.html|>
 ## MEXCO Hex Adaptor Pack 250mm
 
@@ -1221,6 +1335,7 @@
     "QtyAdd to Basket"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/rentokil-rat-killer-grain-bait-pack-of-3-sachets.html|>
 ## Rentokil Rat Killer Grain Bait Pack of 3 Sachets
@@ -1238,6 +1353,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/loctite-all-plastics-superglue-2g4ml.html|>
 ## Loctite All Plastics Superglue 2g/4ml
 
@@ -1253,6 +1369,7 @@
     "Adhesive: 4ml"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/gorilla-glue-gorilla-5-min-2-part-epoxy-syringe-25ml.html|>
 ## Gorilla 5 Min 2-Part Epoxy Syringe 25ml
@@ -1272,6 +1389,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-socket-adaptor-mecca-rossa.html|>
 ## Teng Socket Adaptor Mecca Rossa
 
@@ -1286,6 +1404,7 @@
     "3/8in Male Hex"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/-natural-french-chalk-sticks-pack-of-36.html|>
 ## Natural French Chalk Sticks (pack of 36)
@@ -1303,6 +1422,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/lufkin-mw16meu-folding-measuring-wheel-160mm.html|>
 ## Lufkin MW16MEU Folding Measuring Wheel 160mm
 
@@ -1316,6 +1436,7 @@
     "Weight: 1.1kg."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/flex-power-tools-vce-33-m-ac-vacuum-cleaner-m-class-1400w.html|>
 ## Flex Power Tools VCE 33 M AC Vacuum Cleaner M Class 1400W
@@ -1338,6 +1459,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/liberon-burnishing-cream-1.html|>
 ## Liberon Burnishing Cream
 
@@ -1354,6 +1476,7 @@
     "Tool Cleaning: White Spirit"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-dum111rtx-lxt-grass-shears-18v-1-x-50ah-li-ion.html|>
 ## Makita DUM111RTX LXT Grass Shears 18V 1 x 5.0Ah Li-ion
@@ -1372,6 +1495,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-dmr203-bluetooth-jobsite-speaker.html|>
 ## Makita DMR203 Bluetooth® Jobsite Speaker
 
@@ -1388,6 +1512,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-no-tools-or-equipment-stored-in-this-vehicle-overnight---savclg-200-x-50mm.html|>
 ## No Tools Or Equipment Stored In This Vehicle Overnight - SAV/CLG 200 x 50mm
 
@@ -1403,6 +1528,7 @@
     "1 Self Cling Vinyl Sign"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/everbuild-path-and-patio-seal-5-litre.html|>
 ## Everbuild Path & Patio Seal 5 Litre
@@ -1422,6 +1548,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/hultafors-v-professional-try-square.html|>
 ## Hultafors V Professional Try Square
 
@@ -1437,6 +1564,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/hg-wallpaper-remover-500ml.html|>
 ## HG Wallpaper Remover 500ml
 
@@ -1450,6 +1578,7 @@
     "WEEE Recycling Producer Registration Number:12889"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/einhell-te-vc-2230-sacl-wet-and-dry-vacuum-cleaner-with-pto-50-litre-1600w-240v.html|>
 ## Einhell TE-VC 2230 SACL Wet and Dry Vacuum Cleaner with PTO 50 litre 1600W 240V
@@ -1468,6 +1597,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/multi-sharp-multi-sharp-replacement-wheel-for-wetstone.html|>
 ## Multi-Sharp® Replacement Wheel for Wetstone
 
@@ -1484,6 +1614,7 @@
     "WEEE Recycling Producer Registration Number: 12889"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/smj-basix-mechanical-plug-in-timers.html|>
 ## SMJ Basix Mechanical Plug In Timers
@@ -1502,6 +1633,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rustins-aluminium-wood-primers.html|>
 ## Rustins Aluminium Wood Primers
 
@@ -1516,6 +1648,7 @@
     "Better water resistance"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/sievert-easyjet-gas-torch.html|>
 ## Sievert Easyjet Gas Torch
@@ -1537,6 +1670,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/silverhook-radiator-stop-leak-325ml.html|>
 ## Silverhook Radiator Stop Leak 325ml
 
@@ -1553,21 +1687,6 @@
   ]
 }
 
-<|https://www.mydiy.ie/products/monument-radiator-spanners-twin-pack.html|>
-## Monument Radiator Spanners Twin Pack
-
-{
-  "price": "€15.49 inc VAT (€12.59 exc.vat)",
-  "description": "Monument Radiator Spanners Twin Pack with 1 x 10mm and 1 x 12mm square section radiator spanners. Suitable for vent plugs and bleed screws. They are made from zinc plated steel with a slightly offset handle for ease of use.",
-  "availability": "In Stock",
-  "product_name": "Monument Radiator Spanners Twin Pack",
-  "specifications": [
-    "1 x 10mm and 1 x 12mm square section radiator spanners",
-    "Suitable for vent plugs and bleed screws",
-    "Made from zinc plated steel",
-    "Slightly offset handle for ease of use"
-  ]
-}
 
 <|https://www.mydiy.ie/products/lighthouse-led-mini-camping-lantern-150-lumens.html|>
 ## Lighthouse LED Mini Camping Lantern 150 Lumens
@@ -1585,6 +1704,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/irwin-4x-blue-groove-extensions.html|>
 ## IRWIN 4X Blue Groove Extensions
 
@@ -1600,6 +1720,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/ridgid-inner-outer-reamer.html|>
 ## RIDGID Inner-Outer Reamer
 
@@ -1613,6 +1734,7 @@
     "6 - 36mm Capacity"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/dmt-w10-double-sided-diamond-whetstone-250mm.html|>
 ## DMT W10 Double Sided Diamond Whetstone 250mm
@@ -1632,6 +1754,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/nicholson-horse-rasp-plain-regular-half-file-350mm-14in.html|>
 ## Nicholson Horse Rasp Plain Regular Half File 350mm (14in)
 
@@ -1646,6 +1769,7 @@
     "Edges are single cut"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/stanley-tools-rolling-workshop.html|>
 ## Stanley Tools Rolling Workshop
@@ -1663,22 +1787,6 @@
   ]
 }
 
-<|https://www.mydiy.ie/products/everbuild-mitre-fast-bonding-kit-standard.html|>
-## Everbuild Mitre Fast Bonding Kit Standard
-
-{
-  "price": "€14.99",
-  "description": "Mitre Fast Bonding Kit is a two-part instant adhesive system comprising a cyanoacrylate adhesive and aerosol activator. Mitre Fast is mainly used in the furniture, timber, kitchen and plastics industries where its instant bonding properties dramatically reduce assembly times for mitre joints when compared to conventional wood adhesives. Also suitable for bonding of MDF, rubber, PVCu, metals etc.",
-  "availability": "In Stock",
-  "product_name": "Everbuild Mitre Fast Bonding Kit Standard",
-  "specifications": [
-    "Two-part instant adhesive system",
-    "Includes cyanoacrylate adhesive and aerosol activator",
-    "Suitable for furniture, timber, kitchen, and plastics industries",
-    "Reduces assembly times for mitre joints",
-    "Can bond MDF, rubber, PVCu, metals"
-  ]
-}
 
 <|https://www.mydiy.ie/products/irwin-record-pro-entry-mechanics-vice-100mm-4in.html|>
 ## IRWIN Record Pro Entry Mechanics Vice 100mm (4in)
@@ -1696,6 +1804,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-18v-lxt-bl-vacuum-75l-wet-and-dry-hepa.html|>
 ## Makita 18V Lxt Bl Vacuum 7.5L Wet & Dry Hepa
 
@@ -1711,6 +1820,7 @@
     "Includes: HEPA filter"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/ridgid-constant-swing-tube-cutter-copper-35mm-capacity.html|>
 ## RIDGID Constant Swing Tube Cutter Copper 35mm Capacity
@@ -1729,6 +1839,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/lighthouse-alkaline-batteries-9v-lr61-1100mah-pack-of-1.html|>
 ## Lighthouse Alkaline Batteries 9v LR61 1100mAh Pack of 1
 
@@ -1743,6 +1854,7 @@
     "Pack of 1"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/everbuild-industrial-superglue-hv.html|>
 ## Everbuild Industrial Superglue HV
@@ -1763,6 +1875,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/einhell-te-cg-18-li---solo-power-x-change-glue-gun-18v-bare-unit.html|>
 ## Einhell TE-CG 18 Li - Solo Power X-Change Glue Gun 18V Bare Unit
 
@@ -1777,6 +1890,7 @@
     "Weight: 0.29kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/krino-new-group-for-krimpd12.html|>
 ## Krino New Group for KRIMPD12
@@ -1794,6 +1908,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-ha10-thinsulate-lined-fleece-hat.html|>
 ## Portwest HA10 Thinsulate Lined Fleece Hat
 
@@ -1809,6 +1924,7 @@
     "Can be worn under a helmet"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/large-28-watts-2050-lm-energy-saver-2pin-lamp-white.html|>
 ## Large 28 Watts 2050 lm Energy Saver 2PIN Lamp, White
@@ -1836,6 +1952,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/masterplug-work-light-cable-reel-240v-13a-4-socket-5m.html|>
 ## Masterplug Work Light Cable Reel 240V 13A 4-Socket 5m
 
@@ -1854,6 +1971,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/maun-side-cutters.html|>
 ## Maun Side Cutters
 
@@ -1867,6 +1985,7 @@
     "Side Cutting Pliers With Return Spring 160mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-fold-flat-disposable-masks-ffp1.html|>
 ## Scan Fold Flat Disposable Masks FFP1
@@ -1885,6 +2004,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-581tmi-telescopic-mirror.html|>
 ## Teng 581TMI Telescopic Mirror
 
@@ -1899,6 +2019,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rocol-sapphire-silicone-greases.html|>
 ## ROCOL SAPPHIRE Silicone Greases
 
@@ -1912,6 +2033,7 @@
     "UK Water Byelaws Scheme approved product"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/-double-switched-socket.html|>
 ## DOUBLE SWITCHED SOCKET
@@ -1932,6 +2054,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/irwin-marples-m2226-sliding-bevels---rosewood-handle.html|>
 ## IRWIN Marples M2226 Sliding Bevels - Rosewood Handle
 
@@ -1948,6 +2071,7 @@
     "Etched scales for durability"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/ridgid-micro-lm-100-laser-distance-measure-36158.html|>
 ## RIDGID Micro LM-100 Laser Distance Measure 36158
@@ -1966,6 +2090,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/victorinox-spartan---swiss-army-knives.html|>
 ## Victorinox Spartan - Swiss Army Knives
 
@@ -1981,6 +2106,7 @@
     "Includes large and small blades, corkscrew, can opener, bottle opener, reamer/punch tool, keyring, tweezers, and toothpick"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-152122-3-dust-bag-assembly-joint.html|>
 ## Makita 152122-3 Dust Bag Assembly Joint
@@ -1999,6 +2125,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/trend-tr30-x-12-tct-shank-mounted-bearing-guided-profiler-191-x-50mm.html|>
 ## Trend TR30 x 1/2 TCT Shank Mounted Bearing Guided Profiler 19.1 x 50mm
 
@@ -2013,6 +2140,7 @@
     "Cutting Length: 50.0mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/-hoover-steam-iron-2-ltr-2500-w.html|>
 ## HOOVER STEAM IRON 2 LTR 2500 W
@@ -2030,6 +2158,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/loctite-glue-remover-tube-5g.html|>
 ## Loctite Glue Remover, Tube 5g
 
@@ -2045,6 +2174,7 @@
     "Corrects badly bonded items"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/ridgid-micro-lm-400-advanced-laser-distance-measure-36813.html|>
 ## RIDGID Micro LM-400 Advanced Laser Distance Measure 36813
@@ -2068,6 +2198,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/everbuild-pinkgrip-dry-fix-750ml.html|>
 ## Everbuild Pinkgrip Dry Fix 750ml
 
@@ -2085,6 +2216,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-t1436-socket-set-of-36-metric-14in-drive.html|>
 ## Teng T1436 Socket Set of 36 Metric 1/4in Drive
 
@@ -2101,6 +2233,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/marshalltown-m120d-cement-edger-straight-end-durasoft-handle-8in-x-6in.html|>
 ## Marshalltown M120D Cement Edger Straight End Durasoft Handle 8in x 6in
 
@@ -2116,6 +2249,7 @@
     "Comfortable DuraSoft® handle"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/stanley-tools-mohair-gloss-sleeve-230-x-38mm-9-x-112in.html|>
 ## Stanley Tools Mohair Gloss Sleeve 230 x 38mm (9 x 1.1/2in)
@@ -2134,6 +2268,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/ridgid-pc-1375-multi-layer-cutter-23493.html|>
 ## RIDGID PC-1375 Multi-Layer Cutter 23493
 
@@ -2147,6 +2282,7 @@
     "Suitable for PVC, CPVC, PEX, PE, PB and multi-layer rubber hose"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/ridgid-heavy-duty-4-wheel-pipe-cutter.html|>
 ## RIDGID Heavy-Duty 4 Wheel Pipe Cutter
@@ -2162,6 +2298,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/loctite-super-glue.html|>
 ## Loctite Super Glue
 
@@ -2175,6 +2312,7 @@
     "Super Glue Mini Trio Tube 3 x 1g"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/footprint-brick-bolster-with-guard.html|>
 ## Footprint Brick Bolster with Guard
@@ -2193,6 +2331,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/halls-20zasr-pilot-pin-41002-for-powerbor-cutters.html|>
 ## 20ZASR Pilot Pin 41002 for Powerbor® Cutters
 
@@ -2205,6 +2344,7 @@
     "Size: 6.35mm x 77.8mm x 25mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-tm3010ck-multi-tool.html|>
 ## Makita TM3010CK Multi-Tool
@@ -2221,6 +2361,7 @@
     "Weight: 1.6kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/teng-tt1217-6-17-piece-metric-6p-socket-set-12in-drive.html|>
 ## Teng TT1217-6 17 Piece Metric 6p Socket Set 1/2in Drive
@@ -2239,20 +2380,6 @@
   ]
 }
 
-<|https://www.mydiy.ie/products/monument-trade-copper-pipe-cutter.html|>
-## Monument Trade Copper Pipe Cutter
-
-{
-  "price": "€30.95 inc VAT",
-  "description": "The Monument Trade Copper Pipe Cutter is ideal for cutting copper pipe in confined and awkward spaces. It is fixed in size, and only suitable for cutting the specified pipe size.",
-  "availability": "In Stock",
-  "product_name": "Monument Trade Copper Pipe Cutter",
-  "specifications": [
-    "Fixed size for specific pipe sizes",
-    "Ideal for confined spaces",
-    "Includes WEEE recycling information"
-  ]
-}
 
 <|https://www.mydiy.ie/products/milwaukee-inkzall-ultra-fine-tip-pen.html|>
 ## Milwaukee INKZALL™ Ultra Fine Tip Pen
@@ -2271,6 +2398,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-pw5000c-wet-stone-polisher-900w-110v.html|>
 ## Makita PW5000C Wet Stone Polisher 900W 110V
 
@@ -2286,6 +2414,7 @@
     "Weight: 2.2kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/edma-rod-cut-threaded-rod-cutter.html|>
 ## Edma Rod Cut Threaded Rod Cutter
@@ -2304,6 +2433,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-tx11-blackred-texo-contrast-trousers---l.html|>
 ## TX11 Black/Red Texo Contrast Trousers - L
 
@@ -2321,6 +2451,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/sievert-erp11a5-pigtail.html|>
 ## Sievert ERP11A5 Pigtail
 
@@ -2335,6 +2466,7 @@
     "Used for flammable gases"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/sievert-promatic-handle-with-piezo-ignition.html|>
 ## Sievert Promatic Handle with Piezo Ignition
@@ -2353,6 +2485,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-bi-hexagon-sockets-imperial-34in-drive.html|>
 ## Teng Bi-Hexagon Sockets Imperial 3/4in Drive
 
@@ -2370,6 +2503,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-mdscr-engine-gasket-scraper.html|>
 ## Teng MDSCR Engine Gasket Scraper
 
@@ -2383,6 +2517,7 @@
     "Width: 22mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/ridgid-vf-99-v-head-folding-pipe-stand-22168.html|>
 ## VF-99 V Head Folding Pipe Stand 22168
@@ -2400,6 +2535,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/monument-automatic-copper-pipe-cutter.html|>
 ## Monument Automatic Copper Pipe Cutter
 
@@ -2415,6 +2551,7 @@
     "Tough ABS housing covers the steel mechanism"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/india-triangular-abrasive-files.html|>
 ## India Triangular Abrasive Files
@@ -2433,6 +2570,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/marxman-marxman-standard-and-deep-hole-professional-marking-tools-cdu-of-30.html|>
 ## Marxman MarXman Standard & Deep Hole Professional Marking Tools (CDU of 30)
 
@@ -2450,6 +2588,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/horobin-manhole-lifter.html|>
 ## Horobin Manhole Lifter
 
@@ -2463,6 +2602,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-e-05614-lunch-bag.html|>
 ## Makita E-05614 Lunch Bag
 
@@ -2475,6 +2615,7 @@
     "Dimensions: 330 x 180 x 210mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/everbuild-heat-mate-silicone-red-c3.html|>
 ## Everbuild Heat Mate Silicone Red C3
@@ -2494,6 +2635,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/hg-drain-odour-remover-500g.html|>
 ## H/G Drain Odour Remover 500g
 
@@ -2510,6 +2652,7 @@
     "Enough for up to 10 treatments"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/hultafors-open-top-tool-carrier.html|>
 ## Hultafors Open-Top Tool Carrier
@@ -2529,6 +2672,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-p-46676-bull-point-hex-shank-380mm.html|>
 ## Makita P-46676 Bull Point Hex Shank 380mm
 
@@ -2543,6 +2687,7 @@
     "Application: Breaking, concrete, demolition"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/trend-perfect-butt-worktop-scriber-tool-mpb01.html|>
 ## Trend Perfect Butt Worktop Scriber Tool M/PB01
@@ -2560,6 +2705,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-ks14-black-38in-tungsten-trousers.html|>
 ## Portwest Ks14 Black 38In Tungsten Trousers
 
@@ -2576,6 +2722,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/marshalltown-m611-half-round-sled-runner-durasoft-handle-15-x-12in.html|>
 ## M611 Half-Round Sled Runner DuraSoft® Handle 15 x 1/2in
 
@@ -2590,6 +2737,7 @@
     "You save €13.31"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/rocol-foodlube-premier-380g.html|>
 ## ROCOL FOODLUBE® Premier 380g
@@ -2609,6 +2757,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-199142-6-dust-extractor-attachment-set.html|>
 ## Makita 199142-6 Dust Extractor Attachment Set
 
@@ -2625,6 +2774,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/marshalltown-lightweight-flooring-shear.html|>
 ## Marshalltown Lightweight Flooring Shear
 
@@ -2640,6 +2790,7 @@
     "Weight: 6kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/irwin-strait-line-strait-line-speedline-pro-reel-with-blue-chalk-30m100ft.html|>
 ## IRWIN® STRAIT-LINE® Speedline™ PRO Reel with Blue Chalk 30m/100ft
@@ -2658,6 +2809,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/marshalltown-msp16-swimming-pool-trowel-16in-x-412in.html|>
 ## Marshalltown MSP16 Swimming Pool Trowel 16in x 4.1/2in
 
@@ -2673,6 +2825,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/trend-c025-x-14-tc-two-flute-159mm-x-191mm.html|>
 ## Trend C025 x 1/4 Tc Two Flute 15.9mm x 19.1mm
 
@@ -2687,6 +2840,7 @@
     "You save €3.21"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/dewalt-hand-tools-metric-speed-square.html|>
 ## DeWALT Hand Tools Metric Speed Square
@@ -2705,6 +2859,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/roughneck-gorilla-bars.html|>
 ## Roughneck Gorilla Bars
 
@@ -2719,6 +2874,7 @@
     "Polished tips and oval shaped for better control and strength"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/horobin-universal-drop-scraper-4in-100mm.html|>
 ## Horobin Universal Drop Scraper 4in (100mm)
@@ -2735,6 +2891,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-coupler-adaptor---14in-drive.html|>
 ## Teng Coupler Adaptor - 1/4in Drive
 
@@ -2750,6 +2907,7 @@
     "Length: 25mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/minky-15m-retractable-clothes-line.html|>
 ## Minky 15M Retractable Clothes Line
@@ -2769,6 +2927,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/monument-454b-tap-reseating-tool-12in-and-34in-bs5412.html|>
 ## Monument 454B Tap Reseating Tool 1/2in & 3/4in BS5412
 
@@ -2785,6 +2944,7 @@
     "Feedscrew allows fine adjustment to the cutter"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/sievert-psi-3380-portable-soldering-iron-kit.html|>
 ## Sievert Psi 3380 Portable Soldering Iron Kit
@@ -2804,6 +2964,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-tt1236-12-piece-metric-combination-spanner-set.html|>
 ## Teng TT1236 12 Piece Metric Combination Spanner Set
 
@@ -2821,6 +2982,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/frys-metals-tinmans-solder-1-kilo-approx.html|>
 ## Frys Metals Tinmans Solder 1 Kilo (Approx.)
 
@@ -2834,6 +2996,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scangrip-duo-connect-compact-floodlight-18v-bare-unit.html|>
 ## SCANGRIP® DUO CONNECT Compact Floodlight 18V Bare Unit
@@ -2852,6 +3015,7 @@
     "Weight: 0.62kg"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/sievert-turbojet-twin-burner-360-swivel-torch.html|>
 ## Turbojet Twin Burner 360° Swivel Torch
@@ -2872,6 +3036,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-socket-clips-pack-of-10.html|>
 ## Teng Socket Clips Pack of 10
 
@@ -2886,6 +3051,7 @@
     "Fits ALU clip rail socket storage systems"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-eye-wash-station-refill-500ml.html|>
 ## Scan Eye Wash Station Refill 500ml
@@ -2904,6 +3070,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-sds-plus-bull-point-chisel-250mm.html|>
 ## Makita SDS Plus Bull Point Chisel 250mm
 
@@ -2917,6 +3084,7 @@
     "Compatible with various models: HR2400, HR2450, HR2450T, HR2811F, HR3000C, HK0500, HK1820"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/portwest-fp11-red-1-point-harness.html|>
 ## Portwest FP11 Red 1-Point Harness
@@ -2935,6 +3103,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/roughneck-mainstester.html|>
 ## Roughneck Mainstester
 
@@ -2949,6 +3118,7 @@
     "TUV and GS approved"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/pest-stop-systems-prof-bird-spikes-10-x-500mm-metal-strips.html|>
 ## Pest-Stop Systems Prof Bird Spikes 10 x 500mm Metal Strips
@@ -2966,6 +3136,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-hinged-hasp-and-staple.html|>
 ## Scan Hinged Hasp and Staple
 
@@ -2980,6 +3151,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/edma-double-tip-scribe.html|>
 ## Edma Double Tip Scribe
 
@@ -2993,6 +3165,7 @@
     "Ideal for manmade roofing slates"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/ronseal-colron-refined-teak-oil-500ml.html|>
 ## Ronseal Colron Refined Teak Oil 500ml
@@ -3011,6 +3184,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-spill-kit-18-litre-chemical.html|>
 ## Scan Spill Kit 18 Litre Chemical
 
@@ -3027,6 +3201,7 @@
     "Includes 1 disposal bag with tie"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/milwaukee-mini-copper-tube-cutter.html|>
 ## Milwaukee Mini Copper Tube Cutter
@@ -3045,6 +3220,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-no-smoking---pvc-400-x-600mm.html|>
 ## No Smoking - PVC 400 x 600mm
 
@@ -3058,6 +3234,7 @@
     "Message: 'No smoking'"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-14in-collet-sleeve-3600b01b.html|>
 ## Makita 1/4In Collet Sleeve 3600B/01B
@@ -3074,6 +3251,7 @@
     "Money Back Guarantee within 16 days of delivery date"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/matabi-evolution-15-ltc-sprayer-18v-15-litre.html|>
 ## Matabi Evolution 15 LTC Sprayer 18V 15 Litre
@@ -3097,6 +3275,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-ladies-bathroom-sign-200-x-50mm.html|>
 ## Scan Ladies Bathroom Sign 200 x 50mm
 
@@ -3112,6 +3291,7 @@
     "Printed using UV resistant inks"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-thank-you-for-not-smoking---polished-brass-effect-200-x-50mm.html|>
 ## Thank You For Not Smoking - Polished Brass Effect 200 x 50mm
@@ -3129,6 +3309,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/trend-c209-x-14-tct-intumescent-recesser-24-x-10mm.html|>
 ## Trend C209 x 1/4 TCT Intumescent Recesser 24 x 10mm
 
@@ -3144,6 +3325,7 @@
     "Shank: 1/4in"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/lighthouse-compact-led-headlight-150-lumens.html|>
 ## Lighthouse Compact LED Headlight 150 lumens
@@ -3162,6 +3344,7 @@
     "Weight: 63g"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-tm3000c-multi-tool.html|>
 ## Makita TM3000C Multi-Tool
@@ -3184,6 +3367,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-vc4210mx-240v-42l-m-class-dust-extractor.html|>
 ## Makita Vc4210Mx 240V 42L M Class Dust Extractor
 
@@ -3199,6 +3383,7 @@
     "Money Back Guarantee within 16 days of delivery date"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/portwest-s440-rain-jacket.html|>
 ## Portwest S440 Rain Jacket
@@ -3217,6 +3402,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-foam-earplugs--cord-6-pairs-snr29.html|>
 ## Scan Foam Earplugs + Cord (6 Pairs) SNR29
 
@@ -3231,6 +3417,7 @@
     "Conforms to EN352-2:2002"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/marshalltown-m5756-magnesium-feather-edge-6ft.html|>
 ## Marshalltown M5756 Magnesium Feather Edge 6Ft
@@ -3248,6 +3435,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/irwin-record-no25-fitters-vice-150mm-6in.html|>
 ## IRWIN Record No.25 Fitters Vice 150mm (6in)
 
@@ -3263,6 +3451,7 @@
     "Hardened steel replaceable jaw plates"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/ronseal-kitchen-and-bathroom-repair-kit-60g.html|>
 ## Ronseal Kitchen & Bathroom Repair Kit 60g
@@ -3283,6 +3472,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/hg-washing-machine-clean-and-odour-freshener-550g.html|>
 ## HG Washing Machine Clean & Odour Freshener 550g
 
@@ -3298,6 +3488,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/gorilla-glue-healthy-feet-foot-cream-96g.html|>
 ## Gorilla Glue Healthy Feet Foot Cream 96g
@@ -3316,6 +3507,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-p-21141-two-stroke-engine-oil-1-litre.html|>
 ## Makita P-21141 Two-Stroke Engine Oil 1 Litre
 
@@ -3332,6 +3524,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-e-05181-ultimate-electricians-pouch.html|>
 ## Makita E-05181 Ultimate Electrician's Pouch
 
@@ -3346,6 +3539,7 @@
     "Height: 310mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-disabled-toilet---polished-brass-effect-200-x-50mm.html|>
 ## Scan Disabled Toilet - Polished Brass Effect 200 x 50mm
@@ -3363,6 +3557,7 @@
     "Message: 'Toilet (with Disabled Symbol)'"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/lumatic-1066s-heavy-duty-side-lever-grease-gun.html|>
 ## Lumatic 1066/S Heavy-Duty Side Lever Grease Gun
@@ -3383,6 +3578,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-t601-pw3-work-trousers-black-42.html|>
 ## Portwest T601 Pw3 Work Trousers Black 42
 
@@ -3399,6 +3595,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/einhell-gp-ea-18150-li-bl-solo-earth-auger-18v-bare-unit.html|>
 ## Einhell GP-EA 18/150 Li BL-Solo Earth Auger 18V Bare Unit
 
@@ -3413,6 +3610,7 @@
     "Weight: 6.01kg."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/portwest-pw96-face-shield-plus---clear.html|>
 ## Portwest PW96 Face Shield Plus - Clear
@@ -3431,6 +3629,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-tx20-grey-xl-texo-contrast-polo-shirt.html|>
 ## Portwest Tx20 Grey Xl Texo Contrast Polo Shirt
 
@@ -3446,6 +3645,7 @@
     "Money Back Guarantee within 16 days of delivery"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-hi-vis-motorway-jackets-orange.html|>
 ## Scan Hi-Vis Motorway Jackets Orange
@@ -3463,6 +3663,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/monument-1460y-handy-plunger---black-one-piece.html|>
 ## Monument 1460Y Handy Plunger - Black One Piece
 
@@ -3478,6 +3679,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/raven-s3134-yellow-coupler-32-amp-110v.html|>
 ## Raven S3134 Yellow Coupler 32 amp 110V
 
@@ -3492,6 +3694,7 @@
     "Poles: 2P+E"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/rentokil-rat-cage-trap.html|>
 ## Rentokil Rat Cage Trap
@@ -3511,6 +3714,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/moldex-waveband-1k-banded-earplugs-snr-27db.html|>
 ## Moldex WaveBand 1K Banded Earplugs SNR 27dB
 
@@ -3525,6 +3729,7 @@
     "Comfortable under-chin wear"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/everbuild-sika-setting-sand-buff-20kg.html|>
 ## Everbuild Sika Setting Sand Buff 20kg
@@ -3543,6 +3748,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/spear-and-jackson-slaters-ripper-2ft-60cm.html|>
 ## Spear & Jackson Slater's Ripper 2ft (60cm)
 
@@ -3559,6 +3765,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/irwin-record-g-clamps---119-medium-duty-forged.html|>
 ## IRWIN Record G Clamps - 119 Medium-Duty Forged
 
@@ -3574,6 +3781,7 @@
     "Blue stove enamelled finish"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/mexco-14l-bottle-pressure-valve.html|>
 ## MEXCO 14L Bottle Pressure Valve
@@ -3592,6 +3800,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/marshalltown-joint-knives.html|>
 ## Marshalltown Joint Knives
 
@@ -3609,6 +3818,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-8mm-collet-sleeve-3612br.html|>
 ## Makita 8Mm Collet Sleeve 3612Br
 
@@ -3622,6 +3832,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/moldex-classic-disposable-masks-ffp2-d-ventex-valve.html|>
 ## Moldex Classic Disposable Masks FFP2 D Ventex Valve
@@ -3641,6 +3852,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rocol-nsf-scrubs-hand-wipes-tub-72.html|>
 ## ROCOL NSF SCRUBS Hand Wipes (Tub 72)
 
@@ -3656,6 +3868,7 @@
     "Easy-to-carry, durable bucket"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/turtle-wax-odor-x-whole-car-blast.html|>
 ## Turtle Wax Odor-X Whole Car Blast
@@ -3673,6 +3886,7 @@
     "Money Back Guarantee within 16 days of delivery"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/portable-rechargeable-led.html|>
 ## Portable Rechargeable LED
@@ -3696,6 +3910,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/marshalltown-aluminium-hawks.html|>
 ## Marshalltown Aluminium Hawks
 
@@ -3713,6 +3928,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/trend-door-clamp-55mm-capacity-ratchet-type-dclampa.html|>
 ## Trend Door Clamp 55mm Capacity (Ratchet Type) D/CLAMP/A
 
@@ -3728,6 +3944,7 @@
     "Patent No. PCT/EP2006/006072"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/j-b-weld-exhaustweld-wrap-5-x-183cm.html|>
 ## J-B Weld ExhaustWeld™ Wrap 5 x 183cm
@@ -3745,6 +3962,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/roughneck-gorilla-pro-grip-utility-bar-376mm-15in.html|>
 ## Roughneck Gorilla Pro-Grip Utility Bar 376mm (15in)
 
@@ -3757,6 +3975,7 @@
     "Length: 376mm (15in)"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/knipex-82-02-250-twingrip-front-and-side-gripping-plier-with-comfort-handles-250mm.html|>
 ## Knipex 82 02 250 TwinGrip® Front and Side Gripping Plier with Comfort Handles 250mm
@@ -3772,6 +3991,7 @@
     "Max. Frontal Gripping: 10mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-pull---polished-brass-effect-200-x-50mm.html|>
 ## Scan Pull - Polished Brass Effect 200 x 50mm
@@ -3789,6 +4009,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rohm-sds-plus-adaptor-12-x-20.html|>
 ## Rohm SDS Plus Adaptor 1/2 x 20
 
@@ -3804,6 +4025,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/dewalt-respiration-papr-p3-filter-hepa.html|>
 ## DEWALT Respiration PAPR P3 Filter (HEPA)
 
@@ -3817,6 +4039,7 @@
     "Respiratory Protection: EN 12941:1998+A2:2008"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/trend-c021x14tc-two-flute-cutter-127mm-dia.html|>
 ## Trend C021X1/4Tc Two Flute Cutter 12.7Mm Dia
@@ -3833,6 +4056,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rocol-dry-ptfe-spray-400ml.html|>
 ## ROCOL Dry PTFE Spray 400ml
 
@@ -3848,6 +4072,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-approved-ppe-must-be-worn---pvc-sign-600-x-400mm.html|>
 ## Scan Approved PPE Must Be Worn - PVC Sign 600 x 400mm
 
@@ -3861,6 +4086,7 @@
     "Message: 'Approved Personal Protection Equipment must be worn'"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/lighthouse-alkaline-batteries-d-lr20-14800mah-pack-of-2.html|>
 ## Lighthouse Alkaline Batteries D LR20 14800mAh Pack of 2
@@ -3876,6 +4102,7 @@
     "Pack of 2"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/uni-com-portable-and-plug-in-door-chime-set.html|>
 ## Uni-Com Portable and Plug-In Door Chime Set
@@ -3894,6 +4121,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/irwin-marples-m2153-mortice-and-marking-gauge.html|>
 ## IRWIN Marples M2153 Mortice & Marking Gauge
 
@@ -3909,6 +4137,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/dewalt-toughsystem-20-tool-bag.html|>
 ## DEWALT TOUGHSYSTEM™ 2.0 Tool Bag
 
@@ -3922,6 +4151,7 @@
     "Dimensions (L x H): 38 x 33cm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/einhell-tc-vc-1815-s-wet-and-dry-vacuum-cleaner-15-litre-1250w-240v.html|>
 ## Einhell TC-VC 1815 S Wet & Dry Vacuum Cleaner 15 litre 1250W 240V
@@ -3940,6 +4170,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-2300-stud-extractor-12in-drive.html|>
 ## Teng 2300 Stud Extractor 1/2in Drive
 
@@ -3955,6 +4186,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/ronseal-colron-wax-remover-500ml.html|>
 ## Ronseal Colron Wax Remover 500ml
 
@@ -3969,6 +4201,7 @@
     "Mild solution that does not damage wood sheen"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/stanley-tools-open-tote-tool-bag-with-rigid-base-50cm-20in.html|>
 ## Stanley Tools Open Tote Tool Bag with Rigid Base 50cm (20in)
@@ -3987,6 +4220,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/evolution-pressurised-water-bottle-with-hand-pump-15-litre.html|>
 ## Evolution Pressurised Water Bottle with Hand Pump 15 litre
 
@@ -4002,6 +4236,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/edma-universal-punch-for-0310-0324-0335.html|>
 ## Edma Universal Punch For 0310, 0324, 0335
 
@@ -4016,6 +4251,7 @@
     "Out of Stock"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/knipex-angled-electricians-shears-160mm.html|>
 ## Knipex Angled Electricians' Shears 160mm
@@ -4039,6 +4275,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-ks15-slate-holster-trousers.html|>
 ## Portwest KS15 Slate Holster Trousers
 
@@ -4055,6 +4292,7 @@
     "Triple-stitched seams"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/everbuild-heat-resistant-silicone-c3-310ml.html|>
 ## Everbuild Heat Resistant Silicone C3 310ml
@@ -4073,6 +4311,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/duracell-aa-cell-ultra-power-batteries-pack-of-4-lr6hp7.html|>
 ## Duracell AA Cell Ultra Power Batteries Pack of 4 LR6/HP7
 
@@ -4089,6 +4328,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rentokil-insectrol-aerosol.html|>
 ## Rentokil Insectrol Aerosol
 
@@ -4103,6 +4343,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/rustins-clear-plastic-floor-coating-kits.html|>
 ## Rustins Clear Plastic Floor Coating Kits
@@ -4121,6 +4362,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/stanley-tools-max-finish-9-in-1-multitool.html|>
 ## Stanley Tools Max Finish 9 In 1 Multitool
 
@@ -4135,6 +4377,7 @@
     "Specially shaped and sharpened blade"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/roughneck-pinch-point-crowbar-82kg-152cm-x-32mm.html|>
 ## Roughneck Pinch Point Crowbar 8.2kg 152cm x 32mm
@@ -4153,6 +4396,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/irwin-marples-honing-guide--stone-and-oil-set-of-3.html|>
 ## IRWIN Marples Honing Guide , Stone & Oil Set of 3
 
@@ -4169,6 +4413,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/edma-0203-fix-expansion-tool-for-all-metal-anchors.html|>
 ## Edma 0203 Fix Expansion Tool for All Metal Anchors
 
@@ -4182,6 +4427,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/milwaukee-power-tools-m12-ladies-heated-hoodie.html|>
 ## Milwaukee Power Tools M12 Ladies Heated Hoodie
@@ -4203,6 +4449,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/miss-louvre-vent.html|>
 ## MISS Louvre Vent
 
@@ -4223,6 +4470,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/u-care-cotton-polishing-cloths.html|>
 ## U-Care Cotton Polishing Cloths
 
@@ -4238,6 +4486,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/milwaukee-power-tools-m18-fmt-0-fuel-multi-tool-18v-bare-unit.html|>
 ## Milwaukee Power Tools M18 FMT-0 FUEL™ Multi-Tool 18V Bare Unit
 
@@ -4251,6 +4500,7 @@
     "Oscillation Angle, Left/Right: 2.1°"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/liberon-quick-drying-tung-oil-250ml.html|>
 ## Liberon Quick Drying Tung Oil 250ml
@@ -4269,6 +4519,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-ks31-black-nickel-hoody.html|>
 ## Portwest KS31 Black Nickel Hoody
 
@@ -4285,6 +4536,7 @@
     "Ribbed hem and cuffs for warmth and comfortable fit"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/teng-cree-led-headlamp.html|>
 ## Teng Cree LED Headlamp
@@ -4305,6 +4557,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/einhell-ge-ws-1835-li-solo-sprayer-18v-bare-unit.html|>
 ## Einhell GE-WS 18/35 Li-Solo Sprayer 18V Bare Unit
 
@@ -4323,6 +4576,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-ttaf32-32-piece-reg-deep-socket-set-14-38in-drive.html|>
 ## Teng TTAF32 32 Piece Reg/ Deep Socket Set 1/4-3/8in Drive
 
@@ -4338,6 +4592,7 @@
     "Supplied in a handy storage tray"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/dewalt-work-trousers-pro-tradesman-black.html|>
 ## DEWALT Work Trousers Pro Tradesman Black
@@ -4355,6 +4610,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/stanley-tools-593oc-window-scraper.html|>
 ## Stanley Tools 593OC Window Scraper
 
@@ -4370,6 +4626,7 @@
     "Can be used as a windscreen ice scraper"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/kent-and-stowe-carbon-steel-hand-bulb-planter-fsc.html|>
 ## Kent & Stowe Carbon Steel Hand Bulb Planter, FSC®
@@ -4388,6 +4645,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-running-man-arrow-right---pvc-200-x-50mm.html|>
 ## Running Man Arrow Right - PVC 200 x 50mm
 
@@ -4405,6 +4663,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-dus158z-lxt-backpack-garden-sprayer-15l-18v-bare-unit.html|>
 ## Makita DUS158Z LXT Backpack Garden Sprayer 15L 18V Bare Unit
 
@@ -4420,6 +4679,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/motip-pro-industrial-grease-spray-500ml.html|>
 ## MOTIPÂ® Pro Industrial Grease Spray 500ml
 
@@ -4432,6 +4692,7 @@
     "Temperature Resistant: -50°C up to +200°C"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/turtle-wax-metallic-car-wax--ptfe-500ml.html|>
 ## Turtle Wax Metallic Car Wax + PTFE 500ml
@@ -4450,6 +4711,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/stanley-tools-fatmax-metal--plastic-rolling-workshop.html|>
 ## Stanley Tools FatMax Metal / Plastic Rolling Workshop
 
@@ -4465,6 +4727,7 @@
     "Depth: 400mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/motip-pro-cable-protect-500ml.html|>
 ## MOTIPÂ® Pro Cable Protect 500ml
@@ -4483,6 +4746,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-hypoallergenic-fabric-plasters-100-assorted.html|>
 ## Scan Hypoallergenic Fabric Plasters 100 Assorted
 
@@ -4499,6 +4763,7 @@
     "Supplied in a white plastic first aid box"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/uni-com-plug-in-door-chime-with-night-light.html|>
 ## Uni-Com Plug-In Door Chime with Night Light
@@ -4520,6 +4785,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-ks15-navy-x-large-slate-trousers.html|>
 ## Portwest Ks15 Navy X Large Slate Trousers
 
@@ -4535,6 +4801,7 @@
     "Money Back Guarantee within 16 days of delivery date"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/monument-3475g-pro-gas-torch.html|>
 ## Monument 3475G Pro Gas Torch
@@ -4556,6 +4823,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/marxman-marxman-standard-professional-marking-tool.html|>
 ## MarXman Standard Professional Marking Tool
 
@@ -4574,6 +4842,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rustins-french-polishes.html|>
 ## Rustins French Polishes
 
@@ -4590,6 +4859,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/sievert-1-4-bar-pol-regulator-5-20kg.html|>
 ## Sievert 1-4 Bar POL Regulator 5-20kg
 
@@ -4604,6 +4874,7 @@
     "Max Capacity: 5-20Kg/H"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/trend-46-90-template-profiler.html|>
 ## Trend 46/ 90° Template Profiler
@@ -4621,6 +4892,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/motip-pro-freezer-spray-500ml.html|>
 ## MOTIPÂ® Pro Freezer Spray 500ml
 
@@ -4635,6 +4907,7 @@
     "Product Code: MOT090306"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-dtl061z-lxt-angle-impact-driver-18v-bare-unit.html|>
 ## Makita DTL061Z LXT Angle Impact Driver 18V Bare Unit
@@ -4655,6 +4928,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-no-smoking-it-is-against-the-law-to-smoke-in-these-premises---pvc-200-x-300mm.html|>
 ## Scan No Smoking It Is Against The Law To Smoke In These Premises - PVC 200 x 300mm
 
@@ -4668,6 +4942,7 @@
     "Message: 'No smoking. It is against the law to smoke on these premises'."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/dewalt-respiration-full--mask-respirator-with-a2p3-filters.html|>
 ## DEWALT Respiration Full Mask Respirator with A2P3 filters
@@ -4683,6 +4958,7 @@
     "Approval & Certification: Full Mask EN136:1998, A2P3 Filter EN14387:2004+A1:2008, CE 2797, UKCA 0086"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/rentokil-mouse-killer-grain-bait--pack-of-10.html|>
 ## Rentokil Mouse Killer Grain Bait Pack of 10
@@ -4700,6 +4976,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-303mm-template-guide.html|>
 ## Makita 30.3Mm Template Guide
 
@@ -4713,6 +4990,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/stanley-tools-fatmax-small-organiser.html|>
 ## Stanley Tools FatMax Small Organiser
@@ -4733,6 +5011,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/purdy-pro-extra-colossus-sleeve-228-x-25mm-9-x-1in.html|>
 ## Purdy Pro-Extra Colossus Sleeve 228 x 25mm (9 x 1in)
 
@@ -4748,6 +5027,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/keter-pro-gear-clear-organiser-1.html|>
 ## Keter Pro Gear Clear Organiser
 
@@ -4761,6 +5041,7 @@
     "External Dimensions: 56 x 34.5 x 12.8cm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/edma-foldable-hot-wire-cutting-table.html|>
 ## Edma Foldable Hot Wire Cutting Table
@@ -4776,6 +5057,7 @@
     "Max. Depth : 320mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/olympia-power-tools-mini-rotary-multi-tool-with-40-piece-accessory-set.html|>
 ## Olympia Power Tools Mini Rotary Multi-Tool with 40 Piece Accessory Set
@@ -4793,6 +5075,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/pest-stop-systems-mink-cage-trap-30in.html|>
 ## Pest-Stop Systems Mink Cage Trap 30in
 
@@ -4808,6 +5091,7 @@
     "Ready to use with detailed instructions"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/moore-and-wright-spring-divider.html|>
 ## Moore & Wright Spring Divider
@@ -4826,6 +5110,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/estwing-handy-claw-bar-250mm-10in.html|>
 ## Estwing Handy Claw Bar 250mm (10in)
 
@@ -4840,6 +5125,7 @@
     "You save: €9.64"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/kidde-carbon-monoxide-alarm-10-year-sensor.html|>
 ## Kidde Carbon Monoxide Alarm 10 Year Sensor
@@ -4859,6 +5145,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/thor-replacement-nylon-faces.html|>
 ## Thor Replacement Nylon Faces
 
@@ -4871,6 +5158,7 @@
     "Select Option: 1.1/2in, 1.1/4in, 1.3/4in, 1in, 2.1/2in, 2in"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/einhell-te-cl-182500-liac-solo-power-x-change-light-18v-bare-unit.html|>
 ## Einhell TE-CL 18/2500 LiAC-solo Power X-Change Light 18V Bare Unit
@@ -4888,6 +5176,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/monument-beechwood-lead-dressers.html|>
 ## Monument Beechwood Lead Dressers
 
@@ -4904,6 +5193,7 @@
     "Money Back Guarantee within 16 days of delivery"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-hi-vis-yellow-bomber-jacket.html|>
 ## Scan Hi-Vis Yellow Bomber Jacket
@@ -4923,6 +5213,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rentokil-clothes-moth-killer-spray.html|>
 ## Rentokil Clothes Moth Killer Spray
 
@@ -4939,6 +5230,7 @@
     "Long-lasting protection"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-dc40ra-xgt-two-port-fast-charger.html|>
 ## Makita DC40RA XGT® Two Port Fast Charger
@@ -4958,6 +5250,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/stanley-tools-organiser-24in.html|>
 ## Stanley Tools Organiser 24In
 
@@ -4972,6 +5265,7 @@
     "You save: €11.44"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/hg-laminate-vinyl-and-pvc-cleaner-product-72-1-litre.html|>
 ## H/G Laminate, Vinyl & PVC Cleaner (Product 72) 1 litre
@@ -4988,6 +5282,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/teng-t-bar-adaptor-12in-female-38in-male.html|>
 ## Teng T Bar Adaptor 1/2in Female 3/8in Male
 
@@ -5002,6 +5297,7 @@
     "Manufactured from chrome vanadium steel with a satin finish"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/maglite-replacement-bulbs.html|>
 ## Maglite Replacement Bulbs
@@ -5018,6 +5314,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scan-strictly-no-admittance---pvc-200-x-300mm.html|>
 ## Strictly No Admittance - PVC 200 x 300mm
 
@@ -5031,6 +5328,7 @@
     "Message: 'Strictly no admittance'"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/hultafors-hults-bruk-hult-splitting-axe.html|>
 ## Hults Bruk Hult Splitting Axe
@@ -5046,6 +5344,7 @@
     "Total Weight: 2020g"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/hg-bin-odour-freshener-500g.html|>
 ## HG Bin Odour Freshener 500g
@@ -5066,6 +5365,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-navy-orange-texo-contrast-trousers-l.html|>
 ## Portwest Navy Orange Texo Contrast Trousers L
 
@@ -5079,6 +5379,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/trend-craftpro-credit-card-sharpening-stone.html|>
 ## Trend Craftpro Credit Card Sharpening Stone
@@ -5096,6 +5397,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/irwin-strait-line-crayons.html|>
 ## IRWIN Strait-Line Crayons
 
@@ -5110,6 +5412,7 @@
     "Ideal for timber, concrete, ceramics, and metal surfaces"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/hg-car-windscreen-de-icer-500ml.html|>
 ## HG Car Windscreen De-icer 500ml
@@ -5128,6 +5431,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/dewalt-dce089-3-x-360-green-multi-line-laser.html|>
 ## DeWALT DCE089 3 x 360° Green Multi-Line Laser
 
@@ -5145,6 +5449,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/turtle-wax-original-car-wax-500ml.html|>
 ## Turtle Wax Original Car Wax 500ml
 
@@ -5159,6 +5464,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/makita-p-90249-trade-accessory-kit-100-piece.html|>
 ## Makita P-90249 Trade Accessory Kit, 100 Piece
@@ -5197,6 +5503,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/roughneck-gap-spacers.html|>
 ## Roughneck Gap Spacers
 
@@ -5211,6 +5518,7 @@
     "Combined thickness of 4-10mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/evolution-broaching-cutter-pilot-pin-1.html|>
 ## Evolution Broaching Cutter Pilot Pin
@@ -5227,6 +5535,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-p-72899-dust-bag-pack-of-5.html|>
 ## Makita P-72899 Dust Bag Pack of 5
 
@@ -5241,6 +5550,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/india-half-round-abrasive-files.html|>
 ## India Half Round Abrasive Files
 
@@ -5253,6 +5563,7 @@
     "Select Option: 100mm x 12mm - Medium"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scan-how-to-treat-an-electric-shock-casualty---pvc-400-x-600mm.html|>
 ## How To Treat An Electric Shock Casualty - PVC 400 x 600mm
@@ -5270,6 +5581,7 @@
     "Complies with BS5499 and/or ISO7010 design criteria"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/portwest-ps11-tech-look-plus-spectacles---clear.html|>
 ## Portwest PS11 Tech Look Plus Spectacles - Clear
@@ -5291,6 +5603,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/knipex-protective-jaws.html|>
 ## Knipex Protective Jaws
 
@@ -5305,6 +5618,7 @@
     "EMC (Environmental Management Cost) Included in the purchase price."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/mexco-10l-o-rings-and-gasket.html|>
 ## MEXCO 10L 'O' Rings & Gasket
@@ -5321,6 +5635,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/krino-new-group-for-kriabh10235.html|>
 ## Krino New Group for KRIABH10235
 
@@ -5335,6 +5650,7 @@
     "Option: Select One -"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/olympia-collapsible-cones.html|>
 ## Olympia Collapsible Cones
@@ -5351,6 +5667,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/stanley-tools-high-density-foam-refills-100mm-4in-2-pack.html|>
 ## Stanley Tools High Density Foam Refills 100mm (4in) 2 Pack
 
@@ -5365,6 +5682,7 @@
     "Pack of 2"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/uni-com-portable-door-chime-2.html|>
 ## Uni-Com Portable Door Chime
@@ -5387,6 +5705,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/irwin-impact-stubby-right-angle-head.html|>
 ## IRWIN® Impact Stubby Right Angle Head
 
@@ -5400,6 +5719,7 @@
     "Head Width: 38mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/hikoki-kc18ddxjbz-twin-pack-18v-3-x-50ah-li-ion.html|>
 ## HiKOKI KC18DDXJBZ Twin Pack 18V 3 x 5.0Ah Li-ion
@@ -5423,6 +5743,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-e-05103-pencil-driver-holster.html|>
 ## Makita E-05103 Pencil Driver Holster
 
@@ -5438,6 +5759,7 @@
     "Fitted with hook & loop strap for security"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/teng-bi-hexagon-sockets-imperial-mecca-rossa-12in-drive.html|>
 ## Teng Bi-Hexagon Sockets Imperial Mecca Rossa 1/2in Drive
@@ -5455,6 +5777,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/dewalt-respiration-powered-air-purifying-welding-respirator.html|>
 ## DEWALT Respiration Powered Air Purifying Welding Respirator
 
@@ -5471,20 +5794,6 @@
   ]
 }
 
-<|https://www.mydiy.ie/products/steinel-hg2320e-lcd-heat-gun-2300-watt-240-volt.html|>
-## Steinel HG2320E LCD Heat Gun 2300 Watt 240 Volt
-
-{
-  "price": "€261.01 inc VAT (€212.20 exc.vat)",
-  "description": "The Steinel HG2320E hot air tool has an LCD display which shows temperature in 10°C steps and includes heat build-up warning function and residual-heat indicator. The heat gun is fitted with a 3m cable, making it perfectly equipped for jobs that demand greater freedom of movement. The ceramic heater's temperature can be infinitely varied over a range of 80°C - 650°C at the thumbwheel. Airflow can be controlled in 2 stages from 150–500 l/min. The heat gun features integrated thermal cut-out which eliminates the risk of overheating. Its brushless motor is rated for 1,000 hours operation. The optimised weight balance and ergonomically shaped handle with soft inlay permit fatigue-free work.",
-  "availability": "In Stock",
-  "product_name": "Steinel HG2320E LCD Heat Gun 2300 Watt 240 Volt",
-  "specifications": [
-    "Input Power: 2,300 Watt",
-    "Airflow: 150-500 l/min",
-    "Air Temperature: 80-650°C"
-  ]
-}
 
 <|https://www.mydiy.ie/products/dewalt-respiration-ffp3-disposable-respirator.html|>
 ## DEWALT Respiration FFP3 Disposable Respirator
@@ -5502,6 +5811,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rentokil-rodine-mouse-and-rat-killer-grain-bait-pack-of-6-sachets.html|>
 ## Rentokil Rodine Mouse & Rat Killer Grain Bait Pack of 6 Sachets
 
@@ -5516,6 +5826,7 @@
     "Ready-to-use bait"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/purdy-premium-6-in-1-multi-tool.html|>
 ## Purdy Premium 6-in-1 Multi-Tool
@@ -5532,22 +5843,6 @@
   ]
 }
 
-<|https://www.mydiy.ie/products/pest-stop-systems-rat-cage-trap-14in.html|>
-## Pest-Stop Systems Rat Cage Trap 14in
-
-{
-  "price": "€32.30 inc VAT (€26.26 exc.vat)",
-  "description": "This Pest-Stop rat cage is a traditional device for the humane trapping of rats or similar sized pests. A spring-loaded front entrance is triggered when the intruder takes the bait, safely trapping it inside. The secondary one-way entrance allows trapping of further rats. Rats have a grouping instinct and it is not uncommon for 2 or more rats to be caught at the same time. The trap is galvanised, making it resistant to rust and comes fully assembled and ready to bait. The carry handle on the top of the cage enables easy transportation. Supplied with simple setting instructions. Product dimensions: (L)37.5 cm x (W)18.5 cm x (H)16cm.",
-  "availability": "In Stock",
-  "product_name": "Pest-Stop Systems Rat Cage Trap 14in",
-  "specifications": [
-    "Product dimensions: (L)37.5 cm x (W)18.5 cm x (H)16cm",
-    "Galvanised for rust resistance",
-    "Humane trapping mechanism",
-    "Spring-loaded front entrance",
-    "Secondary one-way entrance for additional trapping"
-  ]
-}
 
 <|https://www.mydiy.ie/products/scan-first-aid-kit-1-100-persons-bs-approved.html|>
 ## Scan First Aid Kit 1-100 Persons BS Approved
@@ -5564,6 +5859,7 @@
     "Manufactured according to BSI guidelines"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/teng-hexagon-satin-socket-metric-34in-drive.html|>
 ## Teng Hexagon Satin Socket Metric 3/4in Drive
@@ -5582,6 +5878,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/rustins-galvanised-primer.html|>
 ## Rustins Galvanised Primer
 
@@ -5596,6 +5893,7 @@
     "Re-coatable in 2 hours"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/led-lenser-seo3-headlamp-green-test-it-pack.html|>
 ## LED Lenser SEO3 Headlamp Green Test It Pack
@@ -5624,6 +5922,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scangrip-dual-bracket-for-3m-tripod.html|>
 ## SCANGRIP® Dual Bracket for 3m Tripod
 
@@ -5636,6 +5935,7 @@
     "Tripod Size: 3m"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/sievert-pro-8688-power-burner-50mm-86kw.html|>
 ## Sievert Pro 86/88 Power Burner 50mm 86kW
@@ -5653,6 +5953,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/tillex-white-clamp-14-20mm-box-100.html|>
 ## tillex® White Clamp 14-20mm Box 100
 
@@ -5667,6 +5968,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/silverhook-diesel-treatment-325ml.html|>
 ## Silverhook Diesel Treatment 325ml
 
@@ -5680,6 +5982,7 @@
     "One bottle treats 50-70 litres of fuel."
   ]
 }
+
 
 <|https://www.mydiy.ie/products/scangrip-miniform-rechargeable-work-light-200-lumens.html|>
 ## SCANGRIP® MINIFORM Rechargeable Work Light 200 lumens
@@ -5703,6 +6006,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-s451-sealtex-classic-trousers.html|>
 ## Portwest S451 Sealtex Classic Trousers
 
@@ -5719,6 +6023,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/knipex-xs-mini-plier-set-2-piece.html|>
 ## Knipex XS Mini Plier Set, 2 Piece
 
@@ -5732,6 +6037,7 @@
     "Nut Capacity: 24mm"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/uni-com-plug-in-door-chime-2.html|>
 ## Uni-Com Plug-in Door Chime
@@ -5750,6 +6056,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/portwest-tx18-grey-texo-contrast-jacket.html|>
 ## Portwest TX18 Grey Texo Contrast Jacket
 
@@ -5767,6 +6074,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/makita-adp10-xgt-to-lxt-charger-adaptor.html|>
 ## Makita ADP10 XGT® to LXT® Charger Adaptor
 
@@ -5780,6 +6088,7 @@
     "Qty: Sorry this item is out of stock"
   ]
 }
+
 
 <|https://www.mydiy.ie/products/pest-stop-systems-little-nipper-rat-traps.html|>
 ## Pest-Stop Systems Little Nipper Rat Traps
@@ -5798,6 +6107,7 @@
   ]
 }
 
+
 <|https://www.mydiy.ie/products/scangrip-tower-5-connect-floodlight-with-milwaukee-connect-18v-bare-unit.html|>
 ## SCANGRIP® TOWER 5 CONNECT Floodlight with Milwaukee CONNECT 18V Bare Unit
 
@@ -5815,4 +6125,6 @@
     "Weight: 5.2kg."
   ]
 }
+
+
 
