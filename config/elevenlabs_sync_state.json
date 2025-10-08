@@ -1165,6 +1165,12 @@
       "document_id": "rrzPOEoPqM9TfQxDgmIw",
       "uploaded_at": "2025-10-08T12:23:30.586519",
       "file_size": 49479
+    },
+    "llms-mydiy-ie-angle_grinders_100mm_disc.txt": {
+      "hash": "4feb5b16759829a3fef5e9defb51cdcd",
+      "document_id": "USaDRg9QlhKStRxtBkqR",
+      "uploaded_at": "2025-10-08T12:44:12.290729",
+      "file_size": 1153
     }
   }
 }
