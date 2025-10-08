@@ -228,5 +228,943 @@
       "uploaded_at": "2025-10-04T22:17:13.687849",
       "file_size": 25241
     }
+  },
+  "mydiy-ie": {
+    "llms-mydiy-ie-abrasives.txt": {
+      "hash": "e787499a56fb7ee60ba087fe75606e70",
+      "document_id": "1ITghjhuCt32bu6nlmnK",
+      "uploaded_at": "2025-10-08T12:20:11.412384",
+      "file_size": 6877
+    },
+    "llms-mydiy-ie-abrasives_fillers.txt": {
+      "hash": "983947a73649e05745e1f33881b68924",
+      "document_id": "VKuWztCNCGo76FZm2PTu",
+      "uploaded_at": "2025-10-08T12:20:12.672214",
+      "file_size": 9029
+    },
+    "llms-mydiy-ie-abrasives_fillers_and_lubricants.txt": {
+      "hash": "8473a096af021e3d346e764a2623001a",
+      "document_id": "9vaqDLVuz1NqA4QOr8Mn",
+      "uploaded_at": "2025-10-08T12:20:13.841639",
+      "file_size": 11491
+    },
+    "llms-mydiy-ie-adhesives_and_fixings.txt": {
+      "hash": "c4b1e76d83750acea53014a20c9c3ab2",
+      "document_id": "wAg7KmH7IqIEWODvuHLW",
+      "uploaded_at": "2025-10-08T12:20:15.343568",
+      "file_size": 112622
+    },
+    "llms-mydiy-ie-adhesives_and_tapes.txt": {
+      "hash": "9cec42a61c1b18266dd9e2e735a9c865",
+      "document_id": "HRGgIQQX3KIS41gv2url",
+      "uploaded_at": "2025-10-08T12:20:16.432009",
+      "file_size": 7237
+    },
+    "llms-mydiy-ie-adhesives_fixings.txt": {
+      "hash": "60032349bf915149a669e53fa9f46596",
+      "document_id": "BJtcmYmj0zI2qAnE9DgG",
+      "uploaded_at": "2025-10-08T12:20:18.876674",
+      "file_size": 16559
+    },
+    "llms-mydiy-ie-aquatics.txt": {
+      "hash": "317f32faa8fa3ba8f1929e0c4b12100a",
+      "document_id": "gX7wzHhmM7SkkXF5ZhD0",
+      "uploaded_at": "2025-10-08T12:20:19.906486",
+      "file_size": 9707
+    },
+    "llms-mydiy-ie-automotive_care.txt": {
+      "hash": "3471528f5aa0c7fc55dbea7225ac3fb2",
+      "document_id": "3PRu1FpNTpNxZbuSOLky",
+      "uploaded_at": "2025-10-08T12:20:21.299999",
+      "file_size": 4305
+    },
+    "llms-mydiy-ie-automotive_oils.txt": {
+      "hash": "d81bb63d577df5c6bd111de0290f3969",
+      "document_id": "uODszxwLTfdyp8trtkw3",
+      "uploaded_at": "2025-10-08T12:20:22.439291",
+      "file_size": 747
+    },
+    "llms-mydiy-ie-axes_and_splitting_wedges.txt": {
+      "hash": "9e475fd0fa1ad18f392464cdf0af872a",
+      "document_id": "X2cVRDZ39wbILX5chwfJ",
+      "uploaded_at": "2025-10-08T12:20:23.613599",
+      "file_size": 29039
+    },
+    "llms-mydiy-ie-batteries.txt": {
+      "hash": "0c61b51d851132330d869f63875a9c55",
+      "document_id": "ObKCCgVyZjjwlUk46SQx",
+      "uploaded_at": "2025-10-08T12:20:24.738614",
+      "file_size": 22732
+    },
+    "llms-mydiy-ie-batteries_and_chargers_for_cordless_tools.txt": {
+      "hash": "d852bb49c4ef24be1ce020a491357d26",
+      "document_id": "CkKrCLYlzC7s3RLJMb4l",
+      "uploaded_at": "2025-10-08T12:20:25.921665",
+      "file_size": 48914
+    },
+    "llms-mydiy-ie-blades.txt": {
+      "hash": "18c71f462e3eef3233e24b6a4fc67f99",
+      "document_id": "pSaxxGCiLtW4iIgu91e0",
+      "uploaded_at": "2025-10-08T12:20:27.439253",
+      "file_size": 104604
+    },
+    "llms-mydiy-ie-blades___bandsaw_and_alligator_blades.txt": {
+      "hash": "9f14c933a2223d9f27e20a2ce9c3f9fb",
+      "document_id": "IvVFnmQWn1uM7GSuKxW8",
+      "uploaded_at": "2025-10-08T12:20:28.548221",
+      "file_size": 2913
+    },
+    "llms-mydiy-ie-blades___jigsaw.txt": {
+      "hash": "364dd8e309b217716526dfc79099f4be",
+      "document_id": "OB4CYn8VHbkOU4J2Swkt",
+      "uploaded_at": "2025-10-08T12:20:29.830644",
+      "file_size": 29499
+    },
+    "llms-mydiy-ie-brushes_brooms_and_mops.txt": {
+      "hash": "6f798ddc7dbe479b50363ff57ffce1f3",
+      "document_id": "StpkieHiRb9Pg5qmZL3J",
+      "uploaded_at": "2025-10-08T12:20:30.884922",
+      "file_size": 23246
+    },
+    "llms-mydiy-ie-building_materials.txt": {
+      "hash": "0ad3be3ba6effc97b59cd08b946c6c1d",
+      "document_id": "NXPGG1ehMTd1NS91d7bE",
+      "uploaded_at": "2025-10-08T12:20:32.119944",
+      "file_size": 1284
+    },
+    "llms-mydiy-ie-cable_reels_site_lights_and_transformers.txt": {
+      "hash": "a678d0a8a327a7ff4b97d721fe20a9d0",
+      "document_id": "MmAJxFksRRAC9OaqYyiN",
+      "uploaded_at": "2025-10-08T12:20:33.268525",
+      "file_size": 49661
+    },
+    "llms-mydiy-ie-camping_equipment.txt": {
+      "hash": "6672d701eef227980314a79c837ab18e",
+      "document_id": "swBuoyEP9IV6fC6N9w7l",
+      "uploaded_at": "2025-10-08T12:20:34.282128",
+      "file_size": 1346
+    },
+    "llms-mydiy-ie-car_maintenance_and_valeting_products.txt": {
+      "hash": "8fdd6dafc729322adf63de5b9185327e",
+      "document_id": "wWL0ULejz5yK6Uo8V1m5",
+      "uploaded_at": "2025-10-08T12:20:35.451650",
+      "file_size": 89838
+    },
+    "llms-mydiy-ie-clamps.txt": {
+      "hash": "87f20f3be10180108fb98ab54d0db5f8",
+      "document_id": "8Zw1fSDPjOUtVKOg4KeN",
+      "uploaded_at": "2025-10-08T12:20:36.477619",
+      "file_size": 56
+    },
+    "llms-mydiy-ie-cleaning_and_heating.txt": {
+      "hash": "de3bf0ee1ecb7b9b45b0d1900d1bbfe8",
+      "document_id": "kb1ybiywIibMZAwUXOIf",
+      "uploaded_at": "2025-10-08T12:20:37.660342",
+      "file_size": 60759
+    },
+    "llms-mydiy-ie-cleaning_supplies.txt": {
+      "hash": "135426aa66d75d8f84a23429b48b1ca9",
+      "document_id": "5d7RMLRpMmWEsxhmg33q",
+      "uploaded_at": "2025-10-08T12:20:38.736864",
+      "file_size": 24432
+    },
+    "llms-mydiy-ie-cleaning_tools.txt": {
+      "hash": "6e877a4f9a40530d0dee1354202b69da",
+      "document_id": "EkPFsdvG3MazJ6Kv3Q37",
+      "uploaded_at": "2025-10-08T12:20:39.755147",
+      "file_size": 13752
+    },
+    "llms-mydiy-ie-cleaning_wipes.txt": {
+      "hash": "e16e950d425a53343cacb3e1ed09000f",
+      "document_id": "e650yRAt67AFuDA3xrdh",
+      "uploaded_at": "2025-10-08T12:20:40.771410",
+      "file_size": 2334
+    },
+    "llms-mydiy-ie-clothing_and_workwear.txt": {
+      "hash": "3986398aceb72679142da861d81016a0",
+      "document_id": "19vLn6IgNxqNysR4DxtH",
+      "uploaded_at": "2025-10-08T12:20:42.946011",
+      "file_size": 220414
+    },
+    "llms-mydiy-ie-compactors.txt": {
+      "hash": "2eb946a6daf220849171eaf4cc6d755d",
+      "document_id": "6M8YZMZ8B4cJx4dr7t3q",
+      "uploaded_at": "2025-10-08T12:20:43.956647",
+      "file_size": 2449
+    },
+    "llms-mydiy-ie-consumables.txt": {
+      "hash": "2c9d6fae5b8a18bf66fd14844167ea2b",
+      "document_id": "AIrO1gDDJ2EDKqmfaUij",
+      "uploaded_at": "2025-10-08T12:20:45.060246",
+      "file_size": 2768
+    },
+    "llms-mydiy-ie-cooking_equipment.txt": {
+      "hash": "857a77927dbb60e0f021193e4ffde52e",
+      "document_id": "iONIwtPUnQld5qULqOZ5",
+      "uploaded_at": "2025-10-08T12:20:46.201114",
+      "file_size": 928
+    },
+    "llms-mydiy-ie-cordless_angle_grinders_and_metalworking_tools.txt": {
+      "hash": "a7031e59d1f9e78f87de71d6fc2f217c",
+      "document_id": "iaCp1CeHFT4EjfpY8zIk",
+      "uploaded_at": "2025-10-08T12:20:47.238399",
+      "file_size": 2151
+    },
+    "llms-mydiy-ie-countersinks_plug_cutters_and_screw_diggers.txt": {
+      "hash": "44392e927ab06f9e2d36a13066918249",
+      "document_id": "6FyddKZihbMQBQ5TJRk3",
+      "uploaded_at": "2025-10-08T12:20:48.230834",
+      "file_size": 3196
+    },
+    "llms-mydiy-ie-decorating___painting_tools.txt": {
+      "hash": "d42bcc7c4930f1b7c7a09cbe7e98c038",
+      "document_id": "6V3UMh1dUa8AfqLvravv",
+      "uploaded_at": "2025-10-08T12:20:49.312153",
+      "file_size": 38187
+    },
+    "llms-mydiy-ie-decorating___preparation.txt": {
+      "hash": "8cbbc2054f2199558e7d2922ffbb5c91",
+      "document_id": "NIAqkxHSRheQ3DNo3QQq",
+      "uploaded_at": "2025-10-08T12:20:50.953018",
+      "file_size": 56870
+    },
+    "llms-mydiy-ie-decorating_and_wood_care.txt": {
+      "hash": "a5d442163aa5407a0100c3b3ae42c7d6",
+      "document_id": "S379lRLF3s4PqsRmFFF0",
+      "uploaded_at": "2025-10-08T12:20:52.168502",
+      "file_size": 89843
+    },
+    "llms-mydiy-ie-decorating_painting_tools.txt": {
+      "hash": "821497d4f2d7ae249c1002f23b358ee9",
+      "document_id": "Xzz1G626IV0zID6XNFHQ",
+      "uploaded_at": "2025-10-08T12:20:53.316265",
+      "file_size": 13694
+    },
+    "llms-mydiy-ie-decorating_wood_care.txt": {
+      "hash": "750246240fc6e559eb245866fa54007d",
+      "document_id": "O03CKspxFa5Kt6UoI0V5",
+      "uploaded_at": "2025-10-08T12:20:54.350662",
+      "file_size": 24674
+    },
+    "llms-mydiy-ie-detectors_and_testers.txt": {
+      "hash": "c200e8a9848529ad26184eecd63c2e60",
+      "document_id": "Ka64FrjvsOzhZHgZ1ooq",
+      "uploaded_at": "2025-10-08T12:20:55.372944",
+      "file_size": 2495
+    },
+    "llms-mydiy-ie-discs___diamond.txt": {
+      "hash": "634840967af37e80af9c235583fe6cb8",
+      "document_id": "fOxD8tYd4rQQ8EblFrgu",
+      "uploaded_at": "2025-10-08T12:20:56.485990",
+      "file_size": 15581
+    },
+    "llms-mydiy-ie-door_security_and_furniture.txt": {
+      "hash": "d4849c5834de4a7d9fe36b79dd3892d8",
+      "document_id": "eq4d95Xgy6wDPMNktP6L",
+      "uploaded_at": "2025-10-08T12:20:58.106135",
+      "file_size": 29717
+    },
+    "llms-mydiy-ie-drill_bits.txt": {
+      "hash": "01c33d091f4c0b228428929f0584be3c",
+      "document_id": "cpDlkr8ZvdgQLuDeYNMO",
+      "uploaded_at": "2025-10-08T12:20:59.150607",
+      "file_size": 6447
+    },
+    "llms-mydiy-ie-drill_bits___glass_tile_core_and_diamond.txt": {
+      "hash": "67c98f3df51aea8661b3664992087db1",
+      "document_id": "I7PfvRRs4F6EwHfHFzzN",
+      "uploaded_at": "2025-10-08T12:21:00.356796",
+      "file_size": 37863
+    },
+    "llms-mydiy-ie-drill_bits___masonry_and_sds.txt": {
+      "hash": "5d373d775c4f686a79eabf01cc57b892",
+      "document_id": "1qyVRuLBkmW9BUy1z94E",
+      "uploaded_at": "2025-10-08T12:21:01.507643",
+      "file_size": 33582
+    },
+    "llms-mydiy-ie-drill_bits___metal.txt": {
+      "hash": "4a669f51c4544ce11ae46e574e655ca6",
+      "document_id": "EWRuKcjszbjLIEeYjpES",
+      "uploaded_at": "2025-10-08T12:21:02.599808",
+      "file_size": 51469
+    },
+    "llms-mydiy-ie-drill_bits___wood.txt": {
+      "hash": "b6ebb85c63326997be963ad6770e9322",
+      "document_id": "0anypVuB1tiSZnoS5KO8",
+      "uploaded_at": "2025-10-08T12:21:03.664719",
+      "file_size": 21483
+    },
+    "llms-mydiy-ie-drill_bits_and_holesaws.txt": {
+      "hash": "282f93dad1d98bc648e68e7313929a44",
+      "document_id": "LEgvNYh23ITsiduofVIm",
+      "uploaded_at": "2025-10-08T12:21:05.406378",
+      "file_size": 121596
+    },
+    "llms-mydiy-ie-drill_bits_holesaws.txt": {
+      "hash": "71667f1be74f6c3b801b16ecb3e8ee18",
+      "document_id": "1hAECcUhfDfIp6iUMWDd",
+      "uploaded_at": "2025-10-08T12:21:06.519497",
+      "file_size": 1224
+    },
+    "llms-mydiy-ie-drills_cordless_drills.txt": {
+      "hash": "19b84f3022fdedef690d84e1b8dfc875",
+      "document_id": "xAV0boehTsfwcrHFyYgZ",
+      "uploaded_at": "2025-10-08T12:21:07.715587",
+      "file_size": 5179
+    },
+    "llms-mydiy-ie-electrical_and_lighting.txt": {
+      "hash": "175bbf529bf0a88566e27d2fbe1f71c0",
+      "document_id": "XxSj6KhM8QfkC7ghFp43",
+      "uploaded_at": "2025-10-08T12:21:08.791183",
+      "file_size": 20345
+    },
+    "llms-mydiy-ie-electrical_fittings.txt": {
+      "hash": "3fb2b6a94bac1af2a9f10eb918d0f416",
+      "document_id": "xvOgyMrd5OlL2QXEytZi",
+      "uploaded_at": "2025-10-08T12:21:10.295645",
+      "file_size": 51445
+    },
+    "llms-mydiy-ie-electronic_accessories.txt": {
+      "hash": "5b34ae4cf98b570a227b7e57ab1b29f6",
+      "document_id": "A18qhGxuSQIA4OdDoZf7",
+      "uploaded_at": "2025-10-08T12:21:11.303689",
+      "file_size": 802
+    },
+    "llms-mydiy-ie-fasteners.txt": {
+      "hash": "3cf7078d254a60908dee2fc081c419b7",
+      "document_id": "ALmXGQpSlhWuftTKYESK",
+      "uploaded_at": "2025-10-08T12:21:12.459637",
+      "file_size": 547
+    },
+    "llms-mydiy-ie-files.txt": {
+      "hash": "1ca1ca7886395e5f1e39d15c464eea03",
+      "document_id": "sEmDPgBsbVqjHUvzInLv",
+      "uploaded_at": "2025-10-08T12:21:13.615907",
+      "file_size": 54
+    },
+    "llms-mydiy-ie-fillers.txt": {
+      "hash": "7cf9ec5c82a37d289969436b04c54156",
+      "document_id": "NFqV9Elm785HDRSHXFYK",
+      "uploaded_at": "2025-10-08T12:21:14.793522",
+      "file_size": 64143
+    },
+    "llms-mydiy-ie-fixings.txt": {
+      "hash": "21f18a4e701540ae2ca4a2eb7ca3adda",
+      "document_id": "Fa51G9YIEQNP9dLy0Lbv",
+      "uploaded_at": "2025-10-08T12:21:15.807392",
+      "file_size": 3533
+    },
+    "llms-mydiy-ie-garden_and_garage_storage.txt": {
+      "hash": "08b6b46ee7add31e604863494fc5de84",
+      "document_id": "NoRgYGIphCq5cUCCwCXb",
+      "uploaded_at": "2025-10-08T12:21:16.832912",
+      "file_size": 810
+    },
+    "llms-mydiy-ie-garden_machinery.txt": {
+      "hash": "f775c06e726e67334d03c4c7366ef810",
+      "document_id": "wHuToi7GHI6Qqd4jQD27",
+      "uploaded_at": "2025-10-08T12:21:17.944692",
+      "file_size": 31763
+    },
+    "llms-mydiy-ie-garden_tools.txt": {
+      "hash": "f28b38012a3a8b67bd50933de8c9618f",
+      "document_id": "h2ePYhl4gNy8knpIzkua",
+      "uploaded_at": "2025-10-08T12:21:19.129755",
+      "file_size": 54754
+    },
+    "llms-mydiy-ie-gas_burners_and_accessories.txt": {
+      "hash": "96b248f6ef4f1cdfbfc48a31f1c8715c",
+      "document_id": "lPnDKTMjwvM8mKz0Yjai",
+      "uploaded_at": "2025-10-08T12:21:20.122040",
+      "file_size": 1893
+    },
+    "llms-mydiy-ie-gas_cartridges.txt": {
+      "hash": "6e139466df61a2ee6bc07ee47c392f6e",
+      "document_id": "YIX6u1qVRPLpIocrtvpR",
+      "uploaded_at": "2025-10-08T12:21:21.217245",
+      "file_size": 2694
+    },
+    "llms-mydiy-ie-gas_products.txt": {
+      "hash": "6dc2f0f6f24a00fc1a2905128cc2f2e2",
+      "document_id": "94ySfqTqxiM9Qwkay91q",
+      "uploaded_at": "2025-10-08T12:21:22.377068",
+      "file_size": 752
+    },
+    "llms-mydiy-ie-hammers.txt": {
+      "hash": "87b937f1ee585d8c3352559e76b5df00",
+      "document_id": "UwFtOgDsOSX3AlU3Doo9",
+      "uploaded_at": "2025-10-08T12:21:24.009100",
+      "file_size": 100115
+    },
+    "llms-mydiy-ie-hand_cleaners.txt": {
+      "hash": "cd69cf4ec4618a327b023ef351e4c57b",
+      "document_id": "UHQ6cOuKaeHv8jlFpuAd",
+      "uploaded_at": "2025-10-08T12:21:25.033130",
+      "file_size": 2135
+    },
+    "llms-mydiy-ie-hand_tools.txt": {
+      "hash": "c33e82129ff9c433f62e9ebb95fe4fe8",
+      "document_id": "GdmWdINknqnRs9p6Zfev",
+      "uploaded_at": "2025-10-08T12:21:27.121194",
+      "file_size": 217150
+    },
+    "llms-mydiy-ie-hand_tools_1.txt": {
+      "hash": "00ece5d1499ec326e1d35a3fb7275926",
+      "document_id": "UcMm6PToQ34GhdFAwmtJ",
+      "uploaded_at": "2025-10-08T12:21:28.687033",
+      "file_size": 263905
+    },
+    "llms-mydiy-ie-hand_tools_2.txt": {
+      "hash": "ab2f56ab14cea78373fe7ee2064fb96f",
+      "document_id": "Kb7rwDtw0YyShU43dcRa",
+      "uploaded_at": "2025-10-08T12:21:30.339849",
+      "file_size": 176961
+    },
+    "llms-mydiy-ie-hand_workshop_cleaners_and_wipes.txt": {
+      "hash": "4f4557190d29b8674d4bf8d2847f19da",
+      "document_id": "flT3Wn43fRgdo5S1lmrJ",
+      "uploaded_at": "2025-10-08T12:21:31.432244",
+      "file_size": 22850
+    },
+    "llms-mydiy-ie-hardware.txt": {
+      "hash": "6b37274e392dad4717fc4a23843a8b4e",
+      "document_id": "bAQ19UpkE7R39W3pIudT",
+      "uploaded_at": "2025-10-08T12:21:32.466853",
+      "file_size": 504
+    },
+    "llms-mydiy-ie-heating.txt": {
+      "hash": "fbcf7fda7f1a6c0744c45b7b9f500c25",
+      "document_id": "qJGTmaWb2FdX3RuLLY0n",
+      "uploaded_at": "2025-10-08T12:21:33.628463",
+      "file_size": 3958
+    },
+    "llms-mydiy-ie-holesaws.txt": {
+      "hash": "40f5a957fab87845377ce398fbff299d",
+      "document_id": "fVroFSnbN6b5XNfa8u7I",
+      "uploaded_at": "2025-10-08T12:21:34.789949",
+      "file_size": 47460
+    },
+    "llms-mydiy-ie-home_leisure.txt": {
+      "hash": "f1eb3dda6c38343b2938b231efd5f82c",
+      "document_id": "ScoUbPxoI3ob1WMJvhW2",
+      "uploaded_at": "2025-10-08T12:21:35.809128",
+      "file_size": 11625
+    },
+    "llms-mydiy-ie-home_leisure_and_car_care.txt": {
+      "hash": "d850a087eb8e6184ade8c9e619a48885",
+      "document_id": "7XZil6zL96H1ajKw4FTM",
+      "uploaded_at": "2025-10-08T12:21:36.965439",
+      "file_size": 53993
+    },
+    "llms-mydiy-ie-kitchen_tools.txt": {
+      "hash": "75bd07e2ef65754dae48ec130c7df09b",
+      "document_id": "FBt4HDXH9JI5ZFqDRjit",
+      "uploaded_at": "2025-10-08T12:21:37.968323",
+      "file_size": 953
+    },
+    "llms-mydiy-ie-ladders.txt": {
+      "hash": "36c04a3bb889a028ebc9139a5b479f99",
+      "document_id": "4lPpqZ1FCrxoXBSR0IyA",
+      "uploaded_at": "2025-10-08T12:21:39.077830",
+      "file_size": 11043
+    },
+    "llms-mydiy-ie-ladders_and_other_access_equipment.txt": {
+      "hash": "7aa1261fbb4cbe34c2e2fc3db9b1b69f",
+      "document_id": "ZqSBjXKCCzE9CP0Er5us",
+      "uploaded_at": "2025-10-08T12:21:40.074520",
+      "file_size": 2363
+    },
+    "llms-mydiy-ie-lighting.txt": {
+      "hash": "dd92b00d36101c82795ddc4d2b95cb57",
+      "document_id": "qV0KYwDaSMr1RD4mcHVu",
+      "uploaded_at": "2025-10-08T12:21:41.284039",
+      "file_size": 10570
+    },
+    "llms-mydiy-ie-lubricants.txt": {
+      "hash": "0070aab0f11e8e7e49c9bf628e5b3175",
+      "document_id": "1Ro1oyZ4qMp9IJgnsZYE",
+      "uploaded_at": "2025-10-08T12:21:42.565584",
+      "file_size": 114549
+    },
+    "llms-mydiy-ie-marking_tools.txt": {
+      "hash": "1da20ac6aa519c35e9c3c46c77cbf39c",
+      "document_id": "EmWBxyYlxY8sKGAY5IMB",
+      "uploaded_at": "2025-10-08T12:21:43.565253",
+      "file_size": 546
+    },
+    "llms-mydiy-ie-measuring_and_marking_tools.txt": {
+      "hash": "598ebba5b46deba4232d0bf5740c2821",
+      "document_id": "ZvKa5zeVUldotM2jB3Ie",
+      "uploaded_at": "2025-10-08T12:21:44.548085",
+      "file_size": 1752
+    },
+    "llms-mydiy-ie-measuring_tools.txt": {
+      "hash": "d5b440feb54a7f3f54958383647827d6",
+      "document_id": "CH0e9ihxWRZwie6NhfOL",
+      "uploaded_at": "2025-10-08T12:21:45.600044",
+      "file_size": 3406
+    },
+    "llms-mydiy-ie-measuring_tools_powered.txt": {
+      "hash": "92e62bba877c00194102236ea657e8aa",
+      "document_id": "pEv3t07XksaNxkEYw7pP",
+      "uploaded_at": "2025-10-08T12:21:46.580489",
+      "file_size": 4078
+    },
+    "llms-mydiy-ie-medical_supplies.txt": {
+      "hash": "e4eba45a9a448b52a49b6d1aadd9982c",
+      "document_id": "lyoYGdWpxuYqnWHX4SO7",
+      "uploaded_at": "2025-10-08T12:21:47.579345",
+      "file_size": 1215
+    },
+    "llms-mydiy-ie-merchandising.txt": {
+      "hash": "77e479a7c56fc4e9e10a06adb963b0c2",
+      "document_id": "sE6J6pB2ir0aoxRPNDY3",
+      "uploaded_at": "2025-10-08T12:21:48.622963",
+      "file_size": 1323
+    },
+    "llms-mydiy-ie-mixed_bit_sets.txt": {
+      "hash": "95549c981ad956cb94666227ca717957",
+      "document_id": "So7FUhPgGrGqvUaI0jq8",
+      "uploaded_at": "2025-10-08T12:21:49.936623",
+      "file_size": 5723
+    },
+    "llms-mydiy-ie-multi_function_tools_and_engravers.txt": {
+      "hash": "0aa37762cafd185d845e94d49b185025",
+      "document_id": "6WhzAOUEtPe9RwRgJRFh",
+      "uploaded_at": "2025-10-08T12:21:51.332563",
+      "file_size": 13844
+    },
+    "llms-mydiy-ie-multi_tool_biscuit_jointer_and_planer_accessories.txt": {
+      "hash": "84ec871695397003d2683277cafd9e07",
+      "document_id": "z1TAZcUMO3wLRrCDBjFc",
+      "uploaded_at": "2025-10-08T12:21:52.418792",
+      "file_size": 7247
+    },
+    "llms-mydiy-ie-nailers_and_staple_guns_cordless_gaspneumatic.txt": {
+      "hash": "2a6a64cee9bc7b3a6f977aaa716b32ad",
+      "document_id": "SUKrOSBrqQ7TwOyRMmyH",
+      "uploaded_at": "2025-10-08T12:21:53.470222",
+      "file_size": 20980
+    },
+    "llms-mydiy-ie-nails.txt": {
+      "hash": "32cda4bd3d80021c84efbedb38a8bbc5",
+      "document_id": "ox8qVO5uRMfR64O09h03",
+      "uploaded_at": "2025-10-08T12:21:54.441294",
+      "file_size": 2328
+    },
+    "llms-mydiy-ie-other_products.txt": {
+      "hash": "1b251969a91c04e64a620c3ae4324ee9",
+      "document_id": "ztQeqQIlZ1Fk7gxjYIme",
+      "uploaded_at": "2025-10-08T12:21:56.447568",
+      "file_size": 297462
+    },
+    "llms-mydiy-ie-paints_and_spray_paints.txt": {
+      "hash": "db0e65089ebb068024b45619a3df5025",
+      "document_id": "8Btffe1SeYaiXl6MvVzD",
+      "uploaded_at": "2025-10-08T12:21:57.731531",
+      "file_size": 83640
+    },
+    "llms-mydiy-ie-penknives_and_leisure_tools.txt": {
+      "hash": "a89fe60856d599ea69cd29aebb839a96",
+      "document_id": "eERsq5l9KT9cDi17QKuL",
+      "uploaded_at": "2025-10-08T12:21:58.872473",
+      "file_size": 43811
+    },
+    "llms-mydiy-ie-personal_protection_equipment.txt": {
+      "hash": "b77aca9aa96171666cf0f2f2ab3b73fa",
+      "document_id": "pnYC6ppFy4fYqQv8zi9X",
+      "uploaded_at": "2025-10-08T12:22:00.301293",
+      "file_size": 168450
+    },
+    "llms-mydiy-ie-pest_control.txt": {
+      "hash": "32a96fe849bd17e80c5d1f86b9740a93",
+      "document_id": "YICxaek1aZHNUNqQPzey",
+      "uploaded_at": "2025-10-08T12:22:01.661165",
+      "file_size": 102561
+    },
+    "llms-mydiy-ie-petrol_generators.txt": {
+      "hash": "b79f98acd51f82f4cc43fcd0998b46c6",
+      "document_id": "xhoQoIARa53i5ClvT8go",
+      "uploaded_at": "2025-10-08T12:22:02.739895",
+      "file_size": 4442
+    },
+    "llms-mydiy-ie-planers_biscuit_jointers_and_routers.txt": {
+      "hash": "27f2cdc666afe541b5617ac31026bb4c",
+      "document_id": "fzm8yQzkKMSUM76pEKvP",
+      "uploaded_at": "2025-10-08T12:22:03.807880",
+      "file_size": 26189
+    },
+    "llms-mydiy-ie-plumbing.txt": {
+      "hash": "1e2dba9f6f817394ea7dedea15780e0b",
+      "document_id": "mvk1k5LDm2pXGIXtSUzt",
+      "uploaded_at": "2025-10-08T12:22:05.037357",
+      "file_size": 60589
+    },
+    "llms-mydiy-ie-plumbing_and_heating_consumables.txt": {
+      "hash": "104e904333302cfd787a9614c556bce4",
+      "document_id": "ACQhKHU1JlqfR1F6cw5N",
+      "uploaded_at": "2025-10-08T12:22:06.100706",
+      "file_size": 1088
+    },
+    "llms-mydiy-ie-plumbing_tools.txt": {
+      "hash": "04af0604b351d78852553af935fd4c8e",
+      "document_id": "gldLKNTdGgjBe31dKiyb",
+      "uploaded_at": "2025-10-08T12:22:07.185402",
+      "file_size": 1757
+    },
+    "llms-mydiy-ie-power_tool_accessories.txt": {
+      "hash": "bdecd98a3a01ff83613b9de924ff8518",
+      "document_id": "dXDjf7UMsy5GzeugsG9H",
+      "uploaded_at": "2025-10-08T12:22:09.243089",
+      "file_size": 127574
+    },
+    "llms-mydiy-ie-power_tools.txt": {
+      "hash": "92597753ce18f4b09679f9653b9c7dfe",
+      "document_id": "RczTTb2IcGz1xFdqCb1m",
+      "uploaded_at": "2025-10-08T12:22:10.912511",
+      "file_size": 208637
+    },
+    "llms-mydiy-ie-router_bits.txt": {
+      "hash": "e0d376cb8c4cfa71ae7db7cec6b24bc6",
+      "document_id": "Wqo0jUgmFcQtjRQlKXjB",
+      "uploaded_at": "2025-10-08T12:22:12.347977",
+      "file_size": 91754
+    },
+    "llms-mydiy-ie-safes_and_key_safes.txt": {
+      "hash": "008e92a771324816d8130f2933cd7773",
+      "document_id": "uExaojBswEfO5iueSHuF",
+      "uploaded_at": "2025-10-08T12:22:13.743433",
+      "file_size": 35719
+    },
+    "llms-mydiy-ie-safety.txt": {
+      "hash": "61d250b266848ab155c502645fb9a67a",
+      "document_id": "uzG7XCPCaI0bR8TgTT08",
+      "uploaded_at": "2025-10-08T12:22:14.793734",
+      "file_size": 4674
+    },
+    "llms-mydiy-ie-safety_equipment.txt": {
+      "hash": "172cb9c447057b163f0dae91869291d0",
+      "document_id": "mr2Btds26iVB1aqrUyYK",
+      "uploaded_at": "2025-10-08T12:22:16.321151",
+      "file_size": 22910
+    },
+    "llms-mydiy-ie-safety_footwear.txt": {
+      "hash": "2c4b4b41230db3baf88d9db652c05318",
+      "document_id": "6I5jsTxg1JTk8u0JLJen",
+      "uploaded_at": "2025-10-08T12:22:17.537169",
+      "file_size": 32215
+    },
+    "llms-mydiy-ie-safety_gear.txt": {
+      "hash": "9f45d240b21e43e7ecd67f5a5caa40f8",
+      "document_id": "KH7ZNqz39qyynBQYLvj9",
+      "uploaded_at": "2025-10-08T12:22:18.684929",
+      "file_size": 2364
+    },
+    "llms-mydiy-ie-safety_glasses.txt": {
+      "hash": "4839485a01a9d5dbde3ac1d53bd53341",
+      "document_id": "1vsqXkIqMATCkBiELSev",
+      "uploaded_at": "2025-10-08T12:22:19.666648",
+      "file_size": 855
+    },
+    "llms-mydiy-ie-safety_goggles.txt": {
+      "hash": "52a32385a87035ce90c418b516b9196c",
+      "document_id": "u5b2elBHzh6GCB6mT6fU",
+      "uploaded_at": "2025-10-08T12:22:20.675959",
+      "file_size": 4569
+    },
+    "llms-mydiy-ie-safety_helmets.txt": {
+      "hash": "5d51148f591cb27df58c0fe89144da3c",
+      "document_id": "nXEuQwoOucDfaSMDauLL",
+      "uploaded_at": "2025-10-08T12:22:21.688160",
+      "file_size": 5952
+    },
+    "llms-mydiy-ie-safety_signs_smoke_and_fire_detection.txt": {
+      "hash": "137a7dfe087219653cdf03f64b7caec6",
+      "document_id": "NM2xZKJVQayY2KyVxqtI",
+      "uploaded_at": "2025-10-08T12:22:23.734971",
+      "file_size": 149056
+    },
+    "llms-mydiy-ie-safety_tapes.txt": {
+      "hash": "6089961e4217882e6b1f4292c8b42501",
+      "document_id": "kZX9xwauHeedoHWnekb8",
+      "uploaded_at": "2025-10-08T12:22:24.774032",
+      "file_size": 1549
+    },
+    "llms-mydiy-ie-safety_warning_and_barrier_tapes.txt": {
+      "hash": "b647f9392ea0fcce10026bc34d38c914",
+      "document_id": "LHXtxWwYNxS8IVBB0F1v",
+      "uploaded_at": "2025-10-08T12:22:25.906930",
+      "file_size": 897
+    },
+    "llms-mydiy-ie-sanding_sheets_belts_and_flap_discs.txt": {
+      "hash": "c329179e80af0f8bab78f79846db76dc",
+      "document_id": "2SS8Ku4dezUf7sOqzqSy",
+      "uploaded_at": "2025-10-08T12:22:27.184809",
+      "file_size": 24933
+    },
+    "llms-mydiy-ie-scissors_and_tweezers.txt": {
+      "hash": "cf8f7c4179ad249068c43ee80f8f2427",
+      "document_id": "cZ2xAv4EGciNYkYINnmy",
+      "uploaded_at": "2025-10-08T12:22:28.162099",
+      "file_size": 6790
+    },
+    "llms-mydiy-ie-screwdrivers_impact_drivers_and_wrenches.txt": {
+      "hash": "335536d080265fc5edeeb5c936bcbcaf",
+      "document_id": "snfOnQgA4oncG8WHzBJx",
+      "uploaded_at": "2025-10-08T12:22:29.901667",
+      "file_size": 81860
+    },
+    "llms-mydiy-ie-sealants.txt": {
+      "hash": "b09e0b911bad6716942665e46adda657",
+      "document_id": "BbLAuMP74LZeViHvxfTX",
+      "uploaded_at": "2025-10-08T12:22:31.028679",
+      "file_size": 63722
+    },
+    "llms-mydiy-ie-security.txt": {
+      "hash": "22fae112c6dced9c36f1448ffe125460",
+      "document_id": "1ZAY65UNnIDEteWcDJuS",
+      "uploaded_at": "2025-10-08T12:22:32.137680",
+      "file_size": 66794
+    },
+    "llms-mydiy-ie-security_cameras_lighting_and_door_entry.txt": {
+      "hash": "3c06067078b3b2b1c3cee7672b22c5d7",
+      "document_id": "iS2Znia5JOlG8pgFooy3",
+      "uploaded_at": "2025-10-08T12:22:33.471573",
+      "file_size": 32309
+    },
+    "llms-mydiy-ie-stepladders_and_platform_steps.txt": {
+      "hash": "faee799557b3e9bf4329859706b35b4f",
+      "document_id": "OBMoqam3BEgX158cvPgz",
+      "uploaded_at": "2025-10-08T12:22:34.519685",
+      "file_size": 831
+    },
+    "llms-mydiy-ie-storage_and_access.txt": {
+      "hash": "faee6cfda689062b12dfd31d856bfacd",
+      "document_id": "aBNNHMdjjFDlnuM53lbx",
+      "uploaded_at": "2025-10-08T12:22:35.587257",
+      "file_size": 8373
+    },
+    "llms-mydiy-ie-tarpaulins.txt": {
+      "hash": "f1f8afec12019eabb25fcf05c64e4317",
+      "document_id": "GVkUBKPj83YaUKRfvBdB",
+      "uploaded_at": "2025-10-08T12:22:36.965053",
+      "file_size": 3771
+    },
+    "llms-mydiy-ie-tiling_tools.txt": {
+      "hash": "9f72ec408b269caae3da3e56551f1ace",
+      "document_id": "UVItgb5Pv9o7PRDF0b49",
+      "uploaded_at": "2025-10-08T12:22:38.040294",
+      "file_size": 796
+    },
+    "llms-mydiy-ie-tiling_tools_and_tile_adhesives.txt": {
+      "hash": "0377e4854772462d246b287cc49d3b87",
+      "document_id": "QXnHpGsGddNXHUPAnBPo",
+      "uploaded_at": "2025-10-08T12:22:39.334644",
+      "file_size": 2962
+    },
+    "llms-mydiy-ie-tool_bags.txt": {
+      "hash": "b635468fb4aa0ce67e786dcaa810cb6e",
+      "document_id": "JT5wJx3YCqfrD2ZDkiTv",
+      "uploaded_at": "2025-10-08T12:22:40.377826",
+      "file_size": 996
+    },
+    "llms-mydiy-ie-tool_holders_pouches_and_belts.txt": {
+      "hash": "7da6a787f8f67c8e6c699121bb52b69a",
+      "document_id": "FtuhcG8v6QzW2DBIcdTw",
+      "uploaded_at": "2025-10-08T12:22:41.467839",
+      "file_size": 41510
+    },
+    "llms-mydiy-ie-tool_specific_accessories.txt": {
+      "hash": "7646121f3b02dead00294774a59785de",
+      "document_id": "IVs0TsAkeRHXOZtSUryN",
+      "uploaded_at": "2025-10-08T12:22:42.461530",
+      "file_size": 1578
+    },
+    "llms-mydiy-ie-tool_storage.txt": {
+      "hash": "85beee075b8a3b499352ad8090b851ae",
+      "document_id": "g3qoCAJCQYbIsxQOEcbg",
+      "uploaded_at": "2025-10-08T12:22:43.478134",
+      "file_size": 23220
+    },
+    "llms-mydiy-ie-toolboxes_and_tool_storage.txt": {
+      "hash": "b78f2e9a899d8bb9be3484e601d42073",
+      "document_id": "cjYcyS88HRG9wmEQ02Wl",
+      "uploaded_at": "2025-10-08T12:22:44.715186",
+      "file_size": 151772
+    },
+    "llms-mydiy-ie-torches.txt": {
+      "hash": "c26028e85cfcf18bdf58e5eb6a9cdc7e",
+      "document_id": "whO9iNV7iWLaHZg4JKHu",
+      "uploaded_at": "2025-10-08T12:22:45.861494",
+      "file_size": 98273
+    },
+    "llms-mydiy-ie-trucks_and_trolleys.txt": {
+      "hash": "c3048eb4e09f9df84d9fa5452a90ed59",
+      "document_id": "vbYQmAzj1BflHUZsLhZv",
+      "uploaded_at": "2025-10-08T12:22:46.871751",
+      "file_size": 6009
+    },
+    "llms-mydiy-ie-uncategorized_1.txt": {
+      "hash": "282f938d80e95f9aae48e3525d4fb288",
+      "document_id": "QprX2CjJC5VpQlnwEC0Q",
+      "uploaded_at": "2025-10-08T12:22:48.624885",
+      "file_size": 300283
+    },
+    "llms-mydiy-ie-uncategorized_10.txt": {
+      "hash": "8a90a45e008afd4f2e9bee393c0fb266",
+      "document_id": "p0hYp1yETJ4Ns2yVR1rV",
+      "uploaded_at": "2025-10-08T12:22:50.314040",
+      "file_size": 300436
+    },
+    "llms-mydiy-ie-uncategorized_11.txt": {
+      "hash": "bf9f144710e45fde49a4a2fce219d624",
+      "document_id": "Sk0915onzIQxZoxDVvJs",
+      "uploaded_at": "2025-10-08T12:22:52.742275",
+      "file_size": 301240
+    },
+    "llms-mydiy-ie-uncategorized_12.txt": {
+      "hash": "bf2278254573ed921085d37cd4c69cef",
+      "document_id": "xmaggkhtCJC8Q3pptofN",
+      "uploaded_at": "2025-10-08T12:22:54.325465",
+      "file_size": 301234
+    },
+    "llms-mydiy-ie-uncategorized_13.txt": {
+      "hash": "769511c64bad93c033e94563891e6ce7",
+      "document_id": "I66S9k4IyNVhb0uBuu0S",
+      "uploaded_at": "2025-10-08T12:22:56.417029",
+      "file_size": 301765
+    },
+    "llms-mydiy-ie-uncategorized_14.txt": {
+      "hash": "2d93eaae6db6ff0a47eecee8568d16d0",
+      "document_id": "FmU8c1sq1KaaT6oxjZTX",
+      "uploaded_at": "2025-10-08T12:22:58.190431",
+      "file_size": 300399
+    },
+    "llms-mydiy-ie-uncategorized_15.txt": {
+      "hash": "10575e2d2cbbca7c2fcb05eea23ed0c7",
+      "document_id": "IySfzTEDNhVUX27IXLfi",
+      "uploaded_at": "2025-10-08T12:23:00.322786",
+      "file_size": 301377
+    },
+    "llms-mydiy-ie-uncategorized_16.txt": {
+      "hash": "50c14b88fe011cb8b070208e91d355d0",
+      "document_id": "GlNcsWusXH2pBtYQvSbt",
+      "uploaded_at": "2025-10-08T12:23:02.349034",
+      "file_size": 301387
+    },
+    "llms-mydiy-ie-uncategorized_17.txt": {
+      "hash": "f1d83127e45bb9f58ed1d9d28f5ca440",
+      "document_id": "O5H57t844oMHaCaflIZM",
+      "uploaded_at": "2025-10-08T12:23:03.510932",
+      "file_size": 94150
+    },
+    "llms-mydiy-ie-uncategorized_2.txt": {
+      "hash": "a89127d0dc735660f0db55c14f65f5e0",
+      "document_id": "6jh0umBWAv2iWQoQPEMc",
+      "uploaded_at": "2025-10-08T12:23:05.088807",
+      "file_size": 300645
+    },
+    "llms-mydiy-ie-uncategorized_3.txt": {
+      "hash": "8c32181af2da0f0cebcd5c6b7c6c3b64",
+      "document_id": "UZKxkkAqlWhdK2KrU83B",
+      "uploaded_at": "2025-10-08T12:23:06.724675",
+      "file_size": 300596
+    },
+    "llms-mydiy-ie-uncategorized_4.txt": {
+      "hash": "94e46651e99e84729c33023a1ad755ee",
+      "document_id": "qTZxSIea7xGiHdKS1oGE",
+      "uploaded_at": "2025-10-08T12:23:08.280460",
+      "file_size": 300836
+    },
+    "llms-mydiy-ie-uncategorized_5.txt": {
+      "hash": "fb013f21c6461018d1145a3bcfc91ef4",
+      "document_id": "RlENjoR5YkBPATnRnnge",
+      "uploaded_at": "2025-10-08T12:23:09.762327",
+      "file_size": 301351
+    },
+    "llms-mydiy-ie-uncategorized_6.txt": {
+      "hash": "d00351a2d2b9543b406eb6edf3e02268",
+      "document_id": "xarmxzwSzfaMC36MSqBp",
+      "uploaded_at": "2025-10-08T12:23:11.581506",
+      "file_size": 301452
+    },
+    "llms-mydiy-ie-uncategorized_7.txt": {
+      "hash": "d4612c042501e2981df10734c826ee97",
+      "document_id": "uSb3HuWUbbOgwbGUisNx",
+      "uploaded_at": "2025-10-08T12:23:13.326314",
+      "file_size": 301076
+    },
+    "llms-mydiy-ie-uncategorized_8.txt": {
+      "hash": "aa5f4863fa73ddfb3227c99ac382d417",
+      "document_id": "G99dtccpwX1Bj5lWa7we",
+      "uploaded_at": "2025-10-08T12:23:15.429141",
+      "file_size": 301399
+    },
+    "llms-mydiy-ie-uncategorized_9.txt": {
+      "hash": "aecf32ae54598398344db7d01b5f9865",
+      "document_id": "xbC5XN1urqU7zG64ZCBH",
+      "uploaded_at": "2025-10-08T12:23:17.032403",
+      "file_size": 302219
+    },
+    "llms-mydiy-ie-wallpapering_tools_and_consumables.txt": {
+      "hash": "72c89f35ad31ec464724636a47127690",
+      "document_id": "gpM3yMhJ1yUYZ0Iau6MS",
+      "uploaded_at": "2025-10-08T12:23:18.122463",
+      "file_size": 13906
+    },
+    "llms-mydiy-ie-wax_varnish_polish_oil_and_dyes.txt": {
+      "hash": "fc29ddce886b4e9f3c88817f6496fe4c",
+      "document_id": "7FCfkypkTm0bmC6PHAij",
+      "uploaded_at": "2025-10-08T12:23:19.465673",
+      "file_size": 41634
+    },
+    "llms-mydiy-ie-window_security_and_furniture.txt": {
+      "hash": "bd93141ae7c0ebdf238ff4cb258190a2",
+      "document_id": "4RN3yS3aDbfOgCPFRGCz",
+      "uploaded_at": "2025-10-08T12:23:20.505851",
+      "file_size": 11917
+    },
+    "llms-mydiy-ie-wire__scratch_brushes.txt": {
+      "hash": "cbd608bca973010d5dfe65a24c1175b2",
+      "document_id": "m78NPXrbsyX8gUcjgSy3",
+      "uploaded_at": "2025-10-08T12:23:21.652003",
+      "file_size": 16352
+    },
+    "llms-mydiy-ie-wire_and_nylon_brushes_and_wheels.txt": {
+      "hash": "49948922b7683f7a2b3a81de9969ee36",
+      "document_id": "uUhyd0C6kgw8YLKdDIvA",
+      "uploaded_at": "2025-10-08T12:23:22.685177",
+      "file_size": 8286
+    },
+    "llms-mydiy-ie-workbenches_workmates_and_trestles.txt": {
+      "hash": "7afe794a7a59ab63674415c78ea797d9",
+      "document_id": "LOZ0m6bzBCZwbm6ghvLl",
+      "uploaded_at": "2025-10-08T12:23:23.714708",
+      "file_size": 9412
+    },
+    "llms-mydiy-ie-workshop_machines.txt": {
+      "hash": "24b05a43f3ea2c44ac8eaeb351868e5b",
+      "document_id": "YpgBHVlUuuu0phduWmar",
+      "uploaded_at": "2025-10-08T12:23:24.814068",
+      "file_size": 16253
+    },
+    "llms-mydiy-ie-workwear.txt": {
+      "hash": "c54ce0b0a8b45792b2b41b330e2d3b11",
+      "document_id": "qHOeaCTgReQsV2L5odW3",
+      "uploaded_at": "2025-10-08T12:23:28.278814",
+      "file_size": 8617
+    },
+    "llms-mydiy-ie-workwear_safety.txt": {
+      "hash": "c2dc9f7c10e1e5bd7e55877bd7378614",
+      "document_id": "yEQfXgQ5gZsu4RdoxGbg",
+      "uploaded_at": "2025-10-08T12:23:29.375690",
+      "file_size": 21729
+    },
+    "llms-mydiy-ie-workwear_tool_storage_and_safety.txt": {
+      "hash": "917d99e658c27a4b00d1b0c11bddf6c4",
+      "document_id": "rrzPOEoPqM9TfQxDgmIw",
+      "uploaded_at": "2025-10-08T12:23:30.586519",
+      "file_size": 49479
+    }
   }
 }
