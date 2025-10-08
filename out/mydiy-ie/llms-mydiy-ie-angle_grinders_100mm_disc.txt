@@ -1,0 +1,16 @@
+<|https://www.mydiy.ie/products/makita-ga4030r-100mm-anti-restart-angle-grinder.html|>
+## Makita GA4030R 100mm Anti-Restart Angle Grinder
+
+{
+  "price": "€74.82 inc VAT",
+  "description": "The Makita GA4030R 100mm Angle Grinder has machined bevel gears with an anti-restart function and soft start feature. Its small gear housing makes it easy to handle and move. Fitted with a powerful motor that offers excellent heat-resistance. The side handle has been fitted at a 20° angle to improve user grip. Fitted with the best ergonomically possible barrel grip. Regardless of whether the user grips motor housing or rear cover, the extra-ergonomic barrel grip fits any user’s palm and fingers perfectly, and provides easy and comfortable handling while minimising hand fatigue and pain. There is also a lock-on switch to reduce user fatigue. Supplied with: 1 x Grinding Wheel, 1 x Wrench & 1 x Side Handle",
+  "availability": "In Stock",
+  "product_name": "Makita GA4030R 100mm Anti-Restart Angle Grinder",
+  "specifications": [
+    "Input Power: 720W",
+    "No Load Speed: 11,000/min.",
+    "Wheel Size: 125 x 22.23mm Bore",
+    "Weight: 1.8kg"
+  ]
+}
+
