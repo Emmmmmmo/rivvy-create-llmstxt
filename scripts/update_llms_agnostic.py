@@ -1084,28 +1084,14 @@ class AgnosticLLMsUpdater:
         """Update URL data in index and return shard key with breadcrumb fallback."""
         normalized_url = self._normalize_url(url)
         
-        # Try URL path extraction first
-        shard_key = self._get_shard_key(url)
+        # Try URL path extraction first, with breadcrumb fallback if available
+        shard_key = self._get_shard_key_with_breadcrumbs(url, scraped_data)
         
-        # If breadcrumbs enabled and URL extraction gave generic result, try breadcrumbs
-        use_breadcrumbs = self.site_config.get('shard_extraction', {}).get('use_breadcrumbs', False)
-        breadcrumb_fallback = self.site_config.get('shard_extraction', {}).get('breadcrumb_fallback', True)
-        
-        if use_breadcrumbs and breadcrumb_fallback and shard_key == "other_products":
-            # Try to extract from breadcrumbs
-            if "html" in scraped_data and scraped_data["html"]:
-                breadcrumbs = self._extract_breadcrumbs_from_html(scraped_data["html"])
-                if breadcrumbs:
-                    breadcrumb_shard = self._determine_shard_from_breadcrumbs(breadcrumbs)
-                    if breadcrumb_shard != "other_products":
-                        logger.info(f"Using breadcrumb-derived shard '{breadcrumb_shard}' for {url}")
-                        shard_key = breadcrumb_shard
-        
-        # Update URL index
+        # Update URL index (use shard_key field, not old shard field)
         self.url_index[normalized_url] = {
             "title": scraped_data.get("title", ""),
             "markdown": scraped_data.get("content", ""),
-            "shard": shard_key,
+            "shard_key": shard_key,  # ← Use shard_key not shard!
             "updated_at": scraped_data.get("scraped_at", datetime.now().isoformat())
         }
         
@@ -1119,6 +1105,72 @@ class AgnosticLLMsUpdater:
         self.existing_urls.add(normalized_url)
 
         return shard_key
+    
+    def _get_shard_key_with_breadcrumbs(self, url: str, scraped_data: Dict[str, Any]) -> str:
+        """
+        Get shard key with proper waterfall:
+        1. URL path extraction (works for JG Engineering)
+        2. Breadcrumb extraction (NEW - for MyDIY)
+        3. Keyword matching (existing fallback)
+        4. other_products (ultimate fallback)
+        """
+        # Check if breadcrumbs are enabled for this site
+        use_breadcrumbs = self.site_config.get('shard_extraction', {}).get('use_breadcrumbs', False)
+        breadcrumb_fallback = self.site_config.get('shard_extraction', {}).get('breadcrumb_fallback', True)
+        
+        # Step 1: Try URL path extraction (NO keyword matching yet!)
+        shard_key = self._get_shard_key_from_url_only(url)
+        
+        # Step 2: If URL extraction failed and breadcrumbs enabled, try breadcrumbs
+        if use_breadcrumbs and breadcrumb_fallback and shard_key == "other_products":
+            if "html" in scraped_data and scraped_data["html"]:
+                breadcrumbs = self._extract_breadcrumbs_from_html(scraped_data["html"])
+                if breadcrumbs:
+                    breadcrumb_shard = self._determine_shard_from_breadcrumbs(breadcrumbs)
+                    if breadcrumb_shard != "other_products":
+                        logger.info(f"Using breadcrumb-derived shard '{breadcrumb_shard}' for {url}")
+                        return breadcrumb_shard
+        
+        # Step 3: If breadcrumbs also failed, try keyword matching
+        if shard_key == "other_products":
+            # Extract product name from URL for keyword matching
+            from urllib.parse import urlparse
+            parsed = urlparse(url)
+            path_segments = [seg for seg in parsed.path.split('/') if seg]
+            if path_segments:
+                product_name = path_segments[-1]
+                keyword_shard = self.config_manager._categorize_product(product_name, self.site_config)
+                if keyword_shard != "other_products":
+                    logger.debug(f"Using keyword-derived shard '{keyword_shard}' for {url}")
+                    return keyword_shard
+        
+        # Step 4: Return whatever we have (might still be other_products)
+        return shard_key
+    
+    def _get_shard_key_from_url_only(self, url: str) -> str:
+        """Extract shard key from URL path only, without keyword matching."""
+        from urllib.parse import urlparse
+        parsed_url = urlparse(url)
+        path_segments = [seg for seg in parsed_url.path.split('/') if seg]
+        
+        shard_config = self.site_config.get("shard_extraction", {})
+        segment_index = shard_config.get("segment_index", 1)
+        
+        # Check for collection-style URLs (JG Engineering)
+        if len(path_segments) >= 2:
+            if path_segments[0] == "collections" and len(path_segments) > segment_index:
+                # /collections/category/products/product-name
+                return self.config_manager._sanitize_shard(path_segments[segment_index])
+            elif path_segments[0] == "products":
+                # Direct product URL like /products/product-name
+                # Return other_products (let breadcrumbs handle it)
+                return "other_products"
+        
+        # Try path segment extraction
+        if len(path_segments) > segment_index:
+            return self.config_manager._sanitize_shard(path_segments[segment_index])
+        
+        return "other_products"
     
     def _remove_url_data(self, url: str):
         """Remove URL data from index and manifest."""
