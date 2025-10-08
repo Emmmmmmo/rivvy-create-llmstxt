@@ -1,111 +1,18 @@
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m11-x-1-0-baercoil-bottoming-tap-helicoil|>
-## M11 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m10-x-1-0-baercoil-bottoming-tap-helicoil|>
+## M10 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
 
 {
-  "price": "€79.00",
-  "description": "M11 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 12.2 mm D2 = 9 mm L1 = 89 mm L2 = 29 mm Square = 7.1 mm Drill Size: 11.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "price": "€11.78",
+  "description": "M10 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 11.3 mm D2 = 8.1 mm L1 = 80 mm L2 = 36 mm Square = 6.0 mm Drill Size: 10.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
   "availability": "Unavailable",
-  "product_name": "M11 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
+  "product_name": "M10 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
   "specifications": [
-    "D1 = 12.2 mm",
-    "D2 = 9 mm",
-    "L1 = 89 mm",
-    "L2 = 29 mm",
-    "Square = 7.1 mm",
-    "Drill Size: 11.30 mm"
-  ]
-}
-
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m8-x-0-75-baercoil-bottoming-tap-helicoil|>
-## M8 x 0.75 BaerCoil Bottoming Tap (Helicoil Type)
-
-{
-  "price": "€41.30",
-  "description": "M8 x 0.75 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 8.9 mm D2 = 10 mm L1 = 80 mm L2 = 24 mm Square = 8 mm Drill Size: 8.20 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
-  "availability": "Unavailable",
-  "product_name": "M8 x 0.75 BaerCoil Bottoming Tap (Helicoil Type)",
-  "specifications": [
-    "D1 = 8.9 mm",
-    "D2 = 10 mm",
+    "D1 = 11.3 mm",
+    "D2 = 8.1 mm",
     "L1 = 80 mm",
-    "L2 = 24 mm",
-    "Square = 8 mm",
-    "Drill Size: 8.20 mm"
-  ]
-}
-
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m2-5-x-0-45-baercoil-bottoming-tap-helicoil|>
-## M2.5 x 0.45 BaerCoil Bottoming Tap
-
-{
-  "price": "€6.30",
-  "description": "M2.5 x 0.45 BaerCoil Bottoming Tap is backordered and will ship as soon as it is back in stock.",
-  "availability": "Unavailable",
-  "product_name": "M2.5 x 0.45 BaerCoil Bottoming Tap",
-  "specifications": [
-    "BaerCoil Tap HSSG (Bottoming Tap)",
-    "Form D, Tolerance ISO 1 (4H)",
-    "for Wire-Thread-Inserts ISO 2 (6H)",
-    "D1 = 3.1 mm",
-    "D2 = 3.15 mm",
-    "L1 = 48 mm",
-    "L2 = 11 mm",
-    "Square = 2.5 mm",
-    "Drill Size: 2.60 mm (suitable drills in shop)"
-  ]
-}
-
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m7-x-1-0-baercoil-bottoming-tap-helicoil|>
-## M7 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
-
-{
-  "price": "€6.85",
-  "description": "M7 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 8.3 mm D2 = 9.6 mm L1 = 77 mm L2 = 33 mm Square = 7.2 mm",
-  "availability": "Unavailable",
-  "product_name": "M7 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
-  "specifications": [
-    "D1 = 8.3 mm",
-    "D2 = 9.6 mm",
-    "L1 = 77 mm",
-    "L2 = 33 mm",
-    "Square = 7.2 mm",
-    "Drill Size: 7.30 mm (suitable drills in shop)"
-  ]
-}
-
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m9-x-1-25-baercoil-bottoming-tap-helicoil|>
-## M9 x 1.25 BaerCoil Bottoming Tap (Helicoil Type)
-
-{
-  "price": "€12.10",
-  "description": "M9 x 1.25 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 10.6 mm D2 = 8 mm L1 = 85 mm L2 = 25 mm Square = 6.3 mm Drill Size: 9.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
-  "availability": "Unavailable",
-  "product_name": "M9 x 1.25 BaerCoil Bottoming Tap (Helicoil Type)",
-  "specifications": [
-    "D1 = 10.6 mm",
-    "D2 = 8 mm",
-    "L1 = 85 mm",
-    "L2 = 25 mm",
-    "Square = 6.3 mm",
-    "Drill Size: 9.30 mm"
-  ]
-}
-
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m3-5-x-0-6-baercoil-bottoming-tap-helicoil|>
-## M3.5 x 0.6 BaerCoil Bottoming Tap (Helicoil Type)
-
-{
-  "price": "€15.50",
-  "description": "M3.5 x 0.6 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 4.3 mm D2 = 4.5 mm L1 = 53 mm L2 = 13 mm Square = 3.55 mm Drill Size: 3.70 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
-  "availability": "Unavailable",
-  "product_name": "M3.5 x 0.6 BaerCoil Bottoming Tap (Helicoil Type)",
-  "specifications": [
-    "D1 = 4.3 mm",
-    "D2 = 4.5 mm",
-    "L1 = 53 mm",
-    "L2 = 13 mm",
-    "Square = 3.55 mm",
-    "Drill Size: 3.70 mm"
+    "L2 = 36 mm",
+    "Square = 6.0 mm",
+    "Drill Size: 10.30 mm"
   ]
 }
 
@@ -130,6 +37,45 @@
   ]
 }
 
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m10-x-1-5-baercoil-bottoming-tap-helicoil|>
+## M10 x 1.5 BaerCoil Bottoming Tap (Helicoil Type)STI (oversized for wire thread inserts)
+
+{
+  "price": "€18.09",
+  "description": "M10 x 1.5 BaerCoil Bottoming Tap (Helicoil Type)STI (oversized for wire thread inserts) is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M10 x 1.5 BaerCoil Bottoming Tap (Helicoil Type)STI (oversized for wire thread inserts)",
+  "specifications": [
+    "Diameter: 10 mm",
+    "Nominal diameter in inches: 0.445",
+    "Nominal diameter in mm: 11.3",
+    "Pitch: 1.0 mm",
+    "Core hole diameter: 10.3 mm",
+    "Material: HSSG bright",
+    "Tensile strength at room temperature: up to 800 N/mm² | 22.2 HRC",
+    "Thread standard: MF EG/STI: Metric ISO fine thread for wire thread inserts according to DIN 8140-2",
+    "Applications: All normal uses for thread repair and for thread reinforcement of through-hole and blind-hole threads."
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m11-x-1-0-baercoil-bottoming-tap-helicoil|>
+## M11 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
+
+{
+  "price": "€79.00",
+  "description": "M11 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 12.2 mm D2 = 9 mm L1 = 89 mm L2 = 29 mm Square = 7.1 mm Drill Size: 11.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M11 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
+  "specifications": [
+    "D1 = 12.2 mm",
+    "D2 = 9 mm",
+    "L1 = 89 mm",
+    "L2 = 29 mm",
+    "Square = 7.1 mm",
+    "Drill Size: 11.30 mm"
+  ]
+}
+
 <|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m2-2-x-0-45-baercoil-bottoming-tap-helicoil|>
 ## M2.2 X 0.45 BaerCoil Bottoming Tap
 
@@ -145,6 +91,98 @@
     "L2 = 11 mm",
     "Square = 2.5 mm",
     "Drill Size: 2.30 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m2-5-x-0-45-baercoil-bottoming-tap-helicoil|>
+## M2.5 x 0.45 BaerCoil Bottoming Tap
+
+{
+  "price": "€6.30",
+  "description": "M2.5 x 0.45 BaerCoil Bottoming Tap is backordered and will ship as soon as it is back in stock.",
+  "availability": "Unavailable",
+  "product_name": "M2.5 x 0.45 BaerCoil Bottoming Tap",
+  "specifications": [
+    "BaerCoil Tap HSSG (Bottoming Tap)",
+    "Form D, Tolerance ISO 1 (4H)",
+    "for Wire-Thread-Inserts ISO 2 (6H)",
+    "D1 = 3.1 mm",
+    "D2 = 3.15 mm",
+    "L1 = 48 mm",
+    "L2 = 11 mm",
+    "Square = 2.5 mm",
+    "Drill Size: 2.60 mm (suitable drills in shop)"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m2-x-0-4-baercoil-bottoming-tap-helicoil|>
+## M2 x 0.4 BaerCoil Bottoming Tap
+
+{
+  "price": "€7.75",
+  "description": "M2 x 0.4 BaerCoil Bottoming Tap is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 2.52 mm D2 = 2.8 mm L1 = 44.5 mm L2 = 9.5 mm Square = 2.24 mm Drill Size: 2.10 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M2 x 0.4 BaerCoil Bottoming Tap",
+  "specifications": [
+    "D1 = 2.52 mm",
+    "D2 = 2.8 mm",
+    "L1 = 44.5 mm",
+    "L2 = 9.5 mm",
+    "Square = 2.24 mm",
+    "Drill Size: 2.10 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m3-5-x-0-6-baercoil-bottoming-tap-helicoil|>
+## M3.5 x 0.6 BaerCoil Bottoming Tap (Helicoil Type)
+
+{
+  "price": "€15.50",
+  "description": "M3.5 x 0.6 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 4.3 mm D2 = 4.5 mm L1 = 53 mm L2 = 13 mm Square = 3.55 mm Drill Size: 3.70 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M3.5 x 0.6 BaerCoil Bottoming Tap (Helicoil Type)",
+  "specifications": [
+    "D1 = 4.3 mm",
+    "D2 = 4.5 mm",
+    "L1 = 53 mm",
+    "L2 = 13 mm",
+    "Square = 3.55 mm",
+    "Drill Size: 3.70 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m3-x-0-5-baercoil-bottoming-tap-helicoil|>
+## M3 x 0.5 BaerCoil Bottoming Tap (Helicoil Type)
+
+{
+  "price": "€12.00",
+  "description": "M3 x 0.5 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 3.65 mm D2 = 3.5 mm L1 = 53 mm L2 = 16.5 mm Square = 2.7 mm Drill Size: 3.20 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M3 x 0.5 BaerCoil Bottoming Tap (Helicoil Type)",
+  "specifications": [
+    "D1 = 3.65 mm",
+    "D2 = 3.5 mm",
+    "L1 = 53 mm",
+    "L2 = 16.5 mm",
+    "Square = 2.7 mm",
+    "Drill Size: 3.20 mm"
+  ]
+}
+
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m4-x-0-7-baercoil-bottoming-tap-helicoil|>
+## M4 x 0.7 BaerCoil Bottoming Tap (Helicoil Type)
+
+{
+  "price": "€6.77",
+  "description": "M4 x 0.7 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 4.9 mm D2 = 4.9 mm L1 = 63 mm L2 = 22 mm Square = 4.0 mm. Thread Repair of damaged or worn-out threads, Recovery of rejected items, Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "availability": "Unavailable",
+  "product_name": "M4 x 0.7 BaerCoil Bottoming Tap (Helicoil Type)",
+  "specifications": [
+    "D1 = 4.9 mm",
+    "D2 = 4.9 mm",
+    "L1 = 63 mm",
+    "L2 = 22 mm",
+    "Square = 4.0 mm"
   ]
 }
 
@@ -206,96 +244,57 @@
   ]
 }
 
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m10-x-1-5-baercoil-bottoming-tap-helicoil|>
-## M10 x 1.5 BaerCoil Bottoming Tap (Helicoil Type)STI (oversized for wire thread inserts)
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m7-x-1-0-baercoil-bottoming-tap-helicoil|>
+## M7 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
 
 {
-  "price": "€18.09",
-  "description": "M10 x 1.5 BaerCoil Bottoming Tap (Helicoil Type)STI (oversized for wire thread inserts) is backordered and will ship as soon as it is back in stock.",
+  "price": "€6.85",
+  "description": "M7 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 8.3 mm D2 = 9.6 mm L1 = 77 mm L2 = 33 mm Square = 7.2 mm",
   "availability": "Unavailable",
-  "product_name": "M10 x 1.5 BaerCoil Bottoming Tap (Helicoil Type)STI (oversized for wire thread inserts)",
+  "product_name": "M7 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
   "specifications": [
-    "Diameter: 10 mm",
-    "Nominal diameter in inches: 0.445",
-    "Nominal diameter in mm: 11.3",
-    "Pitch: 1.0 mm",
-    "Core hole diameter: 10.3 mm",
-    "Material: HSSG bright",
-    "Tensile strength at room temperature: up to 800 N/mm² | 22.2 HRC",
-    "Thread standard: MF EG/STI: Metric ISO fine thread for wire thread inserts according to DIN 8140-2",
-    "Applications: All normal uses for thread repair and for thread reinforcement of through-hole and blind-hole threads."
+    "D1 = 8.3 mm",
+    "D2 = 9.6 mm",
+    "L1 = 77 mm",
+    "L2 = 33 mm",
+    "Square = 7.2 mm",
+    "Drill Size: 7.30 mm (suitable drills in shop)"
   ]
 }
 
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m2-x-0-4-baercoil-bottoming-tap-helicoil|>
-## M2 x 0.4 BaerCoil Bottoming Tap
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m8-x-0-75-baercoil-bottoming-tap-helicoil|>
+## M8 x 0.75 BaerCoil Bottoming Tap (Helicoil Type)
 
 {
-  "price": "€7.75",
-  "description": "M2 x 0.4 BaerCoil Bottoming Tap is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 2.52 mm D2 = 2.8 mm L1 = 44.5 mm L2 = 9.5 mm Square = 2.24 mm Drill Size: 2.10 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "price": "€41.30",
+  "description": "M8 x 0.75 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 8.9 mm D2 = 10 mm L1 = 80 mm L2 = 24 mm Square = 8 mm Drill Size: 8.20 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
   "availability": "Unavailable",
-  "product_name": "M2 x 0.4 BaerCoil Bottoming Tap",
+  "product_name": "M8 x 0.75 BaerCoil Bottoming Tap (Helicoil Type)",
   "specifications": [
-    "D1 = 2.52 mm",
-    "D2 = 2.8 mm",
-    "L1 = 44.5 mm",
-    "L2 = 9.5 mm",
-    "Square = 2.24 mm",
-    "Drill Size: 2.10 mm"
-  ]
-}
-
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m10-x-1-0-baercoil-bottoming-tap-helicoil|>
-## M10 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
-
-{
-  "price": "€11.78",
-  "description": "M10 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 11.3 mm D2 = 8.1 mm L1 = 80 mm L2 = 36 mm Square = 6.0 mm Drill Size: 10.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
-  "availability": "Unavailable",
-  "product_name": "M10 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
-  "specifications": [
-    "D1 = 11.3 mm",
-    "D2 = 8.1 mm",
+    "D1 = 8.9 mm",
+    "D2 = 10 mm",
     "L1 = 80 mm",
-    "L2 = 36 mm",
-    "Square = 6.0 mm",
-    "Drill Size: 10.30 mm"
+    "L2 = 24 mm",
+    "Square = 8 mm",
+    "Drill Size: 8.20 mm"
   ]
 }
 
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m9-x-1-0-baercoil-bottoming-tap-helicoil|>
-## M9 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m8-x-1-0-baercoil-bottoming-tap-helicoil|>
+## M8 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
 
 {
-  "price": "€65.10",
-  "description": "M9 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 10.3 mm D2 = 8 mm L1 = 85 mm L2 = 25 mm Square = 6.3 mm Drill Size: 9.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "price": "€6.85",
+  "description": "M8 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 9.3 mm D2 = 9.6 mm L1 = 77 mm L2 = 33 mm Square = 7.2 mm Drill Size: 8.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
   "availability": "Unavailable",
-  "product_name": "M9 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
+  "product_name": "M8 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
   "specifications": [
-    "D1 = 10.3 mm",
-    "D2 = 8 mm",
-    "L1 = 85 mm",
-    "L2 = 25 mm",
-    "Square = 6.3 mm",
-    "Drill Size: 9.30 mm"
-  ]
-}
-
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m3-x-0-5-baercoil-bottoming-tap-helicoil|>
-## M3 x 0.5 BaerCoil Bottoming Tap (Helicoil Type)
-
-{
-  "price": "€12.00",
-  "description": "M3 x 0.5 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 3.65 mm D2 = 3.5 mm L1 = 53 mm L2 = 16.5 mm Square = 2.7 mm Drill Size: 3.20 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
-  "availability": "Unavailable",
-  "product_name": "M3 x 0.5 BaerCoil Bottoming Tap (Helicoil Type)",
-  "specifications": [
-    "D1 = 3.65 mm",
-    "D2 = 3.5 mm",
-    "L1 = 53 mm",
-    "L2 = 16.5 mm",
-    "Square = 2.7 mm",
-    "Drill Size: 3.20 mm"
+    "SKU:B3012",
+    "Tax included",
+    "Shipping Cost: €8.99",
+    "Free Shipping: On orders over €50",
+    "Order before 2 PM for same-day shipping",
+    "We partner with DPD for all deliveries, ensuring full traceability and a one-hour delivery window."
   ]
 }
 
@@ -325,38 +324,39 @@
   ]
 }
 
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m4-x-0-7-baercoil-bottoming-tap-helicoil|>
-## M4 x 0.7 BaerCoil Bottoming Tap (Helicoil Type)
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m9-x-1-0-baercoil-bottoming-tap-helicoil|>
+## M9 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
 
 {
-  "price": "€6.77",
-  "description": "M4 x 0.7 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 4.9 mm D2 = 4.9 mm L1 = 63 mm L2 = 22 mm Square = 4.0 mm. Thread Repair of damaged or worn-out threads, Recovery of rejected items, Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "price": "€65.10",
+  "description": "M9 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 10.3 mm D2 = 8 mm L1 = 85 mm L2 = 25 mm Square = 6.3 mm Drill Size: 9.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
   "availability": "Unavailable",
-  "product_name": "M4 x 0.7 BaerCoil Bottoming Tap (Helicoil Type)",
+  "product_name": "M9 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
   "specifications": [
-    "D1 = 4.9 mm",
-    "D2 = 4.9 mm",
-    "L1 = 63 mm",
-    "L2 = 22 mm",
-    "Square = 4.0 mm"
+    "D1 = 10.3 mm",
+    "D2 = 8 mm",
+    "L1 = 85 mm",
+    "L2 = 25 mm",
+    "Square = 6.3 mm",
+    "Drill Size: 9.30 mm"
   ]
 }
 
-<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m8-x-1-0-baercoil-bottoming-tap-helicoil|>
-## M8 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)
+<|https://www.jgengineering.ie/collections/baercoil-bottoming-taps-metric-helicoil/products/m9-x-1-25-baercoil-bottoming-tap-helicoil|>
+## M9 x 1.25 BaerCoil Bottoming Tap (Helicoil Type)
 
 {
-  "price": "€6.85",
-  "description": "M8 x 1.0 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 9.3 mm D2 = 9.6 mm L1 = 77 mm L2 = 33 mm Square = 7.2 mm Drill Size: 8.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
+  "price": "€12.10",
+  "description": "M9 x 1.25 BaerCoil Bottoming Tap (Helicoil Type) is backordered and will ship as soon as it is back in stock. BaerCoil Tap HSSG (Bottoming Tap) Form D, Tolerance ISO 1 (4H) for Wire-Thread-Inserts ISO 2 (6H) D1 = 10.6 mm D2 = 8 mm L1 = 85 mm L2 = 25 mm Square = 6.3 mm Drill Size: 9.30 mm (suitable drills in shop) BaerCoil: - Thread Repair of damaged or worn-out threads - Recovery of rejected items - Thread Armour Plating. For material with low shear strength eg. aluminium alloys and magnesium alloys. Due to narrow and exact tolerances the new thread normally is stronger than the original one. Use in machine-building, electrical, automotive, medical and aerospace industries.",
   "availability": "Unavailable",
-  "product_name": "M8 x 1.0 BaerCoil Bottoming Tap (Helicoil Type)",
+  "product_name": "M9 x 1.25 BaerCoil Bottoming Tap (Helicoil Type)",
   "specifications": [
-    "SKU:B3012",
-    "Tax included",
-    "Shipping Cost: €8.99",
-    "Free Shipping: On orders over €50",
-    "Order before 2 PM for same-day shipping",
-    "We partner with DPD for all deliveries, ensuring full traceability and a one-hour delivery window."
+    "D1 = 10.6 mm",
+    "D2 = 8 mm",
+    "L1 = 85 mm",
+    "L2 = 25 mm",
+    "Square = 6.3 mm",
+    "Drill Size: 9.30 mm"
   ]
 }
 
