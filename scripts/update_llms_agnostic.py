@@ -1180,7 +1180,7 @@ class AgnosticLLMsUpdater:
         logger.info(f"   Normalized to: {normalized_url}")
 
         if normalized_url in self.url_index:
-            shard_key = self.url_index[normalized_url]["shard"]
+            shard_key = self.url_index[normalized_url]["shard_key"]
             logger.info(f"   Found in url_index under shard: {shard_key}")
             del self.url_index[normalized_url]
             logger.info(f"   ✅ Removed from url_index")
@@ -2292,7 +2292,7 @@ class AgnosticLLMsUpdater:
                     # Direct product URL removal or no diff extraction
                     normalized_url = self._normalize_url(url)
                     if normalized_url in self.url_index:
-                        shard_key = self.url_index[normalized_url]["shard"]
+                        shard_key = self.url_index[normalized_url]["shard_key"]
                         touched_shards.add(shard_key)
                     self._remove_url_data(url)
                     processed_count += 1
